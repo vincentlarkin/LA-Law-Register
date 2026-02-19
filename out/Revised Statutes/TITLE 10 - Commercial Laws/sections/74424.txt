@@ -1,0 +1,41 @@
+RS 10:9-323
+Future advances
+https://www.legis.la.gov/legis/Law.aspx?d=74424
+
+§9-323.  Future advances
+(a)  When priority based on time of advance.  Except as otherwise provided in
+Subsection (c), for purposes of determining the priority of a perfected security interest under
+R.S. 10:9-322(a)(1), perfection of the security interest dates from the time an advance is
+made to the extent that the security interest secures an advance that:
+(1)  is made while the security interest is perfected only:
+(A)  under R.S. 10:9-309 when it attaches; or
+(B)  temporarily under R.S. 10:9-312(e), (f), or (g); and
+(2)  is not made pursuant to a commitment entered into before or while the security
+interest is perfected by a method other than under R.S. 10:9-309 or 9-312(e), (f), or (g).
+(b)  Lien creditor.  Except as otherwise provided in Subsection (c), a security interest
+is subordinate to the rights of a person that becomes a lien creditor to the extent that the
+security interest secures an advance made more than forty-five days after the person becomes
+a lien creditor unless the advance is made:
+(1)  without knowledge of the lien creditor's claim; or
+(2)  pursuant to a commitment entered into without knowledge of the lien creditor's
+claim.
+(c)  Buyer of receivables.  Subsections (a) and (b) do not apply to a security interest
+held by a secured party that is a buyer of accounts, chattel paper, payment intangibles, or
+promissory notes or a consignor.
+(d)  Buyer of goods.  Except as otherwise provided in Subsection (e) of this Section,
+a buyer of goods takes free of a security interest to the extent that it secures advances made
+after the earlier of:
+(1)  the time the secured party acquires knowledge of the buyer's purchase; or
+(2)  forty-five days after the purchase.
+(e)  Advances made pursuant to commitment: priority of buyer of goods.  Subsection
+(d) does not apply if the advance is made pursuant to a commitment entered into without
+knowledge of the buyer's purchase and before the expiration of the forty-five-day period.
+(f)  Lessee of goods.  Except as otherwise provided in Subsection (g) of this Section,
+a lessee of goods takes the leasehold interest free of a security interest to the extent that it
+secures advances made after the earlier of:
+(1)  the time the secured party acquires knowledge of the lease; or
+(2)  forty-five days after the lease becomes enforceable.
+(g)  Advances made pursuant to commitment: priority of lessee of goods.  Subsection
+(f) does not apply if the advance is made pursuant to a commitment entered into without
+knowledge of the lease and before the expiration of the forty-five-day period.
+Acts 2001, No. 128, §1, eff. July 1, 2001; Acts 2024, No. 773, §1.

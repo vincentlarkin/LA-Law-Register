@@ -1,0 +1,16 @@
+RS 10:9-626
+Action in which deficiency or surplus is in issue
+https://www.legis.la.gov/legis/Law.aspx?d=74511
+
+§9-626.  Action in which deficiency or surplus is in issue
+(a)  Applicable rules if amount of deficiency or surplus in issue.  In an action arising from a transaction, including  a consumer transaction, in which the amount of a deficiency or surplus is in issue, the following rules apply:
+(1)  A secured party need not prove compliance with the provisions of this Part relating to collection, enforcement, disposition, or acceptance unless the debtor or a secondary obligor pleads the secured party's noncompliance in its petition, answer, or in connection with a motion for summary judgment.
+(2)  If the secured party's noncompliance is so pleaded, the secured party has the burden of establishing that the collection, enforcement, disposition, or acceptance was conducted in accordance with this Part.
+(3)  Except as otherwise provided in R.S. 10:9-628, if a secured party fails to prove that the collection, enforcement, disposition, or acceptance was conducted in accordance with the provisions of this Part relating to collection, enforcement, disposition, or acceptance, the liability of a debtor or a secondary obligor for a deficiency is limited to an amount by which the sum of the secured obligation, expenses, and attorney's fees exceeds the greater of:
+(A)  the proceeds of the collection, enforcement, disposition, or acceptance; or
+(B)  the amount of proceeds that would have been realized had the noncomplying secured party proceeded in accordance with the provisions of this Part relating to collection, enforcement, disposition, or acceptance.
+(4)  For purposes of Paragraph (3)(B), in a consumer transaction the amount of proceeds that would have been realized is equal to the sum of the secured obligation, expenses, and attorney's fees unless the secured party proves that the amount is less than that sum.
+(5)  [Reserved.]
+(b)  [Reserved.]
+(c)  Deficiency Judgment Act inapplicable.  The provisions of R.S. 13:4106 and 13:4107 do not apply to enforcement of a security interest or agricultural lien governed by this Chapter.
+Acts 2001, No. 128, §1, eff. July 1, 2001.

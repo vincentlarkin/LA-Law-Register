@@ -1,0 +1,46 @@
+RS 10:9-628
+Nonliability and limitation on liability of secured party; liability of secondary obligor
+https://www.legis.la.gov/legis/Law.aspx?d=74513
+
+§9-628.  Nonliability and limitation on liability of secured party; liability of secondary
+obligor
+(a)  Limitation of liability of secured party for noncompliance with Chapter.  Subject
+to Subsection (f) of this Section, unless a secured party knows that a person is a debtor or
+obligor, knows the identity of the person, and knows how to communicate with the person:
+(1)  the secured party is not liable to the person, or to a secured party or lienholder
+that has filed a financing statement against the person, for failure to comply with this
+Chapter; and
+(2)  the secured party's failure to comply with this Chapter does not affect the liability
+of the person for a deficiency.
+(b)  Limitation of liability based on status as secured party.  Subject to Subsection (f)
+of this Section, a secured party is not liable because of its status as secured party:
+(1)  to a person that is a debtor or obligor, unless the secured party knows:
+(A)  that the person is a debtor or obligor;
+(B)  the identity of the person; and
+(C)  how to communicate with the person; or
+(2)  to a secured party or lienholder that has filed a financing statement against a
+person, unless the secured party knows:
+(A)  that the person is a debtor; and
+(B)  the identity of the person.
+(c)  Limitation of liability if reasonable belief that transaction not a consumer-goods
+transaction or consumer transaction.  A secured party is not liable to any person, and a
+person's liability for a deficiency is not affected, because of any act or omission arising out
+of the secured party's reasonable belief that a transaction is not a consumer-goods transaction
+or a consumer transaction or that goods are not consumer goods, if the secured party's belief
+is based on its reasonable reliance on:
+(1)  a debtor's representation concerning the purpose for which collateral was to be
+used, acquired, or held; or
+(2)  an obligor's representation concerning the purpose for which a secured obligation
+was incurred.
+(d)  [Reserved.]
+(e)  [Reserved.]
+(f)  Exception: Limitation of liability under Subsections (a) and (b) does not apply.
+Subsections (a) and (b) of this Section do not apply to limit the liability of a secured party
+to a person if, at the time the secured party obtains control of collateral that is a controllable
+account, controllable electronic record, or controllable payment intangible or at the time the
+security interest attaches to the collateral, whichever is later:
+(1)  the person is a debtor or obligor; and
+(2)  the secured party knows that the information in Subparagraph (b)(1)(A), (B), or
+(C) of this Section relating to the person is not provided by the collateral, a record attached
+to or logically associated with the collateral, or the system in which the collateral is recorded.
+Acts 2001, No. 128, §1, eff. July 1, 2001; Acts 2024, No. 773, §1.

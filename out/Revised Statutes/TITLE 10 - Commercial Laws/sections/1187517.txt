@@ -1,0 +1,13 @@
+RS 10:9-527
+Notification by filing office of cyber incidents
+https://www.legis.la.gov/legis/Law.aspx?d=1187517
+
+§9-527.  Notification by filing office of cyber incidents
+A.  The filing office, as provided by R.S. 10:9-501(a)(4), shall notify the secretary of
+state, or his designee, by telephone, electronic mail, or facsimile within twenty-four hours
+following the discovery of a cyber incident that impacts the filing office, including but not
+limited to a computer system maintained by the secretary of state.
+B.  As used in Subsection A of this Section, "cyber incident" means an event that may
+jeopardize the confidentiality, integrity, or availability of digital information or information
+systems.
+Acts 2020, No. 217, §1.

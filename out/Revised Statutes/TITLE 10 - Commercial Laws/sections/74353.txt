@@ -1,0 +1,11 @@
+RS 10:8-208
+Effect of signature of authenticating trustee, registrar, or transfer agent
+https://www.legis.la.gov/legis/Law.aspx?d=74353
+
+§8-208.  Effect of signature of authenticating trustee, registrar, or transfer agent
+(a)  A person signing a security certificate as authenticating trustee, registrar, transfer agent, or the like, warrants to a purchaser for value of the certificated security, if the purchaser is without notice of a particular defect, that:
+(1)  the certificate is genuine;
+(2)  the person's own participation in the issue of the security is within the person's capacity and within the scope of the authority received by the person from the issuer; and
+(3)  the person has reasonable grounds to believe that the certificated security is in the form and within the amount the issuer is authorized to issue.
+(b)  Unless otherwise agreed, a person signing under subsection (a) does not assume responsibility for the validity of the security in other respects.
+Added by Acts 1978, No. 165, §1, eff. Jan. 1, 1979.  Acts 1989, No. 135, §6, eff. Jan. 1, 1990; Acts 1995, No. 884, §1, eff. Jan. 1, 1996.

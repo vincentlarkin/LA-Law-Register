@@ -1,0 +1,1208 @@
+{
+  "category_key": "revised-statutes",
+  "category_name": "Revised Statutes",
+  "bundle_name": "TITLE 8 - Cemeteries",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "RS 8:1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106325"
+    },
+    {
+      "order": 2,
+      "citation": "RS 8:61",
+      "title": "Cemetery board created; appointments; terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106427"
+    },
+    {
+      "order": 3,
+      "citation": "RS 8:62",
+      "title": "Qualifications of members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106428"
+    },
+    {
+      "order": 4,
+      "citation": "RS 8:63",
+      "title": "Compensation; expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106429"
+    },
+    {
+      "order": 5,
+      "citation": "RS 8:64",
+      "title": "Officers; administrative director; employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106430"
+    },
+    {
+      "order": 6,
+      "citation": "RS 8:65",
+      "title": "Meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106431"
+    },
+    {
+      "order": 7,
+      "citation": "RS 8:66",
+      "title": "Administration and enforcement of law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106441"
+    },
+    {
+      "order": 8,
+      "citation": "RS 8:66.1",
+      "title": "Investigations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726474"
+    },
+    {
+      "order": 9,
+      "citation": "RS 8:66.2",
+      "title": "Cease and desist orders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726475"
+    },
+    {
+      "order": 10,
+      "citation": "RS 8:67",
+      "title": "Rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106445"
+    },
+    {
+      "order": 11,
+      "citation": "RS 8:68",
+      "title": "Hearings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106455"
+    },
+    {
+      "order": 12,
+      "citation": "RS 8:69",
+      "title": "Actions to enforce law; attorney general; special counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106458"
+    },
+    {
+      "order": 13,
+      "citation": "RS 8:69.1",
+      "title": "Service of pleadings upon board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106459"
+    },
+    {
+      "order": 14,
+      "citation": "RS 8:69.2",
+      "title": "Receiverships; procedure; powers, duties, and qualifications; disposition of cemetery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=558430"
+    },
+    {
+      "order": 15,
+      "citation": "RS 8:70",
+      "title": "Application for certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106460"
+    },
+    {
+      "order": 16,
+      "citation": "RS 8:71",
+      "title": "Proof of applicant's compliance with law, rules, and regulations; financial responsibility and reputation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106467"
+    },
+    {
+      "order": 17,
+      "citation": "RS 8:72",
+      "title": "Certificates; regulatory charges; suspension; restoration; late charge; requirement of certificate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106468"
+    },
+    {
+      "order": 18,
+      "citation": "RS 8:73",
+      "title": "Regulatory charges; rate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106469"
+    },
+    {
+      "order": 19,
+      "citation": "RS 8:74",
+      "title": "Sale or interment; certificate of authority; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106470"
+    },
+    {
+      "order": 20,
+      "citation": "RS 8:75",
+      "title": "Refusal to grant, revocation, or suspension of certificate; injunction; fines; additional orders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106471"
+    },
+    {
+      "order": 21,
+      "citation": "RS 8:76",
+      "title": "Sale or transfer of cemetery authority; application for new certificate of authority; compliance required; late charge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106472"
+    },
+    {
+      "order": 22,
+      "citation": "RS 8:77",
+      "title": "Cemetery fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106473"
+    },
+    {
+      "order": 23,
+      "citation": "RS 8:78",
+      "title": "Exemptions; exempt certificates of authority; renewal; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106474"
+    },
+    {
+      "order": 24,
+      "citation": "RS 8:79",
+      "title": "Actions for violation of this Title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336214"
+    },
+    {
+      "order": 25,
+      "citation": "RS 8:101",
+      "title": "PUBLICLY OWNED CEMETERIES",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106326"
+    },
+    {
+      "order": 26,
+      "citation": "RS 8:102",
+      "title": "Ordinance creating cemetery; location",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106327"
+    },
+    {
+      "order": 27,
+      "citation": "RS 8:103",
+      "title": "Anticipation of revenues; bonds or certificates; taxes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106328"
+    },
+    {
+      "order": 28,
+      "citation": "RS 8:104",
+      "title": "Funds for support and improvement; special municipal election authorized",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106329"
+    },
+    {
+      "order": 29,
+      "citation": "RS 8:105",
+      "title": "Maximum tax; use of proceeds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106330"
+    },
+    {
+      "order": 30,
+      "citation": "RS 8:106",
+      "title": "Rules and regulations; sexton and other employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106331"
+    },
+    {
+      "order": 31,
+      "citation": "RS 8:107",
+      "title": "Gifts, donations, and contributions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106332"
+    },
+    {
+      "order": 32,
+      "citation": "RS 8:108",
+      "title": "Expropriation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106333"
+    },
+    {
+      "order": 33,
+      "citation": "RS 8:109",
+      "title": "Lots, plots, or burial spaces; permits for interment; sale",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106334"
+    },
+    {
+      "order": 34,
+      "citation": "RS 8:110",
+      "title": "Contract to assure proper care; maintenance; and control",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106335"
+    },
+    {
+      "order": 35,
+      "citation": "RS 8:111",
+      "title": "Roads and drainage; parishes may provide",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106336"
+    },
+    {
+      "order": 36,
+      "citation": "RS 8:112",
+      "title": "Expropriation of abandoned private cemeteries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106337"
+    },
+    {
+      "order": 37,
+      "citation": "RS 8:113",
+      "title": "Powers of parish governing authorities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106338"
+    },
+    {
+      "order": 38,
+      "citation": "RS 8:114",
+      "title": "Publicly owned cemeteries; mandatory trust accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106339"
+    },
+    {
+      "order": 39,
+      "citation": "RS 8:121",
+      "title": "St. Mary Parish Cemetery District; creation; location",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106340"
+    },
+    {
+      "order": 40,
+      "citation": "RS 8:122",
+      "title": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106341"
+    },
+    {
+      "order": 41,
+      "citation": "RS 8:123",
+      "title": "Corporate status; purpose; powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106342"
+    },
+    {
+      "order": 42,
+      "citation": "RS 8:124",
+      "title": "District as political subdivision; election imposing taxes, maximum tax; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106343"
+    },
+    {
+      "order": 43,
+      "citation": "RS 8:131",
+      "title": "Rapides Parish Cemetery District; creation; location",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106344"
+    },
+    {
+      "order": 44,
+      "citation": "RS 8:131.1",
+      "title": "Board of commissioners; membership; appointment; vacancies; removal of members; officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106345"
+    },
+    {
+      "order": 45,
+      "citation": "RS 8:131.2",
+      "title": "Powers and duties of the board; grants; donations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106346"
+    },
+    {
+      "order": 46,
+      "citation": "RS 8:132",
+      "title": "Grant Parish Cemetery District; creation; boundaries; purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106347"
+    },
+    {
+      "order": 47,
+      "citation": "RS 8:132.1",
+      "title": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106348"
+    },
+    {
+      "order": 48,
+      "citation": "RS 8:132.2",
+      "title": "Corporate status; powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106349"
+    },
+    {
+      "order": 49,
+      "citation": "RS 8:132.3",
+      "title": "District as a political subdivision; election imposing taxes, maximum tax; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106350"
+    },
+    {
+      "order": 50,
+      "citation": "RS 8:133",
+      "title": "LaSalle Parish Cemetery District; creation; boundaries; purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106351"
+    },
+    {
+      "order": 51,
+      "citation": "RS 8:133.1",
+      "title": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106352"
+    },
+    {
+      "order": 52,
+      "citation": "RS 8:133.2",
+      "title": "Corporate status; powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106353"
+    },
+    {
+      "order": 53,
+      "citation": "RS 8:133.3",
+      "title": "District as a political subdivision; election imposing taxes, maximum tax; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106354"
+    },
+    {
+      "order": 54,
+      "citation": "RS 8:135",
+      "title": "Sweet Lake - Grand Lake Community Cemetery District; creation; boundaries; purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=180603"
+    },
+    {
+      "order": 55,
+      "citation": "RS 8:135.1",
+      "title": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=180605"
+    },
+    {
+      "order": 56,
+      "citation": "RS 8:135.2",
+      "title": "Corporate status; powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=180617"
+    },
+    {
+      "order": 57,
+      "citation": "RS 8:141",
+      "title": "St. Landry Parish Cemetery District; creation; boundaries; purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=180610"
+    },
+    {
+      "order": 58,
+      "citation": "RS 8:141.1",
+      "title": "Board; qualification of members; appointment; vacancies; officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=180641"
+    },
+    {
+      "order": 59,
+      "citation": "RS 8:141.2",
+      "title": "Corporate status; powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=180622"
+    },
+    {
+      "order": 60,
+      "citation": "RS 8:141.3",
+      "title": "District as a political subdivision; election imposing taxes, maximum tax; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=180646"
+    },
+    {
+      "order": 61,
+      "citation": "RS 8:201",
+      "title": "Incorporation required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106355"
+    },
+    {
+      "order": 62,
+      "citation": "RS 8:202",
+      "title": "Corporations; how organized",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106356"
+    },
+    {
+      "order": 63,
+      "citation": "RS 8:203",
+      "title": "Prior operations not affected",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106357"
+    },
+    {
+      "order": 64,
+      "citation": "RS 8:204",
+      "title": "Specific powers; rulemaking and enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106358"
+    },
+    {
+      "order": 65,
+      "citation": "RS 8:205",
+      "title": "Rules and regulations; posting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106359"
+    },
+    {
+      "order": 66,
+      "citation": "RS 8:206",
+      "title": "Contracts required; disclosure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=558635"
+    },
+    {
+      "order": 67,
+      "citation": "RS 8:301",
+      "title": "ACQUISITION OF CEMETERY PROPERTY",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106360"
+    },
+    {
+      "order": 68,
+      "citation": "RS 8:302",
+      "title": "Surveys and maps",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106361"
+    },
+    {
+      "order": 69,
+      "citation": "RS 8:303",
+      "title": "Maps and plats; amendment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106362"
+    },
+    {
+      "order": 70,
+      "citation": "RS 8:304",
+      "title": "Permanency of dedication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106363"
+    },
+    {
+      "order": 71,
+      "citation": "RS 8:305",
+      "title": "Rule against perpetuities, etc., inapplicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106364"
+    },
+    {
+      "order": 72,
+      "citation": "RS 8:306",
+      "title": "Removal of dedication; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106365"
+    },
+    {
+      "order": 73,
+      "citation": "RS 8:307",
+      "title": "Notice of hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106366"
+    },
+    {
+      "order": 74,
+      "citation": "RS 8:308",
+      "title": "Sale of cemetery spaces; abandoned spaces defined; sale of abandoned spaces",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106367"
+    },
+    {
+      "order": 75,
+      "citation": "RS 8:308.1",
+      "title": "Franklin; interment space ownership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=962742"
+    },
+    {
+      "order": 76,
+      "citation": "RS 8:309",
+      "title": "Execution of conveyances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106368"
+    },
+    {
+      "order": 77,
+      "citation": "RS 8:310",
+      "title": "Interment spaces indivisible",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106369"
+    },
+    {
+      "order": 78,
+      "citation": "RS 8:311",
+      "title": "Commission on sales prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106370"
+    },
+    {
+      "order": 79,
+      "citation": "RS 8:312",
+      "title": "Employment of solicitors prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106371"
+    },
+    {
+      "order": 80,
+      "citation": "RS 8:313",
+      "title": "Exemption from seizure and sale; mortgage prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106372"
+    },
+    {
+      "order": 81,
+      "citation": "RS 8:314",
+      "title": "Record of ownership and transfers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106373"
+    },
+    {
+      "order": 82,
+      "citation": "RS 8:315",
+      "title": "Inspection of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106374"
+    },
+    {
+      "order": 83,
+      "citation": "RS 8:316",
+      "title": "Opening of roads and railroads through cemetery; consent required; exception",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106375"
+    },
+    {
+      "order": 84,
+      "citation": "RS 8:317",
+      "title": "Certain cemetery lands exempt from taxes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106376"
+    },
+    {
+      "order": 85,
+      "citation": "RS 8:401",
+      "title": "License to engage in business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106377"
+    },
+    {
+      "order": 86,
+      "citation": "RS 8:402",
+      "title": "Application for license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106378"
+    },
+    {
+      "order": 87,
+      "citation": "RS 8:403",
+      "title": "Application fee; annual fee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106379"
+    },
+    {
+      "order": 88,
+      "citation": "RS 8:404",
+      "title": "Investigation by board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106380"
+    },
+    {
+      "order": 89,
+      "citation": "RS 8:405",
+      "title": "Issuance of license; board's discretion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106381"
+    },
+    {
+      "order": 90,
+      "citation": "RS 8:406",
+      "title": "Denial procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106382"
+    },
+    {
+      "order": 91,
+      "citation": "RS 8:407",
+      "title": "Sale or transfer of cemetery sales or cemetery management organization; application for new license; compliance required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106383"
+    },
+    {
+      "order": 92,
+      "citation": "RS 8:408",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106384"
+    },
+    {
+      "order": 93,
+      "citation": "RS 8:411",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016250"
+    },
+    {
+      "order": 94,
+      "citation": "RS 8:412",
+      "title": "Application for license; qualifications; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016251"
+    },
+    {
+      "order": 95,
+      "citation": "RS 8:413",
+      "title": "Licensee authority; restrictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016252"
+    },
+    {
+      "order": 96,
+      "citation": "RS 8:414",
+      "title": "Additional powers of the board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016253"
+    },
+    {
+      "order": 97,
+      "citation": "RS 8:415",
+      "title": "Labor by prisoners permitted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016254"
+    },
+    {
+      "order": 98,
+      "citation": "RS 8:416",
+      "title": "Liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016255"
+    },
+    {
+      "order": 99,
+      "citation": "RS 8:417",
+      "title": "Inadvertent discovery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016256"
+    },
+    {
+      "order": 100,
+      "citation": "RS 8:418",
+      "title": "Scope",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016257"
+    },
+    {
+      "order": 101,
+      "citation": "RS 8:451",
+      "title": "Corporate operation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106385"
+    },
+    {
+      "order": 102,
+      "citation": "RS 8:452",
+      "title": "Certification of trust fund in articles of incorporation; amendments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106386"
+    },
+    {
+      "order": 103,
+      "citation": "RS 8:453",
+      "title": "Cemeteries in existence on August 1, 1962; acts prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106387"
+    },
+    {
+      "order": 104,
+      "citation": "RS 8:454",
+      "title": "Trust funds required; master trust funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106388"
+    },
+    {
+      "order": 105,
+      "citation": "RS 8:454.1",
+      "title": "Administration of trust funds; maintenance; exemption from seizure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106389"
+    },
+    {
+      "order": 106,
+      "citation": "RS 8:454.2",
+      "title": "Income distribution methods; application; restrictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336215"
+    },
+    {
+      "order": 107,
+      "citation": "RS 8:454.3",
+      "title": "Merger of cemetery trust funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388167"
+    },
+    {
+      "order": 108,
+      "citation": "RS 8:455",
+      "title": "Annual report by cemeteries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106390"
+    },
+    {
+      "order": 109,
+      "citation": "RS 8:456",
+      "title": "Annual report by trustee; final accounting by trustee required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106391"
+    },
+    {
+      "order": 110,
+      "citation": "RS 8:456.1",
+      "title": "Resignation of trustee; orderly transfer of trust fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106392"
+    },
+    {
+      "order": 111,
+      "citation": "RS 8:457",
+      "title": "Application of chapter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106393"
+    },
+    {
+      "order": 112,
+      "citation": "RS 8:458",
+      "title": "Prohibited acts; injunctions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106394"
+    },
+    {
+      "order": 113,
+      "citation": "RS 8:459",
+      "title": "Cemeteries exempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106395"
+    },
+    {
+      "order": 114,
+      "citation": "RS 8:459.1",
+      "title": "Trust fund transfers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106396"
+    },
+    {
+      "order": 115,
+      "citation": "RS 8:460",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106397"
+    },
+    {
+      "order": 116,
+      "citation": "RS 8:461",
+      "title": "Examination of endowment funds; expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106398"
+    },
+    {
+      "order": 117,
+      "citation": "RS 8:462",
+      "title": "Examination expense; effect of refusal to pay; disposition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106399"
+    },
+    {
+      "order": 118,
+      "citation": "RS 8:463",
+      "title": "Powers, duties, and records concerning examination of funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106400"
+    },
+    {
+      "order": 119,
+      "citation": "RS 8:464",
+      "title": "Action required when authority fails to deposit minimum endowment or perpetual funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106401"
+    },
+    {
+      "order": 120,
+      "citation": "RS 8:465",
+      "title": "Order requiring reinvestment in compliance with law; actions for preservation and protection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106402"
+    },
+    {
+      "order": 121,
+      "citation": "RS 8:466",
+      "title": "Annual report of cemetery authority; contents; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106403"
+    },
+    {
+      "order": 122,
+      "citation": "RS 8:467",
+      "title": "Examination of reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106404"
+    },
+    {
+      "order": 123,
+      "citation": "RS 8:501",
+      "title": "Application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106405"
+    },
+    {
+      "order": 124,
+      "citation": "RS 8:502",
+      "title": "Payments to trust; amounts required; master trust fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106406"
+    },
+    {
+      "order": 125,
+      "citation": "RS 8:502.1",
+      "title": "Determination of personal property delivery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106407"
+    },
+    {
+      "order": 126,
+      "citation": "RS 8:502.2",
+      "title": "Suppliers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106408"
+    },
+    {
+      "order": 127,
+      "citation": "RS 8:502.3",
+      "title": "Trust fund exempt from seizure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726476"
+    },
+    {
+      "order": 128,
+      "citation": "RS 8:503",
+      "title": "Withdrawals from trust",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106409"
+    },
+    {
+      "order": 129,
+      "citation": "RS 8:504",
+      "title": "Payments to purchaser; change of domicile",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106410"
+    },
+    {
+      "order": 130,
+      "citation": "RS 8:505",
+      "title": "Annual reports by trustee; final accounting by trustee required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106411"
+    },
+    {
+      "order": 131,
+      "citation": "RS 8:505.1",
+      "title": "Annual report by cemeteries or other entities; report filing fee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106412"
+    },
+    {
+      "order": 132,
+      "citation": "RS 8:505.2",
+      "title": "Resignation of trustee; orderly transfer of trust fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106413"
+    },
+    {
+      "order": 133,
+      "citation": "RS 8:506",
+      "title": "Examination by board; expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106414"
+    },
+    {
+      "order": 134,
+      "citation": "RS 8:506.1",
+      "title": "Failure to make required deposits; action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106415"
+    },
+    {
+      "order": 135,
+      "citation": "RS 8:507",
+      "title": "Nonwaiver of provisions of Chapter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106416"
+    },
+    {
+      "order": 136,
+      "citation": "RS 8:508",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106417"
+    },
+    {
+      "order": 137,
+      "citation": "RS 8:509",
+      "title": "Trustee's duty of care",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106418"
+    },
+    {
+      "order": 138,
+      "citation": "RS 8:510",
+      "title": "Exceptions; trust fund transfers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106419"
+    },
+    {
+      "order": 139,
+      "citation": "RS 8:511",
+      "title": "Nonretroactive effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106420"
+    },
+    {
+      "order": 140,
+      "citation": "RS 8:512",
+      "title": "Examination of reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336216"
+    },
+    {
+      "order": 141,
+      "citation": "RS 8:601",
+      "title": "Application of Chapter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106421"
+    },
+    {
+      "order": 142,
+      "citation": "RS 8:602",
+      "title": "Standards of construction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106422"
+    },
+    {
+      "order": 143,
+      "citation": "RS 8:603",
+      "title": "Ordinances and specifications to be complied with",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106423"
+    },
+    {
+      "order": 144,
+      "citation": "RS 8:604",
+      "title": "Improper construction a nuisance; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106424"
+    },
+    {
+      "order": 145,
+      "citation": "RS 8:605",
+      "title": "Construction in compliance with existing laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106425"
+    },
+    {
+      "order": 146,
+      "citation": "RS 8:606",
+      "title": "Commencement and completion requirements; application form; application fee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106426"
+    },
+    {
+      "order": 147,
+      "citation": "RS 8:651",
+      "title": "HUMAN REMAINS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106432"
+    },
+    {
+      "order": 148,
+      "citation": "RS 8:652",
+      "title": "Unlawful disposal of remains",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106433"
+    },
+    {
+      "order": 149,
+      "citation": "RS 8:653",
+      "title": "Opening graves; stealing body; receiving same",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106434"
+    },
+    {
+      "order": 150,
+      "citation": "RS 8:654",
+      "title": "Mutilating, disinterring human remains; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106435"
+    },
+    {
+      "order": 151,
+      "citation": "RS 8:655",
+      "title": "Right of disposing of remains; military personnel; limitation of liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106436"
+    },
+    {
+      "order": 152,
+      "citation": "RS 8:656",
+      "title": "Effect of authorization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106437"
+    },
+    {
+      "order": 153,
+      "citation": "RS 8:657",
+      "title": "Right to rely on such authorization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106438"
+    },
+    {
+      "order": 154,
+      "citation": "RS 8:658",
+      "title": "Liability for damages; limitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106439"
+    },
+    {
+      "order": 155,
+      "citation": "RS 8:659",
+      "title": "Permission to move remains",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106440"
+    },
+    {
+      "order": 156,
+      "citation": "RS 8:660",
+      "title": "Exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106442"
+    },
+    {
+      "order": 157,
+      "citation": "RS 8:661",
+      "title": "Undisposed remains; rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106443"
+    },
+    {
+      "order": 158,
+      "citation": "RS 8:662",
+      "title": "Record of remains to be kept",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106444"
+    },
+    {
+      "order": 159,
+      "citation": "RS 8:663",
+      "title": "Collection, analysis, and reburial of exposed human skeletal remains",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814370"
+    },
+    {
+      "order": 160,
+      "citation": "RS 8:671",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106446"
+    },
+    {
+      "order": 161,
+      "citation": "RS 8:672",
+      "title": "Legislative declaration of intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106447"
+    },
+    {
+      "order": 162,
+      "citation": "RS 8:673",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106448"
+    },
+    {
+      "order": 163,
+      "citation": "RS 8:674",
+      "title": "Exclusions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106449"
+    },
+    {
+      "order": 164,
+      "citation": "RS 8:675",
+      "title": "Repealed by Acts 2009, No. 438, §6B.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106450"
+    },
+    {
+      "order": 165,
+      "citation": "RS 8:676",
+      "title": "Powers and duties of the secretary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106451"
+    },
+    {
+      "order": 166,
+      "citation": "RS 8:677",
+      "title": "Revocation or suspension of permits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106452"
+    },
+    {
+      "order": 167,
+      "citation": "RS 8:678",
+      "title": "Unlawful acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106453"
+    },
+    {
+      "order": 168,
+      "citation": "RS 8:679",
+      "title": "Civil remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106454"
+    },
+    {
+      "order": 169,
+      "citation": "RS 8:680",
+      "title": "Discovery of unmarked burial sites, human skeletal remains, and burial artifacts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106456"
+    },
+    {
+      "order": 170,
+      "citation": "RS 8:681",
+      "title": "Disposition of unmarked burial sites, human skeletal remains, and burial artifacts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106457"
+    },
+    {
+      "order": 171,
+      "citation": "RS 8:701",
+      "title": "Application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106461"
+    },
+    {
+      "order": 172,
+      "citation": "RS 8:702",
+      "title": "Standards of construction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106462"
+    },
+    {
+      "order": 173,
+      "citation": "RS 8:703",
+      "title": "Compliance with ordinances and specifications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106463"
+    },
+    {
+      "order": 174,
+      "citation": "RS 8:704",
+      "title": "Improper use a nuisance; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106464"
+    },
+    {
+      "order": 175,
+      "citation": "RS 8:705",
+      "title": "Construction in compliance with existing laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106465"
+    },
+    {
+      "order": 176,
+      "citation": "RS 8:705.1",
+      "title": "Commencement requirements; application form; application fee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=962777"
+    },
+    {
+      "order": 177,
+      "citation": "RS 8:706",
+      "title": "Commencement and completion requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106466"
+    },
+    {
+      "order": 178,
+      "citation": "RS 8:801",
+      "title": "Recognized owner of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106475"
+    },
+    {
+      "order": 179,
+      "citation": "RS 8:802",
+      "title": "Transfer of ownership rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106476"
+    },
+    {
+      "order": 180,
+      "citation": "RS 8:803",
+      "title": "Descent of title to cemetery space",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106477"
+    },
+    {
+      "order": 181,
+      "citation": "RS 8:804",
+      "title": "Affidavit as authorization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106478"
+    },
+    {
+      "order": 182,
+      "citation": "RS 8:805",
+      "title": "When right of interment or cemetery space is inalienable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106479"
+    },
+    {
+      "order": 183,
+      "citation": "RS 8:806",
+      "title": "Rights of co-owners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106480"
+    },
+    {
+      "order": 184,
+      "citation": "RS 8:807",
+      "title": "Co-owners; identification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106481"
+    },
+    {
+      "order": 185,
+      "citation": "RS 8:808",
+      "title": "Co-owners may designate representative",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106482"
+    },
+    {
+      "order": 186,
+      "citation": "RS 8:809",
+      "title": "Waiver of right of interment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106483"
+    },
+    {
+      "order": 187,
+      "citation": "RS 8:810",
+      "title": "Termination of vested right by waiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106484"
+    },
+    {
+      "order": 188,
+      "citation": "RS 8:811",
+      "title": "Limitations on vested rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106485"
+    },
+    {
+      "order": 189,
+      "citation": "RS 8:812",
+      "title": "Conveyance of cemetery spaces; formality and recordation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106486"
+    },
+    {
+      "order": 190,
+      "citation": "RS 8:813",
+      "title": "Correction of errors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106487"
+    },
+    {
+      "order": 191,
+      "citation": "RS 8:814",
+      "title": "Repealed by Acts 2010, No. 175, §6.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106488"
+    },
+    {
+      "order": 192,
+      "citation": "RS 8:901",
+      "title": "Unlawful to use, lease, or sell for drilling, mining, or prospecting; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106489"
+    },
+    {
+      "order": 193,
+      "citation": "RS 8:902",
+      "title": "Underground burials; depth",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106490"
+    },
+    {
+      "order": 194,
+      "citation": "RS 8:903",
+      "title": "Maintenance of cemetery spaces more than fifty years old; sale of repaired abandoned cemetery spaces",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106491"
+    },
+    {
+      "order": 195,
+      "citation": "RS 8:903.1",
+      "title": "Cemeteries; maintenance of vaults and wall vaults more than fifty years old; reclamation by authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106492"
+    },
+    {
+      "order": 196,
+      "citation": "RS 8:904",
+      "title": "Speculative sales and purchases prohibited; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106493"
+    },
+    {
+      "order": 197,
+      "citation": "RS 8:905",
+      "title": "Upkeep of cemeteries; local ordinance authorized; penalty; definition of shareholder",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106494"
+    },
+    {
+      "order": 198,
+      "citation": "RS 8:906",
+      "title": "Additional ad valorem tax; Evangeline Parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106495"
+    },
+    {
+      "order": 199,
+      "citation": "RS 8:907",
+      "title": "Interment of pet remains",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336217"
+    },
+    {
+      "order": 200,
+      "citation": "RS 8:908",
+      "title": "Abatement of public health or safety risks in abandoned cemeteries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388168"
+    }
+  ]
+}

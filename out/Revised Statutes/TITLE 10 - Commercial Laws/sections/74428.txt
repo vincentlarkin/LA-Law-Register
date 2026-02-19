@@ -1,0 +1,11 @@
+RS 10:9-327
+Priority of security interests in deposit account
+https://www.legis.la.gov/legis/Law.aspx?d=74428
+
+§9-327.  Priority of security interests in deposit account
+The following rules govern priority among conflicting security interests in the same deposit account:
+(1)  A security interest held by a secured party having control of the deposit account under R.S. 10:9-104 has priority over a conflicting security interest held by a secured party that does not have control.
+(2)  Except as otherwise provided in Paragraphs (3) and (4), security interests perfected by control under R.S. 10:9-314 rank according to priority in time of obtaining control.
+(3)  Except as otherwise provided in Paragraph (4), a security interest held by the bank with which the deposit account is maintained has priority over a conflicting security interest held by another secured party.
+(4)  A security interest perfected by control under R.S. 10:9-104(a)(3) has priority over a security interest held by the bank with which the deposit account is maintained.
+Acts 2001, No. 128, §1, eff. July 1, 2001.

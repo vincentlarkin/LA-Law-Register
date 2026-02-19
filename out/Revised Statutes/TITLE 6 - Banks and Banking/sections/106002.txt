@@ -1,0 +1,25 @@
+RS 6:512
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=106002
+
+§512.  Definitions
+A.(1)  "Bank holding company" means any company:
+(a)  Which directly or indirectly owns, controls, or has power to vote twenty-five percent or more of any class of the voting shares of any bank.
+(b)  Which controls in any manner the election of a majority of the directors of any bank.
+(c)  For the benefit of whose shareholders of which twenty-five percent or more of the voting shares of any bank or any bank holding company is held by trustees.*
+(2)  For the purposes of this Chapter, any successor to a bank holding company shall be deemed to be a bank holding company from the date as of which such predecessor company became a bank holding company.
+(3)  Notwithstanding Paragraphs (1) and (2):
+(a)  No company shall be deemed to be a bank holding company by virtue of its ownership or control of shares acquired in connection with its underwriting of securities, provided such shares are held only for such period of time as will permit the sale thereof upon a reasonable basis.
+(b)  No company formed for the sole purpose of participating in a proxy solicitation shall be deemed to be a bank holding company by virtue of its control of voting rights of shares acquired in the course of such solicitation.
+(c)  No company shall be deemed to be a bank holding company by virtue of its ownership or control of shares acquired in securing or collecting a debt previously contracted in good faith, provided such shares are disposed of within a period of two years from the date on which they were acquired.  The commissioner is authorized upon application by a company to extend, from time to time for not more than one year at a time, the two-year period referred to herein, under such terms and conditions as required by the commissioner, but no such extension shall in the aggregate exceed three years.
+(d)  No company shall be deemed to be a bank holding company by virtue of its ownership or control of shares acquired in a fiduciary capacity except where such shares are held for the benefit of the shareholders of such company.
+B.  "Company" means any corporation, business trust, partnership, association, or similar organization including a bank but shall not include any corporation the majority of the shares of which are owned by the United States or by any state.
+C.  "Bank" means any commercial bank, savings bank, trust company, or similar organization.
+D.  "Subsidiary" with respect to a specified bank holding company means the following:
+(1)  Any company twenty-five percent or more of the voting shares of which, excluding shares owned by the United States or by any company wholly owned by the United States, is directly or indirectly owned or controlled by such bank holding company or is held by it with power to vote.
+(2)  Any company the election of a majority of the directors of which is controlled in any manner by such bank holding company.
+(3)  Any company twenty-five percent or more of the voting shares of which is held by trustees for the benefit of the shareholders of such bank holding company.
+E.  "Successor" includes any company which acquires directly or indirectly from a bank holding company shares of any bank, when and if the relationship between such company and the bank holding company is such that the transaction effects no substantial change in the control of the bank or beneficial ownership of such shares of such bank.
+F.  "Branch" or "branch office" means any manned office of a bank which would constitute a branch office within the meaning of R.S. 6:501 other than an automated teller machine, electronic funds transfer terminal, point of sale terminal, or similar electronic device or terminal.
+Acts 1962, No. 275, §2.  Acts 1984, No. 50, §1, eff. Jan. 1, 1985; Acts 1984, No. 719, §3, eff. Jan. 1, 1985; Acts 1986, No. 5, §1.
+*AS APPEARS IN ENROLLED BILL.

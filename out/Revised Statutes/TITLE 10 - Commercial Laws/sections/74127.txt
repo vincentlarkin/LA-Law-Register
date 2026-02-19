@@ -1,0 +1,111 @@
+RS 10:3-103
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=74127
+
+§3-103.  Definitions
+(a)  In this Chapter:
+(1)  "Acceptor" means a drawee who has accepted a draft.
+(2)  "Drawee" means a person ordered in a draft to make payment.
+(3)  "Drawer" means a person who signs or is identified in a draft as a person ordering payment.
+(4)  (Reserved)
+(5)  "Maker" means a person who signs or is identified in a note as a person undertaking to pay.
+(6)  "Order" means a written instruction to pay money signed by the person giving the instruction.  The instruction may be addressed to any person, including the person giving the instruction, or to one or more persons jointly or in the alternative but not in succession.  An authorization to pay is not an order unless the person authorized to pay is also instructed to pay.
+(7)  "Ordinary care" in the case of a person engaged in business means observance of reasonable commercial standards, prevailing in the area in which the person is located, with respect to the business in which the person is engaged.  In the case of a bank that takes an instrument for processing for collection or payment by automated means, reasonable commercial standards do not require the bank to examine the instrument if the failure to examine does not violate the bank's prescribed procedures and the bank's procedures do not vary unreasonably from general banking usage not disapproved by this Chapter or Chapter 4.
+(8)  "Party" means a party to an instrument.
+(9)  "Promise" means a written undertaking to pay money signed by the person undertaking to pay.  An acknowledgment of an obligation by the obligor is not a promise unless the obligor also undertakes to pay the obligation.
+(10)  "Prove" with respect to a fact means to meet the burden of establishing the fact (R.S. 10:1-201(b)(8)).
+(11)  "Remitter" means a person who purchases an instrument from its issuer if the instrument is payable to an identified person other than the purchaser.
+(b)  Other definitions applying to this Chapter and the sections in which they appear are:
+"Acceptance"
+R.S. 10:3-409
+"Accommodated party"
+R.S. 10:3-419
+"Accommodation party"
+R.S. 10:3-419
+"Alteration"
+R.S. 10:3-407
+"Anomalous indorsement"
+R.S. 10:3-205
+"Blank indorsement"
+R.S. 10:3-205
+"Cashier's check"
+R.S. 10:3-104
+"Certificate of deposit"
+R.S. 10:3-104
+"Certified check"
+R.S. 10:3-409
+"Check"
+R.S. 10:3-104
+"Consideration"
+R.S. 10:3-303
+"Draft"
+R.S. 10:3-104
+"Holder in due course"
+R.S. 10:3-302
+"Incomplete instrument"
+R.S. 10:3-115
+"Indorsement"
+R.S. 10:3-204
+"Indorser"
+R.S. 10:3-204
+"Instrument"
+R.S. 10:3-104
+"Issue"
+R.S. 10:3-105
+"Issuer"
+R.S. 10:3-105
+"Negotiable instrument"
+R.S. 10:3-104
+"Negotiation"
+R.S. 10:3-201
+"Note"
+R.S. 10:3-104
+"Payable at a definite time"
+R.S. 10:3-108
+"Payable on demand"
+R.S. 10:3-108
+"Payable to bearer"
+R.S. 10:3-109
+"Payable to order"
+R.S. 10:3-109
+"Payment"
+R.S. 10:3-602
+"Person entitled to enforce"
+R.S. 10:3-301
+"Presentment"
+R.S. 10:3-501
+"Reacquisition"
+R.S. 10:3-207
+"Special indorsement"
+R.S. 10:3-205
+"Teller's check"
+R.S. 10:3-104
+"Transfer of instrument"
+R.S. 10:3-203
+"Traveler's check"
+R.S. 10:3-104
+"Value"
+R.S. 10:3-303
+(c)  The following definitions in other Chapters apply to this Chapter:
+"Bank"
+R.S. 10:4-105
+"Banking day"
+R.S. 10:4-104
+"Clearing house"
+R.S. 10:4-104
+"Collecting bank"
+R.S. 10:4-105
+"Depositary bank"
+R.S. 10:4-105
+"Documentary draft"
+R.S. 10:4-104
+"Intermediary bank"
+R.S. 10:4-105
+"Item"
+R.S. 10:4-104
+"Payor bank"
+R.S. 10:4-105
+"Suspends payments"
+R.S. 10:4-104
+(d)  In addition, Chapter 1 contains general definitions and principles of construction and interpretation applicable throughout this Chapter.
+Acts 1992, No. 1133, §3, eff. July 1, 1993; Acts 1993, No. 948, §10, eff. Jan. 1, 1994; Acts 2006, No. 533, §3.

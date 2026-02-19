@@ -1,0 +1,66 @@
+RS 10:12-106
+Discharge of account debtor on controllable account or controllable payment intangible
+https://www.legis.la.gov/legis/Law.aspx?d=1391480
+
+§12-106.  Discharge of account debtor on controllable account or controllable payment
+intangible
+(a)  Discharge of account debtor.  An account debtor on a controllable account or
+controllable payment intangible may discharge its obligation by paying:
+(1)  the person having control of the controllable electronic record that evidences the
+controllable account or controllable payment intangible; or
+(2)  except as provided in Subsection (b) of this Section, a person that formerly had
+control of the controllable electronic record.
+(b)  Content and effect of notification.  Subject to Subsection (d) of this Section, the
+account debtor may not discharge its obligation by paying a person that formerly had control
+of the controllable electronic record if the account debtor receives a notification that:
+(1)  is signed by a person that formerly had control or the person to which control was
+transferred;
+(2)  reasonably identifies the controllable account or controllable payment intangible;
+(3)  notifies the account debtor that control of the controllable electronic record that
+evidences the controllable account or controllable payment intangible was transferred;
+(4)  identifies the transferee, in any reasonable way, including by name, identifying
+number, cryptographic key, office, or account number; and
+(5)  provides a commercially reasonable method by which the account debtor is to pay
+the transferee.
+(c)  Discharge following effective notification.  After receipt of a notification that
+complies with Subsection (b) of this Section, the account debtor may discharge its obligation
+by paying in accordance with the notification and may not discharge the obligation by paying
+a person that formerly had control.
+(d)  When notification ineffective.  Subject to Subsection (h) of this Section,
+notification is ineffective under Subsection (b) of this Section:
+(1)  unless, before the notification is sent, the account debtor and the person that, at
+that time, had control of the controllable electronic record that evidences the controllable
+account or controllable payment intangible agree in a signed record to a commercially
+reasonable method by which a person may furnish reasonable proof that control has been
+transferred;
+(2)  to the extent an agreement between the account debtor and seller of a payment
+intangible limits the account debtor's duty to pay a person other than the seller and the
+limitation is effective under law other than this Chapter; or
+(3)  at the option of the account debtor, if the notification notifies the account debtor
+to:
+(A)  divide a payment;
+(B)  make less than the full amount of an installment or other periodic payment; or
+(C)  pay any part of a payment by more than one method or to more than one person.
+(e)  Proof of transfer of control.  Subject to Subsection (h) of this Section, if requested
+by the account debtor, the person giving the notification under Subsection (b) of this Section
+seasonably shall furnish reasonable proof, using the method in the agreement referred to in
+Paragraph (d)(1) of this Section, that control of the controllable electronic record has been
+transferred.  Unless the person complies with the request, the account debtor may discharge
+its obligation by paying a person that formerly had control, even if the account debtor has
+received a notification under Subsection (b) of this Section.
+(f)  What constitutes reasonable proof.  A person furnishes reasonable proof under
+Subsection (e) of this Section that control has been transferred if the person demonstrates,
+using the method in the agreement referred to in Paragraph (d)(1) of this Section, that the
+transferee has the power to:
+(1)  avail itself of substantially all the benefit from the controllable electronic record;
+(2)  prevent others from availing themselves of substantially all the benefit from the
+controllable electronic record; and
+(3)  transfer the powers specified in Paragraphs (1) and (2) of this Subsection to
+another person.
+(g)  Rights not waivable.  Subject to Subsection (h) of this Section, an account debtor
+may not waive or vary its rights under Paragraph (d)(1) and Subsection (e) of this Section or
+its option under Paragraph (d)(3) of this Section.
+(h)  Rule for individual under other law.  This Section is subject to law other than this
+Chapter which establishes a different rule for an account debtor who is an individual and who
+incurred the obligation primarily for personal, family, or household purposes.
+Acts 2024, No. 773, §1.

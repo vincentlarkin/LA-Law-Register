@@ -1,0 +1,89 @@
+RS 10:9-620
+Acceptance of collateral in full or partial satisfaction of obligation; compulsory disposition of collateral
+https://www.legis.la.gov/legis/Law.aspx?d=74505
+
+§9-620.  Acceptance of collateral in full or partial satisfaction of obligation; compulsory
+disposition of collateral
+(a)  Conditions to acceptance in satisfaction.  A secured party may accept collateral
+in full or partial satisfaction of the obligation it secures only if:
+(1)  the debtor consents to the acceptance under Subsection (c);
+(2)  the secured party does not receive, within the time set forth in Subsection (d) of
+this Section, a notification of objection to the proposal signed by:
+(A)  a person to which the secured party was required to send a proposal under R.S.
+10:9-621; or
+(B)  any other person, other than the debtor, holding an interest in the collateral
+subordinate to the security interest that is the subject of the proposal;
+(3)  if the collateral is consumer goods, the collateral is not in the possession of the
+debtor when the debtor consents to the acceptance; and
+(4)  Subsection (e) does not require the secured party to dispose of the collateral or
+the debtor waives the requirement pursuant to R.S. 10:9-624.
+(b)  Purported acceptance ineffective.  A purported or apparent acceptance of
+collateral under this Section is ineffective unless:
+(1)  the secured party consents to the acceptance in a signed record or sends a
+proposal to the debtor; and
+(2)  the conditions of Subsection (a) are met.
+(c)  Debtor's consent.  For purposes of this Section:
+(1)  a debtor consents to an acceptance of collateral in partial satisfaction of the
+obligation it secures only if the debtor agrees to the terms of the acceptance in a record
+signed after default; and
+(2)  a debtor consents to an acceptance of collateral in full satisfaction of the
+obligation it secures only if the debtor agrees to the terms of the acceptance in a record
+signed after default or the secured party:
+(A)  sends to the debtor after default a proposal that is unconditional or subject only
+to a condition that collateral not in the possession of the secured party be preserved or
+maintained;
+(B)  in the proposal, proposes to accept collateral in full satisfaction of the obligation
+it secures; and
+(C)  does not receive a notification of objection signed by the debtor within twenty
+days after the proposal is sent.
+(d)  Effectiveness of notification.  To be effective under Subsection (a)(2), a
+notification of objection must be received by the secured party:
+(1)  in the case of a person to which the proposal was sent pursuant to R.S. 10:9-621,
+within twenty days after notification was sent to that person; and
+(2)  in other cases:
+(A)  within twenty days after the last notification was sent pursuant to R.S. 10:9-621;
+or
+(B)  if a notification was not sent, before the debtor consents to the acceptance under
+Subsection (c).
+(e)  Mandatory disposition of consumer goods.  A secured party that has taken
+possession of collateral shall dispose of the collateral pursuant to R.S. 10: 9-610 or
+alternatively shall execute upon the security interest within the time specified in Subsection
+(f) if:
+(1)  sixty percent of the cash price has been paid in the case of a purchase-money
+security interest in consumer goods; or
+(2)  sixty percent of the principal amount of the obligation secured has been paid in
+the case of a non-purchase-money security interest in consumer goods.
+(f)  Compliance with mandatory disposition requirement.  To comply with Subsection
+(e) of this Section, the secured party shall dispose of the collateral or alternatively institute
+judicial proceedings to execute upon the security interest:
+(1)  within ninety days after taking possession; or
+(2)  within any longer period to which the debtor and all secondary obligors have
+agreed in an agreement to that effect entered into and signed after default.
+(g)  [Reserved.]
+(h)  Partial satisfaction in consumer transaction.  In a consumer transaction in which
+a secured party accepts collateral in partial satisfaction of the obligation it secures, the terms
+agreed to by the debtor under Subsection (c)(1) shall include a writing that:
+(1)  states that the debtor will still owe the deficiency even though the secured party
+accepts the collateral and reduces the debt;
+(2)  states the amount of the deficiency;
+(3)  provides an explanation in accordance with Subsection (i) of how the secured
+party calculated the deficiency; and
+(4)  states, if applicable, that future debits, credits, charges, including additional credit
+service charges or interest, rebates, and expenses may affect the amount of the deficiency.
+(i)  Required information.  To comply with Subsection (h)(3), a writing must provide
+the following information in the following order:
+(1)  the aggregate amount of obligations secured by the collateral proposed to be
+accepted in partial satisfaction, and, if the amount reflects a rebate of unearned interest or
+credit service charge, an indication of that fact, calculated as of a specified date not more
+than thirty-five days before the debtor's consent;
+(2)  the amount of partial satisfaction of the obligations;
+(3)  the aggregate amount of the obligations after deducting the amount of partial
+satisfaction;
+(4)  the amount, in the aggregate or by type, and types of credit, including rebates of
+interest or credit service charges, to which the obligor is known to be entitled and which are
+not reflected in the amount in Paragraph (i)(1); and
+(5)  the amount of the deficiency.
+(j)  Substantial compliance.  A particular phrasing of the explanation is not required.
+An explanation complying substantially with the requirements of Subsection (h) is sufficient,
+even if it includes minor errors that are not seriously misleading.
+Acts 2001, No. 128, §1, eff. July 1, 2001; Acts 2024, No. 773, §1.

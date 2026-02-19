@@ -1,0 +1,17 @@
+RS 10:4A-201
+Security procedure
+https://www.legis.la.gov/legis/Law.aspx?d=74241
+
+PART 2.  ISSUE AND ACCEPTANCE OF PAYMENT ORDER
+§4A-201.  Security procedure
+"Security procedure" means a procedure established by agreement of a customer and
+a receiving bank for the purpose of (i) verifying that a payment order or communication
+amending or cancelling a payment order is that of the customer, or (ii) detecting error in the
+transmission or the content of the payment order or communication.  A security procedure
+may impose an obligation on the receiving bank or the customer and may require the use of
+algorithms or other codes, identifying words, numbers, symbols, sounds, biometrics,
+encryption, callback procedures, or similar security devices.  Comparison of a signature on
+a payment order or communication with an authorized specimen signature of the customer
+or requiring a payment order to be sent from a known email address, IP address, or telephone
+number is not by itself a security procedure.
+Added by Acts 1990, No. 1079, §4, eff. Sept. 1, 1990; Acts 2024, No. 773, §1.

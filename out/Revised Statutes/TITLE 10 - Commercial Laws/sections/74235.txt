@@ -1,0 +1,27 @@
+RS 10:4A-103
+Payment Order - Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=74235
+
+§4A-103.  Payment Order - Definitions
+(a)  In this Chapter:
+(1)  "Payment order" means an instruction of a sender to a receiving bank, transmitted
+orally or in a record, to pay, or to cause another bank to pay, a fixed or determinable amount
+of money to a beneficiary if:
+(i)  the instruction does not state a condition to payment to the beneficiary other than
+time of payment,
+(ii)  the receiving bank is to be reimbursed by debiting an account of, or otherwise
+receiving payment from, the sender, and
+(iii)  the instruction is transmitted by the sender directly to the receiving bank or to
+an agent, funds-transfer system, or communication system for transmittal to the receiving
+bank.
+(2)  "Beneficiary" means the person to be paid by the beneficiary's bank.
+(3)  "Beneficiary's bank" means the bank identified in a payment order in which an
+account of the beneficiary is to be credited pursuant to the order or which otherwise is to
+make payment to the beneficiary if the order does not provide for payment to an account.
+(4)  "Receiving bank" means the bank to which the sender's instruction is addressed.
+(5)  "Sender" means the person giving the instruction to the receiving bank.
+(b)  If an instruction complying with Subsection (a)(1) is to make more than one
+payment to a beneficiary, the instruction is a separate payment order with respect to each
+payment.
+(c)  A payment order is issued when it is sent to the receiving bank.
+Added by Acts 1990, No. 1079, §4, eff. Sept. 1, 1990; Acts 2024, No. 773, §1.

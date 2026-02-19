@@ -1,0 +1,64 @@
+RS 10:9-203
+Attachment and enforceability of security interest; proceeds; supporting obligations; formal requisites
+https://www.legis.la.gov/legis/Law.aspx?d=74394
+
+§9-203.  Attachment and enforceability of security interest; proceeds; supporting obligations;
+formal requisites
+(a)  Attachment.  A security interest attaches to collateral when it becomes
+enforceable against the debtor with respect to the collateral, unless an agreement expressly
+postpones the time of attachment.
+(b)  Enforceability.  Except as otherwise provided in Subsections (c) through (i) of
+this Section, a security interest is enforceable against the debtor and third parties with respect
+to the collateral only if:
+(1)  value has been given;
+(2)  the debtor has rights in the collateral or the power to transfer rights in the
+collateral to a secured party; and
+(3)  one of the following conditions is met:
+(A)  the debtor has signed a security agreement that provides a description of the
+collateral and, if the security interest covers a life insurance policy, the condition specified
+in R.S. 10:9-107.1(b) is met, and, if the security interest covers timber to be cut, a description
+of the land concerned;
+(B)  the collateral is not a certificated security and is in the possession of the secured
+party under R.S. 10:9-313 pursuant to the debtor's security agreement;
+(C)  the collateral is a certificated security in registered form and the security
+certificate has been delivered to the secured party under R.S. 10:8-301 pursuant to the
+debtor's security agreement;
+(D)  the collateral is controllable accounts, controllable electronic records,
+controllable payment intangibles, deposit accounts, electronic documents, investment
+property, letter-of-credit rights, or a life insurance policy, and the secured party has control
+under R.S. 10:7-106, 9-104, 9-106, 9-107, 9-107.1, or 9-107.3 pursuant to the debtor's
+security agreement; or
+(E)  the collateral is chattel paper and the secured party has possession and control
+under R.S. 10:9-314.1 pursuant to the debtor's security agreement.
+(c)  Other provisions of this Title.  Subsection (b) is subject to R.S. 10:4-210 on the
+security interest of a collecting bank, R.S. 10:5-118 on the security interest of a letter-of-credit issuer or nominated person, and R.S. 10:9-206 on security interests in investment
+property.
+(d)  When person becomes bound by another person's security agreement.  A person
+becomes bound as debtor by a security agreement entered into by another person if, by
+operation of law other than this Chapter or by contract:
+(1)  the security agreement becomes effective to create a security interest in the
+person's property; or
+(2)  the person becomes generally obligated for the obligations of the other person,
+including the obligation secured under the security agreement, and acquires or succeeds to
+all or substantially all of the assets of the other person.
+(e)  Effect of new debtor becoming bound.  If a new debtor becomes bound as debtor
+by a security agreement entered into by another person:
+(1)  the agreement satisfies Subsection (b)(3) with respect to existing or after-acquired property of the new debtor to the extent the property is described in the agreement;
+and
+(2)  another agreement is not necessary to make a security interest in the property
+enforceable.
+(f)  Proceeds and supporting obligations.  The attachment of a security interest in
+collateral gives the secured party the rights to proceeds provided by R.S. 10:9-315 and also
+includes the rights to a supporting obligation for the collateral.
+(g)  Lien securing right to payment.  The attachment of a security interest in a right
+to payment or performance secured by a security interest, mortgage, or lien on personal or
+real property also includes the rights to the security interest, mortgage, or lien.
+(h)  Security entitlement carried in securities account.  The attachment of a security
+interest in a securities account is also attachment of a security interest in the security
+entitlements carried in the securities account.
+(i)  Commodity contracts carried in commodity account.  The attachment of a security
+interest in a commodity account is also attachment of a security interest in the commodity
+contracts carried in the commodity account.
+Acts 1988, No. 528, §1, eff. Jan. 1, 1990; Acts 1989, No. 135, §7, eff. Jan. 1, 1990;
+Acts 1995, No. 884, §3, eff. Jan. 1, 1996; Acts 2001, No. 128, §1, eff. July 1, 2001; Acts
+2009, No. 207, §5, eff. Jan. 1, 2010; Acts 2024, No. 773, §1.

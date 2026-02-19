@@ -1,0 +1,72 @@
+RS 10:9-503
+Name of debtor and secured party
+https://www.legis.la.gov/legis/Law.aspx?d=74461
+
+§9-503.  Name of debtor and secured party
+(a)  Sufficiency of debtor's name.  A financing statement sufficiently provides the
+name of the debtor:
+(1)  except as otherwise provided in Paragraph (3) of this Subsection, if the debtor
+is a registered organization or the collateral is held in a trust that is a registered organization,
+only if the financing statement provides the name that is stated to be the registered
+organization's name on the public organic record most recently filed with or issued or enacted
+by the registered organization's jurisdiction of organization which purports to state, amend,
+or restate the registered organization's name;
+(2)  subject to Subsection (f) of this Section, if the collateral is being administered
+by the personal representative of a decedent, only if the financing statement provides, as the
+name of the debtor, the name of the decedent and, in a separate part of the financing
+statement, indicates that the collateral is being administered by a personal representative;
+(3)  if the collateral is held in a trust that is not a registered organization, only if the
+financing statement:
+(A)  provides, as the name of the debtor:
+(i)  if the organic record of the trust specifies a name for the trust, the name specified;
+or
+(ii)  if the organic record of the trust does not specify a name for the trust, the name
+of the settlor or testator; and
+(B)  in a separate part of the financing statement:
+(i)  if the name is provided in accordance with Item (A)(i) of this Paragraph, indicates
+that the collateral is held in a trust; or
+(ii)  if the name is provided in accordance with Item (A)(ii) of this Paragraph,
+provides additional information sufficient to distinguish the trust from other trusts having
+one or more of the same settlors or the same testator and indicates that the collateral is held
+in a  trust, unless the additional information so indicates;
+(4)  subject to Subsection (g) of this Section, if the debtor is an individual to whom
+this state has issued a driver's license that has not expired, only if the financing statement
+provides the name  of the individual which is indicated on the driver's license;
+(5)  if the debtor is an individual to whom Paragraph (4) of this Subsection does not
+apply, only if the  financing statement provides the individual name of the debtor or the
+surname and first personal  name of the debtor; and
+(6)  in other cases:
+(A)  if the debtor has a name, only if the financing statement provides the
+organizational name of the debtor; and
+(B)  if the debtor does not have a name, only if it provides the names of the partners,
+members, associates, or other persons comprising the debtor, in a manner that each name
+provided would be sufficient if the person named were the debtor.
+(b)  Additional debtor-related information.  A financing statement that provides the
+name of the debtor in accordance with Subsection (a) of this Section  is not rendered
+ineffective by the absence of:
+(1)  a trade name or other name of the debtor; or
+(2)  unless required under Subparagraph (a)(6)(B) of this Section, names of partners,
+members, associates, or other persons comprising the debtor.
+(c)  Debtor's trade name insufficient.  A financing statement that provides only the
+debtor's trade name does not sufficiently provide the name of the debtor.
+(d)  Representative capacity.  Failure to indicate the representative capacity of a
+secured party or representative of a secured party does not affect the sufficiency of a
+financing statement.
+(e)  Multiple debtors and secured parties.  A financing statement may provide the
+name of more than one debtor and the name of more than one secured party.
+(f)  Name of decedent.  The name of the decedent indicated on the order appointing
+the personal representative of the decedent issued by the court having jurisdiction over the
+collateral is sufficient as the "name of the decedent" under Paragraph (a)(2) of this Section.
+(g)  Multiple driver's licenses.  If this state has issued to an individual more than one
+driver's license of a kind described in Paragraph (a)(4) of this Section, the one that was issued
+most recently is the one to which Paragraph (a)(4) of this Section refers.
+(h)  Definition.  In this Section, the "name of the settlor or testator" means:
+(1)  if the settlor is a registered organization, the name that is stated to be the settlor's
+name on the public organic record most recently filed with or issued or enacted by the
+settlor's jurisdiction of organization which purports to state, amend, or restate the settlor's
+name; or
+(2)  in other cases, the name of the settlor or testator indicated in the trust's organic
+record.
+Acts 1988, No. 528, §1, eff. Jan. 1, 1990; Acts 1989, No. 135, §7, eff. Jan. 1, 1990;
+Acts 1990, No. 1079, §4, eff. Sept. 1, 1990; Acts 1995, No. 884, §5, eff. Jan. 1, 1996; Acts
+2001, No. 128, §1, eff. July 1, 2001; Acts 2012, No. 450, §1, eff. July 1, 2013.

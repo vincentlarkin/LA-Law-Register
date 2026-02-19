@@ -1,0 +1,45 @@
+RS 6:301
+Cash reserves
+https://www.legis.la.gov/legis/Law.aspx?d=105912
+
+PART X.  RESERVES
+§301.  Cash reserves
+A.  For the purpose of the reserve requirements provided in this Section, the terms:
+(1)  "Demand deposits" means the aggregate of deposits which can be required to be paid on demand or within less than fourteen days of demand; however, deposits made in the savings department of a state bank which are made on the condition that they may not be withdrawn except on notice shall not be considered demand deposits.
+(2)  "Time deposits" means deposits which cannot be required to be paid within less than fourteen days.
+(3)  "Net demand deposits" means demand deposits less cash items in transit and cash items in process of collection.
+(4)  "Cash items in transit" means items in transit for collection.
+(5)  "Cash items in process of collection" means items which are to be collected or credited within twenty-four hours.
+B.  Every state bank shall at all times maintain a reserve fund in an amount fixed by regulation of the commissioner, provided the minimum and maximum reserve ratios fixed by the commissioner for net demand deposits and for time deposits shall be within the range of such ratios established for member banks of the Federal Reserve System or within the lower minimum and higher maximum for such ratios, if more than one range of ratios are established for member banks of the Federal Reserve System; but in no event shall the commissioner fix a reserve ratio on a particular type of deposit higher than the specific ratio prevailing for member banks of the Federal Reserve System located in the state of Louisiana.
+C.  Until otherwise provided by regulation of the commissioner, every state bank shall at all times maintain reserves as follows:
+(1)  Net demand deposits:
+Amount of net demand
+Reserve percentages
+Deposits
+Applicable
+First $2 million or less
+8
+percent
+Over $2 million to $10 million
+10
+percent
+Over $10 million to $100 million
+12
+percent
+Over $100 million to $400 million
+13
+percent
+Over $400 million
+14
+percent
+(a)  Eight percent of its net demand deposits if its aggregate net demand deposits are $2 million or less.
+(b)  $160,000 plus ten percent of its net demand deposits in excess of $2 million but less than $10 million.
+(c)  $960,000 plus twelve percent of its net demand deposits in excess of $10 million if its aggregate net demand deposits are in excess of $10 million but less than $100 million.
+(d)  $11,760,000 plus thirteen percent of its net demand deposits in excess of $100 million if its aggregate net demand deposits are in excess of $100 million but less than $400 million.
+(e)  $50,760,000 plus fourteen percent of its net demand deposits in excess of $400 million.
+(2)  Three percent of all time deposits.
+D.  Notwithstanding reserve requirements provided by Subsections C and E of this Section or by regulation of the commissioner as authorized by Subsection B of this Section, every state bank which complies with the reserve requirements for member banks of the Federal Reserve System shall be deemed to be in full compliance with the reserve requirement of this Chapter.
+E.(1)  Cash items in transit and cash items in process of collection shall not be included as part of the reserve fund.
+(2)  Every state bank may include as a part of its required reserve fund an investment up to, but not exceeding, fifty percent of said required reserves, made in direct obligations of the United States government and backed by its full faith and credit, which mature within two years from the date of computation of the required reserve.  A portion of said fifty percent maximum, not to exceed one-half thereof, may be made in direct obligations of the state of Louisiana and backed by its full faith and credit, which mature within two years from the date of the computation of the required reserve.  Both types of securities shall be owned by the bank on the date of the reserve computation and not be subject to a pledge, right of repurchase, or in any way hypothecated.
+F.  For the purpose of compliance with the reserve requirement of this Section, a bank may average its reserve of cash and due from banks over a semimonthly period as may be provided by regulation of the commissioner; and the average amount of cash and due from banks computed at the close of each semimonthly period shall determine whether or not the bank is meeting its reserve requirements.
+Acts 1984, No. 719, §1, eff. Jan. 1, 1985.

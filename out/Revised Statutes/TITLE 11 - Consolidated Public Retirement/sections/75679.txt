@@ -1,0 +1,12 @@
+RS 11:408.2
+Establishment of procedures for the use of electronic signatures and records
+https://www.legis.la.gov/legis/Law.aspx?d=75679
+
+§408.2.  Establishment of procedures for the use of electronic signatures and records
+A.  To the extent that a reporting member agency uses electronic records and electronic signatures under this Part, the agency shall report in accordance with procedures established by the system in accordance with the Administrative Procedure Act and the system shall give due consideration to security and shall specify:
+(1)  The manner and format in which the electronic records must be created, generated, sent, communicated, received, and stored and the systems established for those purposes.
+(2)  If electronic records must be signed by electronic means, the type of electronic signature required, the manner and format in which the electronic signature must be affixed to the electronic record, and the identity of, or criteria that must be met by, any third party used by a person filing a document to facilitate the process.
+(3)  Control processes and procedures as appropriate to ensure adequate preservation, disposition, integrity, security, confidentiality, and auditability of electronic records.
+(4)  Any other required attributes for electronic records which are specified for corresponding nonelectronic records or reasonably necessary under the circumstances.
+B.  Nothing in this Part shall require an agency of this state to use or permit the use of electronic records or electronic signatures if that agency cannot comply with the established requirements.
+Acts 2001, No. 234, §1, eff. June 1, 2001.

@@ -1,0 +1,25 @@
+RS 10:9-605
+Unknown debtor or secondary obligor
+https://www.legis.la.gov/legis/Law.aspx?d=74490
+
+§9-605.  Unknown debtor or secondary obligor
+(a)  In general: No duty owed by secured party.  Except as provided in Subsection (b)
+of this Section, a secured party does not owe a duty based on its status as secured party:
+(1)  to a person that is a debtor or obligor, unless the secured party knows:
+(A)  that the person is a debtor or obligor;
+(B)  the identity of the person; and
+(C)  how to communicate with the person; or
+(2)  to a secured party or lienholder that has filed a financing statement against a
+person, unless the secured party knows:
+(A)  that the person is a debtor; and
+(B)  the identity of the person.
+(b)  Exception: Secured party owes duty to debtor or obligor.  A secured party owes
+a duty based on its status as a secured party to a person if, at the time the secured party
+obtains control of collateral that is a controllable account, controllable electronic record, or
+controllable payment intangible or at the time the security interest attaches to the collateral,
+whichever is later:
+(1)  the person is a debtor or obligor; and
+(2)  the secured party knows that the information in Subparagraph (a)(1)(A), (B), or
+(C) of this Section relating to the person is not provided by the collateral, a record attached
+to or logically associated with the collateral, or the system in which the collateral is recorded.
+Acts 2001, No. 128, §1, eff. July 1, 2001; Acts 2024, No. 773, §1.

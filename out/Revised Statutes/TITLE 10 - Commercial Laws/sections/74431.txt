@@ -1,0 +1,10 @@
+RS 10:9-329.1
+Priority of security interest in a life insurance policy
+https://www.legis.la.gov/legis/Law.aspx?d=74431
+
+§9-329.1.  Priority of security interest in a life insurance policy
+The following rules govern priority among conflicting security interests in the same life insurance policy:
+(1)  A security interest held by an insurer has priority over a conflicting security interest held by another secured party.
+(2)  A secured party that has control over the life insurance policy has priority over a conflicting security interest held by a secured party without control.
+(3)  Except as otherwise provided in Paragraph (1), security interests perfected by control under R.S. 10:9-314 rank according to priority in time of obtaining control.
+Acts 2001, No. 128, §1, eff. July 1, 2001.

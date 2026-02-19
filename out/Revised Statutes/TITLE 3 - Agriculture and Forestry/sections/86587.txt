@@ -1,0 +1,19 @@
+RS 3:4641
+Standard rule for measuring saw logs
+https://www.legis.la.gov/legis/Law.aspx?d=86587
+
+SUBPART B.  SAW LOGS
+§4641.  Standard rule for measuring saw logs
+A.  The standard rule or scale for the measurement of saw logs in this state is the Doyle Log Rule.
+B.  The procedure for using the Doyle Log Rule is as follows:
+Deduct four inches from the top diameter of the log inside the bark as an allowance for slab and edging.  Square one-quarter of the remainder and multiply by the length of the log in feet.  The result is the contents in board feet.
+C.  The formula and values for the Doyle Log Rule are as follows:
+(1) The formula is:
+B.F.=((D-4)/4)
+2
+x L
+(2)  The values for the elements of the formula are as follows:
+(a)  "B.F." is the volume in board feet.
+(b)  "D" is the top diameter of the log inside the bark in inches.
+(c)  "L" is the length of the log in feet.
+Acts 1992, No. 55, §1.

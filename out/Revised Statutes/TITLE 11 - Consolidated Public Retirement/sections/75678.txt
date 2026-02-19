@@ -1,0 +1,13 @@
+RS 11:408.1
+Use of electronic signature on retirement records
+https://www.legis.la.gov/legis/Law.aspx?d=75678
+
+PART I-A.  ELECTRONIC SIGNATURES AND RECORDS
+§408.1.  Use of electronic signature on retirement records
+A.  A record or signature utilized by the Louisiana State Employees' Retirement System may not be denied legal effect or enforceability solely because it is in electronic form.  Any such signature or record in electronic form shall have the full effect of law.
+B.  If a law requires a record to be in writing, an electronic record satisfies the law.
+C.  If a law requires a signature, an electronic signature satisfies the law.
+D.  Unless otherwise agreed between a sender and the system, an electronic record is received when:
+(1)  It enters an information-processing system that the retirement system has designated or uses for the purpose of receiving electronic records or information of the type sent and from which the recipient is able to retrieve the electronic record.
+(2)  It is in a form capable of being processed by the system.
+Acts 2001, No. 234, §1, eff. June 1, 2001.

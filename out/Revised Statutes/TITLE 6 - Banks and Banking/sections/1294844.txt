@@ -1,0 +1,35 @@
+RS 6:1402
+Provision of virtual currency custody services
+https://www.legis.la.gov/legis/Law.aspx?d=1294844
+
+§1402.  Provision of virtual currency custody services
+A.  A financial institution or trust company may provide its customers with virtual
+currency custody services if the financial institution or trust company has adequate protocols
+in place to effectively manage risks and comply with applicable laws.  A financial institution
+or trust company may provide virtual currency custody services through third-party service
+providers.  Prior to a financial institution or trust company offering virtual currency custody
+services, the financial institution or trust company shall carefully examine the risks involved
+in offering such services through a methodical self-assessment process.  If a financial
+institution or trust company decides to offer such services, the financial institution or trust
+company shall do all of the following:
+(1)  Implement effective risk management systems and controls to measure, monitor,
+and control relevant risks associated with custody of digital assets such as virtual currency.
+(2)  Confirm that it has adequate insurance coverage for such services.
+(3)  Maintain a service provider oversight program to address risks to service provider
+relationships as a result of engaging in virtual currency custody services.
+B.(1)  Consistent with authority provided through the entity's charter, a financial
+institution or trust company may provide virtual currency custody services in either a
+nonfiduciary or fiduciary capacity.
+(2)  In providing such services in a nonfiduciary capacity, the financial institution or
+trust company shall take possession of the customer's asset for safekeeping while legal title
+remains with the customer.  The customer shall retain direct control over the keys associated
+with his virtual currency.
+(3)  In providing such services in a fiduciary capacity, a financial institution or trust
+company is required to possess trust powers as provided for in R.S. 6:241, 575, and 731.
+Acting in a fiduciary capacity, the financial institution or trust company shall require
+customers to transfer their virtual currencies to the control of the financial institution or trust
+company by creating new private keys to be held by the financial institution or trust
+company.  In its fiduciary capacity, a financial institution or trust company shall have
+authority to manage virtual currency assets as it would any other type of asset held in such
+capacity.
+Acts 2022, No. 509, §1.

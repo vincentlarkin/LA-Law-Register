@@ -1,0 +1,4862 @@
+{
+  "category_key": "revised-statutes",
+  "category_name": "Revised Statutes",
+  "bundle_name": "TITLE 6 - Banks and Banking",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "RS 6:1",
+      "title": "TITLE 6BANKS AND BANKING",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105638"
+    },
+    {
+      "order": 2,
+      "citation": "RS 6:2",
+      "title": "General definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105859"
+    },
+    {
+      "order": 3,
+      "citation": "RS 6:3",
+      "title": "Effect on existing banks",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105911"
+    },
+    {
+      "order": 4,
+      "citation": "RS 6:4",
+      "title": "Employment reference; release of certain information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105974"
+    },
+    {
+      "order": 5,
+      "citation": "RS 6:5",
+      "title": "Public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105993"
+    },
+    {
+      "order": 6,
+      "citation": "RS 6:101",
+      "title": "Establishment of office; commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105650"
+    },
+    {
+      "order": 7,
+      "citation": "RS 6:102",
+      "title": "Officers and employees; post-employment restriction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105658"
+    },
+    {
+      "order": 8,
+      "citation": "RS 6:103",
+      "title": "Records of the Office of Financial Institutions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105659"
+    },
+    {
+      "order": 9,
+      "citation": "RS 6:121",
+      "title": "Regulatory powers; promulgation of rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105749"
+    },
+    {
+      "order": 10,
+      "citation": "RS 6:121.1",
+      "title": "Enforcement powers of commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105750"
+    },
+    {
+      "order": 11,
+      "citation": "RS 6:121.1.1",
+      "title": "Restrictions on enforcement power; cannabis-related legitimate businesses and service providers; egregious violations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187458"
+    },
+    {
+      "order": 12,
+      "citation": "RS 6:121.2",
+      "title": "Authority to obtain criminal history record information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105751"
+    },
+    {
+      "order": 13,
+      "citation": "RS 6:121.3",
+      "title": "Guidance by commissioner; advisory opinions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105752"
+    },
+    {
+      "order": 14,
+      "citation": "RS 6:121.4",
+      "title": "Addition of directors and executive officers of troubled state- chartered institutions and holding companies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105753"
+    },
+    {
+      "order": 15,
+      "citation": "RS 6:121.5",
+      "title": "Application containing false information or misrepresentations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105754"
+    },
+    {
+      "order": 16,
+      "citation": "RS 6:121.6",
+      "title": "Authority of the commissioner; nondepository institutions; emergencies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330370"
+    },
+    {
+      "order": 17,
+      "citation": "RS 6:121.7",
+      "title": "Return of payment; imposition of fee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409446"
+    },
+    {
+      "order": 18,
+      "citation": "RS 6:121.8",
+      "title": "Licensing systems",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=762741"
+    },
+    {
+      "order": 19,
+      "citation": "RS 6:122",
+      "title": "Power to issue cease and desist orders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105755"
+    },
+    {
+      "order": 20,
+      "citation": "RS 6:123",
+      "title": "Visitation and examination of state financial institutions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105766"
+    },
+    {
+      "order": 21,
+      "citation": "RS 6:124",
+      "title": "Call reports; statement of financial condition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105775"
+    },
+    {
+      "order": 22,
+      "citation": "RS 6:124.1",
+      "title": "Community reinvestment rating; acceptance of public funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105776"
+    },
+    {
+      "order": 23,
+      "citation": "RS 6:125",
+      "title": "Reports of financial condition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105777"
+    },
+    {
+      "order": 24,
+      "citation": "RS 6:126",
+      "title": "Assessments on financial institutions; disposition of fees; creation of special fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105787"
+    },
+    {
+      "order": 25,
+      "citation": "RS 6:127",
+      "title": "Retention of records of financial institutions; microfilm",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105793"
+    },
+    {
+      "order": 26,
+      "citation": "RS 6:128",
+      "title": "Financial institutions' holidays; regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105803"
+    },
+    {
+      "order": 27,
+      "citation": "RS 6:129",
+      "title": "Circulating rumor respecting condition of financial institution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105811"
+    },
+    {
+      "order": 28,
+      "citation": "RS 6:130",
+      "title": "Relocation of main office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105812"
+    },
+    {
+      "order": 29,
+      "citation": "RS 6:131",
+      "title": "Applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105822"
+    },
+    {
+      "order": 30,
+      "citation": "RS 6:132",
+      "title": "Written decision; reasons; hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105828"
+    },
+    {
+      "order": 31,
+      "citation": "RS 6:133",
+      "title": "Reconsideration of decision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105831"
+    },
+    {
+      "order": 32,
+      "citation": "RS 6:134",
+      "title": "Judicial review; venue; effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105841"
+    },
+    {
+      "order": 33,
+      "citation": "RS 6:135",
+      "title": "Record filed with court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105844"
+    },
+    {
+      "order": 34,
+      "citation": "RS 6:136",
+      "title": "Basis for judicial review",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105849"
+    },
+    {
+      "order": 35,
+      "citation": "RS 6:137",
+      "title": "Judicial review; test; burden",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105857"
+    },
+    {
+      "order": 36,
+      "citation": "RS 6:138",
+      "title": "Remand to the commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105858"
+    },
+    {
+      "order": 37,
+      "citation": "RS 6:201",
+      "title": "STATE BANKS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105860"
+    },
+    {
+      "order": 38,
+      "citation": "RS 6:211",
+      "title": "Incorporation; number of incorporators, application for certificate of authority, filing fee; organization as a limited liability company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105861"
+    },
+    {
+      "order": 39,
+      "citation": "RS 6:212",
+      "title": "Corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105862"
+    },
+    {
+      "order": 40,
+      "citation": "RS 6:213",
+      "title": "Articles of incorporation, filing, form, content; letter of acceptance for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105863"
+    },
+    {
+      "order": 41,
+      "citation": "RS 6:214",
+      "title": "Investigation into proposed state bank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105864"
+    },
+    {
+      "order": 42,
+      "citation": "RS 6:215",
+      "title": "Capital requirements; additional condition precedent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105865"
+    },
+    {
+      "order": 43,
+      "citation": "RS 6:216",
+      "title": "Certificate of authority; issuance, refusal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105866"
+    },
+    {
+      "order": 44,
+      "citation": "RS 6:217",
+      "title": "Effect of issuance of certificate of authority, filing requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105867"
+    },
+    {
+      "order": 45,
+      "citation": "RS 6:218",
+      "title": "Expenses of organization and financing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105868"
+    },
+    {
+      "order": 46,
+      "citation": "RS 6:219",
+      "title": "Bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105869"
+    },
+    {
+      "order": 47,
+      "citation": "RS 6:220",
+      "title": "Stockholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105870"
+    },
+    {
+      "order": 48,
+      "citation": "RS 6:231",
+      "title": "Method of amending articles generally",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105871"
+    },
+    {
+      "order": 49,
+      "citation": "RS 6:232",
+      "title": "Articles of amendment; contents and filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105872"
+    },
+    {
+      "order": 50,
+      "citation": "RS 6:233",
+      "title": "Restatement of articles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105873"
+    },
+    {
+      "order": 51,
+      "citation": "RS 6:234",
+      "title": "Special amendment provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105874"
+    },
+    {
+      "order": 52,
+      "citation": "RS 6:241",
+      "title": "General corporate powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105875"
+    },
+    {
+      "order": 53,
+      "citation": "RS 6:242",
+      "title": "Banking powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105876"
+    },
+    {
+      "order": 54,
+      "citation": "RS 6:243",
+      "title": "Immovable property; dealings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105877"
+    },
+    {
+      "order": 55,
+      "citation": "RS 6:244",
+      "title": "Transfers by bank and other acts in contemplation of insolvency",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105878"
+    },
+    {
+      "order": 56,
+      "citation": "RS 6:245",
+      "title": "Changes in core business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207715"
+    },
+    {
+      "order": 57,
+      "citation": "RS 6:246",
+      "title": "Bank operating subsidiaries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147872"
+    },
+    {
+      "order": 58,
+      "citation": "RS 6:251",
+      "title": "Classes of shares; fractional shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105879"
+    },
+    {
+      "order": 59,
+      "citation": "RS 6:252",
+      "title": "Issuance of shares; consideration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105880"
+    },
+    {
+      "order": 60,
+      "citation": "RS 6:253",
+      "title": "Reservation of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105881"
+    },
+    {
+      "order": 61,
+      "citation": "RS 6:254",
+      "title": "Convertible securities and stock-purchase rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105882"
+    },
+    {
+      "order": 62,
+      "citation": "RS 6:255",
+      "title": "Certificates of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105883"
+    },
+    {
+      "order": 63,
+      "citation": "RS 6:256",
+      "title": "Transfer of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105884"
+    },
+    {
+      "order": 64,
+      "citation": "RS 6:257",
+      "title": "Restriction on transfer of shares and other securities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320673"
+    },
+    {
+      "order": 65,
+      "citation": "RS 6:261",
+      "title": "Accounting procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105885"
+    },
+    {
+      "order": 66,
+      "citation": "RS 6:262",
+      "title": "Impairment of capital; special meeting; notice to restore capital; assessments against stockholders; voluntary restoration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105886"
+    },
+    {
+      "order": 67,
+      "citation": "RS 6:263",
+      "title": "Dividends; stock purchased or redeemed; capital surplus required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105887"
+    },
+    {
+      "order": 68,
+      "citation": "RS 6:271",
+      "title": "Stockholders' preemptive rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105888"
+    },
+    {
+      "order": 69,
+      "citation": "RS 6:272",
+      "title": "Stockholders' meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105889"
+    },
+    {
+      "order": 70,
+      "citation": "RS 6:273",
+      "title": "Quorum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105890"
+    },
+    {
+      "order": 71,
+      "citation": "RS 6:274",
+      "title": "Voting of stockholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105891"
+    },
+    {
+      "order": 72,
+      "citation": "RS 6:275",
+      "title": "Consent of stockholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105892"
+    },
+    {
+      "order": 73,
+      "citation": "RS 6:276",
+      "title": "Fixing record date",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105893"
+    },
+    {
+      "order": 74,
+      "citation": "RS 6:277",
+      "title": "Voting trusts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105894"
+    },
+    {
+      "order": 75,
+      "citation": "RS 6:278",
+      "title": "Registered holder of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105895"
+    },
+    {
+      "order": 76,
+      "citation": "RS 6:279",
+      "title": "Inspection of books and records of state banks; annual report to stockholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105896"
+    },
+    {
+      "order": 77,
+      "citation": "RS 6:281",
+      "title": "Board of directors; powers, number, term",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105897"
+    },
+    {
+      "order": 78,
+      "citation": "RS 6:282",
+      "title": "Board of directors; eligibility, election, oath",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105898"
+    },
+    {
+      "order": 79,
+      "citation": "RS 6:283",
+      "title": "Meetings of the board; quorum, written consent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105899"
+    },
+    {
+      "order": 80,
+      "citation": "RS 6:284",
+      "title": "Committees of the board of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105900"
+    },
+    {
+      "order": 81,
+      "citation": "RS 6:284.1",
+      "title": "Compliance review committees; privilege created",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105901"
+    },
+    {
+      "order": 82,
+      "citation": "RS 6:285",
+      "title": "Officers and agents; election, powers, duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105902"
+    },
+    {
+      "order": 83,
+      "citation": "RS 6:286",
+      "title": "Indemnification of officers, directors, employees, and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105903"
+    },
+    {
+      "order": 84,
+      "citation": "RS 6:287",
+      "title": "Bond of officers and employees; insurance fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105904"
+    },
+    {
+      "order": 85,
+      "citation": "RS 6:288",
+      "title": "Interested directors; quorum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105905"
+    },
+    {
+      "order": 86,
+      "citation": "RS 6:289",
+      "title": "Loans to executive officers and employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105906"
+    },
+    {
+      "order": 87,
+      "citation": "RS 6:290",
+      "title": "Directors' examinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105907"
+    },
+    {
+      "order": 88,
+      "citation": "RS 6:291",
+      "title": "Relation and liability of directors and officers to bank and bank holding company stockholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105908"
+    },
+    {
+      "order": 89,
+      "citation": "RS 6:292",
+      "title": "Directors or stockholders not participating in unlawful act",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105909"
+    },
+    {
+      "order": 90,
+      "citation": "RS 6:293",
+      "title": "Actions against directors and officers of banks and bank holding companies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105910"
+    },
+    {
+      "order": 91,
+      "citation": "RS 6:301",
+      "title": "Cash reserves",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105912"
+    },
+    {
+      "order": 92,
+      "citation": "RS 6:302",
+      "title": "Depleted reserve; notice, penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105913"
+    },
+    {
+      "order": 93,
+      "citation": "RS 6:303",
+      "title": "Sale and purchase of excess reserves; reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105914"
+    },
+    {
+      "order": 94,
+      "citation": "RS 6:311",
+      "title": "Types of accounts authorized to offer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105915"
+    },
+    {
+      "order": 95,
+      "citation": "RS 6:311.1",
+      "title": "Powers of attorney, procuration, and mandate; written notice of revocation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814368"
+    },
+    {
+      "order": 96,
+      "citation": "RS 6:312",
+      "title": "Alternative deposits; payment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105916"
+    },
+    {
+      "order": 97,
+      "citation": "RS 6:313",
+      "title": "Withdrawal of money or property deposited by or for minors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105917"
+    },
+    {
+      "order": 98,
+      "citation": "RS 6:314",
+      "title": "Trust deposits; death of depositor, payment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105918"
+    },
+    {
+      "order": 99,
+      "citation": "RS 6:315",
+      "title": "Adverse claims to deposit; procedure, indemnifying bond",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105919"
+    },
+    {
+      "order": 100,
+      "citation": "RS 6:315.1",
+      "title": "Transfer of small deposits; death of depositor; affidavits required; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105920"
+    },
+    {
+      "order": 101,
+      "citation": "RS 6:316",
+      "title": "Pledge of deposit accounts; rights and remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105921"
+    },
+    {
+      "order": 102,
+      "citation": "RS 6:317",
+      "title": "Ownership of deposited funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105922"
+    },
+    {
+      "order": 103,
+      "citation": "RS 6:318",
+      "title": "Letters of credit; use by banks",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105923"
+    },
+    {
+      "order": 104,
+      "citation": "RS 6:319",
+      "title": "Public funds deposits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320680"
+    },
+    {
+      "order": 105,
+      "citation": "RS 6:321",
+      "title": "Access to safety deposit box leased by multiple persons",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105924"
+    },
+    {
+      "order": 106,
+      "citation": "RS 6:322",
+      "title": "Access to safety deposit box leased by corporation or unincorporated association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105925"
+    },
+    {
+      "order": 107,
+      "citation": "RS 6:323",
+      "title": "Access to safety deposit box leased by trust estate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105926"
+    },
+    {
+      "order": 108,
+      "citation": "RS 6:324",
+      "title": "Access to safety deposit box leased by a person or persons with designated agent or deputy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105927"
+    },
+    {
+      "order": 109,
+      "citation": "RS 6:325",
+      "title": "Death of a customer and access and transfer of contents of safety deposit boxes, money, and other property by bank to succession or estate representatives, legatees, or heirs; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105928"
+    },
+    {
+      "order": 110,
+      "citation": "RS 6:326",
+      "title": "Transfer of contents of safety deposit boxes, money and other property by bank to legal representatives of minors or interdicts; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105929"
+    },
+    {
+      "order": 111,
+      "citation": "RS 6:327",
+      "title": "Abandonment of safety deposit box",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105930"
+    },
+    {
+      "order": 112,
+      "citation": "RS 6:327.1",
+      "title": "Disposition of abandoned safety deposit box contents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187459"
+    },
+    {
+      "order": 113,
+      "citation": "RS 6:328",
+      "title": "Access to safety deposit boxes by authorized persons; security procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105931"
+    },
+    {
+      "order": 114,
+      "citation": "RS 6:331",
+      "title": "REPEALED BY ACTS 1993, NO. 278, 1, EFF. JAN. 1, 1994.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105932"
+    },
+    {
+      "order": 115,
+      "citation": "RS 6:332",
+      "title": "Attorney fiduciary accounts; overdraft notification to office of disciplinary counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105933"
+    },
+    {
+      "order": 116,
+      "citation": "RS 6:333",
+      "title": "Disclosure of financial records; reimbursement of costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105934"
+    },
+    {
+      "order": 117,
+      "citation": "RS 6:334",
+      "title": "Foreclosure of mortgage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105935"
+    },
+    {
+      "order": 118,
+      "citation": "RS 6:335",
+      "title": "Sharing of electronic financial terminals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105936"
+    },
+    {
+      "order": 119,
+      "citation": "RS 6:336",
+      "title": "Legal and regulatory compliance; self-evaluations; privilege of results",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105937"
+    },
+    {
+      "order": 120,
+      "citation": "RS 6:337",
+      "title": "Duty of secured party upon payment of insurance claim for damage to mortgaged residential property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=366001"
+    },
+    {
+      "order": 121,
+      "citation": "RS 6:338",
+      "title": "Insurance settlement proceeds; return of excess funds; enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=366023"
+    },
+    {
+      "order": 122,
+      "citation": "RS 6:341",
+      "title": "Tender and acceptance of United States government gold and silver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1386342"
+    },
+    {
+      "order": 123,
+      "citation": "RS 6:351",
+      "title": "Authorization for mergers, consolidations, and share exchanges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105938"
+    },
+    {
+      "order": 124,
+      "citation": "RS 6:352",
+      "title": "Merger or consolidation procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105939"
+    },
+    {
+      "order": 125,
+      "citation": "RS 6:352.1",
+      "title": "Share exchange procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105940"
+    },
+    {
+      "order": 126,
+      "citation": "RS 6:353",
+      "title": "Consolidation; articles of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105941"
+    },
+    {
+      "order": 127,
+      "citation": "RS 6:354",
+      "title": "When merger or consolidation effective",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105942"
+    },
+    {
+      "order": 128,
+      "citation": "RS 6:355",
+      "title": "Effect of merger or consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105943"
+    },
+    {
+      "order": 129,
+      "citation": "RS 6:361",
+      "title": "National bank converting into state bank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105944"
+    },
+    {
+      "order": 130,
+      "citation": "RS 6:362",
+      "title": "State bank converting into national bank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105945"
+    },
+    {
+      "order": 131,
+      "citation": "RS 6:363",
+      "title": "Continuation of corporate entity; use of old name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105946"
+    },
+    {
+      "order": 132,
+      "citation": "RS 6:364",
+      "title": "State bank converting into state stock savings and loan association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105947"
+    },
+    {
+      "order": 133,
+      "citation": "RS 6:364.1",
+      "title": "Approval of conversion; effective date of conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105948"
+    },
+    {
+      "order": 134,
+      "citation": "RS 6:364.2",
+      "title": "Effect of conversion from state bank into state stock savings and loan association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105949"
+    },
+    {
+      "order": 135,
+      "citation": "RS 6:365",
+      "title": "Federal or state stock savings and loan association converting into a state-chartered bank or savings bank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105950"
+    },
+    {
+      "order": 136,
+      "citation": "RS 6:365.1",
+      "title": "Merger or conversion of an existing financial institution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105951"
+    },
+    {
+      "order": 137,
+      "citation": "RS 6:366",
+      "title": "Voluntary transfer of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105952"
+    },
+    {
+      "order": 138,
+      "citation": "RS 6:367",
+      "title": "Voluntary purchase of assets and liabilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105953"
+    },
+    {
+      "order": 139,
+      "citation": "RS 6:371",
+      "title": "Voluntary liquidations and dissolutions of solvent banks with prior approval of commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105954"
+    },
+    {
+      "order": 140,
+      "citation": "RS 6:372",
+      "title": "Liquidation procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105955"
+    },
+    {
+      "order": 141,
+      "citation": "RS 6:376",
+      "title": "Rights of a stockholder dissenting from certain actions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105956"
+    },
+    {
+      "order": 142,
+      "citation": "RS 6:381",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105957"
+    },
+    {
+      "order": 143,
+      "citation": "RS 6:382",
+      "title": "Authority of commissioner to take possession and commence conservatorship of state bank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105958"
+    },
+    {
+      "order": 144,
+      "citation": "RS 6:383",
+      "title": "Transfer of title to bank assets; extension of prescriptive periods",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105959"
+    },
+    {
+      "order": 145,
+      "citation": "RS 6:384",
+      "title": "Notice of conservatorship; effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105960"
+    },
+    {
+      "order": 146,
+      "citation": "RS 6:385",
+      "title": "Conservator's power to manage and control bank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105961"
+    },
+    {
+      "order": 147,
+      "citation": "RS 6:386",
+      "title": "Objection to conservatorship",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105962"
+    },
+    {
+      "order": 148,
+      "citation": "RS 6:387",
+      "title": "Decision to liquidate bank or terminate conservatorship",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105963"
+    },
+    {
+      "order": 149,
+      "citation": "RS 6:391",
+      "title": "Commencement of receivership; confirmation of receiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105964"
+    },
+    {
+      "order": 150,
+      "citation": "RS 6:392",
+      "title": "Emergency sale of assets; purchase and assumption of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105965"
+    },
+    {
+      "order": 151,
+      "citation": "RS 6:393",
+      "title": "Notice to creditors and depositors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105966"
+    },
+    {
+      "order": 152,
+      "citation": "RS 6:394",
+      "title": "Payment of claims",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105967"
+    },
+    {
+      "order": 153,
+      "citation": "RS 6:394.1",
+      "title": "Right of set-off",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105968"
+    },
+    {
+      "order": 154,
+      "citation": "RS 6:395",
+      "title": "Distribution of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105969"
+    },
+    {
+      "order": 155,
+      "citation": "RS 6:396",
+      "title": "Termination of executory contracts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105970"
+    },
+    {
+      "order": 156,
+      "citation": "RS 6:397",
+      "title": "Subrogation to rights of bank depositors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105971"
+    },
+    {
+      "order": 157,
+      "citation": "RS 6:398",
+      "title": "Liquidation procedures involving trust assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105972"
+    },
+    {
+      "order": 158,
+      "citation": "RS 6:399",
+      "title": "Destruction of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105973"
+    },
+    {
+      "order": 159,
+      "citation": "RS 6:400",
+      "title": "Discharge of receiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105975"
+    },
+    {
+      "order": 160,
+      "citation": "RS 6:401",
+      "title": "Exclusive procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105976"
+    },
+    {
+      "order": 161,
+      "citation": "RS 6:411",
+      "title": "PROHIBITED PRACTICES; SANCTIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105977"
+    },
+    {
+      "order": 162,
+      "citation": "RS 6:412",
+      "title": "Unauthorized use of the word \"bank\" or similar words",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105978"
+    },
+    {
+      "order": 163,
+      "citation": "RS 6:412.1",
+      "title": "Soliciting using lender's name or customer loan information; restrictions; injunction; damages; attorney fees; enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=762742"
+    },
+    {
+      "order": 164,
+      "citation": "RS 6:413",
+      "title": "Prohibited use of the term \"insured savings\"",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105979"
+    },
+    {
+      "order": 165,
+      "citation": "RS 6:414",
+      "title": "Use of certain terms by persons other than financial institutions prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105980"
+    },
+    {
+      "order": 166,
+      "citation": "RS 6:414.1",
+      "title": "Derogatory statements regarding financial condition of financial institution prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105981"
+    },
+    {
+      "order": 167,
+      "citation": "RS 6:415",
+      "title": "Loans; other credit exposure; derivative transactions; restrictions; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105982"
+    },
+    {
+      "order": 168,
+      "citation": "RS 6:416",
+      "title": "Loan on pledge of own stock and pledge of own stock prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105983"
+    },
+    {
+      "order": 169,
+      "citation": "RS 6:417",
+      "title": "Unlawful solicitation or acceptance of gratuity or compensation by officer, director, or employee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105984"
+    },
+    {
+      "order": 170,
+      "citation": "RS 6:418",
+      "title": "Pledge of assets to secure deposits; exceptions; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105985"
+    },
+    {
+      "order": 171,
+      "citation": "RS 6:419",
+      "title": "Receipt of deposits while insolvent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105986"
+    },
+    {
+      "order": 172,
+      "citation": "RS 6:420",
+      "title": "False entries or reports; failure to exhibit books; reporting of criminal violations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105987"
+    },
+    {
+      "order": 173,
+      "citation": "RS 6:421",
+      "title": "Overdrafts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105988"
+    },
+    {
+      "order": 174,
+      "citation": "RS 6:422",
+      "title": "Excessive borrowings or repurchase agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105989"
+    },
+    {
+      "order": 175,
+      "citation": "RS 6:423",
+      "title": "Check-cashing facility; location of business limited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105990"
+    },
+    {
+      "order": 176,
+      "citation": "RS 6:451",
+      "title": "MISCELLANEOUS FINANCIAL INSTITUTIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105991"
+    },
+    {
+      "order": 177,
+      "citation": "RS 6:452",
+      "title": "Loan production offices; power of commissioner to adopt rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105992"
+    },
+    {
+      "order": 178,
+      "citation": "RS 6:453",
+      "title": "Deposit production offices; power of commissioner to adopt rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187456"
+    },
+    {
+      "order": 179,
+      "citation": "RS 6:454",
+      "title": "Combination of loan production office, deposit production office, and electronic financial terminal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187457"
+    },
+    {
+      "order": 180,
+      "citation": "RS 6:501",
+      "title": "Branch offices; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105994"
+    },
+    {
+      "order": 181,
+      "citation": "RS 6:502",
+      "title": "Repealed by Acts 1988, No. 39, 2, eff. June 10, 1988.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105995"
+    },
+    {
+      "order": 182,
+      "citation": "RS 6:503",
+      "title": "Repealed by Acts 1988, No. 39, 2, eff. June 10, 1988.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105996"
+    },
+    {
+      "order": 183,
+      "citation": "RS 6:504",
+      "title": "Branches in foreign countries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105997"
+    },
+    {
+      "order": 184,
+      "citation": "RS 6:505",
+      "title": "Repealed by Acts 1988, No. 39, 2, eff. June 10, 1988.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105998"
+    },
+    {
+      "order": 185,
+      "citation": "RS 6:506",
+      "title": "Certificate of authority for branch office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105999"
+    },
+    {
+      "order": 186,
+      "citation": "RS 6:507",
+      "title": "Closure of branch office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106000"
+    },
+    {
+      "order": 187,
+      "citation": "RS 6:511",
+      "title": "Declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106001"
+    },
+    {
+      "order": 188,
+      "citation": "RS 6:512",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106002"
+    },
+    {
+      "order": 189,
+      "citation": "RS 6:513",
+      "title": "Prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106003"
+    },
+    {
+      "order": 190,
+      "citation": "RS 6:514",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106004"
+    },
+    {
+      "order": 191,
+      "citation": "RS 6:515",
+      "title": "Administration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106005"
+    },
+    {
+      "order": 192,
+      "citation": "RS 6:516",
+      "title": "Savings clause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106006"
+    },
+    {
+      "order": 193,
+      "citation": "RS 6:517",
+      "title": "Minority stockholders' rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106007"
+    },
+    {
+      "order": 194,
+      "citation": "RS 6:518",
+      "title": "Oppressed shareholder's remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294838"
+    },
+    {
+      "order": 195,
+      "citation": "RS 6:521",
+      "title": "Prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106008"
+    },
+    {
+      "order": 196,
+      "citation": "RS 6:531",
+      "title": "Declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106009"
+    },
+    {
+      "order": 197,
+      "citation": "RS 6:532",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106010"
+    },
+    {
+      "order": 198,
+      "citation": "RS 6:533",
+      "title": "Scope of Part",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106011"
+    },
+    {
+      "order": 199,
+      "citation": "RS 6:534",
+      "title": "Law applicable to interstate bank branches; purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106012"
+    },
+    {
+      "order": 200,
+      "citation": "RS 6:535",
+      "title": "Interstate acquisitions; filings with commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106013"
+    },
+    {
+      "order": 201,
+      "citation": "RS 6:536",
+      "title": "Interstate bank acquisitions, filings with commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106014"
+    },
+    {
+      "order": 202,
+      "citation": "RS 6:537",
+      "title": "Emergency acquisitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106015"
+    },
+    {
+      "order": 203,
+      "citation": "RS 6:537.1",
+      "title": "Parity provision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106016"
+    },
+    {
+      "order": 204,
+      "citation": "RS 6:538",
+      "title": "Five-year continuous operation requirement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106017"
+    },
+    {
+      "order": 205,
+      "citation": "RS 6:539",
+      "title": "Agency activities; prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106018"
+    },
+    {
+      "order": 206,
+      "citation": "RS 6:540",
+      "title": "Authority to issue regulations; cooperative agreements; fees; enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106019"
+    },
+    {
+      "order": 207,
+      "citation": "RS 6:540.1",
+      "title": "Savings clause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106020"
+    },
+    {
+      "order": 208,
+      "citation": "RS 6:540.2",
+      "title": "Construction with other laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106021"
+    },
+    {
+      "order": 209,
+      "citation": "RS 6:541",
+      "title": "Declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106022"
+    },
+    {
+      "order": 210,
+      "citation": "RS 6:542",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106023"
+    },
+    {
+      "order": 211,
+      "citation": "RS 6:543",
+      "title": "Limited exception to bank holding company acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106024"
+    },
+    {
+      "order": 212,
+      "citation": "RS 6:544",
+      "title": "Organization of financial service center banks",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106025"
+    },
+    {
+      "order": 213,
+      "citation": "RS 6:545",
+      "title": "Powers and functions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106026"
+    },
+    {
+      "order": 214,
+      "citation": "RS 6:546",
+      "title": "Additional powers; rate export",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106027"
+    },
+    {
+      "order": 215,
+      "citation": "RS 6:547",
+      "title": "Additional requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106028"
+    },
+    {
+      "order": 216,
+      "citation": "RS 6:548",
+      "title": "Interest rate parity; open-end credit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106029"
+    },
+    {
+      "order": 217,
+      "citation": "RS 6:551.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285269"
+    },
+    {
+      "order": 218,
+      "citation": "RS 6:551.2",
+      "title": "Foreign banking activities; authorized",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285270"
+    },
+    {
+      "order": 219,
+      "citation": "RS 6:551.3",
+      "title": "Subsidiary bank; authorization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285271"
+    },
+    {
+      "order": 220,
+      "citation": "RS 6:551.4",
+      "title": "Edge Act or agreement corporation; authorization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285272"
+    },
+    {
+      "order": 221,
+      "citation": "RS 6:551.5",
+      "title": "Location; limitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285273"
+    },
+    {
+      "order": 222,
+      "citation": "RS 6:551.6",
+      "title": "Filing requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285275"
+    },
+    {
+      "order": 223,
+      "citation": "RS 6:551.7",
+      "title": "Requirements to operate; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285274"
+    },
+    {
+      "order": 224,
+      "citation": "RS 6:551.8",
+      "title": "Application required; contents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285276"
+    },
+    {
+      "order": 225,
+      "citation": "RS 6:551.9",
+      "title": "Approval or disapproval of application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285277"
+    },
+    {
+      "order": 226,
+      "citation": "RS 6:551.10",
+      "title": "Certificate of authority; transfer prohibited; display required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285278"
+    },
+    {
+      "order": 227,
+      "citation": "RS 6:551.11",
+      "title": "Renewal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285280"
+    },
+    {
+      "order": 228,
+      "citation": "RS 6:551.12",
+      "title": "Revocation and surrender",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285281"
+    },
+    {
+      "order": 229,
+      "citation": "RS 6:551.13",
+      "title": "State agency; authorized actions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285282"
+    },
+    {
+      "order": 230,
+      "citation": "RS 6:551.14",
+      "title": "State representative office; authorization; permitted activities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285283"
+    },
+    {
+      "order": 231,
+      "citation": "RS 6:551.15",
+      "title": "State administrative office; authorization; permitted activities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285284"
+    },
+    {
+      "order": 232,
+      "citation": "RS 6:551.16",
+      "title": "Branch banks and agencies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285285"
+    },
+    {
+      "order": 233,
+      "citation": "RS 6:551.17",
+      "title": "State international banking facilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285405"
+    },
+    {
+      "order": 234,
+      "citation": "RS 6:551.18",
+      "title": "Purchase of real estate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285287"
+    },
+    {
+      "order": 235,
+      "citation": "RS 6:551.19",
+      "title": "Paid-in capital; surplus; undivided profits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285288"
+    },
+    {
+      "order": 236,
+      "citation": "RS 6:551.20",
+      "title": "Capital requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285289"
+    },
+    {
+      "order": 237,
+      "citation": "RS 6:551.21",
+      "title": "Purchase of credit instruments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285290"
+    },
+    {
+      "order": 238,
+      "citation": "RS 6:551.22",
+      "title": "Annual report and periodic reporting requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285291"
+    },
+    {
+      "order": 239,
+      "citation": "RS 6:551.23",
+      "title": "Termination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285292"
+    },
+    {
+      "order": 240,
+      "citation": "RS 6:551.24",
+      "title": "Rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285293"
+    },
+    {
+      "order": 241,
+      "citation": "RS 6:551.25",
+      "title": "Examination authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285294"
+    },
+    {
+      "order": 242,
+      "citation": "RS 6:551.26",
+      "title": "Asset pledge requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285295"
+    },
+    {
+      "order": 243,
+      "citation": "RS 6:571",
+      "title": "General authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106048"
+    },
+    {
+      "order": 244,
+      "citation": "RS 6:572",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207727"
+    },
+    {
+      "order": 245,
+      "citation": "RS 6:573",
+      "title": "Organization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207730"
+    },
+    {
+      "order": 246,
+      "citation": "RS 6:574",
+      "title": "Capital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207731"
+    },
+    {
+      "order": 247,
+      "citation": "RS 6:575",
+      "title": "Powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207732"
+    },
+    {
+      "order": 248,
+      "citation": "RS 6:576",
+      "title": "New application, supervision, regulation, and examination of  trust bank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207733"
+    },
+    {
+      "order": 249,
+      "citation": "RS 6:577",
+      "title": "Trust companies chartered under prior law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207734"
+    },
+    {
+      "order": 250,
+      "citation": "RS 6:578",
+      "title": "Affiliates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207735"
+    },
+    {
+      "order": 251,
+      "citation": "RS 6:579",
+      "title": "Self-dealing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207736"
+    },
+    {
+      "order": 252,
+      "citation": "RS 6:580",
+      "title": "Insurance coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207737"
+    },
+    {
+      "order": 253,
+      "citation": "RS 6:581",
+      "title": "Capital notes or debentures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207738"
+    },
+    {
+      "order": 254,
+      "citation": "RS 6:591",
+      "title": "Private trust company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207739"
+    },
+    {
+      "order": 255,
+      "citation": "RS 6:592",
+      "title": "Requirements to apply for and maintain status as a private trust company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207740"
+    },
+    {
+      "order": 256,
+      "citation": "RS 6:593",
+      "title": "Conversion to public trust company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207741"
+    },
+    {
+      "order": 257,
+      "citation": "RS 6:601",
+      "title": "Investment in trust company facilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207742"
+    },
+    {
+      "order": 258,
+      "citation": "RS 6:602",
+      "title": "Other real estate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207743"
+    },
+    {
+      "order": 259,
+      "citation": "RS 6:611",
+      "title": "Securities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207744"
+    },
+    {
+      "order": 260,
+      "citation": "RS 6:612",
+      "title": "Transactions in trust company shares or participation shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207745"
+    },
+    {
+      "order": 261,
+      "citation": "RS 6:613",
+      "title": "Subsidiaries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207746"
+    },
+    {
+      "order": 262,
+      "citation": "RS 6:614",
+      "title": "Mutual funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207747"
+    },
+    {
+      "order": 263,
+      "citation": "RS 6:615",
+      "title": "Engaging in commerce prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207748"
+    },
+    {
+      "order": 264,
+      "citation": "RS 6:621",
+      "title": "Borrowing limit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207749"
+    },
+    {
+      "order": 265,
+      "citation": "RS 6:622",
+      "title": "Pledge of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207750"
+    },
+    {
+      "order": 266,
+      "citation": "RS 6:623",
+      "title": "Fiduciary responsibility",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207751"
+    },
+    {
+      "order": 267,
+      "citation": "RS 6:624",
+      "title": "Reports of apparent crime",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207752"
+    },
+    {
+      "order": 268,
+      "citation": "RS 6:625",
+      "title": "Out-of-state activities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207753"
+    },
+    {
+      "order": 269,
+      "citation": "RS 6:626",
+      "title": "Out-of-state trust companies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207754"
+    },
+    {
+      "order": 270,
+      "citation": "RS 6:627",
+      "title": "Interstate supervision and regulation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207755"
+    },
+    {
+      "order": 271,
+      "citation": "RS 6:641",
+      "title": "CREDIT UNIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106049"
+    },
+    {
+      "order": 272,
+      "citation": "RS 6:641.1",
+      "title": "Public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106050"
+    },
+    {
+      "order": 273,
+      "citation": "RS 6:641.2",
+      "title": "REPEALED BY ACTS 1989, No. 495, 6.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106051"
+    },
+    {
+      "order": 274,
+      "citation": "RS 6:642",
+      "title": "Amendments of act of incorporation; commissioner's approval",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106052"
+    },
+    {
+      "order": 275,
+      "citation": "RS 6:643",
+      "title": "Restriction of the use of term credit union",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106053"
+    },
+    {
+      "order": 276,
+      "citation": "RS 6:644",
+      "title": "Powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106054"
+    },
+    {
+      "order": 277,
+      "citation": "RS 6:645",
+      "title": "Membership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106055"
+    },
+    {
+      "order": 278,
+      "citation": "RS 6:646",
+      "title": "Supervision by commissioner; suspension or revocation of charter; liquidation; reports; examination fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106056"
+    },
+    {
+      "order": 279,
+      "citation": "RS 6:646.1",
+      "title": "Involuntary dissolution; distribution of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106057"
+    },
+    {
+      "order": 280,
+      "citation": "RS 6:647",
+      "title": "Fiscal year; meetings; regulations as to voting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106058"
+    },
+    {
+      "order": 281,
+      "citation": "RS 6:648",
+      "title": "Elections; oath of office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106059"
+    },
+    {
+      "order": 282,
+      "citation": "RS 6:649",
+      "title": "Directors; officers; compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106060"
+    },
+    {
+      "order": 283,
+      "citation": "RS 6:649.1",
+      "title": "Relation and liability of directors and officers to a credit union and its members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106061"
+    },
+    {
+      "order": 284,
+      "citation": "RS 6:649.2",
+      "title": "Actions against directors and officers of credit unions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106062"
+    },
+    {
+      "order": 285,
+      "citation": "RS 6:650",
+      "title": "Credit committee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106063"
+    },
+    {
+      "order": 286,
+      "citation": "RS 6:650.1",
+      "title": "REPEALED BY ACTS 1989, No. 495, 6.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106064"
+    },
+    {
+      "order": 287,
+      "citation": "RS 6:650.2",
+      "title": "Educational committee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106065"
+    },
+    {
+      "order": 288,
+      "citation": "RS 6:651",
+      "title": "Supervisory committee; examination and report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106066"
+    },
+    {
+      "order": 289,
+      "citation": "RS 6:652",
+      "title": "Capital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106067"
+    },
+    {
+      "order": 290,
+      "citation": "RS 6:652.1",
+      "title": "Types of capital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106068"
+    },
+    {
+      "order": 291,
+      "citation": "RS 6:652.2",
+      "title": "Share and share certificate accounts as legal investments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106069"
+    },
+    {
+      "order": 292,
+      "citation": "RS 6:652.3",
+      "title": "Members' share capital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106070"
+    },
+    {
+      "order": 293,
+      "citation": "RS 6:653",
+      "title": "Shares of minors and in trust",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106071"
+    },
+    {
+      "order": 294,
+      "citation": "RS 6:653.1",
+      "title": "Trust deposits; death of depositor, payment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106072"
+    },
+    {
+      "order": 295,
+      "citation": "RS 6:653.2",
+      "title": "Pledge of share accounts; rights and remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106073"
+    },
+    {
+      "order": 296,
+      "citation": "RS 6:653.3",
+      "title": "Ownership of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106074"
+    },
+    {
+      "order": 297,
+      "citation": "RS 6:653.4",
+      "title": "Death of member or account owner; access and transfer of accounts, shares, and property to succession representative, heirs, legatees, and legal representative",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106075"
+    },
+    {
+      "order": 298,
+      "citation": "RS 6:654",
+      "title": "Rates of interest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106076"
+    },
+    {
+      "order": 299,
+      "citation": "RS 6:655",
+      "title": "Power to borrow",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106077"
+    },
+    {
+      "order": 300,
+      "citation": "RS 6:656",
+      "title": "Loans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106078"
+    },
+    {
+      "order": 301,
+      "citation": "RS 6:657",
+      "title": "Repealed by Acts 2001, No. 887, 2, eff. June 26, 2001.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106079"
+    },
+    {
+      "order": 302,
+      "citation": "RS 6:658",
+      "title": "Dividends",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106080"
+    },
+    {
+      "order": 303,
+      "citation": "RS 6:659",
+      "title": "Expulsion and withdrawal of members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106081"
+    },
+    {
+      "order": 304,
+      "citation": "RS 6:659.1",
+      "title": "Inactive accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106082"
+    },
+    {
+      "order": 305,
+      "citation": "RS 6:659.2",
+      "title": "Federally insured credit unions; abandonment of safety deposit box",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147873"
+    },
+    {
+      "order": 306,
+      "citation": "RS 6:660",
+      "title": "Voluntary dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106083"
+    },
+    {
+      "order": 307,
+      "citation": "RS 6:661",
+      "title": "Change of place of business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106084"
+    },
+    {
+      "order": 308,
+      "citation": "RS 6:661.1",
+      "title": "Branch offices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106085"
+    },
+    {
+      "order": 309,
+      "citation": "RS 6:662",
+      "title": "Taxation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106086"
+    },
+    {
+      "order": 310,
+      "citation": "RS 6:662.1",
+      "title": "Fiscal agents and depositories",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106087"
+    },
+    {
+      "order": 311,
+      "citation": "RS 6:663",
+      "title": "Money deposited by minors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106088"
+    },
+    {
+      "order": 312,
+      "citation": "RS 6:664",
+      "title": "Money deposited in a multiple party account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106089"
+    },
+    {
+      "order": 313,
+      "citation": "RS 6:665",
+      "title": "Bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106090"
+    },
+    {
+      "order": 314,
+      "citation": "RS 6:666",
+      "title": "Constitutionality",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106091"
+    },
+    {
+      "order": 315,
+      "citation": "RS 6:667",
+      "title": "Conversion from federal to state and from state to federal credit union; division of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106092"
+    },
+    {
+      "order": 316,
+      "citation": "RS 6:667.1",
+      "title": "Powers, privileges, and exemptions of federal credit unions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106093"
+    },
+    {
+      "order": 317,
+      "citation": "RS 6:667.2",
+      "title": "Annual report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106094"
+    },
+    {
+      "order": 318,
+      "citation": "RS 6:667.3",
+      "title": "Records as evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106095"
+    },
+    {
+      "order": 319,
+      "citation": "RS 6:668",
+      "title": "Criminal Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106096"
+    },
+    {
+      "order": 320,
+      "citation": "RS 6:669",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106097"
+    },
+    {
+      "order": 321,
+      "citation": "RS 6:701",
+      "title": "HOMESTEAD AND SAVINGS AND LOAN",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106098"
+    },
+    {
+      "order": 322,
+      "citation": "RS 6:702",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106099"
+    },
+    {
+      "order": 323,
+      "citation": "RS 6:703",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106100"
+    },
+    {
+      "order": 324,
+      "citation": "RS 6:704",
+      "title": "Organization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106101"
+    },
+    {
+      "order": 325,
+      "citation": "RS 6:705",
+      "title": "Incorporation; articles of incorporation; content; bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106102"
+    },
+    {
+      "order": 326,
+      "citation": "RS 6:706",
+      "title": "Articles of incorporation; approval by the commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106103"
+    },
+    {
+      "order": 327,
+      "citation": "RS 6:707",
+      "title": "Capital stock; types of stock; consideration for issuance; security for loan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106104"
+    },
+    {
+      "order": 328,
+      "citation": "RS 6:708",
+      "title": "Directors; number; qualifications; oath; vacancies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106105"
+    },
+    {
+      "order": 329,
+      "citation": "RS 6:709",
+      "title": "Members or stockholders meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106106"
+    },
+    {
+      "order": 330,
+      "citation": "RS 6:710",
+      "title": "Notice of meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106107"
+    },
+    {
+      "order": 331,
+      "citation": "RS 6:711",
+      "title": "Organization meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106108"
+    },
+    {
+      "order": 332,
+      "citation": "RS 6:712",
+      "title": "Corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106109"
+    },
+    {
+      "order": 333,
+      "citation": "RS 6:713",
+      "title": "Forfeiture of charter for nonuse",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106110"
+    },
+    {
+      "order": 334,
+      "citation": "RS 6:714",
+      "title": "Officers and agents; election, powers, duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106111"
+    },
+    {
+      "order": 335,
+      "citation": "RS 6:721",
+      "title": "Method of amending articles generally",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106112"
+    },
+    {
+      "order": 336,
+      "citation": "RS 6:722",
+      "title": "To 730 Repealed by Acts 1970, No. 234, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106113"
+    },
+    {
+      "order": 337,
+      "citation": "RS 6:731",
+      "title": "General powers of associations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106114"
+    },
+    {
+      "order": 338,
+      "citation": "RS 6:741",
+      "title": "Authorized capital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106115"
+    },
+    {
+      "order": 339,
+      "citation": "RS 6:742",
+      "title": "Miscellaneous provisions relative to capital and accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106116"
+    },
+    {
+      "order": 340,
+      "citation": "RS 6:743",
+      "title": "Issuance of capital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106117"
+    },
+    {
+      "order": 341,
+      "citation": "RS 6:744",
+      "title": "Shares, savings, and demand accounts; generally",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106118"
+    },
+    {
+      "order": 342,
+      "citation": "RS 6:745",
+      "title": "Cancellation of shares, savings accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106119"
+    },
+    {
+      "order": 343,
+      "citation": "RS 6:746",
+      "title": "Issuance of shares or savings accounts for consideration other than cash",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106120"
+    },
+    {
+      "order": 344,
+      "citation": "RS 6:747",
+      "title": "Contract for savings programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106121"
+    },
+    {
+      "order": 345,
+      "citation": "RS 6:748",
+      "title": "Shares or demand deposits and savings accounts as legal investments and as security",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106122"
+    },
+    {
+      "order": 346,
+      "citation": "RS 6:748.1",
+      "title": "Public funds deposits; additional collateral",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106123"
+    },
+    {
+      "order": 347,
+      "citation": "RS 6:749",
+      "title": "Prescription on savings accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106124"
+    },
+    {
+      "order": 348,
+      "citation": "RS 6:750",
+      "title": "Pledge of deposit accounts; rights and remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106125"
+    },
+    {
+      "order": 349,
+      "citation": "RS 6:761",
+      "title": "Members of mutual associations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106126"
+    },
+    {
+      "order": 350,
+      "citation": "RS 6:762",
+      "title": "Access to books and records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106127"
+    },
+    {
+      "order": 351,
+      "citation": "RS 6:763",
+      "title": "Minors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106128"
+    },
+    {
+      "order": 352,
+      "citation": "RS 6:764",
+      "title": "Authority relative to shares and savings accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106129"
+    },
+    {
+      "order": 353,
+      "citation": "RS 6:765",
+      "title": "Shares or savings accounts payable to two or more persons; survivorship",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106130"
+    },
+    {
+      "order": 354,
+      "citation": "RS 6:766",
+      "title": "Accounts of administrators, executors, tutors, custodians, trustees and other fiduciaries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106131"
+    },
+    {
+      "order": 355,
+      "citation": "RS 6:766.1",
+      "title": "Payable on death accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106132"
+    },
+    {
+      "order": 356,
+      "citation": "RS 6:767",
+      "title": "Death of member or depositor and access and transfer of money and property by association to succession or estate representatives, legatees, or heirs; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106133"
+    },
+    {
+      "order": 357,
+      "citation": "RS 6:767.1",
+      "title": "Repealed by Acts 1970, No. 234, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106134"
+    },
+    {
+      "order": 358,
+      "citation": "RS 6:768",
+      "title": "Transfer of contents of safety deposit boxes by an association to succession or estate representatives, legatees, heirs, minors, or interdicts; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106135"
+    },
+    {
+      "order": 359,
+      "citation": "RS 6:769",
+      "title": "Access to safety deposit boxes held jointly or standing in the name of a corporation, unincorporated association, trust estate, agents, or others",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106136"
+    },
+    {
+      "order": 360,
+      "citation": "RS 6:770",
+      "title": "Abandonment of safety deposit box",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106137"
+    },
+    {
+      "order": 361,
+      "citation": "RS 6:771",
+      "title": "Disposition of abandoned safety deposit box contents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187460"
+    },
+    {
+      "order": 362,
+      "citation": "RS 6:781",
+      "title": "Indemnity bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106138"
+    },
+    {
+      "order": 363,
+      "citation": "RS 6:782",
+      "title": "Depositories",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106139"
+    },
+    {
+      "order": 364,
+      "citation": "RS 6:783",
+      "title": "Indemnification of officers, directors, and employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106140"
+    },
+    {
+      "order": 365,
+      "citation": "RS 6:784",
+      "title": "Illegal loans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106141"
+    },
+    {
+      "order": 366,
+      "citation": "RS 6:785",
+      "title": "Directors, employees and members not disqualified to make acknowledgments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106142"
+    },
+    {
+      "order": 367,
+      "citation": "RS 6:786",
+      "title": "Relation and liability of directors and officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106143"
+    },
+    {
+      "order": 368,
+      "citation": "RS 6:787",
+      "title": "Actions against directors and officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106144"
+    },
+    {
+      "order": 369,
+      "citation": "RS 6:788",
+      "title": "To 790 Repealed by Acts 1970, No. 234, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106145"
+    },
+    {
+      "order": 370,
+      "citation": "RS 6:791",
+      "title": "Records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106146"
+    },
+    {
+      "order": 371,
+      "citation": "RS 6:792",
+      "title": "Misdescriptions of assets; false entries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106147"
+    },
+    {
+      "order": 372,
+      "citation": "RS 6:793",
+      "title": "Directors' examination of association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106148"
+    },
+    {
+      "order": 373,
+      "citation": "RS 6:794",
+      "title": "Examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106149"
+    },
+    {
+      "order": 374,
+      "citation": "RS 6:795",
+      "title": "Repealed by Acts 1970, No. 234, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106150"
+    },
+    {
+      "order": 375,
+      "citation": "RS 6:801",
+      "title": "Savings liability; demand deposit liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106151"
+    },
+    {
+      "order": 376,
+      "citation": "RS 6:802",
+      "title": "Contingent loss account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106152"
+    },
+    {
+      "order": 377,
+      "citation": "RS 6:803",
+      "title": "Earnings; payment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106153"
+    },
+    {
+      "order": 378,
+      "citation": "RS 6:804",
+      "title": "Casual deposits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106154"
+    },
+    {
+      "order": 379,
+      "citation": "RS 6:805",
+      "title": "Withdrawal of savings accounts and shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106155"
+    },
+    {
+      "order": 380,
+      "citation": "RS 6:806",
+      "title": "Board to determine amounts to be withdrawn",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106156"
+    },
+    {
+      "order": 381,
+      "citation": "RS 6:807",
+      "title": "Amounts payable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106157"
+    },
+    {
+      "order": 382,
+      "citation": "RS 6:808",
+      "title": "Insufficient funds; notices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106158"
+    },
+    {
+      "order": 383,
+      "citation": "RS 6:809",
+      "title": "Board may prescribe rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106159"
+    },
+    {
+      "order": 384,
+      "citation": "RS 6:810",
+      "title": "Rights of withdrawing members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106160"
+    },
+    {
+      "order": 385,
+      "citation": "RS 6:811",
+      "title": "New loans and payment of debts during existence of withdrawal list",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106161"
+    },
+    {
+      "order": 386,
+      "citation": "RS 6:812",
+      "title": "Commissioner's action may stop withdrawal procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106162"
+    },
+    {
+      "order": 387,
+      "citation": "RS 6:813",
+      "title": "Prohibition against institution of action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106163"
+    },
+    {
+      "order": 388,
+      "citation": "RS 6:814",
+      "title": "Redemption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106164"
+    },
+    {
+      "order": 389,
+      "citation": "RS 6:822",
+      "title": "Loans and investments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106165"
+    },
+    {
+      "order": 390,
+      "citation": "RS 6:823",
+      "title": "Appraisal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106166"
+    },
+    {
+      "order": 391,
+      "citation": "RS 6:824",
+      "title": "Payments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106167"
+    },
+    {
+      "order": 392,
+      "citation": "RS 6:824.1",
+      "title": "Late charges prohibited on certain payments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106168"
+    },
+    {
+      "order": 393,
+      "citation": "RS 6:825",
+      "title": "REPEALED BY ACTS 1993, NO. 280, 1, EFF. OCT. 1, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106169"
+    },
+    {
+      "order": 394,
+      "citation": "RS 6:826",
+      "title": "Provision for taxes, insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106170"
+    },
+    {
+      "order": 395,
+      "citation": "RS 6:827",
+      "title": "REPEALED BY ACTS 1993, NO. 280, 1, EFF. OCT. 1, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106171"
+    },
+    {
+      "order": 396,
+      "citation": "RS 6:828",
+      "title": "Loan expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106172"
+    },
+    {
+      "order": 397,
+      "citation": "RS 6:829",
+      "title": "Repealed by Acts 2003, No. 69, §1, eff. May 28, 2003.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106173"
+    },
+    {
+      "order": 398,
+      "citation": "RS 6:830",
+      "title": "Security for loan on movable and immovable properties; purchase and sale of property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106174"
+    },
+    {
+      "order": 399,
+      "citation": "RS 6:831",
+      "title": "Shares or savings accounts as additional security",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106175"
+    },
+    {
+      "order": 400,
+      "citation": "RS 6:832",
+      "title": "Immovables",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106176"
+    },
+    {
+      "order": 401,
+      "citation": "RS 6:833",
+      "title": "Conveyance of property securing loan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106177"
+    },
+    {
+      "order": 402,
+      "citation": "RS 6:833.1",
+      "title": "Repealed by Acts 1970, No. 234, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106178"
+    },
+    {
+      "order": 403,
+      "citation": "RS 6:834",
+      "title": "Solicitation or acceptance of gifts for making, or assisting in, procuring a loan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106179"
+    },
+    {
+      "order": 404,
+      "citation": "RS 6:851",
+      "title": "Home office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106180"
+    },
+    {
+      "order": 405,
+      "citation": "RS 6:852",
+      "title": "Branch office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106181"
+    },
+    {
+      "order": 406,
+      "citation": "RS 6:853",
+      "title": "Closure of branch office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106182"
+    },
+    {
+      "order": 407,
+      "citation": "RS 6:861",
+      "title": "Power to merge or consolidate; consent of commissioner; rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106183"
+    },
+    {
+      "order": 408,
+      "citation": "RS 6:862",
+      "title": "Merger; when effective",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106184"
+    },
+    {
+      "order": 409,
+      "citation": "RS 6:863",
+      "title": "Consolidation; when effective",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106185"
+    },
+    {
+      "order": 410,
+      "citation": "RS 6:864",
+      "title": "Effect of merger or consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106186"
+    },
+    {
+      "order": 411,
+      "citation": "RS 6:865",
+      "title": "Voluntary transfer of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106187"
+    },
+    {
+      "order": 412,
+      "citation": "RS 6:866",
+      "title": "Commissioner may provide for members or stockholders to vote on plan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106188"
+    },
+    {
+      "order": 413,
+      "citation": "RS 6:867",
+      "title": "Dissolution or liquidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106189"
+    },
+    {
+      "order": 414,
+      "citation": "RS 6:868",
+      "title": "Voluntary proceedings for dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106190"
+    },
+    {
+      "order": 415,
+      "citation": "RS 6:869",
+      "title": "Association continues as corporate entity for sole purpose of winding up affairs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106191"
+    },
+    {
+      "order": 416,
+      "citation": "RS 6:870",
+      "title": "Powers of liquidating trustees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106192"
+    },
+    {
+      "order": 417,
+      "citation": "RS 6:871",
+      "title": "Association subject to commissioner during liquidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106193"
+    },
+    {
+      "order": 418,
+      "citation": "RS 6:872",
+      "title": "Involuntary dissolution; generally",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106194"
+    },
+    {
+      "order": 419,
+      "citation": "RS 6:873",
+      "title": "Involuntary dissolution; commissioner shall take possession",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106195"
+    },
+    {
+      "order": 420,
+      "citation": "RS 6:874",
+      "title": "Involuntary dissolution; notice to creditors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106196"
+    },
+    {
+      "order": 421,
+      "citation": "RS 6:875",
+      "title": "Involuntary dissolution; powers of commissioner; court approval",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106197"
+    },
+    {
+      "order": 422,
+      "citation": "RS 6:876",
+      "title": "Involuntary dissolution; inventory",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106198"
+    },
+    {
+      "order": 423,
+      "citation": "RS 6:877",
+      "title": "Involuntary dissolution; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106199"
+    },
+    {
+      "order": 424,
+      "citation": "RS 6:878",
+      "title": "Involuntary dissolution; distribution of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106200"
+    },
+    {
+      "order": 425,
+      "citation": "RS 6:879",
+      "title": "Involuntary dissolutions; creditors may not dispose of pledged securities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106201"
+    },
+    {
+      "order": 426,
+      "citation": "RS 6:880",
+      "title": "Liquidation by federal corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106202"
+    },
+    {
+      "order": 427,
+      "citation": "RS 6:881",
+      "title": "Commissioner may examine association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106203"
+    },
+    {
+      "order": 428,
+      "citation": "RS 6:882",
+      "title": "Commissioner may order association to discontinue any illegal practice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106204"
+    },
+    {
+      "order": 429,
+      "citation": "RS 6:883",
+      "title": "Conservator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106205"
+    },
+    {
+      "order": 430,
+      "citation": "RS 6:884",
+      "title": "To 890 Repealed by Acts 1970, No. 234, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106206"
+    },
+    {
+      "order": 431,
+      "citation": "RS 6:891",
+      "title": "Foreign association defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106207"
+    },
+    {
+      "order": 432,
+      "citation": "RS 6:892",
+      "title": "Conduct of business in accordance with this Part; certificate of authority and public necessity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106208"
+    },
+    {
+      "order": 433,
+      "citation": "RS 6:893",
+      "title": "Certificate of authority; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106209"
+    },
+    {
+      "order": 434,
+      "citation": "RS 6:894",
+      "title": "Certificate of authority; examination of qualifications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106210"
+    },
+    {
+      "order": 435,
+      "citation": "RS 6:895",
+      "title": "Penalty for doing business without certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106211"
+    },
+    {
+      "order": 436,
+      "citation": "RS 6:896",
+      "title": "Issuance of certificate of authority; renewal annually",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106212"
+    },
+    {
+      "order": 437,
+      "citation": "RS 6:897",
+      "title": "Deposits as security; foreign association ceasing to do business in Louisiana",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106213"
+    },
+    {
+      "order": 438,
+      "citation": "RS 6:898",
+      "title": "Supervision and examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106214"
+    },
+    {
+      "order": 439,
+      "citation": "RS 6:901",
+      "title": "Powers, privileges, and exemptions of federal associations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106215"
+    },
+    {
+      "order": 440,
+      "citation": "RS 6:902",
+      "title": "Companion authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106216"
+    },
+    {
+      "order": 441,
+      "citation": "RS 6:903",
+      "title": "Additional companion authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106217"
+    },
+    {
+      "order": 442,
+      "citation": "RS 6:904",
+      "title": "Conversion into state-chartered association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106218"
+    },
+    {
+      "order": 443,
+      "citation": "RS 6:905",
+      "title": "Limitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106219"
+    },
+    {
+      "order": 444,
+      "citation": "RS 6:906",
+      "title": "Conversions; locations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106220"
+    },
+    {
+      "order": 445,
+      "citation": "RS 6:907",
+      "title": "Formation of savings and loan holding companies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106221"
+    },
+    {
+      "order": 446,
+      "citation": "RS 6:908",
+      "title": "Oppressed shareholder's remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294839"
+    },
+    {
+      "order": 447,
+      "citation": "RS 6:911",
+      "title": "REPEALED BY ACTS 1993, NO. 278, 1, EFF. JAN. 1, 1994.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106222"
+    },
+    {
+      "order": 448,
+      "citation": "RS 6:912",
+      "title": "Additional foreign association fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106223"
+    },
+    {
+      "order": 449,
+      "citation": "RS 6:921",
+      "title": "Thrift and home financing organizations; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106224"
+    },
+    {
+      "order": 450,
+      "citation": "RS 6:922",
+      "title": "Powers of attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106225"
+    },
+    {
+      "order": 451,
+      "citation": "RS 6:923",
+      "title": "Exemption from security laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106226"
+    },
+    {
+      "order": 452,
+      "citation": "RS 6:924",
+      "title": "Holder of note may enforce",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106227"
+    },
+    {
+      "order": 453,
+      "citation": "RS 6:925",
+      "title": "Unlawful to destroy property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106228"
+    },
+    {
+      "order": 454,
+      "citation": "RS 6:926",
+      "title": "Foreclosure of mortgage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106229"
+    },
+    {
+      "order": 455,
+      "citation": "RS 6:927",
+      "title": "Communication from commissioner having effect of approval or order to be in writing and signed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106230"
+    },
+    {
+      "order": 456,
+      "citation": "RS 6:928",
+      "title": "Right of commissioner to utilize courts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106231"
+    },
+    {
+      "order": 457,
+      "citation": "RS 6:929",
+      "title": "Rights of association to contest decisions of commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106232"
+    },
+    {
+      "order": 458,
+      "citation": "RS 6:930",
+      "title": "Defamation of institutions prohibited; fine",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106233"
+    },
+    {
+      "order": 459,
+      "citation": "RS 6:931",
+      "title": "False statements and similar actions prohibited; fine",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106234"
+    },
+    {
+      "order": 460,
+      "citation": "RS 6:932",
+      "title": "Act of controlling",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106235"
+    },
+    {
+      "order": 461,
+      "citation": "RS 6:933",
+      "title": "Application to existing associations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106236"
+    },
+    {
+      "order": 462,
+      "citation": "RS 6:937",
+      "title": "Dividends; requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106237"
+    },
+    {
+      "order": 463,
+      "citation": "RS 6:938",
+      "title": "Power of state or federal mutual association to convert to capital stock association; procedures; approval of department required; minutes of meeting; succession",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106238"
+    },
+    {
+      "order": 464,
+      "citation": "RS 6:939",
+      "title": "Plan of conversion from mutual to capital stock association; mandatory and permissive requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106239"
+    },
+    {
+      "order": 465,
+      "citation": "RS 6:940",
+      "title": "Acquisition of control over an existing association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106240"
+    },
+    {
+      "order": 466,
+      "citation": "RS 6:941",
+      "title": "Restrictions on acquisition of control of capital stock associations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106241"
+    },
+    {
+      "order": 467,
+      "citation": "RS 6:942",
+      "title": "Listing and assessment of capital stock; procedure; exemption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106242"
+    },
+    {
+      "order": 468,
+      "citation": "RS 6:943",
+      "title": "Listing and assessing of stock; place",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106243"
+    },
+    {
+      "order": 469,
+      "citation": "RS 6:944",
+      "title": "Listing and assessing of stock; branch capital stock associations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106244"
+    },
+    {
+      "order": 470,
+      "citation": "RS 6:945",
+      "title": "Listing and assessing of real estate of capital stock associations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106245"
+    },
+    {
+      "order": 471,
+      "citation": "RS 6:946",
+      "title": "Listing and assessing of stock and real estate; payment of tax; recovery from stockholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106246"
+    },
+    {
+      "order": 472,
+      "citation": "RS 6:947",
+      "title": "Listing and assessing of stock; report by official",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106247"
+    },
+    {
+      "order": 473,
+      "citation": "RS 6:948",
+      "title": "Power of commissioner to issue rules, regulations, and orders to implement this Chapter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106248"
+    },
+    {
+      "order": 474,
+      "citation": "RS 6:949",
+      "title": "Savings and demand accounts of capital stock savings and loan associations and capital stock savings banks as legal investments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106249"
+    },
+    {
+      "order": 475,
+      "citation": "RS 6:950.1",
+      "title": "Declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106250"
+    },
+    {
+      "order": 476,
+      "citation": "RS 6:950.2",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106251"
+    },
+    {
+      "order": 477,
+      "citation": "RS 6:950.3",
+      "title": "Scope of Part; effective dates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106252"
+    },
+    {
+      "order": 478,
+      "citation": "RS 6:950.4",
+      "title": "Applicability of commissioner's rules and regulations; operation of Louisiana association subsidiaries by foreign corporations; reciprocal agreements; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106253"
+    },
+    {
+      "order": 479,
+      "citation": "RS 6:950.5",
+      "title": "Interstate acquisitions; filings with commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=210108"
+    },
+    {
+      "order": 480,
+      "citation": "RS 6:950.6",
+      "title": "Prohibited acquisitions and activities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106254"
+    },
+    {
+      "order": 481,
+      "citation": "RS 6:950.7",
+      "title": "Minority stockholders' rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106255"
+    },
+    {
+      "order": 482,
+      "citation": "RS 6:950.8",
+      "title": "Savings clause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106256"
+    },
+    {
+      "order": 483,
+      "citation": "RS 6:951",
+      "title": "THE MOTOR VEHICLE SALES FINANCE ACT",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106257"
+    },
+    {
+      "order": 484,
+      "citation": "RS 6:952",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106258"
+    },
+    {
+      "order": 485,
+      "citation": "RS 6:953",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106259"
+    },
+    {
+      "order": 486,
+      "citation": "RS 6:954",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106260"
+    },
+    {
+      "order": 487,
+      "citation": "RS 6:955",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106261"
+    },
+    {
+      "order": 488,
+      "citation": "RS 6:956",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106262"
+    },
+    {
+      "order": 489,
+      "citation": "RS 6:956.1",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106263"
+    },
+    {
+      "order": 490,
+      "citation": "RS 6:956.2",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106264"
+    },
+    {
+      "order": 491,
+      "citation": "RS 6:957",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106265"
+    },
+    {
+      "order": 492,
+      "citation": "RS 6:958",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106266"
+    },
+    {
+      "order": 493,
+      "citation": "RS 6:959",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106267"
+    },
+    {
+      "order": 494,
+      "citation": "RS 6:960",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106268"
+    },
+    {
+      "order": 495,
+      "citation": "RS 6:961",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106269"
+    },
+    {
+      "order": 496,
+      "citation": "RS 6:962",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106270"
+    },
+    {
+      "order": 497,
+      "citation": "RS 6:963",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106271"
+    },
+    {
+      "order": 498,
+      "citation": "RS 6:964",
+      "title": "Repealed by Acts 1999, No. 794, 2, eff. July 2, 1999.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106272"
+    },
+    {
+      "order": 499,
+      "citation": "RS 6:965",
+      "title": "Scope and definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106273"
+    },
+    {
+      "order": 500,
+      "citation": "RS 6:966",
+      "title": "Procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106274"
+    },
+    {
+      "order": 501,
+      "citation": "RS 6:966.1",
+      "title": "Notice of repossession; contents; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285296"
+    },
+    {
+      "order": 502,
+      "citation": "RS 6:967",
+      "title": "Appeal from order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106275"
+    },
+    {
+      "order": 503,
+      "citation": "RS 6:968",
+      "title": "Repealed by Acts 1974, No. 466, 3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106276"
+    },
+    {
+      "order": 504,
+      "citation": "RS 6:969.1",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106277"
+    },
+    {
+      "order": 505,
+      "citation": "RS 6:969.2",
+      "title": "Scope",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106288"
+    },
+    {
+      "order": 506,
+      "citation": "RS 6:969.3",
+      "title": "Exclusions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106299"
+    },
+    {
+      "order": 507,
+      "citation": "RS 6:969.4",
+      "title": "Waiver, agreement to forego rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106310"
+    },
+    {
+      "order": 508,
+      "citation": "RS 6:969.5",
+      "title": "Repealed by Acts 2001, No. 1066, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106313"
+    },
+    {
+      "order": 509,
+      "citation": "RS 6:969.6",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106314"
+    },
+    {
+      "order": 510,
+      "citation": "RS 6:969.7",
+      "title": "Terms; construction; additional fees and charges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106315"
+    },
+    {
+      "order": 511,
+      "citation": "RS 6:969.8",
+      "title": "Construction against implicit repeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106316"
+    },
+    {
+      "order": 512,
+      "citation": "RS 6:969.9",
+      "title": "Consumer loans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106317"
+    },
+    {
+      "order": 513,
+      "citation": "RS 6:969.10",
+      "title": "Consumer credit sale",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106278"
+    },
+    {
+      "order": 514,
+      "citation": "RS 6:969.11",
+      "title": "Maximum charges after negotiations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106279"
+    },
+    {
+      "order": 515,
+      "citation": "RS 6:969.12",
+      "title": "Maximum charges after maturity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106280"
+    },
+    {
+      "order": 516,
+      "citation": "RS 6:969.13",
+      "title": "Leap years",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106281"
+    },
+    {
+      "order": 517,
+      "citation": "RS 6:969.14",
+      "title": "Variable rates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106282"
+    },
+    {
+      "order": 518,
+      "citation": "RS 6:969.15",
+      "title": "Maximum delinquency charges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106283"
+    },
+    {
+      "order": 519,
+      "citation": "RS 6:969.16",
+      "title": "Maximum deferral charges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106284"
+    },
+    {
+      "order": 520,
+      "citation": "RS 6:969.17",
+      "title": "Charges for checks returned for insufficient funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106285"
+    },
+    {
+      "order": 521,
+      "citation": "RS 6:969.18",
+      "title": "Documentation and compliance fees; notary fees; transfer of equity and other fees; disclosure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106286"
+    },
+    {
+      "order": 522,
+      "citation": "RS 6:969.19",
+      "title": "Right to prepay",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106287"
+    },
+    {
+      "order": 523,
+      "citation": "RS 6:969.20",
+      "title": "Rebates upon prepayment; prepayment charges; return of lien documents upon payment in full of the balance due",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106289"
+    },
+    {
+      "order": 524,
+      "citation": "RS 6:969.21",
+      "title": "Rebate after acceleration of maturity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106290"
+    },
+    {
+      "order": 525,
+      "citation": "RS 6:969.22",
+      "title": "Attorney fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106291"
+    },
+    {
+      "order": 526,
+      "citation": "RS 6:969.23",
+      "title": "Collection and enforcement costs and expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106292"
+    },
+    {
+      "order": 527,
+      "citation": "RS 6:969.24",
+      "title": "Use of multiple agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106293"
+    },
+    {
+      "order": 528,
+      "citation": "RS 6:969.24.1",
+      "title": "Acts to lessen or eliminate competition prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726423"
+    },
+    {
+      "order": 529,
+      "citation": "RS 6:969.24.2",
+      "title": "Mandatory sales prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726424"
+    },
+    {
+      "order": 530,
+      "citation": "RS 6:969.25",
+      "title": "Consumer credit insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106294"
+    },
+    {
+      "order": 531,
+      "citation": "RS 6:969.26",
+      "title": "Property insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106295"
+    },
+    {
+      "order": 532,
+      "citation": "RS 6:969.27",
+      "title": "Existing insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106296"
+    },
+    {
+      "order": 533,
+      "citation": "RS 6:969.28",
+      "title": "Limitations on insurance rates; contract requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106297"
+    },
+    {
+      "order": 534,
+      "citation": "RS 6:969.29",
+      "title": "Choice of insurer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106298"
+    },
+    {
+      "order": 535,
+      "citation": "RS 6:969.30",
+      "title": "Conditions applying to insurance provided by the extender of credit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106300"
+    },
+    {
+      "order": 536,
+      "citation": "RS 6:969.31",
+      "title": "Cancellation of insurance; refund or credit upon cancellation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106301"
+    },
+    {
+      "order": 537,
+      "citation": "RS 6:969.32",
+      "title": "Gain from insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106302"
+    },
+    {
+      "order": 538,
+      "citation": "RS 6:969.33",
+      "title": "Effect of violations on rights of parties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106303"
+    },
+    {
+      "order": 539,
+      "citation": "RS 6:969.34",
+      "title": "Guidance by commission; advisory opinions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106304"
+    },
+    {
+      "order": 540,
+      "citation": "RS 6:969.35",
+      "title": "Authority to make consumer loans; assignees; authority to issue debt waiver or debt forgiveness agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106305"
+    },
+    {
+      "order": 541,
+      "citation": "RS 6:969.36",
+      "title": "License not required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106306"
+    },
+    {
+      "order": 542,
+      "citation": "RS 6:969.37",
+      "title": "Licensing procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106307"
+    },
+    {
+      "order": 543,
+      "citation": "RS 6:969.38",
+      "title": "Denial, suspension, or revocation of licenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106308"
+    },
+    {
+      "order": 544,
+      "citation": "RS 6:969.39",
+      "title": "Investigations and complaints",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106309"
+    },
+    {
+      "order": 545,
+      "citation": "RS 6:969.40",
+      "title": "Powers of commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106311"
+    },
+    {
+      "order": 546,
+      "citation": "RS 6:969.41",
+      "title": "Fines imposed by the commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106312"
+    },
+    {
+      "order": 547,
+      "citation": "RS 6:969.42",
+      "title": "Venue for litigation or arbitration; choice of law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451598"
+    },
+    {
+      "order": 548,
+      "citation": "RS 6:969.51",
+      "title": "GAP coverage; requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409456"
+    },
+    {
+      "order": 549,
+      "citation": "RS 6:969.52",
+      "title": "Liability; contractual or insurance policies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726427"
+    },
+    {
+      "order": 550,
+      "citation": "RS 6:969.53",
+      "title": "Cancellation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726430"
+    },
+    {
+      "order": 551,
+      "citation": "RS 6:969.54",
+      "title": "Disclosures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726435"
+    },
+    {
+      "order": 552,
+      "citation": "RS 6:970",
+      "title": "EXTRAORDINARY ACQUISITIONS OF",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106318"
+    },
+    {
+      "order": 553,
+      "citation": "RS 6:971",
+      "title": "Approval of transaction; priorities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106319"
+    },
+    {
+      "order": 554,
+      "citation": "RS 6:972",
+      "title": "Retention of branches",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106320"
+    },
+    {
+      "order": 555,
+      "citation": "RS 6:973",
+      "title": "Prohibited insurance activities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106321"
+    },
+    {
+      "order": 556,
+      "citation": "RS 6:974",
+      "title": "Acquisition of state bank in impaired condition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106322"
+    },
+    {
+      "order": 557,
+      "citation": "RS 6:975",
+      "title": "Repealed by Acts 1972, No. 454, 3, eff. Jan. 1, 1973.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=106323"
+    },
+    {
+      "order": 558,
+      "citation": "RS 6:1001",
+      "title": "CURRENCY EXCHANGE SERVICES",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105639"
+    },
+    {
+      "order": 559,
+      "citation": "RS 6:1002",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105640"
+    },
+    {
+      "order": 560,
+      "citation": "RS 6:1003",
+      "title": "License; certificates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105641"
+    },
+    {
+      "order": 561,
+      "citation": "RS 6:1004",
+      "title": "Application for license and change of control",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105642"
+    },
+    {
+      "order": 562,
+      "citation": "RS 6:1004.1",
+      "title": "License fees; online renewal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105643"
+    },
+    {
+      "order": 563,
+      "citation": "RS 6:1004.2",
+      "title": "Enforcement powers of the commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105644"
+    },
+    {
+      "order": 564,
+      "citation": "RS 6:1005",
+      "title": "Qualifications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105645"
+    },
+    {
+      "order": 565,
+      "citation": "RS 6:1006",
+      "title": "Approval or denial of application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105646"
+    },
+    {
+      "order": 566,
+      "citation": "RS 6:1007",
+      "title": "Change of name or location",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105647"
+    },
+    {
+      "order": 567,
+      "citation": "RS 6:1008",
+      "title": "Suspension or revocation of license; hearing; surrender of license; administrative fines",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105648"
+    },
+    {
+      "order": 568,
+      "citation": "RS 6:1009",
+      "title": "Regulation of fees; unreasonable fees; display of fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105649"
+    },
+    {
+      "order": 569,
+      "citation": "RS 6:1010",
+      "title": "Repealed by Acts 2004, No. 370, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105651"
+    },
+    {
+      "order": 570,
+      "citation": "RS 6:1011",
+      "title": "Powers; limitations; prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105652"
+    },
+    {
+      "order": 571,
+      "citation": "RS 6:1012",
+      "title": "Violations; criminal penalties; civil liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105653"
+    },
+    {
+      "order": 572,
+      "citation": "RS 6:1013",
+      "title": "Books of account; examinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105654"
+    },
+    {
+      "order": 573,
+      "citation": "RS 6:1013.1",
+      "title": "Cashing federal and state treasury checks; records retention",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859798"
+    },
+    {
+      "order": 574,
+      "citation": "RS 6:1014",
+      "title": "Rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105655"
+    },
+    {
+      "order": 575,
+      "citation": "RS 6:1015",
+      "title": "False advertising",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105656"
+    },
+    {
+      "order": 576,
+      "citation": "RS 6:1016",
+      "title": "Applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105657"
+    },
+    {
+      "order": 577,
+      "citation": "RS 6:1031",
+      "title": "SALE OF CHECKS AND MONEY TRANSMISSION",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105660"
+    },
+    {
+      "order": 578,
+      "citation": "RS 6:1032",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105661"
+    },
+    {
+      "order": 579,
+      "citation": "RS 6:1033",
+      "title": "License required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105662"
+    },
+    {
+      "order": 580,
+      "citation": "RS 6:1034",
+      "title": "Exemption from licensing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105663"
+    },
+    {
+      "order": 581,
+      "citation": "RS 6:1035",
+      "title": "Qualifications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105664"
+    },
+    {
+      "order": 582,
+      "citation": "RS 6:1036",
+      "title": "Applications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105665"
+    },
+    {
+      "order": 583,
+      "citation": "RS 6:1037",
+      "title": "Accompanying fee; statement and bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105666"
+    },
+    {
+      "order": 584,
+      "citation": "RS 6:1038",
+      "title": "Investigation; granting of license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105667"
+    },
+    {
+      "order": 585,
+      "citation": "RS 6:1038.1",
+      "title": "Temporary license; expiration; extension",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630355"
+    },
+    {
+      "order": 586,
+      "citation": "RS 6:1039",
+      "title": "Maintenance of bond",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105668"
+    },
+    {
+      "order": 587,
+      "citation": "RS 6:1040",
+      "title": "Annual renewal fee; delinquency charge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105669"
+    },
+    {
+      "order": 588,
+      "citation": "RS 6:1041",
+      "title": "Agents and subagents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105670"
+    },
+    {
+      "order": 589,
+      "citation": "RS 6:1042",
+      "title": "Liability of licensees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105671"
+    },
+    {
+      "order": 590,
+      "citation": "RS 6:1043",
+      "title": "Disclosure of responsibility",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105672"
+    },
+    {
+      "order": 591,
+      "citation": "RS 6:1044",
+      "title": "Visitation and examination; revocation of license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105673"
+    },
+    {
+      "order": 592,
+      "citation": "RS 6:1045",
+      "title": "Hearings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105674"
+    },
+    {
+      "order": 593,
+      "citation": "RS 6:1046",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105675"
+    },
+    {
+      "order": 594,
+      "citation": "RS 6:1047",
+      "title": "Reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105676"
+    },
+    {
+      "order": 595,
+      "citation": "RS 6:1048",
+      "title": "Trust imposed on sales or transmission proceeds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105677"
+    },
+    {
+      "order": 596,
+      "citation": "RS 6:1049",
+      "title": "List of financial institutions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105678"
+    },
+    {
+      "order": 597,
+      "citation": "RS 6:1050",
+      "title": "Retention of surety bond",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105679"
+    },
+    {
+      "order": 598,
+      "citation": "RS 6:1051",
+      "title": "Notification of financial institutions; violations; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105680"
+    },
+    {
+      "order": 599,
+      "citation": "RS 6:1052",
+      "title": "Account; verification of license; cancellation; overdrafts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105681"
+    },
+    {
+      "order": 600,
+      "citation": "RS 6:1053",
+      "title": "Significant developments; licensee's duty to report to commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105682"
+    },
+    {
+      "order": 601,
+      "citation": "RS 6:1054",
+      "title": "Change of control; notice; application; advisory opinion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630369"
+    },
+    {
+      "order": 602,
+      "citation": "RS 6:1055",
+      "title": "Money transmitters; delivery of funds requirements; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294840"
+    },
+    {
+      "order": 603,
+      "citation": "RS 6:1081",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105683"
+    },
+    {
+      "order": 604,
+      "citation": "RS 6:1082",
+      "title": "Purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105684"
+    },
+    {
+      "order": 605,
+      "citation": "RS 6:1083",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105685"
+    },
+    {
+      "order": 606,
+      "citation": "RS 6:1084",
+      "title": "Prohibition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105686"
+    },
+    {
+      "order": 607,
+      "citation": "RS 6:1085",
+      "title": "Rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105687"
+    },
+    {
+      "order": 608,
+      "citation": "RS 6:1085.1",
+      "title": "Authority of the commissioner to impose continuing education",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294841"
+    },
+    {
+      "order": 609,
+      "citation": "RS 6:1086",
+      "title": "Licensure requirement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105688"
+    },
+    {
+      "order": 610,
+      "citation": "RS 6:1087",
+      "title": "Exemptions; annual registration statement; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105689"
+    },
+    {
+      "order": 611,
+      "citation": "RS 6:1088",
+      "title": "Application for licensure; surety bond",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105690"
+    },
+    {
+      "order": 612,
+      "citation": "RS 6:1088.1",
+      "title": "Licensing system; authorization; fees; required use",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451599"
+    },
+    {
+      "order": 613,
+      "citation": "RS 6:1088.2",
+      "title": "Application for licensure; application and renewal fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670334"
+    },
+    {
+      "order": 614,
+      "citation": "RS 6:1088.3",
+      "title": "Application for renewal of license; restriction; late renewal fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670336"
+    },
+    {
+      "order": 615,
+      "citation": "RS 6:1088.4",
+      "title": "Information reporting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670337"
+    },
+    {
+      "order": 616,
+      "citation": "RS 6:1089",
+      "title": "Name or location changes and closures; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105691"
+    },
+    {
+      "order": 617,
+      "citation": "RS 6:1090",
+      "title": "Restrictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105692"
+    },
+    {
+      "order": 618,
+      "citation": "RS 6:1091",
+      "title": "Recordkeeping and retention; examinations; investigation of complaints; reports of conditions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105693"
+    },
+    {
+      "order": 619,
+      "citation": "RS 6:1092",
+      "title": "Suspension and revocation of licensure; commissioner's interpretations; prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105694"
+    },
+    {
+      "order": 620,
+      "citation": "RS 6:1092.1",
+      "title": "Costs of appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409460"
+    },
+    {
+      "order": 621,
+      "citation": "RS 6:1092.2",
+      "title": "Validity of judgment; execution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409461"
+    },
+    {
+      "order": 622,
+      "citation": "RS 6:1093",
+      "title": "Repealed by Acts 2010, No. 743, §22B, eff. July 1, 2010.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105695"
+    },
+    {
+      "order": 623,
+      "citation": "RS 6:1094",
+      "title": "Professional education required for licensure; continuing education",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105696"
+    },
+    {
+      "order": 624,
+      "citation": "RS 6:1094.1",
+      "title": "Testing of loan originators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670351"
+    },
+    {
+      "order": 625,
+      "citation": "RS 6:1095",
+      "title": "Scope",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105697"
+    },
+    {
+      "order": 626,
+      "citation": "RS 6:1096",
+      "title": "Residential mortgage loans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105698"
+    },
+    {
+      "order": 627,
+      "citation": "RS 6:1097",
+      "title": "Residential mortgage loan fees and charges; applicability of the Louisiana Consumer Credit Law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105699"
+    },
+    {
+      "order": 628,
+      "citation": "RS 6:1098",
+      "title": "Residential mortgage loan brokerage contracts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105700"
+    },
+    {
+      "order": 629,
+      "citation": "RS 6:1099",
+      "title": "Criminal penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105701"
+    },
+    {
+      "order": 630,
+      "citation": "RS 6:1101",
+      "title": "Reverse mortgages; requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726453"
+    },
+    {
+      "order": 631,
+      "citation": "RS 6:1102",
+      "title": "Counseling",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726454"
+    },
+    {
+      "order": 632,
+      "citation": "RS 6:1103",
+      "title": "Commitment and cooling off period",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726455"
+    },
+    {
+      "order": 633,
+      "citation": "RS 6:1104",
+      "title": "Reverse mortgage lender; duties to elders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726456"
+    },
+    {
+      "order": 634,
+      "citation": "RS 6:1111",
+      "title": "APPROVAL OF RULES AND REGULATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105702"
+    },
+    {
+      "order": 635,
+      "citation": "RS 6:1121",
+      "title": "CREDIT AGREEMENTS -- WRITING",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105703"
+    },
+    {
+      "order": 636,
+      "citation": "RS 6:1122",
+      "title": "Credit agreements to be in writing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105704"
+    },
+    {
+      "order": 637,
+      "citation": "RS 6:1122.1",
+      "title": "Defenses to written credit agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859799"
+    },
+    {
+      "order": 638,
+      "citation": "RS 6:1123",
+      "title": "Actions not considered agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105705"
+    },
+    {
+      "order": 639,
+      "citation": "RS 6:1124",
+      "title": "No implied fiduciary obligations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105706"
+    },
+    {
+      "order": 640,
+      "citation": "RS 6:1125",
+      "title": "To 1127 Repealed by Acts 1981, No. 873, 4, eff. Oct. 1, 1981.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105707"
+    },
+    {
+      "order": 641,
+      "citation": "RS 6:1131",
+      "title": "LOUISIANA SAVINGS BANKS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105708"
+    },
+    {
+      "order": 642,
+      "citation": "RS 6:1132",
+      "title": "Policy and purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105709"
+    },
+    {
+      "order": 643,
+      "citation": "RS 6:1133",
+      "title": "Administration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105710"
+    },
+    {
+      "order": 644,
+      "citation": "RS 6:1134",
+      "title": "Applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105711"
+    },
+    {
+      "order": 645,
+      "citation": "RS 6:1135",
+      "title": "Federal deposit insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105712"
+    },
+    {
+      "order": 646,
+      "citation": "RS 6:1136",
+      "title": "Powers; parity with other financial institutions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105713"
+    },
+    {
+      "order": 647,
+      "citation": "RS 6:1137",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105714"
+    },
+    {
+      "order": 648,
+      "citation": "RS 6:1138",
+      "title": "General corporate powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105715"
+    },
+    {
+      "order": 649,
+      "citation": "RS 6:1139",
+      "title": "Specific powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105716"
+    },
+    {
+      "order": 650,
+      "citation": "RS 6:1140",
+      "title": "Status as an IRS qualified savings banks institution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105717"
+    },
+    {
+      "order": 651,
+      "citation": "RS 6:1141",
+      "title": "Regulatory powers; promulgation of rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105718"
+    },
+    {
+      "order": 652,
+      "citation": "RS 6:1142",
+      "title": "Safety deposit boxes and safekeeping",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187461"
+    },
+    {
+      "order": 653,
+      "citation": "RS 6:1151",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105719"
+    },
+    {
+      "order": 654,
+      "citation": "RS 6:1152",
+      "title": "Implementation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105720"
+    },
+    {
+      "order": 655,
+      "citation": "RS 6:1153",
+      "title": "Oppressed shareholder's remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294842"
+    },
+    {
+      "order": 656,
+      "citation": "RS 6:1161",
+      "title": "Application for permit to organize",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105721"
+    },
+    {
+      "order": 657,
+      "citation": "RS 6:1162",
+      "title": "Content of application for permit to organize",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105722"
+    },
+    {
+      "order": 658,
+      "citation": "RS 6:1163",
+      "title": "Contents of articles of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105723"
+    },
+    {
+      "order": 659,
+      "citation": "RS 6:1164",
+      "title": "Contents of bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105724"
+    },
+    {
+      "order": 660,
+      "citation": "RS 6:1165",
+      "title": "Permit to organize",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105725"
+    },
+    {
+      "order": 661,
+      "citation": "RS 6:1166",
+      "title": "Temporary organization and capital subscriptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105726"
+    },
+    {
+      "order": 662,
+      "citation": "RS 6:1167",
+      "title": "Certificate of organization; issuance; refusal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105727"
+    },
+    {
+      "order": 663,
+      "citation": "RS 6:1168",
+      "title": "REPEALED BY ACTS 1993, NO. 278, 1, EFF. JAN. 1, 1994.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105728"
+    },
+    {
+      "order": 664,
+      "citation": "RS 6:1181",
+      "title": "Members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105729"
+    },
+    {
+      "order": 665,
+      "citation": "RS 6:1182",
+      "title": "Annual and special meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105730"
+    },
+    {
+      "order": 666,
+      "citation": "RS 6:1183",
+      "title": "Notice of meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105731"
+    },
+    {
+      "order": 667,
+      "citation": "RS 6:1184",
+      "title": "Quorum of annual or special meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105732"
+    },
+    {
+      "order": 668,
+      "citation": "RS 6:1185",
+      "title": "Voting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105733"
+    },
+    {
+      "order": 669,
+      "citation": "RS 6:1186",
+      "title": "Record date for voting, dividend, and other purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105734"
+    },
+    {
+      "order": 670,
+      "citation": "RS 6:1187",
+      "title": "Proxies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105735"
+    },
+    {
+      "order": 671,
+      "citation": "RS 6:1188",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105736"
+    },
+    {
+      "order": 672,
+      "citation": "RS 6:1189",
+      "title": "Bonds of officers and directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105737"
+    },
+    {
+      "order": 673,
+      "citation": "RS 6:1190",
+      "title": "Conduct of directors and officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105738"
+    },
+    {
+      "order": 674,
+      "citation": "RS 6:1191",
+      "title": "Relation and liability of directors and officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105739"
+    },
+    {
+      "order": 675,
+      "citation": "RS 6:1201",
+      "title": "Minimum capital for incorporation or conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105740"
+    },
+    {
+      "order": 676,
+      "citation": "RS 6:1202",
+      "title": "Types of capital; personal property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105741"
+    },
+    {
+      "order": 677,
+      "citation": "RS 6:1203",
+      "title": "Capital stock; nature",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105742"
+    },
+    {
+      "order": 678,
+      "citation": "RS 6:1204",
+      "title": "Capital stock; authorization of issuance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105743"
+    },
+    {
+      "order": 679,
+      "citation": "RS 6:1205",
+      "title": "Who may hold capital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105744"
+    },
+    {
+      "order": 680,
+      "citation": "RS 6:1206",
+      "title": "Capital maintenance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105745"
+    },
+    {
+      "order": 681,
+      "citation": "RS 6:1207",
+      "title": "Dividends; capital surplus required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105746"
+    },
+    {
+      "order": 682,
+      "citation": "RS 6:1208",
+      "title": "Loans or discounts on capital stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105747"
+    },
+    {
+      "order": 683,
+      "citation": "RS 6:1208.1",
+      "title": "Applicability of statute, rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105748"
+    },
+    {
+      "order": 684,
+      "citation": "RS 6:1221",
+      "title": "Underwriting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105756"
+    },
+    {
+      "order": 685,
+      "citation": "RS 6:1222",
+      "title": "Investment in loans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105757"
+    },
+    {
+      "order": 686,
+      "citation": "RS 6:1223",
+      "title": "Other investments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105758"
+    },
+    {
+      "order": 687,
+      "citation": "RS 6:1224",
+      "title": "Calculation of interest; postpayments and prepayments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105759"
+    },
+    {
+      "order": 688,
+      "citation": "RS 6:1225",
+      "title": "General loan contract provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105760"
+    },
+    {
+      "order": 689,
+      "citation": "RS 6:1226",
+      "title": "Modification agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105761"
+    },
+    {
+      "order": 690,
+      "citation": "RS 6:1227",
+      "title": "Sale, assignment, and servicing of loans and contracts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105762"
+    },
+    {
+      "order": 691,
+      "citation": "RS 6:1228",
+      "title": "Purchase of real estate at judicial sale",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105763"
+    },
+    {
+      "order": 692,
+      "citation": "RS 6:1229",
+      "title": "Immovable property; dealings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105764"
+    },
+    {
+      "order": 693,
+      "citation": "RS 6:1229.1",
+      "title": "Applicability of rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105765"
+    },
+    {
+      "order": 694,
+      "citation": "RS 6:1230",
+      "title": "Purchases of real estate for office and rental purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105767"
+    },
+    {
+      "order": 695,
+      "citation": "RS 6:1231",
+      "title": "Usury law inapplicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105768"
+    },
+    {
+      "order": 696,
+      "citation": "RS 6:1232",
+      "title": "Prohibited loans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105769"
+    },
+    {
+      "order": 697,
+      "citation": "RS 6:1233",
+      "title": "Effect of unauthorized investments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105770"
+    },
+    {
+      "order": 698,
+      "citation": "RS 6:1234",
+      "title": "Acknowledgments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105771"
+    },
+    {
+      "order": 699,
+      "citation": "RS 6:1235",
+      "title": "Loans to one borrower",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105772"
+    },
+    {
+      "order": 700,
+      "citation": "RS 6:1236",
+      "title": "Commissioner's regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105773"
+    },
+    {
+      "order": 701,
+      "citation": "RS 6:1237",
+      "title": "Change in control",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105774"
+    },
+    {
+      "order": 702,
+      "citation": "RS 6:1251",
+      "title": "Withdrawable accounts; general definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105778"
+    },
+    {
+      "order": 703,
+      "citation": "RS 6:1252",
+      "title": "Prohibited activities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105779"
+    },
+    {
+      "order": 704,
+      "citation": "RS 6:1253",
+      "title": "Withdrawable accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105780"
+    },
+    {
+      "order": 705,
+      "citation": "RS 6:1254",
+      "title": "Issuance, delivery, and transfer of certificates and account books",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105781"
+    },
+    {
+      "order": 706,
+      "citation": "RS 6:1255",
+      "title": "Joint account; trust account; payment on death account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105782"
+    },
+    {
+      "order": 707,
+      "citation": "RS 6:1256",
+      "title": "Effect of payment to minor or fiduciary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105783"
+    },
+    {
+      "order": 708,
+      "citation": "RS 6:1257",
+      "title": "Payment on legal disability or death of holder in holder's own right of a withdrawable account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105784"
+    },
+    {
+      "order": 709,
+      "citation": "RS 6:1258",
+      "title": "Voluntary withdrawal of accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105785"
+    },
+    {
+      "order": 710,
+      "citation": "RS 6:1259",
+      "title": "Enforced retirement of withdrawable accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105786"
+    },
+    {
+      "order": 711,
+      "citation": "RS 6:1260",
+      "title": "Authorized charges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105788"
+    },
+    {
+      "order": 712,
+      "citation": "RS 6:1261",
+      "title": "Withdrawable accounts subject to liens",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105789"
+    },
+    {
+      "order": 713,
+      "citation": "RS 6:1262",
+      "title": "Demand deposits; checking account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105790"
+    },
+    {
+      "order": 714,
+      "citation": "RS 6:1263",
+      "title": "Payment of interest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105791"
+    },
+    {
+      "order": 715,
+      "citation": "RS 6:1264",
+      "title": "Holders of withdrawable accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105792"
+    },
+    {
+      "order": 716,
+      "citation": "RS 6:1271",
+      "title": "Amendment of articles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105794"
+    },
+    {
+      "order": 717,
+      "citation": "RS 6:1272",
+      "title": "Repealed by Acts 2003, No. 577, §2, eff. June 27, 2003.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105795"
+    },
+    {
+      "order": 718,
+      "citation": "RS 6:1273",
+      "title": "Repealed by Acts 2003, No. 577, §2, eff. June 27, 2003; Acts 2003, No. 17, §1, eff. May 23, 2003; Acts 2003, No. 60, §1, eff. May 23, 2003.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105796"
+    },
+    {
+      "order": 719,
+      "citation": "RS 6:1274",
+      "title": "Repealed by Acts 2003, No. 577, §2, eff. June 27, 2003.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105797"
+    },
+    {
+      "order": 720,
+      "citation": "RS 6:1275",
+      "title": "Effect upon existing articles and bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105798"
+    },
+    {
+      "order": 721,
+      "citation": "RS 6:1276",
+      "title": "Merger; adoption of plan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105799"
+    },
+    {
+      "order": 722,
+      "citation": "RS 6:1277",
+      "title": "Merger; vote of approval",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105800"
+    },
+    {
+      "order": 723,
+      "citation": "RS 6:1278",
+      "title": "Merger; commissioner's certificate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105801"
+    },
+    {
+      "order": 724,
+      "citation": "RS 6:1279",
+      "title": "Effect of merger",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105802"
+    },
+    {
+      "order": 725,
+      "citation": "RS 6:1280",
+      "title": "Merger; commissioner's expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105804"
+    },
+    {
+      "order": 726,
+      "citation": "RS 6:1281",
+      "title": "Sale of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105805"
+    },
+    {
+      "order": 727,
+      "citation": "RS 6:1282",
+      "title": "Procedure to effect sale of all assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105806"
+    },
+    {
+      "order": 728,
+      "citation": "RS 6:1283",
+      "title": "Authority to form a bridge charter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105807"
+    },
+    {
+      "order": 729,
+      "citation": "RS 6:1284",
+      "title": "Conversion of an existing financial institution to a savings bank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105808"
+    },
+    {
+      "order": 730,
+      "citation": "RS 6:1285",
+      "title": "Emergency merger",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105809"
+    },
+    {
+      "order": 731,
+      "citation": "RS 6:1286",
+      "title": "Emergency sale of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105810"
+    },
+    {
+      "order": 732,
+      "citation": "RS 6:1301",
+      "title": "Powers of commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105813"
+    },
+    {
+      "order": 733,
+      "citation": "RS 6:1302",
+      "title": "Examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105814"
+    },
+    {
+      "order": 734,
+      "citation": "RS 6:1303",
+      "title": "Examiners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105815"
+    },
+    {
+      "order": 735,
+      "citation": "RS 6:1304",
+      "title": "Report of examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105816"
+    },
+    {
+      "order": 736,
+      "citation": "RS 6:1305",
+      "title": "Failure to comply with commissioner's report of examination; publication of reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105817"
+    },
+    {
+      "order": 737,
+      "citation": "RS 6:1306",
+      "title": "Orders of the commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105818"
+    },
+    {
+      "order": 738,
+      "citation": "RS 6:1307",
+      "title": "Recordkeeping and retention of records by a savings bank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105819"
+    },
+    {
+      "order": 739,
+      "citation": "RS 6:1308",
+      "title": "Disclosure of examination reports and other reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105820"
+    },
+    {
+      "order": 740,
+      "citation": "RS 6:1309",
+      "title": "Examination of data processing centers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105821"
+    },
+    {
+      "order": 741,
+      "citation": "RS 6:1310",
+      "title": "Annual directors' examinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105823"
+    },
+    {
+      "order": 742,
+      "citation": "RS 6:1311",
+      "title": "Unsafe and unsound; orders of prohibition and removal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105824"
+    },
+    {
+      "order": 743,
+      "citation": "RS 6:1312",
+      "title": "Cease and desist proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105825"
+    },
+    {
+      "order": 744,
+      "citation": "RS 6:1313",
+      "title": "Procedure upon the impairment of capital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105826"
+    },
+    {
+      "order": 745,
+      "citation": "RS 6:1314",
+      "title": "Administrative review",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105827"
+    },
+    {
+      "order": 746,
+      "citation": "RS 6:1321",
+      "title": "Conservatorships of savings banks",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105829"
+    },
+    {
+      "order": 747,
+      "citation": "RS 6:1322",
+      "title": "Involuntary liquidation procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105830"
+    },
+    {
+      "order": 748,
+      "citation": "RS 6:1331",
+      "title": "Affirmative action to correct conditions resulting from violations of law, regulations, orders, or from practices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105832"
+    },
+    {
+      "order": 749,
+      "citation": "RS 6:1332",
+      "title": "Cease and desist; books and records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105833"
+    },
+    {
+      "order": 750,
+      "citation": "RS 6:1333",
+      "title": "Removal and prohibition authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105834"
+    },
+    {
+      "order": 751,
+      "citation": "RS 6:1334",
+      "title": "Industry-wide prohibition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105835"
+    },
+    {
+      "order": 752,
+      "citation": "RS 6:1335",
+      "title": "Institution-affiliated party",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105836"
+    },
+    {
+      "order": 753,
+      "citation": "RS 6:1336",
+      "title": "Civil money penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105837"
+    },
+    {
+      "order": 754,
+      "citation": "RS 6:1337",
+      "title": "Effect of termination or resignation of an institution-affiliated party",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105838"
+    },
+    {
+      "order": 755,
+      "citation": "RS 6:1338",
+      "title": "Unauthorized participation by convicted individual",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105839"
+    },
+    {
+      "order": 756,
+      "citation": "RS 6:1339",
+      "title": "Perjury; false statements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105840"
+    },
+    {
+      "order": 757,
+      "citation": "RS 6:1340",
+      "title": "False advertising",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105842"
+    },
+    {
+      "order": 758,
+      "citation": "RS 6:1341",
+      "title": "Prohibitive practices; additional",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105843"
+    },
+    {
+      "order": 759,
+      "citation": "RS 6:1351",
+      "title": "PROFESSIONAL SERVICES TO FEDERALLY",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105845"
+    },
+    {
+      "order": 760,
+      "citation": "RS 6:1352",
+      "title": "Professional liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105846"
+    },
+    {
+      "order": 761,
+      "citation": "RS 6:1353",
+      "title": "Officers and directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105847"
+    },
+    {
+      "order": 762,
+      "citation": "RS 6:1354",
+      "title": "Imposition of greater standards; liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105848"
+    },
+    {
+      "order": 763,
+      "citation": "RS 6:1361",
+      "title": "AUTOMATED TELLER MACHINES/NIGHT",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105850"
+    },
+    {
+      "order": 764,
+      "citation": "RS 6:1362",
+      "title": "Intent; scope; effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105851"
+    },
+    {
+      "order": 765,
+      "citation": "RS 6:1363",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105852"
+    },
+    {
+      "order": 766,
+      "citation": "RS 6:1364",
+      "title": "Compliance required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105853"
+    },
+    {
+      "order": 767,
+      "citation": "RS 6:1365",
+      "title": "Lighting standards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105854"
+    },
+    {
+      "order": 768,
+      "citation": "RS 6:1366",
+      "title": "Landscape and vegetation standards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105855"
+    },
+    {
+      "order": 769,
+      "citation": "RS 6:1367",
+      "title": "Notice of customer safety information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=105856"
+    },
+    {
+      "order": 770,
+      "citation": "RS 6:1371",
+      "title": "Legislative intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630376"
+    },
+    {
+      "order": 771,
+      "citation": "RS 6:1372",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630377"
+    },
+    {
+      "order": 772,
+      "citation": "RS 6:1373",
+      "title": "Notices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630379"
+    },
+    {
+      "order": 773,
+      "citation": "RS 6:1374",
+      "title": "Delaying financial transactions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630381"
+    },
+    {
+      "order": 774,
+      "citation": "RS 6:1375",
+      "title": "Applicability of other laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630382"
+    },
+    {
+      "order": 775,
+      "citation": "RS 6:1376",
+      "title": "Immunity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106967"
+    },
+    {
+      "order": 776,
+      "citation": "RS 6:1381",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187462"
+    },
+    {
+      "order": 777,
+      "citation": "RS 6:1382",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187463"
+    },
+    {
+      "order": 778,
+      "citation": "RS 6:1383",
+      "title": "Applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187464"
+    },
+    {
+      "order": 779,
+      "citation": "RS 6:1384",
+      "title": "Licensure; general",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187465"
+    },
+    {
+      "order": 780,
+      "citation": "RS 6:1385",
+      "title": "Requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187466"
+    },
+    {
+      "order": 781,
+      "citation": "RS 6:1385.1",
+      "title": "Approval of advanced change of control notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336218"
+    },
+    {
+      "order": 782,
+      "citation": "RS 6:1385.2",
+      "title": "Approval of advanced change of responsible individual notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336219"
+    },
+    {
+      "order": 783,
+      "citation": "RS 6:1386",
+      "title": "Required documents; surety bond; tangible net worth",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187467"
+    },
+    {
+      "order": 784,
+      "citation": "RS 6:1386.1",
+      "title": "Meeting tangible net worth requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336220"
+    },
+    {
+      "order": 785,
+      "citation": "RS 6:1386.2",
+      "title": "Protection of resident assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336221"
+    },
+    {
+      "order": 786,
+      "citation": "RS 6:1387",
+      "title": "Issuance of license; appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187468"
+    },
+    {
+      "order": 787,
+      "citation": "RS 6:1388",
+      "title": "Renewal of license; procedure; denial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187471"
+    },
+    {
+      "order": 788,
+      "citation": "RS 6:1388.1",
+      "title": "Quarterly financial reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336222"
+    },
+    {
+      "order": 789,
+      "citation": "RS 6:1389",
+      "title": "Virtual currency kiosks; maximum daily transaction limit; cancellation and refund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187472"
+    },
+    {
+      "order": 790,
+      "citation": "RS 6:1390",
+      "title": "Transferability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187473"
+    },
+    {
+      "order": 791,
+      "citation": "RS 6:1391",
+      "title": "Examinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187474"
+    },
+    {
+      "order": 792,
+      "citation": "RS 6:1391.1",
+      "title": "Books, records, and accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336379"
+    },
+    {
+      "order": 793,
+      "citation": "RS 6:1391.2",
+      "title": "Compliance policies and procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336380"
+    },
+    {
+      "order": 794,
+      "citation": "RS 6:1392",
+      "title": "Enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187475"
+    },
+    {
+      "order": 795,
+      "citation": "RS 6:1393",
+      "title": "Violations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187476"
+    },
+    {
+      "order": 796,
+      "citation": "RS 6:1393.1",
+      "title": "Required disclosures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336388"
+    },
+    {
+      "order": 797,
+      "citation": "RS 6:1394",
+      "title": "Implementation; reporting requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187477"
+    },
+    {
+      "order": 798,
+      "citation": "RS 6:1395",
+      "title": "Blockchain analytics",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1430536"
+    },
+    {
+      "order": 799,
+      "citation": "RS 6:1396",
+      "title": "Anti-fraud policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1430537"
+    },
+    {
+      "order": 800,
+      "citation": "RS 6:1397",
+      "title": "Enhanced due diligence policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1430538"
+    },
+    {
+      "order": 801,
+      "citation": "RS 6:1401",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294843"
+    },
+    {
+      "order": 802,
+      "citation": "RS 6:1402",
+      "title": "Provision of virtual currency custody services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294844"
+    },
+    {
+      "order": 803,
+      "citation": "RS 6:1411",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294845"
+    },
+    {
+      "order": 804,
+      "citation": "RS 6:1412",
+      "title": "Duties of student loan servicers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294846"
+    },
+    {
+      "order": 805,
+      "citation": "RS 6:1413",
+      "title": "Written inquiries and complaints",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294847"
+    },
+    {
+      "order": 806,
+      "citation": "RS 6:1421",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294848"
+    },
+    {
+      "order": 807,
+      "citation": "RS 6:1422",
+      "title": "Private education lender registry",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294849"
+    },
+    {
+      "order": 808,
+      "citation": "RS 6:1423",
+      "title": "Violations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294850"
+    },
+    {
+      "order": 809,
+      "citation": "RS 6:1424",
+      "title": "Rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294851"
+    }
+  ]
+}

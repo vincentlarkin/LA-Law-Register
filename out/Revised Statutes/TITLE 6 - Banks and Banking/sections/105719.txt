@@ -1,0 +1,17 @@
+RS 6:1151
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=105719
+
+PART II.  HOLDING COMPANIES
+§1151.  Definitions
+A.  "Savings bank holding company" means any stock or mutual company which directly or indirectly or acting in concert with one or more other persons or through one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing more than twenty-five percent of the voting shares or rights of any savings bank or savings bank holding company or controls in any manner, whether by holding of proxies or otherwise, the election of a majority of the directors of any savings bank or savings bank holding company.  Notwithstanding the foregoing, no company shall be deemed to have control of, or over, a savings bank or holding company:
+(1)  By virtue of its ownership or control of shares in a fiduciary capacity arising in the ordinary course of its business;
+(2)  By virtue of its ownership or control of shares acquired by it in connection with its underwriting of securities which are held only for such period of time as will permit the sale thereof upon a reasonable basis;
+(3)  By virtue of its holding any shares as collateral taken in the ordinary course of securing a debt or other obligation;
+(4)  By virtue of its ownership or control of shares acquired in the ordinary course of collecting a debt or other obligation previously contracted in good faith, until five years after the date acquired; or
+(5)  By virtue of its voting rights with respect to shares of any savings bank or holding company acquired in the course of a proxy solicitation in the case of a company formed and operated for the sole purpose of participating in a proxy solicitation.
+B.  "Louisiana savings bank holding company" means a savings bank holding company whose principal place of business is in Louisiana and which is not controlled, directly or indirectly, by another savings bank holding company whose principal place of business is outside Louisiana.
+C.  "Out-of-state savings bank holding company" means a savings bank holding company whose principal place of business is in a state other than Louisiana.
+D.  "Principal place of business" of a savings bank holding company means the state in which the total deposits of all offices of all subsidiaries are the largest as shown by the most recent reports of condition filed with state or federal regulatory authorities.
+E.  "Subsidiary of an individual or company" means any company which is controlled by such person or by a company which is a subsidiary of such person by virtue of this Section.
+Acts 1990, No. 816, §1, eff. Sept. 1, 1990.

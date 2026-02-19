@@ -1,0 +1,11 @@
+RS 10:9-325
+Priority of security interests in transferred collateral
+https://www.legis.la.gov/legis/Law.aspx?d=74426
+
+§9-325.  Priority of security interests in transferred collateral
+(a)  Subordination of security interest in transferred collateral.  Except as otherwise provided in Subsection (b), a security interest created by a debtor is subordinate to a security interest in the same collateral created by another person, if:
+(1)  the debtor acquired the collateral subject to the security interest created by the other person;
+(2)  the security interest created by the other person was perfected when the debtor acquired the collateral; and
+(3)  there is no period thereafter when the security interest is unperfected.
+(b)  Limitation of Subsection (a) subordination.  Subsection (a) subordinates a security interest only if the security interest otherwise would have priority solely under R.S. 10:9-322(a) or 9-324.
+Acts 2001, No. 128, §1, eff. July 1, 2001.

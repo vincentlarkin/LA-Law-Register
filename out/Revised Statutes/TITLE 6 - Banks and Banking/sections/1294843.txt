@@ -1,0 +1,27 @@
+RS 6:1401
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1294843
+
+CHAPTER 22.  VIRTUAL CURRENCY CUSTODY SERVICES
+§1401.  Definitions
+As used in this Chapter, the following words have the following meanings:
+(1)  "Custody services" means the safekeeping or custody of virtual currency or other
+assets by a financial institution or trust company.
+(2)  "Financial institution" means a federally insured depository institution chartered
+pursuant to the laws of this state, another state, or the United States.
+(3)  "Self-assessment" means either of the following:
+(a)  A financial institution's or trust company's voluntary, self-initiated internal
+assessment, audit, or review of the financial institution or trust company and its practices,
+policies, and procedures.
+(b)  A financial institution's or trust company's voluntary, self-initiated assessment,
+audit, or review of the practices, policies, and procedures of a person acting under contract,
+directly or indirectly, as the financial institution's or trust company's service provider,
+including mortgage servicers and subservicers, credit and debit card processors, and
+providers of loan document systems.
+(4)  "Trust company" means a corporation or a limited liability trust company
+organized in accordance with this Title, the laws of another state, or pursuant to the laws of
+the United States, including a trust company organized pursuant to the laws of this state
+before June 27, 2003, or an entity chartered to act as a fiduciary that is neither a depository
+institution nor a foreign bank.
+(5)  "Virtual currency" has the same meaning as provided for in R.S. 6:1382.
+Acts 2022, No. 509, §1.
