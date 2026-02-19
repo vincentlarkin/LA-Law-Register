@@ -1,0 +1,54 @@
+RS 14:73.7
+Computer tampering
+https://www.legis.la.gov/legis/Law.aspx?d=78658
+
+§73.7.  Computer tampering
+A.  Computer tampering is the intentional commission of any of the
+actions enumerated in this Subsection when that action is taken knowingly and
+without the authorization of the owner of a computer:
+(1)  Accessing or causing to be accessed a computer or any part of a
+computer or any program or data contained within a computer.
+(2)  Copying or otherwise obtaining any program or data contained
+within a computer.
+(3)  Damaging or destroying a computer, or altering, deleting, or
+removing any program or data contained within a computer, or eliminating or
+reducing the ability of the owner of the computer to access or utilize the
+computer or any program or data contained within the computer.
+(4)  Introducing or attempting to introduce any electronic information
+of any kind and in any form into one or more computers, either directly or
+indirectly, and either simultaneously or sequentially,  with the intention of
+damaging or destroying a computer, or altering, deleting, or removing any
+program or data contained within a computer, or eliminating or reducing the
+ability of the owner of the computer to access or utilize the computer or any
+program or data contained within the computer.
+B.  For purposes of this Section:
+(1)  Actions which are taken without authorization include actions
+which intentionally exceed the limits of authorization.
+(2)  If an owner of a computer has established a confidential or
+proprietary code which is required in order to access a computer, and that code
+has not been issued to a person, and that person uses that code to access that
+computer or to cause that computer to be accessed, that action creates a
+rebuttable presumption that the action was taken without authorization or
+intentionally exceeded the limits of authorization.
+(3)  The vital services or operations of the state, or of any parish,
+municipality, or other local governing authority, or of any utility company are
+the services or operations which are necessary to protect the public health,
+safety, and welfare, and include but are not limited to: law enforcement; fire
+protection; emergency services; health care; transportation; communications;
+drainage; sewerage; and utilities, including water, electricity, and natural gas
+and other forms of energy.
+C.  Whoever commits the crime of computer tampering as defined in
+Paragraphs (A)(1) and (2) of this Section shall be fined not more than five
+hundred dollars or imprisoned for not more than six months, or both.
+D.  Whoever commits the crime of computer tampering as defined in
+Paragraphs (A)(3) and (4) of this Section shall be fined not more than ten
+thousand dollars or imprisoned, with or without hard labor, for not more than
+five years, or both.
+E.  Whoever violates the crime of computer tampering as defined in
+Paragraphs (A)(3) and (4) of this Section with the intention of disrupting the
+vital services or operations of the state, or of any parish, municipality, or other
+local governing authority, or of any utility company, or with the intention of
+causing death or great bodily harm to one or more persons, shall be fined not
+more than ten thousand dollars or imprisoned at hard labor for not more than
+fifteen years, or both.
+Acts 2001, No. 829, §1.

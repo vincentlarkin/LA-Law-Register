@@ -1,0 +1,4274 @@
+{
+  "category_key": "revised-statutes",
+  "category_name": "Revised Statutes",
+  "bundle_name": "TITLE 14 - Criminal Law",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "RS 14:1",
+      "title": "TITLE 14. CRIMINAL LAW",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78224"
+    },
+    {
+      "order": 2,
+      "citation": "RS 14:2",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78337"
+    },
+    {
+      "order": 3,
+      "citation": "RS 14:3",
+      "title": "Interpretation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78396"
+    },
+    {
+      "order": 4,
+      "citation": "RS 14:4",
+      "title": "Conduct made criminal under several articles; how prosecuted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78512"
+    },
+    {
+      "order": 5,
+      "citation": "RS 14:5",
+      "title": "Lesser and included offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78547"
+    },
+    {
+      "order": 6,
+      "citation": "RS 14:6",
+      "title": "Civil remedies not affected",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78574"
+    },
+    {
+      "order": 7,
+      "citation": "RS 14:7",
+      "title": "Crime defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78637"
+    },
+    {
+      "order": 8,
+      "citation": "RS 14:8",
+      "title": "Criminal conduct",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78671"
+    },
+    {
+      "order": 9,
+      "citation": "RS 14:9",
+      "title": "Criminal consequences",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78697"
+    },
+    {
+      "order": 10,
+      "citation": "RS 14:10",
+      "title": "Criminal intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78225"
+    },
+    {
+      "order": 11,
+      "citation": "RS 14:11",
+      "title": "Criminal intent; how expressed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78267"
+    },
+    {
+      "order": 12,
+      "citation": "RS 14:12",
+      "title": "Criminal negligence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78285"
+    },
+    {
+      "order": 13,
+      "citation": "RS 14:13",
+      "title": "Infancy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78307"
+    },
+    {
+      "order": 14,
+      "citation": "RS 14:14",
+      "title": "Insanity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78327"
+    },
+    {
+      "order": 15,
+      "citation": "RS 14:15",
+      "title": "Intoxication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78332"
+    },
+    {
+      "order": 16,
+      "citation": "RS 14:16",
+      "title": "Mistake of fact",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78333"
+    },
+    {
+      "order": 17,
+      "citation": "RS 14:17",
+      "title": "Mistake of law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78334"
+    },
+    {
+      "order": 18,
+      "citation": "RS 14:18",
+      "title": "Justification; general provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78335"
+    },
+    {
+      "order": 19,
+      "citation": "RS 14:19",
+      "title": "Use of force or violence in defense",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78336"
+    },
+    {
+      "order": 20,
+      "citation": "RS 14:20",
+      "title": "Justifiable homicide",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78338"
+    },
+    {
+      "order": 21,
+      "citation": "RS 14:20.1",
+      "title": "Investigation of death due to violence or suspicious circumstances when claim of self-defense is raised",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814011"
+    },
+    {
+      "order": 22,
+      "citation": "RS 14:21",
+      "title": "Aggressor cannot claim self defense",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78348"
+    },
+    {
+      "order": 23,
+      "citation": "RS 14:22",
+      "title": "Defense of others",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78358"
+    },
+    {
+      "order": 24,
+      "citation": "RS 14:23",
+      "title": "Parties classified",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78381"
+    },
+    {
+      "order": 25,
+      "citation": "RS 14:24",
+      "title": "Principals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78383"
+    },
+    {
+      "order": 26,
+      "citation": "RS 14:25",
+      "title": "Accessories after the fact",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78384"
+    },
+    {
+      "order": 27,
+      "citation": "RS 14:26",
+      "title": "Criminal conspiracy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78385"
+    },
+    {
+      "order": 28,
+      "citation": "RS 14:27",
+      "title": "Attempt; penalties; attempt on peace officer; enhanced penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78386"
+    },
+    {
+      "order": 29,
+      "citation": "RS 14:28",
+      "title": "Inciting a felony",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78387"
+    },
+    {
+      "order": 30,
+      "citation": "RS 14:28.1",
+      "title": "Solicitation for murder",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78388"
+    },
+    {
+      "order": 31,
+      "citation": "RS 14:29",
+      "title": "Homicide",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78395"
+    },
+    {
+      "order": 32,
+      "citation": "RS 14:30",
+      "title": "First degree murder",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78397"
+    },
+    {
+      "order": 33,
+      "citation": "RS 14:30.1",
+      "title": "Second degree murder",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78398"
+    },
+    {
+      "order": 34,
+      "citation": "RS 14:31",
+      "title": "Manslaughter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78399"
+    },
+    {
+      "order": 35,
+      "citation": "RS 14:32",
+      "title": "Negligent homicide",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78409"
+    },
+    {
+      "order": 36,
+      "citation": "RS 14:32.1",
+      "title": "Vehicular homicide",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78410"
+    },
+    {
+      "order": 37,
+      "citation": "RS 14:32.5",
+      "title": "FETICIDE",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78412"
+    },
+    {
+      "order": 38,
+      "citation": "RS 14:32.6",
+      "title": "First degree feticide",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78413"
+    },
+    {
+      "order": 39,
+      "citation": "RS 14:32.7",
+      "title": "Second degree feticide",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78414"
+    },
+    {
+      "order": 40,
+      "citation": "RS 14:32.8",
+      "title": "Third degree feticide",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78415"
+    },
+    {
+      "order": 41,
+      "citation": "RS 14:32.9",
+      "title": "Redesignated as R.S. 14:87.10 by Acts 2022, No. 545, §6A.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78416"
+    },
+    {
+      "order": 42,
+      "citation": "RS 14:32.9.1",
+      "title": "Redesignated as R.S. 14:87.11 by Acts 2022, No. 545, §6A.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814013"
+    },
+    {
+      "order": 43,
+      "citation": "RS 14:32.10",
+      "title": "Repealed by Acts 2022, No. 545, §4.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451830"
+    },
+    {
+      "order": 44,
+      "citation": "RS 14:32.11",
+      "title": "Redesignated as R.S. 14:87.12 by Acts 2022, No. 545, §6A.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451831"
+    },
+    {
+      "order": 45,
+      "citation": "RS 14:32.12",
+      "title": "SUICIDE",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78411"
+    },
+    {
+      "order": 46,
+      "citation": "RS 14:33",
+      "title": "Battery defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78437"
+    },
+    {
+      "order": 47,
+      "citation": "RS 14:34",
+      "title": "Aggravated battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78444"
+    },
+    {
+      "order": 48,
+      "citation": "RS 14:34.1",
+      "title": "Second degree battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78445"
+    },
+    {
+      "order": 49,
+      "citation": "RS 14:34.2",
+      "title": "Battery of a police officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78446"
+    },
+    {
+      "order": 50,
+      "citation": "RS 14:34.3",
+      "title": "Battery of a school teacher",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78447"
+    },
+    {
+      "order": 51,
+      "citation": "RS 14:34.4",
+      "title": "Battery of a school or recreation athletic contest official",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78448"
+    },
+    {
+      "order": 52,
+      "citation": "RS 14:34.5",
+      "title": "Battery of a correctional facility employee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78449"
+    },
+    {
+      "order": 53,
+      "citation": "RS 14:34.5.1",
+      "title": "Battery of a bus operator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206144"
+    },
+    {
+      "order": 54,
+      "citation": "RS 14:34.6",
+      "title": "Disarming of a peace officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78450"
+    },
+    {
+      "order": 55,
+      "citation": "RS 14:34.7",
+      "title": "Aggravated second degree battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78451"
+    },
+    {
+      "order": 56,
+      "citation": "RS 14:34.8",
+      "title": "Battery of emergency room personnel, emergency services personnel, or a healthcare professional",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919196"
+    },
+    {
+      "order": 57,
+      "citation": "RS 14:34.9",
+      "title": "Battery of a dating partner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1054681"
+    },
+    {
+      "order": 58,
+      "citation": "RS 14:34.9.1",
+      "title": "Aggravated assault upon a dating partner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1054672"
+    },
+    {
+      "order": 59,
+      "citation": "RS 14:35",
+      "title": "Simple battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78452"
+    },
+    {
+      "order": 60,
+      "citation": "RS 14:35.1",
+      "title": "Battery of a child welfare or adult protective service worker",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78453"
+    },
+    {
+      "order": 61,
+      "citation": "RS 14:35.2",
+      "title": "Simple battery of persons with infirmities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78454"
+    },
+    {
+      "order": 62,
+      "citation": "RS 14:35.3",
+      "title": "Domestic abuse battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206153"
+    },
+    {
+      "order": 63,
+      "citation": "RS 14:36",
+      "title": "Assault defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78467"
+    },
+    {
+      "order": 64,
+      "citation": "RS 14:37",
+      "title": "Aggravated assault",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78478"
+    },
+    {
+      "order": 65,
+      "citation": "RS 14:37.1",
+      "title": "Assault by drive-by shooting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78479"
+    },
+    {
+      "order": 66,
+      "citation": "RS 14:37.2",
+      "title": "Aggravated assault upon a peace officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78480"
+    },
+    {
+      "order": 67,
+      "citation": "RS 14:37.3",
+      "title": "Unlawful use of a laser on a police officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78481"
+    },
+    {
+      "order": 68,
+      "citation": "RS 14:37.4",
+      "title": "Aggravated assault with a firearm",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78482"
+    },
+    {
+      "order": 69,
+      "citation": "RS 14:37.5",
+      "title": "Aggravated assault upon a utility service employee with a firearm",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408474"
+    },
+    {
+      "order": 70,
+      "citation": "RS 14:37.6",
+      "title": "Aggravated assault with a motor vehicle upon a peace officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725178"
+    },
+    {
+      "order": 71,
+      "citation": "RS 14:37.7",
+      "title": "Domestic abuse aggravated assault",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814014"
+    },
+    {
+      "order": 72,
+      "citation": "RS 14:38",
+      "title": "Simple assault",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78491"
+    },
+    {
+      "order": 73,
+      "citation": "RS 14:38.1",
+      "title": "Mingling harmful substances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78492"
+    },
+    {
+      "order": 74,
+      "citation": "RS 14:38.1.1",
+      "title": "Adulterating a food product",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187412"
+    },
+    {
+      "order": 75,
+      "citation": "RS 14:38.2",
+      "title": "Assault on a school teacher",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78493"
+    },
+    {
+      "order": 76,
+      "citation": "RS 14:38.3",
+      "title": "Assault on a child welfare worker",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320884"
+    },
+    {
+      "order": 77,
+      "citation": "RS 14:38.4",
+      "title": "Harassment of a school or recreation athletic contest official",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147416"
+    },
+    {
+      "order": 78,
+      "citation": "RS 14:38.5",
+      "title": "Assault on emergency room personnel, emergency services personnel, or a healthcare professional",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294834"
+    },
+    {
+      "order": 79,
+      "citation": "RS 14:39",
+      "title": "Negligent injuring",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78500"
+    },
+    {
+      "order": 80,
+      "citation": "RS 14:39.1",
+      "title": "Vehicular negligent injuring",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78501"
+    },
+    {
+      "order": 81,
+      "citation": "RS 14:39.2",
+      "title": "First degree vehicular negligent injuring",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78502"
+    },
+    {
+      "order": 82,
+      "citation": "RS 14:40",
+      "title": "Intimidation by officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78513"
+    },
+    {
+      "order": 83,
+      "citation": "RS 14:40.1",
+      "title": "Terrorizing; menacing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78514"
+    },
+    {
+      "order": 84,
+      "citation": "RS 14:40.2",
+      "title": "Stalking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78515"
+    },
+    {
+      "order": 85,
+      "citation": "RS 14:40.3",
+      "title": "Cyberstalking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78516"
+    },
+    {
+      "order": 86,
+      "citation": "RS 14:40.4",
+      "title": "Burning cross on property of another or public place; intent to intimidate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206160"
+    },
+    {
+      "order": 87,
+      "citation": "RS 14:40.5",
+      "title": "Public display of a noose on property of another or public place; intent to intimidate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508440"
+    },
+    {
+      "order": 88,
+      "citation": "RS 14:40.6",
+      "title": "Unlawful disruption of the operation of a school; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670368"
+    },
+    {
+      "order": 89,
+      "citation": "RS 14:40.7",
+      "title": "Cyberbullying",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725180"
+    },
+    {
+      "order": 90,
+      "citation": "RS 14:40.8",
+      "title": "Criminal hazing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106699"
+    },
+    {
+      "order": 91,
+      "citation": "RS 14:40.9",
+      "title": "Unlawful disruption of the operation of a healthcare facility",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294837"
+    },
+    {
+      "order": 92,
+      "citation": "RS 14:41",
+      "title": "Rape; defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78528"
+    },
+    {
+      "order": 93,
+      "citation": "RS 14:41.1",
+      "title": "Consent; victim in police custody",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106702"
+    },
+    {
+      "order": 94,
+      "citation": "RS 14:42",
+      "title": "First degree rape",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78529"
+    },
+    {
+      "order": 95,
+      "citation": "RS 14:42.1",
+      "title": "Second degree rape",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78530"
+    },
+    {
+      "order": 96,
+      "citation": "RS 14:43",
+      "title": "Third degree rape",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78531"
+    },
+    {
+      "order": 97,
+      "citation": "RS 14:43.1",
+      "title": "Sexual battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78532"
+    },
+    {
+      "order": 98,
+      "citation": "RS 14:43.1.1",
+      "title": "Misdemeanor sexual battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=963337"
+    },
+    {
+      "order": 99,
+      "citation": "RS 14:43.2",
+      "title": "Second degree sexual battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78533"
+    },
+    {
+      "order": 100,
+      "citation": "RS 14:43.3",
+      "title": "Oral sexual battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78534"
+    },
+    {
+      "order": 101,
+      "citation": "RS 14:43.4",
+      "title": "Female genital mutilation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78535"
+    },
+    {
+      "order": 102,
+      "citation": "RS 14:43.5",
+      "title": "Intentional exposure to HIV",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78536"
+    },
+    {
+      "order": 103,
+      "citation": "RS 14:43.6",
+      "title": "Administration of medroxyprogesterone acetate (MPA) to certain sex offenders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508441"
+    },
+    {
+      "order": 104,
+      "citation": "RS 14:43.7",
+      "title": "Administration of surgical castration for certain sex offenders; failure to comply with court order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388414"
+    },
+    {
+      "order": 105,
+      "citation": "RS 14:44",
+      "title": "Aggravated kidnapping",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78537"
+    },
+    {
+      "order": 106,
+      "citation": "RS 14:44.1",
+      "title": "Second degree kidnapping",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78538"
+    },
+    {
+      "order": 107,
+      "citation": "RS 14:44.2",
+      "title": "Aggravated kidnapping of a child",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78539"
+    },
+    {
+      "order": 108,
+      "citation": "RS 14:45",
+      "title": "Simple kidnapping",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78540"
+    },
+    {
+      "order": 109,
+      "citation": "RS 14:45.1",
+      "title": "Interference with the custody of a child",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78541"
+    },
+    {
+      "order": 110,
+      "citation": "RS 14:46",
+      "title": "False imprisonment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78542"
+    },
+    {
+      "order": 111,
+      "citation": "RS 14:46.1",
+      "title": "False imprisonment; offender armed with dangerous weapon",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78543"
+    },
+    {
+      "order": 112,
+      "citation": "RS 14:46.2",
+      "title": "Human trafficking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320889"
+    },
+    {
+      "order": 113,
+      "citation": "RS 14:46.3",
+      "title": "Trafficking of children for sexual purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670369"
+    },
+    {
+      "order": 114,
+      "citation": "RS 14:46.4",
+      "title": "Re-homing of a child",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919211"
+    },
+    {
+      "order": 115,
+      "citation": "RS 14:47",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78544"
+    },
+    {
+      "order": 116,
+      "citation": "RS 14:48",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78545"
+    },
+    {
+      "order": 117,
+      "citation": "RS 14:49",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78546"
+    },
+    {
+      "order": 118,
+      "citation": "RS 14:50",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78548"
+    },
+    {
+      "order": 119,
+      "citation": "RS 14:50.1",
+      "title": "Repealed by Acts 2008, No. 220, §13, eff. June 14, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78549"
+    },
+    {
+      "order": 120,
+      "citation": "RS 14:50.2",
+      "title": "Perpetration or attempted perpetration of certain crimes of violence against a victim sixty-five years of age or older",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78550"
+    },
+    {
+      "order": 121,
+      "citation": "RS 14:51",
+      "title": "Aggravated arson",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78552"
+    },
+    {
+      "order": 122,
+      "citation": "RS 14:51.1",
+      "title": "Injury by arson",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725182"
+    },
+    {
+      "order": 123,
+      "citation": "RS 14:52",
+      "title": "Simple arson",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78556"
+    },
+    {
+      "order": 124,
+      "citation": "RS 14:52.1",
+      "title": "Simple arson of a religious building",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78557"
+    },
+    {
+      "order": 125,
+      "citation": "RS 14:52.2",
+      "title": "Negligent arson",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106710"
+    },
+    {
+      "order": 126,
+      "citation": "RS 14:53",
+      "title": "Arson with intent to defraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78558"
+    },
+    {
+      "order": 127,
+      "citation": "RS 14:54",
+      "title": "Repealed by Acts 2008, No. 220, §13, eff. June 14, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78559"
+    },
+    {
+      "order": 128,
+      "citation": "RS 14:54.1",
+      "title": "Communicating of false information of planned arson",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78560"
+    },
+    {
+      "order": 129,
+      "citation": "RS 14:54.2",
+      "title": "Manufacture and possession of delayed action incendiary devices; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78561"
+    },
+    {
+      "order": 130,
+      "citation": "RS 14:54.3",
+      "title": "Manufacture and possession of a bomb",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78562"
+    },
+    {
+      "order": 131,
+      "citation": "RS 14:54.4",
+      "title": "Forfeitures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78563"
+    },
+    {
+      "order": 132,
+      "citation": "RS 14:54.5",
+      "title": "Fake explosive device",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78564"
+    },
+    {
+      "order": 133,
+      "citation": "RS 14:54.6",
+      "title": "Communicating of false information of planned bombing on school property, at a school-sponsored function, or in a firearm-free zone",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78565"
+    },
+    {
+      "order": 134,
+      "citation": "RS 14:55",
+      "title": "Aggravated criminal damage to property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78566"
+    },
+    {
+      "order": 135,
+      "citation": "RS 14:56",
+      "title": "Simple criminal damage to property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78567"
+    },
+    {
+      "order": 136,
+      "citation": "RS 14:56.1",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78568"
+    },
+    {
+      "order": 137,
+      "citation": "RS 14:56.2",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78569"
+    },
+    {
+      "order": 138,
+      "citation": "RS 14:56.3",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78570"
+    },
+    {
+      "order": 139,
+      "citation": "RS 14:56.4",
+      "title": "Criminal damage to property by defacing with graffiti",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508444"
+    },
+    {
+      "order": 140,
+      "citation": "RS 14:56.5",
+      "title": "Criminal damage to historic buildings or landmarks by defacing with graffiti",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725183"
+    },
+    {
+      "order": 141,
+      "citation": "RS 14:57",
+      "title": "Damage to property with intent to defraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78571"
+    },
+    {
+      "order": 142,
+      "citation": "RS 14:57.1",
+      "title": "Vandalizing, tampering with, or destroying a crime camera system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388419"
+    },
+    {
+      "order": 143,
+      "citation": "RS 14:58",
+      "title": "Contaminating water supplies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78572"
+    },
+    {
+      "order": 144,
+      "citation": "RS 14:59",
+      "title": "Criminal mischief",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78573"
+    },
+    {
+      "order": 145,
+      "citation": "RS 14:60",
+      "title": "Aggravated burglary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78575"
+    },
+    {
+      "order": 146,
+      "citation": "RS 14:61",
+      "title": "Unauthorized entry of a critical infrastructure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78576"
+    },
+    {
+      "order": 147,
+      "citation": "RS 14:61.1",
+      "title": "Criminal damage to a critical infrastructure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106711"
+    },
+    {
+      "order": 148,
+      "citation": "RS 14:62",
+      "title": "Simple burglary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78577"
+    },
+    {
+      "order": 149,
+      "citation": "RS 14:62.1",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78578"
+    },
+    {
+      "order": 150,
+      "citation": "RS 14:62.2",
+      "title": "Simple burglary of an inhabited dwelling",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78579"
+    },
+    {
+      "order": 151,
+      "citation": "RS 14:62.3",
+      "title": "Unauthorized entry of an inhabited dwelling",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78580"
+    },
+    {
+      "order": 152,
+      "citation": "RS 14:62.4",
+      "title": "Unauthorized entry of a place of business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78581"
+    },
+    {
+      "order": 153,
+      "citation": "RS 14:62.5",
+      "title": "Looting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78582"
+    },
+    {
+      "order": 154,
+      "citation": "RS 14:62.6",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78583"
+    },
+    {
+      "order": 155,
+      "citation": "RS 14:62.7",
+      "title": "Unauthorized entry of a dwelling during an emergency or disaster",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408477"
+    },
+    {
+      "order": 156,
+      "citation": "RS 14:62.8",
+      "title": "Home invasion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508445"
+    },
+    {
+      "order": 157,
+      "citation": "RS 14:62.9",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725184"
+    },
+    {
+      "order": 158,
+      "citation": "RS 14:63",
+      "title": "Criminal trespass; squatters",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78584"
+    },
+    {
+      "order": 159,
+      "citation": "RS 14:63.1",
+      "title": "Repealed by Acts 2003, No. 802, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78585"
+    },
+    {
+      "order": 160,
+      "citation": "RS 14:63.2",
+      "title": "Repealed by Acts 2003, No. 802, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78589"
+    },
+    {
+      "order": 161,
+      "citation": "RS 14:63.3",
+      "title": "Entry on or remaining in places or on land after being forbidden",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78590"
+    },
+    {
+      "order": 162,
+      "citation": "RS 14:63.4",
+      "title": "Aiding and abetting others to enter or remain on premises where forbidden",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78591"
+    },
+    {
+      "order": 163,
+      "citation": "RS 14:63.5",
+      "title": "Entry or remaining on site of a school or recreation athletic contest after being forbidden",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78592"
+    },
+    {
+      "order": 164,
+      "citation": "RS 14:63.6",
+      "title": "Repealed by Acts 2003, No. 802, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78593"
+    },
+    {
+      "order": 165,
+      "citation": "RS 14:63.7",
+      "title": "Repealed by Acts 2003, No. 802, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78594"
+    },
+    {
+      "order": 166,
+      "citation": "RS 14:63.8",
+      "title": "Repealed by Acts 2003, No. 802, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78595"
+    },
+    {
+      "order": 167,
+      "citation": "RS 14:63.9",
+      "title": "Repealed by Acts 2003, No. 802, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78596"
+    },
+    {
+      "order": 168,
+      "citation": "RS 14:63.10",
+      "title": "Repealed by Acts 2003, No. 802, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78586"
+    },
+    {
+      "order": 169,
+      "citation": "RS 14:63.11",
+      "title": "Repealed by Acts 1981, No. 78, 3, eff. Jan. 1, 1982.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78587"
+    },
+    {
+      "order": 170,
+      "citation": "RS 14:63.12",
+      "title": "Repealed by Acts 2003, No. 802, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78588"
+    },
+    {
+      "order": 171,
+      "citation": "RS 14:64",
+      "title": "Armed robbery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78597"
+    },
+    {
+      "order": 172,
+      "citation": "RS 14:64.1",
+      "title": "First degree robbery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78598"
+    },
+    {
+      "order": 173,
+      "citation": "RS 14:64.2",
+      "title": "Carjacking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78599"
+    },
+    {
+      "order": 174,
+      "citation": "RS 14:64.2.1",
+      "title": "Carjacking; recruitment of juveniles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294854"
+    },
+    {
+      "order": 175,
+      "citation": "RS 14:64.3",
+      "title": "Armed robbery; attempted armed robbery; use of firearm; additional penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78600"
+    },
+    {
+      "order": 176,
+      "citation": "RS 14:64.4",
+      "title": "Second degree robbery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78601"
+    },
+    {
+      "order": 177,
+      "citation": "RS 14:65",
+      "title": "Simple robbery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78602"
+    },
+    {
+      "order": 178,
+      "citation": "RS 14:65.1",
+      "title": "Purse snatching",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78603"
+    },
+    {
+      "order": 179,
+      "citation": "RS 14:66",
+      "title": "Extortion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78604"
+    },
+    {
+      "order": 180,
+      "citation": "RS 14:67",
+      "title": "Theft",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78605"
+    },
+    {
+      "order": 181,
+      "citation": "RS 14:67.1",
+      "title": "Theft of livestock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78606"
+    },
+    {
+      "order": 182,
+      "citation": "RS 14:67.2",
+      "title": "Theft of timber",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78617"
+    },
+    {
+      "order": 183,
+      "citation": "RS 14:67.3",
+      "title": "False statements and false or altered documents; unclaimed property claim",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78620"
+    },
+    {
+      "order": 184,
+      "citation": "RS 14:67.4",
+      "title": "Anti-Skimming Act",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78621"
+    },
+    {
+      "order": 185,
+      "citation": "RS 14:67.5",
+      "title": "Adoption deception",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78622"
+    },
+    {
+      "order": 186,
+      "citation": "RS 14:67.6",
+      "title": "Mail theft",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78623"
+    },
+    {
+      "order": 187,
+      "citation": "RS 14:67.7",
+      "title": "Theft or unauthorized reproduction of a mail receptacle key or lock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78624"
+    },
+    {
+      "order": 188,
+      "citation": "RS 14:67.8",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78625"
+    },
+    {
+      "order": 189,
+      "citation": "RS 14:67.9",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78626"
+    },
+    {
+      "order": 190,
+      "citation": "RS 14:67.10",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78607"
+    },
+    {
+      "order": 191,
+      "citation": "RS 14:67.11",
+      "title": "Credit card fraud by persons authorized to provide goods and services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78608"
+    },
+    {
+      "order": 192,
+      "citation": "RS 14:67.12",
+      "title": "Theft of a catalytic converter or engine control module",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78609"
+    },
+    {
+      "order": 193,
+      "citation": "RS 14:67.13",
+      "title": "Theft or criminal access of an automated teller machine",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78610"
+    },
+    {
+      "order": 194,
+      "citation": "RS 14:67.14",
+      "title": "Repealed by Acts 2014, No. 255, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78611"
+    },
+    {
+      "order": 195,
+      "citation": "RS 14:67.15",
+      "title": "Theft of a firearm",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78612"
+    },
+    {
+      "order": 196,
+      "citation": "RS 14:67.16",
+      "title": "Identity theft",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78613"
+    },
+    {
+      "order": 197,
+      "citation": "RS 14:67.17",
+      "title": "Repealed by Acts 2014, No. 255, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78614"
+    },
+    {
+      "order": 198,
+      "citation": "RS 14:67.18",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78615"
+    },
+    {
+      "order": 199,
+      "citation": "RS 14:67.19",
+      "title": "Theft of anhydrous ammonia",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78616"
+    },
+    {
+      "order": 200,
+      "citation": "RS 14:67.19.1",
+      "title": "Unauthorized possession of anhydrous ammonia",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320897"
+    },
+    {
+      "order": 201,
+      "citation": "RS 14:67.20",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78618"
+    },
+    {
+      "order": 202,
+      "citation": "RS 14:67.21",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78619"
+    },
+    {
+      "order": 203,
+      "citation": "RS 14:67.22",
+      "title": "Fraudulent acquisition of a credit card",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206243"
+    },
+    {
+      "order": 204,
+      "citation": "RS 14:67.23",
+      "title": "Repealed by Acts 2014, No. 255, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206252"
+    },
+    {
+      "order": 205,
+      "citation": "RS 14:67.24",
+      "title": "Theft of critical infrastructure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451832"
+    },
+    {
+      "order": 206,
+      "citation": "RS 14:67.25",
+      "title": "Organized retail theft",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451833"
+    },
+    {
+      "order": 207,
+      "citation": "RS 14:67.26",
+      "title": "Theft of a motor vehicle",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508448"
+    },
+    {
+      "order": 208,
+      "citation": "RS 14:67.27",
+      "title": "Repealed by Acts 2014, No. 255, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508449"
+    },
+    {
+      "order": 209,
+      "citation": "RS 14:67.28",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814022"
+    },
+    {
+      "order": 210,
+      "citation": "RS 14:67.29",
+      "title": "False personation of a veteran or fraudulent representation of a veteran-owned business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859159"
+    },
+    {
+      "order": 211,
+      "citation": "RS 14:67.30",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1015642"
+    },
+    {
+      "order": 212,
+      "citation": "RS 14:68",
+      "title": "Unauthorized use of a movable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78627"
+    },
+    {
+      "order": 213,
+      "citation": "RS 14:68.1",
+      "title": "Unauthorized removal of shopping cart, basket, or dairy case",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78628"
+    },
+    {
+      "order": 214,
+      "citation": "RS 14:68.2",
+      "title": "Unauthorized use of supplemental nutrition assistance program benefits or supplemental nutrition assistance program benefit access devices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78629"
+    },
+    {
+      "order": 215,
+      "citation": "RS 14:68.2.1",
+      "title": "Failure to report unauthorized use of supplemental nutrition assistance program benefits; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814024"
+    },
+    {
+      "order": 216,
+      "citation": "RS 14:68.3",
+      "title": "Unauthorized removal of a motor vehicle; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78630"
+    },
+    {
+      "order": 217,
+      "citation": "RS 14:68.4",
+      "title": "Unauthorized use of a motor vehicle",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78631"
+    },
+    {
+      "order": 218,
+      "citation": "RS 14:68.4.1",
+      "title": "Staging of a motor vehicle collision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1238239"
+    },
+    {
+      "order": 219,
+      "citation": "RS 14:68.4.2",
+      "title": "Aggravated staging of a motor vehicle collision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1238240"
+    },
+    {
+      "order": 220,
+      "citation": "RS 14:68.5",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78632"
+    },
+    {
+      "order": 221,
+      "citation": "RS 14:68.6",
+      "title": "Unauthorized ordering of goods or services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78633"
+    },
+    {
+      "order": 222,
+      "citation": "RS 14:68.7",
+      "title": "Receipts and universal product code labels; unlawful acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78634"
+    },
+    {
+      "order": 223,
+      "citation": "RS 14:69",
+      "title": "Illegal possession of stolen things",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78635"
+    },
+    {
+      "order": 224,
+      "citation": "RS 14:69.1",
+      "title": "Illegal possession of stolen firearms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78636"
+    },
+    {
+      "order": 225,
+      "citation": "RS 14:70",
+      "title": "False accounting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78638"
+    },
+    {
+      "order": 226,
+      "citation": "RS 14:70.1",
+      "title": "Medicaid fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78639"
+    },
+    {
+      "order": 227,
+      "citation": "RS 14:70.2",
+      "title": "Refund or access device application fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78640"
+    },
+    {
+      "order": 228,
+      "citation": "RS 14:70.3",
+      "title": "Fraud in selling agricultural equipment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78641"
+    },
+    {
+      "order": 229,
+      "citation": "RS 14:70.4",
+      "title": "Access device fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78642"
+    },
+    {
+      "order": 230,
+      "citation": "RS 14:70.5",
+      "title": "Fraudulent remuneration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78643"
+    },
+    {
+      "order": 231,
+      "citation": "RS 14:70.6",
+      "title": "Unlawful distribution, possession, or use of theft alarm deactivation devices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78644"
+    },
+    {
+      "order": 232,
+      "citation": "RS 14:70.7",
+      "title": "Unlawful production, manufacturing, distribution, or possession of fraudulent documents for identification purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508450"
+    },
+    {
+      "order": 233,
+      "citation": "RS 14:70.8",
+      "title": "Illegal transmission of monetary funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814025"
+    },
+    {
+      "order": 234,
+      "citation": "RS 14:70.9",
+      "title": "Government benefits fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106713"
+    },
+    {
+      "order": 235,
+      "citation": "RS 14:71",
+      "title": "Issuing worthless checks",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78645"
+    },
+    {
+      "order": 236,
+      "citation": "RS 14:71.1",
+      "title": "Bank fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78646"
+    },
+    {
+      "order": 237,
+      "citation": "RS 14:71.2",
+      "title": "Failure to pay bridge or bridge-causeway toll",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78647"
+    },
+    {
+      "order": 238,
+      "citation": "RS 14:71.3",
+      "title": "Mortgage fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670370"
+    },
+    {
+      "order": 239,
+      "citation": "RS 14:71.3.1",
+      "title": "Repealed by Acts 2024, No. 738, §3, eff. Jan. 1, 2026.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388436"
+    },
+    {
+      "order": 240,
+      "citation": "RS 14:71.3.2",
+      "title": "Tax lien property fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388442"
+    },
+    {
+      "order": 241,
+      "citation": "RS 14:71.4",
+      "title": "Homestead exemption fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1015643"
+    },
+    {
+      "order": 242,
+      "citation": "RS 14:71.5",
+      "title": "Misappropriation of funds; utility services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1429159"
+    },
+    {
+      "order": 243,
+      "citation": "RS 14:72",
+      "title": "Forgery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78648"
+    },
+    {
+      "order": 244,
+      "citation": "RS 14:72.1",
+      "title": "Use of forged academic records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78649"
+    },
+    {
+      "order": 245,
+      "citation": "RS 14:72.1.1",
+      "title": "Forgery of a certificate of insurance or insurance identification card; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508451"
+    },
+    {
+      "order": 246,
+      "citation": "RS 14:72.2",
+      "title": "Monetary instrument abuse",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78650"
+    },
+    {
+      "order": 247,
+      "citation": "RS 14:72.3",
+      "title": "Identification of alleged offender",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206255"
+    },
+    {
+      "order": 248,
+      "citation": "RS 14:72.4",
+      "title": "Disposal of property with fraudulent or malicious intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320898"
+    },
+    {
+      "order": 249,
+      "citation": "RS 14:72.5",
+      "title": "Unlawful production, manufacture, distribution or possession of fraudulent postsecondary education degree",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725206"
+    },
+    {
+      "order": 250,
+      "citation": "RS 14:72.6",
+      "title": "Forgery of a motor vehicle inspection certificate; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859163"
+    },
+    {
+      "order": 251,
+      "citation": "RS 14:73",
+      "title": "Commercial bribery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78651"
+    },
+    {
+      "order": 252,
+      "citation": "RS 14:73.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78652"
+    },
+    {
+      "order": 253,
+      "citation": "RS 14:73.2",
+      "title": "Offenses against intellectual property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78653"
+    },
+    {
+      "order": 254,
+      "citation": "RS 14:73.3",
+      "title": "Offenses against computer equipment or supplies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78654"
+    },
+    {
+      "order": 255,
+      "citation": "RS 14:73.4",
+      "title": "Offenses against computer users",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78655"
+    },
+    {
+      "order": 256,
+      "citation": "RS 14:73.5",
+      "title": "Computer fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78656"
+    },
+    {
+      "order": 257,
+      "citation": "RS 14:73.6",
+      "title": "Offenses against electronic mail service provider",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78657"
+    },
+    {
+      "order": 258,
+      "citation": "RS 14:73.7",
+      "title": "Computer tampering",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78658"
+    },
+    {
+      "order": 259,
+      "citation": "RS 14:73.8",
+      "title": "Unauthorized use of a wireless router system; child sexual abuse materials; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670371"
+    },
+    {
+      "order": 260,
+      "citation": "RS 14:73.9",
+      "title": "Criminal use of Internet, virtual, street-map; enhanced penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725208"
+    },
+    {
+      "order": 261,
+      "citation": "RS 14:73.10",
+      "title": "Online impersonation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814026"
+    },
+    {
+      "order": 262,
+      "citation": "RS 14:73.11",
+      "title": "Communication interference",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147417"
+    },
+    {
+      "order": 263,
+      "citation": "RS 14:73.12",
+      "title": "Trespass against state computers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147418"
+    },
+    {
+      "order": 264,
+      "citation": "RS 14:73.13",
+      "title": "§73.13. Unlawful deepfakes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336015"
+    },
+    {
+      "order": 265,
+      "citation": "RS 14:73.14",
+      "title": "Unlawful dissemination or sale of images of another created by artificial intelligence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388452"
+    },
+    {
+      "order": 266,
+      "citation": "RS 14:74",
+      "title": "Criminal neglect of family",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78659"
+    },
+    {
+      "order": 267,
+      "citation": "RS 14:74.1",
+      "title": "Right of action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78660"
+    },
+    {
+      "order": 268,
+      "citation": "RS 14:75",
+      "title": "Failure to pay child support obligation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78661"
+    },
+    {
+      "order": 269,
+      "citation": "RS 14:75.1",
+      "title": "REPEALED BY ACTS 1993, NO. 442, 4, EFF. JUNE 9, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78662"
+    },
+    {
+      "order": 270,
+      "citation": "RS 14:75.2",
+      "title": "REPEALED BY ACTS 1993, NO. 442, 4, EFF. JUNE 9, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78663"
+    },
+    {
+      "order": 271,
+      "citation": "RS 14:76",
+      "title": "Bigamy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78664"
+    },
+    {
+      "order": 272,
+      "citation": "RS 14:77",
+      "title": "Abetting in bigamy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78665"
+    },
+    {
+      "order": 273,
+      "citation": "RS 14:78",
+      "title": "Repealed by Acts 2014, No. 177, §2 and Acts 2014, No. 602, §7, eff. June 12, 2014.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78666"
+    },
+    {
+      "order": 274,
+      "citation": "RS 14:78.1",
+      "title": "Repealed by Acts 2014, No. 177, §2 and Acts 2014, No. 602, §7, eff. June 12, 2014.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78667"
+    },
+    {
+      "order": 275,
+      "citation": "RS 14:79",
+      "title": "Violation of protective orders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78668"
+    },
+    {
+      "order": 276,
+      "citation": "RS 14:79.1",
+      "title": "Criminal abandonment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78669"
+    },
+    {
+      "order": 277,
+      "citation": "RS 14:79.2",
+      "title": "Repealed by Acts 1975, No. 638, 3",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78670"
+    },
+    {
+      "order": 278,
+      "citation": "RS 14:80",
+      "title": "Felony carnal knowledge of a juvenile",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78672"
+    },
+    {
+      "order": 279,
+      "citation": "RS 14:80.1",
+      "title": "Misdemeanor carnal knowledge of a juvenile",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78673"
+    },
+    {
+      "order": 280,
+      "citation": "RS 14:81",
+      "title": "Indecent behavior with juveniles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78674"
+    },
+    {
+      "order": 281,
+      "citation": "RS 14:81.1",
+      "title": "Child sexual abuse materials",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78675"
+    },
+    {
+      "order": 282,
+      "citation": "RS 14:81.1.1",
+      "title": "\"Sexting\"; prohibited acts; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725233"
+    },
+    {
+      "order": 283,
+      "citation": "RS 14:81.2",
+      "title": "Molestation of a juvenile or a person with a physical or mental disability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78676"
+    },
+    {
+      "order": 284,
+      "citation": "RS 14:81.3",
+      "title": "Computer-aided solicitation of a minor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320902"
+    },
+    {
+      "order": 285,
+      "citation": "RS 14:81.4",
+      "title": "Prohibited sexual conduct between educator and student",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451834"
+    },
+    {
+      "order": 286,
+      "citation": "RS 14:81.5",
+      "title": "Unlawful possession of videotape of protected persons under R.S. 15:440.1 et seq.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508457"
+    },
+    {
+      "order": 287,
+      "citation": "RS 14:81.5.1",
+      "title": "Unlawful posting; records of certain hearings of the Board of Pardons and committee on parole",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1429202"
+    },
+    {
+      "order": 288,
+      "citation": "RS 14:81.6",
+      "title": "Possessing, trafficking, or importing a child sex doll; reporting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388453"
+    },
+    {
+      "order": 289,
+      "citation": "RS 14:82",
+      "title": "Prostitution; definition; penalties; enhancement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78677"
+    },
+    {
+      "order": 290,
+      "citation": "RS 14:82.1",
+      "title": "Prostitution; persons under eighteen; additional offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78678"
+    },
+    {
+      "order": 291,
+      "citation": "RS 14:82.2",
+      "title": "Purchase of commercial sexual activity; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919550"
+    },
+    {
+      "order": 292,
+      "citation": "RS 14:83",
+      "title": "Soliciting for prostitutes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78679"
+    },
+    {
+      "order": 293,
+      "citation": "RS 14:83.1",
+      "title": "Inciting prostitution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78680"
+    },
+    {
+      "order": 294,
+      "citation": "RS 14:83.2",
+      "title": "Promoting prostitution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78681"
+    },
+    {
+      "order": 295,
+      "citation": "RS 14:83.3",
+      "title": "Prostitution by massage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78682"
+    },
+    {
+      "order": 296,
+      "citation": "RS 14:83.4",
+      "title": "Massage; sexual conduct prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78683"
+    },
+    {
+      "order": 297,
+      "citation": "RS 14:84",
+      "title": "Pandering",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78684"
+    },
+    {
+      "order": 298,
+      "citation": "RS 14:85",
+      "title": "Letting premises for prostitution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78685"
+    },
+    {
+      "order": 299,
+      "citation": "RS 14:85.1",
+      "title": "Repealed by Acts. 2008, No. 220, §13, eff. June 14, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78686"
+    },
+    {
+      "order": 300,
+      "citation": "RS 14:86",
+      "title": "Enticing persons into prostitution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78687"
+    },
+    {
+      "order": 301,
+      "citation": "RS 14:87",
+      "title": "Repealed by Acts 2022, No. 545, §4.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78688"
+    },
+    {
+      "order": 302,
+      "citation": "RS 14:87.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78689"
+    },
+    {
+      "order": 303,
+      "citation": "RS 14:87.1.1",
+      "title": "Killing a child during delivery; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294859"
+    },
+    {
+      "order": 304,
+      "citation": "RS 14:87.2",
+      "title": "Human experimentation on an infant born alive",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78690"
+    },
+    {
+      "order": 305,
+      "citation": "RS 14:87.3",
+      "title": "Prohibited sale, receipt, or transport of fetal organs and body parts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78691"
+    },
+    {
+      "order": 306,
+      "citation": "RS 14:87.4",
+      "title": "Abortion advertising",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78692"
+    },
+    {
+      "order": 307,
+      "citation": "RS 14:87.5",
+      "title": "Intentional failure to sustain life and health of aborted viable infant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78693"
+    },
+    {
+      "order": 308,
+      "citation": "RS 14:87.6",
+      "title": "Coerced abortion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106715"
+    },
+    {
+      "order": 309,
+      "citation": "RS 14:87.6.1",
+      "title": "Coerced criminal abortion by means of fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388525"
+    },
+    {
+      "order": 310,
+      "citation": "RS 14:87.7",
+      "title": "Abortion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294861"
+    },
+    {
+      "order": 311,
+      "citation": "RS 14:87.8",
+      "title": "Late term abortion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294863"
+    },
+    {
+      "order": 312,
+      "citation": "RS 14:87.9",
+      "title": "Criminal abortion by means of abortion-inducing drugs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294864"
+    },
+    {
+      "order": 313,
+      "citation": "RS 14:87.10",
+      "title": "Abortion by an unlicensed physician",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294868"
+    },
+    {
+      "order": 314,
+      "citation": "RS 14:87.11",
+      "title": "Aggravated abortion by dismemberment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294871"
+    },
+    {
+      "order": 315,
+      "citation": "RS 14:87.12",
+      "title": "Partial birth abortion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294874"
+    },
+    {
+      "order": 316,
+      "citation": "RS 14:88",
+      "title": "Repealed by Acts 2022, No. 548, §4.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78694"
+    },
+    {
+      "order": 317,
+      "citation": "RS 14:89",
+      "title": "Crime against nature",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78695"
+    },
+    {
+      "order": 318,
+      "citation": "RS 14:89.1",
+      "title": "Aggravated crime against nature",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78696"
+    },
+    {
+      "order": 319,
+      "citation": "RS 14:89.2",
+      "title": "Crime against nature by solicitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725245"
+    },
+    {
+      "order": 320,
+      "citation": "RS 14:89.3",
+      "title": "Sexual abuse of an animal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106716"
+    },
+    {
+      "order": 321,
+      "citation": "RS 14:89.6",
+      "title": "Human-animal hybrids",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670385"
+    },
+    {
+      "order": 322,
+      "citation": "RS 14:90",
+      "title": "Gambling",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78698"
+    },
+    {
+      "order": 323,
+      "citation": "RS 14:90.1",
+      "title": "Seizure and disposition of evidence, property and proceeds; gambling",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78699"
+    },
+    {
+      "order": 324,
+      "citation": "RS 14:90.2",
+      "title": "Gambling in public",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78700"
+    },
+    {
+      "order": 325,
+      "citation": "RS 14:90.3",
+      "title": "Gambling by computer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78701"
+    },
+    {
+      "order": 326,
+      "citation": "RS 14:90.4",
+      "title": "Unlawful playing of video draw poker devices by persons under the age of twenty-one; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78702"
+    },
+    {
+      "order": 327,
+      "citation": "RS 14:90.5",
+      "title": "Unlawful playing of gaming devices by persons under the age of twenty-one;  underage persons, penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285163"
+    },
+    {
+      "order": 328,
+      "citation": "RS 14:90.6",
+      "title": "Gambling or wagering at cockfights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451835"
+    },
+    {
+      "order": 329,
+      "citation": "RS 14:90.7",
+      "title": "Gambling by electronic sweepstakes device",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919551"
+    },
+    {
+      "order": 330,
+      "citation": "RS 14:90.8",
+      "title": "Unlawful wagering; prohibited player",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388526"
+    },
+    {
+      "order": 331,
+      "citation": "RS 14:91",
+      "title": "OFFENSES AFFECTING THE HEALTH AND",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78703"
+    },
+    {
+      "order": 332,
+      "citation": "RS 14:91.1",
+      "title": "Unlawful presence of a sexually violent predator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78704"
+    },
+    {
+      "order": 333,
+      "citation": "RS 14:91.2",
+      "title": "Unlawful presence of a sex offender",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78709"
+    },
+    {
+      "order": 334,
+      "citation": "RS 14:91.3",
+      "title": "Unlawful participation in a child-related business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78712"
+    },
+    {
+      "order": 335,
+      "citation": "RS 14:91.4",
+      "title": "Contributing to the endangerment of a minor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78713"
+    },
+    {
+      "order": 336,
+      "citation": "RS 14:91.5",
+      "title": "Unlawful use of a social networking website",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78714"
+    },
+    {
+      "order": 337,
+      "citation": "RS 14:91.6",
+      "title": "Unlawful distribution of sample tobacco products, alternative nicotine products, or vapor products to persons under age twenty-one; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78715"
+    },
+    {
+      "order": 338,
+      "citation": "RS 14:91.7",
+      "title": "Unauthorized possession or consumption of alcoholic beverages on public school property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78716"
+    },
+    {
+      "order": 339,
+      "citation": "RS 14:91.8",
+      "title": "Unlawful sale, purchase, or possession of tobacco, alternative nicotine products, or vapor products; signs required; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78717"
+    },
+    {
+      "order": 340,
+      "citation": "RS 14:91.9",
+      "title": "Unlawful presence or contact of a sex offender relative to a former victim",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78718"
+    },
+    {
+      "order": 341,
+      "citation": "RS 14:91.10",
+      "title": "Unlawful sale or distribution of mitragynine speciosa to persons under age twenty-one; penalty.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336019"
+    },
+    {
+      "order": 342,
+      "citation": "RS 14:91.11",
+      "title": "Sale, exhibition, or distribution of material harmful to minors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78705"
+    },
+    {
+      "order": 343,
+      "citation": "RS 14:91.12",
+      "title": "Sale, distribution or making available to minors publications encouraging, advocating, or facilitating the illegal use of controlled dangerous substances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78706"
+    },
+    {
+      "order": 344,
+      "citation": "RS 14:91.13",
+      "title": "Illegal use of controlled dangerous substances in the presence of persons under seventeen years of age",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78707"
+    },
+    {
+      "order": 345,
+      "citation": "RS 14:91.14",
+      "title": "Unlawful distribution of material harmful to minors through the Internet",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78708"
+    },
+    {
+      "order": 346,
+      "citation": "RS 14:91.15",
+      "title": "Unlawful operation of an unlicensed child day care center",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1015647"
+    },
+    {
+      "order": 347,
+      "citation": "RS 14:91.21",
+      "title": "Sale of poisonous reptiles to minors; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78710"
+    },
+    {
+      "order": 348,
+      "citation": "RS 14:91.22",
+      "title": "Repealed by Acts 1974, No. 276, 1",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78711"
+    },
+    {
+      "order": 349,
+      "citation": "RS 14:92",
+      "title": "Contributing to the delinquency of juveniles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78719"
+    },
+    {
+      "order": 350,
+      "citation": "RS 14:92.1",
+      "title": "Encouraging or contributing to child delinquency, dependency, or neglect; penalty; suspension of sentence; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78720"
+    },
+    {
+      "order": 351,
+      "citation": "RS 14:92.2",
+      "title": "Improper supervision of a minor by parent or legal custodian",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78721"
+    },
+    {
+      "order": 352,
+      "citation": "RS 14:92.3",
+      "title": "Retaliation by a minor against a parent, legal custodian, witness, or complainant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78722"
+    },
+    {
+      "order": 353,
+      "citation": "RS 14:93",
+      "title": "Cruelty to juveniles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78723"
+    },
+    {
+      "order": 354,
+      "citation": "RS 14:93.1",
+      "title": "Model glue; use of; abuse of toxic vapors; unlawful sales to minors; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78724"
+    },
+    {
+      "order": 355,
+      "citation": "RS 14:93.2",
+      "title": "Tattooing and body piercing of minors; prohibition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78730"
+    },
+    {
+      "order": 356,
+      "citation": "RS 14:93.2.1",
+      "title": "Child desertion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78731"
+    },
+    {
+      "order": 357,
+      "citation": "RS 14:93.2.2",
+      "title": "Unlawful placement of gold fillings, caps, and crowns; minors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78732"
+    },
+    {
+      "order": 358,
+      "citation": "RS 14:93.2.3",
+      "title": "Second degree cruelty to juveniles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78733"
+    },
+    {
+      "order": 359,
+      "citation": "RS 14: 93.2.4",
+      "title": "Unlawful swimming in certain waterways",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336034"
+    },
+    {
+      "order": 360,
+      "citation": "RS 14:93.3",
+      "title": "Cruelty to elderly and persons with infirmities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78735"
+    },
+    {
+      "order": 361,
+      "citation": "RS 14:93.4",
+      "title": "Exploitation of elderly persons or persons with infirmities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78736"
+    },
+    {
+      "order": 362,
+      "citation": "RS 14:93.5",
+      "title": "Sexual battery of persons with infirmities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78737"
+    },
+    {
+      "order": 363,
+      "citation": "RS 14:93.10",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78725"
+    },
+    {
+      "order": 364,
+      "citation": "RS 14:93.11",
+      "title": "Unlawful sales to persons under twenty-one",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78726"
+    },
+    {
+      "order": 365,
+      "citation": "RS 14:93.12",
+      "title": "Purchase and public possession of alcoholic beverages; exceptions; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78727"
+    },
+    {
+      "order": 366,
+      "citation": "RS 14:93.13",
+      "title": "Unlawful purchase of alcoholic beverages by persons on behalf of persons under twenty-one",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78728"
+    },
+    {
+      "order": 367,
+      "citation": "RS 14:93.14",
+      "title": "Responsibilities of retail dealers not relieved",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78729"
+    },
+    {
+      "order": 368,
+      "citation": "RS 14:93.15",
+      "title": "Alcoholic beverage vaporizer; prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408540"
+    },
+    {
+      "order": 369,
+      "citation": "RS 14:93.16",
+      "title": "Unlawful sales of consumable hemp products to persons under twenty-one",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1429216"
+    },
+    {
+      "order": 370,
+      "citation": "RS 14:93.17",
+      "title": "Purchase and possession of consumable hemp products by a minor; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1429218"
+    },
+    {
+      "order": 371,
+      "citation": "RS 14:93.20",
+      "title": "Repealed by Acts 1998, No. 71, 2, eff. June 25, 1998.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78734"
+    },
+    {
+      "order": 372,
+      "citation": "RS 14:94",
+      "title": "ILLEGAL CARRYING AND DISCHARGE OF WEAPONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78738"
+    },
+    {
+      "order": 373,
+      "citation": "RS 14:95",
+      "title": "Illegal carrying of weapons",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78739"
+    },
+    {
+      "order": 374,
+      "citation": "RS 14:95.1",
+      "title": "Possession of firearm or carrying concealed weapon by a person convicted of certain felonies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78740"
+    },
+    {
+      "order": 375,
+      "citation": "RS 14:95.1.1",
+      "title": "Illegally supplying a felon with a firearm",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285164"
+    },
+    {
+      "order": 376,
+      "citation": "RS 14:95.1.2",
+      "title": "Illegally supplying a felon with ammunition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508458"
+    },
+    {
+      "order": 377,
+      "citation": "RS 14:95.1.3",
+      "title": "Fraudulent firearm and ammunition purchase",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814039"
+    },
+    {
+      "order": 378,
+      "citation": "RS 14:95.1.4",
+      "title": "Illegal transfer of a firearm to a prohibited possessor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106727"
+    },
+    {
+      "order": 379,
+      "citation": "RS 14:95.2",
+      "title": "Carrying a firearm or dangerous weapon by a student or nonstudent on school property, at school-sponsored functions, or in a firearm-free zone",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78741"
+    },
+    {
+      "order": 380,
+      "citation": "RS 14:95.2.1",
+      "title": "Illegal carrying of a firearm at a parade with any firearm used in the commission of a crime of violence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285165"
+    },
+    {
+      "order": 381,
+      "citation": "RS 14:95.2.2",
+      "title": "Reckless discharge of a firearm at a parade or demonstration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670396"
+    },
+    {
+      "order": 382,
+      "citation": "RS 14:95.3",
+      "title": "Unlawful use of body armor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78742"
+    },
+    {
+      "order": 383,
+      "citation": "RS 14:95.4",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78743"
+    },
+    {
+      "order": 384,
+      "citation": "RS 14:95.5",
+      "title": "Possession of firearm on premises of alcoholic beverage outlet",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78744"
+    },
+    {
+      "order": 385,
+      "citation": "RS 14:95.6",
+      "title": "Firearm-free zone; notice; signs; crime; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78745"
+    },
+    {
+      "order": 386,
+      "citation": "RS 14:95.7",
+      "title": "Possession of or dealing in firearms with obliterated numbers or marks",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78746"
+    },
+    {
+      "order": 387,
+      "citation": "RS 14:95.8",
+      "title": "Illegal possession of a handgun by a juvenile",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78747"
+    },
+    {
+      "order": 388,
+      "citation": "RS 14:95.9",
+      "title": "Wearing or possessing body armor, by a student or nonstudent on school property, at school-sponsored functions, or in firearm-free zones; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508459"
+    },
+    {
+      "order": 389,
+      "citation": "RS 14:95.10",
+      "title": "Possession of a firearm or carrying of a concealed weapon by a person convicted of domestic abuse battery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919556"
+    },
+    {
+      "order": 390,
+      "citation": "RS 14:96",
+      "title": "Aggravated obstruction of a highway of commerce",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78748"
+    },
+    {
+      "order": 391,
+      "citation": "RS 14:97",
+      "title": "Simple obstruction of a highway of commerce",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78749"
+    },
+    {
+      "order": 392,
+      "citation": "RS 14:97.1",
+      "title": "Solicitation on an interstate highway or in a public right-of-way",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78750"
+    },
+    {
+      "order": 393,
+      "citation": "RS 14:97.2",
+      "title": "Unlawful sale, purchase, possession, or use of traffic signal preemption devices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285166"
+    },
+    {
+      "order": 394,
+      "citation": "RS 14:98",
+      "title": "Operating a vehicle while impaired",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78751"
+    },
+    {
+      "order": 395,
+      "citation": "RS 14:98.1",
+      "title": "Operating while impaired; first offense; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78752"
+    },
+    {
+      "order": 396,
+      "citation": "RS 14:98.2",
+      "title": "Operating while impaired; second offense; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206884"
+    },
+    {
+      "order": 397,
+      "citation": "RS 14:98.3",
+      "title": "Operating while impaired; third offense; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670397"
+    },
+    {
+      "order": 398,
+      "citation": "RS 14:98.4",
+      "title": "Operating while impaired; fourth offense; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919567"
+    },
+    {
+      "order": 399,
+      "citation": "RS 14:98.5",
+      "title": "Special provisions and definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919568"
+    },
+    {
+      "order": 400,
+      "citation": "RS 14:98.5.1",
+      "title": "Assessment for alcohol or drug dependence; rehabilitative programs; second and subsequent convictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187419"
+    },
+    {
+      "order": 401,
+      "citation": "RS 14:98.6",
+      "title": "Underage operating while impaired",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919569"
+    },
+    {
+      "order": 402,
+      "citation": "RS 14:98.7",
+      "title": "Unlawful refusal to submit to chemical tests; arrests for driving while impaired",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919570"
+    },
+    {
+      "order": 403,
+      "citation": "RS 14:98.8",
+      "title": "Operating a vehicle while under suspension for certain prior offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919571"
+    },
+    {
+      "order": 404,
+      "citation": "RS 14:99",
+      "title": "Reckless operation of a vehicle",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78753"
+    },
+    {
+      "order": 405,
+      "citation": "RS 14:99.1",
+      "title": "Hit and run damaging of a potable waterline by operation of a watercraft or vessel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408541"
+    },
+    {
+      "order": 406,
+      "citation": "RS 14:99.2",
+      "title": "Reckless operation of an off-road vehicle",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106731"
+    },
+    {
+      "order": 407,
+      "citation": "RS 14:100",
+      "title": "Hit-and-run driving",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78226"
+    },
+    {
+      "order": 408,
+      "citation": "RS 14:100.1",
+      "title": "Obstructing public passages",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78227"
+    },
+    {
+      "order": 409,
+      "citation": "RS 14:100.11",
+      "title": "Legislative findings; purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78228"
+    },
+    {
+      "order": 410,
+      "citation": "RS 14:100.12",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78229"
+    },
+    {
+      "order": 411,
+      "citation": "RS 14:100.13",
+      "title": "Operating a vehicle without lawful presence in the United States",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78230"
+    },
+    {
+      "order": 412,
+      "citation": "RS 14:100.14",
+      "title": "Giving false information regarding lawful presence in the United States in order to obtain a driver's license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78231"
+    },
+    {
+      "order": 413,
+      "citation": "RS 14:101",
+      "title": "Desecration of graves",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78232"
+    },
+    {
+      "order": 414,
+      "citation": "RS 14:101.1",
+      "title": "Purchase or sale of human organs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78233"
+    },
+    {
+      "order": 415,
+      "citation": "RS 14:101.2",
+      "title": "Unauthorized use of sperm, ovum, or embryo",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78234"
+    },
+    {
+      "order": 416,
+      "citation": "RS 14:102",
+      "title": "Definitions; cruelty to animals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78235"
+    },
+    {
+      "order": 417,
+      "citation": "RS 14:102.1",
+      "title": "Cruelty to animals; simple and aggravated",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78236"
+    },
+    {
+      "order": 418,
+      "citation": "RS 14:102.2",
+      "title": "Seizure and disposition of animals cruelly treated",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78245"
+    },
+    {
+      "order": 419,
+      "citation": "RS 14:102.3",
+      "title": "Search warrant; animal cruelty offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78246"
+    },
+    {
+      "order": 420,
+      "citation": "RS 14:102.4",
+      "title": "Confined animals; necessary food and water",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78247"
+    },
+    {
+      "order": 421,
+      "citation": "RS 14:102.5",
+      "title": "Dogfighting; training and possession of dogs for fighting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78248"
+    },
+    {
+      "order": 422,
+      "citation": "RS 14:102.6",
+      "title": "Seizure and destruction or disposition of dogs and equipment used in dogfighting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78249"
+    },
+    {
+      "order": 423,
+      "citation": "RS 14:102.7",
+      "title": "Search warrant for dogfighting offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78250"
+    },
+    {
+      "order": 424,
+      "citation": "RS 14:102.8",
+      "title": "Injuring or killing of a police animal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78251"
+    },
+    {
+      "order": 425,
+      "citation": "RS 14:102.9",
+      "title": "Interference with animal research; research laboratory or farm",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78252"
+    },
+    {
+      "order": 426,
+      "citation": "RS 14:102.10",
+      "title": "Bear wrestling; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78237"
+    },
+    {
+      "order": 427,
+      "citation": "RS 14:102.11",
+      "title": "Illegal contact sports; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78238"
+    },
+    {
+      "order": 428,
+      "citation": "RS 14:102.12",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78239"
+    },
+    {
+      "order": 429,
+      "citation": "RS 14:102.13",
+      "title": "Hearing to determine if dog is dangerous or vicious",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78240"
+    },
+    {
+      "order": 430,
+      "citation": "RS 14:102.14",
+      "title": "Unlawful ownership of dangerous dog",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78241"
+    },
+    {
+      "order": 431,
+      "citation": "RS 14:102.15",
+      "title": "Unlawful ownership of a vicious dog",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78242"
+    },
+    {
+      "order": 432,
+      "citation": "RS 14:102.16",
+      "title": "Seizure and destruction or disposition of dangerous or vicious dogs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78243"
+    },
+    {
+      "order": 433,
+      "citation": "RS 14:102.17",
+      "title": "Registration of dangerous dogs; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78244"
+    },
+    {
+      "order": 434,
+      "citation": "RS 14:102.18",
+      "title": "Seizure and disposition of dogs which cause death or inflict bodily injury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206886"
+    },
+    {
+      "order": 435,
+      "citation": "RS 14:102.19",
+      "title": "Hog and canine fighting prohibited; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285167"
+    },
+    {
+      "order": 436,
+      "citation": "RS 14:102.20",
+      "title": "Sport killing of zoo or circus animals prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285168"
+    },
+    {
+      "order": 437,
+      "citation": "RS 14:102.21",
+      "title": "Unauthorized use of the identity of a deceased soldier",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408542"
+    },
+    {
+      "order": 438,
+      "citation": "RS 14:102.22",
+      "title": "Harboring or concealing an animal which has bitten or inflicted serious bodily injury on a human",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408543"
+    },
+    {
+      "order": 439,
+      "citation": "RS 14:102.23",
+      "title": "Cockfighting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451836"
+    },
+    {
+      "order": 440,
+      "citation": "RS 14:102.24",
+      "title": "Participation in cockfighting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725260"
+    },
+    {
+      "order": 441,
+      "citation": "RS 14:102.25",
+      "title": "Unlawfully supplying any product for the purpose of falsifying a screening test",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725261"
+    },
+    {
+      "order": 442,
+      "citation": "RS 14:102.26",
+      "title": "Unlawful restraint of a dog; definitions; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725263"
+    },
+    {
+      "order": 443,
+      "citation": "RS 14:102.27",
+      "title": "Unlawful sale of a live dog or cat at certain locations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814040"
+    },
+    {
+      "order": 444,
+      "citation": "RS 14:102.28",
+      "title": "Transporting live feral swine prohibited; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106733"
+    },
+    {
+      "order": 445,
+      "citation": "RS 14:102.29",
+      "title": "Unlawful possession, transfer, or manufacture of animal fighting paraphernalia",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1238289"
+    },
+    {
+      "order": 446,
+      "citation": "RS 14:103",
+      "title": "Disturbing the peace",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78253"
+    },
+    {
+      "order": 447,
+      "citation": "RS 14:103.1",
+      "title": "Emanation of excessive sound or noise; exceptions; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78254"
+    },
+    {
+      "order": 448,
+      "citation": "RS 14:103.2",
+      "title": "Amplified devices in public places; quiet zones; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78255"
+    },
+    {
+      "order": 449,
+      "citation": "RS 14:103.3",
+      "title": "Disturbing the peace; residences",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388726"
+    },
+    {
+      "order": 450,
+      "citation": "RS 14:104",
+      "title": "Keeping a disorderly place",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78256"
+    },
+    {
+      "order": 451,
+      "citation": "RS 14:105",
+      "title": "Letting a disorderly place",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78257"
+    },
+    {
+      "order": 452,
+      "citation": "RS 14:106",
+      "title": "Obscenity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78258"
+    },
+    {
+      "order": 453,
+      "citation": "RS 14:106.1",
+      "title": "Promotion or wholesale promotion of obscene devices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78259"
+    },
+    {
+      "order": 454,
+      "citation": "RS 14:106.2",
+      "title": "Sexual acts prohibited in public; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206911"
+    },
+    {
+      "order": 455,
+      "citation": "RS 14:106.3",
+      "title": "Unlawful exhibition of sexually explicit material in a motor vehicle; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285169"
+    },
+    {
+      "order": 456,
+      "citation": "RS 14:107",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78260"
+    },
+    {
+      "order": 457,
+      "citation": "RS 14:107.1",
+      "title": "Ritualistic acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78261"
+    },
+    {
+      "order": 458,
+      "citation": "RS 14:107.2",
+      "title": "Hate crimes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78262"
+    },
+    {
+      "order": 459,
+      "citation": "RS 14:107.3",
+      "title": "Criminal blighting of property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78263"
+    },
+    {
+      "order": 460,
+      "citation": "RS 14:107.4",
+      "title": "Unlawful posting of criminal activity for notoriety and publicity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508534"
+    },
+    {
+      "order": 461,
+      "citation": "RS 14:107.5",
+      "title": "Solicitation of funds or transportation for certain unlawful purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919573"
+    },
+    {
+      "order": 462,
+      "citation": "RS 14:108",
+      "title": "Resisting an officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78264"
+    },
+    {
+      "order": 463,
+      "citation": "RS 14:108.1",
+      "title": "Flight from an officer; aggravated flight from an officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78265"
+    },
+    {
+      "order": 464,
+      "citation": "RS 14:108.2",
+      "title": "Resisting a police officer with force or violence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508535"
+    },
+    {
+      "order": 465,
+      "citation": "RS 14:109",
+      "title": "Approaching a peace officer lawfully engaged in law enforcement duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78266"
+    },
+    {
+      "order": 466,
+      "citation": "RS 14:110",
+      "title": "Simple escape; aggravated escape",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78268"
+    },
+    {
+      "order": 467,
+      "citation": "RS 14:110.1",
+      "title": "Jumping bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78269"
+    },
+    {
+      "order": 468,
+      "citation": "RS 14:110.1.1",
+      "title": "Out-of-state bail jumping",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725268"
+    },
+    {
+      "order": 469,
+      "citation": "RS 14:110.1.2",
+      "title": "Providing false, nonexistent, or incomplete declaration of residence for bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1015648"
+    },
+    {
+      "order": 470,
+      "citation": "RS 14:110.2",
+      "title": "Tampering with electronic monitoring equipment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78270"
+    },
+    {
+      "order": 471,
+      "citation": "RS 14:110.3",
+      "title": "Tampering with surveillance, accounting, inventory, or monitoring systems; definitions; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725269"
+    },
+    {
+      "order": 472,
+      "citation": "RS 14:111",
+      "title": "Assisting escape",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78271"
+    },
+    {
+      "order": 473,
+      "citation": "RS 14:112",
+      "title": "False personation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78272"
+    },
+    {
+      "order": 474,
+      "citation": "RS 14:112.1",
+      "title": "False personation of a peace officer or firefighter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78273"
+    },
+    {
+      "order": 475,
+      "citation": "RS 14:112.2",
+      "title": "Fraudulent portrayal of a law enforcement officer or firefighter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285170"
+    },
+    {
+      "order": 476,
+      "citation": "RS 14:112.3",
+      "title": "Aiding and abetting the fraudulent portrayal of a law enforcement officer or firefighter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285171"
+    },
+    {
+      "order": 477,
+      "citation": "RS 14:112.4",
+      "title": "Unlawful production, manufacturing, distribution, or possession of unauthorized peace officer badges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=762616"
+    },
+    {
+      "order": 478,
+      "citation": "RS 14:112.11",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388731"
+    },
+    {
+      "order": 479,
+      "citation": "RS 14:112.12",
+      "title": "Unlawful entry or reentry into the state of Louisiana by an alien",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388760"
+    },
+    {
+      "order": 480,
+      "citation": "RS 14:112.13",
+      "title": "Abatement or termination of prosecution on basis of an immigration status determination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388761"
+    },
+    {
+      "order": 481,
+      "citation": "RS 14:113",
+      "title": "Treason",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78274"
+    },
+    {
+      "order": 482,
+      "citation": "RS 14:114",
+      "title": "Misprision of treason",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78275"
+    },
+    {
+      "order": 483,
+      "citation": "RS 14:115",
+      "title": "Criminal anarchy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78276"
+    },
+    {
+      "order": 484,
+      "citation": "RS 14:116",
+      "title": "Flag desecration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78277"
+    },
+    {
+      "order": 485,
+      "citation": "RS 14:116.1",
+      "title": "Flag burning",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408544"
+    },
+    {
+      "order": 486,
+      "citation": "RS 14:117",
+      "title": "Flag desecration; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78278"
+    },
+    {
+      "order": 487,
+      "citation": "RS 14:117.1",
+      "title": "Paramilitary organizations; prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78279"
+    },
+    {
+      "order": 488,
+      "citation": "RS 14:118",
+      "title": "Public bribery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78280"
+    },
+    {
+      "order": 489,
+      "citation": "RS 14:118.1",
+      "title": "Bribery of sports participants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78281"
+    },
+    {
+      "order": 490,
+      "citation": "RS 14:118.2",
+      "title": "Falsifying information on racing license applications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78282"
+    },
+    {
+      "order": 491,
+      "citation": "RS 14:119",
+      "title": "Repealed by Acts 2010, No. 797, §2, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78283"
+    },
+    {
+      "order": 492,
+      "citation": "RS 14:119.1",
+      "title": "Bribery of parents of school children",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78284"
+    },
+    {
+      "order": 493,
+      "citation": "RS 14:120",
+      "title": "Corrupt influencing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78286"
+    },
+    {
+      "order": 494,
+      "citation": "RS 14:121",
+      "title": "Informers granted immunity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78287"
+    },
+    {
+      "order": 495,
+      "citation": "RS 14:122",
+      "title": "Public intimidation and retaliation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78288"
+    },
+    {
+      "order": 496,
+      "citation": "RS 14:122.1",
+      "title": "Intimidation and interference in the operation of schools",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78289"
+    },
+    {
+      "order": 497,
+      "citation": "RS 14:122.2",
+      "title": "Threatening a public official or law enforcement officer; penalties; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78290"
+    },
+    {
+      "order": 498,
+      "citation": "RS 14:123",
+      "title": "Perjury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78291"
+    },
+    {
+      "order": 499,
+      "citation": "RS 14:124",
+      "title": "Inconsistent statements; perjury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78292"
+    },
+    {
+      "order": 500,
+      "citation": "RS 14:125",
+      "title": "False swearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78293"
+    },
+    {
+      "order": 501,
+      "citation": "RS 14:125.1",
+      "title": "False swearing in paternity cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78294"
+    },
+    {
+      "order": 502,
+      "citation": "RS 14:125.2",
+      "title": "False statements concerning paternity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78295"
+    },
+    {
+      "order": 503,
+      "citation": "RS 14:126",
+      "title": "Inconsistent statements; false swearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78296"
+    },
+    {
+      "order": 504,
+      "citation": "RS 14:126.1",
+      "title": "False swearing for purpose of violating public health or safety",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78297"
+    },
+    {
+      "order": 505,
+      "citation": "RS 14:126.1.1",
+      "title": "False communication with the intent to cause an emergency response",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106736"
+    },
+    {
+      "order": 506,
+      "citation": "RS 14:126.2",
+      "title": "False statements concerning denial of constitutional rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78298"
+    },
+    {
+      "order": 507,
+      "citation": "RS 14:126.3",
+      "title": "False statements concerning employment in a nursing or health care facility",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78299"
+    },
+    {
+      "order": 508,
+      "citation": "RS 14:126.3.1",
+      "title": "Unauthorized participation in medical assistance programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670399"
+    },
+    {
+      "order": 509,
+      "citation": "RS 14:126.4",
+      "title": "False certification of arrest documents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508537"
+    },
+    {
+      "order": 510,
+      "citation": "RS 14:127",
+      "title": "Limitation of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78300"
+    },
+    {
+      "order": 511,
+      "citation": "RS 14:128",
+      "title": "Completion of affidavit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78301"
+    },
+    {
+      "order": 512,
+      "citation": "RS 14:128.1",
+      "title": "Terrorism",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78302"
+    },
+    {
+      "order": 513,
+      "citation": "RS 14:128.2",
+      "title": "Aiding others in terrorism",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78303"
+    },
+    {
+      "order": 514,
+      "citation": "RS 14:129",
+      "title": "Jury tampering",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78304"
+    },
+    {
+      "order": 515,
+      "citation": "RS 14:129.1",
+      "title": "Intimidating, impeding or injuring witnesses; injuring officers; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78305"
+    },
+    {
+      "order": 516,
+      "citation": "RS 14:129.2",
+      "title": "Recording, listening to, or observing proceedings of grand or petit juries while deliberating or voting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78306"
+    },
+    {
+      "order": 517,
+      "citation": "RS 14:130",
+      "title": "Jury misconduct",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78308"
+    },
+    {
+      "order": 518,
+      "citation": "RS 14:130.1",
+      "title": "Obstruction of justice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78309"
+    },
+    {
+      "order": 519,
+      "citation": "RS 14:131",
+      "title": "Compounding a felony",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78310"
+    },
+    {
+      "order": 520,
+      "citation": "RS 14:131.1",
+      "title": "Failure to report the commission of certain felonies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814043"
+    },
+    {
+      "order": 521,
+      "citation": "RS 14:132",
+      "title": "Injuring public records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78311"
+    },
+    {
+      "order": 522,
+      "citation": "RS 14:133",
+      "title": "Filing or maintaining false public records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78312"
+    },
+    {
+      "order": 523,
+      "citation": "RS 14:133.1",
+      "title": "Obstruction of court orders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78313"
+    },
+    {
+      "order": 524,
+      "citation": "RS 14:133.1.1",
+      "title": "Election fraud or forgery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388769"
+    },
+    {
+      "order": 525,
+      "citation": "RS 14:133.2",
+      "title": "Misrepresentation during booking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78314"
+    },
+    {
+      "order": 526,
+      "citation": "RS 14:133.3",
+      "title": "Falsification of drug tests",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78315"
+    },
+    {
+      "order": 527,
+      "citation": "RS 14:133.4",
+      "title": "Misrepresentation during issuance of a misdemeanor summons or preparation of a juvenile custodial agreement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78316"
+    },
+    {
+      "order": 528,
+      "citation": "RS 14:133.5",
+      "title": "Filing a false complaint against a law enforcement officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408545"
+    },
+    {
+      "order": 529,
+      "citation": "RS 14:133.6",
+      "title": "Filing a false lien against a law enforcement or court officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814044"
+    },
+    {
+      "order": 530,
+      "citation": "RS 14:133.7",
+      "title": "Publication of certain criminal record information or juvenile record information prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106737"
+    },
+    {
+      "order": 531,
+      "citation": "RS 14:134",
+      "title": "Malfeasance in office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78317"
+    },
+    {
+      "order": 532,
+      "citation": "RS 14:134.1",
+      "title": "Malfeasance in office; sexual conduct prohibited with persons in the custody and supervision of the Department of Public Safety and Corrections",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78318"
+    },
+    {
+      "order": 533,
+      "citation": "RS 14:134.2",
+      "title": "Malfeasance in office; tampering with evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78319"
+    },
+    {
+      "order": 534,
+      "citation": "RS 14:134.3",
+      "title": "Abuse of office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=469199"
+    },
+    {
+      "order": 535,
+      "citation": "RS 14:135",
+      "title": "Public salary deduction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78320"
+    },
+    {
+      "order": 536,
+      "citation": "RS 14:136",
+      "title": "Public salary extortion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78321"
+    },
+    {
+      "order": 537,
+      "citation": "RS 14:137",
+      "title": "Repealed by Acts 1979, No. 700, 8",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78322"
+    },
+    {
+      "order": 538,
+      "citation": "RS 14:138",
+      "title": "Public payroll fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78323"
+    },
+    {
+      "order": 539,
+      "citation": "RS 14:139",
+      "title": "Political payroll padding",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78324"
+    },
+    {
+      "order": 540,
+      "citation": "RS 14:139.1",
+      "title": "Political payroll padding by sheriff; sale of assets of sheriff's office prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78325"
+    },
+    {
+      "order": 541,
+      "citation": "RS 14:139.2",
+      "title": "Transfer of capital assets of clerk of court's office prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78326"
+    },
+    {
+      "order": 542,
+      "citation": "RS 14:140",
+      "title": "Public contract fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78328"
+    },
+    {
+      "order": 543,
+      "citation": "RS 14:141",
+      "title": "Prohibited splitting of profits, fees or commissions; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78329"
+    },
+    {
+      "order": 544,
+      "citation": "RS 14:142",
+      "title": "Offenses committed prior to effective date of Code",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78330"
+    },
+    {
+      "order": 545,
+      "citation": "RS 14:143",
+      "title": "Preemption of state law; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78331"
+    },
+    {
+      "order": 546,
+      "citation": "RS 14:201",
+      "title": "Collateral securities, unauthorized use or withdrawal prohibited; penalty; proof of intent; of personal advantage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78339"
+    },
+    {
+      "order": 547,
+      "citation": "RS 14:202",
+      "title": "Contractors; misapplication of payments prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78340"
+    },
+    {
+      "order": 548,
+      "citation": "RS 14:202.1",
+      "title": "Residential contractor fraud; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508538"
+    },
+    {
+      "order": 549,
+      "citation": "RS 14:202.2",
+      "title": "Solar electric and solar thermal system contractors; solar tax credit fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919576"
+    },
+    {
+      "order": 550,
+      "citation": "RS 14:203",
+      "title": "Electrical appliances, sale without original factory serial number prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78341"
+    },
+    {
+      "order": 551,
+      "citation": "RS 14:204",
+      "title": "Fire-raising on lands of another by criminal negligence; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78342"
+    },
+    {
+      "order": 552,
+      "citation": "RS 14:204.1",
+      "title": "Fire-raising in a correctional facility; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725282"
+    },
+    {
+      "order": 553,
+      "citation": "RS 14:205",
+      "title": "Fire-raising on lands of another with malice; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78343"
+    },
+    {
+      "order": 554,
+      "citation": "RS 14:206",
+      "title": "Fire prevention interference; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78344"
+    },
+    {
+      "order": 555,
+      "citation": "RS 14:206.1",
+      "title": "Engaging in life safety and property protection contracting without authority prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1054726"
+    },
+    {
+      "order": 556,
+      "citation": "RS 14:207",
+      "title": "Motor vehicles, alteration or removal of identifying numbers prohibited; sale, etc., of motor vehicle with altered identifying numbers prohibited; penalty; application of Section",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78345"
+    },
+    {
+      "order": 557,
+      "citation": "RS 14:208",
+      "title": "Operas, performance or representation without consent of owner prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78346"
+    },
+    {
+      "order": 558,
+      "citation": "RS 14:209",
+      "title": "Seals, breaking prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78347"
+    },
+    {
+      "order": 559,
+      "citation": "RS 14:210",
+      "title": "Taxicabs, tampering with meter forbidden; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78349"
+    },
+    {
+      "order": 560,
+      "citation": "RS 14:211",
+      "title": "Repealed by Acts 2017, No. 281, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78350"
+    },
+    {
+      "order": 561,
+      "citation": "RS 14:212",
+      "title": "Forest products, false statement prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78351"
+    },
+    {
+      "order": 562,
+      "citation": "RS 14:213",
+      "title": "False packing of cotton bales and other agricultural products; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78352"
+    },
+    {
+      "order": 563,
+      "citation": "RS 14:214",
+      "title": "Fishing or hunting contest fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78353"
+    },
+    {
+      "order": 564,
+      "citation": "RS 14:215",
+      "title": "Repealed by Acts 1962, No. 310, III (3)",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78354"
+    },
+    {
+      "order": 565,
+      "citation": "RS 14:217",
+      "title": "Purchase or sale of seafoods prohibited under certain conditions; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78355"
+    },
+    {
+      "order": 566,
+      "citation": "RS 14:218",
+      "title": "Seafood sales and purchases; commercial license required of seller; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78356"
+    },
+    {
+      "order": 567,
+      "citation": "RS 14:219",
+      "title": "Removal of building or structure from immovable property subject to a conventional mortgage or vendor's privilege",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78357"
+    },
+    {
+      "order": 568,
+      "citation": "RS 14:220",
+      "title": "Rented or leased motor vehicles; obtaining by false representation, etc.; failure to return; defenses; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78359"
+    },
+    {
+      "order": 569,
+      "citation": "RS 14:220.1",
+      "title": "Leased movables; obtaining by false representation; failure to return or surrender; penalties; restitution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78360"
+    },
+    {
+      "order": 570,
+      "citation": "RS 14:221",
+      "title": "Avoiding payment for telecommunications services, cable television services, or multipoint distribution system service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78361"
+    },
+    {
+      "order": 571,
+      "citation": "RS 14:222",
+      "title": "Possession, manufacture, sale or transfer of devices for avoidance of payment for telecommunications services or related offenses; seizure of devices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78362"
+    },
+    {
+      "order": 572,
+      "citation": "RS 14:222.1",
+      "title": "Unauthorized interception, interference with, or retransmission of services offered over a cable television system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78363"
+    },
+    {
+      "order": 573,
+      "citation": "RS 14:222.2",
+      "title": "Cellular telephone counterfeiting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78364"
+    },
+    {
+      "order": 574,
+      "citation": "RS 14:222.3",
+      "title": "Unlawful use of a cellular tracking device; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1015652"
+    },
+    {
+      "order": 575,
+      "citation": "RS 14:223",
+      "title": "Sound reproductions without consent prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78365"
+    },
+    {
+      "order": 576,
+      "citation": "RS 14:223.1",
+      "title": "Terms defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78366"
+    },
+    {
+      "order": 577,
+      "citation": "RS 14:223.2",
+      "title": "Exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78367"
+    },
+    {
+      "order": 578,
+      "citation": "RS 14:223.3",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78368"
+    },
+    {
+      "order": 579,
+      "citation": "RS 14:223.4",
+      "title": "Civil remedies preserved",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78369"
+    },
+    {
+      "order": 580,
+      "citation": "RS 14:223.5",
+      "title": "Recording of performances without consent prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78370"
+    },
+    {
+      "order": 581,
+      "citation": "RS 14:223.6",
+      "title": "Rental or sale of improperly labeled articles prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78371"
+    },
+    {
+      "order": 582,
+      "citation": "RS 14:223.7",
+      "title": "Counterfeiting or possessing counterfeit labels prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78372"
+    },
+    {
+      "order": 583,
+      "citation": "RS 14:223.8",
+      "title": "Possessing of tools and equipment used for manufacturing unauthorized sound recordings prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78373"
+    },
+    {
+      "order": 584,
+      "citation": "RS 14:223.9",
+      "title": "Unlawful operation of a recording device",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320927"
+    },
+    {
+      "order": 585,
+      "citation": "RS 14:224",
+      "title": "Transportation of water from St. Tammany Parish prohibited; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78374"
+    },
+    {
+      "order": 586,
+      "citation": "RS 14:225",
+      "title": "Institutional vandalism",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78375"
+    },
+    {
+      "order": 587,
+      "citation": "RS 14:226",
+      "title": "Protection of owners of crayfish farms; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78376"
+    },
+    {
+      "order": 588,
+      "citation": "RS 14:227",
+      "title": "Identification number, personal property, alteration or removal prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78377"
+    },
+    {
+      "order": 589,
+      "citation": "RS 14:228",
+      "title": "Interference with animal research facilities or animal management facilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78378"
+    },
+    {
+      "order": 590,
+      "citation": "RS 14:228.1",
+      "title": "Unauthorized release of certain animals, birds, or aquatic species",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78379"
+    },
+    {
+      "order": 591,
+      "citation": "RS 14:229",
+      "title": "Illegal use of counterfeit trademark; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78380"
+    },
+    {
+      "order": 592,
+      "citation": "RS 14:230",
+      "title": "Money laundering; transactions involving proceeds of criminal activity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78382"
+    },
+    {
+      "order": 593,
+      "citation": "RS 14:230.1",
+      "title": "Civil remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294901"
+    },
+    {
+      "order": 594,
+      "citation": "RS 14:231",
+      "title": "Counterfeit and nonfunctional air bags prohibited; air bag fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206912"
+    },
+    {
+      "order": 595,
+      "citation": "RS 14:281",
+      "title": "Disorderly place, maintaining of prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78389"
+    },
+    {
+      "order": 596,
+      "citation": "RS 14:282",
+      "title": "Operation of places of prostitution prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78390"
+    },
+    {
+      "order": 597,
+      "citation": "RS 14:283",
+      "title": "Video voyeurism; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78391"
+    },
+    {
+      "order": 598,
+      "citation": "RS 14:283.1",
+      "title": "Voyeurism; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285172"
+    },
+    {
+      "order": 599,
+      "citation": "RS 14:283.2",
+      "title": "Nonconsensual disclosure of a private image",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=963342"
+    },
+    {
+      "order": 600,
+      "citation": "RS 14:283.3",
+      "title": "Abuse of persons with infirmities through electronic means",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106738"
+    },
+    {
+      "order": 601,
+      "citation": "RS 14:284",
+      "title": "Peeping Tom; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78392"
+    },
+    {
+      "order": 602,
+      "citation": "RS 14:285",
+      "title": "Telephone communications; improper language; harassment; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78393"
+    },
+    {
+      "order": 603,
+      "citation": "RS 14:286",
+      "title": "Sale of minor children; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78394"
+    },
+    {
+      "order": 604,
+      "citation": "RS 14:311",
+      "title": "Discharging fire-works or explosives within one thousand feet of hospital prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78400"
+    },
+    {
+      "order": 605,
+      "citation": "RS 14:312",
+      "title": "Jumping from state bridge for publicity prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78401"
+    },
+    {
+      "order": 606,
+      "citation": "RS 14:313",
+      "title": "Masks or hoods, wearing in public places prohibited; penalty; exceptions; permit to conduct Mardi Gras festivities, how obtained; wearing of hoods, masks, or disguises or giving of candy or other gifts by sex offenders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78402"
+    },
+    {
+      "order": 607,
+      "citation": "RS 14:313.1",
+      "title": "Distributing candy or gifts on Halloween and other public holidays by \"sex offenders\" prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=508540"
+    },
+    {
+      "order": 608,
+      "citation": "RS 14:314",
+      "title": "Mississippi River, making unauthorized cut-offs prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78403"
+    },
+    {
+      "order": 609,
+      "citation": "RS 14:315",
+      "title": "Mississippi River, stopping outlets or bayous prohibited; reopening; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78404"
+    },
+    {
+      "order": 610,
+      "citation": "RS 14:316",
+      "title": "Repealed by Acts 2004, No. 577, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78405"
+    },
+    {
+      "order": 611,
+      "citation": "RS 14:317",
+      "title": "Repealed by Acts 1972, No. 255, 1",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78406"
+    },
+    {
+      "order": 612,
+      "citation": "RS 14:318",
+      "title": "Sale of fireworks containing white or yellow phosphorus prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78407"
+    },
+    {
+      "order": 613,
+      "citation": "RS 14:319",
+      "title": "Sale of toy pistols prohibited; penalty; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78408"
+    },
+    {
+      "order": 614,
+      "citation": "RS 14:320",
+      "title": "Telegrams, divulging or obtaining knowledge of contents prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78417"
+    },
+    {
+      "order": 615,
+      "citation": "RS 14:321",
+      "title": "Unauthorized signals to persons in charge of locomotives, etc., prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78418"
+    },
+    {
+      "order": 616,
+      "citation": "RS 14:322",
+      "title": "Wire-tapping prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78419"
+    },
+    {
+      "order": 617,
+      "citation": "RS 14:322.1",
+      "title": "Repealed by Acts 1991, No. 795, 3, eff. July 22, 1991.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78420"
+    },
+    {
+      "order": 618,
+      "citation": "RS 14:322.2",
+      "title": "Repealed by Acts 1991, No. 795, 3, eff. July 22, 1991.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78421"
+    },
+    {
+      "order": 619,
+      "citation": "RS 14:323",
+      "title": "Tracking devices prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78422"
+    },
+    {
+      "order": 620,
+      "citation": "RS 14:324",
+      "title": "Abandoning or discarding ice boxes or other air tight containers; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78423"
+    },
+    {
+      "order": 621,
+      "citation": "RS 14:325",
+      "title": "Annual registration of conductors of public opinion polls; penalty for failure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78424"
+    },
+    {
+      "order": 622,
+      "citation": "RS 14:326",
+      "title": "Processions, marches, parades, or demonstrations; permits; liability; bond; exemptions; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78425"
+    },
+    {
+      "order": 623,
+      "citation": "RS 14:327",
+      "title": "Obstructing a fireman",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78426"
+    },
+    {
+      "order": 624,
+      "citation": "RS 14:328",
+      "title": "Obstruction or interference with members of staff, faculty, or students of educational institutions; trespass, damage to property; felony; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78427"
+    },
+    {
+      "order": 625,
+      "citation": "RS 14:329",
+      "title": "Interfering with a law enforcement investigation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78428"
+    },
+    {
+      "order": 626,
+      "citation": "RS 14:329.1",
+      "title": "Riot",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78429"
+    },
+    {
+      "order": 627,
+      "citation": "RS 14:329.2",
+      "title": "Inciting to riot",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78430"
+    },
+    {
+      "order": 628,
+      "citation": "RS 14:329.3",
+      "title": "Command to disperse; who may give; failure to comply",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78431"
+    },
+    {
+      "order": 629,
+      "citation": "RS 14:329.4",
+      "title": "Wrongful use of public property; permits for use of public property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78432"
+    },
+    {
+      "order": 630,
+      "citation": "RS 14:329.5",
+      "title": "Prohibition of interference with educational process; certain activities excepted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78433"
+    },
+    {
+      "order": 631,
+      "citation": "RS 14:329.6",
+      "title": "Proclamation of state of emergency; conditions therefor; effect thereof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78434"
+    },
+    {
+      "order": 632,
+      "citation": "RS 14:329.7",
+      "title": "Punishment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78435"
+    },
+    {
+      "order": 633,
+      "citation": "RS 14:329.8",
+      "title": "Applicability of other acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78436"
+    },
+    {
+      "order": 634,
+      "citation": "RS 14:330",
+      "title": "Motion picture ratings; definitions; prohibition on advertising coming attraction with more restrictive rating",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78438"
+    },
+    {
+      "order": 635,
+      "citation": "RS 14:331",
+      "title": "Prohibition of debt adjusting when conducted for profit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78439"
+    },
+    {
+      "order": 636,
+      "citation": "RS 14:332",
+      "title": "Interference with medical treatment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78440"
+    },
+    {
+      "order": 637,
+      "citation": "RS 14:333",
+      "title": "Misrepresentation of age to obtain alcoholic beverages or gain entry to licensed premises prohibited; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78441"
+    },
+    {
+      "order": 638,
+      "citation": "RS 14:334",
+      "title": "Ignition interlock device offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78442"
+    },
+    {
+      "order": 639,
+      "citation": "RS 14:335",
+      "title": "Checks; requiring certain information to be recorded on; prohibited; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78443"
+    },
+    {
+      "order": 640,
+      "citation": "RS 14:336",
+      "title": "Unlawful aiming of a laser at an aircraft",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919583"
+    },
+    {
+      "order": 641,
+      "citation": "RS 14:337",
+      "title": "Unlawful use of an unmanned aircraft system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919584"
+    },
+    {
+      "order": 642,
+      "citation": "RS 14:337.1",
+      "title": "Unlawful use of an unmanned aircraft system at a parade",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1429231"
+    },
+    {
+      "order": 643,
+      "citation": "RS 14:338",
+      "title": "Interfering with emergency communication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147425"
+    },
+    {
+      "order": 644,
+      "citation": "RS 14:351",
+      "title": "Bail, sale, etc. of real estate securing, prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78455"
+    },
+    {
+      "order": 645,
+      "citation": "RS 14:352",
+      "title": "Repealed by Acts 2010, No. 797, §2, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78456"
+    },
+    {
+      "order": 646,
+      "citation": "RS 14:353",
+      "title": "Documents simulating official court papers for collection purposes, sale or purchase prohibited; use prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78457"
+    },
+    {
+      "order": 647,
+      "citation": "RS 14:354",
+      "title": "Fiduciaries, failure to file accounts in court; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78458"
+    },
+    {
+      "order": 648,
+      "citation": "RS 14:355",
+      "title": "Property exempt from execution; penalty for deprivation of rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78459"
+    },
+    {
+      "order": 649,
+      "citation": "RS 14:356",
+      "title": "Sheriffs, etc., solicitation of legal business prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78460"
+    },
+    {
+      "order": 650,
+      "citation": "RS 14:356.1",
+      "title": "Unlawful referrals by wrecker drivers and others; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78461"
+    },
+    {
+      "order": 651,
+      "citation": "RS 14:356.2",
+      "title": "Unlawful appearance bond procurement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78462"
+    },
+    {
+      "order": 652,
+      "citation": "RS 14:356.3",
+      "title": "Unlawful referrals by ambulance drivers and others; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78463"
+    },
+    {
+      "order": 653,
+      "citation": "RS 14:357",
+      "title": "Candies, selling without payment of license tax; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78464"
+    },
+    {
+      "order": 654,
+      "citation": "RS 14:358",
+      "title": "Subversive activities and communist control law; legislative finding of fact and declaration of necessity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78465"
+    },
+    {
+      "order": 655,
+      "citation": "RS 14:359",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78466"
+    },
+    {
+      "order": 656,
+      "citation": "RS 14:360",
+      "title": "Due process determination of facts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78468"
+    },
+    {
+      "order": 657,
+      "citation": "RS 14:361",
+      "title": "Venue",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78469"
+    },
+    {
+      "order": 658,
+      "citation": "RS 14:362",
+      "title": "Registration of organizations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78470"
+    },
+    {
+      "order": 659,
+      "citation": "RS 14:363",
+      "title": "Registration of individuals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78471"
+    },
+    {
+      "order": 660,
+      "citation": "RS 14:364",
+      "title": "Registration statements to be public records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78472"
+    },
+    {
+      "order": 661,
+      "citation": "RS 14:365",
+      "title": "Election ballots",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78473"
+    },
+    {
+      "order": 662,
+      "citation": "RS 14:366",
+      "title": "Public office and public support, disqualification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78474"
+    },
+    {
+      "order": 663,
+      "citation": "RS 14:367",
+      "title": "Labeling of propaganda",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78475"
+    },
+    {
+      "order": 664,
+      "citation": "RS 14:368",
+      "title": "Acts prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78476"
+    },
+    {
+      "order": 665,
+      "citation": "RS 14:369",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78477"
+    },
+    {
+      "order": 666,
+      "citation": "RS 14:370",
+      "title": "Additional penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78483"
+    },
+    {
+      "order": 667,
+      "citation": "RS 14:371",
+      "title": "Screening of prospective public officials and employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78484"
+    },
+    {
+      "order": 668,
+      "citation": "RS 14:372",
+      "title": "Candidates for public office; filing of nonsubversive affidavits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78485"
+    },
+    {
+      "order": 669,
+      "citation": "RS 14:373",
+      "title": "Citation of subversive activities and communist control law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78486"
+    },
+    {
+      "order": 670,
+      "citation": "RS 14:374",
+      "title": "Failure to report bail bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78487"
+    },
+    {
+      "order": 671,
+      "citation": "RS 14:375",
+      "title": "Illegal consideration for criminal bail bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78488"
+    },
+    {
+      "order": 672,
+      "citation": "RS 14:376",
+      "title": "Repealed by Acts 1965, No. 45, 3",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78489"
+    },
+    {
+      "order": 673,
+      "citation": "RS 14:378",
+      "title": "To 380 Repealed by Acts 1962, No. 270, 1",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78490"
+    },
+    {
+      "order": 674,
+      "citation": "RS 14:381",
+      "title": "To 384 Blank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78494"
+    },
+    {
+      "order": 675,
+      "citation": "RS 14:385",
+      "title": "Organizations engaged in social, educational or political activities; Communist affiliations prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78495"
+    },
+    {
+      "order": 676,
+      "citation": "RS 14:386",
+      "title": "Affidavits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78496"
+    },
+    {
+      "order": 677,
+      "citation": "RS 14:387",
+      "title": "Failure to file affidavit; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78497"
+    },
+    {
+      "order": 678,
+      "citation": "RS 14:388",
+      "title": "False statements in affidavit as perjury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78498"
+    },
+    {
+      "order": 679,
+      "citation": "RS 14:389",
+      "title": "Blank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78499"
+    },
+    {
+      "order": 680,
+      "citation": "RS 14:390",
+      "title": "Declaration of public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78503"
+    },
+    {
+      "order": 681,
+      "citation": "RS 14:390.1",
+      "title": "Definition of communist propaganda",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78504"
+    },
+    {
+      "order": 682,
+      "citation": "RS 14:390.2",
+      "title": "Acts prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78505"
+    },
+    {
+      "order": 683,
+      "citation": "RS 14:390.3",
+      "title": "Legitimate procurement of contraband",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78506"
+    },
+    {
+      "order": 684,
+      "citation": "RS 14:390.4",
+      "title": "Venue",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78507"
+    },
+    {
+      "order": 685,
+      "citation": "RS 14:390.5",
+      "title": "Warehousing and storage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78508"
+    },
+    {
+      "order": 686,
+      "citation": "RS 14:390.6",
+      "title": "Destruction of contraband",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78509"
+    },
+    {
+      "order": 687,
+      "citation": "RS 14:390.7",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78510"
+    },
+    {
+      "order": 688,
+      "citation": "RS 14:390.8",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78511"
+    },
+    {
+      "order": 689,
+      "citation": "RS 14:401",
+      "title": "Demonstrations in or near building housing a court or occupied as residence by judge, juror, witness or court officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78517"
+    },
+    {
+      "order": 690,
+      "citation": "RS 14:402",
+      "title": "Contraband defined; certain activities regarding contraband in penal institutions prohibited; penalty; disposition of seized contraband",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78518"
+    },
+    {
+      "order": 691,
+      "citation": "RS 14:402.1",
+      "title": "Taking of contraband to state-owned hospitals unlawful; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78519"
+    },
+    {
+      "order": 692,
+      "citation": "RS 14:403",
+      "title": "Abuse of children; reports; waiver of privilege",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78520"
+    },
+    {
+      "order": 693,
+      "citation": "RS 14:403.1",
+      "title": "Substance abuse in schools; definitions; confidential reports; immunity; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78521"
+    },
+    {
+      "order": 694,
+      "citation": "RS 14:403.2",
+      "title": "Abuse and neglect of adults",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78522"
+    },
+    {
+      "order": 695,
+      "citation": "RS 14:403.3",
+      "title": "Reports of missing children; procedures; false reports or communications; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78523"
+    },
+    {
+      "order": 696,
+      "citation": "RS 14:403.4",
+      "title": "Burn injuries and wounds; reports; registry; immunity; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78524"
+    },
+    {
+      "order": 697,
+      "citation": "RS 14:403.5",
+      "title": "Gunshot wounds; mandatory reporting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78525"
+    },
+    {
+      "order": 698,
+      "citation": "RS 14:403.6",
+      "title": "Reporting of neglect or abuse of animals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78526"
+    },
+    {
+      "order": 699,
+      "citation": "RS 14:403.7",
+      "title": "Failure to report a missing child",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814355"
+    },
+    {
+      "order": 700,
+      "citation": "RS 14:403.8",
+      "title": "Failure to report the death of a child",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814060"
+    },
+    {
+      "order": 701,
+      "citation": "RS 14:403.9",
+      "title": "Alcohol consumption; emergency assistance and cooperation; immunity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919600"
+    },
+    {
+      "order": 702,
+      "citation": "RS 14:403.10",
+      "title": "Drug-related overdoses; medical assistance; immunity from prosecution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919601"
+    },
+    {
+      "order": 703,
+      "citation": "RS 14:403.11",
+      "title": "Administration of opiate antagonists; immunity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919602"
+    },
+    {
+      "order": 704,
+      "citation": "RS 14:404",
+      "title": "Self-mutilation by a prisoner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78527"
+    },
+    {
+      "order": 705,
+      "citation": "RS 14:405",
+      "title": "Unlawful establishment of accounts on Internet-based social networking websites by inmates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=762617"
+    },
+    {
+      "order": 706,
+      "citation": "RS 14:501",
+      "title": "Killing or injuring a person while hunting; penalty for failure to render aid",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78551"
+    },
+    {
+      "order": 707,
+      "citation": "RS 14:502",
+      "title": "Failure to seek assistance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106740"
+    },
+    {
+      "order": 708,
+      "citation": "RS 14:511",
+      "title": "Loansharking; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78553"
+    },
+    {
+      "order": 709,
+      "citation": "RS 14:512",
+      "title": "Aggravated loansharking; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78554"
+    },
+    {
+      "order": 710,
+      "citation": "RS 14:513",
+      "title": "Possession of loanshark records; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=78555"
+    },
+    {
+      "order": 711,
+      "citation": "RS 14:601",
+      "title": "Louisiana Felony Class System Task Force",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1054731"
+    }
+  ]
+}

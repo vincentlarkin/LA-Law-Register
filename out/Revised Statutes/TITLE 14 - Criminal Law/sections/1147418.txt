@@ -1,0 +1,85 @@
+RS 14:73.12
+Trespass against state computers
+https://www.legis.la.gov/legis/Law.aspx?d=1147418
+
+§73.12.  Trespass against state computers
+A.  It is unlawful for any person to knowingly or intentionally access, or to exceed
+authorized access of, a computer, computer server, computer program, computer service,
+computer software, internet-connected device, or computer system or program that is owned,
+operated, or utilized by the state of Louisiana, its contractors, or its political subdivisions,
+without authorization when it is done for any of the following purposes:
+(1)  Obtaining, seeking, utilizing, destroying, viewing, or affecting information that
+has been determined by the state of Louisiana to require protection against unauthorized
+disclosure for reasons of protecting public health, safety, welfare, or an ongoing law
+enforcement investigation.
+(2)  Willfully communicating, delivering, transmitting, or causing or threatening to
+communicate, deliver, or transmit information to any person not entitled to receive such
+information when the information has been determined by the state of Louisiana to require
+protection against unauthorized disclosure for reasons of protecting public health, safety,
+welfare, or an ongoing law enforcement investigation.
+(3)  Initiating a denial of service attack or introducing malicious or any type of
+destructive or harmful software or program that negatively affects or impacts such
+computers, computer servers, computer programs, computer services, computer software,
+internet-connected devices or computer systems or programs.
+B.  Information, documents, or records deemed confidential or not subject to
+disclosure or inspection under R.S. 44:1 et seq., shall be considered information that has been
+determined by the state of Louisiana to require protection against unauthorized disclosure for
+reasons of protecting the public health, safety, welfare, or an ongoing law enforcement
+investigation under Paragraphs (A)(1) and (2) of this Section.
+C.(1)  Any person convicted of a first offense of Paragraph (A)(1) of this Section
+shall be subject to a fine of not more than three thousand dollars, imprisonment, with or
+without hard labor, for not more than three years, or both.
+(2)  Any person convicted of a first offense of Paragraph (A)(2) or (3) of this Section
+shall be subject to a fine of not more than five thousand dollars, imprisonment, with or
+without hard labor, for not more than three years, or both.
+(3)  Any person convicted of a second or subsequent offense of Subsection A of this
+Section shall be subject to a fine of not more than ten thousand dollars, imprisonment, with
+or without hard labor, for not more than five years, or both.
+(4)  Except as provided in Subsection D of this Section, in addition to the penalties
+provided in Paragraphs (1) and (2) of this Subsection, the following property of any
+individual who is convicted of trespass against state computers shall be subject to forfeiture
+to the state of Louisiana and no property rights shall exist therein:
+(a)  Any movable property used or intended to be used to commit or to facilitate the
+commission of any violation of this Section, or conspiracy to commit a violation of this
+Section.
+(b)  Any property, movable or immovable, which constitutes or is derived from
+proceeds traceable to any violation of this Section, or a conspiracy to commit a violation of
+this Section.
+(c)  When property is forfeited under the provisions of this Paragraph, the district
+attorney shall authorize a public sale or a public auction conducted by a licensed auctioneer,
+without appraisal, of that which is not required by law to be destroyed and which is not
+harmful to the public.
+(d)  The proceeds of the public sale or public auction shall pay the costs of the public
+sale or public auction, court costs, and fees related to the seizure and storage of the property.
+Any proceeds remaining shall be distributed by the district attorney in the following manner:
+(i)  Thirty percent to the seizing agency or agencies in an equitable manner.
+(ii)  Twenty percent to the prosecuting agency.
+(iii)  Twenty percent to the criminal court fund of the parish in which the offender
+was prosecuted.
+(iv)  Thirty percent to the public defender in the jurisdiction in which the offender
+was prosecuted.
+D.(1)  Any property seized pursuant to the provisions of Paragraph (C)(4) of this
+Section shall be exempt from forfeiture and sale if it was stolen or if the possessor of the
+property was not the owner and the owner did not know that the personal property was being
+used in the violation of the provisions of this Section. If the exemption provided by this
+Subsection is applicable, the property shall not be released until such time as all applicable
+fees related to its seizure and storage are paid.  However, an internet service provider shall
+not be required to pay seizure or storage fees to secure the release of equipment leased to an
+offender.
+(2)(a)  Property subject to forfeiture pursuant to the provisions of Paragraph (C)(4)
+of this Section shall be exempt from forfeiture and sale when a spouse, co-owner, or interest
+holder in the property establishes by sworn affidavit executed before a notary public the
+following:
+(i)  That he had no knowledge of the commission of the criminal conduct and could
+not have reasonably known of the conduct.
+(ii)  That he did not consent to the use of property in the commission of the criminal
+conduct.
+(iii)  That he owns an interest in the property otherwise subject to forfeiture.
+(b)  Intentionally falsifying the affidavit information required by the provisions of this
+Paragraph shall subject the affiant to prosecution under the provisions of R.S. 14:125.
+(3)  The property of an internet service provider shall be exempt from forfeiture.
+(4)  Any property seized pursuant to the provisions of Paragraph (C)(4) of this
+Section shall be exempt from sale if it is subject to a lien, security interest, or mortgage
+recorded prior to the date of the offense and if the applicable fees related to the property's
+seizure and storage are paid by a holder of a valid lien, security interest, or mortgage.
+Acts 2019, No. 292, §1.

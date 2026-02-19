@@ -1,0 +1,23 @@
+RS 15:1315
+Issuance of an order for a pen register or a trap and trace device
+https://www.legis.la.gov/legis/Law.aspx?d=78950
+
+§1315.  Issuance of an order for a pen register or a trap and trace device
+A.  Upon an application made under R.S. 15:1314, the court may enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device within the jurisdiction of the court if the court finds that the investigative or law enforcement officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing felony criminal investigation, and that the certification does include reasonable suspicion as required by R.S. 15:1314.
+B.(1)  An order issued under this Section shall specify:
+(a)  The identity, if known, of the person to whom is leased or in whose name is listed the telephone line to which the pen register or trap and trace device is to be attached.
+(b)  The identity, if known, of the person who is the subject of the criminal investigation.
+(c)  The number and, if known, physical location of the telephone line to which the pen register or trap and trace device is to be attached and, in the case of trap and trace, the geographic limits of the trap and trace order.
+(d)  A statement of the offense to which the information likely to be obtained by the pen register or trap and trace device relates.
+(2)  An order issued under this Section shall direct, upon request of the applicant, the furnishing of information, facilities, and technical assistance necessary to accomplish the installation of the pen register or trap and trace device under R.S. 15:1316.
+C.(1)  An order issued under this Section shall authorize the installation and use of a pen register or a trap and trace device for a period not to exceed sixty days.
+(2)  Extensions of such an order may be granted, but only upon an application for an order under R.S. 15:1314 and upon the judicial finding required by Subsection A of this Section.  The period of extension shall be for a period not to exceed sixty days.
+D.  An order authorizing or approving the installation and use of a pen register or a trap and trace device shall direct that:
+(1)  The order be sealed until otherwise ordered by the court, or until one hundred eighty days after the installation's authorized operation concludes, whichever is earlier.
+(2)  The person owning or leasing the line to which the pen register or trap and trace device is attached, or who has been ordered by the court to provide assistance to the applicant, not disclose the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber, or to any other person, unless or until otherwise ordered by the court.
+E.  The head of each law enforcement agency possessing or making application for the installation and use of a pen register or trap and trace device shall establish and implement procedures which shall provide for and ensure the following:
+(1)  Preparation and maintenance of such logs and records which record, after unsealing of the applications and orders, the approval of applications for installation and use of pen register or trap and trace devices and the duration thereof.
+(2)  That only the law enforcement agency chief officer or specifically authorized representative of the agency chief shall have the authority to authorize the installation and use of pen register or trap and trace devices and only pursuant to court order.
+(3)  That no pen register or trap and trace device in the possession of the law enforcement agency shall be subject to unauthorized installation or use.
+(4)  That a designated sworn and commissioned officer of that law enforcement agency executes and transmits no later than March first of each calendar year to the deputy secretary of public safety services of the Department of Public Safety and Corrections, a sworn affidavit stating that, to the best of the affiant's knowledge, information and belief, all installations and uses of the pen register or trap and trace devices in the custody of that law enforcement agency have been in accordance with the provisions of this Part and further that no pen register or trap and trace device in the custody of that agency has been the subject of an unauthorized or illegal installation or use.
+Acts 1991, No. 795, §2, eff. July 22, 1991; Acts 2007, No. 132, §1.

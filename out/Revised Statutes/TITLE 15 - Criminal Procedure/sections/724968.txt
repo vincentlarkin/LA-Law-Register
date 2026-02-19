@@ -1,0 +1,114 @@
+RS 15:571.36
+Electronic monitoring equipment
+https://www.legis.la.gov/legis/Law.aspx?d=724968
+
+§571.36.  Electronic monitoring equipment
+A.  The Department of Public Safety and Corrections, corrections services, the office
+of state police, and the Louisiana Commission on Law Enforcement and Administration of
+Criminal Justice shall develop written policies and procedures in the manner provided in the
+Administrative Procedure Act for the promulgation of rules governing mandatory
+requirements for electronic monitoring service providers and manufacturers, including the
+availability, storage, use of, and operational capacity for electronic monitoring equipment
+utilized for pretrial, post-conviction, or monitoring, which shall include all of the following
+requirements:
+(1)  Secure storage, making equipment inaccessible to a monitored individual.
+(2)  Visual inspection of equipment worn by the monitored individual to determine
+its condition not less than once per month.
+(3)  A master listing and inventory.
+(4)  Availability of at least one complete backup unit for every twenty-five units in
+use.
+(5)  Responses to system malfunctions.
+(6)  Restricted password access to authorized staff of base station hardware.
+(7)  Maintenance and cleaning of equipment.
+(8)  Location accuracy of a monitored individual for all of the following:
+(a)  The indoor location of a monitored individual.
+(b)  The outdoor location of a monitored individual.
+(c)  On-demand location, which is the most recent location of a monitored individual,
+and the ability to provide this location accuracy within three minutes of a request.
+(9)  Development of zoning capabilities for both of the following:
+(a)  Inclusion zones, which are geographic areas where a monitored individual is
+scheduled to be.
+(b)  Exclusion zones, which are geographic areas where a monitored individual is not
+permitted to visit.
+(10)  Alert notifications to a provider of electronic monitoring services for all of the
+following:
+(a)  The tampering of the electronic monitoring equipment and the ability to provide
+an alert of this violation within three minutes of the violation.
+(b)  The presence of the electronic monitoring equipment in an exclusion zone and
+the ability to provide an alert of this violation within four minutes of the violation.
+(c)  Low battery alert prior to the complete discharge of the battery within the
+electronic monitoring equipment.
+(11)  Simultaneous access to an authorizing judge or law enforcement agency for all
+monitoring records of an electronic monitoring provider.
+(12) The certification standards and registration requirements for electronic
+monitoring providers and manufacturers who render electronic monitoring services in this
+state.
+B.  When the court has placed an individual under electronic monitoring, the name
+and contact information of the person or entity providing electronic monitoring services shall
+be entered in the docket for the case in which the electronic monitoring is ordered.
+C.(1)  When an individual has been placed under electronic monitoring, the provider
+of the electronic monitoring services shall, by noon of the following day, provide law
+enforcement agencies within the appropriate jurisdiction and the prosecuting authority all of
+the following information:
+(a)  The name and any aliases used by the monitored individual.
+(b)  The physical address or addresses of residence of the monitored individual.
+(c)  The name and physical address of place of employment.  If the monitored
+individual does not have a fixed place of employment, he shall provide information with as
+much specificity as possible regarding the places where he works, including but not limited
+to travel routes used by the monitored offender.
+(d)  The pending criminal charges against the monitored individual.
+(e)  The reason why the monitored individual has been placed under electronic
+monitoring.
+(2)  Electronic monitoring service providers shall submit an accurate report to each
+court exercising jurisdiction over the persons being monitored and the prosecuting authority,
+by the tenth day of each month for the previous month's monitoring activity to include all of
+the following information:
+(a)  The name and any aliases used by the monitored individual.
+(b)  The date of birth of the monitored individual.
+(c)  The offense that the monitored individual has been charged with, or convicted
+of.
+(3)  By January fifteenth of each year, electronic monitoring service providers shall
+submit an accurate annual report to each court exercising jurisdiction over any monitored
+person during the previous calendar year that includes all of the following information:
+(a)  The services offered.
+(b)  The areas served.
+(c)  The number of defendants served.
+(d)  The number of defendants terminated.
+(e)  The reasons for termination.
+(f)  The credentials or qualifications of the provider.
+(4)  When a violation of the defendant's monitoring conditions has occurred, the
+provider of electronic monitoring services shall report the violation to the bail agent on
+record, the law enforcement agencies within the appropriate jurisdiction, the prosecuting
+authority, and the court exercising jurisdiction over the defendant immediately but in no
+event not longer than thirty minutes from the provider's verification of a notice of violation
+that any of the following involving the electronic monitoring equipment has occurred:
+(a)  Presence in an exclusion zone, which are geographic areas where the defendant
+is not permitted to visit.
+(b)  Tampering or destruction.
+(c)  Loss of battery power.
+(d)  Loss of communications.
+(5)  After an individual has been placed under electronic monitoring, the court
+exercising jurisdiction over the monitored individual shall report the information provided
+in this Subsection to all law enforcement agencies within its jurisdiction.
+D.  Any provider of an electronic monitoring service who intentionally withholds or
+intentionally fails to timely report information as required by this Section shall be fined not
+more than one thousand dollars per each day of a violation, not to exceed ten thousand
+dollars per instance or individual monitored, or imprisoned for not more than six months, and
+shall be prohibited from registering to provide electronic monitoring services in this state for
+a period of five years.
+E.  The Integrated Criminal Justice Information System Policy Board, in consultation
+with the Department of Public Safety and Corrections, corrections services, the office of state
+police, the office of the attorney general, the office of information and technology systems,
+and the Louisiana Commission on Law Enforcement and Administration of Criminal Justice,
+shall evaluate the feasibility of all of the following:
+(1)  Development of a statewide system for the use of global position system
+monitoring and other electronic methods of monitoring as an alternative to incarceration for
+persons who have been arrested, who are awaiting trial, or who have been convicted.
+(2)  Development of guidelines and criteria for contracts between a local government
+and a person or entity that provides electronic monitoring services.
+(3)  Development and maintenance of a centralized registry that can assist the state
+in the collection of the following data:
+(a)  The number of persons who are electronically monitored by jurisdiction.
+(b)  The number of violations that occur within each jurisdiction.
+Acts 2010, No. 416, §1; Acts 2023, No. 374, §2; Acts 2024, No. 746, §1, eff. Jan. 1,
+2025; Acts 2025, No. 416, §1.

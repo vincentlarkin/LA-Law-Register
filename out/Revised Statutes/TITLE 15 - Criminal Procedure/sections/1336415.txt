@@ -1,0 +1,92 @@
+RS 15:563.1
+§563.1. Duties of the Louisiana Bureau of Criminal Identification and Information
+https://www.legis.la.gov/legis/Law.aspx?d=1336415
+
+§563.1. Duties of the Louisiana Bureau of Criminal Identification and Information
+A.(1) The Louisiana Bureau of Criminal Identification and Information shall develop
+and maintain the central registry known as the Child Abuse and Neglect Registry. The
+registry shall contain the information transmitted to the bureau pursuant to the provisions of
+this Chapter. Upon receipt of the registration and information of any person subject to the
+provisions of this Chapter, the bureau shall immediately enter the appropriate information
+in the public registry. The bureau shall accept electronically submitted information and
+registration renewal information from law enforcement.
+(2)(a) The bureau shall provide for public access to the information contained in the
+registry, including internet-based access, which shall have field-search capabilities.
+(b) Notwithstanding the provisions of Subparagraph (a) of this Paragraph, the
+following information shall be exempt from public access:
+(i) Social security numbers.
+(ii) Names of the victims of the offenses requiring registration.
+(iii) Telephone numbers, subject to the provisions of Subparagraphs (c) and (d) of this
+Paragraph.
+(iv) Email addresses.
+(c) Notwithstanding the provisions of Subparagraph (b) of this Paragraph, which
+provides for exemptions to public access of telephone numbers, email addresses, online
+screen names, or other online identities, the registry shall contain the ability to search by
+telephone numbers, email addresses, online screen names, or other online identities to
+provide information to the person conducting the search regarding whether or not that
+information has been linked to a person convicted of an offense in R.S. 15:563(A). This
+search shall not disclose the name or any other identifying information about the offender to
+the person conducting the search, except to identify that the information has been linked to
+a person convicted of an offense in R.S. 15:563(A).
+(d) Notwithstanding the provisions of Subparagraphs (b) and (c) of this Paragraph,
+the bureau shall, upon request by any person or entity in a manner prescribed by the bureau,
+provide a list of telephone numbers, email addresses, online screen names, static internet
+protocol addresses, or other online identities of persons in the Child Abuse and Neglect
+Registry for the purpose of identifying and monitoring a registered user associated with the
+telephone number, email address, online screen name, static internet protocol address, or
+other online identity. The information provided to the person or entity shall not disclose the
+name or other identifying information of the offender that is associated with, or who is using,
+any of the telephone numbers, email addresses, online screen names, static internet protocol
+addresses, or other online identities in the provided list.
+(e) The bureau shall maintain a Child Abuse and Neglect Notification and
+Registration website on the internet, which shall contain a disclaimer informing the public
+of all of the following:
+(i) The information contained on the site is obtained from offenders, and the
+department does not guarantee its accuracy or completeness.
+(ii) Members of the public are not allowed to use the information to harass or threaten
+offenders or members of their families.
+(iii) Harassment, stalking, or threats against offenders or their families are prohibited
+and doing so may violate Louisiana criminal laws.
+B. The bureau shall develop and maintain the registry as to provide for automatic
+email notifications at the time when an offender begins residence, employment, or school
+attendance within a certain geographic radius or zip code. This function of the registry shall
+allow members of the public and organizations to request automatic email notifications to
+be sent to an email address provided by the requestor for a certain geographic radius or zip
+code specified by the requestor.
+C. The bureau is hereby designated as the state agency to receive information
+regarding an out-of-state person convicted of a similar offense as those in R.S. 15:563(A)
+who establishes a residence in this state pursuant to R.S. 15:542.1.3.
+D. The bureau may promulgate rules and regulations in accordance with the
+Administrative Procedure Act to implement the provisions of this Chapter.
+E.(1) The bureau shall provide for the capability which would allow a social
+networking website to compare the database of registered users of that social networking
+website to the list of electronic mail addresses, instant message addresses, and other similar
+online identifiers of persons in the Child Abuse and Neglect Registry.
+(2) A social networking website desiring to compare its database of registered users
+to the list of electronic mail addresses, instant message addresses, and other online identifiers
+of persons in the registry shall provide to the bureau all of the following information:
+(a) The name, address, and telephone number of the entity operating the social
+networking website.
+(b) The legal nature and corporate status of the entity operating the social networking
+website.
+(c) A statement signed by the chief legal officer of the social networking website to
+the effect that the information obtained from the registry shall not be disclosed for any
+purpose other than for comparing the database of registered users of the social networking
+website against the list of electronic mail addresses, instant message addresses, and other
+online identifiers of persons contained in the state registry to protect children from child
+abuse or neglect, and that disclosure of this information for any other purpose may be
+unlawful.
+(d) The name, address, and telephone number of a natural person who is authorized
+to receive service of process for the entity operating the social networking website.
+(3) After complying with the requirements of Paragraph (2) of this Subsection, the
+entity operating the social networking website may screen users or compare its database of
+registered users to the list of electronic mail addresses, instant message addresses, and other
+online identifiers of persons contained in the Child Abuse or Neglect Registry as frequently
+as the bureau will allow for the purpose of identifying, monitoring, or removing a registered
+user associated with electronic mail addresses, instant message addresses, and other online
+identifiers contained in the registry.
+(4) An entity operating a social networking website which complies with the
+provisions of Paragraphs (2) and (3) of this Subsection and its directors, officers, employees,
+or agents may claim such compliance as a defense to a claim for liability arising against the
+entity or those persons.
+Acts 2023, No. 460, §1, eff. July 1, 2024.

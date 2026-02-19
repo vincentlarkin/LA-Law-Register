@@ -1,0 +1,54 @@
+RS 14:67.4
+Anti-Skimming Act
+https://www.legis.la.gov/legis/Law.aspx?d=78621
+
+§67.4.  Anti-Skimming Act
+A.  This Section shall be known and may be cited as the "Anti-Skimming Act".
+B.  As used in this Section, the following terms have the following meanings:
+(1)  "Authorized card user" means any person with permission to use any payment
+card to obtain, purchase, or receive goods, services, money, or anything else of value from
+a merchant.
+(2)  "Merchant" means an owner or operator of any retail mercantile establishment
+or any agent, employee, lessee, consignee, officer, director, franchisee, or independent
+contractor of such owner or operator who receives from an authorized user of a payment
+card, or someone the merchant believes to be an authorized user, a payment card or
+information from a payment card, or what the merchant believes to be a payment card or
+information from a payment card, as the instrument for obtaining, purchasing or receiving
+goods, services, money, or anything else of value from the merchant.
+(3)  "Payment card" means a credit card, charge card, debit card, hotel key card,
+stored value card, or any other card that is issued to an authorized card user and that allows
+the user to obtain, purchase, or receive goods, services, money, or anything else of value
+from a merchant.
+(4)  "Re-encoder" means an electronic device that places encoded information from
+the microchip or magnetic strip or stripe of a payment card onto the microchip or magnetic
+strip or stripe of a different payment card.
+(5)  "Scanning device" means a scanner, reader, or any other electronic device that
+is used to access, read, scan, obtain, memorize, or store, temporarily or permanently,
+information encoded on the microchip or magnetic strip or stripe of a payment card.
+C.  It shall be unlawful for any person to do any of the following:
+(1)  Use a scanning device to access, read, obtain, memorize, or store, temporarily or
+permanently, information encoded on the microchip or magnetic strip or stripe of a payment
+card without the permission of the authorized user of the payment card and with the intent
+to defraud the authorized user, the issuer of the authorized user's payment card, or a
+merchant.
+(2)  Use a re-encoder to place information encoded on the microchip or magnetic strip
+or stripe of a payment card onto the microchip or magnetic strip or stripe of a different card
+without the permission of the authorized user of the card from which the information is being
+re-encoded and with the intent to defraud the authorized user, the issuer of the authorized
+user's payment card, or a merchant.
+(3)  Possess a re-encoder or scanning device with the intent to defraud.
+D.(1)  Whoever violates the provisions of Subsection C of this Section shall be
+imprisoned, with or without hard labor, for not more than five years, or fined not more than
+five thousand dollars, or both.
+(2)  Whoever, directly or indirectly, by agent or otherwise, uses a scanning device and
+a re-encoder in violation of Subsection C of this Section and with the intent to defraud shall
+be imprisoned, with or without hard labor, for not more than ten years, or fined not more than
+ten thousand dollars, or both.
+(3)  Upon a second or subsequent conviction of a violation of the provisions of this
+Section, the offender shall be imprisoned, with or without hard labor, for not less than one
+year nor more than ten years and may be fined not more than twenty thousand dollars.
+E.  In addition to the penalties provided in Subsection D of this Section, a person
+convicted under this Section shall be ordered to make full restitution to the victim and any
+other person who has suffered a financial loss as a result of the offence in accordance with
+Code of Criminal Procedure Article 883.2.
+Acts 2005, No. 297, §1; Acts 2008, No. 495, §1; Acts 2024, No. 21, §1.

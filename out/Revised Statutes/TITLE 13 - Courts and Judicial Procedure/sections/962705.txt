@@ -1,0 +1,48 @@
+RS 13:3733.2
+Financial institution records containing electronic signatures; admissibility into evidence
+https://www.legis.la.gov/legis/Law.aspx?d=962705
+
+§3733.2.  Financial institution records containing electronic signatures; admissibility into
+evidence
+A.  Notwithstanding any other provision to the contrary, if accompanied by a
+certification as provided in Subsection B of this Section, a record, containing an electronic
+signature or a reproduction of a record containing an electronic signature, shall be considered
+to be an original, as defined in Article 1001 of the Code of Evidence, for all purposes and
+shall be admissible into evidence as an original record in any judicial, administrative, and
+other proceedings in all courts, tribunals, and other bodies and in any proceedings before all
+boards, bureaus, departments, commissions, and agencies of this state, and shall be received
+in evidence as prima facie proof of its contents with the same force and effect as an original
+record, and shall be deemed authentic for all purposes, satisfying the requirements of Code
+of Evidence Articles 901 and 902.  If accompanied by a certification as provided in
+Subsection B of this Section, a record containing an electronic signature or a reproduction
+of a record containing an electronic signature shall be deemed authentic evidence for
+purposes of executory process to the same extent as if it were a manually signed paper
+original record.
+B.  A record containing an electronic signature or a reproduction of a record
+containing an electronic signature is presumed to be genuine if accompanied by a
+certification, executed by a representative of a financial institution or its assignee,
+substantially as follows:
+STATE OF_____________________________
+PARISH/COUNTY OF___________________
+CITY OF ______________________________
+I,______________________, a representative of _______________________ (the
+Financial Institution or assignee) do hereby certify the following:
+(a)  In accordance with R.S. 13:3733.2, based on the undersigned person's personal
+knowledge or upon information and belief based upon records of the financial institution, any
+assignee, or any other person that are kept or obtained in the ordinary course of its business
+activities, the document(s) attached to this certificate, consisting of ___ page(s), is (are each)
+a record, electronic record, or reproduction of a record or electronic record that contains a
+genuine electronic signature of ______________ (insert name of signer on documents).
+(b)  If the document(s) attached to this certificate is (are each) an obligation sought
+to be enforced, including a promissory note, the financial institution or assignee named above
+is entitled to enforce the obligation(s) evidenced by the documents.
+__________________________________
+NAME
+__________________________________
+TITLE
+__________________________________
+ADDRESS
+C.  The provisions of this Section that authorize the use of a record containing an
+electronic signature or a reproduction of a record containing an electronic signature shall not
+apply to a collateral mortgage note as defined in R.S. 10:9-102(d)(3).
+Acts 2015, No. 84, §2.

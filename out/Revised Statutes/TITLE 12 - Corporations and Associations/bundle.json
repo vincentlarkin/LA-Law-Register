@@ -1,0 +1,5552 @@
+{
+  "category_key": "revised-statutes",
+  "category_name": "Revised Statutes",
+  "bundle_name": "TITLE 12 - Corporations and Associations",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "RS 12:1",
+      "title": "Terms defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76098"
+    },
+    {
+      "order": 2,
+      "citation": "RS 12:1-101",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920177"
+    },
+    {
+      "order": 3,
+      "citation": "RS 12:1-102",
+      "title": "Reservation of power to amend or repeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920179"
+    },
+    {
+      "order": 4,
+      "citation": "RS 12:1-120",
+      "title": "Requirements for documents; extrinsic facts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920180"
+    },
+    {
+      "order": 5,
+      "citation": "RS 12:1-121",
+      "title": "Forms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920182"
+    },
+    {
+      "order": 6,
+      "citation": "RS 12:1-122",
+      "title": "Filing, service, and copying fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920183"
+    },
+    {
+      "order": 7,
+      "citation": "RS 12:1-123",
+      "title": "Effective time and date of document",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920184"
+    },
+    {
+      "order": 8,
+      "citation": "RS 12:1-124",
+      "title": "Correcting filed document",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920185"
+    },
+    {
+      "order": 9,
+      "citation": "RS 12:1-125",
+      "title": "Filing duty of secretary of state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920186"
+    },
+    {
+      "order": 10,
+      "citation": "RS 12:1-126",
+      "title": "§1-126.  Appeal from secretary of state's refusal to file document\n\t[Reserved.]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921543"
+    },
+    {
+      "order": 11,
+      "citation": "RS 12:1-127",
+      "title": "Evidentiary effect of copy of filed document\n\t[Reserved.]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920188"
+    },
+    {
+      "order": 12,
+      "citation": "RS 12:1-128",
+      "title": "Certificate of existence and standing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920189"
+    },
+    {
+      "order": 13,
+      "citation": "RS 12:1-129",
+      "title": "Penalty for signing false document",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920190"
+    },
+    {
+      "order": 14,
+      "citation": "RS 12:1-130",
+      "title": "Powers\n\t[Reserved.]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920191"
+    },
+    {
+      "order": 15,
+      "citation": "RS 12:1-140",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920192"
+    },
+    {
+      "order": 16,
+      "citation": "RS 12:1-141",
+      "title": "Notices and other communications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920196"
+    },
+    {
+      "order": 17,
+      "citation": "RS 12:1-142",
+      "title": "Number of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920200"
+    },
+    {
+      "order": 18,
+      "citation": "RS 12:1-143",
+      "title": "Qualified director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920202"
+    },
+    {
+      "order": 19,
+      "citation": "RS 12:1-144",
+      "title": "Householding",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920203"
+    },
+    {
+      "order": 20,
+      "citation": "RS 12:1-201",
+      "title": "Incorporators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920204"
+    },
+    {
+      "order": 21,
+      "citation": "RS 12:1-202",
+      "title": "Articles of incorporation and signed consent by agent to appointment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920205"
+    },
+    {
+      "order": 22,
+      "citation": "RS 12:1-203",
+      "title": "Incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920215"
+    },
+    {
+      "order": 23,
+      "citation": "RS 12:1-204",
+      "title": "Liability for preincorporation transactions\n\t[Reserved.]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920217"
+    },
+    {
+      "order": 24,
+      "citation": "RS 12:1-205",
+      "title": "Organization of corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920218"
+    },
+    {
+      "order": 25,
+      "citation": "RS 12:1-206",
+      "title": "Bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920220"
+    },
+    {
+      "order": 26,
+      "citation": "RS 12:1-207",
+      "title": "Emergency bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920221"
+    },
+    {
+      "order": 27,
+      "citation": "RS 12:1-301",
+      "title": "Purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920222"
+    },
+    {
+      "order": 28,
+      "citation": "RS 12:1-302",
+      "title": "General powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920223"
+    },
+    {
+      "order": 29,
+      "citation": "RS 12:1-303",
+      "title": "Emergency powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920224"
+    },
+    {
+      "order": 30,
+      "citation": "RS 12:1-304",
+      "title": "Ultra vires",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920225"
+    },
+    {
+      "order": 31,
+      "citation": "RS 12:1-401",
+      "title": "Corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920226"
+    },
+    {
+      "order": 32,
+      "citation": "RS 12:1-402",
+      "title": "Reserved name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920227"
+    },
+    {
+      "order": 33,
+      "citation": "RS 12:1-403",
+      "title": "Registered name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920228"
+    },
+    {
+      "order": 34,
+      "citation": "RS 12:1-501",
+      "title": "Registered office and registered agent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920229"
+    },
+    {
+      "order": 35,
+      "citation": "RS 12:1-502",
+      "title": "Change of registered office or registered agent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920230"
+    },
+    {
+      "order": 36,
+      "citation": "RS 12:1-503",
+      "title": "Resignation of registered agent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920231"
+    },
+    {
+      "order": 37,
+      "citation": "RS 12:1-504",
+      "title": "Service on corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920232"
+    },
+    {
+      "order": 38,
+      "citation": "RS 12:1-601",
+      "title": "Authorized shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920233"
+    },
+    {
+      "order": 39,
+      "citation": "RS 12:1-602",
+      "title": "Terms of class or series determined by board of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920234"
+    },
+    {
+      "order": 40,
+      "citation": "RS 12:1-603",
+      "title": "Issued and outstanding shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920235"
+    },
+    {
+      "order": 41,
+      "citation": "RS 12:1-604",
+      "title": "Fractional shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920236"
+    },
+    {
+      "order": 42,
+      "citation": "RS 12:1-620",
+      "title": "Subscription for shares before incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920237"
+    },
+    {
+      "order": 43,
+      "citation": "RS 12:1-621",
+      "title": "Issuance of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920238"
+    },
+    {
+      "order": 44,
+      "citation": "RS 12:1-622",
+      "title": "Liability of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920239"
+    },
+    {
+      "order": 45,
+      "citation": "RS 12:1-623",
+      "title": "Share dividends",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920240"
+    },
+    {
+      "order": 46,
+      "citation": "RS 12:1-624",
+      "title": "Share options",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920241"
+    },
+    {
+      "order": 47,
+      "citation": "RS 12:1-625",
+      "title": "Form and content of certificates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920242"
+    },
+    {
+      "order": 48,
+      "citation": "RS 12:1-626",
+      "title": "Shares without certificates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920243"
+    },
+    {
+      "order": 49,
+      "citation": "RS 12:1-627",
+      "title": "Restriction on transfer of shares and other securities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920244"
+    },
+    {
+      "order": 50,
+      "citation": "RS 12:1-628",
+      "title": "Expense of issue",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920245"
+    },
+    {
+      "order": 51,
+      "citation": "RS 12:1-630",
+      "title": "Shareholders' preemptive rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920246"
+    },
+    {
+      "order": 52,
+      "citation": "RS 12:1-631",
+      "title": "Corporation's acquisition of its own shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920247"
+    },
+    {
+      "order": 53,
+      "citation": "RS 12:1-640",
+      "title": "Distributions to shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920248"
+    },
+    {
+      "order": 54,
+      "citation": "RS 12:1-701",
+      "title": "Annual meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920249"
+    },
+    {
+      "order": 55,
+      "citation": "RS 12:1-702",
+      "title": "Special meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920250"
+    },
+    {
+      "order": 56,
+      "citation": "RS 12:1-703",
+      "title": "Court-ordered meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920251"
+    },
+    {
+      "order": 57,
+      "citation": "RS 12:1-704",
+      "title": "Action without meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920252"
+    },
+    {
+      "order": 58,
+      "citation": "RS 12:1-705",
+      "title": "Notice of meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920253"
+    },
+    {
+      "order": 59,
+      "citation": "RS 12:1-706",
+      "title": "Waiver of notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920255"
+    },
+    {
+      "order": 60,
+      "citation": "RS 12:1-707",
+      "title": "Record date",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920256"
+    },
+    {
+      "order": 61,
+      "citation": "RS 12:1-708",
+      "title": "Conduct of the meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920257"
+    },
+    {
+      "order": 62,
+      "citation": "RS 12:1-709",
+      "title": "Remote participation in annual and special meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016258"
+    },
+    {
+      "order": 63,
+      "citation": "RS 12:1-720",
+      "title": "Shareholders' list for meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920258"
+    },
+    {
+      "order": 64,
+      "citation": "RS 12:1-721",
+      "title": "Voting entitlement of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920259"
+    },
+    {
+      "order": 65,
+      "citation": "RS 12:1-722",
+      "title": "Proxies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920260"
+    },
+    {
+      "order": 66,
+      "citation": "RS 12:1-723",
+      "title": "Shares held by intermediaries and nominees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920261"
+    },
+    {
+      "order": 67,
+      "citation": "RS 12:1-724",
+      "title": "Corporation's acceptance of votes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920262"
+    },
+    {
+      "order": 68,
+      "citation": "RS 12:1-725",
+      "title": "Quorum and voting requirements for voting groups",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920263"
+    },
+    {
+      "order": 69,
+      "citation": "RS 12:1-726",
+      "title": "Action by single and multiple voting groups",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920275"
+    },
+    {
+      "order": 70,
+      "citation": "RS 12:1-727",
+      "title": "Greater quorum or voting requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920276"
+    },
+    {
+      "order": 71,
+      "citation": "RS 12:1-728",
+      "title": "Quorum and voting for directors; cumulative voting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920277"
+    },
+    {
+      "order": 72,
+      "citation": "RS 12:1-729",
+      "title": "Inspectors of election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920278"
+    },
+    {
+      "order": 73,
+      "citation": "RS 12:1-730",
+      "title": "Voting trusts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920279"
+    },
+    {
+      "order": 74,
+      "citation": "RS 12:1-731",
+      "title": "Voting agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920280"
+    },
+    {
+      "order": 75,
+      "citation": "RS 12:1-732",
+      "title": "Unanimous governance agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920282"
+    },
+    {
+      "order": 76,
+      "citation": "RS 12:1-740",
+      "title": "Subpart definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920283"
+    },
+    {
+      "order": 77,
+      "citation": "RS 12:1-741",
+      "title": "Standing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920284"
+    },
+    {
+      "order": 78,
+      "citation": "RS 12:1-742",
+      "title": "Demand",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920286"
+    },
+    {
+      "order": 79,
+      "citation": "RS 12:1-742.1",
+      "title": "Petition in derivative proceeding",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920287"
+    },
+    {
+      "order": 80,
+      "citation": "RS 12:1-742.2",
+      "title": "Jurisdiction over a director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1055028"
+    },
+    {
+      "order": 81,
+      "citation": "RS 12:1-742.3",
+      "title": "Venue in derivative proceeding",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1055029"
+    },
+    {
+      "order": 82,
+      "citation": "RS 12:1-743",
+      "title": "Stay of proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920288"
+    },
+    {
+      "order": 83,
+      "citation": "RS 12:1-744",
+      "title": "Dismissal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920289"
+    },
+    {
+      "order": 84,
+      "citation": "RS 12:1-745",
+      "title": "Discontinuance or settlement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920290"
+    },
+    {
+      "order": 85,
+      "citation": "RS 12:1-746",
+      "title": "Payment of expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920291"
+    },
+    {
+      "order": 86,
+      "citation": "RS 12:1-747",
+      "title": "Applicability to foreign corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920292"
+    },
+    {
+      "order": 87,
+      "citation": "RS 12:1-748",
+      "title": "Shareholder action to appoint receiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920293"
+    },
+    {
+      "order": 88,
+      "citation": "RS 12:1-801",
+      "title": "Requirement for and functions of board of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920294"
+    },
+    {
+      "order": 89,
+      "citation": "RS 12:1-802",
+      "title": "Qualifications of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920295"
+    },
+    {
+      "order": 90,
+      "citation": "RS 12:1-803",
+      "title": "Number and election of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920296"
+    },
+    {
+      "order": 91,
+      "citation": "RS 12:1-804",
+      "title": "Election of directors by certain classes of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920297"
+    },
+    {
+      "order": 92,
+      "citation": "RS 12:1-805",
+      "title": "Terms of directors generally",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920298"
+    },
+    {
+      "order": 93,
+      "citation": "RS 12:1-806",
+      "title": "Staggered terms for directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920299"
+    },
+    {
+      "order": 94,
+      "citation": "RS 12:1-807",
+      "title": "Resignation of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920301"
+    },
+    {
+      "order": 95,
+      "citation": "RS 12:1-808",
+      "title": "Removal of directors by shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920302"
+    },
+    {
+      "order": 96,
+      "citation": "RS 12:1-809",
+      "title": "§1-809.  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920303"
+    },
+    {
+      "order": 97,
+      "citation": "RS 12:1-810",
+      "title": "Vacancy on board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920304"
+    },
+    {
+      "order": 98,
+      "citation": "RS 12:1-811",
+      "title": "Compensation of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920306"
+    },
+    {
+      "order": 99,
+      "citation": "RS 12:1-812",
+      "title": "Director proxies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920308"
+    },
+    {
+      "order": 100,
+      "citation": "RS 12:1-820",
+      "title": "Meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920309"
+    },
+    {
+      "order": 101,
+      "citation": "RS 12:1-821",
+      "title": "Action without meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920310"
+    },
+    {
+      "order": 102,
+      "citation": "RS 12:1-822",
+      "title": "Notice of meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920311"
+    },
+    {
+      "order": 103,
+      "citation": "RS 12:1-823",
+      "title": "Waiver of notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920312"
+    },
+    {
+      "order": 104,
+      "citation": "RS 12:1-824",
+      "title": "Quorum and voting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920313"
+    },
+    {
+      "order": 105,
+      "citation": "RS 12:1-825",
+      "title": "Committees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920314"
+    },
+    {
+      "order": 106,
+      "citation": "RS 12:1-826",
+      "title": "Submission of matters for shareholder vote",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920315"
+    },
+    {
+      "order": 107,
+      "citation": "RS 12:1-830",
+      "title": "Standards of conduct for directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920316"
+    },
+    {
+      "order": 108,
+      "citation": "RS 12:1-831",
+      "title": "Standards of liability for directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920324"
+    },
+    {
+      "order": 109,
+      "citation": "RS 12:1-832",
+      "title": "Protection against monetary liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920326"
+    },
+    {
+      "order": 110,
+      "citation": "RS 12:1-833",
+      "title": "Directors' liability for unlawful distributions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920327"
+    },
+    {
+      "order": 111,
+      "citation": "RS 12:1-840",
+      "title": "Officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920328"
+    },
+    {
+      "order": 112,
+      "citation": "RS 12:1-841",
+      "title": "Functions of officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920329"
+    },
+    {
+      "order": 113,
+      "citation": "RS 12:1-842",
+      "title": "Standards of conduct for officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920330"
+    },
+    {
+      "order": 114,
+      "citation": "RS 12:1-843",
+      "title": "Resignation and removal of officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920331"
+    },
+    {
+      "order": 115,
+      "citation": "RS 12:1-844",
+      "title": "Contract rights of officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920332"
+    },
+    {
+      "order": 116,
+      "citation": "RS 12:1-850",
+      "title": "Subpart definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920333"
+    },
+    {
+      "order": 117,
+      "citation": "RS 12:1-851",
+      "title": "Permissible indemnification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920334"
+    },
+    {
+      "order": 118,
+      "citation": "RS 12:1-852",
+      "title": "Mandatory indemnification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920335"
+    },
+    {
+      "order": 119,
+      "citation": "RS 12:1-853",
+      "title": "Advance for expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920336"
+    },
+    {
+      "order": 120,
+      "citation": "RS 12:1-854",
+      "title": "Court-ordered indemnification and advance for expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920337"
+    },
+    {
+      "order": 121,
+      "citation": "RS 12:1-855",
+      "title": "Determination and authorization of indemnification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920338"
+    },
+    {
+      "order": 122,
+      "citation": "RS 12:1-856",
+      "title": "Indemnification of officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920340"
+    },
+    {
+      "order": 123,
+      "citation": "RS 12:1-857",
+      "title": "Insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920341"
+    },
+    {
+      "order": 124,
+      "citation": "RS 12:1-858",
+      "title": "Variation by corporate action; application of Subpart",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920342"
+    },
+    {
+      "order": 125,
+      "citation": "RS 12:1-859",
+      "title": "Exclusivity of Subpart",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920343"
+    },
+    {
+      "order": 126,
+      "citation": "RS 12:1-860",
+      "title": "Subpart definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920345"
+    },
+    {
+      "order": 127,
+      "citation": "RS 12:1-861",
+      "title": "Judicial action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920346"
+    },
+    {
+      "order": 128,
+      "citation": "RS 12:1-862",
+      "title": "Directors' action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920347"
+    },
+    {
+      "order": 129,
+      "citation": "RS 12:1-863",
+      "title": "Shareholders' action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920348"
+    },
+    {
+      "order": 130,
+      "citation": "RS 12:1-870",
+      "title": "Business opportunities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920349"
+    },
+    {
+      "order": 131,
+      "citation": "RS 12:1-901",
+      "title": "Excluded transactions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920350"
+    },
+    {
+      "order": 132,
+      "citation": "RS 12:1-902",
+      "title": "Required approvals\n\t[Reserved.]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920351"
+    },
+    {
+      "order": 133,
+      "citation": "RS 12:1-920",
+      "title": "Domestication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920352"
+    },
+    {
+      "order": 134,
+      "citation": "RS 12:1-921",
+      "title": "Action on a plan of domestication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920353"
+    },
+    {
+      "order": 135,
+      "citation": "RS 12:1-922",
+      "title": "Articles of domestication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920354"
+    },
+    {
+      "order": 136,
+      "citation": "RS 12:1-923",
+      "title": "Surrender of charter upon domestication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920355"
+    },
+    {
+      "order": 137,
+      "citation": "RS 12:1-924",
+      "title": "Effect of domestication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920357"
+    },
+    {
+      "order": 138,
+      "citation": "RS 12:1-925",
+      "title": "Abandonment of a domestication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920358"
+    },
+    {
+      "order": 139,
+      "citation": "RS 12:1-930",
+      "title": "Nonprofit conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920359"
+    },
+    {
+      "order": 140,
+      "citation": "RS 12:1-931",
+      "title": "Action on a plan of nonprofit conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920362"
+    },
+    {
+      "order": 141,
+      "citation": "RS 12:1-932",
+      "title": "Articles of nonprofit conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920363"
+    },
+    {
+      "order": 142,
+      "citation": "RS 12:1-933",
+      "title": "Surrender of charter upon foreign nonprofit conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920364"
+    },
+    {
+      "order": 143,
+      "citation": "RS 12:1-934",
+      "title": "Effect of nonprofit conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920365"
+    },
+    {
+      "order": 144,
+      "citation": "RS 12:1-935",
+      "title": "Abandonment of a nonprofit conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920366"
+    },
+    {
+      "order": 145,
+      "citation": "RS 12:1-940",
+      "title": "Foreign nonprofit domestication and conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920367"
+    },
+    {
+      "order": 146,
+      "citation": "RS 12:1-941",
+      "title": "Articles of nonprofit domestication and conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920369"
+    },
+    {
+      "order": 147,
+      "citation": "RS 12:1-942",
+      "title": "Effect of foreign nonprofit domestication and conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920370"
+    },
+    {
+      "order": 148,
+      "citation": "RS 12:1-943",
+      "title": "Abandonment of a foreign nonprofit domestication and conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920371"
+    },
+    {
+      "order": 149,
+      "citation": "RS 12:1-950",
+      "title": "Entity conversion authorized; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920372"
+    },
+    {
+      "order": 150,
+      "citation": "RS 12:1-951",
+      "title": "Plan of entity conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920373"
+    },
+    {
+      "order": 151,
+      "citation": "RS 12:1-952",
+      "title": "Action on a plan of entity conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920374"
+    },
+    {
+      "order": 152,
+      "citation": "RS 12:1-953",
+      "title": "Articles of entity conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920375"
+    },
+    {
+      "order": 153,
+      "citation": "RS 12:1-954",
+      "title": "Surrender of charter upon conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920376"
+    },
+    {
+      "order": 154,
+      "citation": "RS 12:1-955",
+      "title": "Effect of entity conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920377"
+    },
+    {
+      "order": 155,
+      "citation": "RS 12:1-956",
+      "title": "Abandonment of an entity conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920378"
+    },
+    {
+      "order": 156,
+      "citation": "RS 12:1-1001",
+      "title": "Authority to amend",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920379"
+    },
+    {
+      "order": 157,
+      "citation": "RS 12:1-1002",
+      "title": "Amendment before issuance of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920380"
+    },
+    {
+      "order": 158,
+      "citation": "RS 12:1-1003",
+      "title": "Amendment by board of directors and shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920381"
+    },
+    {
+      "order": 159,
+      "citation": "RS 12:1-1004",
+      "title": "Voting on amendments by voting groups",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920382"
+    },
+    {
+      "order": 160,
+      "citation": "RS 12:1-1005",
+      "title": "Amendment by board of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920383"
+    },
+    {
+      "order": 161,
+      "citation": "RS 12:1-1006",
+      "title": "Articles of amendment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920384"
+    },
+    {
+      "order": 162,
+      "citation": "RS 12:1-1007",
+      "title": "Restated articles of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920385"
+    },
+    {
+      "order": 163,
+      "citation": "RS 12:1-1008",
+      "title": "Amendment pursuant to reorganization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920386"
+    },
+    {
+      "order": 164,
+      "citation": "RS 12:1-1009",
+      "title": "Effect of amendment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920387"
+    },
+    {
+      "order": 165,
+      "citation": "RS 12:1-1020",
+      "title": "Amendment by board of directors or shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920388"
+    },
+    {
+      "order": 166,
+      "citation": "RS 12:1-1021",
+      "title": "Bylaw increasing quorum or voting requirement for directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920389"
+    },
+    {
+      "order": 167,
+      "citation": "RS 12:1-1022",
+      "title": "Public corporation bylaw provisions relating to the election of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920390"
+    },
+    {
+      "order": 168,
+      "citation": "RS 12:1-1101",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920391"
+    },
+    {
+      "order": 169,
+      "citation": "RS 12:1-1102",
+      "title": "Merger",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920392"
+    },
+    {
+      "order": 170,
+      "citation": "RS 12:1-1103",
+      "title": "Share exchange",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920394"
+    },
+    {
+      "order": 171,
+      "citation": "RS 12:1-1104",
+      "title": "Action on a plan of merger or share exchange",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920396"
+    },
+    {
+      "order": 172,
+      "citation": "RS 12:1-1105",
+      "title": "Merger between parent and subsidiary or between subsidiaries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920402"
+    },
+    {
+      "order": 173,
+      "citation": "RS 12:1-1106",
+      "title": "Articles of merger or share exchange",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920403"
+    },
+    {
+      "order": 174,
+      "citation": "RS 12:1-1107",
+      "title": "Effect of merger or share exchange",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920404"
+    },
+    {
+      "order": 175,
+      "citation": "RS 12:1-1108",
+      "title": "Abandonment of a merger or share exchange",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920405"
+    },
+    {
+      "order": 176,
+      "citation": "RS 12:1-1201",
+      "title": "Disposition of assets not requiring shareholder approval",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920406"
+    },
+    {
+      "order": 177,
+      "citation": "RS 12:1-1202",
+      "title": "Shareholder approval of certain dispositions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920407"
+    },
+    {
+      "order": 178,
+      "citation": "RS 12:1-1301",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920408"
+    },
+    {
+      "order": 179,
+      "citation": "RS 12:1-1302",
+      "title": "Right to appraisal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920411"
+    },
+    {
+      "order": 180,
+      "citation": "RS 12:1-1303",
+      "title": "Assertion of rights by nominees and beneficial shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920414"
+    },
+    {
+      "order": 181,
+      "citation": "RS 12:1-1320",
+      "title": "Notice of appraisal rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920415"
+    },
+    {
+      "order": 182,
+      "citation": "RS 12:1-1321",
+      "title": "Notice of intent to demand appraisal and consequences of voting or consenting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920416"
+    },
+    {
+      "order": 183,
+      "citation": "RS 12:1-1322",
+      "title": "Appraisal notice and form",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920418"
+    },
+    {
+      "order": 184,
+      "citation": "RS 12:1-1323",
+      "title": "Perfection of rights and right to withdraw",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920419"
+    },
+    {
+      "order": 185,
+      "citation": "RS 12:1-1324",
+      "title": "Payment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920420"
+    },
+    {
+      "order": 186,
+      "citation": "RS 12:1-1325",
+      "title": "After-acquired shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920421"
+    },
+    {
+      "order": 187,
+      "citation": "RS 12:1-1326",
+      "title": "Procedure if shareholder dissatisfied with payment or offer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920422"
+    },
+    {
+      "order": 188,
+      "citation": "RS 12:1-1330",
+      "title": "Court action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920423"
+    },
+    {
+      "order": 189,
+      "citation": "RS 12:1-1331",
+      "title": "Court costs and expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920425"
+    },
+    {
+      "order": 190,
+      "citation": "RS 12:1-1340",
+      "title": "Other remedies limited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920426"
+    },
+    {
+      "order": 191,
+      "citation": "RS 12:1-1401",
+      "title": "[Reserved.]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920427"
+    },
+    {
+      "order": 192,
+      "citation": "RS 12:1-1402",
+      "title": "Dissolution by board of directors and shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920429"
+    },
+    {
+      "order": 193,
+      "citation": "RS 12:1-1403",
+      "title": "Articles of dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920430"
+    },
+    {
+      "order": 194,
+      "citation": "RS 12:1-1404",
+      "title": "Revocation of dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920432"
+    },
+    {
+      "order": 195,
+      "citation": "RS 12:1-1405",
+      "title": "Effect of dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920433"
+    },
+    {
+      "order": 196,
+      "citation": "RS 12:1-1406",
+      "title": "Known claims against dissolved corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920435"
+    },
+    {
+      "order": 197,
+      "citation": "RS 12:1-1407",
+      "title": "Other claims against dissolved corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920437"
+    },
+    {
+      "order": 198,
+      "citation": "RS 12:1-1408",
+      "title": "Court proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920438"
+    },
+    {
+      "order": 199,
+      "citation": "RS 12:1-1409",
+      "title": "Responsibility of the board of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920439"
+    },
+    {
+      "order": 200,
+      "citation": "RS 12:1-1410",
+      "title": "Certain sections in Subpart A applicable to all dissolved corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920440"
+    },
+    {
+      "order": 201,
+      "citation": "RS 12:1-1411",
+      "title": "§§1-1411 –  1-1429  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920504"
+    },
+    {
+      "order": 202,
+      "citation": "RS 12:1-1412",
+      "title": "§12:1-1412",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921516"
+    },
+    {
+      "order": 203,
+      "citation": "RS 12:1-1413",
+      "title": "§12:1-1413  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921517"
+    },
+    {
+      "order": 204,
+      "citation": "RS 12:1-1414",
+      "title": "§12:1-1414  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921518"
+    },
+    {
+      "order": 205,
+      "citation": "RS 12:1-1415",
+      "title": "§12:1-1415  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921519"
+    },
+    {
+      "order": 206,
+      "citation": "RS 12:1-1416",
+      "title": "§12:1-1416  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921521"
+    },
+    {
+      "order": 207,
+      "citation": "RS 12:1-1417",
+      "title": "§12:1-1417  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921522"
+    },
+    {
+      "order": 208,
+      "citation": "RS 12:1-1418",
+      "title": "§12:1-1418  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921523"
+    },
+    {
+      "order": 209,
+      "citation": "RS 12:1-1419",
+      "title": "§12:1-1419  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921524"
+    },
+    {
+      "order": 210,
+      "citation": "RS 12:1-1420",
+      "title": "§12:1-1420  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921525"
+    },
+    {
+      "order": 211,
+      "citation": "RS 12:1-1421",
+      "title": "§12:1-1421  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921526"
+    },
+    {
+      "order": 212,
+      "citation": "RS 12:1-1422",
+      "title": "§12:1-1422  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921527"
+    },
+    {
+      "order": 213,
+      "citation": "RS 12:1-1423",
+      "title": "§12:1-1423  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921528"
+    },
+    {
+      "order": 214,
+      "citation": "RS 12:1-1424",
+      "title": "§12:1-1424  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921529"
+    },
+    {
+      "order": 215,
+      "citation": "RS 12:1-1425",
+      "title": "§12:1-1425  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921530"
+    },
+    {
+      "order": 216,
+      "citation": "RS 12:1-1426",
+      "title": "§12:1-1426  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921531"
+    },
+    {
+      "order": 217,
+      "citation": "RS 12:1-1427",
+      "title": "§12:1-1427  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921532"
+    },
+    {
+      "order": 218,
+      "citation": "RS 12:1-1428",
+      "title": "§12:1-1428  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921533"
+    },
+    {
+      "order": 219,
+      "citation": "RS 12:1-1429",
+      "title": "§12:1-1429  [Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=921534"
+    },
+    {
+      "order": 220,
+      "citation": "RS 12:1-1430",
+      "title": "Grounds for judicial dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920441"
+    },
+    {
+      "order": 221,
+      "citation": "RS 12:1-1431",
+      "title": "Procedure for judicial dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920442"
+    },
+    {
+      "order": 222,
+      "citation": "RS 12:1-1432",
+      "title": "Appointment of receiver or liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920443"
+    },
+    {
+      "order": 223,
+      "citation": "RS 12:1-1433",
+      "title": "Judgment of dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920444"
+    },
+    {
+      "order": 224,
+      "citation": "RS 12:1-1434",
+      "title": "Election to purchase in lieu of dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920445"
+    },
+    {
+      "order": 225,
+      "citation": "RS 12:1-1435",
+      "title": "Oppressed shareholder's right to withdraw",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920446"
+    },
+    {
+      "order": 226,
+      "citation": "RS 12:1-1436",
+      "title": "Judicial determination of fair value and payment terms for withdrawing shareholder's shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920447"
+    },
+    {
+      "order": 227,
+      "citation": "RS 12:1-1437",
+      "title": "Stay of duplicative proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920448"
+    },
+    {
+      "order": 228,
+      "citation": "RS 12:1-1438",
+      "title": "Conversion of oppression proceeding into court-supervised dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920449"
+    },
+    {
+      "order": 229,
+      "citation": "RS 12:1-1440",
+      "title": "Articles of termination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920450"
+    },
+    {
+      "order": 230,
+      "citation": "RS 12:1-1441",
+      "title": "Simplified termination procedure for certain corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920451"
+    },
+    {
+      "order": 231,
+      "citation": "RS 12:1-1442",
+      "title": "Administrative termination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920452"
+    },
+    {
+      "order": 232,
+      "citation": "RS 12:1-1443",
+      "title": "Effective date and effects of termination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920453"
+    },
+    {
+      "order": 233,
+      "citation": "RS 12:1-1444",
+      "title": "Reinstatement of terminated corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920454"
+    },
+    {
+      "order": 234,
+      "citation": "RS 12:1-1445",
+      "title": "Appointment of liquidator for terminated corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920455"
+    },
+    {
+      "order": 235,
+      "citation": "RS 12:1-1446",
+      "title": "PART 15.  FOREIGN CORPORATIONS\n§§1-1446   -  1-1600  [Reserved.]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920457"
+    },
+    {
+      "order": 236,
+      "citation": "RS 12:1-1601",
+      "title": "Corporate records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920456"
+    },
+    {
+      "order": 237,
+      "citation": "RS 12:1-1602",
+      "title": "Inspection of records by shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920459"
+    },
+    {
+      "order": 238,
+      "citation": "RS 12:1-1603",
+      "title": "Scope of inspection right",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920461"
+    },
+    {
+      "order": 239,
+      "citation": "RS 12:1-1604",
+      "title": "Court-ordered inspection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920463"
+    },
+    {
+      "order": 240,
+      "citation": "RS 12:1-1605",
+      "title": "Inspection of records by directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920465"
+    },
+    {
+      "order": 241,
+      "citation": "RS 12:1-1606",
+      "title": "Exception to notice requirement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920466"
+    },
+    {
+      "order": 242,
+      "citation": "RS 12:1-1620",
+      "title": "Financial statements for shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920468"
+    },
+    {
+      "order": 243,
+      "citation": "RS 12:1-1621",
+      "title": "Annual report for secretary of state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920469"
+    },
+    {
+      "order": 244,
+      "citation": "RS 12:1-1622",
+      "title": "Reporting obligation of corporation that contracts with the state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920470"
+    },
+    {
+      "order": 245,
+      "citation": "RS 12:1-1701",
+      "title": "Application to existing domestic corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920471"
+    },
+    {
+      "order": 246,
+      "citation": "RS 12:1-1702",
+      "title": "Limited applicability to foreign corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920472"
+    },
+    {
+      "order": 247,
+      "citation": "RS 12:1-1703",
+      "title": "Saving provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920474"
+    },
+    {
+      "order": 248,
+      "citation": "RS 12:1-1704",
+      "title": "[Reserved.]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920476"
+    },
+    {
+      "order": 249,
+      "citation": "RS 12:1-1705",
+      "title": "Transition rule for reinstatement of a corporation with a revoked charter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016260"
+    },
+    {
+      "order": 250,
+      "citation": "RS 12:2",
+      "title": "Filing methods",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76384"
+    },
+    {
+      "order": 251,
+      "citation": "RS 12:2.1",
+      "title": "Electronic mail addresses and short message service numbers; confidentiality",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814555"
+    },
+    {
+      "order": 252,
+      "citation": "RS 12:2.2",
+      "title": "Electronic notification of status changes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814556"
+    },
+    {
+      "order": 253,
+      "citation": "RS 12:21",
+      "title": "Incorporators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76397"
+    },
+    {
+      "order": 254,
+      "citation": "RS 12:22",
+      "title": "Purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76408"
+    },
+    {
+      "order": 255,
+      "citation": "RS 12:23",
+      "title": "Corporate name; reservation of name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76419"
+    },
+    {
+      "order": 256,
+      "citation": "RS 12:24",
+      "title": "Articles of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76432"
+    },
+    {
+      "order": 257,
+      "citation": "RS 12:25",
+      "title": "Filing and recording articles and initial report; issuance and effect of certificate of incorporation; commencement of corporate existence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76444"
+    },
+    {
+      "order": 258,
+      "citation": "RS 12:25.1",
+      "title": "Acquisition of immovable property prior to incorporation; retroactivity of corporate existence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76445"
+    },
+    {
+      "order": 259,
+      "citation": "RS 12:26",
+      "title": "Condition precedent to beginning business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76457"
+    },
+    {
+      "order": 260,
+      "citation": "RS 12:27",
+      "title": "Expenses of organization, reorganization and financing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76469"
+    },
+    {
+      "order": 261,
+      "citation": "RS 12:28",
+      "title": "By-laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76470"
+    },
+    {
+      "order": 262,
+      "citation": "RS 12:29",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76471"
+    },
+    {
+      "order": 263,
+      "citation": "RS 12:31",
+      "title": "Method of amending articles generally",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76482"
+    },
+    {
+      "order": 264,
+      "citation": "RS 12:32",
+      "title": "Articles of amendment, contents and filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76495"
+    },
+    {
+      "order": 265,
+      "citation": "RS 12:33",
+      "title": "Special amendment provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76498"
+    },
+    {
+      "order": 266,
+      "citation": "RS 12:34",
+      "title": "Restatement of articles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76499"
+    },
+    {
+      "order": 267,
+      "citation": "RS 12:35",
+      "title": "Certificate of correction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76500"
+    },
+    {
+      "order": 268,
+      "citation": "RS 12:41",
+      "title": "General powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76510"
+    },
+    {
+      "order": 269,
+      "citation": "RS 12:42",
+      "title": "Defense of ultra vires",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76522"
+    },
+    {
+      "order": 270,
+      "citation": "RS 12:51",
+      "title": "Classes of shares; fractional shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76592"
+    },
+    {
+      "order": 271,
+      "citation": "RS 12:52",
+      "title": "Issuance of shares; consideration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76593"
+    },
+    {
+      "order": 272,
+      "citation": "RS 12:53",
+      "title": "Reservation of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76594"
+    },
+    {
+      "order": 273,
+      "citation": "RS 12:54",
+      "title": "Reclassification of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76595"
+    },
+    {
+      "order": 274,
+      "citation": "RS 12:55",
+      "title": "Redemption, purchase and cancellation of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76596"
+    },
+    {
+      "order": 275,
+      "citation": "RS 12:56",
+      "title": "Convertible securities and stock-purchase rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76597"
+    },
+    {
+      "order": 276,
+      "citation": "RS 12:57",
+      "title": "Certificates of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76598"
+    },
+    {
+      "order": 277,
+      "citation": "RS 12:58",
+      "title": "Transfer of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76599"
+    },
+    {
+      "order": 278,
+      "citation": "RS 12:59",
+      "title": "Restriction on transfer of shares and other securities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320761"
+    },
+    {
+      "order": 279,
+      "citation": "RS 12:61",
+      "title": "Allocation to capital and surplus, and increases and reductions thereof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76603"
+    },
+    {
+      "order": 280,
+      "citation": "RS 12:62",
+      "title": "Surplus",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76604"
+    },
+    {
+      "order": 281,
+      "citation": "RS 12:63",
+      "title": "Dividends",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76606"
+    },
+    {
+      "order": 282,
+      "citation": "RS 12:71",
+      "title": "Subscriptions for shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76612"
+    },
+    {
+      "order": 283,
+      "citation": "RS 12:72",
+      "title": "Shareholders' preemptive rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76613"
+    },
+    {
+      "order": 284,
+      "citation": "RS 12:73",
+      "title": "Shareholders' meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76614"
+    },
+    {
+      "order": 285,
+      "citation": "RS 12:74",
+      "title": "Quorum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76615"
+    },
+    {
+      "order": 286,
+      "citation": "RS 12:75",
+      "title": "Voting of shareholders and bondholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76616"
+    },
+    {
+      "order": 287,
+      "citation": "RS 12:76",
+      "title": "Consent of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76617"
+    },
+    {
+      "order": 288,
+      "citation": "RS 12:77",
+      "title": "Fixing record date",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76618"
+    },
+    {
+      "order": 289,
+      "citation": "RS 12:78",
+      "title": "Voting trusts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76619"
+    },
+    {
+      "order": 290,
+      "citation": "RS 12:79",
+      "title": "Registered holder of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76620"
+    },
+    {
+      "order": 291,
+      "citation": "RS 12:81",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76630"
+    },
+    {
+      "order": 292,
+      "citation": "RS 12:82",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76638"
+    },
+    {
+      "order": 293,
+      "citation": "RS 12:83",
+      "title": "Indemnification of officers, directors, employees, and agents; insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76639"
+    },
+    {
+      "order": 294,
+      "citation": "RS 12:84",
+      "title": "Interested directors; quorum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76640"
+    },
+    {
+      "order": 295,
+      "citation": "RS 12:91",
+      "title": "Relation of directors and officers to corporation and shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76650"
+    },
+    {
+      "order": 296,
+      "citation": "RS 12:92",
+      "title": "Liability of directors and officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76657"
+    },
+    {
+      "order": 297,
+      "citation": "RS 12:93",
+      "title": "Liability of subscribers and shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76658"
+    },
+    {
+      "order": 298,
+      "citation": "RS 12:94",
+      "title": "Directors or shareholders not participating in unlawful act",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76659"
+    },
+    {
+      "order": 299,
+      "citation": "RS 12:95",
+      "title": "Actions for fraud",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76660"
+    },
+    {
+      "order": 300,
+      "citation": "RS 12:96",
+      "title": "Actions against directors and officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76670"
+    },
+    {
+      "order": 301,
+      "citation": "RS 12:101",
+      "title": "Initial report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76099"
+    },
+    {
+      "order": 302,
+      "citation": "RS 12:102",
+      "title": "Annual report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76109"
+    },
+    {
+      "order": 303,
+      "citation": "RS 12:103",
+      "title": "Corporate records; right of shareholder to inspect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76116"
+    },
+    {
+      "order": 304,
+      "citation": "RS 12:104",
+      "title": "Registered office and registered agent for service of process",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76117"
+    },
+    {
+      "order": 305,
+      "citation": "RS 12:111",
+      "title": "Authorization for mergers, consolidations, and share exchanges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76166"
+    },
+    {
+      "order": 306,
+      "citation": "RS 12:112",
+      "title": "Merger or consolidation procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76177"
+    },
+    {
+      "order": 307,
+      "citation": "RS 12:113",
+      "title": "Consolidation; articles of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76183"
+    },
+    {
+      "order": 308,
+      "citation": "RS 12:114",
+      "title": "When merger or consolidation effective",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76194"
+    },
+    {
+      "order": 309,
+      "citation": "RS 12:115",
+      "title": "Effect of merger or consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76200"
+    },
+    {
+      "order": 310,
+      "citation": "RS 12:116",
+      "title": "Share exchange",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76210"
+    },
+    {
+      "order": 311,
+      "citation": "RS 12:117",
+      "title": "Merger or consolidation of corporation and limited liability company, partnership, or limited partnership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76217"
+    },
+    {
+      "order": 312,
+      "citation": "RS 12:121",
+      "title": "Voluntary transfer of corporate assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76244"
+    },
+    {
+      "order": 313,
+      "citation": "RS 12:130",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76245"
+    },
+    {
+      "order": 314,
+      "citation": "RS 12:130.1",
+      "title": "Standard of care; review",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76246"
+    },
+    {
+      "order": 315,
+      "citation": "RS 12:130.2",
+      "title": "Intentional misconduct; injunctive relief; civil penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76247"
+    },
+    {
+      "order": 316,
+      "citation": "RS 12:131",
+      "title": "Rights of a shareholder dissenting from certain corporate actions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76259"
+    },
+    {
+      "order": 317,
+      "citation": "RS 12:132",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76271"
+    },
+    {
+      "order": 318,
+      "citation": "RS 12:133",
+      "title": "Vote required in business combinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76282"
+    },
+    {
+      "order": 319,
+      "citation": "RS 12:134",
+      "title": "When voting requirements not applicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76294"
+    },
+    {
+      "order": 320,
+      "citation": "RS 12:135",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76305"
+    },
+    {
+      "order": 321,
+      "citation": "RS 12:136",
+      "title": "Law applicable to control share voting rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76317"
+    },
+    {
+      "order": 322,
+      "citation": "RS 12:137",
+      "title": "Notice of control share acquisition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76328"
+    },
+    {
+      "order": 323,
+      "citation": "RS 12:138",
+      "title": "Shareholder meeting to determine control share voting rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76329"
+    },
+    {
+      "order": 324,
+      "citation": "RS 12:139",
+      "title": "Notice of shareholder meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76330"
+    },
+    {
+      "order": 325,
+      "citation": "RS 12:140",
+      "title": "Resolution granting control share voting rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76331"
+    },
+    {
+      "order": 326,
+      "citation": "RS 12:140.1",
+      "title": "Redemption of control shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76332"
+    },
+    {
+      "order": 327,
+      "citation": "RS 12:140.2",
+      "title": "Rights of dissenting shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76340"
+    },
+    {
+      "order": 328,
+      "citation": "RS 12:140.3",
+      "title": "Corporate representation; state entities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76341"
+    },
+    {
+      "order": 329,
+      "citation": "RS 12:140.11",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76333"
+    },
+    {
+      "order": 330,
+      "citation": "RS 12:140.12",
+      "title": "Applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76334"
+    },
+    {
+      "order": 331,
+      "citation": "RS 12:140.13",
+      "title": "Notice of control share acquisition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76335"
+    },
+    {
+      "order": 332,
+      "citation": "RS 12:140.14",
+      "title": "Shareholder meeting to determine control share voting rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76336"
+    },
+    {
+      "order": 333,
+      "citation": "RS 12:140.15",
+      "title": "Notice of shareholder meeting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76337"
+    },
+    {
+      "order": 334,
+      "citation": "RS 12:140.16",
+      "title": "Resolution granting control share voting rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76338"
+    },
+    {
+      "order": 335,
+      "citation": "RS 12:140.17",
+      "title": "Conflict of laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76339"
+    },
+    {
+      "order": 336,
+      "citation": "RS 12:141",
+      "title": "Dissolution voluntary or involuntary, out of court or under judicial supervision; effect of proceeding for dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76352"
+    },
+    {
+      "order": 337,
+      "citation": "RS 12:142",
+      "title": "Voluntary proceedings for dissolution; authorization; appointment of liquidators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76358"
+    },
+    {
+      "order": 338,
+      "citation": "RS 12:142.1",
+      "title": "Dissolution by affidavit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76359"
+    },
+    {
+      "order": 339,
+      "citation": "RS 12:143",
+      "title": "Involuntary proceedings for dissolution; grounds; institution; appointment of liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76360"
+    },
+    {
+      "order": 340,
+      "citation": "RS 12:144",
+      "title": "Qualifications of liquidator; filling vacancies in the office of liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76361"
+    },
+    {
+      "order": 341,
+      "citation": "RS 12:145",
+      "title": "Dissolution out of court; procedure; powers of liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76362"
+    },
+    {
+      "order": 342,
+      "citation": "RS 12:146",
+      "title": "Dissolution proceedings under judicial supervision; procedure; powers of liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76363"
+    },
+    {
+      "order": 343,
+      "citation": "RS 12:147",
+      "title": "Claims against corporation in liquidation; peremption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76364"
+    },
+    {
+      "order": 344,
+      "citation": "RS 12:148",
+      "title": "Certificate of dissolution; assets omitted from liquidation; post-dissolution proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76365"
+    },
+    {
+      "order": 345,
+      "citation": "RS 12:149",
+      "title": "Termination of proceedings for dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76366"
+    },
+    {
+      "order": 346,
+      "citation": "RS 12:151",
+      "title": "Appointment of receiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76369"
+    },
+    {
+      "order": 347,
+      "citation": "RS 12:152",
+      "title": "Procedure; powers of receiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76370"
+    },
+    {
+      "order": 348,
+      "citation": "RS 12:161",
+      "title": "Compromise arrangements; reorganizations; approval and effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76371"
+    },
+    {
+      "order": 349,
+      "citation": "RS 12:162",
+      "title": "Reorganization under Act of Congress",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76372"
+    },
+    {
+      "order": 350,
+      "citation": "RS 12:163",
+      "title": "Failure to file annual reports; revocation and reinstatement of articles and limitation on authority to do business with the state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76373"
+    },
+    {
+      "order": 351,
+      "citation": "RS 12:164",
+      "title": "Change of jurisdiction of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76374"
+    },
+    {
+      "order": 352,
+      "citation": "RS 12:165",
+      "title": "Nonprofit corporation; reincorporation as a business corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76375"
+    },
+    {
+      "order": 353,
+      "citation": "RS 12:171",
+      "title": "Fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76376"
+    },
+    {
+      "order": 354,
+      "citation": "RS 12:172",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76377"
+    },
+    {
+      "order": 355,
+      "citation": "RS 12:173",
+      "title": "Application to existing corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76378"
+    },
+    {
+      "order": 356,
+      "citation": "RS 12:174",
+      "title": "Monopolies and restraints of trade",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76379"
+    },
+    {
+      "order": 357,
+      "citation": "RS 12:175",
+      "title": "Chapter inapplicable to foreign corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76380"
+    },
+    {
+      "order": 358,
+      "citation": "RS 12:176",
+      "title": "Effect of invalidity of part of chapter; severability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76381"
+    },
+    {
+      "order": 359,
+      "citation": "RS 12:177",
+      "title": "Reservation of power",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76382"
+    },
+    {
+      "order": 360,
+      "citation": "RS 12:178",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76383"
+    },
+    {
+      "order": 361,
+      "citation": "RS 12:201",
+      "title": "NONPROFIT CORPORATION LAW",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76385"
+    },
+    {
+      "order": 362,
+      "citation": "RS 12:202",
+      "title": "Incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76386"
+    },
+    {
+      "order": 363,
+      "citation": "RS 12:202.1",
+      "title": "Limitation on formation; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76387"
+    },
+    {
+      "order": 364,
+      "citation": "RS 12:203",
+      "title": "Articles of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76388"
+    },
+    {
+      "order": 365,
+      "citation": "RS 12:204",
+      "title": "Corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76389"
+    },
+    {
+      "order": 366,
+      "citation": "RS 12:204.1",
+      "title": "Corporate name restrictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76390"
+    },
+    {
+      "order": 367,
+      "citation": "RS 12:204.2",
+      "title": "Naming of certain nonprofit corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320762"
+    },
+    {
+      "order": 368,
+      "citation": "RS 12:205",
+      "title": "Filing and recording articles; issuance and effect of certificate of incorporation; commencement of corporate existence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76391"
+    },
+    {
+      "order": 369,
+      "citation": "RS 12:205.1",
+      "title": "Annual report to secretary of state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76392"
+    },
+    {
+      "order": 370,
+      "citation": "RS 12:206",
+      "title": "Effect of filing or recording papers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76393"
+    },
+    {
+      "order": 371,
+      "citation": "RS 12:207",
+      "title": "General powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76394"
+    },
+    {
+      "order": 372,
+      "citation": "RS 12:208",
+      "title": "Defense of ultra vires",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76395"
+    },
+    {
+      "order": 373,
+      "citation": "RS 12:209",
+      "title": "Corporations not required to be non-stock corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76396"
+    },
+    {
+      "order": 374,
+      "citation": "RS 12:210",
+      "title": "Members, shareholders and certificates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76398"
+    },
+    {
+      "order": 375,
+      "citation": "RS 12:211",
+      "title": "Subscriptions for shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76399"
+    },
+    {
+      "order": 376,
+      "citation": "RS 12:212",
+      "title": "Shareholders' preemptive rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76400"
+    },
+    {
+      "order": 377,
+      "citation": "RS 12:213",
+      "title": "Issuance of shares; consideration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76401"
+    },
+    {
+      "order": 378,
+      "citation": "RS 12:214",
+      "title": "Reservation of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76402"
+    },
+    {
+      "order": 379,
+      "citation": "RS 12:215",
+      "title": "Convertible securities and stock-purchase rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76403"
+    },
+    {
+      "order": 380,
+      "citation": "RS 12:216",
+      "title": "Redemption, purchase and cancellation of shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76404"
+    },
+    {
+      "order": 381,
+      "citation": "RS 12:217",
+      "title": "Classes and qualifications of membership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76405"
+    },
+    {
+      "order": 382,
+      "citation": "RS 12:218",
+      "title": "Membership dues; assessments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76406"
+    },
+    {
+      "order": 383,
+      "citation": "RS 12:219",
+      "title": "Liability of subscribers and members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76407"
+    },
+    {
+      "order": 384,
+      "citation": "RS 12:220",
+      "title": "Reduction of membership below stated number",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76409"
+    },
+    {
+      "order": 385,
+      "citation": "RS 12:221",
+      "title": "Capital, surplus, allocation thereto, and increases and reductions thereof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76410"
+    },
+    {
+      "order": 386,
+      "citation": "RS 12:222",
+      "title": "Bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76411"
+    },
+    {
+      "order": 387,
+      "citation": "RS 12:223",
+      "title": "Corporate records and reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76412"
+    },
+    {
+      "order": 388,
+      "citation": "RS 12:224",
+      "title": "Board of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76413"
+    },
+    {
+      "order": 389,
+      "citation": "RS 12:225",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76414"
+    },
+    {
+      "order": 390,
+      "citation": "RS 12:226",
+      "title": "Relation of directors and officers to corporation and members; liability of officers and directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76415"
+    },
+    {
+      "order": 391,
+      "citation": "RS 12:227",
+      "title": "Indemnification of officers, directors, employees and agents; insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76416"
+    },
+    {
+      "order": 392,
+      "citation": "RS 12:228",
+      "title": "Interested directors; quorum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76417"
+    },
+    {
+      "order": 393,
+      "citation": "RS 12:229",
+      "title": "Meetings of members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76418"
+    },
+    {
+      "order": 394,
+      "citation": "RS 12:230",
+      "title": "Notice of meetings of members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76420"
+    },
+    {
+      "order": 395,
+      "citation": "RS 12:231",
+      "title": "Quorum of members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76421"
+    },
+    {
+      "order": 396,
+      "citation": "RS 12:232",
+      "title": "Voting of members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76422"
+    },
+    {
+      "order": 397,
+      "citation": "RS 12:233",
+      "title": "Unanimous consent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76423"
+    },
+    {
+      "order": 398,
+      "citation": "RS 12:234",
+      "title": "Fixing record date",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76424"
+    },
+    {
+      "order": 399,
+      "citation": "RS 12:235",
+      "title": "Voting trusts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76425"
+    },
+    {
+      "order": 400,
+      "citation": "RS 12:236",
+      "title": "Registered office and agent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76426"
+    },
+    {
+      "order": 401,
+      "citation": "RS 12:237",
+      "title": "Amendment of articles generally",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76427"
+    },
+    {
+      "order": 402,
+      "citation": "RS 12:237.1",
+      "title": "Amendment of articles; special provision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76428"
+    },
+    {
+      "order": 403,
+      "citation": "RS 12:238",
+      "title": "Articles of amendment; contents; filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76429"
+    },
+    {
+      "order": 404,
+      "citation": "RS 12:239",
+      "title": "Special amendment provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76430"
+    },
+    {
+      "order": 405,
+      "citation": "RS 12:239.1",
+      "title": "Certificate of correction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76431"
+    },
+    {
+      "order": 406,
+      "citation": "RS 12:240",
+      "title": "Reclassification of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76433"
+    },
+    {
+      "order": 407,
+      "citation": "RS 12:241",
+      "title": "Restatement of articles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76434"
+    },
+    {
+      "order": 408,
+      "citation": "RS 12:242",
+      "title": "Authorization for mergers and consolidations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76435"
+    },
+    {
+      "order": 409,
+      "citation": "RS 12:243",
+      "title": "Merger or consolidation procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76436"
+    },
+    {
+      "order": 410,
+      "citation": "RS 12:244",
+      "title": "Consolidation; articles of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76437"
+    },
+    {
+      "order": 411,
+      "citation": "RS 12:245",
+      "title": "When merger or consolidation effective",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76438"
+    },
+    {
+      "order": 412,
+      "citation": "RS 12:246",
+      "title": "Effect of merger or consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76439"
+    },
+    {
+      "order": 413,
+      "citation": "RS 12:247",
+      "title": "Voluntary transfer of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76440"
+    },
+    {
+      "order": 414,
+      "citation": "RS 12:247.1",
+      "title": "Change of jurisdiction of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76441"
+    },
+    {
+      "order": 415,
+      "citation": "RS 12:248",
+      "title": "Rights of a shareholder dissenting from certain corporate actions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76442"
+    },
+    {
+      "order": 416,
+      "citation": "RS 12:249",
+      "title": "Dissolution voluntary or involuntary, out of court or under judicial supervision; effect of proceeding for dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76443"
+    },
+    {
+      "order": 417,
+      "citation": "RS 12:250",
+      "title": "Voluntary proceedings for dissolution; authorization; appointment of liquidators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76446"
+    },
+    {
+      "order": 418,
+      "citation": "RS 12:250.1",
+      "title": "Dissolution by affidavit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76447"
+    },
+    {
+      "order": 419,
+      "citation": "RS 12:251",
+      "title": "Involuntary proceedings for dissolution; grounds; institution; appointment of liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76448"
+    },
+    {
+      "order": 420,
+      "citation": "RS 12:252",
+      "title": "Qualifications of liquidator; filling vacancies in the office of liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76449"
+    },
+    {
+      "order": 421,
+      "citation": "RS 12:253",
+      "title": "Dissolution proceedings out of court; procedure; powers of liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76450"
+    },
+    {
+      "order": 422,
+      "citation": "RS 12:254",
+      "title": "Dissolution proceedings under judicial supervision; procedure; powers of liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76451"
+    },
+    {
+      "order": 423,
+      "citation": "RS 12:255",
+      "title": "Claims against corporation in liquidation; peremption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76452"
+    },
+    {
+      "order": 424,
+      "citation": "RS 12:256",
+      "title": "Certificate of dissolution; assets omitted from liquidation; post-dissolution proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76453"
+    },
+    {
+      "order": 425,
+      "citation": "RS 12:257",
+      "title": "Termination of proceedings for dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76454"
+    },
+    {
+      "order": 426,
+      "citation": "RS 12:258",
+      "title": "Appointment of receiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76455"
+    },
+    {
+      "order": 427,
+      "citation": "RS 12:259",
+      "title": "Receivership procedure; powers of receiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76456"
+    },
+    {
+      "order": 428,
+      "citation": "RS 12:260",
+      "title": "Compromise arrangements; reorganizations; approval and effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76458"
+    },
+    {
+      "order": 429,
+      "citation": "RS 12:261",
+      "title": "Reorganization under Act of Congress",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76459"
+    },
+    {
+      "order": 430,
+      "citation": "RS 12:262",
+      "title": "Action by the state to annul, vacate or forfeit corporate franchise; suspension",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76460"
+    },
+    {
+      "order": 431,
+      "citation": "RS 12:262.1",
+      "title": "Failure to file annual reports; revocation and reinstatement of articles; limitation on authority to do business with the state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76461"
+    },
+    {
+      "order": 432,
+      "citation": "RS 12:263",
+      "title": "Fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76462"
+    },
+    {
+      "order": 433,
+      "citation": "RS 12:264",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76463"
+    },
+    {
+      "order": 434,
+      "citation": "RS 12:265",
+      "title": "Application to existing corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76464"
+    },
+    {
+      "order": 435,
+      "citation": "RS 12:266",
+      "title": "Scope of Chapter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76465"
+    },
+    {
+      "order": 436,
+      "citation": "RS 12:267",
+      "title": "Effect of invalidity of part of Chapter; severability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76466"
+    },
+    {
+      "order": 437,
+      "citation": "RS 12:268",
+      "title": "Reservation of power",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76467"
+    },
+    {
+      "order": 438,
+      "citation": "RS 12:269",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76468"
+    },
+    {
+      "order": 439,
+      "citation": "RS 12:301",
+      "title": "FOREIGN CORPORATION LAW",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76472"
+    },
+    {
+      "order": 440,
+      "citation": "RS 12:302",
+      "title": "Acts not considered transacting business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76473"
+    },
+    {
+      "order": 441,
+      "citation": "RS 12:303",
+      "title": "Name of authorized foreign corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76474"
+    },
+    {
+      "order": 442,
+      "citation": "RS 12:304",
+      "title": "Application for certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76475"
+    },
+    {
+      "order": 443,
+      "citation": "RS 12:305",
+      "title": "Issuance of certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76476"
+    },
+    {
+      "order": 444,
+      "citation": "RS 12:306",
+      "title": "Effect of certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76477"
+    },
+    {
+      "order": 445,
+      "citation": "RS 12:307",
+      "title": "Amended certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76478"
+    },
+    {
+      "order": 446,
+      "citation": "RS 12:307.1",
+      "title": "Certificate of correction by a foreign corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76479"
+    },
+    {
+      "order": 447,
+      "citation": "RS 12:308",
+      "title": "Registered agent, registered office and principal business establishment, keeping of records by foreign corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76480"
+    },
+    {
+      "order": 448,
+      "citation": "RS 12:309",
+      "title": "Annual report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76481"
+    },
+    {
+      "order": 449,
+      "citation": "RS 12:310",
+      "title": "Change of corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76483"
+    },
+    {
+      "order": 450,
+      "citation": "RS 12:311",
+      "title": "Merger, consolidation, or dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76484"
+    },
+    {
+      "order": 451,
+      "citation": "RS 12:312",
+      "title": "Withdrawal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76485"
+    },
+    {
+      "order": 452,
+      "citation": "RS 12:312.1",
+      "title": "Termination of withdrawal proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76486"
+    },
+    {
+      "order": 453,
+      "citation": "RS 12:313",
+      "title": "Revocation of certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76487"
+    },
+    {
+      "order": 454,
+      "citation": "RS 12:314",
+      "title": "Transacting business without authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76488"
+    },
+    {
+      "order": 455,
+      "citation": "RS 12:314.1",
+      "title": "Authority to investigate; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76489"
+    },
+    {
+      "order": 456,
+      "citation": "RS 12:315",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76490"
+    },
+    {
+      "order": 457,
+      "citation": "RS 12:316",
+      "title": "Fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76491"
+    },
+    {
+      "order": 458,
+      "citation": "RS 12:317",
+      "title": "Appointment of receiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76492"
+    },
+    {
+      "order": 459,
+      "citation": "RS 12:318",
+      "title": "Pre-filing procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76493"
+    },
+    {
+      "order": 460,
+      "citation": "RS 12:319",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76494"
+    },
+    {
+      "order": 461,
+      "citation": "RS 12:320",
+      "title": "Application to authorized corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76496"
+    },
+    {
+      "order": 462,
+      "citation": "RS 12:321",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76497"
+    },
+    {
+      "order": 463,
+      "citation": "RS 12:401",
+      "title": "SPECIAL CORPORATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76501"
+    },
+    {
+      "order": 464,
+      "citation": "RS 12:402",
+      "title": "Terms defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76502"
+    },
+    {
+      "order": 465,
+      "citation": "RS 12:403",
+      "title": "Powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76503"
+    },
+    {
+      "order": 466,
+      "citation": "RS 12:404",
+      "title": "Name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76504"
+    },
+    {
+      "order": 467,
+      "citation": "RS 12:405",
+      "title": "Incorporators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76505"
+    },
+    {
+      "order": 468,
+      "citation": "RS 12:406",
+      "title": "Articles of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76506"
+    },
+    {
+      "order": 469,
+      "citation": "RS 12:407",
+      "title": "Bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76507"
+    },
+    {
+      "order": 470,
+      "citation": "RS 12:408",
+      "title": "Members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76508"
+    },
+    {
+      "order": 471,
+      "citation": "RS 12:409",
+      "title": "Board of directors; elections",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76509"
+    },
+    {
+      "order": 472,
+      "citation": "RS 12:410",
+      "title": "Districts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76511"
+    },
+    {
+      "order": 473,
+      "citation": "RS 12:411",
+      "title": "Officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76512"
+    },
+    {
+      "order": 474,
+      "citation": "RS 12:412",
+      "title": "Amendment of articles of incorporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76513"
+    },
+    {
+      "order": 475,
+      "citation": "RS 12:413",
+      "title": "Consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76514"
+    },
+    {
+      "order": 476,
+      "citation": "RS 12:414",
+      "title": "Merger",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76515"
+    },
+    {
+      "order": 477,
+      "citation": "RS 12:415",
+      "title": "Effect of consolidation or merger",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76516"
+    },
+    {
+      "order": 478,
+      "citation": "RS 12:416",
+      "title": "Conversion of existing corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76517"
+    },
+    {
+      "order": 479,
+      "citation": "RS 12:417",
+      "title": "Initiative by members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76518"
+    },
+    {
+      "order": 480,
+      "citation": "RS 12:417.1",
+      "title": "Corporate records; disclosure; right of members to inspect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76519"
+    },
+    {
+      "order": 481,
+      "citation": "RS 12:418",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76520"
+    },
+    {
+      "order": 482,
+      "citation": "RS 12:419",
+      "title": "Filing of articles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76521"
+    },
+    {
+      "order": 483,
+      "citation": "RS 12:420",
+      "title": "Refunds to members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76523"
+    },
+    {
+      "order": 484,
+      "citation": "RS 12:421",
+      "title": "Disposition of property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76524"
+    },
+    {
+      "order": 485,
+      "citation": "RS 12:422",
+      "title": "Non-liability of members for debts of cooperative",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76525"
+    },
+    {
+      "order": 486,
+      "citation": "RS 12:423",
+      "title": "Recordation of mortgages and conveyances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76526"
+    },
+    {
+      "order": 487,
+      "citation": "RS 12:424",
+      "title": "Waiver of notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76527"
+    },
+    {
+      "order": 488,
+      "citation": "RS 12:425",
+      "title": "Taxation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76528"
+    },
+    {
+      "order": 489,
+      "citation": "RS 12:426",
+      "title": "Jurisdiction of the Public Service Commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76529"
+    },
+    {
+      "order": 490,
+      "citation": "RS 12:427",
+      "title": "Securities law exemption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76530"
+    },
+    {
+      "order": 491,
+      "citation": "RS 12:428",
+      "title": "Acquisition of servitudes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76531"
+    },
+    {
+      "order": 492,
+      "citation": "RS 12:429",
+      "title": "Construction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76532"
+    },
+    {
+      "order": 493,
+      "citation": "RS 12:430",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76533"
+    },
+    {
+      "order": 494,
+      "citation": "RS 12:430.1",
+      "title": "Cooperatives; provision of broadband services; servitudes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187972"
+    },
+    {
+      "order": 495,
+      "citation": "RS 12:430.2",
+      "title": "Reporting on broadband high-speed internet access",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187974"
+    },
+    {
+      "order": 496,
+      "citation": "RS 12:431",
+      "title": "Repealed by Acts 2014, No. 132, §1, eff. May 22, 2014.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76534"
+    },
+    {
+      "order": 497,
+      "citation": "RS 12:431.1",
+      "title": "Repealed by Acts 2014, No. 132, §1, eff. May 22, 2014.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76535"
+    },
+    {
+      "order": 498,
+      "citation": "RS 12:441",
+      "title": "Sea Food Marketing Associations authorized",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76536"
+    },
+    {
+      "order": 499,
+      "citation": "RS 12:442",
+      "title": "Purpose of legislation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76537"
+    },
+    {
+      "order": 500,
+      "citation": "RS 12:443",
+      "title": "Terms defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76538"
+    },
+    {
+      "order": 501,
+      "citation": "RS 12:444",
+      "title": "Persons who may organize",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76539"
+    },
+    {
+      "order": 502,
+      "citation": "RS 12:445",
+      "title": "Activities in which association may engage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76540"
+    },
+    {
+      "order": 503,
+      "citation": "RS 12:446",
+      "title": "Powers of association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76541"
+    },
+    {
+      "order": 504,
+      "citation": "RS 12:447",
+      "title": "Members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76542"
+    },
+    {
+      "order": 505,
+      "citation": "RS 12:448",
+      "title": "Articles of association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76543"
+    },
+    {
+      "order": 506,
+      "citation": "RS 12:449",
+      "title": "Amendments to articles of association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76544"
+    },
+    {
+      "order": 507,
+      "citation": "RS 12:450",
+      "title": "Bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76545"
+    },
+    {
+      "order": 508,
+      "citation": "RS 12:451",
+      "title": "General and special meetings; how called",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76546"
+    },
+    {
+      "order": 509,
+      "citation": "RS 12:452",
+      "title": "Board of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76547"
+    },
+    {
+      "order": 510,
+      "citation": "RS 12:453",
+      "title": "Election of officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76548"
+    },
+    {
+      "order": 511,
+      "citation": "RS 12:454",
+      "title": "Certificates of membership and shares of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76549"
+    },
+    {
+      "order": 512,
+      "citation": "RS 12:455",
+      "title": "Removal of officer or director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76550"
+    },
+    {
+      "order": 513,
+      "citation": "RS 12:456",
+      "title": "Referendum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76551"
+    },
+    {
+      "order": 514,
+      "citation": "RS 12:457",
+      "title": "Marketing contract",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76552"
+    },
+    {
+      "order": 515,
+      "citation": "RS 12:458",
+      "title": "Breach of contract or of bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76553"
+    },
+    {
+      "order": 516,
+      "citation": "RS 12:459",
+      "title": "Acquisitions of business, etc., and payment therefor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76554"
+    },
+    {
+      "order": 517,
+      "citation": "RS 12:460",
+      "title": "Conflicting laws not to apply",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76555"
+    },
+    {
+      "order": 518,
+      "citation": "RS 12:461",
+      "title": "Limitation of use of term \"co-operative\"",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76556"
+    },
+    {
+      "order": 519,
+      "citation": "RS 12:462",
+      "title": "Interest in other corporations or associations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76557"
+    },
+    {
+      "order": 520,
+      "citation": "RS 12:463",
+      "title": "Contracts and agreements with other associations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76558"
+    },
+    {
+      "order": 521,
+      "citation": "RS 12:464",
+      "title": "Existent associations may adopt the provisions of this Part",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76559"
+    },
+    {
+      "order": 522,
+      "citation": "RS 12:465",
+      "title": "How similar foreign associations may carry on business in Louisiana",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76560"
+    },
+    {
+      "order": 523,
+      "citation": "RS 12:466",
+      "title": "Breach of marketing contract and knowingly spreading false reports concerning finances and management",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76561"
+    },
+    {
+      "order": 524,
+      "citation": "RS 12:467",
+      "title": "Not in restraint of trade",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76562"
+    },
+    {
+      "order": 525,
+      "citation": "RS 12:468",
+      "title": "Repealed by Acts 1982, No. 526, 3, Aug. 11, 1982",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76563"
+    },
+    {
+      "order": 526,
+      "citation": "RS 12:469",
+      "title": "Filing fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76564"
+    },
+    {
+      "order": 527,
+      "citation": "RS 12:470",
+      "title": "Application of Chapter 1",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76565"
+    },
+    {
+      "order": 528,
+      "citation": "RS 12:471",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76566"
+    },
+    {
+      "order": 529,
+      "citation": "RS 12:481",
+      "title": "Application of Part",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76567"
+    },
+    {
+      "order": 530,
+      "citation": "RS 12:482",
+      "title": "Permission to incorporate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76568"
+    },
+    {
+      "order": 531,
+      "citation": "RS 12:483",
+      "title": "Certificate of incorporation; form and contents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76569"
+    },
+    {
+      "order": 532,
+      "citation": "RS 12:491",
+      "title": "Real estate investment trusts authorized and defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76570"
+    },
+    {
+      "order": 533,
+      "citation": "RS 12:492",
+      "title": "Qualification and restrictions and procedural rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76571"
+    },
+    {
+      "order": 534,
+      "citation": "RS 12:493",
+      "title": "Name of Part",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76572"
+    },
+    {
+      "order": 535,
+      "citation": "RS 12:499.1",
+      "title": "Short title; purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76573"
+    },
+    {
+      "order": 536,
+      "citation": "RS 12:499.2",
+      "title": "Application of chapter; amendment of articles of incorporation to comply with chapter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76578"
+    },
+    {
+      "order": 537,
+      "citation": "RS 12:499.3",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76579"
+    },
+    {
+      "order": 538,
+      "citation": "RS 12:499.4",
+      "title": "Application of laws; conflict of laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76580"
+    },
+    {
+      "order": 539,
+      "citation": "RS 12:499.5",
+      "title": "Articles of organization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76581"
+    },
+    {
+      "order": 540,
+      "citation": "RS 12:499.6",
+      "title": "Name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76582"
+    },
+    {
+      "order": 541,
+      "citation": "RS 12:499.7",
+      "title": "Power to make, amend, or repeal by-laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76583"
+    },
+    {
+      "order": 542,
+      "citation": "RS 12:499.8",
+      "title": "Articles or by-laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76584"
+    },
+    {
+      "order": 543,
+      "citation": "RS 12:499.9",
+      "title": "Net savings; apportionment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76585"
+    },
+    {
+      "order": 544,
+      "citation": "RS 12:499.10",
+      "title": "Termination of proprietary leases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76574"
+    },
+    {
+      "order": 545,
+      "citation": "RS 12:499.11",
+      "title": "Loans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76575"
+    },
+    {
+      "order": 546,
+      "citation": "RS 12:499.12",
+      "title": "Tax exemptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76576"
+    },
+    {
+      "order": 547,
+      "citation": "RS 12:499.13",
+      "title": "Homestead exemption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76577"
+    },
+    {
+      "order": 548,
+      "citation": "RS 12:501",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76586"
+    },
+    {
+      "order": 549,
+      "citation": "RS 12:502",
+      "title": "Supplementary general principles of law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76587"
+    },
+    {
+      "order": 550,
+      "citation": "RS 12:503",
+      "title": "Territorial application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76588"
+    },
+    {
+      "order": 551,
+      "citation": "RS 12:504",
+      "title": "Immovable and movable property; unincorporated association as legatee or beneficiary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76589"
+    },
+    {
+      "order": 552,
+      "citation": "RS 12:505",
+      "title": "Statement of authority as to immovable property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76590"
+    },
+    {
+      "order": 553,
+      "citation": "RS 12:506",
+      "title": "Liability in tort and contract",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76591"
+    },
+    {
+      "order": 554,
+      "citation": "RS 12:507",
+      "title": "Capacity to assert and defend; standing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630409"
+    },
+    {
+      "order": 555,
+      "citation": "RS 12:508",
+      "title": "Effect of judgment or order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630410"
+    },
+    {
+      "order": 556,
+      "citation": "RS 12:509",
+      "title": "Disposition of movable property of inactive unincorporated association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630411"
+    },
+    {
+      "order": 557,
+      "citation": "RS 12:510",
+      "title": "Appointment of agent to receive service of process",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630416"
+    },
+    {
+      "order": 558,
+      "citation": "RS 12:511",
+      "title": "Claim not abated by change",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630418"
+    },
+    {
+      "order": 559,
+      "citation": "RS 12:512",
+      "title": "Dissolution of unincorporated association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630420"
+    },
+    {
+      "order": 560,
+      "citation": "RS 12:513",
+      "title": "Involuntary proceedings for dissolution and appointment of liquidator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630421"
+    },
+    {
+      "order": 561,
+      "citation": "RS 12:514",
+      "title": "Grounds for involuntary dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630422"
+    },
+    {
+      "order": 562,
+      "citation": "RS 12:515",
+      "title": "Continuation of purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630423"
+    },
+    {
+      "order": 563,
+      "citation": "RS 12:516",
+      "title": "Disposition of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630424"
+    },
+    {
+      "order": 564,
+      "citation": "RS 12:517",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630425"
+    },
+    {
+      "order": 565,
+      "citation": "RS 12:518",
+      "title": "Uniformity of application and construction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630426"
+    },
+    {
+      "order": 566,
+      "citation": "RS 12:519",
+      "title": "Severability clause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630427"
+    },
+    {
+      "order": 567,
+      "citation": "RS 12:520",
+      "title": "Savings clause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=630428"
+    },
+    {
+      "order": 568,
+      "citation": "RS 12:601",
+      "title": "TRANSFER OF STOCK",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76600"
+    },
+    {
+      "order": 569,
+      "citation": "RS 12:602",
+      "title": "Authority to transfer stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76601"
+    },
+    {
+      "order": 570,
+      "citation": "RS 12:603",
+      "title": "Transfer to heirs or legatees of deceased stockholder; proof required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76602"
+    },
+    {
+      "order": 571,
+      "citation": "RS 12:621",
+      "title": "To 643 Repealed by Acts 1978, No. 165, 6, eff. Jan. 1, 1970",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76605"
+    },
+    {
+      "order": 572,
+      "citation": "RS 12:651",
+      "title": "Repealed by Acts 1978, No. 165, 6, eff. Jan. 1, 1979",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76607"
+    },
+    {
+      "order": 573,
+      "citation": "RS 12:701",
+      "title": "FINANCING CORPORATE ACTIVITIES",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76608"
+    },
+    {
+      "order": 574,
+      "citation": "RS 12:702",
+      "title": "Mortgages executed by public utility corporations and cable television companies; description of property; recordation; effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76609"
+    },
+    {
+      "order": 575,
+      "citation": "RS 12:703",
+      "title": "Rate of interest paid by corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76610"
+    },
+    {
+      "order": 576,
+      "citation": "RS 12:704",
+      "title": "Repealed by Acts 2001, No. 128, 18, eff. July 1, 2001.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76611"
+    },
+    {
+      "order": 577,
+      "citation": "RS 12:801",
+      "title": "PROFESSIONAL LAW CORPORATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76621"
+    },
+    {
+      "order": 578,
+      "citation": "RS 12:802",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76622"
+    },
+    {
+      "order": 579,
+      "citation": "RS 12:803",
+      "title": "The corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76623"
+    },
+    {
+      "order": 580,
+      "citation": "RS 12:804",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76624"
+    },
+    {
+      "order": 581,
+      "citation": "RS 12:805",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76625"
+    },
+    {
+      "order": 582,
+      "citation": "RS 12:806",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76626"
+    },
+    {
+      "order": 583,
+      "citation": "RS 12:807",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76627"
+    },
+    {
+      "order": 584,
+      "citation": "RS 12:808",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76628"
+    },
+    {
+      "order": 585,
+      "citation": "RS 12:809",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76629"
+    },
+    {
+      "order": 586,
+      "citation": "RS 12:810",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76631"
+    },
+    {
+      "order": 587,
+      "citation": "RS 12:811",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76632"
+    },
+    {
+      "order": 588,
+      "citation": "RS 12:812",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76633"
+    },
+    {
+      "order": 589,
+      "citation": "RS 12:813",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76634"
+    },
+    {
+      "order": 590,
+      "citation": "RS 12:814",
+      "title": "Certification of foreign professional law corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76635"
+    },
+    {
+      "order": 591,
+      "citation": "RS 12:815",
+      "title": "Regulation by Supreme Court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76636"
+    },
+    {
+      "order": 592,
+      "citation": "RS 12:816",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76637"
+    },
+    {
+      "order": 593,
+      "citation": "RS 12:901",
+      "title": "Terms defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76641"
+    },
+    {
+      "order": 594,
+      "citation": "RS 12:902",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76642"
+    },
+    {
+      "order": 595,
+      "citation": "RS 12:903",
+      "title": "The corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76643"
+    },
+    {
+      "order": 596,
+      "citation": "RS 12:904",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76644"
+    },
+    {
+      "order": 597,
+      "citation": "RS 12:905",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76645"
+    },
+    {
+      "order": 598,
+      "citation": "RS 12:906",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76646"
+    },
+    {
+      "order": 599,
+      "citation": "RS 12:907",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76647"
+    },
+    {
+      "order": 600,
+      "citation": "RS 12:908",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76648"
+    },
+    {
+      "order": 601,
+      "citation": "RS 12:909",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76649"
+    },
+    {
+      "order": 602,
+      "citation": "RS 12:910",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76651"
+    },
+    {
+      "order": 603,
+      "citation": "RS 12:911",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76652"
+    },
+    {
+      "order": 604,
+      "citation": "RS 12:912",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76653"
+    },
+    {
+      "order": 605,
+      "citation": "RS 12:913",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76654"
+    },
+    {
+      "order": 606,
+      "citation": "RS 12:914",
+      "title": "Regulation by Louisiana State Board of Medical Examiners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76655"
+    },
+    {
+      "order": 607,
+      "citation": "RS 12:915",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76656"
+    },
+    {
+      "order": 608,
+      "citation": "RS 12:951",
+      "title": "INDUSTRIAL OR ECONOMIC",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76661"
+    },
+    {
+      "order": 609,
+      "citation": "RS 12:952",
+      "title": "Incorporators; articles of incorporation; approval",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76662"
+    },
+    {
+      "order": 610,
+      "citation": "RS 12:953",
+      "title": "Powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76663"
+    },
+    {
+      "order": 611,
+      "citation": "RS 12:954",
+      "title": "Acquisition and disposition of securities; evidences of indebtedness; stock; loans from members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76664"
+    },
+    {
+      "order": 612,
+      "citation": "RS 12:955",
+      "title": "Applications for membership; loans to corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76665"
+    },
+    {
+      "order": 613,
+      "citation": "RS 12:956",
+      "title": "Duration of membership; notice of withdrawal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76666"
+    },
+    {
+      "order": 614,
+      "citation": "RS 12:957",
+      "title": "Powers of stockholders and members; voting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76667"
+    },
+    {
+      "order": 615,
+      "citation": "RS 12:958",
+      "title": "Amendment of articles; certification of amendment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76668"
+    },
+    {
+      "order": 616,
+      "citation": "RS 12:959",
+      "title": "Officers; board of directors; responsibility for losses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76669"
+    },
+    {
+      "order": 617,
+      "citation": "RS 12:960",
+      "title": "Retention of earned surplus",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76671"
+    },
+    {
+      "order": 618,
+      "citation": "RS 12:961",
+      "title": "Deposits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76672"
+    },
+    {
+      "order": 619,
+      "citation": "RS 12:962",
+      "title": "Annual audit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76673"
+    },
+    {
+      "order": 620,
+      "citation": "RS 12:963",
+      "title": "Initial meeting of incorporators; quorum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76674"
+    },
+    {
+      "order": 621,
+      "citation": "RS 12:964",
+      "title": "Duration of corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76675"
+    },
+    {
+      "order": 622,
+      "citation": "RS 12:965",
+      "title": "Dissolution; distribution of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76676"
+    },
+    {
+      "order": 623,
+      "citation": "RS 12:966",
+      "title": "Pledge of state credit prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76677"
+    },
+    {
+      "order": 624,
+      "citation": "RS 12:967",
+      "title": "State development company; federal definition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76678"
+    },
+    {
+      "order": 625,
+      "citation": "RS 12:968",
+      "title": "Tax exemptions, credits and privileges applicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76679"
+    },
+    {
+      "order": 626,
+      "citation": "RS 12:969",
+      "title": "License fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76680"
+    },
+    {
+      "order": 627,
+      "citation": "RS 12:970",
+      "title": "Fiscal year",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76681"
+    },
+    {
+      "order": 628,
+      "citation": "RS 12:971",
+      "title": "Applicability of Louisiana business corporation law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76682"
+    },
+    {
+      "order": 629,
+      "citation": "RS 12:972",
+      "title": "Savings clause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76683"
+    },
+    {
+      "order": 630,
+      "citation": "RS 12:981",
+      "title": "PROFESSIONAL DENTAL CORPORATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76684"
+    },
+    {
+      "order": 631,
+      "citation": "RS 12:982",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76685"
+    },
+    {
+      "order": 632,
+      "citation": "RS 12:982.1",
+      "title": "Professional limited liability companies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76686"
+    },
+    {
+      "order": 633,
+      "citation": "RS 12:983",
+      "title": "Corporate and limited liability company name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76687"
+    },
+    {
+      "order": 634,
+      "citation": "RS 12:984",
+      "title": "Corporate and limited liability company authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76688"
+    },
+    {
+      "order": 635,
+      "citation": "RS 12:985",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76689"
+    },
+    {
+      "order": 636,
+      "citation": "RS 12:985.1",
+      "title": "Members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76690"
+    },
+    {
+      "order": 637,
+      "citation": "RS 12:986",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76691"
+    },
+    {
+      "order": 638,
+      "citation": "RS 12:986.1",
+      "title": "Membership interest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76692"
+    },
+    {
+      "order": 639,
+      "citation": "RS 12:987",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76693"
+    },
+    {
+      "order": 640,
+      "citation": "RS 12:987.1",
+      "title": "Liability of holder of interest in a limited liability company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76694"
+    },
+    {
+      "order": 641,
+      "citation": "RS 12:988",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76695"
+    },
+    {
+      "order": 642,
+      "citation": "RS 12:988.1",
+      "title": "Action of holders of membership interest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76696"
+    },
+    {
+      "order": 643,
+      "citation": "RS 12:989",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76697"
+    },
+    {
+      "order": 644,
+      "citation": "RS 12:989.1",
+      "title": "Membership ownership agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76698"
+    },
+    {
+      "order": 645,
+      "citation": "RS 12:990",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76699"
+    },
+    {
+      "order": 646,
+      "citation": "RS 12:991",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76700"
+    },
+    {
+      "order": 647,
+      "citation": "RS 12:992",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76701"
+    },
+    {
+      "order": 648,
+      "citation": "RS 12:993",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76702"
+    },
+    {
+      "order": 649,
+      "citation": "RS 12:994",
+      "title": "Regulation by Louisiana State Board of Dentistry",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76703"
+    },
+    {
+      "order": 650,
+      "citation": "RS 12:995",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76704"
+    },
+    {
+      "order": 651,
+      "citation": "RS 12:1011",
+      "title": "PROFESSIONAL ACCOUNTING CORPORATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76100"
+    },
+    {
+      "order": 652,
+      "citation": "RS 12:1012",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76101"
+    },
+    {
+      "order": 653,
+      "citation": "RS 12:1013",
+      "title": "The corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76102"
+    },
+    {
+      "order": 654,
+      "citation": "RS 12:1014",
+      "title": "Repealed by Acts 2000, 1st Ex. Sess., No. 30, 2, eff. April 14, 2000.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76103"
+    },
+    {
+      "order": 655,
+      "citation": "RS 12:1015",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76104"
+    },
+    {
+      "order": 656,
+      "citation": "RS 12:1016",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76105"
+    },
+    {
+      "order": 657,
+      "citation": "RS 12:1017",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers, and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76106"
+    },
+    {
+      "order": 658,
+      "citation": "RS 12:1018",
+      "title": "Actions of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76107"
+    },
+    {
+      "order": 659,
+      "citation": "RS 12:1019",
+      "title": "Shareholders agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76108"
+    },
+    {
+      "order": 660,
+      "citation": "RS 12:1020",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76110"
+    },
+    {
+      "order": 661,
+      "citation": "RS 12:1021",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76111"
+    },
+    {
+      "order": 662,
+      "citation": "RS 12:1022",
+      "title": "Repealed by Acts 2000, 1st Ex. Sess., No. 30, 2, eff. April 14, 2000.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76112"
+    },
+    {
+      "order": 663,
+      "citation": "RS 12:1023",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76113"
+    },
+    {
+      "order": 664,
+      "citation": "RS 12:1024",
+      "title": "Regulation by state board of certified public accountants of Louisiana",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76114"
+    },
+    {
+      "order": 665,
+      "citation": "RS 12:1025",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76115"
+    },
+    {
+      "order": 666,
+      "citation": "RS 12:1041",
+      "title": "MISCELLANEOUS PROVISIONS APPLICABLE",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76118"
+    },
+    {
+      "order": 667,
+      "citation": "RS 12:1042",
+      "title": "Franchise agreements; provisions for dispute resolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76119"
+    },
+    {
+      "order": 668,
+      "citation": "RS 12:1051",
+      "title": "PROFESSIONAL CHIROPRACTIC CORPORATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76120"
+    },
+    {
+      "order": 669,
+      "citation": "RS 12:1052",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76121"
+    },
+    {
+      "order": 670,
+      "citation": "RS 12:1053",
+      "title": "The corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76122"
+    },
+    {
+      "order": 671,
+      "citation": "RS 12:1054",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76123"
+    },
+    {
+      "order": 672,
+      "citation": "RS 12:1055",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76124"
+    },
+    {
+      "order": 673,
+      "citation": "RS 12:1056",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76125"
+    },
+    {
+      "order": 674,
+      "citation": "RS 12:1057",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76126"
+    },
+    {
+      "order": 675,
+      "citation": "RS 12:1058",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76127"
+    },
+    {
+      "order": 676,
+      "citation": "RS 12:1059",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76128"
+    },
+    {
+      "order": 677,
+      "citation": "RS 12:1060",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76129"
+    },
+    {
+      "order": 678,
+      "citation": "RS 12:1061",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76130"
+    },
+    {
+      "order": 679,
+      "citation": "RS 12:1062",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76131"
+    },
+    {
+      "order": 680,
+      "citation": "RS 12:1063",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76132"
+    },
+    {
+      "order": 681,
+      "citation": "RS 12:1064",
+      "title": "Regulation by Louisiana State Board of Chiropractic Examiners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76133"
+    },
+    {
+      "order": 682,
+      "citation": "RS 12:1065",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76134"
+    },
+    {
+      "order": 683,
+      "citation": "RS 12:1071",
+      "title": "PROFESSIONAL NURSING CORPORATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76135"
+    },
+    {
+      "order": 684,
+      "citation": "RS 12:1072",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76136"
+    },
+    {
+      "order": 685,
+      "citation": "RS 12:1073",
+      "title": "The corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76137"
+    },
+    {
+      "order": 686,
+      "citation": "RS 12:1074",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76138"
+    },
+    {
+      "order": 687,
+      "citation": "RS 12:1075",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76139"
+    },
+    {
+      "order": 688,
+      "citation": "RS 12:1076",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76140"
+    },
+    {
+      "order": 689,
+      "citation": "RS 12:1077",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76141"
+    },
+    {
+      "order": 690,
+      "citation": "RS 12:1078",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76142"
+    },
+    {
+      "order": 691,
+      "citation": "RS 12:1079",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76143"
+    },
+    {
+      "order": 692,
+      "citation": "RS 12:1080",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76144"
+    },
+    {
+      "order": 693,
+      "citation": "RS 12:1081",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76145"
+    },
+    {
+      "order": 694,
+      "citation": "RS 12:1082",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76146"
+    },
+    {
+      "order": 695,
+      "citation": "RS 12:1083",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76147"
+    },
+    {
+      "order": 696,
+      "citation": "RS 12:1084",
+      "title": "Regulation by Louisiana State Board of Nursing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76148"
+    },
+    {
+      "order": 697,
+      "citation": "RS 12:1085",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76149"
+    },
+    {
+      "order": 698,
+      "citation": "RS 12:1086",
+      "title": "PROFESSIONAL ARCHITECTURAL",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76150"
+    },
+    {
+      "order": 699,
+      "citation": "RS 12:1087",
+      "title": "Professional corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76151"
+    },
+    {
+      "order": 700,
+      "citation": "RS 12:1088",
+      "title": "Corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76152"
+    },
+    {
+      "order": 701,
+      "citation": "RS 12:1089",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76153"
+    },
+    {
+      "order": 702,
+      "citation": "RS 12:1090",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76154"
+    },
+    {
+      "order": 703,
+      "citation": "RS 12:1091",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76155"
+    },
+    {
+      "order": 704,
+      "citation": "RS 12:1092",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers, and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76156"
+    },
+    {
+      "order": 705,
+      "citation": "RS 12:1093",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76157"
+    },
+    {
+      "order": 706,
+      "citation": "RS 12:1094",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76158"
+    },
+    {
+      "order": 707,
+      "citation": "RS 12:1095",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76159"
+    },
+    {
+      "order": 708,
+      "citation": "RS 12:1096",
+      "title": "Officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76160"
+    },
+    {
+      "order": 709,
+      "citation": "RS 12:1097",
+      "title": "Contracts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76161"
+    },
+    {
+      "order": 710,
+      "citation": "RS 12:1098",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76162"
+    },
+    {
+      "order": 711,
+      "citation": "RS 12:1099",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76163"
+    },
+    {
+      "order": 712,
+      "citation": "RS 12:1100",
+      "title": "Regulation by Louisiana State Board of Architectural Examiners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76164"
+    },
+    {
+      "order": 713,
+      "citation": "RS 12:1101",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76165"
+    },
+    {
+      "order": 714,
+      "citation": "RS 12:1110",
+      "title": "PROFESSIONAL OPTOMETRY CORPORATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76167"
+    },
+    {
+      "order": 715,
+      "citation": "RS 12:1111",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76168"
+    },
+    {
+      "order": 716,
+      "citation": "RS 12:1112",
+      "title": "Corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76169"
+    },
+    {
+      "order": 717,
+      "citation": "RS 12:1113",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76170"
+    },
+    {
+      "order": 718,
+      "citation": "RS 12:1114",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76171"
+    },
+    {
+      "order": 719,
+      "citation": "RS 12:1115",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76172"
+    },
+    {
+      "order": 720,
+      "citation": "RS 12:1116",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers, or agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76173"
+    },
+    {
+      "order": 721,
+      "citation": "RS 12:1117",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76174"
+    },
+    {
+      "order": 722,
+      "citation": "RS 12:1118",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76175"
+    },
+    {
+      "order": 723,
+      "citation": "RS 12:1119",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76176"
+    },
+    {
+      "order": 724,
+      "citation": "RS 12:1120",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76178"
+    },
+    {
+      "order": 725,
+      "citation": "RS 12:1121",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76179"
+    },
+    {
+      "order": 726,
+      "citation": "RS 12:1122",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76180"
+    },
+    {
+      "order": 727,
+      "citation": "RS 12:1123",
+      "title": "Regulation by Louisiana State Board of Optometry",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76181"
+    },
+    {
+      "order": 728,
+      "citation": "RS 12:1124",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76182"
+    },
+    {
+      "order": 729,
+      "citation": "RS 12:1130",
+      "title": "PROFESSIONAL PSYCHOLOGY CORPORATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76184"
+    },
+    {
+      "order": 730,
+      "citation": "RS 12:1131",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76185"
+    },
+    {
+      "order": 731,
+      "citation": "RS 12:1132",
+      "title": "The corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76186"
+    },
+    {
+      "order": 732,
+      "citation": "RS 12:1133",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76187"
+    },
+    {
+      "order": 733,
+      "citation": "RS 12:1134",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76188"
+    },
+    {
+      "order": 734,
+      "citation": "RS 12:1135",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76189"
+    },
+    {
+      "order": 735,
+      "citation": "RS 12:1136",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76190"
+    },
+    {
+      "order": 736,
+      "citation": "RS 12:1137",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76191"
+    },
+    {
+      "order": 737,
+      "citation": "RS 12:1138",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76192"
+    },
+    {
+      "order": 738,
+      "citation": "RS 12:1139",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76193"
+    },
+    {
+      "order": 739,
+      "citation": "RS 12:1140",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76195"
+    },
+    {
+      "order": 740,
+      "citation": "RS 12:1141",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76196"
+    },
+    {
+      "order": 741,
+      "citation": "RS 12:1142",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76197"
+    },
+    {
+      "order": 742,
+      "citation": "RS 12:1143",
+      "title": "Regulation by the Louisiana State Board of Examiners of Psychologists",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76198"
+    },
+    {
+      "order": 743,
+      "citation": "RS 12:1144",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76199"
+    },
+    {
+      "order": 744,
+      "citation": "RS 12:1151",
+      "title": "PROFESSIONAL VETERINARY",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76201"
+    },
+    {
+      "order": 745,
+      "citation": "RS 12:1152",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76202"
+    },
+    {
+      "order": 746,
+      "citation": "RS 12:1153",
+      "title": "The corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76203"
+    },
+    {
+      "order": 747,
+      "citation": "RS 12:1154",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76204"
+    },
+    {
+      "order": 748,
+      "citation": "RS 12:1155",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76205"
+    },
+    {
+      "order": 749,
+      "citation": "RS 12:1156",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76206"
+    },
+    {
+      "order": 750,
+      "citation": "RS 12:1157",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76207"
+    },
+    {
+      "order": 751,
+      "citation": "RS 12:1158",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76208"
+    },
+    {
+      "order": 752,
+      "citation": "RS 12:1159",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76209"
+    },
+    {
+      "order": 753,
+      "citation": "RS 12:1160",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76211"
+    },
+    {
+      "order": 754,
+      "citation": "RS 12:1161",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76212"
+    },
+    {
+      "order": 755,
+      "citation": "RS 12:1162",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76213"
+    },
+    {
+      "order": 756,
+      "citation": "RS 12:1163",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76214"
+    },
+    {
+      "order": 757,
+      "citation": "RS 12:1164",
+      "title": "Regulation by Louisiana Board of Veterinary Medicine",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76215"
+    },
+    {
+      "order": 758,
+      "citation": "RS 12:1165",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76216"
+    },
+    {
+      "order": 759,
+      "citation": "RS 12:1171",
+      "title": "Terms defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76218"
+    },
+    {
+      "order": 760,
+      "citation": "RS 12:1172",
+      "title": "Corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76219"
+    },
+    {
+      "order": 761,
+      "citation": "RS 12:1173",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76220"
+    },
+    {
+      "order": 762,
+      "citation": "RS 12:1174",
+      "title": "Directors, officers, and agents; liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76221"
+    },
+    {
+      "order": 763,
+      "citation": "RS 12:1175",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76222"
+    },
+    {
+      "order": 764,
+      "citation": "RS 12:1176",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76223"
+    },
+    {
+      "order": 765,
+      "citation": "RS 12:1177",
+      "title": "Officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76224"
+    },
+    {
+      "order": 766,
+      "citation": "RS 12:1178",
+      "title": "Contracts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76225"
+    },
+    {
+      "order": 767,
+      "citation": "RS 12:1179",
+      "title": "Regulation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76226"
+    },
+    {
+      "order": 768,
+      "citation": "RS 12:1180",
+      "title": "Compliance by existing corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76227"
+    },
+    {
+      "order": 769,
+      "citation": "RS 12:1181",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76228"
+    },
+    {
+      "order": 770,
+      "citation": "RS 12:1190",
+      "title": "PROFESSIONAL OCCUPATIONAL",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76229"
+    },
+    {
+      "order": 771,
+      "citation": "RS 12:1191",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76230"
+    },
+    {
+      "order": 772,
+      "citation": "RS 12:1192",
+      "title": "Corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76231"
+    },
+    {
+      "order": 773,
+      "citation": "RS 12:1193",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76232"
+    },
+    {
+      "order": 774,
+      "citation": "RS 12:1194",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76233"
+    },
+    {
+      "order": 775,
+      "citation": "RS 12:1195",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76234"
+    },
+    {
+      "order": 776,
+      "citation": "RS 12:1196",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers, and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76235"
+    },
+    {
+      "order": 777,
+      "citation": "RS 12:1197",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76236"
+    },
+    {
+      "order": 778,
+      "citation": "RS 12:1198",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76237"
+    },
+    {
+      "order": 779,
+      "citation": "RS 12:1199",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76238"
+    },
+    {
+      "order": 780,
+      "citation": "RS 12:1200",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76239"
+    },
+    {
+      "order": 781,
+      "citation": "RS 12:1201",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76240"
+    },
+    {
+      "order": 782,
+      "citation": "RS 12:1202",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76241"
+    },
+    {
+      "order": 783,
+      "citation": "RS 12:1203",
+      "title": "Regulation by Louisiana State Board of Medical Examiners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76242"
+    },
+    {
+      "order": 784,
+      "citation": "RS 12:1204",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76243"
+    },
+    {
+      "order": 785,
+      "citation": "RS 12:1301",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76248"
+    },
+    {
+      "order": 786,
+      "citation": "RS 12:1302",
+      "title": "Purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76249"
+    },
+    {
+      "order": 787,
+      "citation": "RS 12:1303",
+      "title": "Powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76250"
+    },
+    {
+      "order": 788,
+      "citation": "RS 12:1304",
+      "title": "Formation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76251"
+    },
+    {
+      "order": 789,
+      "citation": "RS 12:1305",
+      "title": "Articles of organization; initial report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76252"
+    },
+    {
+      "order": 790,
+      "citation": "RS 12:1306",
+      "title": "Name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76253"
+    },
+    {
+      "order": 791,
+      "citation": "RS 12:1307",
+      "title": "Reservation of name; transfer of reserved name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76254"
+    },
+    {
+      "order": 792,
+      "citation": "RS 12:1308",
+      "title": "Registered office and registered agent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76255"
+    },
+    {
+      "order": 793,
+      "citation": "RS 12:1308.1",
+      "title": "Annual report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76256"
+    },
+    {
+      "order": 794,
+      "citation": "RS 12:1308.2",
+      "title": "Failure to file annual report; revocation and reinstatement of articles; limitation on authority to do business with the state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76257"
+    },
+    {
+      "order": 795,
+      "citation": "RS 12:1308.3",
+      "title": "Conversion of state of organization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814558"
+    },
+    {
+      "order": 796,
+      "citation": "RS 12:1309",
+      "title": "Amendment of articles of organization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76258"
+    },
+    {
+      "order": 797,
+      "citation": "RS 12:1310",
+      "title": "Certificates of correction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76260"
+    },
+    {
+      "order": 798,
+      "citation": "RS 12:1310.1",
+      "title": "Retroactivity of company's existence; acquisition of immovable property prior to limited liability company's existence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=320763"
+    },
+    {
+      "order": 799,
+      "citation": "RS 12:1311",
+      "title": "Management by members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76261"
+    },
+    {
+      "order": 800,
+      "citation": "RS 12:1312",
+      "title": "Managers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76262"
+    },
+    {
+      "order": 801,
+      "citation": "RS 12:1313",
+      "title": "Election and removal of managers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76263"
+    },
+    {
+      "order": 802,
+      "citation": "RS 12:1314",
+      "title": "Duties of members and managers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76264"
+    },
+    {
+      "order": 803,
+      "citation": "RS 12:1315",
+      "title": "Limitation of liability and indemnification of members and managers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76265"
+    },
+    {
+      "order": 804,
+      "citation": "RS 12:1316",
+      "title": "Voting by managers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76266"
+    },
+    {
+      "order": 805,
+      "citation": "RS 12:1317",
+      "title": "Agency power of managers or members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76267"
+    },
+    {
+      "order": 806,
+      "citation": "RS 12:1317.1",
+      "title": "Company representation; state entities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76268"
+    },
+    {
+      "order": 807,
+      "citation": "RS 12:1318",
+      "title": "Voting rights of members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76269"
+    },
+    {
+      "order": 808,
+      "citation": "RS 12:1319",
+      "title": "Records and information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76270"
+    },
+    {
+      "order": 809,
+      "citation": "RS 12:1320",
+      "title": "Liability to third parties of members and managers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76272"
+    },
+    {
+      "order": 810,
+      "citation": "RS 12:1321",
+      "title": "Contributions to capital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76273"
+    },
+    {
+      "order": 811,
+      "citation": "RS 12:1322",
+      "title": "Liability for contribution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76274"
+    },
+    {
+      "order": 812,
+      "citation": "RS 12:1323",
+      "title": "Sharing of profits and losses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76275"
+    },
+    {
+      "order": 813,
+      "citation": "RS 12:1324",
+      "title": "Interim distributions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76276"
+    },
+    {
+      "order": 814,
+      "citation": "RS 12:1325",
+      "title": "Distributions upon withdrawal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76277"
+    },
+    {
+      "order": 815,
+      "citation": "RS 12:1326",
+      "title": "Distribution in kind",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76278"
+    },
+    {
+      "order": 816,
+      "citation": "RS 12:1327",
+      "title": "Restrictions on making distributions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76279"
+    },
+    {
+      "order": 817,
+      "citation": "RS 12:1328",
+      "title": "Liability upon wrongful distribution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76280"
+    },
+    {
+      "order": 818,
+      "citation": "RS 12:1329",
+      "title": "Nature of membership interest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76281"
+    },
+    {
+      "order": 819,
+      "citation": "RS 12:1330",
+      "title": "Assignment of membership interest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76283"
+    },
+    {
+      "order": 820,
+      "citation": "RS 12:1331",
+      "title": "Rights of judgment creditor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76284"
+    },
+    {
+      "order": 821,
+      "citation": "RS 12:1332",
+      "title": "Right of assignee to become a member",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76285"
+    },
+    {
+      "order": 822,
+      "citation": "RS 12:1333",
+      "title": "Powers of estate of a deceased or incompetent member",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76286"
+    },
+    {
+      "order": 823,
+      "citation": "RS 12:1333.1",
+      "title": "Single-member limited liability company; powers of the estate succession representative",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1294831"
+    },
+    {
+      "order": 824,
+      "citation": "RS 12:1334",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76287"
+    },
+    {
+      "order": 825,
+      "citation": "RS 12:1335",
+      "title": "Judicial dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76288"
+    },
+    {
+      "order": 826,
+      "citation": "RS 12:1335.1",
+      "title": "Dissolution by affidavit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76289"
+    },
+    {
+      "order": 827,
+      "citation": "RS 12:1336",
+      "title": "Winding up",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76290"
+    },
+    {
+      "order": 828,
+      "citation": "RS 12:1337",
+      "title": "Distribution of assets",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76291"
+    },
+    {
+      "order": 829,
+      "citation": "RS 12:1338",
+      "title": "Claims against limited liability company in liquidation; peremption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76292"
+    },
+    {
+      "order": 830,
+      "citation": "RS 12:1339",
+      "title": "Articles of dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76293"
+    },
+    {
+      "order": 831,
+      "citation": "RS 12:1340",
+      "title": "Certificate of dissolution; assets omitted from liquidation; post-dissolution proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76295"
+    },
+    {
+      "order": 832,
+      "citation": "RS 12:1341",
+      "title": "Liability of members of dissolved limited liability companies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76296"
+    },
+    {
+      "order": 833,
+      "citation": "RS 12:1342",
+      "title": "Admission of foreign limited liability company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76297"
+    },
+    {
+      "order": 834,
+      "citation": "RS 12:1343",
+      "title": "Transactions not constituting transacting business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76298"
+    },
+    {
+      "order": 835,
+      "citation": "RS 12:1344",
+      "title": "Name of authorized foreign limited company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76299"
+    },
+    {
+      "order": 836,
+      "citation": "RS 12:1345",
+      "title": "Application for certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76300"
+    },
+    {
+      "order": 837,
+      "citation": "RS 12:1346",
+      "title": "Issuance of certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76301"
+    },
+    {
+      "order": 838,
+      "citation": "RS 12:1347",
+      "title": "Effect of certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76302"
+    },
+    {
+      "order": 839,
+      "citation": "RS 12:1348",
+      "title": "Amended certificate of authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76303"
+    },
+    {
+      "order": 840,
+      "citation": "RS 12:1349",
+      "title": "Certificate of correction by a foreign limited liability company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76304"
+    },
+    {
+      "order": 841,
+      "citation": "RS 12:1350",
+      "title": "Registered agent; registered office and principal business establishment; keeping of records by foreign limited liability company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76306"
+    },
+    {
+      "order": 842,
+      "citation": "RS 12:1350.1",
+      "title": "Annual report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76307"
+    },
+    {
+      "order": 843,
+      "citation": "RS 12:1351",
+      "title": "Withdrawal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76308"
+    },
+    {
+      "order": 844,
+      "citation": "RS 12:1352",
+      "title": "Termination of withdrawal proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76309"
+    },
+    {
+      "order": 845,
+      "citation": "RS 12:1353",
+      "title": "Revocation or suspension of certificate of authority; limitation on authority to do business with the state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76310"
+    },
+    {
+      "order": 846,
+      "citation": "RS 12:1354",
+      "title": "Transacting business without authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76311"
+    },
+    {
+      "order": 847,
+      "citation": "RS 12:1355",
+      "title": "Authority to investigate; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76312"
+    },
+    {
+      "order": 848,
+      "citation": "RS 12:1356",
+      "title": "Repealed by Acts 2017, No. 367, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76313"
+    },
+    {
+      "order": 849,
+      "citation": "RS 12:1357",
+      "title": "Merger or consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76314"
+    },
+    {
+      "order": 850,
+      "citation": "RS 12:1358",
+      "title": "Agreement of merger or consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76315"
+    },
+    {
+      "order": 851,
+      "citation": "RS 12:1359",
+      "title": "Approval of merger or consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76316"
+    },
+    {
+      "order": 852,
+      "citation": "RS 12:1360",
+      "title": "Certificate of merger or consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76318"
+    },
+    {
+      "order": 853,
+      "citation": "RS 12:1361",
+      "title": "Effects of merger or consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76319"
+    },
+    {
+      "order": 854,
+      "citation": "RS 12:1362",
+      "title": "Merger or consolidation with foreign entity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76320"
+    },
+    {
+      "order": 855,
+      "citation": "RS 12:1363",
+      "title": "Revocation and reinstatement of articles; limitation on authority to do business within the state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76321"
+    },
+    {
+      "order": 856,
+      "citation": "RS 12:1364",
+      "title": "Filing, service, and copying fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76322"
+    },
+    {
+      "order": 857,
+      "citation": "RS 12:1365",
+      "title": "Derivative actions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=108452"
+    },
+    {
+      "order": 858,
+      "citation": "RS 12:1366",
+      "title": "Applicability of provisions to foreign and interstate commerce",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=108453"
+    },
+    {
+      "order": 859,
+      "citation": "RS 12:1367",
+      "title": "Rules of construction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=108454"
+    },
+    {
+      "order": 860,
+      "citation": "RS 12:1368",
+      "title": "Taxation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=108455"
+    },
+    {
+      "order": 861,
+      "citation": "RS 12:1369",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=108456"
+    },
+    {
+      "order": 862,
+      "citation": "RS 12:1370",
+      "title": "Voting trusts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920501"
+    },
+    {
+      "order": 863,
+      "citation": "RS 12:1400",
+      "title": "PROFESSIONAL SOCIAL WORK CORPORATIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76342"
+    },
+    {
+      "order": 864,
+      "citation": "RS 12:1401",
+      "title": "Professional corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76343"
+    },
+    {
+      "order": 865,
+      "citation": "RS 12:1402",
+      "title": "The corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76344"
+    },
+    {
+      "order": 866,
+      "citation": "RS 12:1403",
+      "title": "Corporate authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76345"
+    },
+    {
+      "order": 867,
+      "citation": "RS 12:1404",
+      "title": "Shares",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76346"
+    },
+    {
+      "order": 868,
+      "citation": "RS 12:1405",
+      "title": "Certificate of stock",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76347"
+    },
+    {
+      "order": 869,
+      "citation": "RS 12:1406",
+      "title": "Liability of incorporators, subscribers, shareholders, directors, officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76348"
+    },
+    {
+      "order": 870,
+      "citation": "RS 12:1407",
+      "title": "Action of shareholders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76349"
+    },
+    {
+      "order": 871,
+      "citation": "RS 12:1408",
+      "title": "Shareholders' agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76350"
+    },
+    {
+      "order": 872,
+      "citation": "RS 12:1409",
+      "title": "Directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76351"
+    },
+    {
+      "order": 873,
+      "citation": "RS 12:1410",
+      "title": "Officers and agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76353"
+    },
+    {
+      "order": 874,
+      "citation": "RS 12:1411",
+      "title": "Merger and consolidation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76354"
+    },
+    {
+      "order": 875,
+      "citation": "RS 12:1412",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76355"
+    },
+    {
+      "order": 876,
+      "citation": "RS 12:1413",
+      "title": "Regulation by the Louisiana State Board of Social Work Examiners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76356"
+    },
+    {
+      "order": 877,
+      "citation": "RS 12:1414",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76357"
+    },
+    {
+      "order": 878,
+      "citation": "RS 12:1501",
+      "title": "Applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76367"
+    },
+    {
+      "order": 879,
+      "citation": "RS 12:1502",
+      "title": "Actions against persons who control business organizations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=76368"
+    },
+    {
+      "order": 880,
+      "citation": "RS 12:1601",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409517"
+    },
+    {
+      "order": 881,
+      "citation": "RS 12:1602",
+      "title": "Conversion of domestic entities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409518"
+    },
+    {
+      "order": 882,
+      "citation": "RS 12:1603",
+      "title": "Conversion application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409519"
+    },
+    {
+      "order": 883,
+      "citation": "RS 12:1604",
+      "title": "Filing and recording conversion application; issuance and effect of certificate of conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409520"
+    },
+    {
+      "order": 884,
+      "citation": "RS 12:1605",
+      "title": "Effect of conversion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409521"
+    },
+    {
+      "order": 885,
+      "citation": "RS 12:1606",
+      "title": "Tax filing requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409522"
+    },
+    {
+      "order": 886,
+      "citation": "RS 12:1607",
+      "title": "Recognition of conversion; updating of professional license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=451711"
+    },
+    {
+      "order": 887,
+      "citation": "RS 12:1701",
+      "title": "Filing Methods",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814559"
+    },
+    {
+      "order": 888,
+      "citation": "RS 12:1702",
+      "title": "Electronic mail addresses and short message service numbers; confidentiality",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920498"
+    },
+    {
+      "order": 889,
+      "citation": "RS 12:1703",
+      "title": "Electronic notification of status changes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920499"
+    },
+    {
+      "order": 890,
+      "citation": "RS 12:1704",
+      "title": "Judicial review; removal of officers, members, managers, and partners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=920500"
+    },
+    {
+      "order": 891,
+      "citation": "RS 12:1705",
+      "title": "Business organizations; juridical personalities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388160"
+    },
+    {
+      "order": 892,
+      "citation": "RS 12:1801",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814560"
+    },
+    {
+      "order": 893,
+      "citation": "RS 12:1802",
+      "title": "Application and effect of Chapter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814561"
+    },
+    {
+      "order": 894,
+      "citation": "RS 12:1803",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814562"
+    },
+    {
+      "order": 895,
+      "citation": "RS 12:1804",
+      "title": "Election of status; corporate name",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814563"
+    },
+    {
+      "order": 896,
+      "citation": "RS 12:1805",
+      "title": "Termination of status",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814564"
+    },
+    {
+      "order": 897,
+      "citation": "RS 12:1811",
+      "title": "Corporate purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814565"
+    },
+    {
+      "order": 898,
+      "citation": "RS 12:1821",
+      "title": "Standard of conduct for directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814566"
+    },
+    {
+      "order": 899,
+      "citation": "RS 12:1822",
+      "title": "Benefit director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814567"
+    },
+    {
+      "order": 900,
+      "citation": "RS 12:1823",
+      "title": "Standard of conduct for officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814568"
+    },
+    {
+      "order": 901,
+      "citation": "RS 12:1824",
+      "title": "Benefit officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814569"
+    },
+    {
+      "order": 902,
+      "citation": "RS 12:1825",
+      "title": "Right of action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814572"
+    },
+    {
+      "order": 903,
+      "citation": "RS 12:1831",
+      "title": "Annual benefit report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814573"
+    },
+    {
+      "order": 904,
+      "citation": "RS 12:1832",
+      "title": "Stock certificates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814574"
+    },
+    {
+      "order": 905,
+      "citation": "RS 12:1851",
+      "title": "Legislative finding; public purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336875"
+    },
+    {
+      "order": 906,
+      "citation": "RS 12:1852",
+      "title": "Creation of fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336878"
+    },
+    {
+      "order": 907,
+      "citation": "RS 12:1853",
+      "title": "Authorization; requirements; regulation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336879"
+    },
+    {
+      "order": 908,
+      "citation": "RS 12:1854",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336880"
+    },
+    {
+      "order": 909,
+      "citation": "RS 12:1855",
+      "title": "Agreement to pool liabilities; initial financial requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336881"
+    },
+    {
+      "order": 910,
+      "citation": "RS 12:1856",
+      "title": "Requirements; excess insurance; administrative and service companies; status; liability; refunds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336882"
+    },
+    {
+      "order": 911,
+      "citation": "RS 12:1857",
+      "title": "Investments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336884"
+    },
+    {
+      "order": 912,
+      "citation": "RS 12:1858",
+      "title": "Authority of department",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336889"
+    },
+    {
+      "order": 913,
+      "citation": "RS 12:1859",
+      "title": "Licensing of agents; claims against insurance agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336890"
+    },
+    {
+      "order": 914,
+      "citation": "RS 12:1860",
+      "title": "Rates; filing; review of rate determination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336891"
+    },
+    {
+      "order": 915,
+      "citation": "RS 12:1861",
+      "title": "Consecutive net losses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336892"
+    },
+    {
+      "order": 916,
+      "citation": "RS 12:1862",
+      "title": "Insolvencies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336894"
+    },
+    {
+      "order": 917,
+      "citation": "RS 12:1863",
+      "title": "Examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336895"
+    },
+    {
+      "order": 918,
+      "citation": "RS 12:1864",
+      "title": "Examination reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336897"
+    },
+    {
+      "order": 919,
+      "citation": "RS 12:1865",
+      "title": "Authorization of the department to employ investigators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336901"
+    },
+    {
+      "order": 920,
+      "citation": "RS 12:1866",
+      "title": "Disclosure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336902"
+    },
+    {
+      "order": 921,
+      "citation": "RS 12:1867",
+      "title": "Departmental complaint directives; failure to comply; fines; hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336903"
+    },
+    {
+      "order": 922,
+      "citation": "RS 12:1868",
+      "title": "Dissolution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336904"
+    },
+    {
+      "order": 923,
+      "citation": "RS 12:1869",
+      "title": "Exclusive use of information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336905"
+    },
+    {
+      "order": 924,
+      "citation": "RS 12:1870",
+      "title": "Jurisdiction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336906"
+    }
+  ]
+}

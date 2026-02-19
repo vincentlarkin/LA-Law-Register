@@ -1,0 +1,19 @@
+RS 14:222.2
+Cellular telephone counterfeiting
+https://www.legis.la.gov/legis/Law.aspx?d=78364
+
+§222.2. Cellular telephone counterfeiting
+A.  For purposes of this Section:
+(1)  "Cellular telephone" means a communication device containing a unique electronic serial number that is programmed into its computer chip by its manufacturer and the operation of which is dependent on the transmission of that electronic serial number along with a mobile identification number, which is assigned by the cellular telephone carrier, in the form of radio signals through cell sites and mobile switching stations.
+(2)  "Cloned cellular telephone" or "counterfeit cellular telephone" means a cellular telephone the electronic serial number of which has been altered from the electronic serial number that was programmed in the phone by the manufacturer.
+(3)  "Cloning paraphernalia" means materials that, when possessed in combination, are necessary for and capable of the creation of a cloned cellular telephone.  These materials include scanners to intercept the electronic serial number and mobile identification number, cellular telephones, cables, EPROM chips, EPROM burners, software for programming the microchip of the cloned cellular telephone with a false electronic serial number and mobile identification number combination, a computer containing such software, and lists of electronic serial number and mobile identification number combinations.
+(4)  "Electronic serial number" means the unique numerical algorithm that is programmed into the microchip of each cellular telephone by the manufacturer and is vital to the successful operation and billing of the telephone.
+(5)  "Intercept" means to electronically capture, record, reveal, or otherwise access the signals emitted or received during the operation of a cellular telephone without the consent of the sender or receiver thereof, by means of any instrument, device, or equipment.
+(6)  "Mobile identification number" means the cellular telephone number assigned to the cellular telephone by the cellular telephone carrier.
+(7)  "Possess" means to have physical possession of or otherwise to exercise dominion or control over tangible property.
+B.  It is unlawful for any person to knowingly possess a cloned cellular telephone.  Any person found guilty of knowingly possessing a cloned cellular telephone shall be fined not more than two thousand dollars or imprisoned with or without hard labor for not more than two years, or both.
+C.  It is unlawful for any person to knowingly sell a cloned cellular telephone.  Any person found guilty of knowingly selling a cloned cellular telephone shall be fined not more than five thousand dollars or imprisoned with or without hard labor for not less than two years nor more than five years, or both.
+D.  It is unlawful for any person to knowingly possess an instrument capable of intercepting electronic serial number and mobile identification number combinations or other cloning paraphernalia under circumstances evidencing an intent to clone a cellular telephone.  Any person violating this provision shall be fined not more than seven thousand five hundred dollars and imprisoned with or without hard labor for not less than five years nor more than seven years.
+E.  On a second and subsequent conviction of any of the offenses provided for in this Section, the offender shall be fined not less than ten thousand dollars nor more than fifteen thousand dollars and imprisoned with or without hard labor for not more than ten years.
+F.  Nothing herein shall make unlawful the possession or use of cloning paraphernalia, a cloned cellular telephone, or any intercept by a law enforcement officer or persons acting pursuant to a lawful court order in the course of a criminal investigation.
+Acts 1997, No. 1014, §1.

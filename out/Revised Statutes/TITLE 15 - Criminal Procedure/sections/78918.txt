@@ -1,0 +1,18 @@
+RS 15:1228.6
+Component systems
+https://www.legis.la.gov/legis/Law.aspx?d=78918
+
+§1228.6.  Component systems
+The component systems of the ICJIS shall include but are not limited to the following systems:
+(1)  The Law Enforcement Management Information System (LaLEMIS) developed by the Louisiana Commission on Law Enforcement and Administration of Criminal Justice for use by local law enforcement agencies.
+(2)  The Louisiana Uniform Crime Reporting System (LUCR) operated by the Louisiana Commission on Law Enforcement and Administration of Criminal Justice.
+(3)  The Louisiana Incident Based Crime Reporting System (LIBRS) operated by the Louisiana Commission on Law Enforcement and Administration of Criminal Justice.
+(4)  The Louisiana Computerized Criminal History System (LaCCH) operated by the Department of Public Safety and Corrections.
+(5)  The Automated Fingerprint Identification System (AFIS) operated by the Department of Public Safety and Corrections.
+(6)  The Corrections Offender Management System operated by the Department of Public Safety and Corrections.
+(7)  The Juvenile Electronic Tracking System (JETS) operated by the Department of Public Safety and Corrections.
+(8)  The Case Management Information System (CMIS) operated by the Louisiana Supreme Court, to the extent to which the chief justice shall deem the system a part of the ICJIS.
+(9)  Communications networks or devices which link one or more components of the ICJIS and involve the participation of more than one agency.
+(10)  Any other criminal justice information system which may be developed by the state to serve more than one agency and which is properly a part of the ICJIS as determined by the policy board.
+(11)  Any system to provide services to crime victims such as an automated crime victim notification system.
+Acts 1999, No. 864, §1; Acts 2012, No. 532, §1.

@@ -1,0 +1,67 @@
+RS 14:73.1
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=78652
+
+SUBPART D.  COMPUTER RELATED CRIME
+§73.1.  Definitions
+As used in this Subpart unless the context clearly indicates otherwise:
+(1)  "Access" means to program, to execute programs on, to communicate with, store
+data in, retrieve data from, or otherwise make use of any resources, including data or
+programs, of a computer, computer system, or computer network.
+(2)  "Computer" includes an electronic, magnetic, optical, or other high-speed data
+processing device or system performing logical, arithmetic, and storage functions, and
+includes any property, data storage facility, or communications facility directly related to or
+operating in conjunction with such device or system.  "Computer" shall not include an
+automated typewriter or typesetter, a machine designed solely for word processing, or a
+portable hand-held calculator, nor shall "computer" include any other device which might
+contain components similar to those in computers but in which the components have the sole
+function of controlling the device for the single purpose for which the device is intended.
+(3)  "Computer network" means a set of related, remotely connected devices and
+communication facilities including at least one computer system with capability to transmit
+data through communication facilities.
+(4)  "Computer program" means an ordered set of data representing coded
+instructions or statements that when executed by a computer cause the computer to process
+data.
+(5)  "Computer services" means providing access to or service or data from a
+computer, a computer system, or a computer network, and also includes but is not limited to
+data processing services, Internet services, electronic mail services, electronic message
+services, or information or data stored in connection therewith.
+(6)  "Computer software" means a set of computer programs, procedures, and
+associated documentation concerned with operation of a computer system.
+(7)  "Computer system" means a set of functionally related, connected or
+unconnected, computer equipment, devices, or computer software.
+(8)  "Electronic mail service provider" means any person who both:
+(a)  Is an intermediary in sending or receiving electronic mail.
+(b)  Provides to end-users of electronic mail services the ability to send or receive
+electronic mail.
+(9)  "Financial instrument" means any check, draft, money order, certificate of
+deposit, letter of credit, bill of exchange, access card as defined in R.S. 14:67.3, or
+marketable security.
+(10)  "Intellectual property" includes data, computer programs, computer software,
+trade secrets as defined in R.S. 51:1431, copyrighted materials, and confidential or
+proprietary information, in any form or medium, when such is stored in, produced by, or
+intended for use or storage with or in a computer, a computer system, or a computer network.
+(11)  "Internet, virtual, street-level map" means any map or image that contains the
+picture or pictures of homes, buildings, or people that are taken and dispensed, electronically,
+over the internet or by a computer network, where the picture can be accessed by entering
+the address of the home, building, or person.
+(12)  "Internet-connected device" means a physical object to which both of the
+following apply:
+(a)  Is capable of connecting to, and is in regular connection with, the internet.
+(b)  Has computer processing capabilities that can collect, send, or receive data.
+(13)  "Proper means" includes:
+(a)  Discovery by independent invention.
+(b)  Discovery by "reverse engineering", that is by starting with the known product
+and working backward to find the method by which it was developed.  The acquisition of the
+known product must be by lawful means.
+(c)  Discovery under license or authority of the owner.
+(d)  Observation of the property in public use or on public display.
+(e)  Discovery in published literature.
+(14)  "Property" means property as defined in R.S. 14:2(A) and shall specifically
+include but not be limited to financial instruments, electronically stored or produced data,
+and computer programs, whether in machine readable or human readable form.
+(15)  "Unsolicited bulk electronic mail" means any electronic message which is
+developed and distributed in an effort to sell or lease consumer goods or services and is sent
+in the same or substantially similar form to more than one thousand recipients.
+Acts 1984, No. 711, §1; Acts 1999, No. 1180, §1; Acts 2010, No. 62, §1; Acts 2019,
+No. 292, §1.

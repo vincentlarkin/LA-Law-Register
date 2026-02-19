@@ -1,0 +1,116 @@
+RS 15:933
+Office of juvenile justice; statistical data collection; reporting
+https://www.legis.la.gov/legis/Law.aspx?d=1016154
+
+§933.  Office of juvenile justice; statistical data collection; reporting
+A.  Statistical data collection.  The office of juvenile justice shall collect, maintain,
+and regularly report a record of statistical data concerning the services it provides, the youth
+it serves, the outcomes experienced by the youth, and the funds it expends.
+B.  Publication and reporting.  (1)  The office of juvenile justice shall tabulate,
+analyze, and publish electronically, on the website maintained by the office of juvenile
+justice, on or before January fifteenth and June fifteenth of each year, the complete set of
+statistical data required to be collected and reported under this Section.
+(2)  The first such electronic publication of all data collected and reported in this
+Section shall be published electronically no later than January 15, 2018.
+(3)  The statistical data published under this Section shall not include any identifying
+information concerning any youth served by the office of juvenile justice, but shall be limited
+to the nonidentifying information authorized for release under Children's Code Article
+412(B).
+C.  Maintenance of data.  All data collected and maintained under this Section shall
+be maintained by the office and shall remain available through the office's website for a
+minimum of five years after collection.
+D.  Data to be collected and maintained.  The data collected and maintained under
+this Section shall include but not be limited to the following data points for each child
+served:
+(1)  Name.
+(2)  Unique identification number assigned for the purposes of analyzing and
+reporting de-identified data.
+(3)  Date of birth.
+(4)  Gender.
+(5)  Race and ethnicity.
+(6)  Parish of residence.
+(7)  Parish in which the child was committed or placed on probation.
+(8)  Offenses with which the child was initially petitioned, with each offense stored
+as an individual variable.
+(9)  Offenses of adjudication, including variety of status offense, if applicable, with
+each offense stored as an individual variable.
+(10)  Date of adjudication prior to the disposition resulting in the child being placed
+under the supervision, care, or custody of the office of juvenile justice.
+(11)  Date of disposition resulting in the child being placed under the supervision,
+care, or custody of the office of juvenile justice.
+(12)  The child's total number of prior episodes, disaggregated by whether the offense
+leading to each episode was a misdemeanor, felony, or both.
+(13)  The most serious known offense of the child.
+(14)  Length of disposition imposed that resulted in the child being placed under the
+supervision, care, or custody of the office of juvenile justice.
+(15)  Length of suspended commitment imposed that resulted in the child being
+placed under the supervision, care, or custody of the office of juvenile justice.
+(16)  If the child was revoked on probation or parole, whether the revocation was
+initiated by motion of the office of juvenile justice, the district attorney, or both.
+(17)  The initial judicial disposition of a child committed to the custody of the office
+of juvenile justice.
+(18)  The initial office of juvenile justice disposition for a child committed to the
+custody of the office of juvenile justice.
+(19)  The total amount of time spent in secure care.
+(20)  The total amount of time spent in nonsecure care.
+(21)  The release date.
+(22)  The length of time on parole supervision.
+(23)  If any recommendation is made for the early release by the office of juvenile
+justice.
+(24)  Whether or not the office of juvenile justice's recommendation for early release
+was granted.
+(25)  The number of days spent in a detention center after commitment to the office
+of juvenile justice and prior to placement in a secure or nonsecure facility.
+(26)  If the child was committed to the secure custody of the office of juvenile justice:
+(a)  The last school grade completed by the child before commitment.
+(b)  The last school grade completed by the child upon release from the custody of
+the office of juvenile justice.
+(c)  If the child was on HISET or Carnegie Units while in the custody of the office
+of juvenile justice.
+E.  Data to be reported.  The reports mandated by the office of juvenile justice shall
+include but not be limited to the following data:
+(1)  Disaggregated by race, ethnicity, gender, parish of prosecution, and most serious
+offense of adjudication, data including:
+(a)  The total number of children admitted to the custody of the office of juvenile
+justice during the preceding year, further disaggregated by whether the admission was
+incident to an initial disposition, a revocation of probation, or a revocation of parole.
+(b)  The total number of children who spent a minimum of one day in the office of
+juvenile justice's secure custody during the preceding year.
+(c)  The total number of children who spent a minimum of one day in the office of
+juvenile justice's nonsecure custody during the preceding year.
+(d)  The duration of the commitment imposed by the court for all children admitted
+to the custody of the office of juvenile justice during the preceding year.
+(e)  The average length of stay in secure custody of all children released from the
+office of juvenile justice's secure custody in the preceding year.
+(f)  The average length of stay in nonsecure custody of all children released from the
+office of juvenile justice's nonsecure custody in the preceding year.
+(g)  The total number of youth placed under the probation supervision of the office
+of juvenile justice during the preceding year.
+(h)  The total number of youth placed under the parole supervision of the office of
+juvenile justice during the preceding year.
+(i)  The total number of youth who spent a minimum of one day under the parole
+supervision of the office of juvenile justice during the preceding year.
+(j)  The total number of days spent by youth in a detention center after commitment
+to the office of juvenile justice, but before placement in a nonsecure or secure custody
+facility, during the preceding year.
+(k)  The total number of days spent by children committed to the custody of the office
+of juvenile justice in each office of juvenile justice secure facility, and in each nonsecure
+facility in which the office of juvenile justice places youth in its custody, during the
+preceding year.
+(2)  The average daily caseload of office of juvenile justice probation officers during
+the preceding year, disaggregated by legal status.
+(3)  The total cost of operating each office of juvenile justice secure facility,
+disaggregated by facility, in the preceding year, with the following costs disaggregated: cost
+of facilities, cost of staffing, cost of mental health treatment, and cost of educational services.
+(4)  The total amount actually paid by the state of Louisiana to each nonsecure facility
+for the custody and care of youth committed to the custody of the office of juvenile justice
+during the preceding year.
+(5)  The one-, two-, and three-year recidivism rates of youth served by the office of
+juvenile justice, disaggregated by most serious offense of adjudication and whether the youth
+was served on probation, in secure custody, or in nonsecure custody.
+F.  Coordination with other entities.  The office shall cooperate and coordinate with
+courts, juvenile court clerks, detention centers, and public and private agencies in the
+collection of this statistical data.  In order to facilitate the collection of the information
+required by this Section, the department shall be authorized to inspect and copy all records
+of the court and law enforcement agencies pertaining to youth served by the department.
+Acts 2016, No. 499, §1.

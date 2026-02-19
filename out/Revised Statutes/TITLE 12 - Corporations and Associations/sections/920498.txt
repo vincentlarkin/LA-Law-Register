@@ -1,0 +1,33 @@
+RS 12:1702
+Electronic mail addresses and short message service numbers; confidentiality
+https://www.legis.la.gov/legis/Law.aspx?d=920498
+
+§1702.  Confidentiality of information
+A.  Any electronic mail address, internet protocol address number, or short message
+service number submitted to or captured by the secretary of state pursuant to the provisions
+of this Title shall be confidential and shall not be disclosed by the secretary of state or any
+employee or official of the Department of State.
+B.  Computer system or program information, including software, related menus,
+flow charts, network diagrams, user names, non-public uniform resource locators, database
+object names, computer names, device identifiers and materials, prompts, dialogues,
+operating and instruction manuals, programming materials or instructions, any other
+computer operating or support materials relating to the secretary of state's computer systems
+and equipment, and any information contained within the secretary of state's computer
+systems which if disclosed may impair the security of the secretary of state's information
+technology infrastructure shall be confidential and shall not be disclosed by the secretary of
+state or any employee or official of the Department of State.
+C.  The provisions of Subsection A of this Section shall not prohibit the disclosure
+of electronic mail addresses, internet protocol address numbers, or short message service
+numbers by the secretary of state or any employee or official of the Department of State to
+an agency, official, or employee of state government or of a political subdivision of the state
+in the course of the interaction of the agency, official, or employee with the Department of
+State.  An agency, official, or employee that receives electronic mail  addresses, internet
+protocol address numbers, or short message service numbers pursuant to this Subsection
+shall use the electronic mail addresses, internet protocol address numbers, or short message
+service numbers only for the governmental purposes for which the information was
+submitted or captured, shall not disclose the electronic mail addresses, internet protocol
+address numbers, or short message service numbers, and shall maintain the confidentiality
+of the electronic mail addresses, internet protocol address numbers, and short message
+service numbers.
+Acts 2014, No. 162, §1; Acts 2014, No. 328, §1, eff. Jan. 1, 2015; Acts 2019, No. 19,
+§2, eff. May 28, 2019.

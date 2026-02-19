@@ -1,0 +1,113 @@
+RS 14:90.3
+Gambling by computer
+https://www.legis.la.gov/legis/Law.aspx?d=78701
+
+§90.3.  Gambling by computer
+A.  The Legislature of Louisiana, desiring to protect individual rights, while at the
+same time affording opportunity for the fullest development of the individual and promoting
+the health, safety, education, and welfare of the people, including the children of this state
+who are our most precious and valuable resource, finds that the state has a compelling
+interest in protecting its citizens and children from certain activities and influences which can
+result in irreparable harm.  The legislature has expressed its intent to develop a controlled
+well-regulated gaming industry.  The legislature is also charged with the responsibility of
+protecting and assisting its citizens who suffer from compulsive or problem gaming behavior
+which can result from the increased availability of legalized gaming activities.  The
+legislature recognizes the development of the Internet and the information super highway
+allowing communication and exchange of information from all parts of the world and freely
+encourages this exchange of information and ideas.  The legislature recognizes and
+encourages the beneficial effects computers, computer programming, and use of the Internet
+resources have had on the children of the state of Louisiana by expanding their educational
+horizons.  The legislature further recognizes that it has an obligation and responsibility to
+protect its citizens, and in particular its youngest citizens, from the pervasive nature of
+gambling which can occur via the Internet and the use of computers connected to the
+Internet.  Gambling has long been recognized as a crime in the state of Louisiana and despite
+the enactment of many legalized gaming activities remains a crime.  Gambling which occurs
+via the Internet embodies the very activity that the legislature seeks to prevent.  The
+legislature further recognizes that the state's constitution and that of the United States are
+declarations of rights which the drafters intended to withstand time and address the wrongs
+and injustices which arise in future years.  The legislature hereby finds and declares that it
+has balanced its interest in protecting the citizens of this state with the protection afforded
+by the First Amendment, and the mandates of Article XII, Section 6 of the Constitution of
+Louisiana and that this Section is a product thereof.
+B.  Gambling by computer is the intentional conducting, or directly assisting in the
+conducting as a business of any game, contest, lottery, or contrivance whereby a person risks
+the loss of anything of value in order to realize a profit when accessing the Internet, World
+Wide Web, or any part thereof by way of any computer, computer system, computer network,
+computer software, or any server.
+C.  For purposes of this Section the following definitions apply:
+(1)  "Client" means anyone using a computer to access a computer server.
+(2)  "Computer" includes an electronic, magnetic, optical, or other high-speed data
+processing device or system performing logical, arithmetic, and storage functions, and
+includes any property, data storage facility, or communications facility directly related to or
+operating in conjunction with such device or system.  "Computer" shall not include an
+automated typewriter or typesetter, a machine designed solely for word processing, or a
+portable hand-held calculator, nor shall "computer" include any other device which might
+contain components similar to those in computers but in which the components have the sole
+function of controlling the device for the single purpose for which the device is intended.
+(3)  "Computer network" means a set of related, remotely connected devices and
+communication facilities including at least one computer system with capability to transmit
+data through communication facilities.
+(4)  "Computer services" means providing access to or service or data from a
+computer, a computer system, or a computer network.
+(5)  "Computer software" means a set of computer programs, procedures, and
+associated documentation concerned with operation of a computer system.
+(6)  "Computer system" means a set of functionally related, connected or
+unconnected, computer equipment, devices, or computer software.
+(7)  "Home Page" means  the index or location for each computer site on the World
+Wide Web.
+(8)  "Internet" means the global information system that is logically linked together
+by a globally unique address space based on the Internet Protocol or its subsequent
+extensions, is able to support communications using the Transmission Control
+Protocol/Internet Protocol suite or its subsequent extensions, and other Internet Protocol
+compatible protocols, and provides, uses or makes accessible, either publicly or privately,
+high level services layered on the communications and related infrastructure described
+herein.
+(9)  "Server" means a computer that listens for and services a client.
+(10)  "World Wide Web" means a server providing connections to mega lists of
+information on the Internet; it is made up of millions of individual web sites linked together.
+D.  Whoever commits the crime of gambling by computer shall be fined not more
+than five hundred dollars, or imprisoned for not more than six months, or both.
+E.  Whoever designs, develops, manages, supervises, maintains, provides, or
+produces any computer services, computer system, computer network, computer software,
+or any server providing a Home Page, Web Site, or any other product accessing the Internet,
+World Wide Web, or any part thereof offering to any client for the primary purpose of the
+conducting as a business of any game, contest, lottery, or contrivance whereby a person risks
+the loss of anything of value in order to realize a profit shall be fined not more than twenty
+thousand dollars, or imprisoned with or without hard labor, for not more than five years, or
+both.
+F.  The conducting or assisting in the conducting of gaming activities or operations
+upon a riverboat, at the official gaming establishment, by operating an electronic video draw
+poker device, by a charitable gaming licensee, or at a pari-mutuel wagering facility,
+conducting slot machine gaming at an eligible horse racing facility, or the operation of a state
+lottery which is licensed for operation and regulated under the provisions of Chapters 4 and
+11 of Title 4, Chapters 4, 5, 6, and 7 of Title 27, or Subtitle XI of Title 47 of the Louisiana
+Revised Statutes of 1950, shall not be considered gambling by computer for the purposes of
+this Section, so long as the wagering is done on the premises of the licensed establishment.
+G.  The conducting or assisting in the conducting of pari-mutuel wagering at licensed
+racing facilities under the provisions of Chapter 4 of Title 4 of the Louisiana Revised Statutes
+of 1950, shall not be considered gambling by computer for the purposes of this Section so
+long as the wagering is done on the premises of the licensed establishment.
+H.  Nothing in this Section shall prohibit, limit, or otherwise restrict the purchase,
+sale, exchange, or other transaction related to stocks, bonds, futures, options, commodities,
+or other similar instruments or transactions occurring on a stock or commodities exchange,
+brokerage house, or similar entity.
+I.  The providing of Internet or other on-line access, transmission, routing, storage,
+or other communication related services, or Web Site design, development, storage,
+maintenance, billing, advertising, hypertext linking, transaction  processing, or other site
+related services, by telephone companies, Internet Service Providers, software developers,
+licensors, or other such parties providing such services to customers in the normal course of
+their business, shall not be considered gambling by computer even though the activities of
+such customers using such services to conduct a prohibited game, contest, lottery, or
+contrivance may constitute gambling by computer for the purposes of this Section.  The
+provisions of this Subsection shall not exempt from criminal prosecution any telephone
+company, Internet Service Provider, software developer, licensor, or other such party if its
+primary purpose in providing such service is to conduct gambling as a business.
+J.  Except as provided in R.S. 27:305, participation in any fantasy sports contest as
+defined by R.S. 27:302 shall not be considered gambling by computer for the purposes of this
+Section.
+K.  Sports wagering shall not be considered gambling by computer for purposes of
+this Section so long as the wagering is conducted in compliance with Chapter 10 of Title 27
+of the Louisiana Revised Statutes of 1950 or Chapter 10 of Subtitle XI of Title 47 of the
+Louisiana Revised Statutes of 1950.
+Acts 1997, No. 1467, §1; Acts 2010, No. 518, §1; Acts 2018, No. 322, §3, see Act;
+Acts 2021, No. 80, §2, eff. July 1, 2021; Acts 2021, No. 440, §3, eff. July 1, 2021.

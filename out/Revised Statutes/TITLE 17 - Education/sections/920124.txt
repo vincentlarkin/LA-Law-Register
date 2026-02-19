@@ -1,0 +1,305 @@
+RS 17:3914
+Student information; privacy; legislative intent; definitions; prohibitions; parental access; penalties
+https://www.legis.la.gov/legis/Law.aspx?d=920124
+
+§3914.  Student information; privacy; legislative intent; definitions; prohibitions; parental
+access; penalties
+A.  The legislature hereby declares that all personally identifiable information is
+protected as a right to privacy under the Constitution of Louisiana and the Constitution of the
+United States.
+B.(1)  For purposes of this Section, "personally identifiable information" is defined
+as information about an individual that can be used on its own or with other information to
+identify, contact, or locate a single individual, including but not limited to the following:
+(a)  Any information that can be used to distinguish or trace an individual's identity
+such as full name, social security number, date and place of birth, mother's maiden name, or
+biometric records.
+(b)  Any other information that is linked or linkable to an individual such as medical,
+educational, financial, and employment information.
+(c)  Two or more pieces of information that separately or when linked together can
+be used to reasonably ascertain the identity of the person.
+(2)  For purposes of this Section, "aggregate data" are statistics and other information
+that relate to broad classes, groups, or categories from which it is not possible to distinguish
+the identities of individuals.
+(3)  For purposes of this Section, "parent or legal guardian" shall mean a student's
+parent, legal guardian, or other person or entity responsible for the student.
+C.(1)  Notwithstanding any provision of this Subpart or any other law to the contrary,
+no official or employee of a city, parish, or other local public school system shall require the
+collection of any of the following student information unless voluntarily disclosed by the
+parent or legal guardian:
+(a)  Political affiliations or beliefs of the student or the student's parent.
+(b)  Mental or psychological problems of the student or the student's family.
+(c)  Sexual behavior or attitudes.
+(d)  Illegal, anti-social, self-incriminating, or demeaning behavior.
+(e)  Critical appraisals of other individuals with whom a student has a close family
+relationship.
+(f)  Legally recognized privileged or analogous relationships, such as those of
+lawyers, physicians, and ministers.
+(g)  Religious practices, affiliations, or beliefs of the student or the student's parent.
+(h)  Family income.
+(i)  Biometric information.
+(j)  Repealed by Acts 2025, No. 187, §2.
+(k)  Gun ownership.
+(l)  Home Internet Protocol Address.
+(m)  External digital identity.
+(2)  No official or employee of a city, parish, or other local public school system shall
+provide personally identifiable student information to any member of the school board or to
+any other person or public or private entity, except such an official or employee may, in
+accordance with applicable state and federal law:
+(a)  Provide a student's identification number as provided in Paragraph (3) of this
+Subsection and aggregate data to the local school board, the state Department of Education,
+or the State Board of Elementary and Secondary Education solely for the purpose of
+satisfying state and federal reporting requirements.
+(b)(i)  Provide to the state Department of Education, for the purpose of satisfying
+state and federal assessment, auditing, funding, monitoring, program administration, and
+state accountability requirements, information from which enough personally identifiable
+information has been removed such that the remaining information does not identify a
+student and there is no basis to believe that the information alone can be used to identify a
+student.  No official or employee of the state Department of Education shall share such
+information with any person or public or private entity located outside of Louisiana, other
+than for purposes of academic analysis of assessments or for purposes of research as
+authorized in Item (ii) of this Subparagraph.
+(ii)  An official or employee of the state Department of Education may share such
+information with a person who is an employee of, and conducting academic research at, any
+postsecondary education institution accredited by a regional or national accrediting
+organization recognized by the United States Department of Education, provided the person
+and the department have entered into a memorandum of understanding in which the person
+agrees to be liable for any criminal and civil penalties imposed as provided in Subsection G
+of this Section for any violation of the provisions of this Section.
+(c)  Provide personally identifiable information regarding a particular student to any
+person or public or private entity if the sharing of the particular information with the
+particular recipient of the information has been authorized in writing by the parent or legal
+guardian of the student, or by a student who has reached the age of legal majority, or if the
+information is provided to a person authorized by the state, including the legislative auditor,
+to audit processes including student enrollment counts.  Any recipient of such information
+shall maintain the confidentiality of such information.  Any person who knowingly and
+willingly fails to maintain the confidentiality of such information shall be subject to the
+penalties provided in Subsection G of this Section.
+(d)  Provide for the transfer of student information pursuant to the provisions of R.S.
+17:112.
+(e)  Provide student information for a school year prior to the 2015-2016 school year
+for the purpose of completing or correcting required submissions to the state Department of
+Education or responding to financial audits.
+(3)  By not later than May 1, 2015, the state Department of Education shall develop
+a system of unique student identification numbers.  By not later than August 1, 2015, each
+local public school board shall assign such a number to every student enrolled in a public
+elementary or secondary school.  Student identification numbers shall not include or be based
+on social security numbers, and a student shall retain his student identification number for
+his tenure in Louisiana public elementary and secondary schools.
+D.(1)  Except as provided in Paragraphs (2) and (3) of this Subsection, no person or
+public or private entity shall access a public school computer system on which student
+information is stored.  No official or employee of a public school system shall authorize
+access to such a computer system to any person or public or private entity except as
+authorized by Paragraphs (2) and (3) of this Subsection.
+(2)  The following persons may access a public school computer system on which
+student information for students at a particular school is stored:
+(a)  A student who has reached the age of eighteen or is judicially emancipated or
+emancipated by marriage and the parent or legal guardian of a student who is under the age
+of eighteen and not emancipated.  For a student who has reached the age of eighteen or is
+emancipated, such access is limited to information about the student. For the parent or legal
+guardian of a student who has not reached the age of eighteen and is not emancipated, such
+access shall be limited to information about the student. A student who has reached the age
+of eighteen or is emancipated and the parent or legal guardian of a student who has not
+reached the age of eighteen and is not emancipated may authorize, in writing, another person
+to access such information.
+(b)  A teacher of record.  Such access shall be limited to information about his current
+students.
+(c)  The school principal and school registrar.
+(d)  A school system employee employed at the school and designated by the
+principal.  Such access shall be limited to student information necessary to perform his
+duties.
+(e)  A person authorized by the superintendent to maintain or repair the computer
+system or to provide services that the school system would otherwise provide.
+(f)  A person authorized by the state to audit student records.
+(3)  The following persons may access a computer system of a city, parish, or other
+local public school system on which student information for students from throughout the
+system is stored:
+(a)  The superintendent of the school system.
+(b)  A school system employee designated by the superintendent.  Such access shall
+be limited to student information necessary to perform his duties.
+(c)  A person authorized by the superintendent to maintain or repair the computer
+system or to provide services that the school system would otherwise provide.
+(d)  A person authorized by the state to audit student records.
+(4)  Any person who is authorized by this Subsection to access a public school
+computer system, except a parent or legal guardian, shall maintain the confidentiality of any
+student information to which he has access.  Failure to maintain the confidentiality of such
+information is punishable as provided in Subsection G of this Section.
+E.(1)  No person who has access to student information shall convert the student
+information as specified in Subparagraph (C)(2)(b) of this Section such that the remaining
+information can be used to identify a student.
+(2)  The State Board of Elementary and Secondary Education and the state
+Department of Education shall not require a city, parish, or other local public school system
+to limit a student's learning opportunity or opportunities to explore any occupation based
+upon predictive modeling.
+F.(1)  A city, parish, or other local public school board may contract with a public or
+private entity for student and other education services, and pursuant to such contract, student
+information, including personally identifiable information and cumulative records, may be
+transferred to computers operated and maintained by the entity for such purpose.
+(2)  No contractor pursuant to this Subsection shall allow access to, release, or allow
+the release of student information to any person or entity except as specified in the contract.
+No contractor shall use student information to conduct predictive modeling for the purpose
+of limiting the educational opportunities of students.
+(3)  A contract pursuant to this Subsection shall include requirements regarding the
+protection of student information which at a minimum include provision for all of the
+following:
+(a)  Guidelines for authorizing access to computer systems on which student
+information is stored including guidelines for authentication of authorized access.
+(b)  Privacy compliance standards.
+(c)  Privacy and security audits performed under the direction of the local school
+superintendent.
+(d)  Breach planning, notification, and remediation procedures.
+(e)  Information storage, retention, and disposition policies.
+(f)  Disposal of all information from the servers of the contractor upon termination
+of the contract, unless otherwise directed by an applicable legal requirement or otherwise
+specified in the contract and subject to the privacy protection provisions of this Part.  Upon
+termination of the contract, all information removed from the contractor's servers shall be
+returned to the city, parish, or other local public school board.
+(4)  The requirements of Paragraph (3) of this Subsection shall not apply to a contract
+entered into prior to June 1, 2015, for the acquisition of goods, equipment, or instructional
+materials purchased in accordance with R.S. 38:2212.1(E), (F), or (N) but shall apply to any
+extension or renewal of such contract.
+(5)  Any person who knowingly and willingly violates the provisions of this
+Subsection shall be fined not more than ten thousand dollars or imprisoned for not more than
+three years, or both.
+G.  Except as provided in Paragraph (F)(5) of this Section, a person who violates any
+provision of this Section shall be punished by imprisonment for not more than six months
+or by a fine of not more than ten thousand dollars.
+H.  Nothing in this Section shall prohibit a person employed in a public school or
+other person authorized by the superintendent of the public school or school system from
+being provided or having access to a student's records in accordance with a policy adopted
+by the local public school board for such purpose.
+I.  The provisions of this Part shall apply to each charter school, its governing
+authority, and any education management organization under contract to operate a charter
+school.
+J.(1)  No city, parish, or other local public school system, local or state governmental
+agency, public or private entity, or any person with access to personally identifiable student
+information shall sell, transfer, share, or process any student data for use in commercial
+advertising, or marketing, or any other commercial purpose, unless otherwise stipulated in
+a contract for services as provided in Subsection (F) of this Section.
+(2)  The provisions of Paragraph (1) of this Subsection shall not apply to a student's
+parent or legal guardian, or a student who has reached the legal age of majority.
+K.(1)  Notwithstanding any provision of this Part to the contrary, the governing
+authority of each public school, with the permission of a student's parent or legal guardian,
+shall collect the following personally identifiable information for each student enrolled in
+grades eight through twelve:
+(a)  Full name.
+(b)  Date of birth.
+(c)  Social security number.
+(d)  Student transcript data.
+(e)  Race and ethnicity data.
+(2)  The governing authority of a public school and the company that the state has
+contracted with to develop the unique student identifier shall disclose the information
+collected pursuant to Paragraph (1) of this Subsection, upon request, only to:
+(a)  A Louisiana postsecondary education institution, to be used solely for the purpose
+of processing applications for admission and for compliance with state and federal reporting
+requirements.
+(b)  The Board of Regents and the office of student financial assistance, as a program
+under its jurisdiction, to be used for the purpose of processing applications made to the office
+for state and federal grants and for required grant program reporting; for the purposes of
+providing reports to each public school governing authority on the postsecondary education
+remediation needs, retention rates, and graduation rates for each high school under its
+jurisdiction; and for the purpose of evaluating comparative postsecondary education
+performance outcomes based on student transcript data in order to develop policies designed
+to improve student academic achievement.
+(3)(a)  The governing authority of each public school shall, at the beginning of each
+school year, provide a form to be signed by the parent or legal guardian of each student in
+grades eight through twelve enrolled in the school, whereby the student's parent or legal
+guardian may provide consent or deny consent for the collection and disclosure of the
+student's information as provided in Paragraphs (1) and (2) of this Subsection.
+(b)  No data shall be collected pursuant to this Subsection, unless a student's parent
+or legal guardian provides written consent.
+(c)  The form shall contain the following:
+(i)  A statement notifying the student's parent or legal guardian exactly what items of
+student information will be collected and that disclosure of the student information collected
+will be restricted to Louisiana postsecondary education institutions to be used for the
+purposes of processing applications for admission and for compliance with state and federal
+reporting requirements to the Board of Regents and to the office of student financial
+assistance, as a program under the board's jurisdiction, to be used for the purposes of
+processing applications for admission and for state and federal financial aid for required
+grant program reporting; for providing reports to the school governing authority on the
+postsecondary education remediation needs, retention rates, and graduation rates for each
+high school under its jurisdiction; and for evaluating comparative postsecondary education
+performance outcomes based on student transcript data in order to develop policies designed
+to improve student academic achievement.
+(ii)  Notification that the failure to provide written consent for the collection and
+disclosure of the student's information as provided in this Subsection may result in delays or
+may prevent successful application for admission to a postsecondary educational institution
+and for state and federal student financial aid.  This statement shall be displayed prominently
+and shall be printed in bold type.
+(d)  Consent provided by a student's parent or legal guardian shall continue unless
+such consent is withdrawn in writing.  Annual notification shall be provided to the student's
+parent or legal guardian as to the right and process used to withdraw consent.
+(4)  Each Louisiana postsecondary education institution, the Board of Regents, and
+the Office of Student Financial Assistance shall destroy all data collected for purposes of this
+Subsection not later than five years after the student graduates, unless otherwise required by
+state or federal law or regulation.
+L.(1)  Notwithstanding any provision of this Part to the contrary, a local public school
+system and the governing authority of a Type 2 charter school that enrolls students who
+reside within the geographic boundaries of the local school system shall enter into a
+memorandum of understanding to exchange student information necessary to verify student
+enrollment and residency status.  The local public school system and the charter school
+governing authority shall keep such information strictly confidential and shall use the
+information for no other purpose than verifying student enrollment and residency.
+(2)  A memorandum of understanding entered into pursuant to the provisions of this
+Subsection shall comply with all applicable state and federal law, including the Family
+Educational Rights Privacy Act.
+(3)  Any person who knowingly and willfully fails to maintain the confidentiality of
+such information shall be subject to the penalties provided in Subsection G of this Section.
+M.(1)  Notwithstanding any provision of law to the contrary and except as provided
+in Paragraph (2) of this Subsection, the governing authority of each public or nonpublic
+school or other entity that participates in a meal program through which students are eligible
+for the summer electronic benefits transfer program shall share student information with the
+Louisiana Department of Health for the purpose of facilitating program administration,
+including but not limited to the automatic issuance of benefits to eligible families.  Such
+information shall be limited to the first name, middle name, last name, address, school site
+code, student unique identifier, and date of birth of each student eligible for free or reduced
+price meals at school.
+(2)  Such a governing authority shall not share a student's information if his parent
+or legal guardian has chosen not to share information pursuant to the policy of the governing
+authority.
+N.(1)  Notwithstanding any provision of this Section to the contrary, each public
+secondary school governing authority shall do the following:
+(a)  For the sole purpose of evaluating state and federal programs that prepare
+students for postsecondary education, workforce training, and employment, including the
+return on investment analysis conducted by Louisiana Works pursuant to R.S. 17:3138.13,
+collect the social security number of each student who is pursuing a diploma, not later than
+the beginning of the student's senior year.  In order to facilitate the performance of these
+evaluations, each governing authority shall share the collected social security numbers,
+matched to the corresponding student names and unique student identification numbers, with
+the state Department of Education, and the department shall share the social security numbers
+and other information with Louisiana Works.  The departments shall keep the social security
+numbers confidential except for this purpose.
+(b)  Disclose the social security number to the company with which the state has
+contracted to develop unique student identifiers and Louisiana Works.
+(c)  Repealed by Acts 2025, No. 187, §2.
+(2)  The company with which the state has contracted to develop the unique student
+identifier shall assign an identifier for each student who successfully completes high school
+from the lists provided by public school governing authorities and provide a list of unique
+identifiers and corresponding social security numbers to Louisiana Works for the purpose of
+matching the information, until the individual reaches the age of twenty-six, wage data,
+North American Industry Classification System data through the third digit, and Standard
+Occupational Classification System data.
+(3)  For the express purpose of state and federal program evaluation, Louisiana Works
+shall remove any and all social security numbers from the data and provide to the state
+Department of Education and the Industry-Based Certification Committee a list of high
+school graduates for whom the wage and employment data specified in Paragraph (2) of this
+Subsection are available.
+(4)  Any exchange of student information pursuant to the provisions of this
+Subsection shall comply with the Family Educational Rights and Privacy Act, 20 CFR Part
+603, regarding the confidentiality of unemployment compensation information, and the
+provisions of R.S. 23:1660.
+(5)  Any agreement providing for the exchange of information pursuant to the
+provisions of this Subsection shall provide for the payment of any costs of disclosure of wage
+and employment data specified in Paragraph (2) of this Subsection.
+(6)  Any person who knowingly and willfully fails to maintain the confidentiality of
+personally identifiable information of students is subject to the penalties provided for in
+Subsection G of this Section and the provisions of R.S. 23:1660.
+O.  Notwithstanding any law to the contrary, including this Section, the state child
+ombudsman shall receive, upon written request, any student record for the purposes of
+carrying out the ombudsman's duties from any public elementary or secondary school; any
+city, parish, or other local public school system; or the state Department of Education.
+Acts 2014, No. 837, §1; Acts 2015, No. 228, §1, eff. June 23, 2015; Acts 2015, No.
+297, §1; Acts 2016, No. 480, §1, eff. June 13, 2016; Acts 2018, No. 241, §1, eff. May 15,
+2018; Acts 2018, No. 691, §1; Acts 2020, 2nd Ex. Sess., No. 49, §1, eff. Nov. 5, 2020, §2,
+eff. June 10, 2021; Acts 2021, No. 366, §1, eff. June 16, 2021, §2, eff. Dec. 31, 2022; Acts
+2021, No. 407, §1; Acts 2022, No. 276, §1; Acts 2022, No. 567, §1; Acts 2024, No. 507, §1;
+Acts 2025, No. 187, §§1, 2; Acts 2025, No. 478, §6, eff. Oct. 1, 2025.

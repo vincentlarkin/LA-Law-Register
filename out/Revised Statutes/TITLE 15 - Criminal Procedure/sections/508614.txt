@@ -1,0 +1,32 @@
+RS 15:545.1
+Duty of interactive computer service
+https://www.legis.la.gov/legis/Law.aspx?d=508614
+
+§545.1.  Duty of interactive computer service
+A.(1)  Upon request from a law enforcement agency, the interactive computer service
+shall take all steps necessary to preserve records and other evidence in its possession pending
+the issuance of a court order or other legal process.  The provider of interactive computer
+service shall comply with the request as soon as reasonably practical following receipt.
+(2)  Records referred to in Paragraph (1) of this Subsection shall be retained for
+ninety days.  This time period shall be extended for an additional ninety days upon further
+request of the law enforcement agency when the law enforcement agency requests the
+extension within the original ninety day period.
+(3)  Paragraphs (1) and (2) of this Subsection shall be interpreted in a manner
+consistent with the requirements of federal law that apply to providers of Internet service
+provided for in Chapter 121 of Title 18 of the United States Code and 42 U.S.C. 13032.
+B.(1)  An interactive computer service shall release evidence regarding all categories
+of information identified in 18 U.S.C. 2703(c)(2) that are in its possession as soon as
+reasonably practical, considering other outstanding law enforcement and legal requests, after
+receiving a court order requiring the interactive computer service to release such evidence
+to law enforcement.
+(2)  Paragraph (1) of this Subsection shall be interpreted in a manner consistent with
+the requirements of federal law that apply to providers of Internet service provided for in
+Chapter 121 of Title 18 of the United States Code and 42 U.S.C. 13032.
+C.  An interactive computer service doing business in this state that obtains
+knowledge of facts or circumstances from which a violation of any law in this state
+prohibiting possession, distribution, or creation of images containing child pornography or
+child sexual abuse materials or prohibiting sexual activity involving a child is apparent, shall
+make a report, as soon as reasonably possible, of such facts or circumstances to the
+CyberTipline at the National Center for Missing and Exploited Children consistent with the
+requirements of 42 U.S.C. 13032.
+Acts 2008, No. 672, §2; Acts 2025, No. 261, §2.
