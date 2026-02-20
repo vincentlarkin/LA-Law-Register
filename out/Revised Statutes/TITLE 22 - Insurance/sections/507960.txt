@@ -1,0 +1,69 @@
+RS 22:1155
+Denial of claims; appeal; prior authorization
+https://www.legis.la.gov/legis/Law.aspx?d=507960
+
+§1155.  Denial of claims; appeal; prior authorization; preexisting conditions
+A.(1)  A dental service contractor or a contract of dental insurance shall establish and
+maintain appeal procedures for any claim by a dentist or a subscriber that is denied based
+upon lack of medical necessity.
+(2)(a)  Any denial shall be based upon a determination by a dentist who holds a
+nonrestricted license issued in the United States in the same or an appropriate specialty that
+typically manages the dental condition, procedure, or treatment under review.
+(b)  Subsequent to an initial denial, the licensed dentist making the adverse
+determination shall not be an employee of the dental service contractor or dental insurer.
+(3)  Any written communication to an insured or a dentist that includes or pertains
+to a denial of benefits for all or part of a claim on the basis of a lack of medical necessity
+shall include the name, applicable speciality designation, license number together with state
+of issuance, and the direct telephone number of the licensed dentist making the adverse
+determination.
+B.(1)   For the purposes of this Subsection, a "prior authorization" shall mean any
+predetermination, prior authorization, or similar authorization that is verifiable, whether
+through issuance of letter, facsimile, e-mail, or similar means, indicating that a specific
+procedure is, or multiple procedures are, covered under the patient's plan and reimbursable
+at a specific amount, subject to applicable coinsurance and deductibles, and issued in
+response to a request submitted by a dentist using a prescribed format.
+(2)  A dental service contractor shall not deny any claim subsequently submitted for
+procedures specifically included in a prior authorization unless at least one of the following
+circumstances applies for each procedure denied:
+(a)  Benefit limitations such as annual maximums and frequency limitations not
+applicable at the time of prior authorization are reached due to utilization subsequent to
+issuance of the prior authorization.
+(b)  The documentation for the claim provided by the person submitting the claim
+clearly fails to support the claim as originally authorized.
+(c)  If, subsequent to the issuance of the prior authorization, new procedures are
+provided to the patient or a change in the patient's condition occurs such that the prior
+authorized procedure would no longer be considered medically necessary, based on the
+prevailing standard of care.
+(d)  If, subsequent to the issuance of the prior authorization, new procedures are
+provided to the patient or a change in the patient's condition occurs such that the prior
+authorized procedure would at that time require disapproval pursuant to the terms and
+conditions for coverage under the patient's plan in effect at the time the prior authorization
+was issued.
+(e)  The dental service contractor's denial is because of one of the following:
+(i)  Another payor is responsible for the payment.
+(ii)  The dentist has already been paid for the procedures identified on the claim.
+(iii)  The claim was submitted fraudulently or the prior authorization was based in
+whole or material part on erroneous information provided to the dental service contractor by
+the dentist, patient, or other person not related to the carrier.
+(iv)  The person receiving the procedure was not eligible to receive the procedure on
+the date of service and the dental service contractor did not know, and with the exercise of
+reasonable care could not have known, of the person's eligibility status.
+(3)  A dental service contractor shall not require any information be submitted for a
+prior authorization request that would not be required for submission of a claim.
+(4)  A dental service contractor shall issue a prior authorization within thirty days of
+the date a request is submitted by a dentist.
+(5)  The provisions of Subsection A of this Section shall apply to any denial of a
+claim pursuant to Paragraph (2) of this Subsection for a procedure included in a prior
+authorization.
+C.  Any recoupment by a dental service contractor shall be in accordance with R.S.
+22:1838.  The contractor shall not recoup a claim solely due to a patient's loss of coverage
+or ineligibility if, at the time of treatment, the contractor erroneously confirms coverage and
+eligibility, but had sufficient information available to it indicating that the patient was no
+longer covered or was ineligible for coverage.
+D.(1)  A dental service contractor shall not deny a benefit for covered dental services
+to treat conditions existing prior to the date the coverage begins.
+(2)  A dental service contractor may impose up to a twelve-month waiting period for
+covered services.
+Acts 2003, No. 294, §1; Redesignated from R.S. 22:1513.1 by Acts 2008, No. 415,
+§1, eff. Jan. 1, 2009; Acts 2012, No. 648, §1; Acts 2018, No. 208, §1, eff. Jan. 1, 2019; Acts
+2020, No. 256, §1.

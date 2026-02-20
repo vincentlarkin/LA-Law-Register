@@ -1,0 +1,47 @@
+RS 18:115.1
+Electronic registration
+https://www.legis.la.gov/legis/Law.aspx?d=670710
+
+§115.1.  Electronic registration
+A.  A person who has a valid Louisiana driver's license or Louisiana special
+identification card issued pursuant to R.S. 40:1321 may apply to register to vote or make
+changes to his existing registration by completing and submitting an electronic voter
+registration application on the secretary of state's website.
+B.  The secretary of state shall design and implement a system to allow for electronic
+voter registration as provided in this Section.
+C.(1)  The electronic voter registration application shall contain spaces for the
+information required pursuant to R.S. 18:104, except that the applicant shall attest that the
+facts given by him on the application are true to the best of his knowledge and belief, and
+such attestation shall take the place of the affidavit required pursuant to R.S. 18:104.
+(2)  The applicant shall assent to the use of his Louisiana driver's license or Louisiana
+special identification card signature for voter registration purposes.
+(3)  The applicant shall not be allowed to submit the application unless it is complete.
+(4)(a)  Immediately upon submission of the application, the information submitted
+by the applicant shall be checked to ensure that the Louisiana driver's license number or
+Louisiana special identification card number submitted by the applicant matches the
+information maintained by the Department of Public Safety and Corrections.
+(b)  If a match is made, the secretary of state shall electronically forward the
+information provided in the application, along with a digital copy of the applicant's signature
+obtained from the Department of Public Safety and Corrections, to the appropriate registrar
+of voters to determine the eligibility of the applicant in accordance with Chapter 4 of this
+Title.  The applicant shall be immediately informed that his application has been
+electronically forwarded to the appropriate registrar of voters, but that the applicant will not
+be officially registered to vote or that changes to his existing registration will not be made
+until his application is received and approved by the registrar of voters.
+(c)  If a match cannot be made, the secretary of state shall not electronically forward
+the application.  The applicant shall be immediately informed that his application cannot be
+processed, and he shall be instructed to print his completed application and mail it to the
+registrar of voters for the parish in which the applicant resides.
+D.  An electronic voter registration application shall be deemed to have been made
+as of the date the applicant is informed pursuant to Subparagraph (C)(4)(b) of this Section
+that his application has been electronically forwarded to the appropriate registrar of voters
+by the secretary of state.
+E.  The secretary of state may employ additional security measures to ensure the
+accuracy and integrity of electronic voter registration applications.
+F.  The provisions of R.S. 18:115(F) shall apply to a person who has registered to
+vote pursuant to this Section and who has not previously voted in the parish in which he is
+registered.
+G.  Each registrar of voters shall maintain such statistical records on electronic voter
+registration applications as requested by the secretary of state.
+Acts 2009, No. 187, §1, eff. April 1, 2010; Acts 2013, No. 383, §2; Acts 2023, No.
+91, §1, eff. June 6, 2023.

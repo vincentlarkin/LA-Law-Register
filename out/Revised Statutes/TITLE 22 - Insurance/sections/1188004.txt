@@ -1,0 +1,35 @@
+RS 22:1841
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1188004
+
+SUBPART B-1.  MEDICAL CLAIMS FOR SERVICES PROVIDED THROUGH
+TELEHEALTH
+§1841.  Definitions
+For purposes of this Subpart, the following definitions apply:
+(1)  "Health coverage plan" means any hospital, health, or medical expense insurance
+policy, hospital or medical service contract, employee welfare benefit plan, contract, or other
+agreement with a health maintenance organization or a preferred provider organization,
+health and accident insurance policy, or any other insurance contract of this type in this state,
+including a group insurance plan, a self-insurance plan, and the Office of Group Benefits
+programs.  "Health coverage plan" shall not include a plan providing coverage for excepted
+benefits as defined in R.S. 22:1061, limited benefit health insurance plans, and short-term
+policies that have a term of less than twelve months.
+(2)  "Medication adherence management services" means the monitoring of a patient's
+conformance with the healthcare provider's medication plan with respect to timing, dosing,
+and frequency of medication-taking through electronic transmission of data in a remote
+patient monitoring services program.
+(3) "Platform" means the technology, system, software, application, modality, or
+other method through which a healthcare provider remotely interfaces with a patient when
+providing a healthcare service or procedure as a telehealth healthcare service.
+(4)  "Remote patient monitoring services" means the delivery of healthcare services
+using telecommunications technology to enhance the delivery of health care, including but
+not limited to all of the following:
+(a)  Monitoring of clinical patient data such as weight, blood pressure, pulse, pulse
+oximetry, and other condition-specific data, such as blood glucose.
+(b)  Medication adherence monitoring.
+(c)  Interactive video conferencing with or without digital image upload.
+(5)  "Telehealth" shall have the same meaning as defined in R.S. 40:1223.3 and may
+include audio-only conversations as provided for in R.S. 40:1223.3(5).
+(6)  Repealed by Acts 2023, No. 322, §6, eff. Jan. 1, 2024.
+Acts 2020, No. 276, §1, eff. Jan. 1, 2021; Acts 2023, No. 322, §§1, 6, eff. Jan. 1,
+2024.

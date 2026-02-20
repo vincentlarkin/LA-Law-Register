@@ -25,7 +25,7 @@ import threading
 import time
 from dataclasses import asdict, dataclass
 from pathlib import Path
-from typing import Iterable, Literal, Optional
+from typing import Callable, Iterable, Literal, Optional
 from urllib.parse import parse_qs, urljoin, urlparse
 
 import requests
@@ -34,8 +34,6 @@ from playwright.sync_api import Browser, Page, sync_playwright
 
 
 BASE = "https://www.legis.la.gov/legis/"
-SCRIPT_VERSION = 3  # bump when TOC cache schema changes
-SCRIPT_VERSION = 3  # bump when TOC cache schema changes
 SCRIPT_VERSION = 3  # bump when cache schema changes
 _TOC_CACHE_SCHEMA_VERSION = 1
 
@@ -181,6 +179,35 @@ def _fmt_dur(seconds: float) -> str:
     if h:
         return f"{h:d}:{m:02d}:{s:02d}"
     return f"{m:d}:{s:02d}"
+
+
+def _run_with_heartbeat(
+    *,
+    logger: Optional["_Logger"],
+    label: str,
+    interval_s: float,
+    fn: Callable[[], None],
+) -> None:
+    """Run a blocking step while periodically logging liveness."""
+    if logger is None:
+        fn()
+        return
+
+    interval = max(1.0, float(interval_s))
+    start = time.monotonic()
+    stop = threading.Event()
+
+    def _beat() -> None:
+        while not stop.wait(interval):
+            logger.info(f"    [pdf] {label}: still working elapsed={_fmt_dur(time.monotonic() - start)}")
+
+    t = threading.Thread(target=_beat, name="pdf-heartbeat", daemon=True)
+    t.start()
+    try:
+        fn()
+    finally:
+        stop.set()
+        t.join(timeout=0.2)
 
 
 class _RateLimiter:
@@ -590,22 +617,68 @@ class _PdfRenderer:
             except BaseException:
                 pass
 
-    def render(self, html_path: Path, pdf_path: Path) -> None:
+    def render(
+        self,
+        html_path: Path,
+        pdf_path: Path,
+        *,
+        logger: Optional["_Logger"] = None,
+        phase_label: str = "render",
+        progress_interval_s: float = 15.0,
+    ) -> None:
         pdf_path.parent.mkdir(parents=True, exist_ok=True)
         tmp_pdf = pdf_path.with_suffix(pdf_path.suffix + ".tmp")
         page = self._browser.new_page()
         try:
             # Use file:// to keep relative links working (anchors, etc).
-            page.goto(html_path.resolve().as_uri(), wait_until="load", timeout=120_000)
-            page.pdf(
-                path=str(tmp_pdf),
-                format="Letter",
-                print_background=True,
-                margin={"top": "0.6in", "bottom": "0.6in", "left": "0.6in", "right": "0.6in"},
+            if logger is not None:
+                try:
+                    html_mb = html_path.stat().st_size / (1024 * 1024)
+                    logger.info(f"    [pdf] {phase_label}: html={html_path.name} size={html_mb:.1f}MB")
+                except OSError:
+                    logger.info(f"    [pdf] {phase_label}: html={html_path.name}")
+
+            t0 = time.monotonic()
+            _run_with_heartbeat(
+                logger=logger,
+                label=f"{phase_label}: loading html",
+                interval_s=progress_interval_s,
+                fn=lambda: page.goto(html_path.resolve().as_uri(), wait_until="load", timeout=120_000),
             )
+            if logger is not None:
+                logger.info(f"    [pdf] {phase_label}: html loaded in {_fmt_dur(time.monotonic() - t0)}")
+
+            t1 = time.monotonic()
+            _run_with_heartbeat(
+                logger=logger,
+                label=f"{phase_label}: printing pdf",
+                interval_s=progress_interval_s,
+                fn=lambda: page.pdf(
+                    path=str(tmp_pdf),
+                    format="Letter",
+                    print_background=True,
+                    display_header_footer=True,
+                    header_template="<div></div>",
+                    footer_template=(
+                        "<div style='width:100%; font-size:9px; color:#444; "
+                        "padding:0 0.6in; box-sizing:border-box; text-align:right;'>"
+                        "<span class='pageNumber'></span>"
+                        "</div>"
+                    ),
+                    margin={"top": "0.6in", "bottom": "0.6in", "left": "0.6in", "right": "0.6in"},
+                ),
+            )
+            if logger is not None:
+                logger.info(f"    [pdf] {phase_label}: pdf print done in {_fmt_dur(time.monotonic() - t1)}")
         finally:
             page.close()
         os.replace(tmp_pdf, pdf_path)
+        if logger is not None:
+            try:
+                out_mb = pdf_path.stat().st_size / (1024 * 1024)
+                logger.info(f"    [pdf] {phase_label}: wrote {pdf_path.name} ({out_mb:.1f}MB)")
+            except OSError:
+                pass
 
 
 def _render_pdf_from_html(
@@ -615,9 +688,18 @@ def _render_pdf_from_html(
     browser_channel: str,
     headless: bool,
     renderer: Optional[_PdfRenderer] = None,
+    logger: Optional["_Logger"] = None,
+    phase_label: str = "render",
+    progress_interval_s: float = 15.0,
 ) -> None:
     if renderer is not None:
-        renderer.render(html_path, pdf_path)
+        renderer.render(
+            html_path,
+            pdf_path,
+            logger=logger,
+            phase_label=phase_label,
+            progress_interval_s=progress_interval_s,
+        )
         return
     # Fallback (slower): create a new browser per render.
     pdf_path.parent.mkdir(parents=True, exist_ok=True)
@@ -626,12 +708,32 @@ def _render_pdf_from_html(
         browser = p.chromium.launch(channel=browser_channel, headless=headless)
         page = browser.new_page()
         try:
-            page.goto(html_path.resolve().as_uri(), wait_until="load", timeout=120_000)
-            page.pdf(
-                path=str(tmp_pdf),
-                format="Letter",
-                print_background=True,
-                margin={"top": "0.6in", "bottom": "0.6in", "left": "0.6in", "right": "0.6in"},
+            if logger is not None:
+                logger.info(f"    [pdf] {phase_label}: fallback renderer start")
+            _run_with_heartbeat(
+                logger=logger,
+                label=f"{phase_label}: loading html (fallback)",
+                interval_s=progress_interval_s,
+                fn=lambda: page.goto(html_path.resolve().as_uri(), wait_until="load", timeout=120_000),
+            )
+            _run_with_heartbeat(
+                logger=logger,
+                label=f"{phase_label}: printing pdf (fallback)",
+                interval_s=progress_interval_s,
+                fn=lambda: page.pdf(
+                    path=str(tmp_pdf),
+                    format="Letter",
+                    print_background=True,
+                    display_header_footer=True,
+                    header_template="<div></div>",
+                    footer_template=(
+                        "<div style='width:100%; font-size:9px; color:#444; "
+                        "padding:0 0.6in; box-sizing:border-box; text-align:right;'>"
+                        "<span class='pageNumber'></span>"
+                        "</div>"
+                    ),
+                    margin={"top": "0.6in", "bottom": "0.6in", "left": "0.6in", "right": "0.6in"},
+                ),
             )
         finally:
             page.close()
@@ -639,34 +741,32 @@ def _render_pdf_from_html(
         os.replace(tmp_pdf, pdf_path)
 
 
-def _compute_doc_start_pages_from_pdf(pdf_path: Path, *, doc_ids: Iterable[str]) -> dict[str, int]:
+def _compute_doc_start_pages_from_pdf(
+    pdf_path: Path,
+    *,
+    doc_ids: Iterable[str],
+    logger: Optional["_Logger"] = None,
+    progress_interval_s: float = 10.0,
+) -> dict[str, int]:
     """
     Scan the rendered PDF and find each section's start page using the embedded
     DOCID:<id> markers (added by _render_bundle_html with include_markers=True).
     """
     try:
-        from pypdf import PdfReader, _font  # type: ignore
+        from pypdf import PdfReader
     except Exception as e:  # pragma: no cover
         raise RuntimeError("Missing dependency: pypdf (pip install pypdf)") from e
-
-    # Work around a pypdf text-extraction crash observed on Chromium-produced PDFs
-    # where some embedded fonts omit /FontBBox in the descriptor.
-    # pypdf 6.6.0 assumes bbox is always present and raises KeyError('bbox').
-    if not getattr(_font, "_codex_bbox_patch_applied", False):
-        orig = _font.FontDescriptor._parse_font_descriptor
-
-        def patched(font_kwargs, font_descriptor_obj):  # type: ignore[no-untyped-def]
-            font_kwargs.setdefault("bbox", (0, 0, 0, 0))
-            return orig(font_kwargs, font_descriptor_obj)
-
-        _font.FontDescriptor._parse_font_descriptor = staticmethod(patched)  # type: ignore[method-assign]
-        _font._codex_bbox_patch_applied = True  # type: ignore[attr-defined]
 
     wanted = {d for d in doc_ids if d}
     if not wanted:
         return {}
 
+    scan_start = time.monotonic()
     reader = PdfReader(str(pdf_path), strict=False)
+    total_pages = len(reader.pages)
+    if logger is not None:
+        logger.info(f"    [pdf] pass1: scan init pages={total_pages} targets={len(wanted)}")
+
     fallback_reader = None
     try:
         from PyPDF2 import PdfReader as PyPdf2Reader  # type: ignore
@@ -676,14 +776,22 @@ def _compute_doc_start_pages_from_pdf(pdf_path: Path, *, doc_ids: Iterable[str])
         fallback_reader = None
     marker_re = re.compile(r"DOCID:(\d+)")
     found: dict[str, int] = {}
+    scanned_pages = 0
+    extract_errors = 0
+    fallback_attempts = 0
+    last_progress = scan_start
+    progress_every = max(1.0, float(progress_interval_s))
 
     for page_num, page in enumerate(reader.pages, start=1):
+        scanned_pages = page_num
         # Defensive: some PDFs can still trigger extractor edge-cases.
         try:
             text = page.extract_text() or ""
         except Exception:
+            extract_errors += 1
             if fallback_reader is not None:
                 try:
+                    fallback_attempts += 1
                     text = fallback_reader.pages[page_num - 1].extract_text() or ""
                 except Exception:
                     text = ""
@@ -694,6 +802,18 @@ def _compute_doc_start_pages_from_pdf(pdf_path: Path, *, doc_ids: Iterable[str])
             if doc_id in wanted and doc_id not in found:
                 found[doc_id] = page_num
 
+        now = time.monotonic()
+        if logger is not None and (now - last_progress) >= progress_every:
+            rate = scanned_pages / max(0.001, now - scan_start)
+            remaining_pages = max(0, total_pages - scanned_pages)
+            eta_s = remaining_pages / max(0.001, rate)
+            logger.info(
+                f"    [pdf] pass1: scan progress {scanned_pages}/{total_pages} "
+                f"({scanned_pages*100/max(1, total_pages):.1f}%) "
+                f"found={len(found)}/{len(wanted)} rate={rate:.1f}/s eta={_fmt_dur(eta_s)}"
+            )
+            last_progress = now
+
         if len(found) == len(wanted):
             break
 
@@ -702,6 +822,15 @@ def _compute_doc_start_pages_from_pdf(pdf_path: Path, *, doc_ids: Iterable[str])
         raise RuntimeError(
             "Could not determine page numbers for some docs. "
             f"Missing markers for doc_id(s): {missing[:20]}{'...' if len(missing) > 20 else ''}"
+        )
+
+    if logger is not None:
+        elapsed = time.monotonic() - scan_start
+        rate = scanned_pages / max(0.001, elapsed)
+        logger.info(
+            f"    [pdf] pass1: scan done pages={scanned_pages}/{total_pages} "
+            f"found={len(found)}/{len(wanted)} in {_fmt_dur(elapsed)} "
+            f"rate={rate:.1f}/s fallback_attempts={fallback_attempts} extract_errors={extract_errors}"
         )
 
     return found
@@ -1130,6 +1259,12 @@ def main(argv: Optional[list[str]] = None) -> int:
         default=2.0,
         help="Progress log interval in seconds (default: 2.0)",
     )
+    parser.add_argument(
+        "--pdf-progress-interval",
+        type=float,
+        default=10.0,
+        help="Progress/liveness log interval for long PDF render/scan steps (default: 10.0)",
+    )
     parser.add_argument("--trust-env", action="store_true", help="Trust HTTP(S)_PROXY env vars for requests")
     parser.add_argument("--browser-channel", default="msedge", help="Playwright chromium channel (default: msedge)")
     parser.add_argument("--headful", action="store_true", help="Run browser headful (debugging)")
@@ -1155,7 +1290,8 @@ def main(argv: Optional[list[str]] = None) -> int:
         "config: "
         f"resume={resume} workers={int(args.workers)} delay={float(args.delay)}s "
         f"timeout={float(args.timeout)}s retries={int(args.retries)} "
-        f"pdf={'off' if args.skip_pdf else 'on'} toc_pages={'on' if args.toc_page_numbers else 'off'}"
+        f"pdf={'off' if args.skip_pdf else 'on'} toc_pages={'on' if args.toc_page_numbers else 'off'} "
+        f"pdf_progress={float(args.pdf_progress_interval)}s"
     )
     if args.toc_cache:
         logger.info(
@@ -1378,6 +1514,9 @@ def main(argv: Optional[list[str]] = None) -> int:
                                 browser_channel=args.browser_channel,
                                 headless=headless,
                                 renderer=pdf_renderer,
+                                logger=logger,
+                                phase_label="pass1 draft render",
+                                progress_interval_s=float(args.pdf_progress_interval),
                             )
 
                             sections_dir = b_dir / "sections"
@@ -1387,7 +1526,12 @@ def main(argv: Optional[list[str]] = None) -> int:
                                 if e.doc_id and (sections_dir / f"{e.doc_id}.json").exists()
                             ]
                             logger.info("    [pdf] pass1: scan page numbers")
-                            page_map = _compute_doc_start_pages_from_pdf(draft_pdf, doc_ids=doc_ids)
+                            page_map = _compute_doc_start_pages_from_pdf(
+                                draft_pdf,
+                                doc_ids=doc_ids,
+                                logger=logger,
+                                progress_interval_s=float(args.pdf_progress_interval),
+                            )
                             _write_json(b_dir / "toc_page_numbers.json", page_map)
 
                             final_html = _render_bundle_html(
@@ -1404,6 +1548,9 @@ def main(argv: Optional[list[str]] = None) -> int:
                                 browser_channel=args.browser_channel,
                                 headless=headless,
                                 renderer=pdf_renderer,
+                                logger=logger,
+                                phase_label="pass2 final render",
+                                progress_interval_s=float(args.pdf_progress_interval),
                             )
 
                             if not args.keep_draft_pdf:
@@ -1419,6 +1566,9 @@ def main(argv: Optional[list[str]] = None) -> int:
                                 browser_channel=args.browser_channel,
                                 headless=headless,
                                 renderer=pdf_renderer,
+                                logger=logger,
+                                phase_label="single-pass render",
+                                progress_interval_s=float(args.pdf_progress_interval),
                             )
 
                         # Mark bundle PDF complete for fast resume.

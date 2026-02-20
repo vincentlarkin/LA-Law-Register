@@ -1,0 +1,1226 @@
+{
+  "category_key": "revised-statutes",
+  "category_name": "Revised Statutes",
+  "bundle_name": "TITLE 19 - Expropriation",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "RS 19:1",
+      "title": "TITLE 19EXPROPRIATION",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81688"
+    },
+    {
+      "order": 2,
+      "citation": "RS 19:2",
+      "title": "Expropriation by state or certain corporations, limited liability companies, or other legal entities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81784"
+    },
+    {
+      "order": 3,
+      "citation": "RS 19:2.1",
+      "title": "Petition for expropriation; place of filing; contents; claims for damages; prescription",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81785"
+    },
+    {
+      "order": 4,
+      "citation": "RS 19:2.2",
+      "title": "Expropriation by expropriating authorities referred to in R.S. 19:2",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81786"
+    },
+    {
+      "order": 5,
+      "citation": "RS 19:3",
+      "title": "Property not subject to expropriation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81812"
+    },
+    {
+      "order": 6,
+      "citation": "RS 19:4",
+      "title": "Trial without jury except to determine compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81821"
+    },
+    {
+      "order": 7,
+      "citation": "RS 19:5",
+      "title": "Time of trial; notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81822"
+    },
+    {
+      "order": 8,
+      "citation": "RS 19:6",
+      "title": "Service of answer on plaintiff",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81824"
+    },
+    {
+      "order": 9,
+      "citation": "RS 19:7",
+      "title": "Failure to timely file by defendant; forfeiture of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81825"
+    },
+    {
+      "order": 10,
+      "citation": "RS 19:8",
+      "title": "Trial with dispatch; judgment; appraisals; payment in court registry",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81826"
+    },
+    {
+      "order": 11,
+      "citation": "RS 19:9",
+      "title": "Measure of compensation; \"extent of loss\"",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81827"
+    },
+    {
+      "order": 12,
+      "citation": "RS 19:10",
+      "title": "Transfer of ownership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81689"
+    },
+    {
+      "order": 13,
+      "citation": "RS 19:11",
+      "title": "Encumbered property; distribution of price to creditors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81699"
+    },
+    {
+      "order": 14,
+      "citation": "RS 19:12",
+      "title": "Tender of true value refused; costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81708"
+    },
+    {
+      "order": 15,
+      "citation": "RS 19:13",
+      "title": "Appeal; payment of award to owner or deposit in court as entitling plaintiff to property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81718"
+    },
+    {
+      "order": 16,
+      "citation": "RS 19:14",
+      "title": "Possession of property; removal of facilities; objection; waiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81762"
+    },
+    {
+      "order": 17,
+      "citation": "RS 19:15",
+      "title": "Jury costs; demand by expropriating authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81772"
+    },
+    {
+      "order": 18,
+      "citation": "RS 19:16",
+      "title": "Expropriation by public entity; authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814756"
+    },
+    {
+      "order": 19,
+      "citation": "RS 19:51",
+      "title": "To 66 Repealed by Acts 1974, Ex.Sess., No. 11, 2, eff. Jan. 1, 1975.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81823"
+    },
+    {
+      "order": 20,
+      "citation": "RS 19:101",
+      "title": "Property defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81690"
+    },
+    {
+      "order": 21,
+      "citation": "RS 19:102",
+      "title": "Expropriation by municipal corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81691"
+    },
+    {
+      "order": 22,
+      "citation": "RS 19:103",
+      "title": "Petition for expropriation; place of filing; contents; claims for damages; prescription",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81692"
+    },
+    {
+      "order": 23,
+      "citation": "RS 19:104",
+      "title": "Property not subject to expropriation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81693"
+    },
+    {
+      "order": 24,
+      "citation": "RS 19:105",
+      "title": "Trial without jury except to determine compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81694"
+    },
+    {
+      "order": 25,
+      "citation": "RS 19:106",
+      "title": "Time of trial; notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81695"
+    },
+    {
+      "order": 26,
+      "citation": "RS 19:107",
+      "title": "Service of answer on plaintiff",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81696"
+    },
+    {
+      "order": 27,
+      "citation": "RS 19:108",
+      "title": "Failure to timely file an answer by defendant forfeits defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81697"
+    },
+    {
+      "order": 28,
+      "citation": "RS 19:109",
+      "title": "Trial in or out of term with dispatch; judgment; appraisals; payment in court registry",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81698"
+    },
+    {
+      "order": 29,
+      "citation": "RS 19:110",
+      "title": "Measure of compensation; \"extent of loss\"",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81700"
+    },
+    {
+      "order": 30,
+      "citation": "RS 19:111",
+      "title": "Transfer of ownership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81701"
+    },
+    {
+      "order": 31,
+      "citation": "RS 19:111.1",
+      "title": "Compensation for expropriation; funds abandoned in registry of court; town of Berwick",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81702"
+    },
+    {
+      "order": 32,
+      "citation": "RS 19:112",
+      "title": "Encumbered property; distribution of price to creditors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81703"
+    },
+    {
+      "order": 33,
+      "citation": "RS 19:113",
+      "title": "Tender of true value refused; costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81704"
+    },
+    {
+      "order": 34,
+      "citation": "RS 19:114",
+      "title": "Appeal; payment of award to owner or deposit in court as entitling plaintiff to property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81705"
+    },
+    {
+      "order": 35,
+      "citation": "RS 19:115",
+      "title": "Possession of property; construction of facilities; objection; waiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81706"
+    },
+    {
+      "order": 36,
+      "citation": "RS 19:116",
+      "title": "Jury costs; demand by municipal corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81707"
+    },
+    {
+      "order": 37,
+      "citation": "RS 19:121",
+      "title": "Property defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81709"
+    },
+    {
+      "order": 38,
+      "citation": "RS 19:122",
+      "title": "Authority to expropriate and acquisition of property for street or drainage projects prior to judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81710"
+    },
+    {
+      "order": 39,
+      "citation": "RS 19:123",
+      "title": "Contents of petition for expropriation; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81711"
+    },
+    {
+      "order": 40,
+      "citation": "RS 19:124",
+      "title": "Prayer of petition; ex parte order for deposit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81712"
+    },
+    {
+      "order": 41,
+      "citation": "RS 19:125",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81713"
+    },
+    {
+      "order": 42,
+      "citation": "RS 19:126",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81714"
+    },
+    {
+      "order": 43,
+      "citation": "RS 19:127",
+      "title": "Contesting validity of proposed taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81715"
+    },
+    {
+      "order": 44,
+      "citation": "RS 19:128",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81716"
+    },
+    {
+      "order": 45,
+      "citation": "RS 19:129",
+      "title": "Nonuse; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81717"
+    },
+    {
+      "order": 46,
+      "citation": "RS 19:131",
+      "title": "Property defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81719"
+    },
+    {
+      "order": 47,
+      "citation": "RS 19:131.1",
+      "title": "Authority to expropriate and acquisition of property for sewer, drainage, or road projects prior to judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81720"
+    },
+    {
+      "order": 48,
+      "citation": "RS 19:131.2",
+      "title": "Contents of petition for expropriation; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81721"
+    },
+    {
+      "order": 49,
+      "citation": "RS 19:131.3",
+      "title": "Prayer of petition; ex parte order for deposit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81722"
+    },
+    {
+      "order": 50,
+      "citation": "RS 19:131.4",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81723"
+    },
+    {
+      "order": 51,
+      "citation": "RS 19:131.5",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81724"
+    },
+    {
+      "order": 52,
+      "citation": "RS 19:131.6",
+      "title": "Contesting validity of proposed taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81725"
+    },
+    {
+      "order": 53,
+      "citation": "RS 19:131.7",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81726"
+    },
+    {
+      "order": 54,
+      "citation": "RS 19:132",
+      "title": "Property, governing authority defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81727"
+    },
+    {
+      "order": 55,
+      "citation": "RS 19:132.1",
+      "title": "Authority to expropriate; acquisition of property for street, drainage, water, utility, sewerage, or other capital project prior to judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81728"
+    },
+    {
+      "order": 56,
+      "citation": "RS 19:132.2",
+      "title": "Contents of petition for expropriation; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81729"
+    },
+    {
+      "order": 57,
+      "citation": "RS 19:132.3",
+      "title": "Prayer of petition; ex parte order for deposit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81730"
+    },
+    {
+      "order": 58,
+      "citation": "RS 19:132.4",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81731"
+    },
+    {
+      "order": 59,
+      "citation": "RS 19:132.5",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81732"
+    },
+    {
+      "order": 60,
+      "citation": "RS 19:132.6",
+      "title": "Contesting validity of proposed taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81733"
+    },
+    {
+      "order": 61,
+      "citation": "RS 19:132.7",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81734"
+    },
+    {
+      "order": 62,
+      "citation": "RS 19:132.8",
+      "title": "Nonuse; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81735"
+    },
+    {
+      "order": 63,
+      "citation": "RS 19:133",
+      "title": "Property, governing authority, project, defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81736"
+    },
+    {
+      "order": 64,
+      "citation": "RS 19:133.1",
+      "title": "Authority to expropriate and acquisition of property for Aloha-Rigolette Area Louisiana Project prior to judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81737"
+    },
+    {
+      "order": 65,
+      "citation": "RS 19:133.2",
+      "title": "Contents of petition for expropriation; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81738"
+    },
+    {
+      "order": 66,
+      "citation": "RS 19:133.3",
+      "title": "Prayer of petition; ex parte order for deposit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81739"
+    },
+    {
+      "order": 67,
+      "citation": "RS 19:133.4",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81740"
+    },
+    {
+      "order": 68,
+      "citation": "RS 19:133.5",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81741"
+    },
+    {
+      "order": 69,
+      "citation": "RS 19:133.6",
+      "title": "Contesting validity of proposed taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81742"
+    },
+    {
+      "order": 70,
+      "citation": "RS 19:133.7",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81743"
+    },
+    {
+      "order": 71,
+      "citation": "RS 19:134",
+      "title": "Property and governing authority defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81744"
+    },
+    {
+      "order": 72,
+      "citation": "RS 19:134.1",
+      "title": "Authority to expropriate; acquisition of property for street, drainage, water, utility, or sewerage projects prior to judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81745"
+    },
+    {
+      "order": 73,
+      "citation": "RS 19:134.2",
+      "title": "Contents of petition for expropriation; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81746"
+    },
+    {
+      "order": 74,
+      "citation": "RS 19:134.3",
+      "title": "Prayer of petition; ex parte order for deposit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81747"
+    },
+    {
+      "order": 75,
+      "citation": "RS 19:134.4",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81748"
+    },
+    {
+      "order": 76,
+      "citation": "RS 19:134.5",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81749"
+    },
+    {
+      "order": 77,
+      "citation": "RS 19:134.6",
+      "title": "Contesting validity of proposed taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81750"
+    },
+    {
+      "order": 78,
+      "citation": "RS 19:134.7",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81751"
+    },
+    {
+      "order": 79,
+      "citation": "RS 19:135",
+      "title": "Property, governing authority defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81752"
+    },
+    {
+      "order": 80,
+      "citation": "RS 19:135.1",
+      "title": "Authority to expropriate; acquisition of property for certain purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181177"
+    },
+    {
+      "order": 81,
+      "citation": "RS 19:135.2",
+      "title": "Contents of petition for expropriation; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181169"
+    },
+    {
+      "order": 82,
+      "citation": "RS 19:135.3",
+      "title": "Prayer of petition; ex parte order for deposit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181183"
+    },
+    {
+      "order": 83,
+      "citation": "RS 19:135.4",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181179"
+    },
+    {
+      "order": 84,
+      "citation": "RS 19:135.5",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181185"
+    },
+    {
+      "order": 85,
+      "citation": "RS 19:135.6",
+      "title": "Contesting validity of proposed taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181181"
+    },
+    {
+      "order": 86,
+      "citation": "RS 19:135.7",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181187"
+    },
+    {
+      "order": 87,
+      "citation": "RS 19:136",
+      "title": "Purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81753"
+    },
+    {
+      "order": 88,
+      "citation": "RS 19:136.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81754"
+    },
+    {
+      "order": 89,
+      "citation": "RS 19:136.2",
+      "title": "Authority to expropriate; acquisition of abandoned or blighted property prior to judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81755"
+    },
+    {
+      "order": 90,
+      "citation": "RS 19:136.3",
+      "title": "Contents of petition for expropriation; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81756"
+    },
+    {
+      "order": 91,
+      "citation": "RS 19:136.4",
+      "title": "Prayer of petition; ex parte order for deposit; value determination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81757"
+    },
+    {
+      "order": 92,
+      "citation": "RS 19:136.5",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81758"
+    },
+    {
+      "order": 93,
+      "citation": "RS 19:136.6",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81759"
+    },
+    {
+      "order": 94,
+      "citation": "RS 19:136.7",
+      "title": "Contesting validity of proposed taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81760"
+    },
+    {
+      "order": 95,
+      "citation": "RS 19:136.8",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81761"
+    },
+    {
+      "order": 96,
+      "citation": "RS 19:136.9",
+      "title": "Encumbrances and taxes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181189"
+    },
+    {
+      "order": 97,
+      "citation": "RS 19:136.10",
+      "title": "Repealed by Acts 2004, No. 755, §2, eff. July 6, 2004.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181190"
+    },
+    {
+      "order": 98,
+      "citation": "RS 19:136.11",
+      "title": "Acquisition by third persons",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181191"
+    },
+    {
+      "order": 99,
+      "citation": "RS 19:136.12",
+      "title": "Sale of expropriated property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285233"
+    },
+    {
+      "order": 100,
+      "citation": "RS 19:136.13",
+      "title": "Notice of sale; private and public",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285234"
+    },
+    {
+      "order": 101,
+      "citation": "RS 19:138",
+      "title": "§138.  City of Pineville; Susek Drive Project; acquisition of property prior to judgment; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285235"
+    },
+    {
+      "order": 102,
+      "citation": "RS 19:138.1",
+      "title": "Contents of petition; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285236"
+    },
+    {
+      "order": 103,
+      "citation": "RS 19:138.2",
+      "title": "Prayer of the petition; ex parte order of taking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285237"
+    },
+    {
+      "order": 104,
+      "citation": "RS 19:138.3",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285238"
+    },
+    {
+      "order": 105,
+      "citation": "RS 19:138.4",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285239"
+    },
+    {
+      "order": 106,
+      "citation": "RS 19:138.5",
+      "title": "Contesting validity of taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285240"
+    },
+    {
+      "order": 107,
+      "citation": "RS 19:138.6",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285241"
+    },
+    {
+      "order": 108,
+      "citation": "RS 19:138.7",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285242"
+    },
+    {
+      "order": 109,
+      "citation": "RS 19:139",
+      "title": "City of Lafayette and parish of Lafayette; Kaliste Saloom Road Widening Project or drainage, road, or bridge projects; acquisition of property prior to judgment; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670095"
+    },
+    {
+      "order": 110,
+      "citation": "RS 19:139.1",
+      "title": "Contents of petition; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670116"
+    },
+    {
+      "order": 111,
+      "citation": "RS 19:139.2",
+      "title": "Prayer of the petition; ex parte order of taking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670117"
+    },
+    {
+      "order": 112,
+      "citation": "RS 19:139.3",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670118"
+    },
+    {
+      "order": 113,
+      "citation": "RS 19:139.4",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670119"
+    },
+    {
+      "order": 114,
+      "citation": "RS 19:139.5",
+      "title": "Contesting validity of taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670120"
+    },
+    {
+      "order": 115,
+      "citation": "RS 19:139.6",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670121"
+    },
+    {
+      "order": 116,
+      "citation": "RS 19:139.7",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670124"
+    },
+    {
+      "order": 117,
+      "citation": "RS 19:139.11",
+      "title": "City of Youngsville; Chemin Metairie Phase II Project; acquisition of property prior to judgment; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670125"
+    },
+    {
+      "order": 118,
+      "citation": "RS 19:139.12",
+      "title": "Contents of petition; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670129"
+    },
+    {
+      "order": 119,
+      "citation": "RS 19:139.13",
+      "title": "Prayer of the petition; ex parte order of taking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670130"
+    },
+    {
+      "order": 120,
+      "citation": "RS 19:139.14",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670131"
+    },
+    {
+      "order": 121,
+      "citation": "RS 19:139.15",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670134"
+    },
+    {
+      "order": 122,
+      "citation": "RS 19:139.16",
+      "title": "Contesting validity of taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670135"
+    },
+    {
+      "order": 123,
+      "citation": "RS 19:139.17",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670136"
+    },
+    {
+      "order": 124,
+      "citation": "RS 19:139.18",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670137"
+    },
+    {
+      "order": 125,
+      "citation": "RS 19:141",
+      "title": "Acquisition of property prior to judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81763"
+    },
+    {
+      "order": 126,
+      "citation": "RS 19:142",
+      "title": "Contents of petition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=108458"
+    },
+    {
+      "order": 127,
+      "citation": "RS 19:143",
+      "title": "Appointment of estimators; restrictions in selection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81765"
+    },
+    {
+      "order": 128,
+      "citation": "RS 19:144",
+      "title": "Prayer of the petition; ex parte order of taking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81766"
+    },
+    {
+      "order": 129,
+      "citation": "RS 19:145",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81767"
+    },
+    {
+      "order": 130,
+      "citation": "RS 19:146",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81768"
+    },
+    {
+      "order": 131,
+      "citation": "RS 19:147",
+      "title": "Contesting validity or extent of taking; waiver of defenses; judgment on validity or extent of taking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81769"
+    },
+    {
+      "order": 132,
+      "citation": "RS 19:148",
+      "title": "Right of possession; limitation by the court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81770"
+    },
+    {
+      "order": 133,
+      "citation": "RS 19:149",
+      "title": "Withdrawal of amount deposited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81771"
+    },
+    {
+      "order": 134,
+      "citation": "RS 19:150",
+      "title": "Determining value where entire tract expropriated; jury demand",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81773"
+    },
+    {
+      "order": 135,
+      "citation": "RS 19:151",
+      "title": "Determining value and damages where part of a tract is expropriated; jury demand",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81774"
+    },
+    {
+      "order": 136,
+      "citation": "RS 19:152",
+      "title": "Laches by defendant forfeits defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81775"
+    },
+    {
+      "order": 137,
+      "citation": "RS 19:153",
+      "title": "Measure of compensation; burden of proof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81776"
+    },
+    {
+      "order": 138,
+      "citation": "RS 19:154",
+      "title": "Trial according to general expropriation laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81777"
+    },
+    {
+      "order": 139,
+      "citation": "RS 19:155",
+      "title": "Judgment to provide interest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81778"
+    },
+    {
+      "order": 140,
+      "citation": "RS 19:156",
+      "title": "Judgment as to difference awarded",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81779"
+    },
+    {
+      "order": 141,
+      "citation": "RS 19:157",
+      "title": "Distribution of final award",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81780"
+    },
+    {
+      "order": 142,
+      "citation": "RS 19:158",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81781"
+    },
+    {
+      "order": 143,
+      "citation": "RS 19:159",
+      "title": "Appeal; expedited review; effect of appeall",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81782"
+    },
+    {
+      "order": 144,
+      "citation": "RS 19:160",
+      "title": "Divesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81783"
+    },
+    {
+      "order": 145,
+      "citation": "RS 19:201",
+      "title": "Attorney fees; unsuccessful or abandoned expropriation suits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81787"
+    },
+    {
+      "order": 146,
+      "citation": "RS 19:251",
+      "title": "Lafourche Parish Water District No.1; acquisition of property prior to judgment; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81788"
+    },
+    {
+      "order": 147,
+      "citation": "RS 19:252",
+      "title": "Contents of petition; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81789"
+    },
+    {
+      "order": 148,
+      "citation": "RS 19:253",
+      "title": "Prayer of the petition; ex parte order of taking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81790"
+    },
+    {
+      "order": 149,
+      "citation": "RS 19:254",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81791"
+    },
+    {
+      "order": 150,
+      "citation": "RS 19:255",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81792"
+    },
+    {
+      "order": 151,
+      "citation": "RS 19:256",
+      "title": "Contesting validity of taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81793"
+    },
+    {
+      "order": 152,
+      "citation": "RS 19:257",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81794"
+    },
+    {
+      "order": 153,
+      "citation": "RS 19:258",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81795"
+    },
+    {
+      "order": 154,
+      "citation": "RS 19:271",
+      "title": "Terrebonne Parish Consolidated Government; authority to expropriate; acquisition of property prior to judgment; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81796"
+    },
+    {
+      "order": 155,
+      "citation": "RS 19:272",
+      "title": "Contents of petition; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81797"
+    },
+    {
+      "order": 156,
+      "citation": "RS 19:273",
+      "title": "Prayer of the petition; ex parte order of taking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81798"
+    },
+    {
+      "order": 157,
+      "citation": "RS 19:274",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81799"
+    },
+    {
+      "order": 158,
+      "citation": "RS 19:275",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81800"
+    },
+    {
+      "order": 159,
+      "citation": "RS 19:276",
+      "title": "Contesting validity of taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81801"
+    },
+    {
+      "order": 160,
+      "citation": "RS 19:277",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81802"
+    },
+    {
+      "order": 161,
+      "citation": "RS 19:278",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81803"
+    },
+    {
+      "order": 162,
+      "citation": "RS 19:291",
+      "title": "Consolidated Terrebonne Parish Waterworks District No. 1; authority to expropriate; acquisition of property prior to judgment; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81804"
+    },
+    {
+      "order": 163,
+      "citation": "RS 19:292",
+      "title": "Contents of petition; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81805"
+    },
+    {
+      "order": 164,
+      "citation": "RS 19:293",
+      "title": "Prayer of the petition; ex parte order of taking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81806"
+    },
+    {
+      "order": 165,
+      "citation": "RS 19:294",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81807"
+    },
+    {
+      "order": 166,
+      "citation": "RS 19:295",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81808"
+    },
+    {
+      "order": 167,
+      "citation": "RS 19:296",
+      "title": "Contesting validity of taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81809"
+    },
+    {
+      "order": 168,
+      "citation": "RS 19:297",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81810"
+    },
+    {
+      "order": 169,
+      "citation": "RS 19:298",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81811"
+    },
+    {
+      "order": 170,
+      "citation": "RS 19:311",
+      "title": "Town of Bernice; Rail Spur Project; acquisition of property prior to judgment; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81813"
+    },
+    {
+      "order": 171,
+      "citation": "RS 19:312",
+      "title": "Contents of petition; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81814"
+    },
+    {
+      "order": 172,
+      "citation": "RS 19:313",
+      "title": "Prayer of the petition; ex parte order of taking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81815"
+    },
+    {
+      "order": 173,
+      "citation": "RS 19:314",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81816"
+    },
+    {
+      "order": 174,
+      "citation": "RS 19:315",
+      "title": "Notice to defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81817"
+    },
+    {
+      "order": 175,
+      "citation": "RS 19:316",
+      "title": "Contesting validity of taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81818"
+    },
+    {
+      "order": 176,
+      "citation": "RS 19:317",
+      "title": "Defendant's answer; requirements; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81819"
+    },
+    {
+      "order": 177,
+      "citation": "RS 19:318",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=81820"
+    },
+    {
+      "order": 178,
+      "citation": "RS 19:351",
+      "title": "Property, governing authority defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409802"
+    },
+    {
+      "order": 179,
+      "citation": "RS 19:352",
+      "title": "Authority to expropriate and acquisition of property for sewer, drainage, or road projects prior to judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409803"
+    },
+    {
+      "order": 180,
+      "citation": "RS 19:353",
+      "title": "Prayer of petition; ex parte order for deposit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409804"
+    },
+    {
+      "order": 181,
+      "citation": "RS 19:354",
+      "title": "Vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409805"
+    },
+    {
+      "order": 182,
+      "citation": "RS 19:355",
+      "title": "Contesting validity of proposed taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409815"
+    },
+    {
+      "order": 183,
+      "citation": "RS 19:371",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187484"
+    },
+    {
+      "order": 184,
+      "citation": "RS 19:372",
+      "title": "Authority to expropriate property for drainage maintenance or improvements prior to judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187485"
+    },
+    {
+      "order": 185,
+      "citation": "RS 19:373",
+      "title": "Appointment of appraisers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187486"
+    },
+    {
+      "order": 186,
+      "citation": "RS 19:374",
+      "title": "Contents of petition for expropriation; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187487"
+    },
+    {
+      "order": 187,
+      "citation": "RS 19:375",
+      "title": "Ex parte order for deposit; vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187488"
+    },
+    {
+      "order": 188,
+      "citation": "RS 19:376",
+      "title": "Notice to property owners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187489"
+    },
+    {
+      "order": 189,
+      "citation": "RS 19:377",
+      "title": "Withdrawal of deposit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187490"
+    },
+    {
+      "order": 190,
+      "citation": "RS 19:378",
+      "title": "Contesting validity of taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187491"
+    },
+    {
+      "order": 191,
+      "citation": "RS 19:379",
+      "title": "Answer; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187492"
+    },
+    {
+      "order": 192,
+      "citation": "RS 19:380",
+      "title": "Fixing for trial; notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187493"
+    },
+    {
+      "order": 193,
+      "citation": "RS 19:381",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187494"
+    },
+    {
+      "order": 194,
+      "citation": "RS 19:386",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388870"
+    },
+    {
+      "order": 195,
+      "citation": "RS 19:387",
+      "title": "Authority to expropriate property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388871"
+    },
+    {
+      "order": 196,
+      "citation": "RS 19:388",
+      "title": "Contents of petition for expropriation; place of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388874"
+    },
+    {
+      "order": 197,
+      "citation": "RS 19:389",
+      "title": "Ex parte order; vesting of title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388878"
+    },
+    {
+      "order": 198,
+      "citation": "RS 19:390",
+      "title": "Notice to property owners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388884"
+    },
+    {
+      "order": 199,
+      "citation": "RS 19:391",
+      "title": "Withdrawal of deposit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388885"
+    },
+    {
+      "order": 200,
+      "citation": "RS 19:392",
+      "title": "Contesting validity of taking; waiver of defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388887"
+    },
+    {
+      "order": 201,
+      "citation": "RS 19:393",
+      "title": "Answer; delay for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388891"
+    },
+    {
+      "order": 202,
+      "citation": "RS 19:394",
+      "title": "Fixing for trial; notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388894"
+    },
+    {
+      "order": 203,
+      "citation": "RS 19:395",
+      "title": "Grant as additional authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1388895"
+    }
+  ]
+}

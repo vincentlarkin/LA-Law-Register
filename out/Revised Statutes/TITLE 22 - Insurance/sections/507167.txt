@@ -1,0 +1,40 @@
+RS 22:574
+Material transactions; report, domestic insurers
+https://www.legis.la.gov/legis/Law.aspx?d=507167
+
+§574.  Material transactions; report, domestic insurers
+A.  As used in this Section, the following terms shall have the following meanings:
+(1)  "Acquisition of assets" shall include any purchase, lease, exchange, merger, consolidation, succession, or other acquisition, other than the construction or development of immovable property, by or for the reporting insurer or the acquisition of materials for that purpose.
+(2)  "Disposition of assets" shall include any sale, lease, exchange, merger, consolidation, mortgage, hypothecation, assignment, whether for the benefit of creditors or others, abandonment, destruction, or other disposition.
+(3)  "Material acquisition" or "material disposition" is an acquisition or disposition or the aggregate of any series of related acquisitions or dispositions during any thirty-day period which is nonrecurring, is not in the ordinary course of business, and involves more than five percent of the insurer's total admitted assets reported in the most recent quarterly or annual statement filed by the insurer with the department.
+(4)  "Material nonrenewal, cancellation, or revision" shall mean:
+(a)  For property and casualty insurers, including health and accident business written by a property and casualty insurer:
+(i)  More than fifty percent of the total ceded written premium by the insurer.
+(ii)  More than fifty percent of the total ceded indemnity and loss adjustment reserves by the insurer.
+(b)  For life, annuity, and health and accident insurers, more than fifty percent of the total reserve credit taken for the business ceded, on an annualized basis, as indicated in the most recent annual report of the insurer.
+(5)  "Material revision" for property and casualty or life, annuity, and health and accident insurers shall include the following:
+(a)  The replacement by one or more unauthorized reinsurers of an authorized reinsurer representing more than ten percent of a total cession.
+(b)  The reduction or waiver of previously established collateral requirements for one or more unauthorized reinsurers representing collectively more than ten percent of a total cession.
+B.(1)  Every domestic insurer shall file a report, including any exhibits or other attachments with the department and with the National Association of Insurance Commissioners disclosing material acquisitions and dispositions of assets or material nonrenewals, cancellations, or revisions of ceded reinsurance agreements.  No report shall be filed if the acquisitions and dispositions of assets or material nonrenewals, cancellations, or revisions of ceded reinsurance agreements have been submitted to the department for review, approval, or informational purposes for other provisions of this Code, laws, regulations, or other requirements.
+(2)  No filing shall be required of ceded reinsurance agreements if:
+(a)  For property and casualty insurance, including accident and health business written by a property and casualty insurer, the total ceded written premium of the insurer represents on an annualized basis less than ten percent of its total written premium for direct and assumed business.
+(b)  For life, annuity, and accident and health insurance, the total reserve credit taken for business ceded represents on an annualized basis less than ten percent of the statutory reserve requirement prior to any cession.
+C.(1)  The report required in Subsection B of this Section is due within fifteen days after the end of the calendar month in which any of the foregoing transactions occur.
+(2)  The report shall be on a nonconsolidated basis unless the insurer is part of a consolidated group of insurers which utilizes a pooling arrangement or one hundred percent reinsurance agreement that affects the solvency and integrity of the reserves of the insurer and the insurer ceded substantially all of its direct and assumed business to the pool.
+(3)  An insurer shall have ceded substantially all of its direct and assumed business to a pool if the insurer has less than one million dollars total direct premiums, plus assumed written premiums, during a calendar year that are not subject to a pooling arrangement and which net income of the business not subject to the pooling arrangements represents less than five percent of the capital and surplus of the insurer.
+D.  All reports obtained by or disclosed to the department pursuant to this Section shall be given confidential treatment and shall not be subject to subpoena and shall not be made public by the department, the National Association of Insurance Commissioners, or any other person, except to insurance departments of other states, without the prior written consent of the reporting insurer.  The department may disclose the report after giving the reporting insurer notice and an opportunity to be heard if it determines that the interest of policyholders, shareholders, or the public will be served by the publication of the report.  The department may publish all or any part of the report in any form as the department may deem appropriate.
+E.  The following information shall be disclosed in any report of a material acquisition or disposition of assets:
+(1)  The date of the transaction.
+(2)  The manner of acquisition or disposition.
+(3)  The description of the assets involved.
+(4)  The nature and amount of the consideration given or received.
+(5)  The purpose or reason for the transaction.
+(6)  The manner by which the amount of consideration was determined.
+(7)  The gain or loss recognized or realized as a result of the transaction.
+F.  The following information shall be disclosed in any report of a material nonrenewal, cancellation, or revision of ceded reinsurance agreements:
+(1)  The effective date of the nonrenewal, cancellation, or revision.
+(2)  The description of the transaction with an identification of its initiator.
+(3)  The purpose of or reason for the transaction.
+(4)  The identity of the replacement insurer, if applicable.
+Acts 1995, No. 1203, §1, eff. June 29, 1995; Redesignated from R.S. 22:1451.3 by Acts 2008, No. 415, §1, eff. Jan. 1, 2009; Acts 2009, No. 503, §1.
+NOTE:  Former R.S. 22:574 redesignated as R.S. 22:313 by Acts 2008, No. 415, §1, eff. Jan. 1, 2009.

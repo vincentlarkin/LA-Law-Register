@@ -1,0 +1,16 @@
+RS 22:2463
+Change in hardware or software requirements
+https://www.legis.la.gov/legis/Law.aspx?d=1108802
+
+§2463.  Change in hardware or software requirements
+After the consent of a party is given, in the event a change in the hardware or
+software requirements needed to access or retain a notice or document delivered by electronic
+means creates a material risk that the party will not be able to access or retain a subsequent
+notice or document to which the consent applies, the insurer shall not deliver a notice or
+document to the party by electronic means unless the insurer complies with R.S. 22:2462 and
+provides the party with a statement that describes all of the following:
+(1)  The revised hardware and software requirements for access to and retention of
+a notice or document delivered by electronic means.
+(2)  The right of the party to withdraw consent without the imposition of any
+condition or consequence that was not disclosed at the time of initial consent.
+Acts 2018, No. 132, §1.

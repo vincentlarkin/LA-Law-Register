@@ -1,0 +1,82 @@
+RS 22:2503
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1188010
+
+§2503.  Definitions
+As used in this Chapter, the following definitions apply:
+(1)  "Authorized individual" means a natural person known to and screened by a
+licensee and determined to be necessary and appropriate to have access to the nonpublic
+information held by a licensee and its information systems.
+(2)  "Consumer" means a natural person who is a resident of this state and whose
+nonpublic information is in a licensee's possession, custody, or control.
+(3)(a)  "Cybersecurity event" means an event resulting in unauthorized access to or
+disruption or misuse of an information system or nonpublic information stored on an
+information system.
+(b)  "Cybersecurity event" shall not include either of the following:
+(i)  The unauthorized acquisition of encrypted nonpublic information if the
+encryption, process, or key is not also acquired, released, or used without authorization.
+(ii)  An event with regard to which the licensee has determined that the nonpublic
+information accessed by an unauthorized person has not been used or released and has been
+returned or destroyed.
+(4)  "Encrypted" means the transformation of data into a form that has a low
+probability of assigning meaning without the use of a protective process or key.
+(5)  "Information security program" means the administrative, technical, and physical
+safeguards that a licensee uses to access, collect, distribute, process, protect, store, use,
+transmit, dispose of, or otherwise handle nonpublic information.
+(6)  "Information system" means a discrete set of electronic information resources
+organized for the collection, processing, maintenance, use, sharing, dissemination, or
+disposition of electronic nonpublic information.  "Information system" shall include any
+specialized system such as industrial or process controls systems, telephone switching and
+private branch exchange systems, and environmental control systems.
+(7)(a)  "Licensee" means any person licensed, authorized to operate, or registered or
+required to be licensed, authorized, or registered pursuant to the insurance laws of this state.
+(b)  "Licensee" shall not include either of the following:
+(i)  A purchasing group or a risk retention group chartered and licensed in a state
+other than this state.
+(ii)  A person that is acting as an assuming insurer that is domiciled in another state
+or jurisdiction.
+(8)  "Multi-factor authentication" means authentication through verification of at least
+two of the following types of authentication factors:
+(a)  Knowledge factors, such as a password.
+(b)  Possession factors, such as a token or text message on a mobile phone.
+(c)  Inherence factors, such as a biometric characteristic.
+(9)  "Nonpublic information" means electronic information that is not publicly
+available information and is any of the following:
+(a)  Any information concerning a consumer which because of name, number,
+personal mark, or other identifier can be used to identify a consumer, in combination with
+any one or more of the following data elements:
+(i)  Social Security number.
+(ii)  Driver's license number or nondriver identification card number.
+(iii)  Financial account number or credit or debit card number.
+(iv)  Any security code, access code, or password that would permit access to a
+consumer's financial account.
+(v)  Biometric records.
+(b)  Any information or data, except age or gender, in any form or medium created
+by or derived from a healthcare provider or a consumer, that can be used to identify a
+particular consumer, and that relates to any of the following:
+(i)  The past, present, or future physical, mental, or behavioral health or condition of
+any consumer.
+(ii)  The provision of health care to any consumer.
+(iii)  Payment for the provision of health care to any consumer.
+(10)  "Person" means any natural person or any nongovernmental juridical person.
+(11)  "Publicly available information" means any information that a licensee
+reasonably believes is lawfully made available to the general public when all of the following
+occur:
+(a)  The information is available to the general public from any of the following
+sources:
+(i)  Federal, state, or local government records.
+(ii)  Widely distributed media.
+(iii)  Disclosures to the general public required to be made by federal, state, or local
+law.
+(b)  A licensee has a reasonable basis to believe that information is lawfully made
+available to the general public if the licensee has taken steps to determine all of the
+following:
+(i)  That the information is of a type that is available to the general public.
+(ii)  That a consumer who can direct that the information not be made available to the
+general public has not done so.
+(12)  "Risk assessment" means the risk assessment that each licensee is required to
+conduct pursuant to R.S. 22:2504(C).
+(13)  "Third-party service provider" means a person, not otherwise defined as a
+licensee, who contracts with a licensee to maintain, process, store, or otherwise have access
+to nonpublic information through its provision of services to the licensee.
+Acts 2020, No. 283, §1.

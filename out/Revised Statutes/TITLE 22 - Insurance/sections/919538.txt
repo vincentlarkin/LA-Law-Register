@@ -1,0 +1,31 @@
+RS 22:1864
+Requirements for use of the National Drug Code by a pharmacy benefits manager
+https://www.legis.la.gov/legis/Law.aspx?d=919538
+
+§1864.  Requirements for use of the National Drug Code by a pharmacy benefit manager
+A.  Before a pharmacy benefit manager places or continues a particular NDC or
+Maximum Allowable Cost List, the following requirements shall be met:
+(1)  The prescription drug to which the NDC is assigned shall be listed as "A" or "B"
+rated in the most recent version of the FDA's Approved Drug Products with Therapeutic
+Equivalence Evaluations, also known as the Orange Book, or have an "NR" or "NA" rating
+or a similar rating by a nationally recognized reference.
+(2)  The prescription drug to which the NDC is assigned shall be available for
+purchase by pharmacies in the state from national or regional wholesalers.
+(3)  The prescription drug to which the NDC is assigned shall not be considered
+obsolete, temporarily unavailable, or listed on a drug shortage list.
+(4)  For every drug for which the pharmacy benefit manager establishes a maximum
+allowable cost to determine the drug product reimbursement, the pharmacy benefit manager
+shall make available to all pharmacies both of the following:
+(a)  Information identifying the national drug pricing compendia or sources used to
+obtain the drug price data.
+(b)  The comprehensive list of drugs subject to maximum allowable cost by plan and
+the actual maximum allowable cost by plan for each drug.
+B.  A pharmacy benefit manager shall do all of the following:
+(1)  Provide access to its Maximum Allowable Cost List to each pharmacy subject
+to the list.
+(2)  Update its Maximum Allowable Cost List on a timely basis, but in no event
+longer than seven calendar days from a change in the methodology on which the Maximum
+Allowable Cost List is based or in the value of a variable involved in the methodology.
+(3)  Provide a process for each pharmacy subject to the list to review an update to the
+Maximum Allowable Cost List.
+Acts 2014, No. 391, §1; Acts 2018, No. 597, §1, eff. Jan. 1, 2019.

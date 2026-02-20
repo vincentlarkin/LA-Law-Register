@@ -1,0 +1,53 @@
+RS 22:1300.2
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1187991
+
+§1300.2.  Definitions
+Except when a different meaning is expressly stated or clearly indicated by the
+context, the following terms, as used in this Subpart, have the following meanings:
+(1)  "Car sharing delivery period" means the period of time during which a shared
+vehicle is being delivered to the location of the car sharing start time, if applicable, as
+documented by the governing car sharing program agreement.
+(2)  "Car sharing period" means the period of time that commences with the car
+sharing delivery period or, if there is no car sharing delivery period, that commences with the
+car sharing start time and, in either case, ends at the car sharing termination time.  "Car
+sharing period" does not mean rental period, or similar, as defined in R.S. 22:1762.
+(3)  "Car sharing program agreement" means the terms and conditions applicable to
+a shared vehicle owner and a shared vehicle driver that govern the use of a shared vehicle
+through a peer-to-peer car sharing program.  "Car sharing program agreement" does not mean
+a rental agreement, automobile rental contract, or similar, as defined in R.S. 22:1523, 1762,
+or R.S. 47:551.
+(4)  "Car sharing start time" means the time when the shared vehicle becomes subject
+to the control of the shared vehicle driver at or after the time the reservation of a shared
+vehicle is scheduled to begin as documented in the records of a peer-to-peer car sharing
+program.
+(5)  "Car sharing termination time" means the earliest of the following events:
+(a)  The expiration of the agreed-upon time period established for the use of a shared
+vehicle according to the terms of the car sharing program agreement if the shared vehicle is
+delivered to the location agreed upon in the car sharing program agreement.
+(b)  When the shared vehicle is returned to a location as alternatively agreed upon by
+the shared vehicle owner and shared vehicle driver as communicated through a peer-to-peer
+car sharing program.
+(c)  When the shared vehicle owner or the shared vehicle owner's authorized designee
+takes possession and control of the shared vehicle.
+(6)  "Peer-to-peer car sharing" means the authorized use of a vehicle by an individual
+other than the vehicle's owner through a peer-to-peer car sharing program. "Peer-to-peer car
+sharing" does not mean rental motor vehicle, rental vehicle, vehicle, or similar, as defined
+in R.S. 22:1523 or 1762.
+(7)  "Peer-to-peer car sharing program" means a business platform that connects
+vehicle owners with drivers to enable the sharing of vehicles for financial consideration.
+"Peer-to-peer car sharing program" does not mean a service provider that is solely providing
+hardware or software as a service to a person or entity that is not effectuating payment of
+financial consideration for use of a shared vehicle. "Peer-to-peer car sharing program" does
+not mean lessor, rental company, or similar, as defined in R.S. 22:1523 or 1762.
+(8)  "Shared vehicle" means a vehicle that is available for sharing through a peer-to-peer car sharing program.  "Shared vehicle" does not mean rental motor vehicle, rental
+vehicle, vehicle, or similar, as defined in R.S. 22:1523 or 1762.
+(9)  "Shared vehicle driver" means an individual who has been authorized to drive
+the shared vehicle by the shared vehicle owner under a car sharing program agreement.
+"Shared vehicle driver" does not mean lessee, renter, or similar, as defined in R.S. 22:1523
+or 1762.
+(10)  "Shared vehicle owner" means the registered owner, or a person or entity
+designated by the registered owner, of a vehicle made available  for sharing to shared vehicle
+drivers through a peer-to-peer car sharing program.  "Shared vehicle owner" does not mean
+lessor, rental company, or similar, as defined in R.S. 22:1523 or 1762.
+Acts 2020, No. 277, §1.

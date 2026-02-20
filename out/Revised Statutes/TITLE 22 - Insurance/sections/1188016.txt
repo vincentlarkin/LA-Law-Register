@@ -1,0 +1,48 @@
+RS 22:2509
+Exemptions
+https://www.legis.la.gov/legis/Law.aspx?d=1188016
+
+§2509.  Exemptions
+A.  A licensee shall be exempt from the provisions of R.S. 22:2504 if the licensee
+meets any of the following criteria:
+(1)  Having fewer than twenty-five employees.
+(2)  Less than five million dollars in gross annual revenue.
+(3)  Less than ten million dollars in year-end total assets.
+(4)  Being subject to the Health Insurance Portability and Accountability Act, P.L.
+104-191, 110 Stat. 1936, and doing all of the following:
+(a)  Establishing and maintaining an information security program pursuant to any
+statutes, rules, regulations, procedures, or guidelines established pursuant to the Health
+Insurance Portability and Accountability Act.
+(b)  Complying with and submitting, upon request of the commissioner, a written
+statement certifying compliance with the information security program established and
+maintained pursuant to Subparagraph (a) of this Paragraph.
+(5)  Being an employee, agent, representative, or designee of a licensee, who is also
+a licensee, to the extent that the employee, agent, representative, or designee is covered by
+the information security program of the other licensee.
+(6)  Being affiliated with a depository institution subject to the Interagency
+Guidelines Establishing Information Security Standards pursuant to the Gramm-Leach-Bliley
+Act, 15 U.S.C. 6801 and 6805, and doing all of the following:
+(a)  Establishing and maintaining an information security program pursuant to any
+statutes, rules, regulations, procedures, or guidelines established pursuant to the Gramm-Leach-Bliley Act.
+(b)  Complying with and submitting, upon request of the commissioner, a written
+statement certifying compliance with the information security program established and
+maintained pursuant to Subparagraph (a) of this Paragraph.
+(7)  Being subject to another jurisdiction approved by the commissioner and doing
+all of the following:
+(a)  Establishing and maintaining an information security program pursuant to such
+statutes, rules, regulations, procedures, or guidelines established by another jurisdiction.
+(b)  Complying with and submitting a written statement certifying its compliance with
+the information security program established and maintained pursuant to Subparagraph (a)
+of this Paragraph.
+B.  In the event that a licensee ceases to qualify for an exemption pursuant to
+Subsection A of this Section, the licensee shall have one hundred eighty days to comply with
+the provisions of this Chapter.
+C.  A licensee that is subject to R.S. 51:3076 shall be exempt from the provisions of
+R.S. 22:2506 if the licensee does all of the following:
+(1)  Notifies affected consumers of cybersecurity events relating to the licensee's
+insurance business in a manner consistent with the requirements of the Gramm-Leach-Bliley
+Act.
+(2)  Notifies the commissioner of cybersecurity events relating to the licensee's
+insurance business in a manner consistent with and at the same time as the notice the licensee
+gives to federal regulatory authorities.
+Acts 2020, No. 283, §1.

@@ -1,0 +1,24 @@
+RS 22:1300.11
+Driver's license verification; data retention
+https://www.legis.la.gov/legis/Law.aspx?d=1188000
+
+§1300.11.  Driver's license verification; data retention
+A.  A peer-to-peer car sharing program shall not enter into a peer-to-peer car sharing
+program agreement with a driver unless the driver who will operate the shared vehicle meets
+one of the following criteria:
+(1)  Holds a driver's license issued pursuant to R.S. 32:402 that authorizes the driver
+to operate vehicles of the same class as the shared vehicle.
+(2)  Is a nonresident who meets both of the following criteria:
+(a)  Holds a driver's license issued by the state or country of the driver's residence that
+authorizes the driver in that state or country to drive vehicles of the same class as the shared
+vehicle.
+(b)  Is at least the same age as that required of a resident to drive vehicles of the same
+class as the shared vehicle.
+(3)  Otherwise is specifically authorized by R.S. 32:401 et seq. to drive vehicles of
+the same class as the shared vehicle.
+B.  A peer-to-peer car sharing program shall keep record of the following:
+(1)  The name and address of the shared vehicle driver.
+(2)  The number of the driver's license of the shared vehicle driver and each other
+person, if any, who will operate the shared vehicle.
+(3)  The place of issuance of the driver's license.
+Acts 2020, No. 277, §1.

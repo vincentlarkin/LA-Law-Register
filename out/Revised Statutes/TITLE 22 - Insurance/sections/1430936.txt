@@ -1,0 +1,64 @@
+RS 22:1482.2
+Premium discount for dashboard cameras with telematics; liability portion of policies; commercial motor vehicles
+https://www.legis.la.gov/legis/Law.aspx?d=1430936
+
+§1482.2.  Premium discount for dashboard cameras with telematics; liability portion of
+policies; commercial motor vehicles
+A.  The purpose of this Section is to enhance public safety, reduce insurance fraud,
+and lower costs of claims by incentivizing the use of dashboard cameras paired with
+telematics systems in commercial motor vehicles, thereby warranting a reduction in liability
+insurance premiums.
+B.  For the purposes of this Section, the following terms have the following
+meanings:
+(1)  "Commercial motor vehicle" means the same as the term is defined in R.S.
+32:401 and includes fleet operations.
+(2)  "Dashboard camera" means a dashboard-mounted video recording device capable
+of continuous loop recording with a minimum resolution of 1080p, designed to capture
+footage of the road ahead of the vehicle.
+(3)  "Liability premium" means the portion of an insurance premium attributable to
+bodily injury liability and property damage liability coverage under a commercial motor
+vehicle insurance policy.
+(4)  "Telematics system" means a device or software integrated with a vehicle that
+collects and transmits real-time data on driving behavior, including but not limited to speed,
+braking, and mileage, to an insurer, fleet owner, or third-party vendor designated by an
+insurer or policyholder.
+C.(1)  Every insurer authorized to issue commercial motor vehicle insurance policies
+in this state, except for a surplus lines insurer, shall provide a discount on the liability
+premium for each commercial motor vehicle equipped with a dashboard camera and
+telematics system meeting the requirements of this Section.  The insurer shall provide the
+discount in an amount actuarially justified based on loss experience, claims data, or other
+relevant factors.
+(2)  The discount required in this Subsection does not extend to collision,
+comprehensive, or other coverage types unless otherwise determined by the insurer.
+D.(1)  To qualify for the discount, the policyholder shall ensure the dashboard camera
+and telematics system both comply with all of the following:
+(a)  Be installed and operational at the time of policy issuance or renewal.
+(b)  Meet minimum technical standards as prescribed by the commissioner, including
+compatibility between the dashboard camera and telematics system for data verification.
+(c)  Remain in continuous use during the policy term, subject to verification pursuant
+to Subsection E of this Section.
+(2)  The policyholder shall provide proof of installation and operation, such as a
+certificate from a licensed vendor or telematics data report, upon request of the insurer.
+E.(1)  Insurers shall annually verify compliance through the policyholder's submission
+of a telematics summary report or a signed affidavit attesting to the continuous operation of
+the dashboard camera and telematics system.
+(2)  A policyholder's failure to maintain an operational dashboard camera and
+telematics system shall result in the forfeiture of the discount at the next policy renewal,
+unless the discount is reinstated upon proof of compliance.
+F.(1)  Each insurer shall submit an annual report to the commissioner by March first
+of each year, detailing all of the following:
+(a)  The number of commercial motor vehicles receiving the discount.
+(b)  The aggregate savings provided to policyholders pursuant to this Section.
+(c)  Any observed changes in claim frequency or severity attributable to dashboard
+cameras and telematics usage.
+(2)  The commissioner shall compile and submit a summary of these reports to the
+House Committee on Insurance and Senate Committee on Insurance by June first of each
+year.
+G.  The commissioner shall promulgate and adopt rules and regulations in accordance
+with the Administrative Procedure Act that are necessary to implement this Section,
+including but not limited to technical standards for dashboard cameras and telematics
+systems, verification procedures, and exemptions for insurers demonstrating actuarial
+justification that the discount is not warranted based on claims data specific to their portfolio.
+H.  Any insurer found to be in willful noncompliance with this Section is subject to
+the penalties of R.S. 22:1969.
+Acts 2025, No. 19, §1, eff. Jan. 1, 2026.

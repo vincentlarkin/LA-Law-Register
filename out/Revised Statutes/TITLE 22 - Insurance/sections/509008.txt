@@ -1,0 +1,30 @@
+RS 22:1833
+Standards for receipt and processing of electronic claims
+https://www.legis.la.gov/legis/Law.aspx?d=509008
+
+§1833.  Standards for receipt and processing of electronic claims
+A.(1)  A health insurance issuer shall allow a health care provider access to information in the issuer's Payer's Companion Guide, or its successor, listing issuer-specific data requirements for accepted electronic claims.  Such access shall be provided through a written notice to the provider or through Internet access.
+(2)  Within five working days of receipt of an electronic claim, a health insurance issuer or its agent shall review the entire claim and, if the issuer determines that the claim is not an accepted claim, issue an exception report to the provider or its agent indicating all defects or reasons known at that time that the claim is not an accepted claim.  A provider who submits a claim that is not an accepted claim shall be deemed to have timely submitted a claim for the payment of covered health care services if the health insurance issuer or its agent fails to notify the health care provider, or the health care clearinghouse from which the claim was received, of  all defects or reasons known at that time that the claim is not an accepted claim as required by this Subsection.
+(3)  Such exception report shall contain at a minimum the following information, if known at that time, for each claim submitted:
+(a)  Patient name.
+(b)  Provider claim number, patient account number, or unique insured/enrollee identification number.
+(c)  Date of service.
+(d)  Total billed charges.
+(e)  Exception report issuer's name.
+(f)  The date upon which the exception report was generated.
+(4)  When the issuer or its agent rejects an entire batch of claims, the issuer or its agent shall send a batch rejection report to the entity from which the rejected batch of claims was received.  Such batch rejection report shall contain at a minimum the following information:
+(a)  Date batch was received by the issuer or its agent.
+(b)  Date of rejection report.
+(c)  Name or identification number of entity issuing batch rejection report.
+(d)  Batch submitter's name or identification number, whichever is available.
+(e)  Reason batch is rejected.
+B.(1)  Any electronic claim shall be paid, denied, or pended not more than twenty-five days from the date upon which an electronic clean claim is electronically received by the health insurance issuer or its agent, unless it is not payable under the terms of the applicable contract of insurance or unless just and reasonable grounds exist such as would put a reasonable and prudent businessman on his guard.
+(2)  For purposes of this Subsection, the issuer shall either provide written notice to the provider that a claim is pended or allow the provider Internet access to such information.
+(3)  Just and reasonable grounds, as used in this Subsection, shall include but  not be limited to determination of whether the enrollee or insured was eligible for health insurance coverage on the date health care services were rendered.
+C.  Health insurance issuers shall have appropriate handling procedures approved by the department for the acceptance of electronic claim submissions.  Such procedures shall include but not be limited to the following:
+(1)  A process for electronically recording the time and date of actual receipt of electronic claims.
+(2)  A process for electronic review of transmitted claims that assures all such claims received are reviewed for determination of whether such claims are deemed accepted in accordance with Subsection A of this Section.
+(3)  A process for reporting all claims not accepted and batches of claims rejected and all defects or reasons known at that time that such claims were not accepted or batches of claims were rejected.
+D.  Health insurance issuers shall establish appropriate procedures approved by the department to assure that any health care provider who is not paid within the time frame specified in this Section receives a late payment adjustment equal to twelve percent per annum of the amount due.
+E.  The provisions of this Subpart shall not apply to the Office of Group Benefits.
+Acts 1999, No. 1017, §1, eff. July 9, 1999; Acts 2001, No. 1178, §2, eff. June 29, 2001; Acts 2005, No. 273, §1, eff. Jan. 1, 2006; Redesignated from R.S. 22:250.33 by Acts 2008, No. 415, §1, eff. Jan. 1, 2009.

@@ -1,0 +1,129 @@
+RS 22:883
+Stop-loss insurance coverage
+https://www.legis.la.gov/legis/Law.aspx?d=507764
+
+§883.  Stop-loss insurance coverage
+A.  Stop-loss coverage shall be defined as insurance covering the loss of an insured
+above a specific amount or a self-insurer for losses over a stated amount.
+B.  Any insurer authorized to issue property and casualty or health and accident
+policies of insurance in this state shall report, with its annual statement, any premiums
+written in this state  for stop-loss or excess insurance coverage to the Department of
+Insurance in the manner prescribed by the commissioner.
+C.  A stop-loss or excess insurance policy form intended for issue to cover losses of
+a group health plan, as defined in R.S. 22:1061(1), shall be submitted to the Department of
+Insurance for prior approval pursuant to the policy form filing requirements established by
+R.S. 22:861 and shall satisfy the following conditions:
+(1)  The stop-loss or excess insurance policy shall be issued to and insure the group
+health plan or the plan itself and not the employees, members, or participants.
+(2)  Payments by the insurer shall be made to the sponsor of the group health plan or
+the plan itself and not the employees, members, participants, or providers.
+(3)  The specific stop-loss or excess limit or attachment point per individual claimant
+shall be at least ten thousand dollars.  The aggregate stop-loss or excess limit or attachment
+point for groups of fifty or fewer shall be, at a minimum, one hundred twenty percent of the
+group health plan's total expected claims per policy period.  The aggregate stop-loss or
+excess limit or attachment point for groups of fifty-one or more shall be, at a minimum, one
+hundred ten percent of the group health plan's total expected claims per policy period.
+(4)  The stop-loss or excess insurance policy shall contain a provision stating that the
+bankruptcy or insolvency of the insured shall not relieve the stop-loss carrier from its
+obligation under R.S. 22:1269(A).
+(5)(a)  The stop-loss or excess insurance policy shall contain a provision that eligible
+claims incurred under the group health plan during the initial contract period shall be
+covered, provided that proof of payment by the plan is furnished to the insurer within ninety
+days after the expiration of the policy or any later period that is provided in the contract or
+insurance policy.
+(b)  All applications for stop-loss or excess insurance must include the option to
+purchase coverage extending, for at least ninety days beyond the expiration of the contract
+term, the period within which claims incurred during the contract term must be submitted
+and paid.
+(c)  All applications for stop-loss or excess insurance that include the option to
+purchase a policy providing coverage restricted to claims both incurred and paid during the
+contract term must contain a form for acceptance or rejection of the offer mandated in
+Subparagraph (b) of this Paragraph and must include disclosures as prescribed by the
+commissioner.
+(d)  All applications for stop-loss or excess insurance including options to purchase
+a policy providing coverage for claims incurred prior to the contract term, or providing
+coverage for claims incurred prior to the contract term but paid during the contract term,
+must contain a form for acceptance or rejection of the offer mandated in Subparagraph (b)
+of this Paragraph and must include disclosures as prescribed by the commissioner.
+(6)  The stop-loss or excess insurance policy shall provide coverage with rates not
+subject to adjustment by the stop-loss insurer during the policy period, unless any of the
+following occur:
+(a)  There is a change in the benefits provided under the group health plan.
+(b)  Enrollment under the group health plan changes by at  least ten percent.
+(7)  The stop-loss or excess insurance policy form filed with the Department of
+Insurance for approval shall contain a separate document certifying that each of the
+requirements specified in Paragraphs (1) through (6) of this Subsection have been met.
+D.  Stop-loss or excess insurance shall not be equivalent to reinsurance, as
+reinsurance only relates to transactions between insurers.  An entity purporting to cover a
+self-insured group health plan shall be treated as a stop-loss or excess insurer and shall be
+subject to the insurance laws and regulations of the state relating to such insurers and to
+penalties for violations of such laws and regulations.  In no instance shall stop-loss or excess
+loss insurance be defined as a contract or policy of health insurance under R.S. 22:452(1)(a).
+E.  Insurance companies writing stop-loss or excess insurance coverage shall exercise
+due diligence in ascertaining the legitimacy or authority of the underlying group health plan
+before issuing coverage.  This shall include but not be limited to ensuring that the underlying
+plan is not a self-insured multiple employer welfare arrangement, as defined in 29 U.S.C.
+§1002(40) unless the underlying plan is a self-insurance plan as defined in R.S. 22:452(1)
+and is authorized to do business in this state as a self-insurer.
+F.  Provider stop-loss or excess insurance policies that protect health care providers
+from a portion of the financial risk assumed in managed care contracts with health and
+accident insurers, health maintenance organizations, and self-insured group plans shall be
+submitted to the Department of Insurance for approval and shall satisfy the following
+conditions:
+(1)  The stop-loss or excess insurance policy shall be issued to and insure the
+contracted provider or network of health care providers.
+(2)  Payments by the insurer shall be made to the contracted provider or network of
+health care providers.
+(3)  The individual stop-loss amount, that is, retention or attachment point per
+claimant, shall be at least five thousand dollars. The aggregate stop-loss or excess amount
+shall be, at a minimum, fifty thousand dollars per calendar year.
+(4)  The stop-loss or excess insurance policy shall contain a provision that the proof
+of loss shall be furnished to the insurer within ninety days after the date that loss is incurred
+or any later period that is provided in the contract or insurance policy.
+(5)  Filings of a stop-loss or excess insurance policy filed with the Department of
+Insurance for approval shall contain a separate document certifying that each of the
+requirements specified in Paragraphs (1) through (4) of this Subsection have been met.
+G.  A stop-loss or excess insurance policy form covering any other kind of loss,
+damage, or liability may only be written by a property and casualty insurer and shall satisfy
+the following conditions:
+(1)  The stop-loss or excess insurance policy shall be issued to and insure an
+individual or business against legal liabilities other than those associated with provision of
+health benefits to employees or members of a health benefit plan or managed care health
+plan.
+(2)  Payments by the insurer shall be made to the insured upon provision of proof of
+loss.
+H.(1) Health stop-loss insurance issued in connection with an employee benefit plan
+of a small employer as defined in R.S. 22:1061 shall be issued on or after January 1, 2026,
+only if the insurance policy satisfies all of the following:
+(a) Is not subject to renewal rate increases exceeding the percentage change in the
+medical care index of the consumer price index over the duration of the previous plan year
+plus fifty percent, unless an increase greater than fifty percent is actuarially justified.
+(b) Has a contract term with guaranteed rates for at least twelve months, without
+adjustment, unless there is a change in the benefits provided under the small employer's
+health plan during the contract period or the number of employees covered under the plan
+increases or decreases by more than fifteen percent.
+(c) Includes either a specific attachment point or an aggregate attachment point in a
+contract, or both if the parties contract for both.
+(d) Aligns stop-loss plan benefit limitations and exclusions with a small employer's
+health plan benefit limitations and exclusions, including any annual or lifetime limits in the
+employer's health plan except to the extent that the plan benefit or limitation is otherwise
+covered by the employer through other insurance.
+(e) Pays stop-loss claims incurred during the contract period and paid within twenty-four months after the expiration date of the contract.
+(f) Includes provisions to cover eligible plan claims regardless of the termination of
+the plan prior to the end of the contract period, subject to the stop-loss contract's minimum
+attachment points.
+(2) No health stop-loss insurance issued in connection with an employee benefit plan
+of an employer with less than five employees shall be issued on or after January 1, 2026, if
+the insurance policy contains a provision permitting or authorizing the adjustment of specific
+deductibles or attachment points of a plan member or of specific diseases or conditions.
+(3) The provisions of this Subsection shall not apply to any policy in effect prior to
+January 1, 2026.
+I.(1) Any health stop-loss policy issued after January 1, 2026, shall include a separate
+disclosure form explaining the limitations of coverage, potential employer risk, and impact
+of claims on renewals. The employer shall sign the disclosure form prior to purchasing the
+policy.
+(2) The commissioner of insurance shall develop a standardized disclosure form no
+later than January 1, 2026.
+Acts 2001, No. 273, §1, eff. June 1, 2001; Acts 2003, No. 140, §1; Acts 2007, No.
+80, §1; Redesignated from R.S. 22:675 by Acts 2008, No. 415, §1, eff. Jan. 1, 2009; Acts
+2010, No. 375, §1, eff. Jan. 1, 2011; Acts 2025, No. 400, §1.

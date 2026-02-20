@@ -1,0 +1,40 @@
+RS 18:31
+State voter registration computer system; parish computer system
+https://www.legis.la.gov/legis/Law.aspx?d=81542
+
+PART III.  STATE VOTER REGISTRATION
+COMPUTER SYSTEM
+§31.  State voter registration computer system; parish computer system
+A.(1)  The secretary of state shall establish a state voter registration computer system
+for the registration of voters throughout the state in accordance with the provisions of this
+Title.
+(2)  The secretary of state shall prepare a minimum of one hour of training on
+cybersecurity for all persons who have user credentials to access the computer network
+operated or managed by the secretary of state.  The secretary of state shall require each such
+person to complete this training annually in order to maintain credentialed access to the
+computer network.
+B.  The secretary of state shall adopt rules and regulations with respect to all records,
+data, and information required for registration of voters and the transfer of copies thereof to
+the department.  The secretary of state shall establish, by rule, a uniform cost for the
+preparation of lists of registered voters.  However, no charges for preparation or transmission
+of voter registration data shall apply to the office of motor vehicles of the Department of
+Public Safety and Corrections, when the transmitted data is used to verify voter registration
+information against driver's license and social security information.  All rules and regulations
+shall be adopted pursuant to the Administrative Procedure Act.
+C.  All revenues derived from the sale of lists of registered voters and related
+statistical information and from the use of the Department of State's information system shall
+be deposited in the state general fund to the credit of the Department of State.  The secretary
+of state shall utilize such revenues to offset and supplement costs relating to the operation
+of the state voter registration computer system.
+D.  Pursuant to the provisions of R.S. 18:18(A)(4), the secretary of state shall submit
+to the legislature an annual report in a format requested by the legislature which includes a
+list of registered voters and other data associated with registered voters to be used for
+redistricting and other legislative purposes.  Such lists and data shall be updated quarterly as
+requested by the legislature.
+Acts 1976, No. 697, §1, eff. Jan. 1, 1978.  Amended by Acts 1982, No. 166, §1, eff.
+July 14, 1982; Acts 1984, No. 672, §1; Acts 1985, No. 754, §1; Acts 1988, No. 909, §2, eff.
+Jan. 1, 1989; Acts 1999, No. 254, §2, eff. July 1, 1999; Acts 2001, No. 451, §1, eff. Jan. 12,
+2004; Acts 2003, No. 1220, §2, eff. July 3, 2003, and §3, eff. Jan. 12, 2004; Acts 2020, No.
+28, §1, eff. June 4, 2020.
+NOTE:  See Acts 2001, No. 451, §8(A), relative to effective date.
+NOTE:  See Acts 2003, No. 1220, §5, relative to effective date.

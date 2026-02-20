@@ -1,0 +1,157 @@
+RS 22:1053
+Requirement for coverage of step therapy or fail first protocols; prohibitions; definitions
+https://www.legis.la.gov/legis/Law.aspx?d=727112
+
+§1053.  Requirement for coverage of step therapy or fail first protocols; prohibitions;
+definitions
+A.(1)  Any health coverage plan specified in Subsection M of this Section which
+includes prescription benefits as part of its policy or contract, which utilizes step therapy or
+fail first protocols, and which is issued for delivery, delivered, renewed, or otherwise
+contracted for in this state shall comply with the provisions of this Section.
+(2)  The provisions of this Section shall not be construed to prohibit the substitution
+of an AB-rated generic equivalent, biosimilar, or interchangeable biological product as
+designated by the federal Food and Drug Administration.
+B.(1)  Any step therapy or fail first protocol established by a health coverage plan
+shall consider clinical review criteria and clinical practice guidelines that are developed and
+endorsed by a multidisciplinary panel of experts who manage conflicts of interest among the
+members of writing and review groups by doing all of the following:
+(a)  Requiring members to disclose any potential conflicts of interest with health
+coverage plans or pharmaceutical manufacturers and to recuse themselves from voting if they
+have a conflict of interest.
+(b)  Using a methodologist to work with writing groups to provide objectivity in data
+analysis and ranking of evidence through the preparation of evidence tables and facilitating
+consensus.
+(c)  Offering opportunities for public review and comments.
+(d)  Creating an explicit and transparent decisionmaking process.
+(e)  Basing decisions on high quality studies, research, peer-reviewed publications,
+and medical practice.
+(f)  Minimizing biases and conflicts of interest.
+(g)  Explaining the relationship between treatment options and outcomes.
+(h)  Rating the quality of the evidence supporting recommendations.
+(i)  Considering relevant patient subgroups and preferences.
+(j)  Considering the needs of atypical patient populations and diagnoses when
+establishing clinical review criteria.
+(k)  Recommending that the prescription drugs be taken in the specific sequence
+required by the step therapy protocol.
+(l)(i)  Continuously reviewing new evidence, research, and newly developed
+treatments to update the clinical review criteria and clinical practice guidelines.
+(ii)  If clinical practice guidelines are not reasonably available, any step therapy or fail
+first protocol established by a health coverage plan shall consider peer-reviewed publications
+or expert guidance from independent experts, which may include practitioners with expertise
+applicable to the relevant health condition.
+(2)  This Subsection shall not be construed to require health coverage plans to
+establish a new entity to develop clinical review criteria used for step therapy or fail first
+protocols.
+C.  When medications for the treatment of any medical condition are restricted for
+use by any health coverage plan through a step therapy or fail first protocol, the prescribing
+practitioner shall have access to a clear and convenient process to expeditiously request an
+override of the restriction.  The override process shall be made easily accessible on the health
+coverage plan's website.  An override of the restriction shall be expeditiously granted by the
+health coverage plan if the prescribing practitioner, using sound clinical evidence, can
+demonstrate any of the following:
+(1)  The preferred treatment required under the step therapy or fail first protocol has
+been ineffective in the treatment of the patient's disease or medical condition.  The
+prescribing practitioner shall demonstrate to the health coverage plan that the patient has
+tried the required prescription drug while under his current or a previous health insurance or
+health coverage plan, or another prescription drug in the same pharmacologic class or with
+the same mechanism of action, and the prescription drug was discontinued due to lack of
+efficacy or effectiveness, diminished effect, or an adverse event.
+(2)  The preferred treatment required under the step therapy or fail first protocol is
+reasonably expected to be ineffective based on the known relevant physical or mental
+characteristics and medical history of the patient and known characteristics of the drug
+regimen.
+(3)  The preferred treatment required under the step therapy or fail first protocol is
+contraindicated or will likely cause an adverse reaction or physical or mental harm to the
+patient.
+(4)  The patient is currently receiving a positive therapeutic outcome on a prescription
+drug for the medical condition under consideration if, while on his current health coverage
+plan or the immediately preceding health coverage plan, the patient received coverage for the
+prescription drug.
+(5)  The required prescription drug is not in the best interest of the patient based on
+medical necessity as evidenced by valid documentation submitted by the prescriber.
+(6)  The required prescription drug for postpartum depression under the step therapy
+or fail first protocol is not indicated by the United States Food and Drug Administration for
+postpartum depression on the prescription drug's approved labeling.
+D.  Approval of a step therapy or fail first protocol override request, when issued by
+a health coverage plan, shall include clear authorization of coverage for the prescription drug
+prescribed by the patient's prescribing practitioner, provided the drug is covered under the
+health coverage plan.
+E.  Denial of a step therapy or fail first protocol override request shall not be
+considered a final adverse determination and shall be eligible for an appeal of coverage
+determination pursuant to R.S. 22:2401.
+F.  A health coverage plan shall approve or deny a step therapy or fail first protocol
+override request within seventy-two hours of receipt.  In cases where exigent circumstances
+exist, a health coverage plan shall approve or deny a step therapy or fail first protocol
+override request within twenty-four hours of receipt.  If a health coverage plan fails to
+comply with the timelines provided for in this Subsection, the override request shall be
+considered approved.
+G.  In the case of a denial, the health coverage plan shall provide the patient and the
+prescribing practitioner with the reason for the denial, an alternative covered medication, if
+applicable, and information regarding the procedure for submitting an appeal to the denial.
+H.  In the case of an appeal, the practitioner or, if appropriate, other healthcare
+provider deciding the appeal shall consider atypical diagnoses and the needs of atypical
+patient populations.
+I.  The duration of any step therapy or fail first protocol shall not be longer than the
+customary period for the medication when the treatment is demonstrated by the prescribing
+practitioner to be clinically ineffective.  When the health coverage plan can demonstrate,
+through sound clinical evidence, that the originally prescribed medication is likely to require
+more than the customary period for the medication to provide any relief or an amelioration
+to the patient, the step therapy or fail first protocol may be extended for an additional period
+of time no longer than the original customary period for the medication.
+J.(1)  No health coverage plan shall use step therapy or fail first protocols as the basis
+to restrict any prescription benefit for the treatment of stage-four advanced, metastatic cancer
+or associated conditions if at least one of the following criteria is met:
+(a)  The prescribed drug or drug regimen has the United States Food and Drug
+Administration approved indication.
+(b)  The prescribed drug or drug regimen has the National Comprehensive Cancer
+Network Drugs and Biologics Compendium indication.
+(c)  The prescribed drug or drug regimen is supported by peer-reviewed,
+evidenced-based medical literature.
+(2)  The provisions of this Subsection shall not apply if the preferred drug or drug
+regimen is considered clinically equivalent for therapy, contains the identical active
+ingredient or ingredients, and is proven to have the same efficacy.  For purposes of this
+Subsection, different salts proven to have the same efficacy shall not be considered as
+different active ingredients.
+(3)  For drugs prescribed for associated conditions as defined in this Section, the
+treating healthcare provider shall inform the health coverage plan that the condition is a
+condition associated with stage-four advanced, metastatic cancer when requesting
+authorization.
+K.(1)  If a prescribed drug is denied by a health coverage plan based upon step
+therapy or fail first protocols, the health coverage plan shall provide the prescriber with a list
+of the alternative comparable formulary medications in writing and attached to the letter of
+denial of prescription drug coverage.
+(2)  It shall be deemed sufficient to meet the requirements of this Subsection if a
+health coverage plan includes the information required by this Subsection in the denial letter
+sent by the health coverage plan or its agent.  For any request made by providers utilizing
+electronic health records with capabilities, the notice may be sent electronically.
+(3)  Simple notification of the availability and location of the formulary shall not be
+deemed sufficient to meet the requirements of this Subsection.
+L.  Notwithstanding any provision of this Section to the contrary, a health coverage
+plan shall not subject a prescription or order for a ventilator to any step therapy or fail first
+protocol when either of the following applies:
+(1)  The ventilator requires frequent or substantial servicing as classified by the
+Centers for Medicare and Medicaid Services and described in R.S. 22:1821(G).
+(2)  There is clinical evidence or patient history that suggests that the alternative
+treatments required under the protocol will be less effective or cause an adverse reaction to
+the patient.
+M.  As used in this Section, the following definitions apply:
+(1)  "Health coverage plan" means:
+(a)  An individual or group plan or program which is established by contract,
+certificate, law, plan, policy, subscriber agreement, or by any other method and which is
+entered into, issued, or offered for the purpose of arranging for, delivering, paying for,
+providing, or reimbursing any of the costs of health or medical care, including pharmacy
+services, drugs, or devices.
+(b)  Any hospital, health, or medical expense insurance policy, hospital or medical
+service contract, employee welfare benefit plan, contract or agreement with a health
+maintenance organization or a preferred provider organization, health and accident insurance
+policy, or any other insurance contract of this type, including a group insurance plan and the
+Office of Group Benefits programs.
+(c)  Any plan that is subject to the provisions of this Section which is administered
+by a pharmacy benefit manager.
+(2)  "Stage-four advanced, metastatic cancer" means cancer that has spread from the
+lymph nodes or other areas or parts of the body, and "associated conditions" means the
+symptoms or side effects associated with stage-four advanced, metastatic cancer or its
+treatment.
+Acts 2010, No. 884, §1; Acts 2011, No. 144, §1; Acts 2019, No. 120, §1, eff. June
+5, 2019; Acts 2019, No. 206, §1, eff. Jan. 1, 2020; Acts 2020, No. 181, §1, eff. June 11,
+2020; Acts 2023, No. 125, §1; Acts 2024, No. 301, §1; Acts 2024, No. 453, §1.

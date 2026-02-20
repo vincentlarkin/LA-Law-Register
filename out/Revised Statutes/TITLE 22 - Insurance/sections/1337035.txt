@@ -1,0 +1,66 @@
+RS 22:1260.41
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1337035
+
+SUBPART P.  UTILIZATION REVIEW STANDARDS
+§1260.41.  Definitions
+For purposes of this Subpart, the following terms have the following meanings unless
+the context clearly indicates otherwise:
+(1)  "Adverse determination" means a determination by a health insurance issuer or
+utilization review entity that an admission, availability of care, continued stay, or other
+healthcare service furnished or proposed to be furnished to an enrollee has been reviewed
+and, based upon the information provided, does not meet a health insurance issuer's
+requirements for medical necessity, appropriateness, healthcare setting, or level of care or
+effectiveness, or is experimental or investigational, and the utilization review for the
+requested service is therefore denied, reduced, or terminated.
+(2)  "Ambulatory review" means the same as the term is defined in R.S. 22:2392.
+(3)  "Certification" means a determination by a health insurance issuer or a utilization
+review entity that an admission, availability of care, continued stay, or other healthcare
+service has been reviewed and, based on the information provided, satisfies the health
+insurance issuer's requirements for medical necessity, appropriateness, healthcare setting, and
+level of care and effectiveness, and that payment will be made for that healthcare service,
+provided the patient is an enrollee of the health benefit plan at the time the service is
+provided.
+(4)  "Clinical review criteria" means the written policies or screening procedures,
+drug formularies or lists of covered drugs, determination rules, decision abstracts, clinical
+protocols, medical protocols, practice guidelines, and any other criteria or rationale used by
+the health insurance issuer or utilization review entity to determine the necessity and
+appropriateness of healthcare services.
+(5)  "Concurrent review" means utilization review conducted during a patient's
+hospital stay or course of treatment.
+(6)  "Healthcare facility" or "facility" means a facility or institution providing
+healthcare services including but not limited to a hospital or other licensed inpatient center;
+ambulatory surgical or treatment center; skilled nursing facility; inpatient hospice facility;
+residential treatment center; diagnostic, laboratory, or imaging center; or rehabilitation or
+other therapeutic health setting.  A "healthcare facility" may include a base healthcare
+facility.
+(7)  "Healthcare professional" means the same as the term is defined in R.S. 22:2392.
+(8)  "Healthcare provider" or "provider" means an ambulance service as defined in
+R.S. 40:1131, a healthcare professional or a healthcare facility, or the agent or assignee of
+the professional or facility.
+(9)  "Healthcare services" means services, items, supplies, or drugs for the diagnosis,
+prevention, treatment, cure, or relief of a health condition, illness, injury, or disease.
+(10)(a)  "Health insurance issuer" means the same as the term is defined in R.S.
+22:1019.1, except as provided in Subparagraph (b) of this Paragraph.
+(b)  The provisions of this Subpart shall not apply to an entity that provides limited
+scope dental or vision benefits.
+(11)  "Prior authorization" means a determination by a health insurance issuer or
+person contracting with a health insurance issuer that healthcare services ordered by the
+provider for an enrollee are medically necessary and appropriate.
+(12)  "Retrospective review" means a utilization review of medical necessity that is
+conducted after services have been provided to an enrollee but does not include the review
+of a claim that is limited to an evaluation of reimbursement levels, veracity of
+documentation, accuracy of coding, or adjudication for payment.
+(13)  "Urgent condition" means a condition which could immediately and seriously
+jeopardize the life or health of the patient or the patient's ability to attain, maintain, or regain
+maximum function.
+(14)  "Utilization review" means a set of formal techniques designed to monitor the
+use of or evaluate the clinical necessity, appropriateness, efficacy, or efficiency of healthcare
+services, procedures, or settings.  Techniques for application include but are not limited to
+ambulatory review, second opinion, certification, concurrent review, case management,
+discharge planning, reviews to determine prior authorization, and retrospective review.
+"Utilization review" does not include elective requests for clarification of coverage.
+(15)  "Utilization review entity" means an individual or entity that performs reviews
+to determine prior authorization for a health insurance issuer.  A health insurance issuer or
+healthcare provider is a utilization review entity if it performs utilization review.
+Acts 2023, No. 312, §1, eff. Jan 1, 2024; Acts 2023, No. 333, §2, eff. Jan. 1, 2024.

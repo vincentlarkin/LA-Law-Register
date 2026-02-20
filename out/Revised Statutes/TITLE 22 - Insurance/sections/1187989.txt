@@ -1,0 +1,32 @@
+RS 22:1157.1
+Dental reimbursement or payments; procedure codes; downcoding; prohibitions
+https://www.legis.la.gov/legis/Law.aspx?d=1187989
+
+§1157.1.  Dental reimbursement or payments; procedure codes; downcoding; prohibitions
+A.(1)  A dental service contractor shall not systematically downcode with the intent
+to deny reimbursement otherwise due to a dentist or other healthcare provider.
+(2)  A violation of Paragraph (1) of this Subsection shall be considered an unfair or
+deceptive practice pursuant to Part IV of Chapter 7 of this Title and shall be subject to the
+penalties contained in that Part.
+B.  No dental service contractor shall change a procedure code submitted by a dentist
+or other healthcare provider unless both of the following conditions are met:
+(1)  The change is consistent with the dental service contractor's policies.
+(2)  The dental service contractor has sufficient information to make the change.
+C.(1)  If a procedure code change is made pursuant to Subsection B of this Section,
+the explanation of benefits provided to the subscriber shall include the reason for the
+downcoding and citation of the dental service contractor's applicable policy.
+(2)  The explanation of benefits shall not state or infer that the code billed by the
+dentist or other healthcare provider was inappropriate unless there is clear evidence the code
+listed on the claim by the dentist or provider in no way related to the procedure actually
+performed.
+(3)  The explanation of benefits shall not state or infer that the dentist or other
+healthcare provider's charge was excessive unless there is clear evidence the charge was
+substantially higher than the dentist's or provider's regular fees.
+D.  The dental service contractor shall disclose in its provider contracts, on its
+website, or both, the specific downcoding policies that the dental service contractor
+reasonably expects to be applied to the provider or provider's services on a routine basis as
+a matter of policy.
+E.  Notwithstanding any provision of this Section to the contrary, a dental service
+contractor, insurer, or other third-party payer shall not downcode the installation service of
+a fixed bridge to a removable bridge.
+Acts 2020, No. 187, §1.

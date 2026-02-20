@@ -1,0 +1,10 @@
+RS 22:2511
+Defenses
+https://www.legis.la.gov/legis/Law.aspx?d=1188018
+
+§2511.  Defenses
+A licensee that satisfies the provisions of this Chapter may assert an affirmative
+defense to any cause of action arising in tort that is brought pursuant to the laws of this state
+or in the courts of this state and that alleges that the failure to implement reasonable
+information security controls resulted in a data breach concerning nonpublic information.
+Acts 2020, No. 283, §1.

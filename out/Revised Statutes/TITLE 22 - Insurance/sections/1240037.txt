@@ -1,0 +1,87 @@
+RS 22:601.11
+Securities transactions; lending, repurchase, reverse repurchase, dollar roll
+https://www.legis.la.gov/legis/Law.aspx?d=1240037
+
+§601.11. Securities transactions; lending, repurchase, reverse repurchase, dollar roll
+An insurer may execute securities lending, repurchase, reverse repurchase, and dollar
+roll transactions with business entities having a net worth of at least one hundred million
+dollars, subject to the following requirements:
+(1) The insurer's board of directors shall adopt a written plan that is consistent with
+the requirements of the written plan in R.S. 22:601.3(A) that specifies guidelines and
+objectives to be followed, including but not limited to the following:
+(a) A description of how cash received will be invested or used for general corporate
+purposes of the insurer.
+(b) Operational procedures to manage interest rate risk, counterparty default risk, the
+conditions under which proceeds from repurchase transactions may be used in the ordinary
+course of business, and the use of acceptable collateral in a manner that reflects the liquidity
+needs of the transaction.
+(c) The extent to which the insurer may engage in these transactions.
+(2) The insurer shall execute a written agreement for all transactions authorized in
+this Section other than dollar roll transactions. The written agreement shall require that each
+transaction terminate no more than one year from its inception or upon the earlier demand
+of the insurer. The agreement shall be with the business entity counterparty, but for securities
+lending transactions, the agreement may be with an agent acting on behalf of the insurer, if
+the agent is a qualified business entity, and if the agreement does all of the following:
+(a) Requires the agent to execute separate agreements with each counterparty that are
+consistent with the requirements of this Section.
+(b) Prohibits securities lending transactions under the agreement with the agent or its
+affiliates.
+(3) Cash received in a transaction under this Section shall be invested in accordance
+with this Subpart and in a manner that recognizes the liquidity needs of the transaction or
+used by the insurer for its general corporate purposes. While the transaction remains
+outstanding, the insurer, its agent, or custodian shall maintain, as to acceptable collateral
+received in a transaction under this Section, either physically or through the book entry
+systems of the Federal Reserve, Depository Trust Company, Participants Trust Company, or
+other securities depositories approved by the commissioner:
+(a) Possession of the acceptable collateral.
+(b) A perfected security interest in the acceptable collateral.
+(c) In the case of a jurisdiction outside of the United States, title to, or rights of a
+secured creditor to, the acceptable collateral.
+(4) The limitations of R.S. 22:601.6 and 601.12 shall not apply to the business entity
+counterparty exposure created by transactions under this Section. For purposes of
+calculations made to determine compliance with this Subsection, no effect will be given to
+the insurer's future obligation to resell securities, in the case of a reverse repurchase
+transaction, or to repurchase securities, in the case of a repurchase transaction. No insurer
+shall execute a transaction under this Section if, as a result of and after giving effect to the
+transaction, any of the following occur:
+(a) The aggregate amount of securities then loaned, sold to, or purchased from any
+one business entity counterparty under this Section would exceed five percent of its admitted
+assets. In calculating the amount sold to or purchased from a business entity counterparty
+under repurchase or reverse repurchase transactions, effect may be given to netting
+provisions under a master written agreement.
+(b) The aggregate amount of all securities then loaned, sold to, or purchased from all
+business entities under this Section would exceed forty percent of its admitted assets, but the
+limitation of this Paragraph shall not apply to reverse repurchase transactions if the
+borrowing is used to meet operational liquidity requirements resulting from an officially
+declared catastrophe and subject to a plan approved by the commissioner.
+(5) In a securities lending transaction, the insurer shall receive acceptable collateral
+having a market value as of the transaction date at least equal to one hundred two percent of
+the market value of the securities loaned by the insurer in the transaction as of that date. If
+at any time the market value of the acceptable collateral is less than the market value of the
+loaned securities, the business entity counterparty shall be obligated to deliver additional
+acceptable collateral, the market value of which, together with the market value of all
+acceptable collateral then held in connection with the transaction, at least equals one hundred
+two percent of the market value of the loaned securities.
+(6) In a repurchase transaction, other than a dollar roll transaction, the insurer shall
+receive acceptable collateral having a market value as of the transaction date at least equal
+to ninety-five percent of the market value of the securities transferred by the insurer in the
+transaction as of that date. If at any time the market value of the acceptable collateral is less
+than ninety-five percent of the market value of the securities so transferred, the business
+entity counterparty shall be obligated to deliver additional acceptable collateral, the market
+value of which, together with the market value of all acceptable collateral then held in
+connection with the transaction, at least equals ninety-five percent of the market value of the
+transferred securities.
+(7) In a dollar roll transaction, the insurer shall receive cash in an amount at least
+equal to the market value of the securities transferred by the insurer in the transaction as of
+the transaction date.
+(8) In a reverse repurchase transaction, the insurer shall receive as acceptable
+collateral transferred securities having a market value at least equal to one hundred two
+percent of the purchase price paid by the insurer for the securities. If at any time the market
+value of the acceptable collateral is less than one hundred percent of the purchase price paid
+by the insurer, the business entity counterparty shall be obligated to provide additional
+acceptable collateral, the market value of which, together with the market value of all
+acceptable collateral then held in connection with the transaction, at least equals one hundred
+two percent of the purchase price. No securities acquired by an insurer in a reverse
+repurchase transaction shall be sold in a repurchase transaction, loaned in a securities lending
+transaction, or otherwise pledged.
+Acts 2021, No. 165, §1, eff. Jan. 1, 2022.

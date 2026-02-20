@@ -1,0 +1,240 @@
+RS 22:2392
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=860838
+
+§2392.  Definitions
+As used in this Chapter:
+(1)  "Adverse determination" means any of the following:
+(a)  A determination by a health insurance issuer or its designee utilization review
+organization that, based upon the information provided, a request for a benefit under the
+health insurance issuer's health benefit plan upon application of any utilization review
+technique does not meet the health insurance issuer's requirements for medical necessity,
+appropriateness, health care setting, level of care, or effectiveness or is determined to be
+experimental or investigational and the requested benefit is therefore denied, reduced, or
+terminated or payment is not provided or made, in whole or in part, for the benefit.
+(b)  The denial, reduction, termination, or failure to provide or make payment, in
+whole or in part, for a benefit based on a determination by a health insurance issuer or its
+designee utilization review organization of a covered person's eligibility to participate in the
+health insurance issuer's health benefit plan.
+(c)  Any prospective review or retrospective review determination that denies,
+reduces, or terminates or fails to provide or make payment, in whole or in part, for a benefit
+under a health benefit plan.
+(d)  A rescission of coverage determination.
+(e)  For purposes of this Chapter, Part III of this Chapter relative to external reviews
+shall  apply only to adverse determinations and final adverse determinations that involve
+medical necessity, appropriateness, health care setting, level of care, effectiveness,
+experimental or investigational treatment, or a rescission.  Part II of this Chapter shall apply
+to any other adverse determination or final adverse determination.
+(2)  "Ambulatory review" means utilization review of health care services performed
+or provided in an outpatient setting.
+(3)  "Authorized representative" means any of the following:
+(a)  A person to whom a covered person has given express written consent to
+represent the covered person for purposes of this Chapter. It may also include the covered
+person's treating provider if the covered person appoints the provider as his authorized
+representative and the provider waives in writing any right to payment from the covered
+person other than any applicable copayment or other coinsurance amount. In the event that
+the service is determined not to be medically necessary, and the covered person or his
+authorized representatives, except for the covered person's treating health care professional,
+thereafter requests the services, nothing shall prohibit the provider from charging usual and
+customary charges for all non-medically necessary services provided.
+(b)  A person authorized by law to provide substituted consent for a covered person.
+(c)  An immediate family member of the covered person or the covered person's
+treating health care professional when the covered person is unable to provide consent.
+(d)  In the case of an urgent care request, a health care professional with knowledge
+of the covered person's medical condition.
+(4)  "Best evidence" means evidence based on any of the following:
+(a)  Randomized clinical trials.
+(b) If randomized clinical trials are not available, cohort studies, or case-control
+studies.
+(c)  If Subparagraphs (a) and (b) of this Paragraph are not available, case-series.
+(d)  If Subparagraphs (a), (b), and (c) of this Paragraph are not available, expert
+opinion.
+(5)  "Business day" means a day of normal business operation other than federally
+recognized holidays.  Any day not specified as a business day shall be a twenty-four-hour
+period, including weekends and holidays.
+(6)  "Case-control study" means a retrospective evaluation of two groups of patients
+with different outcomes to determine which specific interventions the patients received.
+(7)  "Case management" means a coordinated set of activities conducted for
+individual patient management of serious, complicated, protracted, or other health
+conditions.
+(8)  "Case-series" means an evaluation of a series of patients with a particular
+outcome, without the use of a control group.
+(9)  "Certification" or "certify" means a determination by a health insurance issuer or
+its designee utilization review organization that a request for a benefit under the health
+insurance issuer's health benefit plan has been reviewed and, based on the information
+provided, satisfies the health insurance issuer's requirements for medical necessity,
+appropriateness, health care setting, level of care, and effectiveness.
+(10)  "Clinical peer" means a physician or other health care professional who holds
+a nonrestricted license in a state of the United States and in the same or similar specialty as
+typically manages the medical condition, procedure, or treatment under review.
+(11)  "Clinical review criteria" means the written screening procedures, decision
+abstracts, clinical protocols, and practice guidelines used by the health insurance issuer to
+determine the medical necessity and appropriateness of health care services including those
+used in the determination of an item or health care service as experimental.
+(12)  "Cohort study" means a prospective evaluation of two groups of patients with
+only one group of patients receiving a specific intervention or interventions.
+(13)  "Commissioner" means the commissioner of insurance.
+(14)  "Concurrent review" means utilization review conducted during a patient's stay
+or course of treatment in a facility, the office of a health care professional, or other inpatient
+or outpatient health care setting.
+(15)  "Covered benefits" or "benefits" means those health care services to which a
+covered person is entitled under the terms of a health benefit plan.
+(16)  "Covered person" means a policyholder, subscriber, enrollee, or other individual
+participating in a health benefit plan.
+(17)  "Discharge planning" means the formal process for determining, prior to
+discharge from a facility, the coordination and management of the care that a patient receives
+following discharge from a facility.
+(18)  "Disclose" means to release, transfer, or otherwise divulge protected health
+information to any person other than the individual who is the subject of the protected health
+information.
+(19)  "Emergency medical condition" means a medical condition manifesting itself
+by symptoms of sufficient severity, including severe pain, such that a prudent layperson, who
+possesses an average knowledge of health and medicine, could reasonably expect that the
+absence of immediate medical attention would result in serious impairment to bodily
+functions, serious dysfunction of a bodily organ or part, or would place the person's health
+or, with respect to a pregnant woman, the health of the woman or her unborn child, in serious
+jeopardy.
+(20)  "Emergency services" means health care items and services furnished or
+required to evaluate and treat an emergency medical condition.
+(21)  "Evidence-based standard" means the conscientious, explicit, and judicious use
+of the current best evidence based on the overall systematic review of the research in making
+decisions about the care of individual patients.
+(22)  "Expert opinion" means a belief or an interpretation by specialists with
+experience in a specific area about the scientific evidence pertaining to a particular service,
+intervention, or therapy.
+(23)  "Facility" means an institution providing health care services or a health care
+setting, including but not limited to hospitals and other licensed inpatient centers, ambulatory
+surgical or treatment centers, skilled nursing centers, residential treatment centers, diagnostic,
+laboratory and imaging centers,  rehabilitation and other therapeutic health settings, and
+inpatient hospice facilities.
+(24)  "Final adverse determination" means an adverse determination, including
+medical judgment, involving a covered benefit that has been upheld by a health insurance
+issuer, or its designee utilization review organization, at the completion of the health
+insurance issuer's internal claims and appeals process procedures provided pursuant to R.S.
+22:2401.
+(25)  "Grievance" means, in a health insurance issuer's internal claims and appeals
+process, a written complaint or oral complaint, if the complaint involves an urgent care
+request submitted by or on behalf of a covered person regarding any of the following:
+(a)  Availability, delivery, or quality of health care services, including a complaint
+regarding an adverse determination made pursuant to utilization review.
+(b)  Claims payment, handling, or reimbursement for health care services.
+(c)  Matters pertaining to the contractual relationship between a covered person and
+a health insurance issuer.
+(26)  "Health benefit plan" means a policy, contract, certificate, or agreement entered
+into, offered, or issued by a health insurance issuer to provide, deliver, arrange for, pay for,
+or reimburse any of the costs of health care services. "Health benefit plan" shall not include
+a plan providing coverage for excepted benefits as defined in R.S. 22:1061 and short-term
+policies that have a term of less than twelve months. Notwithstanding excepted benefits as
+defined in R.S. 22:1061, a "health benefit plan" subject to the provisions of Part III of this
+Chapter shall include dental insurance plans.
+(27)  "Health care professional" means a physician or other health care practitioner
+licensed, accredited, registered, or certified to perform specified health care services
+consistent with state law.
+(28)  "Health care provider" or "provider" means a health care professional or a
+facility.
+(29)  "Health care services" means services for the diagnosis, prevention, treatment,
+cure, or relief of a health condition, illness, injury, or disease.
+(30)  "Health information" means information or data, whether oral or recorded in any
+form or medium, and personal facts or information about events or relationships that relate
+to any of the following:
+(a)  The past, present, or future physical, mental, or behavioral health or condition of
+an individual or a member of the individual's family.
+(b)  The provision of health care services to an individual.
+(c)  Payment for the provision of health care services to an individual.
+(31)  "Health insurance issuer" means an entity subject to the insurance laws and
+regulations of this state, or subject to the jurisdiction of the commissioner, that contracts or
+offers to contract to provide, deliver, arrange for, pay for, or reimburse any of the costs of
+health care services, including through a health benefit plan as defined in this Section, and
+shall include a sickness and accident insurance company, a health maintenance organization,
+a preferred provider organization or any similar entity, or any other entity providing a plan
+of health insurance or health benefits.
+(32)  "Immediately" means as expeditiously as the medical situation of the covered
+person requires but in no event longer than one day for expedited reviews or one business
+day for standard reviews.
+(33)  "Independent review organization" means an entity that conducts independent
+external reviews of adverse determinations and final adverse determinations.
+(34)  "Medical or scientific evidence" means evidence found in the following sources:
+(a)  Peer-reviewed scientific studies published in or accepted for publication by
+medical journals that meet nationally recognized requirements for scientific manuscripts and
+that submit most of their published articles for review by experts who are not part of the
+editorial staff.
+(b)  Peer-reviewed medical literature, including literature relating to therapies
+reviewed and approved by a qualified institutional review board, biomedical compendia and
+other medical literature that meet the criteria of the National Institutes of Health's National
+Library of Medicine for indexing in Index Medicus (Medline) and Elsevier Science Ltd. for
+indexing in Excerpta Medica (EMBASE).
+(c)  Medical journals recognized by the secretary of the United States Department of
+Health and Human Services under Section 1861(t)(2) of the federal Social Security Act.
+(d)  The following standard reference compendia:
+(i)  The American Hospital Formulary Service-Drug Information.
+(ii)  Drug Facts and Comparisons.
+(iii)  The American Dental Association Guide to Dental Therapeutics.
+(iv)  The United States Pharmacopeia-Drug Information.
+(e)  Findings, studies, or research conducted by or under the auspices of federal
+government agencies and nationally recognized federal research institutes including:
+(i)  The federal Agency for Healthcare Research and Quality.
+(ii)  The National Institutes of Health.
+(iii)  The National Cancer Institute.
+(iv)  The National Academy of Sciences.
+(v)  The federal Centers for Medicare and Medicaid Services.
+(vi)  The federal Food and Drug Administration.
+(vii)  Any national board recognized by the National Institutes of Health for the
+purpose of evaluating the medical value of health care services.
+(f)  Any other medical or scientific evidence that is comparable to the sources listed
+in Subparagraphs (a) through (e) of this Paragraph.
+(35)  "NAIC" means the National Association of Insurance Commissioners.
+(36)  "Person" or "entity" means an individual, a corporation, a partnership, an
+association, a joint venture, a joint stock company, a trust, an unincorporated organization,
+any similar entity, or any combination of the foregoing.
+(37)  "Prospective review" means utilization review conducted prior to an admission
+or the provision of a health care service or a course of treatment in accordance with a health
+insurance issuer's requirement that the health care service or course of treatment, in whole
+or in part, be approved prior to its provision.
+(38)  "Protected health information" means either of the following:
+(a)  Health information that identifies an individual who is the subject of the
+information.
+(b)  Health information with respect to which there is a reasonable basis to believe
+that the information could be used to identify an individual.
+(39)  "Randomized clinical trial" means a controlled, prospective study of patients
+that have been randomized into an experimental group and a control group at the beginning
+of the study with only the experimental group of patients receiving a specific intervention,
+which includes study of the groups for variables and anticipated outcomes over time.
+(40)  "Rescission" means cancellation or discontinuance of coverage under a health
+benefit plan that has a retroactive effect.  The term shall not include a cancellation or
+discontinuance of coverage under a health benefit plan if either:
+(a)  The cancellation or discontinuance of coverage has only a prospective effect.
+(b)  The cancellation or discontinuance of coverage is effective retroactively to the
+extent that it is attributable to a failure to timely pay required premiums or contributions
+towards the cost of coverage.
+(41)  "Retrospective review" means a utilization review conducted after services have
+been provided to a patient, but does not include the review of a claim that is limited to an
+evaluation of reimbursement levels, veracity of documentation, accuracy of coding, or
+adjudication for payment.
+(42)  "Second opinion" means an opportunity or requirement to obtain a clinical
+evaluation by a provider other than the one originally making a recommendation for a
+proposed health care service to assess the clinical or medical necessity and appropriateness
+of the initial proposed health care service.
+(43)  "Urgent care request" means:
+(a)  A request for a health care service or course of treatment with respect to which
+the time periods for making a non-urgent care request determination either:
+(i)  Could seriously jeopardize the life or health of the covered person or the ability
+of the covered person to regain maximum function.
+(ii)  Would, in the opinion of a physician with knowledge of the covered person's
+medical condition, subject the covered person to severe pain that cannot be adequately
+managed without the health care service or treatment that is the subject of the request.
+(b)(i)  Except as provided in Item (ii) of this Subparagraph, in determining whether
+a request is to be treated as an urgent care request, an individual acting on behalf of the
+health insurance issuer shall apply the judgment of a prudent layperson who possesses an
+average knowledge of health and medicine.
+(ii)  Any request that a physician with knowledge of the covered person's medical
+condition determines is an urgent care request within the meaning of Subparagraph (a) of this
+Paragraph shall be treated as an urgent care request.
+(44)  "Utilization review" means a set of formal techniques designed to monitor the
+use of or evaluate the clinical or medical necessity, appropriateness, efficacy, or efficiency
+of health care services, procedures, or settings. Techniques may include ambulatory review,
+prospective review, second opinion, certification, concurrent review, case management,
+discharge planning, or retrospective review.
+(45)  "Utilization review organization" means a licensed entity that conducts
+utilization review in the internal claims and appeals process provided pursuant to R.S.
+22:2401.
+Acts 2013, No. 326, §1, eff. Jan. 1, 2015; Acts 2021, No. 89, §1, eff. June 4, 2021.

@@ -1,0 +1,39 @@
+RS 22:43
+Complaints against persons and entities subject to the jurisdiction of the Department of Insurance; file by person or entity subject to jurisdiction; public information
+https://www.legis.la.gov/legis/Law.aspx?d=506197
+
+§43.  Complaints against persons and entities subject to the jurisdiction of the Department of Insurance; file by person or entity subject to jurisdiction; public information
+A.  The department shall file all complaints which it receives against a person or entity subject to the jurisdiction of the department in a separate file for each such person or entity subject to the jurisdiction of the department.  This record shall be maintained in such a manner as to permit the public to readily ascertain information concerning complaints against any person or entity subject to the jurisdiction of the department, without the necessity of reviewing each individual complaint.  The retention period for each record described in this Section shall be no less than three calendar years, and any record may be disposed of thereafter according to R.S. 44:401 et seq.  The commissioner shall avail himself of such computer equipment as he has available to perform this task.
+B.(1)  The record required by this Section shall contain the following information:
+(a)  Date of complaint.
+(b)  Name of the respondent person or entity against whom the complaint is lodged.
+(c)  Category of the complainant or insured.
+(d)  Category of the respondent person or entity against whom the complaint is lodged.
+(e)  Reason for the complaint.
+(f)  Disposition.
+(g)  Date of disposition.
+(h)  The response of the respondent, person or entity against whom the complaint is lodged in addition to the type of coverage.
+(i)  Type of coverage.
+(2)  It shall be sufficient for compliance with this Section that the commissioner uses the same coded categorical descriptors established by the National Association of Insurance Commissioners (NAIC) Complaint Database System (CDS) for the commissioner's database fields for the following categorical descriptors:
+(a)  Category of the complainant or insured.
+(b)  Category of the respondent person or entity.
+(c)  Type of coverage.
+(d)  Reason for complaint.
+(e)  Disposition.
+(3)  Where a categorical descriptor for the category of the complainant or insured, category of the respondent person or entity, type of coverage, reason for complaint, or disposition is unique to the state of Louisiana, that unique categorical descriptor shall be reported, and the commissioner shall be in compliance with this Section when using that unique categorical descriptor.
+(4)  Where the response of the person or entity against whom the complaint is lodged is reported, it shall be sufficient for the commissioner to disclose the following applicable categorical descriptors:
+(a)  Respondent agreed with complainant.
+(b)  Respondent disagreed with complainant.
+(c)  Respondent asserted that insufficient information was provided in the complaint.
+(d)  No response was provided by respondent.
+(e)  Respondent did not contest the complaint.
+(f)  Respondent completed corrective action.
+(g)  Respondent provided information.
+(h)  Respondent provided an incomplete response.
+(i)  Respondent appealed the disposition.
+(5)  If respondent completes corrective action, the commissioner shall disclose the applicable categorical descriptor for the specific corrective action completed by reporting that categorical descriptor in the categorical descriptor database field for corrective actions.
+(6)  If an appeal is taken, the final disposition on appeal shall be provided subject to any decision of the appellate tribunal.
+(7)  The computer program employed by the commissioner shall, at a minimum, be able to sort the information in the database on any of the fields described in this Subsection and print out a written report thereof no later than sixty days from June 7, 2012.
+(8)  Where there was a final disposition of a complaint prior to June 7, 2012 and the record of that complaint is in the custody of the department, it shall be sufficient for the commissioner to report the information required under this Section utilizing the database described in this Section.  It shall not be necessary for those records of complaints to be reviewed for the purpose of applying new categorical descriptors or for new categorical descriptors to be applied to those complaints.
+C.  Failure to maintain this record in the manner prescribed herein shall constitute malfeasance on the part of the commissioner of insurance.
+Acts 1990, No. 622, §1; Redesignated from R.S. 22:1467 by Acts 2008, No. 415, §1, eff. Jan. 1, 2009; Acts 2009, No. 503, §1; Acts 2012, No. 642, §1, eff. June 7, 2012.

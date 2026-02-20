@@ -1,0 +1,25 @@
+RS 22:631
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=507303
+
+SUBPART D.  RISK-BASED CAPITAL FOR HEALTH
+ORGANIZATIONS
+§631.  Definitions
+As used in this Subpart, these terms have the following meanings:
+(1)  "Adjusted risk-based capital report" means a risk-based capital report which has been adjusted by the commissioner in accordance with R.S. 22:632(C).
+(2)  "Commissioner" means the commissioner of insurance.
+(3)  "Corrective order" means an order issued by the commissioner specifying corrective actions which the commissioner has determined are required.
+(4)  "Health organization" means a health maintenance organization licensed under Subpart I of Part I of this Chapter, a limited health service organization which bears risk, dental or vision plan which bears risk, hospital, medical and dental indemnity or service corporation which bears risk, provider-sponsored organization which bears risk, or other risk-bearing managed care organization licensed under this Title.  "Health organization" shall not include an organization that is licensed as either a life, health and accident, or property and casualty insurer under this Title and that is otherwise subject to either the life or property and casualty risk-based capital requirements.
+(5)  "Risk-based capital instructions" means the risk-based capital report including risk-based capital instructions adopted by the National Association of Insurance Commissioners, as these risk-based capital instructions may be amended by the National Association of Insurance Commissioners from time to time in accordance with the procedures adopted by the National Association of Insurance Commissioners.
+(6)  "Risk-based capital level" means a health organization's company-action level risk-based capital, regulatory-action level risk-based capital, authorized-control level risk-based capital, or mandatory-control level risk-based capital where:
+(a)  "Company-action level risk-based capital" means the product of two and the number determined  under the risk-based capital formula in accordance with the risk-based capital instructions.
+(b)  "Regulatory-action level risk-based capital" means the product of one and one half and the number determined under the risk-based capital formula in accordance with the risk-based capital instructions.
+(c)  "Authorized-control level risk-based capital" means the number determined under the risk-based capital formula in accordance with the risk-based capital instructions.
+(d)  "Mandatory-control level risk-based capital" means the product of seventy hundredths and the number determined under the risk-based capital formula in accordance with the risk-based capital instructions.
+(7)  "Risk-based capital plan" means a comprehensive financial plan containing the elements specified in R.S. 22:634(B). If the commissioner rejects the risk-based capital plan and it is revised by the health organization, with or without the commissioner's recommendation, the plan shall be called the "revised risk-based capital plan".
+(8)  "Risk-based capital report" means the report required in R.S. 22:632.
+(9)  "Total adjusted capital" means the sum of the following:
+(a)  A health organization's statutory capital and surplus as determined in accordance with the statutory accounting applicable to the annual financial statements required to be filed under R.S. 22:252.
+(b)  Such other items, if any, as the risk-based capital instructions may provide.
+Acts 2003, No. 1106, §1, eff. Dec. 31, 2003; Redesignated from R.S. 22:2036.1 by Acts 2008, No. 415, §1, eff. Jan. 1, 2009; Acts 2009, No. 503, §1; Acts 2014, No. 220, §1.
+NOTE:  Former R.S. 22:631 redesignated as R.S. 22:870 by Acts 2008, No. 415, §1, eff. Jan. 1, 2009.

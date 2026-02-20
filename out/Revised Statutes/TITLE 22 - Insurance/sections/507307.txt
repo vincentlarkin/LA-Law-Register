@@ -1,0 +1,14 @@
+RS 22:632
+Risk-based capital reports
+https://www.legis.la.gov/legis/Law.aspx?d=507307
+
+§632.  Risk-based capital reports
+A.  A health organization shall, on or prior to each March first, prepare and submit to the commissioner a report of its risk-based capital levels as of the end of the calendar year just ended, in a form and containing such information as is required by the risk-based capital instructions.  In addition, a health organization shall file its risk-based capital report with the National Association of Insurance Commissioners in accordance with the risk-based capital instructions.
+B.  A health organization's risk-based capital shall be determined in accordance with the formula set forth in the risk-based capital instructions.  The formula shall take the following into account and may adjust for the covariance between the factors as determined in each case by applying the factors in the manner set forth in the risk-based capital instructions:
+(1)  Asset risk.
+(2)  Credit risk.
+(3)  Underwriting risk.
+(4)  All other business risks and such other relevant risks as are set forth in the risk-based capital instructions.
+C.  If a health organization files a risk-based capital report that in the judgment of the commissioner is inaccurate, then the commissioner shall adjust the risk-based capital report to correct the inaccuracy and shall notify the health organization of the adjustment.  The notice shall contain a statement of the reason for the adjustment.  A risk-based capital report as so adjusted may be referred to as an adjusted risk-based capital report.
+Acts 2003, No. 1106, §1, eff. Dec. 31, 2003; Redesignated from R.S. 22:2036.2 by Acts 2008, No. 415, §1, eff. Jan. 1, 2009.
+NOTE:  Former R.S. 22:632 redesignated as R.S. 22:1555 by Acts 2008, No. 415, §1, eff. Jan. 1, 2009.

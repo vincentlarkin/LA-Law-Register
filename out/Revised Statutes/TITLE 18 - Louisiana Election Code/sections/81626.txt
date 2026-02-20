@@ -1,0 +1,112 @@
+RS 18:532
+Establishment of precincts
+https://www.legis.la.gov/legis/Law.aspx?d=81626
+
+§532.  Establishment of precincts
+A.  Subject to the provisions of R.S. 18:532.1, the governing authority of each parish
+shall establish precincts, define the territorial limits for which each precinct is established,
+prescribe their boundaries, and designate the precincts.  The governing authority of each
+parish shall by ordinance adopt the establishment and boundaries of each precinct in
+accordance with the timetable as set forth in this Section and in accordance with R.S.
+18:532.1.
+B.(1)(a)  Each precinct shall be a contiguous, compact area having clearly defined and
+clearly observable boundaries coinciding with visible features readily distinguishable on the
+ground and approved extensions of such features, such as designated highways, roads,
+streets, rivers, or canals, and depicted on United States Bureau of the Census base maps for
+the next federal decennial census, except where the precinct boundary is coterminous with
+the boundary of a parish or an incorporated place when the boundaries of a single precinct
+contain the entire geographic area of the incorporated place.  Except as otherwise provided
+in this Paragraph, on and after July 1, 1997, any precinct boundary which does not coincide
+with a visible feature shall be changed by the parish governing authority to coincide with a
+visible feature in accordance with R.S. 18:532.1.
+(b)  For the purposes of this Paragraph, the term "approved extension" shall mean an
+extension of one visible feature to another visible feature which has been approved by the
+secretary of the Senate and the clerk of the House of Representatives or their designees and
+which is or which will be a census tabulation boundary.
+(2)  No precinct shall be wholly contained within the territorial boundaries of another
+precinct, except that a precinct which contains the entire geographical area of an incorporated
+place and in which the total number of registered voters at the last general election was less
+than three hundred  may be so contained.
+(3)  No precinct shall contain more than two thousand two hundred registered voters
+within its geographic boundaries.  Within thirty days after the completion of each canvass,
+the registrar of voters of each parish shall notify the parish governing authority of every
+precinct in the parish which contains more than two thousand two hundred registered voters
+within its geographic boundaries.  Within sixty days of such notification, the parish
+governing authority shall divide such precincts by a visible feature in accordance with R.S.
+18:532.1.
+(4)(a)  No precinct shall contain less than three hundred registered voters within its
+geographical boundaries, except:
+(i)  When necessary to make it more convenient for voters in a geographically
+isolated and unincorporated area to vote.  A voter in a geographically isolated and
+unincorporated area shall mean a voter whose residence is outside an incorporated place and
+who would have to travel by roadway more than ten miles or cross a public ferry to a polling
+place to vote if the precinct were not established.
+(ii)  When the precinct contains the entire geographical area of an incorporated place.
+(iii)  When the precinct may not be merged with any adjacent precinct due to voting
+district boundaries, provided that such a precinct has a consolidated polling place with an
+adjacent precinct and the number of commissioners for the polling place has been reduced
+in accordance with R.S. 18:425.1 and 1286.1.
+(b)(i)  No precinct shall be established as authorized in this Paragraph unless it is in
+compliance with the provisions of R.S. 18:532.1(C) and unless the parish governing authority
+has submitted documentation to the Department of State that the precinct meets one of the
+criteria in this Paragraph and the parish governing authority has received written approval
+for the establishment of the precinct from the secretary of state.  However, a precinct may
+contain less than three hundred registered voters if the parish governing authority is
+responsible for all election expenses incurred in the precinct as provided in R.S. 18:1400.7.
+(ii)  In addition to the authority in Item (i) of this Subparagraph, the secretary of state
+may permit the establishment of precincts with less than three hundred registered voters
+under extraordinary and unforeseen circumstances.
+(c)  Within thirty days after the completion of each canvass, beginning with the 1996
+canvass, the registrar of voters of each parish shall notify the parish governing authority of
+every precinct in the parish which contains fewer than three hundred registered voters within
+its geographic boundaries.  Within sixty days after such notification, the parish governing
+authority shall merge such precincts with other precincts, unless the approval of the
+Department of State has been granted as provided in this Paragraph.
+(5)  The provisions of Paragraph (4) of this Subsection shall not be effective during
+the period of time established by R.S. 18:532.1(D).
+C.  Each parish governing authority shall provide and maintain at all times geospacial
+shape files, if available, and a suitable printed map showing the current geographical
+boundaries with designation of precincts, and a correct, written legal description of the
+precinct geographical boundaries.  Each parish governing authority shall send a copy of each
+map, with description attached, to the registrar of voters and the secretary of state.  The map
+may be composed of one or more sheets but each sheet shall not exceed three feet by four
+feet.  The map shall include all existing roads, streets, railroad tracks, and drainage features
+but shall not include underground utility lines, land use and zoning symbols or shadings,
+symbols for vegetation cover, topographic contour lines, and similar items that obscure the
+basic street pattern and names.  All features, names, titles, and symbols on the map shall be
+clearly shown and legible.  The map sheet of the entire parish shall be on a scale of one inch
+equals one mile to one inch equals two miles.  Map sheets of each incorporated place within
+the parish shall be on a scale of one inch equals eight hundred feet to one inch equals sixteen
+hundred feet.  Each map sheet shall indicate the date of the base map or the date of last
+revision.  Wherever the boundaries of a precinct or incorporated place are coterminous, they
+shall be clearly indicated as such.
+D.  The parish governing authority shall also furnish to the registrar of voters and
+secretary of state geospacial shape files, if available, and a printed map clearly indicating the
+boundaries of each parish governing authority district, school board district, special election
+district, representative district, and senate district, and a correct, written legal description of
+the boundaries.
+E.(1)  In complying with the provisions of this Section for the establishment of
+precincts and the prescription of their boundaries, each parish governing authority and
+registrar of voters shall coordinate with the secretary of the Senate and the clerk of the House
+of Representatives, or their designees, pursuant to their authority to submit a plan for census
+data for reapportionment under the provisions of Chapter 13 of this Title and shall adopt or
+adjust precinct boundaries as may be necessary to comply with this Section.
+(2)  The proposed precinct boundaries submitted to the United States Bureau of the
+Census by a parish through the secretary of the Senate and the clerk of the House of
+Representatives or their designees, and approved by the Bureau of the Census as block
+boundaries for each federal decennial census, shall be the precinct boundaries for the parish
+for reapportionment purposes following each federal decennial census.
+F.  Prior to the adoption of an ordinance to establish the boundaries of precincts
+pursuant to this Section, the parish governing authority shall submit the proposed precincts
+and boundaries to the clerk of court and registrar of voters to confirm the ability to conduct
+an election utilizing the proposed boundaries.
+Acts 1976, No. 697, §1, eff. Jan. 1, 1978.  Amended by Acts 1977, No. 523, §1, eff.
+Jan. 1, 1978; Acts 1978; Acts 1978, No. 298, §1, eff. July 10, 1978; Acts 1982, No. 559, §1,
+eff. July 22, 1982; Acts 1985, No. 670, §1, eff. July 16, 1985; Acts 1986, No. 286, §1, eff.
+June 30, 1986; Acts 1988, No. 329, §1; Acts 1988, No. 403, §1, eff. July 10, 1988; Acts
+1990, No. 629, §1; Acts 1992, No. 788, §1, eff. Jan. 1, 1993; Acts 1992, No. 803, §1; Acts
+1995, No. 552, §1, eff. Jan. 1, 1996; Acts 1997, No. 1420, §2, eff. July 1, 1997; Acts 1999,
+No. 254, §2, eff. July 1, 1999; Acts 2001, No. 451, §6, eff. Jan. 12, 2004; Acts 2004, No.
+526, §2, eff. June 25, 2004; Acts 2008, No. 136, §1, eff. June 6, 2008; Acts 2018, No. 550,
+§1; Acts 2019, No. 374, §1, eff. June 19, 2019; Acts 2020, No. 28, §1, eff. June 4, 2020; Acts
+2025, No. 199, §1.
