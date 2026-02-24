@@ -1,0 +1,1340 @@
+{
+  "category_key": "house-rules",
+  "category_name": "House Rules",
+  "bundle_name": "House Rules",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=73&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "HRULE 1.1",
+      "title": "Use of the Chamber",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113191"
+    },
+    {
+      "order": 2,
+      "citation": "HRULE 1.2",
+      "title": "Admission to the floor and chamber and House facilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113192"
+    },
+    {
+      "order": 3,
+      "citation": "HRULE 1.3",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113193"
+    },
+    {
+      "order": 4,
+      "citation": "HRULE 1.4",
+      "title": "Authorization to sit at a member's desk in the House Chamber",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=672982"
+    },
+    {
+      "order": 5,
+      "citation": "HRULE 1.5",
+      "title": "Access revocation; lobbying",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=861616"
+    },
+    {
+      "order": 6,
+      "citation": "HRULE 2.1",
+      "title": "Officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113283"
+    },
+    {
+      "order": 7,
+      "citation": "HRULE 2.2",
+      "title": "Organization meeting of the House",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113287"
+    },
+    {
+      "order": 8,
+      "citation": "HRULE 2.3",
+      "title": "Speaker; election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113288"
+    },
+    {
+      "order": 9,
+      "citation": "HRULE 2.4",
+      "title": "Speaker; removal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113289"
+    },
+    {
+      "order": 10,
+      "citation": "HRULE 2.5",
+      "title": "Speaker; duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113290"
+    },
+    {
+      "order": 11,
+      "citation": "HRULE 2.6",
+      "title": "Acting Speaker",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113291"
+    },
+    {
+      "order": 12,
+      "citation": "HRULE 2.7",
+      "title": "Speaker Pro Tempore; election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113292"
+    },
+    {
+      "order": 13,
+      "citation": "HRULE 2.8",
+      "title": "Speaker Pro Tempore; duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113293"
+    },
+    {
+      "order": 14,
+      "citation": "HRULE 2.9",
+      "title": "Clerk of the House; election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113294"
+    },
+    {
+      "order": 15,
+      "citation": "HRULE 2.10",
+      "title": "Clerk of the House; duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113284"
+    },
+    {
+      "order": 16,
+      "citation": "HRULE 2.11",
+      "title": "Sergeant at Arms; appointment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113285"
+    },
+    {
+      "order": 17,
+      "citation": "HRULE 2.12",
+      "title": "Sergeant at Arms; duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113286"
+    },
+    {
+      "order": 18,
+      "citation": "HRULE 3.1",
+      "title": "Employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113295"
+    },
+    {
+      "order": 19,
+      "citation": "HRULE 3.2",
+      "title": "Assistant Clerk",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113296"
+    },
+    {
+      "order": 20,
+      "citation": "HRULE 3.3",
+      "title": "Pages",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113297"
+    },
+    {
+      "order": 21,
+      "citation": "HRULE 3.4",
+      "title": "House employees; lobbying",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113298"
+    },
+    {
+      "order": 22,
+      "citation": "HRULE 3.5",
+      "title": "House Legislative Services; executive director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113299"
+    },
+    {
+      "order": 23,
+      "citation": "HRULE 4.1",
+      "title": "Absence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113300"
+    },
+    {
+      "order": 24,
+      "citation": "HRULE 4.2",
+      "title": "Presence recorded",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113301"
+    },
+    {
+      "order": 25,
+      "citation": "HRULE 4.3",
+      "title": "Quorum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113302"
+    },
+    {
+      "order": 26,
+      "citation": "HRULE 4.4",
+      "title": "Quorum necessary to transact business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113303"
+    },
+    {
+      "order": 27,
+      "citation": "HRULE 4.5",
+      "title": "Quorum call; record vote",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113304"
+    },
+    {
+      "order": 28,
+      "citation": "HRULE 4.6",
+      "title": "Compelling attendance of absent members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113305"
+    },
+    {
+      "order": 29,
+      "citation": "HRULE 4.7",
+      "title": "Members; interim compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113306"
+    },
+    {
+      "order": 30,
+      "citation": "HRULE 4.8",
+      "title": "Required financial reports; contempt; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113307"
+    },
+    {
+      "order": 31,
+      "citation": "HRULE 4.9",
+      "title": "Memorial Day Commemoration; delegation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=415922"
+    },
+    {
+      "order": 32,
+      "citation": "HRULE 4.10",
+      "title": "Chairmen; interim meetings; legislative continuance or extension; notice to the Speaker",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336128"
+    },
+    {
+      "order": 33,
+      "citation": "HRULE 5.1",
+      "title": "Decorum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113308"
+    },
+    {
+      "order": 34,
+      "citation": "HRULE 5.2",
+      "title": "Violation of rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113309"
+    },
+    {
+      "order": 35,
+      "citation": "HRULE 5.3",
+      "title": "Clearing the Chamber",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113310"
+    },
+    {
+      "order": 36,
+      "citation": "HRULE 5.4",
+      "title": "Recognition to address the House",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113311"
+    },
+    {
+      "order": 37,
+      "citation": "HRULE 5.5",
+      "title": "Recognition when voting machine out of order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113312"
+    },
+    {
+      "order": 38,
+      "citation": "HRULE 5.6",
+      "title": "Points of order and information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113313"
+    },
+    {
+      "order": 39,
+      "citation": "HRULE 5.7",
+      "title": "Limits on debate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113314"
+    },
+    {
+      "order": 40,
+      "citation": "HRULE 5.8",
+      "title": "Attire for members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113315"
+    },
+    {
+      "order": 41,
+      "citation": "HRULE 5.9",
+      "title": "Tobacco products",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113316"
+    },
+    {
+      "order": 42,
+      "citation": "HRULE 6.1",
+      "title": "Standing Committees; select committees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113317"
+    },
+    {
+      "order": 43,
+      "citation": "HRULE 6.2",
+      "title": "Chairman and Vice Chairman",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113328"
+    },
+    {
+      "order": 44,
+      "citation": "HRULE 6.3",
+      "title": "Membership of standing committees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113336"
+    },
+    {
+      "order": 45,
+      "citation": "HRULE 6.4",
+      "title": "Committee on Appropriations; subcommittees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113337"
+    },
+    {
+      "order": 46,
+      "citation": "HRULE 6.5",
+      "title": "Referral to standing committees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113338"
+    },
+    {
+      "order": 47,
+      "citation": "HRULE 6.6",
+      "title": "Standing committee jurisdiction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113339"
+    },
+    {
+      "order": 48,
+      "citation": "HRULE 6.7",
+      "title": "Regular committee meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113340"
+    },
+    {
+      "order": 49,
+      "citation": "HRULE 6.8",
+      "title": "Recommittal: Constitutional amendments; special elections; propositions; study resolutions; Capital Outlay Bill; minimum foundation resolution; legislative instruments creating special funds; legislative instruments with a fiscal impact; public records exceptions; interstate compacts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113341"
+    },
+    {
+      "order": 50,
+      "citation": "HRULE 6.9",
+      "title": "Committee hearing; reporting legislative instruments; vote required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113342"
+    },
+    {
+      "order": 51,
+      "citation": "HRULE 6.10",
+      "title": "Hearing on Legislation; Mandatory on Author's Request; Rescheduling Deferred Legislation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113318"
+    },
+    {
+      "order": 52,
+      "citation": "HRULE 6.11",
+      "title": "Committee report; session; interim",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113319"
+    },
+    {
+      "order": 53,
+      "citation": "HRULE 6.12",
+      "title": "Report by substitute",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113320"
+    },
+    {
+      "order": 54,
+      "citation": "HRULE 6.13",
+      "title": "Directing committee to report; discharging committee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113321"
+    },
+    {
+      "order": 55,
+      "citation": "HRULE 6.14",
+      "title": "Conference committees; membership; appointment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113322"
+    },
+    {
+      "order": 56,
+      "citation": "HRULE 6.15",
+      "title": "Committee on Enrollment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113323"
+    },
+    {
+      "order": 57,
+      "citation": "HRULE 6.16",
+      "title": "Committee on Enrollment; reports in order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113324"
+    },
+    {
+      "order": 58,
+      "citation": "HRULE 6.17",
+      "title": "Committee on Enrollment; reports; entry in Journal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113325"
+    },
+    {
+      "order": 59,
+      "citation": "HRULE 6.18",
+      "title": "Committee of the Whole",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113326"
+    },
+    {
+      "order": 60,
+      "citation": "HRULE 6.19",
+      "title": "Procedure in the Committee of the Whole",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113327"
+    },
+    {
+      "order": 61,
+      "citation": "HRULE 6.20",
+      "title": "Chairman of the Committee of the Whole",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113329"
+    },
+    {
+      "order": 62,
+      "citation": "HRULE 6.21",
+      "title": "Bill read by clauses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113330"
+    },
+    {
+      "order": 63,
+      "citation": "HRULE 6.22",
+      "title": "Journal of the Committee of the Whole; record votes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113331"
+    },
+    {
+      "order": 64,
+      "citation": "HRULE 6.23",
+      "title": "Committee of the Whole; report upon rising",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113332"
+    },
+    {
+      "order": 65,
+      "citation": "HRULE 6.24",
+      "title": "Action on measure reported by the Committee of the Whole",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113333"
+    },
+    {
+      "order": 66,
+      "citation": "HRULE 6.25",
+      "title": "General Appropriation Bill to be considered in Committee of the Whole",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113334"
+    },
+    {
+      "order": 67,
+      "citation": "HRULE 6.26",
+      "title": "House Executive Committee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113335"
+    },
+    {
+      "order": 68,
+      "citation": "HRULE 7.1",
+      "title": "Legislative instrument defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113343"
+    },
+    {
+      "order": 69,
+      "citation": "HRULE 7.2",
+      "title": "Prefiling",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113354"
+    },
+    {
+      "order": 70,
+      "citation": "HRULE 7.3",
+      "title": "Numbering of instruments; numbering of the General Appropriation Bill, the Capital Outlay Bill, and the Omnibus Bond Bill",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113357"
+    },
+    {
+      "order": 71,
+      "citation": "HRULE 7.4",
+      "title": "Resolutions; titles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113358"
+    },
+    {
+      "order": 72,
+      "citation": "HRULE 7.5",
+      "title": "Title only bills",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113359"
+    },
+    {
+      "order": 73,
+      "citation": "HRULE 7.6",
+      "title": "Legislative instruments; preparation by staff; introduction copies; printing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113360"
+    },
+    {
+      "order": 74,
+      "citation": "HRULE 7.7",
+      "title": "Endorsement of instruments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113361"
+    },
+    {
+      "order": 75,
+      "citation": "HRULE 7.8",
+      "title": "Engrossment to include all amendments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113362"
+    },
+    {
+      "order": 76,
+      "citation": "HRULE 7.9",
+      "title": "Engrossment, copies; digest; form and content of the General Appropriation Bill",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113363"
+    },
+    {
+      "order": 77,
+      "citation": "HRULE 7.10",
+      "title": "Reengrossment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113344"
+    },
+    {
+      "order": 78,
+      "citation": "HRULE 7.11",
+      "title": "Voting on conference committee reports; digests",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113345"
+    },
+    {
+      "order": 79,
+      "citation": "HRULE 7.12",
+      "title": "Enrollment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113346"
+    },
+    {
+      "order": 80,
+      "citation": "HRULE 7.13",
+      "title": "Signature of Speaker",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113347"
+    },
+    {
+      "order": 81,
+      "citation": "HRULE 7.14",
+      "title": "Presentation to President of the Senate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113348"
+    },
+    {
+      "order": 82,
+      "citation": "HRULE 7.15",
+      "title": "Presentation to the Governor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113349"
+    },
+    {
+      "order": 83,
+      "citation": "HRULE 7.16",
+      "title": "Fiscal notes; requirement; capital outlay appropriations, amendments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113350"
+    },
+    {
+      "order": 84,
+      "citation": "HRULE 7.17",
+      "title": "Actuarial notes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113351"
+    },
+    {
+      "order": 85,
+      "citation": "HRULE 7.18",
+      "title": "Required fiscal data for licensing fee legislation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113352"
+    },
+    {
+      "order": 86,
+      "citation": "HRULE 7.19",
+      "title": "Appropriation bills; one-time money or federal disaster funds for recurring expenses; vote requirement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=762046"
+    },
+    {
+      "order": 87,
+      "citation": "HRULE 8.1",
+      "title": "Morning Hour",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113364"
+    },
+    {
+      "order": 88,
+      "citation": "HRULE 8.2",
+      "title": "Regular Order of the Day",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113375"
+    },
+    {
+      "order": 89,
+      "citation": "HRULE 8.3",
+      "title": "Priority of Business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113385"
+    },
+    {
+      "order": 90,
+      "citation": "HRULE 8.4",
+      "title": "Special Order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113386"
+    },
+    {
+      "order": 91,
+      "citation": "HRULE 8.5",
+      "title": "Precedence of Special Orders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113387"
+    },
+    {
+      "order": 92,
+      "citation": "HRULE 8.6",
+      "title": "Order of Business, vote required to change; Special Order, vote required to establish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113388"
+    },
+    {
+      "order": 93,
+      "citation": "HRULE 8.7",
+      "title": "Presentation of documents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113389"
+    },
+    {
+      "order": 94,
+      "citation": "HRULE 8.8",
+      "title": "Order of consideration of legislative instruments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113390"
+    },
+    {
+      "order": 95,
+      "citation": "HRULE 8.8.1",
+      "title": "Calendar; passing over certain instruments; \"Berthelot Rule\"",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1111443"
+    },
+    {
+      "order": 96,
+      "citation": "HRULE 8.9",
+      "title": "Three readings of bills required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113391"
+    },
+    {
+      "order": 97,
+      "citation": "HRULE 8.10",
+      "title": "Bills; First Reading",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113365"
+    },
+    {
+      "order": 98,
+      "citation": "HRULE 8.11",
+      "title": "Resolutions; introduction and referral; suspension of laws; vote requirement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113366"
+    },
+    {
+      "order": 99,
+      "citation": "HRULE 8.12",
+      "title": "Commitment or amendment; two prior readings required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113367"
+    },
+    {
+      "order": 100,
+      "citation": "HRULE 8.13",
+      "title": "Commitment or amendment on Second Reading",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113368"
+    },
+    {
+      "order": 101,
+      "citation": "HRULE 8.14",
+      "title": "Committee report required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113369"
+    },
+    {
+      "order": 102,
+      "citation": "HRULE 8.15",
+      "title": "Consideration of the General Appropriation Bill",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113370"
+    },
+    {
+      "order": 103,
+      "citation": "HRULE 8.16",
+      "title": "Passage to Third Reading",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113371"
+    },
+    {
+      "order": 104,
+      "citation": "HRULE 8.17",
+      "title": "Bills engrossed; passed to Third Reading",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113372"
+    },
+    {
+      "order": 105,
+      "citation": "HRULE 8.18",
+      "title": "Legislative instruments which have been recommitted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113373"
+    },
+    {
+      "order": 106,
+      "citation": "HRULE 8.19",
+      "title": "Legislative Bureau",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113374"
+    },
+    {
+      "order": 107,
+      "citation": "HRULE 8.20",
+      "title": "Returning to and calling from the calendar",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113376"
+    },
+    {
+      "order": 108,
+      "citation": "HRULE 8.21",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113377"
+    },
+    {
+      "order": 109,
+      "citation": "HRULE 8.22",
+      "title": "Vetoed bills; reconsideration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113378"
+    },
+    {
+      "order": 110,
+      "citation": "HRULE 8.23",
+      "title": "Conference committee reports; consideration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113379"
+    },
+    {
+      "order": 111,
+      "citation": "HRULE 8.24",
+      "title": "Information required for consideration of appropriations bills; concurrences and conference committee reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113380"
+    },
+    {
+      "order": 112,
+      "citation": "HRULE 8.25",
+      "title": "Repealed by HR 6, 2013 R.S., eff. May 30, 2013.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113381"
+    },
+    {
+      "order": 113,
+      "citation": "HRULE 8.26",
+      "title": "Renumbered pursuant to HR 6, 2013 R.S., eff. May 30, 2013.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113382"
+    },
+    {
+      "order": 114,
+      "citation": "HRULE 8.27",
+      "title": "Renumbered pursuant to HR 6, 2013 R.S., eff. May 30, 2013.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113383"
+    },
+    {
+      "order": 115,
+      "citation": "HRULE 8.28",
+      "title": "Renumbered pursuant to HR 6, 2013 R.S., eff. May 30, 2013.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113384"
+    },
+    {
+      "order": 116,
+      "citation": "HRULE 9.1",
+      "title": "Statement of motion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113392"
+    },
+    {
+      "order": 117,
+      "citation": "HRULE 9.2",
+      "title": "Possession of the House",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113398"
+    },
+    {
+      "order": 118,
+      "citation": "HRULE 9.3",
+      "title": "Division of the question",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113399"
+    },
+    {
+      "order": 119,
+      "citation": "HRULE 9.4",
+      "title": "Substitute motions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113400"
+    },
+    {
+      "order": 120,
+      "citation": "HRULE 9.5",
+      "title": "Precedence of motions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113401"
+    },
+    {
+      "order": 121,
+      "citation": "HRULE 9.6",
+      "title": "Motion to adjourn",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113402"
+    },
+    {
+      "order": 122,
+      "citation": "HRULE 9.7",
+      "title": "Motion to adjourn or recess; effect of",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113403"
+    },
+    {
+      "order": 123,
+      "citation": "HRULE 9.8",
+      "title": "Motion to lay on table",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113404"
+    },
+    {
+      "order": 124,
+      "citation": "HRULE 9.9",
+      "title": "Motion to call from the table; vote necessary to adopt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113405"
+    },
+    {
+      "order": 125,
+      "citation": "HRULE 9.10",
+      "title": "Previous question and previous question on the entire subject matter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113393"
+    },
+    {
+      "order": 126,
+      "citation": "HRULE 9.11",
+      "title": "Reconsideration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113394"
+    },
+    {
+      "order": 127,
+      "citation": "HRULE 9.12",
+      "title": "Appeals of rulings of the Chair",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113395"
+    },
+    {
+      "order": 128,
+      "citation": "HRULE 9.13",
+      "title": "Motion to end consideration of amendments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113396"
+    },
+    {
+      "order": 129,
+      "citation": "HRULE 9.14",
+      "title": "Motions table",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113397"
+    },
+    {
+      "order": 130,
+      "citation": "HRULE 10.1",
+      "title": "Members required to vote; explanation of vote",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113194"
+    },
+    {
+      "order": 131,
+      "citation": "HRULE 10.2",
+      "title": "Speaker's vote",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113195"
+    },
+    {
+      "order": 132,
+      "citation": "HRULE 10.3",
+      "title": "Voting for members; prohibition; locking voting machines",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113196"
+    },
+    {
+      "order": 133,
+      "citation": "HRULE 10.4",
+      "title": "Putting the question",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113197"
+    },
+    {
+      "order": 134,
+      "citation": "HRULE 10.5",
+      "title": "Voting machine out of order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113198"
+    },
+    {
+      "order": 135,
+      "citation": "HRULE 10.6",
+      "title": "Tie vote",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113199"
+    },
+    {
+      "order": 136,
+      "citation": "HRULE 10.7",
+      "title": "Must be present in Chamber to vote",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113200"
+    },
+    {
+      "order": 137,
+      "citation": "HRULE 10.8",
+      "title": "Change of vote",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113201"
+    },
+    {
+      "order": 138,
+      "citation": "HRULE 10.9",
+      "title": "Record Vote",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113202"
+    },
+    {
+      "order": 139,
+      "citation": "HRULE 10.10",
+      "title": "Voting display",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=861628"
+    },
+    {
+      "order": 140,
+      "citation": "HRULE 11.1",
+      "title": "Germane to subject",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113203"
+    },
+    {
+      "order": 141,
+      "citation": "HRULE 11.2",
+      "title": "Amendments in order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113204"
+    },
+    {
+      "order": 142,
+      "citation": "HRULE 11.3",
+      "title": "Order of consideration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113205"
+    },
+    {
+      "order": 143,
+      "citation": "HRULE 11.4",
+      "title": "Floor amendments; public information; copies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113206"
+    },
+    {
+      "order": 144,
+      "citation": "HRULE 11.5",
+      "title": "Proposing same amendment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113207"
+    },
+    {
+      "order": 145,
+      "citation": "HRULE 11.6",
+      "title": "Appropriations bills; required information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=450537"
+    },
+    {
+      "order": 146,
+      "citation": "HRULE 12.1",
+      "title": "Journal; proceedings entered",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113208"
+    },
+    {
+      "order": 147,
+      "citation": "HRULE 12.2",
+      "title": "Journal; votes entered",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113209"
+    },
+    {
+      "order": 148,
+      "citation": "HRULE 12.3",
+      "title": "Journal; legislative instrument entered",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113210"
+    },
+    {
+      "order": 149,
+      "citation": "HRULE 12.4",
+      "title": "Journal; documents entered",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113211"
+    },
+    {
+      "order": 150,
+      "citation": "HRULE 12.5",
+      "title": "Journal read daily",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113212"
+    },
+    {
+      "order": 151,
+      "citation": "HRULE 12.6",
+      "title": "House Calendar; publication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113213"
+    },
+    {
+      "order": 152,
+      "citation": "HRULE 12.7",
+      "title": "Interim Calendar",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113214"
+    },
+    {
+      "order": 153,
+      "citation": "HRULE 12.8",
+      "title": "Internet broadcast of proceedings; records; maintenance; applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=459863"
+    },
+    {
+      "order": 154,
+      "citation": "HRULE 13.1",
+      "title": "Action on standing rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113215"
+    },
+    {
+      "order": 155,
+      "citation": "HRULE 13.2",
+      "title": "Suspension of rules; return to rules; vote required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113216"
+    },
+    {
+      "order": 156,
+      "citation": "HRULE 13.3",
+      "title": "Mason's Manual of Legislative Procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113217"
+    },
+    {
+      "order": 157,
+      "citation": "HRULE 14.1",
+      "title": "Committee Rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113218"
+    },
+    {
+      "order": 158,
+      "citation": "HRULE 14.2",
+      "title": "Committee Chairmen; duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113229"
+    },
+    {
+      "order": 159,
+      "citation": "HRULE 14.3",
+      "title": "Vice Chairman; Duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113240"
+    },
+    {
+      "order": 160,
+      "citation": "HRULE 14.4",
+      "title": "Acting Chairman",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113251"
+    },
+    {
+      "order": 161,
+      "citation": "HRULE 14.5",
+      "title": "Chairman; Vacancy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113262"
+    },
+    {
+      "order": 162,
+      "citation": "HRULE 14.6",
+      "title": "Committee Members; Rights and Privileges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113267"
+    },
+    {
+      "order": 163,
+      "citation": "HRULE 14.7",
+      "title": "Amendments; Members to Offer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113268"
+    },
+    {
+      "order": 164,
+      "citation": "HRULE 14.8",
+      "title": "Members; Duty to Attend Meetings; Attendance Record; Removal of Members; Excessive Absences",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113269"
+    },
+    {
+      "order": 165,
+      "citation": "HRULE 14.9",
+      "title": "Conflict of Interest; Recusal of Members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113270"
+    },
+    {
+      "order": 166,
+      "citation": "HRULE 14.10",
+      "title": "Meeting while House is in session",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113219"
+    },
+    {
+      "order": 167,
+      "citation": "HRULE 14.11",
+      "title": "Executive sessions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113220"
+    },
+    {
+      "order": 168,
+      "citation": "HRULE 14.12",
+      "title": "Consideration of instruments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113221"
+    },
+    {
+      "order": 169,
+      "citation": "HRULE 14.13",
+      "title": "Introduction of Legislation by Committees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113222"
+    },
+    {
+      "order": 170,
+      "citation": "HRULE 14.14",
+      "title": "Misconduct; Report of",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113223"
+    },
+    {
+      "order": 171,
+      "citation": "HRULE 14.15",
+      "title": "Calling Meetings; Committee Authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113224"
+    },
+    {
+      "order": 172,
+      "citation": "HRULE 14.16",
+      "title": "Standing committees; authority for meeting between sessions; authority for forming joint committees or for meeting jointly with Senate committees; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113225"
+    },
+    {
+      "order": 173,
+      "citation": "HRULE 14.17",
+      "title": "Standing committees; interim; special appointments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113226"
+    },
+    {
+      "order": 174,
+      "citation": "HRULE 14.18",
+      "title": "Organizational Meeting; Calling; Notice; Purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113227"
+    },
+    {
+      "order": 175,
+      "citation": "HRULE 14.19",
+      "title": "Presession Hearings of Instruments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113228"
+    },
+    {
+      "order": 176,
+      "citation": "HRULE 14.20",
+      "title": "Committee Meeting Schedule; Session, Interim Conflicts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113230"
+    },
+    {
+      "order": 177,
+      "citation": "HRULE 14.21",
+      "title": "Changes in Fixed Schedule",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113231"
+    },
+    {
+      "order": 178,
+      "citation": "HRULE 14.22",
+      "title": "Meeting Rooms; Assignment of",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113232"
+    },
+    {
+      "order": 179,
+      "citation": "HRULE 14.23",
+      "title": "Weekly Committee Schedule",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113233"
+    },
+    {
+      "order": 180,
+      "citation": "HRULE 14.24",
+      "title": "Notice; Session Meetings; Interim Meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113234"
+    },
+    {
+      "order": 181,
+      "citation": "HRULE 14.25",
+      "title": "Notice; Contents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113235"
+    },
+    {
+      "order": 182,
+      "citation": "HRULE 14.26",
+      "title": "Meeting List",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113236"
+    },
+    {
+      "order": 183,
+      "citation": "HRULE 14.27",
+      "title": "Notice of Change from Regular Schedule; Change from Time and Place in Notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113237"
+    },
+    {
+      "order": 184,
+      "citation": "HRULE 14.28",
+      "title": "Meeting; Prohibition unless Notice Requirements met",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113238"
+    },
+    {
+      "order": 185,
+      "citation": "HRULE 14.29",
+      "title": "Meetings; Cancellation, Notice of",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113239"
+    },
+    {
+      "order": 186,
+      "citation": "HRULE 14.30",
+      "title": "Agenda; Committee rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113241"
+    },
+    {
+      "order": 187,
+      "citation": "HRULE 14.31",
+      "title": "Roll Call",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113242"
+    },
+    {
+      "order": 188,
+      "citation": "HRULE 14.32",
+      "title": "Hearings; Persons to be Heard; Sworn Statement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113243"
+    },
+    {
+      "order": 189,
+      "citation": "HRULE 14.33",
+      "title": "Filing of prepared statements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113244"
+    },
+    {
+      "order": 190,
+      "citation": "HRULE 14.34",
+      "title": "Copies of Instruments Required Prior to Consideration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113245"
+    },
+    {
+      "order": 191,
+      "citation": "HRULE 14.35",
+      "title": "Second to Motion Not Required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113246"
+    },
+    {
+      "order": 192,
+      "citation": "HRULE 14.36",
+      "title": "Quorum Defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113247"
+    },
+    {
+      "order": 193,
+      "citation": "HRULE 14.37",
+      "title": "Quorum; Members Appointed Pursuant to Rule 14.17",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113248"
+    },
+    {
+      "order": 194,
+      "citation": "HRULE 14.38",
+      "title": "Quorum Required to Transact Business",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113249"
+    },
+    {
+      "order": 195,
+      "citation": "HRULE 14.39",
+      "title": "Absence of Quorum; Authority of Members Present",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113250"
+    },
+    {
+      "order": 196,
+      "citation": "HRULE 14.40",
+      "title": "Vote Required for Committee Action; Members Disqualified or Recused",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113252"
+    },
+    {
+      "order": 197,
+      "citation": "HRULE 14.41",
+      "title": "Voting; Members Appointed Pursuant to Rule 14.17",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113253"
+    },
+    {
+      "order": 198,
+      "citation": "HRULE 14.42",
+      "title": "Proxy Voting Prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113254"
+    },
+    {
+      "order": 199,
+      "citation": "HRULE 14.43",
+      "title": "Roll Call; Record Votes Required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113255"
+    },
+    {
+      "order": 200,
+      "citation": "HRULE 14.44",
+      "title": "Committee Chairman; vote",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113256"
+    },
+    {
+      "order": 201,
+      "citation": "HRULE 14.45",
+      "title": "Report of Interim Study Required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113257"
+    },
+    {
+      "order": 202,
+      "citation": "HRULE 14.46",
+      "title": "Reports of Committees; Chairman to Sign",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113258"
+    },
+    {
+      "order": 203,
+      "citation": "HRULE 14.47",
+      "title": "Minutes of meetings required; contents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113259"
+    },
+    {
+      "order": 204,
+      "citation": "HRULE 14.48",
+      "title": "Permanent Committee Records; Disposition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113260"
+    },
+    {
+      "order": 205,
+      "citation": "HRULE 14.49",
+      "title": "Joint Committees, Subcommittees; Establishment; Rules Applicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113261"
+    },
+    {
+      "order": 206,
+      "citation": "HRULE 14.50",
+      "title": "Subcommittees; Officers, Studies, Reports, Subcommittees of",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113263"
+    },
+    {
+      "order": 207,
+      "citation": "HRULE 14.51",
+      "title": "Standing committees; subpoena power, punishment for contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113264"
+    },
+    {
+      "order": 208,
+      "citation": "HRULE 14.52",
+      "title": "Committees; authority with respect to funds from other than state sources",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113265"
+    },
+    {
+      "order": 209,
+      "citation": "HRULE 14.53",
+      "title": "Employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113266"
+    },
+    {
+      "order": 210,
+      "citation": "HRULE 15.1",
+      "title": "Applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113271"
+    },
+    {
+      "order": 211,
+      "citation": "HRULE 15.2",
+      "title": "Select Committee on Discipline and Expulsion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113275"
+    },
+    {
+      "order": 212,
+      "citation": "HRULE 15.3",
+      "title": "Sergeant at Arms; duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113276"
+    },
+    {
+      "order": 213,
+      "citation": "HRULE 15.4",
+      "title": "Meetings; notice; quorum; vote; oath",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113277"
+    },
+    {
+      "order": 214,
+      "citation": "HRULE 15.5",
+      "title": "Employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113278"
+    },
+    {
+      "order": 215,
+      "citation": "HRULE 15.6",
+      "title": "Records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113279"
+    },
+    {
+      "order": 216,
+      "citation": "HRULE 15.7",
+      "title": "Initiation of action; House Resolution required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113280"
+    },
+    {
+      "order": 217,
+      "citation": "HRULE 15.8",
+      "title": "Procedure in the House of Representatives",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113281"
+    },
+    {
+      "order": 218,
+      "citation": "HRULE 15.9",
+      "title": "Procedure in committee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113282"
+    },
+    {
+      "order": 219,
+      "citation": "HRULE 15.10",
+      "title": "When meetings may be held; report privileged; House action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113272"
+    },
+    {
+      "order": 220,
+      "citation": "HRULE 15.11",
+      "title": "Witnesses; subpoena power; punishment for contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113273"
+    },
+    {
+      "order": 221,
+      "citation": "HRULE 15.12",
+      "title": "Receipt of resignation; authority of presiding officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=113274"
+    },
+    {
+      "order": 222,
+      "citation": "HRULE CUSTOM, USAGE",
+      "title": "Part II.  Custom, Usage, and Practice in the Louisiana House of Representatives",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=489035"
+    }
+  ]
+}

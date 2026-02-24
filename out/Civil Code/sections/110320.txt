@@ -1,0 +1,8 @@
+CC 3270
+Effect of priorities among privileges.
+https://www.legis.la.gov/legis/Law.aspx?d=110320
+
+Art. 3270.  Effect of priorities among privileges.
+When the debts privileged on the movables and immovables can not be paid entirely, either because the movable effects are of small value, or subject to special privileges which claim a preference, or because the movables and immovables together do not suffice, the deficiency must not be borne proportionally among the debtors,* but the debts must be paid according to the order established above, and the loss must fall on those which are of inferior dignity.**
+*Note error in English translation of French text; "debtors" should be "debts."
+**English translation of French text incomplete; should include "and which cannot be discharged."

@@ -1,0 +1,15 @@
+CCRP 162.2
+Warrant issued upon electronic testimony
+https://www.legis.la.gov/legis/Law.aspx?d=813863
+
+Art. 162.2.  Warrant issued upon electronic testimony
+A.  In addition to the provisions of Articles 162 and 162.1, a search warrant may issue upon probable cause established to the satisfaction of the judge by the electronic testimony of a credible person reciting facts establishing the cause for issuance of the warrant.
+B.  For purposes of this Section, the following words shall have the following meanings:
+(1)  "Electronic signature" shall include any electronic means indicating that the person originating an electronic document adopts the contents of the document, and that the person who claims to have written the electronic document is in fact the person who wrote it.
+(2)  "Electronic testimony" shall mean any method of communication, whether wired or wireless or any combination thereof, in which text or images may be transferred electronically from one person to another and includes but shall not be limited to text messages and electronic mail.
+C.  The submission of electronic testimony to a judge pursuant to the provisions of this Article shall contain the electronic signature of the applicant, the applicant's full name and occupation, and a telephone number and electronic address which may be used by the judge to contact the applicant.
+D.  Any electronic testimony presented to a judge shall serve as the equivalent of the applicant having been administered an oath or affirmation, swearing that the facts contained in the electronic testimony are true and correct to the best of his knowledge, subject to the penalties for perjury or false swearing.
+E.  Accompanying the electronic testimony shall be an electronic facsimile of the search warrant.  If the judge finds probable cause and approves the issuance of the warrant, he shall affix his electronic signature to the warrant and return it immediately to the applicant.
+F.  It shall be the responsibility of the applicant to create a written reproduction of his electronic testimony, including its electronic signature, and a written reproduction of the warrant, including the judge's electronic signature, and preserve the written reproductions in the same manner as an original warrant signed by both the applicant and the judge within forty-eight hours from the time the warrant was issued.
+G.  Telephonic communication between the judge and the affiant relatively contemporaneously with the application for the warrant shall satisfy the requirements of R.S. 9:2603.1(D).
+Acts 2012, No. 169, §1.

@@ -1,0 +1,283 @@
+SRULE 11.13
+Table of Rules Relating to Motions
+https://www.legis.la.gov/legis/Law.aspx?d=180377
+
+Rule 11.13. Table of Rules Relating to Motions
+The following table of rules relating to motions shall govern:
+____________________________________________________________________________________________________________________
+Opens
+Can be
+Can be
+In Order
+Main
+Amended
+Recon-
+Vote
+When
+Motion
+Debatable
+Question
+by a
+sidered
+Required
+Another
+To
+Substitute
+(14)
+(2)
+Has
+Debate
+Motion (1)
+Floor
+____________________________________________________________________________________________________________________
+Adjourn, fixing day and time
+No
+No
+Yes
+No
+M
+No
+Amend
+Yes
+No
+No
+Yes
+M
+No
+Appeal a call to order or reprimand
+No (3)
+No
+No
+Yes (4)
+ME
+Yes
+Appeal, all other cases
+Yes (3,5)
+No
+No
+Yes (4)
+ME
+Yes
+Call from the calendar
+No
+No
+No
+No
+M
+No
+Call to order
+No
+No
+No
+Yes
+M (6)
+Yes
+Call up a bill or resolution without regard
+to its numerical order
+No
+No
+Yes
+Yes
+ME
+No
+Commit or recommit
+Yes
+Yes
+Yes
+Yes (8)
+M
+No
+Extend limits of debate
+No
+No
+Yes
+Yes
+M
+No
+Lay on table
+No
+No
+No
+No (7)
+M
+No
+Leave to continue speaking after indecorum
+No
+No
+No
+Yes
+M
+No
+Limit debate
+No
+No
+Yes
+Yes
+M
+No
+Postpone indefinitely
+Yes
+Yes
+No
+Yes
+M
+No
+Postpone to a certain day and time
+No
+No
+Yes
+Yes
+M
+No
+Previous question
+No
+No
+No
+Yes
+M
+No
+Previous question on entire
+subject matter (10)
+No
+No
+No
+Yes
+M
+No
+Priority of business relating to
+No
+No
+No
+Yes
+M
+No
+Privilege, question of
+Yes
+No
+Yes
+Yes
+M
+No
+Proceed to executive business
+No
+No
+Yes
+Yes
+M
+No(14)
+Reading papers
+No
+No
+No
+Yes
+M
+No
+Reconsider a debatable question
+Yes
+Yes
+No
+No
+M
+(11)
+Reconsider an undebatable question
+No
+No
+No
+No
+M
+(11)
+Refer
+Yes
+Yes
+Yes
+Yes (8)
+M
+No
+Return to the calendar, subject to call
+No
+No
+No
+No
+M
+No
+Special order, to make a
+Yes
+No
+Yes
+Yes
+M
+No
+Suspend the rules
+No
+No
+No
+No
+ME
+No
+Take a recess
+No
+No
+Yes
+No
+M
+No
+Take up order of the day
+No
+No
+No
+Yes
+(9)
+Yes
+Withdrawal of a motion
+No
+No
+No
+Yes
+(12)
+No
+EXPLANATION OF TABLE
+"Yes" shows that the rule heading the column in which it stands applies to the
+motion opposite to which it is placed.  "No" shows that the rule does not apply.  A figure
+shows that the rule only partially applies -- the figure referring to the note showing the
+limitation.  Take, for example, "Lay on the Table."  The table shows that it is undebatable,
+does not open main question, cannot be amended, an affirmative vote as shown by note
+No. 8 cannot be reconsidered, requires a majority vote, and is not in order when another
+has the floor.
+NOTES TO TABLE RELATING TO MOTIONS
+1. Since motions are never amended in the Senate, this heading is somewhat
+misleading. What is meant is that the motion can be altered in some respect by a
+substitute motion -- for example, the motion to lay on the table cannot be altered by a
+substitute motion, but the motion to fix the time and day to which to adjourn can be
+altered by a substitute motion to name another day and/or time.
+2. Vote required:  M -- Majority of those present and voting; ME -- Majority of
+those elected.
+3. An appeal is undebatable only when relating (a) to indecorum or (b) to
+transgressions of the rules of speaking or (c) to the priority of business or (d) when made
+while the previous question is pending.  When debatable, only two speeches from each
+member are allowed.
+4. The vote on a motion to appeal may be reconsidered, but when the subject
+matter upon which the appeal was taken has been disposed of, and it is impossible for the
+Senate to reverse its action, it is too late to move to reconsider the vote on the motion to
+appeal.
+5. No member shall speak more than twice unless by leave of the Senate.  (See
+Senate Rule 6.7; See also Note 3, supra.)
+6. If any member, in speaking or otherwise, transgresses the rules of the Senate,
+the presiding officer shall, or any member may, call him to order.  (Senate Rule 6.3)
+7. An affirmative vote on this motion cannot be reconsidered.
+8. Cannot be reconsidered when in committee.  Senate Rule 13.11 sets forth
+procedures to effect a mandatory report by committee or discharge and recommittal.
+9. A matter of right; it would require a vote equivalent to a suspension of the rules
+to proceed otherwise.
+10. The previous question on the entire subject matter, if  adopted, cuts off debate
+and brings the Senate to a vote on the pending questions in their order until the main
+question is reached, which shall be at once disposed of.  But its only effect, if a motion
+"to postpone" is pending, is to bring the Senate to a vote upon that motion.
+11. Can be moved and entered on the record when another has the floor, but cannot
+interrupt business then before the Senate; must be made as provided in Senate Rule 11.12.
+12. A matter of right, except in the case of the motion to  reconsider.  (See Senate
+Rule 11.2)
+13. A rejected motion, although it is of a class that cannot be reconsidered,
+nonetheless can be renewed after progress in debate or the transaction of any business, if
+the renewal is not dilatory.
+14. Not in order more than once during debate on any one bill or resolution except
+with unanimous consent of those present and voting.

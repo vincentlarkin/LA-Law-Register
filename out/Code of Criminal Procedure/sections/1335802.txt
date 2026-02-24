@@ -1,0 +1,48 @@
+CCRP 985.2
+Automated expungement of qualifying records
+https://www.legis.la.gov/legis/Law.aspx?d=1335802
+
+NOTE:  Article 985.2 eff. upon appropriation of monies by the Legislature. See Acts 2023,
+No. 454.
+Art. 985.2.  Automated expungement of qualifying records
+A.  The Louisiana Bureau of Criminal Identification and Information shall identify
+within its criminal repository database all records with a Case Management Information
+System (CMIS) number and final dispositions for individuals eligible for an expungement
+pursuant to the provisions of Articles 976, 977, and 978.
+B.  Beginning January 1, 2025, a defendant may submit a request through the
+Louisiana Bureau of Criminal Identification and Information for expungement through the
+automated process.  The form shall contain the defendant's name, date of birth, last four
+digits of their social security number, arrest date, and case number.  Within thirty days of
+receipt of the request, the Louisiana Bureau of Criminal Identification and Information shall
+expunge any eligible records identified in Paragraph A of this Article and shall send the
+records with a Case Management Information System number and final dispositions to the
+Louisiana Supreme Court Case Management Information System.
+C.  Within thirty days of receipt of records from the Louisiana Bureau of Criminal
+Identification and Information, the Louisiana Supreme Court Case Management Information
+System shall send notice by United States mail or electronically of all records identified
+pursuant to Paragraph A of this Article to be expunged by automation to the clerks of the
+district courts of Louisiana.  The clerks of the district courts of Louisiana shall verify and
+identify such records and mark those records as expunged by automation.  If a clerk of a
+district court is unable to verify and identify any record identified for automatic
+expungement, the clerk shall notify the Louisiana Supreme Court Case Management
+Information System within thirty days of receipt of the notice required pursuant to the
+provisions of this Paragraph, who shall then notify the Louisiana Bureau of Criminal
+Identification and Information that the record is not expunged by automation.
+D.  The clerks of the district courts of Louisiana shall send notice by United States
+mail or electronically of all records expunged by automation to the district attorney of the
+parish of the person's conviction, the sheriff of the parish of the person's conviction, and the
+arresting agency.  The district attorney, sheriff, and arresting agency shall acknowledge the
+records as expunged by automation according to Article 973.  Nothing in this Paragraph
+shall be construed to require the arresting agency, booking agency, or the district attorney
+to manually segregate or sequester upon acknowledging or identifying the records.
+E.  The Department of Public Safety and Corrections, office of state police, is hereby
+authorized to adopt and promulgate rules and regulations in accordance with the
+Administrative Procedure Act to carry out the provisions of this Article for criminal records
+in district courts of Louisiana which date back to January 1, 2006.
+F.  Nothing in this Article shall prevent an otherwise eligible individual from
+obtaining an expungement pursuant to any provision in this Title.  An individual eligible for
+an automated expungement under this Article shall not have a cause of action for any
+damages resulting from the omission of their records in the process provided by this Article.
+G.  This Article shall be subject to the appropriate funding necessary for
+implementation and provided for in the executive budget for Fiscal Year 2025-2026.
+Acts 2023, No. 454, §1, see Act.

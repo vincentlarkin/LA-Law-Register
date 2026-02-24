@@ -1,0 +1,154 @@
+CE 510
+Health care provider-patient privilege
+https://www.legis.la.gov/legis/Law.aspx?d=72481
+
+Art. 510.  Health care provider-patient privilege
+A.  Definitions. The definitions of health care provider, physician, psychotherapist,
+and their representatives as provided in this Article include persons reasonably believed to
+be such by the patient or his representative. As used in this Article:
+(1)(a)  "Confidential communication" is the transmittal or acquisition of information
+not intended to be disclosed to persons other than:
+(i)  A health care provider and a representative of a health care provider.
+(ii)  Those reasonably necessary for the transmission of the communication.
+(iii)  Persons who are participating in the diagnosis and treatment under the direction
+of the physician or psychotherapist.
+(iv)  A patient's health care insurer, including any entity that provides indemnification
+to a patient.
+(v)  When special circumstances warrant, those who are present at the behest of the
+patient, physician, or psychotherapist and are reasonably necessary to facilitate the
+communication.
+(b)  "Confidential communication" includes any information, substance, or tangible
+object, obtained incidental to the communication process and any opinion formed as a result
+of the consultation, examination, or interview and also includes medical and hospital records
+made by health care providers and their representatives.
+(2)  "Health care provider" is a person or entity defined as such in R.S. 13:3734(A),
+and includes a physician and psychotherapist as defined below, and also includes a person
+who is engaged in any office, center, or institution referred to as a rape crisis center, who has
+undergone at least forty hours of sexual assault training and who is engaged in rendering
+advice, counseling, or assistance to victims of sexual assault.
+(3)  "Health condition" is a physical, mental, or emotional condition, including a
+condition induced by alcohol, drugs, or other substance.
+(4)  "Patient" is a person who consults or is examined or interviewed by another for
+the purpose of receiving advice, diagnosis, or treatment in regard to that person's health.
+(5)  "Physician" is a person licensed to practice medicine in any state or nation.
+(6)  "Psychotherapist" is:
+(a)  A physician engaged in the diagnosis or treatment of a mental or emotional
+condition, including a condition induced by alcohol, drugs, or other substance.
+(b)  A person licensed or certified as a psychologist under the laws of any state or
+nation.
+(c)  A person licensed as a licensed professional  counselor or social worker under
+the laws of any state or nation.
+(7)  "Representative" of a physician, psychotherapist, or other health care provider
+is:
+(a)  A person acting under the supervision, direction, control, or request of a
+physician, psychotherapist, or health care provider engaged in the diagnosis or treatment of
+the patient.
+(b)  Personnel of a "hospital", as defined in R.S. 13:3734(A)(3), whose duties relate
+to the health care of patients or to maintenance of patient records.
+(8)  "Representative of a patient" is any person who makes or receives a confidential
+communication for the purpose of effectuating diagnosis or treatment of a patient.
+B.(1)  General rule of privilege in civil proceedings.  In a non-criminal proceeding,
+a patient has a privilege to refuse to disclose and to prevent another person from disclosing
+a confidential communication made for the purpose of advice, diagnosis or treatment of his
+health condition between or among himself or his representative, his health care provider,
+or their representatives.
+(2)  Exceptions.  There is no privilege under this Article in a noncriminal proceeding
+as to a communication:
+(a)  When the communication relates to the health condition of a patient who brings
+or asserts a personal injury claim in a judicial or worker's compensation proceeding.
+(b)  When the communication relates to the health condition of a deceased patient in
+a wrongful death, survivorship, or worker's compensation proceeding brought or asserted as
+a consequence of the death or injury of the deceased patient.
+(c)  When the communication is relevant to an issue of the health condition of the
+patient in any proceeding in which the patient is a party and relies upon the condition as an
+element of his claim or defense or, after the patient's death, in any proceeding in which a
+party deriving his right from the patient relies on the patient's health condition as an element
+of his claim or defense.
+(d)  When the communication relates to the health condition of a patient when the
+patient is a party to a proceeding for custody or visitation of a child and the condition has a
+substantial bearing on the fitness of the person claiming custody or visitation, or when the
+patient is a child who is the subject of a custody or visitation proceeding.
+(e)  When the communication made to the health care provider was intended to assist
+the patient or another person to commit or plan to commit what the patient knew or
+reasonably should have known to be a crime or fraud.
+(f)  When the communication is made in the course of an examination ordered by the
+court with respect to the health condition of a patient, the fact that the examination was so
+ordered was made known to the patient prior to the communication, and the communication
+concerns the particular purpose for which the examination was made, unless the court in its
+order directing the examination has stated otherwise.
+(g)(i)  When the communication is made by a patient who is the subject of an
+interdiction or commitment proceeding to his current health care provider when such patient
+has failed or refused to submit to an examination by a health care provider appointed by the
+court regarding issues relating to the interdiction or commitment proceeding, provided that
+the patient has been advised of such appointment and the consequences of not submitting to
+the examination.
+(ii)  Notwithstanding the provisions of Subitem (i) of this Item, in any commitment
+proceeding, the court-appointed physician may review the medical records of the patient or
+respondent and testify as to communications therein, but only those which are essential to
+determine whether the patient is dangerous to himself, dangerous to others, or unable to
+survive safely in freedom or protect himself from serious harm.  However, such
+communications shall not be disclosed unless the patient was informed prior to the
+communication that such communications are not privileged in any subsequent commitment
+proceedings.  The court-appointed examination shall be governed by Item B(2)(f).
+(h)  When the communication is relevant in proceedings held by peer review
+committees and other disciplinary bodies to determine whether a particular health care
+provider has deviated from applicable professional standards.
+(i)  When the communication is one regarding the blood alcohol level or other test
+for the presence of drugs of a patient and an action for damages for injury, death, or loss has
+been brought against the patient.
+(j)  When disclosure of the communication is necessary for the defense of the health
+care provider in a malpractice action brought by the patient.
+(k)  When the communication is relevant to proceedings concerning issues of child
+abuse, elder abuse, or the abuse of persons with disabilities or persons who are incompetent.
+(l)  When the communication is relevant after the death of a patient, concerning the
+capacity of the patient to enter into the contract which is the subject matter of the litigation.
+(m)  When the communication is relevant in an action contesting any testament
+executed or claimed to have been executed by the patient now deceased.
+C.(1)  General rule of privilege in criminal proceedings.  In a criminal proceeding,
+a patient has a privilege to refuse to disclose and to prevent another person from disclosing
+a confidential communication made for the purpose of advice, diagnosis or treatment of his
+health condition between or among himself, his representative, and his physician or
+psychotherapist, and their representatives.
+(2)  Exceptions.  There is no privilege under this Article in a criminal case as to a
+communication:
+(a)  When the communication is relevant to an issue of the health condition of the
+accused in any proceeding in which the accused relies upon the condition as an element of
+his defense.
+(b)  When the communication was intended to assist the patient or another person to
+commit or plan to commit what the patient knew or reasonably should have known to be a
+crime or fraud.
+(c)  When the communication was made in the course of an examination ordered by
+the court in a criminal case to determine the health condition of a patient, provided that a
+copy of the order was served on the patient prior to the communication.
+(d)  When the communication is a record of the results of a test for blood alcohol
+level or drugs taken from a patient who is under arrest, or who was subsequently arrested for
+an offense related to the test.
+(e)  When the communication is in the form of a tangible object, including a bullet,
+that is removed from the body of a patient and which was in the body as a result of the crime
+charged.
+(f)  When the communication is relevant to an investigation of or prosecution for
+child abuse, elder abuse, or the abuse of persons with disabilities or persons who are
+incompetent.
+D.  Who may claim the privilege.  In both civil and criminal proceedings, the
+privilege may be claimed by the patient or by his legal representative.  The person who was
+the physician, psychotherapist, or health care provider or their representatives, at the time of
+the communication is presumed to have authority to claim the privilege on behalf of the
+patient or deceased patient.
+E.  Waiver.  The exceptions to the privilege set forth in Paragraph B(2) shall
+constitute a waiver of the privilege only as to testimony at trial or to discovery of the
+privileged communication by one of the discovery methods authorized by Code of Civil
+Procedure Article 1421 et seq.,  or pursuant to R.S. 40:1165.1 or R.S. 13:3715.1.
+F.  Medical malpractice.  (1)  There shall be no health care provider-patient privilege
+in medical malpractice claims as defined in R.S. 40:1231.1 et seq. as to information directly
+and specifically related to the factual issues pertaining to the liability of a health care
+provider who is a named party in a pending lawsuit or medical review panel proceeding.
+(2)  In medical malpractice claims information about a patient's current treatment or
+physical condition may only be disclosed pursuant to testimony at trial, pursuant to one of
+the discovery methods authorized by Code of Civil Procedure Article 1421 et seq., pursuant
+to R.S. 40:1165.1 or R.S. 13:3715.1.
+G.  Sanctions.  Any attorney who violates a provision of this Article shall be subject
+to sanctions by the court.
+Acts 1992, No. 376, §1, eff. Jan. 1, 1993; Acts 1993, No. 988, §2; Acts 1995, No.
+1250, §3; Acts 1997, No. 643, §1; Acts 1999, No. 747, §1; Acts 1999, No. 1309, §11, eff.
+Jan. 1, 2000; Acts 2001, No. 486, §6, eff. June 21, 2001; Acts 2014, No. 811, §32, eff. June
+23, 2014.

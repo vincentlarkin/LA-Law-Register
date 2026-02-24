@@ -1,0 +1,4736 @@
+{
+  "category_key": "code-of-criminal-procedure",
+  "category_name": "Code of Criminal Procedure",
+  "bundle_name": "Code of Criminal Procedure",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=69&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "CCRP 1",
+      "title": "Short title; citation of Code",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112315"
+    },
+    {
+      "order": 2,
+      "citation": "CCRP 2",
+      "title": "Purpose and construction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112342"
+    },
+    {
+      "order": 3,
+      "citation": "CCRP 3",
+      "title": "Procedures not otherwise specified",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112426"
+    },
+    {
+      "order": 4,
+      "citation": "CCRP 4",
+      "title": "Number; gender",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112499"
+    },
+    {
+      "order": 5,
+      "citation": "CCRP 5",
+      "title": "Mandatory and permissive language",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112588"
+    },
+    {
+      "order": 6,
+      "citation": "CCRP 6",
+      "title": "Conjunctive, disjunctive, or both",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112642"
+    },
+    {
+      "order": 7,
+      "citation": "CCRP 7",
+      "title": "Municipal and parochial officers included",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112707"
+    },
+    {
+      "order": 8,
+      "citation": "CCRP 8",
+      "title": "Assistants and deputies included",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112797"
+    },
+    {
+      "order": 9,
+      "citation": "CCRP 9",
+      "title": "References to Code articles or statutory sections",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112901"
+    },
+    {
+      "order": 10,
+      "citation": "CCRP 10",
+      "title": "Article headings, source notes, and comments not part of law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112316"
+    },
+    {
+      "order": 11,
+      "citation": "CCRP 11",
+      "title": "Clerical and typographical errors disregarded",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112323"
+    },
+    {
+      "order": 12,
+      "citation": "CCRP 12",
+      "title": "Pleading a statute",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112324"
+    },
+    {
+      "order": 13,
+      "citation": "CCRP 13",
+      "title": "Computation of time",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112325"
+    },
+    {
+      "order": 14,
+      "citation": "CCRP 14",
+      "title": "Oath or affirmation in criminal proceedings; witness",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112327"
+    },
+    {
+      "order": 15,
+      "citation": "CCRP 14.1",
+      "title": "Electronic filings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112328"
+    },
+    {
+      "order": 16,
+      "citation": "CCRP 14.2",
+      "title": "Facsimile filings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1387221"
+    },
+    {
+      "order": 17,
+      "citation": "CCRP 15",
+      "title": "Courts to which applicable; military not affected",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112329"
+    },
+    {
+      "order": 18,
+      "citation": "CCRP 16",
+      "title": "Jurisdiction and powers of courts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112330"
+    },
+    {
+      "order": 19,
+      "citation": "CCRP 17",
+      "title": "Inherent power and authority of courts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112339"
+    },
+    {
+      "order": 20,
+      "citation": "CCRP 18",
+      "title": "Adoption of local rules of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112340"
+    },
+    {
+      "order": 21,
+      "citation": "CCRP 19",
+      "title": "Special sessions of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112341"
+    },
+    {
+      "order": 22,
+      "citation": "CCRP 20",
+      "title": "Contempt of court; kinds of contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112343"
+    },
+    {
+      "order": 23,
+      "citation": "CCRP 21",
+      "title": "Direct contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112353"
+    },
+    {
+      "order": 24,
+      "citation": "CCRP 22",
+      "title": "Procedure for punishing direct contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112371"
+    },
+    {
+      "order": 25,
+      "citation": "CCRP 22.1",
+      "title": "Direct contempt; fingerprinting and photographing; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112372"
+    },
+    {
+      "order": 26,
+      "citation": "CCRP 23",
+      "title": "Constructive contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112386"
+    },
+    {
+      "order": 27,
+      "citation": "CCRP 24",
+      "title": "Procedure for punishing constructive contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112392"
+    },
+    {
+      "order": 28,
+      "citation": "CCRP 25",
+      "title": "Penalties for contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112393"
+    },
+    {
+      "order": 29,
+      "citation": "CCRP 25.1",
+      "title": "Appointment of interpreter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=507411"
+    },
+    {
+      "order": 30,
+      "citation": "CCRP 26",
+      "title": "Power to order peace bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112394"
+    },
+    {
+      "order": 31,
+      "citation": "CCRP 27",
+      "title": "Application for peace bond; examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112404"
+    },
+    {
+      "order": 32,
+      "citation": "CCRP 28",
+      "title": "Issuance of summons or warrant of arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112415"
+    },
+    {
+      "order": 33,
+      "citation": "CCRP 29",
+      "title": "Peace bond hearing; costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112417"
+    },
+    {
+      "order": 34,
+      "citation": "CCRP 30",
+      "title": "The peace bond",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112427"
+    },
+    {
+      "order": 35,
+      "citation": "CCRP 31",
+      "title": "Failure to give peace bond; effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112428"
+    },
+    {
+      "order": 36,
+      "citation": "CCRP 32",
+      "title": "Forfeiture of peace bond",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112438"
+    },
+    {
+      "order": 37,
+      "citation": "CCRP 33",
+      "title": "Automatic discharge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112451"
+    },
+    {
+      "order": 38,
+      "citation": "CCRP 61",
+      "title": "District attorney; powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112643"
+    },
+    {
+      "order": 39,
+      "citation": "CCRP 62",
+      "title": "Authority of attorney general; supervision of district attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112649"
+    },
+    {
+      "order": 40,
+      "citation": "CCRP 63",
+      "title": "District attorney; assistance of other counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112658"
+    },
+    {
+      "order": 41,
+      "citation": "CCRP 64",
+      "title": "Relationship of district attorney with grand jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112659"
+    },
+    {
+      "order": 42,
+      "citation": "CCRP 65",
+      "title": "Defense of prosecution unlawful",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112671"
+    },
+    {
+      "order": 43,
+      "citation": "CCRP 66",
+      "title": "Subpoena of witness to appear before attorney general and district attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112685"
+    },
+    {
+      "order": 44,
+      "citation": "CCRP 67",
+      "title": "Repealed by Acts 1999, No. 718, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112688"
+    },
+    {
+      "order": 45,
+      "citation": "CCRP 101",
+      "title": "Abolition of coroner's jury and inquest; investigation by coroner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112317"
+    },
+    {
+      "order": 46,
+      "citation": "CCRP 102",
+      "title": "Autopsy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112318"
+    },
+    {
+      "order": 47,
+      "citation": "CCRP 103",
+      "title": "Subpoena of witnesses; testimony; subpoena duces tecum; issuance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112319"
+    },
+    {
+      "order": 48,
+      "citation": "CCRP 104",
+      "title": "Employment of expert assistants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112320"
+    },
+    {
+      "order": 49,
+      "citation": "CCRP 105",
+      "title": "Coroner's report; admissibility in evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112321"
+    },
+    {
+      "order": 50,
+      "citation": "CCRP 106",
+      "title": "Arrest of criminal suspect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112322"
+    },
+    {
+      "order": 51,
+      "citation": "CCRP 131",
+      "title": "Duties and powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112326"
+    },
+    {
+      "order": 52,
+      "citation": "CCRP 161",
+      "title": "Property subject to seizure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112331"
+    },
+    {
+      "order": 53,
+      "citation": "CCRP 162",
+      "title": "Issuance of warrant; affidavit; description",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112332"
+    },
+    {
+      "order": 54,
+      "citation": "CCRP 162.1",
+      "title": "Warrant issued upon oral testimony",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112333"
+    },
+    {
+      "order": 55,
+      "citation": "CCRP 162.2",
+      "title": "Warrant issued upon electronic testimony",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=813863"
+    },
+    {
+      "order": 56,
+      "citation": "CCRP 162.3",
+      "title": "No-knock warrant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1238743"
+    },
+    {
+      "order": 57,
+      "citation": "CCRP 162.4",
+      "title": "Search of a person's place of residence; odor of marijuana",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1293372"
+    },
+    {
+      "order": 58,
+      "citation": "CCRP 163",
+      "title": "Officer to whom directed; time for execution; electronic devices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112334"
+    },
+    {
+      "order": 59,
+      "citation": "CCRP 163.1",
+      "title": "Search of a person for bodily samples; warrants; execution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321809"
+    },
+    {
+      "order": 60,
+      "citation": "CCRP 163.2",
+      "title": "Search warrant for medical records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1293385"
+    },
+    {
+      "order": 61,
+      "citation": "CCRP 164",
+      "title": "Means and force in executing warrant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112335"
+    },
+    {
+      "order": 62,
+      "citation": "CCRP 165",
+      "title": "Authority of peace officer in executing a search warrant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112336"
+    },
+    {
+      "order": 63,
+      "citation": "CCRP 166",
+      "title": "Receipt for seized property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112337"
+    },
+    {
+      "order": 64,
+      "citation": "CCRP 167",
+      "title": "Custody of seized property; disposition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112338"
+    },
+    {
+      "order": 65,
+      "citation": "CCRP 201",
+      "title": "Arrest defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112344"
+    },
+    {
+      "order": 66,
+      "citation": "CCRP 202",
+      "title": "Warrant of arrest; issuance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112345"
+    },
+    {
+      "order": 67,
+      "citation": "CCRP 203",
+      "title": "Form and contents of warrant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112346"
+    },
+    {
+      "order": 68,
+      "citation": "CCRP 204",
+      "title": "Execution of warrant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112347"
+    },
+    {
+      "order": 69,
+      "citation": "CCRP 205",
+      "title": "Effective period",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112348"
+    },
+    {
+      "order": 70,
+      "citation": "CCRP 206",
+      "title": "Procedure when warrant defective",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112349"
+    },
+    {
+      "order": 71,
+      "citation": "CCRP 207",
+      "title": "Procedure when arrest made for offense triable in another parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112350"
+    },
+    {
+      "order": 72,
+      "citation": "CCRP 208",
+      "title": "Summons; defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112351"
+    },
+    {
+      "order": 73,
+      "citation": "CCRP 209",
+      "title": "When summons may be issued by magistrate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112352"
+    },
+    {
+      "order": 74,
+      "citation": "CCRP 210",
+      "title": "Service of summons",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112354"
+    },
+    {
+      "order": 75,
+      "citation": "CCRP 211",
+      "title": "Summons by officer instead of arrest and booking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112355"
+    },
+    {
+      "order": 76,
+      "citation": "CCRP 211.1",
+      "title": "Persons with outstanding warrant; arrest or release of person",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112356"
+    },
+    {
+      "order": 77,
+      "citation": "CCRP 211.2",
+      "title": "Contempt; attachment of arrest for failing to appear; summons by peace officer instead of arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112357"
+    },
+    {
+      "order": 78,
+      "citation": "CCRP 211.3",
+      "title": "Summons by officer instead of arrest and booking; improper supervision of a minor by parent or legal guardian",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112358"
+    },
+    {
+      "order": 79,
+      "citation": "CCRP 211.4",
+      "title": "Repealed by Acts 2011, No. 403, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112359"
+    },
+    {
+      "order": 80,
+      "citation": "CCRP 211.5",
+      "title": "Repealed by Acts 2011, No. 403, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=507412"
+    },
+    {
+      "order": 81,
+      "citation": "CCRP 211.6",
+      "title": "Repealed by Acts 2011, No. 403, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=507413"
+    },
+    {
+      "order": 82,
+      "citation": "CCRP 212",
+      "title": "Securing jurisdiction over corporation, partnership, or other unincorporated association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112360"
+    },
+    {
+      "order": 83,
+      "citation": "CCRP 213",
+      "title": "Arrest by officer without warrant; when lawful",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112361"
+    },
+    {
+      "order": 84,
+      "citation": "CCRP 214",
+      "title": "Arrest by private person; when lawful",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112362"
+    },
+    {
+      "order": 85,
+      "citation": "CCRP 215",
+      "title": "Detention and arrest of shoplifters",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112363"
+    },
+    {
+      "order": 86,
+      "citation": "CCRP 215.1",
+      "title": "Temporary questioning of persons in public places; frisk and search for weapons",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112364"
+    },
+    {
+      "order": 87,
+      "citation": "CCRP 215.2",
+      "title": "Detaining of persons on premises of correctional institution for questioning about contraband; detention for arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112365"
+    },
+    {
+      "order": 88,
+      "citation": "CCRP 216",
+      "title": "Time and place of making arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112366"
+    },
+    {
+      "order": 89,
+      "citation": "CCRP 217",
+      "title": "Method of arrest by officer under warrant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112367"
+    },
+    {
+      "order": 90,
+      "citation": "CCRP 218",
+      "title": "Method of arrest without warrant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112368"
+    },
+    {
+      "order": 91,
+      "citation": "CCRP 218.1",
+      "title": "Advice of reasons for arrest or detention and of rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112369"
+    },
+    {
+      "order": 92,
+      "citation": "CCRP 219",
+      "title": "Officer may summon assistance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112370"
+    },
+    {
+      "order": 93,
+      "citation": "CCRP 220",
+      "title": "Submission to arrest; use of force",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112373"
+    },
+    {
+      "order": 94,
+      "citation": "CCRP 221",
+      "title": "Blood and saliva testing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112374"
+    },
+    {
+      "order": 95,
+      "citation": "CCRP 222",
+      "title": "Blood and saliva testing; expedited, nonincriminating procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112375"
+    },
+    {
+      "order": 96,
+      "citation": "CCRP 223",
+      "title": "Identification of minor or dependent children upon arrest; required inquiry; guidelines",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1238744"
+    },
+    {
+      "order": 97,
+      "citation": "CCRP 224",
+      "title": "Forcible entry in making arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112376"
+    },
+    {
+      "order": 98,
+      "citation": "CCRP 225",
+      "title": "Duty of peace officer as to weapons and incriminating articles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112377"
+    },
+    {
+      "order": 99,
+      "citation": "CCRP 226",
+      "title": "Duty of private person after making arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112378"
+    },
+    {
+      "order": 100,
+      "citation": "CCRP 227",
+      "title": "Rearrest after escape",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112379"
+    },
+    {
+      "order": 101,
+      "citation": "CCRP 227.1",
+      "title": "Prevention of escape; use of force",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112380"
+    },
+    {
+      "order": 102,
+      "citation": "CCRP 228",
+      "title": "Booking of arrested person, submission of booking information summary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112381"
+    },
+    {
+      "order": 103,
+      "citation": "CCRP 228.1",
+      "title": "Disposal of property of prisoners; Orleans Parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112382"
+    },
+    {
+      "order": 104,
+      "citation": "CCRP 228.2",
+      "title": "Disposal of property of prisoners; Orleans Parish excepted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112383"
+    },
+    {
+      "order": 105,
+      "citation": "CCRP 228.3",
+      "title": "Disposal of unclaimed property seized in any criminal investigation; Orleans Parish excepted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112384"
+    },
+    {
+      "order": 106,
+      "citation": "CCRP 228.4",
+      "title": "Disposal of noncontraband unclaimed property seized in criminal investigations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725115"
+    },
+    {
+      "order": 107,
+      "citation": "CCRP 229",
+      "title": "Duties of officer in charge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112385"
+    },
+    {
+      "order": 108,
+      "citation": "CCRP 230",
+      "title": "Rights of person arrested",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112387"
+    },
+    {
+      "order": 109,
+      "citation": "CCRP 230.1",
+      "title": "Maximum time for appearance before judge for the purpose of appointment of counsel; court discretion to fix bail at the appearance; extension of time limit for cause; effect of failure of appearance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112388"
+    },
+    {
+      "order": 110,
+      "citation": "CCRP 230.2",
+      "title": "Probable cause determinations; persons arrested without a warrant and continued in custody; bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112389"
+    },
+    {
+      "order": 111,
+      "citation": "CCRP 231",
+      "title": "Close pursuit of person from another state; authority to arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112390"
+    },
+    {
+      "order": 112,
+      "citation": "CCRP 232",
+      "title": "Same; arrested person taken before judge for hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112391"
+    },
+    {
+      "order": 113,
+      "citation": "CCRP 233",
+      "title": "Electronic signature of offender; requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725117"
+    },
+    {
+      "order": 114,
+      "citation": "CCRP 234",
+      "title": "Booking photographs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1293386"
+    },
+    {
+      "order": 115,
+      "citation": "CCRP 251",
+      "title": "Legislative intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106478"
+    },
+    {
+      "order": 116,
+      "citation": "CCRP 252",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106481"
+    },
+    {
+      "order": 117,
+      "citation": "CCRP 253",
+      "title": "Eyewitness identification procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106482"
+    },
+    {
+      "order": 118,
+      "citation": "CCRP 261",
+      "title": "Special definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112395"
+    },
+    {
+      "order": 119,
+      "citation": "CCRP 262",
+      "title": "Extradition of wanted criminals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112396"
+    },
+    {
+      "order": 120,
+      "citation": "CCRP 262.1",
+      "title": "Extradition of persons not physically present in demanding state at the time of commission of crime",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206085"
+    },
+    {
+      "order": 121,
+      "citation": "CCRP 263",
+      "title": "Form of demand for extradition; necessary papers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112397"
+    },
+    {
+      "order": 122,
+      "citation": "CCRP 264",
+      "title": "Investigation of demand by governor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112398"
+    },
+    {
+      "order": 123,
+      "citation": "CCRP 265",
+      "title": "Governor's warrant; issuance and recitals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112399"
+    },
+    {
+      "order": 124,
+      "citation": "CCRP 266",
+      "title": "Governor's warrant; execution and recall",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112400"
+    },
+    {
+      "order": 125,
+      "citation": "CCRP 267",
+      "title": "Rights of accused; extradition hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112401"
+    },
+    {
+      "order": 126,
+      "citation": "CCRP 268",
+      "title": "Issues at extradition hearing; resulting orders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112402"
+    },
+    {
+      "order": 127,
+      "citation": "CCRP 269",
+      "title": "Arrest prior to demand for extradition; issuance of warrant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112403"
+    },
+    {
+      "order": 128,
+      "citation": "CCRP 270",
+      "title": "Commitment to await extradition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112405"
+    },
+    {
+      "order": 129,
+      "citation": "CCRP 271",
+      "title": "Bail in extradition cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112406"
+    },
+    {
+      "order": 130,
+      "citation": "CCRP 272",
+      "title": "Persons under criminal prosecution or sentence in this state at time of requisition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112407"
+    },
+    {
+      "order": 131,
+      "citation": "CCRP 273",
+      "title": "Waiver of extradition proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112408"
+    },
+    {
+      "order": 132,
+      "citation": "CCRP 274",
+      "title": "Application for issuance of requisition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112409"
+    },
+    {
+      "order": 133,
+      "citation": "CCRP 275",
+      "title": "Application for return of wanted fugitive",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112410"
+    },
+    {
+      "order": 134,
+      "citation": "CCRP 276",
+      "title": "Documents to be filed with application for requisition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112411"
+    },
+    {
+      "order": 135,
+      "citation": "CCRP 277",
+      "title": "Appointment of agents to receive prisoner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112412"
+    },
+    {
+      "order": 136,
+      "citation": "CCRP 278",
+      "title": "Re-extradition agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112413"
+    },
+    {
+      "order": 137,
+      "citation": "CCRP 279",
+      "title": "Extradition costs and expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112414"
+    },
+    {
+      "order": 138,
+      "citation": "CCRP 280",
+      "title": "Immunity of extradited person from service of process in civil actions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112416"
+    },
+    {
+      "order": 139,
+      "citation": "CCRP 281",
+      "title": "No right of asylum or immunity from other criminal prosecutions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=190984"
+    },
+    {
+      "order": 140,
+      "citation": "CCRP 291",
+      "title": "Authority to conduct preliminary examinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112418"
+    },
+    {
+      "order": 141,
+      "citation": "CCRP 292",
+      "title": "Order for preliminary examination before and after indictment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112419"
+    },
+    {
+      "order": 142,
+      "citation": "CCRP 293",
+      "title": "Time for examination; procurement of counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112420"
+    },
+    {
+      "order": 143,
+      "citation": "CCRP 294",
+      "title": "Examination of witnesses; transcript of testimony",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112421"
+    },
+    {
+      "order": 144,
+      "citation": "CCRP 295",
+      "title": "Admissibility of transcripts in other proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112422"
+    },
+    {
+      "order": 145,
+      "citation": "CCRP 296",
+      "title": "Scope of preliminary examination before and after indictment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112423"
+    },
+    {
+      "order": 146,
+      "citation": "CCRP 297",
+      "title": "Transmission of transcripts and other evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112424"
+    },
+    {
+      "order": 147,
+      "citation": "CCRP 298",
+      "title": "Effect of informality in proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112425"
+    },
+    {
+      "order": 148,
+      "citation": "CCRP 311",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112429"
+    },
+    {
+      "order": 149,
+      "citation": "CCRP 312",
+      "title": "Right to bail before and after conviction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112430"
+    },
+    {
+      "order": 150,
+      "citation": "CCRP 313",
+      "title": "Gwen's Law; bail hearings; detention without bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112431"
+    },
+    {
+      "order": 151,
+      "citation": "CCRP 313.1",
+      "title": "Detention of noncitizen defendant pending bail hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1015265"
+    },
+    {
+      "order": 152,
+      "citation": "CCRP 314",
+      "title": "Authority to fix bail; bail order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112432"
+    },
+    {
+      "order": 153,
+      "citation": "CCRP 315",
+      "title": "Schedules of bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112433"
+    },
+    {
+      "order": 154,
+      "citation": "CCRP 316",
+      "title": "Factors in fixing amount of bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112434"
+    },
+    {
+      "order": 155,
+      "citation": "CCRP 317",
+      "title": "Organization performing or providing pretrial services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112435"
+    },
+    {
+      "order": 156,
+      "citation": "CCRP 318",
+      "title": "Juvenile records in fixing bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112436"
+    },
+    {
+      "order": 157,
+      "citation": "CCRP 319",
+      "title": "Modifications of bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112437"
+    },
+    {
+      "order": 158,
+      "citation": "CCRP 320",
+      "title": "Conditions of bail undertaking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112439"
+    },
+    {
+      "order": 159,
+      "citation": "CCRP 321",
+      "title": "Types of bail; restrictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112440"
+    },
+    {
+      "order": 160,
+      "citation": "CCRP 322",
+      "title": "Commercial surety",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112441"
+    },
+    {
+      "order": 161,
+      "citation": "CCRP 323",
+      "title": "Secured personal surety",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112442"
+    },
+    {
+      "order": 162,
+      "citation": "CCRP 324",
+      "title": "Unsecured personal surety",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112443"
+    },
+    {
+      "order": 163,
+      "citation": "CCRP 325",
+      "title": "Bail without surety",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112444"
+    },
+    {
+      "order": 164,
+      "citation": "CCRP 325.1",
+      "title": "Repealed by Acts 1983, No. 256, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112445"
+    },
+    {
+      "order": 165,
+      "citation": "CCRP 326",
+      "title": "Cash deposits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112446"
+    },
+    {
+      "order": 166,
+      "citation": "CCRP 327",
+      "title": "Those who may not be sureties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112447"
+    },
+    {
+      "order": 167,
+      "citation": "CCRP 327.1",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112448"
+    },
+    {
+      "order": 168,
+      "citation": "CCRP 328",
+      "title": "Bail undertaking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112449"
+    },
+    {
+      "order": 169,
+      "citation": "CCRP 329",
+      "title": "Declaration of residence; waiver of notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112450"
+    },
+    {
+      "order": 170,
+      "citation": "CCRP 330",
+      "title": "Notice of defendant's required appearance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112452"
+    },
+    {
+      "order": 171,
+      "citation": "CCRP 330.1",
+      "title": "Posting bail when arrested outside of originating jurisdiction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112453"
+    },
+    {
+      "order": 172,
+      "citation": "CCRP 330.2",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321810"
+    },
+    {
+      "order": 173,
+      "citation": "CCRP 330.3",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919629"
+    },
+    {
+      "order": 174,
+      "citation": "CCRP 331",
+      "title": "Discharge of bail obligation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112454"
+    },
+    {
+      "order": 175,
+      "citation": "CCRP 332",
+      "title": "Court order for arrest of defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112455"
+    },
+    {
+      "order": 176,
+      "citation": "CCRP 333",
+      "title": "Failure to appear; issuance of arrest warrant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112456"
+    },
+    {
+      "order": 177,
+      "citation": "CCRP 334",
+      "title": "Notice of warrant of arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112457"
+    },
+    {
+      "order": 178,
+      "citation": "CCRP 334.1",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408631"
+    },
+    {
+      "order": 179,
+      "citation": "CCRP 334.2",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=507414"
+    },
+    {
+      "order": 180,
+      "citation": "CCRP 334.3",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=507415"
+    },
+    {
+      "order": 181,
+      "citation": "CCRP 334.4",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=813866"
+    },
+    {
+      "order": 182,
+      "citation": "CCRP 334.5",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=813867"
+    },
+    {
+      "order": 183,
+      "citation": "CCRP 334.6",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859202"
+    },
+    {
+      "order": 184,
+      "citation": "CCRP 335",
+      "title": "Rule to show cause; bond forfeiture",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112458"
+    },
+    {
+      "order": 185,
+      "citation": "CCRP 335.1",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112459"
+    },
+    {
+      "order": 186,
+      "citation": "CCRP 335.2",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=813865"
+    },
+    {
+      "order": 187,
+      "citation": "CCRP 336",
+      "title": "Proof necessary at bond forfeiture hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112460"
+    },
+    {
+      "order": 188,
+      "citation": "CCRP 336.1",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=190991"
+    },
+    {
+      "order": 189,
+      "citation": "CCRP 336.2",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321811"
+    },
+    {
+      "order": 190,
+      "citation": "CCRP 337",
+      "title": "Interruption of the period for obtaining a bond forfeiture judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112461"
+    },
+    {
+      "order": 191,
+      "citation": "CCRP 338",
+      "title": "Cases of nonforfeiture",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112462"
+    },
+    {
+      "order": 192,
+      "citation": "CCRP 339",
+      "title": "Notice of judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112463"
+    },
+    {
+      "order": 193,
+      "citation": "CCRP 340",
+      "title": "Recordation of judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112464"
+    },
+    {
+      "order": 194,
+      "citation": "CCRP 341",
+      "title": "Appeals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112465"
+    },
+    {
+      "order": 195,
+      "citation": "CCRP 342",
+      "title": "Enforcement of judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112466"
+    },
+    {
+      "order": 196,
+      "citation": "CCRP 343",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112467"
+    },
+    {
+      "order": 197,
+      "citation": "CCRP 344",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112468"
+    },
+    {
+      "order": 198,
+      "citation": "CCRP 345",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112469"
+    },
+    {
+      "order": 199,
+      "citation": "CCRP 346",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112470"
+    },
+    {
+      "order": 200,
+      "citation": "CCRP 347",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112471"
+    },
+    {
+      "order": 201,
+      "citation": "CCRP 348",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112472"
+    },
+    {
+      "order": 202,
+      "citation": "CCRP 349",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725123"
+    },
+    {
+      "order": 203,
+      "citation": "CCRP 349.1",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725128"
+    },
+    {
+      "order": 204,
+      "citation": "CCRP 349.2",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725129"
+    },
+    {
+      "order": 205,
+      "citation": "CCRP 349.3",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725136"
+    },
+    {
+      "order": 206,
+      "citation": "CCRP 349.4",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725140"
+    },
+    {
+      "order": 207,
+      "citation": "CCRP 349.5",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725144"
+    },
+    {
+      "order": 208,
+      "citation": "CCRP 349.6",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725145"
+    },
+    {
+      "order": 209,
+      "citation": "CCRP 349.7",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725146"
+    },
+    {
+      "order": 210,
+      "citation": "CCRP 349.8",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725149"
+    },
+    {
+      "order": 211,
+      "citation": "CCRP 349.9",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725152"
+    },
+    {
+      "order": 212,
+      "citation": "CCRP 351",
+      "title": "Habeas corpus; definition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112473"
+    },
+    {
+      "order": 213,
+      "citation": "CCRP 352",
+      "title": "Venue",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112474"
+    },
+    {
+      "order": 214,
+      "citation": "CCRP 353",
+      "title": "Application for writ; form and contents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112475"
+    },
+    {
+      "order": 215,
+      "citation": "CCRP 354",
+      "title": "Granting of writ; time and place for answer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112476"
+    },
+    {
+      "order": 216,
+      "citation": "CCRP 355",
+      "title": "Persons authorized to make service; proof of service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112477"
+    },
+    {
+      "order": 217,
+      "citation": "CCRP 356",
+      "title": "Method of service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112478"
+    },
+    {
+      "order": 218,
+      "citation": "CCRP 357",
+      "title": "Answer; production of person in custody",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112479"
+    },
+    {
+      "order": 219,
+      "citation": "CCRP 358",
+      "title": "Transfer of custody; answer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112480"
+    },
+    {
+      "order": 220,
+      "citation": "CCRP 359",
+      "title": "Nonproduction of person confined; justification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112481"
+    },
+    {
+      "order": 221,
+      "citation": "CCRP 360",
+      "title": "Hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112482"
+    },
+    {
+      "order": 222,
+      "citation": "CCRP 361",
+      "title": "Custody without court order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112483"
+    },
+    {
+      "order": 223,
+      "citation": "CCRP 362",
+      "title": "Custody with court order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112484"
+    },
+    {
+      "order": 224,
+      "citation": "CCRP 363",
+      "title": "Effect of appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112485"
+    },
+    {
+      "order": 225,
+      "citation": "CCRP 364",
+      "title": "New warrant; when issued",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112486"
+    },
+    {
+      "order": 226,
+      "citation": "CCRP 365",
+      "title": "Burden of proof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112487"
+    },
+    {
+      "order": 227,
+      "citation": "CCRP 366",
+      "title": "Custody pendente lite",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112488"
+    },
+    {
+      "order": 228,
+      "citation": "CCRP 367",
+      "title": "Rearrest after discharge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112489"
+    },
+    {
+      "order": 229,
+      "citation": "CCRP 368",
+      "title": "Disobedience of writ or judgment; contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112490"
+    },
+    {
+      "order": 230,
+      "citation": "CCRP 369",
+      "title": "Appeal not permitted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112491"
+    },
+    {
+      "order": 231,
+      "citation": "CCRP 370",
+      "title": "Custody pending application for writs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112492"
+    },
+    {
+      "order": 232,
+      "citation": "CCRP 381",
+      "title": "Nature of criminal prosecution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112493"
+    },
+    {
+      "order": 233,
+      "citation": "CCRP 382",
+      "title": "Methods of instituting criminal prosecutions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112494"
+    },
+    {
+      "order": 234,
+      "citation": "CCRP 383",
+      "title": "Indictment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112495"
+    },
+    {
+      "order": 235,
+      "citation": "CCRP 384",
+      "title": "Information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112496"
+    },
+    {
+      "order": 236,
+      "citation": "CCRP 385",
+      "title": "Affidavit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112497"
+    },
+    {
+      "order": 237,
+      "citation": "CCRP 386",
+      "title": "Institution of prosecution after discharge at preliminary examination; after failure of grand jury to indict",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112498"
+    },
+    {
+      "order": 238,
+      "citation": "CCRP 387",
+      "title": "Additional information required when prosecuting certain offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=962162"
+    },
+    {
+      "order": 239,
+      "citation": "CCRP 388",
+      "title": "Additional information provided when prosecuting offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1335625"
+    },
+    {
+      "order": 240,
+      "citation": "CCRP 389",
+      "title": "Information to be provided to supreme court; daily reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1386573"
+    },
+    {
+      "order": 241,
+      "citation": "CCRP 390",
+      "title": "Burden of proof; justification of self-defense raised; probable cause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1386574"
+    },
+    {
+      "order": 242,
+      "citation": "CCRP 401",
+      "title": "General qualifications of jurors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112500"
+    },
+    {
+      "order": 243,
+      "citation": "CCRP 401.1",
+      "title": "Court instructions for interpreter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112501"
+    },
+    {
+      "order": 244,
+      "citation": "CCRP 402",
+      "title": "Repealed by Acts 1974, Ex.Sess., No. 20, 1, eff. January 1, 1975",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112502"
+    },
+    {
+      "order": 245,
+      "citation": "CCRP 403",
+      "title": "Exemption from jury service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112503"
+    },
+    {
+      "order": 246,
+      "citation": "CCRP 403.1",
+      "title": "Disqualification for undue hardship",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112504"
+    },
+    {
+      "order": 247,
+      "citation": "CCRP 404",
+      "title": "Appointment of jury commissions; term of office; oath; quorum; performance of functions of jury commissions in certain parishes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112505"
+    },
+    {
+      "order": 248,
+      "citation": "CCRP 404.1",
+      "title": "Powers, duties, and functions of the board of jury commissioners in Orleans Parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112506"
+    },
+    {
+      "order": 249,
+      "citation": "CCRP 405",
+      "title": "Notice of jury commission meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112507"
+    },
+    {
+      "order": 250,
+      "citation": "CCRP 406",
+      "title": "Powers of jury commission; penalty for disobedience of commission process",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112508"
+    },
+    {
+      "order": 251,
+      "citation": "CCRP 407",
+      "title": "Administration of oath to witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112509"
+    },
+    {
+      "order": 252,
+      "citation": "CCRP 408",
+      "title": "Selection of general venire in parishes other than Orleans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112510"
+    },
+    {
+      "order": 253,
+      "citation": "CCRP 408.1",
+      "title": "Initial selection of general venire; source",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112511"
+    },
+    {
+      "order": 254,
+      "citation": "CCRP 409",
+      "title": "Selection of general venire in Orleans Parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112512"
+    },
+    {
+      "order": 255,
+      "citation": "CCRP 409.1",
+      "title": "Orleans parish central jury pool",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112513"
+    },
+    {
+      "order": 256,
+      "citation": "CCRP 409.2",
+      "title": "Jefferson Parish central jury pool",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112514"
+    },
+    {
+      "order": 257,
+      "citation": "CCRP 409.3",
+      "title": "Central jury pools; local rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112515"
+    },
+    {
+      "order": 258,
+      "citation": "CCRP 409.4",
+      "title": "Nineteenth Judicial District Court central jury pool",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112516"
+    },
+    {
+      "order": 259,
+      "citation": "CCRP 409.5",
+      "title": "One day/one trial jury system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112517"
+    },
+    {
+      "order": 260,
+      "citation": "CCRP 410",
+      "title": "Revising and supplementing the general venire",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112518"
+    },
+    {
+      "order": 261,
+      "citation": "CCRP 411",
+      "title": "Drawing of grand jury venire; disposition of slips; jury box; subpoena of persons on grand jury venire",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112519"
+    },
+    {
+      "order": 262,
+      "citation": "CCRP 412",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112520"
+    },
+    {
+      "order": 263,
+      "citation": "CCRP 413",
+      "title": "Method of impaneling of grand jury; selection of foreman",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112521"
+    },
+    {
+      "order": 264,
+      "citation": "CCRP 414",
+      "title": "Time for impaneling grand juries; period of service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112522"
+    },
+    {
+      "order": 265,
+      "citation": "CCRP 415",
+      "title": "Method of filling vacancies on grand jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112523"
+    },
+    {
+      "order": 266,
+      "citation": "CCRP 415.1",
+      "title": "Selection of additional grand juries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112524"
+    },
+    {
+      "order": 267,
+      "citation": "CCRP 415.2",
+      "title": "Duration of additional grand juries; extension of impanelment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112525"
+    },
+    {
+      "order": 268,
+      "citation": "CCRP 416",
+      "title": "Drawing petit jury venire in parishes other than Orleans; term of service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112526"
+    },
+    {
+      "order": 269,
+      "citation": "CCRP 416.1",
+      "title": "One-step qualification/summoning",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112527"
+    },
+    {
+      "order": 270,
+      "citation": "CCRP 417",
+      "title": "Proces verbal; summoning of petit jurors; parishes other than Orleans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112528"
+    },
+    {
+      "order": 271,
+      "citation": "CCRP 418",
+      "title": "Drawing petit jury venire in Orleans parish; number chosen; term of service; petit jury venire list",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112529"
+    },
+    {
+      "order": 272,
+      "citation": "CCRP 419",
+      "title": "Challenge of venire not permitted except for fraud or irreparable injury or systematic exclusion based on race",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112530"
+    },
+    {
+      "order": 273,
+      "citation": "CCRP 431",
+      "title": "Oath of grand jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112531"
+    },
+    {
+      "order": 274,
+      "citation": "CCRP 432",
+      "title": "Charge to grand jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112532"
+    },
+    {
+      "order": 275,
+      "citation": "CCRP 433",
+      "title": "Persons present during grand jury sessions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112533"
+    },
+    {
+      "order": 276,
+      "citation": "CCRP 434",
+      "title": "Secrecy of grand jury meetings; procedures for crimes in other parishes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112534"
+    },
+    {
+      "order": 277,
+      "citation": "CCRP 434.1",
+      "title": "Exceptions to grand jury secrecy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=813868"
+    },
+    {
+      "order": 278,
+      "citation": "CCRP 435",
+      "title": "Meetings of grand jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112535"
+    },
+    {
+      "order": 279,
+      "citation": "CCRP 436",
+      "title": "The foreman; rules of procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112536"
+    },
+    {
+      "order": 280,
+      "citation": "CCRP 437",
+      "title": "Inquiry into offenses; authority and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112537"
+    },
+    {
+      "order": 281,
+      "citation": "CCRP 438",
+      "title": "Duty of grand juror having knowledge of offense; investigation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112538"
+    },
+    {
+      "order": 282,
+      "citation": "CCRP 439",
+      "title": "Subpoena of witnesses to appear before the grand jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112539"
+    },
+    {
+      "order": 283,
+      "citation": "CCRP 439.1",
+      "title": "Witnesses; authority to compel testimony and evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112540"
+    },
+    {
+      "order": 284,
+      "citation": "CCRP 440",
+      "title": "Administration of oath to witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112541"
+    },
+    {
+      "order": 285,
+      "citation": "CCRP 441",
+      "title": "Administration of oath to other persons",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112542"
+    },
+    {
+      "order": 286,
+      "citation": "CCRP 442",
+      "title": "Evidence to be received by grand jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112543"
+    },
+    {
+      "order": 287,
+      "citation": "CCRP 443",
+      "title": "When indictment to be found",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112544"
+    },
+    {
+      "order": 288,
+      "citation": "CCRP 444",
+      "title": "Action by grand jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112545"
+    },
+    {
+      "order": 289,
+      "citation": "CCRP 461",
+      "title": "Special definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112546"
+    },
+    {
+      "order": 290,
+      "citation": "CCRP 462",
+      "title": "Form of grand jury indictment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112547"
+    },
+    {
+      "order": 291,
+      "citation": "CCRP 463",
+      "title": "Form of information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112548"
+    },
+    {
+      "order": 292,
+      "citation": "CCRP 464",
+      "title": "Nature and contents of indictment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112549"
+    },
+    {
+      "order": 293,
+      "citation": "CCRP 465",
+      "title": "Specific indictment forms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112550"
+    },
+    {
+      "order": 294,
+      "citation": "CCRP 466",
+      "title": "Name of defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112551"
+    },
+    {
+      "order": 295,
+      "citation": "CCRP 467",
+      "title": "Naming corporation, partnership or other unincorporated association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112552"
+    },
+    {
+      "order": 296,
+      "citation": "CCRP 468",
+      "title": "Date and time",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112553"
+    },
+    {
+      "order": 297,
+      "citation": "CCRP 469",
+      "title": "Venue and place",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112554"
+    },
+    {
+      "order": 298,
+      "citation": "CCRP 470",
+      "title": "Value, price, or damage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112555"
+    },
+    {
+      "order": 299,
+      "citation": "CCRP 471",
+      "title": "Ownership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112556"
+    },
+    {
+      "order": 300,
+      "citation": "CCRP 472",
+      "title": "General intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112557"
+    },
+    {
+      "order": 301,
+      "citation": "CCRP 473",
+      "title": "Identification of victim",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112558"
+    },
+    {
+      "order": 302,
+      "citation": "CCRP 474",
+      "title": "Property described as money",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112559"
+    },
+    {
+      "order": 303,
+      "citation": "CCRP 475",
+      "title": "Description of written instruments and printed objects",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112560"
+    },
+    {
+      "order": 304,
+      "citation": "CCRP 476",
+      "title": "Description of spoken or written matter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112561"
+    },
+    {
+      "order": 305,
+      "citation": "CCRP 477",
+      "title": "Meaning of words and phrases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112562"
+    },
+    {
+      "order": 306,
+      "citation": "CCRP 478",
+      "title": "Judgments and other determinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112563"
+    },
+    {
+      "order": 307,
+      "citation": "CCRP 479",
+      "title": "Exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112564"
+    },
+    {
+      "order": 308,
+      "citation": "CCRP 480",
+      "title": "Conjunctive charging",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112565"
+    },
+    {
+      "order": 309,
+      "citation": "CCRP 481",
+      "title": "Theft",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112566"
+    },
+    {
+      "order": 310,
+      "citation": "CCRP 482",
+      "title": "Alternative offenses; special joinder rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112567"
+    },
+    {
+      "order": 311,
+      "citation": "CCRP 483",
+      "title": "Allegations of prior convictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112568"
+    },
+    {
+      "order": 312,
+      "citation": "CCRP 484",
+      "title": "Bill of particulars",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112569"
+    },
+    {
+      "order": 313,
+      "citation": "CCRP 485",
+      "title": "Effect of inconsistent or limiting allegations of bill of particulars",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112570"
+    },
+    {
+      "order": 314,
+      "citation": "CCRP 486",
+      "title": "Repugnancy; surplusage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112571"
+    },
+    {
+      "order": 315,
+      "citation": "CCRP 487",
+      "title": "Defective indictment; amendment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112572"
+    },
+    {
+      "order": 316,
+      "citation": "CCRP 487.1",
+      "title": "Indictment for driving while intoxicated; amendment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112573"
+    },
+    {
+      "order": 317,
+      "citation": "CCRP 488",
+      "title": "Variances; amendment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112574"
+    },
+    {
+      "order": 318,
+      "citation": "CCRP 489",
+      "title": "Continuance where amendment prejudicial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112575"
+    },
+    {
+      "order": 319,
+      "citation": "CCRP 490",
+      "title": "Counts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112576"
+    },
+    {
+      "order": 320,
+      "citation": "CCRP 491",
+      "title": "Arts. 491, 492 Repealed by Acts 1975, No. 528, 1",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112577"
+    },
+    {
+      "order": 321,
+      "citation": "CCRP 493",
+      "title": "Joinder of offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112578"
+    },
+    {
+      "order": 322,
+      "citation": "CCRP 493.1",
+      "title": "Joinder of misdemeanors; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112579"
+    },
+    {
+      "order": 323,
+      "citation": "CCRP 493.2",
+      "title": "Joinder of felonies; mode of trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112580"
+    },
+    {
+      "order": 324,
+      "citation": "CCRP 494",
+      "title": "Joinder of defendants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112581"
+    },
+    {
+      "order": 325,
+      "citation": "CCRP 495",
+      "title": "Objections to misjoinder",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112582"
+    },
+    {
+      "order": 326,
+      "citation": "CCRP 495.1",
+      "title": "Severance of offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112583"
+    },
+    {
+      "order": 327,
+      "citation": "CCRP 496",
+      "title": "Warrant of arrest on indictment or information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112584"
+    },
+    {
+      "order": 328,
+      "citation": "CCRP 497",
+      "title": "Summons in misdemeanor cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112585"
+    },
+    {
+      "order": 329,
+      "citation": "CCRP 498",
+      "title": "Copy of indictment or information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112586"
+    },
+    {
+      "order": 330,
+      "citation": "CCRP 499",
+      "title": "AIDS testing of the accused",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112587"
+    },
+    {
+      "order": 331,
+      "citation": "CCRP 511",
+      "title": "Right to counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112589"
+    },
+    {
+      "order": 332,
+      "citation": "CCRP 512",
+      "title": "Assignment of counsel in capital cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112590"
+    },
+    {
+      "order": 333,
+      "citation": "CCRP 513",
+      "title": "Assignment of counsel in other cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112591"
+    },
+    {
+      "order": 334,
+      "citation": "CCRP 514",
+      "title": "Minute entry regarding counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112592"
+    },
+    {
+      "order": 335,
+      "citation": "CCRP 515",
+      "title": "Substitution of counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112593"
+    },
+    {
+      "order": 336,
+      "citation": "CCRP 516",
+      "title": "Belated pleas and motions; when authorized",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112594"
+    },
+    {
+      "order": 337,
+      "citation": "CCRP 517",
+      "title": "Joint representation of co-defendants; duty of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112595"
+    },
+    {
+      "order": 338,
+      "citation": "CCRP 521",
+      "title": "Time for filing of pretrial motions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112596"
+    },
+    {
+      "order": 339,
+      "citation": "CCRP 522",
+      "title": "Hearings on motions; audio-visual appearance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112597"
+    },
+    {
+      "order": 340,
+      "citation": "CCRP 523",
+      "title": "Notice for hearing of pretrial motions; dismissal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725167"
+    },
+    {
+      "order": 341,
+      "citation": "CCRP 531",
+      "title": "Motion to quash; nature of motion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112598"
+    },
+    {
+      "order": 342,
+      "citation": "CCRP 532",
+      "title": "General grounds for motion to quash",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112599"
+    },
+    {
+      "order": 343,
+      "citation": "CCRP 533",
+      "title": "Special grounds for motion to quash grand jury indictment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112600"
+    },
+    {
+      "order": 344,
+      "citation": "CCRP 534",
+      "title": "Special grounds for motion to quash information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112601"
+    },
+    {
+      "order": 345,
+      "citation": "CCRP 535",
+      "title": "Time to file motion to quash",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112602"
+    },
+    {
+      "order": 346,
+      "citation": "CCRP 536",
+      "title": "Form and contents of motion to quash; place to file",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112603"
+    },
+    {
+      "order": 347,
+      "citation": "CCRP 537",
+      "title": "Trial of issues arising on motion to quash",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112604"
+    },
+    {
+      "order": 348,
+      "citation": "CCRP 538",
+      "title": "Effect of sustaining motion to quash",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112605"
+    },
+    {
+      "order": 349,
+      "citation": "CCRP 551",
+      "title": "Arraignment of defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112606"
+    },
+    {
+      "order": 350,
+      "citation": "CCRP 551.1",
+      "title": "Substitution of railroad defendant at arraignment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112607"
+    },
+    {
+      "order": 351,
+      "citation": "CCRP 552",
+      "title": "Pleas at the arraignment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112608"
+    },
+    {
+      "order": 352,
+      "citation": "CCRP 553",
+      "title": "Method of pleading",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112609"
+    },
+    {
+      "order": 353,
+      "citation": "CCRP 554",
+      "title": "Effect of failure to plead",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112610"
+    },
+    {
+      "order": 354,
+      "citation": "CCRP 555",
+      "title": "Waivers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112611"
+    },
+    {
+      "order": 355,
+      "citation": "CCRP 556",
+      "title": "Plea of guilty or nolo contendere in misdemeanor cases; duty of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112612"
+    },
+    {
+      "order": 356,
+      "citation": "CCRP 556.1",
+      "title": "Plea of guilty or nolo contendere in felony cases; duties of the court and defense counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112613"
+    },
+    {
+      "order": 357,
+      "citation": "CCRP 557",
+      "title": "Plea of guilty in capital cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112614"
+    },
+    {
+      "order": 358,
+      "citation": "CCRP 558",
+      "title": "Plea of guilty of lesser included offense",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112615"
+    },
+    {
+      "order": 359,
+      "citation": "CCRP 558.1",
+      "title": "Adjudication of not guilty by reason of insanity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112616"
+    },
+    {
+      "order": 360,
+      "citation": "CCRP 559",
+      "title": "Withdrawal or setting aside of plea of guilty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112617"
+    },
+    {
+      "order": 361,
+      "citation": "CCRP 560",
+      "title": "Change of plea of not guilty to guilty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112618"
+    },
+    {
+      "order": 362,
+      "citation": "CCRP 561",
+      "title": "Change of plea of \"not guilty\" to \"not guilty and not guilty by reason of insanity\"",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112619"
+    },
+    {
+      "order": 363,
+      "citation": "CCRP 562",
+      "title": "Use of simultaneous audio-visual transmission for certain proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1054258"
+    },
+    {
+      "order": 364,
+      "citation": "CCRP 571",
+      "title": "Crimes for which there is no time limitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112620"
+    },
+    {
+      "order": 365,
+      "citation": "CCRP 571.1",
+      "title": "Time limitation for certain sex offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112621"
+    },
+    {
+      "order": 366,
+      "citation": "CCRP 572",
+      "title": "Limitation of prosecution of noncapital offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112622"
+    },
+    {
+      "order": 367,
+      "citation": "CCRP 573",
+      "title": "Running of time limitations; exception",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112623"
+    },
+    {
+      "order": 368,
+      "citation": "CCRP 573.1",
+      "title": "Running of time limitations; exception; persons with infirmities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725168"
+    },
+    {
+      "order": 369,
+      "citation": "CCRP 573.2",
+      "title": "Running of time limitations; exception; video voyeurism",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1015527"
+    },
+    {
+      "order": 370,
+      "citation": "CCRP 573.3",
+      "title": "Running of time limitations; exception; crimes against the Firefighters' Retirement System",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106483"
+    },
+    {
+      "order": 371,
+      "citation": "CCRP 573.4",
+      "title": "Running of time limitations; exception; third degree rape",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1386649"
+    },
+    {
+      "order": 372,
+      "citation": "CCRP 574",
+      "title": "Conviction and punishment for lesser offenses; limitations applicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112624"
+    },
+    {
+      "order": 373,
+      "citation": "CCRP 575",
+      "title": "Interruption of time limitations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112625"
+    },
+    {
+      "order": 374,
+      "citation": "CCRP 575.1",
+      "title": "Suspension of time limitations; crimes against the Firefighters' Retirement System",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106484"
+    },
+    {
+      "order": 375,
+      "citation": "CCRP 576",
+      "title": "Filing of new charges upon dismissal of prosecution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112626"
+    },
+    {
+      "order": 376,
+      "citation": "CCRP 577",
+      "title": "Pleading of limitation; burden of proof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112627"
+    },
+    {
+      "order": 377,
+      "citation": "CCRP 578",
+      "title": "General rule",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112628"
+    },
+    {
+      "order": 378,
+      "citation": "CCRP 579",
+      "title": "Interruption of time limitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112629"
+    },
+    {
+      "order": 379,
+      "citation": "CCRP 580",
+      "title": "Suspension of time limitations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112630"
+    },
+    {
+      "order": 380,
+      "citation": "CCRP 581",
+      "title": "Expiration of limitations; motion to quash; effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112631"
+    },
+    {
+      "order": 381,
+      "citation": "CCRP 582",
+      "title": "Time limitations; effect of new trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112632"
+    },
+    {
+      "order": 382,
+      "citation": "CCRP 583",
+      "title": "Interruption of time limitation where new trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112633"
+    },
+    {
+      "order": 383,
+      "citation": "CCRP 591",
+      "title": "Double jeopardy; definition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112634"
+    },
+    {
+      "order": 384,
+      "citation": "CCRP 592",
+      "title": "When jeopardy begins",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112635"
+    },
+    {
+      "order": 385,
+      "citation": "CCRP 593",
+      "title": "Method of pleading",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112636"
+    },
+    {
+      "order": 386,
+      "citation": "CCRP 594",
+      "title": "Method of trial; time for disposition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112637"
+    },
+    {
+      "order": 387,
+      "citation": "CCRP 595",
+      "title": "Double jeopardy; when not applicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112638"
+    },
+    {
+      "order": 388,
+      "citation": "CCRP 596",
+      "title": "Requirements for double jeopardy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112639"
+    },
+    {
+      "order": 389,
+      "citation": "CCRP 597",
+      "title": "Prosecution in other jurisdiction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112640"
+    },
+    {
+      "order": 390,
+      "citation": "CCRP 598",
+      "title": "Effect of verdict",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112641"
+    },
+    {
+      "order": 391,
+      "citation": "CCRP 611",
+      "title": "Venue; trial where offense committed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112644"
+    },
+    {
+      "order": 392,
+      "citation": "CCRP 612",
+      "title": "Offenses on railway trains, vessels, aircraft, or other vehicles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112645"
+    },
+    {
+      "order": 393,
+      "citation": "CCRP 613",
+      "title": "Jurisdiction of court where body of water is parish boundary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112646"
+    },
+    {
+      "order": 394,
+      "citation": "CCRP 614",
+      "title": "Venue where offense committed within one hundred feet of parish boundary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112647"
+    },
+    {
+      "order": 395,
+      "citation": "CCRP 615",
+      "title": "Improper venue; pleading",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112648"
+    },
+    {
+      "order": 396,
+      "citation": "CCRP 621",
+      "title": "Motion; form; time for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112650"
+    },
+    {
+      "order": 397,
+      "citation": "CCRP 622",
+      "title": "Grounds for change of venue",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112651"
+    },
+    {
+      "order": 398,
+      "citation": "CCRP 623",
+      "title": "Change granted; transfer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112652"
+    },
+    {
+      "order": 399,
+      "citation": "CCRP 623.1",
+      "title": "Capital cases; transfer of jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112653"
+    },
+    {
+      "order": 400,
+      "citation": "CCRP 624",
+      "title": "Grant of change of venue; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112654"
+    },
+    {
+      "order": 401,
+      "citation": "CCRP 625",
+      "title": "Transfer of defendant in custody",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112655"
+    },
+    {
+      "order": 402,
+      "citation": "CCRP 626",
+      "title": "Change of venue where defendant is on bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112656"
+    },
+    {
+      "order": 403,
+      "citation": "CCRP 627",
+      "title": "Appeals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112657"
+    },
+    {
+      "order": 404,
+      "citation": "CCRP 641",
+      "title": "Mental incapacity to proceed defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112660"
+    },
+    {
+      "order": 405,
+      "citation": "CCRP 642",
+      "title": "How mental incapacity is raised; effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112661"
+    },
+    {
+      "order": 406,
+      "citation": "CCRP 643",
+      "title": "Order for mental examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112662"
+    },
+    {
+      "order": 407,
+      "citation": "CCRP 644",
+      "title": "Appointment of sanity commission; examination of defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112663"
+    },
+    {
+      "order": 408,
+      "citation": "CCRP 644.1",
+      "title": "Sanity proceedings for juvenile defendants transferred to criminal court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408634"
+    },
+    {
+      "order": 409,
+      "citation": "CCRP 645",
+      "title": "Report of sanity commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112664"
+    },
+    {
+      "order": 410,
+      "citation": "CCRP 646",
+      "title": "Examination by physician retained by defense or district attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112665"
+    },
+    {
+      "order": 411,
+      "citation": "CCRP 647",
+      "title": "Determination of mental capacity to proceed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112666"
+    },
+    {
+      "order": 412,
+      "citation": "CCRP 648",
+      "title": "Procedure after determination of mental capacity or incapacity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112667"
+    },
+    {
+      "order": 413,
+      "citation": "CCRP 648.1",
+      "title": "Information required prior to admission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112668"
+    },
+    {
+      "order": 414,
+      "citation": "CCRP 649",
+      "title": "Procedure when capacity regained",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112669"
+    },
+    {
+      "order": 415,
+      "citation": "CCRP 649.1",
+      "title": "Prescribed medication; administration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112670"
+    },
+    {
+      "order": 416,
+      "citation": "CCRP 650",
+      "title": "Mental examination after plea of insanity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112672"
+    },
+    {
+      "order": 417,
+      "citation": "CCRP 651",
+      "title": "When defense of insanity at time of offense is available; method of trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112673"
+    },
+    {
+      "order": 418,
+      "citation": "CCRP 652",
+      "title": "Burden of proof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112674"
+    },
+    {
+      "order": 419,
+      "citation": "CCRP 653",
+      "title": "Testimony of members of sanity commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112675"
+    },
+    {
+      "order": 420,
+      "citation": "CCRP 654",
+      "title": "Legal effect of acquittal on ground of insanity; commitment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112676"
+    },
+    {
+      "order": 421,
+      "citation": "CCRP 654.1",
+      "title": "Information required prior to admission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112677"
+    },
+    {
+      "order": 422,
+      "citation": "CCRP 655",
+      "title": "Application for discharge or release on probation; review panel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112678"
+    },
+    {
+      "order": 423,
+      "citation": "CCRP 656",
+      "title": "Additional mental examinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112679"
+    },
+    {
+      "order": 424,
+      "citation": "CCRP 657",
+      "title": "Discharge or release; hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112680"
+    },
+    {
+      "order": 425,
+      "citation": "CCRP 657.1",
+      "title": "Conditional release; criteria",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112681"
+    },
+    {
+      "order": 426,
+      "citation": "CCRP 657.2",
+      "title": "Conditional release; additional requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112682"
+    },
+    {
+      "order": 427,
+      "citation": "CCRP 657.3",
+      "title": "Active supervised release for dangerous but not mentally ill committed persons",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1386661"
+    },
+    {
+      "order": 428,
+      "citation": "CCRP 658",
+      "title": "Probation; conditional release; reporting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112683"
+    },
+    {
+      "order": 429,
+      "citation": "CCRP 659",
+      "title": "Costs of mental examinations prior to commitment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112684"
+    },
+    {
+      "order": 430,
+      "citation": "CCRP 660",
+      "title": "Institutional costs after commitment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112686"
+    },
+    {
+      "order": 431,
+      "citation": "CCRP 661",
+      "title": "Progress reports; responsibility to furnish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112687"
+    },
+    {
+      "order": 432,
+      "citation": "CCRP 671",
+      "title": "Grounds for recusal of judge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112689"
+    },
+    {
+      "order": 433,
+      "citation": "CCRP 672",
+      "title": "Recusal on court's own motion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112690"
+    },
+    {
+      "order": 434,
+      "citation": "CCRP 673",
+      "title": "Judge may act until recused",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112691"
+    },
+    {
+      "order": 435,
+      "citation": "CCRP 674",
+      "title": "Procedure for recusal of trial judge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112692"
+    },
+    {
+      "order": 436,
+      "citation": "CCRP 675",
+      "title": "Selection of ad hoc judge to try motion to recuse",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112693"
+    },
+    {
+      "order": 437,
+      "citation": "CCRP 676",
+      "title": "Ad hoc judge to try cause when judge recused",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112694"
+    },
+    {
+      "order": 438,
+      "citation": "CCRP 677",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112695"
+    },
+    {
+      "order": 439,
+      "citation": "CCRP 678",
+      "title": "Recusal of ad hoc judge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112696"
+    },
+    {
+      "order": 440,
+      "citation": "CCRP 679",
+      "title": "Recusal of an appellate judge and a supreme court justice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112697"
+    },
+    {
+      "order": 441,
+      "citation": "CCRP 680",
+      "title": "Grounds for recusation of district attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112698"
+    },
+    {
+      "order": 442,
+      "citation": "CCRP 681",
+      "title": "Procedure for recusation of district attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112699"
+    },
+    {
+      "order": 443,
+      "citation": "CCRP 682",
+      "title": "Appointment of substitute for a recused district attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112700"
+    },
+    {
+      "order": 444,
+      "citation": "CCRP 683",
+      "title": "Disability or absence of district attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112701"
+    },
+    {
+      "order": 445,
+      "citation": "CCRP 683.1",
+      "title": "Costs of prosecution and investigation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112702"
+    },
+    {
+      "order": 446,
+      "citation": "CCRP 684",
+      "title": "Review of recusal ruling",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112703"
+    },
+    {
+      "order": 447,
+      "citation": "CCRP 691",
+      "title": "Dismissal of prosecution by district attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112704"
+    },
+    {
+      "order": 448,
+      "citation": "CCRP 692",
+      "title": "Dismissal of indictment after conviction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112705"
+    },
+    {
+      "order": 449,
+      "citation": "CCRP 693",
+      "title": "Effect of dismissal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112706"
+    },
+    {
+      "order": 450,
+      "citation": "CCRP 701",
+      "title": "Right to a speedy trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112708"
+    },
+    {
+      "order": 451,
+      "citation": "CCRP 702",
+      "title": "Setting cases for trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112709"
+    },
+    {
+      "order": 452,
+      "citation": "CCRP 703",
+      "title": "Motion to suppress evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112710"
+    },
+    {
+      "order": 453,
+      "citation": "CCRP 704",
+      "title": "Severance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112711"
+    },
+    {
+      "order": 454,
+      "citation": "CCRP 705",
+      "title": "Effects of severance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112712"
+    },
+    {
+      "order": 455,
+      "citation": "CCRP 706",
+      "title": "Consolidation for trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112713"
+    },
+    {
+      "order": 456,
+      "citation": "CCRP 707",
+      "title": "Motion for continuance; time for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112714"
+    },
+    {
+      "order": 457,
+      "citation": "CCRP 708",
+      "title": "Continuance and recess; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112715"
+    },
+    {
+      "order": 458,
+      "citation": "CCRP 709",
+      "title": "Continuance based on absence of a witness",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112716"
+    },
+    {
+      "order": 459,
+      "citation": "CCRP 710",
+      "title": "Prevention of continuance by admission of adverse party",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112717"
+    },
+    {
+      "order": 460,
+      "citation": "CCRP 711",
+      "title": "Trial of motion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112718"
+    },
+    {
+      "order": 461,
+      "citation": "CCRP 712",
+      "title": "Discretionary grounds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112719"
+    },
+    {
+      "order": 462,
+      "citation": "CCRP 713",
+      "title": "Peremptory grounds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112720"
+    },
+    {
+      "order": 463,
+      "citation": "CCRP 714",
+      "title": "Continuance to defendants jointly indicted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112721"
+    },
+    {
+      "order": 464,
+      "citation": "CCRP 715",
+      "title": "Continuance to definite date or indefinitely",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112722"
+    },
+    {
+      "order": 465,
+      "citation": "CCRP 716",
+      "title": "Statements by the defendant, codefendants, and witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112723"
+    },
+    {
+      "order": 466,
+      "citation": "CCRP 717",
+      "title": "Disclosure by the state; criminal records of defendant and witnesses; inducements to the state's witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112724"
+    },
+    {
+      "order": 467,
+      "citation": "CCRP 718",
+      "title": "Documents and tangible objects",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112725"
+    },
+    {
+      "order": 468,
+      "citation": "CCRP 718.1",
+      "title": "Evidence of obscenity, video voyeurism, child sexual abuse materials, or unlawful posting of criminal activity for notoriety and publicity; prohibition on reproduction of child sexual abuse materials",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=813864"
+    },
+    {
+      "order": 469,
+      "citation": "CCRP 719",
+      "title": "Reports of examinations and tests",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112726"
+    },
+    {
+      "order": 470,
+      "citation": "CCRP 720",
+      "title": "Evidence of other crimes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112727"
+    },
+    {
+      "order": 471,
+      "citation": "CCRP 721",
+      "title": "Statements of coconspirators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112728"
+    },
+    {
+      "order": 472,
+      "citation": "CCRP 722",
+      "title": "Confessions and statements of codefendants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112729"
+    },
+    {
+      "order": 473,
+      "citation": "CCRP 723",
+      "title": "State reports and other matters not subject to disclosure, favorable evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112730"
+    },
+    {
+      "order": 474,
+      "citation": "CCRP 724",
+      "title": "Documents and tangible objects",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112731"
+    },
+    {
+      "order": 475,
+      "citation": "CCRP 725",
+      "title": "Reports of examinations and tests",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112732"
+    },
+    {
+      "order": 476,
+      "citation": "CCRP 725.1",
+      "title": "Disclosure by the defendant; names of defense witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=813871"
+    },
+    {
+      "order": 477,
+      "citation": "CCRP 726",
+      "title": "Notice of defense based upon mental condition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112733"
+    },
+    {
+      "order": 478,
+      "citation": "CCRP 727",
+      "title": "Notice of alibi",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112734"
+    },
+    {
+      "order": 479,
+      "citation": "CCRP 728",
+      "title": "Defense information and other matters not subject to disclosure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112735"
+    },
+    {
+      "order": 480,
+      "citation": "CCRP 729",
+      "title": "Time and scope of motion by defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112736"
+    },
+    {
+      "order": 481,
+      "citation": "CCRP 729.1",
+      "title": "Court's disposition of motion for discovery; vacation or restriction of order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112737"
+    },
+    {
+      "order": 482,
+      "citation": "CCRP 729.2",
+      "title": "Time, place and manner of discovery and inspection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112738"
+    },
+    {
+      "order": 483,
+      "citation": "CCRP 729.3",
+      "title": "Continuing duty to disclose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112739"
+    },
+    {
+      "order": 484,
+      "citation": "CCRP 729.4",
+      "title": "Pretrial conferences",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112740"
+    },
+    {
+      "order": 485,
+      "citation": "CCRP 729.5",
+      "title": "Failure to comply; sanctions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112741"
+    },
+    {
+      "order": 486,
+      "citation": "CCRP 729.6",
+      "title": "Applicability of discovery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112742"
+    },
+    {
+      "order": 487,
+      "citation": "CCRP 729.7",
+      "title": "Protection of witness identity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859217"
+    },
+    {
+      "order": 488,
+      "citation": "CCRP 731",
+      "title": "Issuance of subpoenas",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112743"
+    },
+    {
+      "order": 489,
+      "citation": "CCRP 732",
+      "title": "Subpoena duces tecum",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112744"
+    },
+    {
+      "order": 490,
+      "citation": "CCRP 732.1",
+      "title": "Subpoena duces tecum regarding sex offenses against victims who are minors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725173"
+    },
+    {
+      "order": 491,
+      "citation": "CCRP 732.2",
+      "title": "Subpoena duces tecum regarding human trafficking offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1238747"
+    },
+    {
+      "order": 492,
+      "citation": "CCRP 733",
+      "title": "Form",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112745"
+    },
+    {
+      "order": 493,
+      "citation": "CCRP 734",
+      "title": "Service of subpoena by sheriff; investigators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112746"
+    },
+    {
+      "order": 494,
+      "citation": "CCRP 735",
+      "title": "Types of service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112747"
+    },
+    {
+      "order": 495,
+      "citation": "CCRP 736",
+      "title": "Return of subpoena by sheriff",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112748"
+    },
+    {
+      "order": 496,
+      "citation": "CCRP 737",
+      "title": "Contempt; attachment of witnesses failing to appear",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112749"
+    },
+    {
+      "order": 497,
+      "citation": "CCRP 738",
+      "title": "Number of witnesses allowed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112750"
+    },
+    {
+      "order": 498,
+      "citation": "CCRP 739",
+      "title": "Indigent defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112751"
+    },
+    {
+      "order": 499,
+      "citation": "CCRP 740",
+      "title": "Restrictions on subpoenas; members of the legislature and personnel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112752"
+    },
+    {
+      "order": 500,
+      "citation": "CCRP 741",
+      "title": "Method of obtaining a witness from another state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112753"
+    },
+    {
+      "order": 501,
+      "citation": "CCRP 742",
+      "title": "Method of summoning a witness in this state to testify in another state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112754"
+    },
+    {
+      "order": 502,
+      "citation": "CCRP 743",
+      "title": "Exemption from arrest and service of process",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112755"
+    },
+    {
+      "order": 503,
+      "citation": "CCRP 744",
+      "title": "Witness; state; defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112756"
+    },
+    {
+      "order": 504,
+      "citation": "CCRP 745",
+      "title": "Uniformity of interpretation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=997528"
+    },
+    {
+      "order": 505,
+      "citation": "CCRP 761",
+      "title": "Commencement of trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112757"
+    },
+    {
+      "order": 506,
+      "citation": "CCRP 761.1",
+      "title": "Homicide victim's picture; possession by family member in courtroom",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112758"
+    },
+    {
+      "order": 507,
+      "citation": "CCRP 762",
+      "title": "Place of sessions of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112759"
+    },
+    {
+      "order": 508,
+      "citation": "CCRP 763",
+      "title": "Proceedings on holidays",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112760"
+    },
+    {
+      "order": 509,
+      "citation": "CCRP 764",
+      "title": "Exclusion of witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112761"
+    },
+    {
+      "order": 510,
+      "citation": "CCRP 765",
+      "title": "Normal order of trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112762"
+    },
+    {
+      "order": 511,
+      "citation": "CCRP 766",
+      "title": "Opening statement by state; scope",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112763"
+    },
+    {
+      "order": 512,
+      "citation": "CCRP 767",
+      "title": "Same; prohibition against adverting to confessions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112764"
+    },
+    {
+      "order": 513,
+      "citation": "CCRP 768",
+      "title": "Same; use of confession or inculpatory statement; notice to defendant prior to opening statement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112765"
+    },
+    {
+      "order": 514,
+      "citation": "CCRP 769",
+      "title": "Same; effect on introduction of evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112766"
+    },
+    {
+      "order": 515,
+      "citation": "CCRP 770",
+      "title": "Prejudicial remarks; basis of mistrial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112767"
+    },
+    {
+      "order": 516,
+      "citation": "CCRP 771",
+      "title": "Admonition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112768"
+    },
+    {
+      "order": 517,
+      "citation": "CCRP 772",
+      "title": "Comment on facts by judge in jury's presence prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112769"
+    },
+    {
+      "order": 518,
+      "citation": "CCRP 773",
+      "title": "Order of evidence; foundation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112770"
+    },
+    {
+      "order": 519,
+      "citation": "CCRP 774",
+      "title": "Argument; scope",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112771"
+    },
+    {
+      "order": 520,
+      "citation": "CCRP 775",
+      "title": "Mistrial; grounds for",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112772"
+    },
+    {
+      "order": 521,
+      "citation": "CCRP 775.1",
+      "title": "Automatic stay following order of mistrial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285077"
+    },
+    {
+      "order": 522,
+      "citation": "CCRP 776",
+      "title": "Oath of witness",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112773"
+    },
+    {
+      "order": 523,
+      "citation": "CCRP 777",
+      "title": "Recordation of proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112774"
+    },
+    {
+      "order": 524,
+      "citation": "CCRP 778",
+      "title": "Motion for acquittal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112775"
+    },
+    {
+      "order": 525,
+      "citation": "CCRP 779",
+      "title": "Trial of misdemeanors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112776"
+    },
+    {
+      "order": 526,
+      "citation": "CCRP 780",
+      "title": "Right to waive trial by jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112777"
+    },
+    {
+      "order": 527,
+      "citation": "CCRP 781",
+      "title": "Charges in cases tried without a jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112778"
+    },
+    {
+      "order": 528,
+      "citation": "CCRP 782",
+      "title": "Number of jurors composing jury; number which must concur; waiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112779"
+    },
+    {
+      "order": 529,
+      "citation": "CCRP 783",
+      "title": "Excusing, tendering, and attachment of members of the venire",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112780"
+    },
+    {
+      "order": 530,
+      "citation": "CCRP 784",
+      "title": "Method of selecting panel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112781"
+    },
+    {
+      "order": 531,
+      "citation": "CCRP 785",
+      "title": "Tales jurors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112782"
+    },
+    {
+      "order": 532,
+      "citation": "CCRP 786",
+      "title": "Examination of jurors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112783"
+    },
+    {
+      "order": 533,
+      "citation": "CCRP 787",
+      "title": "Disqualification of petit jurors in particular cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112784"
+    },
+    {
+      "order": 534,
+      "citation": "CCRP 788",
+      "title": "Tendering jurors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112785"
+    },
+    {
+      "order": 535,
+      "citation": "CCRP 789",
+      "title": "Alternate jurors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112786"
+    },
+    {
+      "order": 536,
+      "citation": "CCRP 790",
+      "title": "Swearing of jurors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112787"
+    },
+    {
+      "order": 537,
+      "citation": "CCRP 791",
+      "title": "Sequestration of jurors and jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112788"
+    },
+    {
+      "order": 538,
+      "citation": "CCRP 792",
+      "title": "Selection of foreman",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112789"
+    },
+    {
+      "order": 539,
+      "citation": "CCRP 793",
+      "title": "Use of evidence in jury room; reading of recorded testimony; jurors' notes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112790"
+    },
+    {
+      "order": 540,
+      "citation": "CCRP 794",
+      "title": "Removal of jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112791"
+    },
+    {
+      "order": 541,
+      "citation": "CCRP 795",
+      "title": "Time for challenges; method; peremptory challenges based on race or gender; restrictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112792"
+    },
+    {
+      "order": 542,
+      "citation": "CCRP 796",
+      "title": "Removal of juror after swearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112793"
+    },
+    {
+      "order": 543,
+      "citation": "CCRP 797",
+      "title": "Challenge for cause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112794"
+    },
+    {
+      "order": 544,
+      "citation": "CCRP 798",
+      "title": "Causes for challenge by the state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112795"
+    },
+    {
+      "order": 545,
+      "citation": "CCRP 799",
+      "title": "Number of peremptory challenges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112796"
+    },
+    {
+      "order": 546,
+      "citation": "CCRP 799.1",
+      "title": "Challenges; use of all available challenges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408635"
+    },
+    {
+      "order": 547,
+      "citation": "CCRP 800",
+      "title": "Objection to ruling on challenge for cause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112798"
+    },
+    {
+      "order": 548,
+      "citation": "CCRP 801",
+      "title": "Time for charge; when written charge required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112799"
+    },
+    {
+      "order": 549,
+      "citation": "CCRP 802",
+      "title": "General charge; scope",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112800"
+    },
+    {
+      "order": 550,
+      "citation": "CCRP 803",
+      "title": "Same; charge as to included minor offenses and plea of insanity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112801"
+    },
+    {
+      "order": 551,
+      "citation": "CCRP 804",
+      "title": "Same; charge as to presumption of innocence, reasonable doubt, and several grades of offense",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112802"
+    },
+    {
+      "order": 552,
+      "citation": "CCRP 805",
+      "title": "Same; charge as to verdict acquitting on account of insanity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112803"
+    },
+    {
+      "order": 553,
+      "citation": "CCRP 806",
+      "title": "Prohibited charges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112804"
+    },
+    {
+      "order": 554,
+      "citation": "CCRP 807",
+      "title": "Special written charges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112805"
+    },
+    {
+      "order": 555,
+      "citation": "CCRP 808",
+      "title": "Manner of giving further charges after jury retires",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112806"
+    },
+    {
+      "order": 556,
+      "citation": "CCRP 809",
+      "title": "Judge to give jury written list of responsive verdicts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112807"
+    },
+    {
+      "order": 557,
+      "citation": "CCRP 810",
+      "title": "Form of verdict; delivery of verdict",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112808"
+    },
+    {
+      "order": 558,
+      "citation": "CCRP 811",
+      "title": "Receipt and recordation of verdict",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112809"
+    },
+    {
+      "order": 559,
+      "citation": "CCRP 812",
+      "title": "Same; polling and disposition of jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112810"
+    },
+    {
+      "order": 560,
+      "citation": "CCRP 813",
+      "title": "Improper verdict; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112811"
+    },
+    {
+      "order": 561,
+      "citation": "CCRP 814",
+      "title": "Responsive verdicts; in particular",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112812"
+    },
+    {
+      "order": 562,
+      "citation": "CCRP 815",
+      "title": "Responsive verdicts; in general",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112813"
+    },
+    {
+      "order": 563,
+      "citation": "CCRP 816",
+      "title": "Verdict acquitting on account of insanity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112814"
+    },
+    {
+      "order": 564,
+      "citation": "CCRP 817",
+      "title": "Qualifying verdicts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112815"
+    },
+    {
+      "order": 565,
+      "citation": "CCRP 818",
+      "title": "Separate verdict for each defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112816"
+    },
+    {
+      "order": 566,
+      "citation": "CCRP 819",
+      "title": "Separate verdict for each count",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112817"
+    },
+    {
+      "order": 567,
+      "citation": "CCRP 820",
+      "title": "Application of chapter to cases tried without a jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112818"
+    },
+    {
+      "order": 568,
+      "citation": "CCRP 821",
+      "title": "Motion for post verdict judgment of acquittal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112819"
+    },
+    {
+      "order": 569,
+      "citation": "CCRP 822",
+      "title": "Motion for amending or modifying sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112820"
+    },
+    {
+      "order": 570,
+      "citation": "CCRP 831",
+      "title": "Presence of defendant when prosecution is for felony",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112821"
+    },
+    {
+      "order": 571,
+      "citation": "CCRP 832",
+      "title": "Continued presence not required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112822"
+    },
+    {
+      "order": 572,
+      "citation": "CCRP 833",
+      "title": "Presence of defendant; misdemeanor prosecution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112823"
+    },
+    {
+      "order": 573,
+      "citation": "CCRP 834",
+      "title": "When presence of defendant not necessary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112824"
+    },
+    {
+      "order": 574,
+      "citation": "CCRP 835",
+      "title": "Presence of defendant at pronouncement of sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112825"
+    },
+    {
+      "order": 575,
+      "citation": "CCRP 836",
+      "title": "Presence of corporation or association",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112826"
+    },
+    {
+      "order": 576,
+      "citation": "CCRP 841",
+      "title": "Bill of exceptions unnecessary; objections required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112827"
+    },
+    {
+      "order": 577,
+      "citation": "CCRP 842",
+      "title": "Codefendants; presumption as to objections",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112828"
+    },
+    {
+      "order": 578,
+      "citation": "CCRP 843",
+      "title": "Recording of proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112829"
+    },
+    {
+      "order": 579,
+      "citation": "CCRP 844",
+      "title": "Assignment of errors; sanctions for failure to file timely",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112830"
+    },
+    {
+      "order": 580,
+      "citation": "CCRP 845",
+      "title": "Repealed by Acts 1982, No. 143, 3",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112831"
+    },
+    {
+      "order": 581,
+      "citation": "CCRP 851",
+      "title": "Grounds for new trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112832"
+    },
+    {
+      "order": 582,
+      "citation": "CCRP 852",
+      "title": "Form, content, and trial of motion for new trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112833"
+    },
+    {
+      "order": 583,
+      "citation": "CCRP 853",
+      "title": "Time for filing motion for new trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112834"
+    },
+    {
+      "order": 584,
+      "citation": "CCRP 854",
+      "title": "Newly discovered evidence; necessary allegations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112835"
+    },
+    {
+      "order": 585,
+      "citation": "CCRP 855",
+      "title": "Errors discovered after verdict or judgment of guilty; necessary allegations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112836"
+    },
+    {
+      "order": 586,
+      "citation": "CCRP 855.1",
+      "title": "Conviction based on acts committed as a victim of trafficking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919636"
+    },
+    {
+      "order": 587,
+      "citation": "CCRP 856",
+      "title": "Motion to urge all available grounds; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112837"
+    },
+    {
+      "order": 588,
+      "citation": "CCRP 857",
+      "title": "Effect of granting new trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112838"
+    },
+    {
+      "order": 589,
+      "citation": "CCRP 858",
+      "title": "Review of ruling on motion for new trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112839"
+    },
+    {
+      "order": 590,
+      "citation": "CCRP 859",
+      "title": "Grounds for arrest of judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112840"
+    },
+    {
+      "order": 591,
+      "citation": "CCRP 860",
+      "title": "Form, content, and trial of motion in arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112841"
+    },
+    {
+      "order": 592,
+      "citation": "CCRP 861",
+      "title": "Time for filing motion in arrest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112842"
+    },
+    {
+      "order": 593,
+      "citation": "CCRP 862",
+      "title": "Effect of sustaining motion in arrest of judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112843"
+    },
+    {
+      "order": 594,
+      "citation": "CCRP 871",
+      "title": "Sentence defined; pronouncing and recording of sentence; certification of conviction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112844"
+    },
+    {
+      "order": 595,
+      "citation": "CCRP 871.1",
+      "title": "Sentencing orders to be sent to Louisiana Protective Order Registry",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112845"
+    },
+    {
+      "order": 596,
+      "citation": "CCRP 871.2",
+      "title": "Presentence inquiry of veteran status",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859218"
+    },
+    {
+      "order": 597,
+      "citation": "CCRP 872",
+      "title": "Basis for valid sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112846"
+    },
+    {
+      "order": 598,
+      "citation": "CCRP 873",
+      "title": "Delay between conviction and sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112847"
+    },
+    {
+      "order": 599,
+      "citation": "CCRP 874",
+      "title": "Prompt sentence required; relief by writs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112848"
+    },
+    {
+      "order": 600,
+      "citation": "CCRP 875",
+      "title": "Presentence investigation; juvenile records; drug screening; veterans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112849"
+    },
+    {
+      "order": 601,
+      "citation": "CCRP 875.1",
+      "title": "Determination of substantial financial hardship to the defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112850"
+    },
+    {
+      "order": 602,
+      "citation": "CCRP 876",
+      "title": "Sentence for crime committed as a child",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112851"
+    },
+    {
+      "order": 603,
+      "citation": "CCRP 877",
+      "title": "Protection of investigation reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112852"
+    },
+    {
+      "order": 604,
+      "citation": "CCRP 878",
+      "title": "Cruel or unusual punishment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112853"
+    },
+    {
+      "order": 605,
+      "citation": "CCRP 878.1",
+      "title": "Sentencing hearing for juvenile offenders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859219"
+    },
+    {
+      "order": 606,
+      "citation": "CCRP 879",
+      "title": "Determinate sentence required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112854"
+    },
+    {
+      "order": 607,
+      "citation": "CCRP 880",
+      "title": "Credit for prior custody; limitations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112855"
+    },
+    {
+      "order": 608,
+      "citation": "CCRP 881",
+      "title": "Amendment of sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112856"
+    },
+    {
+      "order": 609,
+      "citation": "CCRP 881.1",
+      "title": "Motion to reconsider sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112857"
+    },
+    {
+      "order": 610,
+      "citation": "CCRP 881.2",
+      "title": "Review of sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112858"
+    },
+    {
+      "order": 611,
+      "citation": "CCRP 881.3",
+      "title": "Record on review of sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112859"
+    },
+    {
+      "order": 612,
+      "citation": "CCRP 881.4",
+      "title": "Action by appellate court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112860"
+    },
+    {
+      "order": 613,
+      "citation": "CCRP 881.5",
+      "title": "Correction of illegal sentence by trial court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112861"
+    },
+    {
+      "order": 614,
+      "citation": "CCRP 881.6",
+      "title": "Reducing a sentence for substantial assistance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112862"
+    },
+    {
+      "order": 615,
+      "citation": "CCRP 881.7",
+      "title": "Memorandum of understanding; limits on reduction of sentence for substantial assistance by a defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=762597"
+    },
+    {
+      "order": 616,
+      "citation": "CCRP 882",
+      "title": "Correction of illegal sentence; review of illegal sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112863"
+    },
+    {
+      "order": 617,
+      "citation": "CCRP 883",
+      "title": "Concurrent and consecutive sentences",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112864"
+    },
+    {
+      "order": 618,
+      "citation": "CCRP 883.1",
+      "title": "Sentences concurrent with sentences of other jurisdictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112865"
+    },
+    {
+      "order": 619,
+      "citation": "CCRP 883.2",
+      "title": "Restitution to victim",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112866"
+    },
+    {
+      "order": 620,
+      "citation": "CCRP 884",
+      "title": "Sentence of fine with imprisonment for default",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112867"
+    },
+    {
+      "order": 621,
+      "citation": "CCRP 885",
+      "title": "Release on payment of fine and costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112868"
+    },
+    {
+      "order": 622,
+      "citation": "CCRP 885.1",
+      "title": "Suspension of driving privileges; failure to pay criminal fines",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=191013"
+    },
+    {
+      "order": 623,
+      "citation": "CCRP 886",
+      "title": "Enforcement of fine by civil process; offset of tax refund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112869"
+    },
+    {
+      "order": 624,
+      "citation": "CCRP 886.1",
+      "title": "Judgment for fines and costs declared executory; required notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112870"
+    },
+    {
+      "order": 625,
+      "citation": "CCRP 887",
+      "title": "Defendant's liability for costs; suspension of costs; no advance costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112871"
+    },
+    {
+      "order": 626,
+      "citation": "CCRP 888",
+      "title": "Costs and fines; payment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112872"
+    },
+    {
+      "order": 627,
+      "citation": "CCRP 889",
+      "title": "Collection and disposition of fines, costs, and forfeitures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112873"
+    },
+    {
+      "order": 628,
+      "citation": "CCRP 890",
+      "title": "Method of service of sentence of imprisonment; labor and confinement; workday release program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112874"
+    },
+    {
+      "order": 629,
+      "citation": "CCRP 890.1",
+      "title": "Waiver of minimum mandatory sentences; procedure; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112875"
+    },
+    {
+      "order": 630,
+      "citation": "CCRP 890.2",
+      "title": "Fines for individual defendants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112876"
+    },
+    {
+      "order": 631,
+      "citation": "CCRP 890.3",
+      "title": "Sentencing for crimes of violence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1015538"
+    },
+    {
+      "order": 632,
+      "citation": "CCRP 891",
+      "title": "Forfeiture of weapons",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112877"
+    },
+    {
+      "order": 633,
+      "citation": "CCRP 892",
+      "title": "Post-sentence statement by sheriff; accompanying documents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112878"
+    },
+    {
+      "order": 634,
+      "citation": "CCRP 892.1",
+      "title": "Driver improvement programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112879"
+    },
+    {
+      "order": 635,
+      "citation": "CCRP 892.2",
+      "title": "Notice of controlled dangerous substance conviction; licensing authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112880"
+    },
+    {
+      "order": 636,
+      "citation": "CCRP 892.3",
+      "title": "Transfer of foreign nationals or citizens; treaty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112881"
+    },
+    {
+      "order": 637,
+      "citation": "CCRP 893",
+      "title": "Suspension and deferral of sentence and probation in felony cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112882"
+    },
+    {
+      "order": 638,
+      "citation": "CCRP 893.1",
+      "title": "Motion to invoke firearm sentencing provision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112883"
+    },
+    {
+      "order": 639,
+      "citation": "CCRP 893.2",
+      "title": "Discharge, use, or possession of firearm in commission of a felony or a specifically enumerated misdemeanor; submission to jury",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112884"
+    },
+    {
+      "order": 640,
+      "citation": "CCRP 893.3",
+      "title": "Sentence imposed on felony or specifically enumerated misdemeanor in which firearm was possessed, used, or discharged",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112885"
+    },
+    {
+      "order": 641,
+      "citation": "CCRP 893.4",
+      "title": "Inapplicability to unintentional felonies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112886"
+    },
+    {
+      "order": 642,
+      "citation": "CCRP 893.5",
+      "title": "Community service in lieu of imprisonment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112887"
+    },
+    {
+      "order": 643,
+      "citation": "CCRP 894",
+      "title": "Suspension and deferral of sentence; probation in misdemeanor cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112888"
+    },
+    {
+      "order": 644,
+      "citation": "CCRP 894.1",
+      "title": "Sentencing guidelines; generally",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112889"
+    },
+    {
+      "order": 645,
+      "citation": "CCRP 894.2",
+      "title": "Home incarceration; requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112890"
+    },
+    {
+      "order": 646,
+      "citation": "CCRP 894.3",
+      "title": "Notice to victim for sentencing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112891"
+    },
+    {
+      "order": 647,
+      "citation": "CCRP 894.4",
+      "title": "Probation; extension",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408641"
+    },
+    {
+      "order": 648,
+      "citation": "CCRP 894.5",
+      "title": "Submission of DWI - Code of Criminal Procedure Article 894 Plea Records to office of motor vehicles; forms to be used and completed by the clerk of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=962181"
+    },
+    {
+      "order": 649,
+      "citation": "CCRP 895",
+      "title": "Conditions of probation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112892"
+    },
+    {
+      "order": 650,
+      "citation": "CCRP 895.1",
+      "title": "Probation; restitution; judgment for restitution; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112893"
+    },
+    {
+      "order": 651,
+      "citation": "CCRP 895.2",
+      "title": "Probation; restitution for values of wildlife",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112894"
+    },
+    {
+      "order": 652,
+      "citation": "CCRP 895.3",
+      "title": "Probationer transferred between states; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112895"
+    },
+    {
+      "order": 653,
+      "citation": "CCRP 895.4",
+      "title": "Probation; fees; certified crime stoppers organizations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112896"
+    },
+    {
+      "order": 654,
+      "citation": "CCRP 895.5",
+      "title": "Restitution recovery division; district attorneys; establishment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670256"
+    },
+    {
+      "order": 655,
+      "citation": "CCRP 895.6",
+      "title": "Repealed by Acts 2024, 2nd Ex. Sess., No. 7, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1054581"
+    },
+    {
+      "order": 656,
+      "citation": "CCRP 896",
+      "title": "Modifying or changing conditions of probation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112897"
+    },
+    {
+      "order": 657,
+      "citation": "CCRP 897",
+      "title": "Termination of probation or suspended sentence; discharge of defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112898"
+    },
+    {
+      "order": 658,
+      "citation": "CCRP 898",
+      "title": "Satisfaction of suspended sentence and probation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112899"
+    },
+    {
+      "order": 659,
+      "citation": "CCRP 899",
+      "title": "Arrest or summons for violation of probation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112900"
+    },
+    {
+      "order": 660,
+      "citation": "CCRP 899.1",
+      "title": "Administrative sanctions for technical violations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=762604"
+    },
+    {
+      "order": 661,
+      "citation": "CCRP 899.2",
+      "title": "Repealed by Acts 2024, 2nd Ex. Sess., No. 8, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1054592"
+    },
+    {
+      "order": 662,
+      "citation": "CCRP 900",
+      "title": "Violation hearing; sanctions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112902"
+    },
+    {
+      "order": 663,
+      "citation": "CCRP 901",
+      "title": "Revocation for commission of another offense",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112903"
+    },
+    {
+      "order": 664,
+      "citation": "CCRP 901.1",
+      "title": "Additional sanctions for probation revocation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112904"
+    },
+    {
+      "order": 665,
+      "citation": "CCRP 902",
+      "title": "Drug addict; pre-sentence investigation; voluntary treatment; conditions of probation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112905"
+    },
+    {
+      "order": 666,
+      "citation": "CCRP 903",
+      "title": "Substance abuse probation program; authorization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859220"
+    },
+    {
+      "order": 667,
+      "citation": "CCRP 903.1",
+      "title": "Substance abuse probation program; eligibility",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859221"
+    },
+    {
+      "order": 668,
+      "citation": "CCRP 903.2",
+      "title": "Substance abuse probation; sentencing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859222"
+    },
+    {
+      "order": 669,
+      "citation": "CCRP 903.3",
+      "title": "Substance abuse treatment program; cost",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=859223"
+    },
+    {
+      "order": 670,
+      "citation": "CCRP 904",
+      "title": "Mandatory assessment; suitability of defendant for drug or specialty court program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1355877"
+    },
+    {
+      "order": 671,
+      "citation": "CCRP 905",
+      "title": "Capital cases; sentencing hearing required; delay; waiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112906"
+    },
+    {
+      "order": 672,
+      "citation": "CCRP 905.1",
+      "title": "Sentencing hearing jury; commencement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112907"
+    },
+    {
+      "order": 673,
+      "citation": "CCRP 905.2",
+      "title": "Sentencing hearing; procedure and evidence; jury instructions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112908"
+    },
+    {
+      "order": 674,
+      "citation": "CCRP 905.3",
+      "title": "Sentence of death; jury findings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112909"
+    },
+    {
+      "order": 675,
+      "citation": "CCRP 905.4",
+      "title": "Aggravating circumstances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112910"
+    },
+    {
+      "order": 676,
+      "citation": "CCRP 905.5",
+      "title": "Mitigating circumstances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112911"
+    },
+    {
+      "order": 677,
+      "citation": "CCRP 905.5.1",
+      "title": "Intellectual disability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=191015"
+    },
+    {
+      "order": 678,
+      "citation": "CCRP 905.6",
+      "title": "Jury; unanimous determination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112912"
+    },
+    {
+      "order": 679,
+      "citation": "CCRP 905.7",
+      "title": "Form of determination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112913"
+    },
+    {
+      "order": 680,
+      "citation": "CCRP 905.8",
+      "title": "Imposition of sentence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112914"
+    },
+    {
+      "order": 681,
+      "citation": "CCRP 905.9",
+      "title": "Review on appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112915"
+    },
+    {
+      "order": 682,
+      "citation": "CCRP 911",
+      "title": "Right to appeal from judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112916"
+    },
+    {
+      "order": 683,
+      "citation": "CCRP 912",
+      "title": "Judgments or rulings appealable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112917"
+    },
+    {
+      "order": 684,
+      "citation": "CCRP 912.1",
+      "title": "Right of appeal and application for review; defendant",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112918"
+    },
+    {
+      "order": 685,
+      "citation": "CCRP 913",
+      "title": "Effect of appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112919"
+    },
+    {
+      "order": 686,
+      "citation": "CCRP 914",
+      "title": "Method and time of appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112920"
+    },
+    {
+      "order": 687,
+      "citation": "CCRP 914.1",
+      "title": "Designation of record; payment of costs; sanction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112921"
+    },
+    {
+      "order": 688,
+      "citation": "CCRP 915",
+      "title": "Action on a motion for appeal; return; notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112922"
+    },
+    {
+      "order": 689,
+      "citation": "CCRP 915.1",
+      "title": "Appeals; extension of return date; notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112923"
+    },
+    {
+      "order": 690,
+      "citation": "CCRP 916",
+      "title": "Divesting of jurisdiction of trial court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112924"
+    },
+    {
+      "order": 691,
+      "citation": "CCRP 917",
+      "title": "Record on appeal; preparation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112925"
+    },
+    {
+      "order": 692,
+      "citation": "CCRP 918",
+      "title": "Record on appeal; certified and dated",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112926"
+    },
+    {
+      "order": 693,
+      "citation": "CCRP 919",
+      "title": "Record on appeal; preparation and delivery of transcripts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112927"
+    },
+    {
+      "order": 694,
+      "citation": "CCRP 919.1",
+      "title": "Record on appeal; contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112928"
+    },
+    {
+      "order": 695,
+      "citation": "CCRP 920",
+      "title": "Scope of appellate review",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112929"
+    },
+    {
+      "order": 696,
+      "citation": "CCRP 921",
+      "title": "Matters not grounds for reversal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112930"
+    },
+    {
+      "order": 697,
+      "citation": "CCRP 921.1",
+      "title": "Notice of decision in criminal appeals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919661"
+    },
+    {
+      "order": 698,
+      "citation": "CCRP 922",
+      "title": "Finality of judgment on appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112931"
+    },
+    {
+      "order": 699,
+      "citation": "CCRP 923",
+      "title": "Duty of clerk as to final decisions in appellate court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112932"
+    },
+    {
+      "order": 700,
+      "citation": "CCRP 924",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112933"
+    },
+    {
+      "order": 701,
+      "citation": "CCRP 924.1",
+      "title": "Effect of appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112934"
+    },
+    {
+      "order": 702,
+      "citation": "CCRP 925",
+      "title": "Venue",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112935"
+    },
+    {
+      "order": 703,
+      "citation": "CCRP 926",
+      "title": "Petition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112936"
+    },
+    {
+      "order": 704,
+      "citation": "CCRP 926.1",
+      "title": "Application for DNA testing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112937"
+    },
+    {
+      "order": 705,
+      "citation": "CCRP 926.2",
+      "title": "Factual innocence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239817"
+    },
+    {
+      "order": 706,
+      "citation": "CCRP 926.3",
+      "title": "Motion for testing of evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239816"
+    },
+    {
+      "order": 707,
+      "citation": "CCRP 926.4",
+      "title": "Privilege waiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1429002"
+    },
+    {
+      "order": 708,
+      "citation": "CCRP 927",
+      "title": "Action required after filing of application; procedural objections; answer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112938"
+    },
+    {
+      "order": 709,
+      "citation": "CCRP 927.1",
+      "title": "Abandonment of application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1429003"
+    },
+    {
+      "order": 710,
+      "citation": "CCRP 928",
+      "title": "Repealed by Acts 2025, No. 393, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112939"
+    },
+    {
+      "order": 711,
+      "citation": "CCRP 929",
+      "title": "Summary disposition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112940"
+    },
+    {
+      "order": 712,
+      "citation": "CCRP 930",
+      "title": "Evidentiary hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112941"
+    },
+    {
+      "order": 713,
+      "citation": "CCRP 930.1",
+      "title": "Judgment granting or denying relief under Articles 928, 929, and 930",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112942"
+    },
+    {
+      "order": 714,
+      "citation": "CCRP 930.2",
+      "title": "Burden of proof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112943"
+    },
+    {
+      "order": 715,
+      "citation": "CCRP 930.3",
+      "title": "Grounds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112944"
+    },
+    {
+      "order": 716,
+      "citation": "CCRP 930.4",
+      "title": "Jurisdictional bars to relief; repetitive applications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112945"
+    },
+    {
+      "order": 717,
+      "citation": "CCRP 930.5",
+      "title": "Custody pending retrial; bail",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112946"
+    },
+    {
+      "order": 718,
+      "citation": "CCRP 930.6",
+      "title": "Review of trial court judgments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112947"
+    },
+    {
+      "order": 719,
+      "citation": "CCRP 930.7",
+      "title": "Right to counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112948"
+    },
+    {
+      "order": 720,
+      "citation": "CCRP 930.8",
+      "title": "Time limitations; exceptions; prejudicial delay",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112949"
+    },
+    {
+      "order": 721,
+      "citation": "CCRP 930.9",
+      "title": "Attendance by the petitioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=507424"
+    },
+    {
+      "order": 722,
+      "citation": "CCRP 930.10",
+      "title": "Repealed by Acts 2025, No. 393, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239813"
+    },
+    {
+      "order": 723,
+      "citation": "CCRP 930.11",
+      "title": "Time delays applicable to this Title; writ of mandamus",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1429005"
+    },
+    {
+      "order": 724,
+      "citation": "CCRP 931",
+      "title": "Courts, judges, and magistrates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112950"
+    },
+    {
+      "order": 725,
+      "citation": "CCRP 932",
+      "title": "Jurors, juries, and jury venires",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112951"
+    },
+    {
+      "order": 726,
+      "citation": "CCRP 933",
+      "title": "Offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112952"
+    },
+    {
+      "order": 727,
+      "citation": "CCRP 934",
+      "title": "Miscellaneous definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=112953"
+    },
+    {
+      "order": 728,
+      "citation": "CCRP 941",
+      "title": "Legislative findings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330426"
+    },
+    {
+      "order": 729,
+      "citation": "CCRP 942",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330427"
+    },
+    {
+      "order": 730,
+      "citation": "CCRP 943",
+      "title": "Preemption of conflicting provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330428"
+    },
+    {
+      "order": 731,
+      "citation": "CCRP 944",
+      "title": "Emergency sessions of court; criteria",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330429"
+    },
+    {
+      "order": 732,
+      "citation": "CCRP 945",
+      "title": "Venue; affected court; emergency sessions; habeas corpus",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330430"
+    },
+    {
+      "order": 733,
+      "citation": "CCRP 946",
+      "title": "Jurisdiction of affected court conducting emergency sessions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330431"
+    },
+    {
+      "order": 734,
+      "citation": "CCRP 947",
+      "title": "Affected court conducting emergency sessions; authority and powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330432"
+    },
+    {
+      "order": 735,
+      "citation": "CCRP 948",
+      "title": "Emergency sessions; length;  recision; continuation; extensions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330433"
+    },
+    {
+      "order": 736,
+      "citation": "CCRP 949",
+      "title": "Court costs and fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330434"
+    },
+    {
+      "order": 737,
+      "citation": "CCRP 950",
+      "title": "Authority of district attorney in emergency sessions of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330435"
+    },
+    {
+      "order": 738,
+      "citation": "CCRP 951",
+      "title": "Sheriff; law enforcement officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330436"
+    },
+    {
+      "order": 739,
+      "citation": "CCRP 952",
+      "title": "Clerk of affected court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330437"
+    },
+    {
+      "order": 740,
+      "citation": "CCRP 953",
+      "title": "Authority of indigent defender board in emergency sessions of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330438"
+    },
+    {
+      "order": 741,
+      "citation": "CCRP 954",
+      "title": "Jury pool; emergency sessions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330439"
+    },
+    {
+      "order": 742,
+      "citation": "CCRP 955",
+      "title": "Suspension of time limitations in affected courts; ninety days; recision; extensions; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330440"
+    },
+    {
+      "order": 743,
+      "citation": "CCRP 956",
+      "title": "Appeals; application for supervisory writs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330441"
+    },
+    {
+      "order": 744,
+      "citation": "CCRP 957",
+      "title": "Bail during emergency sessions of court; selected offenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=725174"
+    },
+    {
+      "order": 745,
+      "citation": "CCRP 958",
+      "title": "Suspension of time limitations in declared disaster, emergency, or public health emergency",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187303"
+    },
+    {
+      "order": 746,
+      "citation": "CCRP 971",
+      "title": "Legislative findings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919662"
+    },
+    {
+      "order": 747,
+      "citation": "CCRP 972",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919663"
+    },
+    {
+      "order": 748,
+      "citation": "CCRP 972.1",
+      "title": "Expungement of records; local courts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1335631"
+    },
+    {
+      "order": 749,
+      "citation": "CCRP 973",
+      "title": "Effect of expunged record of arrest or conviction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919664"
+    },
+    {
+      "order": 750,
+      "citation": "CCRP 974",
+      "title": "Dissemination of expunged records by third parties; court order",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919665"
+    },
+    {
+      "order": 751,
+      "citation": "CCRP 975",
+      "title": "Individuals incarcerated; ineligible to file motion to expunge records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919666"
+    },
+    {
+      "order": 752,
+      "citation": "CCRP 976",
+      "title": "Motion to expunge record of arrest that did not result in a conviction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919667"
+    },
+    {
+      "order": 753,
+      "citation": "CCRP 977",
+      "title": "Motion to expunge a record of arrest and conviction of a misdemeanor offense",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919669"
+    },
+    {
+      "order": 754,
+      "citation": "CCRP 978",
+      "title": "Motion to expunge record of arrest and conviction of a felony offense",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919670"
+    },
+    {
+      "order": 755,
+      "citation": "CCRP 979",
+      "title": "Service of motion to expunge a record",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919671"
+    },
+    {
+      "order": 756,
+      "citation": "CCRP 980",
+      "title": "Contradictory hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919672"
+    },
+    {
+      "order": 757,
+      "citation": "CCRP 981",
+      "title": "Judgment granting motion to expunge a record of arrest or conviction; execution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919673"
+    },
+    {
+      "order": 758,
+      "citation": "CCRP 982",
+      "title": "Service of order and judgment of expungement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919674"
+    },
+    {
+      "order": 759,
+      "citation": "CCRP 983",
+      "title": "Costs of expungement of a record; fees; collection; exemptions; disbursements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919675"
+    },
+    {
+      "order": 760,
+      "citation": "CCRP 984",
+      "title": "Additional requirements for the expungement of records involving the operation of a vehicle while intoxicated; additional fee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919676"
+    },
+    {
+      "order": 761,
+      "citation": "CCRP 985",
+      "title": "Expungement by redaction of records with references to multiple individuals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919677"
+    },
+    {
+      "order": 762,
+      "citation": "CCRP 985.1",
+      "title": "Interim motion to expunge a felony arrest from criminal history in certain cases resulting in a misdemeanor conviction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919678"
+    },
+    {
+      "order": 763,
+      "citation": "CCRP 985.2",
+      "title": "Automated expungement of qualifying records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1335802"
+    },
+    {
+      "order": 764,
+      "citation": "CCRP 985.3",
+      "title": "Immediate expungement; judicial discretion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1386721"
+    },
+    {
+      "order": 765,
+      "citation": "CCRP 986",
+      "title": "Forms for the expungement of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919679"
+    },
+    {
+      "order": 766,
+      "citation": "CCRP 987",
+      "title": "Motion to set aside conviction and dismiss prosecution; rule to show cause; order of dismissal forms to be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919680"
+    },
+    {
+      "order": 767,
+      "citation": "CCRP 988",
+      "title": "Motion for fee exemption form to be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919681"
+    },
+    {
+      "order": 768,
+      "citation": "CCRP 989",
+      "title": "Motion for expungement forms to be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919682"
+    },
+    {
+      "order": 769,
+      "citation": "CCRP 990",
+      "title": "Affidavit of response form to be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919685"
+    },
+    {
+      "order": 770,
+      "citation": "CCRP 991",
+      "title": "Order form to be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919686"
+    },
+    {
+      "order": 771,
+      "citation": "CCRP 992",
+      "title": "Order of expungement form to be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919687"
+    },
+    {
+      "order": 772,
+      "citation": "CCRP 993",
+      "title": "Supplemental forms to be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919688"
+    },
+    {
+      "order": 773,
+      "citation": "CCRP 994",
+      "title": "Motion for interim expungement form to be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919690"
+    },
+    {
+      "order": 774,
+      "citation": "CCRP 995",
+      "title": "Order of interim expungement form to be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919691"
+    },
+    {
+      "order": 775,
+      "citation": "CCRP 996",
+      "title": "Submission of expungement records to office of motor vehicles; forms to be used and completed by the clerk of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=962205"
+    },
+    {
+      "order": 776,
+      "citation": "CCRP 997",
+      "title": "Certification of human trafficking victim status",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1293462"
+    },
+    {
+      "order": 777,
+      "citation": "CCRP 998",
+      "title": "Motion for expungement form to be used for certain misdemeanor convictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1335832"
+    },
+    {
+      "order": 778,
+      "citation": "CCRP 999",
+      "title": "Expungement of arrest records for certain individuals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1386722"
+    },
+    {
+      "order": 779,
+      "citation": "CCRP 999.1",
+      "title": "Order form to be used; expedited expungement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1386723"
+    },
+    {
+      "order": 780,
+      "citation": "CCRP 1001",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106498"
+    },
+    {
+      "order": 781,
+      "citation": "CCRP 1001.1",
+      "title": "Duties of the sheriff; other law enforcement agencies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147407"
+    },
+    {
+      "order": 782,
+      "citation": "CCRP 1002",
+      "title": "Transfer of firearms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106499"
+    },
+    {
+      "order": 783,
+      "citation": "CCRP 1002.1",
+      "title": "Designation of crime of violence against family member, household member, or dating partner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147409"
+    },
+    {
+      "order": 784,
+      "citation": "CCRP 1003",
+      "title": "Transfer or storage of transferred firearms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106500"
+    },
+    {
+      "order": 785,
+      "citation": "CCRP 1003.1",
+      "title": "Public records; exception",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147410"
+    },
+    {
+      "order": 786,
+      "citation": "CCRP 1004",
+      "title": "Implementation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106501"
+    },
+    {
+      "order": 787,
+      "citation": "CCRP 1005",
+      "title": "Transfer of firearms; aggregate data collection and reporting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1293463"
+    },
+    {
+      "order": 788,
+      "citation": "CCRP 1021",
+      "title": "",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1147408"
+    }
+  ]
+}

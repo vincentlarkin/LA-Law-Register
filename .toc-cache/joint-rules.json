@@ -1,0 +1,146 @@
+{
+  "schema_version": 3,
+  "created_at_epoch": 1771968806,
+  "category_key": "joint-rules",
+  "category_name": "Joint Rules",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=74&level=Parent",
+  "bundles": [
+    {
+      "bundle_name": "Joint Rules",
+      "entries": [
+        {
+          "order": 1,
+          "citation": "JRULE 1",
+          "title": "Joint Sessions",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=212770"
+        },
+        {
+          "order": 2,
+          "citation": "JRULE 2",
+          "title": "Presentation of Bills to Governor After Sine Die Adjournment",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113416"
+        },
+        {
+          "order": 3,
+          "citation": "JRULE 3",
+          "title": "Legislative Bureau",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113417"
+        },
+        {
+          "order": 4,
+          "citation": "JRULE 4",
+          "title": "Fiscal Notes",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113418"
+        },
+        {
+          "order": 5,
+          "citation": "JRULE 5",
+          "title": "Constitutional amendment ballot language",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113419"
+        },
+        {
+          "order": 6,
+          "citation": "JRULE 6",
+          "title": "Redigest of bills",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113420"
+        },
+        {
+          "order": 7,
+          "citation": "JRULE 7",
+          "title": "Atchafalaya Basin Program Oversight Committee; membership; powers, functions, duties",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113421"
+        },
+        {
+          "order": 8,
+          "citation": "JRULE 8",
+          "title": "Joint Committees; Quorum; Vote Required; Rotation of Officers of Certain Joint Legislative Bodies",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113422"
+        },
+        {
+          "order": 9,
+          "citation": "JRULE 9",
+          "title": "Approval of the Minimum Foundation Program formula",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113423"
+        },
+        {
+          "order": 10,
+          "citation": "JRULE 10",
+          "title": "Bills recommended by the Law Institute",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113406"
+        },
+        {
+          "order": 11,
+          "citation": "JRULE 11",
+          "title": "Joint Rule No. 11. Joint Medicaid Oversight Committee; membership; powers, functions, duties",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113407"
+        },
+        {
+          "order": 12,
+          "citation": "JRULE 12",
+          "title": "Request to add or delete co-authors",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113408"
+        },
+        {
+          "order": 13,
+          "citation": "JRULE 13",
+          "title": "Interim Study Requests",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113409"
+        },
+        {
+          "order": 14,
+          "citation": "JRULE 14",
+          "title": "Allocation and use of space in the Pentagon Barracks",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113410"
+        },
+        {
+          "order": 15,
+          "citation": "JRULE 15",
+          "title": "Allocation of space in the state capitol",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113411"
+        },
+        {
+          "order": 16,
+          "citation": "JRULE 16",
+          "title": "Legislative oversight by standing committees",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113412"
+        },
+        {
+          "order": 17,
+          "citation": "JRULE 17",
+          "title": "Nongovernmental Entity Funding Request Form",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113413"
+        },
+        {
+          "order": 18,
+          "citation": "JRULE 18",
+          "title": "Limit on bill introductions; exceptions",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113414"
+        },
+        {
+          "order": 19,
+          "citation": "JRULE 19",
+          "title": "General Appropriation Bill; time limitations",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=113415"
+        },
+        {
+          "order": 20,
+          "citation": "JRULE 20",
+          "title": "Odd-numbered year session bill limitations; amendment limitations",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=405597"
+        },
+        {
+          "order": 21,
+          "citation": "JRULE 21",
+          "title": "Redistricting criteria",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=1238755"
+        },
+        {
+          "order": 22,
+          "citation": "JRULE 22",
+          "title": "Information required for consideration of appropriations bills; concurrences and conference committee reports",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=1433260"
+        }
+      ]
+    }
+  ]
+}

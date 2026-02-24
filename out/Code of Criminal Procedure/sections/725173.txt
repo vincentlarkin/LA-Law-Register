@@ -1,0 +1,26 @@
+CCRP 732.1
+Subpoena duces tecum regarding sex offenses against victims who are minors
+https://www.legis.la.gov/legis/Law.aspx?d=725173
+
+Art. 732.1.  Subpoena duces tecum regarding sex offenses against victims who are minors
+A.  The Department of Public Safety and Corrections, office of state police, the office of the attorney general, any agency that is a member of the Department of Justice Internet Crimes Against Children Task Force, or the sheriff's office investigating any sex offense as defined in R.S. 15:541 where the victim is a minor, or the offender reasonably believes that the victim is a minor, shall have the administrative authority to issue in writing and cause to be served a subpoena requiring the production and testimony described in Paragraph B of this Article upon reasonable cause to believe that an Internet service account, or online identifier as defined in R.S. 15:541(20), has been used in the commission of the offense, or in the exploitation or attempted exploitation of children.
+B.  Except as provided in Paragraph C of this Article, a subpoena issued under this Article may require the production of the following records or other documentation relevant to the investigation:
+(1)  Electronic mail address.
+(2)  Internet username.
+(3)  Internet protocol address.
+(4)  Name of account holder.
+(5)  Billing and service address.
+(6)  Telephone number.
+(7)  Account status.
+(8)  Method of access to the Internet.
+(9)  Automatic number identification records if access is by modem.
+C.  The following information shall not be subject to disclosure pursuant to an administrative subpoena issued pursuant to the provisions of this Article but shall be subject to disclosure pursuant to other lawful process:
+(1)  In-transit electronic communications.
+(2)  Account memberships related to Internet groups, newsgroups, mailing lists, or specific areas of interest.
+(3)  Account passwords.
+(4)  Account content, including electronic mail in any form, address books, contacts, financial records, web surfing history, Internet proxy content, or files or other digital documents stored with the account or pursuant to use of the account.
+D.  A subpoena issued pursuant to this Article shall describe the objects required to be produced and shall prescribe a return date with a reasonable period of time within which the objects can be assembled and made available.
+E.  If no case or proceeding arises from the production of records or other documentation pursuant to this Section and the time limitation for initiation of prosecution has expired, the Department of Public Safety and Corrections, office of state police, the sheriff's office, or the office of the attorney general shall destroy the records and documentation.
+F.  Except as provided in this Article, any information, records, or data reported or obtained pursuant to a subpoena authorized by the provisions of this Article shall remain confidential and shall not be disclosed unless in connection with a criminal case related to the subpoenaed materials.
+G.  Any administrative subpoena issued pursuant to this Article shall comply with the provisions of 18 U.S.C. 2703(c)(2).
+Acts 2010, No. 514, §1.

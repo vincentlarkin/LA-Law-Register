@@ -1,0 +1,284 @@
+{
+  "category_key": "louisiana-constitution",
+  "category_name": "Louisiana Constitution",
+  "bundle_name": "ARTICLE 6 - Local Government",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=72&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "CONST 6 1",
+      "title": "ARTICLE 6.PART I.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206480"
+    },
+    {
+      "order": 2,
+      "citation": "CONST 6 2",
+      "title": "Municipalities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206491"
+    },
+    {
+      "order": 3,
+      "citation": "CONST 6 3",
+      "title": "Classification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206502"
+    },
+    {
+      "order": 4,
+      "citation": "CONST 6 4",
+      "title": "Existing Home Rule Charters and Plans of Government",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206514"
+    },
+    {
+      "order": 5,
+      "citation": "CONST 6 5",
+      "title": "Home Rule Charter",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206520"
+    },
+    {
+      "order": 6,
+      "citation": "CONST 6 6",
+      "title": "Home Rule Charter or Plan of Government; Action by Legislature Prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206521"
+    },
+    {
+      "order": 7,
+      "citation": "CONST 6 7",
+      "title": "Powers of Other Local Governmental Subdivisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206522"
+    },
+    {
+      "order": 8,
+      "citation": "CONST 6 8",
+      "title": "Home Rule Parish; Incorporation of Cities, Towns, and Villages",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206523"
+    },
+    {
+      "order": 9,
+      "citation": "CONST 6 9",
+      "title": "Limitations of Local Governmental Subdivisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206524"
+    },
+    {
+      "order": 10,
+      "citation": "CONST 6 10",
+      "title": "Codification of Ordinances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206481"
+    },
+    {
+      "order": 11,
+      "citation": "CONST 6 11",
+      "title": "Local Officials",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206482"
+    },
+    {
+      "order": 12,
+      "citation": "CONST 6 12",
+      "title": "Local Officials; Compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206483"
+    },
+    {
+      "order": 13,
+      "citation": "CONST 6 13",
+      "title": "Vacancies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206484"
+    },
+    {
+      "order": 14,
+      "citation": "CONST 6 14",
+      "title": "Increasing Financial Burden of Political Subdivisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206485"
+    },
+    {
+      "order": 15,
+      "citation": "CONST 6 15",
+      "title": "Local Governmental Subdivisions; Control Over Agencies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206486"
+    },
+    {
+      "order": 16,
+      "citation": "CONST 6 16",
+      "title": "Special Districts and Local Public Agencies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206487"
+    },
+    {
+      "order": 17,
+      "citation": "CONST 6 17",
+      "title": "Land Use; Zoning; Historic Preservation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206488"
+    },
+    {
+      "order": 18,
+      "citation": "CONST 6 18",
+      "title": "Industrial Areas",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206489"
+    },
+    {
+      "order": 19,
+      "citation": "CONST 6 19",
+      "title": "Special Districts; Creation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206490"
+    },
+    {
+      "order": 20,
+      "citation": "CONST 6 20",
+      "title": "Intergovernmental Cooperation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206492"
+    },
+    {
+      "order": 21,
+      "citation": "CONST 6 21",
+      "title": "Assistance to Local Industry",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206493"
+    },
+    {
+      "order": 22,
+      "citation": "CONST 6 22",
+      "title": "Procedure for Certain Special Elections",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206494"
+    },
+    {
+      "order": 23,
+      "citation": "CONST 6 23",
+      "title": "Acquisition of Property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206495"
+    },
+    {
+      "order": 24,
+      "citation": "CONST 6 24",
+      "title": "Servitudes of Way; Acquisition by Prescription",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206496"
+    },
+    {
+      "order": 25,
+      "citation": "CONST 6 25",
+      "title": "Courts Not Affected",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206497"
+    },
+    {
+      "order": 26,
+      "citation": "CONST 6 26",
+      "title": "Parish Ad Valorem Tax",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206498"
+    },
+    {
+      "order": 27,
+      "citation": "CONST 6 27",
+      "title": "Municipal Ad Valorem Tax",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206499"
+    },
+    {
+      "order": 28,
+      "citation": "CONST 6 28",
+      "title": "Local Governmental Subdivisions; Occupational License Tax",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206500"
+    },
+    {
+      "order": 29,
+      "citation": "CONST 6 29",
+      "title": "Local Governmental Subdivisions and School Boards; Sales Tax",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206501"
+    },
+    {
+      "order": 30,
+      "citation": "CONST 6 30",
+      "title": "Political Subdivisions; Taxing Power",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206503"
+    },
+    {
+      "order": 31,
+      "citation": "CONST 6 30.1",
+      "title": "Bonding and Taxing Authority of Certain Political Subdivisions and Other Public Entities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206504"
+    },
+    {
+      "order": 32,
+      "citation": "CONST 6 31",
+      "title": "Taxes; Ratification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206505"
+    },
+    {
+      "order": 33,
+      "citation": "CONST 6 32",
+      "title": "Special Taxes; Authorization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206506"
+    },
+    {
+      "order": 34,
+      "citation": "CONST 6 33",
+      "title": "Political Subdivisions; General Obligation Bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206507"
+    },
+    {
+      "order": 35,
+      "citation": "CONST 6 34",
+      "title": "Limitations on Bonded Indebtedness",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206508"
+    },
+    {
+      "order": 36,
+      "citation": "CONST 6 35",
+      "title": "Contesting Political Subdivision Bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206509"
+    },
+    {
+      "order": 37,
+      "citation": "CONST 6 36",
+      "title": "Local Improvement Assessments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206510"
+    },
+    {
+      "order": 38,
+      "citation": "CONST 6 37",
+      "title": "Revenue-Producing Property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206511"
+    },
+    {
+      "order": 39,
+      "citation": "CONST 6 38",
+      "title": "Levee Districts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206512"
+    },
+    {
+      "order": 40,
+      "citation": "CONST 6 38.1",
+      "title": "Regional Flood Protection Authorities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=366500"
+    },
+    {
+      "order": 41,
+      "citation": "CONST 6 39",
+      "title": "Levee District Taxes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206513"
+    },
+    {
+      "order": 42,
+      "citation": "CONST 6 40",
+      "title": "Bond Issues",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206515"
+    },
+    {
+      "order": 43,
+      "citation": "CONST 6 41",
+      "title": "Cooperation with Federal Government",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206516"
+    },
+    {
+      "order": 44,
+      "citation": "CONST 6 42",
+      "title": "Compensation for Property Used or Destroyed; Tax",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206517"
+    },
+    {
+      "order": 45,
+      "citation": "CONST 6 43",
+      "title": "Port Commissions and Districts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206518"
+    },
+    {
+      "order": 46,
+      "citation": "CONST 6 44",
+      "title": "Terms Defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206519"
+    }
+  ]
+}

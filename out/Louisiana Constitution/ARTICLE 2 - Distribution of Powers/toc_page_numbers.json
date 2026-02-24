@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "created_at_epoch": 1771968291,
+  "html_sha256": "0c22951e76767d833fc5f924fccb3efb25a7751b99ffb945f15b4a5467e74199",
+  "scan_backend": "pymupdf",
+  "doc_ids": [
+    "206403",
+    "206404"
+  ],
+  "page_map": {
+    "206403": 2,
+    "206404": 3
+  }
+}

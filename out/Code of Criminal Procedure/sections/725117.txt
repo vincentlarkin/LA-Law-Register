@@ -1,0 +1,9 @@
+CCRP 233
+Electronic signature of offender; requirements
+https://www.legis.la.gov/legis/Law.aspx?d=725117
+
+Art. 233.  Electronic signature of offender; requirements
+A.  Law enforcement agencies are authorized to utilize the electronic signature of any offender.  The signature may be captured by any generally accepted method or process of electronic signature capture, including the use of devices which capture and convert analog writing to electronic or digital form.
+B.  If any provision of law requires a signature or any record, bail undertaking, summons, or affidavit to be signed, acknowledged, verified, or made under oath by a criminal offender, the requirement is satisfied if the electronic signature of the offender, together with all other information required to be included by other applicable law, is attached to or logically associated with the signature or record.
+C.  For purposes of this Section, "electronic signature" shall mean an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.
+Acts 2010, No. 583, §1.

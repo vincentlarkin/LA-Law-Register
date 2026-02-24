@@ -1,0 +1,341 @@
+HRULE 9.14
+Motions table
+https://www.legis.la.gov/legis/Law.aspx?d=113397
+
+Rule 9.14A.  Motions table
+The following table of rules relating to motions shall govern:
+Motion
+Debatable
+Opens Main
+Question to
+Debate
+Can be Amended
+by a Substitute
+Motion (1)
+Can be
+Reconsidered
+(14)
+Vote
+Required
+(2)
+In Order
+When
+Another
+Has Floor
+(1)
+Adjourn, fixing day and time
+No
+No
+Yes
+No
+M
+No
+(2)
+Appeal a call to order or reprimand
+No  (3)
+No
+No
+Yes  (4)
+M  (5)
+Yes
+(3)
+Appeal, all other cases
+Yes  (3, 6)
+No
+No
+Yes  (4)
+M  (5)
+Yes
+(4)
+Call from the calendar  (24)
+No  (24)
+No
+No
+No
+M
+No
+(5)
+Call from the table
+(15)
+(15)
+No
+No
+2/3
+No
+(6)
+Call to order
+No
+No
+No
+Yes
+(7)
+Yes
+(7)
+Call up a bill or resolution without
+regard to its numerical order
+No  (24)
+No
+Yes
+Yes
+M
+No
+(8)
+Commit (16)
+Yes
+Yes
+Yes
+Yes  (9)
+M
+No
+(9)
+Direct committee to report
+Yes (22)
+No
+Yes
+Yes
+ME
+No
+(10)
+End consideration of amendments
+No
+No
+No
+Yes
+M
+No
+(11)
+Leave to explain actions after
+indecorum
+No
+No
+No
+Yes
+M
+No
+(12)
+Lay on Table
+No
+No
+No
+(8)
+M
+No
+(13)
+Postpone indefinitely
+Yes
+Yes
+No
+Yes
+M
+No
+(14)
+Previous question (18)
+No
+No
+No
+No
+M
+No
+(15)
+Previous question on entire subject
+matter (11)
+No
+No
+No
+No
+M
+No
+(16)
+Reading papers
+No
+No
+No
+Yes
+M
+No
+(17)
+Recall instrument from committee &
+recommit to another committee (16)
+Yes (22)
+No
+(17)
+Yes
+ME
+No
+(18)
+Reconsider a debatable motion
+Yes
+Yes
+No
+No  (13)
+M
+No
+(19)
+Reconsider an undebatable question
+No
+No
+No
+No  (13)
+M
+No
+(20)  Refer (16)
+Yes
+Yes
+Yes
+Yes  (9)
+M
+No
+(21)
+Reject recommendation of a committee
+report - motion which effect is to
+Yes
+No
+Yes
+Yes
+ME  (21)
+No
+(22)
+Return to the calendar subject to call
+No
+No
+No
+No
+M
+No
+(23)
+Rise (in committee equals
+adjournment)
+No
+No
+No
+No
+M
+No
+(24)
+Special order - motion to place a matter
+in (10)
+Yes  (10)
+No
+Yes
+Yes
+M  (23)
+No
+(25)
+Suspend the rules (19, 20, 24)
+No  (10, 19, 24)
+No
+No
+No
+2/3 (20, 24)
+No
+(26)
+Take a recess
+No
+No
+Yes
+No
+M
+No
+(27)
+Take up order of the day
+No  (10)
+No
+No
+Yes
+(10)
+Yes
+(28)
+Withdrawal of a motion
+No
+No
+No
+Yes
+(12)
+No
+Rule 9.14B.  Explanation of Table
+"Yes" shows that the rule heading the column in which it stands applies to the motion opposite to which it is placed.  "No" shows that the rule does not apply.  A figure
+shows that the rule only partially applies – the figure referring to the note showing the limitation.  Take, for example, "Lay on the Table."  The table shows that it is undebatable,
+does not open main question, cannot be amended, an affirmative vote as shown by note No. 8 cannot be reconsidered, requires a majority vote, and is not in order when another
+has the floor.
+Rule 9.14C.  Notes to table relating to motions
+The following notes are applicable to the motions table in Paragraph A above:
+1.  Since motions are never amended in the House, this heading is somewhat
+misleading.  What is meant is that the motion can be altered in some respect by a substitute
+motion – for example, the motion to lay on the table cannot be altered by a substitute motion,
+but the motion to fix the time and day to which to adjourn can be altered by a substitute
+motion by naming another day and/or time.
+2.  Vote required: M – Majority of those present; ME – Majority of elected members;
+2/3 – two-thirds of those present.
+3.  An appeal is undebatable only when relating to indecorum or to transgressions of
+the rules of speaking or to the priority of business or made while the previous question is
+pending.
+4.  An appeal may be reconsidered, but when the subject matter upon which the
+appeal was taken has been disposed of, and it is impossible for the House to reverse its
+action, it is too late to move to reconsider the appeal.
+5.  A tie vote sustains the ruling of the Chair, regardless of whether the question is
+put to sustain or overrule the Chair, since a majority is required to overrule.  Any sustained
+ruling of the chair may not be appealed on the same legislative day on the same point of
+order, except by a 2/3rds vote.
+6.  No member shall speak more than once on an appeal unless by leave of the House
+(House Rule 9.12).  See also Note 3, supra.
+7.  If any member, in speaking or otherwise, transgresses the rules of the House, the
+presiding officer shall, or any member may, call him to order (House Rule 5.2).
+8.  An affirmative vote on this motion cannot be reconsidered.
+9.  Cannot be reconsidered when in committee (House Rule 6.13).  House Rule 6.13
+sets forth procedures to effect a mandatory report by committee or discharge and
+recommittal.
+10.  To take up the Order of the Day is a matter of right; it would require a vote
+equivalent to a suspension of the rules to proceed otherwise.  Generally questions regarding
+the priority of business are not debatable; however, a motion to suspend House Rule 8.6
+regarding the order of business and the placement of a legislative instrument on special order
+for the succeeding day is debatable.
+11.  The previous question on the entire subject matter, if adopted, cuts off debate and
+brings the House to a vote on the pending questions in their order until the main question is
+reached, which shall be at once disposed of.  But its only effect, if a motion "to postpone"
+is pending, is to bring the House to a vote upon such motion.  Motion for previous question
+on the entire subject matter is not applicable in the Committee of the Whole.
+12.  A matter of right, except in the case of the motion to reconsider (See House Rule
+9.2).
+13.  A motion which has been reconsidered cannot be reconsidered a second time
+(House Rule 9.11).
+14.  A rejected motion, although it be of a class that cannot be reconsidered, can
+nonetheless be renewed, after progress in debate or the transaction of any business, provided
+the renewal is not dilatory.
+15.  See House Rule 9.9(B).
+16.  Motion to refer to another committee is not in order unless the author and chair
+of committee of original referral are in the chamber  (See House Rule 6.5 and, for prefiled
+bills, House Rule 7.2).
+17.  Motion to recall or discharge an instrument from committee cannot be amended;
+however, the motion to recommit an instrument to another committee can be amended.
+18.  Motion for previous question is not in order when offered by a member who has
+made a motion subject to debate or by a member at the conclusion of speaking on the motion
+under debate, nor if members in opposition to the main motion have requested to speak and
+at least one member in opposition to the main motion has not been recognized to speak  (See
+House Rule 9.10(H)).
+19.  Motion to suspend House Rule 6.10(B) regarding rescheduling deferred
+legislation in committee is a debatable motion.
+20.  House Rule 8.15(C) allows certain time limitations and procedural requirements
+contained in House Rule 8.15(B), relative to a conference committee report on the General
+Appropriation Bill, to be waived by a majority vote of the elected members (ME).
+21.  Motion the effect of which is to reject the recommendation of a committee report
+on a legislative instrument requires a majority of the elected members, except for a motion
+to recommit, postpone indefinitely, or withdraw from the files of the House which requires
+a majority of those present and voting (See House Rule 6.11(D)).
+22.  It is not in order to debate the merits of the legislation; debate must be confined
+strictly to the motion.
+23.  Additionally requires the recommendation of placement of the legislative
+instrument on Special Order by the standing committee which reported the instrument.
+Changing the order of precedence of legislative instruments on Special Order requires a vote
+of 2/3rds of those present.
+24.  House Rule 8.23 relative to the consideration of conference committee reports
+requires the question of consideration of a conference committee report to lie over until the
+next legislative day after the receipt of the conference committee report and provides that a
+motion to suspend such requirement on the last legislative day of a session requires the
+favorable vote of a majority of the elected members (ME).  A motion to suspend the
+provisions of House Rule 8.23(B), which includes the requirements that the question of the
+consideration a conference committee report lie over until the next legislative day after the
+receipt of the conference committee report and that the Clerk place each conference
+committee report on the calender in the order in which it is received, is a debatable motion.
+HR 45, 1998, eff. May 20, 1998; HR 4, 2006 2
+nd
+Ex. Sess., eff. Dec. 13, 2006.

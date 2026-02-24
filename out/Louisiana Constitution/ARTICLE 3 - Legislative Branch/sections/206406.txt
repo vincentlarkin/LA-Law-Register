@@ -1,0 +1,8 @@
+CONST 3 10
+Quorum; Compulsory Attendance; Journal; Adjournment With Consent of Other House
+https://www.legis.la.gov/legis/Law.aspx?d=206406
+
+§10.  Quorum; Compulsory Attendance; Journal; Adjournment With Consent of Other House
+Section 10.(A)  Quorum.  Not less than a majority of the elected members of each house shall form a quorum to transact business, but a smaller number may adjourn from day-to-day and may compel the attendance of absent members.
+(B)  Journal.  Each house shall keep a journal of its proceedings and have it published immediately after the close of each session.  The journal shall accurately reflect the proceedings of that house, including all record votes.  A record vote is a vote by yeas and nays, with each member's vote published in the journal.
+(C)  Adjournment.  When the legislature is in session, neither house shall adjourn for more than three days or to another place without consent of the other house.

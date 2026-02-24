@@ -1,0 +1,638 @@
+{
+  "schema_version": 3,
+  "created_at_epoch": 1771968760,
+  "category_key": "code-of-evidence",
+  "category_name": "Code of Evidence",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=70&level=Parent",
+  "bundles": [
+    {
+      "bundle_name": "Code of Evidence",
+      "entries": [
+        {
+          "order": 1,
+          "citation": "CE 101",
+          "title": "Scope",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72436"
+        },
+        {
+          "order": 2,
+          "citation": "CE 102",
+          "title": "Purpose and construction",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72437"
+        },
+        {
+          "order": 3,
+          "citation": "CE 103",
+          "title": "Rulings on evidence",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72438"
+        },
+        {
+          "order": 4,
+          "citation": "CE 104",
+          "title": "Preliminary questions",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72439"
+        },
+        {
+          "order": 5,
+          "citation": "CE 105",
+          "title": "Limited admissibility",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72440"
+        },
+        {
+          "order": 6,
+          "citation": "CE 201",
+          "title": "Judicial notice of adjudicative facts generally",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72445"
+        },
+        {
+          "order": 7,
+          "citation": "CE 202",
+          "title": "Judicial notice of legal matters",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72446"
+        },
+        {
+          "order": 8,
+          "citation": "CE 301",
+          "title": "Scope of Chapter",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72447"
+        },
+        {
+          "order": 9,
+          "citation": "CE 302",
+          "title": "Definitions",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72448"
+        },
+        {
+          "order": 10,
+          "citation": "CE 303",
+          "title": "Conclusive presumptions",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72449"
+        },
+        {
+          "order": 11,
+          "citation": "CE 304",
+          "title": "Rebuttable presumptions",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72450"
+        },
+        {
+          "order": 12,
+          "citation": "CE 305",
+          "title": "Effect of presumptions if there is no controverting evidence",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72451"
+        },
+        {
+          "order": 13,
+          "citation": "CE 306",
+          "title": "Effect of presumptions if there is controverting evidence",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72452"
+        },
+        {
+          "order": 14,
+          "citation": "CE 306.1",
+          "title": "Presumption of causation of injuries",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=1428930"
+        },
+        {
+          "order": 15,
+          "citation": "CE 307",
+          "title": "Jury instructions",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72453"
+        },
+        {
+          "order": 16,
+          "citation": "CE 308",
+          "title": "Effect of the term \"prima facie\" in legislation",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72454"
+        },
+        {
+          "order": 17,
+          "citation": "CE 401",
+          "title": "Definition of \"relevant evidence\"",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72455"
+        },
+        {
+          "order": 18,
+          "citation": "CE 402",
+          "title": "Relevant evidence generally admissible; irrelevant evidence inadmissible",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72456"
+        },
+        {
+          "order": 19,
+          "citation": "CE 403",
+          "title": "Exclusion of relevant evidence on grounds of prejudice, confusion, or waste of time",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72457"
+        },
+        {
+          "order": 20,
+          "citation": "CE 404",
+          "title": "Character evidence generally not admissible in civil or criminal trial to prove conduct; exceptions; other criminal acts",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72458"
+        },
+        {
+          "order": 21,
+          "citation": "CE 405",
+          "title": "Methods of proving character",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72459"
+        },
+        {
+          "order": 22,
+          "citation": "CE 406",
+          "title": "Habit; routine practice; methods of proof",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72460"
+        },
+        {
+          "order": 23,
+          "citation": "CE 407",
+          "title": "Subsequent remedial measures",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72461"
+        },
+        {
+          "order": 24,
+          "citation": "CE 408",
+          "title": "Compromise and offers to compromise",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72462"
+        },
+        {
+          "order": 25,
+          "citation": "CE 409",
+          "title": "Payment of medical and similar expenses",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72463"
+        },
+        {
+          "order": 26,
+          "citation": "CE 410",
+          "title": "Inadmissibility of pleas, plea discussions, and related statements",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72464"
+        },
+        {
+          "order": 27,
+          "citation": "CE 411",
+          "title": "Liability insurance",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72465"
+        },
+        {
+          "order": 28,
+          "citation": "CE 412",
+          "title": "Victim's past sexual behavior in sexual assault cases; trafficking offenses",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72466"
+        },
+        {
+          "order": 29,
+          "citation": "CE 412.1",
+          "title": "Victim's attire in sexual assault cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72467"
+        },
+        {
+          "order": 30,
+          "citation": "CE 412.2",
+          "title": "Evidence of similar crimes, wrongs, or acts in sex offense cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72468"
+        },
+        {
+          "order": 31,
+          "citation": "CE 412.3",
+          "title": "Statements made by victims of trafficking during investigations",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=918127"
+        },
+        {
+          "order": 32,
+          "citation": "CE 412.4",
+          "title": "Evidence of similar crimes, wrongs, or acts in domestic abuse cases, cruelty against juveniles cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=1015123"
+        },
+        {
+          "order": 33,
+          "citation": "CE 412.5",
+          "title": "Evidence of similar crimes, wrongs, or acts in certain civil cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=1106189"
+        },
+        {
+          "order": 34,
+          "citation": "CE 413",
+          "title": "Settlement or tender",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72469"
+        },
+        {
+          "order": 35,
+          "citation": "CE 414",
+          "title": "Worker's compensation payments",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72470"
+        },
+        {
+          "order": 36,
+          "citation": "CE 415",
+          "title": "Act of contacting or retaining an attorney",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72471"
+        },
+        {
+          "order": 37,
+          "citation": "CE 501",
+          "title": "Scope of privileges",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72472"
+        },
+        {
+          "order": 38,
+          "citation": "CE 502",
+          "title": "Waiver of privilege",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72473"
+        },
+        {
+          "order": 39,
+          "citation": "CE 503",
+          "title": "Comment on or inference from claim of privilege; instructions; exception",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72474"
+        },
+        {
+          "order": 40,
+          "citation": "CE 504",
+          "title": "Spousal confidential communications privilege",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72475"
+        },
+        {
+          "order": 41,
+          "citation": "CE 505",
+          "title": "Spousal witness privilege",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72476"
+        },
+        {
+          "order": 42,
+          "citation": "CE 506",
+          "title": "Lawyer-client privilege",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72477"
+        },
+        {
+          "order": 43,
+          "citation": "CE 507",
+          "title": "Subpoena of lawyer or his representative in criminal cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72478"
+        },
+        {
+          "order": 44,
+          "citation": "CE 508",
+          "title": "Subpoena of lawyer or his representative in civil cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72479"
+        },
+        {
+          "order": 45,
+          "citation": "CE 509",
+          "title": "Work product rule not affected",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72480"
+        },
+        {
+          "order": 46,
+          "citation": "CE 510",
+          "title": "Health care provider-patient privilege",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72481"
+        },
+        {
+          "order": 47,
+          "citation": "CE 511",
+          "title": "Communications to clergymen",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72482"
+        },
+        {
+          "order": 48,
+          "citation": "CE 512",
+          "title": "Political vote",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72483"
+        },
+        {
+          "order": 49,
+          "citation": "CE 513",
+          "title": "Trade secrets",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72484"
+        },
+        {
+          "order": 50,
+          "citation": "CE 514",
+          "title": "Identity of informer",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72485"
+        },
+        {
+          "order": 51,
+          "citation": "CE 515",
+          "title": "Accountant-client privilege",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72486"
+        },
+        {
+          "order": 52,
+          "citation": "CE 516",
+          "title": "Subpoena of accountant or his representative in criminal cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72487"
+        },
+        {
+          "order": 53,
+          "citation": "CE 517",
+          "title": "Subpoena of accountant; civil, juvenile, administrative proceedings",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72488"
+        },
+        {
+          "order": 54,
+          "citation": "CE 518",
+          "title": "Trained peer support member privilege",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=181167"
+        },
+        {
+          "order": 55,
+          "citation": "CE 519",
+          "title": "Subpoena of judge or his representative in civil and criminal cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=815628"
+        },
+        {
+          "order": 56,
+          "citation": "CE 601",
+          "title": "General rule of competency",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72489"
+        },
+        {
+          "order": 57,
+          "citation": "CE 602",
+          "title": "Lack of personal knowledge",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72490"
+        },
+        {
+          "order": 58,
+          "citation": "CE 603",
+          "title": "Oath or affirmation",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72491"
+        },
+        {
+          "order": 59,
+          "citation": "CE 604",
+          "title": "Interpreters",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72492"
+        },
+        {
+          "order": 60,
+          "citation": "CE 604.1",
+          "title": "Qualifications of interpreters; interpretations",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=1387037"
+        },
+        {
+          "order": 61,
+          "citation": "CE 605",
+          "title": "Disqualification of judge as witness",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72493"
+        },
+        {
+          "order": 62,
+          "citation": "CE 606",
+          "title": "Disqualification of juror as witness",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72494"
+        },
+        {
+          "order": 63,
+          "citation": "CE 607",
+          "title": "Attacking and supporting credibility generally",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72495"
+        },
+        {
+          "order": 64,
+          "citation": "CE 608",
+          "title": "Attacking or supporting credibility by character evidence",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72496"
+        },
+        {
+          "order": 65,
+          "citation": "CE 609",
+          "title": "Attacking credibility by evidence of conviction of crime in civil cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72497"
+        },
+        {
+          "order": 66,
+          "citation": "CE 609.1",
+          "title": "Attacking credibility by evidence of conviction of crime in criminal cases",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72498"
+        },
+        {
+          "order": 67,
+          "citation": "CE 610",
+          "title": "",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72499"
+        },
+        {
+          "order": 68,
+          "citation": "CE 611",
+          "title": "Mode and order of interrogation and presentation",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72500"
+        },
+        {
+          "order": 69,
+          "citation": "CE 612",
+          "title": "Writing used to refresh memory",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72501"
+        },
+        {
+          "order": 70,
+          "citation": "CE 613",
+          "title": "Foundation for extrinsic attack on credibility",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72502"
+        },
+        {
+          "order": 71,
+          "citation": "CE 614",
+          "title": "Calling and questioning of witnesses by court",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72503"
+        },
+        {
+          "order": 72,
+          "citation": "CE 615",
+          "title": "Exclusion of witnesses",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72504"
+        },
+        {
+          "order": 73,
+          "citation": "CE 701",
+          "title": "Opinion testimony by lay witnesses",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72505"
+        },
+        {
+          "order": 74,
+          "citation": "CE 702",
+          "title": "Testimony by experts",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72506"
+        },
+        {
+          "order": 75,
+          "citation": "CE 703",
+          "title": "Bases of opinion testimony by experts",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72507"
+        },
+        {
+          "order": 76,
+          "citation": "CE 704",
+          "title": "Opinion on ultimate issue",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72508"
+        },
+        {
+          "order": 77,
+          "citation": "CE 705",
+          "title": "Disclosure of facts or data underlying expert opinion; foundation",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72509"
+        },
+        {
+          "order": 78,
+          "citation": "CE 706",
+          "title": "Court appointed experts",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72510"
+        },
+        {
+          "order": 79,
+          "citation": "CE 801",
+          "title": "Definitions",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72511"
+        },
+        {
+          "order": 80,
+          "citation": "CE 802",
+          "title": "Hearsay rule",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72512"
+        },
+        {
+          "order": 81,
+          "citation": "CE 803",
+          "title": "Hearsay exceptions; availability of declarant immaterial",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72513"
+        },
+        {
+          "order": 82,
+          "citation": "CE 803.1",
+          "title": "Hearsay exceptions; foreign records of regularly conducted activity",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=508439"
+        },
+        {
+          "order": 83,
+          "citation": "CE 804",
+          "title": "Hearsay exceptions; declarant unavailable",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72514"
+        },
+        {
+          "order": 84,
+          "citation": "CE 805",
+          "title": "Hearsay within hearsay",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72515"
+        },
+        {
+          "order": 85,
+          "citation": "CE 806",
+          "title": "Attacking and supporting credibility of declarant",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72516"
+        },
+        {
+          "order": 86,
+          "citation": "CE 901",
+          "title": "Requirement of authentication or identification",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72517"
+        },
+        {
+          "order": 87,
+          "citation": "CE 902",
+          "title": "Self-authentication",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72518"
+        },
+        {
+          "order": 88,
+          "citation": "CE 903",
+          "title": "Subscribing witness' testimony unnecessary",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72519"
+        },
+        {
+          "order": 89,
+          "citation": "CE 904",
+          "title": "Self-authentication of copies of public documents",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72520"
+        },
+        {
+          "order": 90,
+          "citation": "CE 905",
+          "title": "Self-authentication of other public records",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72521"
+        },
+        {
+          "order": 91,
+          "citation": "CE 1001",
+          "title": "Definitions",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72427"
+        },
+        {
+          "order": 92,
+          "citation": "CE 1002",
+          "title": "Requirement of original",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72428"
+        },
+        {
+          "order": 93,
+          "citation": "CE 1003",
+          "title": "Admissibility of duplicates",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72429"
+        },
+        {
+          "order": 94,
+          "citation": "CE 1003.1",
+          "title": "Electronic duplicates",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72430"
+        },
+        {
+          "order": 95,
+          "citation": "CE 1004",
+          "title": "Admissibility of other evidence of contents",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72431"
+        },
+        {
+          "order": 96,
+          "citation": "CE 1005",
+          "title": "Public records",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72432"
+        },
+        {
+          "order": 97,
+          "citation": "CE 1006",
+          "title": "Summaries",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72433"
+        },
+        {
+          "order": 98,
+          "citation": "CE 1007",
+          "title": "Testimony or written admission of party",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72434"
+        },
+        {
+          "order": 99,
+          "citation": "CE 1008",
+          "title": "Functions of court and jury",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72435"
+        },
+        {
+          "order": 100,
+          "citation": "CE 1101",
+          "title": "Applicability",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72441"
+        },
+        {
+          "order": 101,
+          "citation": "CE 1102",
+          "title": "Title",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72442"
+        },
+        {
+          "order": 102,
+          "citation": "CE 1103",
+          "title": "Repealed by Acts 1995, No. 1300, 2.",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72443"
+        },
+        {
+          "order": 103,
+          "citation": "CE 1104",
+          "title": "State v. Prieur; pretrial; burden of proof",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=72444"
+        },
+        {
+          "order": 104,
+          "citation": "CE 1105",
+          "title": "Burden of proof; civil proceedings",
+          "url": "https://www.legis.la.gov/legis/Law.aspx?d=1387040"
+        }
+      ]
+    }
+  ]
+}
