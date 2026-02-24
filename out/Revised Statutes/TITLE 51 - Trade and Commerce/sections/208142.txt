@@ -1,0 +1,11 @@
+RS 51:3063
+Net energy metering
+https://www.legis.la.gov/legis/Law.aspx?d=208142
+
+§3063.  Net energy metering
+A.  An electric utility that offers residential or commercial electrical service, or both, shall allow net energy metering facilities to be interconnected using a meter capable of registering the flow of electricity in two directions.
+B.  The commission, after notice and opportunity for public comment:
+(1)  Shall establish appropriate rates, terms, and conditions for net energy metering contracts.
+(2)  Shall authorize an electric utility to assess a net energy metering customer a greater fee or charge, of any type, if the electric utility's direct costs of interconnection and administration of net energy metering outweigh the distribution system, environmental, and public policy benefits of allocating the cost among the electric utility's entire customer base.  The net metering customer shall reimburse the utility for any costs in excess of those to serve a traditional customer.
+C.  Nothing in this Chapter shall derogate from the commission's constitutional authority to regulate, as applicable, all common carriers and public utilities, particularly the authority to implement rules, regulations, and tariffs to ensure that neither an electric utility nor its ratepayers shall be adversely affected, or to subsidize activities authorized under this Chapter.
+Acts 2003, No. 653, §1, eff. Oct. 1, 2003; Acts 2008, No. 543, §1, eff. June 30, 2008.

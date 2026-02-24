@@ -1,0 +1,15 @@
+RS 23:77
+Workforce system information technology; principles and information sharing
+https://www.legis.la.gov/legis/Law.aspx?d=631135
+
+§77.  Workforce system information technology; principles and information sharing
+A.  The following principles shall guide the development and management of workforce system information resources:
+(1)  Workforce system entities shall be committed to information sharing.
+(2)  Cooperative planning by workforce system entities is a prerequisite for the effective development of systems to enable the sharing of data.
+(3)  Workforce system entities shall maximize public access to data, while complying with legitimate security, privacy, and confidentiality requirements.
+(4)  When the capture of data for the mutual benefit of workforce system entities can be accomplished, the costs for capturing, managing, and disseminating those data should be shared.
+(5)  The redundant capture of data shall, insofar as possible, be eliminated.
+(6)  Only data that are auditable or that otherwise can be determined to be accurate, valid, and reliable shall be maintained in workforce information systems.
+(7)  The design of workforce information systems shall support technological flexibility for users without compromising system integration or data integrity, be based upon open standards, and use platform-independent technologies to the fullest extent possible.
+B.  Information that is essential to the integrated delivery of services through the one-stop delivery system shall be shared between partner agencies within the workforce system to the full extent permitted under state and federal law.
+Acts 2008, No. 743, §2, eff. July 1, 2008.

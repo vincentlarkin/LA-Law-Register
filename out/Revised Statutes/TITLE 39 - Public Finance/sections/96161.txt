@@ -1,0 +1,65 @@
+RS 39:1752
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=96161
+
+§1752.  Definitions
+For the purposes of this Part, the following words and phrases shall be defined as
+follows:
+(1)  "Agency" as used in this Part and in Part V of Chapter 1 of this Title shall have
+the same meaning ascribed to it as provided in R.S. 36:3(1).
+(2)  "Competitive sealed bidding" means a method of procurement which strictly
+follows the requirements set forth in this Chapter except for such variations as are
+specifically established in this Part.
+(3)  "Local area network" means a limited distance data processing/communications
+network or system used to link computers and peripheral devices.
+(4)  "Multi-year contracts" are contracts for a term of more than one year, not to
+exceed ten years.
+(5)  "Procurement" means the selling, buying, purchasing, renting, leasing, or
+otherwise obtaining telecommunications systems, telecommunications services, or their
+related software as well as all activities engaged in, resulting in, or expected to result in the
+selling, buying, purchasing, renting, leasing, or otherwise obtaining telecommunications
+systems, telecommunications services, or their related software by the state or its agencies.
+(6)  "Software" means computer programs and documentation essential to and
+necessary for a telecommunications system or telecommunications service to perform
+productive operations.
+(7)  "Telecommunications service contract" means a contract for the procurement of
+telecommunications services to include but not be limited to long distance, pay telephone,
+radio paging, and utility-type services such as local dial tone.
+(8)  "Telecommunications systems", which shall include telecommunications
+equipment and related services, and "telecommunications services" are limited to the
+equipment and services and means to provide:
+(a)  Telecommunications transmission facilities and services.
+(b)  Voice telecommunications systems and services.
+(c)  Local area network systems and services.
+(d)  Wide area network systems and services.
+(e)  Video systems and services, except those video systems and services specifically
+reserved to the Louisiana Educational Television Authority pursuant to R.S. 17:2501.
+(f)  Wireless systems and services to include, but not be limited to, cellular and
+personal communications systems.
+(g)  Radio systems, to include but not be limited to two-way radio systems; however,
+the operational abilities and priorities of two-way communications of the departments in the
+executive branch shall not be impeded.
+(h)  Intercom and electro-mechanical paging systems.
+(i)  Any and all systems and services based on emerging and future
+telecommunications technologies relating to Subparagraphs (a) through (h) of this Paragraph.
+(9)  "Telecommunications systems contract" means a contract for the procurement
+of telecommunications systems including equipment and related services to include but not
+be limited to installation and maintenance.
+(10)  "Telecommunications systems lease contract" means a contract between a
+supplier of telecommunications systems and the division of administration, office of
+telecommunications management, or the procuring agency, through which
+telecommunications systems may be procured for a term which shall not exceed ten years.
+The contract may be either an operating lease, installment purchase, or a financed lease
+without a balloon payment.
+(11)  "Telecommunications transmission facility" means any transmission medium,
+switch, instrument, wiring system, or other facility which is used, in whole or in part, to
+provide any transmission.
+(12)  "Utility" means any telecommunications service provided by the office of
+telecommunications management and used in the essential operations of a state agency, such
+as local dial tone, wide area network, and local area network.
+(13)  "Wide area network" means a data processing/communications network or
+system generally utilizing common carrier facilities to link geographically dispersed local
+area networks to other local area networks or computer systems.
+Added by Acts 1982, No. 152, §1, eff. July 12, 1982; Acts 1986, No. 778, §1; Acts
+1989, No. 745, §1; Acts 1990, No. 876, §1; Acts 1997, No. 1098, §1, eff. July 14, 1997; Acts
+2001, No. 772, §3, eff. July 1, 2001; Acts 2014, No. 864, §2, eff. Jan. 1, 2015.

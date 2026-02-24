@@ -1,0 +1,28 @@
+RS 40:1173.5
+Release of information
+https://www.legis.la.gov/legis/Law.aspx?d=964733
+
+§1173.5. Release of information
+A. To ensure the privacy and protection of Louisianans' health information, the
+department shall not release confidential or protected health information collected from
+hospitals and other healthcare providers pursuant to this Subpart. The department shall
+adhere to and comply fully with appropriate privacy protection protocols that are at least as
+stringent as the HIPAA Privacy Rule.
+B. Notwithstanding Subsection A of this Section, the department may release data
+collected pursuant to this Subpart for the purpose of conducting healthcare research which
+is a systematic investigation, including research development, testing, and evaluation,
+designed to develop or contribute to generalizable knowledge. All requests for data collected
+pursuant to this Subpart shall be submitted to the department and reviewed by the
+department's Institutional Review Board. The department shall deny any requests for data
+that it determines will be utilized for business or commercial purposes, including but not
+limited to market analysis and software development. The department shall have one
+representative of the provider group whose data is subject to the data release on the
+Institutional Review Board.
+C. Each data request shall state the proposed use of the data requested and include
+an affirmation by the recipient that no attempt will be made to combine patient-level data
+provided for in the request with other data to identify patients and that no confidential
+information shall be released.
+D. The department shall inform the Health Data Panel prior to the release of
+requested data collected pursuant to this Subpart.
+Acts 2014, No. 790, §1; Redesignated from R.S. 40:1300.115 by HCR 84 of 2015
+R.S.; Acts 2018, No. 206, §4.

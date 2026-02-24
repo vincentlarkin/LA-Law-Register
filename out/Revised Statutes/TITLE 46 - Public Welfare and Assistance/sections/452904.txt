@@ -1,0 +1,22 @@
+RS 46:978.1
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=452904
+
+§978.1.  Definitions
+As used in this Chapter, the following definitions shall apply:
+(1)  "Department" shall mean the Louisiana Department of Health.
+(2) "Health information technology" shall mean information technology used in
+health care, including but not limited to electronic health records or electronic medical
+records, computerized physician order entry, health information exchange, telehealth, and
+other relevant information technology deemed appropriate by the secretary of the department.
+(3)  "Medical home system of care" shall mean a health care delivery system that is
+patient and family centered and is guided by a personal primary care provider who
+coordinates and facilitates preventive and primary care that improves patient outcomes in the
+most cost-efficient manner possible.  By providing a coordinated continuum of care, the cost
+of the current health care delivery system shall be reduced, health outcomes shall improve,
+and the disparities in access to health care among the state's populations shall be reduced.
+The medical home system of care shall consist of an integrated system of public, private, or
+public and private primary care providers, specialty care groups, and hospital providers that
+are willing to participate in the integrated system and meet participation criteria.
+(4)  "Secretary" shall mean the secretary of the Louisiana Department of Health.
+Acts 2007, No. 243, §1; Acts 2023, No. 322, §5, eff. Jan. 1, 2024.

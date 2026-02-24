@@ -1,0 +1,10 @@
+RS 23:487
+Rate of decompression
+https://www.legis.la.gov/legis/Law.aspx?d=83920
+
+§487.  Rate of decompression
+The rate of decompression for a person working in compressed air shall be as follows:
+(1)  Where the air pressure is greater than normal and less than fifteen pounds per square inch, decompression shall be at the minimum rate of three pounds per minute.
+(2)  Where the air pressure is fifteen or over and less than twenty pounds to the square inch, the minimum rate of decompression shall be two pounds per minute.
+(3)  Where the air pressure is twenty pounds or over and less than thirty pounds to the square inch, decompression shall be at the minimum rate of three pounds every two minutes.
+(4)  Where the air pressure is thirty pounds or over per square inch, the minimum rate of decompression shall be a pound per minute.

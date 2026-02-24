@@ -1,0 +1,2198 @@
+{
+  "category_key": "revised-statutes",
+  "category_name": "Revised Statutes",
+  "bundle_name": "TITLE 28 - Mental Health",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "RS 28:1",
+      "title": "TITLE 28.  BEHAVIORAL HEALTH",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85089"
+    },
+    {
+      "order": 2,
+      "citation": "RS 28:2",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85112"
+    },
+    {
+      "order": 3,
+      "citation": "RS 28:3",
+      "title": "Application of Chapter; costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85167"
+    },
+    {
+      "order": 4,
+      "citation": "RS 28:4",
+      "title": "Behavioral healthcare information; records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670757"
+    },
+    {
+      "order": 5,
+      "citation": "RS 28:11",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85127"
+    },
+    {
+      "order": 6,
+      "citation": "RS 28:12",
+      "title": "Legislative declaration of intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815067"
+    },
+    {
+      "order": 7,
+      "citation": "RS 28:13",
+      "title": "Management of behavioral health resources",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815069"
+    },
+    {
+      "order": 8,
+      "citation": "RS 28:14",
+      "title": "Funding priorities; cost-effectiveness",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815070"
+    },
+    {
+      "order": 9,
+      "citation": "RS 28:15",
+      "title": "Innovative behavioral health services; programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815071"
+    },
+    {
+      "order": 10,
+      "citation": "RS 28:20",
+      "title": "Admission to Louisiana Department of Health facilities; legislative findings; criteria",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206091"
+    },
+    {
+      "order": 11,
+      "citation": "RS 28:21",
+      "title": "State psychiatric hospitals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85120"
+    },
+    {
+      "order": 12,
+      "citation": "RS 28:21.1",
+      "title": "Substance-related and addictive disorders; treatment in state psychiatric hospitals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85121"
+    },
+    {
+      "order": 13,
+      "citation": "RS 28:22",
+      "title": "Crisis response system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85125"
+    },
+    {
+      "order": 14,
+      "citation": "RS 28:22.4",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85128"
+    },
+    {
+      "order": 15,
+      "citation": "RS 28:22.5",
+      "title": "Community behavioral health clinics; behavioral health services providers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85129"
+    },
+    {
+      "order": 16,
+      "citation": "RS 28:22.6",
+      "title": "Payment for maintenance or treatment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85130"
+    },
+    {
+      "order": 17,
+      "citation": "RS 28:22.7",
+      "title": "Geriatric hospitals and units",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85131"
+    },
+    {
+      "order": 18,
+      "citation": "RS 28:22.8",
+      "title": "State developmental centers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85132"
+    },
+    {
+      "order": 19,
+      "citation": "RS 28:22.9",
+      "title": "Rosenblum Mental Health Center",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85133"
+    },
+    {
+      "order": 20,
+      "citation": "RS 28:22.10",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85126"
+    },
+    {
+      "order": 21,
+      "citation": "RS 28:23",
+      "title": "Psychiatric inpatient units in state general hospitals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85143"
+    },
+    {
+      "order": 22,
+      "citation": "RS 28:24",
+      "title": "Repealed by Acts 1978, No. 786, 7, eff. July 17, 1978",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85152"
+    },
+    {
+      "order": 23,
+      "citation": "RS 28:25",
+      "title": "Provisions for close confinement of certain patients who have a mental illness",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85163"
+    },
+    {
+      "order": 24,
+      "citation": "RS 28:25.1",
+      "title": "Establishment of Feliciana Forensic Facility; authorization to establish forensic facilities in New Orleans, Baton Rouge, Shreveport, and Alexandria",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85164"
+    },
+    {
+      "order": 25,
+      "citation": "RS 28:25.2",
+      "title": "Granting of passes to Feliciana Forensic Facility clients",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85165"
+    },
+    {
+      "order": 26,
+      "citation": "RS 28:26",
+      "title": "Psychiatric facility; forensic facility; prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85166"
+    },
+    {
+      "order": 27,
+      "citation": "RS 28:31",
+      "title": "Findings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631118"
+    },
+    {
+      "order": 28,
+      "citation": "RS 28:32",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631119"
+    },
+    {
+      "order": 29,
+      "citation": "RS 28:33",
+      "title": "Licensure of forensic supervised transitional residential and aftercare facilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631120"
+    },
+    {
+      "order": 30,
+      "citation": "RS 28:34",
+      "title": "Rules and regulations; licensing standards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631121"
+    },
+    {
+      "order": 31,
+      "citation": "RS 28:35",
+      "title": "License issuance; application; on-site inspection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631123"
+    },
+    {
+      "order": 32,
+      "citation": "RS 28:36",
+      "title": "License renewal; failure to timely renew",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631124"
+    },
+    {
+      "order": 33,
+      "citation": "RS 28:37",
+      "title": "Operation without license; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631125"
+    },
+    {
+      "order": 34,
+      "citation": "RS 28:50",
+      "title": "Declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85231"
+    },
+    {
+      "order": 35,
+      "citation": "RS 28:51",
+      "title": "Procedures for admission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85238"
+    },
+    {
+      "order": 36,
+      "citation": "RS 28:51.1",
+      "title": "Treatment facility; staff membership and institutional privileges; certain healthcare providers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85239"
+    },
+    {
+      "order": 37,
+      "citation": "RS 28:52",
+      "title": "Voluntary admissions; general provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85240"
+    },
+    {
+      "order": 38,
+      "citation": "RS 28:52.1",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85241"
+    },
+    {
+      "order": 39,
+      "citation": "RS 28:52.2",
+      "title": "Formal voluntary admission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85242"
+    },
+    {
+      "order": 40,
+      "citation": "RS 28:52.3",
+      "title": "Noncontested admission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85243"
+    },
+    {
+      "order": 41,
+      "citation": "RS 28:52.4",
+      "title": "Admission by relative or legal guardian for substance-related or addictive disorder treatment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85244"
+    },
+    {
+      "order": 42,
+      "citation": "RS 28:53",
+      "title": "Admission by emergency certificate; extension; payment for services rendered",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85245"
+    },
+    {
+      "order": 43,
+      "citation": "RS 28:53.1",
+      "title": "Discharge plan; healthcare provider notification requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85246"
+    },
+    {
+      "order": 44,
+      "citation": "RS 28:53.2",
+      "title": "Order for custody; grounds; civil liability; criminal penalty for making a false statement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85247"
+    },
+    {
+      "order": 45,
+      "citation": "RS 28:53.3",
+      "title": "Order for custody; grounds; teleconference; Jefferson Parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860542"
+    },
+    {
+      "order": 46,
+      "citation": "RS 28:53.4",
+      "title": "Order for custody; grounds; teleconference; Lafourche Parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1108326"
+    },
+    {
+      "order": 47,
+      "citation": "RS 28:54",
+      "title": "Judicial commitment; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85248"
+    },
+    {
+      "order": 48,
+      "citation": "RS 28:55",
+      "title": "Judicial hearings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85249"
+    },
+    {
+      "order": 49,
+      "citation": "RS 28:56",
+      "title": "Judicial commitment; review; appeals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85250"
+    },
+    {
+      "order": 50,
+      "citation": "RS 28:57",
+      "title": "Petition for restoration of right to possess a firearm and to apply for permit for concealed handgun; procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85256"
+    },
+    {
+      "order": 51,
+      "citation": "RS 28:58",
+      "title": "Code of Criminal Procedure Article 641 et seq. not affected",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85261"
+    },
+    {
+      "order": 52,
+      "citation": "RS 28:59",
+      "title": "Commitment of prisoners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85262"
+    },
+    {
+      "order": 53,
+      "citation": "RS 28:60",
+      "title": "Repealed by Acts 1978, No. 680, 3",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85263"
+    },
+    {
+      "order": 54,
+      "citation": "RS 28:61",
+      "title": "Repealed by Acts 1979, No. 767, 3",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85264"
+    },
+    {
+      "order": 55,
+      "citation": "RS 28:62",
+      "title": "Commitment to United States veterans and public health service hospitals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85265"
+    },
+    {
+      "order": 56,
+      "citation": "RS 28:63",
+      "title": "Standard of care; limitation of liability; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85267"
+    },
+    {
+      "order": 57,
+      "citation": "RS 28:64",
+      "title": "Mental Health Advocacy Service; creation; board of trustees; organization; powers; duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85268"
+    },
+    {
+      "order": 58,
+      "citation": "RS 28:65",
+      "title": "REPEALED BY ACTS 1993, NO. 891, 2, EFF. JUNE 23, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85269"
+    },
+    {
+      "order": 59,
+      "citation": "RS 28:66",
+      "title": "Criteria for civil involuntary oupatient treatment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85270"
+    },
+    {
+      "order": 60,
+      "citation": "RS 28:67",
+      "title": "Petition to the court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631158"
+    },
+    {
+      "order": 61,
+      "citation": "RS 28:68",
+      "title": "Petition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631161"
+    },
+    {
+      "order": 62,
+      "citation": "RS 28:69",
+      "title": "Procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631162"
+    },
+    {
+      "order": 63,
+      "citation": "RS 28:70",
+      "title": "Written treatment plan for involuntary outpatient treatment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631164"
+    },
+    {
+      "order": 64,
+      "citation": "RS 28:71",
+      "title": "Disposition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631165"
+    },
+    {
+      "order": 65,
+      "citation": "RS 28:72",
+      "title": "Application for additional periods of treatment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631167"
+    },
+    {
+      "order": 66,
+      "citation": "RS 28:73",
+      "title": "Application to stay, vacate or modify",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631168"
+    },
+    {
+      "order": 67,
+      "citation": "RS 28:74",
+      "title": "Appeals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631169"
+    },
+    {
+      "order": 68,
+      "citation": "RS 28:75",
+      "title": "Failure to comply with involuntary outpatient treatment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631170"
+    },
+    {
+      "order": 69,
+      "citation": "RS 28:76",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1108329"
+    },
+    {
+      "order": 70,
+      "citation": "RS 28:77",
+      "title": "Fees and court costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239357"
+    },
+    {
+      "order": 71,
+      "citation": "RS 28:91",
+      "title": "Transfer to psychiatric hospital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85306"
+    },
+    {
+      "order": 72,
+      "citation": "RS 28:92",
+      "title": "Transfer of patients from military establishments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85307"
+    },
+    {
+      "order": 73,
+      "citation": "RS 28:93",
+      "title": "Transfer of veterans to United States veterans hospitals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85308"
+    },
+    {
+      "order": 74,
+      "citation": "RS 28:94",
+      "title": "Transfer of patients between psychiatric hospitals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85309"
+    },
+    {
+      "order": 75,
+      "citation": "RS 28:95",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85310"
+    },
+    {
+      "order": 76,
+      "citation": "RS 28:96",
+      "title": "Discharge by the administrator or treating physician",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85311"
+    },
+    {
+      "order": 77,
+      "citation": "RS 28:96.1",
+      "title": "Discharge by the director or administrator of a private psychiatric hospital",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85312"
+    },
+    {
+      "order": 78,
+      "citation": "RS 28:97",
+      "title": "Discharge by the department",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85313"
+    },
+    {
+      "order": 79,
+      "citation": "RS 28:98",
+      "title": "Repealed by Acts 1972, No. 154, 4",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85314"
+    },
+    {
+      "order": 80,
+      "citation": "RS 28:98.1",
+      "title": "Repealed by Acts 1985, No. 341, 1; eff. July 9, 1985.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85315"
+    },
+    {
+      "order": 81,
+      "citation": "RS 28:98.2",
+      "title": "Immunity of psychiatric hospital and director or administrator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85316"
+    },
+    {
+      "order": 82,
+      "citation": "RS 28:99",
+      "title": "Discharge by lapse of time",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85317"
+    },
+    {
+      "order": 83,
+      "citation": "RS 28:100",
+      "title": "Leaves of absence for patients",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85090"
+    },
+    {
+      "order": 84,
+      "citation": "RS 28:100.1",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85091"
+    },
+    {
+      "order": 85,
+      "citation": "RS 28:101",
+      "title": "Boarding out patients",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85092"
+    },
+    {
+      "order": 86,
+      "citation": "RS 28:102",
+      "title": "State psychiatric hospitals; return of escaped patients",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85093"
+    },
+    {
+      "order": 87,
+      "citation": "RS 28:103",
+      "title": "Deportation of nonresident patients",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85094"
+    },
+    {
+      "order": 88,
+      "citation": "RS 28:104",
+      "title": "Importation of mental patients prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85095"
+    },
+    {
+      "order": 89,
+      "citation": "RS 28:105",
+      "title": "Extradition of escaped patients",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85096"
+    },
+    {
+      "order": 90,
+      "citation": "RS 28:141",
+      "title": "Costs of commitment and examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85097"
+    },
+    {
+      "order": 91,
+      "citation": "RS 28:142",
+      "title": "Costs of transportation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85098"
+    },
+    {
+      "order": 92,
+      "citation": "RS 28:143",
+      "title": "Costs of maintenance and daily care",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85099"
+    },
+    {
+      "order": 93,
+      "citation": "RS 28:144",
+      "title": "Investigation and assessment of charges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85100"
+    },
+    {
+      "order": 94,
+      "citation": "RS 28:145",
+      "title": "Costs of transfer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85101"
+    },
+    {
+      "order": 95,
+      "citation": "RS 28:146",
+      "title": "Expenses incident to discharge, removal, or funeral",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85102"
+    },
+    {
+      "order": 96,
+      "citation": "RS 28:147",
+      "title": "Method of collection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85103"
+    },
+    {
+      "order": 97,
+      "citation": "RS 28:148",
+      "title": "Expenses of deportation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85104"
+    },
+    {
+      "order": 98,
+      "citation": "RS 28:171",
+      "title": "Enumerations of rights guaranteed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85105"
+    },
+    {
+      "order": 99,
+      "citation": "RS 28:171.1",
+      "title": "Principles for the behavioral health system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815073"
+    },
+    {
+      "order": 100,
+      "citation": "RS 28:172",
+      "title": "Deposit of patients' funds; disbursement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85106"
+    },
+    {
+      "order": 101,
+      "citation": "RS 28:173",
+      "title": "Interest earned on funds of psychiatric hospital patients",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85107"
+    },
+    {
+      "order": 102,
+      "citation": "RS 28:181",
+      "title": "Improper commitment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85108"
+    },
+    {
+      "order": 103,
+      "citation": "RS 28:182",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85109"
+    },
+    {
+      "order": 104,
+      "citation": "RS 28:183",
+      "title": "Furnishing weapons",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85110"
+    },
+    {
+      "order": 105,
+      "citation": "RS 28:184",
+      "title": "Furnishing intoxicants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85111"
+    },
+    {
+      "order": 106,
+      "citation": "RS 28:185",
+      "title": "Unlicensed counseling",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410191"
+    },
+    {
+      "order": 107,
+      "citation": "RS 28:200",
+      "title": "Promotion of a community-based system of care",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85113"
+    },
+    {
+      "order": 108,
+      "citation": "RS 28:201",
+      "title": "Transfer of administration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85114"
+    },
+    {
+      "order": 109,
+      "citation": "RS 28:202",
+      "title": "Lease of land, buildings, equipment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85115"
+    },
+    {
+      "order": 110,
+      "citation": "RS 28:203",
+      "title": "Standards of operation and maintenance; enforcement; entry and inspection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85116"
+    },
+    {
+      "order": 111,
+      "citation": "RS 28:204",
+      "title": "Contracts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85117"
+    },
+    {
+      "order": 112,
+      "citation": "RS 28:205",
+      "title": "Allocation of funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85118"
+    },
+    {
+      "order": 113,
+      "citation": "RS 28:206",
+      "title": "Continuum of care for the emotionally and behaviorally disturbed; statement of policy; determination of need and site",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85119"
+    },
+    {
+      "order": 114,
+      "citation": "RS 28:211",
+      "title": "Repealed by Acts 2014, No. 811, §34, eff. June 23, 2014.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85122"
+    },
+    {
+      "order": 115,
+      "citation": "RS 28:212",
+      "title": "REPEALED BY ACTS 1989, NO. 662, 8, EFF. JULY 7, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85123"
+    },
+    {
+      "order": 116,
+      "citation": "RS 28:213",
+      "title": "Repealed by Acts 2014, No. 811, §34, eff. June 23, 2014.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85124"
+    },
+    {
+      "order": 117,
+      "citation": "RS 28:215.1",
+      "title": "Coroner's Strategic Initiative for a Health Information and Intervention Program; creation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727218"
+    },
+    {
+      "order": 118,
+      "citation": "RS 28:215.2",
+      "title": "Coroner's Strategic Initiative for a Health Information and Intervention Program; powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727219"
+    },
+    {
+      "order": 119,
+      "citation": "RS 28:215.3",
+      "title": "Treatment facilities; dissemination of information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727220"
+    },
+    {
+      "order": 120,
+      "citation": "RS 28:215.4",
+      "title": "Consent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727221"
+    },
+    {
+      "order": 121,
+      "citation": "RS 28:215.5",
+      "title": "Coroner's Strategic Initiative for a Health Information and Intervention Program; advisory board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727222"
+    },
+    {
+      "order": 122,
+      "citation": "RS 28:215.6",
+      "title": "Limitation of liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727223"
+    },
+    {
+      "order": 123,
+      "citation": "RS 28:221",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85134"
+    },
+    {
+      "order": 124,
+      "citation": "RS 28:222",
+      "title": "Individuals who may make an advance directive for behavioral health treatment; period of validity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85135"
+    },
+    {
+      "order": 125,
+      "citation": "RS 28:223",
+      "title": "Designation of representative for decisions about behavioral health treatment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85136"
+    },
+    {
+      "order": 126,
+      "citation": "RS 28:224",
+      "title": "Execution of advance directive; witnesses; psychiatric examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85137"
+    },
+    {
+      "order": 127,
+      "citation": "RS 28:225",
+      "title": "Operation of advance directive; physician or provider to act in accordance with advance directive",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85138"
+    },
+    {
+      "order": 128,
+      "citation": "RS 28:226",
+      "title": "Determination of incapacity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85139"
+    },
+    {
+      "order": 129,
+      "citation": "RS 28:227",
+      "title": "Scope of authority of representative; powers and duties; limitation on liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85140"
+    },
+    {
+      "order": 130,
+      "citation": "RS 28:228",
+      "title": "Prohibitions against requiring an individual to execute or refrain from executing advance directive",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85141"
+    },
+    {
+      "order": 131,
+      "citation": "RS 28:229",
+      "title": "Advance directive for mental health treatment; part of medical record; physician or provider compliance; withdrawal of physician or provider",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85142"
+    },
+    {
+      "order": 132,
+      "citation": "RS 28:230",
+      "title": "Disregarding advance directives; circumstances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85144"
+    },
+    {
+      "order": 133,
+      "citation": "RS 28:231",
+      "title": "Revocation of advance directive",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85145"
+    },
+    {
+      "order": 134,
+      "citation": "RS 28:232",
+      "title": "Limitations on liability of physician or provider",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85146"
+    },
+    {
+      "order": 135,
+      "citation": "RS 28:233",
+      "title": "Individuals prohibited from serving as representative",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85147"
+    },
+    {
+      "order": 136,
+      "citation": "RS 28:234",
+      "title": "Individuals prohibited from serving as witnesses to advance directive for mental health treatment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85148"
+    },
+    {
+      "order": 137,
+      "citation": "RS 28:235",
+      "title": "Withdrawal of representative; rescission of withdrawal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85149"
+    },
+    {
+      "order": 138,
+      "citation": "RS 28:236",
+      "title": "Form",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85150"
+    },
+    {
+      "order": 139,
+      "citation": "RS 28:237",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85151"
+    },
+    {
+      "order": 140,
+      "citation": "RS 28:241",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85153"
+    },
+    {
+      "order": 141,
+      "citation": "RS 28:242",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85154"
+    },
+    {
+      "order": 142,
+      "citation": "RS 28:243",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85155"
+    },
+    {
+      "order": 143,
+      "citation": "RS 28:244",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85156"
+    },
+    {
+      "order": 144,
+      "citation": "RS 28:245",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85157"
+    },
+    {
+      "order": 145,
+      "citation": "RS 28:246",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85158"
+    },
+    {
+      "order": 146,
+      "citation": "RS 28:247",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85159"
+    },
+    {
+      "order": 147,
+      "citation": "RS 28:247.1",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85160"
+    },
+    {
+      "order": 148,
+      "citation": "RS 28:248",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85161"
+    },
+    {
+      "order": 149,
+      "citation": "RS 28:249",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85162"
+    },
+    {
+      "order": 150,
+      "citation": "RS 28:311",
+      "title": "Repealed by Acts 2011, No. 207, §9.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85168"
+    },
+    {
+      "order": 151,
+      "citation": "RS 28:311.1",
+      "title": "REPEALED BY ACTS 1989, NO. 662, 8, EFF. JULY 7, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85169"
+    },
+    {
+      "order": 152,
+      "citation": "RS 28:311.2",
+      "title": "REPEALED BY ACTS 1989, NO. 662, 8, EFF. JULY 7, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85170"
+    },
+    {
+      "order": 153,
+      "citation": "RS 28:311.3",
+      "title": "REPEALED BY ACTS 1989, NO. 662, 8, EFF. JULY 7, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85171"
+    },
+    {
+      "order": 154,
+      "citation": "RS 28:311.4",
+      "title": "REPEALED BY ACTS 1989, NO. 662, 8, EFF. JULY 7, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85172"
+    },
+    {
+      "order": 155,
+      "citation": "RS 28:311.5",
+      "title": "REPEALED BY ACTS 1989, NO. 662, 8, EFF. JULY 7, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85173"
+    },
+    {
+      "order": 156,
+      "citation": "RS 28:311.6",
+      "title": "REPEALED BY ACTS 1989, NO. 662, 8, EFF. JULY 7, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85174"
+    },
+    {
+      "order": 157,
+      "citation": "RS 28:312",
+      "title": "Repealed by Acts 2011, No. 207, §9.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85175"
+    },
+    {
+      "order": 158,
+      "citation": "RS 28:313",
+      "title": "Repealed by Acts 2011, No. 207, §9.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285218"
+    },
+    {
+      "order": 159,
+      "citation": "RS 28:380",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85176"
+    },
+    {
+      "order": 160,
+      "citation": "RS 28:381",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85177"
+    },
+    {
+      "order": 161,
+      "citation": "RS 28:382",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85178"
+    },
+    {
+      "order": 162,
+      "citation": "RS 28:382.1",
+      "title": "Repealed by Acts 2005, No. 90, §2, eff. June 21, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206093"
+    },
+    {
+      "order": 163,
+      "citation": "RS 28:382.2",
+      "title": "Repealed by Acts 2008, No. 373, §4, eff. June 21, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321086"
+    },
+    {
+      "order": 164,
+      "citation": "RS 28:383",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85179"
+    },
+    {
+      "order": 165,
+      "citation": "RS 28:384",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85180"
+    },
+    {
+      "order": 166,
+      "citation": "RS 28:385",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85181"
+    },
+    {
+      "order": 167,
+      "citation": "RS 28:386",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85182"
+    },
+    {
+      "order": 168,
+      "citation": "RS 28:390",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85183"
+    },
+    {
+      "order": 169,
+      "citation": "RS 28:391",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85184"
+    },
+    {
+      "order": 170,
+      "citation": "RS 28:392",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85185"
+    },
+    {
+      "order": 171,
+      "citation": "RS 28:393",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85186"
+    },
+    {
+      "order": 172,
+      "citation": "RS 28:395",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85187"
+    },
+    {
+      "order": 173,
+      "citation": "RS 28:396",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, \n2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85188"
+    },
+    {
+      "order": 174,
+      "citation": "RS 28:397",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85189"
+    },
+    {
+      "order": 175,
+      "citation": "RS 28:398",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85190"
+    },
+    {
+      "order": 176,
+      "citation": "RS 28:399",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85191"
+    },
+    {
+      "order": 177,
+      "citation": "RS 28:400",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85192"
+    },
+    {
+      "order": 178,
+      "citation": "RS 28:401",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85193"
+    },
+    {
+      "order": 179,
+      "citation": "RS 28:402",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85194"
+    },
+    {
+      "order": 180,
+      "citation": "RS 28:403",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85195"
+    },
+    {
+      "order": 181,
+      "citation": "RS 28:404",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85196"
+    },
+    {
+      "order": 182,
+      "citation": "RS 28:405",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85197"
+    },
+    {
+      "order": 183,
+      "citation": "RS 28:406",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85198"
+    },
+    {
+      "order": 184,
+      "citation": "RS 28:407",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85199"
+    },
+    {
+      "order": 185,
+      "citation": "RS 28:408",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85200"
+    },
+    {
+      "order": 186,
+      "citation": "RS 28:409",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85201"
+    },
+    {
+      "order": 187,
+      "citation": "RS 28:410",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85202"
+    },
+    {
+      "order": 188,
+      "citation": "RS 28:411",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85203"
+    },
+    {
+      "order": 189,
+      "citation": "RS 28:412",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85204"
+    },
+    {
+      "order": 190,
+      "citation": "RS 28:413",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85205"
+    },
+    {
+      "order": 191,
+      "citation": "RS 28:420",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85206"
+    },
+    {
+      "order": 192,
+      "citation": "RS 28:421",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85207"
+    },
+    {
+      "order": 193,
+      "citation": "RS 28:422",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85208"
+    },
+    {
+      "order": 194,
+      "citation": "RS 28:423",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85209"
+    },
+    {
+      "order": 195,
+      "citation": "RS 28:424",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85210"
+    },
+    {
+      "order": 196,
+      "citation": "RS 28:425",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85211"
+    },
+    {
+      "order": 197,
+      "citation": "RS 28:426",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85212"
+    },
+    {
+      "order": 198,
+      "citation": "RS 28:427",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85213"
+    },
+    {
+      "order": 199,
+      "citation": "RS 28:430",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85214"
+    },
+    {
+      "order": 200,
+      "citation": "RS 28:431",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85215"
+    },
+    {
+      "order": 201,
+      "citation": "RS 28:432",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85216"
+    },
+    {
+      "order": 202,
+      "citation": "RS 28:433",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85217"
+    },
+    {
+      "order": 203,
+      "citation": "RS 28:434",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85218"
+    },
+    {
+      "order": 204,
+      "citation": "RS 28:435",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85219"
+    },
+    {
+      "order": 205,
+      "citation": "RS 28:436",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85220"
+    },
+    {
+      "order": 206,
+      "citation": "RS 28:437",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85221"
+    },
+    {
+      "order": 207,
+      "citation": "RS 28:440",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85222"
+    },
+    {
+      "order": 208,
+      "citation": "RS 28:441",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85223"
+    },
+    {
+      "order": 209,
+      "citation": "RS 28:442",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85224"
+    },
+    {
+      "order": 210,
+      "citation": "RS 28:443",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85225"
+    },
+    {
+      "order": 211,
+      "citation": "RS 28:444",
+      "title": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85226"
+    },
+    {
+      "order": 212,
+      "citation": "RS 28:451.1",
+      "title": "Title; purpose; intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321093"
+    },
+    {
+      "order": 213,
+      "citation": "RS 28:451.2",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321094"
+    },
+    {
+      "order": 214,
+      "citation": "RS 28:451.3",
+      "title": "Administration of the provisions of this Chapter; responsibilities of human services authorities and districts; advisory committees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321095"
+    },
+    {
+      "order": 215,
+      "citation": "RS 28:451.4",
+      "title": "State developmental centers; office for citizens with developmental disabilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321097"
+    },
+    {
+      "order": 216,
+      "citation": "RS 28:451.5",
+      "title": "Provision of additional living options and developmental disabilities services and supports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321098"
+    },
+    {
+      "order": 217,
+      "citation": "RS 28:451.6",
+      "title": "Assignment of property rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321100"
+    },
+    {
+      "order": 218,
+      "citation": "RS 28:452.1",
+      "title": "Rights of persons who have developmental disabilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321099"
+    },
+    {
+      "order": 219,
+      "citation": "RS 28:452.2",
+      "title": "Principles for the developmental disabilities services system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321101"
+    },
+    {
+      "order": 220,
+      "citation": "RS 28:453.1",
+      "title": "Definition; establishment of the ombudsman program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321103"
+    },
+    {
+      "order": 221,
+      "citation": "RS 28:453.2",
+      "title": "Ombudsman functions and responsibilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321104"
+    },
+    {
+      "order": 222,
+      "citation": "RS 28:453.3",
+      "title": "Access; liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321105"
+    },
+    {
+      "order": 223,
+      "citation": "RS 28:453.4",
+      "title": "Prohibition of interference; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321107"
+    },
+    {
+      "order": 224,
+      "citation": "RS 28:454.1",
+      "title": "Developmental disabilities services system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321108"
+    },
+    {
+      "order": 225,
+      "citation": "RS 28:454.2",
+      "title": "System process; entry; support profile; support plan; transfer and discharge; follow-up; record",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321109"
+    },
+    {
+      "order": 226,
+      "citation": "RS 28:454.3",
+      "title": "Consent; capacity to consent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321110"
+    },
+    {
+      "order": 227,
+      "citation": "RS 28:454.4",
+      "title": "Voluntary admission and discharge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321111"
+    },
+    {
+      "order": 228,
+      "citation": "RS 28:454.5",
+      "title": "Involuntary admission; determination of probable cause",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321112"
+    },
+    {
+      "order": 229,
+      "citation": "RS 28:454.6",
+      "title": "Judicial hearings; commitments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321113"
+    },
+    {
+      "order": 230,
+      "citation": "RS 28:454.7",
+      "title": "Duration and discharge of commitment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321114"
+    },
+    {
+      "order": 231,
+      "citation": "RS 28:454.8",
+      "title": "Judicial commitment; appeals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321115"
+    },
+    {
+      "order": 232,
+      "citation": "RS 28:454.9",
+      "title": "Judicial commitment; notice of rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321116"
+    },
+    {
+      "order": 233,
+      "citation": "RS 28:454.10",
+      "title": "Transfer of persons with developmental disabilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321117"
+    },
+    {
+      "order": 234,
+      "citation": "RS 28:454.11",
+      "title": "Rights of persons committed to the department",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321118"
+    },
+    {
+      "order": 235,
+      "citation": "RS 28:454.12",
+      "title": "Immunity from liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321120"
+    },
+    {
+      "order": 236,
+      "citation": "RS 28:454.13",
+      "title": "Failure to obey an order or judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321121"
+    },
+    {
+      "order": 237,
+      "citation": "RS 28:454.14",
+      "title": "Criminal matters",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321124"
+    },
+    {
+      "order": 238,
+      "citation": "RS 28:454.15",
+      "title": "Grievance procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321125"
+    },
+    {
+      "order": 239,
+      "citation": "RS 28:454.16",
+      "title": "Appeal procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321126"
+    },
+    {
+      "order": 240,
+      "citation": "RS 28:454.17",
+      "title": "Rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321127"
+    },
+    {
+      "order": 241,
+      "citation": "RS 28:454.18",
+      "title": "Advertisement and award of lease bid",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321128"
+    },
+    {
+      "order": 242,
+      "citation": "RS 28:455.1",
+      "title": "Quality standards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321129"
+    },
+    {
+      "order": 243,
+      "citation": "RS 28:455.2",
+      "title": "Assurances of consistency with local and state planning",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321130"
+    },
+    {
+      "order": 244,
+      "citation": "RS 28:461",
+      "title": "Findings; policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860543"
+    },
+    {
+      "order": 245,
+      "citation": "RS 28:462",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860544"
+    },
+    {
+      "order": 246,
+      "citation": "RS 28:463",
+      "title": "Goals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860545"
+    },
+    {
+      "order": 247,
+      "citation": "RS 28:464",
+      "title": "Requirements for statewide system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860546"
+    },
+    {
+      "order": 248,
+      "citation": "RS 28:465",
+      "title": "Individualized family service plan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860547"
+    },
+    {
+      "order": 249,
+      "citation": "RS 28:466",
+      "title": "Uses of funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860548"
+    },
+    {
+      "order": 250,
+      "citation": "RS 28:467",
+      "title": "Procedural safeguards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860549"
+    },
+    {
+      "order": 251,
+      "citation": "RS 28:468",
+      "title": "Payor of last resort; nonsubstitution; reduction of other benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860551"
+    },
+    {
+      "order": 252,
+      "citation": "RS 28:469",
+      "title": "System of payments; authority of the Louisiana Department of Health; cost participation schedule",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860552"
+    },
+    {
+      "order": 253,
+      "citation": "RS 28:470",
+      "title": "Louisiana State Interagency Coordinating Council for EarlySteps: Louisiana's Early Intervention Program for Infants and Toddlers with Disabilities and Their Families",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860553"
+    },
+    {
+      "order": 254,
+      "citation": "RS 28:470.11",
+      "title": "Lafourche Arc Taxing District; creation; governance; funding",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=963663"
+    },
+    {
+      "order": 255,
+      "citation": "RS 28:475",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85227"
+    },
+    {
+      "order": 256,
+      "citation": "RS 28:476",
+      "title": "Declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85228"
+    },
+    {
+      "order": 257,
+      "citation": "RS 28:477",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85229"
+    },
+    {
+      "order": 258,
+      "citation": "RS 28:478",
+      "title": "Promotion of community based homes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85230"
+    },
+    {
+      "order": 259,
+      "citation": "RS 28:501",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85232"
+    },
+    {
+      "order": 260,
+      "citation": "RS 28:502",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85233"
+    },
+    {
+      "order": 261,
+      "citation": "RS 28:503",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85234"
+    },
+    {
+      "order": 262,
+      "citation": "RS 28:504",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85235"
+    },
+    {
+      "order": 263,
+      "citation": "RS 28:505",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85236"
+    },
+    {
+      "order": 264,
+      "citation": "RS 28:506",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85237"
+    },
+    {
+      "order": 265,
+      "citation": "RS 28:561",
+      "title": "Repealed by Acts 2017, No. 369, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85251"
+    },
+    {
+      "order": 266,
+      "citation": "RS 28:562",
+      "title": "To 566 Repealed by Acts 1978, No. 680, 3",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85252"
+    },
+    {
+      "order": 267,
+      "citation": "RS 28:567",
+      "title": "Repealed by Acts 2013, No. 308, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85253"
+    },
+    {
+      "order": 268,
+      "citation": "RS 28:568",
+      "title": "Repealed by Acts 2013, No. 308, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85254"
+    },
+    {
+      "order": 269,
+      "citation": "RS 28:569",
+      "title": "Repealed by Acts 2013, No. 308, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85255"
+    },
+    {
+      "order": 270,
+      "citation": "RS 28:570",
+      "title": "Repealed by Acts 2013, No. 308, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85257"
+    },
+    {
+      "order": 271,
+      "citation": "RS 28:571",
+      "title": "Repealed by Acts 2013, No. 308, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85258"
+    },
+    {
+      "order": 272,
+      "citation": "RS 28:572",
+      "title": "Repealed by Acts 2013, No. 308, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85259"
+    },
+    {
+      "order": 273,
+      "citation": "RS 28:573",
+      "title": "Repealed by Acts 2013, No. 308, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85260"
+    },
+    {
+      "order": 274,
+      "citation": "RS 28:621",
+      "title": "Pilot programs for children with developmental disabilities who are considered at-risk juveniles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85266"
+    },
+    {
+      "order": 275,
+      "citation": "RS 28:721",
+      "title": "INTERSTATE COMPACT ON MENTAL HEALTH",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85271"
+    },
+    {
+      "order": 276,
+      "citation": "RS 28:722",
+      "title": "Compact administrator; powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85272"
+    },
+    {
+      "order": 277,
+      "citation": "RS 28:723",
+      "title": "Supplementary agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85273"
+    },
+    {
+      "order": 278,
+      "citation": "RS 28:724",
+      "title": "Discharge of financial obligations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85274"
+    },
+    {
+      "order": 279,
+      "citation": "RS 28:725",
+      "title": "Proposed transferees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85275"
+    },
+    {
+      "order": 280,
+      "citation": "RS 28:726",
+      "title": "Distribution of copies of law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85276"
+    },
+    {
+      "order": 281,
+      "citation": "RS 28:750",
+      "title": "LOUISIANA DEVELOPMENTAL",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85277"
+    },
+    {
+      "order": 282,
+      "citation": "RS 28:751",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85278"
+    },
+    {
+      "order": 283,
+      "citation": "RS 28:752",
+      "title": "Responsibilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85279"
+    },
+    {
+      "order": 284,
+      "citation": "RS 28:753",
+      "title": "Membership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85280"
+    },
+    {
+      "order": 285,
+      "citation": "RS 28:754",
+      "title": "Council officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85281"
+    },
+    {
+      "order": 286,
+      "citation": "RS 28:755",
+      "title": "Council remuneration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85282"
+    },
+    {
+      "order": 287,
+      "citation": "RS 28:756",
+      "title": "Council bylaws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85283"
+    },
+    {
+      "order": 288,
+      "citation": "RS 28:757",
+      "title": "Council staffing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85284"
+    },
+    {
+      "order": 289,
+      "citation": "RS 28:758",
+      "title": "Regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85285"
+    },
+    {
+      "order": 290,
+      "citation": "RS 28:771",
+      "title": "Office of behavioral health; functions regarding substance-related and addictive disorders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85286"
+    },
+    {
+      "order": 291,
+      "citation": "RS 28:772",
+      "title": "Funding of regional addictive disorder services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85287"
+    },
+    {
+      "order": 292,
+      "citation": "RS 28:801",
+      "title": "SUICIDE PREVENTION Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85288"
+    },
+    {
+      "order": 293,
+      "citation": "RS 28:802",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85289"
+    },
+    {
+      "order": 294,
+      "citation": "RS 28:803",
+      "title": "Legislative findings and declaration; purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85290"
+    },
+    {
+      "order": 295,
+      "citation": "RS 28:804",
+      "title": "Sources of funding authorized",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85291"
+    },
+    {
+      "order": 296,
+      "citation": "RS 28:805",
+      "title": "Repealed by Acts 1997, No. 1116, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85292"
+    },
+    {
+      "order": 297,
+      "citation": "RS 28:806",
+      "title": "Repealed by Acts 1997, No. 1116, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85293"
+    },
+    {
+      "order": 298,
+      "citation": "RS 28:807",
+      "title": "Zero suicide initiative; creation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85294"
+    },
+    {
+      "order": 299,
+      "citation": "RS 28:808",
+      "title": "Zero suicide initiative; administration; duties of the office of behavioral health",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85295"
+    },
+    {
+      "order": 300,
+      "citation": "RS 28:809",
+      "title": ".Legislative intent; stakeholder collaboration and coordination in the zero suicide initiative",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85296"
+    },
+    {
+      "order": 301,
+      "citation": "RS 28:811",
+      "title": "State suicide prevention plan; creation; goals; publication; report to governor and legislature",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1108346"
+    },
+    {
+      "order": 302,
+      "citation": "RS 28:812",
+      "title": "Stakeholder collaboration and coordination in suicide prevention plan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1108347"
+    },
+    {
+      "order": 303,
+      "citation": "RS 28:813",
+      "title": "Administrative rulemaking",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1108348"
+    },
+    {
+      "order": 304,
+      "citation": "RS 28:814",
+      "title": "Implementation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1108349"
+    },
+    {
+      "order": 305,
+      "citation": "RS 28:821",
+      "title": "Findings and purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85297"
+    },
+    {
+      "order": 306,
+      "citation": "RS 28:822",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85298"
+    },
+    {
+      "order": 307,
+      "citation": "RS 28:823",
+      "title": "Principles",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85299"
+    },
+    {
+      "order": 308,
+      "citation": "RS 28:824",
+      "title": "Community and Family Support System plan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85300"
+    },
+    {
+      "order": 309,
+      "citation": "RS 28:825",
+      "title": "Administering medication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85301"
+    },
+    {
+      "order": 310,
+      "citation": "RS 28:826",
+      "title": "Disability Services Fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85302"
+    },
+    {
+      "order": 311,
+      "citation": "RS 28:827",
+      "title": "Active duty military families",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727224"
+    },
+    {
+      "order": 312,
+      "citation": "RS 28:831",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85303"
+    },
+    {
+      "order": 313,
+      "citation": "RS 28:841",
+      "title": "Office of behavioral health; functions related to gambling disorders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85304"
+    },
+    {
+      "order": 314,
+      "citation": "RS 28:842",
+      "title": "Compulsive and Problem Gaming Fund; creation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=85305"
+    },
+    {
+      "order": 315,
+      "citation": "RS 28:843",
+      "title": "Behavioral Health and Wellness Fund; creation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239358"
+    },
+    {
+      "order": 316,
+      "citation": "RS 28:851",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206097"
+    },
+    {
+      "order": 317,
+      "citation": "RS 28:852",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206098"
+    },
+    {
+      "order": 318,
+      "citation": "RS 28:853",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206099"
+    },
+    {
+      "order": 319,
+      "citation": "RS 28:854",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206100"
+    },
+    {
+      "order": 320,
+      "citation": "RS 28:855",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206101"
+    },
+    {
+      "order": 321,
+      "citation": "RS 28:856",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206103"
+    },
+    {
+      "order": 322,
+      "citation": "RS 28:861",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206107"
+    },
+    {
+      "order": 323,
+      "citation": "RS 28:862",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206108"
+    },
+    {
+      "order": 324,
+      "citation": "RS 28:863",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206112"
+    },
+    {
+      "order": 325,
+      "citation": "RS 28:864",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206115"
+    },
+    {
+      "order": 326,
+      "citation": "RS 28:865",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206119"
+    },
+    {
+      "order": 327,
+      "citation": "RS 28:866",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206121"
+    },
+    {
+      "order": 328,
+      "citation": "RS 28:871",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410192"
+    },
+    {
+      "order": 329,
+      "citation": "RS 28:872",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410193"
+    },
+    {
+      "order": 330,
+      "citation": "RS 28:873",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410194"
+    },
+    {
+      "order": 331,
+      "citation": "RS 28:874",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410195"
+    },
+    {
+      "order": 332,
+      "citation": "RS 28:875",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410201"
+    },
+    {
+      "order": 333,
+      "citation": "RS 28:876",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410202"
+    },
+    {
+      "order": 334,
+      "citation": "RS 28:891",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410204"
+    },
+    {
+      "order": 335,
+      "citation": "RS 28:892",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410205"
+    },
+    {
+      "order": 336,
+      "citation": "RS 28:893",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410206"
+    },
+    {
+      "order": 337,
+      "citation": "RS 28:894",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410207"
+    },
+    {
+      "order": 338,
+      "citation": "RS 28:895",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410208"
+    },
+    {
+      "order": 339,
+      "citation": "RS 28:896",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410209"
+    },
+    {
+      "order": 340,
+      "citation": "RS 28:901",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631172"
+    },
+    {
+      "order": 341,
+      "citation": "RS 28:902",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631173"
+    },
+    {
+      "order": 342,
+      "citation": "RS 28:903",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631174"
+    },
+    {
+      "order": 343,
+      "citation": "RS 28:904",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631175"
+    },
+    {
+      "order": 344,
+      "citation": "RS 28:905",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631176"
+    },
+    {
+      "order": 345,
+      "citation": "RS 28:906",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631177"
+    },
+    {
+      "order": 346,
+      "citation": "RS 28:910",
+      "title": "Legislative intent and public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1056760"
+    },
+    {
+      "order": 347,
+      "citation": "RS 28:911",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631179"
+    },
+    {
+      "order": 348,
+      "citation": "RS 28:912",
+      "title": "Creation and jurisdiction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631180"
+    },
+    {
+      "order": 349,
+      "citation": "RS 28:913",
+      "title": "Governing board for Acadiana Area Human Services District, Imperial Calcasieu Human Services Authority, Central Louisiana Human Services District, and Northwest Louisiana Human Services District; membership; appointment; terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631181"
+    },
+    {
+      "order": 350,
+      "citation": "RS 28:913.1",
+      "title": "Governing board for Jefferson Parish Human Services Authority; membership; appointment; terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1056761"
+    },
+    {
+      "order": 351,
+      "citation": "RS 28:913.2",
+      "title": "Governing board for Florida Parishes Human Services Authority; membership; appointment; terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1056762"
+    },
+    {
+      "order": 352,
+      "citation": "RS 28:913.3",
+      "title": "Governing board for Metropolitan Human Services District; membership; appointment; terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1056763"
+    },
+    {
+      "order": 353,
+      "citation": "RS 28:913.4",
+      "title": "Governing board for South Central Louisiana Human Services Authority; membership; appointment; terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1056764"
+    },
+    {
+      "order": 354,
+      "citation": "RS 28:913.5",
+      "title": "Governing board for Northeast Delta Human Services Authority; membership; appointment; terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1056765"
+    },
+    {
+      "order": 355,
+      "citation": "RS 28:913.6",
+      "title": "Governing board for Capital Area Human Services District; membership; appointment; terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1056767"
+    },
+    {
+      "order": 356,
+      "citation": "RS 28:913.7",
+      "title": "Governing board; general provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1056768"
+    },
+    {
+      "order": 357,
+      "citation": "RS 28:914",
+      "title": "Requirements for districts and authorities; board education and awareness",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631182"
+    },
+    {
+      "order": 358,
+      "citation": "RS 28:915",
+      "title": "Districts and authorities; functions, powers, and duties; sole source contracting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631183"
+    },
+    {
+      "order": 359,
+      "citation": "RS 28:916",
+      "title": "Employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631187"
+    },
+    {
+      "order": 360,
+      "citation": "RS 28:917",
+      "title": "Human Services Interagency Council; membership and responsibilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631188"
+    },
+    {
+      "order": 361,
+      "citation": "RS 28:918",
+      "title": "Louisiana Department of Health; responsibility and authority to contract; monitor; sanction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631189"
+    },
+    {
+      "order": 362,
+      "citation": "RS 28:919",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631190"
+    },
+    {
+      "order": 363,
+      "citation": "RS 28:920",
+      "title": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631191"
+    },
+    {
+      "order": 364,
+      "citation": "RS 28:931",
+      "title": "Definitions; purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016554"
+    },
+    {
+      "order": 365,
+      "citation": "RS 28:932",
+      "title": "Intervention and stabilization units; establishment and operation; duties of human services districts and authorities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016555"
+    }
+  ]
+}

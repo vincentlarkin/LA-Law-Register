@@ -1,0 +1,10 @@
+RS 39:143
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=95915
+
+§143.  Definitions
+The following words and phrases shall be defined as follows:
+(1)  "Agency" for the purposes of this Part and Part V of Chapter 17 of this Title has the same meaning as ascribed to it in R.S. 36:3(1).
+(2)  "Telecommunications transmission facility" means any transmission medium, switch, instrument, wiring system, or other facility which is used, in whole or in part, to provide any transmission.
+(3)  "Utility" means any telecommunications service provided by the office of telecommunications management and used in the essential operations of a state agency, such as local dial tone, wide area network, and local area network.
+Added by Acts 1982, No. 153, §1, eff. July 12, 1982; Acts 1990, No. 876, §1; Acts 1997, No. 1098, §1, eff. July 14, 1997; Acts 2001, No. 772, §3, eff. July 1, 2001.

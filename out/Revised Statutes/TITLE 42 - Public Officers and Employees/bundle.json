@@ -1,0 +1,2756 @@
+{
+  "category_key": "revised-statutes",
+  "category_name": "Revised Statutes",
+  "bundle_name": "TITLE 42 - Public Officers and Employees",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "RS 42:1",
+      "title": "TITLE 42PUBLIC OFFICERS AND EMPLOYEES",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99197"
+    },
+    {
+      "order": 2,
+      "citation": "RS 42:2",
+      "title": "Public officer to hold office until successor inducted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99376"
+    },
+    {
+      "order": 3,
+      "citation": "RS 42:2.1",
+      "title": "Boards, commissions, councils, authorities, entities; composition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285446"
+    },
+    {
+      "order": 4,
+      "citation": "RS 42:2.2",
+      "title": "Boards, commissions, councils, authorities, entities; immediate family members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919605"
+    },
+    {
+      "order": 5,
+      "citation": "RS 42:3",
+      "title": "Limitation of terms of employees or officials elected by boards; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99405"
+    },
+    {
+      "order": 6,
+      "citation": "RS 42:3.1",
+      "title": "Legislative members of boards and commissions; per diem",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99406"
+    },
+    {
+      "order": 7,
+      "citation": "RS 42:3.2",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631394"
+    },
+    {
+      "order": 8,
+      "citation": "RS 42:4",
+      "title": "Public officers appointed by the governor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99442"
+    },
+    {
+      "order": 9,
+      "citation": "RS 42:4.1",
+      "title": "Redesignated as R.S. 42:12 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727674"
+    },
+    {
+      "order": 10,
+      "citation": "RS 42:4.2",
+      "title": "Redesignated as R.S. 42:13 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727675"
+    },
+    {
+      "order": 11,
+      "citation": "RS 42:5",
+      "title": "Redesignated as R.S. 42:14 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727676"
+    },
+    {
+      "order": 12,
+      "citation": "RS 42:5.1",
+      "title": "Redesignated as R.S. 42:15 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727677"
+    },
+    {
+      "order": 13,
+      "citation": "RS 42:6",
+      "title": "Redesignated as R.S. 42:16 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727678"
+    },
+    {
+      "order": 14,
+      "citation": "RS 42:6.1",
+      "title": "Redesignated as R.S. 42:17 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727679"
+    },
+    {
+      "order": 15,
+      "citation": "RS 42:6.2",
+      "title": "Redesignated as R.S. 42:18 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727680"
+    },
+    {
+      "order": 16,
+      "citation": "RS 42:7",
+      "title": "Redesignated as R.S. 42:19 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727681"
+    },
+    {
+      "order": 17,
+      "citation": "RS 42:7.1",
+      "title": "Redesignated as R.S. 42:20 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727682"
+    },
+    {
+      "order": 18,
+      "citation": "RS 42:7.2",
+      "title": "Redesignated as R.S. 42:21 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727683"
+    },
+    {
+      "order": 19,
+      "citation": "RS 42:7.3",
+      "title": "Redesignated as R.S. 42:22 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727684"
+    },
+    {
+      "order": 20,
+      "citation": "RS 42:8",
+      "title": "Redesignated as R.S. 42:23 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727685"
+    },
+    {
+      "order": 21,
+      "citation": "RS 42:9",
+      "title": "Redesignated as R.S. 42:24 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727686"
+    },
+    {
+      "order": 22,
+      "citation": "RS 42:10",
+      "title": "Redesignated as R.S. 42:25 by Acts 2010, No. 861, §23.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727687"
+    },
+    {
+      "order": 23,
+      "citation": "RS 42:11",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727656"
+    },
+    {
+      "order": 24,
+      "citation": "RS 42:12",
+      "title": "Public policy for open meetings; liberal construction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99443"
+    },
+    {
+      "order": 25,
+      "citation": "RS 42:13",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99444"
+    },
+    {
+      "order": 26,
+      "citation": "RS 42:14",
+      "title": "Meetings of public bodies to be open to the public",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99481"
+    },
+    {
+      "order": 27,
+      "citation": "RS 42:15",
+      "title": "School board meetings; public comment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99482"
+    },
+    {
+      "order": 28,
+      "citation": "RS 42:16",
+      "title": "Executive Sessions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99492"
+    },
+    {
+      "order": 29,
+      "citation": "RS 42:17",
+      "title": "Exceptions to open meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99493"
+    },
+    {
+      "order": 30,
+      "citation": "RS 42:17.1",
+      "title": "Exception for meetings during a gubernatorially declared disaster or emergency",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187592"
+    },
+    {
+      "order": 31,
+      "citation": "RS 42:17.2",
+      "title": "Exception for certain meetings of certain public bodies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1295381"
+    },
+    {
+      "order": 32,
+      "citation": "RS 42:17.2.1",
+      "title": "Public body; member with a disability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337744"
+    },
+    {
+      "order": 33,
+      "citation": "RS 42:17.3",
+      "title": "Repealed by Acts 2023, No. 393, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1295387"
+    },
+    {
+      "order": 34,
+      "citation": "RS 42:17.4",
+      "title": "Exception for meetings of the Prescription Monitoring Program Advisory Council",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337746"
+    },
+    {
+      "order": 35,
+      "citation": "RS 42:18",
+      "title": "Executive or closed meetings of legislative houses and committees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99494"
+    },
+    {
+      "order": 36,
+      "citation": "RS 42:19",
+      "title": "Notice of meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99506"
+    },
+    {
+      "order": 37,
+      "citation": "RS 42:19.1",
+      "title": "Procedure for the proposal, increase, renewal, or continuation of a tax or for calling an election for such purposes by political subdivisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860395"
+    },
+    {
+      "order": 38,
+      "citation": "RS 42:20",
+      "title": "Written minutes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99507"
+    },
+    {
+      "order": 39,
+      "citation": "RS 42:21",
+      "title": "Minutes of legislative sessions, legislative committees and subcommittees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99508"
+    },
+    {
+      "order": 40,
+      "citation": "RS 42:22",
+      "title": "Presentation and consideration of offer to sell natural gas to a public body, or to operate or acquire ownership of, a gas utility owned or operated by a public body",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206249"
+    },
+    {
+      "order": 41,
+      "citation": "RS 42:23",
+      "title": "Audio and video recordings; live broadcast",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99525"
+    },
+    {
+      "order": 42,
+      "citation": "RS 42:24",
+      "title": "Voidability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99559"
+    },
+    {
+      "order": 43,
+      "citation": "RS 42:25",
+      "title": "Enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99198"
+    },
+    {
+      "order": 44,
+      "citation": "RS 42:26",
+      "title": "Remedies; jurisdiction; authority; attorney fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99212"
+    },
+    {
+      "order": 45,
+      "citation": "RS 42:27",
+      "title": "Venue; summary proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99274"
+    },
+    {
+      "order": 46,
+      "citation": "RS 42:28",
+      "title": "Civil penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99299"
+    },
+    {
+      "order": 47,
+      "citation": "RS 42:29",
+      "title": "Repealed by Acts 2023, No. 393, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187593"
+    },
+    {
+      "order": 48,
+      "citation": "RS 42:31",
+      "title": "Eligibility requirements for certain unclassified employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99414"
+    },
+    {
+      "order": 49,
+      "citation": "RS 42:32",
+      "title": "Enemy aliens not to be employed; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99415"
+    },
+    {
+      "order": 50,
+      "citation": "RS 42:33",
+      "title": "State civil service positions; Selective Service System registration required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99418"
+    },
+    {
+      "order": 51,
+      "citation": "RS 42:34",
+      "title": "Defaulters not to hold office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99420"
+    },
+    {
+      "order": 52,
+      "citation": "RS 42:35",
+      "title": "Commissions not to issue to defaulters; new elections",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99422"
+    },
+    {
+      "order": 53,
+      "citation": "RS 42:36",
+      "title": "Limitation on prerequisites for state employment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99423"
+    },
+    {
+      "order": 54,
+      "citation": "RS 42:37",
+      "title": "Questioning of employee witnesses as to membership in communist party; refusal to answer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99424"
+    },
+    {
+      "order": 55,
+      "citation": "RS 42:38",
+      "title": "Repealed by Acts 1979, No. 700, 8",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99431"
+    },
+    {
+      "order": 56,
+      "citation": "RS 42:39",
+      "title": "Judges; ineligibility to become candidate for other elective office; conditions and exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99432"
+    },
+    {
+      "order": 57,
+      "citation": "RS 42:39.1",
+      "title": "Judges; eligibility to serve on boards of directors of financial institutions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99433"
+    },
+    {
+      "order": 58,
+      "citation": "RS 42:39.2",
+      "title": "Justices of the peace; ineligibility of temporary appointees to fill vacancy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99434"
+    },
+    {
+      "order": 59,
+      "citation": "RS 42:51",
+      "title": "Declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99483"
+    },
+    {
+      "order": 60,
+      "citation": "RS 42:52",
+      "title": "Oath or affirmation; form",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99484"
+    },
+    {
+      "order": 61,
+      "citation": "RS 42:53",
+      "title": "Oath or affirmation; prospective employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99485"
+    },
+    {
+      "order": 62,
+      "citation": "RS 42:54",
+      "title": "Subversive activities prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99486"
+    },
+    {
+      "order": 63,
+      "citation": "RS 42:55",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99488"
+    },
+    {
+      "order": 64,
+      "citation": "RS 42:56",
+      "title": "Dismissal from employment; expulsion from educational institution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99489"
+    },
+    {
+      "order": 65,
+      "citation": "RS 42:57",
+      "title": "Hearing; review",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99490"
+    },
+    {
+      "order": 66,
+      "citation": "RS 42:58",
+      "title": "Appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99491"
+    },
+    {
+      "order": 67,
+      "citation": "RS 42:61",
+      "title": "Declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99495"
+    },
+    {
+      "order": 68,
+      "citation": "RS 42:62",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99496"
+    },
+    {
+      "order": 69,
+      "citation": "RS 42:63",
+      "title": "Prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99497"
+    },
+    {
+      "order": 70,
+      "citation": "RS 42:64",
+      "title": "Incompatible offices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99498"
+    },
+    {
+      "order": 71,
+      "citation": "RS 42:65",
+      "title": "Civil remedy; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99499"
+    },
+    {
+      "order": 72,
+      "citation": "RS 42:66",
+      "title": "Exemptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99500"
+    },
+    {
+      "order": 73,
+      "citation": "RS 42:67",
+      "title": "Unclassified management positions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99501"
+    },
+    {
+      "order": 74,
+      "citation": "RS 42:67.1",
+      "title": "Minimum qualifications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99502"
+    },
+    {
+      "order": 75,
+      "citation": "RS 42:67.2",
+      "title": "Inapplicability of Part",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99503"
+    },
+    {
+      "order": 76,
+      "citation": "RS 42:67.3",
+      "title": "Additional qualifications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99504"
+    },
+    {
+      "order": 77,
+      "citation": "RS 42:68",
+      "title": "Qualified candidates for management positions; submission of list to governor-elect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99505"
+    },
+    {
+      "order": 78,
+      "citation": "RS 42:71",
+      "title": "RIGHT TO OFFICE",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99509"
+    },
+    {
+      "order": 79,
+      "citation": "RS 42:72",
+      "title": "Recognition of usurper; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99510"
+    },
+    {
+      "order": 80,
+      "citation": "RS 42:73",
+      "title": "Declaration of forfeiture of office created by statute",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99517"
+    },
+    {
+      "order": 81,
+      "citation": "RS 42:74",
+      "title": "Declaration of forfeiture of office created by constitution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99519"
+    },
+    {
+      "order": 82,
+      "citation": "RS 42:75",
+      "title": "Appointment to fill vacancy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99520"
+    },
+    {
+      "order": 83,
+      "citation": "RS 42:76",
+      "title": "Actions to try right to office; associations acting as corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99521"
+    },
+    {
+      "order": 84,
+      "citation": "RS 42:77",
+      "title": "Personal right of action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99522"
+    },
+    {
+      "order": 85,
+      "citation": "RS 42:78",
+      "title": "Service; answer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99523"
+    },
+    {
+      "order": 86,
+      "citation": "RS 42:79",
+      "title": "Interested persons to be joined with state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99524"
+    },
+    {
+      "order": 87,
+      "citation": "RS 42:80",
+      "title": "Complaint; decree",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99526"
+    },
+    {
+      "order": 88,
+      "citation": "RS 42:81",
+      "title": "Demand for possession",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99536"
+    },
+    {
+      "order": 89,
+      "citation": "RS 42:82",
+      "title": "Damages",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99539"
+    },
+    {
+      "order": 90,
+      "citation": "RS 42:83",
+      "title": "Joinder of claimants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99541"
+    },
+    {
+      "order": 91,
+      "citation": "RS 42:84",
+      "title": "Defendant liable for costs and damages",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99542"
+    },
+    {
+      "order": 92,
+      "citation": "RS 42:85",
+      "title": "Appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99543"
+    },
+    {
+      "order": 93,
+      "citation": "RS 42:86",
+      "title": "Manner of trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99553"
+    },
+    {
+      "order": 94,
+      "citation": "RS 42:87",
+      "title": "Discontinuance of contests",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99554"
+    },
+    {
+      "order": 95,
+      "citation": "RS 42:91",
+      "title": "Purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99560"
+    },
+    {
+      "order": 96,
+      "citation": "RS 42:92",
+      "title": "Automatic removal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99561"
+    },
+    {
+      "order": 97,
+      "citation": "RS 42:141",
+      "title": "Time limitation on oath and bond; failure to comply",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99332"
+    },
+    {
+      "order": 98,
+      "citation": "RS 42:142",
+      "title": "Time limitation for persons in military service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99339"
+    },
+    {
+      "order": 99,
+      "citation": "RS 42:161",
+      "title": "Public officers to take constitutional oath",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99354"
+    },
+    {
+      "order": 100,
+      "citation": "RS 42:162",
+      "title": "Administration and recordation of oath or affirmation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99355"
+    },
+    {
+      "order": 101,
+      "citation": "RS 42:163",
+      "title": "Public officers; date salary commences",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99356"
+    },
+    {
+      "order": 102,
+      "citation": "RS 42:181",
+      "title": "Bond with surety residing in parish, or by surety company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99357"
+    },
+    {
+      "order": 103,
+      "citation": "RS 42:182",
+      "title": "Officers to whom not applicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99358"
+    },
+    {
+      "order": 104,
+      "citation": "RS 42:183",
+      "title": "To whom bond payable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99359"
+    },
+    {
+      "order": 105,
+      "citation": "RS 42:184",
+      "title": "Acceptance of bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99360"
+    },
+    {
+      "order": 106,
+      "citation": "RS 42:185",
+      "title": "Acceptance of sureties to be unanimous; appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99361"
+    },
+    {
+      "order": 107,
+      "citation": "RS 42:186",
+      "title": "Authentication and recordation of bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99362"
+    },
+    {
+      "order": 108,
+      "citation": "RS 42:187",
+      "title": "Bond operates as mortgage except when signed by surety company",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99363"
+    },
+    {
+      "order": 109,
+      "citation": "RS 42:188",
+      "title": "Bond to remain on file; copy admissible in evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99364"
+    },
+    {
+      "order": 110,
+      "citation": "RS 42:189",
+      "title": "Duty of recorder to transmit copies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99365"
+    },
+    {
+      "order": 111,
+      "citation": "RS 42:190",
+      "title": "Release of surety for cause; new bond",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99366"
+    },
+    {
+      "order": 112,
+      "citation": "RS 42:191",
+      "title": "Effect of failure to give new bond",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99367"
+    },
+    {
+      "order": 113,
+      "citation": "RS 42:192",
+      "title": "Summary proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99368"
+    },
+    {
+      "order": 114,
+      "citation": "RS 42:193",
+      "title": "Suits to test sufficiency of surety; summary trial; appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99369"
+    },
+    {
+      "order": 115,
+      "citation": "RS 42:194",
+      "title": "New bond",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99370"
+    },
+    {
+      "order": 116,
+      "citation": "RS 42:195",
+      "title": "Change in salary or compensation not to discharge bonds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99371"
+    },
+    {
+      "order": 117,
+      "citation": "RS 42:196",
+      "title": "Sale of land of principal and sureties upon execution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99372"
+    },
+    {
+      "order": 118,
+      "citation": "RS 42:197",
+      "title": "Amount of liability may be stipulated",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99373"
+    },
+    {
+      "order": 119,
+      "citation": "RS 42:198",
+      "title": "Special mortgage may be substituted for bond; appraisal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99374"
+    },
+    {
+      "order": 120,
+      "citation": "RS 42:199",
+      "title": "Release of sureties by special mortgage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99375"
+    },
+    {
+      "order": 121,
+      "citation": "RS 42:200",
+      "title": "Effect of special mortgage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99377"
+    },
+    {
+      "order": 122,
+      "citation": "RS 42:201",
+      "title": "Special mortgage may be transferred to other property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99378"
+    },
+    {
+      "order": 123,
+      "citation": "RS 42:202",
+      "title": "Mode of transfer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99379"
+    },
+    {
+      "order": 124,
+      "citation": "RS 42:203",
+      "title": "Annulment of bonds and mortgages after expiration of office, etc.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99380"
+    },
+    {
+      "order": 125,
+      "citation": "RS 42:204",
+      "title": "Repealed by Acts 1964, No. 233, 2",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99381"
+    },
+    {
+      "order": 126,
+      "citation": "RS 42:206",
+      "title": "Premium on bonds, how paid",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99382"
+    },
+    {
+      "order": 127,
+      "citation": "RS 42:261",
+      "title": "District attorneys; counsel for boards and commissions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99383"
+    },
+    {
+      "order": 128,
+      "citation": "RS 42:261.1",
+      "title": "Certain parish and city school boards; employment of general attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99384"
+    },
+    {
+      "order": 129,
+      "citation": "RS 42:261.2",
+      "title": "Repealed by Acts 1983, No. 475, 3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99385"
+    },
+    {
+      "order": 130,
+      "citation": "RS 42:261.3",
+      "title": "Execution of personal judgments against public officials",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99386"
+    },
+    {
+      "order": 131,
+      "citation": "RS 42:262",
+      "title": "Special attorney or counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99387"
+    },
+    {
+      "order": 132,
+      "citation": "RS 42:263",
+      "title": "Resolution requesting special counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99388"
+    },
+    {
+      "order": 133,
+      "citation": "RS 42:264",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99389"
+    },
+    {
+      "order": 134,
+      "citation": "RS 42:265",
+      "title": "Special services by attorney general",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99390"
+    },
+    {
+      "order": 135,
+      "citation": "RS 42:266",
+      "title": "Mailing of notices, documents or communications: registration or certification optional",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99391"
+    },
+    {
+      "order": 136,
+      "citation": "RS 42:267",
+      "title": "Naming public buildings, etc., in honor of a living person prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99392"
+    },
+    {
+      "order": 137,
+      "citation": "RS 42:281",
+      "title": "Officers to render account of contingent fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99393"
+    },
+    {
+      "order": 138,
+      "citation": "RS 42:282",
+      "title": "Record of monies received; penalty for violation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99394"
+    },
+    {
+      "order": 139,
+      "citation": "RS 42:282.1",
+      "title": "Disbursement of funds by state agency, board or commission; information to be provided to legislators; penalty for violation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99395"
+    },
+    {
+      "order": 140,
+      "citation": "RS 42:283",
+      "title": "Expenditures to be reported to police juries and clerks of court",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99396"
+    },
+    {
+      "order": 141,
+      "citation": "RS 42:284",
+      "title": "Reports, classification, and itemization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99397"
+    },
+    {
+      "order": 142,
+      "citation": "RS 42:285",
+      "title": "Names of deputies, employees, etc., and compensation to be reported",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99398"
+    },
+    {
+      "order": 143,
+      "citation": "RS 42:286",
+      "title": "Time of making report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99399"
+    },
+    {
+      "order": 144,
+      "citation": "RS 42:287",
+      "title": "Publication of reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99400"
+    },
+    {
+      "order": 145,
+      "citation": "RS 42:288",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99401"
+    },
+    {
+      "order": 146,
+      "citation": "RS 42:289",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99402"
+    },
+    {
+      "order": 147,
+      "citation": "RS 42:290",
+      "title": "Filing of information on employees; exceptions; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99403"
+    },
+    {
+      "order": 148,
+      "citation": "RS 42:291",
+      "title": "Compilation of reported information; reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99404"
+    },
+    {
+      "order": 149,
+      "citation": "RS 42:301",
+      "title": "Default in settlement of arrears; suspension from office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99407"
+    },
+    {
+      "order": 150,
+      "citation": "RS 42:302",
+      "title": "Temporary appointment during suspension",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99408"
+    },
+    {
+      "order": 151,
+      "citation": "RS 42:303",
+      "title": "Power of governor to remove for cause is not modified",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99409"
+    },
+    {
+      "order": 152,
+      "citation": "RS 42:304",
+      "title": "Report of defaulters by State Auditor to legislature",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99410"
+    },
+    {
+      "order": 153,
+      "citation": "RS 42:305",
+      "title": "Annual report of defaulters; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99411"
+    },
+    {
+      "order": 154,
+      "citation": "RS 42:306",
+      "title": "Annual publication of list of defaulters",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99412"
+    },
+    {
+      "order": 155,
+      "citation": "RS 42:307",
+      "title": "Governor to publish annually list of defaulters reported to him",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99413"
+    },
+    {
+      "order": 156,
+      "citation": "RS 42:321",
+      "title": "Outgoing officer to deliver records to successor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99416"
+    },
+    {
+      "order": 157,
+      "citation": "RS 42:322",
+      "title": "Penalty for failure to deliver records; application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99417"
+    },
+    {
+      "order": 158,
+      "citation": "RS 42:331",
+      "title": "Authority of first assistants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99419"
+    },
+    {
+      "order": 159,
+      "citation": "RS 42:341",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99421"
+    },
+    {
+      "order": 160,
+      "citation": "RS 42:342",
+      "title": "Mandatory policy prohibiting sexual harassment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107427"
+    },
+    {
+      "order": 161,
+      "citation": "RS 42:343",
+      "title": "Preventing sexual harassment; mandatory training requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107429"
+    },
+    {
+      "order": 162,
+      "citation": "RS 42:344",
+      "title": "Mandatory reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107430"
+    },
+    {
+      "order": 163,
+      "citation": "RS 42:345",
+      "title": "Department of State Civil Service; assistance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107431"
+    },
+    {
+      "order": 164,
+      "citation": "RS 42:351",
+      "title": "Declaration of public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1148085"
+    },
+    {
+      "order": 165,
+      "citation": "RS 42:352",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1148086"
+    },
+    {
+      "order": 166,
+      "citation": "RS 42:353",
+      "title": "Litigation and settlements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1148087"
+    },
+    {
+      "order": 167,
+      "citation": "RS 42:354",
+      "title": "Dissemination of information to all elected officials, public employees, and public servants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1148088"
+    },
+    {
+      "order": 168,
+      "citation": "RS 42:355",
+      "title": "Public record; exception",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1148089"
+    },
+    {
+      "order": 169,
+      "citation": "RS 42:371",
+      "title": "VACANCIES",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99425"
+    },
+    {
+      "order": 170,
+      "citation": "RS 42:372",
+      "title": "Repealed by Acts 1981, No. 839, 3",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99426"
+    },
+    {
+      "order": 171,
+      "citation": "RS 42:373",
+      "title": "Repealed by Acts 2014, No. 202, §2, eff. May 22, 2014.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99427"
+    },
+    {
+      "order": 172,
+      "citation": "RS 42:374",
+      "title": "Appointments by governor and senate; when nominations to be sent to senate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99428"
+    },
+    {
+      "order": 173,
+      "citation": "RS 42:375",
+      "title": "Vacancies in positions of employment; regulation of filling; executive orders contents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99429"
+    },
+    {
+      "order": 174,
+      "citation": "RS 42:375.2",
+      "title": "Agency attrition analysis process, higher education systems",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727658"
+    },
+    {
+      "order": 175,
+      "citation": "RS 42:376",
+      "title": "Appointments by governor; withdrawal prior to Senate confirmation; interim appointment prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99430"
+    },
+    {
+      "order": 176,
+      "citation": "RS 42:391",
+      "title": "LEAVE OF ABSENCE, REINSTATEMENT",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99435"
+    },
+    {
+      "order": 177,
+      "citation": "RS 42:392",
+      "title": "Leave of absence for public officers who are members of the reserve forces",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99436"
+    },
+    {
+      "order": 178,
+      "citation": "RS 42:393",
+      "title": "Designation of deputy; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99437"
+    },
+    {
+      "order": 179,
+      "citation": "RS 42:394",
+      "title": "Leave of absence for officers and employees in certain branches of armed forces",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99438"
+    },
+    {
+      "order": 180,
+      "citation": "RS 42:395",
+      "title": "Governor may grant leave to appointive officials in armed forces; salary to cease",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99439"
+    },
+    {
+      "order": 181,
+      "citation": "RS 42:396",
+      "title": "Temporary appointments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99440"
+    },
+    {
+      "order": 182,
+      "citation": "RS 42:397",
+      "title": "Reinstatement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99441"
+    },
+    {
+      "order": 183,
+      "citation": "RS 42:398",
+      "title": "Leave not accrued; unclassified health care professional employee pool",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321415"
+    },
+    {
+      "order": 184,
+      "citation": "RS 42:401",
+      "title": "Reinstatement after military service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99445"
+    },
+    {
+      "order": 185,
+      "citation": "RS 42:402",
+      "title": "Officers and employees who may be reinstated",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99446"
+    },
+    {
+      "order": 186,
+      "citation": "RS 42:403",
+      "title": "Application for reinstatement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99447"
+    },
+    {
+      "order": 187,
+      "citation": "RS 42:404",
+      "title": "Persons to whom reinstatement provisions do not apply",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99448"
+    },
+    {
+      "order": 188,
+      "citation": "RS 42:405",
+      "title": "Mandamus proceedings to enforce reinstatement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99449"
+    },
+    {
+      "order": 189,
+      "citation": "RS 42:406",
+      "title": "Penalty for violation of provisions of this Part",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99450"
+    },
+    {
+      "order": 190,
+      "citation": "RS 42:421",
+      "title": "Annual leave; limitation on amount of payment in lieu thereof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99451"
+    },
+    {
+      "order": 191,
+      "citation": "RS 42:431",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99452"
+    },
+    {
+      "order": 192,
+      "citation": "RS 42:432",
+      "title": "Leave of absence to participate in Athletic competition on the world, Pan American, or Olympic level",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99453"
+    },
+    {
+      "order": 193,
+      "citation": "RS 42:433",
+      "title": "Notification of employer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99454"
+    },
+    {
+      "order": 194,
+      "citation": "RS 42:434",
+      "title": "Cancellation of leave",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99455"
+    },
+    {
+      "order": 195,
+      "citation": "RS 42:435",
+      "title": "Reimbursement of costs for substitute",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99456"
+    },
+    {
+      "order": 196,
+      "citation": "RS 42:441",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99457"
+    },
+    {
+      "order": 197,
+      "citation": "RS 42:442",
+      "title": "Leave transfer pools; establishment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99458"
+    },
+    {
+      "order": 198,
+      "citation": "RS 42:443",
+      "title": "Pool leave account; participation; use",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99459"
+    },
+    {
+      "order": 199,
+      "citation": "RS 42:444",
+      "title": "Pool account leave request",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99460"
+    },
+    {
+      "order": 200,
+      "citation": "RS 42:445",
+      "title": "Agency procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99461"
+    },
+    {
+      "order": 201,
+      "citation": "RS 42:446",
+      "title": "Agency considerations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99462"
+    },
+    {
+      "order": 202,
+      "citation": "RS 42:447",
+      "title": "Leave remaining after termination of personal emergency",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99463"
+    },
+    {
+      "order": 203,
+      "citation": "RS 42:450.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99464"
+    },
+    {
+      "order": 204,
+      "citation": "RS 42:450.2",
+      "title": "Leave of absence; disaster relief; annual limitation; compensation and benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99465"
+    },
+    {
+      "order": 205,
+      "citation": "RS 42:450.3",
+      "title": "Notification of employer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99466"
+    },
+    {
+      "order": 206,
+      "citation": "RS 42:450.4",
+      "title": "Reinstatement after disaster service leave",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99467"
+    },
+    {
+      "order": 207,
+      "citation": "RS 42:450.5",
+      "title": "Employing agency discretion",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99468"
+    },
+    {
+      "order": 208,
+      "citation": "RS 42:451",
+      "title": "PAYROLL WITHHOLDINGS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99469"
+    },
+    {
+      "order": 209,
+      "citation": "RS 42:452",
+      "title": "U.S. Series \"EE\" Bond Account/Fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99470"
+    },
+    {
+      "order": 210,
+      "citation": "RS 42:453",
+      "title": "Payroll System Custodian declared trustee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99471"
+    },
+    {
+      "order": 211,
+      "citation": "RS 42:454",
+      "title": "Deductions and credits; refunds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99472"
+    },
+    {
+      "order": 212,
+      "citation": "RS 42:455",
+      "title": "Payroll deduction rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99473"
+    },
+    {
+      "order": 213,
+      "citation": "RS 42:456",
+      "title": "Permitted withholdings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99474"
+    },
+    {
+      "order": 214,
+      "citation": "RS 42:456.1",
+      "title": "Permitted withholding; Louisiana Student Tuition Assistance and Revenue Trust Program education savings account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99475"
+    },
+    {
+      "order": 215,
+      "citation": "RS 42:456.2",
+      "title": "Permitted withholding; Louisiana Student Tuition Assistance and Revenue Trust Kindergarten Through Grade Twelve Program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99476"
+    },
+    {
+      "order": 216,
+      "citation": "RS 42:457",
+      "title": "Union dues",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99477"
+    },
+    {
+      "order": 217,
+      "citation": "RS 42:457.1",
+      "title": "Professional law enforcement and firefighter association dues",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99478"
+    },
+    {
+      "order": 218,
+      "citation": "RS 42:458",
+      "title": "Deduction fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99479"
+    },
+    {
+      "order": 219,
+      "citation": "RS 42:459",
+      "title": "Waiver of increase in salary or compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99480"
+    },
+    {
+      "order": 220,
+      "citation": "RS 42:460",
+      "title": "Recoupment of overpayments; establishment of rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207172"
+    },
+    {
+      "order": 221,
+      "citation": "RS 42:461",
+      "title": "State employee compensation payments via electronic funds transfer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285454"
+    },
+    {
+      "order": 222,
+      "citation": "RS 42:541",
+      "title": "RETIREMENT",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99487"
+    },
+    {
+      "order": 223,
+      "citation": "RS 42:721",
+      "title": "LOUISIANA MERIT SYSTEM",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99511"
+    },
+    {
+      "order": 224,
+      "citation": "RS 42:722",
+      "title": "Agencies governed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99512"
+    },
+    {
+      "order": 225,
+      "citation": "RS 42:723",
+      "title": "Positions exempted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99513"
+    },
+    {
+      "order": 226,
+      "citation": "RS 42:724",
+      "title": "To 727 repealed by Acts 1989, No. 662, 8, eff. July 7, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99514"
+    },
+    {
+      "order": 227,
+      "citation": "RS 42:728",
+      "title": "Duties of the merit system director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99515"
+    },
+    {
+      "order": 228,
+      "citation": "RS 42:729",
+      "title": "Statement of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99516"
+    },
+    {
+      "order": 229,
+      "citation": "RS 42:730",
+      "title": "Definitions; interchange of employees; authority of agency heads",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99518"
+    },
+    {
+      "order": 230,
+      "citation": "RS 42:801",
+      "title": "Administration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99527"
+    },
+    {
+      "order": 231,
+      "citation": "RS 42:802",
+      "title": "Powers and duties; Office of Group Benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99528"
+    },
+    {
+      "order": 232,
+      "citation": "RS 42:802.1",
+      "title": "Benefit plans for provision of coverage through a fully insured product provided by a health maintenance organization domiciled in Louisiana",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452800"
+    },
+    {
+      "order": 233,
+      "citation": "RS 42:803",
+      "title": "Chief executive officer; chief operating officer; powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99529"
+    },
+    {
+      "order": 234,
+      "citation": "RS 42:804",
+      "title": "Repealed by Acts 2018, No. 676, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99530"
+    },
+    {
+      "order": 235,
+      "citation": "RS 42:805",
+      "title": "Collection and deposit of contributions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99531"
+    },
+    {
+      "order": 236,
+      "citation": "RS 42:806",
+      "title": "Claims",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99532"
+    },
+    {
+      "order": 237,
+      "citation": "RS 42:807",
+      "title": "Retroactive cancellation of coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99533"
+    },
+    {
+      "order": 238,
+      "citation": "RS 42:808",
+      "title": "Eligibility in group programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99534"
+    },
+    {
+      "order": 239,
+      "citation": "RS 42:809",
+      "title": "Payroll deductions for payment of premiums, surcharges, and other voluntary contributions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99535"
+    },
+    {
+      "order": 240,
+      "citation": "RS 42:810",
+      "title": "Audit of program accounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99537"
+    },
+    {
+      "order": 241,
+      "citation": "RS 42:811",
+      "title": "Termination provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99538"
+    },
+    {
+      "order": 242,
+      "citation": "RS 42:812",
+      "title": "Transparency in prior authorizations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1295394"
+    },
+    {
+      "order": 243,
+      "citation": "RS 42:813",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1391556"
+    },
+    {
+      "order": 244,
+      "citation": "RS 42:814",
+      "title": "Revenue reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1391558"
+    },
+    {
+      "order": 245,
+      "citation": "RS 42:815",
+      "title": "Administrators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1391559"
+    },
+    {
+      "order": 246,
+      "citation": "RS 42:816",
+      "title": "Pharmacy benefit managers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1391560"
+    },
+    {
+      "order": 247,
+      "citation": "RS 42:817",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1391561"
+    },
+    {
+      "order": 248,
+      "citation": "RS 42:821",
+      "title": "Authority for employee benefit programs; payment of premiums out of appropriated funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99540"
+    },
+    {
+      "order": 249,
+      "citation": "RS 42:851",
+      "title": "Authority for employee benefit programs; payroll deduction for payment of premiums",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99544"
+    },
+    {
+      "order": 250,
+      "citation": "RS 42:852",
+      "title": "Coverage for optometric services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99545"
+    },
+    {
+      "order": 251,
+      "citation": "RS 42:853",
+      "title": "Coverage for chiropractic services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99546"
+    },
+    {
+      "order": 252,
+      "citation": "RS 42:854",
+      "title": "Fee schedules; discounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99547"
+    },
+    {
+      "order": 253,
+      "citation": "RS 42:855",
+      "title": "Repealed by Acts 2018, No. 676, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99548"
+    },
+    {
+      "order": 254,
+      "citation": "RS 42:856",
+      "title": "Optional coverage for rehabilitative physical therapy, speech and language pathology therapy, and occupational therapy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99549"
+    },
+    {
+      "order": 255,
+      "citation": "RS 42:857",
+      "title": "Authorization for surcharge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99550"
+    },
+    {
+      "order": 256,
+      "citation": "RS 42:858",
+      "title": "Contracts to be subject to other laws concerning group insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99551"
+    },
+    {
+      "order": 257,
+      "citation": "RS 42:859",
+      "title": "Refund of expenditures ineligible for reimbursement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99552"
+    },
+    {
+      "order": 258,
+      "citation": "RS 42: 860",
+      "title": "Severe obesity; legislative findings; coverage required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239491"
+    },
+    {
+      "order": 259,
+      "citation": "RS 42:871",
+      "title": "Group retirement plans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99555"
+    },
+    {
+      "order": 260,
+      "citation": "RS 42:881",
+      "title": "Establishment of the Group Benefits Policy and Planning Board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99556"
+    },
+    {
+      "order": 261,
+      "citation": "RS 42:882",
+      "title": "Composition of board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99557"
+    },
+    {
+      "order": 262,
+      "citation": "RS 42:883",
+      "title": "Officers, oath, meetings, quorum, minutes, reports, compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99558"
+    },
+    {
+      "order": 263,
+      "citation": "RS 42:1001",
+      "title": "Declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99199"
+    },
+    {
+      "order": 264,
+      "citation": "RS 42:1002",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99200"
+    },
+    {
+      "order": 265,
+      "citation": "RS 42:1003",
+      "title": "Federal-State agreement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99201"
+    },
+    {
+      "order": 266,
+      "citation": "RS 42:1004",
+      "title": "Contributions by state employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99202"
+    },
+    {
+      "order": 267,
+      "citation": "RS 42:1005",
+      "title": "Plans for coverage of employees of political subdivision and of state and local instrumentalities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99203"
+    },
+    {
+      "order": 268,
+      "citation": "RS 42:1006",
+      "title": "Repealed by Acts 2004, No. 280, §2, eff. July 1, 2004.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99204"
+    },
+    {
+      "order": 269,
+      "citation": "RS 42:1007",
+      "title": "Repealed by Acts 2004, No. 280, §2, eff. July 1, 2004.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99205"
+    },
+    {
+      "order": 270,
+      "citation": "RS 42:1008",
+      "title": "Rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99206"
+    },
+    {
+      "order": 271,
+      "citation": "RS 42:1009",
+      "title": "Studies and reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99207"
+    },
+    {
+      "order": 272,
+      "citation": "RS 42:1010",
+      "title": "Referenda and certification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99208"
+    },
+    {
+      "order": 273,
+      "citation": "RS 42:1011",
+      "title": "Effective date of agreement or modification for coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99209"
+    },
+    {
+      "order": 274,
+      "citation": "RS 42:1051",
+      "title": "SUBSISTENCE ALLOWANCE",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99210"
+    },
+    {
+      "order": 275,
+      "citation": "RS 42:1052",
+      "title": "Political subdivisions; authorization to designate portion of police salary as subsistence allowance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99211"
+    },
+    {
+      "order": 276,
+      "citation": "RS 42:1101",
+      "title": "CODE OF GOVERNMENTAL ETHICS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99213"
+    },
+    {
+      "order": 277,
+      "citation": "RS 42:1102",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99214"
+    },
+    {
+      "order": 278,
+      "citation": "RS 42:1111",
+      "title": "Payment from nonpublic sources",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99215"
+    },
+    {
+      "order": 279,
+      "citation": "RS 42:1111.1",
+      "title": "Charitable giving to public servants during gubernatorially declared disasters and emergencies; limitations; requirements; annual reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1055497"
+    },
+    {
+      "order": 280,
+      "citation": "RS 42:1112",
+      "title": "Participation in certain transactions involving the governmental entity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99216"
+    },
+    {
+      "order": 281,
+      "citation": "RS 42:1112.1",
+      "title": "Service on a civil service commission; recusal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1017833"
+    },
+    {
+      "order": 282,
+      "citation": "RS 42:1113",
+      "title": "Prohibited contractual arrangements; exceptions; reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99217"
+    },
+    {
+      "order": 283,
+      "citation": "RS 42:1113.1",
+      "title": "Gubernatorially declared emergencies or disasters; prohibited personal use conversion and prohibited preferences",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452801"
+    },
+    {
+      "order": 284,
+      "citation": "RS 42:1114",
+      "title": "Financial disclosure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99218"
+    },
+    {
+      "order": 285,
+      "citation": "RS 42:1114.1",
+      "title": "Repealed by Acts 2008, 1st Ex. Sess., No. 1, §3, eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99219"
+    },
+    {
+      "order": 286,
+      "citation": "RS 42:1114.2",
+      "title": "Financial disclosure; retirement systems",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285461"
+    },
+    {
+      "order": 287,
+      "citation": "RS 42:1114.3",
+      "title": "Disaster or emergency contracts; prohibition; disclosure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=330363"
+    },
+    {
+      "order": 288,
+      "citation": "RS 42:1115",
+      "title": "Gifts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99220"
+    },
+    {
+      "order": 289,
+      "citation": "RS 42:1115.1",
+      "title": "Limitation on food, drink, and refreshment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=473275"
+    },
+    {
+      "order": 290,
+      "citation": "RS 42:1115.2",
+      "title": "Admission to events; lodging; travel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107434"
+    },
+    {
+      "order": 291,
+      "citation": "RS 42:1116",
+      "title": "Abuse of office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99221"
+    },
+    {
+      "order": 292,
+      "citation": "RS 42:1116.1",
+      "title": "Repealed by Acts 2003, No. 1292, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99222"
+    },
+    {
+      "order": 293,
+      "citation": "RS 42:1117",
+      "title": "Illegal payments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99223"
+    },
+    {
+      "order": 294,
+      "citation": "RS 42:1117.1",
+      "title": "Subterfuge to avoid compliance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=473276"
+    },
+    {
+      "order": 295,
+      "citation": "RS 42:1118",
+      "title": "Influencing action by legislature or governing authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99224"
+    },
+    {
+      "order": 296,
+      "citation": "RS 42:1118.1",
+      "title": "Studies or position papers on public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99225"
+    },
+    {
+      "order": 297,
+      "citation": "RS 42:1119",
+      "title": "Nepotism",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99226"
+    },
+    {
+      "order": 298,
+      "citation": "RS 42:1120",
+      "title": "Recusal from voting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99227"
+    },
+    {
+      "order": 299,
+      "citation": "RS 42:1120.1",
+      "title": "Repealed by Acts 2018, No. 534, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99228"
+    },
+    {
+      "order": 300,
+      "citation": "RS 42:1120.2",
+      "title": "Repealed by Acts 2008, No. 685, §2 .",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99229"
+    },
+    {
+      "order": 301,
+      "citation": "RS 42:1120.3",
+      "title": "Repealed by Acts 2008, No. 685, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410789"
+    },
+    {
+      "order": 302,
+      "citation": "RS 42:1120.4",
+      "title": "Recusal from voting; certain appointed members of boards and commissions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631412"
+    },
+    {
+      "order": 303,
+      "citation": "RS 42:1121",
+      "title": "Assistance to certain persons after termination of public service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99230"
+    },
+    {
+      "order": 304,
+      "citation": "RS 42:1121.1",
+      "title": "Assistance to certain persons after termination of public service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410800"
+    },
+    {
+      "order": 305,
+      "citation": "RS 42:1122",
+      "title": "Continuation in certain pension and other plans by public servants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99231"
+    },
+    {
+      "order": 306,
+      "citation": "RS 42:1123",
+      "title": "Exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99232"
+    },
+    {
+      "order": 307,
+      "citation": "RS 42:1123.1",
+      "title": "Exception; operation of hospital owned by Hospital Service District Number Two of Beauregard Parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860401"
+    },
+    {
+      "order": 308,
+      "citation": "RS 42:1123.2",
+      "title": "Exception; certain positions at the Louisiana Department of Health",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107438"
+    },
+    {
+      "order": 309,
+      "citation": "RS 42:1124",
+      "title": "Financial disclosure; statewide elected officials; certain public servants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99233"
+    },
+    {
+      "order": 310,
+      "citation": "RS 42:1124.1",
+      "title": "Penalties; required reports; failure to file; timely and accurate filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99234"
+    },
+    {
+      "order": 311,
+      "citation": "RS 42:1124.2",
+      "title": "Financial disclosure; certain elected officials; members of certain boards and commissions; ethics administrator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=473277"
+    },
+    {
+      "order": 312,
+      "citation": "RS 42:1124.2.1",
+      "title": "Financial disclosure; members of boards and commissions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631422"
+    },
+    {
+      "order": 313,
+      "citation": "RS 42:1124.3",
+      "title": "Financial disclosure; certain elected officials, voting districts of under five thousand",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=473278"
+    },
+    {
+      "order": 314,
+      "citation": "RS 42:1124.4",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=473279"
+    },
+    {
+      "order": 315,
+      "citation": "RS 42:1124.5",
+      "title": "Disclosure; Board of Ethics; ethics administrator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=473280"
+    },
+    {
+      "order": 316,
+      "citation": "RS 42:1124.6",
+      "title": "Disclosure statements; certain agency heads and appointees to state boards and commissions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=671474"
+    },
+    {
+      "order": 317,
+      "citation": "RS 42:1125",
+      "title": "Redesignated as R.S. 18:1501.3 by Acts 2024, No. 664, § 4.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99235"
+    },
+    {
+      "order": 318,
+      "citation": "RS 42:1130.1",
+      "title": "Legislative findings and intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631437"
+    },
+    {
+      "order": 319,
+      "citation": "RS 42:1130.2",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631438"
+    },
+    {
+      "order": 320,
+      "citation": "RS 42:1130.3",
+      "title": "Enforcement; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631439"
+    },
+    {
+      "order": 321,
+      "citation": "RS 42:1130.4",
+      "title": "False statements by candidate or political committee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631440"
+    },
+    {
+      "order": 322,
+      "citation": "RS 42:1130.5",
+      "title": "Push polling; false statement, question, or information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631441"
+    },
+    {
+      "order": 323,
+      "citation": "RS 42:1130.6",
+      "title": "Deceptive caller identification information; prohibition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631442"
+    },
+    {
+      "order": 324,
+      "citation": "RS 42:1131",
+      "title": "Repealed by Acts 1996, 1st Ex. Sess., No. 64, 10, eff. Jan. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99236"
+    },
+    {
+      "order": 325,
+      "citation": "RS 42:1132",
+      "title": "Board of Ethics",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99237"
+    },
+    {
+      "order": 326,
+      "citation": "RS 42:1133",
+      "title": "Board of Ethics; quorum, recusal, compensation, and officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99238"
+    },
+    {
+      "order": 327,
+      "citation": "RS 42:1134",
+      "title": "Powers, duties, and responsibilities of the board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99239"
+    },
+    {
+      "order": 328,
+      "citation": "RS 42:1135",
+      "title": "Enforcement of regulation, decision, or order of the Board of Ethics",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99240"
+    },
+    {
+      "order": 329,
+      "citation": "RS 42:1136",
+      "title": "Broadcast and recordation of meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1431354"
+    },
+    {
+      "order": 330,
+      "citation": "RS 42:1141",
+      "title": "Complaints and investigations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99241"
+    },
+    {
+      "order": 331,
+      "citation": "RS 42:1141.1",
+      "title": "Repealed by Acts 2012, No. 608, §2, eff. June 7, 2012.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=473281"
+    },
+    {
+      "order": 332,
+      "citation": "RS 42:1141.2",
+      "title": "Ethics Adjudicatory Board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815527"
+    },
+    {
+      "order": 333,
+      "citation": "RS 42:1141.3",
+      "title": "Location of hearings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815528"
+    },
+    {
+      "order": 334,
+      "citation": "RS 42:1141.4",
+      "title": "Notice and procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815529"
+    },
+    {
+      "order": 335,
+      "citation": "RS 42:1141.5",
+      "title": "Adjudicatory hearings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815530"
+    },
+    {
+      "order": 336,
+      "citation": "RS 42:1141.6",
+      "title": "Declaratory opinions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815531"
+    },
+    {
+      "order": 337,
+      "citation": "RS 42:1141.7",
+      "title": "Motions and exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337761"
+    },
+    {
+      "order": 338,
+      "citation": "RS 42:1141.8",
+      "title": "Summary judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337762"
+    },
+    {
+      "order": 339,
+      "citation": "RS 42:1142",
+      "title": "Appeals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99242"
+    },
+    {
+      "order": 340,
+      "citation": "RS 42:1143",
+      "title": "Procedure and rules of evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99243"
+    },
+    {
+      "order": 341,
+      "citation": "RS 42:1151",
+      "title": "Administrative enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99244"
+    },
+    {
+      "order": 342,
+      "citation": "RS 42:1152",
+      "title": "Rescission of action of a governmental entity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99245"
+    },
+    {
+      "order": 343,
+      "citation": "RS 42:1153",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99246"
+    },
+    {
+      "order": 344,
+      "citation": "RS 42:1154",
+      "title": "Civil penalties for illegal payments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99247"
+    },
+    {
+      "order": 345,
+      "citation": "RS 42:1155",
+      "title": "Penalties for illegal gain; forfeiture of gifts, payments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99248"
+    },
+    {
+      "order": 346,
+      "citation": "RS 42:1156",
+      "title": "Finding of possible criminal violation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99249"
+    },
+    {
+      "order": 347,
+      "citation": "RS 42:1157",
+      "title": "Late filing fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99250"
+    },
+    {
+      "order": 348,
+      "citation": "RS 42:1157.1",
+      "title": "Timely filing of reports and statements due; presumption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99251"
+    },
+    {
+      "order": 349,
+      "citation": "RS 42:1157.2",
+      "title": "Repealed by Acts 2012, No. 608, §2, eff. June 7, 2012.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99252"
+    },
+    {
+      "order": 350,
+      "citation": "RS 42:1157.3",
+      "title": "Outside counsel; contingency fee; enforcement and collection authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99253"
+    },
+    {
+      "order": 351,
+      "citation": "RS 42:1158",
+      "title": "Board of Ethics Computerized Data Management System; purpose; goals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99254"
+    },
+    {
+      "order": 352,
+      "citation": "RS 42:1159",
+      "title": "Access; Internet; restrictions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=207173"
+    },
+    {
+      "order": 353,
+      "citation": "RS 42:1160",
+      "title": "Electronic response required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337764"
+    },
+    {
+      "order": 354,
+      "citation": "RS 42:1161",
+      "title": "Preventive measures by agency heads",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99255"
+    },
+    {
+      "order": 355,
+      "citation": "RS 42:1162",
+      "title": "Copy of ethics code to be furnished by the secretary of state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99256"
+    },
+    {
+      "order": 356,
+      "citation": "RS 42:1163",
+      "title": "Prescription",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99257"
+    },
+    {
+      "order": 357,
+      "citation": "RS 42:1164",
+      "title": "Criminal laws not affected",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99258"
+    },
+    {
+      "order": 358,
+      "citation": "RS 42:1165",
+      "title": "Authority of school boards to administer tenure laws not affected",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99259"
+    },
+    {
+      "order": 359,
+      "citation": "RS 42:1166",
+      "title": "Violation of code by tenured public employee of a state public higher education institution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99260"
+    },
+    {
+      "order": 360,
+      "citation": "RS 42:1167",
+      "title": "Judges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99261"
+    },
+    {
+      "order": 361,
+      "citation": "RS 42:1168",
+      "title": "Perjury; malfeasance in office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99262"
+    },
+    {
+      "order": 362,
+      "citation": "RS 42:1169",
+      "title": "Freedom from reprisal for disclosure of improper acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99263"
+    },
+    {
+      "order": 363,
+      "citation": "RS 42:1170",
+      "title": "Ethics education; mandatory requirements; ethics designee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99264"
+    },
+    {
+      "order": 364,
+      "citation": "RS 42:1191",
+      "title": "PART V.  EXPUNGEMENT\n§1191.  Eligibility; applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99265"
+    },
+    {
+      "order": 365,
+      "citation": "RS 42:1192",
+      "title": "Procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99266"
+    },
+    {
+      "order": 366,
+      "citation": "RS 42:1193",
+      "title": "Effect of expungement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99267"
+    },
+    {
+      "order": 367,
+      "citation": "RS 42:1194",
+      "title": "Confidentiality",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99268"
+    },
+    {
+      "order": 368,
+      "citation": "RS 42:1195",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99269"
+    },
+    {
+      "order": 369,
+      "citation": "RS 42:1196",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99270"
+    },
+    {
+      "order": 370,
+      "citation": "RS 42:1197",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99271"
+    },
+    {
+      "order": 371,
+      "citation": "RS 42:1198",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99272"
+    },
+    {
+      "order": 372,
+      "citation": "RS 42:1199",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99273"
+    },
+    {
+      "order": 373,
+      "citation": "RS 42:1200",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99275"
+    },
+    {
+      "order": 374,
+      "citation": "RS 42:1201",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99276"
+    },
+    {
+      "order": 375,
+      "citation": "RS 42:1202",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99277"
+    },
+    {
+      "order": 376,
+      "citation": "RS 42:1211",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99278"
+    },
+    {
+      "order": 377,
+      "citation": "RS 42:1212",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99279"
+    },
+    {
+      "order": 378,
+      "citation": "RS 42:1213",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99280"
+    },
+    {
+      "order": 379,
+      "citation": "RS 42:1214",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99281"
+    },
+    {
+      "order": 380,
+      "citation": "RS 42:1215",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99282"
+    },
+    {
+      "order": 381,
+      "citation": "RS 42:1216",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99283"
+    },
+    {
+      "order": 382,
+      "citation": "RS 42:1217",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99284"
+    },
+    {
+      "order": 383,
+      "citation": "RS 42:1218",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99285"
+    },
+    {
+      "order": 384,
+      "citation": "RS 42:1219",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99286"
+    },
+    {
+      "order": 385,
+      "citation": "RS 42:1220",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99287"
+    },
+    {
+      "order": 386,
+      "citation": "RS 42:1221",
+      "title": "Repealed by Acts 1993, No. 965, 3, eff. August 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99288"
+    },
+    {
+      "order": 387,
+      "citation": "RS 42:1251",
+      "title": "LOUISIANA STATE EMPLOYEES",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99289"
+    },
+    {
+      "order": 388,
+      "citation": "RS 42:1252",
+      "title": "Repealed by Acts 1987, No. 737, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99290"
+    },
+    {
+      "order": 389,
+      "citation": "RS 42:1253",
+      "title": "Repealed by Acts 1987, No. 737, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99291"
+    },
+    {
+      "order": 390,
+      "citation": "RS 42:1254",
+      "title": "Repealed by Acts 1987, No. 737, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99292"
+    },
+    {
+      "order": 391,
+      "citation": "RS 42:1255",
+      "title": "Repealed by Acts 1987, No. 737, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99293"
+    },
+    {
+      "order": 392,
+      "citation": "RS 42:1261",
+      "title": "In-service training and educational programs; conducted by state agencies; eligible employees; fees; policy board; contracts and agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99294"
+    },
+    {
+      "order": 393,
+      "citation": "RS 42:1262",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99295"
+    },
+    {
+      "order": 394,
+      "citation": "RS 42:1263",
+      "title": "Employee training program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99296"
+    },
+    {
+      "order": 395,
+      "citation": "RS 42:1264",
+      "title": "Review of needs and requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99297"
+    },
+    {
+      "order": 396,
+      "citation": "RS 42:1265",
+      "title": "Cooperative arrangements with educational institutions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99298"
+    },
+    {
+      "order": 397,
+      "citation": "RS 42:1266",
+      "title": "Required education; certain unclassified officials and employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=671480"
+    },
+    {
+      "order": 398,
+      "citation": "RS 42:1267",
+      "title": "Required training; cybersecurity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1187594"
+    },
+    {
+      "order": 399,
+      "citation": "RS 42:1301",
+      "title": "GOVERNMENT DEFERRED COMPENSATION PLAN",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99300"
+    },
+    {
+      "order": 400,
+      "citation": "RS 42:1302",
+      "title": "Louisiana Deferred Compensation Commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99301"
+    },
+    {
+      "order": 401,
+      "citation": "RS 42:1303",
+      "title": "Powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99302"
+    },
+    {
+      "order": 402,
+      "citation": "RS 42:1303.1",
+      "title": "Section 401(a) plan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99303"
+    },
+    {
+      "order": 403,
+      "citation": "RS 42:1304",
+      "title": "Meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99304"
+    },
+    {
+      "order": 404,
+      "citation": "RS 42:1305",
+      "title": "Audits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99305"
+    },
+    {
+      "order": 405,
+      "citation": "RS 42:1306",
+      "title": "Deferred amounts as compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99306"
+    },
+    {
+      "order": 406,
+      "citation": "RS 42:1307",
+      "title": "Public notice; publication",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99307"
+    },
+    {
+      "order": 407,
+      "citation": "RS 42:1308",
+      "title": "Transitional provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99308"
+    },
+    {
+      "order": 408,
+      "citation": "RS 42:1309",
+      "title": "District attorney deferred compensation program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99309"
+    },
+    {
+      "order": 409,
+      "citation": "RS 42:1351",
+      "title": "STATE CIVIL SERVICE COMMISSION",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99310"
+    },
+    {
+      "order": 410,
+      "citation": "RS 42:1352",
+      "title": "Call of election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99311"
+    },
+    {
+      "order": 411,
+      "citation": "RS 42:1353",
+      "title": "Nominations by petition; conduct of election; secret ballot",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99312"
+    },
+    {
+      "order": 412,
+      "citation": "RS 42:1354",
+      "title": "Ballots; distribution; vote; return; counting; rejection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99313"
+    },
+    {
+      "order": 413,
+      "citation": "RS 42:1355",
+      "title": "Secrecy of ballot; interference with voter; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99314"
+    },
+    {
+      "order": 414,
+      "citation": "RS 42:1356",
+      "title": "Cost of election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99315"
+    },
+    {
+      "order": 415,
+      "citation": "RS 42:1357",
+      "title": "Election; results; rules and regulations; promulgation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99316"
+    },
+    {
+      "order": 416,
+      "citation": "RS 42:1358",
+      "title": "Contest of election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99317"
+    },
+    {
+      "order": 417,
+      "citation": "RS 42:1359",
+      "title": "Initial election; successors; vacancies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99318"
+    },
+    {
+      "order": 418,
+      "citation": "RS 42:1360",
+      "title": "Runoff election; qualifying of candidates; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99319"
+    },
+    {
+      "order": 419,
+      "citation": "RS 42:1381",
+      "title": "Members of state and other civil service commissions; compensation and expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99320"
+    },
+    {
+      "order": 420,
+      "citation": "RS 42:1382",
+      "title": "State department of civil service; advisory opinions on political activity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99321"
+    },
+    {
+      "order": 421,
+      "citation": "RS 42:1383",
+      "title": "Department of State Civil Service; appropriations; pro rata share paid by other agencies; billing; collection calculations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99322"
+    },
+    {
+      "order": 422,
+      "citation": "RS 42:1401",
+      "title": "STATE POLICE COMMISSION",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99323"
+    },
+    {
+      "order": 423,
+      "citation": "RS 42:1402",
+      "title": "Call of election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99324"
+    },
+    {
+      "order": 424,
+      "citation": "RS 42:1403",
+      "title": "Nominations by petition; conduct of election; secret ballot",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99325"
+    },
+    {
+      "order": 425,
+      "citation": "RS 42:1404",
+      "title": "Ballots; distribution; vote; return; counting; rejection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99326"
+    },
+    {
+      "order": 426,
+      "citation": "RS 42:1405",
+      "title": "Secrecy of ballot; interference with voter; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99327"
+    },
+    {
+      "order": 427,
+      "citation": "RS 42:1406",
+      "title": "Cost of election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99328"
+    },
+    {
+      "order": 428,
+      "citation": "RS 42:1407",
+      "title": "Election; results; rules and regulations; promulgation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99329"
+    },
+    {
+      "order": 429,
+      "citation": "RS 42:1408",
+      "title": "Contest of election",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99330"
+    },
+    {
+      "order": 430,
+      "citation": "RS 42:1409",
+      "title": "Initial election; successors; vacancies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99331"
+    },
+    {
+      "order": 431,
+      "citation": "RS 42:1410",
+      "title": "Runoff election; qualifying of candidates; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99333"
+    },
+    {
+      "order": 432,
+      "citation": "RS 42:1410.1",
+      "title": "Members of State Police Commission; compensation and expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99334"
+    },
+    {
+      "order": 433,
+      "citation": "RS 42:1411",
+      "title": "REMOVAL OF PUBLIC OFFICERS BY SUIT",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99335"
+    },
+    {
+      "order": 434,
+      "citation": "RS 42:1412",
+      "title": "Method for removal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99336"
+    },
+    {
+      "order": 435,
+      "citation": "RS 42:1413",
+      "title": "Law enforcement officers; grounds for removal; method for removal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99337"
+    },
+    {
+      "order": 436,
+      "citation": "RS 42:1414",
+      "title": "State, district, parish, ward, and municipal employees; termination for conviction of a felony",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99338"
+    },
+    {
+      "order": 437,
+      "citation": "RS 42:1430",
+      "title": "COST OF LIVING SALARY INCREASE",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99340"
+    },
+    {
+      "order": 438,
+      "citation": "RS 42:1441",
+      "title": "Limitation on the liability of the state of Louisiana; indemnification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99341"
+    },
+    {
+      "order": 439,
+      "citation": "RS 42:1441.1",
+      "title": "Nonimposition of master-servant liability on state by Civil Code Article 2320 and other laws for torts of persons not designated state officials, officers, or employees by R.S. 13:5108.2",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99342"
+    },
+    {
+      "order": 440,
+      "citation": "RS 42:1441.2",
+      "title": "Nonimposition of master-servant liability on state by Civil Code Article 2320 and other laws for torts of parish officials; insurance coverage; interlocal risk management programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99343"
+    },
+    {
+      "order": 441,
+      "citation": "RS 42:1441.3",
+      "title": "Determination of master of officer of political subdivision for purposes of Civil Code Article 2320 and other master-servant tort liability laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99344"
+    },
+    {
+      "order": 442,
+      "citation": "RS 42:1441.4",
+      "title": "Legislative findings and purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99345"
+    },
+    {
+      "order": 443,
+      "citation": "RS 42:1442",
+      "title": "Law enforcement officers accused of crimes committed while acting within or in furtherance of their scope and course of employment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99346"
+    },
+    {
+      "order": 444,
+      "citation": "RS 42:1451",
+      "title": "APPEAL OF ACTION",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99347"
+    },
+    {
+      "order": 445,
+      "citation": "RS 42:1461",
+      "title": "PUBLIC PROPERTY, DUTIES OF OFFICIALS,",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99348"
+    },
+    {
+      "order": 446,
+      "citation": "RS 42:1471",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337770"
+    },
+    {
+      "order": 447,
+      "citation": "RS 42:1472",
+      "title": "Prohibited use of state computers and networks",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337771"
+    },
+    {
+      "order": 448,
+      "citation": "RS 42:1473",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337781"
+    },
+    {
+      "order": 449,
+      "citation": "RS 42:1474",
+      "title": "Exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337782"
+    },
+    {
+      "order": 450,
+      "citation": "RS 42:1481",
+      "title": "Repealed by Acts 2011, No. 207, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99349"
+    },
+    {
+      "order": 451,
+      "citation": "RS 42:1482",
+      "title": "Repealed by Acts 2011, No. 207, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99350"
+    },
+    {
+      "order": 452,
+      "citation": "RS 42:1483",
+      "title": "Repealed by Acts 2011, No. 207, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99351"
+    },
+    {
+      "order": 453,
+      "citation": "RS 42:1484",
+      "title": "Repealed by Acts 2011, No. 207, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99352"
+    },
+    {
+      "order": 454,
+      "citation": "RS 42:1485",
+      "title": "Repealed by Acts 2011, No. 207, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99353"
+    },
+    {
+      "order": 455,
+      "citation": "RS 42:1501",
+      "title": "Performance planning and review sessions; certification; increases in compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=671481"
+    },
+    {
+      "order": 456,
+      "citation": "RS 42:1601",
+      "title": "Duty to report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727667"
+    },
+    {
+      "order": 457,
+      "citation": "RS 42:1701",
+      "title": "Consideration of criminal history; prohibited acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1017837"
+    },
+    {
+      "order": 458,
+      "citation": "RS 42:1702",
+      "title": "Consideration of arrest records; prohibited acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1148097"
+    }
+  ]
+}

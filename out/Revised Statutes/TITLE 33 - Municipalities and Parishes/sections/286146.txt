@@ -1,0 +1,14 @@
+RS 33:9110
+Multi-line telephone systems
+https://www.legis.la.gov/legis/Law.aspx?d=286146
+
+§9110.  Multi-line telephone systems
+A.  As used in this Section, the following words and terms shall have the following meanings:
+(1)   "Automatic location identification" or "ALI" means the automatic display at the Public Safety Answering Point (PSAP) of the caller's telephone number, the address or location of the telephone, and the supplementary emergency services information.
+(2)  "Automatic location identification retrieval" or "ALI retrieval" means the process of querying the 9-1-1 database for all ALI records.
+(3)  "Automatic number identification or "ANI" means the telephone number associated with the access line from which a call originates.
+(4)  "District" means a communication district created pursuant to R.S. 33:9101 or pursuant to or by any local or special act except a district that is governed by the provisions of Part II of this Chapter unless otherwise provided by law.
+(5)  "Private branch exchange" or "PBX" means a private telephone system that is connected to the Public Switched Telephone Network (PSTN).
+(6)  "Private switch ALI" or "PSA" means a service option that provides enhanced 9-1-1 features for telephone stations behind private branch exchanges.
+B.  Each private branch exchange (PBX) system installed after January 1, 2005, must be capable of providing automatic location identification (ALI) to the station level.
+Acts 2004, No. 737, §1.

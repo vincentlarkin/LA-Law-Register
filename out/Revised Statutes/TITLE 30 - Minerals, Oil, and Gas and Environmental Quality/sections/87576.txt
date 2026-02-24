@@ -1,0 +1,9 @@
+RS 30:47
+Cubic foot of gas defined
+https://www.legis.la.gov/legis/Law.aspx?d=87576
+
+§47.  Cubic foot of gas defined
+A.  The term "cubic foot of gas" or "standard cubic foot of gas" means the volume of gas contained in one cubic foot of space at a standard pressure base and at a standard temperature base.  The standard pressure base shall be 15.025 pounds per square inch absolute and the standard temperature base shall be sixty degrees Fahrenheit.
+B.  Whenever the conditions of pressure and temperature differ from the above standard, conversion of the volume from these conditions to the standard conditions shall be made in accordance with the Ideal Gas Laws with correction for deviation from Boyle's Law, which correction must be made unless the pressure at the point of measurement is two hundred pounds per square inch gauge, or less; all in accordance with methods and tables generally recognized by and commonly used in the natural gas industry.
+C.  For all purposes of computing standard cubic feet of gas under this Part the barometric pressure shall be assumed to be 14.7 pounds per square inch absolute at the place of measurement.
+Acts 1992, No. 55, §2.

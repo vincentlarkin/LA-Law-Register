@@ -1,0 +1,37 @@
+RS 42:1472
+Prohibited use of state computers and networks
+https://www.legis.la.gov/legis/Law.aspx?d=1337771
+
+§1472.  Prohibited use of state computers and networks
+A.(1)  The office of technology services shall develop a policy, subject to the
+approval of the Joint Legislative Committee on Technology and Cybersecurity, to prohibit
+the use of any covered application on any computer, device, or network owned or leased by
+the state.
+(2)  The office of technology services shall notify the agency head of each executive
+branch agency of the policy developed and approved pursuant to this Subsection when the
+office becomes aware that the agency is in possession of a computer, device, or network
+owned or leased by the state and shall make the policy available to any agency upon request
+by the agency.
+(3)  The agency head of an executive branch agency using a computer, device, or
+network owned or leased by the state shall ensure that the agency properly implements the
+policy developed pursuant to this Subsection.
+B.  The supreme court shall develop and implement a policy to prohibit the use of any
+covered application on any computer, device, or network owned or leased by the state and
+used by a judicial branch agency.  The policy shall be substantially similar to the policy
+adopted and approved pursuant to Subsection A of this Section.
+C.  The Joint Legislative Committee on Technology and Cybersecurity shall develop
+a policy to prohibit the use of any covered application on any computer, device, or network
+owned or leased by the state and used by a legislative branch agency.  The policy shall be
+substantially similar to the policy adopted and approved pursuant to Subsection A of this
+Section.  The Legislative Budgetary Control Council shall oversee the implementation of the
+policy.
+D.  Any policy developed pursuant to this Section shall not prohibit a public servant
+from any of the following:
+(1)  Unrestricted access to a covered application for a legitimate scientific,
+educational, or law enforcement purpose as determined and approved by the public servant's
+agency prior to the public servant's access to the covered application.
+(2)  Unfiltered or unrestricted access to a covered application on a computer, device,
+or network that is not owned or leased by the state, provided that the public servant does not
+use the computer, device, or network to access a covered application in the course and scope
+of his public service.
+Acts 2023, No. 308, §1, eff. June 13, 2023.

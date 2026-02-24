@@ -1,0 +1,17 @@
+RS 39:17.2
+Digitized credentials; authorization; implementation; validity
+https://www.legis.la.gov/legis/Law.aspx?d=1148755
+
+§17.2.  Digitized credentials; authorization; implementation; validity
+A.  Any credential authorized or required by the state may be made available in
+digitized format on a program which a user can utilize through an electronic wallet.
+B.  Any digitized credential downloaded through an application on a mobile device
+as provided by this Subpart shall be as valid as a tangible credential.
+C.  A digital copy, photograph, or image of a credential which is not downloaded
+through the application on a mobile device shall not be a valid digitized credential.
+D. The commissioner of administration shall promulgate rules and regulations to
+implement the program and to develop the accessibility of any digitized credential available
+for use in an electronic wallet. The commissioner shall include the words "Crisis Lifeline dial
+988" on the home page of any application created for digitized credentials established
+pursuant to this Subpart.
+Acts 2019, No. 220, §1, eff. June 11, 2019; Acts 2023, No. 237, §2, eff. June 9, 2023.

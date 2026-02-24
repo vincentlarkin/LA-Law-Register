@@ -1,0 +1,44 @@
+RS 24:574
+Expenditure database
+https://www.legis.la.gov/legis/Law.aspx?d=1337111
+
+NOTE:  §574 eff. if and when a deposit is made into the Louisiana Transparency Fund. See
+Acts 2023, No. 446.
+§574.  Expenditure database
+A.(1)  The auditor shall ensure that the website includes an expenditure database that
+is electronically searchable by the public and contains reporting of expenditures by each
+budget unit in the executive budget.
+(2)  All state agencies shall provide information to the auditor required by this
+Section in the time and manner required by the auditor.
+B.  The auditor shall ensure that the expenditure database has the following
+functionality and ability to:
+(1)  Search and aggregate expenditures by individual and multiple budget units and
+programs.
+(2)  Search and aggregate payments to individual vendors and governmental entities,
+including the total amount of state payments issued to individual vendors and governmental
+entities.
+(3)  Search and aggregate expenditures and payments from multiple fiscal years.
+(4)  Search and aggregate expenditures by category.
+(5)  Download information yielded by a search of the database.
+C.  The expenditure database shall include the following content:
+(1)  Expenditures by category including:
+(a)  Details of expenses charged to credit, debit, or other purchase cards and related
+fees to the extent available from the card issuer.
+(b)  Mandated interagency payments, such as fees to the legislative auditor, annual
+payments to the office of risk management, and contributions to retirement systems and
+benefits plans.
+(c)  Revenue sharing and aid to other levels of government, including minimum
+foundation program transfers.
+(2)  Where available, for each expenditure, the database shall include the following
+information:
+(a)  The name of the entity making the expenditure.
+(b)  The name of the person or entity receiving the payment.
+(c)  The date and the amount of the expenditure.
+(d)  A standardized descriptive title of the type and purpose of each expenditure.
+(e)  The manner of payment, including check, warrant, credit, debit, or other
+purchase card.
+(f)  The funding source, including the categorical code and the state fund or account
+from which the expenditure is accounted.
+(g)  Where applicable, a link to additional information on the contract available
+through the contracts database.
+Acts 2023, No. 446, §1, see Act.

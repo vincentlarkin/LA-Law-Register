@@ -1,0 +1,61 @@
+RS 46:460.76.3
+Claim information; third-party liability
+https://www.legis.la.gov/legis/Law.aspx?d=1431207
+
+§460.76.3.  Claim information; third-party liability
+A. The department shall provide all known information about any health insurer or
+other third party that is legally liable for payment of all or part of a claim for healthcare
+services furnished under the Medicaid state plan to an enrollee on the Medicaid Eligibility
+Verification System.
+B.(1)  A managed care organization shall provide notification to the department no
+later than two business days from the date the managed care organization verifies or has
+knowledge of the existence of any health insurer or other third party that is legally liable for
+payment of all or part of a claim for healthcare services furnished under the Medicaid state
+plan to an enrollee when the health insurer or other liable third party is not reflected on the
+Medicaid Eligibility Verification System.  The notification shall include, at minimum, all of
+the following information about the health insurer or other liable third party:
+(a)  The name, address, and phone number of the health insurer or other liable third
+party.
+(b)  The policyholder information, including the policyholder name, policy number,
+and group number.
+(c)  The scope of coverage, if the scope of coverage is limited.
+(d)  The effective date of coverage.
+(e)  Any other information required by the department.
+(2)  The department may promulgate rules or may include requirements in the
+Medicaid managed care organization manual as necessary for the implementation of this
+Section.
+(3)  The department shall cause the information contained in the notification to be
+reflected in the Medicaid Eligibility Verification System no later than three business days
+from receiving a notice pursuant to this Subsection.
+C.  A managed care organization shall not deny, pend, reject, or recoup a claim solely
+on the basis of the existence of a liable third party or primary coverage that is through other
+health insurance unless all of the following information related to the other health insurance
+is available on the Medicaid Eligibility Verification system that is maintained by the
+department:
+(1)  The name, address, and phone number of the liable third party or health insurance
+issuer.
+(2)  The policyholder information, including the policyholder name, policy number,
+and group number.
+(3)  The effective date of coverage by the liable third party or health insurance issuer
+and the scope of coverage of the liable third party or health insurance issuer, if the scope of
+coverage is limited.
+D.  A managed care organization shall provide written or electronic notification to
+a provider no later than five business days after the managed care organization receives
+payment from a liable third party for healthcare services rendered by the healthcare provider.
+Such notice shall include the following:
+(1)  A copy of the explanation of benefits provided to the managed care organization
+as a result of payment being made to the managed care organization for the healthcare
+services rendered by the healthcare provider.
+(2)  The name, address, and phone number of the health insurer or other liable third
+party.
+(3)  The policyholder information, including the policyholder name, policy number,
+and group number.
+(4) The effective date of coverage.
+(5) The scope of coverage, if the scope of coverage is limited.
+E.  The department shall withhold payment to the managed care organization in an
+amount to be determined by the department not less than twenty-five thousand dollars or
+greater for each violation of the provisions of this Section by a managed care organization.
+However, upon a finding by the department that the managed care organization has
+committed multiple violations of this Section or has engaged in a pattern of violations, the
+minimum amount shall be at least one hundred thousand dollars.
+Acts 2025, No. 293, §1, eff. June 11, 2025.

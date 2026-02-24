@@ -1,0 +1,54 @@
+RS 51:3182
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1428963
+
+§3182.  Definitions
+As used in this Chapter, the following definitions apply:
+(1)  "Company" means a for-profit sole proprietorship, organization, association,
+corporation, partnership, joint venture, limited partnership, limited liability partnership, or
+limited liability company, including a wholly owned subsidiary, majority-owned subsidiary,
+or parent company of those entities or business associations that exists to make a profit; or
+a nonprofit organization.
+(2)  "Domicile" means any of the following:
+(a)  The country where a company is registered and headquartered.
+(b)  The country where a company's affairs are primarily completed.
+(c)  The country where a majority ownership of the company is held.
+(3)  "Foreign adversary" means any of the following nations:
+(a)  The People's Republic of China including the Hong Kong Special Administrative
+Region.
+(b)  Republic of Cuba.
+(c)  Islamic Republic of Iran.
+(d)  Democratic People's Republic of Korea.
+(e)  Russian Federation.
+(4) "Foreign adversary company" means any company, other than a United States
+person or United States subsidiary as defined in 15 CFR 772.1, that is any of the following:
+(a) Domiciled, incorporated, issued, or listed in a foreign adversary country.
+(b) Headquartered in a foreign adversary country.
+(c) Has its principal place of business in a foreign adversary country.
+(d) Controlled by the government of the People's Republic of China, the Chinese
+Communist Party, the Chinese military, or any instrumentality thereof, including the
+State-owned Assets Supervision and Administration Commission of the State Council or the
+National Social Security Fund.
+(e) Is majority-owned by an entity controlled by the government of the People's
+Republic of China, the Chinese Communist Party, the Chinese military, or any
+instrumentality thereof, including the State-owned Assets Supervision and Administration
+Commission of the State Council or the National Social Security Fund.
+(f) Itself receives or is the subsidiary of a parent company which receives more than
+fifty percent of its total annual revenue from a foreign adversary country.
+(5)  "Human genetic sequencer" means a device or platform used to conduct human
+genetic sequencing, resequencing, isolation, or other genetic research.
+(6) "Human genetic sequencing" means any method to determine the identity and
+order of nucleotide bases in the human genome.
+(7)  "Human genome" means the complete set of deoxyribonucleic acid instructions
+found within a human cell encompassing all the genetic information needed for an individual
+to develop and function.
+(8)  "Human genomic research facility" means a facility that conducts research on,
+with, or relating to genetic sequencing or the human genome.
+(9)  "Medical facility" means either of the following:
+(a)  A facility for the delivery of healthcare services that receives state monies
+including interagency pass-through appropriations from the federal government.
+(b)  A facility licensed or certified by this state to provide healthcare services.
+(10)  "Operational and research software" means a computer program used for the
+operation, control, analysis, or other necessary functions of human genetic sequencing or
+human genetic sequencers.
+Acts 2025, No. 244, §2.

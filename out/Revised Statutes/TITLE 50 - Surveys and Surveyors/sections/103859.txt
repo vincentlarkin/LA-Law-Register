@@ -1,0 +1,56 @@
+RS 50:2
+State plane coordinate system; zones
+https://www.legis.la.gov/legis/Law.aspx?d=103859
+
+§2.  State plane coordinate system; zones
+A.  The official geodetic datums for geodetic coordinates referenced within the state
+shall be as defined by the National Spatial Reference System established by the National
+Geodetic Survey of the National Oceanic and Atmospheric Administration, or its successors.
+B.(1) The official state plane coordinate system for defining and stating the positions
+or locations of points on the surface of the earth within the state is the most recent version
+of the state plane coordinate system for Louisiana based on the National Spatial Reference
+System established by the National Geodetic Survey and shall be known as the "Louisiana
+Plane Coordinate System".
+(2)  For the purpose of using the Louisiana Plane Coordinate System, the state is
+divided into three projection zone layers designated as the North Zone, the South Zone, and
+the Statewide Zone, the areas of which are as follows:
+(a)  The area now included in the following parishes shall constitute the North Zone:
+Avoyelles, Bienville, Bossier, Caddo, Caldwell, Catahoula, Claiborne, Concordia, DeSoto,
+East Carroll, Franklin, Grant, Jackson, LaSalle, Lincoln, Madison, Morehouse, Natchitoches,
+Ouachita, Rapides, Red River, Richland, Sabine, Tensas, Union, Vernon, Webster, West
+Carroll, and Winn.
+(b)  The area now included in the following parishes extending to the coastal
+boundary of Louisiana shall constitute the South Zone: Acadia, Allen, Ascension,
+Assumption, Beauregard, Calcasieu, Cameron, East Baton Rouge, East Feliciana,
+Evangeline, Iberia, Iberville, Jefferson, Jefferson Davis, Lafayette, Lafourche, Livingston,
+Orleans, Plaquemine, Pointe Coupee, St. Bernard, St. Charles, St. Helena, St. James, St. John
+the Baptist, St. Landry, St. Martin, St. Mary, St. Tammany, Tangipahoa, Terrebonne,
+Vermilion, Washington, West Baton Rouge, and West Feliciana.
+(c)  The area now included in the areas of the North Zone and South Zone shall
+constitute the Statewide Zone.
+(3)  For purposes of defining more precisely the Louisiana Plane Coordinate System,
+the following definitions are adopted:
+(a)  The "Louisiana Plane Coordinate System North Zone" is a Lambert conformal
+conic projection of the National Spatial Reference System NATRF2022 or its successors,
+having a central parallel at north latitude 31 degrees 54 minutes 00 seconds, along which
+parallel the scale shall be 0.999 93 (exact).  The origin of the North Zone is at the
+intersection of the meridian 92 degrees 30 minutes west longitude and the parallel 31 degrees
+54 minutes 00 seconds north latitude.  This origin is given the coordinates: x (east) = 495,300
+meters and y (north) = 190,500 meters.
+(b)  The "Louisiana Plane Coordinate System South Zone" is a Lambert conformal
+conic projection of the National Spatial Reference System NATRF2022 or its successors,
+having a standard parallel at north latitude 30 degrees 00 minutes 00 seconds, along which
+parallel the scale shall be 0.999 93 (exact).  The origin of the South Zone is at the
+intersection of the meridian 91 degrees 30 minutes 00 seconds west longitude and the parallel
+30 degrees 00 minutes 00 seconds north latitude.  This origin is given the coordinates: x
+(east) = 609,600 meters and y (north) = 190,500 meters.
+(c)  The "Louisiana Plane Coordinate System Statewide Zone" has statewide
+coverage.  It is a Hotine Oblique Mercator projection of the National Spatial Reference
+System NATRF2022 or its successors, having a north latitude of 31 degrees 00 minutes 00
+seconds and a west longitude of 91 degrees 30 minutes, 00 seconds and a skew azimuth of
+-68 degrees 00 minutes 00 seconds at that point, and the skew axis scale shall be 0.999 8
+(exact).  This origin is given the coordinates: x (east) = 914,400 meters and y (north) =
+381,000 meters.
+C.  The provisions of this Section shall not be construed to prohibit the appropriate
+use of other datums or geodetic reference networks when required and appropriate.
+Acts 1968, No. 299, §1; Acts 1985, No. 913, §1; Acts 2024, No. 626, §2.

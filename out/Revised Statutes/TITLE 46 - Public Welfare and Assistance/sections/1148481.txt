@@ -1,0 +1,41 @@
+RS 46:460.77.1
+Behavioral health services claims; limitation on service hours; information required for payment
+https://www.legis.la.gov/legis/Law.aspx?d=1148481
+
+SUBPART C-1.  BEHAVIORAL HEALTH SERVICES CLAIMS
+§460.77.1.  Behavioral health services claims; limitation on service hours; information
+required for payment
+A.(1)  For purposes of this Section, "CPST services" means community psychiatric
+support and treatment services and "PSR services" means psychosocial rehabilitation
+services.
+(2)  An individual behavioral health services provider rendering CPST services, PSR
+services, or both shall be limited to a maximum combined total of twelve reimbursable hours
+of CPST services and PSR services per rendering provider, per calendar day, regardless of
+the number of patients seen by the rendering provider unless any of the following conditions
+are met:
+(a)  The medical necessity of the services is documented for a Medicaid recipient
+receiving more than twelve hours of CPST and PSR services per day per rendering provider.
+(b)  The services are billed for a group setting.  However, the total hours worked by
+an individual rendering provider shall not exceed twelve reimbursable hours per calendar
+day.
+(c)  The services are billed for crisis intervention.
+(3)(a)  Services subject to the twelve-hour limitation provided in Paragraph (2) of this
+Subsection include only CPST and PSR services rendered per individual National Provider
+Identifier at one or more outpatient behavioral health services provider facilities or agencies
+within a calendar day.
+(b)  The twelve-hour limitation provided in Paragraph (2) of this Subsection shall not
+apply per individual behavioral health services provider agency.
+(4)(a) Except as provided in Subparagraph (b) of this Paragraph, the provisions of this
+Subsection shall apply exclusively to CPST services and PSR services.
+(b)  The provisions of this Subsection shall not apply to evidence-based practices
+including, without limitation, the practices known as assertive community treatment,
+multisystemic therapy, functional therapy, and homebuilders.
+B.  No managed care organization shall accept for payment a claim from a provider
+of behavioral health services unless that claim includes all claim information required by
+R.S. 40:2162.
+C.  The department shall include the limitation on reimbursable hours of CPST and
+PSR services provided in Subsection A of this Section in each contract with a managed care
+organization that covers behavioral health services.
+D.  Implementation of any provision of this Section shall be subject to approval by
+the Centers for Medicare and Medicaid Services.
+Acts 2019, No. 370, §1.

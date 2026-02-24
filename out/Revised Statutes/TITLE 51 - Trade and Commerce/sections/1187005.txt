@@ -1,0 +1,36 @@
+RS 51:2112
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1187005
+
+§2112.  Definitions
+As used in this Chapter, the following words and phrases shall be defined as follows:
+(1)  "Cyber incident" means the compromise of the security, confidentiality, or
+integrity of computerized data due to the exfiltration, modification, or deletion that results
+in the unauthorized acquisition of and access to information maintained by a public body.
+(2)  "Cyber ransom or ransomware" means a type of malware that encrypts or locks
+valuable digital files and demands a ransom to release the files.
+(3)  "Louisiana Fusion Center" means the Department of Public Safety and
+Corrections, office of state police, Louisiana State Analytical and Fusion Exchange.
+(4)  "Managed security service" means a network and system security service that has
+been outsourced to a third-party service provider pursuant to a written agreement specifying
+the service and in which the service provider has assumed operational control of the
+monitoring and management of the public body's cybersecurity.  The term shall not include
+a cybersecurity consulting service or customer-managed service purchased from the provider.
+(5)  "Managed security service provider" means an individual, partnership,
+corporation, incorporated or unincorporated association, joint stock company, reciprocal,
+syndicated, or any similar entity or combination of entities that provides a managed security
+service for a public body.
+(6)  "Managed service provider" means an individual, partnership, corporation,
+incorporated or unincorporated association, joint stock company, reciprocal, syndicated, or
+any similar entity or combination of entities that manages a public body's information
+technology infrastructure or end-user systems.  The term shall not include any entity
+providing communications services subject to regulation or oversight by the Louisiana Public
+Service Commission or the Federal Communications Commission.
+(7)  "Provider" means a managed service provider or managed security service
+provider that requires remote management or operational control of a public body's network
+or end user systems.
+(8)  "Public body" means any branch, department, office, agency, board, commission,
+district, governing authority, political subdivision, or any other instrumentality of the state,
+parish, or municipal government, including a public or quasi-public nonprofit corporation
+designated as an entity to perform a governmental or proprietary function.
+Acts 2020, No. 117, §2, eff. Feb. 1, 2021.

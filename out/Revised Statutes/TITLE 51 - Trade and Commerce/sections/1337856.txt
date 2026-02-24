@@ -1,0 +1,49 @@
+RS 51:2370.33
+Failure to perform
+https://www.legis.la.gov/legis/Law.aspx?d=1337856
+
+§2370.33.  Failure to perform
+A.  A grant recipient forfeits the amount of a grant received if the grant recipient fails
+to perform, in material respect, the obligations established in law or in the grant agreement.
+A grant agreement shall last, at a minimum, for the duration of broadband project
+construction and, or longer, in accordance with the grant agreement, but not to exceed five
+years after construction completion.  A grant recipient that fails to provide the minimum
+advertised connection speed and cost at the advertised rate shall forfeit any grant funds, up
+to the entire amount received through the GUMBO 2.0 program.  The office shall use its
+discretion to determine the amount forfeited.  A grant recipient that forfeits amounts
+disbursed in accordance with this Subpart is liable for up to the amount disbursed plus
+interest.  The number of subscribers that subscribe to broadband services offered by the
+broadband service provider in the project area shall not be a measure of performance under
+the grant agreement for the purposes of this Subsection.
+B.  A grant recipient is not required to forfeit the amount of a grant received if the
+grant recipient fails to perform due to a natural disaster, an act of God, a force majeure, a
+catastrophe, a pandemic, the failure to obtain access to private or public property or any
+government permits under reasonable terms, or such other occurrence over which the grant
+recipient has no control.
+C.  Except as provided for in Subsection B of this Section, if a grant recipient fails
+to perform and fails to return the full forfeited amount required pursuant to this Section, the
+ownership and use of the broadband infrastructure funded by the GUMBO 2.0 program shall
+revert to the division of administration.
+D.  Notwithstanding the provisions of this Section to the contrary, if a grant recipient
+fails to complete a project in a material respect, the grant recipient, at the discretion of the
+office, may be required to reimburse the state the actual cost to finish the project.  The actual
+cost to finish the project shall be determined by the office in consultation with the grant
+recipient.  The office shall not require a grant recipient that it determines has made a good
+faith effort to complete a project to reimburse the state an amount greater than the remaining
+GUMBO 2.0 cost per broadband-serviceable location as set forth in the grant recipient's
+application.
+E.(1)  Any GUMBO 2.0 subgrantee also subject to deployment obligations elsewhere
+in this state, including from programs such as the Rural Digital Opportunity Fund, the
+Enhanced Alternative Connect America Model, the Rural Development Broadband
+ReConnect Program, or any other similar program included in the BEAD deduplication
+process, shall make an enforceable commitment as part of its GUMBO 2.0 subgrant
+agreement not to default or otherwise fail to fulfill any such deployment obligation in this
+state.  The penalty for breach of this commitment shall be, as reimbursement for funding that
+could have been awarded but for other federal program funding, payment to the state in the
+amount equal to the total investment cost of all defaulted locations, as measured by the
+Eligible Entity tool provided to the state by NTIA.
+(2)(a)  For the purposes of Paragraph (1) of this Subsection, the office shall determine
+if a broadband provider has defaulted or otherwise failed to fulfill a deployment obligation.
+(b)  The office shall not approve any default that covers more than five percent of the
+unserved or underserved locations subject to the deployment obligation.
+Acts 2023, No. 383, §1; Acts 2024, No. 632, §1.

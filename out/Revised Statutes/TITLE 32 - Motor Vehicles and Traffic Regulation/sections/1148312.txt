@@ -1,0 +1,29 @@
+RS 32:400.7
+Teleoperations; operation; criteria
+https://www.legis.la.gov/legis/Law.aspx?d=1148312
+
+§400.7.  Teleoperations; operation; criteria
+A.  Notwithstanding any other provision of law to the contrary, a commercial motor
+vehicle equipped with a teleoperation system may operate in this state without a conventional
+driver physically present in the vehicle if a remote driver is operating the vehicle and the
+commercial motor vehicle meets all of the following criteria:
+(1)  Is properly registered.
+(2)  Is in compliance with applicable federal law.
+(3)  Is certified in accordance with 49 CFR Part 567 as being in compliance with
+federal motor vehicle safety standards and bears the required certification label or labels,
+including reference to any exemption granted under applicable federal law.
+(4)  Is capable of being operated in compliance with the applicable traffic and motor
+vehicle laws of this state, regardless of whether the vehicle is operated by a remote driver
+including but not limited to applicable laws concerning the capability to safely navigate and
+negotiate railroad crossings.
+(5)  Is covered by motor vehicle liability coverage in an amount not less than two
+million dollars.
+(6)  Is capable of achieving a reasonably safe state, such as bringing the vehicle to a
+stop if a failure of the teleoperation system occurs that renders the remote driver unable to
+perform the entire dynamic driving task for the vehicle.
+B.  Prior to commencing the operation of a commercial motor vehicle equipped with
+a teleoperation system without a conventional driver present in the cab, an owner, a remote
+driver, or the remote driver's employer shall submit a written statement to the Department
+of Transportation and Development certifying that the vehicle meets the requirements of this
+Section.
+Acts 2019, No. 232, §1.

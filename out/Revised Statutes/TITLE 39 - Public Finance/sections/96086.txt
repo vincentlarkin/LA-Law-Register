@@ -1,0 +1,75 @@
+RS 39:16.5
+Duties of the commissioner relative to the contracts database
+https://www.legis.la.gov/legis/Law.aspx?d=96086
+
+§16.5.  Duties of the commissioner relative to the contracts database
+NOTE:  Paragraph (A)(1) eff. until July 1, 2026, or the day after the commissioner of
+administration and the legislative auditor report to the legislature that the transition is
+complete, whichever is earlier. See Acts 2023, No. 446.
+A.(1)  The commissioner shall ensure the website includes a contract database that
+is electronically searchable by the public.
+NOTE:  Paragraph (A)(1) as amended by Acts 2023, No. 446, eff. July 1, 2026, or the day
+after the commissioner of administration and the legislative auditor report to the legislature
+that the transition is complete, whichever is earlier.
+A.(1)  The commissioner shall establish a contract database.
+(2)  All state agencies shall be required to provide information pursuant to this
+Subpart.
+NOTE:  Subsection  B eff. until July 1, 2026, or the day after the commissioner of
+administration and the legislative auditor report to the legislature that the transition is
+complete, whichever is earlier. See Acts 2023, No. 446.
+B.  The contract database shall have the following functionality:
+(1)  Search and aggregate records by agency.
+(2)  Search and aggregate contracts by contractor.
+(3)  Download information yielded by a search of the database.
+(4)  Provide access or integration into the database, the Louisiana Checkbook
+information from the reports on contracts required by law including:
+(a)  Information required to be published on the division of administration's website
+by R.S. 39:1567(B)(3).
+(b)  Copies of the monthly reports submitted to the Joint Legislative Committee on
+the Budget under R.S. 39:1567(E).
+(c)  The annual report on the progress of the Hudson Initiative required to be made
+available on the internet by R.S. 39:2007(E).
+(d)  The annual report on the progress of the Veteran Initiative required to be made
+available on the internet by R.S. 39:2177(E).
+NOTE:  Subsection B as amended by Acts 2023, No. 446, eff. July 1, 2026, or the day after
+the commissioner of administration and the legislative auditor report to the legislature that
+the transition is complete, whichever is earlier.
+B.  The contract database shall have the following:
+(1), (2), (3)  Repealed by Acts 2023, No. 446, §4, see Act.
+(4)  Provide access or integration to the database and information from the reports
+on contracts required by law including:
+(a)  Information required to be published on the division of administration's website
+by R.S. 39:1567(B)(3).
+(b)  Copies of the monthly reports submitted to the Joint Legislative Committee on
+the Budget under R.S. 39:1567(E).
+(c)  The annual report on the progress of the Hudson Initiative required to be made
+available on the internet by R.S. 39:2007(E).
+(d)  The annual report on the progress of the Veteran Initiative required to be made
+available on the internet by R.S. 39:2177(E).
+C.  The contract database shall include the following content:
+(1)  Contract amount.
+(2)  A brief description of the purpose of the contract.
+(3)  The beginning and ending dates of the contract.
+(4)  The name of the contracting agency.
+(5)  The name of the contractor.
+(6)  The city and state of the contractor.
+(7)  If available, supporting documentation for payment requests including invoices,
+timesheets, and reports from automatic verification software capable of automatically
+verifying the legitimacy of hours billed for computer generated work performed.
+NOTE:  Subsection D eff. until July 1, 2026, or the day after the commissioner of
+administration and the legislative auditor report to the legislature that the transition is
+complete, whichever is earlier. See Acts 2023, No. 446.
+D.  For all state contracts, the contractor shall submit no later than February
+twenty-eighth of each year a verification to the Department of Revenue listing each
+subcontractor who is paid one thousand dollars or more per year for services provided by the
+contract and for whom the contractor is required to make a return to the Internal Revenue
+Service, in accordance with Section 6041A(a) of the Internal Revenue Code, as provided for
+by rule of the Department of Revenue.
+NOTE:  Subsection D as amended by Acts 2023, No. 446, eff. July 1, 2026, or the day after
+the commissioner of administration and the legislative auditor report to the legislature that
+the transition is complete, whichever is earlier.
+D.  Repealed by Acts 2023, No. 446, §4, see Act.
+Acts 2018, 2
+nd
+Ex. Sess., No. 1, §1, eff. July 1, 2018; Acts 2023, No. 446, §§ 3, 4, see
+Act.

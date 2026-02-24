@@ -1,0 +1,33 @@
+RS 27:406
+Ticket vouchers and accounting tickets
+https://www.legis.la.gov/legis/Law.aspx?d=815289
+
+§406.  Ticket vouchers and accounting tickets
+A.  Each video draw poker device must be capable of printing a ticket voucher for the
+player at the completion of each game.  If credits are owed the player, the ticket must contain
+each of the following:
+(1)  The name of the licensed establishment.
+(2)  The address of the establishment.
+(3)  The value of the prize in numbers.
+(4)  The value of the prize in words.
+(5)  The time of day, in hours and minutes in a twenty-four-hour format.
+(6)  The date.
+(7)  The device license number or serial number up to eight digits.
+(8)  The sequential number of the ticket voucher.
+(9)  An encrypted validation number from which the validity of the prize can be
+determined.
+B.  An exact copy of each printed ticket voucher must be printed and retained within
+the device, or other means of capturing and retaining an electronic copy of the ticket data as
+approved by the division for a minimum of five thousand tickets.  If a thermal printer is used
+and the duplicate information is stored electronically in the device, any duplicate voucher
+printed by the device must have the prominent word "DUPLICATE" printed on the face of
+the voucher.
+C.  Each video draw poker device must issue, by activation of an external switch, an
+accounting ticket containing a performance synopsis of the device.  The ticket must contain:
+(1)  The name of the licensed establishment.
+(2)  The address of the establishment.
+(3)  The license number of the device.
+(4)  The time of day, in hours and minutes in a twenty-four-hour format.
+(5)  The date.
+(6)  The electronic meter readings required by this Chapter.
+Acts 2012, No. 161, §2.

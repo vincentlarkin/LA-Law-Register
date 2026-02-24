@@ -1,0 +1,37 @@
+RS 51:1428
+Unfair or deceptive trade practice or act; bad faith assertions of patent infringement
+https://www.legis.la.gov/legis/Law.aspx?d=919874
+
+§1428.  Unfair or deceptive trade practice or act; bad faith assertions of patent infringement
+A.  As used in this Section, the following words and phrases shall have the following meanings:
+(1)  "Demand letter" means a letter, email, or other communication that does either of the following:
+(a)  Asserts, alleges, or claims that the end-user has engaged in patent infringement.
+(b)  Requests or demands the end-user to obtain a license to a patent or to otherwise pay compensation in order to avoid litigation.
+(2)  "End-user" means a consumer, whether an individual, business, or financial institution, who purchases, rents, leases, or otherwise obtains a product, service, or technology in the commercial market that is not for resale and is, or later becomes, the subject of a patent infringement assertion.
+B.(1)  No person shall make a bad faith assertion of patent infringement against an end-user.
+(2)  A court may consider any of the following factors as evidence that a person has made a bad faith assertion of patent infringement against an end-user:
+(a)  The demand letter received by the end-user does not contain all of the following information:
+(i)  The patent number or the patent application number, if no patent number has been issued.
+(ii)  The name and address of the patent owner or owners and assignee or assignees, if any.
+(iii)  The factual allegations concerning the specific areas in which the products, services, or technology obtained by the end-user, or their use thereof, infringe the patent or are covered by the claims in the patent.
+(b)  The person sends a demand letter to an end-user without first making a reasonable effort to conduct an analysis comparing the claims in the patent to the products, services, or technology obtained by the end-user, or to identify specific areas in which the products, services, or technology are covered by the claims in the patent.
+(c)  When the demand letter lacks the information described in Subparagraph (2)(a) of this Subsection and the end-user requests information from the person, the person fails to provide the requested information within a reasonable period of time.
+(d)  The demand letter requires payment of a license fee or response from an end-user within an unreasonably short period of time.
+(e)  The claim or assertion of patent infringement against an end-user is without merit, and the person knew or should have known that the claim or assertion is without merit.
+(f)  The person or its subsidiaries or affiliates have previously filed or threatened to file one or more lawsuits against an end-user based on the same or similar claim of patent infringement, and those lawsuits or threats lacked the information described in Subparagraph (2)(a) of this Subsection.
+(g)  The demand letter or assertion of patent infringement contains any material misrepresentation of fact.
+(3)  A court may consider any of the following factors as evidence that an assertion of patent infringement against an end-user was not made in bad faith:
+(a)  The demand letter received by an end-user contains the information described in Subparagraph (2)(a) of this Subsection.
+(b)  When the demand letter lacks the information described in Subparagraph (2)(a) of this Subsection and the end-user requests the information, the person provides the information within a reasonable period of time.
+(c)  The person engages in a good faith effort to establish that the end-user has infringed or may be infringing the patent.
+(d)  The person or affiliate makes a substantial investment in the use of the patent or in the production or sale of a product, service, or technology covered by the patent.
+(e)  The person is either of the following:
+(i)  The inventor or joint inventor of the patent or, in the case of a patent filed by and awarded to an assignee of the original inventor or joint inventor, the original assignee.
+(ii)  An institution of higher education or a technology transfer organization owned by or affiliated with an institution of higher education.
+(f)  The person has demonstrated good faith business practices in previous efforts to enforce the patent, or a substantially similar patent or has successfully enforced the patent, or a substantially similar patent, through litigation.
+(g)  Any other factor the court finds relevant.
+C.(1)  The attorney general has the sole authority to investigate and pursue any violation of this Section as an unfair or deceptive trade practice or act pursuant to R.S. 51:1401 et seq.
+(2)  Any person who is found liable under the provisions of this Section shall be liable to the attorney general for all costs, expenses, and fees related to investigations and proceedings associated with the violation, including attorney fees.  An action to recover costs, expenses, fees, and attorney fees shall be ancillary to, and shall be filed and heard in the same court as a civil action filed under the provisions of this Section.
+D.  The remedies and rights provided under this Section are in addition to and do not preclude any right or remedy otherwise authorized by law.
+E.  Any person outside the state asserting patent infringement by an end-user in the state shall be deemed to be transacting business within the state within the meaning of R.S.13:3201 and shall thereby be subject to the jurisdiction of the courts of this state.
+Acts 2014, No. 297, §1, eff. May 28, 2014.

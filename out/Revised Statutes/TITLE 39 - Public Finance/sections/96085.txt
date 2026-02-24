@@ -1,0 +1,59 @@
+RS 39:16.4
+Duties of the commissioner relative to the expenditure database
+https://www.legis.la.gov/legis/Law.aspx?d=96085
+
+§16.4.  Duties of the commissioner relative to the expenditure database
+NOTE:  Paragraph (A)(1) eff. until July 1, 2026, or the day after the commissioner of
+administration and the legislative auditor report to the legislature that the transition is
+complete, whichever is earlier. See Acts 2023, No. 446.
+A.(1)  The commissioner shall ensure the website includes an expenditure database
+that is electronically searchable by the public and contains reporting of expenditures by each
+budget unit in the executive budget.
+NOTE:  Paragraph (A)(1) as amended by Acts 2023, No. 446, eff. July 1, 2026, or the day
+after the commissioner of administration and the legislative auditor report to the legislature
+that the transition is complete, whichever is earlier.
+A.(1)  The commissioner shall establish an expenditure database that contains
+reporting of expenditures by each budget unit in the executive budget.
+(2)  All state agencies shall be required to provide information pursuant to this
+Subpart.
+NOTE:  Subsection B eff. until July 1, 2026, or the day after the commissioner of
+administration and the legislative auditor report to the legislature that the transition is
+complete, whichever is earlier. See Acts 2023, No. 446.
+B.  The expenditure database shall have the following functionality:
+(1)  Search and aggregate expenditures by individual and multiple budget units and
+programs.
+(2)  Search and aggregate payments to individual vendors and governmental entities,
+including the total amount of state payments issued to individual vendors and governmental
+entities.
+(3)  Search and aggregate expenditures and payments from multiple fiscal years.
+(4)  Search and aggregate expenditures by category.
+(5)  Download information yielded by a search of the database.
+NOTE:  Subsection B as repealed by Acts 2023, No. 446, eff. July 1, 2026, or the day after
+the commissioner of administration and the legislative auditor report to the legislature that
+the transition is complete, whichever is earlier.
+B.  Repealed by Acts 2023, No. 446, §4, see Act.
+C.  The expenditure database shall include the following content:
+(1)  Expenditures by category and shall include:
+(a)  Details of expenses charged to credit, debit, or other purchase cards and related
+fees to the extent available from the card issuer.
+(b)  Mandated interagency payments, such as fees to the legislative auditor, annual
+payments to the office of risk management, and contributions to retirement systems and
+benefits plans.
+(c)  Revenue sharing and aid to other levels of government, including minimum
+foundation program transfers.
+(2)  Where available, for each expenditure, the database shall include the following
+information:
+(a)  The name of the entity making the expenditure.
+(b)  The name of the person or entity receiving the payment.
+(c)  The date and the amount of the expenditure.
+(d)  A standardized descriptive title of the type and purpose of each expenditure.
+(e)  The manner of payment, including check, warrant, credit, debit, or other purchase
+card.
+(f)  The funding source, including the categorical code and the state fund or account
+from which the expenditure is accounted.
+(g)  Where applicable, a link to additional information on the contract available
+through the contracts database.
+Acts 2018, 2
+nd
+Ex. Sess., No. 1, §1, eff. July 1, 2018; Acts 2023, No. 446, §§ 3,4, see
+Act.

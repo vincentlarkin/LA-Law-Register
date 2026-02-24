@@ -1,0 +1,39 @@
+RS 23:1306
+Employer reports
+https://www.legis.la.gov/legis/Law.aspx?d=83483
+
+§1306.  Employer reports
+A.  Within ten days of actual knowledge of injury resulting in death or in lost time
+in excess of one week after the injury, the employer shall send a report to the insurer, if any,
+on a form prescribed by the
+assistant
+secretary, providing the following information:
+(1)  The name, address, and business of the employer.
+(2)  The name, Social Security number, street, mailing address, telephone number,
+and occupation of the employee.
+(3)  The cause and nature of the injury or death.
+(4)  The date, time, and the particular locality where the injury or death occurred.
+(5)  The wages, as defined in R.S. 23:1021, the worker was earning at the time of the
+injury.
+(B)(1)(a)  The insurer or the administrator of the employer's workers' compensation
+claims, upon receipt of the first report of injury, shall submit the data in electronic data
+interchange or EDI format to the office of workers' compensation administration at a
+frequency to be determined by the
+assistant
+secretary.
+(b)  For the purposes of this Subsection, electronic data interchange or EDI format
+shall be based on the International Association of Industrial Accident Boards and
+Commissions (IAIABC) standards.
+(2)(a)  Submissions after December 31, 2012, may be in the EDI format. Submissions
+after December 31, 2013, shall be in the EDI format.
+(b)  Any new EDI format developed by the IAIABC shall be adopted for use at the
+discretion of the
+assistant
+secretary.
+C.  All information and records pursuant to this Section shall be confidential and
+privileged, shall not be public records, and shall not be subject to subpoena.  However,
+nothing in this Section shall prevent the use of such information or records for the
+compilation of statistical data wherein the identity of the individual or employer is not
+disclosed.
+Added by Acts 1983, 1st Ex. Sess., No. 1, §1, eff. July 1, 1983; Acts 2001, No. 1032,
+§9; Acts 2006, No. 44, §1, eff. May 16, 2006; Acts 2012, No. 141, §1.

@@ -1,0 +1,40 @@
+RS 42:1267
+Required training; cybersecurity
+https://www.legis.la.gov/legis/Law.aspx?d=1187594
+
+§1267.  Required training; cybersecurity
+A.(1)  The Department of State Civil Service shall institute, develop, conduct, and
+otherwise provide for training programs designed to keep state agencies safe from
+cyberattack.  The programs shall be designed to focus on forming information security habits
+and procedures that protect information resources and teach best practices for detecting,
+assessing, reporting, and addressing information security threats.  The department may make
+the training available as an online course.  The office of technology services shall provide
+assistance to the Department of State Civil Service in the development of the training
+program.  The cost of instituting, developing, conducting, and otherwise providing
+cybersecurity awareness training shall be paid in the manner established by R.S. 42:1383.
+(2)  The Department of State Civil Service shall make the education and training on
+cybersecurity developed pursuant to Paragraph (1) of this Subsection available to agencies
+within political subdivisions of the state at as minimal cost as possible to assist those
+agencies in compliance with the provisions of this Section.
+B.(1)  Each state and local agency shall identify employees or elected officials who
+have access to the agency's information technology assets and require those employees and
+elected officials to complete cybersecurity training.  Each new state and local agency official
+or employee with access to the agency's information technology assets shall complete this
+training within the first thirty days of initial service or employment with the agency.
+(2)  The agency head shall verify and report to the Department of State Civil Service
+on the completion of cybersecurity training by agency employees.  The agency head shall
+periodically require an internal review to ensure compliance.
+(3)(a)  An agency shall require any contractor who has access to state or local
+government information technology assets to complete cybersecurity training during the term
+of the contract and during any renewal period.
+(b)  Completion of cybersecurity shall be included in the terms of a contract awarded
+by a state or local government agency to a contractor who has access to its information
+technology assets.
+(c)  The person who oversees contract management for the agency shall report each
+such contractor's completion to the agency head and periodically review agency contracts to
+ensure compliance.
+(d)  The agency head shall verify and report to the Department of State Civil Service
+on the completion of cybersecurity training by each such contractor.
+Acts 2020, No. 155, §1, eff. June 9, 2020; Acts 2020, 2
+nd
+Ex. Sess., No. 33, §1.

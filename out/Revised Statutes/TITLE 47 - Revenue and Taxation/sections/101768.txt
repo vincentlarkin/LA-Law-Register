@@ -1,0 +1,14 @@
+RS 47:297.3
+Exclusion from income; S Bank shareholder non-taxable income
+https://www.legis.la.gov/legis/Law.aspx?d=101768
+
+§297.3.  Exclusion from income; S Bank shareholder non-taxable income
+A.  For taxable periods beginning after December 31, 2002, an S Bank shareholder may exclude from Louisiana tax table income an amount equal to the S Bank shareholder's non-taxable income as defined in Subsection B of this Section.
+B.  For purposes of this Section, the following terms shall have the meanings ascribed to them in this Subsection, unless the context clearly indicates a different meaning:
+(1)  "Bank" means a financial institution identified in R.S. 47:287.501(B)(1) or an entity that owns one hundred percent of a financial institution identified in R.S. 47:287.501(B)(1).
+(2)  "S Bank" means a bank, as defined in this Subsection, that is classified as an S corporation under Subchapter S of the Internal Revenue Code.
+(3)  "S Bank shares tax" means the ad valorem tax imposed on shares of stock of S Banks in accordance with Part III of Chapter 3 of Subtitle III of this Title.
+(4)  "S Bank shareholder" means a person who is an eligible shareholder of an S Bank under the provisions of §1361 of the Internal Revenue Code.
+(5)  "S Bank non-taxable income" means the portion of the income reported by an S Bank on Form 1120S Schedule K-1, or equivalent document, and which is attributable to the net earnings used to compute the S Bank's shares tax as provided in R.S. 47:1967.
+C.  Notwithstanding any law to the contrary, the amount of the exclusion shall be subject to adjustments to the Federal Form 1120S Schedule K-1, or equivalent document, as a result of amendments or federal audit.
+Acts 2002, No. 30, §1, eff. for taxable periods beginning on or after Jan. 1, 2002.

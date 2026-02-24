@@ -1,0 +1,36 @@
+RS 23:905
+Employee access to records
+https://www.legis.la.gov/legis/Law.aspx?d=814787
+
+§905.  Employee access to records
+A.  Louisiana Works may make available, upon written request by an employee, the
+employee's wage and employer information.  This information shall be provided to the
+employee or his representative, for lending purposes, tenant screening and insurance
+underwriting only.
+B.  Louisiana Works may allow, at the request of the employee, the electronic
+transmission of the employee's records, directly or through a qualified third-party vendor as
+defined by the administrator.  Such records shall be provided only on an individual inquiry
+basis and shall not be maintained or reported with other data.  Any costs incurred by the
+department in providing electronic access to an employee's wage and employment records
+to a third party shall be paid entirely by the third party.
+C.  Louisiana Works shall have the authority to promulgate any rules and regulations
+necessary to carry out the provisions of this Section including assurance for the security of
+data.
+D.(1)  Pursuant to this Section, the electronic employment records which Louisiana
+Works may make available shall be only those records which would otherwise be available
+to the employee who signed a written authorization for those records.  Nothing herein shall
+authorize any vendor to breach the firewall or secure environment of Louisiana Works'
+computer systems.
+(2)  Data shall be exchanged only under strictly controlled conditions.  It shall be
+destroyed after all legitimate uses have been made of it.  Secondary release of confidential
+or privacy-protected data by the vendor for use other than those purposes authorized by this
+Section shall be strictly prohibited.
+(3)  Any violation of this Subsection shall be subject to those same penalties as
+provided for in R.S. 23:75(C)(3).
+E.  Should any lawsuit be filed by a party who has a cause of action based upon the
+provisions of this Section, the suit shall name the vendor and suit shall be brought in a state
+court of competent jurisdiction and venue.  The vendor shall indemnify Louisiana Works of
+any damages, including attorney fees and court costs, associated with a cause of action filed
+pursuant to this Section, and any associated cost from providing data to a third party vendor
+shall likewise be indemnified to Louisiana Works.
+Acts 2012, No. 822, §1.

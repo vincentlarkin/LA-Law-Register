@@ -1,0 +1,57 @@
+RS 45:844.9
+Commercial mobile service device location disclosure to law enforcement agencies; emergency situations
+https://www.legis.la.gov/legis/Law.aspx?d=963754
+
+CHAPTER 8-G-1.  KELSEY SMITH ACT
+§844.9.  Commercial mobile service device location disclosure to law enforcement agencies;
+emergency situations
+A.  This Chapter shall be known and may be cited as the "Kelsey Smith Act".
+B.(1)  When acting in the course and scope of his official duties, a law enforcement
+agency supervisor shall have the authority to submit an electronic or other written request to
+a provider of commercial mobile services, as defined by 47 U.S.C. 332(d), for device
+location information of a commercial mobile service device user if either of the following
+events has occurred:
+(a)  A call for emergency services initiated from the device of the user.
+(b)  An emergency situation that involves the risk of death or serious bodily harm to
+the device user.
+(2)  Upon receipt of the request, the provider of commercial mobile services shall
+disclose to the law enforcement agency the device location information.
+(3)  When making a request for device location information pursuant to the
+provisions of this Chapter, the law enforcement agency making the request shall search the
+National Crime Information Center system and similar databases to identify whether the
+device user or the person initiating the call, during an emergency situation involving the
+device user, either has a history of domestic violence or is subject to any court order
+restricting contact.
+(4)  The information obtained by a law enforcement agency pursuant to the provisions
+of this Subsection shall be used solely for the performance of official duties.
+(5)  No device location information shall be released by the law enforcement agency
+to a person who either has a history of domestic violence or stalking or who is subject to any
+court order restricting contact with the device user.
+(6)  For the purposes of this Chapter, "law enforcement agency" means any
+municipality, sheriff's office, or other public agency who employs full-time employees of the
+state whose permanent duties include but are not limited to:
+(a)  Making arrests.
+(b)  Performing searches and seizures.
+(c)  Executing criminal warrants.
+(d)  Preventing or detecting crime.
+(e)  Enforcing the penal, traffic, or highway laws of this state.
+C.(1)  All providers of commercial mobile services who are registered to do business
+in this state, or who submit to the jurisdiction thereof, shall submit emergency contact
+information to the Department of Public Safety and Corrections, office of state police, in
+order to facilitate requests from law enforcement agencies for location information in
+accordance with the provisions of this Chapter.  The contact information shall be submitted
+by July first of each year and immediately upon any change in contact information.
+(2)(a)  The office of state police shall maintain a database containing emergency
+contact information for all providers of commercial mobile services and shall make such
+information immediately available to all law enforcement agencies in the state.
+(b)  The office of state police may adopt rules in accordance with the Administrative
+Procedure Act to implement the provisions of this Chapter.
+D.  Notwithstanding any other provision of law to the contrary, nothing in this
+Chapter shall prohibit a provider of commercial mobile services from establishing protocols
+by which the provider voluntarily discloses device location information.
+E.  No person shall file a report with knowledge of the falsity of the information
+contained therein to a law enforcement agency for the purpose of device location information
+being requested from a provider of commercial mobile services.  Whoever violates the
+provisions of this Subsection shall be fined not more than five hundred dollars, or imprisoned
+for not more than six months, or both.
+Acts 2015, No. 165, §1, eff. June 23, 2015.

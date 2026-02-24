@@ -1,0 +1,11 @@
+RS 47:818.32
+Returns required of aviation fuel dealers
+https://www.legis.la.gov/legis/Law.aspx?d=321840
+
+§818.32.  Returns required of aviation fuel dealers
+A.  The return of each aviation fuel dealer shall contain the following information and any other information required by the secretary:
+(1)  The number of net gallons of aviation fuel received from all sources by the dealer during the reporting period, sorted by product code, seller, point of origin, carrier, and receipt date.
+(2)  The number of net gallons exported during the reporting period.
+(3)  The number of net gallons sold for use in aircraft during the reporting period in transactions sorted by product code and purchaser.
+B.  The return shall be filed for each calendar quarter and shall be due the twenty-fifth day of the month following the end of the reporting period.
+Acts 2005, No. 252, §1, eff. July 1, 2006.

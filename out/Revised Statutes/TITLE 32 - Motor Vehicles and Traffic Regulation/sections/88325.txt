@@ -1,0 +1,96 @@
+RS 32:386
+Weight
+https://www.legis.la.gov/legis/Law.aspx?d=88325
+
+§386.  Weight
+A.  The total gross weight of any vehicle or combination of vehicles shall not exceed
+eighty thousand pounds, and no vehicle or combination of vehicles shall exceed its licensed
+gross weight.
+B.  No tire mounted on any axle attached to any vehicle or combination of vehicles
+shall impose a greater weight on the surface of a highway than six hundred fifty pounds per
+inch width of tire.
+C.  The total gross weight of any single axle attached to any vehicle and equipped
+with low pressure pneumatic tires shall not exceed twenty thousand pounds.
+D.  The total gross weight of any tandem axle or tandem steering axle attached to any
+vehicle and equipped with low pressure pneumatic tires shall not exceed thirty-four thousand
+pounds.  However on any vehicle carrying forest products in their natural state, the weight
+limitation shall be thirty-seven thousand pounds per tandem axle and equipped with low
+pressure pneumatic tires except on the Interstate system.
+E.(1)The total gross weight of any tridum axle attached to any vehicle and equipped
+with low pressure pneumatic tires shall not exceed forty-two thousand pounds.
+(2)  The total gross weight of any quadrum axle attached to any vehicle and equipped
+with low pressure pneumatic tires shall not exceed fifty thousand pounds.
+F.  The total gross weight of any single axle or any single steering axle attached to
+any vehicle and equipped with high pressure pneumatic, solid rubber or cushion tires shall
+not exceed eighteen thousand pounds.
+G.  The total gross weight of any tandem axle or any tandem steering axle attached
+to any vehicle and equipped with high pressure pneumatic, solid rubber or cushion tires shall
+not exceed thirty-two thousand pounds.
+H.(1)  For vehicles using the Interstate system, the overall maximum gross weight,
+including enforcement tolerances, on a group of two or more consecutive axles, shall be
+produced by application of the following formula:
+W = 500(LN/(N - 1) + 12N + 36)
+where W equals overall gross weight on any group of two or more consecutive axles to the
+nearest five hundred pounds, L equals distance in feet between the extreme of any group of
+two or more consecutive axles, and N equals number of axles in group under consideration,
+except that two consecutive sets of tandem axles may carry a gross load of thirty-four
+thousand pounds each provided the overall distance between the first and last axles of the
+consecutive sets of tandem axles is thirty-six feet or more.  The overall gross weight shall not
+exceed eighty thousand pounds, including all enforcement tolerances, except for those
+vehicles and loads which cannot be easily dismantled or divided and which have been issued
+special permits.
+(2)  In accordance with 23 U.S.C.A. 127, certain vehicles carrying certain
+commodities shall be exempt from application of the formula.  The exemptions shall include
+the following:
+Vehicles with Type Two axle configuration (three axle combination with one single
+axle and one set of tandem axles); or Type Six axle configuration (five axle combination
+with one single axle and two sets of tandem axles); or a vehicle with Type Eight axle
+configuration (six axle combination with one single axle, one tandem axle, and one tridem
+axle); or vehicles with Type Ten axle configuration (double bottom); or Type Eighteen axle
+configuration (four axle combination with one single axle and one set of tridem axles)
+carrying any of the following bulk commodities thereof: forest products in their natural state,
+lumber, sand, gravel, agricultural products in their natural state, loose or mixed concrete
+(including asphaltic or Portland cement), or bulk liquid commodities.
+(3)  All vehicles which are rendered economically useless by application of the bridge
+formula which are legal and operational on the effective date of this Subsection shall remain
+legal for a period of five years from the effective date of this Subsection.  The trucking
+industry is hereby granted a phase-in period to extend for a period of five years from the
+effective date of this Subsection, within which time it shall adjust, modify, or replace
+equipment to comply with the provisions of this Subsection.
+I.  Notwithstanding the provisions of Subsection (A) of this Section and subject to
+the provisions of Subsections B, C, D,  and E of this Section, the total gross weight of any
+combination of vehicles which has a tridum axle or a quadrum axle shall not exceed eighty-eight thousand pounds while operating on any state-maintained highway except the Interstate
+System and shall not exceed eighty-three thousand four hundred pounds while operating on
+the Interstate System within this state.
+J.  When by reason of the condition of the weather or other emergency, or the
+physical condition of any highway or its recent construction, or the making of repairs thereto,
+the secretary deems it necessary, then for such time as is reasonably necessary to remedy the
+situation, he may prohibit the use of such highway or specify lesser gross weights than those
+fixed in this Section, pursuant to the recommendations of the chief engineer of the
+department, in order to protect the public highways and the persons and property of the
+traveling public from unnecessary damage.  Notice of such restrictions, prohibitions, or
+weight reductions shall be given by the secretary by posters at the terminal of the highway.
+However, failure to post such notice shall under no circumstances make either the state or
+the department liable for damages which may result because of such failure.
+K.  Vehicles and combinations of vehicles shall be loaded in such manner that the
+axle limitations set forth in Subsections C, D, E, F, and G of this Section are not exceeded.
+However, while operating on any state-maintained highway except the Interstate System, the
+provisions of Subsections C, D, E, F, and G of this Section shall not be deemed to have been
+violated unless the axle weight exceeds by more than two thousand pounds Subsections C
+and F of this section or more than three thousand pounds Subsections D, E, and G of this
+Section.  This Subsection shall in no way be construed to allow the total gross weight in any
+vehicle or combination of vehicles to exceed the gross weight limits set forth in Subsection
+A or I of this Section.
+L.(1)  Notwithstanding any provision of law to the contrary, a vehicle that is operated
+by an engine fueled primarily by compressed or liquified natural gas may exceed the gross
+vehicle weight limits and any axle weight limits imposed by this Section by an amount, not
+to exceed a maximum of two thousand pounds, that is equal to the difference between the
+weight of the vehicle attributable to the natural gas tank and fueling system carried by the
+vehicle and the weight of a comparable diesel tank and fueling system.
+(2)  The weight exception provided in this Subsection shall apply to all state roads
+and interstate highways per the exemption expressly permitted by 23 U.S.C. 127, as amended
+by Section 1410 of the Fixing America's Surface Transportation Act of 2015.
+Acts 1977, No. 113, §1, eff. June 22, 1977.  Amended by Acts 1978, No. 35, §1, eff.
+May 31, 1978; Acts 1982, No. 196, §1; Acts 1987, No. 686, §1; Acts 2016, No. 279, §1.
+{{NOTE: SEE ACTS 1987, NO. 686, §2 FOR RULEMAKING
+AUTHORITY.}}

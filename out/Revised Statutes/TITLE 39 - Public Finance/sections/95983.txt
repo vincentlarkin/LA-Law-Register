@@ -1,0 +1,125 @@
+RS 39:15.3
+Office of technology services; offices and staff; duties
+https://www.legis.la.gov/legis/Law.aspx?d=95983
+
+§15.3.  Office of technology services; offices and staff; duties
+A.  The office of technology services shall consist of executive offices and staff as
+deemed necessary for effective information technology governance, acquisition and
+operation.
+B.  The state chief information officer shall manage and direct the office of
+technology services, with roles, duties, and activities including but not limited to the
+following:
+(1)  Establishing and coordinating all information technology systems and
+information technology services affecting the management and operations of the executive
+branch of state government.  The office of technology services shall, subject to the provisions
+of this Subpart, have sole authority and responsibility for defining the specific information
+technology systems and information technology services to which the provisions of this
+Subpart shall be applicable.  Information technology systems, including equipment and
+related services, and information technology services shall mean the equipment, services, and
+means necessary to provide, including but not limited to the following:
+(a)  Telecommunications systems and services.
+(b)  Network systems and services.
+(c)  Server systems and services.
+(d)  Storage systems and services.
+(e)  Information technology security systems and services, including the security
+systems required in R.S. 39:249.
+(f)  Related peripheral systems and services.
+(g)  Software and software application services.
+(h)  Infrastructure and platform systems and services.
+(i)  Desktop computing systems and services.
+(j)  Geographic information systems and services.
+(k)  Mobile device systems and services.
+(l)  Video systems and services, except those video systems and services specifically
+reserved to the Louisiana Educational Television Authority pursuant to R.S. 17:2501.
+(m)  Radio systems, to include but not be limited to two-way radio systems; however,
+the operational abilities and priorities of two-way communications of the departments in the
+executive branch shall not be impeded.
+(n)  Any and all systems and services based on emerging and future information
+technologies relating to Subparagraphs (a) through (k) of this Paragraph.
+(2)  Overseeing and implementing a state master information technology plan on an
+annual basis.
+(3)  Establishing and directing the implementation of information technology
+standards, architecture, and guidelines suitable for statewide application for hardware,
+software, services, contractual arrangements, consolidation of systems and management of
+systems.
+(4)  Reviewing, coordinating, and standardizing information technology strategic
+business technology planning, information technology procurement, information technology
+budgeting (both executive and capital outlay), and information technology personnel and
+training.
+(5)  Implementing strategic information technology planning, including the review
+and approval of the planning, initiation, design, acquisition, and operation of information
+technology systems.
+(6)  Assessing the performance of information technology systems and technology
+operations and personnel including establishing accountability, performance measurement,
+and benchmarking policies and procedures.
+(7)  Overseeing and coordinating the centralization of the technology systems and
+data processing systems, including consolidation, outsourcing, and sharing statewide
+government information technology resources and services.
+(8)  Overseeing all telecommunication systems.
+(9)  Assuring compatibility and connectivity of Louisiana's information systems.
+(10)  Facilitating and fostering innovative applications of emerging technologies that
+provide cost-effective solutions for improving government operations and services.
+(11)  Reviewing and overseeing information technology projects and systems for
+compliance with statewide strategies, policies, and standards, including alignment with state
+government's business goals, investment, and other risk management policies.
+(12)  Providing support and technical assistance to the office of state procurement,
+the office of facility planning and control, and the office of planning and budget.
+(13)  Overseeing and coordinating access to state information that is electronically
+available online from agency web sites.
+(14)  Facilitating a process among state agencies to identify services that are favorable
+for electronic delivery, and maintaining an electronic directory of state services.
+(15)  Providing direction to the Louisiana Geographic Information Systems Council
+and the Louisiana Geographic Information Center (LAGIC) for coordination of geographic
+data, geographic technology, and geographic standards of the state.
+(16)  Identifying information technology applications that should be statewide in
+scope, and ensuring that these applications are not developed independently or duplicated by
+individual state agencies of the executive branch.
+(17)  Reviewing and approving the receipt by executive agencies of information
+technology goods and services and telecommunication systems and services from non-appropriated sources, including but not limited to grants, donations, and gifts.
+(18)  Preparing annual reports and plans concerning the status and result of the state's
+specific information technology plans and submitting these annual reports and plans to the
+governor and the legislature.
+(19)  Facilitating and fostering the identification of the policy and planning data needs
+of the state.
+(20)  Charging respective user agencies for the cost of the information technology
+systems and information technology services provided by the office of technology services
+and may include all or part of the cost of the operation of the office.  These costs shall be
+charged in a consistent and equitable manner.
+(21)  Acting as the sole centralized customer for the acquisition, billing, and record
+keeping of information technology systems or information technology services provided to
+state agencies.  The ownership of such systems procured by the office of technology services
+may vest in the respective agency, but control of the systems shall be retained by the office
+of technology services.
+(22)  Developing coordinated information technology systems or information
+technology services within and among all state agencies and require, where appropriate,
+cooperative utilization of information technology systems and information technology
+services by aggregating users.  However, nothing provided in this Section shall apply to the
+authority for operation of the National Crime Information Center.
+(23)  Reviewing, coordinating, approving, or disapproving requests by state agencies
+for the procurement of information technology systems or information technology services
+including information technology proposals, studies, and contracts.
+C.  To accomplish the work of the office of technology services, all agencies as
+defined in R.S. 39:2 shall cooperate with the office of technology services and provide
+assistance as required.  However, nothing in this Subpart shall apply to the authority of any
+statewide elected official relative to his authority to implement information technology plans,
+systems, or services for any agency under his jurisdiction.
+D.  The information, technology, personnel, agency resources, and records of the
+Integrated Criminal Justice Information System as established by R.S. 15:1228 through
+1228.8 and its components shall be excluded from the provisions of this Part and shall not
+be under the authority of the office of technology services.
+E.  Beginning October 1, 2014, the state chief information officer shall report
+quarterly to the Joint Legislative Committee on the Budget on the status of the consolidation
+of the information technology functions of the executive branch of state government.  The
+report shall provide information on organizational changes within the division of
+administration, as well as organizational changes between the office of technology services
+and the other executive branch agencies.  The report shall include information and data on
+personnel changes, changes in purchasing and procurement, and any budgetary changes that
+have occurred.
+F.  On or before October first of each year, the chief information officer shall report
+to the Joint Legislative Committee on Technology and Cybersecurity, in executive session,
+regarding the operational readiness and procurement requirements of the state in
+cybersecurity and other information-security-related categories including but not limited to
+the relationship to applicable and prevailing industry standards.
+Acts 2001, No. 772, §1, eff. July 1, 2001; Acts 2009, No. 409, §4, eff. July 1, 2010;
+Acts 2013, No. 184, §8(A); Acts 2014, No. 712, §2, eff. July 1, 2014; Acts 2014, No. 864,
+§§4 and 5; Acts 2018, No. 669, §1; Acts 2021, No. 288, §2.

@@ -1,0 +1,26 @@
+RS 35:622
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1187596
+
+§622.  Definitions
+A.  In this Chapter:
+(1)  "Communication technology" means an electronic device or process that allows
+substantially simultaneous communication by sight and sound.
+(2)  "Credential analysis" means a process through which the authenticity of an
+individual's government-issued identification credential is evaluated by another person
+through review of public and proprietary data sources.
+(3)  "Identity proofing" means a process through which the identity of an individual
+is affirmed by another person by either of the following means:
+(a)  Dynamic knowledge-based authentication, such as a review of personal
+information from public or proprietary data sources.
+(b)  Analysis of biometric data, such as facial recognition, voiceprint analysis, or
+fingerprint analysis.
+(4)  "Remote online notarial act" means an instrument executed before a notary public
+by means of communication technology that meets the standards adopted under this Chapter.
+(5)  "Remote online notarization" means the process through which an instrument is
+executed before a notary public by means of communication technology that meets the
+standards adopted under this Chapter.
+B.  The definitions of "electronic", "electronic record", "electronic signature", and
+"record" as provided by the Louisiana Uniform Electronic Transactions Act, R.S. 9:2601 et
+seq., apply in this Chapter.
+Acts 2020, No. 254, §4, see Act.

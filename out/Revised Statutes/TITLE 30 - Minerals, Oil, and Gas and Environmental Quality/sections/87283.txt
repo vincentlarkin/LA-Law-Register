@@ -1,0 +1,48 @@
+RS 30:2272
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=87283
+
+§2272.  Definitions
+As used in this Chapter, the following terms shall have the meaning ascribed to them in this Section, unless the context clearly indicates otherwise:
+(1)  "Bona fide prospective purchaser" shall have the meaning ascribed to such term in 42 U.S.C. 9601(40).
+(2)(a)  "Contractual relationship" includes but is not limited to land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless the real property on which the facility concerned is located was acquired by the defendant after the disposal or placement of the hazardous substance on, in, or at the facility, and one or more of the circumstances described in Item (i), (ii), or (iii) is also established by the defendant by a preponderance of the evidence:
+(i)  At the time the defendant acquired the facility, the defendant did not know and had no reason to know that any hazardous substance which is the subject of the release or threatened release was disposed of on, in, or at the facility.
+(ii)  The defendant is a government entity which acquired the facility by escheat, or through any other involuntary transfer or acquisition, or through the exercise of eminent domain authority by purchase or condemnation.
+(iii)  The defendant acquired the facility by inheritance or bequest.
+(iv)  In addition to establishing one or more of the circumstances described in Item (i), (ii), or (iii) of this Subparagraph, the defendant must establish that the defendant has satisfied the requirements of R.S. 30:2277(3)(a) and (b), provides full cooperation, assistance, and facility access to the persons that are authorized to conduct response actions at the facility, including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response action at the facility, is in compliance with any land use restrictions established or relied on in connection with the response action at a facility, and does not impede the effectiveness or integrity of any institutional control employed at the facility in connection with a response action.
+(b)  To establish that the defendant had no reason to know of the matter described in Item (a)(i) of this Paragraph, the defendant must demonstrate to a court that on or before the date on which the defendant acquired the facility, the defendant carried out all appropriate inquiries into the previous ownership and uses of the facility in accordance with generally accepted good commercial and customary standards and practices; and the defendant took reasonable steps to stop any continuing release; prevent any threatened future release;  and prevent or limit any human, environmental, or natural resource exposure to any previously released hazardous substance.  For purposes of satisfying the requirement to carry out all appropriate inquiries, the standards, practices, criteria, and site inspection and title search responsibilities otherwise applicable to a defendant under 42 U.S.C. 9601(35)(B) shall apply.
+(c)  Nothing in this Paragraph shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Chapter.  Notwithstanding the provision of this Paragraph, if the defendant obtained actual knowledge of the release or threatened release of a hazardous substance at such facility when the defendant owned the real property and then subsequently transferred ownership of the property to another person without disclosing such knowledge, such defendant shall be treated as liable under this Chapter, and no defense under R.S. 30:2277 shall be available to such defendant.
+(d)  Nothing in this Paragraph shall affect the liability under this Chapter of a defendant who, by any act or omission, caused or contributed to the release or threatened release of a hazardous substance which is the subject of the action relating to the facility.
+(3)  "Discharge" means discharge as defined in R.S. 30:2004.
+(4)  "Disposal" means disposal as defined in R.S. 30:2173.
+(5)  "Facility" means facility as defined in R.S. 30:2004.
+(6)(a)  "Hazardous substance" means any gaseous, liquid, or solid material which because of its quantity, concentration, or physical, chemical, or biological composition when released into the environment poses a substantial present or potential hazard to human health, the environment, or property, and which material is identified or designated as being hazardous by rules and regulations adopted and promulgated by the secretaries of the Department of Environmental Quality or of the Department of Public Safety and Corrections, regardless of whether it is intended for use, reuse, or is to be discarded.
+(b)  The secretary, in finding that a material is hazardous, shall consider the following factors with respect to each material:
+(i)  Actual or relative potential for harm to human health, the environment, or property.
+(ii)  Scientific evidence of its potential for harm based upon quantity, concentration, or chemical or biological composition.
+(iii)  State of current scientific knowledge regarding the material.
+(iv)  Its history and current pattern of harm.
+(v)  Actual or potential volatility when combined with other common substances likely to be encountered when disposed of, stored, or transported.
+(vi)  Actual or relative potential for harm to human health if allowed to escape its containment.
+(c)  The term does not include petroleum, including crude oil or any fraction thereof which is not otherwise specifically listed or designated as a hazardous substance under this Subsection, and the term does not include natural gas, natural gas liquids, liquified natural gas, or synthetic gas usable for fuel (or mixtures of natural gas and such synthetic gas).
+(7)  "Hazardous waste" means hazardous waste as defined in R.S. 30:2173.
+(8)  "Nonparticipating party" means a person who refuses to comply with the demand of the secretary, or fails to respond to the demand, or against whom a suit has been filed by the secretary.
+(9)  "Owner or operator" means any person owning or operating a facility.
+(10)  "Participating party" means a person who undertakes remedial action after receiving a demand from the secretary in compliance with the demand and as approved by the secretary.
+(11)  "Pollution source" means pollution source as defined in R.S. 30:2004 and R.S. 30:2173.
+(12)(a)  "Remedial cost" means after the discharge or disposal of a hazardous substance the cost of:
+(i)  Removing, confining, or storing any hazardous substance; constructing barriers, securing the site, encapsulating in clay or other impermeable material;
+(ii)  Cleaning up a contamination, recycling, or reuse of a hazardous substance;
+(iii)  Diversion, destruction, or segregation of reactive or other wastes;
+(iv)  Dredging or excavating a site;
+(v)  Repairing or replacing leaking containers;
+(vi)  Collection of leachate and runoff;
+(vii)  Onsite treatment or incineration of a substance;
+(viii)  Provision of alternative water supplies;
+(ix)  Monitoring, testing, or analyzing;
+(x)  Employing legal, engineering, chemical, biological, architectural, or other professional consultants or personnel;
+(xi)  Investigation, initiation, or prosecution of lawsuits to final judgment;
+(xii)  Transporting and disposing of waste from the site; or
+(xiii)  Any other action the secretary deems necessary to restore the site or remove the hazardous substance.
+(b)  Remedial costs as used herein shall include only such costs as are reasonable after consideration of the cost effectiveness of such action, the extent of remediation, and alternative methods of treatment or disposal.
+Acts 1984, No. 791, §1; Acts 1988, No. 624, §1; Acts 2003, No. 1127, §1, eff. July 2, 2003.

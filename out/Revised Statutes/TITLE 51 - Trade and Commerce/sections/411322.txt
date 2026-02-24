@@ -1,0 +1,20 @@
+RS 51:2032
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=411322
+
+§2032.  Definitions
+For the purposes of this Chapter, the following terms have the following meanings:
+(1)  "Electronic mail message" means a message sent to a unique destination, commonly expressed as a string of characters, consisting of a unique user name or mailbox and a reference to an Internet domain, whether or not displayed, to which an electronic message can be sent or delivered.
+(2)  "Identifying information" means any of the following:
+(a)  Social security number.
+(b)  Driver's license number.
+(c)  Bank account number.
+(d)  Credit card or debit card number.
+(e)  Personal identification number (PIN).
+(f)  Automated or electronic signature.
+(g)  Unique biometric data.
+(h)  Account password.
+(i)  Any other piece of information that can be used to access an individual's financial accounts or to obtain goods or services.
+(3)  "Internet" means the international computer network of both federal and nonfederal interoperable packet switched data networks.
+(4)  "Web page" means a location that has a single uniform resource locator or other single location with respect to the Internet.
+Acts 2006, No. 201, §1.

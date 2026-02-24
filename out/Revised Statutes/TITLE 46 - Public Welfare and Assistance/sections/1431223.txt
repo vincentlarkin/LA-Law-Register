@@ -1,0 +1,25 @@
+RS 46:2192
+Remote access suspension; survivor of a covered act
+https://www.legis.la.gov/legis/Law.aspx?d=1431223
+
+§2192.  Remote access suspension; survivor of a covered act
+A.(1)  A motor vehicle manufacturer shall suspend the remote access technology on
+a motor vehicle within two business days from receipt of a complete remote access
+suspension request from a survivor.
+(2)  A complete remote access suspension request requires the following:
+(a)   A certified copy of a protective order as provided by R.S. 46:2136 against the
+abuser that has been signed by a judge, hearing officer, or commissioner, a temporary
+restraining order as provided by R.S. 46:2135 against the abuser that has been signed by a
+judge, hearing officer, or commissioner, or any other official document that evidences that
+the abuser has committed a covered act.
+(b)   The survivor has ownership interest in the motor vehicle or a certified copy of
+a judgment that provides exclusive use of the motor vehicle regardless of ownership.
+B.  The remote access technology may remain disabled for the duration of the
+protective order, temporary restraining order, or judgment granting exclusive use of the
+motor vehicle.
+C.  The motor vehicle manufacturer shall provide a process that includes a prominent
+and clearly visible link entitled "HOW TO DISCONNECT REMOTE VEHICLE ACCESS"
+on the motor vehicle manufacturer's website.
+D.  The provisions of this Section shall not apply to a motor vehicle manufacturer that
+technologically cannot disable the remote access technology on a motor vehicle.
+Acts 2025, No. 225, §2.

@@ -1,0 +1,1250 @@
+{
+  "category_key": "revised-statutes",
+  "category_name": "Revised Statutes",
+  "bundle_name": "TITLE 44 - Public Records and Recorders",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "RS 44:1",
+      "title": "General definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99632"
+    },
+    {
+      "order": 2,
+      "citation": "RS 44:1.1",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727729"
+    },
+    {
+      "order": 3,
+      "citation": "RS 44:2",
+      "title": "Records involved in legislative investigations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99659"
+    },
+    {
+      "order": 4,
+      "citation": "RS 44:3",
+      "title": "Records of prosecutive, investigative, and law enforcement agencies, and communications districts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99685"
+    },
+    {
+      "order": 5,
+      "citation": "RS 44:3.1",
+      "title": "Certain records pertaining to security-related activity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206916"
+    },
+    {
+      "order": 6,
+      "citation": "RS 44:3.1.1",
+      "title": "School surveillance and security video; limited retention and viewing policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1337723"
+    },
+    {
+      "order": 7,
+      "citation": "RS 44:3.2",
+      "title": "Proprietary and trade secret information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285304"
+    },
+    {
+      "order": 8,
+      "citation": "RS 44:3.3",
+      "title": "Public power authority; commercially sensitive information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919822"
+    },
+    {
+      "order": 9,
+      "citation": "RS 44:3.4",
+      "title": "Records of the Board of Ethics",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=963803"
+    },
+    {
+      "order": 10,
+      "citation": "RS 44:3.5",
+      "title": "Records of the Department of Agriculture and Forestry",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107539"
+    },
+    {
+      "order": 11,
+      "citation": "RS 44:3.6",
+      "title": "Airport facility and infrastructure records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239530"
+    },
+    {
+      "order": 12,
+      "citation": "RS 44:4",
+      "title": "Applicability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99718"
+    },
+    {
+      "order": 13,
+      "citation": "RS 44:4.1",
+      "title": "Exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99719"
+    },
+    {
+      "order": 14,
+      "citation": "RS 44:5",
+      "title": "Records of the governor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99751"
+    },
+    {
+      "order": 15,
+      "citation": "RS 44:5.1",
+      "title": "Records of the office of a statewide elected official",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1389671"
+    },
+    {
+      "order": 16,
+      "citation": "RS 44:6",
+      "title": "Completed reports of the Legislative Auditor",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99753"
+    },
+    {
+      "order": 17,
+      "citation": "RS 44:7",
+      "title": "Hospital records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99754"
+    },
+    {
+      "order": 18,
+      "citation": "RS 44:8",
+      "title": "Louisiana office building corporation, special provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99761"
+    },
+    {
+      "order": 19,
+      "citation": "RS 44:9",
+      "title": "Repealed by Acts 2014, No. 145, §3.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99762"
+    },
+    {
+      "order": 20,
+      "citation": "RS 44:10",
+      "title": "Confidential nature of documents and proceedings of judiciary commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99633"
+    },
+    {
+      "order": 21,
+      "citation": "RS 44:11",
+      "title": "Confidential nature of certain personnel records; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99638"
+    },
+    {
+      "order": 22,
+      "citation": "RS 44:11.1",
+      "title": "Limited access to domiciliary address information for judges",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1295389"
+    },
+    {
+      "order": 23,
+      "citation": "RS 44:11.2",
+      "title": "Limited access to personal information for protected individuals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1389672"
+    },
+    {
+      "order": 24,
+      "citation": "RS 44:12",
+      "title": "Medical records of persons covered by the Office of Group Benefits programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99639"
+    },
+    {
+      "order": 25,
+      "citation": "RS 44:12.1",
+      "title": "Records of applicants for public positions; prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410809"
+    },
+    {
+      "order": 26,
+      "citation": "RS 44:13",
+      "title": "Registration records and other records of use maintained by libraries",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99640"
+    },
+    {
+      "order": 27,
+      "citation": "RS 44:14",
+      "title": "Insurance, health and accident; list of insured to be provided to department",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99650"
+    },
+    {
+      "order": 28,
+      "citation": "RS 44:15",
+      "title": "Medical records of persons applying for disability retirement through any state or statewide public retirement system or pension plan or fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99651"
+    },
+    {
+      "order": 29,
+      "citation": "RS 44:16",
+      "title": "Personal data records for certain members of public retirement systems, plans, or funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99652"
+    },
+    {
+      "order": 30,
+      "citation": "RS 44:17",
+      "title": "Immunization records; definitions; disclosure; liability; procedures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99656"
+    },
+    {
+      "order": 31,
+      "citation": "RS 44:18",
+      "title": "Geophysical survey information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99657"
+    },
+    {
+      "order": 32,
+      "citation": "RS 44:19",
+      "title": "Records of a coroner; autopsy photographs, video, and other visual images",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99658"
+    },
+    {
+      "order": 33,
+      "citation": "RS 44:20",
+      "title": "Records of discharge from armed forces",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206948"
+    },
+    {
+      "order": 34,
+      "citation": "RS 44:21",
+      "title": "Municipal fire and police civil service; test materials confidential",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=206949"
+    },
+    {
+      "order": 35,
+      "citation": "RS 44:21.1",
+      "title": "Jefferson Parish civil service; test materials confidential",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=763015"
+    },
+    {
+      "order": 36,
+      "citation": "RS 44:22",
+      "title": "Economic development negotiations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285310"
+    },
+    {
+      "order": 37,
+      "citation": "RS 44:22.1",
+      "title": "Port economic development negotiations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107567"
+    },
+    {
+      "order": 38,
+      "citation": "RS 44:22.2",
+      "title": "Local government economic development negotiations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1389673"
+    },
+    {
+      "order": 39,
+      "citation": "RS 44:23",
+      "title": "Department of Transportation and Development; preconstruction estimates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410816"
+    },
+    {
+      "order": 40,
+      "citation": "RS 44:23.1",
+      "title": "Department of Transportation and Development; Sabine River Authority; exception for certain sensitive security information or critical infrastructure information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631240"
+    },
+    {
+      "order": 41,
+      "citation": "RS 44:31",
+      "title": "Right to examine records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99688"
+    },
+    {
+      "order": 42,
+      "citation": "RS 44:31.1",
+      "title": "Exceptions; authority of the custodian",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99689"
+    },
+    {
+      "order": 43,
+      "citation": "RS 44:31.2",
+      "title": "Public records awareness program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99690"
+    },
+    {
+      "order": 44,
+      "citation": "RS 44:32",
+      "title": "Duty to permit examination; prevention of alteration; payment for overtime; copies provided; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99691"
+    },
+    {
+      "order": 45,
+      "citation": "RS 44:33",
+      "title": "Availability of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99701"
+    },
+    {
+      "order": 46,
+      "citation": "RS 44:33.1",
+      "title": "Custodian; contact information; notice to public",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1017760"
+    },
+    {
+      "order": 47,
+      "citation": "RS 44:34",
+      "title": "Absence of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99702"
+    },
+    {
+      "order": 48,
+      "citation": "RS 44:35",
+      "title": "Enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99703"
+    },
+    {
+      "order": 49,
+      "citation": "RS 44:36",
+      "title": "Preservation of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99704"
+    },
+    {
+      "order": 50,
+      "citation": "RS 44:37",
+      "title": "Penalties for violation by custodians of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99714"
+    },
+    {
+      "order": 51,
+      "citation": "RS 44:38",
+      "title": "Access to records involved in legislative studies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99716"
+    },
+    {
+      "order": 52,
+      "citation": "RS 44:39",
+      "title": "Microfilm and electronic digitized records; use as evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99717"
+    },
+    {
+      "order": 53,
+      "citation": "RS 44:40",
+      "title": "Additional copies of records; purchase of equipment; funds available for payment; copies of suit records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99720"
+    },
+    {
+      "order": 54,
+      "citation": "RS 44:41",
+      "title": "Receiving and filing map, plat, etc. for record",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99730"
+    },
+    {
+      "order": 55,
+      "citation": "RS 44:42",
+      "title": "Immunity from suit for invasion of privacy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99741"
+    },
+    {
+      "order": 56,
+      "citation": "RS 44:51",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410810"
+    },
+    {
+      "order": 57,
+      "citation": "RS 44:52",
+      "title": "Address confidentiality program; application; certification; substitute address; renewal; prohibited acts; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410811"
+    },
+    {
+      "order": 58,
+      "citation": "RS 44:53",
+      "title": "Cancellation of certification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410812"
+    },
+    {
+      "order": 59,
+      "citation": "RS 44:54",
+      "title": "Substitute address; use",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410813"
+    },
+    {
+      "order": 60,
+      "citation": "RS 44:55",
+      "title": "Secretary of state; use of substitute address; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410814"
+    },
+    {
+      "order": 61,
+      "citation": "RS 44:56",
+      "title": "Program participants; application assistance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410815"
+    },
+    {
+      "order": 62,
+      "citation": "RS 44:57",
+      "title": "Service of process",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452814"
+    },
+    {
+      "order": 63,
+      "citation": "RS 44:67.1",
+      "title": "Acceptance of collective bargaining agreement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815518"
+    },
+    {
+      "order": 64,
+      "citation": "RS 44:67.2",
+      "title": "Construction; enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=815519"
+    },
+    {
+      "order": 65,
+      "citation": "RS 44:71",
+      "title": "Offices for recording mortgages and conveyances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99755"
+    },
+    {
+      "order": 66,
+      "citation": "RS 44:72",
+      "title": "Seal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99756"
+    },
+    {
+      "order": 67,
+      "citation": "RS 44:73",
+      "title": "Location of office",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99757"
+    },
+    {
+      "order": 68,
+      "citation": "RS 44:74",
+      "title": "Repealed by Acts 1974, No. 540, 2",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99758"
+    },
+    {
+      "order": 69,
+      "citation": "RS 44:75",
+      "title": "Deputies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99759"
+    },
+    {
+      "order": 70,
+      "citation": "RS 44:76",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99760"
+    },
+    {
+      "order": 71,
+      "citation": "RS 44:77",
+      "title": "Recorder as proper party; payment of judgments and compromises; obligation to maintain insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321446"
+    },
+    {
+      "order": 72,
+      "citation": "RS 44:78",
+      "title": "Limitation of liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321447"
+    },
+    {
+      "order": 73,
+      "citation": "RS 44:79",
+      "title": "Recorder not required to pay costs or give security in judicial proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321448"
+    },
+    {
+      "order": 74,
+      "citation": "RS 44:80",
+      "title": "Fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321449"
+    },
+    {
+      "order": 75,
+      "citation": "RS 44:101",
+      "title": "General powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99634"
+    },
+    {
+      "order": 76,
+      "citation": "RS 44:102",
+      "title": "Repair and rebinding of books and records; payment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99635"
+    },
+    {
+      "order": 77,
+      "citation": "RS 44:103",
+      "title": "Certified copies and their effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99636"
+    },
+    {
+      "order": 78,
+      "citation": "RS 44:104",
+      "title": "Redesignated as R.S. 9:2742 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99637"
+    },
+    {
+      "order": 79,
+      "citation": "RS 44:105",
+      "title": "Redesignated as R.S. 9:2743 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321474"
+    },
+    {
+      "order": 80,
+      "citation": "RS 44:106",
+      "title": "Redesignated as R.S. 9:5169 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321475"
+    },
+    {
+      "order": 81,
+      "citation": "RS 44:107",
+      "title": "Redesignated as R.S. 9:5170 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321476"
+    },
+    {
+      "order": 82,
+      "citation": "RS 44:108",
+      "title": "Redesignated as R.S. 9:5171 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321477"
+    },
+    {
+      "order": 83,
+      "citation": "RS 44:109",
+      "title": "Redesignated as R.S. 9:5172 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321478"
+    },
+    {
+      "order": 84,
+      "citation": "RS 44:109.1",
+      "title": "Redesignated as R.S. 9:5173 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452818"
+    },
+    {
+      "order": 85,
+      "citation": "RS 44:110",
+      "title": "Redesignated as R.S. 9:5174 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321480"
+    },
+    {
+      "order": 86,
+      "citation": "RS 44:111",
+      "title": "Redesignated as R.S. 9:5175 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321481"
+    },
+    {
+      "order": 87,
+      "citation": "RS 44:112",
+      "title": "Redesignated as R.S. 9:5176 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321482"
+    },
+    {
+      "order": 88,
+      "citation": "RS 44:113",
+      "title": "Redesignated as R.S. 9:2741 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321483"
+    },
+    {
+      "order": 89,
+      "citation": "RS 44:114",
+      "title": "Actions against the recorder",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321485"
+    },
+    {
+      "order": 90,
+      "citation": "RS 44:115",
+      "title": "Photographic reproduction of acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321486"
+    },
+    {
+      "order": 91,
+      "citation": "RS 44:116",
+      "title": "Photostatic, photographic, microfilm, or other photographic or electronic copies of records; indexes of conveyance and mortgage records; disposition; evidentiary status; preservation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408013"
+    },
+    {
+      "order": 92,
+      "citation": "RS 44:117",
+      "title": "Preservation of filings in the conveyance records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=408014"
+    },
+    {
+      "order": 93,
+      "citation": "RS 44:118",
+      "title": "Electronic copies of records; Lafayette Parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1389674"
+    },
+    {
+      "order": 94,
+      "citation": "RS 44:119",
+      "title": "Electronic filing and recording of written instruments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1387967"
+    },
+    {
+      "order": 95,
+      "citation": "RS 44:132",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99642"
+    },
+    {
+      "order": 96,
+      "citation": "RS 44:133",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99643"
+    },
+    {
+      "order": 97,
+      "citation": "RS 44:134",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99644"
+    },
+    {
+      "order": 98,
+      "citation": "RS 44:135",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99645"
+    },
+    {
+      "order": 99,
+      "citation": "RS 44:136",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99646"
+    },
+    {
+      "order": 100,
+      "citation": "RS 44:138",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99649"
+    },
+    {
+      "order": 101,
+      "citation": "RS 44:161",
+      "title": "Double index; form and contents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99653"
+    },
+    {
+      "order": 102,
+      "citation": "RS 44:162",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99654"
+    },
+    {
+      "order": 103,
+      "citation": "RS 44:163",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99655"
+    },
+    {
+      "order": 104,
+      "citation": "RS 44:171",
+      "title": "Recordation of discharge from armed forces",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321488"
+    },
+    {
+      "order": 105,
+      "citation": "RS 44:181",
+      "title": "Clerk of court as recorder; duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410817"
+    },
+    {
+      "order": 106,
+      "citation": "RS 44:181.1",
+      "title": "Official seal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410818"
+    },
+    {
+      "order": 107,
+      "citation": "RS 44:181.2",
+      "title": "Deputy recorders",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410819"
+    },
+    {
+      "order": 108,
+      "citation": "RS 44:181.3",
+      "title": "Archivist",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410820"
+    },
+    {
+      "order": 109,
+      "citation": "RS 44:181.4",
+      "title": "Fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410821"
+    },
+    {
+      "order": 110,
+      "citation": "RS 44:181.5",
+      "title": "Repealed by Acts 2012, No. 474, §4.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410822"
+    },
+    {
+      "order": 111,
+      "citation": "RS 44:181.6",
+      "title": "Repealed by Acts 2012, No. 474, §4.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410823"
+    },
+    {
+      "order": 112,
+      "citation": "RS 44:181.7",
+      "title": "Notarial archives records; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=671617"
+    },
+    {
+      "order": 113,
+      "citation": "RS 44:182",
+      "title": "General powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410824"
+    },
+    {
+      "order": 114,
+      "citation": "RS 44:182.1",
+      "title": "Retention of powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410825"
+    },
+    {
+      "order": 115,
+      "citation": "RS 44:182.2",
+      "title": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410826"
+    },
+    {
+      "order": 116,
+      "citation": "RS 44:182.3",
+      "title": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410827"
+    },
+    {
+      "order": 117,
+      "citation": "RS 44:182.4",
+      "title": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410828"
+    },
+    {
+      "order": 118,
+      "citation": "RS 44:182.5",
+      "title": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410829"
+    },
+    {
+      "order": 119,
+      "citation": "RS 44:182.6",
+      "title": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410830"
+    },
+    {
+      "order": 120,
+      "citation": "RS 44:182.7",
+      "title": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410831"
+    },
+    {
+      "order": 121,
+      "citation": "RS 44:182.8",
+      "title": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410832"
+    },
+    {
+      "order": 122,
+      "citation": "RS 44:182.9",
+      "title": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410833"
+    },
+    {
+      "order": 123,
+      "citation": "RS 44:182.10",
+      "title": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410834"
+    },
+    {
+      "order": 124,
+      "citation": "RS 44:182.11",
+      "title": "Annual budget; submission to enumerated entities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410835"
+    },
+    {
+      "order": 125,
+      "citation": "RS 44:183",
+      "title": "Microfilm records; use; separate location; preservation of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410836"
+    },
+    {
+      "order": 126,
+      "citation": "RS 44:184",
+      "title": "Applicability of other laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410837"
+    },
+    {
+      "order": 127,
+      "citation": "RS 44:184.1",
+      "title": "Recordation of agreement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410838"
+    },
+    {
+      "order": 128,
+      "citation": "RS 44:184.2",
+      "title": "Repealed by Acts 2008, No. 677, §2, eff. July 1, 2008 and Acts 2008, No. 856, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410839"
+    },
+    {
+      "order": 129,
+      "citation": "RS 44:185",
+      "title": "Recordation books; indexes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=410840"
+    },
+    {
+      "order": 130,
+      "citation": "RS 44:201",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99660"
+    },
+    {
+      "order": 131,
+      "citation": "RS 44:201.1",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99661"
+    },
+    {
+      "order": 132,
+      "citation": "RS 44:202",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99662"
+    },
+    {
+      "order": 133,
+      "citation": "RS 44:203",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99663"
+    },
+    {
+      "order": 134,
+      "citation": "RS 44:204",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99664"
+    },
+    {
+      "order": 135,
+      "citation": "RS 44:205",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99665"
+    },
+    {
+      "order": 136,
+      "citation": "RS 44:205.1",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99666"
+    },
+    {
+      "order": 137,
+      "citation": "RS 44:206",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99667"
+    },
+    {
+      "order": 138,
+      "citation": "RS 44:207",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99668"
+    },
+    {
+      "order": 139,
+      "citation": "RS 44:231",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99669"
+    },
+    {
+      "order": 140,
+      "citation": "RS 44:231.1",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99670"
+    },
+    {
+      "order": 141,
+      "citation": "RS 44:232",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99671"
+    },
+    {
+      "order": 142,
+      "citation": "RS 44:232.1",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99672"
+    },
+    {
+      "order": 143,
+      "citation": "RS 44:233",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99673"
+    },
+    {
+      "order": 144,
+      "citation": "RS 44:234",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99674"
+    },
+    {
+      "order": 145,
+      "citation": "RS 44:234.1",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99675"
+    },
+    {
+      "order": 146,
+      "citation": "RS 44:235",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99676"
+    },
+    {
+      "order": 147,
+      "citation": "RS 44:261",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99677"
+    },
+    {
+      "order": 148,
+      "citation": "RS 44:262",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99678"
+    },
+    {
+      "order": 149,
+      "citation": "RS 44:263",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99679"
+    },
+    {
+      "order": 150,
+      "citation": "RS 44:264",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99680"
+    },
+    {
+      "order": 151,
+      "citation": "RS 44:265",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99681"
+    },
+    {
+      "order": 152,
+      "citation": "RS 44:266",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99682"
+    },
+    {
+      "order": 153,
+      "citation": "RS 44:267",
+      "title": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99683"
+    },
+    {
+      "order": 154,
+      "citation": "RS 44:268",
+      "title": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99684"
+    },
+    {
+      "order": 155,
+      "citation": "RS 44:301",
+      "title": "Pending proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99686"
+    },
+    {
+      "order": 156,
+      "citation": "RS 44:302",
+      "title": "Judgments; execution on certified copies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99687"
+    },
+    {
+      "order": 157,
+      "citation": "RS 44:321",
+      "title": "Petition and service",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99692"
+    },
+    {
+      "order": 158,
+      "citation": "RS 44:322",
+      "title": "Oath",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99693"
+    },
+    {
+      "order": 159,
+      "citation": "RS 44:323",
+      "title": "Affidavits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99694"
+    },
+    {
+      "order": 160,
+      "citation": "RS 44:324",
+      "title": "Answer; judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99695"
+    },
+    {
+      "order": 161,
+      "citation": "RS 44:325",
+      "title": "Parol evidence may be used",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99696"
+    },
+    {
+      "order": 162,
+      "citation": "RS 44:326",
+      "title": "Court costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99697"
+    },
+    {
+      "order": 163,
+      "citation": "RS 44:327",
+      "title": "Effect of recording certified copies of reestablished records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99698"
+    },
+    {
+      "order": 164,
+      "citation": "RS 44:328",
+      "title": "Costs due clerks or other officials",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99699"
+    },
+    {
+      "order": 165,
+      "citation": "RS 44:329",
+      "title": "Certified copies admissible in evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99700"
+    },
+    {
+      "order": 166,
+      "citation": "RS 44:361",
+      "title": "Use of abstractors' records authorized",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99705"
+    },
+    {
+      "order": 167,
+      "citation": "RS 44:362",
+      "title": "Parishes may purchase or expropriate abstractors' records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99706"
+    },
+    {
+      "order": 168,
+      "citation": "RS 44:363",
+      "title": "Procedure for purchase or expropriation by parish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99707"
+    },
+    {
+      "order": 169,
+      "citation": "RS 44:364",
+      "title": "Recordation of evidence adduced at trial",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99708"
+    },
+    {
+      "order": 170,
+      "citation": "RS 44:365",
+      "title": "Binding and certification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99709"
+    },
+    {
+      "order": 171,
+      "citation": "RS 44:366",
+      "title": "Compensation for district attorney",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99710"
+    },
+    {
+      "order": 172,
+      "citation": "RS 44:367",
+      "title": "Certified copies of re-established archives prima facie evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99711"
+    },
+    {
+      "order": 173,
+      "citation": "RS 44:368",
+      "title": "Presumption of correctness; use of parol evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99712"
+    },
+    {
+      "order": 174,
+      "citation": "RS 44:369",
+      "title": "Judicial notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99713"
+    },
+    {
+      "order": 175,
+      "citation": "RS 44:370",
+      "title": "Restricted application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99715"
+    },
+    {
+      "order": 176,
+      "citation": "RS 44:401",
+      "title": "Division of archives, records management, and history",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99721"
+    },
+    {
+      "order": 177,
+      "citation": "RS 44:402",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99722"
+    },
+    {
+      "order": 178,
+      "citation": "RS 44:403",
+      "title": "Counsel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99723"
+    },
+    {
+      "order": 179,
+      "citation": "RS 44:404",
+      "title": "State archivist",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99724"
+    },
+    {
+      "order": 180,
+      "citation": "RS 44:405",
+      "title": "Powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99725"
+    },
+    {
+      "order": 181,
+      "citation": "RS 44:406",
+      "title": "Collection of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99726"
+    },
+    {
+      "order": 182,
+      "citation": "RS 44:407",
+      "title": "Repealed by Acts 2024, No. 508, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99727"
+    },
+    {
+      "order": 183,
+      "citation": "RS 44:408",
+      "title": "Archives and records center building; duty custody and control",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99728"
+    },
+    {
+      "order": 184,
+      "citation": "RS 44:409",
+      "title": "Appointment of advisory groups",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99729"
+    },
+    {
+      "order": 185,
+      "citation": "RS 44:410",
+      "title": "Records management programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99731"
+    },
+    {
+      "order": 186,
+      "citation": "RS 44:411",
+      "title": "Record management obligation of agency heads",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99732"
+    },
+    {
+      "order": 187,
+      "citation": "RS 44:412",
+      "title": "Repealed by Acts 2024, No. 508, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99733"
+    },
+    {
+      "order": 188,
+      "citation": "RS 44:413",
+      "title": "Repealed by Acts 2024, No. 508, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99734"
+    },
+    {
+      "order": 189,
+      "citation": "RS 44:414",
+      "title": "Repealed by Acts 2024, No. 508, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99735"
+    },
+    {
+      "order": 190,
+      "citation": "RS 44:415",
+      "title": "Imaging and preservation services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99736"
+    },
+    {
+      "order": 191,
+      "citation": "RS 44:416",
+      "title": "Repealed by Acts 2024, No. 508, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99737"
+    },
+    {
+      "order": 192,
+      "citation": "RS 44:417",
+      "title": "Deposit of records of historical value; transfer of deposited records to public or educational institutions; disposition of abandoned property",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99738"
+    },
+    {
+      "order": 193,
+      "citation": "RS 44:418",
+      "title": "Responsibility for custody, use, and withdrawal of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99739"
+    },
+    {
+      "order": 194,
+      "citation": "RS 44:419",
+      "title": "Preservation, conservation, and exhibition of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99740"
+    },
+    {
+      "order": 195,
+      "citation": "RS 44:420",
+      "title": "Deposit of papers and other historical materials of officials and individuals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99742"
+    },
+    {
+      "order": 196,
+      "citation": "RS 44:421",
+      "title": "Authorization to certify facts; evidentiary status of any reproductions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99743"
+    },
+    {
+      "order": 197,
+      "citation": "RS 44:422",
+      "title": "Safeguards against the removal, unlawful destruction, or loss of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99744"
+    },
+    {
+      "order": 198,
+      "citation": "RS 44:423",
+      "title": "Repealed by Acts 2024, No. 508, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99745"
+    },
+    {
+      "order": 199,
+      "citation": "RS 44:424",
+      "title": "Authority of state financial officers and others not limited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99746"
+    },
+    {
+      "order": 200,
+      "citation": "RS 44:425",
+      "title": "Department of Revenue; exemption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99747"
+    },
+    {
+      "order": 201,
+      "citation": "RS 44:426",
+      "title": "Transfer of inactive legislative records to archives",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99748"
+    },
+    {
+      "order": 202,
+      "citation": "RS 44:427",
+      "title": "Advisory Board of the Louisiana State Archives",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99749"
+    },
+    {
+      "order": 203,
+      "citation": "RS 44:428",
+      "title": "To 430 Repealed by Acts 1985, No. 238, 1, effective July 6, 1985.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99750"
+    },
+    {
+      "order": 204,
+      "citation": "RS 44:501",
+      "title": ".Board; creation; appointment; compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=99752"
+    },
+    {
+      "order": 205,
+      "citation": "RS 44:502",
+      "title": "Duties of the board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107570"
+    },
+    {
+      "order": 206,
+      "citation": "RS 44:503",
+      "title": "State historical records coordinator duties; deputy state historical records coordinator duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107571"
+    },
+    {
+      "order": 207,
+      "citation": "RS 44:504",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107569"
+    }
+  ]
+}

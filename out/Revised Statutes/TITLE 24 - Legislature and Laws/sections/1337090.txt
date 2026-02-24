@@ -1,0 +1,24 @@
+RS 24:580
+State debt database
+https://www.legis.la.gov/legis/Law.aspx?d=1337090
+
+NOTE:  §580 eff. if and when a deposit is made into the Louisiana Transparency Fund. See
+Acts 2023, No. 446.
+§580.  State debt database
+A.(1)  The auditor shall ensure that the website includes a state debt database that
+is electronically searchable by the public.
+(2)  All agencies, boards, commissions, and departments of the state shall furnish
+information, reports, aid, services, and assistance to the extent allowed by state and federal
+law and regulations as may be requested by the auditor in the performance of the auditor's
+responsibilities as set forth in this Subsection.
+B.  The auditor shall ensure that the state debt database allows the public to:
+(1)  Search and aggregate debt by agency.
+(2)  Search and aggregate debt from multiple fiscal years.
+C.  The state debt database shall include the following content:
+(1)  Amounts and categories of state debt, such as pensions, postemployment benefit
+obligations, and capital construction.
+(2)  Annual costs of debt service by category and budget unit.
+(3)  Sources of funding for state debt obligations.
+(4)  The per capita costs of state debt.
+(5)  Information used to determine the state's net state tax supported debt.
+Acts 2023, No. 446, §1, see Act.

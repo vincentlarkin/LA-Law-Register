@@ -1,0 +1,10 @@
+RS 47:818.31
+Returns required of motor fuel transporters
+https://www.legis.la.gov/legis/Law.aspx?d=321839
+
+§818.31.  Returns required of motor fuel transporters
+A.  A person who transports by marine vessel, railroad tank car, or transport vehicle, gasoline or diesel fuel that is imported into Louisiana or exported from Louisiana shall file a monthly information return with the secretary that shows gasoline or diesel fuel received or delivered for import or export by the motor fuel transporter during the month.
+B.  The return shall contain the following information and any other information required by the secretary:
+(1)  The name, address, and terminal control number of each person or terminal from whom the motor fuel transporter received gasoline or diesel fuel outside Louisiana for delivery in Louisiana, the net gallons of product received, the date the product was received, and the name and address of the purchaser of the product sorted by product code.
+(2)  The name, address, and terminal control number of each person or terminal from whom the motor fuel transporter received gasoline or diesel fuel in Louisiana for delivery outside Louisiana, the net gallons delivered, the date the product was delivered, and the destination state.
+Acts 2005, No. 252, §1, eff. July 1, 2006.

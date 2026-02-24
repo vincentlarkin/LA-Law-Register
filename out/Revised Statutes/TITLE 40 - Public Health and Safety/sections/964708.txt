@@ -1,0 +1,35 @@
+RS 40:1163.1
+Electronic health care transactions; electronic signature authentication and identification system
+https://www.legis.la.gov/legis/Law.aspx?d=964708
+
+PART III.  INFORMATION AND RECORDS
+SUBPART A.  ELECTRONIC HEALTH CARE TRANSACTIONS
+§1163.1.  Electronic health care transactions; electronic signature authentication and
+identification system
+A.  As used in this Section, the following terms shall have the following meanings:
+(1)  "Authorization" means a consent, an approval, or an authorization between
+persons.
+(2)  "Electronic signature authentication and identification" means the process of
+authenticating identification using a system of form, location, and endorsement pursuant to
+Subsections B and C of this Section.
+B.  Electronic signature authentication and identification may be used for an
+individual who participates in agreements, authorizations, contracts, records, or other
+transactions that involve individually identifiable health information, including medical
+records and recordkeeping, transfer of medical records, medical billing, health care proxies,
+health care directives, consent to medical treatment, medical research, and organ and tissue
+donation or procurement.
+C.  Electronic signature authentication and identification pursuant to Subsection B
+of this Section may be implemented by an interactive system of security procedures that
+include any of the following:
+(1)  A tamper-proof electric appliance that receives input of unique identification
+numbers, unique biometric identifiers, or location devices.
+(2)  A computerized authentication process for biometric identifiers that is linked to
+the appropriate identification numbers upon receipt of the identifiers.
+(3)  Transmission of verification of the identifiers to a securely maintained electronic
+repository.
+D.  The provisions of this Section shall not be construed to supersede or preempt
+applicable state and federal law, including the Louisiana Uniform Electronic Transactions
+Act, as established in R.S. 9:2601 et seq., the Health Insurance Portability and Accountability
+Act of 1996 and associated regulations, and 21 CFR Part 11.
+Acts 2008, No. 738, §1, eff. July 3, 2008; Redesignated from R.S. 40:1299.40.1 by
+HCR 84 of 2015 R.S.

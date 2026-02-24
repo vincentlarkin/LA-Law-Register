@@ -1,0 +1,52 @@
+RS 40:1169.3
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=964718
+
+§1169.3.  Definitions
+As used in this Subpart, the following terms have the meaning ascribed to them in
+this Section:
+(1)  "Eligible patient" means a person to whom all of the following criteria apply:
+(a)  Has a terminal illness.
+(b)  As determined by the person's physician, has no comparable or satisfactory
+treatment options that are approved by the United States Food and Drug Administration and
+available to diagnose, monitor, or treat the person's disease or condition, and the probable
+risk to the person from the investigational drug, biological product, or device is not greater
+than the probable risk from the person's disease or condition.
+(c)  Has received a prescription or recommendation from his physician for an
+investigational drug, biological product, or device.
+(d)(i)  Has given his consent in writing for the use of the investigational drug,
+biological product, or device; or, if he is a minor or lacks the mental capacity to provide
+consent, a parent or legal guardian has given consent in writing on his behalf.
+(ii)  A person who can understand and comprehend spoken English but is physically
+unable to talk or write may be deemed as meeting the criteria of this Subparagraph if he is
+competent and able to indicate consent by other means.
+(e)  Has documentation from his physician indicating that he has met the
+requirements provided in this Subpart.
+(2)(a)  "Investigational drug, biological product, or device" means a drug, biological
+product, or device that has successfully completed phase one of a United States Food and
+Drug Administration approved clinical trial, but has not been approved for general use by the
+United States Food and Drug Administration and remains under investigation in a clinical
+trial.
+(b)  Notwithstanding Subparagraph (a) of this Paragraph, for purposes of this Subpart,
+"investigational drug, biological product, or device" shall include any device possessing the
+following characteristics regardless of whether it has successfully completed phase one of
+a United States Food and Drug Administration approved clinical trial:
+(i)(aa)  If of a robotic nature, the device is designed such that any failure in a
+multitude of continuous tests of its internal subsystems should cause motion to stop,
+consistent with the Guidelines For Robotics Safety from the Occupational Safety and Health
+Administration of the United States Department of Labor (Directive Number STD
+01-12-002).
+(bb)  For purposes of this Item, "robotic nature" shall mean capable of  independent
+motion or moving the user.
+(ii)  The device has all of the following features for intentional control:
+(aa)  The motion of the device responds to specific controls from the user.
+(bb)  The device has no machine state in which motion continues without a specific
+command from the user.
+(iii)  The device has an emergency stop button which allows an assistant to force the
+motion of the device to stop.
+(3)  "Terminal illness" means a disease that, without life-sustaining procedures, will
+result in death in the near future or a state of permanent unconsciousness from which
+recovery is unlikely.  This diagnosis shall be confirmed by a second independent evaluation
+by a board-certified physician in an appropriate speciality.
+Acts 2014, No. 346, §1; Redesignated from R.S. 40:1300.423 by HCR 84 of 2015
+R.S.; Acts 2017, No. 292, §1.

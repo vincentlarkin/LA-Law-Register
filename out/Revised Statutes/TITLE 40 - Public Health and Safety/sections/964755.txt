@@ -1,0 +1,123 @@
+RS 40:1189.3
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=964755
+
+§1189.3.  Definitions
+As used in this Part:
+(1)  "Department" means the Louisiana Department of Health or its successor in the
+role of designated state agency under Title XIX of the Social Security Act or any successor
+Act including but not limited to block grants or other funding for medical care of the poor.
+(2)  "Emergency medical condition" means acute symptoms of sufficient severity
+such that the absence of immediate medical attention could reasonably be expected to result
+in any one or more of the following:
+(a)  Placing the health of the individual in serious jeopardy, including the health of
+the unborn child in the case of a pregnant woman.
+(b)  Serious impairment to any bodily function.
+(c)  Serious dysfunction of any bodily part.
+(3)  "Health care provider" means an individual, person, corporation, facility, or
+institution licensed by the state to provide health care or professional services as a physician,
+nurse, or allied health professional.
+(4)  "Prospective rates approximating cost" means the median cost of a rural hospital
+providing inpatient acute or inpatient psychiatric services plus ten percent, which cost has
+been inflated by the Medicare market basket inflation factor to the midpoint of the state's
+fiscal year in which services may be furnished.  The median cost and rates shall be re-based
+by the department at least every other year using the most current rural hospital cost reports
+on file with the department.
+(5)  "Public rural hospital" means a rural hospital owned or operated by a political
+subdivision of the state, including but not limited to a hospital service district, parish, or
+municipality.
+(6)  "Reasonable cost" means the cost of hospital outpatient services, including
+without limitation provider-based rural health clinics, utilizing Medicare cost reimbursement
+principles applicable to the respective rural hospital, including hospital-based rural health
+clinics licensed as hospital departments.  In the event a more limited definition of reasonable
+cost is required to obtain federal approval for the related state plan amendment for those rural
+hospitals that are reimbursed under Medicare's Prospective Payment System, hereinafter
+referred to as "PPS", the department shall utilize the most liberal definition of "reasonable
+cost" for such rural PPS hospitals that is acceptable to the United States Department of
+Health and Human Services, Centers for Medicare and Medicaid Services, hereinafter
+referred to as "CMS".
+(7)(a)  "Rural hospital" means a hospital licensed by the department which meets one
+of the following criteria:
+(i)  Has no more than sixty hospital beds as of July 1, 1994; and
+(aa)  Is located in a parish with a population of less than fifty thousand; or
+(bb)  Is located in a municipality with a population of less than twenty thousand.
+(ii)  Meets the qualifications of a sole community hospital under 42 CFR 412.92(a);
+or met the qualifications of a sole community hospital as of June 30, 2005, and subsequently
+converted to critical access hospital status.
+(iii)  Has no more than sixty hospital beds as of July 1, 1999, and is located in a
+parish with a population, as measured by the 1990 census, of less than seventeen thousand.
+(iv)  Has no more than sixty hospital beds as of June 30, 2000, and is located in a
+municipality with a population, as measured by the 1990 census, of less than twenty
+thousand.
+(v)  Has no more than sixty beds as of July 1, 1997, and is located in a parish with a
+population, as measured by  the 1990 and 2000 censuses, of less than fifty thousand.
+(vi)  Was a hospital facility licensed by the department that had no more than sixty
+hospital beds as of July 1, 1994, which hospital facility has been in continuous operation
+since July 1, 1994, is currently operating under a license issued by the department, and is
+located in a parish with a population, as measured by the 1990 census, of less than fifty
+thousand.
+(vii)  Has no more than sixty hospital beds or has notified the Louisiana Department
+of Health as of March 7, 2002 of its intent to reduce its number of hospital beds to no more
+than sixty, and:
+(aa)  Is located, as measured by the 2000 census, in a municipality with a population
+of less than thirteen thousand; and
+(bb)  Is located, as measured in the 2000 census, in a parish with a population of less
+than thirty-two thousand.
+(viii)  Has no more than sixty hospital beds as of May 1, 2001, and:
+(aa)  Is located, as measured by the 2000 census, in a municipality with a population
+of less than five thousand five hundred; and
+(bb)  Is located, as measured by the 2000 census, in a parish with a population of less
+than forty-two thousand.
+(ix)  Has no more than sixty hospital beds as of September 26, 2002, and:
+(aa)  Is located, as measured by the 2000 census, in a municipality with a population
+of less than ten thousand; and
+(bb)  Is located, as measured by the 2000 census, in a parish with a population of less
+than thirty-three thousand.
+(x)  Has no more than sixty hospital beds as of January 1, 2003, and:
+(aa) Is located, as measured by the 2000 census, in a municipality with a population
+of less than eleven thousand; and
+(bb)  Is located, as measured by the 2000 census, in a parish with a population of less
+than ninety thousand.
+(xi)  Has no more than sixty hospital beds or has notified the Louisiana Department
+of Health as of May 16, 2003, of its intent to reduce its number of hospital beds to no more
+than sixty, and:
+(aa)  Is located, as measured by the 2000 census, in a municipality with a population
+of less than seven thousand.
+(bb)  Is located, as measured by the 2000 census, in a parish with a population of less
+than fifty-three thousand.
+(cc)  Is located within ten miles of a United States military base.
+(xii)  Notwithstanding the provisions of Subparagraphs (7)(c) and (d) of this Section,
+has no more than forty beds as of January 1, 2005, and:
+(aa)  Is located, as measured by the 2000 census, in a municipality with a population
+of less than three thousand one hundred.
+(bb)  Is located, as measured by the 2000 census, in a parish with a population of less
+than fifteen thousand eight hundred.
+(xiii)  Notwithstanding the provisions of Subparagraphs (7)(c) and (d) of this Section,
+has no more than sixty hospital beds as of November 1, 2013, and:
+(aa)  Is located, as measured by the 2000 census, in a municipality with a population
+of less than thirty-three thousand.
+(bb)  Is located, as measured by the 2000 census, in a parish with a population of less
+than sixty-eight thousand.
+(cc)  Is located within three miles of Jackson Barracks.
+(b)  "Rural hospital" does not mean a long-term care hospital, a rehabilitation
+hospital, or a free-standing psychiatric hospital.
+(c)  For purposes of this Section, no hospital shall be designated as a "rural hospital"
+that was not downsized to sixty beds by May 16, 2003 and was not so designated prior to
+July 1, 2003.
+(d)  Notwithstanding anything to the contrary in this Section, no hospital shall be
+eligible to receive disproportionate share funds contingent upon Centers for Medicare and
+Medicaid Services approval unless designated as a "small rural hospital" and it has been
+annually certified by the Rural Hospital Coalition, Inc., as an entity eligible for assistance
+from Building Healthy Communities, Inc.
+(8)  "State plan for medical assistance" means the plan promulgated by the
+department in accordance with its role as designated state agency under Title XIX of the
+Social Security Act, or its successor plan, including but not limited to any plan adopted
+pursuant to any federal law creating block grants or other funding for medical care of the
+poor.
+Acts 1997, No. 1485, §1; Acts 1999, No. 1068, §1; Acts 2001, No. 1074, §1, eff. June
+28, 2001; Acts 2002, 1st Ex. Sess., No. 35, §1, eff. April 18, 2002; Acts 2003, No. 526, §1,
+eff. June 23, 2003; Acts 2003, No. 1148, §1, eff. July 2, 2003; Acts 2003, No. 1191, §3, eff.
+July 3, 2003; Acts 2004, No. 684, §1; Acts 2005, No. 323, §1; Acts 2007, No. 224, §1, eff.
+July 2, 2007; Acts 2007, No. 327, §1, eff. July 9, 2007; Acts 2007, No. 431, §1; Acts 2008,
+No. 389, §1; Acts 2010, No. 147, §1; Redesignated from R.S. 40:1300.143 by HCR 84 of
+2015 R.S.

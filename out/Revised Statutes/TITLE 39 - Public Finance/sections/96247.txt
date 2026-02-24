@@ -1,0 +1,126 @@
+RS 39:197
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=96247
+
+§197.  Definitions
+For the purposes of this Part, the following words and phrases shall be defined as
+follows:
+(1)  "Agency" shall have the same meaning ascribed to it as provided in R.S. 36:3(1).
+(2)  "Competitive sealed bidding" means a method of procurement which strictly
+follows the requirements set forth in Chapter 17 of Title 39 of the Louisiana Revised Statutes
+of 1950 except for such variations as are specifically established herein.
+(3)  "Consulting service" shall have the same meaning as provided in R.S. 39:1556.
+(4)  "Direct order contract" means a contract which covers a specific class of
+information technology equipment, software, or services, or a contract which covers a single,
+specific class of information technology equipment, software, or services, and all features
+associated with that class and through which state agencies may procure the item of hardware
+specified by issuing a purchase order under the terms of the contract, without the necessity
+of further competitive bidding.
+(5)  "Emergency acquisitions or rentals of information technology" means a method
+of procurement utilized when there exists a threat to the public health, welfare, safety or
+public property.
+(6)  "Financed lease" means a contract or lease of an information technology system
+made pursuant to a solicitation for procurement, according to which:
+(a)  The successful proposer, as lessor, shall retain title to the information technology
+system, although the using agency, as lessee, shall take possession of the system.
+(b)  Payments shall be made by the lessee according to a payment schedule to the
+lessor.
+(c)  The lessor may transfer its designation as lessor to its choice of financial
+institution; however, such transfer shall have no effect on the contracted payment schedule,
+contracted interest rate, or any other right or obligation of either the lessee or lessor under
+the contract.
+(7)  "Fiscal intermediary services" means an information technology system including
+but not limited to electronic visit verification, third-party liability, financial management,
+provider management system, care management, healthcare claims and encounter processing,
+payment integrity, data warehousing, and pharmacy benefit management, that is used for
+managing all or part of a Medicaid program.
+(8)  "Information technology service contract" means a contract for the procurement
+of information technology services to include but not be limited to software as a service,
+infrastructure as a service, platform as a service, application hosting services, or installation
+and configuration services.
+(9)  "Information technology systems", which shall include information technology
+equipment and related services, and "information technology services" are limited to the
+equipment and services and means to provide:
+(a)  Server systems and services.
+(b)  Storage systems and services.
+(c)  Information technology security systems and services.
+(d)  Related peripheral systems and services.
+(e)  Software and software application services.
+(f)  Infrastructure and platform systems and services.
+(g)  Desktop computing systems and services.
+(h)  Geographic information systems and services.
+(i)  Mobile device systems and services.
+(j)  Any and all systems and services based on emerging and future information
+technologies relating to Subparagraphs (a) through (i) of this Paragraph.
+(10)  "Information technology systems contract" means a contract for the procurement
+of information technology systems including equipment and related services to include but
+not be limited to installation and maintenance.
+(11)  "Information technology systems lease contract" means a contract between a
+supplier of information technology systems and the division of administration, office of
+technology services, or the procuring agency, through which information technology systems
+may be procured for a term which shall not exceed ten years.  The contract may be either an
+operating lease, installment purchase, or a financed lease without a balloon payment.
+(12)  "Installment-payment contract" means a contract which amends and is
+incorporated into a purchase contract and is utilized to finance with the vendor the purchase
+of certain equipment, including but not limited to information technology, desktop
+computers, server systems, storage systems, mobile computing systems, peripheral systems,
+software, related services, and related supplies or a contract which itself alone is utilized to
+procure such equipment from a contractor and provides therein for payment in a set of
+installments over a fixed period of time.  An installment payment contract shall arrange for
+a method of financing with payment being made in a set of installment payments over a fixed
+period of time in accordance with the provisions of the contract and shall provide for the
+vendor to deliver title to the governmental body in accordance with such terms.
+(13)  "Invitation to negotiate" means a written or electronically posted solicitation for
+competitive sealed replies to select one or more vendors with which to commence
+negotiations for the procurement of information technology systems, information technology
+services, software, professional services, or consulting services.
+(14)  "Master agreement" means an agreement between the state and a vendor which
+specifies the general terms and conditions under which parties will routinely conduct
+procurement business.
+(15)  "Multiyear contract" means contracts for a term of more than one year, not to
+exceed ten years and includes contracts between a supplier of information technology
+systems, information technology services, and software and the state or a state agency
+through which information technology systems, information technology services, and
+software, except for fiscal intermediary services, may be leased or purchased for a term of
+more than one fiscal year, but the term shall not exceed sixty months.
+(16)  "Procurement" means the selling, buying, purchasing, renting, leasing, or
+otherwise obtaining information technology systems, information technology services, or its
+related software, as well as all activities engaged in, resulting in, or expected to result in the
+selling, buying, purchasing, renting, leasing, or otherwise obtaining information technology
+systems, information technology services, or its related software by the state or its agencies.
+(17)  "Professional service" shall have the same meaning as provided in R.S. 39:1556.
+(18)  "Purchase contract" means a contract that is utilized for the direct acquisition
+of certain equipment, including but not limited to information technology, desktop
+computers, server systems, storage systems, mobile computing systems, peripheral systems,
+software, and related services.  Such contract shall contain the terms and conditions pertinent
+to the rights and obligations of both the state and the vendor.  Any purchase by direct
+acquisition under the terms of the purchase contract will require one single payment, and title
+shall pass to the state upon the date of purchase as defined in the contract unless the purchase
+contract is amended by an installment payment contract.
+(19)  "Related services" means and is limited to service activities affecting the
+maintenance of information technology equipment or software and the providing of fiscal
+intermediary services and shall also include those consulting services ancillary to the
+procurement of information technology hardware or software that would otherwise be
+governed by the provisions of professional, personal, consulting, and social services
+procurement in Chapter 17 of Subtitle III of this Title.  Except for consulting services
+ancillary to the procurement of fiscal intermediary services by cooperative purchasing, such
+consulting services contracts shall be limited to the lesser of twenty percent of the
+procurement amount or two hundred fifty thousand dollars.
+(20)  "Rental contract" means and includes contracts between a supplier of
+information technology equipment and the state, or a state agency, through which
+information technology equipment may be leased for a term not to exceed one fiscal year,
+such contracts to include the right of termination by the state upon notice of ninety days or
+less, and to be renewable, upon review and recommendations of the procurement support
+team and review and approval by the office of technology services, with such renewal to be
+limited to one additional term not to exceed twelve months.
+(21)  "Software" means computer programs and documentation essential to and
+necessary for an information technology system or information technology service to perform
+productive operations.
+(22)  "Utility" means any information technology service provided by the office of
+technology services and used in the essential operations of a state agency, such as system
+authentication, data replication, and system utilization and performance management.
+Acts 1981, No. 628, §1, eff. July 20, 1981.  Amended by Acts 1982, No. 855, §1;
+Acts 1983, No. 478, §2, eff. July 6, 1983; Acts 1984, No. 754, §1, eff. July 13, 1984; Acts
+1985, No. 995, §1, eff. July 23, 1985; Acts 2012, No. 185, §1; Acts 2014, No. 712, §2, eff.
+July 1, 2014; Acts 2021, No. 347, §1, eff. June 15, 2021; Acts 2024, No. 734, §2.
+{{NOTE:  See Acts 1985, No. 995, §3.}}

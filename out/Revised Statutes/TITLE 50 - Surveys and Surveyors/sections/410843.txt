@@ -1,0 +1,13 @@
+RS 50:173.1
+Geodetic control standards
+https://www.legis.la.gov/legis/Law.aspx?d=410843
+
+§173.1.  Geodetic control standards
+Controls for all surveys shall be determined in the National Spatial Reference System
+or its successors.  All measurements shall be referenced to local control stations of the
+National Spatial Reference System or its successors, specifically the public domain Louisiana
+State University Continuously Operating Reference Stations network or other reference
+stations currently approved by the National Oceanographic and Atmospheric Administration
+National Geodetic Survey, such as benchmarks, monuments, or continually operating
+reference stations.
+Acts 2006, No. 194, §1; Acts 2024, No. 626, §2.

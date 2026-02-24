@@ -1,0 +1,24 @@
+RS 35:627
+Procedure for performing remote online notarization
+https://www.legis.la.gov/legis/Law.aspx?d=1187619
+
+§627.  Procedure for performing remote online notarization
+A.  At the time of a remote online notarization, the notary public shall verify the
+identity of any party or witness appearing remotely, both through use of communication
+technology and by one of the following means:
+(1)  The notary public's personal knowledge of the individual.
+(2)  A process that includes all of the following:
+(a)  Remote presentation by the individual of a government-issued identification
+credential, such as a passport or driver's license, that contains the signature and a photograph
+of the individual.
+(b)  Credential analysis.
+(c)  Identity proofing.
+B.  The notary public shall do all of the following:
+(1)  Include in the remote online notarial act a statement that it is a remote online
+notarial act.
+(2)  Attach to or cause to be logically associated with the remote online notarial act
+the notary public's electronic signature, together with all other information required to be
+included in the act by other applicable law.
+(3)  Digitally sign the remote online notarial act in a manner that renders any
+subsequent change or modification of the remote online notarial act to be evident.
+Acts 2020, No. 254, §4, see Act.

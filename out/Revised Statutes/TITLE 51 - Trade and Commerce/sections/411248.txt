@@ -1,0 +1,9 @@
+RS 51:2010
+Misrepresentation and deception
+https://www.legis.la.gov/legis/Law.aspx?d=411248
+
+§2010.  Misrepresentation and deception
+A person or entity who is not an authorized user shall not do any of the following:
+(1)  Induce an authorized user to install a software component onto the computer by misrepresenting that installing software is necessary for security or privacy reasons or in order to open, view, or play a particular type of content.
+(2)  Cause the copying and execution on the computer of a computer software component with the intent of causing an authorized user to use the component in a way that violates any other provision of this Section.
+Acts 2006, No. 392, §1.

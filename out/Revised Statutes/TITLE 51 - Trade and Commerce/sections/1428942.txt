@@ -1,0 +1,88 @@
+RS 51:1771
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1428942
+
+NOTE:  Part II eff. July 1, 2026.  See Acts 2025, No. 481, §2.
+PART II.  PROTECTION OF CHILDREN ON APPLICATIONS
+§1771.  Definitions
+As used in this Part, the following terms have the following meanings:
+(1)  "Age category"  means one of the following categories of individuals based on
+age:
+(a)  "Child" means an individual who is under thirteen years old.
+(b)  "Younger teenager" means an individual who is at least thirteen years old and
+under sixteen years old.
+(c)  "Older teenager" means an individual who is at least sixteen years old and under
+eighteen years old.
+(d)  "Adult" means an individual who is at least eighteen years old.
+(2)  "Age category data" means information about a user's age that is collected by
+a covered application store provider and shared with a developer.
+(3)  "Age rating" means a classification that provides an assessment of the suitability
+of an application's content for different age groups.
+(4) "Application" means a software program that is designed to run on a connected
+device or a mobile device.
+(5) "Connected device" means a smartphone, tablet, computer, gaming console, or
+virtual reality device that enables users to connect to the internet and download software
+applications.
+(6)  "Content description" means a description of the specific content elements that
+informed an application's age rating.
+(7)  "Covered application store" means a publicly available website, software
+application, or electronic service that allows users to download applications from
+third-party developers onto a mobile device.
+(8)  "Covered application store provider" means a person who owns, operates, or
+controls a covered application store that allows users in this state to download applications.
+(9)  "Developer" means a person who owns or controls an application made
+available through a covered application store in this state.
+(10)  "Minor" means an individual under the age of eighteen and is not emancipated
+or married.
+(11)  "Minor account" means an account with a covered application store provider
+that is established by an individual who the covered application store provider has
+determined is under eighteen years of age, and is not emancipated or married, through the
+covered application store provider's age verification methods and requires affiliation with
+a parent account.
+(12)  "Mobile device" means a phone or general purpose tablet that does all of the
+following:
+(a)  Provides cellular or wireless connectivity.
+(b)  Is capable of connecting to the internet.
+(c)  Runs a mobile operating system.
+(d)  Is capable of running applications through the mobile operating system.
+(13)  "Mobile operating system" means software that does all of the following:
+(a)  Manages mobile device hardware resources.
+(b)  Provides common services for mobile device programs.
+(c)  Controls memory allocation.
+(d)  Provides interfaces for applications to access device functionality.
+(14)  "Parent" means, with respect to a minor, individuals who have legal authority
+to make decisions on behalf of the minor.
+(15)  "Parent account" means an account with a covered application store provider
+that is both of the following:
+(a)  Is verified to be established by an individual whom the covered application store
+provider has determined is at least eighteen years old through the covered application store
+provider's age verification methods.
+(b)  May be affiliated with one or more minor accounts.
+(16)  "Parental consent disclosure" means the following information that a covered
+application store provider is required to provide to a parent before obtaining parental
+consent:
+(a)  If the covered application store provider has an age rating for the application
+or in-application purchase, the application's or in-application purchase's age rating.
+(b)  If the covered application store provider has a content description for the
+application or in-application purchase, the application's or in-application's content
+description.
+(c)  A description of:
+(i)  The personal data collected by an application from a user.
+(ii)  The personal data shared by the application with a third party.
+(d)  If personal data is collected by the application, the methods implemented by the
+developer to protect the personal data.
+(17)  "Significant change" means a material modification to an application's terms
+of service or privacy policy that:
+(a)  Changes the categories of data collected, stored, or shared.
+(b)  Alters the application's age rating or content descriptions.
+(c)  Adds new monetization features, including in-application purchases and
+advertisements.
+(d)  Materially changes the application's functionality or user experience.
+(18)  "Verifiable parental consent" means authorization that is all of the following:
+(a)  Is provided by an individual who a covered application store provider has
+verified is an adult.
+(b)  Is given after the covered application store provider has clearly and
+conspicuously provided the parental consent disclosure to the individual.
+(c)  Requires the parent to make an affirmative choice to grant consent or decline
+consent.
+Acts 2025, No. 481, §2, eff. July 1, 2026.

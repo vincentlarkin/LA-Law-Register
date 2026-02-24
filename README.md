@@ -46,6 +46,7 @@ python -m pip install -r requirements.txt
 
 Notes:
 - The script uses Playwright with the installed Edge browser (`channel="msedge"`), so you **do not** need to run `playwright install` unless you want to switch browsers.
+- Pass1 TOC page-number scanning now prefers `pymupdf` (much faster on large bundles) and falls back to `pypdf` when needed.
 
 ## Run
 
@@ -89,6 +90,14 @@ python scripts\download_louisiana_laws.py --refresh-toc
 ```powershell
 python scripts\download_louisiana_laws.py --categories revised-statutes --max-bundles 1 --max-sections 10
 ```
+
+### Force the fast page-number scanner
+
+```powershell
+python scripts\download_louisiana_laws.py --categories revised-statutes --pdf-scan-backend pymupdf
+```
+
+The default is `--pdf-scan-backend auto` (try `pymupdf`, then fall back to `pypdf`).
 
 ## Search / Index
 

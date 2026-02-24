@@ -1,0 +1,10 @@
+RS 51:2023
+Electronic mail fraud
+https://www.legis.la.gov/legis/Law.aspx?d=411256
+
+§2023.  Electronic mail fraud
+A person may not, with the intent to engage in conduct involving the fraudulent use or possession of identifying information, send or cause to be sent to an electronic mail address held by a resident of this state an electronic mail message that:
+(1)  Is falsely represented as being sent by a legitimate online business;
+(2)  Refers or links the recipient of the message to a Web page that is represented as being associated with the legitimate online business; and
+(3)  Directly or indirectly induces, requests, or solicits the recipient of the electronic mail message to provide identifying information for a purpose that the recipient believes is legitimate.
+Acts 2006, No. 549, §1, eff. Sept. 1, 2006.

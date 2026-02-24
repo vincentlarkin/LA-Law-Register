@@ -1,0 +1,57 @@
+RS 40:1167.2
+Legislative findings; purpose
+https://www.legis.la.gov/legis/Law.aspx?d=964713
+
+§1167.2.  Legislative findings; purpose
+The legislature finds that:
+(1)  Through the state's health care reform efforts, it has been recognized that Health
+Information Technology (HIT) and Health Information Exchange (HIE) are critical to
+improving and evaluating the quality of health care delivered to the citizens of Louisiana
+across the full spectrum of service delivery.  The state has made significant investments in
+HIT that should be leveraged and built upon while continuing to address the low adoption
+rate of HIT by providers statewide.
+(2)  The state and federal governments have recognized that the use of an
+interoperable electronic health record (EHR) is the foundation of HIT adoption and can
+improve outcomes and reduce costs.
+(3)  In February of 2009, the United States Congress, in enacting the American
+Recovery and Reinvestment Act of 2009 (ARRA), made a substantial financial commitment
+to the national expansion of HIT by providing approximately seventeen billion dollars in
+funding for enhanced Medicare and Medicaid reimbursements to certain providers who
+demonstrate meaningful use of certified EHR technology, as well as an additional two billion
+dollars for competitive grants to the states to create regional infrastructure and to provide
+loans to providers for the purchase and implementation of an EHR.
+(4)  Under ARRA, many of Louisiana's providers will become eligible for enhanced
+Medicare reimbursement in the federal fiscal year beginning October 1, 2010, by becoming
+a meaningful user of certified EHR technology and will suffer financial consequences for
+failing to do so in the federal fiscal year beginning October 1, 2014.  Additionally, enhanced
+Medicaid reimbursement will be available to certain providers who are engaged in efforts to
+adopt, implement, or upgrade certified EHR technology or who are meaningful users of such
+technology, beginning on a date that has not yet been specified by the federal government.
+(5)  The ARRA's loan program competitive grant provisions are designed to facilitate
+the widespread adoption of certified EHR technology, thus achieving provider eligibility for
+the enhanced Medicare and Medicaid reimbursements.  The application process requires that
+the state develop and submit a strategic plan that will be annually updated, and that must
+include a list of the projects to be assisted through the program, a description of the criteria
+and methods established for the distribution of funds, the financial status of the loan fund as
+of the date of submission of the plan and the short-term and long-term goals of the program.
+(6)  In 2007, the state authorized the secretary to enter into a Cooperative Endeavor
+Agreement ("CEA") with the Rural Hospital Coalition, Inc. (the "Coalition"), for the
+establishment of the Louisiana Rural Health Information Exchange (LARHIX), a
+multi-regional health care information exchange.  With the funding provided, seven rural
+hospitals acquired EHR technology and were linked to Louisiana State University Health
+Sciences Center - Shreveport (LSUHSC-S) via a state-of-the-art integration engine,
+permitting a panel of specialists to access a rural patient's medical record in real time while
+consulting with the patient over the telehealth equipment located at the rural hospital.  In
+2008, the state entered into a five-year CEA with the Coalition and provided funding to
+expand the network to seven additional rural hospitals.  LARHIX has been honored as a
+network model with multiple award nominations by national technology organizations.
+(7)  The state is required to meet federal match requirements to secure funding under
+the ARRA loan program provisions.  Once such funding is secured, the state can establish
+the loan program and thereby make application for ARRA program funds.  When
+established, the loan program will facilitate the expansion of current efforts, including
+LARHIX, to assist providers in acquiring certified EHR technology.  By enacting this
+legislation, the legislature is providing the department and the secretary with specific
+authority to facilitate the state's application for ARRA loan program funding and to
+administer the state's EHR loan program.
+Acts 2009, No. 489, §1, eff. July 1, 2009; Redesignated from R.S. 40:1299.97.2 by
+HCR 84 of 2015 R.S.; Acts 2023, No. 322, §4, eff. Jan. 1, 2024.

@@ -1,0 +1,73 @@
+RS 27:609
+Electronic wagering; kiosk; mobile wagering
+https://www.legis.la.gov/legis/Law.aspx?d=1239439
+
+§609.  Electronic wagering; kiosk; mobile wagering
+A.(1)  Electronic wagering may be conducted only to the extent that it is conducted
+in accordance with this Chapter and in accordance with the rules and regulations
+promulgated by the board.
+(2)  An operator may accept wagers made electronically using a sports wagering
+mechanism located on its premises or through a website or mobile application.
+B.  Sports wagering mechanism. (1) A player may place a wager via a sports
+wagering mechanism with cash or vouchers or by utilizing the player's established sports
+wagering account.
+(2)  Sports wagering mechanisms shall be located only on a licensee's premises in
+areas where accessibility is limited to patrons twenty-one years of age or older.
+(3)(a)  Sports wagering mechanisms shall be branded in the same brand as the
+licensee, or the sports wagering platform provider, or both.
+(b)  Each sports wagering mechanism shall:
+(i)  Not have any device or program that will alter the reading of a bet, value, or
+amount of wagering or deposits to reflect a bet, value, or amount other than that actually
+wagered or deposited or any switches, jumpers, wire posts, or any other means of
+manipulation that could affect the operation or outcome of a wager.
+(ii)  Not have any device, switch, program, or function that can alter the readings of
+the actual amounts or values relating to any function or occurrence of the mechanism.
+(iii)  Have separate secure areas with locking doors for the logic board and software,
+the cash compartment, and the mechanical meters as required by the rules of the board.
+Access to one area from the other shall not be allowed at any time.
+(iv)  Not have any functions or parameters adjustable by or through any separate
+video display or input codes, except for the adjustment of features that are wholly cosmetic.
+(v)  Have a circuit-interrupting device, method, or capability that will disable the
+machine if the board-approved program is accessed or altered.
+(vi)  Have a serial number or other identification number permanently affixed to the
+mechanism by the manufacturer.
+(c)  Each sports wagering mechanism shall be linked to an operator's sports wagering
+platform for purposes of polling or reading mechanism activities and for remote shutdown
+of mechanism operations. If the platform fails as a result of a malfunction or catastrophic
+event, or the mechanism loses connectivity to the platform, the mechanism shall not accept
+any additional wagers until the connection to the platform is restored.
+(d)  The board may provide for additional specifications for mechanisms to be
+approved and authorized pursuant to the provisions of this Chapter as it considers necessary
+to maintain the integrity of sports wagering mechanisms and operations.
+(4)(a)  Any sports wager placed with cash via a sports wagering mechanism shall be
+evidenced by a ticket indicating the name of the operator booking the wager, the sports event
+on which the wager was placed, the amount of cash wagered, the type of bet and odds if
+applicable, the date of the event, and any other information required by the board.
+(b)  A patron with a winning ticket shall redeem the ticket at the establishment of the
+licensee that booked the wager within one hundred eighty days of the date of the event.
+(5)  A sports wagering mechanism may be utilized by a player to make a deposit in
+the player's sports wagering account.
+(6)  Wagers placed via a sports wagering mechanism through a player's established
+sports wagering account shall be settled through the player's wagering account.
+C.  Mobile wagering. (1) For purposes of mobile wagering, each licensee may
+contract with no more than two sports wagering platform providers who may each provide
+individually branded websites each of which may have an accompanying mobile application
+bearing the same brand as the website. The website and mobile application shall be offered
+only under the same brand as the licensee, or the sports wagering platform provider, or both.
+The website and mobile application shall be, at the discretion of the licensee, in addition to
+any other websites or mobile applications operated by the platform provider and offering
+other types of mobile gaming.
+(2)  Wagering through a website or mobile application shall be subject to the
+following requirements:
+(a)(i)  A patron shall establish a wagering account in person or remotely with the
+operator before the operator may accept any sports wager through a website or mobile
+application from the patron, and an initial verification of the account shall be completed by
+the operator either in person or remotely. An account may be established with a line of credit
+or as an advance deposit wagering account.
+(ii)  No operator shall accept a sports wager through a website or mobile application
+from the public or any person who does not have an established account with the operator.
+(b)  No wagers shall be placed when the player is physically located out of state or
+in a parish that has not approved a proposition authorizing sports wagering. An operator shall
+maintain geofencing and geolocation services and shall bear all costs and responsibilities
+associated with the services as required by the board.
+Acts 2021, No. 440, §1, eff. July 1, 2021.

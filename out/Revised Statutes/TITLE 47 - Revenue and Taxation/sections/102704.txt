@@ -1,0 +1,71 @@
+RS 47:91
+Period for computation of taxable income
+https://www.legis.la.gov/legis/Law.aspx?d=102704
+
+SUBPART D.  ACCOUNTING PERIODS AND
+METHODS OF ACCOUNTING
+§91.  Period for computation of taxable income
+A.  Computation of taxable income.  Taxable income shall be computed
+on the basis of the taxpayer's taxable year.
+B.  Taxable year.  For purposes of this chapter, the term "taxable year"
+means:
+(1)  the taxpayer's annual accounting period, if it is a calendar year or
+a fiscal year;
+(2)  the calendar year, if sub-section G applies; or
+(3)  the period for which the return is made, if a return is made for a
+period of less then 12 months.
+C.  Annual accounting period.  For purposes of this chapter, the term
+"annual accounting period" means the annual period on the basis of which the
+taxpayer regularly computes his income in keeping his books.
+D.  Calendar year.  For purposes of this chapter, the term "calendar
+year" means a period of 12 months ending on December 31.
+E.  Fiscal year.  For purposes of this chapter, the term "fiscal year"
+means a period of 12 months ending on the last day of any month other than
+December.  In the case of any taxpayer who has made the election provided by
+sub-section F, the term means the annual period (varying from 52 to 53 weeks
+so elected).
+F.  Election of year consisting of 52-53 weeks.
+(1)  General rule.  A taxpayer who, in keeping his books, regularly
+computes his income on the basis of an annual period which varies from 52 to
+53 weeks and ends always on the same day of the week and ends always:
+(a)  on whatever date such same day of the week last occurs in a
+calendar month, or
+(b)  on whatever date such same day of the week falls which is nearest
+to the last day of a calendar month, may, in accordance with the regulations
+prescribed under sub-section F(3) of this section elect to compute his taxable
+income for purposes of this chapter on the basis of such annual period.  This
+paragraph shall apply to taxable years ending after the date of the enactment
+of this chapter.
+(2)  Special rules for 52-53 week year.
+(a)  Effective dates.  In any case in which the effective date or the
+applicability of any provision of this chapter is expressed in terms of taxable
+years beginning or ending with reference to a specified date which is the first
+or last day of a month, a taxable year described in sub-section F(1) of this
+section shall be treated:
+(i)  as beginning with the first day of the calendar month beginning
+nearest to the first day of such taxable year, or
+(ii)  as ending with the last day of the calendar month ending nearest to
+the last day of such taxable year, as the case may be.
+(b)  Change in accounting period.  In the case of a change from or to a
+taxable year described in sub-section F(1) of this section:
+(i)  if such change results in a short period of less than 7 days, such
+short period shall, for purposes of this chapter, be added to and deemed a part
+of the following taxable year; and
+(ii)  if such change results in a short period to which sub-section B of
+R.S. 47:97 applies, the taxable income for such short period shall be placed on
+an annual basis for purposes of such sub-section by multiplying such income
+by 365 and dividing the result by the number of days in the short period.  A tax
+shall then be determined on the annual basis, and the tax for the short period
+shall be that portion of the tax computed on the annual basis which bears a
+ratio to the tax computed on the annual basis as the number of days in the short
+period is to 365 days.
+(3)  Regulations.  The collector shall prescribe such regulations as he
+deems necessary for the application of this sub-section.
+G.  No books kept; no accounting period.  Except as provided in R.S.
+47:97 (relating to returns for periods of less than 12 months), the taxpayer's
+taxable year shall be the calendar year if:
+(1)  the taxpayer keeps no books;
+(2)  the taxpayer does not have an annual accounting period; or
+(3)  the taxpayer has an annual accounting period, but such period does
+not qualify as a fiscal year.
+Amended by Acts 1958, No. 242, §6.

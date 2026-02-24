@@ -1,0 +1,31 @@
+RS 24:577
+Payroll database
+https://www.legis.la.gov/legis/Law.aspx?d=1337104
+
+NOTE:  §577 eff. if and when a deposit is made into the Louisiana Transparency Fund. See
+Acts 2023, No. 446.
+§577.  Payroll database
+A.(1)  The auditor shall ensure that the website includes an employment and payroll
+database that is electronically searchable by the public.
+(2)  All state agencies shall provide information to the auditor required by this
+Section in the time and manner required by the auditor.
+B.  The auditor shall ensure that the employment and payroll database shall have the
+following functionality and ability to:
+(1)  Search and aggregate records by agency.
+(2)  Search and aggregate salaries by job title.
+(3)  Search and aggregate records by civil service classification.
+(4)  Search and aggregate records of employees by their enrolled retirement system.
+(5)  Download information yielded by a search of the database.
+C.  The employment and payroll database shall include the following content:
+(1)  The name of the employing agency.
+(2)  The name of the employee.
+(3)  The job title or position.
+(4)  The salary or hourly wage of the employee.
+(5)  The total compensation paid to the employee in previous calendar years
+including overtime, stipends, allowances, benefit payments, and nontaxable reimbursements.
+(6)  Employer's payroll benefit cost for the employee.
+D.  The website shall contain information regarding the number of authorized
+positions and the number of vacant positions for each institution of higher education and
+each budget unit contained in the General Appropriation Act and the Ancillary
+Appropriation Act.
+Acts 2023, No. 446, §1, see Act.

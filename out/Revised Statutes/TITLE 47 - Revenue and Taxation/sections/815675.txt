@@ -1,0 +1,28 @@
+RS 47:1641.1
+Automated sales suppression devices; definitions; penalties
+https://www.legis.la.gov/legis/Law.aspx?d=815675
+
+§1641.1.  Automated sales suppression devices; definitions; penalties
+A.  It shall be unlawful for any person to knowingly create, design, manufacture, sell, purchase, lease, install, update, repair, service, transfer, use, or possess or otherwise make available any automated sales suppression device, zapper, or phantom-ware.
+B.  For purposes of this Section:
+(1)  "Automated sales suppression device" or "zapper" means a software program that falsifies the records of electronic cash registers, including transaction data and transaction reports, and that is any of the following:
+(a)  Carried on a memory stick or other flash memory data storage device, or on a removable optical disc.
+(b)  Accessed through an Internet link.
+(c)  Accessed or stored via any other means.
+(2)  "Electronic cash register" means a device that keeps an electronic record, register, or supporting documentation, through the use of a computer system, of data for the purpose of computing, compiling, or processing retail sales transaction data, and refers to a cash register or any other point-of-sale system.
+(3)  "Phantom-ware" means a hidden programming option embedded in the operating system of, or hardwired into, an electronic cash register that can be used to create a virtual second or alternate electronic cash register or to eliminate or manipulate transaction records, which may or may not be preserved in digital format, to represent either the actual or the manipulated record of transactions.
+(4)  "Transaction data" includes:
+(a)  A description of items purchased by a customer.
+(b)  The price for each item purchased.
+(c)  A taxability determination for each item.
+(d)  A segregated tax amount for each item taxed.
+(e)  The amount of cash or credit tendered.
+(f)  The net amount returned to the customer in change.
+(g)  The date and time of the purchase.
+(h)  The name, address, and identification number of the vendor.
+(i)  The receipt or invoice number of the transaction.
+(5)  "Transaction report" means:
+(a)  A report that contains but is not limited to documentation of the sales, taxes, or fees collected, media totals, and discount voids of an electronic cash register and that is printed on a cash register tape or other hard copy at the end of a day or shift.
+(b)  A report that documents every action performed on or by an electronic cash register and that is stored electronically.
+C.  Whoever violates the provisions of this Section shall be fined not more than five thousand dollars, or imprisoned with or without hard labor for not more than five years, or both.
+Acts 2012, No. 839, §1.

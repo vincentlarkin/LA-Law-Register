@@ -1,0 +1,5240 @@
+{
+  "category_key": "revised-statutes",
+  "category_name": "Revised Statutes",
+  "bundle_name": "TITLE 23 - Labor and Worker's Compensation",
+  "source_toc_url": "https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+  "entries": [
+    {
+      "order": 1,
+      "citation": "RS 23:1",
+      "title": "Louisiana Works established; purpose; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83311"
+    },
+    {
+      "order": 2,
+      "citation": "RS 23:2",
+      "title": "Domicile of commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83782"
+    },
+    {
+      "order": 3,
+      "citation": "RS 23:3",
+      "title": "Employees; performance evaluations; salaries and expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83863"
+    },
+    {
+      "order": 4,
+      "citation": "RS 23:4",
+      "title": "Divisions of the commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83905"
+    },
+    {
+      "order": 5,
+      "citation": "RS 23:5",
+      "title": "Right of entry",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83923"
+    },
+    {
+      "order": 6,
+      "citation": "RS 23:6",
+      "title": "Powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83941"
+    },
+    {
+      "order": 7,
+      "citation": "RS 23:7",
+      "title": "Access to books, accounts, records, etc.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83966"
+    },
+    {
+      "order": 8,
+      "citation": "RS 23:8",
+      "title": "Rulemaking power",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83974"
+    },
+    {
+      "order": 9,
+      "citation": "RS 23:9",
+      "title": "Application to the courts for aid",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84009"
+    },
+    {
+      "order": 10,
+      "citation": "RS 23:10",
+      "title": "Court review",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83312"
+    },
+    {
+      "order": 11,
+      "citation": "RS 23:11",
+      "title": "Power of executive director as to witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83359"
+    },
+    {
+      "order": 12,
+      "citation": "RS 23:12",
+      "title": "Electronic digitized records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83423"
+    },
+    {
+      "order": 13,
+      "citation": "RS 23:13",
+      "title": "Employers' duty as to safety",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83477"
+    },
+    {
+      "order": 14,
+      "citation": "RS 23:14",
+      "title": "Employers to furnish information; keeping of records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83536"
+    },
+    {
+      "order": 15,
+      "citation": "RS 23:15",
+      "title": "Posting of labor laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83562"
+    },
+    {
+      "order": 16,
+      "citation": "RS 23:16",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83613"
+    },
+    {
+      "order": 17,
+      "citation": "RS 23:17",
+      "title": "Integration of workforce development programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83679"
+    },
+    {
+      "order": 18,
+      "citation": "RS 23:18",
+      "title": "Repealed by Acts 2025, No. 478, §16, eff. Oct. 1, 2025.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631111"
+    },
+    {
+      "order": 19,
+      "citation": "RS 23:19",
+      "title": "Delegation of functions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631112"
+    },
+    {
+      "order": 20,
+      "citation": "RS 23:20",
+      "title": "State and local planning process; local workforce development boards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631113"
+    },
+    {
+      "order": 21,
+      "citation": "RS 23:33",
+      "title": "Administration funding",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631114"
+    },
+    {
+      "order": 22,
+      "citation": "RS 23:34",
+      "title": "Repealed by Acts 2025, No. 478, §16, eff. Oct. 1, 2025.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631115"
+    },
+    {
+      "order": 23,
+      "citation": "RS 23:41",
+      "title": "Louisiana state board of boiler inspector examiners",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83906"
+    },
+    {
+      "order": 24,
+      "citation": "RS 23:42",
+      "title": "Membership of board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83907"
+    },
+    {
+      "order": 25,
+      "citation": "RS 23:43",
+      "title": "Appointment; compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83908"
+    },
+    {
+      "order": 26,
+      "citation": "RS 23:44",
+      "title": "Powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83909"
+    },
+    {
+      "order": 27,
+      "citation": "RS 23:45",
+      "title": "Examinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83910"
+    },
+    {
+      "order": 28,
+      "citation": "RS 23:46",
+      "title": "Certificate of competency and commission as boiler inspector; identification cards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83911"
+    },
+    {
+      "order": 29,
+      "citation": "RS 23:47",
+      "title": "Revocation of certificate and commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83912"
+    },
+    {
+      "order": 30,
+      "citation": "RS 23:48",
+      "title": "Certificate of competency and commission and valid identification card required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83913"
+    },
+    {
+      "order": 31,
+      "citation": "RS 23:49",
+      "title": "Violations; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83922"
+    },
+    {
+      "order": 32,
+      "citation": "RS 23:61",
+      "title": "Purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83942"
+    },
+    {
+      "order": 33,
+      "citation": "RS 23:62",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83943"
+    },
+    {
+      "order": 34,
+      "citation": "RS 23:63",
+      "title": "Community action agency; appointment, responsibilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83944"
+    },
+    {
+      "order": 35,
+      "citation": "RS 23:64",
+      "title": "Repealed by Acts 1994, 3rd Ex. Sess., No. 54, 2, eff. August 1, 1994.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83954"
+    },
+    {
+      "order": 36,
+      "citation": "RS 23:64.1",
+      "title": "Governing board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83955"
+    },
+    {
+      "order": 37,
+      "citation": "RS 23:65",
+      "title": "Financial assistance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83959"
+    },
+    {
+      "order": 38,
+      "citation": "RS 23:66",
+      "title": "Louisiana Works, administrative rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83963"
+    },
+    {
+      "order": 39,
+      "citation": "RS 23:67",
+      "title": "Repealed by Acts 1994, 3rd Ex. Sess., No. 54, 2, eff. August 1, 1994.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83964"
+    },
+    {
+      "order": 40,
+      "citation": "RS 23:71",
+      "title": "Legislative intent and public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83967"
+    },
+    {
+      "order": 41,
+      "citation": "RS 23:72",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83968"
+    },
+    {
+      "order": 42,
+      "citation": "RS 23:73",
+      "title": "Comprehensive labor market information system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83969"
+    },
+    {
+      "order": 43,
+      "citation": "RS 23:74",
+      "title": "Consumer information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83971"
+    },
+    {
+      "order": 44,
+      "citation": "RS 23:75",
+      "title": "Data dashboard; data exchange agreements; data distribution; personal identification prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83972"
+    },
+    {
+      "order": 45,
+      "citation": "RS 23:76",
+      "title": "Forecasting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83973"
+    },
+    {
+      "order": 46,
+      "citation": "RS 23:77",
+      "title": "Workforce system information technology; principles and information sharing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631135"
+    },
+    {
+      "order": 47,
+      "citation": "RS 23:78",
+      "title": "Workforce information systems",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631137"
+    },
+    {
+      "order": 48,
+      "citation": "RS 23:101",
+      "title": "Terms defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83320"
+    },
+    {
+      "order": 49,
+      "citation": "RS 23:102",
+      "title": "Employment service exclusions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83327"
+    },
+    {
+      "order": 50,
+      "citation": "RS 23:103",
+      "title": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83329"
+    },
+    {
+      "order": 51,
+      "citation": "RS 23:104",
+      "title": "Application for license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83343"
+    },
+    {
+      "order": 52,
+      "citation": "RS 23:105",
+      "title": "License fee; renewal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83349"
+    },
+    {
+      "order": 53,
+      "citation": "RS 23:106",
+      "title": "Bond; conditions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83350"
+    },
+    {
+      "order": 54,
+      "citation": "RS 23:106.1",
+      "title": "To 106.4 Repealed by Acts 1981, No. 732, 4",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83351"
+    },
+    {
+      "order": 55,
+      "citation": "RS 23:107",
+      "title": "Issuance of license; time for granting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83355"
+    },
+    {
+      "order": 56,
+      "citation": "RS 23:108",
+      "title": "Violations by licensee; revocation or suspension",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83356"
+    },
+    {
+      "order": 57,
+      "citation": "RS 23:109",
+      "title": "Revocation of license; effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83358"
+    },
+    {
+      "order": 58,
+      "citation": "RS 23:110",
+      "title": "REPEALED BY ACTS 1992, NO. 633, 3, EFF. JAN. 1, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83360"
+    },
+    {
+      "order": 59,
+      "citation": "RS 23:111",
+      "title": "Regulation; restrictions and prohibitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83365"
+    },
+    {
+      "order": 60,
+      "citation": "RS 23:112",
+      "title": "Regulations; public hearings; assistant secretary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83366"
+    },
+    {
+      "order": 61,
+      "citation": "RS 23:113",
+      "title": "Violations of provisions; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83375"
+    },
+    {
+      "order": 62,
+      "citation": "RS 23:114",
+      "title": "Disposition of fees collected; expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83377"
+    },
+    {
+      "order": 63,
+      "citation": "RS 23:115",
+      "title": "Enforcement of this Part through court action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83382"
+    },
+    {
+      "order": 64,
+      "citation": "RS 23:116",
+      "title": "To 121 Repealed by Acts 1981, No. 732, 4",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83383"
+    },
+    {
+      "order": 65,
+      "citation": "RS 23:151",
+      "title": "Application of provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83563"
+    },
+    {
+      "order": 66,
+      "citation": "RS 23:152",
+      "title": "Enforcement of provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83571"
+    },
+    {
+      "order": 67,
+      "citation": "RS 23:153",
+      "title": "Regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83572"
+    },
+    {
+      "order": 68,
+      "citation": "RS 23:161",
+      "title": "Minors; prohibited employments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83619"
+    },
+    {
+      "order": 69,
+      "citation": "RS 23:162",
+      "title": "Minors under fourteen; general prohibition against employment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83629"
+    },
+    {
+      "order": 70,
+      "citation": "RS 23:163",
+      "title": "Minors under sixteen; prohibited employments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83640"
+    },
+    {
+      "order": 71,
+      "citation": "RS 23:164",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83648"
+    },
+    {
+      "order": 72,
+      "citation": "RS 23:165",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83649"
+    },
+    {
+      "order": 73,
+      "citation": "RS 23:166",
+      "title": "Minors fourteen and fifteen years of age; employments permitted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83659"
+    },
+    {
+      "order": 74,
+      "citation": "RS 23:167",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83670"
+    },
+    {
+      "order": 75,
+      "citation": "RS 23:168",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83673"
+    },
+    {
+      "order": 76,
+      "citation": "RS 23:168.1",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83674"
+    },
+    {
+      "order": 77,
+      "citation": "RS 23:169",
+      "title": "REPEALED BY ACTS 1976, NO. 624, 5, EFF. AUG. 4, 1976",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83675"
+    },
+    {
+      "order": 78,
+      "citation": "RS 23:170",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83680"
+    },
+    {
+      "order": 79,
+      "citation": "RS 23:171",
+      "title": "Minors; employment on vessels",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83681"
+    },
+    {
+      "order": 80,
+      "citation": "RS 23:181",
+      "title": "Executive director to furnish forms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83738"
+    },
+    {
+      "order": 81,
+      "citation": "RS 23:182",
+      "title": "Employers to keep records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83739"
+    },
+    {
+      "order": 82,
+      "citation": "RS 23:183",
+      "title": "Persons authorized to issue",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83749"
+    },
+    {
+      "order": 83,
+      "citation": "RS 23:184",
+      "title": "Requirements for issuance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83753"
+    },
+    {
+      "order": 84,
+      "citation": "RS 23:184.1",
+      "title": "Blanket work permits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83754"
+    },
+    {
+      "order": 85,
+      "citation": "RS 23:185",
+      "title": "REPEALED BY ACTS 1992, NO. 442, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83761"
+    },
+    {
+      "order": 86,
+      "citation": "RS 23:186",
+      "title": "REPEALED BY ACTS 1981, NO. 299, 2",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83767"
+    },
+    {
+      "order": 87,
+      "citation": "RS 23:187",
+      "title": "Signing of certificate by minor; return by employer after termination of employment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83770"
+    },
+    {
+      "order": 88,
+      "citation": "RS 23:188",
+      "title": "Records kept by issuing authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83772"
+    },
+    {
+      "order": 89,
+      "citation": "RS 23:189",
+      "title": "Repealed by Acts 2003, No. 671, §2, eff. June 27. 2003.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83773"
+    },
+    {
+      "order": 90,
+      "citation": "RS 23:190",
+      "title": "REPEALED BY ACTS 1976, NO. 624, 5, EFF. AUG. 4, 1976",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83774"
+    },
+    {
+      "order": 91,
+      "citation": "RS 23:191",
+      "title": "Revocation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83775"
+    },
+    {
+      "order": 92,
+      "citation": "RS 23:192",
+      "title": "Certificates as evidence of age of minors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83776"
+    },
+    {
+      "order": 93,
+      "citation": "RS 23:193",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83777"
+    },
+    {
+      "order": 94,
+      "citation": "RS 23:194",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83778"
+    },
+    {
+      "order": 95,
+      "citation": "RS 23:195",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83779"
+    },
+    {
+      "order": 96,
+      "citation": "RS 23:196",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83780"
+    },
+    {
+      "order": 97,
+      "citation": "RS 23:197",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83781"
+    },
+    {
+      "order": 98,
+      "citation": "RS 23:211",
+      "title": "Minors; maximum hours in general",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83832"
+    },
+    {
+      "order": 99,
+      "citation": "RS 23:211.1",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83833"
+    },
+    {
+      "order": 100,
+      "citation": "RS 23:212",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83834"
+    },
+    {
+      "order": 101,
+      "citation": "RS 23:213",
+      "title": "Recreation or meal period",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83835"
+    },
+    {
+      "order": 102,
+      "citation": "RS 23:214",
+      "title": "Minors under sixteen; maximum hours when school in session",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83836"
+    },
+    {
+      "order": 103,
+      "citation": "RS 23:215",
+      "title": "Minors; minors under sixteen; prohibited hours; maximum work week",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83837"
+    },
+    {
+      "order": 104,
+      "citation": "RS 23:216",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83841"
+    },
+    {
+      "order": 105,
+      "citation": "RS 23:217",
+      "title": "Records to be kept by employers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83842"
+    },
+    {
+      "order": 106,
+      "citation": "RS 23:218",
+      "title": "REPEALED BY ACTS 1993, NO. 621, 2, EFF. JUNE 15, 1993.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83843"
+    },
+    {
+      "order": 107,
+      "citation": "RS 23:231",
+      "title": "Specific violations; penalties; enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83846"
+    },
+    {
+      "order": 108,
+      "citation": "RS 23:232",
+      "title": "Parents or tutors inducing violations by minors; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83847"
+    },
+    {
+      "order": 109,
+      "citation": "RS 23:233",
+      "title": "Presence of minor at place of employment; presumption of employment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83848"
+    },
+    {
+      "order": 110,
+      "citation": "RS 23:234",
+      "title": "Continuing violations; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83849"
+    },
+    {
+      "order": 111,
+      "citation": "RS 23:251",
+      "title": "Minors under sixteen; prohibited employments or occupations; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83850"
+    },
+    {
+      "order": 112,
+      "citation": "RS 23:252",
+      "title": "Violations by exhibitor; additional penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83851"
+    },
+    {
+      "order": 113,
+      "citation": "RS 23:253",
+      "title": "Repealed by Acts 2011, No. 177, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83852"
+    },
+    {
+      "order": 114,
+      "citation": "RS 23:254",
+      "title": "Repealed by Acts 2011, No. 177, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83853"
+    },
+    {
+      "order": 115,
+      "citation": "RS 23:255",
+      "title": "Bond as prerequisite to issuance of permit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83854"
+    },
+    {
+      "order": 116,
+      "citation": "RS 23:256",
+      "title": "REPEALED BY ACTS 1989, NO. 731, 3, EFF. JULY 8, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83855"
+    },
+    {
+      "order": 117,
+      "citation": "RS 23:257",
+      "title": "REPEALED BY ACTS 1989, NO. 731, 3, EFF. JULY 8, 1989.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83856"
+    },
+    {
+      "order": 118,
+      "citation": "RS 23:258",
+      "title": "Travelling theatrical companies; application of provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83857"
+    },
+    {
+      "order": 119,
+      "citation": "RS 23:271",
+      "title": "REPEALED BY ACTS 1992, NO. 445, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83858"
+    },
+    {
+      "order": 120,
+      "citation": "RS 23:272",
+      "title": "REPEALED BY ACTS 1992, NO. 445, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83859"
+    },
+    {
+      "order": 121,
+      "citation": "RS 23:273",
+      "title": "REPEALED BY ACTS 1992, NO. 445, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83860"
+    },
+    {
+      "order": 122,
+      "citation": "RS 23:274",
+      "title": "REPEALED BY ACTS 1992, NO. 445, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83861"
+    },
+    {
+      "order": 123,
+      "citation": "RS 23:291",
+      "title": "Disclosure of employment related information; liability for hiring certain employees; presumptions; causes of action; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83862"
+    },
+    {
+      "order": 124,
+      "citation": "RS 23:291.1",
+      "title": "Certificate of employability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1016589"
+    },
+    {
+      "order": 125,
+      "citation": "RS 23:291.2",
+      "title": "Criminal history; hiring decisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239186"
+    },
+    {
+      "order": 126,
+      "citation": "RS 23:301",
+      "title": "Short title",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83864"
+    },
+    {
+      "order": 127,
+      "citation": "RS 23:302",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83865"
+    },
+    {
+      "order": 128,
+      "citation": "RS 23:303",
+      "title": "Civil suits authorized",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83866"
+    },
+    {
+      "order": 129,
+      "citation": "RS 23:311",
+      "title": "Application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83867"
+    },
+    {
+      "order": 130,
+      "citation": "RS 23:312",
+      "title": "Prohibition of age discrimination; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83868"
+    },
+    {
+      "order": 131,
+      "citation": "RS 23:313",
+      "title": "Repealed by Acts 1999, No. 1366, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83869"
+    },
+    {
+      "order": 132,
+      "citation": "RS 23:314",
+      "title": "Notices to be posted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83870"
+    },
+    {
+      "order": 133,
+      "citation": "RS 23:315",
+      "title": "Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83871"
+    },
+    {
+      "order": 134,
+      "citation": "RS 23:321",
+      "title": "Repealed by Acts 1999, No. 1366, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83872"
+    },
+    {
+      "order": 135,
+      "citation": "RS 23:322",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83873"
+    },
+    {
+      "order": 136,
+      "citation": "RS 23:323",
+      "title": "Discrimination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83874"
+    },
+    {
+      "order": 137,
+      "citation": "RS 23:324",
+      "title": "Defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83875"
+    },
+    {
+      "order": 138,
+      "citation": "RS 23:325",
+      "title": "Repealed by Acts 1999, No. 1366, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83876"
+    },
+    {
+      "order": 139,
+      "citation": "RS 23:326",
+      "title": "Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83877"
+    },
+    {
+      "order": 140,
+      "citation": "RS 23:331",
+      "title": "Veterans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83878"
+    },
+    {
+      "order": 141,
+      "citation": "RS 23:332",
+      "title": "Intentional discrimination in employment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83879"
+    },
+    {
+      "order": 142,
+      "citation": "RS 23:333",
+      "title": "Repealed by Acts 1999, No. 1366, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83880"
+    },
+    {
+      "order": 143,
+      "citation": "RS 23:334",
+      "title": "Affirmative action programs; applicable definition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83881"
+    },
+    {
+      "order": 144,
+      "citation": "RS 23:335",
+      "title": "Reserved]",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83882"
+    },
+    {
+      "order": 145,
+      "citation": "RS 23:341",
+      "title": "Application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83883"
+    },
+    {
+      "order": 146,
+      "citation": "RS 23:341.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239187"
+    },
+    {
+      "order": 147,
+      "citation": "RS 23:342",
+      "title": "Unlawful practice by employers prohibited; pregnancy, childbirth, or related medical condition; benefits and leaves of absence; transfer of position",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83884"
+    },
+    {
+      "order": 148,
+      "citation": "RS 23:351",
+      "title": "Repealed by Acts 1999, No. 1366, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83885"
+    },
+    {
+      "order": 149,
+      "citation": "RS 23:352",
+      "title": "Prohibition of sickle cell trait discrimination; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83886"
+    },
+    {
+      "order": 150,
+      "citation": "RS 23:353",
+      "title": "Repealed by Acts 1999, No. 1366, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83887"
+    },
+    {
+      "order": 151,
+      "citation": "RS 23:354",
+      "title": "Notices to be posted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83888"
+    },
+    {
+      "order": 152,
+      "citation": "RS 23:368",
+      "title": "Prohibition of genetic discrimination in the workplace; privacy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83889"
+    },
+    {
+      "order": 153,
+      "citation": "RS 23:369",
+      "title": "Notices to be posted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83890"
+    },
+    {
+      "order": 154,
+      "citation": "RS 23:370",
+      "title": "Genetic testing and cancer screening leave of absence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1336864"
+    },
+    {
+      "order": 155,
+      "citation": "RS 23:371",
+      "title": "REPEALED BY ACTS 1992, NO. 446, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83891"
+    },
+    {
+      "order": 156,
+      "citation": "RS 23:372",
+      "title": "REPEALED BY ACTS 1992, NO. 446, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83892"
+    },
+    {
+      "order": 157,
+      "citation": "RS 23:381",
+      "title": "Purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83893"
+    },
+    {
+      "order": 158,
+      "citation": "RS 23:382",
+      "title": "Apprenticeship council",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83894"
+    },
+    {
+      "order": 159,
+      "citation": "RS 23:383",
+      "title": "Director of apprenticeship",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83895"
+    },
+    {
+      "order": 160,
+      "citation": "RS 23:384",
+      "title": "Powers and duties of director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83896"
+    },
+    {
+      "order": 161,
+      "citation": "RS 23:385",
+      "title": "Apprenticeship programs; registration and function",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83897"
+    },
+    {
+      "order": 162,
+      "citation": "RS 23:386",
+      "title": "Apprentice defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83898"
+    },
+    {
+      "order": 163,
+      "citation": "RS 23:387",
+      "title": "Contents of apprentice agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83899"
+    },
+    {
+      "order": 164,
+      "citation": "RS 23:388",
+      "title": "Approval of apprenticeship agreements; signature",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83900"
+    },
+    {
+      "order": 165,
+      "citation": "RS 23:389",
+      "title": "Rotation of employment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83901"
+    },
+    {
+      "order": 166,
+      "citation": "RS 23:390",
+      "title": "Settlement of controversies or complaints",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83902"
+    },
+    {
+      "order": 167,
+      "citation": "RS 23:391",
+      "title": "Limitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83903"
+    },
+    {
+      "order": 168,
+      "citation": "RS 23:392",
+      "title": "Civil penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83904"
+    },
+    {
+      "order": 169,
+      "citation": "RS 23:481",
+      "title": "HEALTH AND SAFETY",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83914"
+    },
+    {
+      "order": 170,
+      "citation": "RS 23:482",
+      "title": "Physical examination of workers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83915"
+    },
+    {
+      "order": 171,
+      "citation": "RS 23:483",
+      "title": "Equipment for decompression",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83916"
+    },
+    {
+      "order": 172,
+      "citation": "RS 23:484",
+      "title": "Shifts; maximum pressure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83917"
+    },
+    {
+      "order": 173,
+      "citation": "RS 23:485",
+      "title": "Maximum hours",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83918"
+    },
+    {
+      "order": 174,
+      "citation": "RS 23:486",
+      "title": "Minimum rest interval",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83919"
+    },
+    {
+      "order": 175,
+      "citation": "RS 23:487",
+      "title": "Rate of decompression",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83920"
+    },
+    {
+      "order": 176,
+      "citation": "RS 23:488",
+      "title": "Penalty for violations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83921"
+    },
+    {
+      "order": 177,
+      "citation": "RS 23:511",
+      "title": "Type-casting machines; exhaust fans and flues; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83924"
+    },
+    {
+      "order": 178,
+      "citation": "RS 23:531",
+      "title": "Assistant secretary of office of state fire marshal, code enforcement and building safety to make rules",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83925"
+    },
+    {
+      "order": 179,
+      "citation": "RS 23:532",
+      "title": "Adoption, amendment, or repeal of regulations; effective date",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83926"
+    },
+    {
+      "order": 180,
+      "citation": "RS 23:533",
+      "title": "Printing of laws, rules, and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83927"
+    },
+    {
+      "order": 181,
+      "citation": "RS 23:534",
+      "title": "Duties of assistant secretary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83928"
+    },
+    {
+      "order": 182,
+      "citation": "RS 23:535",
+      "title": "Special inspectors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83929"
+    },
+    {
+      "order": 183,
+      "citation": "RS 23:536",
+      "title": "Annual inspection of boilers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83930"
+    },
+    {
+      "order": 184,
+      "citation": "RS 23:537",
+      "title": "Certificates of inspection; fees; issuance and suspension",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83931"
+    },
+    {
+      "order": 185,
+      "citation": "RS 23:538",
+      "title": "Operation of boiler without inspection certificate; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83932"
+    },
+    {
+      "order": 186,
+      "citation": "RS 23:539",
+      "title": "Installation of boilers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83933"
+    },
+    {
+      "order": 187,
+      "citation": "RS 23:540",
+      "title": "Exemptions from provisions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83934"
+    },
+    {
+      "order": 188,
+      "citation": "RS 23:541",
+      "title": "Fees for inspection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83935"
+    },
+    {
+      "order": 189,
+      "citation": "RS 23:542",
+      "title": "Fidelity bonds of employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83936"
+    },
+    {
+      "order": 190,
+      "citation": "RS 23:543",
+      "title": "Installation, moving, or reinstallation of power boilers, steam heating, or hot water boilers; licensing; examination; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83937"
+    },
+    {
+      "order": 191,
+      "citation": "RS 23:544",
+      "title": "Application for installation, moving, or reinstallation of a boiler, except in New Orleans; fee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83938"
+    },
+    {
+      "order": 192,
+      "citation": "RS 23:545",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83939"
+    },
+    {
+      "order": 193,
+      "citation": "RS 23:546",
+      "title": "Disposition of fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83940"
+    },
+    {
+      "order": 194,
+      "citation": "RS 23:631",
+      "title": "Discharge or resignation of employees; payment after termination of employment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83945"
+    },
+    {
+      "order": 195,
+      "citation": "RS 23:632",
+      "title": "Liability of employer for failure to pay; attorney fees; good-faith exception",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83946"
+    },
+    {
+      "order": 196,
+      "citation": "RS 23:633",
+      "title": "Payment twice monthly for certain occupations; penalty for violations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83947"
+    },
+    {
+      "order": 197,
+      "citation": "RS 23:634",
+      "title": "Contract forfeiting wages on discharge unlawful",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83948"
+    },
+    {
+      "order": 198,
+      "citation": "RS 23:635",
+      "title": "Assessment of fines against employees unlawful; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83949"
+    },
+    {
+      "order": 199,
+      "citation": "RS 23:636",
+      "title": "Penalty for violations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83950"
+    },
+    {
+      "order": 200,
+      "citation": "RS 23:637",
+      "title": "Non-resident plantation owners; suits against for wages, etc.; venue; service of citation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83951"
+    },
+    {
+      "order": 201,
+      "citation": "RS 23:638",
+      "title": "Payment under retirement or other benefit plans; discharge of insurer, trustee or employee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83952"
+    },
+    {
+      "order": 202,
+      "citation": "RS 23:639",
+      "title": "Venue in suits for past wages",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83953"
+    },
+    {
+      "order": 203,
+      "citation": "RS 23:640",
+      "title": "Fringe benefits payable under collective bargaining agreements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83956"
+    },
+    {
+      "order": 204,
+      "citation": "RS 23:641",
+      "title": "Liability of publishers; employing agents' failure to pay wages or commissions of door to door solicitors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83957"
+    },
+    {
+      "order": 205,
+      "citation": "RS 23:642",
+      "title": "Setting minimum wage or employee benefits; prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83958"
+    },
+    {
+      "order": 206,
+      "citation": "RS 23:651",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83960"
+    },
+    {
+      "order": 207,
+      "citation": "RS 23:652",
+      "title": "Designation form",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83961"
+    },
+    {
+      "order": 208,
+      "citation": "RS 23:653",
+      "title": "Application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83962"
+    },
+    {
+      "order": 209,
+      "citation": "RS 23:661",
+      "title": "Short title; citation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860626"
+    },
+    {
+      "order": 210,
+      "citation": "RS 23:662",
+      "title": "Declaration of public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860627"
+    },
+    {
+      "order": 211,
+      "citation": "RS 23:663",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860628"
+    },
+    {
+      "order": 212,
+      "citation": "RS 23:664",
+      "title": "Prohibited acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860629"
+    },
+    {
+      "order": 213,
+      "citation": "RS 23:665",
+      "title": "Complaint procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860630"
+    },
+    {
+      "order": 214,
+      "citation": "RS 23:666",
+      "title": "Damages",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860631"
+    },
+    {
+      "order": 215,
+      "citation": "RS 23:667",
+      "title": "Limitation of actions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860632"
+    },
+    {
+      "order": 216,
+      "citation": "RS 23:668",
+      "title": "Records to be kept by employers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860633"
+    },
+    {
+      "order": 217,
+      "citation": "RS 23:669",
+      "title": "Supplemental application",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860634"
+    },
+    {
+      "order": 218,
+      "citation": "RS 23:691",
+      "title": "LOANS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83965"
+    },
+    {
+      "order": 219,
+      "citation": "RS 23:731",
+      "title": "Assignment of earnings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83970"
+    },
+    {
+      "order": 220,
+      "citation": "RS 23:821",
+      "title": "LABOR ORGANIZATIONS, AND LABOR DISPUTES",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83975"
+    },
+    {
+      "order": 221,
+      "citation": "RS 23:822",
+      "title": "Freedom of organization and other activities; declaration of policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83976"
+    },
+    {
+      "order": 222,
+      "citation": "RS 23:823",
+      "title": "Labor organizations; contracts in restraint of membership contrary to public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83977"
+    },
+    {
+      "order": 223,
+      "citation": "RS 23:824",
+      "title": "Coercion of employees regarding membership in labor organizations; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83978"
+    },
+    {
+      "order": 224,
+      "citation": "RS 23:841",
+      "title": "Injunctions; limitation on courts' authority to issue",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83979"
+    },
+    {
+      "order": 225,
+      "citation": "RS 23:842",
+      "title": "Responsibility for unlawful acts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83980"
+    },
+    {
+      "order": 226,
+      "citation": "RS 23:843",
+      "title": "Injunctive relief; declaration of policy regarding procedure for granting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83981"
+    },
+    {
+      "order": 227,
+      "citation": "RS 23:844",
+      "title": "Injunctions and restraining orders, grounds for issuance; proof required",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83982"
+    },
+    {
+      "order": 228,
+      "citation": "RS 23:845",
+      "title": "Failure of complainant to attempt settlement of disputes; effect on right to injunctive relief",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83983"
+    },
+    {
+      "order": 229,
+      "citation": "RS 23:846",
+      "title": "Findings of fact as basis for injunctive relief; persons affected",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83984"
+    },
+    {
+      "order": 230,
+      "citation": "RS 23:847",
+      "title": "Appeals from cases involving temporary injunctions; hearing by preference",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83985"
+    },
+    {
+      "order": 231,
+      "citation": "RS 23:848",
+      "title": "Contempt proceedings; rights of accused",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83986"
+    },
+    {
+      "order": 232,
+      "citation": "RS 23:849",
+      "title": "Punishment for contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83987"
+    },
+    {
+      "order": 233,
+      "citation": "RS 23:861",
+      "title": "Pre-dispute arbitration agreements; sexual harassment; prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83988"
+    },
+    {
+      "order": 234,
+      "citation": "RS 23:880.1",
+      "title": "To 880.18 Repealed by Acts 1972, No. 405, 1",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83989"
+    },
+    {
+      "order": 235,
+      "citation": "RS 23:881",
+      "title": "Definition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83990"
+    },
+    {
+      "order": 236,
+      "citation": "RS 23:882",
+      "title": "Declaration of public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83991"
+    },
+    {
+      "order": 237,
+      "citation": "RS 23:883",
+      "title": "Membership of agricultural laborers in labor organization as condition of employment, illegality",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83992"
+    },
+    {
+      "order": 238,
+      "citation": "RS 23:884",
+      "title": "Agreements to violate provisions of law; lockouts or other conduct to force violation of law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83993"
+    },
+    {
+      "order": 239,
+      "citation": "RS 23:885",
+      "title": "Illegal conditions of employment of agricultural laborers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83994"
+    },
+    {
+      "order": 240,
+      "citation": "RS 23:886",
+      "title": "Damages for denying employment in violation of law",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83995"
+    },
+    {
+      "order": 241,
+      "citation": "RS 23:887",
+      "title": "Injunctive relief",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83996"
+    },
+    {
+      "order": 242,
+      "citation": "RS 23:888",
+      "title": "Right to collective bargaining not impaired",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83997"
+    },
+    {
+      "order": 243,
+      "citation": "RS 23:889",
+      "title": "Application of Part",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83998"
+    },
+    {
+      "order": 244,
+      "citation": "RS 23:890",
+      "title": "Labor policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83999"
+    },
+    {
+      "order": 245,
+      "citation": "RS 23:891",
+      "title": "MISCELLANEOUS PROVISIONS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84000"
+    },
+    {
+      "order": 246,
+      "citation": "RS 23:892",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84001"
+    },
+    {
+      "order": 247,
+      "citation": "RS 23:893",
+      "title": "Volunteer firefighters; leave without loss of pay, benefits, or employment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84002"
+    },
+    {
+      "order": 248,
+      "citation": "RS 23:894",
+      "title": "Physician employed for employees; election or appointment by employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84003"
+    },
+    {
+      "order": 249,
+      "citation": "RS 23:895",
+      "title": "Physician's compensation; amounts collected from employees; penalty for unlawful disposition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84004"
+    },
+    {
+      "order": 250,
+      "citation": "RS 23:896",
+      "title": "Removal of tenants or laborers or their effects from premises without owner's consent; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84005"
+    },
+    {
+      "order": 251,
+      "citation": "RS 23:897",
+      "title": "Medical and other examinations, fingerprinting, requiring employee to pay for, prohibited; enforcement of provisions; civil and criminal penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84006"
+    },
+    {
+      "order": 252,
+      "citation": "RS 23:898",
+      "title": "Transportation of strikebreakers prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84007"
+    },
+    {
+      "order": 253,
+      "citation": "RS 23:899",
+      "title": "Application of R.S. 23:898",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84008"
+    },
+    {
+      "order": 254,
+      "citation": "RS 23:900",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84010"
+    },
+    {
+      "order": 255,
+      "citation": "RS 23:901",
+      "title": "Persons or firms not directly involved in strike or lockout; hiring or recruiting of replacement workers prohibited; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84011"
+    },
+    {
+      "order": 256,
+      "citation": "RS 23:902",
+      "title": "Importation of replacement workers prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84012"
+    },
+    {
+      "order": 257,
+      "citation": "RS 23:903",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84013"
+    },
+    {
+      "order": 258,
+      "citation": "RS 23:904",
+      "title": "Agricultural pursuits exempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84014"
+    },
+    {
+      "order": 259,
+      "citation": "RS 23:905",
+      "title": "Employee access to records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814787"
+    },
+    {
+      "order": 260,
+      "citation": "RS 23:921",
+      "title": "Restraint of business prohibited; restraint on forum prohibited; competing business; contracts against engaging in; provisions for",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84015"
+    },
+    {
+      "order": 261,
+      "citation": "RS 23:961",
+      "title": "Political rights and freedom; restrictions forbidden; penalty; employees' right to recover damages",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84016"
+    },
+    {
+      "order": 262,
+      "citation": "RS 23:962",
+      "title": "Discharge because of political opinions; attempt to control votes; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84017"
+    },
+    {
+      "order": 263,
+      "citation": "RS 23:963",
+      "title": "Purchase of merchandise from particular seller; coercion prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84018"
+    },
+    {
+      "order": 264,
+      "citation": "RS 23:964",
+      "title": "Discharge of or discrimination against employees for testifying at labor investigation; penalties; enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84019"
+    },
+    {
+      "order": 265,
+      "citation": "RS 23:965",
+      "title": "Jury duty; dismissal forbidden; uninterrupted compensation; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84020"
+    },
+    {
+      "order": 266,
+      "citation": "RS 23:966",
+      "title": "Prohibition of smoking discrimination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84021"
+    },
+    {
+      "order": 267,
+      "citation": "RS 23:967",
+      "title": "Employee protection from reprisal; prohibited practices; remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84022"
+    },
+    {
+      "order": 268,
+      "citation": "RS 23:968",
+      "title": "Whistleblower protection and cause of action",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814788"
+    },
+    {
+      "order": 269,
+      "citation": "RS 23:971",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84023"
+    },
+    {
+      "order": 270,
+      "citation": "RS 23:972",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84024"
+    },
+    {
+      "order": 271,
+      "citation": "RS 23:973",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84025"
+    },
+    {
+      "order": 272,
+      "citation": "RS 23:974",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84026"
+    },
+    {
+      "order": 273,
+      "citation": "RS 23:975",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84027"
+    },
+    {
+      "order": 274,
+      "citation": "RS 23:976",
+      "title": "Repealed by Acts 1985, No. 846, 2, eff. July 23, 1985.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84028"
+    },
+    {
+      "order": 275,
+      "citation": "RS 23:981",
+      "title": "Declaration of public policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84029"
+    },
+    {
+      "order": 276,
+      "citation": "RS 23:982",
+      "title": "Labor organization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84030"
+    },
+    {
+      "order": 277,
+      "citation": "RS 23:983",
+      "title": "Freedom of choice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84031"
+    },
+    {
+      "order": 278,
+      "citation": "RS 23:984",
+      "title": "Certain agreements declared illegal; governmental interference prohibited; policy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84032"
+    },
+    {
+      "order": 279,
+      "citation": "RS 23:985",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84033"
+    },
+    {
+      "order": 280,
+      "citation": "RS 23:986",
+      "title": "Injunctive relief",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84034"
+    },
+    {
+      "order": 281,
+      "citation": "RS 23:987",
+      "title": "Duty to investigate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84035"
+    },
+    {
+      "order": 282,
+      "citation": "RS 23:991",
+      "title": "Purpose, enforcement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84036"
+    },
+    {
+      "order": 283,
+      "citation": "RS 23:992",
+      "title": "Employment of certain aliens; prohibition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84037"
+    },
+    {
+      "order": 284,
+      "citation": "RS 23:992.1",
+      "title": "Exemptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84038"
+    },
+    {
+      "order": 285,
+      "citation": "RS 23:992.2",
+      "title": "Bar to prosecution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84039"
+    },
+    {
+      "order": 286,
+      "citation": "RS 23:993",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84040"
+    },
+    {
+      "order": 287,
+      "citation": "RS 23:994",
+      "title": "Private remedy",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84041"
+    },
+    {
+      "order": 288,
+      "citation": "RS 23:995",
+      "title": "Civil penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=84042"
+    },
+    {
+      "order": 289,
+      "citation": "RS 23:996",
+      "title": "Cease and desist order; injunctive relief",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409784"
+    },
+    {
+      "order": 290,
+      "citation": "RS 23:1001",
+      "title": "Preference in hiring veterans for private employers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83313"
+    },
+    {
+      "order": 291,
+      "citation": "RS 23:1002",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83314"
+    },
+    {
+      "order": 292,
+      "citation": "RS 23:1003",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83315"
+    },
+    {
+      "order": 293,
+      "citation": "RS 23:1004",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83316"
+    },
+    {
+      "order": 294,
+      "citation": "RS 23:1006",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83317"
+    },
+    {
+      "order": 295,
+      "citation": "RS 23:1007",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83318"
+    },
+    {
+      "order": 296,
+      "citation": "RS 23:1008",
+      "title": "Repealed by Acts 1997, No. 1409, 4, eff. Aug. 1, 1997.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83319"
+    },
+    {
+      "order": 297,
+      "citation": "RS 23:1011",
+      "title": "Employment of Louisiana residents as a condition of receiving a state or local tax exemption; residence requirement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83321"
+    },
+    {
+      "order": 298,
+      "citation": "RS 23:1015",
+      "title": "Short title; citation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83322"
+    },
+    {
+      "order": 299,
+      "citation": "RS 23:1015.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83323"
+    },
+    {
+      "order": 300,
+      "citation": "RS 23:1015.2",
+      "title": "School and day care conference and activities leave",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83324"
+    },
+    {
+      "order": 301,
+      "citation": "RS 23:1015.3",
+      "title": "Rulemaking authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83325"
+    },
+    {
+      "order": 302,
+      "citation": "RS 23:1016",
+      "title": "Workers exposed to toxic substances; rights",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83326"
+    },
+    {
+      "order": 303,
+      "citation": "RS 23:1017.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285514"
+    },
+    {
+      "order": 304,
+      "citation": "RS 23:1017.2",
+      "title": "Leave status",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285515"
+    },
+    {
+      "order": 305,
+      "citation": "RS 23:1017.3",
+      "title": "Reemployment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285516"
+    },
+    {
+      "order": 306,
+      "citation": "RS 23:1017.4",
+      "title": "Benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285517"
+    },
+    {
+      "order": 307,
+      "citation": "RS 23:1017.5",
+      "title": "Pay",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285518"
+    },
+    {
+      "order": 308,
+      "citation": "RS 23:1017.6",
+      "title": "Notice to employers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=285519"
+    },
+    {
+      "order": 309,
+      "citation": "RS 23:1018.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321157"
+    },
+    {
+      "order": 310,
+      "citation": "RS 23:1018.2",
+      "title": "Notice to employees of the federal Earned Income Tax Credit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321159"
+    },
+    {
+      "order": 311,
+      "citation": "RS 23:1019.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107391"
+    },
+    {
+      "order": 312,
+      "citation": "RS 23:1019.2",
+      "title": "Employee and independent contractor eligibility verification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107392"
+    },
+    {
+      "order": 313,
+      "citation": "RS 23:1019.3",
+      "title": "Questionnaire",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107393"
+    },
+    {
+      "order": 314,
+      "citation": "RS 23:1019.4",
+      "title": "Mandatory reporting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107394"
+    },
+    {
+      "order": 315,
+      "citation": "RS 23:1019.5",
+      "title": "Notices to be posted",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107395"
+    },
+    {
+      "order": 316,
+      "citation": "RS 23:1019.6",
+      "title": "Enforcement; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1107396"
+    },
+    {
+      "order": 317,
+      "citation": "RS 23:1020",
+      "title": "Terminated on June 30, 2006, by Acts 2006, No. 193, eff. June 2, 2006.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409787"
+    },
+    {
+      "order": 318,
+      "citation": "RS 23:1020.1",
+      "title": "Citation, purpose; legislative intent; construction",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814789"
+    },
+    {
+      "order": 319,
+      "citation": "RS 23:1021",
+      "title": "Terms defined",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83328"
+    },
+    {
+      "order": 320,
+      "citation": "RS 23:1031",
+      "title": "Employee's right of action; joint employers, extent of liability; borrowed employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83330"
+    },
+    {
+      "order": 321,
+      "citation": "RS 23:1031.1",
+      "title": "Occupational disease",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83331"
+    },
+    {
+      "order": 322,
+      "citation": "RS 23:1032",
+      "title": "Exclusiveness of rights and remedies; employer's liability to prosecution under other laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83332"
+    },
+    {
+      "order": 323,
+      "citation": "RS 23:1032.1",
+      "title": "Failure of employer to secure payment; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321165"
+    },
+    {
+      "order": 324,
+      "citation": "RS 23:1033",
+      "title": "Contracts against liability prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83333"
+    },
+    {
+      "order": 325,
+      "citation": "RS 23:1034",
+      "title": "Public employees; exclusiveness of remedies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83334"
+    },
+    {
+      "order": 326,
+      "citation": "RS 23:1034.1",
+      "title": "Law enforcement officers; coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83335"
+    },
+    {
+      "order": 327,
+      "citation": "RS 23:1034.2",
+      "title": "Reimbursement schedule",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83336"
+    },
+    {
+      "order": 328,
+      "citation": "RS 23:1035",
+      "title": "Employees covered",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83337"
+    },
+    {
+      "order": 329,
+      "citation": "RS 23:1035.1",
+      "title": "Extraterritorial coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83338"
+    },
+    {
+      "order": 330,
+      "citation": "RS 23:1035.2",
+      "title": "Claims covered by certain federal laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83339"
+    },
+    {
+      "order": 331,
+      "citation": "RS 23:1036",
+      "title": "Volunteer firefighters",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83340"
+    },
+    {
+      "order": 332,
+      "citation": "RS 23:1036.1",
+      "title": "Volunteer firefighters; coverage for posttraumatic stress injury; presumption of compensability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1148073"
+    },
+    {
+      "order": 333,
+      "citation": "RS 23:1036.2",
+      "title": "Reserve police officers and deputies; coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1148074"
+    },
+    {
+      "order": 334,
+      "citation": "RS 23:1037",
+      "title": "Employees of railroads in interstate or foreign commerce; vessels in interstate or foreign commerce",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83341"
+    },
+    {
+      "order": 335,
+      "citation": "RS 23:1038",
+      "title": "To 1043 Repealed by Acts 1975, No. 583, 15, eff. Sept. 1, 1975",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83342"
+    },
+    {
+      "order": 336,
+      "citation": "RS 23:1044",
+      "title": "Presumption of employee status",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83344"
+    },
+    {
+      "order": 337,
+      "citation": "RS 23:1045",
+      "title": "Persons exempt from coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83345"
+    },
+    {
+      "order": 338,
+      "citation": "RS 23:1046",
+      "title": "Chapter inapplicable to uncompensated officers and uncompensated members of the board of directors of certain nonprofit organizations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83346"
+    },
+    {
+      "order": 339,
+      "citation": "RS 23:1047",
+      "title": "Real estate salesmen exempt from coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83347"
+    },
+    {
+      "order": 340,
+      "citation": "RS 23:1048",
+      "title": "Landmen exempt from coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83348"
+    },
+    {
+      "order": 341,
+      "citation": "RS 23:1061",
+      "title": "Principal contractors; liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83352"
+    },
+    {
+      "order": 342,
+      "citation": "RS 23:1062",
+      "title": "Sub-contractors; liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83353"
+    },
+    {
+      "order": 343,
+      "citation": "RS 23:1063",
+      "title": "Suits against principal contractors; subcontractors as co-defendants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83354"
+    },
+    {
+      "order": 344,
+      "citation": "RS 23:1081",
+      "title": "Defenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83357"
+    },
+    {
+      "order": 345,
+      "citation": "RS 23:1101",
+      "title": "Employee and employer suits against third persons; effect on right to compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83361"
+    },
+    {
+      "order": 346,
+      "citation": "RS 23:1102",
+      "title": "Employee or employer suits against third persons causing injury; notice of filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83362"
+    },
+    {
+      "order": 347,
+      "citation": "RS 23:1103",
+      "title": "Damages; apportionment of between employer and employee in suits against third persons; compromise of claims; credit",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83363"
+    },
+    {
+      "order": 348,
+      "citation": "RS 23:1104",
+      "title": "Quantification of employer fault",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83364"
+    },
+    {
+      "order": 349,
+      "citation": "RS 23:1121",
+      "title": "Examination of injured employee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83367"
+    },
+    {
+      "order": 350,
+      "citation": "RS 23:1122",
+      "title": "Employer's duty to cause examination of employee; rights of employee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83368"
+    },
+    {
+      "order": 351,
+      "citation": "RS 23:1123",
+      "title": "Disputes as to condition or capacity to work; additional medical opinion regarding an examination under supervision of the director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83369"
+    },
+    {
+      "order": 352,
+      "citation": "RS 23:1124",
+      "title": "Refusal to submit to an additional medical opinion regarding an examination; effect on right to compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83370"
+    },
+    {
+      "order": 353,
+      "citation": "RS 23:1124.1",
+      "title": "Cumulative medical testimony; medical examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83371"
+    },
+    {
+      "order": 354,
+      "citation": "RS 23:1125",
+      "title": "Right of employee to written report of medical examination; penalty for failure to furnish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83372"
+    },
+    {
+      "order": 355,
+      "citation": "RS 23:1126",
+      "title": "Monitoring procedures of toxic substances in places of employment; access to records; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83373"
+    },
+    {
+      "order": 356,
+      "citation": "RS 23:1127",
+      "title": "Release of medical records and information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83374"
+    },
+    {
+      "order": 357,
+      "citation": "RS 23:1131",
+      "title": "Repealed by Acts 2004, No. 261, §1, eff. June 15, 2004.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83376"
+    },
+    {
+      "order": 358,
+      "citation": "RS 23:1141",
+      "title": "Attorney fees; privilege on compensation awards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83378"
+    },
+    {
+      "order": 359,
+      "citation": "RS 23:1142",
+      "title": "Approval of health care providers; fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83379"
+    },
+    {
+      "order": 360,
+      "citation": "RS 23:1143",
+      "title": "Excessive fees or solicitation of employment; penalty; withholding attorney fees; approval by workers' compensation judge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83380"
+    },
+    {
+      "order": 361,
+      "citation": "RS 23:1144",
+      "title": "Repealed by Acts 2001, No. 1014, 2, eff. June 27, 2001.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83381"
+    },
+    {
+      "order": 362,
+      "citation": "RS 23:1161",
+      "title": "Insurance policies; application of provisions; approval by insurance commissioner; admitted carriers; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83384"
+    },
+    {
+      "order": 363,
+      "citation": "RS 23:1161.1",
+      "title": "Workers' compensation claims office or licensed claims adjusters; waiver",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83385"
+    },
+    {
+      "order": 364,
+      "citation": "RS 23:1162",
+      "title": "Contents of insurance contract; enforcement by employee; subrogation of insurer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83386"
+    },
+    {
+      "order": 365,
+      "citation": "RS 23:1163",
+      "title": "Premiums; contribution by employees prohibited; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83387"
+    },
+    {
+      "order": 366,
+      "citation": "RS 23:1164",
+      "title": "Insolvency of employer; employee's rights against insurer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83388"
+    },
+    {
+      "order": 367,
+      "citation": "RS 23:1165",
+      "title": "Additional compensation agreements; insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83389"
+    },
+    {
+      "order": 368,
+      "citation": "RS 23:1166",
+      "title": "Issuance of policies; liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83390"
+    },
+    {
+      "order": 369,
+      "citation": "RS 23:1167",
+      "title": "Insolvency of unauthorized ceding insurer; claim against assuming insurer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83391"
+    },
+    {
+      "order": 370,
+      "citation": "RS 23:1168",
+      "title": "Ways of securing compensation to employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83392"
+    },
+    {
+      "order": 371,
+      "citation": "RS 23:1168.1",
+      "title": "Self-insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83393"
+    },
+    {
+      "order": 372,
+      "citation": "RS 23:1168.3",
+      "title": "Grounds for default; forfeiture of security; records of claims",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409788"
+    },
+    {
+      "order": 373,
+      "citation": "RS 23:1168.4",
+      "title": "Duties of the assistant secretary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409789"
+    },
+    {
+      "order": 374,
+      "citation": "RS 23:1168.5",
+      "title": "Deposit of monies collected",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409790"
+    },
+    {
+      "order": 375,
+      "citation": "RS 23:1168.6",
+      "title": "Appointment of assistants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409791"
+    },
+    {
+      "order": 376,
+      "citation": "RS 23:1168.7",
+      "title": "Priority of claims",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409792"
+    },
+    {
+      "order": 377,
+      "citation": "RS 23:1168.8",
+      "title": "Time to file claims",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409793"
+    },
+    {
+      "order": 378,
+      "citation": "RS 23:1168.9",
+      "title": "Proof and allowance of claims",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409794"
+    },
+    {
+      "order": 379,
+      "citation": "RS 23:1168.10",
+      "title": "Appeal of a decision of the director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409795"
+    },
+    {
+      "order": 380,
+      "citation": "RS 23:1168.11",
+      "title": "Confidentiality of certain proceedings and records; immunity of certain staff",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409796"
+    },
+    {
+      "order": 381,
+      "citation": "RS 23:1168.12",
+      "title": "Cooperation of officers, owners, and employees; civil penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409797"
+    },
+    {
+      "order": 382,
+      "citation": "RS 23:1169",
+      "title": "Failure of employer to secure payment; power of executive director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83394"
+    },
+    {
+      "order": 383,
+      "citation": "RS 23:1170",
+      "title": "Penalty for failure to secure workers' compensation insurance; assessment and collection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83395"
+    },
+    {
+      "order": 384,
+      "citation": "RS 23:1171",
+      "title": "Civil fine; hearing; appeal",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83396"
+    },
+    {
+      "order": 385,
+      "citation": "RS 23:1171.1",
+      "title": "Discontinuance of business; injunction; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83397"
+    },
+    {
+      "order": 386,
+      "citation": "RS 23:1171.2",
+      "title": "Default of employer; additional liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83398"
+    },
+    {
+      "order": 387,
+      "citation": "RS 23:1172",
+      "title": "Criminal penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83399"
+    },
+    {
+      "order": 388,
+      "citation": "RS 23:1172.1",
+      "title": "Willful misrepresentation by employer; aid or abet; criminal penalties; civil immunity",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83400"
+    },
+    {
+      "order": 389,
+      "citation": "RS 23:1172.2",
+      "title": "Unlawful practices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83401"
+    },
+    {
+      "order": 390,
+      "citation": "RS 23:1172.3",
+      "title": "Collection of payments of workers' compensation premiums prohibited; premium audits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1389027"
+    },
+    {
+      "order": 391,
+      "citation": "RS 23:1173",
+      "title": "Rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83402"
+    },
+    {
+      "order": 392,
+      "citation": "RS 23:1174",
+      "title": "Certificate of compliance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83403"
+    },
+    {
+      "order": 393,
+      "citation": "RS 23:1174.1",
+      "title": "Workers' compensation programs; ability to contract",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83404"
+    },
+    {
+      "order": 394,
+      "citation": "RS 23:1175",
+      "title": "Short title; legislative intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83405"
+    },
+    {
+      "order": 395,
+      "citation": "RS 23:1176",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83406"
+    },
+    {
+      "order": 396,
+      "citation": "RS 23:1177",
+      "title": "Collection of information; target list",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83407"
+    },
+    {
+      "order": 397,
+      "citation": "RS 23:1178",
+      "title": "Cost containment meeting; incentive discount",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83408"
+    },
+    {
+      "order": 398,
+      "citation": "RS 23:1179",
+      "title": "Occupational safety and health program; incentive discount",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83409"
+    },
+    {
+      "order": 399,
+      "citation": "RS 23:1180",
+      "title": "Evaluation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83410"
+    },
+    {
+      "order": 400,
+      "citation": "RS 23:1181",
+      "title": "Insured experience information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83411"
+    },
+    {
+      "order": 401,
+      "citation": "RS 23:1182",
+      "title": "Repealed by Acts 1995, No. 349, 2, eff. June 16, 1995.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83412"
+    },
+    {
+      "order": 402,
+      "citation": "RS 23:1191",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83413"
+    },
+    {
+      "order": 403,
+      "citation": "RS 23:1192",
+      "title": "Repealed by Acts 1995, No. 703, 2, eff. June 21, 1995.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83414"
+    },
+    {
+      "order": 404,
+      "citation": "RS 23:1193",
+      "title": "Repealed by Acts 1995, No. 703, 2, eff. June 21, 1995.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83415"
+    },
+    {
+      "order": 405,
+      "citation": "RS 23:1194",
+      "title": "Repealed by Acts 1995, No. 703, 2, eff. June 21, 1995.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83416"
+    },
+    {
+      "order": 406,
+      "citation": "RS 23:1195",
+      "title": "Authorization; trade or professional association; initial financial requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83417"
+    },
+    {
+      "order": 407,
+      "citation": "RS 23:1196",
+      "title": "Requirements; excess insurance; administrative and service companies; status; liability; refunds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83418"
+    },
+    {
+      "order": 408,
+      "citation": "RS 23:1196.1",
+      "title": "Investments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83419"
+    },
+    {
+      "order": 409,
+      "citation": "RS 23:1197",
+      "title": "Authority of Department of Insurance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83420"
+    },
+    {
+      "order": 410,
+      "citation": "RS 23:1198",
+      "title": "Licensing of agents; claims against insurance agents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83421"
+    },
+    {
+      "order": 411,
+      "citation": "RS 23:1199",
+      "title": "Rates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83422"
+    },
+    {
+      "order": 412,
+      "citation": "RS 23:1200",
+      "title": "Review of rate determination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83424"
+    },
+    {
+      "order": 413,
+      "citation": "RS 23:1200.1",
+      "title": "Rules and regulations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83425"
+    },
+    {
+      "order": 414,
+      "citation": "RS 23:1200.2",
+      "title": "Prohibited activities and sanctions; duties of group self-insurance funds and others; civil immunity; definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83426"
+    },
+    {
+      "order": 415,
+      "citation": "RS 23:1200.3",
+      "title": "Exclusive use of expirations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83427"
+    },
+    {
+      "order": 416,
+      "citation": "RS 23:1200.4",
+      "title": "Consecutive net losses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452208"
+    },
+    {
+      "order": 417,
+      "citation": "RS 23:1200.5",
+      "title": "Insolvencies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452210"
+    },
+    {
+      "order": 418,
+      "citation": "RS 23:1200.6",
+      "title": "Examination of group self-insurance fund for workers' compensation program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726974"
+    },
+    {
+      "order": 419,
+      "citation": "RS 23:1200.7",
+      "title": "Examination reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726975"
+    },
+    {
+      "order": 420,
+      "citation": "RS 23:1200.8",
+      "title": "Review and examination expense; how paid",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726976"
+    },
+    {
+      "order": 421,
+      "citation": "RS 23:1200.9",
+      "title": "Authority to employ examiners and other assistants",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726977"
+    },
+    {
+      "order": 422,
+      "citation": "RS 23:1200.10",
+      "title": "Group self-insurance fund's right to contest expense",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726978"
+    },
+    {
+      "order": 423,
+      "citation": "RS 23:1200.11",
+      "title": "Failure to pay expenses; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726979"
+    },
+    {
+      "order": 424,
+      "citation": "RS 23:1200.12",
+      "title": "Scope of examination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726980"
+    },
+    {
+      "order": 425,
+      "citation": "RS 23:1200.13",
+      "title": "Production of books and records",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726981"
+    },
+    {
+      "order": 426,
+      "citation": "RS 23:1200.14",
+      "title": "Power to examine under oath; subpoena witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726983"
+    },
+    {
+      "order": 427,
+      "citation": "RS 23:1200.15",
+      "title": "Commissioner of insurance authorized to employ investigators",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726984"
+    },
+    {
+      "order": 428,
+      "citation": "RS 23:1200.16",
+      "title": "Disclosure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726985"
+    },
+    {
+      "order": 429,
+      "citation": "RS 23:1200.17",
+      "title": "Departmental complaint directives; failure to comply; fines; hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726986"
+    },
+    {
+      "order": 430,
+      "citation": "RS 23:1201",
+      "title": "Time and place of payment; failure to pay timely; failure to authorize; penalties and attorney fees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83428"
+    },
+    {
+      "order": 431,
+      "citation": "RS 23:1201.1",
+      "title": "Controversion of compensation and medical benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83429"
+    },
+    {
+      "order": 432,
+      "citation": "RS 23:1201.2",
+      "title": "Repealed by Acts 2003, No. 1204, §2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83430"
+    },
+    {
+      "order": 433,
+      "citation": "RS 23:1201.3",
+      "title": "Failure to pay compensation; judgment and execution; interest; revocation or suspension of insurer's license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83431"
+    },
+    {
+      "order": 434,
+      "citation": "RS 23:1201.4",
+      "title": "Forfeiture of benefits while incarcerated; exclusions; medical expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83432"
+    },
+    {
+      "order": 435,
+      "citation": "RS 23:1202",
+      "title": "Maximum and minimum amounts payable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83433"
+    },
+    {
+      "order": 436,
+      "citation": "RS 23:1203",
+      "title": "Duty to furnish medical and vocational rehabilitation expenses; prosthetic devices; other expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83434"
+    },
+    {
+      "order": 437,
+      "citation": "RS 23:1203.1",
+      "title": "Definitions; medical treatment schedule; medical advisory council",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=108459"
+    },
+    {
+      "order": 438,
+      "citation": "RS 23:1203.1.1",
+      "title": "Medical director and associate medical director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860655"
+    },
+    {
+      "order": 439,
+      "citation": "RS 23:1203.2",
+      "title": "Electronic medical billing and payment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726987"
+    },
+    {
+      "order": 440,
+      "citation": "RS 23:1204",
+      "title": "Furnishing of medical services or advancing voluntary payments not admission of liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83436"
+    },
+    {
+      "order": 441,
+      "citation": "RS 23:1205",
+      "title": "Claim for payments; privilege of employee; non-assignability; exemption from seizure; payment of denied medical expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83437"
+    },
+    {
+      "order": 442,
+      "citation": "RS 23:1206",
+      "title": "Voluntary payments; deductions from benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83438"
+    },
+    {
+      "order": 443,
+      "citation": "RS 23:1207",
+      "title": "Rival claimants; payment; discharge of employer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83439"
+    },
+    {
+      "order": 444,
+      "citation": "RS 23:1208",
+      "title": "Misrepresentations concerning benefit payments; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83440"
+    },
+    {
+      "order": 445,
+      "citation": "RS 23:1208.1",
+      "title": "Employer's inquiry into employee's previous injury claims; forfeiture of benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83441"
+    },
+    {
+      "order": 446,
+      "citation": "RS 23:1208.2",
+      "title": "Duty to report fraud; immunity from civil liability",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83442"
+    },
+    {
+      "order": 447,
+      "citation": "RS 23:1209",
+      "title": "Prescription; timeliness of filing; dismissal for want of prosecution",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83443"
+    },
+    {
+      "order": 448,
+      "citation": "RS 23:1210",
+      "title": "Burial expenses; duty to furnish",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83444"
+    },
+    {
+      "order": 449,
+      "citation": "RS 23:1211",
+      "title": "Special compensation benefits for injury or death of member of national guard",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83445"
+    },
+    {
+      "order": 450,
+      "citation": "RS 23:1212",
+      "title": "Medical expense offset",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83446"
+    },
+    {
+      "order": 451,
+      "citation": "RS 23:1221",
+      "title": "Temporary total disability; permanent total disability; supplemental earnings benefits; permanent partial disability; schedule of payments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83447"
+    },
+    {
+      "order": 452,
+      "citation": "RS 23:1222",
+      "title": "Probable duration of disability not basis for award",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83448"
+    },
+    {
+      "order": 453,
+      "citation": "RS 23:1223",
+      "title": "Deductions from benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83449"
+    },
+    {
+      "order": 454,
+      "citation": "RS 23:1224",
+      "title": "Payments not recoverable for first week; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83450"
+    },
+    {
+      "order": 455,
+      "citation": "RS 23:1225",
+      "title": "Reductions when other benefits payable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83451"
+    },
+    {
+      "order": 456,
+      "citation": "RS 23:1226",
+      "title": "Rehabilitation of injured employees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83452"
+    },
+    {
+      "order": 457,
+      "citation": "RS 23:1231",
+      "title": "Death of employee; payment to dependents; surviving parents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83453"
+    },
+    {
+      "order": 458,
+      "citation": "RS 23:1232",
+      "title": "Allocation to dependents; schedule of payments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83454"
+    },
+    {
+      "order": 459,
+      "citation": "RS 23:1233",
+      "title": "Death or marriage of dependent; age limit of minor dependent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83455"
+    },
+    {
+      "order": 460,
+      "citation": "RS 23:1234",
+      "title": "Minors and mental incompetents; rights and privileges, by whom exercised; prescriptions applicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83456"
+    },
+    {
+      "order": 461,
+      "citation": "RS 23:1235",
+      "title": "Payments to minor dependents; how made",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83457"
+    },
+    {
+      "order": 462,
+      "citation": "RS 23:1236",
+      "title": "Payments to employee before death; effect on payments to dependents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83458"
+    },
+    {
+      "order": 463,
+      "citation": "RS 23:1251",
+      "title": "Persons conclusively presumed dependents",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83459"
+    },
+    {
+      "order": 464,
+      "citation": "RS 23:1252",
+      "title": "Determination of dependency in other cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83460"
+    },
+    {
+      "order": 465,
+      "citation": "RS 23:1253",
+      "title": "Membership in family or relationship",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83461"
+    },
+    {
+      "order": 466,
+      "citation": "RS 23:1254",
+      "title": "Dependency at the time of accident and death",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83462"
+    },
+    {
+      "order": 467,
+      "citation": "RS 23:1255",
+      "title": "Widow or widower; living with spouse at time of injury or death",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83463"
+    },
+    {
+      "order": 468,
+      "citation": "RS 23:1261",
+      "title": "Repealed by Acts 1991, No. 565, 2.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83464"
+    },
+    {
+      "order": 469,
+      "citation": "RS 23:1271",
+      "title": "Right of parties to settle or compromise",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83465"
+    },
+    {
+      "order": 470,
+      "citation": "RS 23:1272",
+      "title": "Approval of lump sum or compromise settlements by the workers' compensation judge",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83466"
+    },
+    {
+      "order": 471,
+      "citation": "RS 23:1273",
+      "title": "Repealed by Acts 1988, No. 938, 3, eff. Jan. 1, 1990.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83467"
+    },
+    {
+      "order": 472,
+      "citation": "RS 23:1274",
+      "title": "Lump sum settlements; necessity for approval",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83468"
+    },
+    {
+      "order": 473,
+      "citation": "RS 23:1291",
+      "title": "Creation, powers, and duties of the office of workers' compensation administration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83469"
+    },
+    {
+      "order": 474,
+      "citation": "RS 23:1291.1",
+      "title": "Annual reports; assessment; collection",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83470"
+    },
+    {
+      "order": 475,
+      "citation": "RS 23:1291.2",
+      "title": "Access to payors' records; fraud identification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814802"
+    },
+    {
+      "order": 476,
+      "citation": "RS 23:1292",
+      "title": "Statistical data; required reports; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83471"
+    },
+    {
+      "order": 477,
+      "citation": "RS 23:1293",
+      "title": "Confidentiality of records; exceptions; penalties for violation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83472"
+    },
+    {
+      "order": 478,
+      "citation": "RS 23:1294",
+      "title": "Workers' Compensation Advisory Council",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83473"
+    },
+    {
+      "order": 479,
+      "citation": "RS 23:1295",
+      "title": "Investigations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83474"
+    },
+    {
+      "order": 480,
+      "citation": "RS 23:1296",
+      "title": "Administrator; powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83475"
+    },
+    {
+      "order": 481,
+      "citation": "RS 23:1297",
+      "title": "Subpoenas",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83476"
+    },
+    {
+      "order": 482,
+      "citation": "RS 23:1301",
+      "title": "NOTICE OF INJURY OR ACCIDENT; REPORTS",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83478"
+    },
+    {
+      "order": 483,
+      "citation": "RS 23:1302",
+      "title": "Employer's duty to advise employees as to necessity of notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83479"
+    },
+    {
+      "order": 484,
+      "citation": "RS 23:1303",
+      "title": "Contents of notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83480"
+    },
+    {
+      "order": 485,
+      "citation": "RS 23:1304",
+      "title": "Persons to whom notice given",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83481"
+    },
+    {
+      "order": 486,
+      "citation": "RS 23:1305",
+      "title": "Inaccuracies as to time, nature, place, or cause, of injury; effect of delay or lack of notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83482"
+    },
+    {
+      "order": 487,
+      "citation": "RS 23:1306",
+      "title": "Employer reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83483"
+    },
+    {
+      "order": 488,
+      "citation": "RS 23:1307",
+      "title": "Information to injured employee",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83484"
+    },
+    {
+      "order": 489,
+      "citation": "RS 23:1310",
+      "title": "Initial filing of claim with office of workers' compensation administration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83485"
+    },
+    {
+      "order": 490,
+      "citation": "RS 23:1310.1",
+      "title": "Workers' compensation judges; creation; tenure; qualification; presiding officer; rules and regulations; hearings; director",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83486"
+    },
+    {
+      "order": 491,
+      "citation": "RS 23:1310.2",
+      "title": "Duties of assistant secretary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83493"
+    },
+    {
+      "order": 492,
+      "citation": "RS 23:1310.3",
+      "title": "Initiation of claims; voluntary mediation; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83494"
+    },
+    {
+      "order": 493,
+      "citation": "RS 23:1310.4",
+      "title": "Place hearings to be held",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83495"
+    },
+    {
+      "order": 494,
+      "citation": "RS 23:1310.5",
+      "title": "Hearing and appellate procedures; reported opinions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83496"
+    },
+    {
+      "order": 495,
+      "citation": "RS 23:1310.5.1",
+      "title": "Continuances",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1295166"
+    },
+    {
+      "order": 496,
+      "citation": "RS 23:1310.5.2",
+      "title": "Stays",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1295187"
+    },
+    {
+      "order": 497,
+      "citation": "RS 23:1310.6",
+      "title": "Director; powers and duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83497"
+    },
+    {
+      "order": 498,
+      "citation": "RS 23:1310.7",
+      "title": "Orders; subpoenas; judgments; enforcement; contempt",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83498"
+    },
+    {
+      "order": 499,
+      "citation": "RS 23:1310.8",
+      "title": "Jurisdiction continuing; determining as to final settlement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83499"
+    },
+    {
+      "order": 500,
+      "citation": "RS 23:1310.9",
+      "title": "Costs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83500"
+    },
+    {
+      "order": 501,
+      "citation": "RS 23:1310.10",
+      "title": "Report to governor, supreme court, and legislature",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83487"
+    },
+    {
+      "order": 502,
+      "citation": "RS 23:1310.11",
+      "title": "Deposit of fees in Workers' Compensation Administration Fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83488"
+    },
+    {
+      "order": 503,
+      "citation": "RS 23:1310.12",
+      "title": "Repealed by Acts 2012, No. 834, §1, eff. July 1, 2012.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83489"
+    },
+    {
+      "order": 504,
+      "citation": "RS 23:1310.13",
+      "title": "Expenses of assistant secretary; penalties imposed by Act; payment into special state treasury fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83490"
+    },
+    {
+      "order": 505,
+      "citation": "RS 23:1310.14",
+      "title": "Securing information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83491"
+    },
+    {
+      "order": 506,
+      "citation": "RS 23:1310.15",
+      "title": "Employer's records and books; subject to inspection; self-incriminating evidence",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83492"
+    },
+    {
+      "order": 507,
+      "citation": "RS 23:1311",
+      "title": "Contents of petition",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83501"
+    },
+    {
+      "order": 508,
+      "citation": "RS 23:1312",
+      "title": "Suits against the state; filing; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83502"
+    },
+    {
+      "order": 509,
+      "citation": "RS 23:1313",
+      "title": "Repealed by Acts 1988, No. 938, 3, eff. Jan. 1, 1990.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83503"
+    },
+    {
+      "order": 510,
+      "citation": "RS 23:1314",
+      "title": "Necessary allegations; dismissal of premature petition; dispute of benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83504"
+    },
+    {
+      "order": 511,
+      "citation": "RS 23:1315",
+      "title": "Repealed by Acts 1988, No. 938, 3, eff. Jan. 1, 1990.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83505"
+    },
+    {
+      "order": 512,
+      "citation": "RS 23:1316",
+      "title": "Repealed by Acts 2021, No. 174, §6, eff. Jan. 1, 2022.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83506"
+    },
+    {
+      "order": 513,
+      "citation": "RS 23:1316.1",
+      "title": "Default judgment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83507"
+    },
+    {
+      "order": 514,
+      "citation": "RS 23:1317",
+      "title": "Hearing on the merits; rules of procedure; effect of judgment; costs; fees of medical witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83508"
+    },
+    {
+      "order": 515,
+      "citation": "RS 23:1317.1",
+      "title": "Additional medical opinion regarding medical examinations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83509"
+    },
+    {
+      "order": 516,
+      "citation": "RS 23:1318",
+      "title": "Assistant secretary and office employees not subject to subpoena",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83510"
+    },
+    {
+      "order": 517,
+      "citation": "RS 23:1319",
+      "title": "Evidence; depositions in advance of hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83511"
+    },
+    {
+      "order": 518,
+      "citation": "RS 23:1320",
+      "title": "Repealed by Acts 1988, No. 938, 3, eff. Jan. 1, 1990.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83512"
+    },
+    {
+      "order": 519,
+      "citation": "RS 23:1321",
+      "title": "Repealed by Acts 1988, No. 938, 3, eff. Jan. 1, 1990.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83513"
+    },
+    {
+      "order": 520,
+      "citation": "RS 23:1331",
+      "title": "Repealed by Acts 1988, No. 938, 3, eff. Jan. 1, 1990.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83514"
+    },
+    {
+      "order": 521,
+      "citation": "RS 23:1332",
+      "title": "Awards in favor of minors or interdicts; tutor's bond and report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83515"
+    },
+    {
+      "order": 522,
+      "citation": "RS 23:1333",
+      "title": "Employer's insolvency or failure to pay after award; acceleration of payments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83516"
+    },
+    {
+      "order": 523,
+      "citation": "RS 23:1351",
+      "title": "Repealed by Acts 1988, No. 938, 3, eff. Jan. 1, 1990.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83517"
+    },
+    {
+      "order": 524,
+      "citation": "RS 23:1361",
+      "title": "Unlawful discrimination prohibited",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83518"
+    },
+    {
+      "order": 525,
+      "citation": "RS 23:1371",
+      "title": "Purpose and intent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83519"
+    },
+    {
+      "order": 526,
+      "citation": "RS 23:1371.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=409801"
+    },
+    {
+      "order": 527,
+      "citation": "RS 23:1371.2",
+      "title": "Repealed by Acts 2013, No. 314, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=726988"
+    },
+    {
+      "order": 528,
+      "citation": "RS 23:1372",
+      "title": "Louisiana Workers' Compensation Second Injury Board; creation, domicile, membership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83520"
+    },
+    {
+      "order": 529,
+      "citation": "RS 23:1373",
+      "title": "Meetings; quorum; officers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83521"
+    },
+    {
+      "order": 530,
+      "citation": "RS 23:1374",
+      "title": "Salary; expenses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83522"
+    },
+    {
+      "order": 531,
+      "citation": "RS 23:1375",
+      "title": "Personnel",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83523"
+    },
+    {
+      "order": 532,
+      "citation": "RS 23:1376",
+      "title": "Rule making power; reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83524"
+    },
+    {
+      "order": 533,
+      "citation": "RS 23:1377",
+      "title": "Workers' Compensation Second Injury Fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83525"
+    },
+    {
+      "order": 534,
+      "citation": "RS 23:1378",
+      "title": "Determination of liability of fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83526"
+    },
+    {
+      "order": 535,
+      "citation": "RS 23:1379",
+      "title": "Annual report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83527"
+    },
+    {
+      "order": 536,
+      "citation": "RS 23:1391",
+      "title": "Purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83528"
+    },
+    {
+      "order": 537,
+      "citation": "RS 23:1392",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83529"
+    },
+    {
+      "order": 538,
+      "citation": "RS 23:1393",
+      "title": "Creation of Louisiana Workers' Compensation Corporation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83530"
+    },
+    {
+      "order": 539,
+      "citation": "RS 23:1394",
+      "title": "Applicability of other laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83531"
+    },
+    {
+      "order": 540,
+      "citation": "RS 23:1395",
+      "title": "Exemptions; rate regulation; surplus; reserves; guaranty funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83532"
+    },
+    {
+      "order": 541,
+      "citation": "RS 23:1397",
+      "title": "Incurring of debt for operations and cash flow; pledge of full faith and credit of state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83533"
+    },
+    {
+      "order": 542,
+      "citation": "RS 23:1398",
+      "title": "Board of directors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83534"
+    },
+    {
+      "order": 543,
+      "citation": "RS 23:1399",
+      "title": "Duties of the board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83535"
+    },
+    {
+      "order": 544,
+      "citation": "RS 23:1400",
+      "title": "Policy applications; risk classification",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83537"
+    },
+    {
+      "order": 545,
+      "citation": "RS 23:1401",
+      "title": "Discontinuation of Louisiana Workers' Compensation Assigned Risk Plan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83538"
+    },
+    {
+      "order": 546,
+      "citation": "RS 23:1403",
+      "title": "Policy programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83539"
+    },
+    {
+      "order": 547,
+      "citation": "RS 23:1404",
+      "title": "Allocation of surplus; full faith and credit; exemptions; sunset",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83540"
+    },
+    {
+      "order": 548,
+      "citation": "RS 23:1404.1",
+      "title": "State reporting",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83541"
+    },
+    {
+      "order": 549,
+      "citation": "RS 23:1405",
+      "title": "Corporation investments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83542"
+    },
+    {
+      "order": 550,
+      "citation": "RS 23:1405.1",
+      "title": "Conversion to stock corporation; conditions; approval; laws applicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83543"
+    },
+    {
+      "order": 551,
+      "citation": "RS 23:1406",
+      "title": "Conflict of interest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83544"
+    },
+    {
+      "order": 552,
+      "citation": "RS 23:1407",
+      "title": "Sales of policies; agents not liable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83545"
+    },
+    {
+      "order": 553,
+      "citation": "RS 23:1407.1",
+      "title": "Issuance or renewal of policies not backed by full faith and credit of state; disclosure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83546"
+    },
+    {
+      "order": 554,
+      "citation": "RS 23:1409",
+      "title": "Denial, cancellation, and termination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83547"
+    },
+    {
+      "order": 555,
+      "citation": "RS 23:1410",
+      "title": "Fraud division",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83548"
+    },
+    {
+      "order": 556,
+      "citation": "RS 23:1411",
+      "title": "Rates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83549"
+    },
+    {
+      "order": 557,
+      "citation": "RS 23:1412",
+      "title": "Workplace safety program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83550"
+    },
+    {
+      "order": 558,
+      "citation": "RS 23:1413",
+      "title": "Workplace accident and injury reduction plan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83551"
+    },
+    {
+      "order": 559,
+      "citation": "RS 23:1414",
+      "title": "Annual report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83552"
+    },
+    {
+      "order": 560,
+      "citation": "RS 23:1415",
+      "title": "Appeal to insurance commissioner",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83553"
+    },
+    {
+      "order": 561,
+      "citation": "RS 23:1471",
+      "title": "UNEMPLOYMENT COMPENSATION",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83554"
+    },
+    {
+      "order": 562,
+      "citation": "RS 23:1472",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83555"
+    },
+    {
+      "order": 563,
+      "citation": "RS 23:1473",
+      "title": "Concurrent employment by two or more corporations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83556"
+    },
+    {
+      "order": 564,
+      "citation": "RS 23:1474",
+      "title": "Administrator; Revenue Estimating Conference; \"wages\"; weekly benefit amounts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83557"
+    },
+    {
+      "order": 565,
+      "citation": "RS 23:1491",
+      "title": "Establishment and control",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83558"
+    },
+    {
+      "order": 566,
+      "citation": "RS 23:1492",
+      "title": "Accounts and deposits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83559"
+    },
+    {
+      "order": 567,
+      "citation": "RS 23:1493",
+      "title": "Use and operation; withdrawals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83560"
+    },
+    {
+      "order": 568,
+      "citation": "RS 23:1494",
+      "title": "Management of fund upon discontinuance of unemployment trust fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83561"
+    },
+    {
+      "order": 569,
+      "citation": "RS 23:1511",
+      "title": "Creation of fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83564"
+    },
+    {
+      "order": 570,
+      "citation": "RS 23:1512",
+      "title": "Replacement of funds lost or expended for purposes other than administration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83565"
+    },
+    {
+      "order": 571,
+      "citation": "RS 23:1513",
+      "title": "Penalty and interest account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83566"
+    },
+    {
+      "order": 572,
+      "citation": "RS 23:1513.1",
+      "title": "Reed Act account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83567"
+    },
+    {
+      "order": 573,
+      "citation": "RS 23:1513.2",
+      "title": "Louisiana Works administration account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83568"
+    },
+    {
+      "order": 574,
+      "citation": "RS 23:1514",
+      "title": "Worker training fund; purpose; training programs; eligibility criteria; program administration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83569"
+    },
+    {
+      "order": 575,
+      "citation": "RS 23:1515",
+      "title": "Employment security administration account",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83570"
+    },
+    {
+      "order": 576,
+      "citation": "RS 23:1531",
+      "title": "Basis of employer contributions; time for payment; computation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83573"
+    },
+    {
+      "order": 577,
+      "citation": "RS 23:1531.1",
+      "title": "Electronic filing of contribution, occupational information, and wage reports; employer registrations",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452219"
+    },
+    {
+      "order": 578,
+      "citation": "RS 23:1532",
+      "title": "Rate and base of contributions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83574"
+    },
+    {
+      "order": 579,
+      "citation": "RS 23:1532.1",
+      "title": "Legislative findings and intent; temporary employer special assessment; creation and pledge thereof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83575"
+    },
+    {
+      "order": 580,
+      "citation": "RS 23:1533",
+      "title": "Experience rating records; administrator's duty to prepare",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83576"
+    },
+    {
+      "order": 581,
+      "citation": "RS 23:1534",
+      "title": "Standard rates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83577"
+    },
+    {
+      "order": 582,
+      "citation": "RS 23:1535",
+      "title": "Variation from standard rates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83578"
+    },
+    {
+      "order": 583,
+      "citation": "RS 23:1536",
+      "title": "Determination of rate; ratio of reserves to payroll as a basis",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83579"
+    },
+    {
+      "order": 584,
+      "citation": "RS 23:1537",
+      "title": "Adjustment in rates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83580"
+    },
+    {
+      "order": 585,
+      "citation": "RS 23:1538",
+      "title": "Payroll reports; failure of employer to file; incorrect reports; determination of rates",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83581"
+    },
+    {
+      "order": 586,
+      "citation": "RS 23:1539",
+      "title": "Merger of employing units; determination of rate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83582"
+    },
+    {
+      "order": 587,
+      "citation": "RS 23:1539.1",
+      "title": "State unemployment tax avoidance; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=321195"
+    },
+    {
+      "order": 588,
+      "citation": "RS 23:1540",
+      "title": "Appeal of liability or tax rate determination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83583"
+    },
+    {
+      "order": 589,
+      "citation": "RS 23:1541",
+      "title": "Notice of benefits charged against employer's experience rating record; employer's right to contest; application for review; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83584"
+    },
+    {
+      "order": 590,
+      "citation": "RS 23:1541.1",
+      "title": "Notice of chargeability of benefits to base-period employers; employer's right to contest; appeals; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=181423"
+    },
+    {
+      "order": 591,
+      "citation": "RS 23:1542",
+      "title": "Definition of terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83585"
+    },
+    {
+      "order": 592,
+      "citation": "RS 23:1543",
+      "title": "Delinquent contributions; interest and penalties; jeopardy assessments; bonds; amnesty; forfeiture of right to do business; delinquency of Indian tribes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83586"
+    },
+    {
+      "order": 593,
+      "citation": "RS 23:1544",
+      "title": "Suit to enforce payment of delinquent contributions; hearing by preference; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83587"
+    },
+    {
+      "order": 594,
+      "citation": "RS 23:1545",
+      "title": "Failure of employer to file report; determination of contributions recoverable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83588"
+    },
+    {
+      "order": 595,
+      "citation": "RS 23:1546",
+      "title": "Default in payment of contributions; privilege against property of employer; recordation and rank",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83589"
+    },
+    {
+      "order": 596,
+      "citation": "RS 23:1547",
+      "title": "Proceedings for collection of contributions; burden of proof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83590"
+    },
+    {
+      "order": 597,
+      "citation": "RS 23:1548",
+      "title": "Costs of proceedings and other fees not required from administrator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83591"
+    },
+    {
+      "order": 598,
+      "citation": "RS 23:1549",
+      "title": "Priority of contributions in insolvency proceedings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83592"
+    },
+    {
+      "order": 599,
+      "citation": "RS 23:1550",
+      "title": "Payment of contributions prior to delivery of property or dissolution of partnerships",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83593"
+    },
+    {
+      "order": 600,
+      "citation": "RS 23:1551",
+      "title": "Refunds and adjustments; correction of administrative errors",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83594"
+    },
+    {
+      "order": 601,
+      "citation": "RS 23:1552",
+      "title": "Financing benefits paid to employees of nonprofit organizations and of the state, its instrumentalities and political subdivisions and Indian tribes or tribal units",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83595"
+    },
+    {
+      "order": 602,
+      "citation": "RS 23:1553",
+      "title": "Noncharging of benefits; recoupment; social charge account; social charge tax rate",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83596"
+    },
+    {
+      "order": 603,
+      "citation": "RS 23:1553.1",
+      "title": "Prohibitions of noncharging due to employer fault",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=919203"
+    },
+    {
+      "order": 604,
+      "citation": "RS 23:1554",
+      "title": "Rounding of employee wages and total wages",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83597"
+    },
+    {
+      "order": 605,
+      "citation": "RS 23:1571",
+      "title": "Duration of employer status in general",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83598"
+    },
+    {
+      "order": 606,
+      "citation": "RS 23:1572",
+      "title": "Termination of employer status; application for termination of coverage; termination by administrator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83599"
+    },
+    {
+      "order": 607,
+      "citation": "RS 23:1573",
+      "title": "Election of coverage by unit not subject to law; termination of coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83600"
+    },
+    {
+      "order": 608,
+      "citation": "RS 23:1574",
+      "title": "Election of coverage by unit for service not constituting employment; termination of coverage",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83601"
+    },
+    {
+      "order": 609,
+      "citation": "RS 23:1575",
+      "title": "Repealed by Acts 1977, No. 745, 14, eff. Jan. 1, 1978",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83602"
+    },
+    {
+      "order": 610,
+      "citation": "RS 23:1576",
+      "title": "Notice of separation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83603"
+    },
+    {
+      "order": 611,
+      "citation": "RS 23:1591",
+      "title": "Payment of benefits in general",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83604"
+    },
+    {
+      "order": 612,
+      "citation": "RS 23:1592",
+      "title": "Weekly benefit amount",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83605"
+    },
+    {
+      "order": 613,
+      "citation": "RS 23:1593",
+      "title": "Weekly benefits payable; deduction of earnings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83606"
+    },
+    {
+      "order": 614,
+      "citation": "RS 23:1594",
+      "title": "Benefits for fractional week",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83607"
+    },
+    {
+      "order": 615,
+      "citation": "RS 23:1595",
+      "title": "Duration of benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83608"
+    },
+    {
+      "order": 616,
+      "citation": "RS 23:1596",
+      "title": "Rounding of benefits to next nearest dollar",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83609"
+    },
+    {
+      "order": 617,
+      "citation": "RS 23:1597",
+      "title": "Benefits due deceased claimant; payment to dependents or representatives",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83610"
+    },
+    {
+      "order": 618,
+      "citation": "RS 23:1598",
+      "title": "Wages earned but unpaid as basis for benefits payable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83611"
+    },
+    {
+      "order": 619,
+      "citation": "RS 23:1599",
+      "title": "Waiver of certified mail requirement",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83612"
+    },
+    {
+      "order": 620,
+      "citation": "RS 23:1600",
+      "title": "Benefit eligibility conditions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83614"
+    },
+    {
+      "order": 621,
+      "citation": "RS 23:1601",
+      "title": "Disqualification for benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83615"
+    },
+    {
+      "order": 622,
+      "citation": "RS 23:1602",
+      "title": "Denial of benefits to individuals taking approved training prohibited; ineligibility of certain students; benefits payable to individuals taking approved training not to be charged to experience rating record of base period employers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83616"
+    },
+    {
+      "order": 623,
+      "citation": "RS 23:1603",
+      "title": "Prohibition against disqualification of individuals in approved training",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83617"
+    },
+    {
+      "order": 624,
+      "citation": "RS 23:1604",
+      "title": "Self-employment assistance program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83618"
+    },
+    {
+      "order": 625,
+      "citation": "RS 23:1605",
+      "title": "Unemployment insurance integrity program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1196690"
+    },
+    {
+      "order": 626,
+      "citation": "RS 23:1606",
+      "title": "Extended benefits for training; definitions; eligibility; weekly extended benefit amount; total extended benefit amount; termination of extended benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1389028"
+    },
+    {
+      "order": 627,
+      "citation": "RS 23:1611",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83620"
+    },
+    {
+      "order": 628,
+      "citation": "RS 23:1612",
+      "title": "Effect of other provisions of this Chapter relating to regular benefits on claims for, and the payment of, extended benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83621"
+    },
+    {
+      "order": 629,
+      "citation": "RS 23:1613",
+      "title": "Eligibility requirements for extended benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83622"
+    },
+    {
+      "order": 630,
+      "citation": "RS 23:1614",
+      "title": "Weekly extended benefit amount",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83623"
+    },
+    {
+      "order": 631,
+      "citation": "RS 23:1615",
+      "title": "Total extended benefit amount",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83624"
+    },
+    {
+      "order": 632,
+      "citation": "RS 23:1616",
+      "title": "Beginning and termination of extended benefit period",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83625"
+    },
+    {
+      "order": 633,
+      "citation": "RS 23:1617",
+      "title": "Cessation of extended benefits when paid under an interstate claim in a state where extended benefit period is not in effect",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83626"
+    },
+    {
+      "order": 634,
+      "citation": "RS 23:1618",
+      "title": "Requirements governing suitable work and search for work",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83627"
+    },
+    {
+      "order": 635,
+      "citation": "RS 23:1619",
+      "title": "Limitation on the amount of combined unemployment insurance and trade readjustment allowance benefits received",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83628"
+    },
+    {
+      "order": 636,
+      "citation": "RS 23:1621",
+      "title": "Posting of information concerning rights and claims; duty of employers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83630"
+    },
+    {
+      "order": 637,
+      "citation": "RS 23:1622",
+      "title": "Filing of claim",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83631"
+    },
+    {
+      "order": 638,
+      "citation": "RS 23:1623",
+      "title": "Minors' claims; procedure for filing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83632"
+    },
+    {
+      "order": 639,
+      "citation": "RS 23:1624",
+      "title": "Monetary determination and notice of claim",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83633"
+    },
+    {
+      "order": 640,
+      "citation": "RS 23:1624.1",
+      "title": "Reply to notice of eligibility; enforcement; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83634"
+    },
+    {
+      "order": 641,
+      "citation": "RS 23:1625",
+      "title": "Notice of determination on claims",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83635"
+    },
+    {
+      "order": 642,
+      "citation": "RS 23:1625.1",
+      "title": "Prompt determination of claims; duty of employers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=670722"
+    },
+    {
+      "order": 643,
+      "citation": "RS 23:1626",
+      "title": "Redetermination; notice",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83636"
+    },
+    {
+      "order": 644,
+      "citation": "RS 23:1627",
+      "title": "Determination in labor dispute cases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83637"
+    },
+    {
+      "order": 645,
+      "citation": "RS 23:1628",
+      "title": "Appeal referees; appointment and qualification of members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83638"
+    },
+    {
+      "order": 646,
+      "citation": "RS 23:1629",
+      "title": "Appeals to appeal referee; time for filing; notice of hearing and decision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83639"
+    },
+    {
+      "order": 647,
+      "citation": "RS 23:1630",
+      "title": "Review of decision by board of review; notice of board's decision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83641"
+    },
+    {
+      "order": 648,
+      "citation": "RS 23:1631",
+      "title": "Appeals; conduct of hearings; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83642"
+    },
+    {
+      "order": 649,
+      "citation": "RS 23:1632",
+      "title": "Conclusiveness of determination and decision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83643"
+    },
+    {
+      "order": 650,
+      "citation": "RS 23:1633",
+      "title": "Rule of decision",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83644"
+    },
+    {
+      "order": 651,
+      "citation": "RS 23:1634",
+      "title": "Judicial review; procedure",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83645"
+    },
+    {
+      "order": 652,
+      "citation": "RS 23:1635",
+      "title": "Prompt payment of claims",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83646"
+    },
+    {
+      "order": 653,
+      "citation": "RS 23:1636",
+      "title": "Hearing officers; effects of findings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83647"
+    },
+    {
+      "order": 654,
+      "citation": "RS 23:1651",
+      "title": "Office of unemployment insurance administration; creation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83650"
+    },
+    {
+      "order": 655,
+      "citation": "RS 23:1652",
+      "title": "Board of review; appointment and qualification of members; per diem compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83651"
+    },
+    {
+      "order": 656,
+      "citation": "RS 23:1653",
+      "title": "Duties and powers of administrator in general",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83652"
+    },
+    {
+      "order": 657,
+      "citation": "RS 23:1654",
+      "title": "Regulations; general and special rules; effective date",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83653"
+    },
+    {
+      "order": 658,
+      "citation": "RS 23:1655",
+      "title": "Publication of laws and regulations, etc.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83654"
+    },
+    {
+      "order": 659,
+      "citation": "RS 23:1656",
+      "title": "Personnel; appointment, compensation, duties and powers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83655"
+    },
+    {
+      "order": 660,
+      "citation": "RS 23:1657",
+      "title": "Merit system covering department personnel; applicability of state civil service laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83656"
+    },
+    {
+      "order": 661,
+      "citation": "RS 23:1657.1",
+      "title": "Criminal history information; access to federal tax information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1055311"
+    },
+    {
+      "order": 662,
+      "citation": "RS 23:1658",
+      "title": "Local advisory councils",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83657"
+    },
+    {
+      "order": 663,
+      "citation": "RS 23:1659",
+      "title": "Employment stabilization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83658"
+    },
+    {
+      "order": 664,
+      "citation": "RS 23:1660",
+      "title": "Employment records and reports; inspection by administrator; confidentiality of records; prohibition against subpoena",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83660"
+    },
+    {
+      "order": 665,
+      "citation": "RS 23:1661",
+      "title": "Oaths; witnesses",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83661"
+    },
+    {
+      "order": 666,
+      "citation": "RS 23:1662",
+      "title": "Subpoenas",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83662"
+    },
+    {
+      "order": 667,
+      "citation": "RS 23:1663",
+      "title": "Protection against self-incrimination",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83663"
+    },
+    {
+      "order": 668,
+      "citation": "RS 23:1664",
+      "title": "Federal-state cooperation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83664"
+    },
+    {
+      "order": 669,
+      "citation": "RS 23:1665",
+      "title": "Reciprocal arrangements with federal and state agencies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83665"
+    },
+    {
+      "order": 670,
+      "citation": "RS 23:1665.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860657"
+    },
+    {
+      "order": 671,
+      "citation": "RS 23:1665.2",
+      "title": "Recovery of state or federal benefit overpayments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860658"
+    },
+    {
+      "order": 672,
+      "citation": "RS 23:1665.3",
+      "title": "Combined wage claims; recovery of outstanding overpayment in transferring state",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=860659"
+    },
+    {
+      "order": 673,
+      "citation": "RS 23:1666",
+      "title": "Cooperation with State and Federal agencies; Wage Combining",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83666"
+    },
+    {
+      "order": 674,
+      "citation": "RS 23:1667",
+      "title": "Reciprocal arrangements with foreign governments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83667"
+    },
+    {
+      "order": 675,
+      "citation": "RS 23:1668",
+      "title": "State employment service; creation, duties and powers; establishment and financing of employment offices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83668"
+    },
+    {
+      "order": 676,
+      "citation": "RS 23:1669",
+      "title": "Representation in court; civil and criminal actions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83669"
+    },
+    {
+      "order": 677,
+      "citation": "RS 23:1670",
+      "title": "Lease-purchase agreements, land and buildings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83671"
+    },
+    {
+      "order": 678,
+      "citation": "RS 23:1671",
+      "title": "Death reports",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83672"
+    },
+    {
+      "order": 679,
+      "citation": "RS 23:1691",
+      "title": "Waiver of rights to benefits; agreements to pay employer contributions; discrimination against employees; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83676"
+    },
+    {
+      "order": 680,
+      "citation": "RS 23:1692",
+      "title": "Fees and costs against claimants; limitations; penalty",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83677"
+    },
+    {
+      "order": 681,
+      "citation": "RS 23:1693",
+      "title": "Assignment of benefits; exemption of benefits from levy or execution; deduction for support; deduction for overissuance of SNAP benefits",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83678"
+    },
+    {
+      "order": 682,
+      "citation": "RS 23:1711",
+      "title": "False statements or representations; failure to file reports or maintain records; duties of officers and agents; presumptive proof; penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83682"
+    },
+    {
+      "order": 683,
+      "citation": "RS 23:1711.1",
+      "title": "Independent contractor; rebuttable presumption",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=1239243"
+    },
+    {
+      "order": 684,
+      "citation": "RS 23:1712",
+      "title": "Violations of provisions, regulations or orders when penalty not otherwise prescribed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83683"
+    },
+    {
+      "order": 685,
+      "citation": "RS 23:1713",
+      "title": "Waiver of recovery and recovery of benefits improperly received by beneficiary",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83684"
+    },
+    {
+      "order": 686,
+      "citation": "RS 23:1714",
+      "title": "Penalties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83685"
+    },
+    {
+      "order": 687,
+      "citation": "RS 23:1721",
+      "title": "Alternative remedies for the collection of contributions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83686"
+    },
+    {
+      "order": 688,
+      "citation": "RS 23:1722",
+      "title": "Determination and notice of liability and contributions due",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83687"
+    },
+    {
+      "order": 689,
+      "citation": "RS 23:1723",
+      "title": "Appeal of determination; procedure; content; delays; hearings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83688"
+    },
+    {
+      "order": 690,
+      "citation": "RS 23:1724",
+      "title": "Assessment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83689"
+    },
+    {
+      "order": 691,
+      "citation": "RS 23:1725",
+      "title": "Notice of assessment; reassessment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83690"
+    },
+    {
+      "order": 692,
+      "citation": "RS 23:1726",
+      "title": "Legal effect of assessments; when collectible",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83691"
+    },
+    {
+      "order": 693,
+      "citation": "RS 23:1727",
+      "title": "Recordation and effect of notice of assessment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83692"
+    },
+    {
+      "order": 694,
+      "citation": "RS 23:1728",
+      "title": "Appeals; delays; venue; burden of proof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83693"
+    },
+    {
+      "order": 695,
+      "citation": "RS 23:1729",
+      "title": "Authority for assessments to be made executory by the courts",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83694"
+    },
+    {
+      "order": 696,
+      "citation": "RS 23:1730",
+      "title": "Procedure for making assessment executory and execution thereof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83695"
+    },
+    {
+      "order": 697,
+      "citation": "RS 23:1731",
+      "title": "Injunction to arrest execution of assessment made executory",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83696"
+    },
+    {
+      "order": 698,
+      "citation": "RS 23:1732",
+      "title": "Prescription of assessments as judgments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83697"
+    },
+    {
+      "order": 699,
+      "citation": "RS 23:1733",
+      "title": "Offset of assessments against tax refunds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83698"
+    },
+    {
+      "order": 700,
+      "citation": "RS 23:1740",
+      "title": "Alternative remedies for collection of benefit overpayments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83699"
+    },
+    {
+      "order": 701,
+      "citation": "RS 23:1740.1",
+      "title": "Costs of proceedings and other fees not required from administrator",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83700"
+    },
+    {
+      "order": 702,
+      "citation": "RS 23:1741",
+      "title": "Assessment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83701"
+    },
+    {
+      "order": 703,
+      "citation": "RS 23:1742",
+      "title": "Notice of assessment; reassessment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83702"
+    },
+    {
+      "order": 704,
+      "citation": "RS 23:1743",
+      "title": "Legal effect of assessments; when collectible",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83703"
+    },
+    {
+      "order": 705,
+      "citation": "RS 23:1744",
+      "title": "Recordation and effect of notice of assessment",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83704"
+    },
+    {
+      "order": 706,
+      "citation": "RS 23:1745",
+      "title": "Authority for assessment to be made executory",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83705"
+    },
+    {
+      "order": 707,
+      "citation": "RS 23:1746",
+      "title": "Procedure for making assessment executory and execution thereof",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83706"
+    },
+    {
+      "order": 708,
+      "citation": "RS 23:1747",
+      "title": "Injunction to arrest execution of assessment made executory",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83707"
+    },
+    {
+      "order": 709,
+      "citation": "RS 23:1748",
+      "title": "Prescription of assessments as judgments",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83708"
+    },
+    {
+      "order": 710,
+      "citation": "RS 23:1749",
+      "title": "Offset of assessments against tax refunds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83709"
+    },
+    {
+      "order": 711,
+      "citation": "RS 23:1749.1",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814814"
+    },
+    {
+      "order": 712,
+      "citation": "RS 23:1749.2",
+      "title": "Notice of overpayment delinquency; suspension of license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814815"
+    },
+    {
+      "order": 713,
+      "citation": "RS 23:1749.3",
+      "title": "Objection to suspension of license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814816"
+    },
+    {
+      "order": 714,
+      "citation": "RS 23:1749.4",
+      "title": "Administrative hearing",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814818"
+    },
+    {
+      "order": 715,
+      "citation": "RS 23:1749.5",
+      "title": "Certification of noncompliance",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814819"
+    },
+    {
+      "order": 716,
+      "citation": "RS 23:1749.6",
+      "title": "Suspension of license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814820"
+    },
+    {
+      "order": 717,
+      "citation": "RS 23:1749.7",
+      "title": "Subsequent compliance with overpayment obligation; compliance releases",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814821"
+    },
+    {
+      "order": 718,
+      "citation": "RS 23:1749.8",
+      "title": "Reissuance of license",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814822"
+    },
+    {
+      "order": 719,
+      "citation": "RS 23:1750",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83710"
+    },
+    {
+      "order": 720,
+      "citation": "RS 23:1750.1",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83711"
+    },
+    {
+      "order": 721,
+      "citation": "RS 23:1750.2",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83713"
+    },
+    {
+      "order": 722,
+      "citation": "RS 23:1750.3",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83714"
+    },
+    {
+      "order": 723,
+      "citation": "RS 23:1750.4",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83715"
+    },
+    {
+      "order": 724,
+      "citation": "RS 23:1750.5",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83716"
+    },
+    {
+      "order": 725,
+      "citation": "RS 23:1750.6",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83717"
+    },
+    {
+      "order": 726,
+      "citation": "RS 23:1750.7",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83718"
+    },
+    {
+      "order": 727,
+      "citation": "RS 23:1750.8",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83719"
+    },
+    {
+      "order": 728,
+      "citation": "RS 23:1750.9",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83720"
+    },
+    {
+      "order": 729,
+      "citation": "RS 23:1750.10",
+      "title": "Repealed by Acts 2014, No. 550, §1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83712"
+    },
+    {
+      "order": 730,
+      "citation": "RS 23:1761",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83721"
+    },
+    {
+      "order": 731,
+      "citation": "RS 23:1762",
+      "title": "Exemptions and exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83722"
+    },
+    {
+      "order": 732,
+      "citation": "RS 23:1763",
+      "title": "Rights and responsibilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83723"
+    },
+    {
+      "order": 733,
+      "citation": "RS 23:1764",
+      "title": "Registration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83724"
+    },
+    {
+      "order": 734,
+      "citation": "RS 23:1765",
+      "title": "Application for registration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83725"
+    },
+    {
+      "order": 735,
+      "citation": "RS 23:1766",
+      "title": "Rejection of application for registration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83726"
+    },
+    {
+      "order": 736,
+      "citation": "RS 23:1767",
+      "title": "Terms of registration; renewal; revocation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83727"
+    },
+    {
+      "order": 737,
+      "citation": "RS 23:1768",
+      "title": "Professional employer services agreement requirements",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83728"
+    },
+    {
+      "order": 738,
+      "citation": "RS 23:1769",
+      "title": "Electronic registration; registration through an approved assurance organization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=814823"
+    },
+    {
+      "order": 739,
+      "citation": "RS 23:1771",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452220"
+    },
+    {
+      "order": 740,
+      "citation": "RS 23:1772",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452221"
+    },
+    {
+      "order": 741,
+      "citation": "RS 23:1773",
+      "title": "Louisiana Voluntary Disclosure Program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452222"
+    },
+    {
+      "order": 742,
+      "citation": "RS 23:1774",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452223"
+    },
+    {
+      "order": 743,
+      "citation": "RS 23:1775",
+      "title": "Voluntary Disclosure Agreements; unemployment tax",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452225"
+    },
+    {
+      "order": 744,
+      "citation": "RS 23:1776",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=452226"
+    },
+    {
+      "order": 745,
+      "citation": "RS 23:1801",
+      "title": "Workforce solutions; development; coordination with employers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83729"
+    },
+    {
+      "order": 746,
+      "citation": "RS 23:1802",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83730"
+    },
+    {
+      "order": 747,
+      "citation": "RS 23:1803",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83731"
+    },
+    {
+      "order": 748,
+      "citation": "RS 23:1804",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83732"
+    },
+    {
+      "order": 749,
+      "citation": "RS 23:1805",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83733"
+    },
+    {
+      "order": 750,
+      "citation": "RS 23:1806",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83734"
+    },
+    {
+      "order": 751,
+      "citation": "RS 23:1807",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83735"
+    },
+    {
+      "order": 752,
+      "citation": "RS 23:1808",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83736"
+    },
+    {
+      "order": 753,
+      "citation": "RS 23:1809",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83737"
+    },
+    {
+      "order": 754,
+      "citation": "RS 23:1821",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83740"
+    },
+    {
+      "order": 755,
+      "citation": "RS 23:1822",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83741"
+    },
+    {
+      "order": 756,
+      "citation": "RS 23:1823",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83742"
+    },
+    {
+      "order": 757,
+      "citation": "RS 23:1824",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83743"
+    },
+    {
+      "order": 758,
+      "citation": "RS 23:1825",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83744"
+    },
+    {
+      "order": 759,
+      "citation": "RS 23:1826",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83745"
+    },
+    {
+      "order": 760,
+      "citation": "RS 23:1827",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83746"
+    },
+    {
+      "order": 761,
+      "citation": "RS 23:1828",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83747"
+    },
+    {
+      "order": 762,
+      "citation": "RS 23:1829",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83748"
+    },
+    {
+      "order": 763,
+      "citation": "RS 23:1830",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83750"
+    },
+    {
+      "order": 764,
+      "citation": "RS 23:1831",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83751"
+    },
+    {
+      "order": 765,
+      "citation": "RS 23:1832",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83752"
+    },
+    {
+      "order": 766,
+      "citation": "RS 23:1841",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83755"
+    },
+    {
+      "order": 767,
+      "citation": "RS 23:1842",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83756"
+    },
+    {
+      "order": 768,
+      "citation": "RS 23:1843",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83757"
+    },
+    {
+      "order": 769,
+      "citation": "RS 23:1844",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83758"
+    },
+    {
+      "order": 770,
+      "citation": "RS 23:1845",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83759"
+    },
+    {
+      "order": 771,
+      "citation": "RS 23:1846",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83760"
+    },
+    {
+      "order": 772,
+      "citation": "RS 23:1851",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83762"
+    },
+    {
+      "order": 773,
+      "citation": "RS 23:1852",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83763"
+    },
+    {
+      "order": 774,
+      "citation": "RS 23:1853",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83764"
+    },
+    {
+      "order": 775,
+      "citation": "RS 23:1854",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83765"
+    },
+    {
+      "order": 776,
+      "citation": "RS 23:1855",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83766"
+    },
+    {
+      "order": 777,
+      "citation": "RS 23:1861",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83768"
+    },
+    {
+      "order": 778,
+      "citation": "RS 23:1862",
+      "title": "Repealed by Acts 2015, No. 426, §7.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83769"
+    },
+    {
+      "order": 779,
+      "citation": "RS 23:1871",
+      "title": "Repealed by Acts 2008, No. 534, §4, eff. June 30, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83771"
+    },
+    {
+      "order": 780,
+      "citation": "RS 23:2001",
+      "title": "PHYSICALLY HANDICAPPED",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83783"
+    },
+    {
+      "order": 781,
+      "citation": "RS 23:2002",
+      "title": "Repealed by Acts 2001, No. 1137, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83784"
+    },
+    {
+      "order": 782,
+      "citation": "RS 23:2003",
+      "title": "Repealed by Acts 2001, No. 1137, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83785"
+    },
+    {
+      "order": 783,
+      "citation": "RS 23:2004",
+      "title": "Repealed by Acts 2001, No. 1137, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83786"
+    },
+    {
+      "order": 784,
+      "citation": "RS 23:2005",
+      "title": "Repealed by Acts 2001, No. 1137, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83787"
+    },
+    {
+      "order": 785,
+      "citation": "RS 23:2006",
+      "title": "Repealed by Acts 2001, No. 1137, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83788"
+    },
+    {
+      "order": 786,
+      "citation": "RS 23:2007",
+      "title": "Repealed by Acts 2001, No. 1137, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83789"
+    },
+    {
+      "order": 787,
+      "citation": "RS 23:2008",
+      "title": "Repealed by Acts 2001, No. 1137, 1.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83790"
+    },
+    {
+      "order": 788,
+      "citation": "RS 23:2021",
+      "title": "Equal Pay Commission; creation; purposes",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83791"
+    },
+    {
+      "order": 789,
+      "citation": "RS 23:2022",
+      "title": "Composition of commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83792"
+    },
+    {
+      "order": 790,
+      "citation": "RS 23:2023",
+      "title": "Meetings; staff; data",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83793"
+    },
+    {
+      "order": 791,
+      "citation": "RS 23:2024",
+      "title": "Findings and recommendations; termination of commission",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83794"
+    },
+    {
+      "order": 792,
+      "citation": "RS 23:2041",
+      "title": "Legislative declaration",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83795"
+    },
+    {
+      "order": 793,
+      "citation": "RS 23:2042",
+      "title": "Louisiana Workforce Investment Council; creation; purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83796"
+    },
+    {
+      "order": 794,
+      "citation": "RS 23:2043",
+      "title": "Members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83797"
+    },
+    {
+      "order": 795,
+      "citation": "RS 23:2044",
+      "title": "Qualifications",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83798"
+    },
+    {
+      "order": 796,
+      "citation": "RS 23:2045",
+      "title": "Chairman and vice chairman",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83799"
+    },
+    {
+      "order": 797,
+      "citation": "RS 23:2046",
+      "title": "Terms",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83800"
+    },
+    {
+      "order": 798,
+      "citation": "RS 23:2047",
+      "title": "Vacancies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83801"
+    },
+    {
+      "order": 799,
+      "citation": "RS 23:2048",
+      "title": "Removal of members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83802"
+    },
+    {
+      "order": 800,
+      "citation": "RS 23:2049",
+      "title": "Council meetings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83803"
+    },
+    {
+      "order": 801,
+      "citation": "RS 23:2050",
+      "title": "Domicile",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83804"
+    },
+    {
+      "order": 802,
+      "citation": "RS 23:2051",
+      "title": "Designees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83805"
+    },
+    {
+      "order": 803,
+      "citation": "RS 23:2052",
+      "title": "Compensation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83806"
+    },
+    {
+      "order": 804,
+      "citation": "RS 23:2053",
+      "title": "Staff",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83807"
+    },
+    {
+      "order": 805,
+      "citation": "RS 23:2054",
+      "title": "Funding",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83808"
+    },
+    {
+      "order": 806,
+      "citation": "RS 23:2055",
+      "title": "Rulemaking authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83809"
+    },
+    {
+      "order": 807,
+      "citation": "RS 23:2056",
+      "title": "Executive organization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83810"
+    },
+    {
+      "order": 808,
+      "citation": "RS 23:2061",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83811"
+    },
+    {
+      "order": 809,
+      "citation": "RS 23:2062",
+      "title": "Goals",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83812"
+    },
+    {
+      "order": 810,
+      "citation": "RS 23:2063",
+      "title": "Strategic plan",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83813"
+    },
+    {
+      "order": 811,
+      "citation": "RS 23:2064",
+      "title": "Repealed by Acts 2008, No. 743, §5, eff. July 1, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83814"
+    },
+    {
+      "order": 812,
+      "citation": "RS 23:2065",
+      "title": "Council duties and functions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83815"
+    },
+    {
+      "order": 813,
+      "citation": "RS 23:2066",
+      "title": "Job placement information; occupational information",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83816"
+    },
+    {
+      "order": 814,
+      "citation": "RS 23:2067",
+      "title": "Integration of job training programs",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83817"
+    },
+    {
+      "order": 815,
+      "citation": "RS 23:2068",
+      "title": "Repealed by Acts 2008, No. 743, §5, eff. July 1, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83818"
+    },
+    {
+      "order": 816,
+      "citation": "RS 23:2069",
+      "title": "Required information; exceptions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83819"
+    },
+    {
+      "order": 817,
+      "citation": "RS 23:2070",
+      "title": "Authority",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83820"
+    },
+    {
+      "order": 818,
+      "citation": "RS 23:2071",
+      "title": "Repealed by Acts 2001, No. 1185, 10, eff. July 1, 2002.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83821"
+    },
+    {
+      "order": 819,
+      "citation": "RS 23:2091",
+      "title": "Transfer of state advisory council responsibilities",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83822"
+    },
+    {
+      "order": 820,
+      "citation": "RS 23:2092",
+      "title": "Organizational structure of standing committees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83823"
+    },
+    {
+      "order": 821,
+      "citation": "RS 23:2093",
+      "title": "Repealed by Acts 2008, No. 743, §5, eff. July 1, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83824"
+    },
+    {
+      "order": 822,
+      "citation": "RS 23:2094",
+      "title": "Repealed by Acts 2008, No. 743, §5, eff. July 1, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83825"
+    },
+    {
+      "order": 823,
+      "citation": "RS 23:2095",
+      "title": "Repealed by Acts 2008, No. 743, §5, eff. July 1, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83826"
+    },
+    {
+      "order": 824,
+      "citation": "RS 23:2096",
+      "title": "Repealed by Acts 2008, No. 743, §5, eff. July 1, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83827"
+    },
+    {
+      "order": 825,
+      "citation": "RS 23:2097",
+      "title": "Repealed by Acts 2008, No. 743, §5, eff. July 1, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83828"
+    },
+    {
+      "order": 826,
+      "citation": "RS 23:2098",
+      "title": "Repealed by Acts 2008, No. 743, §5, eff. July 1, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83829"
+    },
+    {
+      "order": 827,
+      "citation": "RS 23:2099",
+      "title": "Repealed by Acts 2008, No. 743, §5, eff. July 1, 2008.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83830"
+    },
+    {
+      "order": 828,
+      "citation": "RS 23:2100",
+      "title": "Federal support and waivers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83831"
+    },
+    {
+      "order": 829,
+      "citation": "RS 23:2151",
+      "title": "Council recommendations; cooperation with state agencies, departments, and offices",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83838"
+    },
+    {
+      "order": 830,
+      "citation": "RS 23:2152",
+      "title": "Provision of services by state agencies",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83839"
+    },
+    {
+      "order": 831,
+      "citation": "RS 23:2153",
+      "title": "Data; standardization",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83840"
+    },
+    {
+      "order": 832,
+      "citation": "RS 23:2191",
+      "title": "Workforce development boards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83844"
+    },
+    {
+      "order": 833,
+      "citation": "RS 23:2192",
+      "title": "Designation of workforce development areas",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=83845"
+    },
+    {
+      "order": 834,
+      "citation": "RS 23:2193",
+      "title": "Creation of local workforce development boards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631200"
+    },
+    {
+      "order": 835,
+      "citation": "RS 23:2194",
+      "title": "Training for local workforce development board members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631201"
+    },
+    {
+      "order": 836,
+      "citation": "RS 23:2195",
+      "title": "Certification of boards",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631202"
+    },
+    {
+      "order": 837,
+      "citation": "RS 23:2196",
+      "title": "Board membership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631203"
+    },
+    {
+      "order": 838,
+      "citation": "RS 23:2197",
+      "title": "Removal of workforce development board members",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631204"
+    },
+    {
+      "order": 839,
+      "citation": "RS 23:2198",
+      "title": "Presiding officer",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631205"
+    },
+    {
+      "order": 840,
+      "citation": "RS 23:2199",
+      "title": "Responsibility of the board",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631206"
+    },
+    {
+      "order": 841,
+      "citation": "RS 23:2200",
+      "title": "Board duties",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631207"
+    },
+    {
+      "order": 842,
+      "citation": "RS 23:2201",
+      "title": "Board committees",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631208"
+    },
+    {
+      "order": 843,
+      "citation": "RS 23:2202",
+      "title": "Technical advisory groups",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631209"
+    },
+    {
+      "order": 844,
+      "citation": "RS 23:2203",
+      "title": "Components of local workforce development system",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631210"
+    },
+    {
+      "order": 845,
+      "citation": "RS 23:2204",
+      "title": "Local and regional workforce development plans",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631211"
+    },
+    {
+      "order": 846,
+      "citation": "RS 23:2205",
+      "title": "Budget",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631212"
+    },
+    {
+      "order": 847,
+      "citation": "RS 23:2206",
+      "title": "Report",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631213"
+    },
+    {
+      "order": 848,
+      "citation": "RS 23:2207",
+      "title": "Approval of fiscal agent",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631214"
+    },
+    {
+      "order": 849,
+      "citation": "RS 23:2208",
+      "title": "Contracting for service delivery",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631215"
+    },
+    {
+      "order": 850,
+      "citation": "RS 23:2209",
+      "title": "Conflicts of interest",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631217"
+    },
+    {
+      "order": 851,
+      "citation": "RS 23:2210",
+      "title": "Incentives and waivers",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631218"
+    },
+    {
+      "order": 852,
+      "citation": "RS 23:2211",
+      "title": "Nonprofit status; ability to solicit funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631220"
+    },
+    {
+      "order": 853,
+      "citation": "RS 23:2212",
+      "title": "Staff",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=631221"
+    },
+    {
+      "order": 854,
+      "citation": "RS 23:2213",
+      "title": "Conflict of laws",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=963990"
+    },
+    {
+      "order": 855,
+      "citation": "RS 23:3001",
+      "title": "Acceptance of federal act to promote vocational rehabilitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727019"
+    },
+    {
+      "order": 856,
+      "citation": "RS 23:3002",
+      "title": "State treasurer as custodian of federal funds",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727020"
+    },
+    {
+      "order": 857,
+      "citation": "RS 23:3003",
+      "title": "Donations; department's authority to receive",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727021"
+    },
+    {
+      "order": 858,
+      "citation": "RS 23:3004",
+      "title": "Fees for vocational work evaluation services performed by Louisiana Works",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727022"
+    },
+    {
+      "order": 859,
+      "citation": "RS 23:3021",
+      "title": "Prevention of blindness, vocational training, and rehabilitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727023"
+    },
+    {
+      "order": 860,
+      "citation": "RS 23:3022",
+      "title": "Powers of Louisiana Rehabilitation Services",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727024"
+    },
+    {
+      "order": 861,
+      "citation": "RS 23:3023",
+      "title": "Priority to individuals who are blind in operation of concessions in public buildings",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727025"
+    },
+    {
+      "order": 862,
+      "citation": "RS 23:3024",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727026"
+    },
+    {
+      "order": 863,
+      "citation": "RS 23:3025",
+      "title": "Repealed",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727027"
+    },
+    {
+      "order": 864,
+      "citation": "RS 23:3031",
+      "title": "Repealed by Acts 2014, No. 761, §3, eff. June 19, 2014.",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727028"
+    },
+    {
+      "order": 865,
+      "citation": "RS 23:3032",
+      "title": "Exemption of persons who are blind from license, privilege, or vocational tax; limitation",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727029"
+    },
+    {
+      "order": 866,
+      "citation": "RS 23:3033",
+      "title": "Exemptions; when applicable",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727030"
+    },
+    {
+      "order": 867,
+      "citation": "RS 23:3041",
+      "title": "Purpose",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727031"
+    },
+    {
+      "order": 868,
+      "citation": "RS 23:3042",
+      "title": "Definitions",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727032"
+    },
+    {
+      "order": 869,
+      "citation": "RS 23:3043",
+      "title": "Blind Vendors Trust Fund",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727033"
+    },
+    {
+      "order": 870,
+      "citation": "RS 23:3044",
+      "title": "Blind Vendors Trust Fund Board; creation; membership",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727034"
+    },
+    {
+      "order": 871,
+      "citation": "RS 23:3045",
+      "title": "Expenditures",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727035"
+    },
+    {
+      "order": 872,
+      "citation": "RS 23:3061",
+      "title": "Louisiana Works of Federal Independent Living Program",
+      "url": "https://www.legis.la.gov/legis/Law.aspx?d=727036"
+    }
+  ]
+}

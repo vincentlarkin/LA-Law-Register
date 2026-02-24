@@ -1,0 +1,13 @@
+RS 51:2004
+Civil actions
+https://www.legis.la.gov/legis/Law.aspx?d=411232
+
+§2004.  Civil actions
+A.  Any person whose property or person is injured by reason of a violation of any provision of this Chapter may recover for any damages sustained and the costs of suit.  For the purposes of this Section, the term "damages" shall include but not be limited to loss of profits.
+B.  If the injury arises from the transmission of unsolicited or commercial electronic mail messages, the injured person, other than an electronic mail service provider, may also recover attorney fees and costs and may elect, in lieu of actual damages, to recover the lesser of ten dollars for each and every unsolicited commercial electronic mail message transmitted in violation of this Chapter, or twenty-five thousand dollars per day.  The injured person shall not have a cause of action against the electronic mail service provider, which merely transmits the unsolicited commercial electronic mail message over its computer network.
+C.  If the injury arises from the transmission of unsolicited or commercial electronic mail messages, an injured electronic mail service provider may also recover attorney fees and costs and may elect, in lieu of actual damages, to recover the lesser of ten dollars for each and every unsolicited commercial electronic mail message transmitted in violation of this Chapter, or twenty-five thousand dollars per day.
+D.  At the request of any party to an action brought pursuant to this Section, the court may, in its discretion, conduct all legal proceedings in such a way as to protect the secrecy and security of the computer, computer network, computer data, computer program, and computer software involved in order to prevent possible recurrence of the same or a similar act by another person and to protect any trade secrets of any party.
+E.  An electronic mail service provider shall not be deemed in violation of this Chapter and the injured party shall not have a cause of action against an electronic mail service provider due to the fact that the electronic mail service provider:
+(1)  Is an intermediary between the sender and recipient in the transmission of an electronic mail that violates this Chapter.
+(2)  Provides transmission of unsolicited commercial electronic mail messages over the provider's computer network or facilities or shall be liable for any action it voluntarily takes in good faith to block the receipt or transmission through its service of any electronic mail advertisements that it believes is or will be sent in violation of this Chapter.
+Acts 2003, No. 1275, §1.

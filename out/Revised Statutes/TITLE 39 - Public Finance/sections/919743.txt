@@ -1,0 +1,24 @@
+RS 39:1438
+Issuers of securities; continuing disclosure requirements; audit requirements
+https://www.legis.la.gov/legis/Law.aspx?d=919743
+
+§1438.  Issuers of securities; continuing disclosure requirements; audit requirements
+A.  Definitions.  For purposes of this Section:
+(1)  "Auditor" means the legislative auditor or any private accounting firm which prepares the annual financial audit of a public entity under rules of the legislative auditor regarding the audit of governmental entities, quasi-governmental entities, or entities otherwise subject to public audit by the legislative auditor.
+(2)  "Continuing disclosure agreement" means any agreement entered into by an obligated person which sets forth the continuing disclosure obligations of such obligated person pursuant to the SEC rule.
+(3)  "EMMA" means the Electronic Municipal Market Access system maintained by the Municipal Securities Rulemaking Board.
+(4)  "Issuer" means any "issuer of municipal securities" as defined in the SEC rule.
+(5)  "Municipal securities" means any securities which are issued by a public entity which are subject to continuing disclosure under the SEC rule.
+(6)  "Obligated person" has the meaning defined in the SEC rule.
+(7)  "Public entity" means the state, its agencies, departments, boards, commissions, parishes, municipalities, school boards, special districts, special authorities, and any other political subdivision or other entity created by any of the foregoing.
+(8)  "SEC rule" means the municipal securities continuing disclosure rule of the United States Securities and Exchange Commission codified as Section 240.15c2-12 of Title 17 of the Code of Federal Regulations, together with all corresponding rules, updates, notices, and interpretations of the United States Securities and Exchange Commission and the Municipal Securities Rulemaking Board, as may be amended from time to time.
+B.  Findings and purpose.  The legislature recognizes that public entities often act as issuer or obligated persons of municipal securities and therefore are often subject to the SEC rule, which was established in order to provide municipal securities investors with more timely and transparent access to financial and other material information while such securities remain outstanding.  The legislature finds that the continuing disclosure requirements of the SEC rule are in the public interest, and now desires to establish procedures to provide for compliance and audit with respect to municipal securities issued in the state.
+C.  Recordkeeping.  (1)  Every public entity shall continuously maintain:
+(a)  A list of all Louisiana municipal securities for which the public entity is the issuer or an obligated person.
+(b)  A copy of all continuing disclosure agreements to which the public entity is a party.
+(c)  If, pursuant to a continuing disclosure agreement to which the public entity is a party, the public entity is responsible for filing notices of changes in bond ratings, a list of current ratings for such securities, if any.
+(2)  All records required to be kept by a public entity under this Section shall be subject to inspection by the public entity's auditor.
+D.  Audit.  As part of its annual financial audit of a public entity, a public entity's auditor shall:
+(1)  Review the public entity's compliance with the recordkeeping requirements of this Section.
+(2)  Review a sample of the public entity's filings on EMMA to determine if such filings are in compliance with the continuing disclosure agreements to which the public entity is a party.
+Acts 2014, No. 463, §1.

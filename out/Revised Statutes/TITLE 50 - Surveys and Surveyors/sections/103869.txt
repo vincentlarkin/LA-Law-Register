@@ -1,0 +1,16 @@
+RS 50:3
+Linear units defined
+https://www.legis.la.gov/legis/Law.aspx?d=103869
+
+§3.  Linear units defined
+A.  The plane coordinates used to express the position or location of a point on the
+earth's surface within an appropriate plane coordinate system zone shall consist of two
+distances which shall be expressed in meters and decimals of a meter or in feet and decimals
+of a foot.  One of these distances, to be known as the East or X-coordinate, shall give the
+distance east of the Y-axis; the other distance, to be known as the North or Y-coordinate,
+shall give the distance north of the X-axis.  The Y-axis of any zone shall be parallel with the
+central meridian of that zone.  The X-axis of any zone shall be at right angles to the central
+meridian of that zone.
+B.  When the values are expressed in feet, the U.S. survey foot shall be used as the
+standard foot for the Louisiana Plane Coordinate System.
+Acts 1985, No. 913, §1; Acts 2024, No. 626, §2.

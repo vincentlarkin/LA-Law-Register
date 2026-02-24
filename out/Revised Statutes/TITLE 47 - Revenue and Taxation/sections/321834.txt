@@ -1,0 +1,12 @@
+RS 47:818.26
+Returns required of importers
+https://www.legis.la.gov/legis/Law.aspx?d=321834
+
+§818.26.  Returns required of importers
+A.  The monthly return of an importer shall contain the following information for the period covered by the return and any other information required by the secretary:
+(1)  The number of net gallons of imported gasoline or diesel fuel acquired from a supplier or permissive supplier who collected the tax due this state on the product sorted by product code, seller, point of origin, terminal code, and date of acquisition.
+(2)  The number of net gallons of imported gasoline or diesel fuel acquired from a person who did not collect the tax due this state on the gasoline or diesel fuel, sorted by product type, source state, seller, terminal code, and date of acquisition.
+(3)  The number of net gallons of imported gasoline or diesel fuel acquired from a bulk plant outside this state, sorted by bulk plant name, address, product code, and date of acquisition.
+B.  An importer that imports, by transport vehicle or another means of transfer outside the bulk transfer/terminal system, any gasoline or diesel fuel removed from a rack located in another state that does not require the seller of the gasoline or diesel fuel to collect the tax on the removal either at that state's rate or the rate of the destination state and the seller of the gasoline or diesel fuel is not a licensed supplier or permissive supplier, is responsible for the remission of the tax on the product so imported.
+C.  The return filed by the importer shall be due by the fifteenth day of the month following the period covered by the return.
+Acts 2005, No. 252, §1, eff. July 1, 2006.

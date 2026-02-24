@@ -1,0 +1,109 @@
+RS 39:199
+Methods of procurement
+https://www.legis.la.gov/legis/Law.aspx?d=96258
+
+§199.  Methods of procurement
+A.  The office of technology services, through the state procurement office, may
+procure information technology systems and information technology services by a request
+for proposals to conform with the following requirements:
+(1)  Public notice of the request for proposals shall be the same as for an invitation
+to bid as provided in R.S. 39:1594(C).
+(2)(a)  The request for proposals shall indicate the relative importance of all
+evaluation factors and shall clearly define the work, service, or solution to be provided under
+the contract, the functional specifications, the criteria to be used in evaluating the proposals,
+and the time frames within which the work must be completed or the service provided.
+(b)  For information systems lease contracts, the request for proposals shall require
+that proposals contain a declaration as to the maximum price for which the system may be
+purchased following the termination of the lease contract.  No other basis of evaluation shall
+be used except that set out in the request for proposals.
+(3)  The office of technology services shall evaluate all proposals to determine the
+proposal most advantageous to the state, taking into consideration all evaluation criteria set
+forth in the request for proposals, and shall make a recommendation of award to the state
+procurement office.
+(4)  The office of technology services may request that the state procurement office
+reject all proposals when it is deemed that such action is in the best interest of the state.
+B.  The office of technology services may procure information technology systems
+and information technology services in accordance with the law or regulations, or both,
+which govern the state procurement office, the division of administration.
+C.  Method for procuring maintenance services.  Notwithstanding any other
+provisions of this Part, any agency may procure maintenance services for information
+technology equipment without the need for competitive bidding.  Such procurement must
+have the written advance approval of the office of state procurement and shall not be for a
+price greater than the vendor's published price.
+D. Method for procuring software and software maintenance and support services.
+(1) Notwithstanding any other provisions of this Part, any agency may procure data
+processing software, software maintenance, and support services without the need for
+competitive bidding. Such procurement must have the written advance approval of the office
+of state procurement and shall not be for a price greater than the vendor's published price.
+(2)  Additionally, any agency seeking to procure a new contract, a contract extension
+of an existing contract, or any other contract modification for software, software
+maintenance, and support services shall show evidence that the price received or negotiated
+is the lowest available price by exhibiting prices that may appear in a catalog, price list,
+schedule, on the Internet, or other form that:
+(a)  Is regularly maintained by a vendor or other contractor.
+(b)  Is either published or otherwise available for inspection by customers.
+(c)  Is available through inquiries with other states or local governments using similar
+products and services.
+(d)  Is available through statements of prices on the Internet and is currently or was
+last made to a significant number of buyers constituting the general buying public for the
+software or services involved.
+(3)  In the event that the lowest available price can not be obtained in the form or
+source as specified in Paragraph (2) of this Subsection, the agency seeking to procure a new
+contract, a contract extension of an existing contract, or any other contract modification for
+software, software maintenance, and support services shall require the vendor to certify in
+writing that the price received is the lowest price available to other states or local
+governments for similar products and services at the time the quote is submitted.
+(4)  The procurement support team shall develop and deliver to the office of state
+procurement and the office of technology services proposed rules establishing guidelines for
+procurement activities under this Part.  Upon approval of the office of technology services,
+the office of state procurement shall promulgate rules in accordance with the Administrative
+Procedure Act.
+E.  Method for procuring information technology equipment, software, and
+maintenance services for public colleges and universities. Notwithstanding any other
+provisions of this Part, any public college or university may procure, through its purchasing
+officer, information technology equipment, software, and maintenance services without the
+advance approval of the office of state procurement when a single expenditure for such
+materials or combined materials and services does not exceed one hundred fifty thousand
+dollars.
+F.(1)  The commissioner of administration shall for each fiscal year designate a goal
+for awarding to small businesses a portion of anticipated total state procurement of
+information technology equipment and software.  For purposes of this Subsection, "small
+businesses" shall be defined as an employer with fifty or fewer employees.  The
+commissioner may divide the procurements so designated into contract award units of
+economically feasible production runs in order to facilitate offers or bids from small
+businesses.  In making his annual designation of goals for small business procurements, the
+commissioner shall attempt to vary the included procurements so that a variety of
+information technology equipment and software produced by different small businesses shall
+be a goal each year.  The failure of the commissioner to establish a goal for particular
+procurements shall not be deemed to prohibit or discourage small businesses from seeking
+the procurement award through the normal solicitation and bidding processes.  The
+commissioner of administration shall report to the Joint Legislative Committee on the Budget
+and to the House Committee on Commerce and the Senate Committee on Commerce,
+Consumer Protection, and International Affairs on the program established in this Subsection
+each year prior to the submission of the executive budget. Such report shall include the goals
+and awards from the previous year, a list of unsuccessful awards as described in Paragraph
+(4) of this Subsection, and the goals for the upcoming year.
+(2)  Contract procedure.  The commissioner shall establish a contract procedure in
+accordance with law, for the awarding of a procurement contract under the goals established
+in this Subsection.  Surety bonds guaranteed by the United States Small Business
+Administration shall be acceptable security for an award under this Subsection.
+(3)  Responsibility of bidder or offeror. Before making a goal award, the
+commissioner shall evaluate whether the small business scheduled to receive the award is
+able to perform the set-aside contract.  This determination shall include consideration of
+production and financial capacity and technical competence.
+(4)  Award of contracts after unsuccessful goal procedures. In the event that the
+provisions of this Subsection do not operate to extend a contract award to a small business,
+the award shall be placed pursuant to the existing solicitation and award provisions
+established by law.  The commissioner shall thereupon designate a goal for small businesses'
+additional state procurements of information technology equipment and software
+corresponding in approximate value to the contract unable to be awarded pursuant to the
+provisions of this Subsection.
+(5)  Conflict with other code provisions.  All laws and rules pertaining to
+solicitations, bid evaluations, contract awards, and other procurement matters not
+inconsistent with the provisions of this Subsection shall apply to procurements set-aside for
+small businesses. In the event of conflict with other rules, the provisions of this Subsection
+shall govern.
+Acts 1981, No. 628, §1, eff. July 20, 1981; Acts 1983, No. 478, §2, eff. July 6, 1983;
+Acts 1985, No. 698, §1; Acts 2001, No. 772, §3, eff. July 1, 2001; Acts 2006, No. 513, §1;
+Acts 2014, No. 708, §1, eff. July 1, 2014; Acts 2014, No. 712, §2, eff. July 1, 2014; Acts
+2014, No. 864, §§4 and 5; Acts 2020, No. 273, §2, eff. June 11, 2020.

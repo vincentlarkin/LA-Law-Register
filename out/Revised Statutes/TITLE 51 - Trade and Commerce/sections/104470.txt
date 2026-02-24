@@ -1,0 +1,10 @@
+RS 51:300.11
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=104470
+
+SUBPART H.  INDIVIDUAL DOMAIN NAME PROTECTION
+§300.11.  Definitions
+For purposes of this Subpart, the following terms shall have the meanings specified in this Section:
+(1)  "Domain name" means any alphanumeric designation which is registered with or assigned by any domain name registrar, domain name registry, or other domain name registration authority as part of an electronic address on the Internet.
+(2)  "Internet" means the international computer network of both federal and non-federal interoperable packet switched data networks.
+Acts 2001, No. 388, §1, eff. June 13, 2001.

@@ -1,0 +1,122 @@
+RS 40:1007
+Access to prescription monitoring information and audit trail information
+https://www.legis.la.gov/legis/Law.aspx?d=409422
+
+§1007.  Access to prescription monitoring information and audit trail information
+A.  Except as provided in Subsections C, D, E, F, G, H, and I of this Section,
+prescription monitoring information submitted to the board and audit trail information shall
+be protected health information, not subject to public or open records law, including but not
+limited to R.S. 44:1 et seq., and not subject to disclosure.  Prescription monitoring
+information and audit trail information shall not be available for civil subpoena from the
+board nor shall such information be disclosed, discoverable, or compelled to be produced in
+any civil proceeding nor shall such records be deemed admissible as evidence in any civil
+proceeding for any reason.  Notwithstanding this provision, law enforcement and
+professional licensing, certification, or regulatory agencies may utilize prescription
+monitoring information and audit trail information in the course of any investigation and
+subsequent criminal and administrative proceedings, but only in accordance with federal and
+state law and the requirements of this Part.
+B.  The board shall maintain procedures to ensure that the privacy and confidentiality
+of patients and patient information collected, recorded, transmitted, and maintained, as well
+as audit trail information, is not disclosed to persons or entities except as authorized or
+required in Subsections C through J of this Section.
+C.  The board shall review the prescription monitoring information.  If there is
+reasonable suspicion to believe a breach of professional or occupational standards may have
+occurred, the board shall notify the appropriate professional licensing agency with
+jurisdiction over prescribers or dispensers and shall provide prescription monitoring
+information required for an investigation.
+D.  The board shall provide prescription monitoring information to public or private
+entities, whether located in or outside of the state, for public research, policy, or educational
+purposes, but only after removing information that identifies or could be reasonably used to
+identify prescribers, dispensers, and individual patients or persons who received prescriptions
+from prescribers.
+E.  The following persons may access prescription monitoring information at no cost
+and in the same or similar manner, and for the same or similar purposes, as those persons are
+authorized to access similar protected health information under federal and state law and
+regulation:
+(1)  Persons authorized to prescribe or dispense controlled substances or drugs of
+concern, or their delegates as defined by rule, for the purpose of providing medical or
+pharmaceutical care for their patients, or for verifying their prescribing records.
+(2)  Designated representatives from the professional licensing, certification, or
+regulatory agencies of this state or another state charged with administrative oversight of
+those professionals engaged in the prescribing or dispensing of controlled substances or other
+drugs of concern.
+(3)  Designated representatives from the Louisiana Medicaid program regarding
+Medicaid program recipients.
+(4)  Designated representatives of the board and any vendor or contractor establishing
+or maintaining the prescription monitoring program.
+(5)  A medical examiner or coroner, or a delegate thereof, for the purpose of
+investigating an individual's death.
+(6)  A licensed substance abuse addiction counselor providing services as part of a
+state-licensed substance abuse or addiction treatment program.
+(7)  A probation or parole officer for the purpose of monitoring an offender's
+compliance with participation in a drug diversion program or with other conditions of
+probation or parole related to monitored drugs.
+(8) An epidemiologist with the Louisiana Department of Health for the purpose of
+assisting the board in analyzing prescription monitoring information in order to conduct
+public health evaluations to support public policy and education pursuant to an agreement
+with the board.
+F.  The board may provide a report containing prescription monitoring information
+upon application of local, state, out-of-state, and federal law enforcement or prosecutorial
+officials, including judicially supervised specialty courts within the criminal justice system
+that are authorized by the Louisiana Supreme Court, engaged in the administration,
+investigation, or enforcement of the laws governing controlled substances or other drugs of
+concern in compliance with and as limited by the relevant requirements of any of the
+following:
+(1)  A court order or court-ordered warrant, or a subpoena or summons issued by a
+judicial officer.
+(2)  A grand jury subpoena.
+(3)  An administrative request, including an administrative subpoena or summons,
+a civil or an authorized investigative demand, or similar process authorized under law,
+provided by law enforcement to the board, and further, provided all of the following:
+(a)  The information sought is relevant and material to a legitimate law enforcement
+inquiry.
+(b)  The request is specific and limited in scope to the extent reasonably practicable
+in light of the purpose for which the information is sought.
+(c)  De-identified information, or limited information that does not identify or could
+not reasonably lead to the identification of an individual patient, could not reasonably be
+used.
+G.  The board may provide prescription monitoring information in response to queries
+from prescription monitoring programs, electronic health information systems, and pharmacy
+information systems located in other states, territories, federal districts, and federal
+jurisdictions, through its participation in a secure interstate data exchange system.  The
+prescription monitoring information made available pursuant to this Subsection may be used
+only in a manner consistent with this Section.
+H.  The board may provide prescription monitoring information to authorized users
+of the prescription monitoring program via a state health information exchange or other third
+party conduit that has been approved by the board.
+I.  The board may provide prescription monitoring information to any of the
+following persons in accordance with procedures established by board regulation:
+(1)  An individual who requests his personal prescription monitoring information.
+(2)  A parent, legal guardian, or legal healthcare agent, for the purpose of reviewing
+the history of monitored drugs dispensed to a child or an individual for whom the agent
+makes healthcare decisions, to the extent consistent with federal and state confidentiality
+laws and regulations.
+(3)  An executor of a will, or a court-appointed succession representative of an estate,
+for the purpose of reviewing the history of monitored drugs dispensed to a deceased
+individual.
+J.  The board may disclose audit trail information to individuals identified in
+Paragraph (E)(2) and Subsections F and I of this Section for use in an active investigation
+of an individual who submitted requests for prescription monitoring information.
+K.(1)  The board and advisory council shall not be subject to civil liability,
+administrative action, or other legal or equitable relief for any of the following:
+(a)  Failure to possess prescription monitoring information that was not reported to
+the board.
+(b)  Release of prescription monitoring information or audit trail information that was
+factually incorrect.
+(c)  Release of prescription monitoring information or audit trail information to the
+wrong person or entity.
+(d)  Unlawful access to prescription monitoring information by an individual, or
+unlawful disclosure or use of prescription monitoring information by an individual who
+requested and received prescription monitoring information pursuant to this Section.
+(2)  A dispenser or reporting agent shall not be subject to civil liability, administrative
+action, or other legal or equitable relief for reporting prescription monitoring information to
+the board.
+(3)  A prescriber, dispenser, or other individual, agency, or entity in proper possession
+of prescription monitoring information or audit trail information pursuant to this Part shall
+not be subject to civil liability, administrative action, or other legal or equitable relief for
+accessing, using, or disclosing prescription monitoring information or audit trail information
+pursuant to the provisions of this Section.
+Acts 2006, No. 676, §1, eff. July 1, 2006; Acts 2010, No. 488, §1, eff. June 22, 2010;
+Acts 2012, No. 352, §1; Acts 2013, No. 110, §1; Acts 2015, No. 22, §1; Acts 2017, No. 241,
+§1, eff. June 14, 2017; Acts 2018, No. 206, §4; Acts 2018, No. 232, §1; Acts 2019, No. 80,
+§1.

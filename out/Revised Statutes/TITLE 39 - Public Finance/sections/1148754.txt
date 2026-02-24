@@ -1,0 +1,23 @@
+RS 39:17.1
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1148754
+
+SUBPART E.  DIGITIZED CREDENTIALS
+§17.1.  Definitions
+As used in this Subpart, the following terms shall have the meanings ascribed as
+follows:
+(1)   "Credential" means any document, certificate, identification, license, permit, or
+card indicating the user's status, right, privilege, classification, permission, entitlement,
+authority, or coverage.
+(2)  "Current status" includes but is not limited to valid, expired, cancelled,
+suspended, disqualified, active, inactive, member, nonmember, eligible, or ineligible.
+(3)  "Digitized credential" means a credential relayed in a data file available on any
+mobile device which has connectivity to the internet through an application that allows the
+mobile device to download the data file from the department, office, agency, company,
+division, university, school, board, commission, or other applicable entity and contains all
+of the data elements visible on the face and back of the credential, and also displays the
+current status of the credential.
+(4)  "Electronic wallet" refers to an electronic or online service or application that
+allows an individual to store credentials in order to access the credentials from a mobile
+device.
+Acts 2019, No. 220, §1, eff. June 11, 2019.

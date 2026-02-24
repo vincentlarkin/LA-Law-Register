@@ -1,0 +1,10 @@
+RS 47:60
+Deductions from gross income; losses by individuals
+https://www.legis.la.gov/legis/Law.aspx?d=102354
+
+§60.  Deductions from gross income; losses by individuals
+In computing the net income of an individual, deductions shall be allowed for losses sustained during the taxable year and not compensated for by insurance or otherwise:
+(1)  If incurred in trade or business; or
+(2)  If incurred in any transaction entered into for profit, though not connected with the trade or business; or
+(3)  Of property not connected with the trade or business, if the loss arises from fires, storms, shipwrecks, or other casualty or from theft.  No loss shall be allowed as a deduction under this subsection if at the time of filing of the return such loss had been claimed as a deduction for estate tax purposes in the estate tax return.
+The basis for determining the amount of deduction for such losses shall be the adjusted basis provided in R.S. 47:139 for determining the loss from the sale or other disposition of property.

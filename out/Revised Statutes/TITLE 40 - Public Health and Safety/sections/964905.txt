@@ -1,0 +1,220 @@
+RS 40:1253.2
+Medicaid managed care program; reporting
+https://www.legis.la.gov/legis/Law.aspx?d=964905
+
+§1253.2.  Medicaid managed care program; reporting
+A. The Louisiana Department of Health shall submit an annual report concerning the
+Louisiana Medicaid managed care program and, if not included within that program, any
+managed care program providing dental benefits to Medicaid enrollees to the senate and
+house committees on health and welfare. The department shall submit the report by June
+thirtieth every year, and the applicable reporting period shall be for the previous state fiscal
+year except for those measures that require reporting of health outcomes which shall be
+reported for the calendar year prior to the current state fiscal year. The report shall include:
+(1)  Except when inapplicable due to the types of healthcare benefits administered by
+the particular managed care organization, the following information related to the managed
+care organizations contracted with the state to provide Medicaid-covered healthcare services
+to Medicaid enrollees:
+(a)  The name of each managed care organization that has contracted with the
+Louisiana Department of Health to provide healthcare services to Medicaid enrollees.
+(b)  The total number of employees employed by each managed care organization
+which is based in Louisiana and the average salary paid to those employees.
+(c)  The amount of the total payments and average per member per month payment
+paid by the state to each managed care organization delineated monthly.
+(d)  The total number of healthcare providers contracted to provide healthcare
+services for each managed care organization delineated by provider type, provider taxonomy
+code, and parish.
+(e)  The total number of providers contracted to provide healthcare services for each
+managed care organization that provides primary care services and submitted at least one
+claim for payment for services rendered to an individual enrolled in the health plan
+delineated by provider type, provider taxonomy code, and parish.
+(f)  The total number of providers contracted to provide healthcare services for each
+managed care organization that has a closed panel for any portion of the reporting period
+delineated by provider type, provider taxonomy code, and parish.
+(g)(i) The medical loss ratio of each managed care organization and the amount of
+any refund to the state for failure to maintain the required medical loss ratio.
+(ii) With respect to the monies comprising the managed care organization's medical
+loss ratio, the report shall include the following information:
+(aa) Total expenditures on patient care.
+(bb) Total expenditures on healthcare quality improvements.
+(cc)  Total expenditures on healthcare information technology.
+(dd) Total expenditures on goods and services other than patient care, healthcare
+quality improvements, and healthcare information technology.
+(h) A copy of the annual external quality review technical report produced pursuant
+to 42 CFR 438.364.
+(i)  A copy of the member and provider satisfaction survey report for each managed
+care organization.
+(j)  A copy of the annual audited financial statements for each managed care
+organization.  The financial statements shall be those of the managed care organization
+operating in Louisiana and shall not be those financial statements of any parent or umbrella
+organization.
+(k)  A brief factual narrative of any sanctions levied by the Louisiana Department of
+Health against a managed care organization.
+(l)  For managed care organizations that administer dental benefits, a comparison of
+oral health outcomes that includes but is not limited to the percentage of eligible patients that
+saw a dentist in that fiscal year as well as the following rates of procedures performed on
+those who saw a dentist:
+(i)  Adult oral prophylaxis.
+(ii)  Child oral prophylaxis.
+(iii)  Dental sealants.
+(iv)  Fluoride varnish.
+(v)  Amalgam fillings.
+(vi)  Composite fillings.
+(vii)  Stainless steel crowns.
+(viii)  Extractions of primary teeth.
+(ix)  Extractions of permanent teeth.
+(x)  Pulpotomies performed on primary teeth.
+(xi)  Root canals performed on permanent teeth.
+(2)  The following information regarding Medicaid enrollees receiving healthcare
+services from a managed care organization:
+(a)  The total number of unduplicated enrollees enrolled during the reporting period,
+and the monthly average of the number of members enrolled in each managed care
+organization delineated by eligibility category of the enrollees.
+(b)  The number of members who proactively chose the managed care organization,
+and the number of members who were auto-enrolled into each managed care organization,
+delineated by managed care organization.
+(c)  The total number of enrollees who received unduplicated Medicaid services from
+each managed care network, broken down by provider type, provider taxonomy code, and
+place of service.
+(d)  The total number and percentage of enrollees of each managed care organization
+who had at least one visit with their primary care provider during the reporting period.
+(e)  The following information concerning hospital services provided to Medicaid
+enrollees:
+(i)  The number of members who received unduplicated outpatient emergency
+services, delineated by managed care organization.
+(ii)  The number of total inpatient Medicaid days delineated by managed care
+organization.
+(iii)  The total number of unduplicated members who received outpatient emergency
+services and had at least one visit to a primary care provider within the past year of receiving
+the outpatient emergency services.
+(f)  The number of members, delineated by each managed care organization, who
+filed an appeal, the number of members who accessed the state fair hearing process, and the
+total number and percentage of appeals that reversed or otherwise resolved a decision in
+favor of the member.  For purposes of this Subparagraph, "appeal" means a request for
+review of an action.
+(3)  The following information related to healthcare services provided by healthcare
+providers to Medicaid enrollees enrolled in each of the managed care organizations:
+(a)  The total number of claims submitted by healthcare providers to each managed
+care organization.  The total number shall also be delineated by claims for emergency
+services and claims for nonemergency services.
+(b)  The total number of claims submitted by healthcare providers to each managed
+care organization which were adjudicated by the respective managed care organization and
+payment for services was denied.  This item of the report shall include a delineation between
+emergency and nonemergency claim denials. Additionally, this item of the report shall
+include the number of denied claims for each managed care organization delineated by the
+standard set of Claim Adjustment Reason Codes published by the Washington Publishing
+Company.
+(c)  The total number of claims submitted by healthcare providers to each managed
+care organization which meets the definition of a clean claim as it is defined in the contract
+executed between the state and the managed care organization, and the percentage of those
+clean claims that each of the managed care plans has paid for each provider type within
+fifteen calendar days and within thirty calendar days.  In addition, the report shall include the
+average number of days for each managed care organization to pay all claims of healthcare
+providers delineated by provider type.
+(d)  The total number and percentage of regular and expedited service authorization
+requests processed within the time frames specified by the contract for each managed care
+organization.  In addition, the report shall contain the total number of regular and expedited
+service authorization requests which resulted in a denial for services for each managed care
+organization.
+(e)  The total number and dollar value of all claims paid to out-of-network providers
+by claim type categorized by emergency services and nonemergency services for each
+managed care organization by parish.
+(f)(i)  The total number of independent reviews conducted pursuant to R.S. 46:460.81
+et seq., delineated by claim type for each managed care organization.
+(ii)  The total number and percentage of adverse determinations overturned as a result
+of an independent review conducted pursuant to R.S. 46:460.81 et seq., delineated by claim
+type for each managed care organization.
+(g)  The following information concerning pharmacy benefits delineated by each
+managed care organization and by month:
+(i)  Total number of prescription claims.
+(ii)  Total number of prescription claims subject to prior authorization.
+(iii)  Total number of prescription claims denied.
+(iv)  Total number of prescription claims subject to step therapy or fail first protocols.
+(v) The average and range of times for responding to prior authorization requests.
+(vi) The number of prior authorization requests denied, delineated by the reasons for
+denial.
+(vii) The number of claims denied after prior authorization was approved, delineated
+by the reasons for denial.
+(h)  The report shall include the following information concerning Medicaid drug
+rebates and manufacturer discounts delineated by each managed care organization and the
+prescription benefit manager contracted or owned by the managed care organization and by
+month:
+(i)  Total dollar amount of the Medicaid drug rebates and manufacturer discounts
+collected and used.
+(ii)  Total dollar amount of Medicaid drug rebates and manufacturer discounts
+collected and remitted to the Louisiana Department of Health.
+(4)  For managed care organizations that administer dental benefits, the following
+information concerning prior authorization requests, delineated by type of procedure:
+(a)  The number of prior authorization requests.
+(b)  The average and range of times for responding to prior authorization requests.
+(c)  The number of prior authorization requests denied, delineated by the reasons for
+denial.
+(d)  The number of claims denied after prior authorization was approved, delineated
+by the reasons for denial.
+(5)  Any other metric or measure which the Louisiana Department of Health deems
+appropriate for inclusion in the report.
+B.(1) The Louisiana Department of Health shall submit quarterly reports to the Senate
+and House committees on health and welfare concerning the Medicaid expansion population
+and service utilization. The reports shall include all of the following:
+(a) Medicaid expansion population data which shall include the following:
+(i) Number of individuals enrolled in Medicaid for the reporting period who are
+eligible as part of the expansion population.
+(ii) Number of individuals in the expansion population age nineteen to forty-nine and
+number of individuals age fifty to sixty-four.
+(iii) Number of individuals in the expansion population in each age category with
+earned income.
+(iv) Number of individuals in the expansion population in each age category assigned
+to a Medicaid managed care organization, identified by each individual managed care
+organization.
+(v) The per-member per-month cost paid to each managed care organization to
+manage the care of the individuals in the expansion population assigned to their plan,
+identified by each individual managed care organization.
+(b) Medicaid expansion population utilization data shall include the following:
+(i) Comparison of individuals age nineteen to forty-nine, age fifty to sixty-four, and
+those who are covered by Medicaid who are not part of the expansion population utilizing
+the following services during the reporting period:
+(aa) Emergency department.
+(bb) Prescription drugs.
+(cc) Physician services.
+(dd) Hospital services.
+(ee) Nonemergency medical transportation.
+(ii) Expenditures associated with each service for individuals in the expansion
+population age nineteen to forty-nine, age fifty to sixty-four, and those who are covered by
+Medicaid who are not part of the expansion population during the reporting period.
+(2) The quarterly reports required in this Subsection shall be submitted on the
+twentieth day of July, October, January, and April of each year, to include the data required
+in this Subsection, identified by month for the prior three months, with a collective chart of
+all data submitted to be included in the annual report provided for in Subsection A of this
+Section.
+C.(1) The Louisiana Department of Health shall submit quarterly reports to the Senate
+and House committees on health and welfare encompassing the following data regarding the
+Medicaid managed care organizations' pharmacy benefit managers:
+(a) The name of each pharmacy benefit manager, identified as contracted or owned
+by the Medicaid managed care organization.
+(b) Whether the pharmacy benefit manager is a subsidiary of the parent company of
+the Medicaid managed care organization.
+(c) The total dollar amount paid to the pharmacy benefit manager by the Medicaid
+managed care organization as a transaction fee for each processed claim.
+(d) The total dollar amount of the Medicaid drug rebates and manufacturer discounts
+collected and retained by the Medicaid managed care organization and pharmacy benefit
+manager.
+(e) The total dollar amount of the Medicaid drug rebates and manufacturer discounts
+collected by the Medicaid managed care organization and pharmacy benefit manager and
+remitted to the Louisiana Department of Health.
+(f) The total dollar amount retained by the pharmacy benefit manager through spread
+pricing. For purposes of this Subparagraph, "spread pricing" means the actual amount paid
+as reimbursement to a pharmacist as compared to the amount the pharmacy benefit manager
+charged to and was reimbursed by the Medicaid managed care organization to identify the
+excess amount paid to the pharmacy benefit manager above what was paid to the pharmacist.
+(g) Identification of any other monies retained by the pharmacy benefit manager not
+otherwise provided for in this Subsection that are not reimbursed to pharmacists.
+(2) The quarterly reports required in this Subsection shall be submitted on the
+twentieth day of July, October, January, and April of each year, to include the data required
+in this Subsection, identified by month for the prior three months, with a collective chart of
+all data submitted to be included in the annual report provided for in Subsection A of this
+Section.
+D. To the greatest extent possible, the Louisiana Department of Health shall include
+in the report at least three years of historical data for each of the measures set forth in
+Subsection A of this Section.
+Acts 2013, No. 212, §1; Redesignated from R.S. 40:1300.362 by HCR 84 of 2015
+R.S.; Acts 2015, No. 158, §1, eff. June 23, 2015; Acts 2017, No. 349, §1; Acts 2018, No.
+482, §1, eff. May 25, 2018.

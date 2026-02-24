@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import concurrent.futures
+import hashlib
 import json
 import os
 import re
@@ -741,7 +742,138 @@ def _render_pdf_from_html(
         os.replace(tmp_pdf, pdf_path)
 
 
-def _compute_doc_start_pages_from_pdf(
+def _load_cached_toc_page_numbers(
+    toc_path: Path,
+    *,
+    expected_doc_ids: Iterable[str],
+    html_sha256: str,
+) -> Optional[dict[str, int]]:
+    if not toc_path.exists() or toc_path.stat().st_size <= 0:
+        return None
+    try:
+        obj = json.loads(toc_path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    if not isinstance(obj, dict):
+        return None
+    if int(obj.get("schema_version") or 0) != 1:
+        return None
+    if str(obj.get("html_sha256") or "") != html_sha256:
+        return None
+    raw_map = obj.get("page_map")
+    if not isinstance(raw_map, dict):
+        return None
+    page_map: dict[str, int] = {}
+    for k, v in raw_map.items():
+        if not isinstance(k, str):
+            return None
+        try:
+            page_num = int(v)
+        except Exception:
+            return None
+        if page_num <= 0:
+            return None
+        page_map[k] = page_num
+    expected = {d for d in expected_doc_ids if d}
+    if not expected:
+        return {}
+    if not expected.issubset(set(page_map.keys())):
+        return None
+    return {doc_id: page_map[doc_id] for doc_id in expected}
+
+
+def _save_toc_page_numbers(
+    toc_path: Path,
+    *,
+    page_map: dict[str, int],
+    doc_ids: Iterable[str],
+    html_sha256: str,
+    scan_backend: str,
+) -> None:
+    expected = sorted({d for d in doc_ids if d})
+    _write_json(
+        toc_path,
+        {
+            "schema_version": 1,
+            "created_at_epoch": int(time.time()),
+            "html_sha256": html_sha256,
+            "scan_backend": scan_backend,
+            "doc_ids": expected,
+            "page_map": {doc_id: int(page_map[doc_id]) for doc_id in expected if doc_id in page_map},
+        },
+    )
+
+
+def _compute_doc_start_pages_from_pdf_pymupdf(
+    pdf_path: Path,
+    *,
+    doc_ids: Iterable[str],
+    logger: Optional["_Logger"] = None,
+    progress_interval_s: float = 10.0,
+) -> dict[str, int]:
+    try:
+        import fitz  # PyMuPDF
+    except Exception as e:  # pragma: no cover
+        raise RuntimeError("Missing dependency: pymupdf (pip install pymupdf)") from e
+
+    wanted = {d for d in doc_ids if d}
+    if not wanted:
+        return {}
+
+    marker_re = re.compile(r"DOCID:(\d+)")
+    scan_start = time.monotonic()
+    found: dict[str, int] = {}
+    scanned_pages = 0
+    last_progress = scan_start
+    progress_every = max(1.0, float(progress_interval_s))
+
+    with fitz.open(str(pdf_path)) as pdf_doc:
+        total_pages = int(pdf_doc.page_count)
+        if logger is not None:
+            logger.info(f"    [pdf] pass1: scan init pages={total_pages} targets={len(wanted)} backend=pymupdf")
+
+        for page_idx in range(total_pages):
+            scanned_pages = page_idx + 1
+            text = pdf_doc.load_page(page_idx).get_text("text") or ""
+            for m in marker_re.finditer(text):
+                doc_id = m.group(1)
+                if doc_id in wanted and doc_id not in found:
+                    found[doc_id] = scanned_pages
+
+            now = time.monotonic()
+            if logger is not None and (now - last_progress) >= progress_every:
+                rate = scanned_pages / max(0.001, now - scan_start)
+                remaining_pages = max(0, total_pages - scanned_pages)
+                eta_s = remaining_pages / max(0.001, rate)
+                logger.info(
+                    f"    [pdf] pass1: scan progress {scanned_pages}/{total_pages} "
+                    f"({scanned_pages*100/max(1, total_pages):.1f}%) "
+                    f"found={len(found)}/{len(wanted)} rate={rate:.1f}/s eta={_fmt_dur(eta_s)}"
+                )
+                last_progress = now
+
+            if len(found) == len(wanted):
+                break
+
+    missing = sorted(wanted - set(found.keys()))
+    if missing:
+        raise RuntimeError(
+            "Could not determine page numbers for some docs. "
+            f"Missing markers for doc_id(s): {missing[:20]}{'...' if len(missing) > 20 else ''}"
+        )
+
+    if logger is not None:
+        elapsed = time.monotonic() - scan_start
+        rate = scanned_pages / max(0.001, elapsed)
+        logger.info(
+            f"    [pdf] pass1: scan done pages={scanned_pages}/{total_pages} "
+            f"found={len(found)}/{len(wanted)} in {_fmt_dur(elapsed)} rate={rate:.1f}/s backend=pymupdf"
+        )
+
+    return found
+
+
+def _compute_doc_start_pages_from_pdf_pypdf(
     pdf_path: Path,
     *,
     doc_ids: Iterable[str],
@@ -830,10 +962,52 @@ def _compute_doc_start_pages_from_pdf(
         logger.info(
             f"    [pdf] pass1: scan done pages={scanned_pages}/{total_pages} "
             f"found={len(found)}/{len(wanted)} in {_fmt_dur(elapsed)} "
-            f"rate={rate:.1f}/s fallback_attempts={fallback_attempts} extract_errors={extract_errors}"
+            f"rate={rate:.1f}/s fallback_attempts={fallback_attempts} extract_errors={extract_errors} backend=pypdf"
         )
 
     return found
+
+
+def _compute_doc_start_pages_from_pdf(
+    pdf_path: Path,
+    *,
+    doc_ids: Iterable[str],
+    logger: Optional["_Logger"] = None,
+    progress_interval_s: float = 10.0,
+    scan_backend: str = "auto",
+) -> tuple[dict[str, int], str]:
+    backend = (scan_backend or "auto").strip().lower()
+    if backend not in {"auto", "pymupdf", "pypdf"}:
+        raise ValueError(f"Unsupported pdf scan backend: {scan_backend}")
+
+    if backend in {"auto", "pymupdf"}:
+        try:
+            return (
+                _compute_doc_start_pages_from_pdf_pymupdf(
+                    pdf_path,
+                    doc_ids=doc_ids,
+                    logger=logger,
+                    progress_interval_s=progress_interval_s,
+                ),
+                "pymupdf",
+            )
+        except KeyboardInterrupt:
+            raise
+        except Exception as e:
+            if backend == "pymupdf":
+                raise
+            if logger is not None:
+                logger.warn(f"    [pdf] pass1: pymupdf scan unavailable ({e}); falling back to pypdf")
+
+    return (
+        _compute_doc_start_pages_from_pdf_pypdf(
+            pdf_path,
+            doc_ids=doc_ids,
+            logger=logger,
+            progress_interval_s=progress_interval_s,
+        ),
+        "pypdf",
+    )
 
 
 def _crawl_category_flat(
@@ -1265,6 +1439,12 @@ def main(argv: Optional[list[str]] = None) -> int:
         default=10.0,
         help="Progress/liveness log interval for long PDF render/scan steps (default: 10.0)",
     )
+    parser.add_argument(
+        "--pdf-scan-backend",
+        choices=["auto", "pymupdf", "pypdf"],
+        default="auto",
+        help="Backend for pass1 page-number scan (default: auto; prefers pymupdf, falls back to pypdf)",
+    )
     parser.add_argument("--trust-env", action="store_true", help="Trust HTTP(S)_PROXY env vars for requests")
     parser.add_argument("--browser-channel", default="msedge", help="Playwright chromium channel (default: msedge)")
     parser.add_argument("--headful", action="store_true", help="Run browser headful (debugging)")
@@ -1291,7 +1471,7 @@ def main(argv: Optional[list[str]] = None) -> int:
         f"resume={resume} workers={int(args.workers)} delay={float(args.delay)}s "
         f"timeout={float(args.timeout)}s retries={int(args.retries)} "
         f"pdf={'off' if args.skip_pdf else 'on'} toc_pages={'on' if args.toc_page_numbers else 'off'} "
-        f"pdf_progress={float(args.pdf_progress_interval)}s"
+        f"pdf_progress={float(args.pdf_progress_interval)}s pdf_scan={str(args.pdf_scan_backend)}"
     )
     if args.toc_cache:
         logger.info(
@@ -1506,33 +1686,60 @@ def main(argv: Optional[list[str]] = None) -> int:
                                 include_markers=True,
                                 out_filename="bundle.draft.html",
                             )
-                            draft_pdf = b_dir / f"{safe_name(b.bundle_name)}.draft.pdf"
-                            logger.info("    [pdf] pass1: render draft PDF")
-                            _render_pdf_from_html(
-                                draft_html,
-                                draft_pdf,
-                                browser_channel=args.browser_channel,
-                                headless=headless,
-                                renderer=pdf_renderer,
-                                logger=logger,
-                                phase_label="pass1 draft render",
-                                progress_interval_s=float(args.pdf_progress_interval),
-                            )
-
+                            draft_html_sha256 = hashlib.sha256(draft_html.read_bytes()).hexdigest()
                             sections_dir = b_dir / "sections"
                             doc_ids = [
                                 e.doc_id
                                 for e in b.entries
                                 if e.doc_id and (sections_dir / f"{e.doc_id}.json").exists()
                             ]
-                            logger.info("    [pdf] pass1: scan page numbers")
-                            page_map = _compute_doc_start_pages_from_pdf(
-                                draft_pdf,
-                                doc_ids=doc_ids,
-                                logger=logger,
-                                progress_interval_s=float(args.pdf_progress_interval),
+                            toc_page_map_path = b_dir / "toc_page_numbers.json"
+                            page_map = _load_cached_toc_page_numbers(
+                                toc_page_map_path,
+                                expected_doc_ids=doc_ids,
+                                html_sha256=draft_html_sha256,
                             )
-                            _write_json(b_dir / "toc_page_numbers.json", page_map)
+
+                            if page_map is not None:
+                                logger.info(
+                                    f"    [pdf] pass1: reuse cached page numbers "
+                                    f"({len(page_map)}/{len(doc_ids)}) from {toc_page_map_path.name}"
+                                )
+                            else:
+                                logger.info("    [pdf] pass1: no valid cached page numbers; computing")
+                            draft_pdf = b_dir / f"{safe_name(b.bundle_name)}.draft.pdf"
+                            if page_map is None:
+                                logger.info("    [pdf] pass1: render draft PDF")
+                                _render_pdf_from_html(
+                                    draft_html,
+                                    draft_pdf,
+                                    browser_channel=args.browser_channel,
+                                    headless=headless,
+                                    renderer=pdf_renderer,
+                                    logger=logger,
+                                    phase_label="pass1 draft render",
+                                    progress_interval_s=float(args.pdf_progress_interval),
+                                )
+
+                                logger.info("    [pdf] pass1: scan page numbers")
+                                page_map, scan_backend = _compute_doc_start_pages_from_pdf(
+                                    draft_pdf,
+                                    doc_ids=doc_ids,
+                                    logger=logger,
+                                    progress_interval_s=float(args.pdf_progress_interval),
+                                    scan_backend=str(args.pdf_scan_backend),
+                                )
+                                _save_toc_page_numbers(
+                                    toc_page_map_path,
+                                    page_map=page_map,
+                                    doc_ids=doc_ids,
+                                    html_sha256=draft_html_sha256,
+                                    scan_backend=scan_backend,
+                                )
+                                logger.info(
+                                    f"    [pdf] pass1: cached page numbers with backend={scan_backend} "
+                                    f"file={toc_page_map_path.name}"
+                                )
 
                             final_html = _render_bundle_html(
                                 b,

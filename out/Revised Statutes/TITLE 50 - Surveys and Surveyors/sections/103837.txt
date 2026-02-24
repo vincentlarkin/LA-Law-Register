@@ -1,0 +1,39 @@
+RS 50:1
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=103837
+
+TITLE 50
+SURVEYS AND SURVEYORS
+CHAPTER 1.  LOUISIANA COORDINATE SYSTEMS
+§1.  Definitions
+The terms defined in this Section have the following meaning when found in this
+Chapter:
+(1)  "Deprecation" means a decision to discontinue the use of a specific unit or
+method of measurement.
+(2)  "Geodetic coordinate" means angular coordinates defined relative to a particular
+geodetic datum including but not limited to latitude, longitude, ellipsoid height, orthometric
+height, or dynamic height.
+(3)  "Geodetic datum" means the geometric models representing the earth's size and
+shape that provide abstract coordinate systems with a reference surface or origin and
+orientation that serves to provide known locations to begin surveys and create maps, also
+referred to as a terrestrial reference frame or reference frame.
+(4)  "International foot" means the length adopted in 1959 to define the unit of
+measurement equal to 3,048/10,000 meter.
+(5)  "Meter" means the length traveled by light in a vacuum during a time interval of
+exactly 1/299,792,458 seconds.
+(6)  "National Spatial Reference System" means the consistent coordinate system
+maintained by the National Geodetic Survey that defines latitude, longitude, height, scale,
+gravity, and orientation throughout the United States, including an accurate national
+shoreline; a set of models that describes geophysical processes that affect spatial
+measurements; and networks of permanently marked points and continuously operating
+reference stations (CORS) to support three-dimensional positioning activities.
+(7)  "NATRF2022" means the North American Terrestrial Reference Frame of 2022.
+(8)  "State plane coordinate system" means the system of conformal map projections
+created by the National Geodetic Survey to support surveying, engineering, and mapping
+activities throughout the United States.
+(9)  "U.S. survey foot" means the length adopted by the United States government in
+1893 to define the unit of measurement equal to 1,200/3,937 meter.
+(10)  "Zone" means a geographic region on the surface of the earth with a uniquely
+defined projected coordinate reference system, with extents usually based on a specified
+maximum linear distortion magnitude.
+Acts 1985, No. 913, §1; Acts 2024, No. 626, §2.

@@ -1,0 +1,79 @@
+RS 23:1605
+Unemployment insurance integrity program
+https://www.legis.la.gov/legis/Law.aspx?d=1196690
+
+§1605.  Unemployment insurance integrity program
+A.  For the purposes of this Section, the following terms have the meanings ascribed
+to them:
+(1)  "Department" means Louisiana Works.
+(2)  "Integrity Data Hub" means the centralized, multi-state data analysis tool utilized
+by the National Association of State Workforce Agencies, which allows participating state
+unemployment insurance agencies to cross-match unemployment insurance claims against
+a database of information associated with potentially fraudulent claims or overpayments.
+(3)  "National Directory of New Hires" means the database that stores personal and
+financial data on employed individuals across the country and contains information and data
+on individuals receiving unemployment compensation.
+NOTE: Paragraph (A)(4) eff. until Oct. 1, 2027. See Acts 2025, No. 477.
+(4)  "New hire records" means the directory of newly hired and re-hired employees
+reported under state and federal law and managed by the child support enforcement section,
+division of family support, office of children and family services, Department of Children
+and Family Services.
+NOTE: Paragraph (A)(4) as amended by Acts 2025, No. 477, eff. Oct. 1, 2027.
+(4)  "New hire records" means the directory of newly hired and re-hired employees
+reported under state and federal law and managed by the office of child support, Department
+of Children and Family Services.
+(5)  "Unemployment insurance rolls" means unemployed workers receiving
+unemployment insurance in the state.
+B.  The department shall be tasked with the responsibility of enhancing the integrity
+of the state's unemployment insurance program.
+C.  To ensure the integrity of the unemployment insurance program and to verify
+eligibility and to prevent fraudulent filing and payment of claims, the department is required
+to do all of the following:
+(1)  The department may use commercially available database solutions to check new
+hire records against the state's unemployment insurance rolls on a weekly basis.
+(2)  The department, on a weekly basis, shall check new hire records against the
+National Directory of New Hires.
+(3)  The department shall check the Integrity Data Hub or another commercially
+available database.
+(4)  The department, on a weekly basis, shall check the unemployment insurance rolls
+against the Louisiana Department of Public Safety and Corrections' list of incarcerated
+individuals.
+(5)  The department, on a weekly basis, shall check the unemployment insurance rolls
+against the Louisiana Department of Health  state registrar and vital records' list of death
+records.
+D.  To ensure the integrity of the unemployment insurance program and to prevent
+the continuous payment of suspicious or potentially improper claims, the department shall
+perform a review and verify the eligibility of the following claims:
+(1)  Multiple or duplicative claims that are filed online originating from the same
+internet protocol address.
+(2)  Claims that are filed online from a foreign internet protocol address.
+(3)  Multiple or duplicative claims that are filed and associated with the same mailing
+address.
+(4)  Multiple or duplicative claims that are filed and associated with the same bank
+account.
+E.  When the department receives information concerning an individual who is
+participating in the unemployment compensation insurance program that indicates a change
+in circumstances that may affect his eligibility, the department shall review the individual's
+case and make a final determination of his eligibility in accordance with the provisions of
+R.S. 23:1600 and 1601.
+F.  Pursuant to the performance of all cross-match activities required by this Section,
+Louisiana Works shall provide to the legislature a report on or before June thirtieth annually.
+The report shall include all of the following:
+(1)  The department's rate of consistency in performing the weekly checks against the
+Integrity Data Hub or another commercially available database and the National Directory
+of New Hires.
+(2)  The type and amount of improper payments detected retroactively.
+(3)  The type and amount of improper payments prevented.
+(4)  The dollar amount the state has saved in preventing improper payments and, if
+any, in recouping improper payments.
+G.(1)  The department shall adopt and implement an internal administrative policy
+to recover improper overpayments to the fullest extent possible by state and federal law.
+(2)  The department shall, without exception, recover improper overpayments, unless
+doing so would violate existing state or federal law.
+H.  The department shall have the authority to execute a memorandum of
+understanding with any state department, agency, or division for data that is necessary to
+carry out the purposes of this Section.
+I.  Louisiana Works shall promulgate all rules and regulations necessary for the
+purposes of carrying out the provisions of this Section.
+Acts 2020, 2nd Ex. Sess., No. 22, §1, eff. Jan. 1, 2021; Acts 2022, No. 571, §1; Acts
+2025, No. 477, §9, eff. Oct. 1, 2027.

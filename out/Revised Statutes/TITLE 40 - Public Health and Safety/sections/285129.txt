@@ -1,0 +1,28 @@
+RS 40:4.12
+Water distribution in certain facilities
+https://www.legis.la.gov/legis/Law.aspx?d=285129
+
+§4.12.  Water distribution in certain facilities
+A.  Notwithstanding any provisions of the state Sanitary Code or any other law or regulation to the contrary, color coding of piping and outlets conveying potable and nonpotable water, including by painting such piping and outlets yellow or blue, shall not be required within a facility that is engaged in activities defined or classified under one or more of the following subsectors, industry groups, or industries of the 1997 North American Industry Classification System (NAICS), provided that such facility has a potable water distribution identification plan that satisfies the requirements set forth in Subsection B of this Section:
+(1)  22111 electric power generation.
+(2)  3221 pulp, paper, and paperboard mills.
+(3)  324 petroleum and coal products manufacturing.
+(4)  325 chemical manufacturing.
+(5)  326 plastics and rubber products manufacturing.
+(6)  331 primary metal manufacturing.
+(7)  211 oil and gas extraction.
+(8)  486 pipeline transportation.
+(9)  213111 drilling oil and gas wells.
+(10)  213112 support activities for oil and gas operations.
+B.(1)  A qualifying potable water distribution identification plan must contain the following information:
+(a)  The name and address of the facility.
+(b)  The position of the facility employee responsible for implementation of the plan.
+(c)  A written procedure, which may be provided by reference to existing facility procedures, that is applicable and in effect at the facility, and:
+(i)  Preserves potable water by preventing cross-connection and other possibilities for contamination from modification and replacement of piping or equipment at the facility by any person.
+(ii)  Identifies on-site piping and outlets conveying potable water.
+(iii)  Requires a formal cross connection control survey of the facility to be performed by a qualified individual at least once every five years beginning no later than July 1, 2006.
+(2)  The plan must be maintained and fully implemented by the facility.
+(3)  The procedures in the plan must be communicated, in writing or transmitted  electronically, to all employees of the facility and to all contractors or subcontractors working at the facility.
+C.  If a facility identified in Subsection A of this Section has a potable water distribution identification plan that satisfies the requirements set forth in Subsection B of this Section, valves, branch fittings, and branch terminals in nonpotable water service at such facility need not be identified by the words "nonpotable water" or any similar language or labeling system.
+D.  Facilities identified in Subsection A of this Section shall not be deemed in violation, past or present, of any law or regulation concerning color coding or labeling of piping, valves, branch fittings, branch terminals, and outlets conveying potable or nonpotable water until the plan is fully implemented.  The plan shall be fully implemented by July 1, 2006, unless a later date is agreed upon by the facility and the state health officer or his designee.  The plan shall be maintained at the facility and made available for inspection upon request by the state health officer or his designee.
+Acts 2004, No. 791, §1, eff. July 8, 2004.

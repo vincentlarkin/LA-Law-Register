@@ -1,0 +1,29 @@
+RS 39:15.12
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1337712
+
+§15.12.  Definitions
+As used in this Part, these terms shall have the following meanings:
+(1)  "Commission" means the Louisiana Cybersecurity Commission.
+(2)  "Critical infrastructure sectors" includes the following sectors which the
+Cybersecurity and Infrastructure Security Agency of the federal Department of Homeland
+Security has identified as critical:
+(a)  Chemical.
+(b)  Commercial facilities.
+(c)  Communications.
+(d)  Critical manufacturing.
+(e)  Dams.
+(f)  Defense industrial base.
+(g)  Emergency services.
+(h)  Energy.
+(i)  Financial services.
+(j)  Food and agriculture.
+(k)  Government facilities.
+(l)  Healthcare and public health.
+(m)  Information technology.
+(n)  Nuclear reactors, materials, and waste.
+(o)  Transportation systems.
+(p)  Water and wastewater systems.
+(q)  Any other sector which the Cybersecurity and Infrastructure Security Agency
+deems to be critical in the future.
+Acts 2023, No. 245, §2.

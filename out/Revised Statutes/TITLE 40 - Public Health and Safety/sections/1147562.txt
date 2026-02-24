@@ -1,0 +1,25 @@
+RS 40:1250.3
+Definitions
+https://www.legis.la.gov/legis/Law.aspx?d=1147562
+
+§1250.3.  Definitions
+As used in this Part, the following terms have the meaning ascribed to them in this
+Section:
+(1)  "Department" means the Louisiana Department of Health.
+(2)  "Methodology" means the aggregate of methods, principles, assumptions,
+variables, factors, and procedures used to determine a reimbursement rate.
+(3)  "Provider" means a person, public agency, nonprofit corporation, or a for-profit
+business entity that provides services under a contract or other agreement with the
+department.
+(4)  "Rate" means the amount of money per unit of time for a Medicaid service
+performed or the amount of money for a Medicaid service performed for a flat fee, such as
+a per diem.
+(5)  "Rebasing" means using cost report information to adjust Medicaid
+reimbursement rates to the level dictated by the Medicaid reimbursement methodology for
+each covered service.
+(6)  "Reimbursement" means payment for a Medicaid service in accordance with a
+specified rate.
+(7)  "Service" means a home- or community-based service, intermediate care facility
+service, or support coordination service provided to a recipient by a provider under a contract
+or other agreement with the department.
+Acts 2019, No. 381, §1.

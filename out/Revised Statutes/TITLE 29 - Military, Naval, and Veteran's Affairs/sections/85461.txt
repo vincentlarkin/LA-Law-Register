@@ -1,0 +1,26 @@
+RS 29:223
+Article 123.  Offenses concerning government computers
+https://www.legis.la.gov/legis/Law.aspx?d=85461
+
+§223.  Article 123.  Offenses concerning government computers
+A.  Any person subject to this Code who does any of the following shall be punished
+as a court-martial may direct:
+(1)  Knowingly accesses a government computer, with an unauthorized purpose, and
+by doing so obtains classified information, with reason to believe such information could be
+used to the injury of the United States or injury to the state of Louisiana, or to the advantage
+of any foreign nation, and intentionally communicates, delivers, transmits, or causes to be
+communicated, delivered, or transmitted such information to any person not entitled to
+receive it.
+(2)  Intentionally accesses a government computer, with an unauthorized purpose, and
+thereby obtains classified or other protected information from any such government
+computer.
+(3)  Knowingly causes the transmission of a program, information, code, or
+command, and as a result of such conduct, intentionally causes damage without authorization
+to a government computer.
+B.  Definitions.  In this Article:
+(1)  The term "computer" has the meaning given that term in 18 U.S.C. 1030.
+(2)  The term "damage" has the meaning given that term in 18 U.S.C. 1030.
+(3)  The term "government computer" means a computer owned or operated by or on
+behalf of the United States government or the state of Louisiana.
+Acts 2022, No. 672, §1.
+NOTE:  Former R.S. 29:223 redesignated as R.S. 29:205 by Acts 2022, No. 672, §1.

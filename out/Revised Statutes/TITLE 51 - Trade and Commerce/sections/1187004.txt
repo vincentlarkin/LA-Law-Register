@@ -1,0 +1,16 @@
+RS 51:2111
+Scope and purpose
+https://www.legis.la.gov/legis/Law.aspx?d=1187004
+
+CHAPTER 31-A.  MANAGED SERVICE PROVIDERS
+AND MANAGED SECURITY SERVICE PROVIDERS
+FOR PUBLIC BODIES
+§2111.  Scope and purpose
+The purposes of this Chapter are:
+(1)  To create a registration for managed service providers and managed security
+service providers doing business in this state with a public body.
+(2)  To provide access for public bodies to obtain information on managed service
+providers and managed security service providers.
+(3)  To require managed service providers and managed security service providers
+to report cyber incidents and the payment of cyber ransom or ransomware.
+Acts 2020, No. 117, §2, eff. Feb. 1, 2021.

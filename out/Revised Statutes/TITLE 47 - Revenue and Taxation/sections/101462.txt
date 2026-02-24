@@ -1,0 +1,33 @@
+RS 47:203
+Partnership computations
+https://www.legis.la.gov/legis/Law.aspx?d=101462
+
+§203.  Partnership computations
+A.  Income and deductions.  The taxable income of a partnership shall be computed
+in the same manner as in the case of an individual except that:
+(1)  the items described in R.S. 47:202 A shall be separately stated, and
+(2)  the following deductions shall not be allowed to the partnership:
+(a)  the standard deduction provided in R.S. 47:68,
+(b)  the deduction for charitable contributions provided in R.S. 47:57,
+(c)  deductions allowed individuals if they itemize which would not be allowable if
+they claim the optional standard deduction.
+B.  Elections of the partnership.  Any election affecting the computation of taxable
+income derived from a partnership shall be made by the partnership.
+C.(1)  In computing the taxable income of a partnership, the partnership shall exclude
+net income or losses received from an entity of which the partnership is a shareholder,
+partner, or member if the entity properly filed a Louisiana corporation income tax return
+pursuant to R.S. 47:287.732.2 which included the net income or loss.  However, no such
+exclusion shall be allowed for any amount attributable to income that, for any reason, will
+not bear the tax due pursuant to R.S. 47:287.732.2.
+(2)(a)  A partnership whose federal income tax return is adjusted due to S corporation
+or partnership income or losses for which the partnership used the exclusion provided in
+Paragraph (1) of this Subsection shall furnish a statement to the secretary disclosing the
+nature and amounts of such adjustments within sixty days after the federal adjustments have
+been made and accepted by the partnership.  However, if the partnership does not receive a
+statement of the federal adjustments until after it accepts the adjustments, it shall have sixty
+days from the receipt of such statement within which to furnish the required statement to the
+secretary.
+(b)  For purposes of Subparagraph (a) of this Paragraph, paying the federal tax shown
+due or signing a consent to immediate assessment shall constitute an acceptance of the
+federal adjustments.
+Amended by Acts 1958, No. 441, §1; Acts 2023, No. 450, §1.
