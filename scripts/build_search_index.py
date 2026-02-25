@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sqlite3
 import sys
 from pathlib import Path
@@ -50,32 +51,29 @@ def _load_doc_text(meta_json_path: Path, fallback_txt_path: Path) -> str:
     return ""
 
 
-def main(argv: list[str] | None = None) -> int:
-    p = argparse.ArgumentParser()
-    p.add_argument("--out", default="out", help="Output directory used by downloader (default: out)")
-    p.add_argument("--db", default=None, help="SQLite DB path (default: <out>/index.sqlite)")
-    p.add_argument("--rebuild", action="store_true", help="Drop and rebuild the index")
-    args = p.parse_args(argv)
+def _cleanup_temp_db(tmp_db_path: Path) -> None:
+    for p in (
+        tmp_db_path,
+        tmp_db_path.with_name(tmp_db_path.name + "-wal"),
+        tmp_db_path.with_name(tmp_db_path.name + "-shm"),
+    ):
+        try:
+            if p.exists():
+                p.unlink()
+        except Exception:
+            pass
 
-    out_dir = Path(args.out)
-    if not out_dir.exists():
-        raise SystemExit(f"Out dir not found: {out_dir}")
 
-    db_path = Path(args.db) if args.db else (out_dir / "index.sqlite")
-    db_path.parent.mkdir(parents=True, exist_ok=True)
-
+def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
     con = sqlite3.connect(str(db_path))
     try:
         con.execute("PRAGMA journal_mode=WAL;")
         con.execute("PRAGMA synchronous=NORMAL;")
 
-        if args.rebuild:
-            con.execute("DROP TABLE IF EXISTS docs_fts;")
-
         # Store metadata as UNINDEXED; index only citation/title/text.
         con.execute(
             """
-            CREATE VIRTUAL TABLE IF NOT EXISTS docs_fts USING fts5(
+            CREATE VIRTUAL TABLE docs_fts USING fts5(
               doc_id UNINDEXED,
               category UNINDEXED,
               bundle UNINDEXED,
@@ -88,17 +86,10 @@ def main(argv: list[str] | None = None) -> int:
             """
         )
 
-        # Rebuild means clearing existing rows too.
-        if args.rebuild:
-            con.execute("INSERT INTO docs_fts(docs_fts) VALUES('rebuild');")
-        else:
-            # If not rebuilding, we'll still do a clean insert for now.
-            con.execute("DELETE FROM docs_fts;")
-
         bundle_paths = sorted(out_dir.rglob("bundle.json"))
         if not bundle_paths:
             print("[warn] No bundle.json files found under out/. Run the downloader first.", file=sys.stderr)
-            return 1
+            return 0
 
         total = 0
         with con:
@@ -128,10 +119,63 @@ def main(argv: list[str] | None = None) -> int:
                     )
                     total += 1
 
-        print(f"[ok] indexed {total} docs -> {db_path}")
-        return 0
+        con.execute("PRAGMA wal_checkpoint(TRUNCATE);")
+        return total
     finally:
         con.close()
+
+
+def main(argv: list[str] | None = None) -> int:
+    p = argparse.ArgumentParser()
+    p.add_argument("--out", default="out", help="Output directory used by downloader (default: out)")
+    p.add_argument("--db", default=None, help="SQLite DB path (default: <out>/index.sqlite)")
+    p.add_argument(
+        "--rebuild",
+        action="store_true",
+        help="Compatibility flag; rebuild is now always full and atomic",
+    )
+    args = p.parse_args(argv)
+
+    out_dir = Path(args.out)
+    if not out_dir.exists():
+        raise SystemExit(f"Out dir not found: {out_dir}")
+
+    bundle_paths = sorted(out_dir.rglob("bundle.json"))
+    if not bundle_paths:
+        print("[warn] No bundle.json files found under out/. Run the downloader first.", file=sys.stderr)
+        return 1
+
+    db_path = Path(args.db) if args.db else (out_dir / "index.sqlite")
+    db_path.parent.mkdir(parents=True, exist_ok=True)
+    tmp_db_path = db_path.with_name(db_path.name + ".building")
+
+    _cleanup_temp_db(tmp_db_path)
+    try:
+        total = _build_index_into_db(out_dir, tmp_db_path)
+        if total <= 0:
+            _cleanup_temp_db(tmp_db_path)
+            print("[warn] Built 0 docs; refusing to replace the existing index.", file=sys.stderr)
+            return 1
+
+        os.replace(tmp_db_path, db_path)
+        _cleanup_temp_db(tmp_db_path)
+        print(f"[ok] indexed {total} docs -> {db_path}")
+        return 0
+    except KeyboardInterrupt:
+        _cleanup_temp_db(tmp_db_path)
+        print("[warn] interrupted; existing index file left unchanged", file=sys.stderr)
+        return 130
+    except PermissionError:
+        _cleanup_temp_db(tmp_db_path)
+        print(
+            f"[error] Could not replace {db_path} (file may be open). Close apps using it and retry.",
+            file=sys.stderr,
+        )
+        return 2
+    except Exception as exc:
+        _cleanup_temp_db(tmp_db_path)
+        print(f"[error] index build failed: {exc}", file=sys.stderr)
+        return 2
 
 
 if __name__ == "__main__":

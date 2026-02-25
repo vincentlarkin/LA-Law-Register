@@ -1,0 +1,13 @@
+# Generated caches / artifacts
+.toc-cache/
+out_test/
+out_cache_test/
+playwright-browsers/
+
+# Local search index files
+out/index.sqlite
+out/index.sqlite-*
+
+# Python cache files
+__pycache__/
+*.py[cod]

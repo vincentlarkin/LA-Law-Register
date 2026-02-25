@@ -1,42 +1,17 @@
-# LA Law Register - Offline Louisiana Laws
+# LA Law Register
 
-Goal: download the Louisiana laws listed on the Legislature's "Laws Table of Contents" page and produce:
-
-- local, text-based copies (per-section `.txt` + metadata)
-- hard, static PDFs (per bundle, e.g. `RS 1 ... .pdf`)
-- a folder layout that mirrors the table-of-contents structure
+Offline Louisiana law downloader + search tools.
 
 Source TOC: https://www.legis.la.gov/legis/LawsContents.aspx
 
-## How It Works (Implementation Map)
+## What This Repo Produces
 
-1. **Discover the TOC structure**
-   - The site is ASP.NET WebForms (`.aspx`) and expands via postbacks (no stable URLs for many TOC nodes).
-   - We use Playwright (driving installed Microsoft Edge) to click TOC nodes the same way a user would.
-   - From each leaf list we extract the real, stable document URLs: `Law.aspx?d=<id>`.
+- Local law text and metadata (`sections/*.txt`, `sections/*.json`)
+- Per-bundle PDFs with real TOC page numbers
+- Fast local full-text index (`out/index.sqlite`)
+- Desktop GUI for near-live local search
 
-2. **Download documents**
-   - For each `Law.aspx?d=<id>` page we fetch HTML with `requests` and extract:
-     - citation (e.g. `RS 1:1`, `CC 1`, `HRULE 1.1`)
-     - the actual law text block
-   - Saved locally as:
-     - `sections/*.txt` (UTF-8 searchable text)
-     - `sections/*.json` (metadata + `doc_text` + `doc_html` + source URL)
-
-3. **Build per-bundle PDFs**
-   - We generate one PDF per bundle with a Table of Contents that includes **real page numbers**:
-     - render a draft PDF with hidden per-section markers
-     - scan the draft PDF to compute section start pages
-     - re-render the final PDF with TOC page numbers filled in
-
-## Output Layout (Default)
-
-All output goes into `out/` (configurable via `--out`).
-
-- `out/Revised Statutes/TITLE 1 - General Provisions/TITLE 1 - General Provisions.pdf`
-- `out/Revised Statutes/TITLE 1 - General Provisions/sections/*.txt`
-- `out/Louisiana Constitution/ARTICLE 1 - Declaration of Rights/ARTICLE 1 - Declaration of Rights.pdf`
-- Categories that are already "flat" on the site (e.g. `Civil Code`) become a single bundle PDF under their category folder.
+Default output root: `out/`
 
 ## Setup
 
@@ -45,87 +20,91 @@ python -m pip install -r requirements.txt
 ```
 
 Notes:
-- The script uses Playwright with the installed Edge browser (`channel="msedge"`), so you **do not** need to run `playwright install` unless you want to switch browsers.
-- Pass1 TOC page-number scanning now prefers `pymupdf` (much faster on large bundles) and falls back to `pypdf` when needed.
+- Uses Playwright with installed Edge (`msedge`).
+- PDF page-number scan prefers `pymupdf` and falls back to `pypdf`.
 
-## Run
+## Scripts
 
-### Default Run (Recommended)
+- `scripts/download_louisiana_laws.py`
+  - Scrapes TOC, downloads laws, writes local files, builds PDFs.
+  - Default category: `revised-statutes`.
+- `scripts/build_search_index.py`
+  - Builds SQLite FTS5 index from `out/**/bundle.json` and `sections/*.json`.
+  - Rebuild is atomic (temp DB swap), so interrupted runs do not overwrite a good index.
+- `scripts/search_laws.py`
+  - CLI query tool for the SQLite index.
+- `scripts/search_laws_gui.py`
+  - Desktop GUI search with:
+    - category/bundle filtering
+    - regex mode
+    - local full-text preview with highlighting
+    - citation sorting (ex: `RS 14:*` before `RS 34:*`)
+- `scripts/dev/test_toc_postback.py`
+  - Small dev test for TOC postback behavior.
 
-Downloads Revised Statutes, saves local text, and generates static PDFs with TOC page numbers:
+## Project Layout
+
+- `scripts/` - downloader, indexer, CLI search, GUI search, and dev helper scripts.
+- `out/` - primary generated output (laws, metadata, PDFs, and optionally `index.sqlite`).
+- `.toc-cache/` - cached TOC snapshots used to speed resume runs.
+- `requirements.txt` - Python dependencies for scraping, PDF generation, and GUI search.
+- `.gitignore` - ignores generated caches/test artifacts and Python cache files.
+
+## Common Commands
+
+Download default (Revised Statutes):
 
 ```powershell
 python scripts\download_louisiana_laws.py
 ```
 
-Same as: `python scripts\download_louisiana_laws.py --categories revised-statutes`
-
-Defaults (no flags needed):
-- Resume is on (`--resume`).
-- PDFs are on (with real TOC page numbers).
-- TOC is cached to `.toc-cache/` for 7 days, so resume runs don’t re-scrape the TOC.
-- Parallel downloads per bundle: `--workers 16`.
-- Ctrl+C stops cleanly; re-run the same command to resume.
-
-### Download Everything In The TOC
+Download everything:
 
 ```powershell
 python scripts\download_louisiana_laws.py --categories all
 ```
 
-### Re-run Only One Bundle
+Re-run one bundle:
 
 ```powershell
 python scripts\download_louisiana_laws.py --categories revised-statutes --bundle-regex "^TITLE 9 "
 ```
 
-### If You Need To Refresh The TOC Cache
+Build/rebuild search index:
 
 ```powershell
-python scripts\download_louisiana_laws.py --refresh-toc
+python scripts\build_search_index.py --rebuild
 ```
 
-### Helpful limits while testing
+CLI search:
 
 ```powershell
-python scripts\download_louisiana_laws.py --categories revised-statutes --max-bundles 1 --max-sections 10
+python scripts\search_laws.py "\"capital punishment\""
 ```
 
-### Force the fast page-number scanner
+GUI search:
 
 ```powershell
-python scripts\download_louisiana_laws.py --categories revised-statutes --pdf-scan-backend pymupdf
+python scripts\search_laws_gui.py
 ```
 
-The default is `--pdf-scan-backend auto` (try `pymupdf`, then fall back to `pypdf`).
-
-## Search / Index
-
-Quick (no database) search across everything downloaded:
+Raw text search without SQLite:
 
 ```powershell
 rg -n -S "capital punishment" out\
 ```
 
-Build a fast full-text index (SQLite FTS5) and search it:
-
-```powershell
-python scripts\build_search_index.py --rebuild
-python scripts\search_laws.py "\"capital punishment\""
-```
-
 ## Categories
 
-- `revised-statutes`
-- `louisiana-constitution`
-- `constitution-ancillaries`
-- `childrens-code`
-- `civil-code`
-- `code-of-civil-procedure`
-- `code-of-criminal-procedure`
-- `code-of-evidence`
-- `house-rules`
-- `senate-rules`
-- `joint-rules`
-- `all`
+`revised-statutes`, `louisiana-constitution`, `constitution-ancillaries`, `childrens-code`, `civil-code`, `code-of-civil-procedure`, `code-of-criminal-procedure`, `code-of-evidence`, `house-rules`, `senate-rules`, `joint-rules`, `all`
+
+## Repo Hygiene
+
+Generated caches/test artifacts are now ignored:
+
+- `.toc-cache/`
+- `out_test/`
+- `out_cache_test/`
+- `playwright-browsers/`
+- Python cache files (`__pycache__`, `*.pyc`)
 
