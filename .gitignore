@@ -11,3 +11,8 @@ out/index.sqlite-*
 # Python cache files
 __pycache__/
 *.py[cod]
+
+# PyInstaller / packaging artifacts
+build/
+dist/
+*.spec

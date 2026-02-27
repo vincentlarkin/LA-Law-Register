@@ -88,6 +88,15 @@ GUI search:
 python scripts\search_laws_gui.py
 ```
 
+Build Windows `.exe` for GUI:
+
+```powershell
+python -m pip install pyinstaller
+python -m PyInstaller --noconfirm --clean --windowed --onefile --name LA-Law-Search scripts\search_laws_gui.py
+```
+
+Output: `dist\LA-Law-Search.exe`
+
 Raw text search without SQLite:
 
 ```powershell

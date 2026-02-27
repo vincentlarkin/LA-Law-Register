@@ -17,6 +17,7 @@ from __future__ import annotations
 import argparse
 import re
 import sqlite3
+import sys
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -204,6 +205,28 @@ def _run_search(filters: SearchFilters) -> tuple[list[dict[str, object]], float]
 
     elapsed_ms = (time.perf_counter() - t0) * 1000.0
     return out, elapsed_ms
+
+
+def _resolve_default_db_path() -> str:
+    candidates: list[Path] = []
+    cwd = Path.cwd()
+    candidates.append(cwd / "out" / "index.sqlite")
+
+    # When frozen (PyInstaller), prefer paths near the executable.
+    if getattr(sys, "frozen", False):
+        exe_dir = Path(sys.executable).resolve().parent
+        candidates.append(exe_dir / "out" / "index.sqlite")
+        candidates.append(exe_dir.parent / "out" / "index.sqlite")
+    else:
+        # Running from source script.
+        script_dir = Path(__file__).resolve().parent
+        repo_root = script_dir.parent
+        candidates.append(repo_root / "out" / "index.sqlite")
+
+    for p in candidates:
+        if p.exists():
+            return str(p)
+    return str(candidates[0])
 
 
 class SearchThread(QThread):
@@ -847,8 +870,9 @@ class SearchWindow(QMainWindow):
 
 
 def main(argv: list[str] | None = None) -> int:
+    default_db = _resolve_default_db_path()
     p = argparse.ArgumentParser()
-    p.add_argument("--db", default="out/index.sqlite", help="SQLite DB path (default: out/index.sqlite)")
+    p.add_argument("--db", default=default_db, help=f"SQLite DB path (default: {default_db})")
     args = p.parse_args(argv)
 
     app = QApplication([])
