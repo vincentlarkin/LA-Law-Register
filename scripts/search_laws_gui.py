@@ -15,6 +15,7 @@ Run:
 from __future__ import annotations
 
 import argparse
+from collections import OrderedDict
 import re
 import sqlite3
 import sys
@@ -47,6 +48,11 @@ from PySide6.QtWidgets import (
     QVBoxLayout,
     QWidget,
 )
+
+
+_LIVE_PREFIX_MIN_CHARS = 3
+_LIVE_DEBOUNCE_MS = 70
+_SEARCH_CACHE_MAX_ENTRIES = 256
 
 
 @dataclass
@@ -93,7 +99,29 @@ def _snippet_for_regex(text: str, match: re.Match[str], pad_left: int = 90, pad_
     return chunk
 
 
-def _run_search(filters: SearchFilters) -> tuple[list[dict[str, object]], float]:
+def _looks_like_advanced_fts_query(query: str) -> bool:
+    # If user includes explicit FTS syntax/operators, do not rewrite.
+    if re.search(r'["*():{}]', query):
+        return True
+    return bool(re.search(r"\b(?:AND|OR|NOT|NEAR)\b", query, re.IGNORECASE))
+
+
+def _to_live_prefix_query(raw_query: str) -> str:
+    query = raw_query.strip()
+    if not query:
+        return ""
+    if _looks_like_advanced_fts_query(query):
+        return query
+
+    tokens = re.findall(r"[A-Za-z0-9_]+", query)
+    # Keep live search from fanning out until user types enough characters.
+    tokens = [t for t in tokens if len(t) >= _LIVE_PREFIX_MIN_CHARS]
+    if not tokens:
+        return ""
+    return " ".join(f"{tok}*" for tok in tokens)
+
+
+def _run_search(filters: SearchFilters, con: sqlite3.Connection | None = None) -> tuple[list[dict[str, object]], float]:
     t0 = time.perf_counter()
     query = filters.query.strip()
     if not query:
@@ -117,9 +145,15 @@ def _run_search(filters: SearchFilters) -> tuple[list[dict[str, object]], float]
         where_sql = " AND " + " AND ".join(where_parts)
 
     out: list[dict[str, object]] = []
-    con = _connect(filters.db_path)
+    close_when_done = False
+    if con is None:
+        con = _connect(filters.db_path)
+        close_when_done = True
     try:
         if not filters.regex_mode:
+            fts_query = _to_live_prefix_query(query)
+            if not fts_query:
+                return [], 0.0
             sql = f"""
             SELECT
               rowid AS row_id,
@@ -135,7 +169,7 @@ def _run_search(filters: SearchFilters) -> tuple[list[dict[str, object]], float]
             ORDER BY bm25(docs_fts)
             LIMIT ?;
             """
-            rows = con.execute(sql, [query, *params, int(filters.limit)]).fetchall()
+            rows = con.execute(sql, [fts_query, *params, int(filters.limit)]).fetchall()
             for r in rows:
                 out.append(
                     {
@@ -201,7 +235,8 @@ def _run_search(filters: SearchFilters) -> tuple[list[dict[str, object]], float]
                 if len(out) >= filters.limit:
                     break
     finally:
-        con.close()
+        if close_when_done:
+            con.close()
 
     elapsed_ms = (time.perf_counter() - t0) * 1000.0
     return out, elapsed_ms
@@ -261,6 +296,10 @@ class SearchWindow(QMainWindow):
         self._db_path = db_path
         self._result_rows: list[dict[str, object]] = []
         self._detail_cache: dict[int, dict[str, str]] = {}
+        self._search_cache: OrderedDict[
+            tuple[object, ...], tuple[list[dict[str, object]], float]
+        ] = OrderedDict()
+        self._active_cache_key: tuple[object, ...] | None = None
 
         self._build_ui()
         self._wire_events()
@@ -286,7 +325,9 @@ class SearchWindow(QMainWindow):
         # Query row
         query_row = QHBoxLayout()
         self.query_edit = QLineEdit()
-        self.query_edit.setPlaceholderText('Type search (e.g. "capital punishment" or regex)')
+        self.query_edit.setPlaceholderText(
+            'Type search (live prefix matching: "mal" finds "malfeasance")'
+        )
         self.regex_cb = QCheckBox("Regex")
         self.case_cb = QCheckBox("Case sensitive")
         self.case_cb.setEnabled(False)
@@ -384,7 +425,7 @@ class SearchWindow(QMainWindow):
         self.statusBar().showMessage("Ready")
 
         self._debounce = QTimer(self)
-        self._debounce.setInterval(180)
+        self._debounce.setInterval(_LIVE_DEBOUNCE_MS)
         self._debounce.setSingleShot(True)
 
     def _wire_events(self) -> None:
@@ -472,6 +513,7 @@ class SearchWindow(QMainWindow):
             return
 
         self._db_path = db_path
+        self._search_cache.clear()
         self.categories_list.clear()
         self.bundles_list.clear()
         for c in categories:
@@ -545,6 +587,30 @@ class SearchWindow(QMainWindow):
             limit=int(self.limit_spin.value()),
         )
 
+    def _filters_cache_key(self, filters: SearchFilters) -> tuple[object, ...]:
+        db_key = str(Path(filters.db_path).resolve())
+        return (
+            db_key,
+            filters.query.strip(),
+            bool(filters.regex_mode),
+            bool(filters.case_sensitive),
+            tuple(filters.categories),
+            tuple(filters.bundles),
+            int(filters.limit),
+        )
+
+    def _cache_get(self, key: tuple[object, ...]) -> tuple[list[dict[str, object]], float] | None:
+        hit = self._search_cache.get(key)
+        if hit is not None:
+            self._search_cache.move_to_end(key)
+        return hit
+
+    def _cache_put(self, key: tuple[object, ...], value: tuple[list[dict[str, object]], float]) -> None:
+        self._search_cache[key] = value
+        self._search_cache.move_to_end(key)
+        while len(self._search_cache) > _SEARCH_CACHE_MAX_ENTRIES:
+            self._search_cache.popitem(last=False)
+
     def _queue_search(self) -> None:
         filters = self._build_filters()
         self._pending_filters = filters
@@ -556,6 +622,7 @@ class SearchWindow(QMainWindow):
         if filters is None:
             return
         self._pending_filters = None
+        self._active_cache_key = None
 
         db_path = filters.db_path.strip()
         if not db_path:
@@ -567,8 +634,19 @@ class SearchWindow(QMainWindow):
             self.results_table.setRowCount(0)
             return
 
+        cache_key = self._filters_cache_key(filters)
+        cached = self._cache_get(cache_key)
+        if cached is not None:
+            rows, elapsed_ms = cached
+            self._populate_table(rows)
+            self.statusBar().showMessage(f"{len(rows)} result(s) in {elapsed_ms:.1f} ms (cache)")
+            if self._pending_filters is not None:
+                self._start_next_search()
+            return
+
         self._request_counter += 1
         request_id = self._request_counter
+        self._active_cache_key = cache_key
         self.statusBar().showMessage("Searching...")
 
         thread = SearchThread(request_id, filters)
@@ -590,8 +668,11 @@ class SearchWindow(QMainWindow):
             self.results_table.setRowCount(0)
             self._clear_preview("Search error. Fix query and try again.")
         else:
+            if self._active_cache_key is not None:
+                self._cache_put(self._active_cache_key, (rows, elapsed_ms))
             self._populate_table(rows)
             self.statusBar().showMessage(f"{len(rows)} result(s) in {elapsed_ms:.1f} ms")
+        self._active_cache_key = None
 
         if self._pending_filters is not None:
             self._start_next_search()

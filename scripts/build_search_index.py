@@ -81,7 +81,8 @@ def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
               title,
               text,
               url UNINDEXED,
-              tokenize = 'unicode61'
+              tokenize = 'unicode61',
+              prefix = '2 3 4 5'
             );
             """
         )
