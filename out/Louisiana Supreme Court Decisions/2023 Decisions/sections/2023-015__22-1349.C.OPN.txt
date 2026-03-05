@@ -1,0 +1,139 @@
+2022-C-01349
+CAJUN CONTI LLC, CAJUN CUISINE 1 LLC, AND CAJUN CUISINE LLC D/B/A OCEANA GRILL VS. CERTAIN UNDERWRITER AT LLOYD'S, LONDON AND GOVERNOR JOHN B. EDWARDS IN HIS CAPACITY AS GOVERNOR OF THE STATE OF LOUISIANA, AND THE STATE OF LOUISIANA
+https://www.lasc.org/Opinions?p=2023-015
+
+2022-C-01349
+CAJUN CONTI LLC, CAJUN CUISINE 1 LLC, AND CAJUN CUISINE LLC D/B/A OCEANA GRILL VS. CERTAIN UNDERWRITER AT LLOYD'S, LONDON AND GOVERNOR JOHN B. EDWARDS IN HIS CAPACITY AS GOVERNOR OF THE STATE OF LOUISIANA, AND THE STATE OF LOUISIANA
+Court: Louisiana Supreme Court
+Release date: 2023-03-17
+Release: 2023-015
+Author: BY Crain, J.
+Parish: Parish of Orleans Civil
+Disposition: COURT OF APPEAL JUDGMENT REVERSED; TRIAL COURT JUDGMENT REINSTATED. SEE OPINION.
+Release notes: Hughes, J., dissents and assigns reasons. Griffin, J., dissents for the reasons assigned by Justice Hughes.
+Official release page: https://www.lasc.org/Opinions?p=2023-015
+Official PDF: https://www.lasc.org/opinions/2023/22-1349.C.OPN.pdf
+
+FOR IMMEDIATE NEWS RELEASE
+
+NEWS RELEASE #015
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinions handed down on the 17th day of March, 2023 are as follows: BY Crain, J.:
+
+2022-C-01349
+
+CAJUN CONTI LLC, CAJUN CUISINE 1 LLC, AND CAJUN CUISINE
+
+LLC D/B/A OCEANA GRILL VS. CERTAIN UNDERWRITER AT
+
+LLOYD'S, LONDON AND GOVERNOR JOHN B. EDWARDS IN HIS
+
+CAPACITY AS GOVERNOR OF THE STATE OF LOUISIANA, AND THE STATE OF LOUISIANA (Parish of Orleans Civil)
+
+COURT OF APPEAL JUDGMENT REVERSED; TRIAL COURT
+
+JUDGMENT REINSTATED. SEE OPINION.
+
+Hughes, J., dissents and assigns reasons. Griffin, J., dissents for the reasons assigned by Justice Hughes.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2022-C-01349
+
+CAJUN CONTI LLC, CAJUN CUISINE 1 LLC, AND CAJUN CUISINE
+
+LLC D/B/A OCEANA GRILL
+
+VS.
+
+CERTAIN UNDERWRITERS AT LLOYD'S, LONDON AND GOVERNOR
+
+JOHN B. EDWARDS IN HIS CAPACITY AS GOVERNOR OF THE STATE
+
+OF LOUISIANA, AND THE STATE OF LOUISIANA On Writ of Certiorari to the Court of Appeal, Fourth Circuit, Parish of Orleans Civil
+
+CRAIN, J.
+
+Plaintiff seeks insurance coverage under an all-risks commercial insurance policy for business income losses during the COVID-19 pandemic. Finding no "direct physical loss of or damage to property" caused by COVID-19, we reverse the appeal court and reinstate the trial court judgment denying coverage.
+
+FACTS AND PROCEDURAL HISTORY
+
+Oceana Grill is a restaurant in the French Quarter of New Orleans. During normal operations before the COVID-19 pandemic, the restaurant could accommodate 500 guests at any one time. On March 16, 2020, responding to the emerging COVID-19 virus, an emergency proclamation was issued by the mayor of New Orleans prohibiting most public and private social gatherings. Restaurant operations were limited to take-out and delivery services, and Oceana Grill closed to all but those services. Complying with government-imposed capacity restrictions and social distancing requirements, the restaurant reopened at 25% capacity on May 16, 2020. Although restrictions loosened to 50%, then 75% by October, 2020, due to social distancing guidelines Oceana Grill remained at 60% or less capacity throughout the pandemic. Expenses were also incurred to sanitize the space. Due to the capacity limitations and incidental expenses, the restaurant could not generate pre-COVID-19 income.
+
+The owners of the restaurant maintained an all-risks commercial insurance policy with loss of business income coverage through Certain Underwriters at Lloyd's, London. They sought a declaratory judgment that the "policy provides business income coverage from the contamination of the insured premises by
+
+COVID-19."1
+
+Lloyd's responded by seeking a summary judgment arguing there is no coverage under the policy because COVID-19 does not cause "direct physical loss of or damage to property." The trial court denied summary judgment, and the matter proceeded to trial. Following a three-day bench trial, the trial court denied declaratory relief without providing reasons.
+
+The court of appeal reversed. Cajun Conti LLC v. Certain Underwriters at Lloyd's, London, 21-0343 (La. App. 4 Cir. 6/15/22), --- So.3d ---, 2022 WL 2154863. The court found the policy ambiguous, reasoning that "direct physical loss" could mean loss of use of the property. Because the COVID-19 virus prevented the full use of the property due to capacity limitations, coverage was triggered. Two dissenting judges found no ambiguity in the policy language and no coverage. We granted certiorari to interpret "direct physical loss of or damage to property" in the context of business income losses due to the COVID-19 pandemic.
+
+DISCUSSION
+
+Lloyd's argues the policy covers only risks causing tangible alteration to property. They contend that while the COVID-19 virus may be tangible, because it does not cause damage that can be seen or touched, it does not directly physically alter property.
+
+1 Oceana also sought a declaration that the policy provides coverage "for any civil authority orders shutting down or limiting the operations of restaurants in the New Orleans area due to physical loss from COVID-19 within one mile from the plaintiffs' business." This civil authority claim was voluntarily dismissed at the beginning of trial, with Oceana choosing to focus solely on the theory of physical loss or damage from COVID-19 contamination.
+
+Oceana claims significant income losses due to contamination by, and the continued presence of, COVID-19 at its insured location. It argues that contamination by the virus created a dangerous situation that eliminated the use of 50% to 100% of the insured property. Oceana contends either COVID-19 contamination caused direct physical loss of or damage to property or the policy is ambiguous, and either event results in coverage. See La. Civ. Code art. 2056.
+
+The policy provides, in pertinent part: We will pay for the actual loss of Business Income you sustain due to the necessary "suspension" of your "operations" during the "period of restoration." The "suspension" must be caused by direct physical loss of or damage to property at [the] premises....
+
+"Operations" are defined as:
+
+a. Your business activities occurring at the described premises...
+
+"Period of restoration" means the period of time that:
+
+a. Begins 72 hours after the time of direct physical loss or damage caused by or resulting from any Covered Cause of Loss at the described premises; and b. Ends on the earlier of:
+
+(1) The date when the property at the described premises should be repaired, rebuilt or replaced with reasonable speed and similar quality; or (2) The date when business is resumed at a new permanent location.
+
+"Suspension" means:
+
+a. The slowdown or cessation of your business activities...
+
+Thus, to recover lost business income, the insured must experience a suspension of operations "caused by direct physical loss of or damage to property." The suspension may be a "slowdown" or a "cessation" of business activities, and the claimant may recover lost business income during the "period of restoration," but all are conditioned upon "direct physical loss of or damage to property." To determine coverage, we are tasked with interpreting "direct physical loss of or damage to property." Oceana relies on a theory of COVID-19 contamination to establish coverage. To establish contamination, Dr. Lemuel Moye was plaintiff's expert in medicine, biostatistics, and epidemiology, and calculated the scientific probability that at least one infected person entered the restaurant per day. He testified that probability was "overwhelming." He further testified that an infected individual spreads the virus by breathing, and virus particles stay airborne before finally settling onto surfaces where they remain virulent. He said the virus is very difficult to clean completely, especially if infected people continue to enter the environment. Finally, Dr. Moye opined that "when the virus lands on property it transforms that property from noninfectious, safe, to infectious. Nobody wants to touch or wants to be near property that is infectious. So that is damage."
+
+Dr. Allison Stock was defendant's expert in epidemiology. She opined that proper mitigation strategies and adherence to CDC guidelines prevent transmission of the virus, especially on surfaces. She believed COVID-19 could be eliminated through proper cleaning, thus allowing the restaurant to operate safely during the pandemic. Dr. Brian Flinn was defendant's expert in material science. He testified it is possible the virus can be cleaned with a disinfectant, like bleach, and does not cause physical damage to inanimate surfaces. "Direct physical loss of or damage to property" is neither defined in the policy nor has it acquired a technical meaning. As a contract between the parties, an insurance policy should be construed using the general rules of contract interpretation set forth in the Louisiana Civil Code. Cadwallader v. Allstate Ins. Co., 02-1637 (La. 6/27/03), 848 So.2d 577, 580. The judiciary's role in interpreting insurance contracts is to ascertain the common intent of the parties. Id. See La. Civ.
+
+Code art. 2045. Words and phrases used in an insurance policy are to be construed using their plain, ordinary and generally prevailing meaning, unless the words have acquired a technical meaning. Id. See La. Civ. Code art. 2047. We find the plain, ordinary and generally prevailing meaning of "direct physical loss of or damage to property" requires the insured's property sustain a physical, meaning tangible or corporeal, loss or damage. The loss or damage must also be direct, not indirect. Applying these meanings to the facts and arguments presented, COVID-19 did not cause direct physical loss of or damage to Oceana's property. Dr. Moye's testimony that the virus infects and damages property actually conflicts with the fact Oceana cleaned the property with a disinfectant and continued its use. That fact supports Lloyd's experts, who opined the virus does not "damage" surfaces and can be cleaned with a disinfectant. While the restaurant did increase its cleaning practices during the pandemic, the property remained physically intact and functional, needing only to be sanitized. Oceana also claims "direct physical loss" is broader than "damage," and encompasses the inability to use covered property. The argument derives from Oceana's inability to fully use its dining room during the pandemic. However, loss of use alone is not "physical loss." Otherwise, the modifier "physical" before "loss" would be superfluous. While government restrictions on dining capacity and public health guidance regarding social distancing reduced Oceana's in-person dining capacity and restricted its use, again, Oceana's property was not physically lost in any tangible or corporeal sense. Even when in-person dining was prohibited, Oceana's kitchen continued to provide take-out and delivery service, and the restaurant's physical structure was neither lost nor changed. The appellate court erred by focusing on the loss of use rather than on whether a direct physical loss occurred. We find Oceana did not suffer a direct physical loss.
+
+We also find support for our interpretation in the definition of "period of restoration." The insured can recover lost business income during a "period of restoration." That period begins 72 hours after a "direct physical loss of or damage to property." The restoration period ends when the property should be "repaired, rebuilt or replaced with reasonable speed and similar quality" or "business is resumed at a new permanent location." No evidence suggests the words "repaired, rebuilt or replaced" have a technical meaning. See Civil Code art. 2047. Giving them their ordinary and generally prevailing meaning, Oceana never had to repair, rebuild, or replace anything. Social distancing and increased cleaning practices were implemented, but the structure of the property did not physically change. An insurance contract should not be interpreted in an unreasonable or strained manner under the guise of contractual interpretation to enlarge or restrict its provisions beyond what is reasonably contemplated by unambiguous terms. See Cadwallader, 848 So.2d at 580. A layperson would not say that cleaning or sterilizing tables, plates or silverware is a "repair." That interpretation is strained. The fact that Oceana was not required to repair, rebuild or replace anything supports our conclusion that no "direct physical loss of or damage to property" occurred. The appellate court found the policy ambiguous. We disagree. Ambiguous policy provisions are construed against the insurer and in favor of coverage. La. Civ. Code art. 2056. But, where two or more policy interpretations exist, each must be reasonable. Cadwaller, 848 So.2d at 580; Carrier v. Reliance Ins. Co., 99-2573 (La. 4/11/00), 759 So.2d 37, 43-44. Inventive powers cannot be used to create ambiguity where none exists. Cadwaller, 848 So.2d at 580; Succession of Fannaly v. Lafayette Ins. Co., 01-1355 (La. 1/15/02), 805 So.2d 1134, 1138. Whether a contract is clear or ambiguous is a question of law. Cadwaller, 848 So.2d at 580;
+
+Louisiana Ins. Guar. Ass'n v. Interstate Fire & Cas. Co., 93-0911 (La. 1/14/94), 630 So.2d 759, 764. The court of appeal found the term "repair" in the definition of "period of restoration" ambiguous. Merriam-Webster defines "repair" as: a: to restore by replacing a part or putting together what is torn or broken: FIX
+
+repair a shoe b: to restore to a sound or healthy state: RENEW
+
+repair his strength Using definition b, the appellate court reasoned cleaning and sanitizing constitutes repair. However, the synonym "renew" and the example given by the dictionary, "repair his strength," refer to something intangible. In contrast, the first definition of "repair" uses the synonym "fix" and the example is to "repair a shoe," which refer to something tangible. We find the first definition applies when considering loss or damage to property, especially when "repair" is linked in the policy with "rebuild" and "replace," which again suggests fixing a physical defect. While the word has more than one definition, there is only one reasonable definition in the context of this policy. In context, we find no ambiguity in this provision. The appeal court also found ambiguity in the term "suspension," which is defined to include both a slowdown and a cessation of business activities. Again, we find this definition clear. It clarifies that a compensable claim exists for loss of or damage to property that is either partial or total. In either event, the property loss or damage must be physical in nature. Widder v. Louisiana Citizens Prop. Ins. Corp., 11-0196 (La. App. 4 Cir. 8/10/11), 82 So.3d 294, 296, writ denied, 11-2336 (La. 12/02/11), 76 So.3d 1179, is cited in support of coverage. In Widder, plaintiff's home was contaminated by lead dust. Id. at 295. The lead rendered the home "unusable" and "uninhabitable," which the court of appeal considered a direct physical loss. Id. at 296. Ms. Widder was forced to move in order to gut and remediate her home, thus she suffered physical loss. Id. The Widder property was physically altered to remove the lead dust. While arguably the physical alteration was not direct, Widder is nevertheless distinguished because a physical alteration occurred. COVID-19 contamination is also distinguished from the Chinese-drywall cases cited in Widder. Again, remediation of the contaminated drywall required that the drywall be removed and replaced, thus, a direct physical loss. See In re Chinese Manufactured Drywall Products Liability Litigations, 759 F.Supp.2d 822, 831 (E.D.La. 2010) ("[T]he Chinese-manufactured drywall has caused a 'distinct, demonstrable, physical alteration' of the Plaintiffs' homes (the covered properties) by corroding the silver and copper elements in the homes, often to the point of causing total or partial failure in electrical wiring and devices installed in the homes, as well as by emitting odorous gases."). See also Ross v. C. Adams Construction & Design, 10-852 (La. App. 5 Cir. 6/14/11), 70 So.3d 949, 952 ("[Plaintiffs'] home contained Chinese-drywall which emitted sulfuric gases that caused corrosion of the electrical wiring, plumbing components, and other household items." "[T]he inherent qualities of the Chinese-drywall did create a physical loss to the home and required that the drywall be removed and replaced."). While their opinions are not binding on this court, numerous state supreme courts have reached a similar result when analyzing comparable policy language. E.g., Neuro-Commc'n Servs., Inc. v. Cincinnati Ins. Co., --- N.E.3d ---, ---, 2022 WL Inc. v. Factory Mut. Ins. Co., 286 A.3d 1044, 1061 (Md. 12/15/22) ("[T]he presence of Coronavirus in the air and on surfaces at [plaintiff's] properties did not cause 'physical loss or damage' as that phrase is used in the Policies."); Hill & Stout, PLLC v. Mut. Of Enumclaw Ins. Co., 515 P.3d 525, 528 (Wash. 8/25/22) ("It is unreasonable to read 'direct physical loss of ... property' in a property insurance policy to include constructive loss of intended use of property. Such a loss is not 'physical.'"); Colectivo Coffee Roasters, Inc. v. Soc'y Ins., 974 N.W.2d 442, 447 (Wis. 6/1/22) ("[T]he presence of COVID-19 does not constitute a physical loss of or damage to property because it does not 'alter the appearance, shape, color, structure, or other material dimension of the property.'"); Verveine Corp. v. Strathmore Ins. Co., 184 N.E.3d 1266, 1274 (Mass. 4/21/22) ("We conclude that no reasonable interpretation of direct physical loss of or damage to property supports the plaintiffs' claims."). In fact, to date no state supreme court that has addressed this issue has finally decided the presence of COVID-19 constitutes a physical loss of or damage to property. Last, Oceana argues for coverage because an available virus exclusion was not included in the policy. At the time the subject policy was issued and the pandemic occurred, an exclusion for virus and bacteria was available from the Insurance Services Office, who publishes standardized policy forms to the insurance industry. We find its existence irrelevant to this case. A contract must be interpreted within its "four corners" whenever the words are clear, explicit and lead to no absurd consequences. Peterson v. Schimek, 98-1712 (La. 3/2/99), 729 So.2d 1024, 1031. When these conditions are met, a court is prohibited from taking parol evidence to explain or contradict the clear meaning of the contract. Id. Because we find the contract clear, it is unnecessary to consider parol evidence relative to a virus exclusion not included in the policy.
+
+17573883 (Ohio 12/12/22) ("The definition of the term 'loss' is clear: for coverage to be provided, there must be loss or damage to Covered Property that is physical in nature. Such loss or damage does not include a loss of the ability to use Covered Property for business purposes."); Sullivan Mgmt., LLC v. Fireman's Fund Ins. Co.,
+
+879 S.E.2d 742, 746 (S.C. 8/10/22) ("Because neither the presence of the coronavirus nor the government order prohibiting indoor dining constitutes 'direct physical loss or damage,' the policy's triggering language is not met."); Tapestry,
+
+CONCLUSION
+
+The subject policy provides business income coverage during a suspension of operations that is "caused by direct physical loss of or damage to property." COVID-19 required Oceana to decrease its capacity, spread out its guests and allocate greater attention to cleaning and sanitation. However, COVID-19 did not cause damage or loss that was physical in nature. Oceana never repaired, rebuilt or replaced any property that was allegedly lost or damaged. While we are sympathetic to the immense economic challenges faced in responding to the pandemic, we cannot alter the terms of an insurance contract under the guise of contractual interpretation when the policy uses unambiguous terms. Cadwallader, 848 So.2d at 580; citing Peterson,
+
+729 So.2d at 1029. This insurance contract is clear and must be enforced as written.
+
+COURT OF APPEAL JUDGMENT REVERSED; TRIAL COURT
+
+JUDGMENT REINSTATED.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2022-C-01349
+
+CAJUN CONTI LLC, CAJUN CUISINE 1 LLC, AND CAJUN CUISINE
+
+LLC D/B/A OCEANA GRILL
+
+VS.
+
+CERTAIN UNDERWRITER AT LLOYD'S, LONDON AND GOVERNOR
+
+JOHN B. EDWARDS IN HIS CAPACITY AS GOVERNOR OF THE STATE
+
+OF LOUISIANA, AND THE STATE OF LOUISIANA On Writ of Certiorari to the Court of Appeal, Fourth Circuit, Parish of Orleans Civil Hughes, J., dissenting. I respectfully dissent. While Oceana did not suffer any physical damage, it did suffer physical loss of its property due to the physical contamination of the property by the Covid virus, a physical thing. Like smoke from a fire next door that did no physical damage to the premises, but caused the business to be closed until the odor could be removed and the business cleaned, a physical loss occurred.

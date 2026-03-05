@@ -1,0 +1,56 @@
+2001-C-1697
+MICHAEL E. ROBINSON v. CAROLYN S. HEARD , IMPERIAL ADJUSTMENT CORPORATION, AND INTERSTATE FIRE AND CASUALTY INSURANCE COMPAN
+https://www.lasc.org/Opinions?p=2002-014
+
+2001-C-1697
+MICHAEL E. ROBINSON v. CAROLYN S. HEARD , IMPERIAL ADJUSTMENT CORPORATION, AND INTERSTATE FIRE AND CASUALTY INSURANCE COMPAN
+Court: Louisiana Supreme Court
+Release date: 2002-02-26
+Release: 2002-014
+Author: BY WEIMER, J. 
+Disposition: Y (Parish of E. Baton Rouge) For the foregoing reasons, the appellate court decision is reversed and the judgment rendered by the district court is reinstated. REVERSED AND RENDERED.
+Release notes: JOHNSON, J., dissents and assigns reasons . PER CURIAM :
+Official release page: https://www.lasc.org/Opinions?p=2002-014
+Official PDF: https://www.lasc.org/opinions/2002/01c1697.opn.pdf
+
+02/26/02 "See News Release 14 for any concurrences and/or dissents."
+
+SUPREME COURT OF LOUISIANA
+
+01-C-1697
+
+MICHAEL E. ROBINSON
+
+versus
+
+CAROLYN S. HEARD, IMPERIAL ADJUSTMENT
+
+CORPORATION, AND INTERSTATE FIRE AND
+
+CASUALTY INSURANCE COMPANY
+
+ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, FIRST
+
+CIRCUIT, PARISH OF EAST BATON ROUGE
+
+WEIMER, Justice The writ was granted in this matter to determine whether the court of appeal erred in reversing the district court's grant of summary judgment in favor of Interstate Fire & Casualty Insurance Company. For reasons that follow, we reverse the judgment of the court of appeal and reinstate the judgment of the district court.
+
+FACTS AND PROCEDURAL BACKGROUND
+
+Plaintiff, Michael E. Robinson, filed suit seeking recovery for damages sustained in an automobile accident which occurred on December 11, 1997. The petition alleged he was injured when the vehicle he was driving was struck by a vehicle driven by Carolyn S. Heard (Heard), insured by Imperial Fire and Casualty Insurance Company (Imperial). Plaintiff alleged the accident was caused by the fault and/or negligence of Heard and his damages exceeded the limits of the Imperial policy insuring the Heard vehicle. Robinson named his insurer, Interstate Fire & Casualty Company (Interstate), as an additional defendant under the terms of his policy seeking recovery for benefits provided under underinsured/uninsured motorist (UM) coverage.
+
+Interstate filed an answer denying coverage due to the fact that Robinson signed a rejection for UM coverage on January 16, 1997; thus, there was no UM coverage provided on the vehicle he was driving on the date and at the time of the accident. At the time of the accident, Robinson was driving his personal vehicle, a The motion for summary judgment claimed Interstate was entitled to judgment as a matter of law. The district court agreed, granted Interstate's motion, and dismissed plaintiff's petition. Robinson appealed. The First Circuit Court of Appeal reversed the trial court, finding UM coverage. Although Robinson was the owner of both vehicles, the court reasoned "Interstate issued separate insurance policies for different purposes." Robinson v. Heard, 2000-0625, 2001 WL 498683, at *3, (La.App. 1 Cir 5/11/01), ___ So.2d ___, writ granted, 2000-1697 (La. 10/5/01). The court, while recognizing that Robinson was a sole proprietor, reasoned that for purposes of insurance, the company could consider the status of Robinson as an individual for the personal auto policy and as a business entity, albeit not a separate legal entity, for the commercial insurance policy. The court recognized that although there was no legal distinction between the business and Robinson personally, the two could be considered as "belonging to two distinct classifications of insureds for automobile liability purposes." Robinson, 2001 WL 498683, at *3. The court of appeal held that the district court erred in granting summary judgment, reversed the judgment of the district court, and remanded the matter for further proceedings. Interstate filed an application for writ of certiorari claiming the court of appeal erred and asking this court to reinstate the district court judgment. The writ was granted and the matter scheduled for argument.
+
+1995 Toyota pick-up truck, insured by Interstate. The personal auto policy affording coverage on the Toyota did not include UM coverage. Robinson was the owner/operator of Mike Robinson Enterprises, a sole proprietorship. He owned a 1997 Ford F-150 pick-up truck which was used for business and was titled in the name of Mike Robinson Enterprises. The Ford was insured under a commercial business auto policy provided by Interstate with the named insured listed as Mike Robinson Enterprises. The commercial policy on the Ford included UM coverage. On the day of the accident, Robinson claimed he was driving his personal vehicle, the Toyota, because the Ford used for his business had a flat tire and was out of commission. Robinson claimed the Toyota was a substitute vehicle and, thus, the coverage on the business auto policy provided coverage for the accident. Robinson made this claim because, as indicated, UM coverage on the Toyota was waived. Robinson settled with Heard and Imperial, reserving the right to proceed against Interstate for additional damages. Interstate filed a motion for summary judgment on the grounds that the vehicle driven by Robinson at the time of the accident was not a "covered vehicle" under Interstate's policy of insurance. Interstate asserted that Robinson owned the Toyota he was driving; therefore, the Toyota did not qualify as a "temporary substitute" vehicle under the commercial policy covering the Ford.
+
+DISCUSSION
+
+A reviewing court examines summary judgments de novo under the same criteria that govern the district court's consideration of whether summary judgment is appropriate. Smith v. Our Lady of the Lake Hospital, Inc., 93-2512 (La. 7/5/94), 639 So.2d 730, 750. A reviewing court thus asks the same questions as does the trial court in determining whether summary judgment is appropriate: whether there is any genuine issue of material fact, and whether the mover is entitled to judgment as a matter of law. Smith, 639 So.2d at 750. Interpretation of an insurance contract is usually a legal question that can be properly resolved in the framework of a motion for summary judgment. Sanchez v. Callegan, 99-0137 (La.App. 1 Cir. 2/18/00), 753 So.2d 403, 405. When the language of an insurance policy is clear and unambiguous, a reasonable interpretation consistent with the obvious meaning and intent of the policy must be given. Sanchez, 753 So.2d at 405. Louisiana law recognizes two kinds of persons: natural persons and juridical persons. LSA-C.C. art. 24. A juridical person is defined as an entity to which the law attributes personality, such as a corporation or a partnership. Id. The code further provides that the personality of a juridical person is distinct from that of its members. Id. Black's Law Dictionary defines sole proprietorship as "[a] form of business in which one person owns all the assets of the business in contrast to a partnership, trust or corporation. The sole proprietor is solely liable for all the debts of the business." BLACK'S LAW DICTIONARY 1392 (6 ed. 1990). A sole th proprietorship is not a legal entity. It is merely a designation assigned to a manner of doing business by an individual. While the individual involved in the sole proprietorship may consider the business to be separate and distinct from his/her person, there exists no legal distinction between the individual and the business. See Trombley v. Allstate Insurance Co., 93-1669, pp. 3-4 (La. App. 3 Cir. 6/1/94), 640 So.2d 815, 817. The right of ownership may exist only in favor of a natural person or a juridical person. LSA-C.C. art. 479. Any assets of a sole proprietorship are legally and actually owned by the sole proprietor. Although the vehicle insured under the commercial auto policy with Interstate may have been titled in the name of Mike Robinson Enterprises, Mike Robinson was the owner of the vehicle. The declaration page of the Interstate policy naming Mike Robinson Enterprises as the named insured designated the business as owned by an individual. Louisiana Civil Code article 1918 provides: "All persons have capacity to contract, except unemancipated minors, interdicts, and persons deprived of reason at the time of contracting." A sole proprietorship is not a person. Mike Robinson Enterprises is not a legal entity. It is not a corporation, partnership or other juridical person. It cannot sue or be sued, own property, enter into contracts or perform any other function that a natural or juridical person possesses the capacity to do. Mike Robinson Enterprises is a sole proprietorship and, as such, did not possess the capacity to enter into a contract of insurance with Interstate. Only Mike Robinson individually had the capacity to enter into a contract of insurance. A policy of insurance is a contract between an insurance company and the insured. In this case, the contract for insurance was between Mike Robinson and Interstate. The insurance policy covering the Ford which included coverage for UM contained a provision whereby liability coverage under the policy was extended to "[a]ny 'auto' you do not own while used with the permission of its owner as a temporary substitute for a covered 'auto' you own that is out of service." The UM coverage for bodily injury section of the policy contained a section entitled exclusions. Item 4 under exclusions provides that there is no coverage for: "Bodily injury" sustained by an "insured" while "occupying" or struck by any vehicle owned by that "insured" that is not a covered "auto". By the above terms of the policy, the vehicle driven by Robinson did not qualify as a temporary substitute vehicle because he owned the vehicle. Additionally, the vehicle he was driving was excluded from UM coverage because it was a vehicle he owned which was not listed as a covered vehicle under the policy.
+
+Parties are free to contract for any object that is lawful, possible, and determined or determinable. LSA-C.C. art. 1971. The terms of the contract must be given effect. Under the terms of the Interstate policy, UM coverage is excluded because the vehicle Robinson was occupying at the time of the accident was a vehicle owned by him which was not listed as an insured vehicle on the policy. Finding no reason to circumvent the clear language of the policy, we hold that error was committed in reversing the decision of the district court. The judgment of the court of appeal is reversed. The judgment of the district court is reinstated.
+
+CONCLUSION
+
+For the foregoing reasons, the appellate court decision is reversed and the judgment rendered by the district court is reinstated.
+
+REVERSED AND RENDERED.

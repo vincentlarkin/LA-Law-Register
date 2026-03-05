@@ -1,0 +1,78 @@
+2021-K-01336
+STATE OF LOUISIANA VS. LADARIOUS BROWN
+https://www.lasc.org/Opinions?p=2022-031
+
+2021-K-01336
+STATE OF LOUISIANA VS. LADARIOUS BROWN
+Court: Louisiana Supreme Court
+Release date: 2022-06-29
+Release: 2022-031
+Author: PER CURIAM
+Parish: Parish of Union
+Disposition: REVERSED IN PART. SEE PER CURIAM.
+Official release page: https://www.lasc.org/Opinions?p=2022-031
+Official PDF: https://www.lasc.org/opinions/2022/21-1336.K.OPN.pdf
+
+FOR IMMEDIATE NEWS RELEASE
+
+NEWS RELEASE #031
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinions handed down on the 29th day of June, 2022 are as follows:
+
+PER CURIAM:
+
+2021-K-01336
+
+STATE OF LOUISIANA VS. LADARIOUS BROWN (Parish of Union)
+
+REVERSED IN PART. SEE PER CURIAM.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2021-K-01336
+
+STATE OF LOUISIANA VS.
+
+LADARIOUS BROWN
+
+On Writ of Certiorari to the Court of Appeal, Second Circuit, Parish of Union
+
+PER CURIAM:
+
+We granted defendant's application to determine whether the court of appeal correctly applied State v. Mayeux, 498 So.2d 701 (La. 1986) in finding that defendant's conviction for attempted aggravated flight from an officer was a nullity and therefore jeopardy had not attached.1 We find that this court previously erred in its double jeopardy analysis in State v. Mayeux, and further that the court of appeal erred here in deciding whether jeopardy had attached. Nevertheless, the court of appeal correctly vacated the conviction for attempted aggravated flight from an officer as a non-crime that was not responsive to the charge of aggravated flight from an officer. Accordingly, we reverse the court of appeal's decision insofar as it found jeopardy had not attached, but otherwise affirm the decision vacating the conviction for attempted aggravated flight from an officer.
+
+Defendant Ladarious Brown was arrested for several offenses stemming from a domestic incident, but he was ultimately charged with two crimes: illegal use of weapons, La.R.S. 14:94; and aggravated flight from an officer, La.R.S. 14:108.1. A jury found defendant guilty as charged of illegal use of weapons and guilty of attempted aggravated flight from an officer. The jury had been instructed that guilty of attempted aggravated flight from an officer was a lesser responsive verdict to the charge of aggravated flight from an officer. As an error patent, the court of appeal found that the verdict of guilty of attempted aggravated flight from an officer is not responsive to the charge of aggravated flight from an officer, citing La.C.Cr.P. art. 814(A)(53).2 Applying State v. Mayeux, the court of appeal further found that the invalid conviction for attempted aggravated flight from an officer "operated as neither a conviction nor an acquittal and double jeopardy did not attach." State v. Brown, 53,800, p. 8 (La. App. 2 Cir. 6/23/21), 319 So.3d 468, 474.
+
+1 Today, we also decide State v. Gasser, 2022-00064 (La.), ___ So.3d ___, in which a question of double jeopardy is presented.
+
+Defendant in State v. Mayeux, Harold Mayeux, was indicted on two counts of aggravated battery, La.R.S. 14:34. The jury was instructed that a verdict of guilty of attempted aggravated battery could be returned in response to the crime charged. The jury found Mayeux guilty of attempted aggravated battery on both counts. The court of appeal found the verdicts were invalid because guilty of attempted aggravated battery was not a legislatively authorized responsive verdict to a charge of aggravated battery, and therefore the court of appeal entered an order of acquittal. State v. Mayeux, 485 So.2d 256 (La. App. 3 Cir. 1986). This court reversed the court of appeal, agreeing that the convictions must be set aside because the verdicts were invalid, but remanding for a new trial. State v. Mayeux, 498 So.2d 701 (La. 1986). With regard to double jeopardy, this court found that the conviction for a non-crime, attempted aggravated battery, could operate neither as a conviction nor acquittal.
+
+Upon retrial, Mayeux was found guilty of one count of aggravated battery
+
+2 Code of Criminal Procedure art. 814(A)(53) provides the following responsive verdicts for a charge of aggravated flight from an officer:
+
+Guilty.
+
+Guilty of flight from an officer.
+
+Not guilty.
+
+(and acquitted of the other count). The conviction was affirmed on appeal. State v. Mayeux, 526 So.2d 1243 (La. App. 3 Cir. 1988), writ denied, 531 So.2d 262 (La. 1988). Thereafter, a federal district court granted habeas relief and ordered Mayeux released from custody. Mayeux v. Belt, 737 F.Supp. 957 (W.D. La. 1990). The federal district court found that when the jury returned verdicts of guilty of attempted aggravated battery in Mayeux's first trial, although the verdicts were invalid, the jury implicitly acquitted him of the charged crimes: Even though the jury at Mayeux's first trial returned an improper verdict, that jury had been "given a full opportunity to return a verdict" on the charge of aggravated battery, and instead reached a verdict on what the judge had instructed was a lesser charge. The judge had clearly told the jury that if they were not convinced that Mayeux was guilty of aggravated battery, but were convinced beyond a reasonable doubt that he was guilty of attempted aggravated battery, the form of their verdict should be, "We, the jury, find the defendant guilty of Attempted Aggravated Battery." When the jury brought back precisely that verdict, it clearly showed that the jury had acquitted Mayeux of aggravated battery. Therefore, Mayeux's second trial unconstitutionally put him in jeopardy a second time on the charges of aggravated battery.
+
+Mayeux v. Belt, 737 F.Supp. at 961. Applying Fong Foo v. United States, 369 U.S. 141, 82 S.Ct. 671, 7 L.Ed.2d 629 (1962), the federal district court found that double jeopardy protections barred the State from retrying Mayeux for aggravated battery: Even though the verdict of the jury at Mayeux's first trial could operate neither as a conviction nor acquittal of the non-crime of "attempted aggravated battery", there is no reason why it could not operate as an acquittal of the charge of aggravated battery, because the judge's instructions so directed. Even though the judge's instructions concerning a possible verdict of "attempted aggravated battery" were egregiously erroneous, that judicial error does not give the State a basis for retrying Mr. Mayeux.
+
+Mayeux v. Belt, 737 F.Supp. at 961-62.
+
+The interpretation of federal constitutional law by the federal district court exercising its habeas jurisdiction in Mayeux v. Belt is not binding on this court. See State v. Sanders, 93-0001, p. 7 (La. 11/30/94), 648 So.2d 1272, 1279. However, it is persuasive authority. Furthermore, this court has previously questioned the continued viability of its Mayeux decision. See, e.g., State v. Graham, 2014-1801, pp. 9-10 (La. 10/14/15), 180 So.3d 271, 277-78. Moreover, this court found in State v. Price, 2017-0520, p. 8 (La. 6/27/18), 250 So.3d 230, 235, that a jury's return of a non-responsive verdict is an implicit acquittal of the crime charged. The courts of appeal have continued to apply State v. Mayeux. See, e.g., State v. Nazar, 96-0175, pp. 4-5 (La. App. 4 Cir. 5/22/96), 675 So.2d 780, 782-83 ("Although this Court finds the reasoning of the federal district court in Mayeux v. Belt, 737 F.Supp. at 957, persuasive, we follow State v. Mayeux, 498 So.2d at 701, which holds that the verdict of guilty of a non-crime cannot serve as an acquittal or a conviction for double jeopardy purposes.").3 Therefore, we explicitly overrule that portion of the Mayeux decision that found that a conviction "for a crime unresponsive under art. 814 and unspecific in our criminal law . . . operate[s] neither as a conviction nor acquittal." Mayeux, 498 So.2d at 705.
+
+We observe that, while the court of appeal correctly found the conviction for a non-crime that was not responsive to the crime charged must be set aside, it need not have reached the double jeopardy question at all. Until the district attorney exercises his charging discretion following remand,4 no double jeopardy violation yet exists. Because the court of appeal decided the double jeopardy question, however, we find it prudent to address that determination now. The Double Jeopardy Clause of the Fifth Amendment protects against a second prosecution for the same offense after acquittal; a second prosecution for the same offense after conviction; and multiple punishments for the same offense. North Carolina v. Pearce, 395 U.S. 711, 717, 89 S.Ct. 2072, 2076, 23 L.Ed.2d 656 (1969). That "'[a] verdict of acquittal . . . [may] not be reviewed . . . without putting [the defendant] twice in jeopardy, and thereby violating the Constitution,'" has been described as "the most fundamental rule in the history of double jeopardy jurisprudence." United States v. Martin Linen Supply Co., 430 U.S. 564, 571, 97 S.Ct. 1349, 1354, 51 L.Ed.2d 642 (1977), quoting United States v. Ball, 163 U.S. 662, 671, 16 S.Ct. 1192, 1195, 41 L.Ed. 300 (1896). The fundamental nature of this rule is manifested by its explicit extension to situations where an acquittal is "based upon an egregiously erroneous foundation." Fong Foo v. United States, 369 U.S. 141, 143, 82 S.Ct. 671, 672, 7 L.Ed.2d 629 (1962); see Green v. United States, 355 U.S. 184, 188, 78 S.Ct. 221, 223, 2 L.Ed.2d 199 (1957). A nonresponsive verdict is an error that constitutes grounds for reversal. State v. Thibodeaux, 380 So.2d 59, 61 (La. 1980). Moreover, a nonresponsive verdict is a patent error that does not require a contemporaneous objection. See La.C.Cr.P. art. 920(2); see also State v. Campbell, 95-1409, p. 3 (La. 3/22/96), 670 So.2d 1212, 1213. Here, the jury returned a nonresponsive verdict, which the court of appeal correctly vacated. Even though the jury's verdict could operate neither as a conviction nor acquittal of the non-crime of attempted aggravated flight from an officer, there is no reason why it could not operate as an acquittal of the charge of aggravated flight from an officer, because the judge's instructions so directed. Even though the judge's instructions concerning a possible verdict of attempted aggravated flight from an officer were erroneous under La.C.Cr.P. art. 814(A)(53), that error does not give the State a basis for retrying defendant for aggravated flight from an officer in violation of the Double Jeopardy Clause.
+
+3 But see State v. Sims, 53,791, pp. 19-21 (La. App. 2 Cir. 6/30/21), 322 So.3d 902, 912-14 (criticizing State v. Mayeux as an outlier with which the court of appeal disagreed, and collecting cases critical of Mayeux).
+
+4 See La.C.Cr.P. art. 61 ("Subject to the supervision of the attorney general, as provided in Article 62, the district attorney has entire charge and control of every criminal prosecution instituted or pending in his district, and determines whom, when, and how he shall prosecute."); see also La. Const. Art. V § 26(B) ("Except as otherwise provided by this constitution, a district attorney, or his designated assistant, shall have charge of every criminal prosecution by the state in his district, be the representative of the state before the grand jury in his district, and be the legal advisor to the grand jury. He shall perform other duties provided by law.").
+
+Accordingly, we reverse the court of appeal's decision insofar as it found jeopardy had not attached, but otherwise affirm the decision vacating the conviction for attempted aggravated flight from an officer.
+
+REVERSED IN PART

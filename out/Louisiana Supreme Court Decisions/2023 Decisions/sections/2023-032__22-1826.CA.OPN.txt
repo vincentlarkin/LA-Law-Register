@@ -1,0 +1,203 @@
+2022-CA-01826
+T.S VS. CONGREGATION OF HOLY CROSS SOUTHERN PROVINCE, INC. AND HOLY CROSS COLLEGE, INC.
+https://www.lasc.org/Opinions?p=2023-032
+
+2022-CA-01826
+T.S VS. CONGREGATION OF HOLY CROSS SOUTHERN PROVINCE, INC. AND HOLY CROSS COLLEGE, INC.
+Court: Louisiana Supreme Court
+Release date: 2023-06-27
+Release: 2023-032
+Author: BY Genovese, J.
+Parish: Parish of Orleans Civil
+Disposition: VACATED IN PART; AFFIRMED IN PART; AND REMANDED. SEE OPINION.
+Release notes: Weimer, C.J., dissents in part and assigns reasons. Hughes, J., concurs in the result. Crichton, J., concurs in part, dissents in part for reasons assigned by Crain, J. Crain, J., concurs in part, dissents in part and assigns reasons. Griffin, J., concurs in the result.
+Official release page: https://www.lasc.org/Opinions?p=2023-032
+Official PDF: https://www.lasc.org/opinions/2023/22-1826.CA.OPN.pdf
+
+FOR IMMEDIATE NEWS RELEASE
+
+NEWS RELEASE #032
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinions handed down on the 27th day of June, 2023 are as follows: BY Genovese, J.:
+
+2022-CA-01826
+
+T.S VS. CONGREGATION OF HOLY CROSS SOUTHERN PROVINCE, INC. AND HOLY CROSS COLLEGE, INC. (Parish of Orleans Civil)
+
+VACATED IN PART; AFFIRMED IN PART; AND REMANDED. SEE
+
+OPINION.
+
+Weimer, C.J., dissents in part and assigns reasons. Hughes, J., concurs in the result. Crichton, J., concurs in part, dissents in part for reasons assigned by Crain, J. Crain, J., concurs in part, dissents in part and assigns reasons. Griffin, J., concurs in the result.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2022-CA-01826
+
+T.S
+
+VS.
+
+CONGREGATION OF HOLY CROSS SOUTHERN PROVINCE, INC. AND
+
+HOLY CROSS COLLEGE, INC.
+
+On Appeal from the Civil District Court, Parish of Orleans Civil
+
+GENOVESE, J.
+
+In this tort case, Defendants, the Congregation of Holy Cross Southern Province, Inc. and Holy Cross College, Inc. (collectively "Holy Cross"), challenge the constitutionality of 2021 La. Acts 322, §2 ("Act 322"), an enactment of the Louisiana legislature that amended La. R.S. 9:2800.9 and revived prescribed child sex abuse claims for a limited three-year period (sometimes referred to as "revival provision").1 Plaintiff, T.S., directly appealed the trial court's judgment sustaining Holy Cross's exception of prescription. In sustaining the exception, the trial court found the matter could not be resolved on non-constitutional grounds and declared Act 322, §2 unconstitutional, reasoning that the legislature lacked authority to revive a prescribed claim.2 After reviewing the record, along with the pertinent legislation, we conclude that the trial court erred in finding Act 322 unconstitutional when this matter could be resolved on non-constitutional, statutory grounds. Nevertheless, we find that the trial court was correct in granting the exception of prescription. Accordingly, we vacate the trial court's judgment in part and affirm in part.
+
+1 Act 322, §1 eliminated the prescriptive period for certain abuses against minors. Section 1 is not at issue in this case. Section 2 provides: Section 2. For a period of three years following the effective date of this Act, any party whose action under R.S. 9:2800.9 was barred by liberative prescription prior to the effective date of this Act shall be permitted to file an action under R.S. 9:2800.9 against a party whose alleged actions are the subject of R.S. 9:2800.9. It is the intent of the legislature to revive for a period of three years any claim against a party, authorized by R.S. 9:2800.9, that prescribed prior to the effective date of this Act.
+
+2 Direct appeals to this Court are authorized by La. Const. art. V, § 5(D)(1), which provides: "Appellate Jurisdiction. In addition to other appeals provided by this constitution, a case shall be appealable to the supreme court if (1) a law or ordinance has been declared unconstitutional. . . ."
+
+FACTS AND PROCEDURAL HISTORY
+
+T.S., filed suit against Holy Cross, seeking damages for injuries allegedly suffered as a result of sexual abuse by Brother Stanley Repucci, a former teacher employed by Holy Cross.3 T.S. claimed the abuse occurred at the school's dormitory in 1964 or 1965, when he was eleven years old.
+
+In his amended petitions, T.S. alleged Holy Cross is liable for negligently hiring, training, retaining, and/or supervising Brother Repucci. In addition, T.S. alleged Holy Cross is vicariously liable for Brother Repucci's tortious conduct. Relying on the revival provision of Act 322, T.S. maintained his claim was timely.
+
+In response, Holy Cross filed a peremptory exception of prescription, arguing that T.S.'s claim was subject to the general one-year liberative prescriptive period for delictual actions.4 Holy Cross argued T.S. never had a cause of action under La. R.S. 9:2800.9 which could have been revived by the amendment to Act 322.5 Alternatively, Holy Cross claimed that even if the revival provision applied to this
+
+3 After the record was lodged with this Court, T.S. died. As a result, his legal successors were substituted as Plaintiffs. For purposes of this opinion, we will continue to refer to the Plaintiffs as
+
+"T.S."
+
+4 See La. Civ. Code art. 3492 cmt. (b), which provides that delictual actions include intentional misconduct.
+
+5 Initially, the legislature enacted 1993 La. Acts 694, § 1, which created La. Civ. Code art. 3498.1, relating to prescription applicable to an action against a person for abuse of a minor. That same year, the article was re-designated as La. R.S. 9:2800.9 pursuant to the statutory revision authority of the Louisiana State Law Institute. As originally enacted in 1993, La. Civ. Code art. 3498.1(A) provided:
+
+An action against a person for sexual abuse of a minor is subject to a liberative prescriptive period of ten years. This prescription commences to run from the day the minor attains majority, and this prescription for all purposes shall be suspended until the minor reaches the age of majority. Abuse has the same meaning as provided in Louisiana Children's Code Article 603(1)(c). This prescriptive period shall be subject to any exception of peremption provided by law. case, it is unconstitutional insofar as it operates to disturb a vested property right in violation of its Fourteenth Amendment due process rights. In opposition, T.S. argued the revival provision was constitutional. In the alternative, he argued the doctrine of contra non valentem applied to suspend the commencement of prescription.
+
+After a hearing, the trial court sustained Holy Cross's exception of prescription and dismissed T.S.'s suit with prejudice. Thereafter, the trial court granted T.S.'s motion for new trial to clarify the language in the judgment. In the amended judgment, the trial court found that the matter could not be disposed of on non-constitutional grounds, and specifically held that Act 322 was unconstitutional. In its written reasons for judgment, the trial court held that a plaintiff's prescribed claim cannot be revived by the legislature, and the doctrine of contra non valentem did not apply to toll prescription.6 T.S. appealed the trial court's judgment directly to this Court.
+
+LAW AND ANALYSIS
+
+On direct appeal, T.S. asserts that the trial court erred in sustaining the exception of prescription under La. R.S. 9:2800.9, as amended Act 322. He maintains that the legislature's express revival of prescribed claims is not precluded by the due process clause because there is no vested property right in a prescriptive period. Even assuming there was a vested right, he argues that the legislature has the authority to revive previously prescribed claims when it expressly states its intention to do so, and there is a legitimate governmental purpose.
+
+6 The trial court noted that Act 322 provided a three-year window to bring suit for prescribed claims. It also observed that in a 2022 amendment, the legislature clarified its intent to revive all child abuse claims, "not just those after 1993." As such, it held the 2022 amendment could not apply to revive Plaintiff's prescribed claim. Significantly, the constitutionality of the 2022 amendment is not before this Court. Moreover, our jurisprudence is clear that a trial court's reasons for judgment form no part of the judgment, and appellate courts review judgments, not reasons for judgment. Bellard v. Am. Cent. Ins. Co., 07-1335, p. 25 (La. 4/18/08), 980 So.2d 654, 671.
+
+We disagree with T.S. that the trial court erred in granting Holy Cross's exception of prescription. However, as discussed more fully herein, we base our decision on statutory, rather than constitutional, grounds. We, thus, pretermit a
+
+discussion of the merits of this case and find the trial court erred in holding that the
+
+dispute could not be resolved on non-constitutional grounds. In Burmaster v. Plaquemines Par. Gov't, 07-2432 (La. 5/21/08), 982 So.2d 795, we explained the well-settled principle that courts should avoid reaching or determining the constitutionality of legislation unless it is essential to a resolution of the case: Although Louisiana courts generally possess the power and authority to decide the constitutionality of challenged statutory provisions, a court is required to decide a constitutional issue only "if the procedural posture of the case and the relief sought by the appellant demand that [it] do so." Ring v. State, Dept. of Transp. & Development, 02-1367, p. 6 (La.1/14/03), 835 So.2d 423, 428. Accordingly, "courts should refrain from reaching or determining the constitutionality of legislation unless, in the context of a particular case, the resolution of the constitutional issue is essential to the decision of the case or controversy." Id. at 4, 835 So.2d at 426. Courts "should avoid constitutional rulings when the case can be disposed of on non-constitutional grounds." Id. [a]t 4, 835 So.2d at 427. Therefore, if this case can be disposed of on the basis of a statutory argument (i.e., a non-constitutional ground), this court should base its decision on the statutory ground ... [emphasis added]
+
+Id., 07-2432, p. 7, 982 So.2d at 802-03.
+
+A resolution of this matter is not dependent on a determination of the constitutionality of Act 322. Rather, the matter may be resolved on a statutory basis. Contrary to T.S.'s position, in enacting Act 322, the legislature did not clearly express an intent to revive prescribed sexual abuse claims that occurred prior to 1993.
+
+Recently, in Succession of Lewis, 22-00079 (La. 10/21/22), 351 So.3d 336, this Court reiterated that in order to revive prescribed claims, at a minimum, the legislature must make a clear and unequivocal expression. The Lewis Court stated: This Court has clearly stated in Cameron Parish School Board v. Acands, Inc., 687 So.2d 84 (La. 1/14/97) ... and Chance v. American Honda Motor Co., Inc., 635 So.2d 177, that the legislative revival of previously prescribed claims denies the Defendant of the right to plead prescription. This Court describes that change as substantive as it applies to the Defendant [,] who may be deprived of the right to plead prescription. Thus, this Court has said [that] in such circumstance, to allow retroactive application of a new law (which revives claims subject to the defense of prescription),
+
+"we require at the very least, a clear and unequivocal expression by the Legislature for such an extreme exercise of legislative power."
+
+See Chance, supra, Pg. 178 and Cameron Parish School Board, supra, Pg. 89.
+
+Id., 22-00079, p. 4, 351 So.3d at 339. Guided by this principal, we now review Act 322, which amended La. R.S. 9.2800.9. In particular, Section 2 provides: Section 2. For a period of three years following the effective date of this Act, any party whose action under R.S. 9:2800.9 was barred by liberative prescription prior to the effective date of this Act shall be permitted to file an action under R.S. 9:2800.9 against a party whose alleged actions are the subject of R.S. 9:2800.9. It is the intent of the legislature to revive for a period of three years any claim against a party, authorized by R.S. 9:2800.9, that prescribed prior to the effective date of this Act. [emphasis added]
+
+In the case before us, the basis of Holy Cross's exception of prescription was that T.S.'s claim was subject to the general one-year liberative prescriptive period for delictual actions.7 Thus, it argued that the revival period of Act 322 did not apply. Essentially, it claimed that because La. R.S. 9:2800.9 did not exist when T.S.'s claims arose, he never had a cause of action under that statute. We agree.8 La. R.S. 9:2800.9 was first enacted in 1993. While Section 2 of Act 322 provides a clear and unequivocal intention to revive claims under La. R.S. 9:2800.9, there is no clear expression to revive claims prior to 1993, before La. R.S. 9:2800.9 was enacted. Because the cause of action in this case arose in the mid-1960s, it prescribed under the one-year liberative prescriptive period then in effect. See La. Civ. Code art. 3492.9 As a result, T.S.'s action had long since prescribed prior to the 1993 enactment of La. R.S. 9:2800.9. Therefore, T.S.'s suit was not an action "under R.S. 9:2800.9" for purposes of Section 2 of the 2021 amendment. Absent a clear legislative expression, we cannot apply Act 322 to revive T.S.'s claim from the mid-1960s. Moreover, applying the clear language of Section 2, pre-1993 causes of action were not revived. We recognize that La. R.S. 9:2800.9 was amended again by 2022 La. Acts 386, §1, which became effective on June 10, 2022. Section 2 of the 2022 Act indicated it was the intent of the legislature to revive any cause of action related to the sexual abuse of a minor that previously prescribed under any Louisiana prescriptive period: Section 2. Any person whose cause of action related to sexual abuse of a minor was barred by liberative prescription shall be permitted to file an action under R.S. 9:2800.9 on or before June 14, 2024. It is the express intent of the legislature to revive until June 14, 2024, any cause of action related to sexual abuse of a minor that previously prescribed under any Louisiana prescriptive period. [emphasis added] However, this suit was filed in August of 2021, ten months prior to the June 10, 2022 effective date of 2022 La. Acts 386, §1. Moreover, T.S. relied on Act 322 in arguing his suit was timely, and the trial court's amended judgment was specifically confined to the 2021 Act, providing, "The Court finds Acts 2021, No. 322, § 2 ("revival provision") UNCONSTITUTIONAL." For these reasons, the interpretation of 2022 La. Acts 386 is not before this Court. See Boudreaux v. State, Dep't of Transp. and Dev., 01-1329, p. 2 (La. 2/26/02), 815 So.2d 7, 9 (this Court "cannot consider contentions raised for the first time in this Court which were not pleaded in the court below. ..."). Additionally, any prescription issue relative to
+
+7 A one-year prescriptive period would have applied until the 1993 enactment of La. Civ. Code art. 3498.1, which increased the prescriptive period to ten years after the minor reaches the age of majority. See footnotes 4-5, supra, and 9, infra.
+
+8 Though Holy Cross admittedly abandoned this argument in this Court, we must consider whether this case can be resolved on non-constitutional grounds.
+
+9 La. Civ. Code art. 3492 states, in pertinent part: "Delictual actions are subject to a liberative prescription of one year. This prescription commences to run from the day injury or damage is sustained."
+
+2022 La. Acts 386 must be brought by a party. It cannot be supplied by the court and must be specially pleaded under La. Code Civ. P. art. 927(B). Such was not done in this case; therefore, this court is without authority to address 2022 La. Acts 386. Given that Act 322 does not expressly apply to T.S.'s pre-1993 cause of action, we find his claim is prescribed on its face. The burden of proving prescription ordinarily lies with the party raising the exception; however, when prescription is evident from the face of the petition, the burden shifts to the plaintiff to show the action has not prescribed. Hogg v. Chevron USA, Inc., 09-2632, p. 7 (La. 7/6/10),
+
+45 So.3d 991, 998. Here, the face of the petition shows that T.S.'s claim was not filed within one year of the alleged sexual abuse. Thus, he had the burden of proving his action had not prescribed. T.S. maintains that prescription was suspended under the third and fourth categories of the doctrine of contra non valentem. Contra non valentem, a jurisprudentially-created exception to prescription, adopted to "soften the occasional harshness of prescriptive statutes," generally "means that prescription does not run against a person who could not bring his suit." Carter v. Haygood, 04-0646, p. 11
+
+(La. 1/19/05), 892 So.2d 1261, 1268. Determinations as to whether contra non valentem applies to suspend prescription generally proceed on an individual, case-by-case basis. State v. All Prop. & Cas. Ins. Carriers Authorized & Licensed To Do Bus. In State, 06-2030, p. 19 (La. 8/25/06), 937 So.2d 313, 327 n. 13. Louisiana law recognizes four categories of contra non valentem that operate to prevent the running of prescription: (1) where there was some legal cause which prevented the courts or their officers from taking cognizance of or acting on the plaintiff's action; (2) where there was some condition coupled with the contract or connected with the proceedings which prevented the creditor from suing or acting; (3) where the debtor himself has done some act effectually to prevent the creditor from availing himself of his cause of action;[10] and (4) where the cause of action is not known or reasonably knowable by the plaintiff, even though this ignorance is not induced by the defendant.
+
+Carter, 04-0646, pp. 11-12, 892 So.2d at 1268. After a hearing, the trial court held that the doctrine of contra non valentem did not operate to defeat prescription in T.S.'s case, finding T.S. expressed awareness and understanding of the abuse in 1982 or 2008, at the latest. In its written reasons for judgment, it stated: As to the argument of contra non valentem, the Court takes note that Plaintiff disclosed the abuse while at a rehabilitation clinic in 1982. Plaintiff also contacted a representative of Holy Cross about the abuse in 2007 or 2008. As a result, the Court finds that Plaintiff had knowledge of the abuse as early as 1982 and expressly in 2007 or 2008, when he contacted a representative of Holy Cross to report the abuse he suffered as a child.
+
+Here, however, T.S. argues the abuse, itself, caused devastating psychological affects involving years of guilt and self-blame, which prevented him from truly understanding and availing himself of his cause of action. In fact, he alleges he did not become aware of his potential cause of action until 2021, when he read a newspaper article that disclosed other victims of Brother Repucci's alleged sexual abuse. In support of his argument, he relies on Wimberly v. Gatch, 635 So.2d 206, ridden, display characteristics of entrapment and accommodation, followed by delayed, conflicted and unconvincing disclosure, and finally retraction. Id., 635 So.2d at 214. Further, due to these normal behavioral reactions, the Wimberlys were prevented from pursuing claims on behalf of their son. Id., 635 So.2d at 216-217. This Court therefore applied a combination of the third and fourth categories of contra non valentem, where a child victim during his minority failed to disclose to his parents the fact of his abuse until after prescription had accrued. In doing so, the Court refused to "reward the molester by allowing him to profit by the normal behavioral reactions of his victim to the sexual abuse." Id., 635 So.2d at 215. The Wimberly Court distinguished cases which "involve majors, persons of legal age filing suit on their own behalf against the defendant tortfeasors[,]" such as in Laughlin v. Breaux, 515 So.2d 480 (La. App. 1st Cir. 1987), Bock v. Harmon, 526 So.2d 292 (La. App. 3rd Cir. 1988), and Doe v. Ainsworth, 540 So.2d 425 (La. App. 1st Cir. 1989); cf. Held v. State Farm Ins. Co., 610 So.2d 1017 (La. App. 1st Cir. 1992) (In Held, the court found that the doctrine of contra non valentem applied when the victim suffered abuse at the hands of her father.14) Id., 635 So.2d at 212-213. Unlike Wimberly, this case involves a person of the age of majority filing suit on his own behalf. Here, the record clearly reflects that after he reached the age of majority, T.S. disclosed the abuse on numerous occasions. In 1982, he shared the abuse in a group therapy session in a rehabilitation facility. Later, in either 2007 or
+
+10 There are three elements which must be proven in order to apply the third category of contra non valentem: (1) the defendant engaged in conduct which rises to the level of concealment, misrepresentation, fraud or ill practice; (2) the defendant's actions effectually prevented the plaintiff from pursuing a cause of action; and, (3) the plaintiff must have been reasonable in his or her inaction. Marin v. Exxon Mobil Corp., 09-2368, p. 24 (La. 10/19/10), 48 So.3d 234, 252 (citations omitted).
+
+216 (La. 1994), in which this Court recognized that the very act of child sexual abuse, by its nature, can prevent the victim "from availing himself of his cause of action."11 In Wimberly, a nine-year-old boy, B.W.,12 was sexually abused by his older brother's Boy Scout leader; and, due to this incident, B.W. was placed in therapy. Id., 635 So.2d at 207. During the course of therapy, it was discovered that he had also been sexually abused for approximately three years by a sixteen-year-old, neighborhood boy. Id. The Wimberlys, on B.W.'s behalf, filed suit against the perpetrator's parents. In response, the boy's parents filed an exception of prescription. The Wimberlys opposed the exception, maintaining that contra non valentem applied to suspend prescription. Id., 635 So.2d at 208. Rejecting the Wimberlys' argument, the trial court granted the exception of prescription.13 The court of appeal affirmed. Id., 635 So.2d at 210. This Court reversed, finding the doctrine of contra non valentem applied to toll prescription. Id., 635 So.2d at 207, 217. The Wimberly Court referenced the clinical opinion known as "Child Sexual Abuse Accommodation Syndrome" ("CSAAS"). Id., 635 So.2d at 213. This scientific theory holds that many child victims, being silent, helpless, and guilt-
+
+11 Plaintiff also points out that the legislative testimony in the record, which parallels the reasoning in Wimberly, reveals that the average age of disclosure of child sex abuse is fifty-two years old.
+
+12 In accordance with La. R.S. 46:1844(W), the initials for the minor victim are used.
+
+13 The trial court did maintain a single claim of sex abuse for the last instance that was not prescribed on its face.
+
+14 The court found:
+
+Plaintiff's post-traumatic stress disorder prevented her from acting until she knew she was completely innocent and her father was solely responsible, triggering the second category. Her parents' refusal to pay for her therapy triggers the third category. We find the combination of these two factors makes contra non valentem applicable here. . . .
+
+Held, 610 So. 2d at 1020.
+
+2008, he reported the abuse directly to Holy Cross. In addition, he disclosed the abuse to family members, including his wife. While we recognize contra non valentem may have suspended the running of prescription until 2008, T.S.'s claim would have prescribed in 2009, at the latest. After contacting Holy Cross in 2008, the nature of the abuse was well-known to T.S., and his inaction was no longer plausible. Under these facts, T.S.'s reliance on the third and fourth categories of contra non valentem to escape prescription is misplaced. Accordingly, since T.S. did not meet his burden of proving his claim was not prescribed, the trial court did not err in sustaining the exception of prescription.
+
+CONCLUSION
+
+Because there was a statutory basis for sustaining the exception of prescription without having to determine the constitutionality of Act 322, the case is not in the proper procedural posture for constitutional review. Accordingly, we find the trial court erred in reaching that issue. "For well over a century, this court has consistently refrained from entertaining questions as to the constitutionality of laws except where that determination is essential to the decision." Edwards v. Louisiana State Legislature, 20-1407, p. 4 (La. 12/21/20), 315 So.3d 213, 215 (citations omitted). While we acknowledge this case presents a sensitive issue which is important to the citizens of our state, we cannot ignore the fundamental principles of orderly statutory interpretation. Rather, it is critical that a case must reach this Court in the proper procedural posture to warrant our review of a ruling on constitutionality. See Matherne v. Gray Ins. Co., 95-0975 (La. 10/16/95), 661 So.2d 432. Based upon the foregoing, we vacate that portion of the trial court's judgment that declared Act 322 unconstitutional. However, given our finding that T.S.'s cause of action is prescribed, the trial court's judgment sustaining the exception of prescription is affirmed. Additionally, we note the provision in La. Code Civ. P. art. 934,15 which mandates an amendment to the petition when the grounds of the objection pleaded by the exception may be removed by amendment; and we remand this case to the trial court to allow plaintiffs to amend their petition.
+
+DECREE
+
+The amended final judgment of the trial court is vacated in part, insofar as it declared Act 322, §2 unconstitutional. In all other respects, the trial court's judgment is affirmed. In accordance with La. Code Civ. P. art. 934, we remand this matter to the trial court to allow plaintiffs to amend their petition.
+
+VACATED IN PART; AFFIRMED IN PART; AND REMANDED.
+
+15 La. Code Civ. P. art. 934 states, in relevant part: "When the grounds of the objection pleaded by the peremptory exception may be removed by amendment of the petition, the judgment sustaining the exception shall order such amendment within the delay allowed by the court."
+
+SUPREME COURT OF LOUISIANA
+
+No. 2022-CA-01826
+
+T.S.
+
+VS.
+
+CONGREGATION OF HOLY CROSS SOUTHERN PROVINCE, INC.
+
+AND HOLY CROSS COLLEGE, INC.
+
+On Appeal from the Civil District Court, Parish of Orleans WEIMER, C.J., dissenting in part. I respectfully dissent from the majority's decision not to address the constitutional issue. Although courts should avoid reaching or determining the constitutionality of legislation unless the resolution of the constitutional issue is essential to the decision of the case or controversy, a court is required to decide a constitutional issue if the procedural posture of the case and the relief sought by the appellant demand that the court do so. The plaintiff asserts that his claim is viable pursuant to the authorization granted by 2021 La. Acts 322, § 2, and appeals the district court's judgment sustaining the defendants' exception of prescription on the basis that 2021 La. Acts 322, § 2, is unconstitutional. In this appeal, the defendants argue that revival of a prescribed claim pursuant to 2021 La. Acts 322, § 2, is an unconstitutional deprivation of a vested right. The majority's analysis essentially re-urges and accepts the defendants' abandoned argument that the plaintiff has no cause of action under 2021 La. Acts 322, § 2.1 I must respectfully dissent from this part of the majority's decision.
+
+1 See T.S. v. Congregation of Holy Cross Southern Province, Inc., et al., 2023-1826, slip op. at p. 6, n.8 (indicating that defendant Holy Cross abandoned this argument in this court).
+
+Accepting as true, at this nascent stage of the action, the facts alleged on the face of the petition, it is clear that the unresolved constitutional question is still present at this initial stage of this case and that resolution is necessary to move forward. The petition was filed in August 2021, and the suit was pending when 2022 La. Acts 386, § 2, became law and clarified the intent of 2021 La. Acts 322, § 2. The legislative intent of the amended procedural rule at the heart of this appeal was clarified by the legislature while that very question was pending before the district court.2 "[A]n appellate court is bound to adjudge a case before it in accordance with the law existing at the time of its decision." Segura v. Frank, 630 So.2d 714, 725 (La. 1994). In holding that the plaintiff's action is prescribed and, further, that the plaintiff has no cause of action, the majority's analysis effectively discounts a material change in the law. The plaintiff may be permitted to amend the petition to remove the grounds of the perceived deficiency in his petition. See La. C.C.P. art. 934; La. C.C.P. 1151. However, amendment of the petition here is not necessary. A plaintiff may recover under whatever legal theory is appropriate based on the facts alleged in the petition. See, e.g., Martin v. Thomas, 2021-1490, p. 6 (La. 6/29/2022), 346 So.3d 238, 243 (citing Perkins v. Scaffolding Rental & Erection Serv., 568 So.2d 549, 553 (La. 1990)). The application of laws to the facts is the essential function of courts. Saia Motor Freight Lines, Inc. v. Agerton, 275 So.2d 393, 395 (La. 1973). It is undeniable that 2021 La. Acts 322, § 2, and 2022 La. Acts 386, § 2, are inextricably linked as applied to the alleged facts before us and as applied to the procedural course of this case. The plaintiff already has stated a cause of action that implicates the amended prescriptive period for such actions, set forth in La. R.S. 9:2800.9. See La. C.C. art. 6 (procedural and interpretive laws are presumed to apply both prospectively and retroactively, absent contrary legislative expression); La. R.S. 1:2 (provisions of the Revised Statutes may be retroactive, though only if expressly so stated). Because the defendants intentionally abandoned the argument by which the majority reaches its conclusion and because both parties seek immediate resolution of the threshold constitutionality issue, it is my opinion that the court should address this fundamentally important issue at this time, consistent with the shared interest of both the parties and the judiciary in the efficient administration of justice. A court simply should not foist an abandoned argument on a party so as to avoid a constitutional issue, particularly when a party's pursuit of that argument appears likely at the outset to yield only a Pyrrhic victory. It was the defendants' decision to abandon that argument on appeal, presumably in order to have the court rule on the constitutional issue which ultimately must be resolved. Setting aside that decision only delays the inevitable need to resolve the constitutional issue.3 The highest court in this state should resolve the underlying issue to provide necessary resolution and then closure, which these parties and countless others still hope to find.
+
+2 Although the district court's written reasons refer to Act 386, its judgment declares only Act 322 unconstitutional and otherwise makes no mention of Act 386. While obviously the judgment governs, the reasons for judgment demonstrate that the district court considered Act 386 which the majority does not consider.
+
+3 It is clear that the constitutional issue must be addressed to resolve these parties' dispute. Because this plaintiff can overcome the procedural deficiency referenced by the majority and thereby re-urge the same issue, any diminishment of that underlying concern by resort to procedural mechanics would prove to be merely illusory and temporary.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2022-CA-01826
+
+T.S
+
+VS.
+
+CONGREGATION OF HOLY CROSS SOUTHERN PROVINCE, INC. AND
+
+HOLY CROSS COLLEGE, INC.
+
+On Appeal from the Civil District Court, Parish of Orleans Civil CRICHTON, J., concurs in part and dissents in part for the reasons assigned by Crain, J.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2022-CA-01826
+
+T.S
+
+VS.
+
+CONGREGATION OF HOLY CROSS SOUTHERN PROVINCE, INC. AND
+
+HOLY CROSS COLLEGE, INC.
+
+On Appeal from the Civil District Court, Parish of Orleans Civil CRAIN, J., concurring in part, dissenting in part. The trial court judgment declares only 2021 La. Acts No. 322, §2 unconstitutional. The judgment makes no mention of 2022 La. Acts No. 386, which broadly applies to "any cause of action related to sexual abuse of a minor that previously prescribed under any Louisiana prescriptive period." See 2022 La. Acts
+
+No. 386, §2. Act 386 further provides that any person having such a claim "shall be
+
+permitted to file an action under R.S. 9:2800.9 on or before June 14, 2024." Act 386's constitutionality has not been challenged or judicially determined in the trial court. Until such time, it remains in effect and dispositive of the merits of the subject exception. "[A]n appellate court is bound to adjudge a case before it in accordance with the law existing at the time of its decision." Segura v. Frank, provision unconstitutional, dissent from affirming the judgment sustaining the exception of prescription, and would remand for further proceedings.
+
+630 So. 2d 714, 725 (La. 1994). Application of laws to the facts is the essential function of courts. Saia Motor Freight Lines, Inc. v. Agerton, 275 So. 2d 393, 395 (La. 1973). Plaintiff's claim falls within the scope of Act 386 and was filed in 2021. It is thus timely on its face under Act 386. The trial court erred in sustaining the exception of prescription and unnecessarily declaring Act 322's revival provision unconstitutional, which was not essential to the disposition of the exception. For these reasons, I concur in vacating the judgment declaring Act 322's revival

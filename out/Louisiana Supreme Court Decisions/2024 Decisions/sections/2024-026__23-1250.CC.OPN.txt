@@ -1,0 +1,84 @@
+2023-CC-01250
+CARMEN NICHOLAS VS. TERRY L. BONNIE
+https://www.lasc.org/Opinions?p=2024-026
+
+2023-CC-01250
+CARMEN NICHOLAS VS. TERRY L. BONNIE
+Court: Louisiana Supreme Court
+Release date: 2024-05-31
+Release: 2024-026
+Author: BY Crain, J.
+Parish: Parish of East Baton Rouge
+Disposition: COURT OF APPEAL JUDGMENT REVERSED; TRIAL COURT JUDGMENT REINSTATED; REMANDED. SEE OPINION.
+Official release page: https://www.lasc.org/Opinions?p=2024-026
+Official PDF: https://www.lasc.org/opinions/2024/23-1250.CC.OPN.pdf
+
+FOR IMMEDIATE NEWS RELEASE
+
+NEWS RELEASE #026
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinions handed down on the 31st day of May, 2024 are as follows: BY Crain, J.:
+
+2023-CC-01250
+
+CARMEN NICHOLAS VS. TERRY L. BONNIE (Parish of East Baton Rouge)
+
+COURT OF APPEAL JUDGMENT REVERSED; TRIAL COURT
+
+JUDGMENT REINSTATED; REMANDED. SEE OPINION.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2023-CC-01250
+
+CARMEN NICHOLAS
+
+VS.
+
+TERRY L. BONNIE
+
+On Supervisory Writ to the 19th Judicial District Court, Parish of East Baton Rouge
+
+CRAIN, J.
+
+Plaintiff seeks damages from the attorney who negligently prepared her mother's will. The defendant argues this claim is determined by Louisiana Revised Statutes 9:5605, which provides the peremptive period for a legal malpractice action. We find a consent judgment between the parties, where the attorney voluntarily bound himself to liability and obligated himself for damages, renders this peremptive period inapplicable. We reverse the appellate court's judgment, reinstate the trial court, and remand for further proceedings.
+
+FACTS AND PROCEDURAL HISTORY
+
+Terry L. Bonnie prepared the last will and testament for Laura Louise Nicholas dated July 15, 2005. In the will, Nicholas purported to leave various property to her four children, including a home at 1323 Flora Lane, Baton Rouge, Louisiana, which she left in full ownership to her daughter, Carmen. Nicholas died on January 11, 2012. On September 28, 2012, the 19th Judicial District Court denied probate of the will because it was not notarized and lacked an attestation clause. As a result, the estate of Nicholas devolved intestate. Carmen was unable to inherit full ownership of the house on Flora Lane, instead receiving a one-quarter interest.
+
+On November 8, 2012, Carmen filed suit alleging Bonnie was responsible for preparing her mother's will. She further alleged that due to Bonnie's negligence, Carmen lost full ownership of the Flora Lane property. She sought damages equal to the value of the lost property plus expenses, attorney's fees, and court costs. The following letter from Bonnie dated March 26, 2012, was attached to the petition: I am enclosing a copy of the original of which I did not notarize. As per our conversation of March 26, 2012, I am willing to make financial amends in any way your client deems proper. This was the first will I attempted to do and I express my sincere apology to your client.
+
+Carmen then filed a motion for partial summary judgment relative to Bonnie's liability. On October 8, 2014, a consent judgment was signed, which stated: IT IS ORDERED, ADJUDGED, and DECREED that: (a) the petitioner's motion for partial summary judgment be and is hereby granted; (b) that, as a result of the defendant's negligence in the preparation of the Last Will and Testament of Laura Louise Nicholas dated July 15, 2005, the liability of the defendant, Terry L. Bonnie, unto the petitioner, Carmen Nicholas, be and is hereby deemed established for all purposes in this proceeding; and (c) that the defendant, Terry L. Bonnie, is hereby declared to be liable unto the petitioner, Carmen Nicholas, for all damages as may be subsequently determined by trier of fact herein to have been sustained by the petitioner as a proximate consequence of the defendant's negligence in the preparation of the aforementioned Last Will and Testament.
+
+Having reached agreement on liability, Carmen then filed a motion for summary judgment seeking $105,000.00 for three-quarters of the appraised value of the property, the amount she was unable to inherit. Carmen relied on the affidavit of Bill R. Kipp, a certified general appraiser, who valued the Flora Lane property at $140,000.00.
+
+Bonnie opposed the summary judgment and filed an exception of peremption. He argued the matter is a legal malpractice suit, which was perempted after the lapse of three years from the act of malpractice under Louisiana Revised Statutes 9:5605. Because the legal malpractice cause of action was perempted, Bonnie argued the consent judgment was invalid.
+
+Carmen opposed the exception of peremption. She argued the matter is not a legal malpractice action and, even if it was, Bonnie renounced prescription by voluntarily entering a consent judgment that acknowledged liability for all damages caused by his negligence. Carmen contends the consent judgment is a bilateral contract that must be enforced.
+
+The trial court denied both the exception of peremption and the motion for summary judgment. On the exception of peremption, the court found the consent judgment final as to liability, leaving quantum as the only issue. The summary judgment was denied as not sufficiently supported with affidavits.
+
+Both parties sought review. The appellate court denied Carmen's writ application without comment, but granted Bonnie's writ application. It then reversed the trial court, finding Carmen's petition was filed after the three-year peremptive period for a legal malpractice action. According to the appellate court, once peremption occurred the claim was destroyed, and the consent judgment could not revive the extinguished claim. Further, because the consent judgment only affected liability, it was not final and did not bar defendant from raising the exception of peremption. Nicholas v. Bonnie, 23-0365 (La. App. 1 Cir. 8/14/23), 2023 WL 5231139. For these reasons, the exception of peremption was granted and Carmen's claims were dismissed with prejudice.
+
+Carmen appealed and we granted the writ. Carmen Nicholas v. Terry L. Bonnie, 23-1250 (La. 12/5/23), 373 So.3d 711.
+
+DISCUSSION
+
+Louisiana Revised Statutes 9:5605 provides: No action for damages against any attorney . . . arising out of an engagement to provide legal services shall be brought unless filed . . . within one year from the date that the alleged act, omission, or neglect is discovered or should have been discovered; however, even as to action filed within one year from the date of such discovery, in all events such actions shall be filed at the latest within three years from the date of the alleged act, omission, or neglect.
+
+Thus, a legal malpractice action must be filed within three years of the act of alleged malpractice, or within one year of discovery of the alleged malpractice, whichever occurs first. Straub v. Richardson, 11-1689 (La. App. 1 Cir. 5/12/12), 92 So.3d 548, 553. Here, the malpractice occurred in 2005 when the will was drafted. Consequently, Bonnie argues plaintiff's malpractice claim was perempted before the consent judgment was entered. In contrast, Carmen argues the appellate court erred by not enforcing the consent judgment. She contends her action was mischaracterized as legal malpractice rather than contract. We agree. A consent judgment is a bilateral contract where parties adjust their differences by mutual consent and put an end to a lawsuit with each party balancing hope of gain against fear of loss. Plaquemines Parish Government v. Getty Oil Co., 95-2452 (La. 5/21/96), 673 So.2d 1002, 1006. Specifically, Louisiana Civil Code art. 3071 provides: "[a] compromise is a contract whereby the parties, through concessions made by one or more of them, settle a dispute or an uncertainty concerning an obligation or other legal relationship." The object of this action is enforcement of the consent judgment. We find that judgment valid and enforceable. The consent judgment here forms a bilateral contract between the parties. Bonnie conceded fault or liability and contractually assumed an obligation to pay damages. The cause of the agreement reflected in the consent judgment is Bonnie's desire to accept responsibility for the defective will he drafted. "Cause" is defined as the reason a party obligates himself. La. Civ. Code art. 1967. Unless the cause is prohibited by law or against public policy, it is lawful and enforceable. La. Civ. Code art. 1966 and 1968. Bonnie's desire to repair his wrong by accepting liability and agreeing to pay damages is neither prohibited by law or against public policy. It is the opposite. It is laudable. The fact that he may have had a defense to a legal malpractice claim is immaterial.
+
+Here, Bonnie felt a moral duty to render a performance, first acknowledged in his March 26, 2012, letter where he admitted not notarizing the will and offered "to make financial amends in any way [plaintiff] deems proper." Bonnie's responsibility for his acknowledged negligence was then formally reduced to the consent judgment. There, the parties agreed "the liability of the defendant [Bonnie] unto the petitioner [Carmen] be and is hereby deemed established for all purposes in the proceeding." They further agreed "the defendant [Bonnie] is hereby declared to be liable unto the petitioner [Carmen] for all damages as may be subsequently determined by trier of fact . . .." It was neither illegal nor against public policy for Bonnie to obligate himself to fix the wrong he committed. The cause for that obligation is supported by Bonnie's desire, his moral duty, to repair the damage he caused Carmen in drafting the will.1 While born in legal malpractice, Carmen's instant action to enforce the consent judgment is based in contract. That contract is enforceable as the Civil Code establishes the freedom to contract on all matters not forbidden by law. Travelers Ins. Co. v. Joseph, 95-0200 (La. 6/30/95), 656 So.2d 1000, 1004; see also La. Civ. Code art. 1971 ("Parties are free to contract for any object that is lawful, possible, and determined or determinable."). Contracts have the effect of law for the parties and may be dissolved only through the consent of the parties or on the grounds provided by law. La. Civ. Code art. 1983. While Bonnie's liability is decided, damages remain to be quantified. A judgment, whether it results from the assent of the parties or is the result of a judicial determination after a trial on the merits, is and should be accorded sanctity under the
+
+1 "A moral duty is traditionally described as a duty of conscience, which hints at its difference from a legal duty. It is the imperative feeling that something ought to be done or not done or given, but no person is entitled to demand that something. Only the one who feels under the duty may yield to the need to fulfill it." Saul Litvinoff, The Law of Obligations, in 5 Louisiana Civil Law Treatise § 2.2 (2d ed 2023). Here, a legally binding obligation grew out the moral duty to fix the wrong committed in drafting Ms. Nicholas' will. law. Plaquemines Parish Government, 673 So.2d at 1006. The appellate court erred in failing to enforce the consent judgment. For these reasons, the court of appeal judgment is reversed, and the trial court's judgment reinstated.
+
+CONCLUSION
+
+Plaintiff's claim for damages is based on a bilateral contract between the parties. The appellate court erred in applying the peremptive period for a legal malpractice action to this claim. The trial court's denial of the exception of peremption is reinstated. All other relief requested is denied. This matter is remanded for further proceedings consistent with this opinion.
+
+COURT OF APPEAL JUDGMENT REVERSED; TRIAL COURT
+
+JUDGMENT REINSTATED; REMANDED.

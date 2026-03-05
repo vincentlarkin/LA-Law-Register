@@ -1,0 +1,75 @@
+2024-KO-00697
+STATE OF LOUISIANA VS. LEONIDAS LOWRY AKA "CHICO"
+https://www.lasc.org/Opinions?p=2025-048
+
+2024-KO-00697
+STATE OF LOUISIANA VS. LEONIDAS LOWRY AKA "CHICO"
+Court: Louisiana Supreme Court
+Release date: 2025-10-24
+Release: 2025-048
+Author: PER CURIAM
+Parish: Parish of Jefferson
+Disposition: AFFIRMED. SEE PER CURIAM.
+Release notes: Weimer, C.J., dissents in part and concurs in part and assigns reasons. Hughes, J., concurs and assigns reasons.
+Official release page: https://www.lasc.org/Opinions?p=2025-048
+Official PDF: https://www.lasc.org/opinions/2025/24-0697.KO.OPN.pdf
+
+FOR IMMEDIATE NEWS RELEASE
+
+NEWS RELEASE #048
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinions handed down on the 24th day of October, 2025 are as follows:
+
+PER CURIAM:
+
+2024-KO-00697
+
+STATE OF LOUISIANA VS. LEONIDAS LOWRY AKA "CHICO" (Parish of Jefferson)
+
+AFFIRMED. SEE PER CURIAM.
+
+Weimer, C.J., dissents in part and concurs in part and assigns reasons. Hughes, J., concurs and assigns reasons.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2024-KO-00697
+
+STATE OF LOUISIANA VS.
+
+LEONIDAS LOWRY AKA "CHICO"
+
+On Writ of Certiorari to the Court of Appeal, Fifth Circuit, Parish of Jefferson
+
+PER CURIAM
+
+The trial court's ruling denying the motion to suppress is affirmed. Legal conclusions in adjudicating a motion to suppress are subject to de novo review. State v. Donald, 13-0018 (La. 5/3/13), 115 So. 3d 1138, 1138. The cell phones at issue here were seized pursuant to valid warrants and promptly placed in secure evidence lockers within the 10-day window set by La.C.Cr.P. art. 163(C). The subsequent extraction and analysis of the phones' contents was permissible under the plain language of La.C.Cr.P. art. 163(D), as discussed below. At the time of the offense and when the search warrant issued, section (D)(2) of La.C.Cr.P. art. 163 made clear that "any examination or testing of the seized property may be conducted at any time before or during the pendency of any criminal proceeding in which the property may be used as evidence." The extraction of data from an electronic device, such as the defendant's phone, is done to permit examination of its contents, which the law provides may be done at any time before or during the pendency of the criminal proceeding. For the purposes of an La.C.Cr.P. art. 163(D)(2) examination, we see the seizure of a phone for later review of its contents as analogous to the seizure of paper documents for later review of their contents by investigators.
+
+Therefore, we agree with the court of appeal that the testing of the phones' contents beyond the 10-day window was permissible here under section (D)(2) of Art. 163. Given the straightforward application of subsection (D)(2) to the facts in this case, it is unnecessary to reach the question of the retroactivity of the subsequently enacted subsection (E) of La.C.Cr.P. art. 163.
+
+AFFIRMED.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2024-KO-00697
+
+STATE OF LOUISIANA VS.
+
+LEONIDAS LOWRY AKA "CHICO"
+
+On Writ of Certiorari to the Court of Appeal, Fifth Circuit, Parish of Jefferson WEIMER, C.J., dissenting in part and concurring in part. Based in part on the highly personal and private nature of cell phone content as recognized by Riley v. California, 573 U.S. 373 (2014), I dissented in State v. Folse, believing that the data should be suppressed because the data was obtained after the time for conducting a search specified in the warrant had expired. Id., 18-1518, p. 2 (La. 6/26/19), 284 So.3d 627, 630 (Weimer, J., dissenting). In my dissent in Folse, I, like the majority in Folse, declined "to adopt the State's expansive and novel reading of Art. 163," that is, that "La.C.Cr.P. art. 163(D)(2), which pertains to the examination or testing of seized property, authorized the police to extract the data from defendant's phone notwithstanding the 10-day period limiting the execution of the search warrant established in La. C.Cr.P. art. 163(C)."1 Id., 18-1518 at 2-3, considered to have been executed within the time allowed in Paragraph C of this Article if the device was seized before the expiration of the time allowed, or if the device was in law enforcement custody at the time of the issuance of the warrant. (2) Notwithstanding any other provision of law to the contrary, if a device described in Subparagraph (1) of this Paragraph was seized before the expiration of the time allowed in Paragraph C of this Article, or if the device was in law enforcement custody at the time of the issuance of the warrant, any data or information contained in or on the device may be recovered or extracted pursuant to the warrant at any time, and such recovery or extraction shall not be subject to the time limitation in Paragraph C of this Article. I find that the 2019 amendment was intended by the legislature to interpret and clarify La. C.Cr.P. art. 163 (2012) in response to this court's decision in Folse and is, thus, procedural in nature and subject to retroactive application, as found by the trial court in this matter. See La. C.C. art. 6. Because "the testing of the phones' contents beyond the 10-day window" provided for in Article 163(C) is expressly permitted by Article 163(E), I respectfully concur in the result only of the majority's affirmance of the denial of defendant's motion to suppress.
+
+284 So.3d at 628-29. I continue to believe that a person's right to access their personal cell phone because of its use in obtaining personal information electronically is important and the extraction of data from it must be expeditiously performed. For these reasons, I disagree with the majority's finding that "the seizure of a phone for later review of its contents as analogous to the seizure of paper documents for later review of their contents by investigators." See State v. Lowry, 24-00697 (La. 10/__/25), slip op.at 1-2. In accordance with my dissent in Folse, I find that La. C.Cr.P. art. 163(D)(2) does not prevent the warrant from becoming stale and, thus, disagree with the majority's finding that the testing of the contents of the phone beyond the 10-day window was permissible here under section (D)(2). See Lowry, 24-00697, slip op. at 2. Nonetheless, immediately after this court's decision in Folse, the legislature amended La. C.Cr.P. art. 163 by 2019 La. Acts 341, §1 (eff. August 1, 2019) to add paragraph (E) to specifically address the issue at hand. Article 163(E) provides: (1) Notwithstanding any other provision of law to the contrary, if a warrant is issued to search for and seize data or information contained in or on a computer, disk drive, flash drive, cellular telephone, or other electronic communication, or data storage device, the warrant is
+
+1 At the time of the offense and warranted searches and seizures in Folse and in this case, La. C.Cr.P. art. 163 (2012) provided in pertinent part: C. Except as authorized by Article 163.1 [(pertaining to bodily samples)], a search warrant cannot be lawfully executed after the expiration of the tenth day after its issuance. (Emphasis added.). . . . D.(2) Notwithstanding any other provision of law to the contrary, any examination or testing of the seized property may be conducted at any time before or during the pendency of any criminal proceeding in which the property may be used as evidence.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2024-KO-00697
+
+STATE OF LOUISIANA VS.
+
+LEONIDAS LOWRY AKA "CHICO"
+
+On Writ of Certiorari to the Court of Appeal, Fifth Circuit, Parish of Jefferson HUGHES, J., concurs. If the phone is seized within 10 days of the issuance of the search warrant, I agree that the phone need not be downloaded within that same 10 days. However, the phone should be downloaded and returned to the owner promptly, given the importance of one's phone in today's world. A warrant to search is not a grant to hold the phone indefinitely, disrupting the owner's work and family and perhaps the constitutional right to prepare a defense for one charged but innocent until proven guilty.

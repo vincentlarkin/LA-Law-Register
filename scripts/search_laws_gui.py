@@ -28,8 +28,11 @@ from PySide6.QtGui import QColor, QDesktopServices, QTextCharFormat, QTextCursor
 from PySide6.QtWidgets import (
     QApplication,
     QCheckBox,
+    QDialog,
+    QDialogButtonBox,
     QFileDialog,
     QGroupBox,
+    QHeaderView,
     QHBoxLayout,
     QLabel,
     QLineEdit,
@@ -44,6 +47,7 @@ from PySide6.QtWidgets import (
     QStatusBar,
     QTableWidget,
     QTableWidgetItem,
+    QTextBrowser,
     QTextEdit,
     QVBoxLayout,
     QWidget,
@@ -163,6 +167,7 @@ def _run_search(filters: SearchFilters, con: sqlite3.Connection | None = None) -
               citation,
               title,
               url,
+              local_file,
               snippet(docs_fts, 5, '[', ']', ' ... ', 12) AS snippet
             FROM docs_fts
             WHERE docs_fts MATCH ? {where_sql}
@@ -180,6 +185,7 @@ def _run_search(filters: SearchFilters, con: sqlite3.Connection | None = None) -
                         "category": r["category"] or "",
                         "bundle": r["bundle"] or "",
                         "url": r["url"] or "",
+                        "local_file": r["local_file"] or "",
                         "snippet": (r["snippet"] or "").strip(),
                     }
                 )
@@ -196,6 +202,7 @@ def _run_search(filters: SearchFilters, con: sqlite3.Connection | None = None) -
               citation,
               title,
               url,
+              local_file,
               text
             FROM docs_fts
             WHERE 1=1 {where_sql}
@@ -229,6 +236,7 @@ def _run_search(filters: SearchFilters, con: sqlite3.Connection | None = None) -
                         "category": r["category"] or "",
                         "bundle": r["bundle"] or "",
                         "url": r["url"] or "",
+                        "local_file": r["local_file"] or "",
                         "snippet": snippet,
                     }
                 )
@@ -280,6 +288,60 @@ class SearchThread(QThread):
             self.completed.emit(self.request_id, [], 0.0, str(exc))
 
 
+class InfoDialog(QDialog):
+    def __init__(self, parent: QWidget | None = None) -> None:
+        super().__init__(parent)
+        self.setWindowTitle("Info")
+        self.resize(720, 520)
+
+        layout = QVBoxLayout(self)
+        browser = QTextBrowser(self)
+        browser.setOpenExternalLinks(True)
+        browser.setHtml(
+            """
+            <h2 style="margin-bottom:8px;">LA Law Register</h2>
+            <p style="margin-top:0;">
+              Offline Louisiana legal research workspace for local full-text search.
+            </p>
+            <p>
+              Indexed sources in this build can include Louisiana codes and rules from the
+              Louisiana Legislature, the Louisiana Constitution, and Louisiana Supreme Court
+              decisions from the official Louisiana Supreme Court opinions archive.
+            </p>
+            <p>
+              Search tips:
+            </p>
+            <ul>
+              <li>Regular search uses fast prefix matching, so <code>mal</code> can find <code>malfeasance</code>.</li>
+              <li>Regex mode scans full local text and works best for narrow patterns.</li>
+              <li>Use the source preset buttons to jump between constitution, case law, or all indexed sources.</li>
+            </ul>
+            <p>
+              Refresh workflow:
+            </p>
+            <ul>
+              <li><code>python scripts\\download_louisiana_laws.py --categories louisiana-constitution</code></li>
+              <li><code>python scripts\\download_louisiana_case_law.py</code></li>
+              <li><code>python scripts\\build_search_index.py --rebuild</code></li>
+            </ul>
+            <p>
+              Official sources:
+              <a href="https://www.legis.la.gov/legis/LawsContents.aspx">Louisiana Legislature</a>,
+              <a href="https://www.lasc.org/CourtActions/2026">Louisiana Supreme Court</a>
+            </p>
+            <p style="margin-top:20px; color:#6b5c45;">
+              2026 Vincent Larkin
+            </p>
+            """
+        )
+        layout.addWidget(browser, 1)
+
+        buttons = QDialogButtonBox(QDialogButtonBox.Close, parent=self)
+        buttons.rejected.connect(self.reject)
+        buttons.accepted.connect(self.accept)
+        layout.addWidget(buttons)
+
+
 class SearchWindow(QMainWindow):
     COLUMNS = ["Citation", "Title", "Category", "Bundle", "Snippet", "URL"]
     MAX_PREVIEW_CHARS = 350_000
@@ -287,7 +349,7 @@ class SearchWindow(QMainWindow):
 
     def __init__(self, db_path: str) -> None:
         super().__init__()
-        self.setWindowTitle("LA Law Live Search")
+        self.setWindowTitle("LA Law Register")
         self.resize(1500, 900)
 
         self._request_counter = 0
@@ -302,8 +364,72 @@ class SearchWindow(QMainWindow):
         self._active_cache_key: tuple[object, ...] | None = None
 
         self._build_ui()
+        self._apply_styles()
         self._wire_events()
         self._reload_scope_lists()
+
+    def _apply_styles(self) -> None:
+        self.setStyleSheet(
+            """
+            QMainWindow, QWidget {
+              background: #f5f1e8;
+              color: #1f1b16;
+              font-size: 12px;
+            }
+            QGroupBox {
+              border: 1px solid #d6cbb8;
+              border-radius: 10px;
+              margin-top: 12px;
+              padding-top: 12px;
+              background: #fbf8f2;
+              font-weight: 600;
+            }
+            QGroupBox::title {
+              subcontrol-origin: margin;
+              left: 10px;
+              padding: 0 4px;
+            }
+            QLineEdit, QPlainTextEdit, QListWidget, QTableWidget, QTextBrowser, QSpinBox {
+              background: #fffdf8;
+              border: 1px solid #d6cbb8;
+              border-radius: 8px;
+              selection-background-color: #b65b2c;
+              selection-color: #ffffff;
+            }
+            QPushButton {
+              background: #ece4d6;
+              border: 1px solid #cfbfa7;
+              border-radius: 8px;
+              padding: 6px 10px;
+            }
+            QPushButton:hover {
+              background: #e4d7c2;
+            }
+            QPushButton:pressed {
+              background: #dac9ae;
+            }
+            QPushButton:disabled {
+              color: #8f887b;
+              background: #eee8dd;
+            }
+            QTableWidget {
+              gridline-color: #e6dccd;
+              alternate-background-color: #f7f2e9;
+            }
+            QHeaderView::section {
+              background: #e8decd;
+              border: 0;
+              border-right: 1px solid #d9ceba;
+              border-bottom: 1px solid #d9ceba;
+              padding: 6px 8px;
+              font-weight: 600;
+            }
+            QStatusBar {
+              background: #efe7d9;
+              border-top: 1px solid #dacfbf;
+            }
+            """
+        )
 
     def _build_ui(self) -> None:
         root = QWidget()
@@ -316,10 +442,12 @@ class SearchWindow(QMainWindow):
         self.db_path_edit.setPlaceholderText("Path to SQLite FTS index (out/index.sqlite)")
         self.browse_btn = QPushButton("Browse DB...")
         self.reload_scope_btn = QPushButton("Reload Filters")
+        self.info_btn = QPushButton("Info")
         db_row.addWidget(QLabel("Index DB:"))
         db_row.addWidget(self.db_path_edit, 1)
         db_row.addWidget(self.browse_btn)
         db_row.addWidget(self.reload_scope_btn)
+        db_row.addWidget(self.info_btn)
         main.addLayout(db_row)
 
         # Query row
@@ -352,6 +480,20 @@ class SearchWindow(QMainWindow):
         filters_layout = QVBoxLayout(filters_panel)
         splitter.addWidget(filters_panel)
 
+        source_group = QGroupBox("Source Presets")
+        source_layout = QVBoxLayout(source_group)
+        source_row = QHBoxLayout()
+        self.scope_all_btn = QPushButton("All Sources")
+        self.scope_codes_btn = QPushButton("Codes && Rules")
+        self.scope_constitution_btn = QPushButton("Constitution")
+        self.scope_case_law_btn = QPushButton("Case Law")
+        source_row.addWidget(self.scope_all_btn)
+        source_row.addWidget(self.scope_codes_btn)
+        source_row.addWidget(self.scope_constitution_btn)
+        source_row.addWidget(self.scope_case_law_btn)
+        source_layout.addLayout(source_row)
+        filters_layout.addWidget(source_group)
+
         categories_group = QGroupBox("Categories")
         categories_layout = QVBoxLayout(categories_group)
         cat_buttons = QHBoxLayout()
@@ -381,10 +523,13 @@ class SearchWindow(QMainWindow):
         self.results_table = QTableWidget(0, len(self.COLUMNS))
         self.results_table.setHorizontalHeaderLabels(self.COLUMNS)
         self.results_table.setSelectionBehavior(QTableWidget.SelectRows)
+        self.results_table.setSelectionMode(QTableWidget.SingleSelection)
         self.results_table.setEditTriggers(QTableWidget.NoEditTriggers)
         self.results_table.setAlternatingRowColors(True)
         self.results_table.setWordWrap(False)
-        self.results_table.horizontalHeader().setStretchLastSection(True)
+        self.results_table.verticalHeader().setVisible(False)
+        self.results_table.horizontalHeader().setStretchLastSection(False)
+        self.results_table.horizontalHeader().setSectionResizeMode(QHeaderView.Interactive)
         right_splitter = QSplitter(Qt.Vertical)
         right_splitter.addWidget(self.results_table)
 
@@ -404,6 +549,17 @@ class SearchWindow(QMainWindow):
         preview_url_row.addWidget(self.preview_url_edit, 1)
         preview_url_row.addWidget(self.open_source_btn)
         preview_layout.addLayout(preview_url_row)
+
+        preview_local_row = QHBoxLayout()
+        self.preview_local_edit = QLineEdit()
+        self.preview_local_edit.setReadOnly(True)
+        self.preview_local_edit.setPlaceholderText("Local PDF or file path (optional)")
+        self.open_local_btn = QPushButton("Open Local File")
+        self.open_local_btn.setEnabled(False)
+        preview_local_row.addWidget(QLabel("Local File:"))
+        preview_local_row.addWidget(self.preview_local_edit, 1)
+        preview_local_row.addWidget(self.open_local_btn)
+        preview_layout.addLayout(preview_local_row)
 
         self.preview_text = QPlainTextEdit()
         self.preview_text.setReadOnly(True)
@@ -431,6 +587,7 @@ class SearchWindow(QMainWindow):
     def _wire_events(self) -> None:
         self.browse_btn.clicked.connect(self._browse_db)
         self.reload_scope_btn.clicked.connect(self._reload_scope_lists)
+        self.info_btn.clicked.connect(self._show_info_dialog)
         self.search_btn.clicked.connect(self._queue_search)
         self.query_edit.textChanged.connect(lambda _text: self._debounce.start())
         self._debounce.timeout.connect(self._queue_search)
@@ -444,6 +601,10 @@ class SearchWindow(QMainWindow):
         self.cat_none_btn.clicked.connect(lambda: self._select_all(self.categories_list, False))
         self.bun_all_btn.clicked.connect(lambda: self._select_all(self.bundles_list, True))
         self.bun_none_btn.clicked.connect(lambda: self._select_all(self.bundles_list, False))
+        self.scope_all_btn.clicked.connect(lambda: self._apply_category_preset("all"))
+        self.scope_codes_btn.clicked.connect(lambda: self._apply_category_preset("codes"))
+        self.scope_constitution_btn.clicked.connect(lambda: self._apply_category_preset("constitution"))
+        self.scope_case_law_btn.clicked.connect(lambda: self._apply_category_preset("case-law"))
 
         self.categories_list.itemSelectionChanged.connect(self._on_categories_changed)
         self.bundles_list.itemSelectionChanged.connect(self._queue_search)
@@ -451,6 +612,7 @@ class SearchWindow(QMainWindow):
         self.results_table.cellDoubleClicked.connect(self._open_result_url)
         self.results_table.itemSelectionChanged.connect(self._on_result_selected)
         self.open_source_btn.clicked.connect(self._open_preview_url)
+        self.open_local_btn.clicked.connect(self._open_preview_local_file)
 
     def _on_regex_toggled(self, checked: bool) -> None:
         self.case_cb.setEnabled(checked)
@@ -463,6 +625,36 @@ class SearchWindow(QMainWindow):
             item = widget.item(i)
             item.setSelected(value)
         self._queue_search()
+
+    def _show_info_dialog(self) -> None:
+        dialog = InfoDialog(self)
+        dialog.exec()
+
+    def _apply_category_preset(self, preset: str) -> None:
+        if self.categories_list.count() == 0:
+            return
+
+        selected_before = set(self._selected_texts(self.categories_list))
+        for i in range(self.categories_list.count()):
+            item = self.categories_list.item(i)
+            category = item.text()
+            lowered = category.lower()
+            should_select = False
+            if preset == "all":
+                should_select = True
+            elif preset == "codes":
+                should_select = "constitution" not in lowered and "court" not in lowered and "case" not in lowered
+            elif preset == "constitution":
+                should_select = "constitution" in lowered
+            elif preset == "case-law":
+                should_select = "court" in lowered or "case" in lowered or "decision" in lowered
+            item.setSelected(should_select)
+
+        selected_after = set(self._selected_texts(self.categories_list))
+        if selected_after != selected_before:
+            self._on_categories_changed()
+        else:
+            self._queue_search()
 
     def _browse_db(self) -> None:
         start_dir = str(Path(self.db_path_edit.text() or ".").parent)
@@ -711,6 +903,8 @@ class SearchWindow(QMainWindow):
         self.preview_meta.setText(message)
         self.preview_url_edit.setText("")
         self.open_source_btn.setEnabled(False)
+        self.preview_local_edit.setText("")
+        self.open_local_btn.setEnabled(False)
         self.preview_text.setPlainText("")
         self.preview_text.setExtraSelections([])
 
@@ -864,8 +1058,31 @@ class SearchWindow(QMainWindow):
             return
         QDesktopServices.openUrl(QUrl(url))
 
+    def _resolve_local_file_path(self, raw_path: str) -> str:
+        value = raw_path.strip()
+        if not value:
+            return ""
+        path = Path(value)
+        if not path.is_absolute():
+            db_path = self.db_path_edit.text().strip()
+            if db_path:
+                path = Path(db_path).resolve().parent / path
+        return str(path)
+
+    def _open_local_file(self, raw_path: str) -> None:
+        resolved = self._resolve_local_file_path(raw_path)
+        if not resolved:
+            return
+        if not Path(resolved).exists():
+            self.statusBar().showMessage(f"Local file not found: {resolved}")
+            return
+        QDesktopServices.openUrl(QUrl.fromLocalFile(resolved))
+
     def _open_preview_url(self) -> None:
         self._open_url(self.preview_url_edit.text().strip())
+
+    def _open_preview_local_file(self) -> None:
+        self._open_local_file(self.preview_local_edit.text().strip())
 
     def _fetch_detail_by_row_id(self, row_id: int) -> dict[str, str] | None:
         try:
@@ -873,7 +1090,7 @@ class SearchWindow(QMainWindow):
             try:
                 row = con.execute(
                     """
-                    SELECT citation, title, category, bundle, url, text
+                    SELECT citation, title, category, bundle, url, local_file, text
                     FROM docs_fts
                     WHERE rowid = ?
                     LIMIT 1;
@@ -895,6 +1112,7 @@ class SearchWindow(QMainWindow):
             "category": row["category"] or "",
             "bundle": row["bundle"] or "",
             "url": row["url"] or "",
+            "local_file": row["local_file"] or "",
             "text": row["text"] or "",
         }
 
@@ -937,15 +1155,22 @@ class SearchWindow(QMainWindow):
         self.preview_meta.setText(header or "Local document preview")
         self.preview_url_edit.setText(detail["url"])
         self.open_source_btn.setEnabled(bool(detail["url"].strip()))
+        resolved_local = self._resolve_local_file_path(detail.get("local_file", ""))
+        self.preview_local_edit.setText(resolved_local)
+        self.open_local_btn.setEnabled(bool(resolved_local))
         preview_text, was_truncated = self._choose_preview_text(detail["text"])
         hit_count = self._set_preview_with_highlights(preview_text)
         if was_truncated:
             self.statusBar().showMessage(
-                f"Large statute preview truncated for speed; highlighted {hit_count} match(es)."
+                f"Large document preview truncated for speed; highlighted {hit_count} match(es)."
             )
 
     def _open_result_url(self, row: int, _col: int) -> None:
         if row < 0 or row >= len(self._result_rows):
+            return
+        local_file = str(self._result_rows[row].get("local_file", "")).strip()
+        if local_file:
+            self._open_local_file(local_file)
             return
         self._open_url(str(self._result_rows[row].get("url", "")).strip())
 

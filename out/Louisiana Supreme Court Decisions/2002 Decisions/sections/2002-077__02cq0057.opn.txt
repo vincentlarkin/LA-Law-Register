@@ -1,0 +1,66 @@
+2002-CQ-0057
+JESCO CONSTRUCTION CORPORATION v. NATIONSBANK CORPORATION, ET AL. AMERICAN INTERNATIONAL SPECIALTY LINES INSURANCE COMPANY, CONTINENTAL CASUALTY COMPANY, UNDERWRITERS AT LLOYDS OF LONDON v. BANK OF AMERICA COMMERCIAL FINANCE CORPORATION FORMERLY KNOWN AS NATIONSCREDIT COMMERICIAL FINANCE CORPORATION
+https://www.lasc.org/Opinions?p=2002-077
+
+2002-CQ-0057
+JESCO CONSTRUCTION CORPORATION v. NATIONSBANK CORPORATION, ET AL. AMERICAN INTERNATIONAL SPECIALTY LINES INSURANCE COMPANY, CONTINENTAL CASUALTY COMPANY, UNDERWRITERS AT LLOYDS OF LONDON v. BANK OF AMERICA COMMERCIAL FINANCE CORPORATION FORMERLY KNOWN AS NATIONSCREDIT COMMERICIAL FINANCE CORPORATION
+Court: Louisiana Supreme Court
+Release date: 2002-10-25
+Release: 2002-077
+Parish: On Certified Question to the Court of Appeals For The Fifth Circuit
+Disposition: We answer the certified question as set forth in this opinion. Pursuant to Rule XII, Supreme Court of Louisiana, the judgment rendered by this court upon the question certified shall be sent by the clerk of this court under its seal to the United States Court of Appeals for the Fifth Circuit and to the parties. CERTIFIED QUESTION ANSWERED.
+Release notes: CALOGERO, C.J., dissents and assigns reasons.
+Official release page: https://www.lasc.org/Opinions?p=2002-077
+Official PDF: https://www.lasc.org/opinions/2002/02cq0057.opn.pdf
+
+1Jesco Construction Corp. v. Nationsbank Corp., 2002-0057 (La. 3/28/02), 812 So.2d 638.
+
+2 We set out the facts as delineated by the court of appeals in Jesco Construction Corp. v. NationsBank Corp., 278 F.3d 444 (5th Cir. 2001). 10/25/02
+
+SUPREME COURT OF LOUISIANA
+
+No. 2002-CQ-0057
+
+JESCO CONSTRUCTION CORPORATION
+
+VERSUS
+
+NATIONSBANK CORPORATION, ET AL.
+
+AMERICAN INTERNATIONAL SPECIALITY LINES INSURANCE
+
+COMPANY, CONTINENTAL CASUALTY COMPANY, UNDERWRITERS
+
+AT LLOYDS OF LONDON
+
+VERSUS
+
+BANK OF AMERICA COMMERCIAL FINANCE CORPORATION
+
+FORMERLY KNOWN AS NATIONSCREDIT COMMERCIAL FINANCE
+
+CORPORATION
+
+ON CERTIFIED QUESTION
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE FIFTH CIRCUIT
+
+TRAYLOR, Justice We accepted the certified question presented to this court by the United States Fifth Circuit Court of Appeals in Jesco Construction Corp. v. Nationsbank Corp., 3Bank of America Commercial Finance Corporation is the successor to the only remaining defendant originally sued by Jesco. For the sake of simplicity, and because it does not effect the reasoning behind this decision, we refer to all entities with which Jesco conducted business as BACF. Construction Corporation ("Jesco") sought a $17.7 million loan from Bank of America Commercial Finance Corporation ("BACF").3 Jesco sought to obtain the loan in order to purchase the stock of King Fisher Marine Services. The parties differ on why Jesco terminated the loan application process prior to its completion. Jesco contends that the appraisals were done; terms negotiated; and closing documents circulated; and that BACF indicated on October 23, 1997, that the loan was approved; that the transaction would be completed by the following Friday; and that the loan was a "done deal." On the other hand, BACF claims that appraisals of King Fisher revealed that it was worth less than BACF's letter of interest required. An unrelated third party eventually bought the King Fisher stock for $2 million more than the Jesco offer. Jesco originally filed the matter in the Civil District Court for the Parish of Orleans in April 1998, alleging breach of contract, detrimental reliance, negligent misrepresentation, unfair trade practices, breach of the duty of good faith and fair dealing, promissory and equitable estoppel, and breach of fiduciary duty. The case was subsequently removed to the United States District Court for the Eastern District of Louisiana on the jurisdictional basis of diversity of citizenship. BACF filed a motion for summary judgment alleging that because there had been no written credit agreement as required by the Louisiana Credit Agreement Act, specifically Article 6:1122 of the Louisiana Revised Statutes, all of Jesco's theories of recovery were barred. The United States District Court expressly found that there had been no written agreement within the meaning of Article 6:1122. The District Court made an "Erie guess" based on this court's dicta in Whitney National Bank v.
+
+248 F.3d 382, 386 (5th Cir. 2001).1 The question presented is "whether the Louisiana Credit Agreement Statute precludes all actions for damages arising from oral credit agreements, regardless of the legal theory of recovery." For the reasons that follow, we answer that question in the affirmative. FACTS and PROCEDURAL HISTORY2 This matter arises from a failed loan application process in which Jesco
+
+Rockwell, 94-3049 (La. 10/16/94); 661 So.2d 1325, ruling that Article 6:1122 did bar Jesco's breach of contract claim, but that it did not bar Jesco's alternative theories of recovery. BACF appealed the decision to the United States Fifth Circuit Court of Appeals, which, rather than making its own "Erie guess," then certified the above question to this court.
+
+DISCUSSION
+
+In order to answer the question certified, this court must determine the meaning of the Louisiana Credit Agreement Statute, Article 6, §§1121-3 of the Louisiana Revised Statutes, particularly §1122 of the article. La.Rev.Stat. 1122 reads: § 1122. Credit agreements to be in writing A debtor shall not maintain an action on a credit agreement unless the agreement is in writing, expresses consideration, sets forth the relevant terms and conditions, and is signed by the creditor and the debtor. La.Rev.Stat. 6:1122 expressly prohibits an action against a creditor based upon an oral credit agreement unless the agreement is in writing, expresses consideration, sets forth relevant terms and conditions, and is signed by the creditor and the debtor. Whitney, 661 So.2d at 1331 (emphasis added). A "creditor" is defined in La.Rev.Stat. 1121 as "a financial institution or any other type of creditor that extends credit or extends a financial accommodation under a credit agreement with a debtor." The same statute defines "credit agreement" as "an agreement to lend or forbear repayment of money or goods or to otherwise extend credit, or make any other financial accommodation." La.Rev.Stat. 1121. Because BACF qualifies as "any other type of creditor that extends credit" and because the loan sought by Jesco was "an agreement to lend . . . money or goods or to otherwise extend credit . . .," the only remaining possible ambiguity in the statute turns on the definition of the word "action." With regard to the term action, we have previously stated that: The Code [of Civil Procedure] defines "action" as a demand for the enforcement of a legal right. It is commenced by the filing of a pleading presenting the demand to the court. Cumulation of actions is the joinder of separate actions in the same judicial demand. Whether or not to cumulate separate actions is a discretionary decision to be made by a plaintiff. On the other hand, all actions arising out of the same transaction or occurrence must be brought together or be subject to a plea of res judicata. Several "actions" may therefore be present in the same lawsuit. James v. Formosa Plastics Corporation of Louisiana, 01-
+
+2056 (La. 4/3/02); 813 So.2d 335, 338-9, citations omitted. Thus, all actions (or causes of action or theories of recovery) based upon an oral agreement to lend money are barred by the La.Rev.Stat. 6:1122. Jesco alleged in its petition breach of contract, detrimental reliance, negligent misrepresentation, unfair trade practices, breach of the duty of good faith and fair dealing, promissory and equitable estoppel, and breach of fiduciary duty. The basis for each and every one of these causes of action is the failure by BACF to make a loan based upon an alleged oral credit agreement. Therefore, each and every cause of action stated by Jesco in its petition is barred by La.Rev.Stat. 6:1122. As we stated in Whitney, the primary purpose of credit agreement statutes is to prevent potential borrowers from bringing claims against lenders based upon oral agreements. To allow debtors to skirt the Louisiana Credit Agreement Statute by bringing actions other than breach of contract, but which are based upon oral agreements to lend money, would thwart the intent of the legislature and render the entire statute meaningless. We answer the question certified to us in the affirmative. The Louisiana Credit Agreement Statute precludes all actions for damages arising from oral credit agreements, regardless of the legal theory of recovery asserted.
+
+DECREE
+
+We answer the certified question as set forth in this opinion. Pursuant to Rule XII, Supreme Court of Louisiana, the judgment rendered by this court upon the question certified shall be sent by the clerk of this court under its seal to the United States Court of Appeals for the Fifth Circuit and to the parties.
+
+CERTIFIED QUESTION ANSWERED

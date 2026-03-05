@@ -1,0 +1,159 @@
+2020-CC-01094
+CHARLES HIGGINS VS. LOUISIANA FARM BUREAU CASUALTY INSURANCE COMPANY
+https://www.lasc.org/Opinions?p=2021-013
+
+2020-CC-01094
+CHARLES HIGGINS VS. LOUISIANA FARM BUREAU CASUALTY INSURANCE COMPANY
+Court: Louisiana Supreme Court
+Release date: 2021-03-24
+Release: 2021-013
+Author: BY Genovese, J.
+Parish: Parish of East Baton Rouge
+Disposition: REVERSED AND REMANDED. SEE OPINION.
+Release notes: Crichton, J., additionally concurs and assigns reasons.
+Official release page: https://www.lasc.org/Opinions?p=2021-013
+Official PDF: https://www.lasc.org/Opinions/2021/20-1094.CC.OPN.pdf
+
+FOR IMMEDIATE NEWS RELEASE
+
+NEWS RELEASE #013
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinions handed down on the 24th day of March, 2021 are as follows: BY Genovese, J.:
+
+2020-CC-01094
+
+CHARLES HIGGINS VS. LOUISIANA FARM BUREAU CASUALTY INSURANCE COMPANY (Parish of East Baton Rouge)
+
+REVERSED AND REMANDED. SEE OPINION.
+
+Crichton, J., additionally concurs and assigns reasons.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2020-CC-01094
+
+CHARLES HIGGINS
+
+VS.
+
+LOUISIANA FARM BUREAU CASUALTY INSURANCE COMPANY
+
+On Writ of Certiorari to the First Circuit Court of Appeal, Parish of East Baton Rouge
+
+GENOVESE, J.
+
+We granted writs in this case to determine whether the court of appeal properly granted summary judgment in favor of the defendant, Louisiana Farm Bureau Casualty Insurance Company ("Farm Bureau"), where Farm Bureau argued that the "regular use" exclusion in its automobile insurance policy issued to the plaintiff precluded uninsured motorist ("UM") coverage, because the plaintiff was operating a vehicle owned by his employer at the time of the accident. For the reasons that follow, we find that the plaintiff plainly qualified as an insured for purposes of UM coverage under the policy. Because we find that the policy's "regular use" exclusion impermissibly derogated from the requirements of the Louisiana uninsured motorist statute (the "UM statute"), La. R.S. 22:1295, we find this exclusion inapplicable and reverse the decision of the court of appeal.
+
+FACTS AND PROCEDURAL HISTORY
+
+The plaintiff in this matter, Charles Higgins, was injured in an automobile accident while operating a truck owned by his employer, AT&T. The other driver in the accident was underinsured, and AT&T did not carry UM coverage on the truck. Mr. Higgins subsequently filed the instant suit against his personal UM insurer, Farm Bureau. In response, Farm Bureau moved for summary judgment pursuant to the 03/24/21
+
+"regular use" exclusion in the UM portion of the policy at issue, which provided, in pertinent part: The policy does not apply under Coverage U [UM coverage]:
+
+...
+
+(b) to any automobile or trailer owned by or furnished or available for the regular use of the named insured or a resident of the named insured's household if that automobile is not described on the Declarations.
+
+Notably, the liability portion of the policy includes a similar exclusion: (d)(1) the insuring agreement does not apply to any automobile owned or furnished for regular use to either the named insured or a member of the same household.
+
+Here, it is undisputed that the plaintiff used the AT&T vehicle regularly and that the vehicle was not described on the declarations page of the plaintiff's policy; thus, under the plain language of the contract, UM coverage was excluded for the accident in question. Nevertheless, the plaintiff opposed Farm Bureau's motion, arguing that the "regular use" exclusion impermissibly conflicts with the mandatory requirements of the UM statute, which only allows UM coverage to be limited under certain conditions, including the instance when the insured is occupying a vehicle that he or she owns but has not been declared in his or her insurance policy. La. R.S. 22:1295(1)(e). After a hearing, the trial court agreed with plaintiff's statutory interpretation and denied the defendant's motion for summary judgment.
+
+Farm Bureau applied to the First Circuit for supervisory writs, which that court granted, reversing the trial court's ruling in a 4-1 decision.1 Higgins v. La. Farm Bureau Cas. Ins. Co., 20-0179 (La.App. 1 Cir. 8/10/20), 2020 WL 4582662. The appellate court found La. R.S. 22:1295 did not mandate coverage for the accident at issue, because the policy did not provide liability coverage for the accident. In conducting its analysis, the court quoted Green ex rel. Peterson v.
+
+1 Judge Chutz dissented without assigning reasons.
+
+Johnson, 14-0292, p. 7 (La. 10/15/14), 149 So.3d 766, 772 (interpreting Magnon v. Collins, 98-2822, p. 6 (La. 7/7/99), 739 So.2d 191, 196), for the proposition that, "[I]n order for a tort victim to be entitled to statutory UM coverage, which would be an implied amendment to an automobile liability policy not expressly containing such coverage, the tort victim seeking UM coverage must qualify as a liability insured under the policy at issue." Because the "regular use" exception was contained in the liability coverage portion of the Farm Bureau policy as well as the UM coverage portion, the court of appeal found that Mr. Higgins was not a liability insured under the terms of the policy, and, thus, UM coverage was not provided. Accordingly, the First Circuit reversed the trial court and granted Farm Bureau's motion for summary judgment, dismissing the plaintiff's claims with prejudice. This Court subsequently granted the plaintiff's writ to determine whether, based on the facts in this case, UM coverage is mandated for the accident at issue. Higgins v. La. Farm Bureau Cas. Ins. Co., 20-1094 (La. 11/18/20), 304 So.3d 72.
+
+LAW AND ANALYSIS
+
+As in Green and Magnon, this matter comes before us in a summary judgment posture. Summary judgments are reviewed de novo on appeal. Magnon, p. 5, 739 So.2d at 195. An appellate court thus asks the same questions as the trial court in determining whether summary judgment is appropriate: whether there is any genuine issue of material fact, and whether the mover is entitled to judgment as a matter of law. Id.; La. C.C.P. art. 966. In the present matter, the facts are undisputed, and the issue is purely a legal one-namely, whether Farm Bureau is entitled to summary judgment on the issue of the plaintiff's UM coverage under the language of the policy and the requirements of the UM statute.
+
+Louisiana's public policy strongly favors UM coverage and a liberal construction of the UM statute. Magnon, p. 5, 739 So.2d at 196; Taylor v. Rowell, 98-2865, pp. 5-6 (La. 5/18/99), 736 So.2d 812, 816; Howell v. Balboa Ins. Co., 564 So.2d 298, 301 (La.1990). As this Court stated in Taylor, p. 5, 736 So.2d at 816, "The plain language of [the UM statute] requires UM coverage on policies of automobile insurance issued in this state. However, UM coverage is not required when an insured named in the policy makes a written rejection of UM coverage or selects limits lower than the liability limits of the policy." Here, plaintiff did not reject UM coverage or select lower limits; thus, we must analyze the policy to determine whether the UM coverage provided therein complies with the requirements of the UM statute.
+
+The parties' arguments regarding interpretation and application of the UM statute turn heavily on this Court's analysis in Green and Magnon. The plaintiff argues that Green overruled Magnon's holding that "a person who does not qualify as a liability insured under a policy of insurance is not entitled to UM coverage under the policy." Magnon at p. 5, 739 So.2d at 196. However, we find that Green merely clarified that Magnon is irrelevant in cases where the insurance policy at issue contains UM provisions which expressly provide coverage to the insured. In Green, pp. 1-2, 149 So.3d at 769, the plaintiff brought suit on behalf of her two minor children whose father, Dave Peterson, died when a sport utility vehicle collided with the motorcycle that he was riding, which he co-owned with Benjamin Gibson. Gibson's insurer, Allstate, was named as a party defendant on the allegation that UM coverage was provided to Peterson under Gibson's policy. Allstate moved for summary judgment, arguing that policy did not provide UM coverage to Peterson, because the policy definitions for "insured person" and "insured auto" as set forth in the liability section of the policy were not met, relying on Magnon. Id. at pp. 2-3, 149 So.3d at 770.
+
+The Green Court articulated a two-step analysis to determine the existence of UM coverage under a policy of automobile insurance: "(1) the automobile insurance policy is first examined to determine whether UM coverage is contractually provided under the express provisions of the policy; (2) if no UM coverage is found under the policy provisions, then the UM statute is applied to determine whether statutory coverage is mandated." Id. at p. 9, 149 So.3d at 774. In that case, the Green court's
+
+analysis stopped at the first step, as it found that UM coverage existed under the
+
+"express contractual UM provisions." Id. at pp. 9-11, 149 So.3d at 774-75. Thus, even though the defendant in that case contended that the policy definitions for "insured person" and "insured auto" as set forth in the liability section of the policy were not met, the Court found that this was irrelevant, because contractual coverage existed for the accident under the terms of the UM section of the policy.
+
+However, in the instant case, although there is UM coverage contractually provided under the express provisions of the Farm Bureau policy, those provisions include a "regular use" exclusion, which excludes coverage when vehicles are furnished for the insured's regular use if those vehicles are not listed in the policy's declarations. It is undisputed that the work vehicle at issue here was furnished for the plaintiff's regular use and was not listed in the policy's declarations. Therefore, although UM coverage is expressly provided under the contract, coverage in this instance is excluded, and we must proceed to the second step of the analysis.
+
+As articulated in Green, this second step involves determining whether coverage is mandated under the terms of the UM statute, and it is at this step that an examination of Magnon's holding becomes necessary.2 In Magnon, p. 5, 739 So.2d at 196, this Court held that, "a person who does not qualify as a liability insured under a policy of insurance is not entitled to UM coverage under the policy." Because the liability portion of the plaintiff's policy in this case also contains the "regular use" exception, Farm Bureau urges this Court to rely on Magnon and find that UM coverage is not required because the plaintiff would not be covered for this accident under the liability portion of this policy. However, we find that Magnon is inapposite to the present matter. In Magnon, the plaintiff sought UM coverage under his employer's commercial general liability ("CGL") insurance policy (not a typical automobile insurance policy), which included limited automobile liability coverage for non-owned and hired vehicles. The plaintiff was an employee using his own vehicle at the time of the accident, and this Court found that he "never achieved insured status for auto liability coverage under the [employer's] policy, and thus is not entitled to UM coverage." Id. at p. 10, 739 So.2d at 199 (emphasis added). Analyzing the Magnon Court's holding that "it is well-settled that a person who does not qualify as a liability insured under a policy of insurance is not entitled to UM coverage under the policy," in light of these facts, the Green Court rightly concluded that the Magnon holding "was intended to convey only that, in order for a tort victim to be entitled to statutory UM coverage, which would be an implied amendment to an automobile liability policy not expressly containing such coverage, the tort victim seeking UM coverage must qualify as a liability insured under the policy at issue." Green, p. 6, 149 So.3d at 772 (emphasis in original). Put another way: The [Green] court noted that, while language in prior cases indicates that the injured person must be a liability insured in order to be entitled to UM coverage, that limitation does not apply when the policy expressly extends UM coverage to the injured person; it applies only in determining whether UM coverage is mandated for a person not expressly entitled to UM [coverage] under the policy.
+
+2 This Court stated that "the Magnon holding, because it discussed statutorily-mandated UM coverage, is not examined at the outset when the automobile insurance policy at issue contains express contractual UM coverage, absent some contention that contractual coverage runs afoul of the UM statute." Green, p. 6, 149 So.3d 772 (emphasis added).
+
+William Shelby McKenzie & H. Alston Johnson, III, § 4:4.Mandatory coverage-Policies, 15 La. Civ. L. Treatise, Insurance Law & Practice (4th ed., Nov. 2020 Update). Unlike the plaintiff in Magnon, Mr. Higgins is not claiming to meet the definition of "insured" under his employer's CGL policy (which, in Magnon, specifically excluded coverage for employees operating their own automobiles); rather, he merely seeks to enforce UM coverage under his personal automobile insurance policy, under which he is clearly an insured person and is expressly entitled to UM coverage, though the policy's terms purport to limit that coverage via a vehicle-based "regular use" exclusion. We therefore distinguish Magnon and related jurisprudence from cases such as the present one, where a plaintiff who plainly holds the status of an insured person under a personal automobile policy that expressly provides UM coverage seeks to enforce that UM coverage.3 This distinction does not conflict with our past jurisprudence applying Magnon's holding to find no UM coverage in cases which dealt with the issue of whether the plaintiff met the definition of an insured under a personal automobile liability policy. See Filipski v. Imperial Fire & Cas. Ins. Co., 09-1013 (La. 12/1/09), 25 So.3d 742 (finding no UM coverage where plaintiff fell under the policy's named driver exclusion); Cadwallader v. Allstate Ins. Co, 02-1637 (La. 6/27/03), 848 So.2d 577 (finding no UM coverage for foster children, who did not qualify as "relative" of insured). Nor does it conflict with cases where Magnon was applied to find that an employee did not qualify as an insured under his or her employer's CGL insurance
+
+3 Farm Bureau's policy's definitions of "insured" and "insured automobile" are found in "Part IV: Protection against Uninsured/Underinsured Motorist, Coverage U, Uninsured Motorist (Damages for bodily injury)":
+
+Definitions:
+
+The Definitions under Part I, LIABILTY, except the definition of insured, apply to Coverage U, and under Coverage U:
+
+insured means:
+
+(a) the named insured and any relative while a resident of the named insured's household;
+
+***
+
+insured automobile means:
+
+(d) a non-owned automobile while being operated by the named insured. policy. See Succession of Fannaly v. Lafayette Ins. Co., 01-1355 (La. 1/15/02), 805 So.2d 1134 (finding no UM coverage for passenger under a real estate agent's special purpose insurance policy); Carrier v. Reliance Ins. Co., 99-2573 (La. 4/11/00), 759 So.2d 37 (finding no UM coverage for an employee under his employer's commercial insurance policy). Significantly, the Carrier Court stated, and the Green Court quoted with approval, that: "Plaintiff obviously would be entitled to recovery against [the defendant/insurer] if he qualified under the 'Who is an Insured' provision of the UM coverage." Green, pp. 7-8, 149 So.3d at 773, quoting Carrier, p. 7, 759 So.2d at 41 (emphasis added). Here, the plaintiff is the named insured in his personal automobile insurance policy-obviously an "insured" person under the policy.4 Under these circumstances, we find that a vehicle-based exclusion cannot be used to artificially limit the definition of the "insured" for purposes of UM coverage in a personal automobile policy where that coverage has not been declined, but is expressly provided.
+
+To interpret Magnon in the manner in which the defendant requests would allow insurers to write vehicle-based exclusions into the liability section of personal automobile insurance policies and in turn limit UM coverage for the insured, so as to render meaningless the limited exceptions to UM coverage allowed by the legislature. We acknowledge that lower courts have at times broadly pronounced that insurers "can exclude an insured from UM coverage in the same manner that the insured would be excluded under liability insurance," and have interpreted Magnon as supporting this view. Melder v. State Farm Mut. Auto. Ins. Co., 16-692, p. 3 (La.App. 3 Cir. 12/14/16), 208 So.3d 416, 420, writ granted, 17-0095 (La. 4/7/17), So.2d 882; Mills v. Hubbs, 597 So.2d 87 (La.App. 4 Cir.), writ denied, 600 So.2d 547). Therefore, it is well settled that the UM statute is liberally construed, and statutory exceptions to coverage must be interpreted strictly. Cutsinger, p. 6, 12 So.3d at 949; Duncan, p. 4, 950 So.2d at 547; Roger v. Estate of Moulton, 513 So.2d 1126, 1130 (La.1987). Louisiana Revised Statutes 22:1295(emphasis added) contains provisions that "shall govern the issuance of uninsured motorist coverage," with the fundamental requirement being that every automobile liability insurance policy also include UM coverage of persons insured under the policy unless such coverage is expressly rejected: (1)(a)(i) No automobile liability insurance covering liability arising out of the ownership, maintenance, or use of any motor vehicle shall be delivered or issued for delivery in this state with respect to any motor vehicle designed for use on public highways and required to be registered in this state or as provided in this Section unless coverage is provided therein or supplemental thereto, in not less than the limits of bodily injury liability provided by the policy, under provisions filed with and approved by the commissioner of insurance, for the protection of persons insured thereunder who are legally entitled to recover nonpunitive damages from owners or operators of uninsured or underinsured motor vehicles because of bodily injury, sickness, or disease, including death resulting therefrom; however, the coverage required under this Section is not applicable when any insured named in the policy either rejects coverage, selects lower limits, or selects economic-only coverage, in the manner provided in Item (1)(a)(ii) of this Section....
+
+218 So.3d 107 (citing Davenport v. Prudential Prop. & Cas. Ins. Co., 03-2593 (La.App. 1 Cir. 10/29/04), 897 So.2d 98, writ denied, 04-2900 (La. 2/4/05), 893
+
+4 See footnote 3.
+
+677 (La.1992); Kerner v. Laballe, 560 So.2d 571 (La.App. 5 Cir. 1990); Zanca v. Breaux, 590 So.2d 821 (La.App. 4 Cir. 1991)). However, as will be discussed in detail below, this expansive jurisprudential principle is inconsistent with both the UM statute and this Court's jurisprudence interpreting that statute as requiring that UM coverage follow the person, not the vehicle. Bernard v. Ellis, 11-2377, p. 6 (La. 7/2/12), 111 So.3d 995, 1000; Filipski, p. 5, 25 So.3d at 745; Howell, 564 So.2d at 301. Having found Magnon's holding inapplicable to the present case, we must complete the second step of the analysis required by Green and determine whether statutory UM coverage is mandated in this case. Here, both the liability and UM sections of the policy contain "regular use" exclusions which would exclude the plaintiff's work vehicle from coverage.5 Absent a conflict with statutory provisions or public policy, insurers are entitled to impose and enforce reasonable conditions upon the policy obligations they contractually assume. Magnon, p. 7, 739 So.2d at 196-97. We acknowledge that the "regular use" exclusion serves a legitimate purpose in automobile liability insurance policies-namely, "to protect an insurance company against double coverage when a premium has been paid on only one vehicle." Romano v. Girlinghouse, 385 So.2d 352, 355 (La.App. 1 Cir. 1980). However, courts have noted that UM coverage "embodies a strong public policy, which is to provide full recovery for innocent automobile accident victims who suffer damages caused by a tortfeasor who has no coverage or who is not adequately covered by liability insurance." Bernard, p. 10, 111 So.3d at
+
+1002 (quoting Cutsinger v. Redfern, 08-2607, p. 5 (La. 5/22/09), 12 So.3d 945, 949, citing Duncan v. U.S.A.A. Ins. Co., 06-0363, p. 4 (La. 11/29/06), 950 So.2d 544,
+
+5 The "regular use" exception in Farm Bureau's policy even incorporates the term "named insured," stating that UM coverage shall not apply "to any automobile or trailer owned by or furnished or available for the regular use of the named insured or a resident of the named insured's household if that automobile is not described on the Declarations."
+
+Accordingly, UM coverage is an implied amendment to any automobile liability policy made "for the protection of persons insured thereunder" and will be read into the policy unless validly rejected. Id.(emphasis added); Duncan, p. 4, 950 So.2d at 547. In keeping with the strong public policy favoring UM coverage, the statute provides that rejection or modification of UM coverage limits "shall be made only on a form provided by the commissioner of insurance" which complies with the statutory requirements provided in La. R.S. 22:1295(1)(a)(ii)(emphasis added). In Howell, 564 So.2d at 301-02 (emphasis added), this Court explained: UM coverage attaches to the person of the insured, not the vehicle, and that any provision of UM coverage purporting to limit insured status to instances involving a relationship to an insured vehicle contravenes LSA-R.S. 22:1406(D). In other words, any person who enjoys the status of insured under a Louisiana motor vehicle policy which includes uninsured/underinsured motorist coverage enjoys coverage protection simply by reason of having sustained injury by an uninsured/underinsured motorist.[6]
+
+The Howell Court noted, "The courts of this state have recognized, both impliedly and explicitly, that this coverage cannot be qualified by a requirement of relationship with an insured vehicle." Id.(citations omitted). However, the UM statute does contain one limited exception to this general rule, La. R.S. 22:1295(1)(e), which provides: The uninsured motorist coverage does not apply to bodily injury, sickness, or disease, including the resulting death of an insured, while occupying a motor vehicle owned by the insured if such motor vehicle is not described in the policy under which a claim is made, or is not a newly acquired or replacement motor vehicle covered under the terms of the policy. This provision shall not apply to uninsured motorist coverage provided in a policy that does not describe specific motor vehicles.[7]
+
+This Court has recognized that the legislative intent of this limited exception was "to keep vehicle owners from carrying UM coverage on only one of two or more owned vehicles, thus obtaining the benefit of UM coverage regardless of which vehicle they occupied, at the cost of only one UM policy." Mayo v. State Farm Mut. Auto. Ins. Co., 03-1801, p. 6 (La. 2/25/04), 869 So.2d 96, 101 (emphasis in original), (quoting Haltom v. State Farm Mut. Auto. Ins. Co., 588 So.2d 792, 795 (La.App. 2 Cir. 1991)). This interpretation is consistent with the plain language of this statute, which only excludes coverage in certain instances where an insured is "occupying a motor vehicle owned by the insured...." La. R.S. 22:1295(1)(e)(emphasis added).
+
+6 Helpfully, the Howell Court reviewed other states' jurisprudence and concluded that, "[t]he rationale that UM coverage cannot be made dependent upon a relationship with an insured vehicle has been followed almost uniformly by those courts of the various states with UM provisions not significantly different from our own." 564 So.2d at 301.
+
+7 This exception was added to the UM statute by 1988 La. Acts No. 203, two years before Howell was decided. Thus, it was in existence at the time of the Howell decision, although it was not relevant to the facts of this case.
+
+Here, we find that the statutory exclusion unambiguously applies only to "vehicle[s] owned by the insured." As stated above, any statutory exception to coverage provisions of the UM statute must be construed strictly. Duncan, p. 4, 950 So.2d at 547. Thus, we hold that Farm Bureau's policy impermissibly expanded the categories of vehicles excluded from UM coverage beyond that which the UM statute allows.
+
+We acknowledge the existence of appellate jurisprudence which has reached a different conclusion when presented with similar facts, including a recent Third Circuit opinion upholding Farm Bureau's "regular use" exclusion under nearly identical circumstances. Melder, 208 So.3d 416; see also Davenport, 897 So.2d 98 (finding employee's personal UM coverage was barred by the "regular use" exclusion); Gray v. Am. Nat. Property & Cas. Co., 07-0415 (La.App. 3 Cir. 10/3/07),
+
+966 So.2d 1237 (finding employee's personal UM coverage was barred by the "regular use" exclusion); Peyton v. Bseis, 96-0309 (La.App. 4 Cir. 8/21/96), 680 So.2d 81 (finding employee's personal UM coverage was barred by the "regular use" exclusion); Kerner, 560 So.2d 571 (finding "regular use" exclusion barred UM coverage).8 Because we find that the language of the UM statute only allows the "regular use" exclusion with respect to owned vehicles, we overrule this jurisprudence to the extent that it conflicts with our holding herein.
+
+Finally, we note that the plaintiff requests penalties and attorney fees. This Court has stated that, "The statutory penalties are inappropriate when the insurer has a reasonable basis to defend the claim and acts in good-faith reliance on that defense." Reed v. State Farm Mut. Auto Ins. Co., 03-0107, p. 15 (La. 10/21/03), 857 So.2d 1012, 1021 (citation omitted). In light of the prior appellate jurisprudence permitting "regular use" exclusions to UM coverage in similar cases, we find that Farm Bureau had a reasonable basis to defend the claim. As there is no evidence of bad faith, an award of penalties and attorney fees is not appropriate in this case.
+
+8 Notably, this Court granted writs in Melder, but the parties settled shortly after the record was lodged, and the case was dismissed.
+
+For the foregoing reasons, we reverse the court of appeal's grant of Farm Bureau's motion for summary judgment and the dismissal of Mr. Higgin's claims. Farm Bureau's motion for summary judgment is hereby denied, and this matter is remanded to the trial court for further proceedings consistent with this opinion.
+
+REVERSED AND REMANDED.
+
+03/24/21
+
+SUPREME COURT OF LOUISIANA
+
+No. 2020-CC-01094
+
+CHARLES HIGGINS
+
+VS.
+
+LOUISIANA FARM BUREAU CASUALTY INSURANCE COMPANY
+
+ON WRIT OF CERTIORARI TO THE FIRST CIRCUIT
+
+COURT OF APPEAL, PARISH OF EAST BATON ROUGE
+
+Crichton, J., additionally concurs and assigns reasons: Under the circumstances of this case, and based on the strong public policy expressed by our legislature and reflected in jurisprudence favoring uninsured/under-insured motorist coverage, I agree with the majority opinion in all respects. See Magnon v. Collins, 98-2822, p. 5 (La. 7/7/99), 739 So.2d 191, 196. I write separately to highlight the untenable practical effect on the insured of the position taken by the insurer in this case. Under the insurer's position, this plaintiff, mandated to use a company truck on a regular basis, would not have the benefit of UM coverage, notwithstanding the fact that UM coverage follows the person, not the vehicle. Bernard v. Ellis, 11-2377, p. 6 (La. 7 7/2/12), 111 So.3d 995, 1000. For an employee who has paid for UM coverage, what are his options? Refuse to use the company's truck as instructed by his employer unless his company secures UM coverage? Incur the expense of adding the company truck to his personal automobile policy? These choices are both impractical and unjust. By choosing not to reject UM coverage or selecting lower limits, the plaintiff elected to pay a higher premium for an extra layer of protection in the unfortunate event he was to suffer damages caused by a tortfeasor not adequately covered by liability insurance. In my view, the position taken by the insurer here runs afoul of this state's public policy favoring UM coverage.

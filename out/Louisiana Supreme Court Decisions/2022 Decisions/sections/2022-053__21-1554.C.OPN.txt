@@ -1,0 +1,211 @@
+2021-C-01554
+BERKLEY ASSURANCE COMPANY VS. MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS, ET AL. C/W BERKLEY ASSURANCE COMPANY VS. MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS, ET AL.
+https://www.lasc.org/Opinions?p=2022-053
+
+2021-C-01554
+BERKLEY ASSURANCE COMPANY VS. MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS, ET AL. C/W BERKLEY ASSURANCE COMPANY VS. MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS, ET AL.
+Court: Louisiana Supreme Court
+Release date: 2022-12-09
+Release: 2022-053
+Author: BY Griffin, J.
+Parish: Parish of Orleans Civil
+Disposition: AFFIRMED. SEE OPINION.
+Release notes: Weimer, C.J., dissents and assigns reasons. Crichton, J., additionally concurs and assigns reasons. Crain, J., dissents and assigns reasons. McCallum, J., dissents.
+Official release page: https://www.lasc.org/Opinions?p=2022-053
+Official PDF: https://www.lasc.org/opinions/2022/21-1554.C.OPN.pdf
+
+NEWS RELEASE #053
+
+BERKLEY
+
+ASSURANCE
+
+COMPANY
+
+FOR IMMEDIATE NEWS RELEASE
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinions handed down on the 9th day of December, 2022 are as follows: BY Griffin, J.:
+
+2021-C-01554
+
+VS.
+
+MELISSA
+
+WILLIS,
+
+AS
+
+PARENT/GUARDIAN OF MACY LEE WILLIS, ET AL.
+
+C/W
+
+BERKLEY
+
+ASSURANCE COMPANY VS. MELISSA WILLIS, AS PARENT/GUARDIAN OF Orleans Civil)
+
+MACY
+
+LEE
+
+WILLIS,
+
+ET
+
+AL.
+
+(Parish of
+
+AFFIRMED. SEE OPINION.
+
+Weimer, C.J., dissents and assigns reasons. Crichton, J., additionally concurs and assigns reasons. Crain, J., dissents and assigns reasons. McCallum, J., dissents.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2021-C-01554
+
+BERKLEY ASSURANCE COMPANY
+
+VS.
+
+MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS, ET
+
+AL.
+
+C/W
+
+BERKLEY ASSURANCE COMPANY
+
+VS.
+
+MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS, ET
+
+AL.
+
+On Writ of Certiorari to the Court of Appeal, Fourth Circuit, Parish of Orleans Civil
+
+GRIFFIN, J.
+
+We granted this writ to determine whether the failure to include the insurer's name on an uninsured/underinsured motorist ("UM") coverage selection form renders it invalid. Because inclusion of the insurer's name is an express requirement on the face of the UM form itself, we agree with the court of appeal that the failure to include such information results in an invalid waiver of coverage.
+
+FACTS AND PROCEDURAL HISTORY
+
+This dispute over UM coverage arises from a motor vehicle accident wherein an uninsured motorist struck and killed Macy Lee Alvey, III, who was in the course and scope of his employment with Rony's Towing & Recovery, LLC ("Rony's Towing"). A commercial auto insurance policy issued by Berkley Assurance Company ("Berkley") provided liability limits of $1,000,000.00 per accident. The policy contained a UM form selecting UM coverage for bodily injury in the amount of $30,000.00 per accident. The UM form was electronically signed and dated by the legal representative for Rony's Towing. It is undisputed that the UM form did not contain Berkley's name as the insurer.
+
+Berkley filed a petition for concursus, declaratory judgment, and injunctive relief impleading the decedent's minor child through his mother, Melissa Willis, and decedent's mother. Decedent's alleged daughter, Sarah Viviano, intervened (collectively "defendants"). Berkley filed a motion for summary judgment seeking a final judgment declaring that the total amount of UM coverage under the policy was $30,000.00. Defendants filed a cross-motion for summary judgment arguing the UM form was invalid for failure to include the insurance company name, group name, or logo. The trial court granted Berkley's motion for summary judgment and denied defendant's cross-motion for summary judgment. Defendants appealed.
+
+Reversing, the court of appeal distinguished the requirements for a valid waiver of UM coverage articulated in Duncan v. U.S.A.A. Ins., Co., 06-0363 (La. 11/29/06), 950 So.2d 544 and Gingles v. Dardenne, 08-2995 (La. 3/13/09), 4 So.3d 799, as the commissioner of insurance had since promulgated Bulletin 08-02 together with a revised UM form that provided a designated box for the insurer's name, group name, or logo. Berkley Assurance Co. v. Willis, 20-0354, pp. 14-15 (La.App. 4 Cir. 9/29/21), 328 So.3d 567, 575-76. The court of appeal thus held that Bulletin 08-02 superseded Duncan and Gingles such that, in the absence of the insurer's name, the UM form at issue was not properly completed thereby invalidating the selection of lower limits of coverage. Id., 20-0354, pp. 16-17, 328 So.3d at 577.
+
+Berkley's writ application to this Court followed, which we granted. Berkley Assurance Co. v. Willis, 21-1554 (La. 3/22/22), 334 So.3d 390.
+
+DISCUSSION
+
+The issue before this Court is whether the absence of Berkley's name on the UM form renders it invalid. "UM Coverage is determined not only by contractual provisions, but also by applicable statutes." Duncan, 06-0363, p. 4, 950 So.2d at 547. Thus, whether coverage exists turns on the interpretation of the policy and UM statute. Both are questions of law subject to de novo review. Baack v. McIntosh, 20-1054, p. 4 (La. 6/30/21), 333 So.3d 1206, 1211 (internal citations omitted). Similarly, appellate courts review the grant or denial of a motion for summary judgment de novo using the same criteria as trial courts. Bernard v. Ellis, 11-2377, p. 10 (La. 7/2/12), 111 So.3d 995, 1002. "No automobile liability insurance [policy] ... shall be delivered or issued in... [Louisiana] unless [UM] coverage is provided." La. R.S. 22:1295(1)(a)(i). However, UM coverage is not required "if any insured named in the policy either rejects coverage, selects lower limits, or selects economic-only coverage, in the manner provided in [La. R.S. 22:1295(1)(a)(ii)]." Id. "Such rejection ... shall be made on a form prescribed by the commissioner of insurance" that is "provided by the insurer and signed by the named insured or his legal representative." La. R.S. 22:1295(1)(a)(ii). "The form signed by the named insured or his legal representative which initially rejects such coverage ... shall be conclusively presumed to become a part of the policy" and a "properly completed and signed form creates a rebuttable presumption that the insured knowingly rejected coverage, selected a lower limit, or selected economic-only coverage." Id. As "[t]he requirement of UM coverage is an implied amendment to any automobile liability policy, "UM coverage will be read into the policy unless validly rejected." Duncan, 06-0363, p. 4, 950 So.2d at 547. It is well-settled that the UM statute is liberally construed and exceptions to coverage are interpreted strictly. Id. Berkley argues the UM statute requires only that a waiver of coverage be made on a form prescribed by the commissioner, signed by the insured or its legal representative, and indicate whether coverage is being rejected or lower limits selected for such waiver to be conclusively presumed to become part of the policy.
+
+See La. R.S. 22:1295(1)(a)(ii). Berkley further argues that Gingles establishes the failure to include the insurer's name is not fatal to the enforcement of a UM waiver regardless of language present in the accompanying Bulletin.1 08-2995, pp. 1-2, 4 So.3d at 799-800; Lynch v. Kennard, 09-0282, p. 2 (La. 5/15/09), 12 So.3d 944, 945 n. 4; Doerr v. Mobil Oil Corp., 00-0947, pp. 23-24 (La. 12/19/00), 774 So.2d 119, immaterial as it is intended to provide the exclusive manner for an insured to waive the default UM coverage established in La. R.S. 22:1295(1)(a)(i). We agree. The UM form dictates the requirements for a valid rejection or selection of lower limits of coverage. See Duncan, 06-0363, pp. 11-12, 950 So.2d at 551 (deriving the tasks required for rejecting coverage based on what the UM form entails); Gingles, 08-2995, p. 1, 4 So.3d at 799 (observing "the pertinent UM rejection form did not expressly provide for the insurer's name"). Waiver of UM coverage "shall be made on a form prescribed by the commissioner of insurance" and only a "properly completed and signed form creates a rebuttable presumption that the insured knowingly rejected coverage." La. R.S. 22:1295(1)(a)(ii) (emphasis added). "In directing the commissioner of insurance to prescribe a form, the legislature gave the commissioner the authority to determine what the form would require."2 Duncan, 06-0363, pp. 12-13, 950 So.2d at 552. "Pursuant to that mandate, compliance with the form prescribed by the commissioner of insurance is necessary for the UM waiver to be valid." Id., 06-0363, p. 14, 950 So.2d at 553. The current UM form, prescribed under Bulletin 08-02, mandates the insurer's name, group name, or logo is necessary for a valid waiver of coverage. In relevant part, the form states: "If you wish to reject UMBI Coverage, select lower limits of UMBI Coverage, or select Economic-Only UMBI Coverage, you must complete the form and return it to your insurance agent or insurance company." Completion requires filling out the UM form in its entirety except where otherwise indicated on the face of the form. See La. C.C. art. 2047 ("words of a contract must be given their generally prevailing meaning"). Unlike the prior iteration of the UM form at issue in Gingles, a designated box in the current version of the form expressly provides for the entry of the insurer's name.3 See Gingles, 08-2995, p. 1, 4 So.3d at 799. Thus, Bulletin 08-02 made specific changes to the UM form by mandating the inclusion of the two boxes on the lower right corner of the form. As correctly noted by the court of appeal, while the descriptive "Optional" appears in the box provided for "Information for Policy Identification Purposes Only," no such language appears in the box provided for the insurer's name. Willis, 20-0354, pp. 14-15, 328 So.3d at 576. What is not optional is mandatory. Berkley had the authority, opportunity, and responsibility to assure the UM form was properly completed. Gray v. American Nat. Property & Cas. Co., 07-1670, pp. 14-15 (La. 2/26/08), 977 So.2d 839, 849-50; see also Stone v. Allstate Property and Casualty Ins. Co., 18-0547 (La.App. 3 Cir. 3/7/19), 269 So.3d 961 (UM form valid where insured initially rejected coverage with a check mark but supplemented with initials upon request of insurer). It was not. A requirement mandated on the face of the UM form itself can never be hyper-technical nor its absence considered a minor deviation. The tasks mandated by the current UM form, prescribed under Bulletin 08-02, are as follows: 1) initialing the selection or rejection of coverage chosen; 2) if limits lower than the policy limits are chosen, then filling in the amount of coverage selected for each person and each accident; 3) printing the name of the named insured or legal representative; 4) signing the name of the named insured or legal representative; 5) filling in the insurer's name, the group name, or the insurer's logo; and 6) filling in the date. Failure to properly complete the UM form results in an invalid rejection or selection of lower limits of UM coverage. Duncan, 06-0363, pp. 14-15, 950 So.2d at 553. Consequently, by operation of statute, UM coverage is equal to the liability limits of the policy. Id., 06-0363, p. 16, 950 So.2d at 554; La. R.S. 22:1295(1)(a)(i). It is doubtless the role of the judiciary is to interpret statutes. However, under our well-settled rules of statutory construction, we presume the legislature is aware of the interpretation given to a statute by the jurisprudence. Borel v. Young, 07-0419, pp. 9-10 (La. 11/27/07), 989 So.2d 42, 58 (on rehearing); Fontenot v. Reddell Vidrine Water Dist., 02-0439, pp. 13-14 (La. 1/14/03), 836 So.2d 14, 24. In the sixteen years since Duncan was decided, the legislature has amended La. R.S. 22:1295 three times.4 See Acts 2008, No. 194, § 1; Acts 2010, No. 210, § 1; Acts 2010, No. 703, § 1. Yet, despite ample opportunity, the legislature has not altered any of the relevant statutory language at issue. This Court has interpreted the language of La. R.S. 22:1295(1)(a)(ii) enacted by the legislature. It is now up to the legislature to evaluate that language in light of our interpretation, evaluate the policy ramifications, and consider whether the language of the statute needs to be changed. See State ex rel. Tureau v. BEPCO, L.P., 21-0856 (La. 10/1/22), ___ So.3d ___,
+
+134 (although the opinion of the commissioner of insurance regarding matters in his province is persuasive, the judiciary is charged with interpreting statutes and resolving disputes over insurance coverage). Berkley contends there is no substantive difference between the UM form prescribed under Bulletin 98-01 and the UM form prescribed under 08-02 - both have "space" for the insurer's name and the current version simply moved that space from the bottom left to the bottom right. Berkley thus avers that under the statute and jurisprudence, the failure to include the name of the insurer is a hyper-technical omission that does not invalidate a UM waiver. Alternatively, Berkley argues the failure to properly complete the UM form should only result in a loss of the rebuttable presumption that the insured knowingly waived coverage. Defendants counter that both Duncan and Gingles stand for the proposition that the UM form, in effect at the time of the issuance of the policy, controls the requirements for a valid rejection or selection of lower limits of coverage. Thus, such requirements change if the commissioner of insurance revises the UM form under his grant of legislative authority. See Duncan, 06-0363, p. 14, 950 So.2d at 553. Defendants further argue that the failure to reject or select lower limits of coverage in the manner provided in La. R.S. 22:1295(1)(a)(ii) results in UM coverage up to the liability limits of the policy as required under La. R.S. 22:1295(1)(a)(i). That La. R.S. 22:1295(1)(a)(ii) does not set forth a penalty is
+
+1 Specifically, Berkley avers the language of Bulletin 08-02 mandating inclusion of the insurer's name is nearly identical to the language in Bulletin 98-01 at issue in Gingles.
+
+2 Berkley's argument largely tracks that of the insurer in Duncan that "the only requirements for a valid rejection of UM coverage are those explicitly imposed by the statute." Duncan, 06-0363, p. 11, 950 So.2d at 551. This Court rejected the argument observing that if only the bare statutory essentials were required, it would be unnecessary for it to direct the commissioner of insurance to prescribe a form. Id., 06-0363, p. 12, 950 So.2d at 552.
+
+3 We find no merit to Berkley's assertion that there is no substantive difference between the UM forms prescribed under Bulletins 98-01 and 08-02. Notably, this Court observed in Gingles that "the pertinent designated spaces on the form were filled out." 08-2995, p. 2, 4 So.3d at 800 (emphasis added).
+
+2022 WL 12338524 at *15 (Weimer, C.J., additionally concurring).
+
+DECREE
+
+For the foregoing reasons, the ruling of the court of appeal is affirmed.
+
+AFFIRMED
+
+4 The statute was renumbered by Acts 2008, No. 415, § 1.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2021-C-01554
+
+BERKLEY ASSURANCE COMPANY
+
+VS.
+
+MELISSA WILLIS, AS PARENT/GUARDIAN OF
+
+MACY LEE WILLIS, ET AL.
+
+C/W
+
+BERKLEY ASSURANCE COMPANY
+
+VS.
+
+MELISSA WILLIS, AS PARENT/GUARDIAN OF
+
+MACY LEE WILL, ET AL.
+
+On Writ of Certiorari to the Court of Appeal, Fourth Circuit, Parish of Orleans Civil WEIMER, C.J., dissenting. The validity of UM waiver forms has been litigated for decades. The rule formulated by the majority in Duncan v. U.S.A.A. Ins. Co., 06-363 (La. 11/29/06), the insured knowingly rejected coverage, selected a lower limit, or selected economic-only coverage. (Emphasis added.) Thus, by statute, a UM form is valid if (1) the insured rejects UM coverage, (2) on a form prescribed by the commissioner of insurance, and (3) the form is signed by the insured or his legal representative.1 Additionally, vital to this case is the fact that the failure to properly complete a UM waiver form does not necessarily mean the form is invalid. Rather, as I have consistently pointed out in dissenting opinions, the consequence for failure to properly complete a UM waiver form is statutorily prescribed-the insurer does not receive the benefit of a rebuttable presumption that the insured knowingly rejected coverage. See La. R.S. 22:1295(1)(a)(ii); Duncan, 06-363 at 2 (Weimer, J., dissenting); Havard v. Jeanlouis, 21-00810, p. 1 (La. 6/29/22), 345 So.3d 1005, 1009 (Weimer, C.J., dissenting). The form can still be defended at a hearing or trial. There is, simply stated, no other penalty prescribed in the statute and imposing coverage for the failure to dot an "i" or cross a "t" is not statutorily authorized. Further, such a penalty of imposing coverage is grossly unfair when the insured did not want the coverage and did not pay for the coverage. In this case, the basic statutory form requirements are satisfied: the Commissioner's form was used; a selection of lower UM limits was made; and the signature of the legal representative for Rony's Towing appears on the form. Thus, the form is considered valid pursuant to the statute. See La. R.S. 22:1295(1)(a)(ii). The omission of any remaining information concerns whether the form was "properly completed," which determines the applicability of the rebuttable presumption. The dispute here arises because Berkley's name as insurer was omitted on the UM form.
+
+950 So.2d 544, which was intended to streamline the process and curtail these disputes, has not succeeded. In my view, the failure to follow the relevant statutory language as written is a significant part of the problem. Louisiana R.S. 22:1295 generally mandates UM coverage equal to the liability limits in all automobile liability policies, unless the insured "rejects [the] coverage, selects lower limits, or selects economic only coverage, in the manner provided in Item (1)(a)(ii)" of the statute. La. R.S. 22:1295(1)(a)(i). That subsection provides in relevant part: Such rejection, selection of lower limits, or selection of economic-only coverage shall be made only on a form prescribed by the commissioner of insurance. The prescribed form shall be provided by the insurer and signed by the named insured or his legal representative. ... A properly completed and signed form creates a rebuttable presumption that
+
+1 Importantly, the UM statute only references the "form" and does not require that the form include the insurance company's name or logo. Rather, this requirement only appears in the "Commissioner's bulletin." The statute makes no mention of such bulletin, nor does it direct that omission of the insurance company's name renders the waiver invalid. (See Berkley Assurance Co. v. Willis, 21-01554, slip. op. at __ (La. 12/__/22) (Crain, J. dissenting).
+
+Even assuming the omission of the insurer's name means the form was not properly completed, this omission does not invalidate the UM waiver. There is no question Berkley defended the validity of the UM form with evidence, despite not having the benefit of a rebuttable presumption. Berkley introduced certified copies of its policy and the UM form, accompanied by the affidavit of the senior claims adjuster attesting to the authenticity of the UM form and that the Berkley policy was the only policy in effect on the date of the accident. There is no evidence that Rony's Towing disputes that it selected lower UM limits. As noted by the district court, the representative for Rony's Towing paid the premium, indicated his desired coverage, and paid for what he asked for-$30,000 in UM coverage. Moreover, because the Berkley policy was the sole policy for Rony's Towing, there is no evidence of confusion or mistake regarding what company issued the policy or whether lower UM limits had been selected.2 There is no evidence of collusion between the insured and the insurance company to engage in a post-accident effort to deny coverage or alter the limits of the policy. Considering the undisputed facts of this case, invalidating the selection of lower limits of UM coverage is at odds with the language and intent of the UM statute. As I noted in my dissent in Duncan, "[i]n the majority opinion, form is being substantially elevated over substance where one is provided coverage that was apparently specifically rejected and neither bought nor paid for simply because a potentially unnecessary number is not listed on the rejection form." Duncan, 06-363 at 2, 950 So.2d at 555 (Weimer, J.,dissenting). The same is true here, where the majority holds that UM coverage is mandated simply because the Berkley policy number was not written on the form. Based on the facts of this case, I find it unjust to force the insurance company to provide greater coverage for which it received no premium. No one should get something for nothing in this circumstance-especially when it was something not wanted, not paid for, and specifically rejected. Therefore, I respectfully dissent.
+
+2 Pursuant to the UM statute, the UM form signed by the named insured or his legal representative selecting lower limits "shall be conclusively presumed to become a part of the policy or contract when issued and delivered, irrespective of whether physically attached thereto." La. R.S. 22:1295(1)(a)(ii).
+
+SUPREME COURT OF LOUISIANA
+
+No. 2021-C-01554
+
+BERKLEY ASSURANCE COMPANY
+
+VS.
+
+MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS, ET
+
+AL.
+
+C/W
+
+BERKLEY ASSURANCE COMPANY
+
+VS.
+
+MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS, ET
+
+AL.
+
+On Writ of Certiorari to the Court of Appeal, Fourth Circuit, Parish of Orleans Civil Crichton, J., additionally concurs and assigns reasons: Judicial restraint obligates me to adopt the majority's interpretation of the plain text set forth in La. R.S. 22:1295(1)(a)(ii), which notably mandates that a rejection or limitation of UM coverage "shall be made only on a form prescribed by the commissioner of insurance." The statute further provides that the "prescribed form" shall be provided by the insurer and signed by the insured and that "[t]he form. . . shall be conclusively presumed to become a part of the policy or contract when issued and delivered, irrespective of whether physically attached thereto." Id. In my view, the delegation of authority present in La. R.S. 22:1295(1)(a)(ii) is questionable, at best, but I cannot ignore that it exists. See also Duncan v. U.S.A.A. Insurance Co., 2006-363 (La. 11/29/06), 960 So. 2d 544, 552 ("In directing the commissioner of insurance to prescribe a form, the legislature gave the commissioner the authority to determine what the form would require.").
+
+In this case, it was incumbent on the insurer to ensure that its name was included on the form, as prescribed. Baack v. McIntosh, 2020-01054 (La. 6/30/21), I am troubled by the outcome of this case and am mystified by the lack of further legislative guidance in the 16 years since Duncan, but I must follow the written law. Legislative action is essential to remedy the inadequacies of La. R.S. 22:1295(1)(a)(ii) and to address the concerns set forth by Chief Justice Weimer and Justice Crain, as well as my own.
+
+333 So. 3d 1206, 1213 (the insured "should have known that signing and submitting these forms could have specific legal consequences" and "it was incumbent on [the insurer] to follow up with [the insured] to make any necessary corrections" to the form if it believed the insured made a mistake); see also Gray v. Am. Nat. Prop. & Cas. Co., 2007-1670 (La. 2/26/08), 977 So. 2d 839, 849 ("Any perceived unfairness to the insurer resulting from this decision is . . . offset by the fact that the insurer had both the authority and the opportunity to assure that the UM selection form in this case was completed properly."). Despite our repeated pronouncements that the onus of compliance with La. R.S. 22:1295(1)(a)(ii) is on the insurer, the insurer in this case apparently failed to seek any necessary corrections to render the form valid. While I have reluctance as to the conclusion of the well-reasoned opinion of the Court, I write separately to highlight the need for the legislature to direct its attention to this statute's text, as its application creates a windfall to the insured. The difficulties inherent in applying La. R.S. 22:1295(1)(a)(ii) have inundated the court system for years. See, e.g., Duncan v. U.S.A.A. Insurance Co., 2006-363 (La. 11/29/06), 960 So. 2d 544; Gingles v. Dardenne, 2008-2995 (La. 3/13/09), 4 So. 3d 799; Lynch v. Kennard, 2009-282, p. 2 (La. 5/15/09), 12 So. 3d 944; Elwakil v. Burlington Ins. Co., 22-401 (La. App. 5 Cir. 11/17/22), 2022 WL 16985700; Dotson v. Price, 399 F.Supp.3d 617, 622 (E.D. La. 2019); Guillory v. Commonwealth Ins. Co. of Am., 2022 WL 1146425 (W.D. La. Apr. 18, 2022), 2022 WL 1146425. But if there are parameters to the Commissioner's authority to dictate the policy form requirements for rejection or limitation of UM coverage, it is not the purview of the judiciary to create such confines absent a challenge to the constitutionality of the legislation. See La. C.C. art. 9.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2021-C-01554
+
+BERKLEY ASSURANCE COMPANY
+
+VS.
+
+MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS,
+
+ET AL.
+
+C/W
+
+BERKLEY ASSURANCE COMPANY
+
+VS.
+
+MELISSA WILLIS, AS PARENT/GUARDIAN OF MACY LEE WILLIS,
+
+ET AL.
+
+On Writ of Certiorari to the Court of Appeal, Fourth Circuit, Parish of Orleans Civil CRAIN, J., dissenting. The rejection or selection of lower limits of uninsured-underinsured motorist coverage is governed by Louisiana Revised Statute 22:1295(1)(a)(ii). I respectfully submit the jurisprudential struggle with UM rejections is largely the result of insufficient attention to this statutory language and an unwarranted deference to administrative bulletins. The first two sentences of Subsection 1295(1)(a)(ii) set forth the essential form requirements for a rejection or selection of lower UM limits: Such rejection, selection of lower limits, or selection of economic-only coverage shall be made only on a form prescribed by the commissioner of insurance. The prescribed form shall be provided by the insurer and signed by the named insured or his legal representative. Under this provision, the insured must (1) reject or select lower UM limits "on a form prescribed by the commissioner of insurance," and (2) the form must be "signed by the named insured or his legal representative." In the present case, there is no dispute lower limits of UM coverage were selected using a form prescribed by the commissioner of insurance that was electronically signed and dated by the insured's legal representative. This complies with the statutory form requirements. The majority nevertheless finds the form invalid because it does not identify the insurance company. That information is not required by Louisiana Revised Statute 22:1295. The majority instead relies on a bulletin issued by the commissioner of insurance. However, the commissioner is not authorized to add substantive requirements to reject or select lower limits of UM not contained in Section 1295. That statute vests the commissioner with discretion to develop "a form," ostensibly one that will apprise an insured of his statutory right to UM coverage and provide the insured a means to reject that coverage or select lower limits. However, this discretion does not include the ability to expand the statutory requirements for a valid rejection or selection of lower UM limits. The legislature authorized the commissioner to develop a form when insurers were making their own forms. The authorization was not to enact substantive law. Because the UM statute does not require the insurance company's name on a rejection form, I find its omission from the subject form is not fatal to the validity of the selection of lower limits.
+
+Where a form contains the essential information required by Subsection 1295(1)(a)(ii), the failure to otherwise properly complete it does not invalidate the waiver. The UM statute contains a single reference to the proper completion of the commissioner's form, Subsection 1295(1)(a)(ii)'s fourth sentence, which provides: "A properly completed and signed form creates a rebuttable presumption that the insured knowingly rejected coverage, selected a lower limit, or selected economic-only coverage." A properly completed form gives the insurer the benefit of this evidentiary presumption. The failure to properly complete the form merely deprives the insurer of this presumption. See La. R.S. 22:1295(1)(a)(ii); Duncan v. U.S.A.A. Ins. Co., 06-363 (La. 11/29/06), 950 So. 2d 544, 555 (Weimer, J., dissenting). I would reverse the court of appeal judgment and reinstate the trial court judgment declaring the total amount of UM coverage under the Berkley policy is $30,000.

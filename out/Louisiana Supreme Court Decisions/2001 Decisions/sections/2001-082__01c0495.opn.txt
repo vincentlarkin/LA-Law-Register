@@ -1,0 +1,85 @@
+2001-C-0495
+JODI KELLEY WILLIAMS v. DONALD WATSON, SWIFTY CAR RENTAL & LEASING, NORTHFIELD INSURANCE COMPANY, AND STATE FARM INSURANCE COMPANY, AND ABC INSURANCE COMPANY
+https://www.lasc.org/Opinions?p=2001-082
+
+2001-C-0495
+JODI KELLEY WILLIAMS v. DONALD WATSON, SWIFTY CAR RENTAL & LEASING, NORTHFIELD INSURANCE COMPANY, AND STATE FARM INSURANCE COMPANY, AND ABC INSURANCE COMPANY
+Court: Louisiana Supreme Court
+Release date: 2001-10-16
+Release: 2001-082
+Author: BY LOBRANO, J. 
+Parish: Parish of Orleans
+Disposition: For the foregoing reasons, the judgment of the court of appeal is reversed and judgment on the issue of coverage is entered in favor of defendant, Allstate Insurance Company.
+Release notes: Retired Judge Robert L. Lobrano, assigned as Justice Pro Tempore, participating in the decision. JOHNSON, J., dissents and assigns reasons . PER CURIAM :
+Official release page: https://www.lasc.org/Opinions?p=2001-082
+Official PDF: https://www.lasc.org/opinions/2001/01c0495.opn.pdf
+
+Retired Judge Robert L. Lobrano, assigned as Justice Pro * Tempore, participating in the decision. The trial court certified its judgment as final for purposes of immediate appeal under La. C.C.P. art. 1915. 10/16/01 "See News Release for any concurrences and/or dissents."
+
+SUPREME COURT OF LOUISIANA
+
+No. 01-C-0495
+
+JODI KELLEY WILLIAMS
+
+Versus
+
+DONALD WATSON, SWIFTY CAR RENTAL & LEASING,
+
+NORTHFIELD INSURANCE COMPANY, AND STATE FARM INSURANCE
+
+COMPANY AND ABC INSURANCE COMPANY
+
+ON WRIT OF CERTIORARI TO
+
+THE COURT OF APPEAL, FOURTH CIRCUIT,
+
+PARISH OF ORLEANS
+
+LOBRANO, Justice Pro Tempore * We granted certiorari in this personal injury case to resolve a conflict among the circuits over whether residency status on the date of the accident is essential to the validity of a named driver exclusion under La. R.S. 32:900(L). Characterizing residency as an essential and a fact sensitive issue, the appellate court affirmed the trial court's denial of a motion for summary judgment filed by the defendant, Allstate Insurance Company, on this coverage issue. We reverse. Construing § 32:900(L), we conclude that once an insured and insurer validly agree to exclude a named driver actually residing in the insured's household, that named driver's subsequent residency status is neither essential nor material to the validity of the exclusion.
+
+The policy had a six-month term, beginning April 20, 1995, and ending October 20, 1995. Facts On October 16, 1995, plaintiff, Jodi Kelley Williams, was involved in a rear-end collision. The vehicle plaintiff was driving was struck from behind by a vehicle being driven by Donald Watson. The vehicle Watson was driving was a leased vehicle that his mother had rented because her van was being repaired. Declining the option in the rental agreement to purchase additional insurance, his mother opted to have her own Allstate automobile insurance policy cover the rented vehicle. Allstate, as alleged insurer of the rented vehicle, was thus named as a defendant. Allstate responded by filing a motion for summary judgment on the coverage issue based on a Named Driver Exclusion in its policy. The Named Driver Exclusion on which Allstate relied was executed by Watson's mother on April 19, 1995, as part of the automobile insurance policy she procured. That exclusion listed as named excluded drivers both Watson and his sister--both of whom were under the age of 25, unmarried, and residents of their mother's household. Particularly, this exclusion provided: I authorize the person(s) listed below to be excluded from my insurance policy: THIS MEANS THAT NONE OF THE
+
+COVERAGES AFFORDED BY THE POLICY WILL APPLY TO
+
+ANY DAMAGES, LOSSES, OR CLAIMS OF ANY PERSON OR
+
+ORGANIZATION CAUSED WHILE ANY MOTOR VEHICLE IS
+
+BEING USED OR OPERATED BY THE EXCLUDED DRIVER(S)
+
+LISTED BELOW EXCEPT AS PROVIDED IN THE FOLLOWING
+
+PARAGRAPH. This exclusion applies regardless of any provision in the auto policy defining Insured Persons.
+
+NAME OF EXCLUDED DRIVERS(S)
+
+Name:
+
+DONALD WATSON
+
+Date of Birth: 1/31/1978 Relationship to Insured: CH[ILD] As a result of this exclusion, Allstate calculated the premium based on "no unmarried driver under 25 [years of age]," which undisputedly lowered Watson's mother's premium. In support of its motion for summary judgment, Allstate listed as an uncontested material fact that Watson was a resident of his mother's household on the date of the accident (October 16, 1995). The police report likewise reflects that he was residing with his mother on that date. However, in her deposition, Watson's mother testified that he moved out of her household in June or July 1995 and that on the date of the accident he was residing with his girlfriend. Denying Allstate's motion for summary judgment, the trial court found the policy presented a conflict and was thus ambiguous as to coverage given it "excludes the driver, but it also covers persons who are non-residents of the household at the time of the accident." Given the apparent split between the circuit courts on the issue, discussed below, the trial court certified the judgment as a final judgment for appeal purposes pursuant to La. C.C.P. art. 1915. On Allstate's appeal, the appellate court affirmed. 00-0606 (La. App. 4 Cir. th 1/24/01), 779 So.2d 105. Although the court acknowledged that "the exclusion itself is clear and contains no ambiguity," the appellate court concluded that summary judgment was inappropriate because "the residency issue is fact sensitive and material to the issue of coverage." 00-0606 at pp. 7-8, 779 So.2d at 109. In support, the appellate court cited with approval the reasoning in John v. Cloud, 96-report regarding Watson's residency on the date of the accident, the court of appeal found the trial court correctly denied summary judgment on the coverage issue. As a general rule, this court declines granting certiorari in cases such as this one in which summary judgment has been denied below, as sparing the movant the expense and inconvenience of a trial on the merits is not, in and of itself, one of the factors for entertaining a writ. Smith v. Our Lady of the Lake Hosp., Inc., 93-2512 at p. 12 (La. 7/5/94), 639 So. 2d 730, 742. We, nonetheless, granted certiorari in this case to resolve the conflict between the circuits noted by the trial court and reflected by the divergent reasoning set forth in Hodge and Cloud regarding the relevancy of residency status on the date of the accident to the validity of a named driver exclusion. 01-0495 (La. 4/27/01), 790 So. 2d 647. See La. Supreme Court Rule X, § 1(a)(1)(citing conflicting appellate court decisions as a factor favoring granting writs). Standard of Review We review summary judgment on appeal de novo. Independent Fire Ins. Co. v. Sunbeam Corp., 99-2181, 99-2257 (La. 2/29/00), 755 So. 2d 226. The governing procedural provision is La. C.C.P. art. 966(B), which provides that a summary judgment motion will be granted "if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to material fact, and that the mover is entitled to judgment as a matter of law." While the appellate court, citing Cloud, concluded that Watson's residency status presented a genuine material issue of fact precluding summary judgment, our The factual dispute over whether Watson actually changed residence is not before us. If this fact sensitive issue of residency is essential to the validity of the exclusion, summary judgment would be precluded whenever an insured asserted a change of residency. As explained elsewhere, this pragmatic reason supports our conclusion that the Legislature did not intend this result. result is not predicated on that factual issue. The issue for our determination is, even assuming that Watson was not residing in his mother's household on the date of the accident, whether the exclusion nonetheless remains valid under La. R.S. 32:900(L). We hold the exclusion is valid.
+
+1459 (La. App. 3 Cir. 5/7/97), 696 So. 2d 12, which involved a summary rd judgment, and distinguished factually Hodge v. Austin, 31-564 (La. App. 2 Cir. nd 3/31/99), 732 So. 2d 608, which was decided after a trial on the merits. Given the factual dispute created by Watson's mother's deposition testimony and the police
+
+Discussion
+
+In resolving the issue before us, we first set forth the pertinent statutory provisions of La. R.S. 32:900:
+
+B.
+
+Such owner's policy of liability insurance:
+
+* * * * * (2) Shall insure the person named therein and any other person, as insured, using any such motor vehicle or motor vehicles with the express or implied permission of such named insured against loss from the liability imposed by law for damages arising out of the ownership, maintenance, or use of such motor vehicle or motor vehicles . . .
+
+* * * * *
+
+(L)
+
+Notwithstanding the provisions of Paragraph B(2) of this Section, an insurer and an insured may by written agreement exclude from coverage any named person who is a resident of the same household as the named insured. We have construed § 32:900(L) as creating an express exception to the general rule of omnibus coverage in favor of any person using an insured vehicle with the named insured's permission or consent. Joseph v. Dickerson, 99-1046, 99-1188 (La. 1/19/00), 754 So. 2d 912. The appellate courts that have addressed This is the fourth time this court considers La. R.S. 32:900(L), which was enacted in 1992. None of the prior cases presented the issue currently before us. Our prior cases, however, set forth the historical background prompting the enactment of this provision and therefore we do not repeat that history in this case. See Williams v. US Agencies Cas. Ins. Co., 00-1693 (La. 2/21/01), 779 So. 2d 729 (resolving conflict among circuit courts and holding that "named insured" could not exclude himself from coverage by listing himself as "excluded driver"); Joseph v. Dickerson, 99-1046, 99-1188(La. 1/19/00), residential status at the time of the accident. 31-564 at p. 3, 732 So. 2d at 609 n. 1. Resolving the conflict, we hold, as noted at the outset, that once an insured and insurer validly agree to exclude a named driver who is a resident of the insured's household that named driver's subsequent residency status is neither essential nor material to the validity of the exclusion. In so holding, we adopt and add to the factors noted by the court in Hodge in reaching this same result. First, the statutory language of § 32:900(L) supports this view, "refer[ring] to the exclusion by the contracting parties of a named person, not some residential status." 31-564 at p. 3, 732 So. 2d at 610. Translating that statutory language, Hodge held that "whether or not the excluded person is a resident of the household at the time of an accident should be immaterial as long as he was a resident at the time the contract of insurance was confected." Id. Second, the sole purpose for this type exclusion is premium reduction. Indeed, we recognized this in Dickerson, supra, stating that the purpose of this provision is "to allow the named insured the option of paying a reduced premium in exchange for insurance that affords no coverage while a covered vehicle is operated by the excluded driver." 99-1046 at p. 9, 754 So. 2d at 917. Failing to recognize the validity of the exclusion thus results in imposing on the insurer a coverage obligation that is not commensurate with the premium paid. It follows then that to allow an insured to expand coverage (or even to create a triable coverage issue) based simply on the named driver's alleged relocation of residence would defeat the purpose of the exception provided for in § 32:900(L). Third, the general rule that obligations are fixed at the time the contract is executed supports this view. Applying this principle,"[t]he insurer agrees to, and the insured obtains, lower premiums in return for excluding a higher risk driver, regardless of where that driver continues to live." 31-564 at p. 4, 732 So. 2d at 610. Adopting the contrary view results in altering the contractual obligations of the parties. As Allstate points out, neither § 32:900(L) nor the exclusion signed by Watson's mother provide that the exclusion can be nullified simply by the named driver relocating without notice to the insurer or payment of an additional premium. See Carter v. Patterson Ins. Co., 96-0111 (La. App. 4 Cir. 5/22/96), 675 So. 2d th 736, writ denied, 96-1639 (La. 10/4/96), 679 So. 2d 1384 (rejecting argument that named driver exclusion executed before child obtained driver's license was affected by child's subsequent obtaining of license and holding that insurer had no duty to keep abreast of excluded driver's "driving status"). Fourth, this view is bolstered by La. R.S. 32:863.1(A)(1)(a)(v), the enforcement provisions, which mandate that any named excluded driver be listed on the certificate of insurance, which is required to be carried in the insured vehicle and which alerts law enforcement officers to a particular driver's insured status. See Green v. Bailey, 698 So. 2d 715 (La. App. 2 Cir. 1997). nd A final factor, illustrated by the facts of this case, is the pragmatic ramifications that flow from the contrary conclusion. If this statutory exception is tied to the fact sensitive issue of residency, summary judgment will be precluded whenever a change of residency by the excluded driver is alleged. This pragmatic reason supports our conclusion that the Legislature could not have intended this result. In sum, we construe § 32:900(L) to mean that once an insured and insurer validly agree to exclude a named driver residing in the insured's household, the validity of that exclusion is not dependent on that named driver's subsequent residency status.
+
+754 So. 2d 912 (affirming lower court's fact finding that daughter was a resident of mother's household as required for exclusion); Bellard v. Johnson, 97-0909 (La. 5/30/97), 694 So. 2d 225 (reinstating trial court's granting of summary judgment in insurer's favor and holding "La. R.S. 32:900 L clearly permits the purchaser of a policy to exclude from coverage a resident of his household"). the issue of whether residency status on the date of the accident is essential to the validity of the named driver exclusion under § 32:900(L) have voiced two conflicting views. One view, which the lower courts adopted and which plaintiff argues we should adopt, is that the validity of a named driver exclusion is tied to residency status at the time of the accident. That view was voiced by the Third Circuit in Cloud, supra, which stated that "this individual remains excluded from coverage unless he is no longer a resident of the household of the insured. Once he moves away from that particular residence, the exclusion no longer applies. That person is treated as other individuals who use this car who are not residents of the insured's home." 96-1459 at p. 5, 696 So. 2d at 14. In short, this view places the named excluded driver into the category of permissive user when that individual moves away from the named insured's residence. Plaintiff's position is that this view allows coverage for a permissive, non-resident driver and is thus in harmony with the legislative intent underlying the omnibus requirement. The contrary view, which Allstate advocates, is that residency status on the date of the accident is irrelevant. That view was voiced by the Second Circuit in Hodge, supra, which held that the exclusion applies to a named person and not a
+
+Decree
+
+For the foregoing reasons, the judgment of the court of appeal is reversed and judgment on the issue of coverage is entered in favor of defendant, Allstate Insurance Company.

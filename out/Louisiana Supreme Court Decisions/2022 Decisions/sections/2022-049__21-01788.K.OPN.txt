@@ -1,0 +1,109 @@
+2021-K-01788
+STATE OF LOUISIANA VS. KENNETH JAMES GLEASON
+https://www.lasc.org/Opinions?p=2022-049
+
+2021-K-01788
+STATE OF LOUISIANA VS. KENNETH JAMES GLEASON
+Court: Louisiana Supreme Court
+Release date: 2022-11-10
+Release: 2022-049
+Author: BY Griffin, J.
+Parish: Parish of East Baton Rouge
+Disposition: COURT OF APPEAL REVERSED; APPEAL DISMISSED; REMANDED TO TRIAL COURT WITH INSTRUCTIONS.
+Release notes: Crichton, J., concurs in part, dissents in part, and assigns reasons.
+Official release page: https://www.lasc.org/Opinions?p=2022-049
+Official PDF: https://www.lasc.org/opinions/2022/21-01788.K.OPN.pdf
+
+FOR IMMEDIATE NEWS RELEASE
+
+NEWS RELEASE #049
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinion handed down on the 10th day of November, 2022 is as follows: BY Griffin, J.:
+
+2021-K-01788
+
+STATE OF LOUISIANA VS. KENNETH JAMES GLEASON (Parish of East Baton Rouge)
+
+COURT OF APPEAL REVERSED; APPEAL DISMISSED; REMANDED
+
+TO TRIAL COURT WITH INSTRUCTIONS.
+
+Crichton, J., concurs in part, dissents in part, and assigns reasons.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2021-K-01788
+
+STATE OF LOUISIANA VS.
+
+KENNETH JAMES GLEASON
+
+On Writ of Certiorari to the Court of Appeal, First Circuit, Parish of East Baton Rouge
+
+GRIFFIN, J.
+
+We granted this writ to reconsider the utility of the common law procedural rule of abatement ab initio in Louisiana. Finding the doctrine to be obsolete and inconsistent with our positive law, we abandon it.
+
+FACTS AND PROCEDURAL HISTORY
+
+Defendant Kenneth Gleason was unanimously convicted of the first-degree murder of Donald Smart and sentenced to life imprisonment without the possibility of parole, probation, or suspension of sentence.1 After providing written notice of his intent to appeal, Mr. Gleason died in prison. The court of appeal - adhering to this Court's precedent in State v. Morris, 328 So.2d 65 (La. 1976) - dismissed the appeal, vacated his conviction, and remanded the matter to the trial court with instructions to dismiss the indictment. The State's writ application to this Court followed, which we granted. State v. Gleason, 21-1788 (La. 2/8/22), 332 So.3d 665.
+
+1 Mr. Gleason was also implicated in the murder of Bruce Cofield.
+
+DISCUSSION
+
+The issue before this Court is whether we should overrule our precedent adopting the abatement ab initio doctrine.2 Such questions of law are subject to de novo review. Wooley v. Lucksinger, 09-0571, p. 49 (La. 4/1/11), 61 So.3d 507, 554. Abatement ab initio, abatement "from the beginning," provides that when a defendant dies during the pendency of a direct appeal, the appeal be dismissed, the conviction and sentence vacated, and the indictment dismissed. While the historical origins of the rule are unclear, early justification in the United States appeared premised on the acknowledgment that punishment of a deceased defendant is futile. See, e.g., Overland Cotton Mill Co. v. People, 75 P. 924, 925 (Colo. 1904) ("a judgment cannot be enforced when the only subject-matter upon which it can operate has ceased to exist"). This later shifted to include concerns over the legitimacy of a conviction that has not been subjected to appellate review for errors. See, e.g., State v. Carter, 299 A.2d 891, 894 (Me. 1973) ("a judgment of conviction, in fact left under a cloud as to its validity or correctness when the defendant's death causes a pending appeal to be dismissed, should not be permitted to become a final and definitive judgment of record"). These two justifications are commonly referred to as the punishment principle and the finality principle. See Commonwealth v. Hernandez, 481 Mass. 582, 593, 118 N.E.3d 107, 117 (2019). Louisiana first adopted the abatement ab initio doctrine in State v. Morris wherein this Court, echoing the above rationale, observed a defendant's death prevents the execution of any sentence in furtherance of punishment and reform and renders practical relief futile. 328 So.2d at 67 ("even if reversible error is found,"
+
+2 Stare decisis is part of the common law tradition that has governed criminal law in Louisiana from the time it was a territory of the United States. See State v. Harris, 18-1012 (La. 7/9/20), 340 So.3d 845, 862 n. 1 (Crichton, J., concurring) (citing Acts Passed at the First Session of the Legislative Council for the Territory of Orleans, Ch. 50, Sec. 33 (1805); see also State v. McCoy,
+
+8 Rob. (La.) 545, 547 (1844); Warren M. Billings, The Historic Rules of the Supreme Court of Louisiana, 1813-1879 (1985).
+
+"[o]ften the appeal results only in a new trial for which [defendant] would be unavailable"). This Court further observed that "the surviving family has an interest in preserving, unstained, the memory of the deceased defendant or his reputation." Id. The latter interest was found to be of such legal significance that a conviction should not become final when its validity has not been determined on appeal. Id. The rule has been applied by our courts consistently since its inception. See, e.g., State v. Sargent, 21-0214 (La.App. 3 Cir. 7/14/21), 2021 WL 2948850. In the intervening years, however, multiple states have reassessed its continued application in light of changes to the positive law in the areas of victims' rights and restitution. See State v. Al Mutory, 581 S.W.3d 741, 748 (Tenn. 2019). The State argues this Court should abandon the abatement ab initio doctrine and adopt the "Alabama Rule" which, while dismissing the appeal, maintains the conviction with a notation in the record that, because the defendant died, his conviction was neither affirmed nor reversed. See Wheat v. State, 907 So.2d 461, change to the application of the abatement ab initio doctrine should be left up to the legislature.4 Abandoning the abatement ab initio doctrine requires overruling State v. Morris. The decision to overrule precedent may be informed by consideration of three broad factors: 1) whether the precedent was egregiously wrong when decided or later revealed as such by subsequent legal or factual understandings; 2) the precedent's negative jurisprudential or real-world effects; and 3) would overruling the precedent unduly upset reliance interests. See Harris, 18-1012, 340 So.3d at 862-63 (Crichton, J. concurring) (citing Ramos v. Louisiana, 590 U.S. ---, 140 S.Ct. 1390, 1414-15 (2020) (Kavanaugh, J., concurring in part)). These factors - while not a definitive test for evaluating the propriety of the adherence to stare decisis in Louisiana criminal law - provide a useful analytical framework to evaluate the issue at hand.5 "'Considerations in favor of stare decisis' are at their weakest in cases 'involving procedural and evidentiary rules." Scott v. Harris, 550 U.S. 372, 388 (2007) (Breyer, J., concurring) (quoting Payne v. Tennessee, 501 U.S. 808, 828 (1991)). Thus, stare decisis may not be a sufficient reason to maintain the abatement ab initio doctrine if the precedent adopting it was poorly reasoned and wrongly decided. See Harris, 18-1012, 340 So.3d at 861 (Crichton, J., concurring); United States v. Estate of Parsons, 367 F.3d 409, 414 (5th Cir. 2004) (because abatement ab initio "is largely court-created and a creature of the common law, the applications of abatement are more amenable to policy and equitable arguments"). The uncertain origins of the doctrine were accompanied by a further lack of clarity "as to what aspect of the case was being abated - the appeal only or the entire prosecution." Bevel v. Commonwealth, 282 Va. 468, 475, 717 S.E.2d 789, 793 (2011). It has been observed that the exonerative quality of abatement is a relatively modern concept whereas traditional abating courts did not speak to a defendant's guilt and, instead, merely recognized the court's limitations. See Alexander F. Mindlin, "Abatement Means What It Says:" The Quiet Recasting of Abatement, 67 N.Y.U. Ann. Surv. Am. L. 195, 208 (2011); United States v. Mitchell, 163 F. 1014, 1015-16 (C.C. Or. 1908) ("Ordinarily... the abatement or dismissal of the appeal or writ of error for any cause will leave the judgment below as it was prior to the removal of the cause to the higher court; that is, in full force and effect."). For many state courts, abatement has historically meant dismissing the appeal, but leaving the conviction intact. Mindlin, supra; Whitley v. Murphy, 5 Or. 328, 331 (1874) ("whenever that appeal abated, it left the judgment in the Court below in full force"); State v. Ellvin, 51 Kan. 784, 33 P. 547, 548 (1893) ("judgment was stayed, and, in a certain sense, suspended by the appeal, but a dismissal of the same ordinarily leaves the judgment unimpaired and in full force"). The finality and punishment principles supporting the abatement ab initio doctrine are also not without their flaws. The right to an appeal is guaranteed in our constitution. La. Const. art. I, § 19. However, the lack of an appeal does not necessarily render a conviction illegitimate as not every conviction is appealed. See State v. Counterman, 475 So.2d 336, 338 (La. 1985) (conviction and sentence become final after lapse of delay for filing appeal under La. C.Cr.P. 914); State v. McKinney, 406 So.2d 160, 161 (La. 1981) (defendant pleading guilty knowingly waives all non-jurisdictional defects in the proceedings including the right to appeal). Numerous courts examining the abatement ab initio doctrine have observed that a conviction removes the presumption of innocence and is further presumed to have been validly obtained. See Carlin, 249 P.3d at 762 (collecting cases). It may also be questioned whether the right to appeal survives death or whether a deceased defendant, sentenced to life in prison, has effectively served that sentence therefore mooting any benefit to the appeal.6 Cf. State v. Malone, 08-2253, p. 13 (La. 12/1/09), 25 So.3d 113, 123 (observing adoption of La. Const. art. I, § 19 is not inconsistent with the Court's use of the traditional rule that satisfaction of sentence renders a case moot); Whitehouse v. State, 266 Ind. 527, 529, 364 N.E.2d 1015, 1016 (1977) (dismissal of appeal is not in derogation of constitutional or statutory rights as such rights were "personal to and exclusively those of the defendant"). The punishment principle is grounded in the notion that a defendant who dies on appeal is no longer capable of being punished. See La. C.Cr.P. art. 381 (criminal prosecutions are brought for the purpose of punishing those who have violated the law). Yet this principle is short-sighted. It ignores consideration that the state has an interest in preserving a presumptively valid conviction. See State v. Makaila, 79 Hawai'i 40, 45, 897 P.2d 967, 972 (1995); State v. McGettrick, 31 Ohio St.3d 138, 141, 509 N.E.2d 378, 380 (1987). It also ignores the advent of victims' rights legislation. The codification of victims' rights in the Louisiana Constitution touches on both the first and second factors in consideration of the continued viability of the abatement ab initio doctrine. It runs counter to the emphasis Morris placed on the defendant's reputation and questions whether Morris was wrongly decided. It further calls us to consider the negative real-world effect such an emphasis has in light of the developing positive law of our state. "Any person who is the victim of crime shall be treated with fairness, dignity, and respect" and is granted a series of rights including "the right to seek restitution."7 La. Const. art. I, § 25. The right to restitution in the CVBR requires a conviction.8 See La. R.S. 46:1844(M); State v. Devin, 158 Wash.2d 157, 171, 142 P.3d 599, 606 (2006) (abatement ab initio "threatens to deprive victims of restitution that is supposed to compensate them for losses caused by criminals"). Monetary considerations aside, "interests of the victim and the community's interest in condemning the offender persist even after the defendant's death." Carlin, 249 P.3d at 764; Al Mutory, 581 S.W.3d at 750 (criticizing the doctrine for "prioritiz[ing] the reputation of a deceased criminal and the financial interests of the criminal's estate over society's interest in the just condemnation of a criminal act and a victim's right to restitution"); see also Morris v. Slappy, 461 U.S. 1, 14 (1983) ("in the administration of criminal justice, courts may not ignore the concerns of victims"). Abatement of the conviction subordinates the victim's constitutional guarantees of fairness, dignity, and respect to the reliance interests of the convicted. Consideration of the third factor, whether overruling Morris would unduly upset reliance interests, acts as a counterweight to the negative effects abatement ab initio has on victims' rights and restitution. See Harris, 18-1012, 340 So.3d at 863 (Crichton, J., concurring). These reliance interests center on the finality principle discussed previously in this opinion.9 Courts question whether such interests merit
+
+464 (Ala. 2005); Hernandez, 481 Mass. at 602, 118 N.E.3d at 124. The State contends this approach is consistent with Louisiana's policy shift towards the rights of crime victims. See La. Const. art. I, § 25; La. R.S. 46:1801, et seq. (the Crime Victims Reparation Act ("CVRA")); La. R.S. 46:1844 (the Crime Victims Bill of Rights ("CVBR")). Defense3 counters that, unlike Alabama and Massachusetts, the right to appeal in Louisiana is constitutionally protected. See La. Const. art. I, § 19; La. C.Cr.P. art. 912(C)(1) (defendant may appeal from a judgment that imposes a sentence); see also La. C.Cr.P. art. 922 (timely appealed judgment is precluded from being final until the last appellate delay has expired). Defense concludes that any
+
+3 As Mr. Gleason is deceased we refer to arguments on his behalf as those of the "defense."
+
+4 Defense also relies on jurisprudence constante but such reliance is misplaced in the context of criminal law. See n. 2, supra. Nevertheless, we analyze the issue as a matter of stare decisis.
+
+5 A similar test is used by the Alaska Supreme Court where a prior decision will be overruled only when the court is "clearly convinced that the rule was originally erroneous or is no longer sound because of changed conditions, and that more good than harm would result from a departure from precedent." State v. Carlin, 249 P.3d 752, 756 (Alaska 2011) (internal quotation omitted).
+
+6 Morris presents a degree of internal inconsistency. On the one hand, it reaffirms this Court's prior use of the traditional rule, in the context of payment of fines, "that the satisfaction of the sentence renders the case moot so as to preclude review of or attack on the conviction or sentence."
+
+328 So.2d at 66. This is in contrast to "the liberal view that an accused's interest in clearing his name is enough to warrant review of or attack on the conviction or sentence even though the sentence has been satisfied." Id. Yet it seemingly invokes the latter in its reliance on the interest of the surviving family "in preserving, unstained, the memory of the deceased defendant or his reputation" to support its adoption of the abatement ab initio doctrine. Id., 328 So.2d at 67.
+
+7 Victims' rights are not absolute. "The person injured by the commission of an offense is not a party to the criminal prosecution, and his rights are not affected thereby." La. C.Cr.P. art. 381; see also State in Interest of L.R., 21-0141, pp. 5-6 (La.App. 4 Cir. 3/25/21), 314 So.3d 1139, 1141, writ denied, 21-0568 (La. 5/7/21), 315 So.3d 867.
+
+8 Defense correctly points out that a conviction is not a requirement for restitution under the CVRA as the Crime Victims Reparation Board may order reparations "whether or not any person is arrested, prosecuted, or convicted of the crime giving rise to the application for reparations." La.
+
+R.S. 46:1809(B)(1).
+
+9 The Alaska Supreme Court framed the reliance issue more specifically observing it "unlikely that a person would commit a crime because he believed that upon his death while his appeal was pending, his conviction would be abated." Carlin, 249 P.3d at 762. We feel the more appropriate
+
+analysis considers the justifications for the abatement ab initio doctrine rather than the result itself.
+
+a solution wherein a defendant's appeal is treated as successful though it was never actually adjudicated. See Hernandez, 481 Mass. at 595, 118 N.E.2d at 119. The inquiry therefore is whether more good than harm would result from overruling Morris. See Carlin, 249 P.3d at 756. We find that it would. The abatement ab initio doctrine is obsolete and inconsistent with our positive law. To abate a conviction would be as to say there has been no crime and there is no victim. Accordingly, we abandon the doctrine and hold that when a defendant dies during the pendency of an appeal, the appeal shall be dismissed and the trial court shall enter a notation in the record that the conviction removed the defendant's presumption of innocence but was neither affirmed nor reversed on appeal due to the defendant's death. Notwithstanding our decision to overrule Morris, we urge the legislature to address this issue considering the competing interests of the positive law discussed in this opinion, the wealth of authorities from other jurisdictions, and input from the relevant stakeholders in the criminal justice system.
+
+DECREE
+
+For the foregoing reasons, the ruling of the court of appeal is reversed, the appeal is dismissed, and the matter is remanded to the trial court to enter a notation in the record that while the conviction removed defendant Kenneth Gleason's presumption of innocence, it was neither affirmed nor reversed on appeal due to his death.
+
+COURT OF APPEAL REVERSED; APPEAL DISMISSED; REMANDED TO
+
+TRIAL COURT WITH INSTRUCTIONS
+
+SUPREME COURT OF LOUISIANA
+
+No. 2021-K-01788
+
+STATE OF LOUISIANA VS.
+
+KENNETH JAMES GLEASON
+
+On Writ of Certiorari to the Court of Appeal, First Circuit, Parish of East Baton Rouge Crichton, J., concurs in part, dissents in part, and assigns reasons. I agree with the majority opinion finding the doctrine of abatement ab initio obsolete in Louisiana law, as set forth in that opinion. I disagree, however, with the instruction to the trial court the majority provides for in this case, i.e., that the trial court is ordered to note in the record that while the conviction removed Mr. Gleason's presumption of innocence, it was neither affirmed nor reversed on appeal due to his death. In my view, where, as here, a defendant dies by suicide while the appeal is pending, the notation should state: "Appeal Dismissed; Conviction Final."1 I also write separately to emphasize the heinous nature of the hate crimes in this case. Defendant was convicted of first-degree murder related to his shooting of a Donald Smart, a forty-nine-year-old black male, based upon the aggravating circumstance that he previously acted with specific intent to kill or inflict great bodily harm that resulted in the killing of Bruce Cofield, a fifty-nine year old black male. Defendant was also implicated in the attempted murder at the home of Tonya Stephens, who lived with her adult sons; the Stephenses were the only black family residing the neighborhood where they lived. DNA at two of the scenes, along with other evidence, ultimately tied all three incidents-which occurred within several days of each other-together.2 In my view, the victims of defendant's shocking and senseless crimes, their relatives and friends, and the entire community impacted by defendant's vicious spree, deserve the finality of his conviction being unambiguous in the records of the court system.
+
+1 I question the Louisiana Appellate Project's use of resources to defend this case, all the way to the Louisiana Supreme Court, at the expense of defending incarcerated indigents in other appellate matters, notwithstanding the fact that the public defender system has very tight resources.
+
+2 These facts were established at trial. The state represents that the trial proceedings were never reduced to a transcript.

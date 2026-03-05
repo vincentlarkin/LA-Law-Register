@@ -1,0 +1,195 @@
+2013-C-1855
+ROBERT L. THOMAS v. CYNTHIA BRIDGES, SECRETARY DEPARTMENT OF REVENUE, STATE OF LOUISIANA
+https://www.lasc.org/Opinions?p=2014-026
+
+2013-C-1855
+ROBERT L. THOMAS v. CYNTHIA BRIDGES, SECRETARY DEPARTMENT OF REVENUE, STATE OF LOUISIANA
+Court: Louisiana Supreme Court
+Release date: 2014-05-07
+Release: 2014-026
+Author: BY KNOLL, J.
+Parish: Parish of Livingston
+Disposition: For the foregoing reasons, the rulings of the lower courts are hereby affirmed. AFFIRMED.
+Release notes: VICTORY, J., dissents. GUIDRY, J., concurs and assigns additional reasons. CLARK, J., concurring with reasons.
+Official release page: https://www.lasc.org/Opinions?p=2014-026
+Official PDF: https://www.lasc.org/opinions/2014/13C1855.opn.pdf
+
+Supreme Court of Louisiana
+
+FOR IMMEDIATE NEWS RELEASE
+
+NEWS RELEASE #026
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinions handed down on the 7th day of May, 2014, are as follows:
+
+BY KNOLL, J.:
+
+2013-C -1855
+
+ROBERT L. THOMAS v. CYNTHIA BRIDGES, SECRETARY DEPARTMENT OF REVENUE, STATE OF LOUISIANA (Parish of Livingston) For the foregoing reasons, the rulings of the lower courts are hereby affirmed.
+
+AFFIRMED.
+
+VICTORY, J., dissents. GUIDRY, J., concurs and assigns additional reasons. CLARK, J., concurring with reasons.
+
+05/07/2014
+
+SUPREME COURT OF LOUISIANA
+
+NO. 2013-C-1855
+
+ROBERT L. THOMAS
+
+VERSUS
+
+CYNTHIA BRIDGES, SECRETARY
+
+DEPARTMENT OF REVENUE, STATE OF LOUISIANA
+
+ON WRIT OF CERTIORARI TO THE COURT OF APPEAL,
+
+FIRST CIRCUIT, PARISH OF LIVINGSTON
+
+KNOLL, JUSTICE
+
+This case concerns whether someone can form an out-of-state limited liability company (LLC) for the purpose of avoiding payment of Louisiana sales tax. The Louisiana Department of Revenue ("Department") assessed a sales tax against plaintiff, Robert Lane Thomas, who is a Louisiana resident and admitted he formed a Montana LLC solely to avoid the Louisiana sales tax for the purchase of a recreational vehicle. Although the Board of Tax Appeals affirmed the assessment against Thomas, the District Court reversed the assessment. The Court of Appeal upheld the reversal, finding Thomas's appeal met the Department's procedural requirements, and the Department failed to show the veil of the Montana LLC should be pierced and further failed to show Thomas should be held individually liable. For reasons discussed below, we find this issue involves policy considerations that should be addressed by the Louisiana Legislature rather than resolved by this Court. Our function is to merely interpret the laws passed by the legislature, not to make laws.
+
+FACTS AND PROCEDURAL HISTORY
+
+In December of 2007, Thomas and Dixie RV Super Store ("Dixie RV") in Hammond, Louisiana, entered into negotiations for the sale of a 2008 Mountain Aire RV ("RV"). Dixie RV drew up a purchase agreement on December 8, 2007, with Thomas listed as buyer, signed by a representative of Dixie RV, on the basis of which Thomas admitted to putting down a $1,000 deposit.1 On December 11, 2007, Thomas formed a single member LLC, Angels Rocks, LLC, under the laws of the state of Montana.2 It is undisputed Thomas formed this LLC solely to avoid paying sales tax on the RV and that the purchase of the RV is the only business which the LLC has conducted. Montana is the only state which imposes no sales tax for the purchase of vehicles on its residents, including resident LLCs. On December 14, 2007, a purchase agreement with "Angels Rocks, LLC" listed as buyer at the top of form was executed by both parties and was signed by Thomas and his wife, Connie Thomas, in the buyers' signature blocks at the bottom. The RV was purchased with a certified check in the name of Angels Rocks, LLC, for $351,800, and a Certificate of Title was issued for the RV by the State of Montana. Although Louisiana sales/use tax on the purchase, had it been applicable, would have amounted to more than $30,000, the purchase agreement reflects only a $174 charge for "license/vehicle/registration" costs. The Department issued a Notice of Proposed Tax Due to Thomas on November 5, 2009, for sales/use tax to be paid on the RV.3 The notice contains no explanation for why Thomas rather than Angels Rocks, LLC, was assessed. In response, Thomas wrote a brief letter, stating simply, "In reference to my recreational vehicle, I would like to supply you with the following information. My RV is kept at my residence in Long Beach, Ms., therefore I object to the proposed tax due."4 On December 23, 2009, Carle Good, Thomas's attorney, sent a letter on behalf of "Mr. Robert L. Thomas" protesting the proposed tax, enclosing a copy of the RV's bill of sale and certificate of title, and stating the RV was not located in Louisiana and was purchased by a validly formed out-of-state LLC "which does
+
+1 Thomas did not, however, execute the December 8th agreement. Rather, the "buyer" signature block is left blank.
+
+2 The record contains a copy of the Articles of Organization stamped "filed" on December 11, 2007, and a Certificate of Existence signed by the Secretary of State of Montana on April 28, 2010, verifying the creation of Angels Rocks, LLC, and certifying the LLC is in good standing under the laws of the State of Montana.
+
+3 Taxes on vehicles are governed by LA. REV. STAT. § 47:302(A) and § 47:303(B). LA. REV. STAT. § 47:302(A) provides, in pertinent part:
+
+A. There is hereby levied a tax upon the sale at retail, the use... of each item or article of tangible personal property, as defined herein, the levy of said tax to be as follows:
+
+(1) At the rate of two per centum (2%) of the sales price of each item or article of tangible personal property when sold at retail in this state; the tax to be computed on gross sales for the purpose of remitting the amount of tax due the state, and to include each and every retail sale.
+
+(2) At the rate of two per centum (2%) of the cost price of each item or article of tangible personal property when the same is not sold but is used, consumed, distributed, or stored for use or consumption in this state; provided there shall be no duplication of the tax.
+
+LA. REV. STAT. § 47:303(B) provides, in pertinent part:
+
+B. Collection of tax on vehicles. The tax imposed by R.S. 47:302(A) on the sale or use of any motor vehicle... or any other vehicle subject to the vehicle registration license tax shall be collected as provided in this Subsection.
+
+(1) The tax levied by R.S. 47:302(A) on any such vehicle shall be paid to the vehicle commissioner as the agent of the collector of revenue at the time of application for a certificate of title or vehicle registration license and such tax shall be administered and collected by the vehicle commissioner in compliance with rules and regulations issued by the collector of revenue and in compliance with the law as construed by the collector of revenue. No certificate of title or vehicle registration license shall be issued until this tax has been paid. The collector of revenue shall be the only proper party to defend or to institute any legal action involving the tax imposed...
+
+(a) The tax levied by R.S. 47:302(A)(1) on the sale of any such vehicle shall be due at the time of registration or any transfer of registration as required by the Vehicle Registration License Tax Law (R.S. 47:451 et seq.)...
+
+(b) The tax levied by R.S. 47:302(A)(2) on the use of any such vehicle in this state shall be due at the time first registration in this state is required by the Vehicle Registration License Tax Law (R.S. 47:451 et seq.)... not do business in Louisiana." The letter further averred, "In the event any tax is owed, which we strongly deny, the proper party to collect the tax from is the purchaser of the vehicle, Angels Rocks, LLC." Next, the record reflects the Department responded on January 27, 2010, to Mr. Goode with a letter confirming receipt of the December 23, 2009 letter and stating: The [Department] is currently reviewing the referenced tax assessment. It has been determined a [RV] was purchased in the name of Angels Rocks, LLC on 12/14/2007. The purchase agreement shows the Buyer(s) as Lane Thomas5 and Connie L. Thomas (signatures listed as Buyer). Robert Lane Thomas and Connie L. Thomas are residents (domiciled) of Louisiana.... Louisiana residents, who are being audited for failure to pay Louisiana motor vehicle tax (Louisiana and Parish sales/use tax) on the purchase of a Recreational Motor Vehicle (RV), must prove that the RV is not garaged, regularly serviced and/or utilized in Louisiana. If the RV is registered in an LLC name, the LLC must be shown to be a functioning business and does not garage or primarily use the RV in Louisiana... The next correspondence in the record is a February 4, 2010 letter from the Department to Mr. Goode stating: Per our telephone conversation on February 2, 2010, you have stated that it is your client's (Angels Rocks, LLC/ Robert L. Thomas) position that they will not provide the documentation that was requested in the LDR letter dated January 27, 2010. The requested information is needed to determine if the LLC members' RV purchase, use, storage or income tax filings are in compliance with the Louisiana statutes.... The registration of a business entity in a nonresident state does not by itself establish a business situs, use or storage location for the business' assets. As of date[sic], the only documentation that has been provided is a certificate of title and a bill of sale. This documentation does not address business purpose or activity of the LLC or situs, usage or storage of the RV.... On July 20, 2010, the Department issued a final notice of assessment to Thomas, asserting taxes and penalties of $46,509.60 were owed. On March, 18, 2010, Thomas filed a petition for review with the Board of Tax Appeals ("Board") alleging he owed no sales tax because Angels Rocks, LLC, purchased the vehicle.
+
+4 Thomas's statement is relevant to the assessment of use tax. Even if sales tax is not owed on a vehicle, use tax will generally be owed if the vehicle is used or stored in Louisiana. To what extent Mississippi's tax law may be applicable in this case is not an issue before this Court.
+
+5 Thomas uses Lane as his first name on some of the documents.
+
+The Board held a hearing on the appeal on August 10, 2010. On September 16, 2010, the Board issued a judgment stating, "After considering the pleadings, evidence and argument of counsel, the Board rules that the taxes are due and the assessment is upheld." Thomas appealed the Board's decision to the 21st Judicial District Court. The Department moved for dismissal of the appeal for Thomas's failure to follow the procedure for appeal outlined in LA. REV. STAT. § 47:1434. The District Court declined to dismiss the appeal and reversed the Board's decision, finding, "[w]hat [Thomas] did was permissible under the law" and he was not personally liable for Louisiana sales tax. On appeal, the First Circuit affirmed, applying Louisiana law and finding "no evidence in the record that Mr. Thomas committed fraud." Thomas v. Bridges, 12-1439, p. 6 (La. App. 1 Cir. 6/28/13), 120 So. 3d 338, 342. We affirm.
+
+STANDARD OF REVIEW
+
+Under statute, the district courts have exclusive jurisdiction to review the decisions of the Board and to modify or reverse a decision if it "is not in accordance with the law."6 LA. REV. STAT. § 47:1435. This provision has been interpreted to mean the "Board of Tax Appeals's findings of fact should be accepted where there is substantial evidence in the record to support them and should not be set aside unless they are manifestly erroneous in light of the entire record." See International Paper, Inc. v. Bridges, 07-1151, pp. 9-10 (La. 1/16/08),
+
+972 So.2d 1121, 1127-8. However, in this case, the Board made no findings of fact other than to uphold the Department's assessment of sales tax against Thomas. Based on the transcript of the hearing before the Board, we may imply this is
+
+6 This standard of review is unique to the Board, which is generally exempted, along with the Department, from the provisions of the Louisiana Administrative Procedure Act. LA. REV. STAT.
+
+§ 49:967(A).
+
+because the Board agreed with the Department's argument the veil of the Montana LLC, Angels Rocks, should be pierced. However, as shown below, the Board erred in its analysis by applying Louisiana law with respect to the veil-piercing of the Montana LLC. This was legal error. Where legal errors have interdicted the fact-finding process, the appellate court should, if it can, make its own independent de novo review of the record. Wegener v. Lafayette Ins. Co., 10-0810, p.19 (La. 3/15/11), 60 So.3d 1220; Ferrell v. Fireman's Fund Ins. Co., 94-1252, p.4 (La. 2/20/95), 650 So.2d 742, 745; Ragas v. Argonaut Southwest Insurance Co., 388 So.2d 707, 708 (La. 1980). Finding legal error, we will analyze this case under a de novo review.
+
+DISCUSSION
+
+The purpose of forming a limited liability company, or "LLC," is evident in its very name: to protect its members from personal liability for the debts of the LLC, except in limited circumstances. Ignoring this most basic principle of business formation, the Department pursued Thomas personally before ever attempting to assess taxes against Angels Rocks, LLC. The Department's first correspondence on the record was its proposed assessment of tax addressed to Thomas individually. The Department continued to pursue Thomas even though its January 27, 2010 letter admitted the RV was "purchased in the name of Angels Rocks, LLC on 12/14/2007." In its February 4, 2010 letter to Thomas, the Department wrote it could not determine the "business purpose" of Angels Rocks, LLC, because the only documentation it had been provided was "a certificate of title and a bill of sale." Yet, the bill of sale reflects the RV was sold to Angels Rocks, LLC. Likewise, the certificate of title was issued by the State of Montana to Angels Rocks, LLC. Both documents clearly demonstrate Angels Rocks, LLC, was the proper party against whom any tax should be assessed. The Department's January 27, 2010 letter also suggests Thomas may be personally liable because he signed the purchase agreement individually in the signature block designated "buyer." However, it is the members of LLCs who must act on behalf of the LLC; the LLC cannot provide a signature on its own.7 Angels Rocks, LLC, is listed clearly as "buyer" at the top of the executed purchase agreement; therefore, the intent of the document is unambiguous. Although Thomas should have been as forthcoming as possible in providing documentation to the Department,8 the requested documentation showing the location of the business situs and the places of use and storage of the RV are relevant for determining the tax liability of Angels Rocks, LLC, not its members. Likewise, any burden to show Angels Rocks, LLC, was a "functioning business" as (an undefined term used by the Department in its February 4, 2010 letter to Thomas) would be on Angels Rocks, LLC, not its members. The record does not show the Department established any valid factual or legal basis for assessing Thomas individually and in derogation of the protections afforded to members of LLCs. Yet, if Thomas had not appealed his assessment to the Board, the Department would have pursued collection of more than $47,000 in taxes without stating any valid basis. Indeed, as shown below, the Department has established no valid legal basis for attempting to assess Thomas individually.
+
+7 The Department also suggests the appearance of the signature of Connie Thomas, Thomas's wife, indicates Thomas and his wife were the buyers. However, this is of no moment. Thomas's signature as the sole member of the LLC with "Angels Rocks" listed as buyer is sufficient to show the intent of the document. Furthermore, Mrs. Thomas would have an interest in any property of the LLC under Louisiana's community property regime.
+
+8 LA. REV. STAT. § 47:1543 authorizes the Department to examine the "...accounts and documents of any individual... in so far as said ... accounts and documents relate to, bear on, associate with, identify, clarify or disclose, the liability of any person or group made liable for any tax, excise, permit, or license under any Chapter of this Sub-title or assist in the enforcement or collection of any such liability. Every individual... shall exhibit ... the pertinent ... accounts and documents and to [sic] facilitate any such examination and investigation so far as it may be in his or their power so to do."
+
+We find the Department clearly erred in assessing Thomas rather than Angels Rocks, LLC, ignoring the separate existence of the LLC before establishing any valid basis for doing so. It was only when Thomas petitioned the Board asserting he was not personally liable due to the existence of the LLC that the Department contended the veil of the Montana LLC should be pierced. However, this after-the-fact appraisal the veil should be pierced does not change the fact the existence of Angels Rocks, a validly formed Montana LLC, was ignored in derogation of Louisiana's statutory protections for LLCs, Louisiana's obligation under the United States constitution to provide full faith and credit to the laws of Montana, and Thomas's constitutional right to due process. Instead of pursuing Thomas individually, the Department should have first assessed Angels Rocks, LLC. LA. REV. STAT. § 12:1342 states the "laws of the state or other jurisdiction under which a foreign limited liability company is organized shall govern its organization, its internal affairs, and the liability of its managers and members that arise solely out of their positions as managers and members." Therefore, questions of whether a LLC has been validly formed and the extent of personal liability of members are governed by the law of the state in which the LLC is organized.9 Accordingly, the Department would have to look to Montana law in order to find personal liability on the part of Thomas for tax due on the sale of the RV to Angels Rocks, LLC. At no time did the Department apply Montana law in determining whether or not the veil of Angel Rocks could be pierced. 10 Other than to find Angels Rocks, LLC, would have been the proper party against whom to assess any applicable tax,11 we decline to speculate how the legal error of neglecting to examine Montana law may have interdicted the Department's, the Board's, and the lower courts' fact-finding processes. If the Department had found no personal liability existed on the basis of Montana law, it could still have assessed Thomas individually upon establishing fraud under LA. REV. STAT. § 12:1320(D), which states: "Nothing in this Chapter [on limited liability companies] shall be construed as being in derogation of any rights which any person may by law have against a member, manager, employee, or agent of a limited liability company because of any fraud practiced upon him by such person...." (emphasis added). If the Department had established evidence of fraud, it could have pursued Thomas individually under this provision. However, as the lower courts properly found, there is no evidence demonstrating Thomas committed fraud. Although the Department failed to state any factual finding of fraudulent activity whatsoever before issuing an assessment to Thomas, the record reflects the Department had reviewed copies of the bill of sale, purchase agreement, and certificate of title by the date of the assessment's issuance. These documents all indicated unambiguously the RV was owned by Angels Rocks, a Montana LLC. Throughout its investigation and assessment, the Department was well aware Montana LLCs are commonly formed for the sole purpose of avoiding sales tax.12
+
+9 The Louisiana Civil Treatise uses veil-piercing as an illustration of when La. Rev. Stat. § 12:1320(D) is applicable. "Thus, for example, if the state in which the foreign LLC was formed has a standard for piercing the veil of an LLC that differs from the veil-piercing standards under Louisiana law, the rules of the foreign jurisdiction will apply to the foreign LLC." 9 LA. CIV. L. TREATISE, LLC & Partnership Bus. & Tax Plan § 1.71 (3d ed.).
+
+10 The issue of application of Montana's veil-piercing law was not raised by either party and was not discussed by the Board or the lower courts.
+
+11 "Property transferred to or otherwise acquired by a limited liability company becomes the property of the limited liability company. A member has no interest in specific limited liability company property." MONT. CODE ANN. § 35-8-701(1) (2013). "Except as provided in 39-51-1105 and subsection (3) of this section, a person who is a member or manager, or both, of a limited liability company is not liable, solely by reason of being a member or manager, or both, under a judgment, decree or order of a court, or in any other manner, for a debt, obligation, or liability of the limited liability company, whether arising in contract, tort, or otherwise or for the acts or omissions of any other member, manager, agent, or employee of the limited liability company." MONT. CODE ANN. § 35-8-304(1) (§ 39-51-1105 relates to payment of certain Montana unemployment insurance and employment taxes, and subsection (3) refers to instances where members assume the LLC's debts in writing).
+
+12 Mr. Pauver, a tax auditor who worked with the Department on Thomas's case, testified he had been assigned to specifically research tax issues related to the purchase of RVs by Montana LLCs.
+
+However, taking actions to avoid sales tax does not constitute fraud. Although tax evasion is illegal, tax avoidance is not. As the Court of Appeal aptly acknowledged: We note that "tax avoidance" is defined as "[t]he act of taking advantage of legally available tax-planning opportunities in order to minimize one's tax liability." Black's Law Dictionary 1599 (9th ed. 2009) (emphasis added). Contrast "tax evasion," which is "[t]he willful attempt to defeat or circumvent the tax law in order to illegally reduce one's tax liability." Black's Law Dictionary 1599 (9th ed. 2009)(emphasis added).
+
+Thomas v. Bridges, 2012-1439 (La. App. 1 Cir. 6/28/13), 120 So.3d 338, 342. Use of particular business entities to avoid taxes and other liabilities, far from being fraudulent, is a common and legal practice. "The legal right of a taxpayer to decrease the amount of what would otherwise be his taxes, or altogether avoid them by means which the law permits, cannot be doubted." Gregory v. Helvering, 293 U.S. 465, 467 (1935). Under both Louisiana and Montana law, LLCs may be formed for "any lawful purpose."13 With limited exceptions for insurance and banking, neither state's law places any further constraints on permissible purposes for forming an LLC. A finding that the formation of an LLC solely for tax avoidance and not for any "legitimate" purpose constitutes fraud would have destabilizing implications for Louisiana law. For example, duck hunters who incorporate solely in order to limit liability of individuals arising out of a duck lease could be said to be engaging in fraudulent activity by incorporating without any "legitimate" purpose. Similarly, shareholders of a Delaware corporation with its offices in Louisiana could find themselves personally liable for the corporation's debts, since the corporation arguably has no "legitimate" purpose for incorporating in Delaware and is thereby committing fraud. While we are sympathetic to policy arguments raised by the Department and amici, we suggest pursuing legislation rather than allegations of fraud is the appropriate way to remedy these policy concerns. As the Board's Chairman Theriot suggested at Thomas's hearing, finding a legal loophole does not, by itself, constitute fraud.14 Rather, fraud is a serious accusation of intentional deceit which, in most contexts, merits award of additional penalties or punitive damages.15
+
+13 LA. REV. STAT. § 12:1302(A) states "A limited liability company may be organized under this Chapter and may conduct business for any lawful purpose, unless a more limited purpose is stated in its articles of organization. A limited liability company shall not be formed for the purpose of insurance underwriting in all of its several forms." A Montana LLC may be formed "any lawful purpose except for the purpose of banking or insurance" MONT. CODE ANN. § 35-8-106(2).
+
+Thomas's assertion before the Department, the Board, the District Court, the Court of Appeal, and now this Court have been steadfast: if any sales or use tax on the RV is due to the Department, it is the liability of Angels Rocks, LLC. The parties do not dispute Angels Rocks, LLC, was validly formed under the laws of Montana; therefore, its existence and the liability shield it provides its members should not be cast aside without first establishing a valid legal basis for doing so.
+
+Not only were the Department's theories for personally assessing Thomas not communicated to Thomas before issuance of the assessment, but they have also impermissibly evolved after-the-fact throughout the appeal process. Before the District Court and the Court of Appeal, the Department relied wholly on fraud and the law on veil-piercing in Louisiana as the basis for finding Thomas personally liable for Louisiana sales tax. However, the Department's brief to this Court urges us to consider two additional theories of liability for Thomas: the "substance over form" doctrine and the "economic substance" doctrine. Generally, appellate courts will not consider issues raised for the first time on appeal.16 Therefore, we decline to examine these jurisprudential doctrines.
+
+14 Chairman Theriot: "So finding a legal loophole is- is- you need more than that to say that's fraud."
+
+15 See, eg., LA. REV. STAT. § 47:1604 (allowing for a 50% penalty of the tax found to be due, in addition to other applicable penalties, when an individual files a report "where the circumstances indicate the taxpayer had the intent to defraud the State of Louisiana"); LA. CIV. CODE art. 1958 (stating where a contract is recinded because of fraud, "The party against whom rescission is granted because of fraud is liable for damages and attorney fees.").
+
+Alternatively, the Department suggests Thomas is personally liable because the sale was first perfected via the December 8th purchase agreement drawn up and executed by Dixie RV, on the basis of which Thomas made a $1,000 deposit. However, this argument was also not raised before the District Court or the Court of Appeal. Therefore, this argument is also not properly before us, and we decline to examine it.17
+
+Finally, the Department asserts the lower courts incorrectly failed to dismiss Thomas's suit because he neglected to follow the procedure outlined for judicial review in LA. REV. STAT. § 47:1434. This statute requires the petitioner appealing a Board decision to "post bond, with surety approved by the board... [as] a condition precedent to the filing of any petition for review in any district court." Id. The Department contends Thomas did not post proper bond for the appeal with the Board when he provided his notice to petition for judicial review. Rather, Thomas filed an "Irrevocable Standby Letter of Credit" on October 27, 2010. The Department asserts this letter does not fulfill the statutory bond requirement, and, furthermore, was filed beyond the thirty day period provided in LA. REV. STAT. § 47:1434.18 However, Thomas alleges he relied on statements made by the Board in making his decision to acquire a letter of credit. Kirk Boe, an officer at the bank which issued the letter of credit, as well as, Kim Pinegar, the legal assistant for Thomas's attorney, both testified they had communications with Marie Williams, Secretary-Clerk of the Board, in which Williams indicated a letter of credit would be acceptable and need not be filed before October 18, 2010, as long as the notice of intent to appeal was filed by that date. This testimony was not disputed by the Board; therefore, the Board effectively waived strict adherence to the procedures outlined in LA. REV. STAT. § 47:1434 through its representations to Thomas. Furthermore, we note appeals are favored and should be maintained whenever possible. Therefore, we find no error in the lower courts' judgments in declining to dismiss the appeal.
+
+16 See, e.g., Boudreaux v. State through Dept. of Transp. & Dev., 01-1329, p. 2 (La. 2/26/02),
+
+815 So.2d 7, 8-9; Coats v. American Tel. & Tel. Co., 95-2670, p. 6 (La. 10/25/96), 681 So.2d 1243, 1246 n. 5; Segura v. Frank, 93-1271, p. 15 (La. 1/12/94), 630 So.2d 714, 725; Krauss Co. v. Develle, 236 La. 1072, 110 So.2d 104, 105-06 (1959); Fried v. Bradley, 219 La. 59, 87, 52 So.2d 247, 257 (1950); Weingart v. Delgado, 204 La. 752, 16 So.2d 254, 256 (1943); Gaines v. Crichton, 187 La. 345, 174 So. 666, 668 (1937); Succession of Quinn, 183 La. 727, 164 So. 781,
+
+784 (1935).
+
+17 See supra note 16.
+
+18 The Department also asserts Thomas failed to attach an order to his petition and to assign specific errors as required by LA. REV. STAT. § 47:1434. However, although LA. REV. STAT. § 47:1434 mentions an order, it does not specifically require one. Furthermore, we agree with the Court of Appeal's finding paragraphs 5-11 of Thomas's original petition specifically allege errors made in the Department's assessment.
+
+DECREE
+
+For the foregoing reasons, the rulings of the lower courts are hereby affirmed.
+
+AFFIRMED.
+
+05/07/2014
+
+SUPREME COURT OF LOUISIANA
+
+No. 2013-C-1855
+
+ROBERT L. THOMAS
+
+VERSUS
+
+CYNTHIA BRIDGES, SECRETARY
+
+DEPARTMENT OF REVENUE, STATE OF LOUISIANA
+
+ON WRIT OF CERTIORARI TO THE COURT OF APPEAL
+
+FIRST CIRCUIT, PARISH OF LIVINGSTON
+
+GUIDRY, Justice, concurs and assigns additional reasons.
+
+While I concur in the majority analysis and result, I write additionally to encourage the legislature to revisit this area of the law on foreign limited liability corporations formed solely for the purpose of sales tax avoidance on purchases made in Louisiana. As the facts of this case suggest, the law may be susceptible to abuse.
+
+05/07/2014
+
+SUPREME COURT OF LOUISIANA
+
+No. 2013-C-1855
+
+ROBERT L. THOMAS
+
+VERSUS
+
+CYNTHIA BRIDGES, SECRETARY
+
+DEPARTMENT OF REVENUE, STATE OF LOUISIANA
+
+ON WRIT OF CERTIORARI TO THE COURT OF APPEAL
+
+FIRST CIRCUIT, PARISH OF LIVINGSTON
+
+CLARK, Justice, concurs and assigns reasons. Because I see no actual violation of the letter of the law in this matter, I concur with the result reached by the majority. However, I am concerned that the spirit of the law is not being protected. The potential for abuse in allowing the creation of sham entities to avoid the payment of taxes has policy implications that are worthy of the legislature's attention.

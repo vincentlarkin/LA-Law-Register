@@ -25,6 +25,16 @@ def _doc_id_from_url(url: str) -> str:
     return (qs.get("d") or [""])[0]
 
 
+def _doc_id_from_entry(entry: dict[str, object]) -> str:
+    raw = entry.get("doc_id")
+    if isinstance(raw, str) and raw.strip():
+        return raw.strip()
+    url = entry.get("url")
+    if isinstance(url, str) and url.strip():
+        return _doc_id_from_url(url)
+    return ""
+
+
 def _load_doc_text(meta_json_path: Path, fallback_txt_path: Path) -> str:
     if meta_json_path.exists():
         try:
@@ -81,6 +91,7 @@ def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
               title,
               text,
               url UNINDEXED,
+              local_file UNINDEXED,
               tokenize = 'unicode61',
               prefix = '2 3 4 5'
             );
@@ -103,7 +114,7 @@ def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
 
                 for ent in entries:
                     url = ent.get("url") or ""
-                    doc_id = _doc_id_from_url(url) if url else ""
+                    doc_id = _doc_id_from_entry(ent)
                     if not doc_id:
                         continue
                     citation = ent.get("citation") or ""
@@ -113,10 +124,19 @@ def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
                     text = _load_doc_text(meta_path, txt_path)
                     if not text:
                         continue
+                    local_file = ""
+                    if meta_path.exists():
+                        try:
+                            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                            raw_local_file = meta.get("local_file")
+                            if isinstance(raw_local_file, str):
+                                local_file = raw_local_file.strip()
+                        except Exception:
+                            local_file = ""
 
                     con.execute(
-                        "INSERT INTO docs_fts(doc_id, category, bundle, citation, title, text, url) VALUES (?,?,?,?,?,?,?)",
-                        (doc_id, category, bundle_name, citation, title, text, url),
+                        "INSERT INTO docs_fts(doc_id, category, bundle, citation, title, text, url, local_file) VALUES (?,?,?,?,?,?,?,?)",
+                        (doc_id, category, bundle_name, citation, title, text, url, local_file),
                     )
                     total += 1
 

@@ -1,0 +1,127 @@
+2023-CQ-00246
+KIRK MENARD VS. TARGA RESOURCES, L.L.C.
+https://www.lasc.org/Opinions?p=2023-032
+
+2023-CQ-00246
+KIRK MENARD VS. TARGA RESOURCES, L.L.C.
+Court: Louisiana Supreme Court
+Release date: 2023-06-27
+Release: 2023-032
+Author: BY Crain, J.
+Disposition: CERTIFIED QUESTIONS ANSWERED. SEE OPINION.
+Official release page: https://www.lasc.org/Opinions?p=2023-032
+Official PDF: https://www.lasc.org/opinions/2023/23-0246.CQ.OPN.pdf
+
+FOR IMMEDIATE NEWS RELEASE
+
+NEWS RELEASE #032
+
+FROM: CLERK OF SUPREME COURT OF LOUISIANA
+
+The Opinions handed down on the 27th day of June, 2023 are as follows: BY Crain, J.::
+
+2023-CQ-00246
+
+KIRK
+
+MENARD
+
+VS.
+
+TARGA
+
+RESOURCES,
+
+L.L.C.
+
+CERTIFIED QUESTIONS ANSWERED. SEE OPINION.
+
+SUPREME COURT OF LOUISIANA
+
+No. 2023-CQ-00246
+
+KIRK MENARD
+
+VS.
+
+TARGA RESOURCES, L.L.C.
+
+On Certified Question from the United States Court of Appeals for the Fifth Circuit
+
+CRAIN, J.
+
+Invoking Louisiana Supreme Court Rule XII,1 the United States Court of Appeals for the Fifth Circuit certified the following questions: (1) Whether refusals to engage in illegal or environmentally damaging activities are "disclosures" under the current version of the Louisiana Environmental Whistleblower Statute, [Louisiana Revised Statutes] 30:2027 [LEWS]; and (2) Whether [LEWS] affords protection to an employee who reports to his supervisor an activity, policy, or practice of an employer which he reasonably believes is in violation of an environmental law, rule, or regulation, where reporting violations of environmental law, rules, or regulations, is a part of the employee's normal job responsibilities? Menard v. Targa Resources, L.L.C., 56 F. 4th 1019, 1024 (5th Cir. 2023). We accepted certification2 and answer both questions affirmatively.
+
+1 Louisiana Supreme Court Rule XII provides, in relevant part: When it appears to ... any circuit court of appeal of the United States, that there are involved in any proceedings before it questions or propositions of law of this state which are determinative of said cause independently of any other questions involved in said case and that there are no clear controlling precedents in the decisions of the supreme court of this state, such federal court before rendering a decision may certify such questions or propositions of law of this state to the Supreme Court of Louisiana for rendition of a judgment or opinion concerning such questions or propositions of Louisiana law. This court may, in its discretion, decline to answer the questions certified to it.
+
+2 Menard v. Targa Resources, L.L.C., 23-246 (La. 3/22/23), 358 So. 3d 37.
+
+FACTS AND PROCEDURAL HISTORY
+
+We decide the certified questions on the facts presented by the Court of Appeals:3 In June 2018, Kirk Menard began working as an environmental, safety, and health specialist at Targa's Venice, Louisiana plant. His job duties included ensuring Targa complied with various state and federal environmental and safety standards. Menard reported to two individuals-his "official supervisor," [David Smith], who resided at another facility, and an "indirect supervisor," [Ted Keller][,] who served as an area manager for the Venice plant. Menard's indirect supervisor, in turn, reported to Perry Berthelot, a Targa District Manager.
+
+On an October 5 conference call-which included Berthelot-Menard reported that the total suspended solids in certain recent water samples exceeded regulatory limits. At the end of the call, Berthelot told Menard to call him back to discuss the plan for rectifying these exceedances. Menard obliged, and he alleges that Berthelot told him he should dilute the sewage samples with bottled water. Menard claims that in response he nervously laughed and said, "no, we're going to correct it the right way."
+
+Menard subsequently reported Berthelot's request to Menard's official supervisor [Smith], who responded, "no we're not going to do that, because that will not correct the problem." Six days later Menard was terminated by Targa for supposed work performance issues. Shortly thereafter, Menard filed this suit [in state court] alleging that Targa violated LEWS by discharging him for (1) refusing to comply with Berthelot's request to dilute certain sewage samples with bottled water to ensure they met certain environmental regulatory standards, and (2) reporting the request to his supervisor[,] [Smith].
+
+Targa moved for summary judgment, arguing Menard did not engage in a protected activity under LEWS. The district court found Menard's report to Smith not protected because reporting environmental violations was "part of [Menard's] normal job responsibilities." It did find LEWS applied to Menard's refusal to dilute the sewage sample, citing Cheramie v. J. Wayne Plaisance, Inc., 595 So. 2d 619, After trial, the district court ruled in favor of Menard. Targa appealed. The appeals court reviewed existing Louisiana law and observed, "no controlling precedent answers either question." Menard, 56 F. 4th at 1022. It noted that Cheramie addressed a pre-1991 version of LEWS that protected an employee "who reports or complains about possible environmental violations." The Cheramie court found a "[r]efusal to participate in illegal and environmentally damaging work constitute[d] 'complaining.'" Cheramie, 595 So. 2d at 624. The current version of the statute removed "reports or complains" and now protects an employee "who discloses, or threatens to disclose, to a supervisor . . . a practice of the employer . . . that the employee reasonably believes is in violation of an environmental law, rule, or regulation." La. R.S. 30:2027(A)(1) (emphasis added). Because of the amended language, the court found it unclear whether refusal constitutes "disclosures" for purposes of statutory protection. The court then addressed the "indeterminancy" of the "job-duties exception," noting the Louisiana Supreme Court has never recognized the exception and lower courts are split on its existence. Menard, 56 F.4th at 1023.
+
+624 (La. 1992). Thus, Targa's motion for summary judgment was denied.
+
+3 See, e.g., MCI Commc'ns Servs., Inc. v. Hagan, 11-1039, p. 2 (La. 10/25/11), 74 So. 3d 1148, 1149.
+
+DISCUSSION
+
+Refusal and "discloses" Legislation is the solemn expression of legislative will; thus, the interpretation of legislation is primarily the search for legislative intent. See, e.g., Dunn v. City of Kenner, 15-1175, p. 4 (La. 1/27/16), 187 So. 3d 404, 409-10. See also La. R.S. 24:177(B)(1) ("The text of a law is the best evidence of legislative intent."). When a law is clear and unambiguous, and its application does not lead to absurd consequences, it shall be applied as written, with no further interpretation made in search of legislative intent. La. R.S. 1:4. The starting point for interpretation of any statute is the language of the statute itself. Dunn, 15-1175, p. 4, 187 So. 3d at 410. LEWS provides, in pertinent part:
+
+A. No firm, business, private or public corporation, partnership, individual employer, or federal, state, or local governmental agency shall act in a retaliatory manner against an employee, acting in good faith, who does any of the following:
+
+(1) Discloses, or threatens to disclose, to a supervisor or to a public body an activity, policy, practice of the employer, or another employer with whom there is a business relationship, that the employee reasonably believes is in violation of an environmental law, rule, or regulation. [emphasis added]
+
+(2) Provides information to, or testifies before any public body conducting an investigation, hearing, or inquiry into any environmental violation by the employer, or another employer with whom there is a business relationship, of an environmental law, rule, or regulation.
+
+B. (1) Any employee against whom any action is taken as a result of acting under Subsection A of this Section may commence a civil action in a district court of the employee's parish of domicile, and shall recover from his employer triple damages resulting from the action taken against him and all costs of preparing, filing, prosecuting, appealing, or otherwise conducting a law suit, including attorney's fees, if the court finds that Subsection A of this Section has been violated. In addition, the employee shall be entitled to all other civil and criminal remedies available under any other state, federal, or local law.
+
+The first certified question requires us to determine the meaning of "discloses." The statute does not define the term. The employer argues that "discloses" does not include a refusal to act or participate, while the employee argues that it does. We turn to secondary rules of statutory interpretation to discern its meaning. See Red Stick Studio Dev., L.L.C. v. State ex rel. Dep't of Econ. Dev., 10-0193, p. 10 (La. 1/19/11), 56 So. 3d 181, 187-88. The statute "must be interpreted as having the meaning that best conforms to the purpose of the law. Moreover, when the words of a law are ambiguous, their meaning must be sought by examining the context in which they occur and the text of the law as a whole." Id.
+
+In Borcik v. Crosby Tugs, LLC, 16-1372 (La. 5/3/17), 222 So. 3d 672, this court interpreted "good faith" as that term is used in Louisiana Revised Statutes 30:2027(A), the introductory paragraph to Subsection 2027(A)(1) where the term "discloses" is found. The employer argued that "good faith" should be defined narrowly to require the employee, in order to receive protection, to prove he had no intent to seek an unfair advantage or harm another party in making his report of an environmental violation. The employee argued for a broader interpretation, requiring just an honest belief an environmental violation occurred. This court concluded, "a broad definition of 'good faith' is necessary to uphold the purpose of the LEQA and the Louisiana Constitution's mandate" and to "promote the purpose of LEQA and balance competing interests of the State and the environment, employers and industry, and employees, by encouraging reporting of environmental violations and protecting employers from potential whistleblowers who are not operating in good faith." Id. at 677.4 In Cheramie, the court addressed whether "complains," the term used in the pre-1991 version of LEWS, included a refusal to participate.5 Cheramie, 595 So. 2d at 624. The employee refused to follow a job order that he believed violated the law. The employer argued that a refusal did not constitute "complains." This court held that refusal was an extreme form of complaint; thus, the employee was protected from retaliation for his refusal to participate. Targa now argues that by changing
+
+4 Louisiana Constitution Article IX, § 1 creates a mandate, stating:
+
+The natural resources of the state, including air and water, and the healthful, scenic, historic, and esthetic quality of the environment shall be protected, conserved, and replenished insofar as possible and consistent with the health, safety, and welfare of the people. The legislature shall enact laws to implement this policy.
+
+The Louisiana Environmental Quality Act (LEQA), Louisiana Revised Statutes 30:2001 et seq., of which LEWS is a part, was enacted in recognition that a "healthful and safe environment for the people in Louisiana requires governmental regulation and control over the areas of water quality, air quality, solid and hazardous waste, scenic rivers and streams, and radiation." La. R.S.
+
+30:2003(A).
+
+5 Before its amendment in 1991, LEWS stated, in relevant part:
+
+No firm, business, private or public corporation, partnership, individual employer, or federal, state, or local governmental agency shall act in a retaliatory manner against an employee, acting in good faith, who reports or complains about possible environmental violations. [emphasis added].
+
+La. R.S. 30:2027. the statutory language from "reports or complains" to "discloses," the legislature intended to narrow the application of the statute. We disagree. Cheramie and Borcik instruct us in two ways that are important to our
+
+analysis. First, the purpose of LEWS is to further the constitutional mandate to
+
+protect the environment by protecting employees who act on their honest belief that an environmental law has been violated. And, second, a "broad interpretation" of Section 2027 is required to effectuate the constitutional and statutory directive and purpose. Merriam-Webster defines "discloses" as "to make known or public." Disclose, MERRIAM-WEBSTER ONLINE DICTIONARY, http://www.merriam-webster.com/dictionary/disclose (last visited May 22, 2023). That definition is expansive enough to include a refusal to participate.6 Both "complains" and "discloses" contemplate an expressive or communicative act. In either case, when a person refuses to act or participate in perceived illegal conduct, that is an extreme form of communicating as stated in Cheramie. LEWS protects such an employee, as willful inaction is a communication. And, no absurd consequences flow from that reading. Protecting the environment by protecting an employee who refuses to harm it is not absurd. The absurdity results if an employee is only protected after actually engaging in the environmentally harmful action and officially reporting it. That interpretation would both frustrate the statute's purpose of protecting the environment and incentivize violations. Federal law supports our interpretation of "discloses." In 1989, Congress enacted the Whistleblower Protection Act ("WPA") to protect "any disclosure of information by an employee or applicant which the employee or applicant reasonably believes evidences . . . any violation of any law, rule, or regulation . . . ." 5 U.S.C. § 2302(b)(8). The language of both the 1989 version of the WPA and the 1991 amended version of LEWS are similar. While not controlling, we can look to federal definitions and interpretations of similar language for guidance. See, e.g., State v. Sims, 15-2163, p. 7 (La. 6/29/16), 195 So. 3d 441, 446. The federal statute defines "disclosure" as "a formal or informal communication or transmission." 5 U.S.C.A. § 2302(a)(2)(D). Consistent with that definition, our legislature's use of the term "discloses" envisions a communication. A refusal is an informal communication. Targa also argues the legislature, if desired, could protect an employee who "[r]efuses to participate in an employment act or practice that is in violation of law," because it did so when enacting the Louisiana Whistleblower Statute ("LWS") in 1997, but did not include that language when LEWS was amended in 1991.7 However, the legislature did consider such language but found it unnecessary given the breadth of the statute.8 Targa next argues that because Paragraph B of LEWS (Louisiana Revised Statutes 30:2027) authorizes treble damages, which are penal in nature, the entire statute should be strictly construed. Generally, penal laws are strictly construed, and any ambiguity must be resolved in favor of the person subject to the penalty. State v. Anders, 01-0556, p. 5 (La. 6/21/02), 820 So. 2d 513, 516. This principal applies to both criminal laws and civil penalty statutes. See, e.g., Guillory v. Lee, 09-0075, p. 37 (La. 6/26/09), 16 So. 3d 1104, 1130. But, as stated in State v. Brown, 03-2788, p. 5 (La. 7/6/04), 879 So. 2d 1276, 1280, "The rule of strict construction is not to be applied with such unreasonable technicality as to defeat the purpose of all rules of statutory construction, which purpose is to ascertain and enforce the true meaning and intent of the statute." LEWS was enacted pursuant to a constitutional mandate to protect the environment. Reading the statute to exclude "refusal" from the scope of the definition of 'discloses" would be an unreasonable technicality that defeats the purpose of the statute. Thus, even applying a strict construction, "discloses" encompasses a refusal to act. The availability of punitive damages does not alter that interpretation. Answering the first certified question, we find a refusal to participate in environmentally damaging employment activities constitutes "discloses" under LEWS and is a protected action. Job Duties Exception The second question is whether a job duty exception exists, which would deny protection for employees whose job includes reporting environmental violations. Again, we start with the language of the statute, which contains no exceptions. It protects "an employee" who does any of the statutorily prescribed actions. The statute does not distinguish between an employee who is required to report a violation and an employee who is not required to report a violation. There is no logical reason to protect one but not the other. A plain reading of the statute requires that any employee be protected when he reports a violation, even if the reporting is required by his job. This interpretation does not lead to absurd consequences. To the contrary, judicially inserting a job duty exception into the statute results in employees who likely have the most knowledge of environmental violations not being protected from retaliation. That directly conflicts with the purpose of LEWS, which is to protect the environment. Not only does judicially crafting such an exception deny protection for the persons best positioned to disclose harmful activities, it violates the judiciary's role of interpreting, not making, law. That is at odds with, and would undermine, the purpose of the statute. Federal law, again, supports this interpretation. The job duty exception was created in Willis v. Department of Agriculture, 141 F.3d 1139 (Fed.Cir. 1998). Citing Willis, several federal cases perpetuated the exception. See Sasse v. U.S. Department of Labor, 409 F.3d 773 (6th Cir. 2005) and Huffman v. Office of Pers. Management, of his race, sex, or religious beliefs.10 Nor can he be discharged for exercising certain statutory rights, such as bringing a workers' compensation claim. La. R.S. 23:1361. LEWS, another policy exception to the at-will employment doctrine, protects employees against retaliation for whistleblowing activities. Such limitations validly "proscribe reasons for dismissal of an at-will employee." Quebedeaux v. Dow Chem. Co., 01-2297, p. 5 (La. 6/21/02), 820 So. 2d 542, 545.
+
+6 Menard actually did more than refuse to dilute the sewage sample. He told Berthelot "no, we're going to correct it the right way." While a refusal to participate is sufficient for protection under the statute, the act of verbally rejecting the instruction is also sufficient.
+
+7 The LWS provides whistleblower protections to all employees, not just environmental whistleblowers as in LEWS.
+
+8 An early version of HB 1398 of the 1991 Regular session included protection for an employee "who objects or refuses to participate in any activity, policy, or practice which the employee reasonably believes. . . is in violation of a law, or a rule, or regulation. . ." The minutes of the committee meeting state the deletion of that language "expand[ed] present law and makes the law consistent." The legislature broadened the law and believed "discloses" sufficiently covered a refusal.
+
+263 F.3d 1341 (Fed. Cir. 2001). In 2012, amendments to 5 U.S.C. §2302 clarified that these cases were wrongly decided. Congress emphasized the original intent of the WPA was to afford broad protection to all whistleblowing employees. By adding subsection (f)(2) to 5 U.S.C. §2302, which provides, "[i]f a disclosure is made during the normal course and scope of duties of an employee, the principal job function of whom is to regularly investigate and disclose wrongdoing. . . the disclosure shall not be excluded from [protection]," Congress expressed that a job duty exception is contrary to the purpose of the WPA. Two state law cases decided between passage of the 1991 amendment to LEWS and the 2012 clarifying federal statute relied upon the Willis line of cases. See Matthews v. Military Department ex rel. State, 07-1337 (La. App. 1 Cir. 9/24/07), 970 So. 2d 1089 and Stone v. Entergy Services, 08-0651 (La. App. 4 Cir. 2/4/09), 9 So. 3d 193.9 Because Willis is an incorrect interpretation of the WPA, reliance on those cases is misplaced. We interpret the similar language in LEWS consistent with Congress' interpretation of the WPA. There is no job duty exception. Targa argues our decision violates Louisiana's public policy favoring employment at will. That argument is without merit. The right to terminate an employee is not unlimited. For example, an employee cannot be terminated because
+
+9 Two Louisiana federal district courts also recognized a job duty exclusion. See Cox v. Moses,
+
+2010 WL 2952716 (M.D. La. July 23, 2010) and English v. Wood Grp. PSN, Inc., 2015 WL
+
+5061164 (E.D. La. Aug. 25, 2015).
+
+DECREE
+
+We have answered the certified questions as set forth in this opinion. Pursuant to Rule XII, Supreme Court of Louisiana, the judgment rendered by this court upon the questions certified shall be sent by the clerk of this court under its seal to the United States Court of Appeals for the Fifth Circuit and to the parties.
+
+CERTIFIED QUESTIONS ANSWERED.
+
+10 See 42 U.S.C.A. § 2000 et seq. (prohibits discrimination by both private and governmental employers in all aspects of employment based on race, religion, sex, color, or national origin); 42 U.S.C.A. § 1981 (prohibits discrimination based on race); La. R.S. 23:301 et seq. (prohibits intentional discrimination in terms or conditions of employment based on race, color, creed, religion, sex, national origin, disability, age, and sickle cell trait). See also Quebedeaux v. Dow Chem. Co., 01-2297 (La. 6/21/02), 820 So. 2d 542.
