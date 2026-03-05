@@ -1,0 +1,88 @@
+56346
+American Bank & Trust Co. v. Carson Homes, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1975/316-so-2d-732-1.html
+
+56346
+American Bank & Trust Co. v. Carson Homes, Inc.
+Court: Louisiana Supreme Court
+Release date: 1975-07-25
+Author: SANDERS, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/316-so-2d-732-1.html
+
+316 So. 2d 732 (1975)
+
+AMERICAN BANK AND TRUST CO. IN MONROE
+v.
+CARSON HOMES, INC.
+AMERICAN BANK AND TRUST CO. IN MONROE
+v.
+LAKESHORE REAL ESTATE EXCHANGE, INC.
+
+No. 56346.
+
+Supreme Court of Louisiana.
+
+July 25, 1975.
+
+*733 Robert D. Edwards, Metairie, Milton P. Masinter, New Orleans, for defendants-applicants.
+
+James A. Hobbs, Jones, Blackwell, Chambliss, Hobbs & Henry, West Monroe, for plaintiffs-respondents.
+
+SANDERS, Chief Justice.
+
+The American Bank and Trust Co. in Monroe, the holder of mortgage notes, undertook to seize and sell defendants' immovable property by executory process. Defendants sought to enjoin the proceeding. After hearing, the district court denied the injunction. On application of defendants, we granted writs to review the propriety of the executory procedure. La., 312 So. 2d 868 (1975).
+
+*734 The sole issue presented for our review is the sufficiency of the authentic evidence to support executory process.
+
+Executory process is an accelerated procedure whereby a mortgage creditor may provoke a sale of the encumbered property to satisfy his mortgage. Because of its summary nature, the law has surrounded executory process with safeguards for the protection of the debtor. Among these is the requirement that the petition be supported by authentic evidence. If the essential authentic evidence is lacking, executory process is unavailable, and the creditor's remedy is by ordinary process. LSA-C.C.P. Art. 2635; Miller, Lyon & Co. v. Cappel, 36 La.Ann. 264 (1884); Ricks v. Bernstein, 19 La.Ann. 141 (1867).
+
+Article 2635 of the Louisiana Code of Civil Procedure provides:
+
+Defendants assert that the mortgages were executed in the presence of only one witness, that the notary public and second witness, whose names appear on the instrument, were absent and affixed their signatures at a later time. Defendants, therefore, contend that the acts are not authentic acts as defined by Article 2234 of the Louisiana Civil Code.[1] Defendants further contend that the corporate resolutions purporting to authorize the execution of the mortgages are deficient in content and certification.
+
+The plaintiff bank asserts that the mortgages and other documents substantially comply with the requirements for executory process in that the essential evidence is authentic. Alternatively, the bank asserts that the real estate mortgages are equivalent to authentic acts under Article 2242 of the Louisiana Civil Code, since the official of the corporate defendants testified at the injunction hearing that his signature on the mortgage was genuine.
+
+Louisiana courts have consistently held that parole evidence is admissible to establish that an instrument purporting to be an authentic act is not in fact authentic, because it was not executed in compliance with Article 2234 of the Louisiana Civil Code. LSA-C.C. Art. 2236; Succession of Cauvien, 46 La.Ann. 1412, 16 So. 309 (1894); Pain v. Plicque & LeBeau, 10 La. 304 (1836); Union Savings and Loan Association v. The Grand Co., 239 So. 2d 395 (La.App. 4th Cir. 1970); Ford Motor Credit Co. v. Williams, 225 So. 2d 717 (La. App. 1st Cir. 1969); Finance Security Co. v. Williams, 42 So. 2d 902 (La.App. 1st Cir. 1949); Dainello v. McCoy, 14 La.App. 358, 131 So. 608 (Orl.Cir. 1930).
+
+*735 From our review of the evidence, we find that the mortgages were executed in the presence of only one witness. The Notary Public and second witness, absent at the time of execution, signed the instruments at a later time. The trial judge made no contrary finding, but assumed for purposes of his ruling that the Notary Public and attesting witnesses were not present when the mortgages were signed. Hence, we conclude that the mortgages are not authentic acts.
+
+Having found that the acts are not authentic as executed, we must now consider plaintiff's argument that they have the effect of authentic acts by virtue of LSA-C.C. Art. 2242, which provides:
+
+At the hearing on the injunction, the official of the corporate defendants testified that he had signed the notes. Plaintiff argues that this judicial admission gave the instruments the same credit as authentic acts by virtue of the above article.
+
+We find this argument to be without merit. We have always held that the requirements for executory process must be strictly followed. Since Article 2242, LSA-C.C., is a general provision and the executory process requirement is a specific provision, we hold the specific provision controlling. An act under private signature duly acknowledged may support executory process on a Chattel mortgage on a movable, but a specific statute has authorized it. See LSA-R.S. 9:5353. The Legislature has made no such exception for mortgages on immovables. The provision in Article 2635, LSA-C.C.P., that "[t]his requirement of authentic evidence is relaxed only in those cases, and to the extent, provided by law," in light of the special exemption for movables, indicates to us that the exceptions must be clear and specific pronouncements of the legislative will.
+
+In League Central Credit Union v. Montgomery, 251 La. 971,
+207 So. 2d 762
+(1968), this Court stated:
+
+Having concluded that executory process falls because the mortgages are not authentic, we need not consider defendants' argument that the corporate resolutions attached to the mortgages and notes are defective under LSA-R.S. 13:4103.
+
+Relators are entitled to a preliminary injunction enjoining executory process without bond. LSA-C.C.P. Art. 2753; Buckner v. Carmack, La.,
+272 So. 2d 326
+(1973).
+
+For the reasons assigned, the judgment of the district court is reversed and set aside. Judgment is rendered granting to the relators, Carson Homes, Inc. and Lakeshore Real Estate Exchange, Inc., a preliminary injunction restraining and enjoining the American Bank and Trust Company in Monroe from proceeding by executory process in this matter. All court costs in this proceeding are assessed against American Bank and Trust Company in Monroe.
+
+BARHAM, J., dissents and assigns reasons.
+
+BARHAM, Justice (dissenting).
+
+In this proceeding for executory process, the plaintiff, in compliance with Article 2635 of the Louisiana Code of Civil Procedure, filed what purported to be the authentic   evidence necessary to establish its right to use this remedy. There is no assertion by defendants of lack of due process notice for, in fact, the raising of the issue we consider came by reason of the notice the defendants received that the property involved was subject to sale under a proceeding via executiva.
+
+Defendants, in response to receipt of this notice, moved to enjoin the seizure and sale by executory process, claiming that the notes and acts of mortgage were not in fact in authentic form. On the trial of the defendants' rule for injunction it was established that the notes were signed out of the presence of the notary public and that the mortgages were executed only in the presence of one witness and without the presence of the second witness or the notary public. This, of course, makes the instruments when presented for an order of executory process, not authentic in form at the time of presentation. However, it was further developed upon the trial that the signature which was not properly witnessed and notarized was in fact the signature of the person authorized to execute the notes and mortgages. That person admitted under oath from the witness chair that the acts and the signatures on the acts were his own.
+
+The only question for our resolution is whether, after the contradictory proceeding as to authenticity of the instruments supporting executory process, the instruments were in fact at that moment authentic acts which would support the use of executory process. Contrary to the majority, I am convinced they constitute the authentic evidence required by law.
+
+Louisiana Civil Code Article 2234 defines the authentic act as it relates to contracts to be one executed before a notary public or other officer in the presence of two witnesses. An authentic act is full proof under Civil Code Article 2236. An act under private signature is an authentic act between the parties and their heirs and assigns when it is "acknowledged by the party against whom it is adduced." La.C. C. art. 2242. The sacrament of a judicial oath is the most highly regarded oath at law. Delacroix v. Prevost Ex'rs., 6 Mart. (O.S.) 276 (1819); La.C.C. art. 2291; Succession of Hostetter, 128 La. 468, 54 So. 961 (1911); Santos v. Duvic, 16 La. App. 105, 133 So. 399 (Orleans App.1931); Leitz Eagan Funeral Home v. Ridgley, 189 So. 647 (La., Orleans App.1939).
+
+Louisiana Civil Code Article 2244 provides that when an act under private signature is produced to the person against whom it is to be used, that person "is obliged formally to avow or disavow his signature." It thus is certain from a reading of all of these articles together that the Code contemplates that an act shall be authentic if and when it is produced in open court to that party against whom it is to be used and the party acknowledges the act from the witness chair while under oath.
+
+The only purpose of the proceeding which brings this legal issue to our attention was for a determination of the authenticity of the acts of mortgage forming the basis for executory process. The party executing the acts made a judicial acknowledgment that the acts were his. Juridical acts cannot be more authentic than are these. They are sufficient to support executory process. This determination has nothing to do with an attack upon a seizure and sale under executory process which is a fait accompli without authentic evidence. We need merely decide, and I do so decide, that before the sale under executory proceedings, the evidence was authentic. The evidence thus supported the remedy sought. To hold otherwise, as did the majority, makes a mockery of the purpose of law and the judicial function. As between the parties, justice has been denied.
+
+I respectfully dissent.
+
+[1]  "The authentic act, as relates to contracts, is that which has been executed before a notary public or other officer authorized to execute such functions, in presence of two witnesses, aged at least fourteen years, or of three witnesses, if a party be blind. If a party does not know how to sign, the notary must cause him to affix his mark to the instrument.
+
+"All proces verbal of sales of succession property, signed by the sheriff or other person making the same, by the purchaser and two witnesses, are authentic acts."

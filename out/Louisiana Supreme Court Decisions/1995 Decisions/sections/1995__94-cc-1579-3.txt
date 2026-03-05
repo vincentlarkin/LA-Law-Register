@@ -1,0 +1,76 @@
+94-CC-1579
+Shaw v. Hingle
+https://law.justia.com/cases/louisiana/supreme-court/1995/94-cc-1579-3.html
+
+94-CC-1579
+Shaw v. Hingle
+Court: Louisiana Supreme Court
+Release date: 1995-01-17
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1995/94-cc-1579-3.html
+
+648 So. 2d 903 (1995)
+
+William Ernest SHAW
+v.
+I.F. HINGLE, in his Capacity as Sheriff of Plaquemines Parish.
+
+No. 94-CC-1579.
+
+Supreme Court of Louisiana.
+
+January 17, 1995.
+
+Christopher J. Bruno, Natasha R. Zimmerman, Bruno & Bruno, New Orleans, for applicant.
+
+Terry A. Bell, Belle Chasse, John Y. Kennedy II, Metairie, for respondent.
+
+MARCUS, Justice[*]
+
+At issue is whether William Ernest Shaw is entitled to enjoin the sheriff's sale of property which is the subject of a pending revocatory action.
+
+William Ernest Shaw, individually and on behalf of his minor child (Shaw), filed suit against Emmett J. Bourn, Jr. (Bourn) and his homeowner's insurer for molestation of   the minor child by Bourn. On July 29, 1991, in accordance with a jury verdict, the trial court rendered judgement in favor of Shaw and against Bourn and his insurer in the total amount of $312,323.25. Bourn and his insurer appealed. On February 26, 1993, the court of appeal affirmed the judgment against Bourn, but reversed the judgment against the insurer, finding the policy's intentional act exclusion applied. Shaw v. Bourn, 615 So. 2d 466 (La.App. 4th Cir.1993). That judgment became final on April 30, 1993, when this court denied the writ applications of Shaw and Bourn. 618 So. 2d 409,
+412
+(La.1993).
+
+On May 6, 1993, Bourn and his wife executed two collateral mortgages against property located at 223 Navel Orange Drive and 307 Navel Orange Drive (the property).[1] On June 16, 1993, the collateral mortgage notes were pledged as security for two promissory notes in the amount of $30,000 each executed by Bourn and his wife in favor of his brother, Milton Bourn. On May 13, 1993, Shaw attempted to execute on his judgment against the property and learned of the mortgages in favor of Milton Bourn. On November 19, 1993, Shaw filed a "petition for revocatory process" against Bourn and Milton Bourn. The petition alleged that at the time Bourn executed the mortgages, he was insolvent and Milton Bourn knew of this fact but "entered into the fraudulent agreement in order to obtain a legal preference over plaintiffs." Shaw prayed that the mortgages in favor of Milton Bourn be declared null and void, making the property subject to execution under Shaw's judgment. On January 18, 1994, while Shaw's revocatory action was pending, Milton Bourn filed a petition for executory process, seeking to enforce the mortgages on the property. The sheriff's sale of the property was scheduled for May 25, 1994. On May 24, 1994, Shaw filed a petition for injunction, alleging that any sale of the property without a final ruling on his revocatory petition would cause irreparable harm. The trial judge granted a temporary restraining order. Milton Bourn intervened into the proceedings and filed an exception of no right of action. After a hearing, the trial judge sustained the exception of no right of action and rendered judgment dissolving the temporary restraining order and denying Shaw's application for a preliminary injunction. Shaw applied to the court of appeal for supervisory writs. The court of appeal affirmed the judgment of the trial court.[2] On June 30, 1994, upon Shaw's application, we stayed all proceedings pending further orders of this court, and subsequently granted writs to consider the correctness of the decision denying the injunction.[3]
+
+The sole issue presented for our consideration is whether a judgment creditor who has filed a revocatory action has a right of action to seek an injunction preventing judicial sale of the judgment debtor's property pending a determination of the merits of the revocatory action.
+
+In holding that Shaw was not entitled to an injunction, the court of appeal relied on La. Code Civ.P. art. 2751 for the proposition that only the defendant in an executory proceeding has the right to injunctive relief.[4] Moreover, since Shaw, a third party, asserted no ownership interest to the seized property, he was not entitled to an injunction under La. Code Civ.P. art. 1092 and his remedy was limited to a claim against the distributions of the proceeds received from the sheriff's sale.[5]
+
+Arguably, a strict reading of La.Code Civ.P. arts. 2751 and 1092 leads to the conclusion   that a third party such as Shaw who asserts no ownership interest is precluded from enjoining the sheriff's sale and is limited to a claim against the proceeds. However, applying such an interpretation to this case would ignore a fundamental distinction, namely, that Shaw is not attempting to enjoin the sale of the property in order to enforce rights which arise from the executory proceeding; rather, he is attempting by means of the injunction to preserve the status quo pending a resolution of his revocatory action.[6] Indeed, if Shaw is ultimately successful on his revocatory action, his remedy would be to have the mortgages annulled, thus making the executory proceeding moot. To allow a sale of property prior to a resolution of the revocatory action would have the effect of vitiating Shaw's remedy under the revocatory action. A similar conclusion was reached by the court in City of New Orleans v. Marchand, 35 La.Ann. 222, 223-24 (1883):
+
+Therefore, we conclude that La.Code Civ.P. arts. 1092 and 2751 do not operate to bar Shaw's right to an injunction under the circumstances of this case.
+
+We find that Shaw's right to an injunction is controlled by La.Code Civ.P. art. 3601, which provides, in pertinent part:
+
+"Irreparable injury" has been defined as "a loss sustained by an injured party which cannot be adequately compensated in money damages or for which such damages cannot be measured by a pecuniary standard." Terrebonne Parish Police Jury v. Matherne,
+405 So. 2d 314
+, 319 (La.1981), cert. denied, 456 U.S. 972, 102 S. Ct. 2234, 72 L. Ed. 2d 845 (1981). In addition to proving irreparable injury, Shaw must also make a prima facie showing that he will prevail on the merits of the case. General Motors Acceptance Corp. v. Daniels,
+377 So. 2d 346
+, 348 (La.1979).
+
+Since the trial judge sustained the exception of no right of action, it appears that Shaw was never given the opportunity to present evidence as to whether he could prove irreparable harm and make a prima facie showing that he will prevail on the merits. Therefore, we must remand the case to the trial court to conduct a hearing.
+
+For the reasons assigned, the judgment of the courts below are vacated and set aside. The case is remanded to the district court to conduct a hearing on the petition for preliminary injunction. The stay order granted by this court on June 30, 1994 will remain in effect until the district court rules on the injunction. All costs will await the final outcome of the district court's decision.
+
+[*]  Judge William Norris, III, Court of Appeal, Second Circuit, sitting by assignment in place of Justice Pike Hall, Jr. Dennis, J., not on panel. Rule IV, Part 2, § 3.
+
+[1]  The May 6, 1993 date is taken from Milton Bourn's executory process petition. However, in brief to this court and in his revocatory action, Shaw asserts that the mortgages were executed on May 12, 1993.
+
+[2]  94-1117 (La.App. 4th Cir. 6/14/94), 639 So. 2d 311.
+
+[3]  94-1579 (La. 9/16/94), 642 So. 2d 177.
+
+[4]  La.Code Civ.P. art. 2751 provides:
+
+The defendant in the executory proceeding may arrest the seizure and sale of the property by injunction when the debt secured by the security interest, mortgage, or privilege is extinguished, or is legally unenforceable, or if the procedure required by law for an executory proceeding has not been followed.
+
+[5]  La.Code Civ.P. art. 1092 provides in pertinent part:
+
+A third person claiming ownership of, or a mortgage or privilege on, property seized may assert his claim by intervention. If the third person asserts ownership of the seized property, the intervention may be filed at any time prior to the judicial sale of the seized property, and the court may grant him injunctive relief to prevent such sale before an adjudication of his claim of ownership.
+
+If the third person claims a mortgage or privilege on the entire property seized, whether superior or inferior to that of the seizing creditor, the intervention may be filed at any time prior to the distribution by the sheriff of the proceeds of the sale of the seized property, and the court shall order the sheriff to hold such proceeds subject to its further orders.
+
+[6]  For this reason, the instant case is distinguishable from Zeta-Caiman, Ltd. v. Naik, 566 So. 2d 1016 (La.App. 3rd Cir.1990). Zeta-Caiman involved an action by a junior mortgagee for injunctive relief, which was ultimately denied by the court of appeal. Clearly, any rights of the junior mortgagee arose in connection with the executory process and were properly controlled by La. Code Civ.P. arts. 1092 and 2751.

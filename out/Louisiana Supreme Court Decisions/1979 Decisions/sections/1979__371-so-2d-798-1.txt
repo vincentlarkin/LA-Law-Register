@@ -1,0 +1,87 @@
+63511
+State v. Augillard
+https://law.justia.com/cases/louisiana/supreme-court/1979/371-so-2d-798-1.html
+
+63511
+State v. Augillard
+Court: Louisiana Supreme Court
+Release date: 1979-05-21
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/371-so-2d-798-1.html
+
+371 So. 2d 798 (1979)
+
+STATE of Louisiana, Appellee,
+v.
+Wayne AUGILLARD, Appellant.
+
+No. 63511.
+
+Supreme Court of Louisiana.
+
+May 21, 1979.
+
+*799 Victor E. Bradley, Jr., Norco, for appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry Morel, Dist. Atty., Norman J. Pitre, Asst. Dist. Atty., Abbott J. Reeves, Director, Research and Appeals Division, Gretna, for appellee.
+
+TATE, Justice.
+
+The defendant was convicted of possession in 1978 of a firearm after having been earlier convicted of a felony, La.R.S. 14:95. 1, and sentenced to three years' imprisonment at hard labor. His appeal presents two assignments of error.
+
+La.R.S. 14:95.1 makes it unlawful for a person who has been convicted of a felony to possess a firearm. The statute does not apply to a person who has not been convicted of a felony for a period of ten years "from the date of completion of sentence, probation, parole, or suspension of sentence." La.R.S. 14:95.1C(1).
+
+Assignment One
+
+By assignment 1, taken to a denial of a motion for acquittal in this judge-trial, the defendant contends that the state produced no evidence at all (a) that defendant Wayne Augillard was the individual previously convicted of felonies and (b) that the requisite ten years had not elapsed prior to the date of the present 1978 offense.
+
+The defendant relies upon jurisprudence to the effect (a) that mere proof of a prior conviction of a person of the same name as the defendant is not adequate to prove that the present accused was the person convicted in the earlier proceedings, State v. Adams,
+355 So. 2d 917
+(La.1978); and (b) that the state has the burden of proving the prior convictions of the present defendant, as well as that the ten year period has not elapsed, State v. Tillman,
+356 So. 2d 1376
+(La.1978).
+
+With regard to (a):
+
+The state argues that the trial judge could take judicial notice that the accused was the same person as had been earlier convicted before him. However, the decisions cited (State v. Jones,
+332 So. 2d 461
+(La.1976) and State v. O'Day, 191 La. 380, 185 So. 290 (1938)) are not authority to that effect: they merely hold that, in an enhanced sentence proceeding (La.R.S. 15:529.1), the trial judge may take judicial notice that the defendant before him is the same person who has been convicted of the present offense just tried before him.[1] These decisions are not authority that the trial judge may take judicial notice that the individual before him is the same defendant as the person convicted in prior (and different) proceedings.
+
+However, in the present case, the clerk of court in this rural parish apparently identified the defendant from personal knowledge as the same person as the person convicted of the earlier offenses. There being "some" evidence of this essential fact, the trial court did not err in overruling the motion for acquittal. State v. Douglas,
+278 So. 2d 485
+(La.1973).
+
+With regard to (b):
+
+*800 In proving the prior convictions, the clerk of court, as custodian of the records, simply testified as to docket numbers of the prior convictions, the sentences, and the crimes (felonies) of which convicted. He did not testify as to their dates, nor were certified copies of these prior convictions introduced into evidence at the trial on the merits.
+
+The defendant argues, with considerable force, that the state did not prove that the requisite statutory ten-year period had not elapsed prior to the present 1978 offense. (As earlier noted, the convicted person may lawfully possess a firearm after ten years have elapsed following expiration of sentence or supervision of the earlier conviction.)
+
+Nevertheless, in an earlier hearing on a preliminary examination, the dates of these 1973 convictions are proved by testimony of the custodian, together with certified copies of the earlier commitment forms by which the clerk certified these 1973 convictions. They are in the record before us.
+
+The matter was tried before the judge alone. He could take judicial notice of these records which had been introduced in earlier proceedings in the case presently before him, La.R.S. 15:422(7) (see footnote 1). In the trial on the merits, the clerk had identified the earlier convictions by crime, docket number, and sentence (although not by date).
+
+Under these circumstances, in the merit-trial before the judge alone, we are unable to say that the trial court erred in taking judicial notice of the date of these 1973 convictions, which had been proved in earlier proceedings in the same case then before the same trial judge. Without approving the skimpy method of proof of this essential fact for guilt of the offense charged, we are unable to say, under the limited circumstances of the present instance, that reversible error is shown.
+
+In so concluding, we acknowledge that Sciortino v. Sciortino, 250 La. 727,
+198 So. 2d 905
+(1967), seems to have held that, on review, an appellate court cannot take judicial notice of matters before the trial court of which the trial court properly took judicial notice. Professor Pugh, noted authority on evidence law, has criticized this holding as unduly technical and not supported by reason or the weight of the national authority. Pugh, 28 La.L.Rev. 429-30 (1968), reprinted in Pugh, Louisiana Evidence Law 710-11 (1974).
+
+The criticism is well taken, and we overrule Sciortino: When certified copies of the matter of which the trial court properly took judicial notice are in the appellate record, or are made part of it, it is a hypertechnical view, founded on no functional reason, which would deny the reviewing appellate court access to matters properly before the trial court and upon which its ruling is properly based.
+
+Assignment Two
+
+The defendant further contends that the state did not prove that the defendant did not possess a permit to possess firearms, as authorized by La.R.S. 14:95.1(C)(2). This statutory provision authorizes a convicted felon, after expiration of sentence or parole supervision, to apply to the sheriff of his parish of residence for such a permit.
+
+Proof of guilt of the crime does not require proof that the defendant does not possess a permit. In our view, this is a matter of defense which the defendant has the burden of proving: He, more than the state, has reason to know of the parish of his residence and whether he applied for and received a permit from the sheriff of that parish, which information may not be readily available from indexes of public records. The burden should be upon him to produce this exculpatory evidence, peculiarly accessible to him rather than the state, by which he may be exonerated from criminal responsibility for what otherwise is a violation of the penal statute.
+
+The assignment is therefore without merit.
+
+Accordingly, we affirm the conviction and sentence.
+
+AFFIRMED.
+
+SUMMERS, C. J., concurs in decree only.
+
+[1]  La.R.S. 15:422(7) authorizes the judge to take judicial notice of "matters pending in the court taking such cognizance and who are its attorneys." An enhanced punishment proceeding is regarded as part of the same prosecuted case which led to the conviction for which punishment is enhanced. See Jones and O'Day.

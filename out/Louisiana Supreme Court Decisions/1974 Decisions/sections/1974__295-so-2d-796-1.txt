@@ -1,0 +1,189 @@
+54053
+Louisiana Independent Auto Dealers Ass'n v. State
+https://law.justia.com/cases/louisiana/supreme-court/1974/295-so-2d-796-1.html
+
+54053
+Louisiana Independent Auto Dealers Ass'n v. State
+Court: Louisiana Supreme Court
+Release date: 1974-04-29
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1974/295-so-2d-796-1.html
+
+295 So. 2d 796 (1974)
+
+LOUISIANA INDEPENDENT AUTO DEALERS ASSOCIATION et al., Plaintiffs-Appellees,
+v.
+STATE of Louisiana, Defendant-Appellant.
+
+No. 54053.
+
+Supreme Court of Louisiana.
+
+April 29, 1974.
+
+Rehearing Denied June 7, 1974.
+
+*798 William J. Guste, Jr., Atty. Gen., C. James Gelpi, Second Asst. Atty. Gen., Thomas S. Halligan, Asst. Atty. Gen., for defendant-appellant.
+
+William J. Doran, Jr., Doran & Kivett, Baton Rouge, for plaintiffs-appellees.
+
+TATE, Justice.
+
+The plaintiffs are an unincorporated association of non-franchised used-automobile dealers and two individual members of the association. They bring this action for a declaratory judgment to test the constitutionality of a provision (Section 15) of the Louisiana Consumer Credit Law (Act 454 of 1972), regulating motor vehicle credit transactions. Made defendant is the State of Louisiana (with citation and service on the Attorney General, as provided by La. R.S. 13:5106 (1960)).
+
+The defendant, the State, interposed peremptory exceptions of no cause of action and no right of action. The trial court overruled these exceptions. On the merits, the court held that the challenged statute is unconstitutional as violating La.Const. Article III, Section 16 (1921), which provides that the title of a statute must be indicative of its object. The State has appealed directly to this court. La.Const. Article VII, Section 10(2).
+
+Two major issues are presented by this appeal: The propriety of the rendition of a declaratory judgment in this case; and the holding of the trial judge that the challenged statute is unconstitutional.
+
+1. Propriety of Declaratory Judgment
+
+The State, appealing, contends that the trial judge erred in rendering a declaratory judgment in this case. It is contended that the plaintiffs have no cause and no right of action to obtain declaratory relief against the State of Louisiana, as prayed for.
+
+Articles 1871 et seq. of the Louisiana Code of Civil Procedure govern declaratory judgments in Louisiana. These articles make it clear that courts may declare rights, status, and other legal relations within their respective jurisdictions, whether or not further relief is or could be claimed. Article 1871.
+
+Persons whose rights, status or other legal relations are affected by a statute may have determined any question of construction or validity arising under the statute. Article 1872. In a proceeding involving the constitutionality of a statute, the attorney general must be cited with a copy of the proceeding and is entitled to be heard. Article 1880. The declaratory judgment provisions are to be liberally construed and administered in order to settle and afford relief from uncertainty and insecurity with respect to rights, status and other legal relations. Article 1881.
+
+In Stoddard v. City of New Orleans, 246 La. 417,
+165 So. 2d 9
+(1964), we said: "These codal articles create a procedural device by which the courts may make a declaration of rights without executory or coercive relief. The articles are remedial in nature and must be liberally construed. Basic to the exercise of these procedures, however, is the existence of a justiciable controversy. The courts are without power to render advisory opinions on abstract questions." 165 So. 2d  at 11.
+
+The issue of when a controversy is "justiciable" as opposed to a "mere advisory opinion" is often a difficult one. Professor Edwin Borchard, in his definitive treatise on declaratory judgments, sets forth the following standards for resolving this difficult question:
+
+Professor Borchard further states:
+
+The defendant State argues that the plaintiffs are requesting merely an advisory opinion and that there is no true adversity of interest shown as between the parties, thus through its exceptions, the defendant-appellant has placed in issue the interest of the plaintiff and the capacity and interest of the State as a proper party defendant.
+
+The State argues that the challenged act does not affect any rights or obligations of the plaintiffs, but rather the rights and obligations of third-party holders of negotiable instruments and the consumer-makers thereof, and thus that the plaintiffs (usedcar dealers) have no right of action, i. e., "no interest", La.C.Civ.P. art 927(5) to be adjudicated. The plaintiffs, on the other hand, allege that they have suffered and are continuing to suffer a substantial economic injury due to the implementation of the challenged act.
+
+Injury in fact, including competitive injury, is sufficient to vest standing in plaintiffs to bring an action to contest governmental action. Association of Data Processing Serv. Organizations v. Camp,
+397 U.S. 150
+, 90 S. Ct. 827, 25 L. Ed. 2d 184 (1970); Barlow v. Collins,
+397 U.S. 159
+, 90 S. Ct. 832, 25 L. Ed. 2d 192 (1970).[1] These and other cases are discussed in 6A Moore's Federal Practice, Sec. 57-11 (1973).
+
+The Data Processing case, supra, is particularly enlightening to the issue at bar. Petitioners were sellers of data processing services to businesses generally. The   Comptroller of the Currency of the United States issued a ruling that national banks could make available to other banks and to bank customers data processing services as an incident to their banking services. Petitioners sued, attacking the ruling of the Comptroller. The District Court and the Court of Appeals both held that the plaintiffs lacked standing to bring the action. The United States Supreme Court reversed.
+
+In holding that the plaintiffs had standing to sue, the United States Supreme Court pointed out that this issue concerns "whether the interest sought to be protected by the complainant is arguably within the zone of interests to be protected or regulated by the statute or constitutional guarantee in question." 397 U.S. 153, 90 S. Ct. 830, 25 L. Ed. 2d 184. In view of the competitive injury to which the governmental regulation subjected the plaintiffs, they had standing to contest it.
+
+The cited case is analogous to the case at bar. The act challenged in this case, on its face, establishes that the plaintiffs have suffered a competitive injury. The act regulated all motor vehicle retail installment contracts except those in which the retail seller is a "factory franchised new motor vehicle dealer." La.R.S. 6:969. Application of the act to non-franchised motor vehicle dealers such as the plaintiffs, while exempting franchised dealers, demonstrates at least a prima facie case of competitive injury.
+
+In addition, the plaintiffs introduced unrebutted evidence of a substantial economic disadvantage suffered by them in their competition with franchised new car dealers for the used car market as a result of the implementation of the challenged act.
+
+We find that the trial judge was correct in holding that the plaintiffs have established their standing to bring the present action.
+
+The attorney general urges that the State of Louisiana is not the proper party defendant for this action. He contends that the individual consumers of the state are the proper parties in interest, not the State itself.
+
+The Louisiana Consumer Protection Law recognizes the right of the State to represent the consumer in both criminal proceedings for violations of the act, La.R.S. 9:3553, and in civil proceedings for injunction and administrative rule making, La.R. S. 9:3554. If the State is a proper representative for the consumer as a plaintiff, it is persuasive that it is a proper representative as a defendant.
+
+It is true that the district attorney would normally be the proper party to bring criminal prosecutions under 3553 and that the State Bank Commissioner is the proper party to bring injunctive relief under 3555. Nevertheless, if either were made defendant in an action for declaratory relief attacking the validity of the law, the attorney general is required to be served with a copy of the petition and entitled to plead. La.C.Civ.P. art. 1880.
+
+Further, Section 14 provides that in the event of a conflict with the Consumer Protection Law and The Motor Vehicle Sales Finance Act, La.R.S. 6:951 et seq., the latter shall prevail, and this latter act is administered by the Louisiana Motor Vehicle Commission. The challenged Section 15 supplements and overlaps to some extent the subject matter regulated by the Motor Vehicle Sales Finance Act. Arguably, this latter state agency might also be involved.
+
+By statute, the attorney general is designated to institute, maintain, and defend actions in which the State is interested. La. R.S. 49:461 (1972).
+
+In the present instance, we conclude that the State, itself, cited through and represented by the attorney general, is as appropriate a defendant as any of these   other state or local agencies or officials, in a matter involving the constitutionality of a state statute with various provisions enforceable by different functionaries of the State.
+
+To hold otherwise would be to render inoperative the provisions of the declaratory judgment act in a case to which the act is particularly suitable. The legislature has expressly mandated a liberal construction of the act to afford relief from legal uncertainty. La.C.C.P. Article 1881.
+
+It is in the interest of both the state and the plaintiffs to have the alleged unconstitutionality of the act adjudged. In cases like that at bar, where the constitutional attack is based on a formal defect in the act, it is essential to public order that the validity of the statute be determined as quickly as possible. To require private individuals to do business under the act at their peril in order to acquire standing is to defeat a major purpose of the declaratory judgment act.
+
+We therefore conclude that the trial judge was correct in allowing the present action to be brought against the State. Cf., Wattigny v. State of La., 257 La. 945, 244 So. 2d 842 (1971).
+
+The State also argues that there is insufficient adversity between the plaintiffs and itself.
+
+The requirement of adverse interest between a plaintiff and a defendant is designed to insure a fair presentation of the issues required for decision of the case. The degree of adversity required to present the issues will vary from case to case, depending upon the issue presented. "Facile rules of thumb are not, however, very helpful in the borderline actionin determining whether the minimum elements of `interest' and `adversity' are present. Pragmatic considerations should govern." 6A Moore's Federal Practice, Sec. 57.15 (1973).
+
+In the present case, we are asked to declare whether the title of the contested statute fairly reflects the contents of the body of the act, as required by Article III, Section 16 of the Louisiana Constitution. The issue is purely legal. Its resolution is not dependent upon the presentation of involved factual evidence. The economic interest of the plaintiffs and the attorney general's duty to uphold the Act represent truly adverse interests.
+
+We therefore conclude that the trial judge was correct in deciding that the parties were sufficiently adverse to resolve the title-body clause dispute.
+
+The authorities cited to the contrary are not persuasive:
+
+The present situation is to be distinguished from that in Petition of Sewerage and Water Bd. of New Orleans, 248 La. 169,
+177 So. 2d 276
+(1965). There, in fact, there was no adverse interest between the plaintiff and the Attorney General. What was in fact there requested was an advisory opinion validating in advance certain bonds to be issued.
+
+Likewise, Guerriero v. City of Monroe, 136 So. 2d 305 (La.App.2d Cir. 1961), concerned under its facts an attempt by a lessor to secure a declaratory judgment as to the effect of certain municipal regulation of alcoholic beverages. The allegations of the petition there showed no prejudicial effect to the petitioner by reason of the municipal regulation. But, see a holding to the contrary, where the plaintiffs were actually threatened with prosecution under municipal regulation. Theodos v. City of Bossier City, 106 So. 2d 851 (La.App.2d Cir. 1958), certiorari denied.
+
+2. Title-Body Clause
+
+Having determined that the merits of the case are properly before us, we turn to a consideration of the holding of the trial judge that Section 15 of Act 454 of 1972 (La.R.S. 6:965-6:969) is unconstitutional   in that it violates Article III, Section 16 of the Louisiana Constitution.
+
+That constitutional section provides:
+
+The purpose of the title-body clause is to give the members of the legislature and the public fair notice of the scope of the proposed legislation, and to prevent the joining in one act of incongruous and unrelated matters. State v. Dudek, 263 La. 258, 268 So. 2d 217 (1972); State v. Sliger, 261 La. 999,
+261 So. 2d 643
+(1972); State v. Dooley, 261 La. 295,
+259 So. 2d 329
+(1972); State v. Welkner, 259 La. 815,
+253 So. 2d 192
+(1971); A & M Pest Control v. LaBurre, 247 La. 315,
+170 So. 2d 855
+(1965); Airey v. Tugwell, 197 La. 982, 3 So. 2d 99 (1941). See also, Comments, 8 La.L.Rev. 113 (1947) and 6 La.L.Rev. 72 (1944).
+
+In State v. Dooley, supra, it was stated: "* * * The title of an act of the Legislature is of the nature of a label, the purpose of which is to give notice of the legislative intent and purpose to those interested in, or who may be affected by, the terms of the act, and to prevent surprise and fraud upon [the] members of the Legislature. * * *" 261 La. at 308, 259 So. 2d 333.
+
+The title of an act is not to be strictly or technically construed. It should be liberally construed to effectuate the legislative purpose whenever possible. State v. Sliger, supra; Bethlehem Steel Co. v. Pan-Southern P. Corp., 207 La. 149, 20 So. 2d 737 (1945); Parish of Jefferson v. Louisiana Department of Corrections, 259 La. 1063,
+254 So. 2d 582
+(1971).
+
+In applying these general principles of law to the facts of the case before us, we begin by considering the title to Act 454 of 1972, which provides:
+
+The opening phrase, "To amend Code Book III and Title XII thereof of Title 9 of the Louisiana Revised Statutes of 1950", puts legislators and the public alike on notice that the proposed statute will regulate loans, as Title XII of Book III of the Civil Code is entitled: "Of Loan". Title XII of Title 9 of the Revised Statutes (Civil Code Ancillaries) is likewise entitled: "Of Loan". Moreover, the title of the Act indicates that the new sections are to be designated the "Louisiana Consumer Credit   Law". This puts the legislature and the public on notice that all consumer credit loan transactions will be regulated by the new sections, including those pertaining to motor vehicles.
+
+The thrust of the plaintiff's attack on the statute is that in addition to adding the designated sections to Title 9 of the Revised Statutes, as indicated by the title, Section 15 of Act 454 of 1972 adds sections to Title 6 of the Revised Statutes. Title 6, of course, is not mentioned in the title of the act.
+
+The trial judge agreed with this argument. In holding that Section 15 of Act 454 of 1972 violated the title-body clause, he found that the language of the title "to provide for a system of laws relating to certain consumer credit sales * * *" was merely "an eludication of the previous phrase rather than an addition thereto." His extremely able opinion explained:
+
+"The title to Act 454 begins `To amend Code Book III and Title XII thereof of Title 9 of the Louisiana Revised Statutes of 1950 by adding thereto a new Chapter 2 entitled Louisiana Consumer credit Law containing new sections designated R.S. 9:3510 through R.S. 9:3568.' In memorandum defendant implies that the word `and' should be read into the title after this phrase so that the remainder would enlarge the coverage of the title. [B]ut the word `and' was not included by the drafters and a casual reading of the title does not induce one to inject the word for clarification. Actually, the remainder of the title seems to be an elucidation of the previous phrase rather than an addition thereto. Consequently, the entire act seems to be concerned solely with Code Book III and Title XII thereof of Title 9 of Louisiana Revised Statutes of 1950. Nowhere in the title is there an indication that an additional five sections are to be added to Title 6 of the Revised Statutes by Section 15 of Act 454. * * *"
+
+However, as noted, the title to the act is sufficient to give notice that all consumer credit transactions (including those pertaining to motor vehicles) were to be regulated or affected by the enactment. It would have been preferable for the title to specify that some of the provisions of the act were to be placed within Title 6 as well as within Title 9 of the Revised Statutes. Nevertheless, the title of the act is broad enough in scope to include the substantive provisions placed within Title 6, nor is it misleading, such as (for instance) not indicating that motor vehicle transactions were included within the scope of the regulation of the enactment.
+
+The amendment to Title 6 of the Revised Statutes, and the reason for its omission from the enactment's title, is easily explained by reference to the legislative history of Act 454 of 1972.
+
+Act 454 of 1972 originated as House Bill Number 699 of the 1972 legislative session. House Bill Number 699 contained the present short title quoted above. It purported to regulate all consumer credit transactions, including those incidental to sales of motor vehicles, within the designated sections of Title 9 of the Louisiana Revised Statutes.
+
+On June 12, 1972, amendments were adopted by the House of Representatives exempting from the Title 9 coverage (which had theretofore governed all consumer credit transactions) consumer credit transactions resulting from the sale of motor vehicles. By the same amendments, almost identical coverage of the sales of motor vehicles was placed in Title 6 of the Revised Statutes.[2] Thus at all times pertinent   to this discussion, sales of motor vehicles were covered within the terms of House Bill Number 699, and adequate notice of that coverage was provided to the legislature and the public.
+
+Apparently, the provisions dealing with motor vehicle sales were moved to Title 6 from Title 9 so that they would be in closer proximity with the Motor Vehicle Sales Finance Act, La.R.S. 6:951-6:964. The movement of these provisions, with the single exception of La.R.S. 6:969 to be noted, did not even arguably expand or limit the scope of coverage of House Bill 699.
+
+In Peck v. City of New Orleans, 199 La. 76, 5 So. 2d 508 (1941), it was stated: "* * * The pronouncements of this court are legion to the effect that the provisions in the body of a law, which are germane to the object of the legislation need not be expressed in the title and that the title is not required to be a complete index to every section of the statute. It is sufficient if the title in general terms directs attention to the purpose of the enactment."
+
+A statute is not necessarily limited solely to provisions for the specific statutory sections referred to in the title. Other matter may be included in the legislation pertaining to other statutory sections, provided this other matter is germane to the subject of the act and is embraced within the scope of the title of the act. State v. Welkner, 259 La. 815,
+253 So. 2d 192
+, 195 (1971); A. & M. Pest Control Service, Inc., v. LaBurre, 247 La. 315,
+170 So. 2d 855
+, 858 (1965).
+
+In Ricks v. Department of State Civil Service, 200 La. 341, 8 So. 2d 49 (1942), the court noted: "* * * whatever is germane and incidental to the purpose may be set out in the title, but if the body of the act embraces cognate matter not strictly within the text of the title, such matter will, nevertheless, be covered by the title."
+
+See also State v. Sliger, supra; State v. Dooley, supra. Cf. State v. Welkner, supra.
+
+We therefore hold that to the extent that Section 15 of Act 454 of 1972 was within the scope of the body of the original House Bill Number 699 of the Regular Session of 1972, it is not violative of La.Const. Article III, Section 16.
+
+Section 15 of Act 454 added to Title 6 of the Revised Statutes five new sections: La.R.S. 6:965-6:969. La.R.S. 6:965-6:968 are identical in purpose to La.R.S. 9:3532-9:3534 and La.R.S. 9:3529. Together, these provisions from Title 9 and Title 6 in effect effectuate the original object of House Bill 699 in that they cover all consumer credit transactions.
+
+Section 15 of Act 454 of 1972 purports, however, in La.R.S. 6:969 to exempt from the operation of the act "Retail Installment Contracts wherein the retail seller is a factory franchised new motor vehicle dealer." This did not form part of the original act. The plaintiffs contend that this exemption was not sufficiently indicated by the title to the act and, further, that this exemption denies them equal protection of the laws by unduly favoring their economic competitors.
+
+However, the class of persons affected by this operation are not before the court, i. e., no factory franchised new motor vehicle dealers or association representing them were made parties defendant in this action. We therefore do not believe it to be appropriate to render further declaratory relief as to the constitutionality of this exemption in the absence of parties representing such interests. La.C.Civ.P. art. 1880.
+
+We therefore find it necessary to remand the case to the District Court to allow the plaintiffs to join appropriate representatives of the factory franchised new motor vehicle dealers. La.C.Civ.P. art. 646.
+
+For the reasons assigned, the judgment of the trial court holding Section 15 of Act 454 of 1972 unconstitutional is reversed in part, although we affirm its holding that declaratory relief is available; and the case is remanded to the district court for it to allow the plaintiffs, within a reasonable time to be fixed by the trial court, to join as parties defendant representatives of the factory franchised new motor vehicle dealers.
+
+Affirmed in part; reversed in part; and remanded.
+
+BARHAM, J., dissents.
+
+SUMMERS, J., dissents and assigns reasons.
+
+SUMMERS, Justice (dissenting).
+
+I adopt the excellent reasons assigned by the trial judge for holding the contested Act unconstitutional. These reasons are quoted in full:
+
+[1]  Federal cases are generally more restrictive in finding standing than are state court opinions because of the provisions of Article III of the United State Constitution, which limits the federal judicial power to "cases and controversies." No comparable limitation is found in the Louisiana Constitution. Article VII, Section 3 of the Louisiana Constitution provides, in part: "No function shall ever be attached to any court of record, or to the judges thereof, except such as are judicial * * *." This has been interpreted as limiting the jurisdiction of the State courts to "justiciable controversies". Stoddard v. City of New Orleans, 246 La. 417,
+165 So. 2d 9
+(1964). Thus, the federal decisions should be considered persuasive to the extent that they recognize "justiciability", but are not necessarily limitations on the jurisdiction of the state courts.
+
+[2]  Section 15 of the Act adds to Title 6 the following sections: 965, 966, 967 and 968. These provide almost identical regulation for motor vehicle credit transactions to that provided for other credit transactions by Sections 3532, 3533, 3534, and 3529 of Title 9, as enacted by Section 1 of the Act. Such motor vehicle transactions had been regulated by Section 1 of the Act until (by an amendment companion to that adding Section 15) "Retail installment transactions made pursuant to The Motor Vehicle Sales Finance Act" were excluded from coverage of Section 1. See La. R.S. 9:3512(4).

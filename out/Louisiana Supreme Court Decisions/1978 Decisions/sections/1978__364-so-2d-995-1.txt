@@ -1,0 +1,95 @@
+62005
+State v. Wilbourn
+https://law.justia.com/cases/louisiana/supreme-court/1978/364-so-2d-995-1.html
+
+62005
+State v. Wilbourn
+Court: Louisiana Supreme Court
+Release date: 1978-11-13
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/364-so-2d-995-1.html
+
+364 So. 2d 995 (1978)
+
+STATE of Louisiana, Appellee,
+v.
+Hugh C. WILBOURN, Appellant.
+
+No. 62005.
+
+Supreme Court of Louisiana.
+
+November 13, 1978.
+
+Rehearing Denied December 14, 1978.
+
+*996 Edward S. Bopp, A Law Corp., Arabi, Bruce C. Ashley, II, New Orleans, for appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise S. Korns, Dennis J. Waldron, Asst. Dist. Attys., for appellee.
+
+TATE, Justice.
+
+The defendant was convicted of three counts of negligent homicide, La.R.S. 14:32, and sentenced to five years imprisonment on each count, the sentences to run concurrently. The defendant's appeal relies upon two assignments of error.
+
+Assignment of Error No. 1 presents a substantial issue. It concerns the denial of a motion to suppress certain evidence obtained as the result of a warrantless and allegedly unconstitutional search and seizure.
+
+Context Facts
+
+The accused is charged with the deaths of three persons injured by a hit and run motorist on September 21. On the following day at about 4:15 p. m., the police received an anonymous telephone tip that a brown Ford believed to be involved in a hit and run accident on Paris Road was located in a carport in the vicinity of Norton Street at Paris Road.
+
+The dispatcher radioed to two police officers who were cruising in the vicinity. They saw a brown Ford with a white top parked in a carport at 513 Norton Street. Only the rear of the car was fully visible from the street.
+
+The officers entered the carport to look at the car. When they came to its front, they saw blood and particles of hair on the right front. They radioed their findings, and other officers came and took pictures, then taped a covering on the front of the vehicle.
+
+The automobile belonged to the defendant, who was a tenant at 513 Norton Street. Subsequently, the owner of the premises came home and identified the accused as the vehicle's owner. Neither the accused nor the home owner authorized the search of the vehicle, nor its subsequent impounding (when it was removed to a police laboratory).
+
+The police officer's entry in the carport to look at the front of the vehicle was admittedly made without a warrant, as was the subsequent removal of the vehicle to the police laboratory.
+
+Legal Issue
+
+The ultimate issue is whether the police officers' entry into the carport to look at the vehicle violated any reasonable expectation of privacy on the accused's part that is constitutionally protected. State v. Lamartiniere,
+362 So. 2d 526
+(La.); State v. Fearn,
+345 So. 2d 468
+(La.1977); State v. Nine,
+315 So. 2d 667
+(La.1975). These decisions indicate that the test is not only whether the person had an actual (subjective) expectation of privacy, but also whether the defendant's expectation of privacy is of a type which society at large is prepared to recognize as being reasonable.
+
+Our resolution of this issue is not free from doubt. Under some circumstances, and with the physical layout of some carports, the individual's reasonable expectation of privacy might be violated by an unauthorized entry into a carport to look at its contents.
+
+However, it is a particular individual's right to privacy, not a particular place, which is protected by the constitution. Thus, it is appropriate to take into consideration the particular facts and circumstances, the total atmosphere of the case, in determining whether the constitutional right to privacy has been violated by an unauthorized entry into a part of the premises which is open to the public. State v. Nine, cited above, at 315 So. 2d 671.
+
+Under the particular circumstances of this case, we do not find that either the accused's subjective expectation of privacy, or else what society would consider a reasonable expectation of privacy, were offended by the police officers' entry into the   unenclosed carport to look at the front of the vehicle, which had been reported (although by a tip of unverified reliability) as having been involved in a hit and run accident the day before. The carport was on the side of the house, not enclosed from the street, and only partially enclosed on one side:
+
+Persons entering the side-door of the house, or those knocking at the side-door to find out if someone was home or to deliver or sell something, could readily view the front of the vehicle parked alongside. That sort of entry into this carport by members of the public (including police officers on an investigatory mission) is deemed to have been reasonably within the contemplation of the accused, when he left property in the semi-public premise available for public view.
+
+We therefore find no unconstitutional invasion of the accused's right to privacy resulted when the police officers entered this particular carport to look at the vehicle, and no unconstitutional taint in their recording the information they observed there.
+
+Nevertheless, a further troublesome issue is raised by the accused. A couple of hours after the first visit, the vehicle was seized by officers and removed to the police laboratory, still without the officers having obtained a warrant and judicial authority to do so. The accused contends, with considerable force, that, at least, the results of the laboratory testing consequent to this warrantless seizure should be suppressed.
+
+The laboratory testing was limited to findings based on an examination of the exterior of the vehicle. Cf. Cardwell v. Lewis,
+417 U.S. 583
+, 94 S. Ct. 2464, 41 L. Ed. 2d 325 (1974). We are not faced with a warrantless search of the interior or trunk of the car, following a warrantless seizure. If we were, our conclusion might well be different than the following:
+
+With some reservations, we finally conclude that the trial court did not err in finding that the warrantless seizure was justified by exigent circumstances, insofar as it was immediately necessary to protect evidence on the vehicle's exterior. The circumstances consist of the hurricane alert at the time, instanced by overcast skies, and the testimony of the officer in charge of the substantial possibility that, should the hurricane strike, the evidence of blood and hairs on the automobile might be damaged or obliterated by rain, even though covered by plastic and even though the vehicle was in a carport (which, however, was open at the side and to its rear).
+
+Conclusion
+
+The other assignment of error concerns the failure to select the petit jurors by lot in open court as required by La.C. Cr.P. art. 784. See State v. Hoffman,
+345 So. 2d 1
+(La.1977). Here, the order of calling the petit juror venire had indeed been determined by lot, but in the jury pool room instead of in open court.
+
+The present case was tried before Hoffman had held to be invalid the latter procedure utilized by the Criminal District Court of Orleans Parish. However, Hoffman specifically limited the effect of its ruling to jury panels selected after the finality of the decision of the court in that case.
+
+Accordingly, for the reasons assigned, we affirm the convictions and sentences.
+
+AFFIRMED.
+
+DIXON, J., dissents with reasons.
+
+DIXON, Justice (dissenting).
+
+I respectfully dissent.
+
+True, there was no expectation of privacy, and the initial intrusion into the carport was not illegal. But no adequate reason is suggested to justify the failure of the police to obtain a warrant for the seizure of the car. The imminent hurricane, relied on to complete the "exigent circumstances," should have convinced prudent police to keep the car in the protection of the carport and obtain a warrant for its seizure.

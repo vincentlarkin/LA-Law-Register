@@ -4,6 +4,7 @@ Offline Louisiana law downloader + search tools.
 
 Source TOC: https://www.legis.la.gov/legis/LawsContents.aspx
 Official Supreme Court opinions archive: https://www.lasc.org/CourtActions/2026
+Pre-2000 Supreme Court year index: https://law.justia.com/cases/louisiana/supreme-court/
 
 ## What This Repo Produces
 
@@ -34,8 +35,10 @@ Notes:
   - Builds SQLite FTS5 index from `out/**/bundle.json` and `sections/*.json`.
   - Rebuild is atomic (temp DB swap), so interrupted runs do not overwrite a good index.
 - `scripts/download_louisiana_case_law.py`
-  - Downloads Louisiana Supreme Court opinions from the official Louisiana Supreme Court archive.
-  - Saves yearly bundles, local opinion PDFs, and extracted full text for indexing.
+  - Downloads Louisiana Supreme Court opinions.
+  - Uses the official Louisiana Supreme Court archive for `2000+`.
+  - Uses Justia for older Supreme Court years exposed there (`1950-1999` plus `1885`).
+  - Saves yearly bundles, local opinion PDFs when available, and extracted full text for indexing.
 - `scripts/search_laws.py`
   - CLI query tool for the SQLite index.
 - `scripts/search_laws_gui.py`
@@ -73,7 +76,7 @@ Download everything:
 python scripts\download_louisiana_laws.py --categories all
 ```
 
-Download Louisiana Supreme Court opinions (official archive, 2000-current by default):
+Download Louisiana Supreme Court opinions (all supported years by default):
 
 ```powershell
 python scripts\download_louisiana_case_law.py
@@ -83,6 +86,12 @@ Download a narrower Supreme Court range:
 
 ```powershell
 python scripts\download_louisiana_case_law.py --years 2020-2026
+```
+
+Download the pre-2000 Justia-backed range only:
+
+```powershell
+python scripts\download_louisiana_case_law.py --years 1885,1950-1999
 ```
 
 Re-run one bundle:
@@ -141,7 +150,7 @@ Additional indexed source after running the case-law downloader:
 Notes:
 
 - The Louisiana Constitution is already supported by `scripts\download_louisiana_laws.py` via `--categories louisiana-constitution`.
-- Supreme Court decisions are currently sourced from the official Louisiana Supreme Court archive rather than Justia.
+- Supreme Court decisions are sourced from the official Louisiana Supreme Court archive for `2000+` and from Justia for the older years that Justia exposes.
 
 ## Repo Hygiene
 

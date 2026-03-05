@@ -1,0 +1,141 @@
+52737
+Juan v. Harris
+https://law.justia.com/cases/louisiana/supreme-court/1973/279-so-2d-187-1.html
+
+52737
+Juan v. Harris
+Court: Louisiana Supreme Court
+Release date: 1973-06-11
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1973/279-so-2d-187-1.html
+
+279 So. 2d 187 (1973)
+
+Charles JUAN
+v.
+Curtis R. HARRIS et al.
+
+Nos. 52716, 52737.
+
+Supreme Court of Louisiana.
+
+June 11, 1973.
+
+*188 Frank J. D'Amico, New Orleans, for plaintiff-applicant in No. 52737; for plaintiff-respondent in No. 52716.
+
+Drury, Lozes & Curry, Felicien P. Lozes, New Orleans, for defendant-applicant in No. 52716; for defendants-respondents in No. 52737.
+
+Ogden, Ogden & Cocke, C. B. Ogden, II, New Orleans, for defendant-respondent.
+
+CALOGERO, Justice.
+
+This tort action primarily concerns the interpretation of two insurance policies and the application of proceeds from these policies. Plaintiff Charles Juan, a pipefitter, had been employed by H. E. Wiese, Inc. at the Shell Oil Company Refinery located in Norco, La. On the day after his discharge, he was injured at the refinery when a truck backed over him. While the incident allegedly took place relative to a labor dispute at the plant, the factual matters are not before us, for plaintiff, Charles Juan, after a jury trial, was awarded a thirty thousand dollar verdict which is no longer in dispute in these proceedings. The contest has to do with how the judgment should be paid by the two insurers and/or their insureds.
+
+A pick-up truck involved in the incident was owned and driven by one of the defendants, Curtis R. Harris. Harris was employed as an area foreman for H. E. Wiese, Inc. and was working in the course and scope of his employment at the job site at the time of the accident. His truck, it is conceded, was covered by a combination family automobile policy issued by Employers Liability Assurance Corporation, Ltd.
+
+One or two days before the accident, Harris had verbally leased the vehicle to his employer, Wiese. The verbal agreement of lease was confected between Harris and one, T. D. Melancon, a superintendent for Wiese. Under the terms of that agreement, the vehicle was to be leased to Wiese only in connection with its use during the normal work day at the plant site. Wiese agreed to pay Harris $100 per month and was to cover Harris' incidental expenses, including gas.
+
+With respect to liability insurance for operation of the truck at the job site the specific facts are somewhat in dispute, and may yet be more fully explored because of our resolution of this case. Essentially, however, Harris and Melancon agreed that the vehicle's operation at the job site would be covered by Wiese (or Wiese's liability insurance policy). Additional evidence surrounding this agreement will be discussed hereinbelow.
+
+The trial judge reviewed the evidence and the provisions of the two policies (Harris' combination family automobile policy with Employer Liability Assurance Co., $25,000 limit, and H. E. Wiese, Inc.'s automobile liability policy with Hartford Accident & Indemnity Company, $250,000 limit) and concluded that the Employers policy provided the excess coverage, Hartford's the primary, then cast the two companies on a pro-rata basis, Employers for 25/275ths or $2,272.73, and Hartford for 250/275ths or $27,727.27.[1] The judgment   also held Harris and Wiese jointly, severally and solidarily bound for the full $30,000 judgment. The trial court did not rule on a third party demand filed against Wiese and Hartford by Harris and Employers. Consequently that matter remains pending in the District Court.
+
+Only Wiese and Hartford appealed from the District Court judgment.
+
+The Court of Appeal disagreed with the trial judge's resolution, found Employers the primary insurer, Hartford the excess insurer.
+
+Accordingly, they amended the judgment by reducing it against Hartford to $5,000. In all other particulars the judgment was affirmed including affording plaintiff Juan against Employers, judgment for only $2,272.33. The court based its inability to increase Juan's judgment to the limit of Employers primary coverage, as found, on the reason that an appellate court cannot modify, revise or reverse a judgment or part of a judgment in favor of a party who has neither appealed nor complained by way of an answer to an appeal. And, indeed, plaintiff Juan had not appealed, nor answered Wiese and Hartford's appeals. This raises an interesting and intriguing question as to whether a successful and satisfied plaintiff must appeal in order to reserve his right to complain in the appellate court in the event that that court might on the appeal of one of the cast defendants, rearrange the judgment sums as between two defendant insurers.
+
+While there would seem to be equitable considerations favoring the aggrieved plaintiff in this situation we needn't here determine whether law[2] or equity would afford him relief, for it has been conceded by counsel for both insurers before us (although we do not need the concurrence for counsel for Hartford in light of our result) that plaintiff is entitled to have judgment in the full aggregate sum of $30,000 against the insurer or insurers ultimately cast in this case.[3] We will thus relieve plaintiff by amending the judgment accordingly.
+
+Harris and Employers, and plaintiff Juan, alleging error in the Court of Appeal judgment, applied for, and were granted writs to this court. Wiese and Hartford neither sought nor were granted writs.
+
+The principle issue for us to resolve then is how Employers and Hartford, either or both, should by judgment pay or contribute $30,000 in satisfaction of plaintiff's verdict.
+
+Harris owned the pick-up truck and insured it with Employers. He leased the vehicle to his employer Wiese and then as an employee in the course and scope of employment and with permission of Wiese, was driving the leased vehicle (his own truck) when the accident took place.
+
+Operation of the vehicle at the time of the accident was covered by both policies.
+
+Under the Employers policy it was the insured vehicle, i. e., "owned by the named insured." Employers does not contend that coverage is not applicable because Harris leased the vehicle to Wiese. Rather they admit they are a primary insurer.
+
+Hartford, too, admits that the vehicle operation was covered by their policy, but contends that they are an excess insurer, directing our attention to their policy's definition of hired auto, non-owned auto and owned automobile[4] (by perusal of which it   is evident that the involved vehicle is a non-owned auto) and to the policy's excess insurance clause[5] (under the clear terms of which, as to a non-owned auto Hartford's insurance is excess).
+
+Furthermore, the Hartford policy specifically states that the owner of a non-owned auto (as well as the owner of a hired auto) is not an insured.[6]
+
+Construing these provisions together (definitions, excess insurance clause, and non-coverage for owner of non-owned auto) and considering the unusual circumstance that Harris in this case was both owner-lessor and employee-driver of non-owned auto (or of leased vehicle, if you prefer), the result is that Harris as owner is not insured, Harris as employee-driver is insured, but that such coverage is applicable only as excess insurance since there is other insurance, the primary coverage afforded by Employers.[7]
+
+Hartford's position is, therefore, correct. For similar treatment see St. Ann v. American Ins. Companies, 206 So. 2d 817 (La. App. 4th Cir. 1968); Slocum v. American Cas. Ins. Co., 189 So. 2d 299 (La.App. 3rd Cir. 1966).
+
+Employers argues alternatively that the Hartford excess provision and the Employers' pro rata clauses[8] conflict, and being repugnant, should both be disregarded under the rationale of Graves v. Trader & General Insurance Co., 252 La. 709,
+214 So. 2d 116
+(La.1968). In the Graves case, Traders & General insuring a Mr. Collins had excess coverage because the Collins vehicle was a temporary substitute truck at the time of the accident. Travelers Indemnity Company was the insurer of Superior Coach Sales, Inc. who had loaned Collins the truck involved in the accident. With Employers providing only excess coverage and Superior's policy providing no   coverage insuring "other persons" where any other insurance was available, either primary or excess, the consequence would have been no coverage at all. In that case, of course, the insurance clauses were repugnant and the court properly gave effect to either clause, holding the insurers both primary, and pro rating the judgment.
+
+There is no such conflict of insurance clauses in the matter before this court. Employers simply has the primary policy on the owned vehicle and Hartford the excess coverage, because as to them the truck is a non-owned vehicle.
+
+The real crux of Employers' complaint, however, is that the Hartford policy should be reformed because of the agreement between their insured, Wiese, and their insured's employee Harris. The evidence seems to support Employers' position that when Wiese's superintendent, Melancon, and Harris agreed to Harris' leasing his pick-up truck to the company, Wiese was to see to it that the truck was covered by Wiese's insurance. Melancon and Harris, both laymen, did not, perhaps, distinguish between truck coverage (an anomaly) and vehicle operator coverage, but at any rate, it seems that Wiese may have agreed to effect the principal coverage, the primary coverage on the vehicle. This, of course, is what Employers contends. So Melancon called another supervisor for the company, Lobue, to advise that he had leased Harris' truck and Lobue told him that since leased vehicles were covered under their policy with Hartford, it was not necessary that Wiese advise Hartford at that time. It was shown that annually Hartford audited Wiese's job records and at that time, ascertained what supplemental premiums to charge Wiese for leased vehicles on their various jobs. Employers therefore argues that this practice or custom would require that Hartford upon subsequent audit should live up to Wiese's verbal contract with Harris and not only afford excess coverage under the Hartford policy but afford the primary coverage. Employers produced an insurance underwriting expert who testified that it would have been a simple matter for Hartford to comply with the ostensible agreement made by Wiese (with Harris) by issuing a policy endorsement, at no extra premium charge, so as to afford primary coverage to the owner of a leased or non-owned auto (namely Harris). (There should be noted here however, Hartford's counsel's argument to the contrary, that any such endorsement, if it had been made, would have excluded off site coverage for the vehicle and its owner-lessor.)
+
+The simple fact, however, is that no such endorsement was confected, that Hartford was never notified of anything by Wiese and that under the outstanding policy provisions, Hartford's policy simply provides the excess insurance. If Wiese has any complaints in this regard about Hartford's obligation to them to effect coverage, that is a matter for later determination should Wiese hereafter find themselves cast in judgment on the third party demand filed by Harris and Employers. For our present purposes, however, in this claim by plaintiff Juan, we are constrained to find that Hartford's policy is clearly excess and Employers' policy, clearly primary.
+
+Hartford argues in brief that Employers should be caused to pay interest on the entire $30,000 judgment by virtue of a supplementary payment provision of Employers' policy. It should be noted that this contention has not before now been urged by Hartford either in the District Court or the Court of Appeal. Nor, might we add, has the matter of payment of legal interest by either insurer been included in the District Court judgment or the judgment as rendered by the Court of Appeal. Whether Hartford is correct in this respect is not before us since Hartford has not taken writs to this court, and since plaintiff Juan in whose favor the judgment runs has likewise not taken writs.[9]
+
+*192 With respect to the third party petition filed by Harris and Employers against Wiese and Hartford, the Court of Appeal held that since Harris and Employers had not appealed from the District Court judgment the Court of Appeal would not afford them relief. We feel that the more appropriate reason for not taking up the merit of the third party petition is that the trial judge has not yet ruled upon it. That third party petition is still pending in the District Court.
+
+We therefore specifically do not rule upon whether there is merit in that third party petition of Harris and Employers, whether Wiese contracted with Harris and committed themselves to furnish primary insurance coverage for the vehicle while on the job site and whether as a consequence, Wiese has foregone its rights as an insured under Employers' policy.[10]
+
+We likewise do not have before us any claim by Wiese against Hartford. Whether Wiese has recourse against Hartford in the event Wiese is cast in the third party demand against them can properly be determined if and when any such legal claim is made.
+
+For the foregoing reasons, the judgment of the Court of Appeal is amended and as amended, affirmed. The judgment should read as follows:
+
+It is ordered, adjudged and decreed that there by judgment herein in favor of plaintiff Charles Juan and against defendant Charles R. Harris and H. E. Wiese, Inc., jointly, severally and in solido in the full sum of $30,000 with legal interest thereon from date of judicial demand until paid, and against the Employers Liability Assurance Corporation and Hartford Accident and Indemnity Company to the extent only that Employers Liability Assurance Corporation is jointly, severally and solidarily liable with Harris and Wiese in the sum of $25,000 and that Hartford Accident and Indemnity Company is jointly, severally and solidarily liable with Harris and Wiese, in the sum of $5,000.
+
+[1]  With Hartford primary, and considering that its coverage exceeded the loss it would seem the court should have cast Hartford for the full $30,000. Counsel for Employers, however, concedes that at best for Employers, both insurers were primary and the trial judge's pro-ration was therefore correct.
+
+[2]  See the conflicting opinions, Emmons v. Agricultural Ins. Co., 245 La. 411,
+158 So. 2d 594
+(La.1963) and Williams v. City of Baton Rouge, 252 La. 770,
+214 So. 2d 138
+(La.1968). See also 30 La.L. Rev. 305.
+
+[3]  The apparent reason for this gesture on the part of Employers' counsel is that even if we were not to increase Employers' responsibility from $2,272.33 to $25,000, Employers, owing Harris coverage in addition to defense, will be required to pay the $25,000 liability coverage on behalf of Harris who was cast jointly, severally and solidarily in the full $30,000 judgment.
+
+[4]  V. ADDITIONAL DEFINITIONS
+
+"hired automobile" means an automobile not owned by the named insured which is used under contract in behalf of, or loaned to, the named insured, provided such automobile is not owned by or registered in the name of (a) a partner or executive officer of the named insured or (b) an employee or agent of the named insured who is granted an operating allowance of any sort for the use of such automobile;
+
+"non-owned automobile" means an automobile which is neither an owned automobile nor a hired automobile;
+
+"owned automobile" means an automobile owned by the named insured; . . ."
+
+[5]  "VI. ADDITIONAL CONDITION
+
+Excess InsuranceHired and Non-Owned Automobiles
+
+With respect to a hired automobile or a non-owned automobile, this insurance shall be excess insurance over any other valid and collectible insurance available to the insured."
+
+[6]  "II. PERSONS INSURED
+
+* * * * *
+
+None of the following is an insured:
+
+* * * * *
+
+(ii) The owner or lessee * * * of a hired automobile or the owner of a non-owned automobile, * * *."
+
+[7]  This treatment of Harris under the Hartford policy as both insured and not insured, depending upon the status considered, is not essential to the result of this case, for even if we treat Harris as not insured both as owner and as employee-driver, there remains exposure of Wiese vicariously for the negligence of its employee in the operation of the covered vehicle, and consequently direct liability of Hartford under its policy. The Hartford coverage in this circumstance as well, is excess only, since their insured Wiese has "other valid and collectible insurance available" [See Hartford's excess insurance provision, footnote 5] as an insured under the Employers' policy [See persons insured provision of the Employers' policy, footnote 10].
+
+[8]  For Hartford's excess clause see Footnote 5.
+
+Employers' pro-rata clause:
+
+"OTHER INSURANCE: If the insured has other insurance against a loss covered by Part 1 of this policy the company shall not be liable under this policy for a greater proportion of such loss than the applicable limit of liability stated in the declarations bears to the total applicable limit of liability of all valid and collectible insurance against such loss; provided, however, the insurance with respect to a temporary substitute automobile or non-owned automobile shall be excess insurance over any other valid and collectible insurance."
+
+[9]  The earlier referred to concession by counsel for the two insurers permitting an amendment of the judgment so as to afford plaintiff aggregate recovery of $30,000 did not include any stipulation to amend the judgment in any respect as relates to legal interest.
+
+[10]  "Persons Insured Part I Liability Coverage A
+
+a. With respect to the owned automobile:
+
+(1) The named insured and any resident of the same household . . .
+
+(3) Any other person or organization but only with respect to his or its liability because of the acts or omissions of an insured under a. (1) or (2) above." (Emphasis added)

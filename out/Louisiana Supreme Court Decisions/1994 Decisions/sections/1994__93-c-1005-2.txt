@@ -1,0 +1,66 @@
+93-C-1005
+Tarver v. EI Du Pont De Nemours and Co.
+https://law.justia.com/cases/louisiana/supreme-court/1994/93-c-1005-2.html
+
+93-C-1005
+Tarver v. EI Du Pont De Nemours and Co.
+Court: Louisiana Supreme Court
+Release date: 1994-03-24
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1994/93-c-1005-2.html
+
+634 So. 2d 356 (1994)
+
+Leon R. TARVER II, Secretary for the Department of Revenue and Taxation, State of Louisiana
+v.
+E.I. DU PONT DE NEMOURS AND COMPANY.
+
+No. 93-C-1005.
+
+Supreme Court of Louisiana.
+
+March 24, 1994.
+
+Marlon V. Harrison, Baton Rouge, Marlin N. Gusman, New Orleans, for applicant.
+
+Robert L. Roland, Watson, Blanche, Wilson & Posner, Baton Rouge, for respondent.
+
+DENNIS, Justice.[*]
+
+The Department of Revenue and Taxation (Department) brought this suit against E.I. Du Pont De Nemours and Company (Du Pont) to collect additional corporate franchise taxes for the year 1981. The case hinges on the correct interpretation of La.R.S. 47:604-05, and the Department's Rule 604, which govern the valuation of capital stock for the purpose of calculating corporate franchise taxes. The issue is whether the statutes and the rule require that capital stock must always be valued at least at book value, as the Department contends, or, when capital stock is issued in a tax free reorganization, valued at an amount equal to the basis of the assets received therefor, regardless of book value, as argued by Du Pont. The trial court rendered judgment in favor of the Department and against Du Pont for additional corporate franchise taxes. The court of appeal reversed, holding that the rule subjects the statutes to several interpretations, and that the one most favorable to the taxpayer must   be applied 616 So. 2d 216. Accordingly, the appeals court remanded the case to the trial court for a recalculation of the corporate franchise tax using the interpretation urged by Du Pont. We amend the court of appeal judgment to reinstate the trial court's decree.
+
+The amount of corporate franchise tax owed is based on the amount of the corporation's capital stock, surplus, undivided profits, and borrowed capital. La.R.S. 47:601 A. The method for determining the amount of capital stock is set forth in La.R.S. 47:604 which provides:
+
+La.R.S. 47:605 A provides in pertinent part:
+
+Pursuant to its rule-making power, the Department of Revenue and Taxation adopted Rule 604 to implement these statutes; Rule 604 provides in pertinent part:
+
+When a law is clear and unambiguous and its application does not lead to absurd consequences, the law shall be applied as written and no further interpretation may be made in search of the intent of the legislature. La.Civ.Code art. 9. This principle applies to tax statutes. W. Horace Williams Co. v. Cocreham, 214 La. 520, 38 So. 2d 157 (1949); McNamara v. U.O.P. Inc., 389 So. 2d 741 (La.App. 2nd Cir.1980), writ denied,
+396 So. 2d 898
+(1981); Davis, Administrative Law Treatise § 3 (3rd ed. 1994). It is only when there is reasonable doubt as to the meaning of a tax law that it should be strictly construed against the state and in favor of the taxpayer. Goudchaux/Maison Blanche, Inc. v. Broussard,
+590 So. 2d 1159
+(La.1991); Collector of Revenue v. Wells Fargo Leasing Corp.,
+393 So. 2d 1244
+(La.1981); Chicago Bridge & Iron Co. v. Cocreham,
+317 So. 2d 605
+(La.1975), cert. denied sub nom. Collector of Revenue of Louisiana v. Chicago Bridge & Iron Co., 424 U.S. 953, 96 S. Ct. 1427, 47 L. Ed. 2d 359 (1976); Brown v. LaNasa, 244 La. 314,
+152 So. 2d 33
+(1963); United Gas Corporation v. Fontenot, 241 La. 564,
+129 So. 2d 776
+(1961).
+
+With respect to the issue in the present case, La.R.S. 47:604 and 605 are clear and unambiguous and do not lead to absurd consequences. The statutes clearly provide that for the purpose of ascertaining corporate franchise taxes the collector may revise the value of capital stock upwards from book value and "in no event shall such value be less than is shown on the books of the taxpaying corporation." La.R.S. 47:604 and 605. Consequently, both the courts and the collector are bound by the text of the written law. Ramirez v. Fair Grounds Corp.,
+575 So. 2d 811
+(La.1991); Chevron v. Natural Resources Defense Council,
+467 U.S. 837
+, 104 S. Ct. 2778, 81 L. Ed. 2d 694 (1984); François Gény, Méthode d'Interprétation et Sources en Droit Privé Positif § 98 (Louisiana State Law Institute trans., 2d ed. 1954); see also Traigle v. PPG Industries, Inc.,
+332 So. 2d 777
+(La.1976); State v. Standard Oil Co. of Louisiana, 188 La. 978, 178 So. 601 (La.1937).
+
+When the Department's Rule 604 is interpreted consistently with the statutes, which are clear and unambiguous on the issue, it may be given only one reasonable meaning: In general, capital stock will be assigned the value reflected on the corporate books for purposes of calculating the tax. The collector shall increase this value, however, if necessary to reflect the true value of the stock. Id. 604.1. When capital stock has been issued in exchange for assets, to revise the stock value upwards from book value to reflect its true value for purposes of computing the tax, the collector shall give the stock a value equal to the fair market value of the assets received in exchange for the stock. Id. 604.2. Section 604.3 of the rule sets forth two additional methods that the collector shall follow in increasing the value of the stock from book value for tax computation purposes in certain stock exchange for assets situations. But in no case shall the stock be assigned a value for purposes of calculating the tax of less than its book value. Id. 604.1.
+
+Accordingly, the judgment of the court of appeal is amended to reinstate and affirm the trial court's judgment in full. As amended, the court of appeal judgment is affirmed.
+
+AFFIRMED AS AMENDED.
+
+[*]  MARCUS, J. not on panel. Rule IV, Part 2, § 3.

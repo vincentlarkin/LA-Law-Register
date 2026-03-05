@@ -1,0 +1,174 @@
+60711
+State v. Batiste
+https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-639-1.html
+
+60711
+State v. Batiste
+Court: Louisiana Supreme Court
+Release date: 1978-03-06
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-639-1.html
+
+363 So. 2d 639 (1978)
+
+STATE of Louisiana
+v.
+Phill BATISTE and Edward Lee.
+
+No. 60711.
+
+Supreme Court of Louisiana.
+
+March 6, 1978.
+
+On Rehearing October 9, 1978.
+
+Rehearing Denied November 9, 1978.
+
+William W. Miles, Porteous, Toledano, Hainkel & Johnson, New Orleans, for Phill Batiste.
+
+Barry F. Viosca, Orleans Indigent Defender Program, New Orleans, for Edward Lee.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Brian G. Meissner, Asst. Dist. Atty., for plaintiff-appellee.
+
+*640 DENNIS, Justice.
+
+Following a trial by jury the defendants, charged with distribution of heroin, La. R.S. 40:966, were found guilty of attempted distribution of heroin and sentenced to serve twenty years at hard labor. On appeal defendants rely upon four assignments of error which comprise two arguments for reversal of their convictions and sentences. For the reasons given below we affirm the conviction and sentence of Edward Lee and reverse the conviction and sentence of Phill Batiste.
+
+The key witness in the State's case against the defendants was Earl Brown. As part of a plea bargaining arrangement negotiated in federal court following his indictment on various drug charges, Brown agreed to become a "testifying informant" in federal and state drug prosecutions. Pursuant to this plea bargaining agreement, Brown was given $200 by police officers on December 18, 1975 in order to purchase heroin from the defendants. After the alleged heroin transaction transpired, to which there were no witnesses besides the participants, Brown turned over twenty-three packets of heroin to the police. The defendants were arrested shortly thereafter and charged with distribution of heroin on the basis of the transaction with Earl Brown.
+
+At trial the first witness to testify on behalf of the prosecution was Al Winters, an assistant United States attorney, who was involved in Earl Brown's plea bargaining arrangement in federal court. Winters testified that all counts except one were to be dismissed in exchange for Brown's testifying "completely and truthfully" in approximately thirty cases in state and federal courts. At the time of the present trial Brown had testified in two cases in federal court and fifteen cases in state court.
+
+One of the basic rules of evidence is that testimony which establishes the credibility of a witness is inadmissible until the credibility of that witness has been attacked. 4 J. Wigmore, Evidence, § 1104 (Chadbourn rev. 1972); C. McCormick, Evidence, § 49 (Cleary ed. 1972). Louisiana codifies this principle in La. R.S. 15:484, which provides:
+
+Various purposes are served by this rule. Wigmore suggests that witnesses are assumed to be of normal moral character for veracity. Therefore, as a corollary to this assumption, there is no reason why time should be consumed in proving that which is assumed to exist. It is only when credibility has been attacked that it becomes permissible to introduce evidence establishing credibility. 4 J. Wigmore, supra. See also, Homan v. United States, 279 F.2d 767 (8th Cir. 1960); cert. denied, 364 U.S. 866, 81 S. Ct. 110, 5 L. Ed. 2d 88 (1960); Comments, Federal Rule of Evidence 608(a)(2); cf. State v. Cato, 116 La. 195, 40 So. 633 (1906). In addition to insuring judicial efficiency, courts have recognized that an attempt to establish the credibility of a witness before that credibility has been assailed carries the inherent prejudicial danger of bolstering, in advance, a witness' testimony and increasing its probative strength with the jury. See, e. g., Perkins v. United States, 315 F.2d 120 (9th Cir. 1963); Homan v. United States, supra; Annotation, 15 A.L.R. 1065; 33 A.L.R. 1220.
+
+Although prejudicial error was committed through Winters' bolstering the credibility of Earl Brown before that credibility was assailed, defendants failed to object timely and to make known to the court the correct grounds therefor. Defendants allowed extensive testimony by Winters before finally objecting on the ground that it constituted opinion testimony. The tardiness of the objection and the failure to point out the true reason for the inadmissibility of the evidence thus obscured it from the court's view. An irregularity or error cannot be availed of after verdict unless it   was properly objected to at the time of its occurrence. La.C.Cr.P. art. 841.
+
+These assignments present the issue of whether the trial court erred in allowing Earl Brown to give testimony concerning defendant Batiste's past involvement with narcotics. The State contends that this testimony was admissible to rebut the defense of entrapment.
+
+During cross-examination of Brown, counsel for Batiste posed the following questions:
+
+On re-direct examination, over objection by defense counsel, the State elicited testimony from Brown that he and Batiste had spent time in jail together. Brown further testified that two months before the transaction for which the defendants were on trial, Batiste agreed to sell him some heroin and that Batiste made arrangements for a sale. However, this sale apparently was never consummated. The record does not indicate that the previous episodes of criminal activity and incarceration were connected with the offense on trial in the instant case.
+
+Under the generally accepted view an entrapment is perpetrated when a law enforcement official or a person acting in cooperation with such an official, for the purpose of obtaining evidence of the commission of an offense, solicits, encourages, or otherwise induces another person to engage in conduct constituting such offense when he is not then otherwise disposed to do so. ALI Model Penal Code, Tentative Draft, § 2.10;[1] W. LaFave and A. Scott, Criminal Law, § 48 (1972). This view, which has been labeled the "subjective" or "origin of intent" test for entrapment, reflects the views espoused in majority opinions of the United States Supreme Court, Hampton v. United States,
+425 U.S. 484
+, 96 S. Ct. 1646, 48 L. Ed. 2d 113 (1976); United States v. Russell,
+411 U.S. 423
+, 93 S. Ct. 1637, 36 L. Ed. 2d 366 (1973); Sherman v. United States,
+356 U.S. 369
+, 78 S. Ct. 819, 2 L. Ed. 2d 848 (1958); Sorrells v. United States,
+287 U.S. 435
+, 53 S. Ct. 210, 77 L. Ed. 413 (1932). The lower federal courts are in accord. See, e. g., United States v. Esquer-Gamez, 550 F.2d 1231 (9th Cir. 1977); United States v. Garcia, 546 F.2d 613 (5th Cir. 1977); United States v. Russo, 540 F.2d 1152 (1st Cir. 1976); United States v. Jackson, 539 F.2d 1087 (6th Cir. 1976). It is so called because it focuses attention on the defendant's predisposition to commit the offense as well as the actions of law enforcement officials. The inquiry under this test goes beyond the fact that criminal conduct was committed at the instance of law enforcement officials. Once government instigation is shown, the inquiry focuses upon the predisposition of the defendant. Under this test, the ultimate question is whether the inducement by the officers or the defendant's own predisposition caused the criminal conduct in question. See, 2 R.   Cipes, Criminal Defense Techniques, §§ 30.01 et seq. (1976). States are not presently required by the federal constitution to recognize entrapment as a defense,[2] but almost all have done so with a majority applying the "subjective" approach.[3]
+
+The United States Supreme Court has adhered to the "subjective" approach over the years despite strong dissents and concurrences which advocate that the focal point of the entrapment defense should be whether the government conduct in question can be countenanced by the court. See, Sorrells v. United States, supra (concurring opinion by Justice Roberts, joined by Justices Brandeis and Stone); Sherman v. United States, supra (concurring opinion by Justice Frankfurter, joined by Justices Douglas, Harlan and Brennan); United States v. Russell, supra (dissenting opinion by Justice Douglas with whom Justice Brennan concurred; dissenting opinion by Justice Stewart, joined by Justices Brennan and Marshall); Hampton v. United States, supra (dissenting opinion by Justice Brennan, joined by Justices Stewart and Marshall). Many commentators agree with the minority or "objective" view. It holds that, since the rationale of the entrapment defense is to deter improper police practices, the character or disposition of the defendant is irrelevant. See Comment, Entrapment: A Critical Discussion, 37 Mo.L.Rev. 633 (1972); Comment, The Defense of Entrapment: Next MoveDue Process?, 1971 Utah L.Rev. 266 (1971); Comment, The Viability of the Entrapment Defense in the Constitutional Context, 59 Iowa L.Rev. 655 (1974). The ALI Model Penal Code, POD § 2.13 and some state courts have adopted this minority view. See, e. g., State v. Mullen,
+216 N.W.2d 375
+(Iowa 1974); Grossman v. State,
+457 P.2d 226
+(Alaska 1969).
+
+This Court has recognized the defense of entrapment and has focused its attention on the predisposition of the defendant to commit the crime at issue as well as the conduct of the police. See, e. g., State v. Harrington,
+332 So. 2d 764
+(La.1976); State v. Kelly, 263 La. 545,
+268 So. 2d 650
+(1972); State v. Turner, 241 La. 94,
+127 So. 2d 512
+(1961).
+
+If a defendant chooses to pursue the defense of entrapment evidence of other criminal activity on his part may become relevant in determining whether the defendant had the predisposition to commit the present crime. In Sorrells v. United States, supra, the Court recognized the relevancy of such evidence:
+
+The issue of introducing evidence of other criminal activity on the part of the defendant in order to rebut a defense of entrapment apparently has not been decided by this Court. A survey of the jurisprudence from other states and the federal courts indicates an adherence to the views espoused in Sorrells, supra. An overwhelming majority of courts are of the view that such evidence is admissible because of its relevance to the issue of the defendant's predisposition to commit the crime. See, e. g., United States v. McCord, 509 F.2d 891 (7th Cir. 1975); United States v. Hawke, 505 F.2d 817 (10th Cir. 1974); cases cited in Wharton's Criminal Evidence, § 258 n. 11; Annotation, Admissibility of Evidence of Other Offenses in Rebuttal of Defense of Entrapment, 61 A.L.R.3d 293.
+
+However, in recognition of the danger that the trier of fact may place undue emphasis on the evidence of other criminal activity and perhaps judge the defendant guilty on the basis of this other evidence, courts have wisely determined that the introduction of such evidence must be controlled in a reasonable manner. See, United States v. Johnston, 426 F.2d 112 (7th Cir. 1970); Hansford v. United States, 112 U.S. App.D.C. 359, 303 F.2d 219 (1962). Thus, as a threshold requirement, the evidence is not admissible unless it has been demonstrated clearly that the entrapment defense will be invoked. Anticipation by the State that such a defense may be raised is not a sufficient basis for admission of such evidence. See, e. g., United States v. McCord, 509 F.2d 891 (7th Cir. 1975); United States v. Sherman, 240 F.2d 949 (2d Cir. 1957), revd. other grounds,
+356 U.S. 369
+, 78 S. Ct. 819, 2 L. Ed. 2d 848 (1958); Walls v. State,
+326 So. 2d 322
+(Miss.1976); People v. Mann, 31 N.Y.2d 253, 336 N.Y.S.2d 633, 288 N.E.2d 595 (1972). ALI Model Penal Code, Tentative Draft, § 2.10.
+
+Assuming that the defendant chooses to raise an entrapment defense, other crimes evidence utilized by the State must be of a similar character of the offense for which the defendant is on trial. See, e. g., State v. Matheson,
+363 A.2d 716
+(Me.1976). Another factor which the trial court should consider in determining whether the evidence is to be admissible is the remoteness in time of the offenses. See, White v. United States, 390 F.2d 405 (6th Cir. 1968); Hansford v. United States, 112 U.S.App. D.C. 359, 303 F.2d 219 (1962). Moreover, the trial judge must consider whether, under the circumstances of the case, the evidence, even though relevant, should be excluded because its prejudicial effect outweighs the probative value on the issue of predisposition.[4]
+
+Applying these principles to the instant case we conclude that the trial court erred in allowing introduction of evidence pertaining to Batiste's past criminal activity during the State's case in chief. It was not "clear that the defense of entrapment [would] be invoked." ALI Model Penal Code, Tentative Draft, § 2.10. In his opening statement the defendant's counsel challenged the credibility of the State's informant-agent, Earl Brown, but he did not contend that his client had been unlawfully entrapped. Instead of denouncing the police conduct in his opening statement, the attorney made it clear that he did not intend to criticize law enforcement officials. Although testimony was educed from Earl Brown on cross-examination that he initiated the transaction by asking Batiste and Lee if they could get him a bundle of heroin, the same testimony had been elicited from him on direct examination by the   prosecuting attorney. No follow-up questions were asked in an attempt to show reluctance on the part of Batiste to indicate trickery, persecution or overreaching by Brown. The great majority of the cross-examination was directed to other aspects of Brown's direct testimony. Under these circumstances it was far from being clear that the defendant intended to invoke the defense of entrapment. In contrast, see, People v. Mann, 31 N.Y.2d 253, 336 N.Y.S.2d 633, 288 N.E.2d 595, 61 ALR3d 286 (1972). Therefore, the trial court erred when it permitted the evidence relating to the defendant Batiste's criminal predisposition to be introduced in the State's direct case.[5]
+
+We are unable to detect that defendant Lee suffered any prejudice from the impermissible testimony concerning the criminal predisposition of Batiste.
+
+Accordingly, for the reasons assigned the conviction and sentence of defendant Lee are affirmed and Batiste's conviction and sentence are reversed and remanded.
+
+SANDERS, C. J., and SUMMERS, J., concur in affirming the conviction of Lee but dissent from the reversal of the conviction of Batiste.
+
+MARCUS, J., concurs in part and dissents in part and assigns reasons.
+
+MARCUS, Justice (concurring in part and dissenting in part).
+
+I concur in the affirmance of Lee's conviction and sentence. I dissent from the reversal of Batiste's conviction and sentence. I consider that defendant Batiste sufficiently invoked the defense of entrapment during his cross-examination of Brown to permit the state on redirect to show Batiste's predisposition to commit the crime. In any event, the alleged error was harmless. La.Code Crim.P. art. 921.
+
+CALOGERO, Justice.
+
+We granted rehearing to reconsider our determination that the trial court erred in allowing the state's key witness, Earl Brown, to testify concerning an unrelated instance prior to the crime charged when defendant had agreed to sell him heroin and made arrangements for the sale.
+
+The majority opinion on our original hearing correctly recognized the general rule that, when entrapment is a defense, the prosecution may introduce evidence of other criminal activity to show the defendant's predisposition to commit the crime. That opinion went on to conclude that at the point in the trial when the judge permitted exploration of defendant's prior criminal activity (state re-direct examination of the key state witness on the state's case in chief) it had not yet been made sufficiently clear that the defendant intended to invoke the defense of entrapment. It is this latter narrow determination as to which we conclude differently upon this rehearing.
+
+The specific ruling about which defendant complained was that which permitted Brown to testify that about two months before the sale which was the subject of this prosecution he and Batiste had made arrangements (apparently not thereafter consummated) for a Batiste to Brown sale; that Batiste told Brown that he would sell him heroin.
+
+This testimony, given by the state's key witness in redirect examination during presentation of the state's case in chief immediately followed defense cross-examination of the same witness during which the defense stressed the point that it was not Batiste who had initiated the charged sale to Brown, but just the reverse:
+
+The defense had earlier established that Brown had also tried to arrange a heroin transaction with two other persons by prompting them to buy narcotics for him just hours before the contact with Batiste which resulted in the charged distribution. Brown was questioned on cross-examination as follows:
+
+Furthermore the repeated admissions by Brown during cross-examination that he initiated arrangements for heroin transactions were not too far removed in time from the defense opening statement, wherein Batiste's counsel set the stage for the entrapment defense when he directed the jury's attention to Brown's description of how he conducted his "under cover" activity.
+
+In view of what had transpired at trial before the judge was called upon to rule on the admissibility of the prior criminal activity, and in light of the fact that entrapment is an evidentiary defense under a plea of not guilty (there is no authority for a special plea raising the issue, or defense), we now conclude that the trial judge did not err in permitting testimony concerning the prior criminal conduct, for it indeed was sufficiently clear to the trial judge that entrapment as a defense was being, and would thereafter continue to be, urged and relied upon as a defense.[1]
+
+Because we find that defense counsel clearly exhibited an intention to advance a defense of entrapment before the state questioned the witness Brown about Batiste's involvement in an earlier narcotics arrangement, we decide that the trial court did not err in allowing that evidence. It was permissible. And it was pertinent to whether the sale in question was caused by defendant's own predisposition, or by inducement by the undercover agent.
+
+In all respects other than the vital conclusion discussed hereinabove, we subscribe to   the principles enunciated in our opinion on original hearing. In particular we endorse the earlier reliance on, and application of, the principles in Sorrells v. United States,
+287 U.S. 435
+, 53 S. Ct. 210, 77 L. Ed. 413 (1932). Applying all the restrictions which we determined on original hearing are to be attendant upon application of the Sorrells rule of admissibility we are of the view that the trial judge's ruling was correct.
+
+For the aforestated reasons, defendant Batiste's conviction and sentence are affirmed.
+
+AFFIRMED.
+
+DIXON, Justice (dissenting).
+
+I respectfully dissent.
+
+On original hearing this court reversed the conviction of Phill Batiste, holding that before the State may introduce evidence of other criminal activities to rebut a defense of entrapment, that defense must first be clearly raised and at issue. We found that Batiste had not clearly raised that defense and reversible error was committed when the evidence of prior criminal conduct was admitted. The State applied for a rehearing, arguing that this court erred in determining that the defense had not been raised in view of the fact that entrapment was a defense at an earlier trial which ended in a mistrial. We granted this rehearing to consider the effect of the earlier trial on our original determination.[1]
+
+In defendant's first trial the jury was unable to reach a verdict. A mistrial was ordered pursuant to C.Cr.P. 775(2) and a new trial was set. Just as in cases in which a motion for new trial is granted or when a conviction is overturned on appeal, the defendant was entitled to a new trial conducted as if there had been no previous trial. This principle was well stated in State v. Hornsby, 8 Rob. 583, 587 (1845):
+
+This principle has been repeated in later cases (see, e. g. State v. Lee,
+346 So. 2d 682
+(La.1977); State v. Reed,
+324 So. 2d 373
+(La.1975)) and remains the governing rule today, codified in C.Cr.P. 857:
+
+The granting of the mistrial afforded the defendant the right to a new trial unencumbered by what had occurred in the previous trial. It is a natural corollary that the defendant is likewise not bound to advance the same defenses or employ the same trial tactics at the second trial. Changes in circumstances, such as the availability of state or defense witnesses, might inspire significant changes in trial strategy and tactics in the second trial. The fact   that the defendant raised the issue of entrapment does not demonstrate clearly that the entrapment defense will be invoked at the second trial. As stated in our original opinion, "Anticipation by the State that such a defense may be raised is not a sufficient basis for admission of such evidence."
+
+Due to its inherently prejudicial nature, the use of evidence of other criminal conduct must be severely restricted. It is largely for this reason that we should reaffirm our holding on original hearing that the defendant must clearly raise the issue of entrapment before the State may rebut that defense with evidence of other criminal acts which demonstrate the defendant's predisposition to commit the crime for which he is being tried. In the present case the defendant did not clearly raise the defense at the second trial; the fact that the defense was raised at a prior trial is not a clear demonstration that it will be raised again. The trial court therefore committed reversible error by allowing, over defense objection, the introduction of evidence of other criminal conduct before it was clear that the defendant intended to rely on a defense of entrapment.
+
+We should reinstate our former judgment.
+
+DIXON, J., dissents with reasons.
+
+DENNIS, J., dissents for reasons assigned in original opinion and by DIXON, J.
+
+TATE, J., dissents for reasons assigned by DIXON and DENNIS, JJ.
+
+[1]  In the Proposed Official Draft of the Model Penal Code the ALI departs from the generally accepted "subjective" view of entrapment and apparently adopts the "objective" view. See ALI Model Penal Code, POD § 2.13. For definitional purposes and comments pertaining to the generally accepted "subjective" view of entrapment, we have used the Tentative Draft.
+
+[2]  See, United States v. Russell, supra; State v. Nelsen,
+228 N.W.2d 143
+(S.D.1975); 2 R. Cipes, Criminal Defense Techniques, § 30.04 (1976).
+
+[3]  See, Annotation, 61 A.L.R.3d 293; Comment, Entrapment: A Critical Discussion, 37 Mo.L. Rev. 633 (1972).
+
+[4]  In State v. Matheson, supra, the Court pointed out other available methods of showing a defendant's predisposition to commit the offense in drug cases: the absence of nagging persistence on the part of the government agent; knowledge of the place where drugs may be obtained; an acquaintance with a person having a drug supply.
+
+[5]  "The long established rule forbids the prosecution, unless and until the accused gives evidence of his good character, from initially introducing evidence of the bad character of the accused, including evidence of his other criminal acts. Accordingly, the prosecution may not introduce evidence of other criminal acts of the accused unless the evidence is substantially relevant for some other purpose than to show a probability that he committed the crime on trial because he is a man of criminal character. McCormick on Evidence, § 190 (Cleary ed. 1972); Wigmore on Evidence, §§ 55, 57 (3d Ed. 1940)." State v. Sutfield and Phillips,
+354 So. 2d 1334
+(La.1978), No. 60,520.
+
+[1]  While noteworthy we find it unnecessary to rely upon the fact that the same defendant, same defense lawyer and same trial judge had participated in an earlier trial of the same offenseresulting in a mistrialin which entrapment had been urged as a defense.
+
+[1]  An application for rehearing by codefendant Lee was denied.

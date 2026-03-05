@@ -1,0 +1,91 @@
+56501
+State Ex Rel. Bertrand v. Hunt
+https://law.justia.com/cases/louisiana/supreme-court/1976/325-so-2d-788-1.html
+
+56501
+State Ex Rel. Bertrand v. Hunt
+Court: Louisiana Supreme Court
+Release date: 1976-01-19
+Author: SANDERS, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/325-so-2d-788-1.html
+
+325 So. 2d 788 (1976)
+
+STATE of Louisiana ex rel. Theda BERTRAND
+v.
+Elayn HUNT, Director, Dept. of Corrections, et al.
+
+No. 56501.
+
+Supreme Court of Louisiana.
+
+January 19, 1976.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie Brown, Dist. Atty., James E. Boren, Asst. Dist. Atty., for defendant-respondent.
+
+Vincent Wilkins, Jr., Director, Roland T. Huson, III, Appellate Counsel, Baton Rouge, for plaintiff-relator.
+
+SANDERS, Chief Justice.
+
+Relator, Theda Bertrand, applied to this Court for habeas corpus relief, complaining that her detention in St. Gabriel Prison is illegal because her parole was automatically revoked without a final revocation hearing. We granted her writ to determine whether the procedure followed by the State in revoking her parole constituted sufficient compliance with the requirements set forth by the United States Supreme Court in Morrissey v. Brewer, 408 U.S. 475, 92 S. Ct. 2593, 33 L. Ed. 2d 484 (1972), La., 317 So. 2d 624 (1975). We find that the State's procedure satisfied the due process requirements and, accordingly, recall the writ.
+
+Relator was convicted of four counts of issuing worthless checks and two counts of abortion. In 1969, the court sentenced her to serve a total of six years imprisonment on these convictions. She was paroled on June 29, 1971, and while on parole she was arrested on October 4, 1973, and charged with transporting forged travelers' checks in violation of a federal criminal statute. On October 17, 1973, a preliminary hearing was held and probable cause was found to believe that relator had violated the condition   of her parole, specifying that she refrain from criminal conduct. See also LSA-R.S. 15:574.4(H), the statutory embodiment of that condition. On January 28, 1974, relator pleaded guilty to the federal charge in the United States District Court for the Eastern District of Louisiana. The court sentenced her to six months imprisonment subject to the state court detainer on the parole revocation, and then suspended the sentence, placing her on federally supervised probation for eighteen months. On August 14, 1974, relator's Louisiana parole was automatically revoked pursuant to LSA-R.S. 15:574.10, and she returned to St. Gabriel Prison to serve the remainder of her six-year sentence.
+
+Defense counsel concedes that the preliminary hearing satisfied the requirements delineated for that stage of the proceedings in Morrissy v. Brewer. Therefore, the only question before us is whether, when parole has been revoked automatically because of a conviction of another offense, Morrissey nevertheless requires a second, final revocation hearing. We resolved this question adversely to the position of relator in State ex rel. (Richard) Bertrand v. Hunt, La.,
+308 So. 2d 760
+(1975). That holding controls the disposition of the present case.
+
+Morrissey v. Brewer is easily distinguished from the case sub judice. In Morrissey, the petitioners were at liberty on parole when, at the direction of their parole officers, they were arrested for parole violations and incarcerated. The parole violations in Morrissey were not commissions of criminal offenses. Subsequently, without a hearing in any forum, petitioners' paroles were revoked solely on the basis of their parole officers' reports.
+
+The United States Supreme Court found that this procedure did not meet the requirements of Due Process of the Fourteenth Amendment, and proceeded to establish minimal due process guidelines for preliminary and final hearings to determine whether a parolee has violated his parole, and if so, whether that violation warrants revocation of the parole. However, the Court recognized that "not all situations calling for procedural safeguards call for the same kind of procedure," and declared that its goal in establishing the guidelines was to outline an
+
+The Court asserted that the purpose of a final revocation hearing is to:
+
+The Court, however, stated:
+
+In State ex rel. (Richard) Bertrand v. Hunt, supra, we interpreted the foregoing language to dispense with the requirement of a second hearing when the parole violation consists of an out-of-state conviction for a criminal offense.
+
+In the present case, since the conviction was in Louisiana, the statute itself serves to buttress our decision that the requirements   of due process have been satisfied. Relator has had an opportunity to be heard in "another forum," the federal court, in which the procedural safeguards are much more stringent than in an informal revocation hearing. Relator's guilty plea obviates any factual issue.
+
+LSA-R.S. 15:574.10 provides:
+
+Under the statute, the conviction itself is conclusive that relator committed acts that per se constitute a violation of parole. The mandatory language precludes the exercise of discretion on the part of the parole board. Hence, in the present case, a second revocation hearing would serve no useful purpose.
+
+We hold, as did the trial judge, that in the procedures followed, relator was denied no constitutional rights.
+
+For the reasons assigned, the judgment of the district court is affirmed and the writ is recalled.
+
+TATE, J., dissents and assigns written reasons.
+
+CALOGERO, J., dissents for the reasons assigned by TATE, J.
+
+TATE, Justice (dissenting).
+
+I respectfully dissent.
+
+No disastrous consequences will ensue because the petitioner is denied a parole revocation hearing to which she is constitutionally entitled but to which (probably) she has no defense. (Nor will disastrous consequences ensue if, before her parole is finally revoked, she is given the hearing to which she is constitutionally entitledto show, for instance, that the convictions were of another person of the same name.)
+
+The majority frankly realizes that Morrissey v. Brewer,
+408 U.S. 471
+, 92 S. Ct. 2593, 33 L. Ed. 2d 484 (1972) requires (a) not only a minimal due process preliminary hearing when the parolee is initially detained, but (b) also an opportunity for a hearing prior to the final decision of revocation by the parole authority. 92 S. Ct. 2602-03. The minimal due process requirements of this latter limited inquiry include notice of the claimed parole violations and an opportunity to be heard in person or to present witnesses before a neutral hearing agency, such as the parole board. 93 S. Ct. 2604.
+
+In the present case, the majority holds that the conviction itself is sufficient to satisfy this last requirement of a hearing before final revocation. It points out that no useful purpose will be served by a revocation hearing because the conviction itself resulted in automatic revocation under La. R.S. 15:574.10, without available defense. If I read Morrissey right, due process nevertheless requires the opportunity for a hearing that in fact the circumstance (conviction of another offense) did occur that now results in revocation of probation.
+
+Such a hearing, independent of the conviction itself, was in fact afforded in State ex rel. (Richard) Bertrand v. Hunt,
+308 So. 2d 760
+(La.1975). The majority correctly notes, however, that this was in the nature of a preliminary hearing to decide whether a Louisiana detainer against the relator, therein a Texas prison, should be removed. Nevertheless, at the present preliminary hearing, the convictions upon which the revocation is here based were not at issue. There has thus been no hearing at all on the present cause of revocation, unlike in the cited decision.
+
+Our statute permitting automatic revocation of a parole without a hearing, La.R.S. 15:574.10, thus violates the minimal due   process hearing required by Morrissey v. Brewer. The United States Supreme Court's interpretation of the federal constitution is binding upon this court.
+
+The primary purpose of this dissent is to alert the administrative agency to the serious constitutional issue as to the requirement of a revocation hearing under present circumstances.
+
+Initially, I must confess that the result of the majority appeared practical to me. It would avoid administrative hearings which, for the most part, would be pro forma presentation of certified copies of convictions, without the parolee having any real defense of which he is deprived by no hearing. In the rare case of administrative errormistaken identity, incorrect records, the postconviction remedy in the courts could afford relief.
+
+Upon reflection, however, I now incline to the view that affording an opportunity for an administrative hearing before final revocation might be practically advisable, as well as constitutionally required.
+
+The minimal due process showing and defense required for this limited inquiry does not appear to constitute any heavy burden, when (and if) a parolee avails himself of an opportunity for a hearing, if afforded. On the other hand, where in fact there may be a defense (such as mistaken identity of records), the most efficient forum to test this should be the initial administrative board.
+
+If no such administrative remedy is provided, resort to cumbersome and dilatory postconviction judicial proceedings is required, with dissipation of the efforts of the already overburdened judicial machinery required to correct an administrative error that preferably and more quickly and efficiently could have been corrected by administrative proceedings.
+
+For these reasons, I respectfully dissent.

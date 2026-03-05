@@ -1,0 +1,107 @@
+84-C-0076
+Roy v. USAA Cas. Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1984/84-c-0076-1.html
+
+84-C-0076
+Roy v. USAA Cas. Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1984-06-25
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1984/84-c-0076-1.html
+
+453 So. 2d 564 (1984)
+
+Albert L. ROY, Jr.
+v.
+U.S.A.A. CASUALTY INSURANCE COMPANY.
+
+No. 84-C-0076.
+
+Supreme Court of Louisiana.
+
+June 25, 1984.
+
+James L. Babin, Lake Charles, for applicant.
+
+Thomas W. Sanders, Sanders & Foreman, Lake Charles, for respondent.
+
+CALOGERO, Justice.
+
+In this case, we examine the language contained in a settlement and release executed by an automobile accident/tort victim in order to determine whether the release expressly reserved his right to sue other parties (potentially liable co-debtors, who, for purposes of our consideration are solidary obligors) for his damages which are in excess of the recovered limits of the tortfeasor's liability insurer's policy. Both lower courts ruled in favor of the ostensibly released co-debtor (a UMI carrier), and dismissed the plaintiff's suit on a motion for summary judgment, reasoning that the release of one co-debtor in solido released all co-debtors in solido. Upon review and for the following reasons, we reverse, finding an express reservation in the release executed by plaintiff.
+
+Our only concern in this case is whether or not La.C.C. art. 2203 and its requirement of an express reservation can be used by this uninsured/underinsured motorist carrier as a defense against this insured's claim. To the extent that the UMI carrier is a solidary obligor along with the tortfeasor   (if that is indeed the case, and we presuppose for sake of argument in this case that it is so), we do not here find that the UMI carrier was released by the document executed by the victim in favor of the tortfeasor and her insurer, because we find an express reservation therein.
+
+We are not oblivious to the myriad problems attending the legal and contractual relationship of victim, tortfeasor and uninsured/underinsured motorist insurance carrier. We do not, as a consequence, purport to resolve all questions which might emanate therefrom. For instance, we do not in this opinion decide whether or under what circumstances the UMI carrier might somehow be barred from collecting whatever it has to pay, against the uninsured/underinsured motorist. See Pace v. Cage,
+419 So. 2d 443
+(La.1982) which held that an uninsured motorist carrier cannot recover from a tortfeasor when the insured had completely discharged the tortfeasor before the uninsured motorist carrier made any payment to the insured, because the insured had no rights against his former debtor to subrogate to the insurer. See also Bond v. Commercial Union Assurance Co.,
+407 So. 2d 401
+, 402 (La.1981) (On Rehearing) wherein all claims were litigated and no releases granted, and we found that the defendant/third party/plaintiff/UMI carrier was entitled to judgment against the tortfeasor because of a conventional subrogation in its policy. Nor do we worry here about whether the victim who releases the tortfeasor and then tries to recover against the UMI carrier is deprived of doing so (aside from any principles of solidary obligation) simply because by releasing the tortfeasor he interfered with any contractual or statutory rights of the UMI carrier to recover monies paid under his policy. La.R.S. 22:1406(D)(4). Finally we do not answer here the question on which we granted writs in five other cases recently, (see note 1 infra) about whether a victim who has released the tortfeasor without any reservation against other parties is then precluded from suing his UMI carrier because of principles of solidary obligation, and particularly La.C.C. art. 2203.
+
+As earlier indicated, all we are going to address in this opinion is whether there is, in the release before us, language which expressly reserves to relator the right to seek further compensation for damages from other parties. With that qualification, we examine the facts and very narrow issue presented in the case before us now.
+
+On January 8, 1981, Mr. Albert L. Roy, Jr. was involved in an automobile accident caused solely by the negligence of Dora G. Melancon. On April 10, 1981, Roy settled his claim with, and granted a release to, Dora Melancon and her insurer Hartford Accident and Indemnity Company, in exchange for ten thousand dollars ($10,000), the maximum limits of her liability insurance policy. Thereafter Roy filed suit against United Services Automobile Association-Casualty Insurance Company (hereinafter USAA-CIC), his uninsured and underinsured motorist insurer, claiming that the amount recovered from Melancon and Hartford as a result of the accident was not adequate compensation for his personal injuries. Pursuant to a Motion for Summary Judgment, USAA-CIC pleaded in a second supplemental and amended answer the prior release and settlement as a bar to relator's lawsuit on the theory that the release of a solidary obligor (Dora Melancon and Hartford Accident and Indemnity Company), without an express reservation of rights, resulted in the release of USAA-CIC.
+
+USAA-CIC's Motion for Summary Judgment was granted and Roy's suit was dismissed with prejudice. In his reasons, the trial judge found that USAA-CIC was a solidary obligor with Dora Melancon and her insurer and, because Roy did not reserve his rights against USAA-CIC in his settlement and release of Melancon and Hartford, he was barred from any recovery from USAA-CIC.
+
+Plaintiff appealed the dismissal, contending that the release signed by him was restrictive and did not release other solidary obligors. The Third Circuit Court of   Appeal affirmed the lower court's decision. 442 So. 2d 1303 (La.App. 3 Cir.1983). Following that affirmance, we granted writs. 445 So. 2d 430 (La.1984).
+
+Both lower courts found this case controlled by Hoefly v. Government Employees Insurance Company,
+418 So. 2d 575
+(La.1982) wherein we found the tortfeasor and UMI carrier were liable in solido, at least for the purpose of allowing an interruption of prescription.[1] In this application, relator does not protest that there is no solidary obligation between the tortfeasor and the UMI carrier. The relator argues instead that the lower courts erred in concluding that the release of the solidary obligor did not contain a reservation of rights against USAA-CIC.
+
+The release and settlement agreement executed by Roy, Melancon and Hartford Accident and Indemnity Company reads in pertinent part as follows:
+
+It is the italicized portion of the release, above, that relator suggests expressly reserves his right to proceed against another co-debtor in solido (USAA-CIC here) for his damages in excess of the $10,000 settlement. We determine that the italicized portion has the effect of an express reservation against other co-debtors in solido under La.C.C. art. 2203 and the jurisprudence. USAA-CIC was not thereby released. Suit against USAA-CIC will therefore be allowed.
+
+La.C.C. art. 2203 provides:
+
+Concerning what constitutes an express reservation of rights contained in a release under La.C.C. art. 2203, we said in Cusimano v. Ferrara, 170 La. 1044, 129 So. 630 at 632 (1930):
+
+In Cusimano, there were involved seven indorsers on a note and two separate releases of two co-debtors. One release of one of the co-debtors (Paolo Nicolosi) was made "with full and complete reservation of all my rights against all of the judgment debtors in said suit." In the other release of one Vincenzo Nicolosi, plaintiff authorized as well the cancellation of a mortgage as to certain property of one V.S. Dantoni, but "in all other respects the said judgment is to remain in full force and effect." This Court concluded that these releases did not have the effect of releasing Dantoni, stating at 129 So. 630:
+
+See also Honeycutt v. Town of Boyce,
+341 So. 2d 327
+(La.1977) and the cases cited therein. 341 So. 2d  at 331.
+
+Although this Court has not recently had to decide what manner of expression fits the La.C.C. art. 2203 requirement for reservation of rights against an uninsured/underinsured motorist carrier, the Fourth Circuit Court of Appeal has. In Dobard v. State Farm Insurance Company, 437 So. 2d 366 (La.App. 4th Cir.1983), an automobile accident victim, who had settled with the tortfeasor and the tortfeasor's insurer for the policy limits, sought to collect the balance of her damages from her uninsured/underinsured motorist carrier. The trial court dismissed the case because of an absence of an "express" reservation.
+
+The plaintiff appealed to the Fourth Circuit arguing that "her scratching out of the phrase `... and all other persons, firms and corporations ...' [in her release and settlement with the tortfeasor] negated any intent to release the other co-debtor in solido (State Farm), and was therefore sufficient to meet the codal requirement of LSA-C.C. Art. 2203." 437 So. 2d  at 367. The appellate court agreed with plaintiff[2] and reversed, finding:
+
+In like manner we now examine the language in this release to see if there is therein "the clearly expressed intention [on the part of the victim] not to abandon a right [to seek further compensation for the accident]" which qualifies as "a clearly expressed intention to reserve it." Cusimano, 129 So.  at 630.
+
+The document is entitled "Release and Settlement of Claim." As noted earlier in this opinion the first sentence of the release specifically discharged Melancon and Hartford. By its terms, however, only Dora and Hartford (and no one else) are released. Then, immediately following the sentence releasing Melancon and Hartford, there is expressed:
+
+*568 There would be no reason for that language were it intended that the signatory to that agreement [Roy] would thereafter be forever precluded from seeking from "other parties responsible to me/us ... damages as a result of this accident."
+
+We find that just as the deletion in Dobard made it evident that the victim was not admitting full compensation by the settlement, and that she might, or intended to, proceed against others, so too the inclusion of the language in the release before us makes it evident that Roy was not admitting full compensation by the settlement and was reserving the right to proceed against others. Applying La.C.C. art. 2203, there is in this release and settlement a clear expression of an intention on the part of the relator not to abandon any rights which he had against "other parties responsible to me." [In this case it turned out to be his uninsured/underinsured motorist carrier]. There is in this release and settlement, therefore, a clearly expressed intention to reserve plaintiff's rights against co-debtors in solido.
+
+Furthermore the reservation in this case is not just an acknowledgment that there are other possibly outstanding claims against other parties. It also sets out the consequence in the event "other parties are responsible." The consequence of releasing Dora and Hartford, stated in this agreement, is that in the event damages are received from other parties, by the victim, any claim those other co-debtors might have against the tortfeasor is satisfied "to the extent of the pro-rata share of the parties herein." This consequence is analogous to a "deduction of the part of him to whom he has made the remission," the result dictated by La.C.C. art. 2203 when rights have been reserved against solidary co-debtors.
+
+We find, therefore, in the release and settlement executed by Roy with Melancon and Hartford the express reservation of rights required by La.C.C. art. 2203. Consequently plaintiff did not release USAA-CIC when he released Melancon and Hartford.
+
+For the foregoing reasons the trial court's granting the Motion for Summary Judgment on behalf of USAA-CIC and the Court of Appeal affirmance of that judgment are reversed and the motion denied. The case is remanded to the district court for further proceedings.
+
+REVERSED; REMANDED.
+
+BLANCHE, J., dissents and assigns reasons.
+
+BLANCHE, Justice (dissenting).
+
+The majority correctly cites Cusimano v. Ferrara, 170 La. 1044, 129 So. 630 (1930), for the proposition that an express reservation of rights against solidary debtors contained in a release may be inferred, in satisfaction of C.C. art. 2203, when the language in the release clearly expresses an intention to so reserve those rights. Unfortunately, the majority then ignores the "clearly expressed intention to reserve it" language in Cusimano, 129 So.  at 632, by finding language which acknowledges the possibility of other existing solidary debtors to constitute an intent to reserve rights against those solidary debtors.
+
+The test laid down in Cusimano is whether there is a clear intent to reserve rights exhibited in the release language. Clarity of intent to reserve rights is conspicuous in the instant language only by its absence. La.C.C. art. 2203 dictates that there must be an express reservation of rights against all solidary debtors not meant to be released.
+
+The Cusimano case recognized the inequity and inherent unfairness of requiring stringent, technical language to accomplish a reservation of rights. At the same time, it recognized that the language of C.C. art. 2203 requires more than a mere recognition that other debtors may exist. There must be "a clearly expressed intention to reserve" rights against the solidary debtor. 129 So.  at 632. (Emphasis added). A "clearly expressed intention to reserve a right" necessarily requires a clearly expressed   recognition that there exists a party against whom that right is to be reserved. The release now before us recognizes only the possibility that other debtors exist. It states: "[I]n the event other parties are responsible to me/us for damages..."
+
+While I do not agree with Hoefly v. Government Employees Insurance Company,
+418 So. 2d 575
+(La.1982), that the tortfeasor and UMI carrier are liable in solido, as of now it is the law of this state and we are compelled to follow it, as that issue is not before us at this time. I do not find it appropriate, however, to weaken the requirement under C.C. art. 2203 of an express reservation simply to obtain a desirable result in a particular case. The requirement of an express reservation under C.C. art. 2203 is an important one to the law of solidary obligations and should not be eroded unnecessarily.
+
+As this writer does not find the language contained in the release to constitute a "clearly expressed intention to reserve a right," I respectfully dissent.
+
+[1]  Since granting this application to consider the language in the release and settlement agreement, we have granted writs in five other cases where the tort victim released the tortfeasor without any reservation of rights, and the lower courts have applied Hoefly to bar suit against the UMI carrier. Decedue v. GEICO, 446 So. 2d 1216 (La.1984); Dalmado v. Cumis Ins. Society, Inc., 446 So. 2d 1216 (La.1984); Halter v. Saavedra et al., 446 So. 2d 1217 (La.1984); Roche v. Cumis Ins. Society, 446 So. 2d 1217 (La.1984); Carona v. State Farm Ins. Co., 446 So. 2d 1217 (La.1984), all set for oral argument on our Docket of June 28, 1984. Because we find that the settlement and release agreement in this case contained an express reservation of rights, we can decide this case independently of these others and without concern for how these cases are ultimately resolved.
+
+[2]  In so concluding, the Fourth Circuit Court of Appeal also noted that this result comports with the intent of Louisiana's Uninsured Motorist Statute, La.R.S. 22:1406:
+
+The insurance statute mandates uninsured motorist coverage unless rejected by the insured. LSA-R.S. 22:1406. Our conclusion is in accord with the logic in the above cases and in furtherance of the avowed legislative aim evidenced by the 1974 Amendment to the uninsured motorist statute: to promote (rather than defeat) full recovery by insureds who have paid premiums for this coverage. (footnote omitted) 437 So. 2d  at 368.

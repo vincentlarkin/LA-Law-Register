@@ -1,0 +1,63 @@
+87-KA-1424
+State v. Powell
+https://law.justia.com/cases/louisiana/supreme-court/1987/87-ka-1424-1.html
+
+87-KA-1424
+State v. Powell
+Court: Louisiana Supreme Court
+Release date: 1987-11-30
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/87-ka-1424-1.html
+
+515 So. 2d 1085 (1987)
+
+STATE of Louisiana
+v.
+Roy POWELL and Ernest D. Jones.
+
+Nos. 87-KA-1424, 87-KA-1425.
+
+Supreme Court of Louisiana.
+
+November 30, 1987.
+
+William J. Guste, Jr., Atty. Gen., Darryl W. Bubrig, Sr., Dist. Atty., David M. Hufft, Gilbert V. Andry, Asst. Dist. Attys., for plaintiff-appellant.
+
+*1086 A. Bruce Netterville, O'Neill & Netterville, Gretna, for defendants-appellees.
+
+DENNIS, Justice.
+
+This is an appeal by the state from a district court's declaration that a law is unconstitutional. La.Const.1974, Art. V, § 5(D). Defendants were charged with taking oysters in the waters of the state in an area which had not been designated by the Wildlife & Fisheries Commission as an oyster seed ground (an area from which oysters may be taken during open season). La.R.S. 56:424 (West 1987). Defendants moved to quash the bills of information on the ground that La.R.S. 56:424(C) is violative of the United States Constitution in that it is unconstitutionally vague. After a hearing the trial court granted the motion to quash and held that La.R.S. 56:424(C) is void for vagueness. The state appealed.
+
+The stricken statutory provision is part of the comprehensive legislation regulating wildlife and fisheries. La.R.S. 56:1-700.5 (West 1987). It is contained within the subpart dealing with bi-valves and bi-valve industries. La.R.S. 56:3, 422-451 (West 1987). In general, with respect to oystering, these statutes declare that all oysters grown on or taken from state water bottoms remain the property of the state under the exclusive control of the Commissioner of Wildlife and Fisheries until title is divested according to law and administrative regulations. La.R.S. 56:3, 422. Further, the subsection provides for the leasing of water bottoms to oyster lessees and the designation and regulation of other areas for the taking of oysters without leases. La.R.S. 56:423-428; 430, 431, 433, 434, 437, 441, 442 (West 1987).
+
+La.R.S. 56:424, a multipartite section, provides, in pertinent parts, that: no person shall take oysters from waters of the state except in accordance with law and commission regulations, Id. at Subsection (A); an oyster lessee may work on his private oyster lease or give written permission to an agent to harvest from his lease, Id. at Subsection (B); oysters may be taken during open season on those areas designated by the Commission as oyster seed grounds, Id. at Subsection (C); recreational oystermen may harvest up to two sacks per day in any area otherwise open and unleased, Id. at Subsection (D); a person violating any of these provisions may be charged with committing a class six violation, Id. at Subsection (E). This type of offense is punishable by a fine of one to two thousand dollars, or imprisonment for as much as 120 days, or both. La.R.S. 56:36 (West 1987).
+
+The particular subsection declared unconstitutional, La.R.S. 56:424(C), reads as follows:
+
+The constitutional guarantee that an accused shall be informed of the nature and cause of the accusation against him requires that penal statutes describe unlawful conduct with sufficient particularity and clarity that ordinary men of reasonable intelligence are capable of discerning its meaning and conforming their conduct thereto. U.S.Const.Amend. XIV, § 1; La. Const. 1974, Art. I, §§ 2, 13; State v. Baron,
+416 So. 2d 537
+, 538 (La.1982); State v. Dousay,
+378 So. 2d 414
+, 416-17 (La.1979); State v. Payton,
+361 So. 2d 866
+, 871 (La. 1978); Connick v. Lucky Pierre's,
+331 So. 2d 431
+, 434-35 (La.1976); State v. Lindsey, 310 So. 3d 89, 90-92 (La.1975); State v. Dardar, 257 La. 191,
+241 So. 2d 905
+, 908 (1970).
+
+The district court declared La.R.S. 56:424(C) unconstitutional because, in its opinion, the reference to designated oyster seed grounds as "including but not limited to the area east of the red line described by the department regulations" makes it "impossible for any person engaged in the oyster business to know what exactly is   prohibited by the legislation." The court's ruling was based exclusively on its view that the words "not limited to" make it impossible to determine the location of designated oyster seed grounds.
+
+From our reading of La.R.S. 56:424(C), however, we conclude that the statutory provision is not unconstitutionally vague when it is considered within its regulatory context. La.R.S. 56:424(A) sets forth the general rule that no one may take oysters from state waters without statutory or regulatory authorization. Subsection (B) authorizes oyster lessees or their permittees to take oysters from their leases. Against this background, Subsection (C) provides that any oystermen may take oysters during open season from an area designated as an oyster seed ground. Subsection (C)'s further proviso that oyster seed grounds include but are "not limited to the area east of the red line described by department regulations" does not prevent an ordinary man of reasonable intelligence from discerning that he is authorized to take oysters during open season by Subsection (C) only in areas designated by the commission as oyster seed grounds, regardless of where an area may be in relation to the red line described by the department regulations. Thus, such a reasonable person is given adequate notice by the law that he must refer to the commission's regulations designating oyster seed grounds before he may safely proceed to take oysters from what he presumes to be an oyster seed ground.
+
+The administrative regulations designating oyster seed grounds must, in order to form an essential element of a misdemeanor crime definition, inform those to whom they are addressed of the specific limits of such areas so that oystermen will know in advance what conduct is proscribed. State v. Union Tank Car Co.,
+439 So. 2d 377
+(La.1983). However, the validity of the regulations were not challenged in the proceedings below or passed upon by the district court.
+
+Our holding is narrowly confined to the proposition that the grammatical construction of La.R.S. 56:424(C) employing the "including but not limited to" phrase does not render the statutory provision void for vagueness. This was the only basis upon which the district court decided that the law was unconstitutional.
+
+For the reasons assigned, the declaration of unconstitutionality and the quash of the bills of information are reversed and the case is remanded for further proceedings.
+
+REVERSED AND REMANDED.

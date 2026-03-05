@@ -1,0 +1,89 @@
+64052
+State v. Goetz
+https://law.justia.com/cases/louisiana/supreme-court/1979/374-so-2d-1219-1.html
+
+64052
+State v. Goetz
+Court: Louisiana Supreme Court
+Release date: 1979-09-04
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/374-so-2d-1219-1.html
+
+374 So. 2d 1219 (1979)
+
+STATE of Louisiana
+v.
+Carl GOETZ.
+
+No. 64052.
+
+Supreme Court of Louisiana.
+
+September 4, 1979.
+
+*1220 Alan J. Robert, Gonzales, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Aubert Talbot, Dist. Atty., Abbott J. Reeves, Asst. Dist. Atty., for plaintiff-respondent.
+
+DENNIS, Justice.
+
+Defendant, Carl Goetz, was convicted of driving while intoxicated, La.R.S. 14:98, and sentenced to pay a fine of $200 and costs, in default of which he will be required to serve ninety days in jail. We granted writs to determine whether the trial court committed reversible error by allowing the state to establish a presumption of the defendant's intoxication through the introduction of a chemical analysis of his blood's alcoholic content without presenting prima facie proof of the standard quality of the test chemicals. See La.R.S. 32:661 et seq.
+
+This Court, in State v. Graham,
+360 So. 2d 853
+(La.1978) and State v. Jones,
+316 So. 2d 100
+(La.1975), held that, in a criminal prosecution, before the state may avail itself of a statutory presumption of a defendant's intoxication arising from a chemical analysis of his blood, La.R.S. 32:662, it must show that (1) the state has officially promulgated detailed methods, procedures and techniques which will insure the integrity and reliability of the chemical tests, including specifically the standard quality of chemicals used; and (2) the state has strictly complied with the officially promulgated methods, procedures and techniques in the chemical analysis offered as evidence in the case on trial.
+
+Because an intoxication test conducted with chemicals of inferior quality could bring to bear a practically conclusive presumption of guilt against an innocent person, it is essential that the officially promulgated methods, procedures and techniques include a thorough analysis of the chemicals by a chemist under laboratory conditions to insure that they are of proper composition, strength and volume at the time a test is conducted. See R. Donigan, Chemical Tests and the Law, 71 (2d ed. 1966). Although periodic spot testing by a local chemist of each lot of chemicals is the preferred procedure, this Court has provisionally approved, as a reasonable substitute, a procedure whereby a certificate of standard chemical quality by the manufacturer is deemed to establish prima facie evidence of the good quality of the test chemicals.[1]State v. Graham, supra, 360 So. 2d  at 856, 857. This Court has expressly disapproved as insufficient to insure accuracy of test chemicals, however, a procedure which simply calls for the operator of the testing device, who usually is not a chemist, to check the ampul of chemicals to be used in an alcohol concentration test against a "comparison" ampul contained in the same lot to see if the two ampuls produce similar photo-electric readings on the intoximeter. Such a photo-electric comparison of ampuls from the same lot by a nonchemist would not assure that the chemicals within that lot were of standard chemical quality; it would merely reflect whether the two ampuls contained chemicals of similar quality. State v. Graham, supra, 360 So. 2d  at 857.
+
+The chemical test in the instant case was performed on September 9, 1978. The only evidence which the prosecution offered to prove that the test had been conducted with chemicals of good quality was a certificate signed by two employees of the Department of Public Safety who did not appear in court. The certificate provided, in pertinent part, as follows:[2]
+
+*1221 "* * *
+
+"This is to certify that Instrument # 72 Model 400 Photo-Electric Intoximeter is an approved instrument for use in Breath-alcohol Testing and is certified to be in proper functioning condition on this 9th day of August 1978.
+
+"* * *
+
+The trial judge accepted the certificate as proof of the standard quality of the test chemicals and allowed introduction of the chemical analysis over the defendant's timely objection.
+
+Effective September 9, 1977, chemical analyses of a person's blood, to be considered valid under the laws providing tests for suspected drunken drivers, must have been performed according to the methods approved by the Department of Public Safety. La.R.S. 32:663. With respect to the standard quality of chemicals to be used in such tests, the Department of Public Safety has promulgated regulations which, in pertinent part, provide:
+
+"* * *
+
+The issues raised by the instant case are (1) whether constitutionally sufficient methods, procedures and techniques for insuring the quality of test chemicals were in   effect at the time of the measurement of alcohol in the defendant's blood; and (2) if so, whether the state strictly complied with them.
+
+Insofar as the Department's regulations require that its Applied Technology Unit maintain manufacturers' certificates as to standard chemical quality of each lot of ampuls on file, the method for insuring the quality of test chemicals is similar to that previously adopted by the Department of Health and provisionally approved by this Court in State v. Graham, supra. Instead of providing that the manufacturer's certificate of quality shall be prima facie evidence as to the standard of the ampul, however, the Department of Public Safety's regulations establish a procedure calling for its Applied Technology Unit to "spot check the ampuls with respect to their performance" and to include a statement to this effect in certificates filed with the clerks of court. The Department of Public Safety regulations also provide that the certificates shall be prima facie evidence as to the operating performance of the instruments and standard of quality of the ampuls.
+
+Presumably, in the judgment of the Department of Public Safety either the manufacturer's certificate or the spot checking of each lot of ampuls for performance by the Applied Technology Unit every four months will insure the reliability of the test chemicals. We took notice with approval in State v. Graham, supra, of the procedure in other states whereby all chemicals are received in numbered lots and stored with proper care under the supervision and control of a local chemist, who conducts spot tests of portions of each lot, so when a contested case is presented in court he will be available to testify that the particular lot from which the chemicals used in a particular case were taken were of proper composition, strength and volume at the time the test in question is conducted. State v. Graham, supra, 360 So. 2d  at 856. See also R. Donigan, Chemical Tests and the Law, 70, 279-80 (2d ed. 1966).[4] If the Department's regulations represent an attempt to implement such procedure in Louisiana, the method is an improvement over certification by the manufacturer because it insures through periodic chemical analyses by local chemists or other qualified persons that an accused will be tested with recently certified chemicals, rather than chemicals which have not been tested since their manufacture.
+
+However, the Department's regulations are unclear in many respects. The regulations fail to define or specify any criteria for a "spot check ... with respect to... performance." If the spot check for performance is nothing more than a check of the test ampul against a comparison ampul from the same lot to see if they produce similar photo-electric readings on the intoximeter, which we expressly stated was insufficient to insure accuracy of test chemicals in State v. Graham, the local spot check method set forth in the regulations denies an accused due process of law by allowing the prosecution to establish a presumption of intoxication without furnishing any real proof that this element of the chemical test is reliable.
+
+Equally unclear in the regulations are the identity and qualifications of the individual authorized to spot check the ampuls for performance. The regulations merely provide that the Applied Technology Unit shall have authority to spot check each lot of ampuls. Since no qualifications are provided with respect to the persons who will be assigned the responsibility for spot checks, there is no assurance that these duties will be performed by qualified persons such as   chemists who can test the chemicals against a known standard in order to insure accurate intoximeter tests in the field.
+
+Assuming the Department of Public Safety regulations were intended to call for thorough analysis of chemicals by a chemist under laboratory conditions as an alternate method of insuring chemical reliability, we cannot say at this time that the method approved by the Department is constitutionally inadequate. However, because the regulations are incomplete and establish no criteria for a spot check of chemicals, we cannot accept such an undefined test by a person of undisclosed qualifications as proof that chemicals used to analyze a driver's blood would give a true reading. Accordingly, until the Department clarifies its regulations, this Court cannot accept a certificate of a spot check for performance as proof that chemicals have been subjected to a genuine test and found to be of standard quality by a chemist or other person qualified to render such an opinion. The state may continue to prove chemical quality, however, by introduction of the manufacturer's certificate or by evidence ordinarily admissible in criminal trials.
+
+The certificate introduced by the prosecution in the instant case is not a manufacturer's certificate that the chemicals used to test the defendant's blood-alcohol content were of proper composition, strength and volume for the intoximeter analysis. The prosecution did not introduce the testimony in court of any person who was competent to testify as to whether the test chemicals were of reliable quality. Accordingly, the prosecution failed to lay a proper foundation for the particular test involved in this case by proof that the chemicals used were of standard chemical quality, and the district court erred in permitting introduction of the test results.[5]
+
+The state argues that even if the test results were improperly admitted, the impropriety was harmless error because of the introduction of other independent evidence of defendant's intoxication. In State v. Graham, supra, which presented essentially the same situation, we rejected this argument for the following reasons:
+
+For the reasons assigned, the defendant's conviction and sentence are reversed and the case is remanded for a new trial consistent with this opinion.
+
+[1]  Judgment was reserved for a future case with a proper record as to whether the potential for chemical damage or deterioration is sizeable enough to require periodic local spot-checking in order to afford the state prima facie proof of correct chemical quality. State v. Graham,
+360 So. 2d 853
+, 856, n. 6 (La.1978).
+
+[2]  The certificate also bore the signature of a deputy clerk of court of Ascension Parish certifying that a copy was on file in her office and a second signature by Bailey D. Hughes II as "custodian of chemical testing records, La. State Police Crime Lab" certifying that the certificate was a "certified true copy."
+
+[3]  Since these regulations were not promulgated until October 20, 1978, it could be argued that tests performed before that date were not conducted "according to methods approved by the Department of Public Safety." See La.R.S. 32:663. We pretermit the question, however. Assuming that the 1978 regulations have retroactive effect, the certificate relied upon in the instant case did not provide a proper foundation for introduction of the chemical test.
+
+[4]  Several states provide a more detailed explanation of how the ampuls are spot checked. See Lauderdale v. State,
+548 P.2d 376
+(Alaska 1976) (10 ampuls from each lot chemically analyzed to verify the proper chemical composition and volume stated by the ampul manufacturer); State v. Baker,
+56 Wash. 2d 846
+,
+355 P.2d 806
+, 811 (1960) (use of equilibrating device to check several ampuls from every lot against a known alcohol solution). See also Watts, Some Observations on Police-Administered Tests for Intoxication, 34, 85-86 (1966) (chemist selects at random and analyzes a representative sampling of ampuls purchased. Chemist must find that ampuls have proper quantity of reagent and that the reagent, when subjected to various analytical tests, proves to be of proper type and strength).
+
+[5]  Defendant also contends that the certificate itself was inadmissible because it was not properly authenticated and constituted hearsay. Since the foregoing conclusions are dispositive, we do not reach these issues.

@@ -1,0 +1,77 @@
+61958
+State v. Liggett
+https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-1184-1.html
+
+61958
+State v. Liggett
+Court: Louisiana Supreme Court
+Release date: 1978-10-09
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-1184-1.html
+
+363 So. 2d 1184 (1978)
+
+STATE of Louisiana
+v.
+Richard LIGGETT.
+
+No. 61958.
+
+Supreme Court of Louisiana.
+
+October 9, 1978.
+
+Rehearing Denied November 9, 1978.
+
+*1185 Clayton M. Perkins, Jr., Kilbourne & Dart, St. Francisville, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Leon Picou, Dist. Atty., for plaintiff-appellee.
+
+MARCUS, Justice.
+
+Richard Liggett was indicted by the grand jury for simple escape in violation of La.R.S. 14:110A(1). After trial by jury, he was found guilty as charged and sentenced to serve four years at hard labor. The court expressly directed that the sentence was to be served consecutively. On appeal, defendant relies on four assignments of error for reversal of his conviction and sentence. Finding merit in one of the assigned errors, we need not consider the other three.
+
+Defendant contends the trial judge erred in denying his motion for a new trial. He argues, inter alia, that the evidence presented at trial did not show that he was in the custody of any law enforcement officer or officer of the Department of Corrections at the time the alleged simple escape occurred; in the alternative, defendant argues that if such custody were established, there was no showing that he escaped from such custody.
+
+In criminal matters, the scope of this court's appellate jurisdiction extends only to questions of law. La.Const. art. 5, § 5(C). It is well settled that a contention made in a motion for a new trial that no evidence was produced to prove the crime charged or an essential element thereof presents a question of law which can be reviewed by this court. State v. Williams,
+354 So. 2d 152
+(La.1977). We consider that the allegations in defendant's motion for a new trial adequately raise the contention that there was no evidence produced of the crime charged, simple escape, or an essential element thereof. Hence, this issue is properly before us.
+
+The evidence adduced at trial establishes the following facts. Defendant was legally committed to the state penitentiary at Angola on February 3, 1972. He was assigned to a dormitory in the medium security complex area. In addition, defendant was assigned to work in the prison tag plant. The record also reflects that prior to the start of the work day, inmates have the option to leave their dormitory and go to the kitchen area for breakfast or remain in the dormitory. Whether they remain in the dormitory or depart for breakfast, inmates are required to report to their job assignment no later than 8:00 a. m. The inmates, whether in the dormitory, kitchen area, or at their work assignment are the responsibility of a prison officer assigned to a particular area or building. The inmates may be excused from any of their work assignments or assigned areas on various "call-outs": e. g., attorney call-outs, hospital call-outs, visits, education call-outs, and classification call-outs. We note also that inmates walk from area to area along fenced walkways unescorted by guards.
+
+The officer in charge of defendant's dormitory, John Frank, testified that he saw defendant in the dormitory at approximately 7:30 a. m. on April 6, 1977. He stated that at about 7:55 a. m., he received a call from Edward Thomas, the prison officer assigned to the tag plant, stating that Liggett had not reported to work at the plant. A search for defendant in the dormitory was made without success. A prison chase crew subsequently located Liggett hiding in a conveyor machine in the prison cannery at approximately 5:00 p. m. Defendant was found inside the machine lying down on his back with his hands resting on his stomach. He had a pillow, or something in the form of a pillow, under his head. He even had a pocket novel to read. It was noticed that defendant had apparently taken two pieces of cardboard and placed them on both sides of the conveyor machine so that he could not be observed inside the machine. Upon discovery, defendant neither struggled nor attempted to get away from the search crew. He had not broken or damaged anything while hidden in the cannery building. The prison cannery is located approximately two hundred and fifty to three hundred yards from the prison tag plant, defendant's assigned place of work.
+
+*1186 La.R.S. 14:110A(1) defines simple escape as
+
+Since the word "intentional" is included in the above definition of simple escape without a qualifying provision, only general criminal intent is required as an essential element of the crime. La.R.S. 14:11; State v. Boleyn,
+328 So. 2d 95
+(La.1976). General criminal intent is present when "the circumstances indicate that the offender, in the ordinary course of human experience, must have adverted to the prescribed criminal consequences as reasonably certain to result from his act or failure to act." La.R.S. 14:10. Though intent is a question of fact, it need not be proven as a fact, it may be inferred from the circumstances of the transaction. La.R.S. 15:445.
+
+The evidence adduced at trial establishes only that defendant did not report to work by 8:00 a. m. on April 6, 1977, and was found hiding later that same day in the prison cannery reading a novel. Such evidence might well constitute a violation of prison disciplinary rules which may be punished by sanctions imposed by the appropriate prison administration board.[1] However, we find no evidence in the record of circumstances which indicate that defendant, in the ordinary course of human experience, adverted to the prescribed criminal consequences as reasonably certain to result from his act. In other words, there was no evidence of facts or circumstances from which general criminal intent, an essential element of the crime of simple escape, can be inferred.
+
+We next determine the proper disposition of this case. In State v. Gatlin, 241 La. 321,
+129 So. 2d 4
+(1961), we overruled prior jurisprudence and held that when this court found no evidence of the crime charged or an essential element thereof upon review of a bill of exceptions taken to the overruling of a motion for a new trial grounded on such a contention, defendant would not be discharged but rather the case would be remanded for a new trial conformably with the nature of the pleadings.
+
+The United States Supreme Court in Burks v. United States,
+437 U.S. 1
+, 98 S. Ct. 2141, 57 L. Ed. 2d 1 (1978), addressed the issue of whether a defendant may be tried a second time when a reviewing court had determined that in a prior trial there was no evidence of the crime charged or an essential element thereof. The Court held that the double jeopardy clause of the fifth amendment precludes a second trial once the reviewing court has found no evidence of the crime charged or an essential element thereof.[2] The Court further stated, "the only `just' remedy available for [the reviewing] court is the direction of a judgment of acquittal." The Court noted that the contention that there was no evidence of the crime charged or an essential element thereof may properly be raised solely by a motion for a new trial. In addition, the Court expressly held that a defendant does not waive his right to a judgment of acquittal by moving for a new trial.
+
+The double jeopardy prohibition of the fifth amendment is applicable to a state criminal trial through the fourteenth amendment. Benton v. Maryland,
+395 U.S. 784
+, 89 S. Ct. 2056, 23 L. Ed. 2d 707 (1969). It is our opinion that we are compelled under the holding in Burks and the federal constitutional   standard pronounced therein to enter a judgment of acquittal when this court upon review properly presented finds no evidence of the crime charged or an essential element thereof in the record of the trial. To the extent that State v. Gatlin, supra, and our other decisions relying thereon suggest that by moving for a new trial a defendant waives his right to a judgment of acquittal on the basis of no evidence, they are overruled.
+
+For the reasons assigned, the conviction and sentence are annulled and set aside and a judgment of acquittal is entered as to the charge of simple escape.
+
+SANDERS, C. J., and SUMMERS, J., dissent.
+
+PER CURIAM.
+
+The conviction was reversed on a due process question which the defendant would be entitled to raise by habeas corpus. Treating the appeal as a post-conviction remedy application, it is granted and judgment of acquittal is ordered. The application for rehearing is denied.
+
+SANDERS, C. J., and SUMMERS, J., would grant a rehearing.
+
+[1]  Defendant states in brief that as a result of this incident, he was sentenced by the Disciplinary Board of the Louisiana State Penitentiary to the cell blocks for ninety days subject to a clean disciplinary record during that time.
+
+[2]  The Court distinguished reversals due to trial error from reversals resulting solely from no evidence presented of the crime charged or an essential element thereof. The holding in Burks and this court's implementation of that holding are strictly limited to those cases wherein this court upon review properly presented determines that there was no evidence of the crime charged or an essential element thereof.

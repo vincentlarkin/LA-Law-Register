@@ -1,0 +1,61 @@
+61777
+State v. Diliberto
+https://law.justia.com/cases/louisiana/supreme-court/1978/362-so-2d-566-1.html
+
+61777
+State v. Diliberto
+Court: Louisiana Supreme Court
+Release date: 1978-09-05
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/362-so-2d-566-1.html
+
+362 So. 2d 566 (1978)
+
+STATE of Louisiana
+v.
+Christopher L. DILIBERTO.
+
+No. 61777.
+
+Supreme Court of Louisiana.
+
+September 5, 1978.
+
+*567 Arthur A. Lemann, III, New Orleans, for defendant-respondent.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Christopher R. Philipp, Asst. Dist. Atty., for plaintiff-relator.
+
+TATE, Justice.
+
+The trial court granted the defendant's motion for the state to disclose the name of a confidential informant. On the state's application, we granted certiorari to review this ruling. 356 So. 2d 435 (1977).
+
+In an affidavit used to secure a search warrant for evidence of illegal gambling, the confidential informant had supplied the initial lead. According to the affidavit, this lead had been followed by police surveillance (which developed no incriminating evidence) and then by two incidents in which the informant had placed bets with the accused, with his telephone conversations monitored and overheard by the police officer affiants.
+
+The defendant filed a motion for the state to disclose the confidential informer's name. The purpose of the disclosure sought is stated as a general allegation that it is needed for the defendant to traverse the truthfulness of the officers' allegations in the affidavit. See State v. Tassin,
+343 So. 2d 681
+(La.1977) and decisions therein cited.
+
+Without an evidentiary hearing, but apparently solely on the basis of argument by both counsel, the district court granted the motion.
+
+The grant of the motion to disclose was, at the least, premature.
+
+When the issue is not guilt or innocence, but instead the probable cause for an arrest or search, police officers need not invariably be required to disclose an informant's identity, if the trial judge is convinced, by evidence submitted in open court and subject to cross-examination, that the officers did rely in good faith upon credible information supplied by a confidential informant. McCray v. Illinois,
+386 U.S. 300
+, 305, 87 S. Ct. 1056, 1059, 18 L. Ed. 2d 62 (1967).
+
+Further, when disclosure is sought for purposes of a motion to suppress, more than a generalized need must be asserted. Id at 386 U.S. 306-07, 87 S. Ct. 1060. See also the Model Code of Pre-Arraignment Procedure, Section SS 290.3(1)(b) (party contesting the good faith of state testimony of probable cause should set forth substantial basis for questioning it), SS 290.4(a) (confidential informant not necessarily required to be revealed where evidence seized by virtue of a search warrant) (American Law Institute, 1975).
+
+For these reasons, and because the first-hand showing by the officers of their own observations and hearing sufficiently in itself indicates probable cause, the defendant has not met his burden of proving the exceptional circumstances, State v. Dotson, 260 La. 471,
+256 So. 2d 594
+, 606 (1971), that require pre-trial disclosure by the state of the identity of a confidential informer who supplied information leading to probable cause for issuance of a search warrant.
+
+Additionally, we note that the state might properly be required to disclose the identity of the confidential informant, if it intends to introduce evidence at the merit-trial of an incident at which the informant was present or in which the informant set up or participated in the crime. Dotson, at 256 So. 2d 607. However, the state has agreed to stipulate that no evidence whatsoever concerning the informant's activities prior to the date of the search warrant will be introduced in evidence at the trial on the merits. In view of that stipulation, disclosure need not be afforded   for the purposes of fair preparation of the merit-defense. State v. Helmke, 350 So. 2d 1191 (La.1977).
+
+Accordingly, we reverse the ruling of the district court requiring disclosure at this time of the confidential informant's identity, and we remand this case to the trial court for further proceedings in accordance with law.
+
+REVERSED AND REMANDED.
+
+SANDERS, C. J., concurs.
+
+DIXON, J., dissents.

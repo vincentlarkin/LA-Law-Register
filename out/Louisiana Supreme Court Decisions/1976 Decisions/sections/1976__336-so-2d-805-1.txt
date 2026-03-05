@@ -1,0 +1,155 @@
+57552
+State v. Davis
+https://law.justia.com/cases/louisiana/supreme-court/1976/336-so-2d-805-1.html
+
+57552
+State v. Davis
+Court: Louisiana Supreme Court
+Release date: 1976-06-21
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/336-so-2d-805-1.html
+
+336 So. 2d 805 (1976)
+
+STATE of Louisiana, Appellee,
+v.
+Rodrick DAVIS, Appellant.
+
+No. 57552.
+
+Supreme Court of Louisiana.
+
+June 21, 1976.
+
+Rehearing Denied September 10, 1976.
+
+*806 John G. Williams, Natchitoches, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ronald C. Martin, Dist. Atty., R. Raymond Arthur, Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant appeals from three convictions of armed robbery, La.R.S. 14:64, and from concurrent sentences of seventy-five years on each of these charges. Upon his appeal, he urges nine assignments of error.
+
+Context Facts
+
+The robbery occurred at 10:00 a.m. in February, 1975. Two armed robbers entered a finance company office; they took objects of value (money, rings, watches) from each of the three people present in the office.
+
+Based upon information that he was one of the robbers, the defendant Davis was arrested in Austin, Texas in April. He there admitted participation in the robbery and waived extradition to Louisiana.
+
+Davis was then brought back to Natchitoches. Under separate interrogations by the city and the state police, he voluntarily confessed on each occasion to the present crime. (The occasion for the subsequent state police investigation arose from his participation in other crimes elsewhere.)
+
+Assignment 1
+
+By assignment 1, the admission of both of these confessions is attacked as erroneous.
+
+Preliminarily, we note the lack of merit to a claim of coercion (an alleged threat against the defendant's girlfriend). The evidence produced by the state sustained its burden of proving beyond a reasonable doubt that the confessions were freely and voluntarily made without duress or coercion.
+
+*807 The defendant also attacks the first (April 15) confession to the city police, however, because of the technical insufficiency of the warnings given to the defendant by the city police prior to his interrogation, under the requirements of Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966). The warnings given by the city police were otherwise sufficient, but (as the defendant correctly points out)even though the accused was informed of his right to an attorney and to have an attorney present during the questioning (as well as his right to an appointed attorney if and when he went to court), they did not inform him that during the questioning he had "a right to the presence of an attorney, either retained or appointed" 384 U.S. 444, 86 S. Ct. 1612. See United States ex rel. Williams v. Twomey, 467 F.2d 1248 (CA 7, 1972).
+
+However, for reasons to be stated below, the convictions need not be reversed. Cf., Michigan v. Tucker,
+417 U.S. 433
+, 94 S. Ct. 2357, 41 L. Ed. 2d 182 (1974).
+
+The second confession was given the following day (April 16) to the state police. We first note that, at the time, the state police did not know the contents of the confession to the city police, nor did they in any way use that first confession or the fact that it had been given as a basis of questioning to obtain the second confession. Furthermore, the Miranda warnings in this instance were fully adequate.
+
+The defendant contends, however, that this second confession should be held inadmissible as the fruit or product of the first confession.
+
+He argues, correctly in our opinion, that despite Miranda warnings a second confession is not "voluntary" if it is the fruit or product of an illegal first confession. In securing evidence, the state may not obtain a first statement by violation of constitutional safeguards, and then claim that a second confession secured by reason of the illegal first confession is admissible because (directly as the result of the first illegal admissions) the accused now again freely admits his guilt (since he has already "confessed", albeit the alleged confession is illegal and inadmissible). See Brown v. Illinois,
+422 U.S. 590
+, 95 S. Ct. 2254, 45 L. Ed. 2d 416 (1975).
+
+Nevertheless, if the second confession is truly voluntary and is not a product of the first, it is not inadmissible simply because of any technical deficiency in the Miranda warnings given before the first interrogation. The second confession may nevertheless be admissible, if (granting establishment of the prior technical illegality) it is not obtained by exploitation of the initial illegality, but instead is shown by the state to be sufficiently an act of free will entirely purged of and independent of the primary taint. See Brown v. Illinois at 95 S. Ct. 2259 (1975).
+
+In the present case, the state has sustained its burden in this regard.
+
+In the first place, although the interrogations were only a day apart, they were entirely independent of one another and done by different officers of different departments.
+
+Furthermore, as defendant himself admitted under cross-examination at the trial on the merits (when he took the stand in his own defense), he had already confessed to the crime when first arrested in Texas even before the confession to the city police. Rather than showing that the second confession directly resulted from the first, the evidence at the motion to suppress and at the trial of the merits instead indicates that the defendant freely confessed his participation in this and other crimes on the several distinct interrogations of him by police in Texas and Louisiana.
+
+The second confession is therefore admissible.
+
+With regard to the first confession, it is substantially identical in content to the second one, the latter of which was properly   admitted into evidence. The first warnings did emphasize the accused's right to remain silent and his right not to speak without the presence of an attorney (although admittedly they were deficient in informing him of his right to secure an appointed attorney during the interrogation). We are not faced with a situation where the sole confession or admission introduced into evidence against an accused was taken in violation of Miranda, nor by a situation where actual prejudice is shown or may be presumed to have resulted to him because of the admission of the technically invalid first confession.[1]
+
+Under all of these circumstances, we are unwilling to hold that Miranda requires the invalidation of this conviction because of the technical invalidity of the Miranda warnings given before the first confession, where, in fact, the technically invalid confession under the evidence played no substantial role in the defendant's conviction. The constitutional values served by Miranda are not eroded by admission of the first confession under the circumstances shown. See Michigan v. Tucker,
+417 U.S. 433
+, 94 S. Ct. 2357, 41 L. Ed. 2d 182 (1974).
+
+We therefore find no reversible merit in assignment 1.
+
+Assignments 2 and 9[2]
+
+The defendant separately robbed three different individuals at the same location. He was charged with three separate armed robberies by three separate bills of information. Upon conviction, he received three sentences, although they run concurrently.
+
+By these assignments, the defendant contends that only one crime was committed, so that therefore he should have been charged by only one bill of information (assignment 2) and should have received only one sentence (assignment 9).
+
+The defendant is charged with armed robbery. La.R.S. 14:64. Under the statute, armed robbery is the theft by use of force of anything of value "from the person of another or which is in the immediate control of another * * *". By this statutory definition, three separate crimes were here committed, being three separate robberies from three different persons of different objects of value from each.
+
+No authority is cited to the contrary. A separate act and a separate intent was required for each victim; therefore, there was a separate offense against each person robbed. Cf: State v. Richmond,
+284 So. 2d 317
+(La.1973); Ashe v. Swenson,
+397 U.S. 436
+, 446, 90 S. Ct. 1189, 1195, 25 L. Ed. 2d 469 (1970); 22 C.J.S. Criminal Law § 9(4) at Note 43.1, p. 36 (1961). Cf. also, Moton v. Swenson, 488 F.2d 1060 (CA 8, 1973). We are thus not here faced with a situation where the same act or conduct is charged as the basis for allegedly separate crimes. See State v. Bonfanti, 262 La. 153,
+262 So. 2d 504
+(1972).
+
+We note that the defendant does not complain of the consolidated trial under separate indictments. La.C.Cr.P. art. 706; State v. Richmond,
+284 So. 2d 317
+(La.1973). In the absence of objection at the time or prejudice, no reversible error so occurred. State v. Peters,
+298 So. 2d 276
+(La.1974).
+
+We find no merit in these assignments.
+
+Assignment 3
+
+We find no merit to this assignment. The defendant objected when the state questioned a victim as to what the accused had said to him during the course   of the robbery. The basis for the objection is that the state did not give written notice, prior to trial, of its intent to use the defendant's statement, as allegedly required by La.C.Cr.P. art. 768. However, statements which, as here, are admissible as part of the res gestae (being made during the course of the criminal activity) are not subject to the advance notice required by Article 768. The notice applies to confessions or inculpatory statements introduced to prove guilt independent of any other basis for admissibility. State v. Richmond,
+278 So. 2d 17
+, 23 (La.1973); State v. Fink, 255 La. 385,
+231 So. 2d 360
+(1970).
+
+Assignments 4 and 7
+
+A victim testified that the robber identified as the defendant was armed with a sawed-off .410 shotgun and that the other robber was armed with a small-calibre pistol. The other victim testified to similar effect. After their testimony as to the weapons used, the prosecutor showed each of them a sawed-off shotgun and a pistol and asked them if the weapons used in the robbery were similar to the weapons shown.
+
+The defendant objected to the prejudicial and inflammatory effect before the jury of showing these witnesses unidentified weapons. Assignment 4.
+
+Obviously, by so doing, the prosecutor skirted reversal. State v. Foret, 196 La. 675, 200 So. 1 (1941). There, the jury was shown a steer which was the alleged object of the theft, without the prosecutor making a formal showing by authenticating the steer as the one stolen.
+
+In reversing in Foret, we spoke of the undue prejudice that results, where the physical object so shown is not connected by evidence with the defendant; for there is then a natural tendency of jurors to infer the connection simply from mere viewing of the material object, although such connection is not proved. The viewing tends without proof prejudicially to associate the accused with the deadly weapon or other object. See 4 Wigmore on Evidence, Section 1157, p. 340 (Chadbourn rev., 1972). Accordingly, before the object is introduced or viewed at the trial (or, at least, before the party's case is closed), the physical object must normally be "authenticated" by evidence showing the defendant's personal connection with it, such as, for instance by proving the chain of custody. 7 Wigmore on Evidence, Section 2129 (3d ed.1940).
+
+A majority of this court has concluded, however, that reversible error did not here occur under the limited facts here presented. However, we note that the practice here followed is discouraged, because of its inherent possibility of prejudice and in order to assure that an accused is convicted only on the basis of legally admissible evidence.
+
+The limited facts which, in the present case, we find excuse from reversal the showing of the "similar" weapons to the witnesses are as follows:
+
+No effort whatsoever was made to connect them with the accused or to claim that the weapons were the ones used in the robbery; or that the accused himself ever had access to similar weapons; therefore, the accused's connection with weapons similar to those exhibited was not a serious issue of the trial. The weapons themselves were exhibited to the witnesses only after they themselves had fully described the weapons used in the robbery. There was no issue whatsoever that, in fact, weapons similar to those exhibited were not used in the robbery. There is not the slightest intimation that, in fact, any weapons used in the crime were not admissible, such as by reason of illegal seizure. Aside from exhibiting the weapons to the witnesses to ascertain they were similar to those used, no effort was made to exploit the viewing, such as by demonstrative use or in argument.
+
+*810 Finally, the lack of definitive guide (until this opinion) disapproving (as we do now) of the procedure here used is an additional reason not to reverse here, in the absence of any significant prejudice to the accused, considering that the evidence regarding guilt is great.
+
+We therefore find no cause for reversal presented by Assignment 4.
+
+Assignment 7 is based upon the failure of the prosecutor to introduce into evidence the weapons alleged to have been used in the robbery. Aside from the circumstance that this alleged error was not urged until after the jury verdict of guilty (and might therefore be deemed waived, La.C.Cr.P. art. 841), the state's witnesses testified that guns were actually used in the commission of the robbery. We find no authority that, in addition to this testimony, the state must introduce the weapons used in order to prove the offense of armed robbery.
+
+We therefore do not find merit in assignment 7.
+
+Other Assignments
+
+Assignments 5 and 6 relate to the state's questioning the defendant under cross-examination. The state queried him why he had not attempted to have his employer or co-employee come from Texas, to support his alibi testimony that he was working in Texas on the date of the crime. The questions do not appear to exceed the proper scope of cross-examination, and no authority is cited to the contrary.
+
+Assignment 8 relates to the denial of a new trial on the ground of newly discovered evidence. The non-frivolous basis for the motion is that, after the trial, a state rebuttal witness (who had identified the defendant as present on the premises shortly before the robbery) was no longer certain of her identification of the defendant.
+
+We find no abuse of the trial court's discretion in denying the motion. In so concluding, we consider the testimony from which the court may reasonably have drawn an inference of intimidation of the witness by the accused's family after her testimony. We also take into consideration the somewhat incidental nature of her testimony (which placed the accused at the scene near in time to the robbery, but did not identify him as participating in the crime) in the light of the positive eyewitness identification of the accused by the victims of the crime.
+
+For the reasons assigned, we affirm the conviction and sentence.
+
+AFFIRMED.
+
+SUMMERS and CALOGERO, JJ., concur.
+
+[1]  In addition to the circumstances that the second confession did not result from the first confession nor contain any less admission of guilt than the first, the testimony of the several eyewitnesses fully proves the armed robberies' occurrence in accord with the confessions.
+
+[2]  In brief, assignment 9 is designated as assignment "8". (In brief, assignments 5 and 6 as made to the trial court are consolidated as assignment 5, and the subsequent assignments be numbered accordingly.) In our discussion, we shall use the numerical designation in the trial record.

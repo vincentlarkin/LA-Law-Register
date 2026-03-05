@@ -1,0 +1,149 @@
+54539
+EL Burns Co., Inc. v. Cashio
+https://law.justia.com/cases/louisiana/supreme-court/1974/302-so-2d-297-1.html
+
+54539
+EL Burns Co., Inc. v. Cashio
+Court: Louisiana Supreme Court
+Release date: 1974-10-28
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1974/302-so-2d-297-1.html
+
+302 So. 2d 297 (1974)
+
+E. L. BURNS CO., INC.
+v.
+Anthony CASHIO d/b/a Cashio Construction Co.
+
+No. 54539.
+
+Supreme Court of Louisiana.
+
+October 28, 1974.
+
+*298 Stanford O. Bardwell, Jr., Baton Rouge, for plaintiff-applicant.
+
+Randall J. Cashio, Cashio & Cashio, Baton Rouge, for defendants-respondents.
+
+MARCUS, Justice.
+
+On April 17, 1970, Anthony Cashio, a general contractor, entered into a written contract with the East Baton Rouge Parish School Board, whereby he was to furnish all materials and perform all labor according to specifications in the construction of additions to the Merrydale and Cedarcrest-Southmoore Elementary Schools. The St. Paul Fire & Marine Insurance Company executed a bond guaranteeing faithful performance of the contract and payment of all laborers and materialmen, as required by the public contracts law. La.R.S. 38:2241 (1950). The contract and bond were timely recorded in the office of the clerk and recorder of mortgages for East Baton Rouge Parish.
+
+On January 21, 1971, the school board recorded its acceptance of the work done under the contract in the parish mortgage records. Since no claims were filed within forty-five days of the recordation of acceptance, the contractor obtained a clear lien certificate and presented it to the school board on March 10, 1971. In due course, he was paid the balance due him under the contract.
+
+During the course of the construction, E. L. Burns Company orally subcontracted with Cashio to furnish labor and materials to erect covered walkways at the schools. The subcontractor's labor and materials were used on the project during the month of December, 1970 and were invoiced to Cashio, the contractor, at the agreed price of $4,767.00. Cashio paid only $2,000.00 on the invoice, and, after formal demands on the contractor and his surety, E. L. Burns Company filed suit on December 4, 1972 against both to collect the balance due of $2,767.00.
+
+After a general denial, the defendants filed a peremptory exception of prescription, alleging that more than one year had elapsed between the recordation of acceptance by the school board and the filing of the suit. See La.R.S. 38:2247 (1950). Plaintiff argued that the bond allowed suit within two years from the time the final payment was due by the school board to the contractor. Thus, although the suit was filed more than one year from recordation of the school board's acceptance, plaintiff contended that it was nonetheless timely because two years had not elapsed since the final payment date.
+
+From a ruling sustaining the exception of prescription insofar as it applied to the surety, plaintiff filed a devolutive appeal with the First Circuit Court of Appeal, which affirmed the trial court. E. L. Burns Co. v. Cashio, 289 So. 2d 226 (La.App. 1st Cir. 1973). We granted certiorari to consider whether the one-year prescription of actions on the contractor's bond under the public contracts law may be extended by contract. 293 So. 2d 166 (La.1974).
+
+The public contracts law permits any person to whom money is due for performing   labor or furnishing materials for the construction of any public works to file a sworn statement of the amount due him with the governing authority having the work done and record it in the parish mortgage records within forty-five days after recordation of the acceptance of the work. La.R.S. 38:2242 (1950). However, a claimant having a direct contractual relationship with the contractor may sue on the surety bond without filing and recording a lien affidavit. Id. 38:2247. Although the action against the contractor is then subject to the ten-year prescription ordinarily applied to actions in contract, La.Civil Code art. 3544 (1870), the action against the surety on the bond must, like all lien claims on the project, be brought within one year from the date of recordation of acceptance of the work by the governing authority. La.R.S. 38:2247 (1950); Marquette Cement Manufacturing Co. v. Normand, 249 La. 1027,
+192 So. 2d 552
+(1966).
+
+The surety bond at issue provides in pertinent part:
+
+This provision extends the prescriptive period of one year set forth in La.R.S. 38:2247 by one year and forty-five days, since the contract specifies that the final payment to the contractor was due forty-five days after recordation of acceptance of the work. Plaintiff's suit in this case was filed more than one year after the recordation of acceptance by the school board, but within two years from the date final payment was due. Thus, if the language of the bond extending the one-year prescription is allowed to prevail over the statute, the action was timely, and the judgment below sustaining the exception of prescription must be reversed. However, if we find that the contractual extension of prescription here is impermissible, the judgment below will be affirmed.[1]
+
+Plaintiff urges that we uphold the stipulation in the bond on the ground that, according to article 11 of the Civil Code, individuals may renounce what the law has established in their favor. Thus, he argues, the surety may renounce the one-year prescriptive period established in its favor and allow claimants to sue on the bond within two years from the due date of final payment.
+
+Article 11 of the Civil Code[2] does state that individuals may renounce whatever   advantages the law may have established in their favor; however, this is an exception to the general rule contained therein that, where a law is directed to the preservation of public order or good morals, the rule thus established may not be derogated from by private agreement. Reading further, article 12 more specifically states an example of rules founded on public order in its terse decree that "[w]hatever is done in contravention of a prohibitory law, is void, although the nullity be not formally directed." La.Civil Code art. 12 (1970).
+
+Statutory rules may be either imperative or suppletive.[3] Rooted in public policy considerations, an imperative rule is applied without regard to the intention of the individuals concerned. A prohibitory law, as mentioned in article 12, is one that is cast in the imperative form, but exhibits a negative, rather than positive, command. Examples of imperative rules include article 2589 (rescission of sales of immovables for lesion beyond moiety),[4] 3305 (requiring a conventional mortgage to be in writing),[5] and articles 2326 and 2329 (matrimonial agreements).[6] A suppletive rule, on the other hand, applies only if those affected by it have not excluded its application. Examples of suppletive rules include articles 2157 (debt is to be paid at the debtor's domicile)[7] and 1228 (collation of inter vivos gifts by descendants).[8] Thus, distinction between imperative and suppletive rules determines whether private individuals can set aside rules established by the legislature and regulate their legal relations by private agreement. If an agreement contravenes an imperative rule, it is absolutely null;[9] thus, it is not subject to ratification and may be annulled in judicial proceedings instituted by any interested party.
+
+Here, in determining whether the provision in the surety bond allowing two years for an action on the bond may supersede the one-year prescriptive period of La.R.S. 38:2247, we are confronted with the declaration of article 3460 of the Civil Code, that "[o]ne can not renounce a prescription not yet acquired, but it is lawful to renounce prescription when once acquired." La.Civil Code art. 3460 (1870). Thus, we must determine whether that text evidences an imperative rule, or, more specifically, whether the rule against anticipatory renunciation of prescription contained in article 3460 is a prohibitory law within the meaning of article 12, which cannot be derogated from by private agreement.
+
+Two methods have been suggested to determine whether a statutory text displays   an imperative or suppletive rule. The first is by an examination of the wording of the text. Simply stated, this view holds that, if the statute in question states its command in unequivocal terms and without exception, the rule there expressed is imperative.[10] However, if the statute is merely directory or contains a proviso such as "unless otherwise stipulated" or "except as otherwise provided," it states a suppletive rule of law that may be superseded by conventional agreement.[11] The second method of interpretation, suggested by those with reservations about the consistency of legislative drafting, evaluates the content of the statute to determine whether the rule is directed to the protection of an interest vital to the public order.[12] It has been suggested that proper technique requires consideration of both factors: the literal wording of the rule and the interest the rule was designed to protect.[13]
+
+Applying these two methods of interpretation, we find it clearly evident that article 3460 expresses a prohibitory rule of public order as contemplated by articles 11 and 12. The literal wording of article 3460 is clear and permits no exception to the rule against anticipatory renunciation. The interests protected, i. e., the extinction of the charge against the debtor as a result of the creditor's inactivity and the prevention of litigation brought long after memories have dimmed and evidence has been lost, have long been considered vital to the public order, both in Louisiana and France.[14]
+
+As a prohibitory law founded on the public order, article 3460 cannot be supplanted by private agreement. The stipulation that suit may be brought on the bond within two years, in contravention of the one-year prescription set forth in La.R.S. 38:2247, constitutes an anticipatory renunciation of prescription as proscribed by article 3460 and cannot be given effect. Hence, as the suit was brought more than one year from the date of recordation of acceptance of the contractor's work by the school board, it is barred by prescription.
+
+Plaintiff also urges that the dissimilar, more favorable, treatment accorded creditors suing on contractors' bonds under the private works act, where extension of the prescriptive period to two years has been upheld,[15] deprives him of the equal protection of the law in violation of the fourteenth amendment. U.S.Const, amend. XIV. However, under the rationale of our decision here, dissimilar treatment no longer exists. The prohibitory nature of article 3460 applies to proscribe all anticipatory renunciations of prescription, regardless of whether the contractor's bond guarantees   payment and performance on a public or a private construction project. Thus, plaintiff may no longer complain of discrimination against him.
+
+For the reasons assigned, the judgment of the court of appeal is affirmed.
+
+DIXON, J., dissents.
+
+TATE, J., dissents and assigns reasons.
+
+CALOGERO, J., dissents for the reasons assigned by TATE, J.
+
+TATE, Justice (dissenting).
+
+I respectfully dissent.
+
+The unpaid subcontractor's suit against the surety on the construction bond is dismissed because, allegedly, not timely brought. I think the majority is in error in finding the issue to be whether one can renounce a prescription not yet acquired. The issue is, rather, one of application of a contractual provision freely entered into in return for payment of a premium.
+
+St. Paul, the surety, entered into a performance bond whereby it contractually agreed to pay claims such as the present, provided that "Any suit under this bond must be instituted before the expiration of two (2) years from the date on which final payment falls due." (Italics ours.) Suit was indeed brought within two years by the unpaid contractor. Under the terms of the surety bond, he is entitled to payment of his claim.
+
+Despite the reasonably fairly certain result to be reached by permitting recovery on this suit under the bond, the majority holds this claim has prescribed.
+
+It does so by holding that the suit is prescribed, since not brought within one year from the date of recordation of the acceptance of the work, as allegedly required by La.R.S. 38:2247.
+
+The statute relied upon provides: "Nothing in this Part shall be construed to deprive any person or claimant within the terms of this Part of his right of action on the contractor's bond which shall accrue at any time after maturity of his claim, which said action must be brought against the surety or the contractor or both within one year from the registry of acceptance of the work * * *." (Italics ours.)
+
+The plain intent of the statute was to assure those protected by the bond of their right of action. The enactment also provided a (minimum) period under which a suit could be brought to enforce obligations under the contract.
+
+I can find no purpose in the statute which would prohibit the surety from affording a longer period to enforce its obligations under the contract and its surety bond. Thus, in the absence of a contractual provision such as the present, the one year prescriptive period would apply. Marquette Cement Manufacturing Company v. Norman, 249 La. 1027,
+192 So. 2d 552
+(1966). But where the contract itself provides a longer time within which to file suit, that longer period is applicable.
+
+As I read the French authorities translated at 5 Civil Law Translations (Louisiana State Law Institute, 1972), concerning the interpretations of French Civil Code Article 2220 (identical to our Civil Code Article 3460 prohibiting the renunciation of prescription in advance), at least some would not hold the present agreement violative of the code article or of the public policy announced thereby. See: Baudry-Lacantinerie & Tissier (1927) at chapter iii, section 64 bis (p. 41: "The issue is primarily that of contractual freedom. There is nothing in public policy against individual agreements about delays in the exercise of an action or the suspension of the prescription of a certain right for a certain period of time"), section 66 (not absolutely prohibited to extend in advance short prescriptions when not against public policy), section 67.
+
+*303 The danger of the broad rationale of the majority opinion is that it comes perilously close to classifying any agreement limiting the time within which to sue under a contract as an agreement either to renounce prescription or somehow to limit it. For instance, is a requirement in a property-loss insurance contract that suit must be brought within a year of the loss an infringement upon the ordinary right of a creditor to sue upon a written obligation for a longer period? Is the freedom of the parties so to contract somehow to be curtailed on the contention that one or the other is now renouncing prescription in advance, simply because the agreement for which consideration is paid provides a different suit-period than would apply if the contract were silent on the issue? I simply cannot believe so, and the circumstance that the present holding stands alone in our jurisprudence is, to me, an additional ground to test this new doctrine with some skepticism as an unwise and arbitrary restriction upon the freedom of persons to contract, so long as not against prohibitory law or public policy.
+
+Essentially, the majority does not attempt to follow the jurisprudence relied upon by the court of appeal. There, the court relied upon cases which held that the coverage (as to materials, rentals, etc.) of a contractor's bond could not be extended nor retrenched, since the terms of the statute were written into the bond, see La.R.S. 38:2241 (a different section than that we are now concerned with). See: Louisiana Highway Commission v. McCain, 197 La. 359, 1 So. 2d 545 (1941); Long Bell Lumber Co. v. Carr Const. Co., 172 La. 182, 133 So. 438 (1931); Patent Scaffolding Co. v. Ross Corporation, 172 So. 2d 364 (La.App. 4th Cir. 1965), certiorari denied, 247 La. 870, 175 So. 2d 108 (1965).
+
+These decisions are not at all applicable to this contractual agreement to permit suits on the contract to be instituted within two years. Nowhere is there a statutory provision providing that the bond itself must contain a one year clause nor prohibiting a bond from containing a two-year clause, such as does the present.
+
+It makes no sense to hold that the surety who collected a premium cannot permit a subcontractor, for whose protection (and the public owner's) the bond is required, to have by contract two years to file suit on the bond. No interest of the owner, the contractor, or any other party except the surety is adversely affected.
+
+Here, for instance, the subcontractor can recover against the general contractor (Cashio) for supplies furnished the latter by filing suit against him within a minimum of three years (Civil Code Article 3538 open accounts). La.R.S. 38:2247 does not affect that cause of actionthe statute only, at the most, applies to a "right of action on the contractor's bond", as it states.
+
+The effect of the majority's holding is to deprive the subcontractor of his cause of action to recover from the surety bondsman by his suit filed within the time provided by that surety bond, without benefitting the contractor or any other party except the surety who, for a premium, issued the bond.
+
+I therefore am of the firm opinion that the only previous decision cited to us concerning the exact issue before uswhether the minimum prescriptive period written into the public works contract statute as a protection for those protected by the performance bond, can somehow be converted into a maximum contractual period for allowing suitcorrectly decided it. DeFrances Marble and Tile Co. v. Coxe, 148 So. 2d 83 (La.App. 1st Cir. 1962), certiorari denied, 244 La. 114, 150 So. 2d 583 (1963) ("The judgment is correct.").
+
+As there stated by the late Judge Caldwell Herget: "There is no public policy which prohibits the surety company from voluntarily contracting to pay claims to unpaid workmen or furnishers of supplies more than one year or as in this case specifically within two years * * *." 148 So. 2d 88.
+
+For these reasons, I respectfully dissent.
+
+[1]  We originally granted the plaintiff's application for certiorari to assess the correctness of the distinction drawn by the court of appeal between the DeFrances and Patent cases. In DeFrances Marble & Tile Co. v. Coxe, 148 So. 2d 83 (La.App. 1st Cir. 1962), cert, denied, 224 La. 114, 150 So. 2d 583 (1963), suit was filed by a materialman against the contractor and his surety under the private works statutes. See La.R.S. 9:4801-42 (Supp.1974). The bond contained a provision similar to that in controversy here, allowing two years for a suit on a claim, despite the one-year prescription in the statutes. Id. 9:4814. Although the suit was filed after the one-year prescription period had run, the court of appeal regarded the provision in the bond as controlling and allowed recovery against the surety.
+
+In Patent Scaffolding Co. v. Ross Corp., 172 So. 2d 364 (La.App.4th Cir.), cert, denied, 247 La. 870, 175 So. 2d 108 (1965), suit was brought against the surety under the public contracts law to recover for rental and equipment not returned by the contractor to a materialman. The court of appeal denied recovery and invoked the established rule that, because a surety bond is mandatory in public contracts, the terms of the bond (which covered rental equipment) may neither enlarge nor diminish the conditions required by the statute (which excluded coverage of rental equipment). Thus, whatever was written into the bond not required by statute was given no effect.
+
+The court of appeal below relied on the Patent rationale and distinguished DeFrances on the ground that the rule of strict construction applied to all bonds given pursuant to public contracts, as was the case here. E. L. Burns Co. v. Cashio, 289 So. 2d 226 (La.App. 1st Cir. 1973). As will be seen, under the facts of this case, it is unnecessary for us to determine whether the distinction drawn by the court of appeal was correct.
+
+[2]  Individuals can not by their conventions, derogate from the force of laws made for the preservation of public order or good morals.
+
+But in all cases in which it is not expressly or impliedly prohibited, they can renounce what the law has established in their favor, when the renunciation does not affect the rights of others, and is not contrary to the public good.
+
+La.Civil Code art. 11 (1870).
+
+[3]  For a thorough discussion see R. David, French Law: Its Structure, Sources, and Methodology 83-92 (1960 ed. M. Kindred transl. 1972) [hereinafter cited as David]; Morrison, Legislative Technique and the Problem of Suppletive and Constructive Laws, 9 Tul.L.Rev. 544 (1935) [hereinafter cited as Morrison]; Symposium, Contractual Incapacity in the Louisiana Civil Code, 47 Tul.L.Rev. 1093, 1128-31 (1973) [hereinafter cited as Contractual Incapacity]. Morrison characterizes laws as constructive or suppletive, and subdivides the constructive classification into imperative and prohibitory. David employs the term imperative to encompass prohibitory as well, and thus does not use the constructive classification.
+
+[4]  David, supra note 3, citing French Civil Code art. 1674, equivalent to La.Civil Code art. 2589.
+
+[5]  Id., citing French Civil Code art. 2127, equivalent in part to La.Civil Code art. 3305.
+
+[6]  Contractual Incapacity, supra note 3, at 1128.
+
+[7]  David, supra note 3, citing French Civil Code art. 1247, equivalent to La.Civil Code art. 2157.
+
+[8]  Id., citing French Civil Code art. 843, equivalent to La.Civil Code art. 1228.
+
+[9]  See Contractual Incapacity, supra note 3, at 1128 & n. 280 and authorities cited therein. This concept has it origin in Roman law. See 12 S. Scott, The Civil Law 87 (1932).
+
+[10]  David, supra note 3, at 85; Morrison, supra note 3, at 550-53; Contractual Incapacity, supra note 3, at 1127-28.
+
+[11]  See note 10 supra.
+
+[12]  Morrison, supra note 3, at 553-56.
+
+[13]  Contractual Incapacity, supra note 3, at 1130-31.
+
+[14]  See, e. g., Bodcaw Lumber Co. v. Magnolia Petroleum Co., 167 La. 847, 120 So. 389 (1929); Nabors Oil & Gas Co. v. Louisiana Oil Refining Co., 151 La. 361, 91 So. 765 (1921); LeBleu v. LeBleu, 206 So. 2d 551 (La.App. 3d Cir. 1967); Dainow, The Work of the Louisiana Appellate Courts for the 1971-1972 Term, Prescription, 33 La.L.Rev. 235, 238-40 (1973). Article 3460 of the Louisiana Civil Code is a verbatim translation of French Civil Code article 2220. The French commentators, particularly Baudry-Lacantinerie and Tissier, declare the rule to be a fundamental protection for debtors, as it was feared that creditors might extract renunciations of prescription before extending credit. 28 G. Baudry-Lacantinerie & A. Tissier, Traite the orique et pratique de droit civil nos. 53, 59, 62 (4e ed. 1924 La.St.L.Inst. transl. 1972); see also 31 A. Carpentier & G. Fre rejouan du Saint, Repertoire general alphabetique du droit francois nos. 284-97 at 228-29 (1903); 7 E. Fuzier-Herman, Code Civil annote 928-29 (1949); 4 J. Maleville, Analyse raisonee de la discussion du Code Civil 309-09 (3e ed. 1822); 1 M. Planiol, Traite elementaire de droit civil no. 2712 (12e ed. 1939 La.St.L.Inst. transl. 1959); 2 id. nos. 630, 649 (He ed. 1939).
+
+[15]  For a discussion of prior jurisprudence on this point see note 1 supra.

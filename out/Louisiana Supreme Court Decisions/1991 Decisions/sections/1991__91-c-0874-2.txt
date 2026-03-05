@@ -1,0 +1,126 @@
+91-C-0874
+Security Homestead Ass'n v. Fuselier
+https://law.justia.com/cases/louisiana/supreme-court/1991/91-c-0874-2.html
+
+91-C-0874
+Security Homestead Ass'n v. Fuselier
+Court: Louisiana Supreme Court
+Release date: 1991-12-02
+Author: HALL, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1991/91-c-0874-2.html
+
+591 So. 2d 335 (1991)
+
+SECURITY HOMESTEAD ASSOCIATION
+v.
+Gregory J. FUSELIER. (Two Cases)
+SECURITY HOMESTEAD ASSOCIATION
+v.
+Gregory J. FUSELIER, Bobbie Johnson, Wife of/and Frank J. Williams.
+
+No. 91-C-0874.
+
+Supreme Court of Louisiana.
+
+December 2, 1991.
+
+*336 Regel L. Bisso, Robert G. Miller, Jr., Hulse, Nelson & Wanek, for applicant.
+
+Paul J. Mirabile, L. Mariene Quarles, Travis J. Causey, Jr., Dominic Gianna, Middleberg, Riddle & Gianna (Only on writs to this Court) for respondent.
+
+HALL, Justice.
+
+The issues in these deficiency judgment actions are (1) whether a creditor in an executory proceeding must conduct a diligent search to locate a defendant who is a Louisiana domiciliary and whose whereabouts are alleged to be unknown before seeking to have a curator[1] appointed to   represent that defendant on the basis that he is an absentee, and (2) whether a creditor who fails to provide proper notice of seizure to a defendant in an executory proceeding is barred from obtaining a deficiency judgment.
+
+These deficiency judgment actions were brought by Security Homestead Association[2] against the defendant, Gregory J. Fuselier, a Louisiana domiciliary. Fuselier opposed the deficiency actions on the basis that he was not properly served with notice of seizure in the underlying executory proceedings as Security served the required notices of seizure upon curators who were improperly appointed to represent him. Both the district court and the court of appeal found that the appointment of the curators was proper as Fuselier was an absentee, allowed recovery of the deficiencies from Fuselier, and dismissed Fuselier's claims for abuse of process and wrongful seizure. We reverse in part and affirm in part.
+
+In December 1977, Fuselier acquired three properties located at 1811-13, 1815-17, and 1819-21 Carondelet Street with financing obtained from Security. As part of the financing, Fuselier executed three promissory notes, each secured by a mortgage on one of the properties. In March 1978, Fuselier sold the property located at 1811-13 Carondelet Street to Mr. and Mrs. Frank L. Williams, who assumed the loan. The other two properties were leased with options to purchase to Williams. While Fuselier remained personally responsible for all three loans, Security's dealings regarding these loans were primarily with Frank Williams until September 1987. At that time, Security called Fuselier into its office to discuss a possible workout of these loans. Thereafter, the loans went into default, prompting Security to commence executory proceedings on each of the three loans.
+
+Security filed three separate petitions for executory process, two in November 1987 and one in December 1987. In each petition, Security requested that service be made upon Fuselier at 540 Arlington Drive, Metairie, Louisiana. Service was never accomplished, however, as the sheriff's returns reflected that Fuselier had moved or no longer lived at that address.
+
+In January 1988, Security filed a motion to appoint a curator to represent Fuselier in each case, alleging that Fuselier was a Louisiana domiciliary whose "known domicile" was "unavailing." The district court granted the motions, and the notices of seizure and notices to appoint appraisers were served upon the curators. In March and April 1988, the properties were sold to Security at judicial sales after appraisal.
+
+Thereafter, Security commenced the instant deficiency actions, requesting service on Fuselier at 4805 Cleary Avenue, Metairie, Louisiana. Fuselier was served at that address, and responded by filing in each case an answer and a reconventional demand for abuse of process and wrongful seizure, contending that he was not an absentee.[3] After a trial, the district court found that Fuselier was an absentee, rendered judgments against Fuselier, and dismissed Fuselier's reconventional demands. Fuselier appealed.
+
+While Fuselier specified seven assignments of errors, the court of appeal defined the essential issue as whether the trial court had sufficient basis for declaring Fuselier an absentee and appointing curators to represent him in each executory proceeding. In an unpublished opinion, the court of appeal affirmed, finding that although the trial court oversimplified the absentee concept, the record supported the finding that Fuselier was an absentee. 576 So. 2d 647 (La.App. 4th Cir.1991) (unpublished opinions).
+
+*338 Fuselier applied for writs, reurging the same assignments of error he urged in the court of appeal. We granted writs. 580 So. 2d 914-15 (La.1991).
+
+Fuselier contends that as he was not an absentee, nor was he served with notice of seizure as mandated by LSA-C.C.P. Article 2721 in any of the three underlying executory proceedings, Security is not entitled to deficiency judgments. Fuselier further contends that his actual knowledge, if any, of the foreclosures was irrelevant. More particularly, Fuselier concedes that he received actual notice of one of the seizures as a result of a curator's efforts, but contends that the improper appointment of the curators rendered any action taken by the curators irrelevant.
+
+On the other hand, Security contends that as Fuselier was an absentee, service of notice of seizure on each of the curators was proper, and it is therefore entitled to deficiency judgments. In any event, Security contends that improper service on the curators is merely a defect in the executory proceeding that may not be raised as a defense to a deficiency proceeding. In support of this position, Security cites First Guaranty Bank, Hammond, Louisiana v. Baton Rouge Petroleum Center, Inc.,
+529 So. 2d 834
+(La.1988) (on rehearing), and points out that Fuselier does not contend that the appraisals were improper.
+
+The appointment of a curator[4] in an executory proceeding is governed by LSA-C.C.P. Art. 2674, which provides:
+
+This provision is consistent with LSA-C.C.P. Art. 5091, which provides for the appointment of a curator to represent an absentee in an ordinary proceeding.
+
+The term absentee is defined by LSA-C.C.P. Art. 5251(1) as follows:
+
+We previously have construed the underscored language to mean that a party seeking the appointment of a curator to represent a Louisiana domiciliary, such as Fuselier, must establish not only that his whereabouts are unknown, but also that his whereabouts "could not have been discovered after a diligent search." Peschier v. Peschier,
+419 So. 2d 923
+, 926 (La.1982). While the court of appeal questioned our imposition of an additional requirement of a diligent search and suggested that by imposing this additional requirement we may have misread the disjunctive "or" in LSA-C.C.P. Article 5251(1) as a conjunctive "and," we reaffirm our statements in Peschier as correctly setting forth the requirements for appointing a curator for a Louisiana domiciliary. Moreover, we find the imposition of a diligent search requirement especially warranted in light of Mennonite Bd. of Missions v. Adams,
+462 U.S. 791
+, 103 S. Ct. 2706, 77 L. Ed. 2d 180 (1983), which held that constitutional due process concerns require reasonable diligence be exercised   to locate a party whose address is "reasonably ascertainable." A creditor must make a reasonable and diligent effort to determine the whereabouts of a defendant domiciled in Louisiana to support an allegation that the defendant's whereabouts are unknown and to support the appointment of a curator.
+
+While proof of the facts justifying the appointment of a curator in an executory proceeding need not be in authentic form, LSA-C.C.P. Art. 2637 requires that the creditor prove such facts, at a minimum, by verified petition or by affidavit submitted with the petition. Neff v. Ford Motor Credit Co., 347 So. 2d 1228, 1231 (La.App. 1st Cir.1977).
+
+Applying these principles, we find that the appointment of curators in these cases was erroneous, substantively and procedurally.
+
+Procedurally, Security failed to comply with the evidentiary requirements of LSA-C.C.P. Art. 2637, as in all three cases the facts justifying the appointments were contained solely in unverified motions which alleged:
+
+Substantively, Security failed to comply with the diligent search requirement set forth in Peschier, supra.[6] Indeed, the record reflects that Security's efforts to locate Fuselier's whereabouts consisted of simply checking the local telephone directory to verify the service address of 630 Arlington Street, which the sheriff's returns clearly indicated was no longer correct. The sheriff's return representing that the defendant had moved from the Arlington Street address was not sufficient to establish that his whereabouts were unknown. As Fuselier suggests, Security could have simply telephoned him at his listed phone number, as it did to arrange for his attendance at the September 1987 meeting only two to three months before the executory proceedings were instituted. The evidence does not indicate that Security, after learning that Fuselier was no longer at the Arlington Street address, made any effort to determine his current address. As Security failed to conduct a diligent effort or search to locate Fuselier, it cannot be said that his whereabouts were unknown and that he was an absentee. The curators' appointments were improper, and service of the notices of seizure upon the curators was therefore improper and defective.
+
+As mentioned above, a second issue to be decided is whether a creditor who fails to provide proper notice of seizure to a defendant in an executory proceeding is barred from obtaining a deficiency judgment. The defective notices in the instant cases stem from Security's improper appointment of curators, discussed above. Undisputedly, in the underlying executory proceedings Security served all the required notices upon the curators. Fuselier's sole basis for defending against these deficiency actions is Security's failure to   have him served with the notices of seizure, as required by LSA-C.C.P. Art. 2721.[7]
+
+LSA-C.C.P. Art. 2721(B) provides that "[t]he sheriff shall serve upon the defendant a written notice of the seizure of the property." As it is customary for mortgages to contain a waiver of the notice of demand required by LSA-C.C.P. Art. 2639, in most cases the notice of seizure is the only notice a defendant receives of the foreclosure. Rubin and Carter, Notice of Seizure in Mortgage Foreclosures and Tax Sale Proceedings: The Ramifications of Mennonite, 48 La.L.Rev. 535, 542-43 n. 35 (1988) (hereinafter "Rubin and Carter"). For this reason, this service requirement is mandatory and may not be waived. Official Revision Comment (b), LSA-C.C.P. Article 2721. As noted in Elmwood Federal Savings & Loan Assoc. v. Sanco Louisiana, Inc., 557 So. 2d 296, 299 (La.App. 4th Cir.1990), unlike Article 2639's demand for payment which may be waived, Article 2721's notice of seizure may not be waived, and a failure to provide notice of seizure of one's property entails constitutional due process concerns which are not present with the waivable Article 2639 demand requirement.
+
+While the jurisprudence has uniformally recognized that a creditor's failure to provide the defendant with notice of seizure under LSA-C.C.P. Art. 2721 precludes a deficiency judgment[8] and that the defendant's actual notice of an executory proceeding is insufficient to relieve a creditor of this mandatory obligation,[9] Security contends that our holding in First Guaranty, supra, overrules this jurisprudence. Particularly, Security contends that this defective service defense is analogous to the lack of authentic evidence defense that we held in First Guaranty, supra, is insufficient to preclude a creditor from obtaining a deficiency judgment. We disagree.
+
+The vast distinction between these two defenses was clearly articulated by Judge Tate in his concurring opinion in General Motors Acceptance Corp. v. Henderson, 228 So. 2d 323 (La.App. 3rd Cir.1969). Judge Tate distinguished the defense of lack of notice of seizure, which he labeled a "serious defect," from lack of authentic evidence, which he labeled a "slight irregularity," and concluded that a "debtor can defend against a deficiency judgment by proving that he had no actual or constructive notice of seizure required by law." Id. at 327. Judge Tate further observed that to preclude a defendant from raising as a defense to a deficiency action the complete absence of notice of seizure would be unconstitutional.
+
+In First Guaranty, supra, we likewise differentiated defenses based upon slight irregularitieslack of authentic evidence or minor defects of form or procedurefrom serious defenses based upon the creditor's failure to comply with procedural safeguards necessary for procedural due process to inhere. 529 So. 2d  at 841 n. 3. While a defendant who fails to raise slight irregularities in the executory proceeding may be barred from raising them in a subsequent ordinary action for a deficiency, U.S. Const. amend. XIV § 1 and La. Const. Art. I § 2 mandate that the courts allow serious constitutional defenses. Id.
+
+First Guaranty makes it clear that a defense based on formal or procedural defects in an executory proceeding must be raised in that proceeding, and may not be   raised as a defense, in an action for a deficiency judgment. The decision in that case also makes it clear, however, that a judicial sale with appraisal in accordance with the statutory provisions is a prerequisite to a deficiency judgment. This prerequisite is mandated by the deficiency judgment act, LSA-R.S. 13:4106 and 4107, and by LSA-C.C.P. Arts. 2771 and 2772, which preclude deficiency judgments where property is foreclosed and sold without appraisal in accordance with law.
+
+The statutory requirements of service of notice of seizure and notice to appoint appraisers are designed to afford the debtor with the right and a meaningful opportunity to participate in the appraisal process. Failure to comply with these requirements deprives the debtor of "a significant right, not a mere procedural nicety." FSLIC v. Tri-Parish Ventures, Ltd., 881 F.2d 181, 184 (5th Cir.1989). These requirements go to the heart of an effective appraisal process, the absence of which precludes a deficiency judgment. See First Acadiana Bank v. Bieber,
+582 So. 2d 1293
+, 1296 (La.1991).
+
+We, therefore, conclude that to the extent a creditor's failure to comply with the requirements of LSA-C.C.P. Art. 2721, to serve notice of seizure, and LSA-R.S. 13:4363, to serve notice of right to appoint appraiser, deprives a defendant of due process, the creditor will be barred from seeking a deficiency. Stated another way, when due to the improper appointment of a curator a defendant receives neither actual nor constructive notice of seizure or notice of the right to appoint an appraiser, the creditor will not be entitled to a deficiency, as the seizure was wrongful, the appraisal was defective and the defendant's due process rights were violated.
+
+In contrast, we find that when a defendant receives actual, albeit procedurally defective, notice of seizure through the efforts of a court appointed curator, the creditor will not be barred from seeking a deficiency for two reasons. First, the curator is an officer of the court appointed to ensure the defendant's due process rights are protected. See LSA-C.C.P. Arts. 374, 5094, and 5095. The attorney appointed to represent the absentee is charged with using reasonable diligence to communicate with the defendant and to inform him of the pending and nature of the proceeding. LSA-C.C.P. Art. 5094. To find, as Fuselier suggests, that the actions of such a court official in successfully providing notice are meaningless would be illogical.
+
+Second, and more significantly, a defendant who receives actual notice through the judicial process has been afforded due process, as "actual notice of actions affecting one's interest ... precludes one from raising a Mennonite type claim merely because that person was not more formally noticed." Rubin and Carter, supra at 567. Indeed, as to a defendant with actual notice from a court-appointed officer, the defective notice defense loses its constitutional dimensions, and partakes solely of a procedural complaint as to the creditor's failure to provide more formal notice strictly in accord with the statutory provisions. As to this type of procedural complaint, we find the rationale of First Guaranty, supra, applies.[10] Thus, a defendant with actual notice from a court appointed curator, even though the appointment of the curator was not proper, must assert the defense of improper appointment of the curator and defective notice in the executory proceeding and may not assert such procedural deficiencies in the action for a deficiency judgment.
+
+Application of these principles in these cases results in Security losing its deficiency judgment rights as to two of the mortgage notes. In the two executory proceedings involving 1811-13 and 1815-17 Carondelet Street, Fuselier did not receive actual notice until after the judicial sales.   As to these suits, we find that Security's failure to provide Fuselier with actual or constructive notice of the seizures or of his right to appoint appraisers resulted in wrongful seizures, defective appraisals and deprivations of Fuselier's due process rights. Thus, as to the debts asserted in these two suits, we find that Security is precluded from obtaining a deficiency judgment.
+
+As to the third suit involving 1819-21 Carondelet Street, Fuselier testified that in February 1988, before the foreclosure sale, he received actual notice of the seizure from the curator appointed in that case. Specifically, Fuselier received a letter from the curator; the letter was sent by the curator to the Arlington address, but forwarded to Fuselier's new Cleary address. As to this property, Fuselier's actual knowledge, coupled with his failure to raise the defense in the executory proceeding precludes the raising of that defense in the deficiency judgment action. Thus, as to this property, we find that Security is entitled to a deficiency judgment.
+
+For the reasons assigned, the judgments in favor of Security against Fuselier in District Court Nos. 87-22664 (1811-13 Carondelet Street) and 87-20677 (1815-17 Carondelet Street) are reversed, plaintiff's demands for a deficiency judgment are rejected, and those actions are remanded to the district court for the limited purpose of determining the damages, if any, to which Fuselier is entitled as a result of the wrongful seizures in those two actions. The judgment in favor of Security and against Fuselier in District Court No. 87-20676 for $39,985.33 with interest at the rate of 9% per annum through November 2, 1987, in the amount of $1,859.33, and interest commencing from November 2, 1989, at the rate of 9% per annum, until paid, plus attorney's fees in the amount of 10% of the unpaid balance, and all costs of that proceeding subject to a credit of $29,871.69, is affirmed.
+
+REVERSED IN PART, AFFIRMED IN PART, AND REMANDED IN PART.
+
+[1]  The term "curator" is not used in the Code of Civil Procedure articles relating to the appointment of an attorney at law to represent an absentee defendant. This term was used in the prior Code of Practice, is still frequently used by the bench and bar to refer to attorneys appointed for absentees, and will be used in that context in this opinion for ease of reference. LSA-C.C.P. Art. 5091 provides that the improper designation of the attorney appointed to represent a defendant as "curator ad hoc" or any other title does not affect the validity of the proceeding.
+
+[2]  In May 1989, Security was closed; its successor, Resolution Trust Corporation, has been substituted as the proper party plaintiff.
+
+[3]  Fuselier also filed an exception of no right of action in one of the cases based on Security's failure to join Williams as a party. As Fuselier did not raise the issue of Security's failure to join Williams before this court, the court of appeal's finding that Williams' joinder was unnecessary is not before us.
+
+[4]  When a curator is appointed under LSA-C.C.P. Art. 2674(1) to represent an absentee defendant, all service in the executory proceeding is made upon the curator pursuant to LSA-C.C.P. Art. 2641, which provides:
+
+In all cases governed by Article 2674, all demands, notices, and other documents required to be served upon the defendant in an executory proceeding shall be served upon the attorney at law appointed by the court to represent him, against whom the seizure and sale shall be prosecuted contradictorily.
+
+[5]  In one of the proceedings, the motion also included Williams.
+
+[6]  This diligent search to determine a domiciliary defendant's whereabouts is not equivalent to the diligent effort of the sheriff to serve the defendant customarily reflected on sheriff's returns. It is well settled, as set forth in Moore v. Moore, 340 So. 2d 404, 406 (La.App. 2d Cir.1976), that the person disputing a statement set forth in a sheriff's return that service was unable to be made despite due and diligent effort has the burden of showing he was available to be served or that a diligent effort was not made. The presumption of correctness accorded sheriff's returns may not be used to shift the burden of proof to the defendant in this case where the appointment of a curator is based on the defendant's whereabouts being unknown. Rather, the burden is on the party relying on the appointment of a curator to establish that a diligent effort was made to locate the defendant, particularly where the foreclosing creditor failed to comply with the proof requirements of LSA-C.C.P. Art. 2637.
+
+[7]  Our discussion regarding the defense of lack of notice of seizure should be read to encompass the similar defense of lack of notice to appoint appraisers required by LSA-R.S. 13:4363, which was not raised by the parties. In this regard, we note that service of a separate notice to appoint appraisers is not required if a notice to appoint appraisers is contained in the notice of seizure served on the defendant. Fidelity National Bank of Baton Rouge v. Pitchford, 374 So. 2d 149 (La.App. 1st Cir.1979). See also FSLIC v. Tri-Parish Ventures, Ltd., 881 F.2d 181, 183 (5th Cir.1989). The notices of seizure served on the curators in this case were accompanied by notices to appoint appraisers.
+
+[8]  See Neff v. Ford Motor Credit Co., 347 So. 2d 1228, 1231 (La.App. 1st Cir.1977); First Federal Savings & Loan Association of Natchitoches v. Burrows, 539 So. 2d 685 (La.App. 3d Cir.1989).
+
+[9]  See Commercial Bank & Trust Co. v. Marks, 441 So. 2d 369, 371 (La.App. 5th Cir.1983); Bank of New Orleans & Trust Co. v. Brule, 389 So. 2d 1148, 1150 (La.App. 4th Cir.1980).
+
+[10]  Another such procedural complaint to which First Guaranty, supra, applies is Security's failure to comply with the evidentiary requirements of LSA-C.C.P. Article 2637 in having the curators appointed. In light of First Guaranty, supra, this defect alone would not result in Security's loss of its deficiency if in fact Fuselier's whereabouts were unknown after a diligent search.

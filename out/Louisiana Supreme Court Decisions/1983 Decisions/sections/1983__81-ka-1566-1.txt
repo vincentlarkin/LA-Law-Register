@@ -1,0 +1,176 @@
+81-KA-1566
+Sawyer v. State
+https://law.justia.com/cases/louisiana/supreme-court/1983/81-ka-1566-1.html
+
+81-KA-1566
+Sawyer v. State
+Court: Louisiana Supreme Court
+Release date: 1983-11-28
+Author: BLANCHE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1983/81-ka-1566-1.html
+
+442 So. 2d 1136 (1983)
+
+Robert SAWYER
+v.
+STATE of Louisiana.
+
+No. 81-KA-1566.
+
+Supreme Court of Louisiana.
+
+November 28, 1983.
+
+Rehearing Denied January 6, 1984.
+
+Certiorari Denied April 2, 1984.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John M. Mamoulides, Dist. Atty., William C. Credo, III, Phillip J. Reeves, Louise Korns, Abbott J. Reeves, Asst. Dist. Attys., for plaintiff-appellee.
+
+Elizabeth W. Cole, New Orleans, Tulane Law School Clinic, for defendant-appellant.
+
+Certiorari Denied April 2, 1984. See 104 S. Ct. 1719.
+
+BLANCHE, Justice.
+
+Defendant was convicted of first degree murder and subsequently sentenced to death. The conviction and sentence were affirmed in State v. Sawyer,
+422 So. 2d 95
+(La.1982). Defendant applied for a writ of certiorari to the United States Supreme Court, on the ground that evidence of another crime not considered a statutory aggravating circumstance was admitted at the sentencing, thereby injecting an arbitrary factor into the jury's decision making process. The Supreme Court, ___ U.S. ___, 103 S. Ct. 3567, 77 L. Ed. 2d 1407 remanded the case to this court for consideration in light of the holding in Zant v. Stephens, ___ U.S. ___, 103 S. Ct. 2733, 77 L. Ed. 2d 235 (1983).
+
+The gruesome and depraved facts surrounding this case were given a thorough treatment in the court's previous opinion. See Sawyer,
+422 So. 2d 95
+(La.1983). Therefore, we give only a brief recitation of the circumstances leading to defendant's conviction. On September 29, 1979, Fran Arwood was at the residence of defendant, where she was helping to care for the young children of defendant's live-in girlfriend. Defendant and a friend, Charles Lane, attacked Ms. Arwood, striking her repeatedly in the face. Thereafter, the two men proceeded to torture the victim by first dunking her body into scalding water, then beating her and ultimately, setting fire to the victim's genitalia with lighter fluid. The testimony of Ms. Shano at trial also indicated that, at some stage, the victim was raped. After this savage attack,   defendant and Lane left the mortally wounded victim on the floor of the house until relatives of Ms. Shano arrived later in the day.
+
+Both defendant and Lane were indicted for first degree murder. Lane was tried separately and sentenced to life imprisonment. State v. Lane,
+414 So. 2d 1223
+(La. 1982). Defendant was convicted by a unanimous jury, which then proceeded to sentence defendant to death.
+
+At the sentencing hearing, the State reoffered evidence presented in its case in chief to establish that defendant had murdered the victim while in the perpetration of aggravated arson and aggravated rape, and that defendant had murdered the victim in an unusually cruel manner. Additionally, the State called a deputy prosecutor from Arkansas, who introduced documentary evidence that defendant had pled guilty to involuntary manslaughter of a four-year old child, and had served one year in prison as a result. Afterwards, defendant testified about the guilty plea and his version of the event leading to the child's death. Both defendant and his sister offered mitigating testimony as to defendant's brutal childhood and one time institutionalization at a state mental health facility.
+
+Upon hearing all the evidence, the jury announced its finding of three statutory aggravating circumstances: (1) that defendant was engaged in the perpetration of aggravated arson; (2) that the offense was committed in an especially heinous, atrocious and cruel manner; (3) that defendant was previously convicted of an unrelated murder and sentenced defendant to death. On appeal, this court found that the last aggravating circumstance was not supported by the evidence, 422 So. 2d  at 101, but correctly observed that only one aggravating circumstance need be found in order to place defendant in the category of offenders capable of receiving the death penalty. Defendant, however, argued that introduction of testimony relating to the manslaughter plea was improper, since it was neither admissible as an aggravating circumstance in the guilt phase of the trial, nor as other crimes evidence in the sentencing phase where defendant had not previously placed his character at issue. In upholding the admission of the testimony, this court found that Louisiana C.Cr.P. art. 905.2 allowed the evidence to be considered to show defendant's bad character, reasoning that defendant's character is put at issue by the nature of the proceeding, regardless of whether he takes the witness stand on his own behalf and places his character at issue.
+
+On remand, we are asked to consider our previous holding in light of Zant v. Stephens, ___ U.S. ___, 103 S. Ct. 2733, 77 L. Ed. 2d 235 (1983). In that case, the U.S. Supreme Court affirmed the constitutionality of a Georgia sentencing statute, finding that the invalidity of several aggravating circumstances found by the jury did not impair the death sentence in the case. Based upon our reading of Zant, we frame the following issues for resolution: (1) Under the Louisiana statutory scheme, does the finding of an additional aggravating circumstance that is later found invalid have any affect on the jury's sentence determination, where evidence of the invalid circumstance was otherwise admissible? (2) Was evidence of the invalid aggravating circumstance admissible in the instant case to show defendant's character, where defendant had not first placed his character at issue? (3) If inadmissible, was the evidence so consequential that it injected an arbitrary factor in the jury's decision to sentence defendant to death?
+
+Louisiana's capital sentencing procedure, La.C.Cr.P. arts. 905-905.9, is similar in many respects to the Georgia procedure examined in Zant.[1] As in Georgia, the trial   of an individual charged with first degree murder is bifurcated; consisting of a guilt phase and a penalty phase. During the guilt phase of the trial, the jury must make the initial determination whether the defendant belongs in the class of offenders who may be exposed to the death penalty. La.R.S. 14:30 provides that in addition to specific intent to kill a human being, the offense must include one of four aggravating circumstances.[2] Once the defendant has been found guilty, the jury must then determine whether defendant will be given the death sentence.
+
+The process of sentencing is explained in Code of Criminal Procedure Art. 905.3, which states:
+
+Clearly, then, the sentencing phase is itself broken down into two aspects. Initially, the jury must find the existence of at least one statutory aggravating circumstances before an offender can be sentenced to death. Because the aggravating circumstances listed in Article 905.4 include most of the aggravating circumstances listed in R.S. 14:30, the jury will usually have already found at least one aggravating circumstance before it reaches the penalty phase of the trial. Louisiana's scheme differs from Georgia's in this respect, for the class of offenders in Louisiana eligible for the death penalty is considerably narrower after the guilt phase of the trial.[3]
+
+Once a single aggravating circumstance is found, the jury may then consider all the evidence, both in aggravation and mitigation, in order to make the final determination that the offender should be put to death. The finding of additional aggravating circumstances are therefore unnecessary to advance the case to consideration of whether the death penalty will in fact be   imposed. Nothing in the statutory scheme requires that the jury weigh two or more aggravating circumstances more heavily against the defendant than a single aggravating circumstance. Rather, the finding of statutory aggravating circumstances is simply a preliminary step before any balancing process can be undertaken.[4]
+
+While the failure of an aggravating circumstance may not of itself impair the sentence, the introduction of otherwise inadmissible evidence in support of the circumstance could inject an arbitrary factor in the sentencing process. Defendant maintains in the instant case that inadmissible evidence was put before the jury in the form of testimony of the involuntary manslaughter conviction.
+
+Defendant's argument is based on the language of C.Cr.P. art. 905.2, which addresses the conduction of sentencing hearings. The article provides:
+
+Defendant contends that the second sentence of 905.2 precludes the introduction of other crimes evidence unless offered to show defendant's bad character, or to support a valid aggravating circumstance.[5] 905.4(c) limits other crimes which may be considered aggravating circumstances to convictions of unrelated murders, aggravated rape, or aggravated kidnapping, or where the offender has a significant prior history of criminal activity. It does not include guilty pleas, or for that matter,   convictions of involuntary manslaughter.[6] Accordingly, defendant argues that he has not placed his character at issue by taking the stand, evidence of the guilty plea cannot be introduced. As further support for this proposition, defendant points to the following sentence of 905.2which allows for other crimes evidence to be introduced regardless of whether defendant has taken the stand if it relates to the aggravating circumstancesas a limited exception to the general rules of evidence by which the hearing should be guided.
+
+This argument was espoused by defendant when the case was originally before this court, State v. Sawyer,
+422 So. 2d 95
+(La.1982). We rejected the argument then, and most recently, in the case of State v. Jordan,
+440 So. 2d 716
+(La.1983).[7] Now, after having been asked to reconsider the question, we affirm our prior holdings.
+
+The first sentence of 905.2, which defendant ignores in his effort to expand the meaning of the second sentence, expresses the true intent of the statutory scheme. When it commands that the sentencing hearing focus on the "circumstances of the offense and the character[8] and propensities of the offender," 905.2 makes it clear that the character of the defendant is one of the two most relevant factors with which the sentencing hearing should be concerned. As we observed in State v. Mattheson:
+
+407 So. 2d 1150
+, 1164 (La.1981). In State v. Jordan, we stated that "it is axiomatic that the conviction per se puts the convicted offender's character at issue"
+440 So. 2d 716
+, 720 (La.1983). At the heart of such a statement rests the underlying difference between the uses of character evidence at the guilt and sentencing phases of a trial. The rules of evidence prohibit the use of character evidence where defendant has not placed his character at issue for the simple reason that such evidence is not relevant to the issue of guilt. To the contrary, in a sentencing hearing, the jury is asked to scrutinize defendant's character, to ascertain whether the offender and the offense fit the statutory scheme for those whom the death penalty has been designed.
+
+We are of the opinion that the reference to the rules of evidence contained in Article 905.2 was placed there to regulate the introduction of competent versus incompetent evidence, and should not be construed to prohibit introduction of highly relevant character evidence at the sentencing hearing.[9] Thus, we conclude that the evidence of defendant's guilty plea to involuntary manslaughter of a four-year old child was properly admitted to show defendant's character.
+
+Although we find that the evidence was admissible under Article 905.2, and thus injected no arbitrary factor into the decision process of the jury, we think that even if the evidence had been inadmissible, no serious prejudice could have resulted to defendant. Defendant has argued strenuously   in his brief that the prosecutor relied heavily on the details surrounding defendant's guilty plea to manslaughter to convince the jury to return a death sentence. Regardless of whatever emphasis the prosecutor placed on the guilty plea, it is inconceivable, given the overwhelming evidence of the heinous nature of the principal offense already before the jury, that the additional evidence of the manslaughter plea could have seriously prejudiced defendant at that point.
+
+For the reasons assigned, we find that the failure of one of three statutory aggravating circumstances did not create an arbitrary factor in the sentencing of defendant by allowing inadmissible evidence to be considered by the jury. Therefore, the sentence of defendant is affirmed.
+
+AFFIRMED.
+
+CALOGERO, J., concurs. See the concurring portion of my concurring/dissenting opinion in State v. Jordan, 440 So. 2d  at 722.
+
+DENNIS, J., concurs with reasons.
+
+DENNIS, Justice, concurring.
+
+I concur in the result, but I adhere to the reasoning expressed in my concurring opinion on original review. See State v. Sawyer,
+422 So. 2d 95
+, 106 (La.1982).
+
+[1]  The Georgia sentencing procedure was explained in detail by the Georgia Supreme Court in response to the U.S. Supreme Court's certified question in Zant, 250 Ga. 97,
+297 S.E.2d 1
+(1982). Essentially, the Georgia System is divided into three planes:
+
+I. Ga.Code Ann. § 26-1101 separates those homicide cases which fall into the category of murder. This is an issue of fact determined during the guilt phase of the trial.
+
+II. Ga.Code Ann. § 27-2534.1 provides that unless at least one aggravating circumstance is found, the death penalty may not be imposed in a given murder case.
+
+III. Once it is determined that the death penalty may be imposed, the fact finder determines whether it shall be imposed. This determination takes into account all relevant evidence in mitigation or aggravation, and vests absolute discretion on the fact finder.
+
+Superimposed on this scheme is the automatic appeal to the Georgia Supreme Court, who determines whether the penalty was imposed under the influence of passion, prejudice or other arbitrary factors.
+
+[2]  La.R.S. 14:30 states:
+
+First degree murder is the killing of a human being:
+
+(1) When the offender has specific intent to kill or to inflict great bodily harm and is engaged in the perpetration or attempted perpetration of aggravated kidnapping, aggravated escape, aggravated arson, aggravated rape, aggravated burglary, armed robbery, or simple robbery;
+
+(2) When the offender has a specific intent to kill or to inflict great bodily harm upon a fireman or peace officer engaged in the performance of his lawful duties;
+
+(3) When the offender has a specific intent to kill or to inflict great bodily harm upon more than one person; or
+
+(4) When the offender has specific intent to kill or inflict great bodily harm and has offered, has been offered, has given, or has received anything of value for the killing.
+
+[3]  Under Ga.Code Ann., murder punishable by death is defined in the following manner:
+
+§ 26-1101 Murder
+
+(a) A person commits murder when he unlawfully and with malice a forethought, either express or implied, causes the death of a human being. Express malice is that deliberate intention unlawfully to take away the life of a fellow creature, which is manifested by external circumstances capable of proof. Malice shall be implied where no considerable provocation appears, and where all the circumstances of the killing show an abandoned and malignant heart.
+
+(b) A person also commits the crime of murder when in the commission of a felony he causes the death of another human being, irrespective of malice.
+
+Clearly, then what is considered second degree murder in Louisiana would be considered murder in Georgia, subject to the death penalty.
+
+[4]  Additional protection is afforded defendant by Rule 28 of the Louisiana Supreme Court, which provides for automatic review by this court to determine if the sentence is excessive. Included in this review are inquiries into whether:
+
+(1) the sentence was imposed under the influence of passion, prejudice or any other arbitrary factors; and
+
+(2) whether the evidence supports the jury's finding of a statutory aggravating circumstance; and
+
+(3) whether the sentence is disproportionate to the penalty imposed in similar cases, considering both the crime and the defendant.
+
+[5]  Article 905.4 provides that:
+
+The following shall be considered aggravating circumstances:
+
+(a) the offender was engaged in the perpetration or attempted perpetration of aggravated rape, aggravated kidnapping, aggravated burglary, aggravated arson, aggravated escape, armed robbery, or simple robbery;
+
+(b) the victim was a fireman or peace officer engaged in his lawful duties;
+
+(c) the offender was previously convicted of an unrelated murder, aggravated rape, or aggravated kidnapping or has a significant prior history of criminal activity;
+
+(d) the offender knowingly created a risk of death or great bodily harm to more than one person;
+
+(e) the offender offered or has been offered or has given or received anything of value for the commission of the offense;
+
+(f) the offender at the time of the commission of the offense was imprisoned after sentence for the commission of an unrelated forcible felony;
+
+(g) the offense was committed in an especially heinous, atrocious, or cruel manner; or
+
+(h) the victim was a witness in a prosecution against the defendant, gave material assistance to the state in any investigation or prosecution of the defendant, or was an eye witness to a crime alleged to have been committed by the defendant or possessed other material evidence against the defendant.
+
+(i) the victim was a correctional officer or any employee of the Louisiana Department of Corrections who, in the normal course of his employment was required to come in close contact with persons incarcerated in a state prison facility, and the victim was engaged in his lawful duties at the time of the offense.
+
+[6]  See State v. Antonio James,
+431 So. 2d 399
+(La.1983) (Blanche, J., concurring in part and dissenting in part).
+
+[7]  The opinion was authored by Judge Julian Bailes, sitting for Justice Marcus.
+
+[8]  Emphasis added.
+
+[9]  In a concurring opinion to Jordan, J. Lemmon noted the absurd result of applying the other crimes rule to a sentencing hearing:
+
+"It is therefore highly doubtful that the Legislature intended for the defendant to control the decision on which evidence of his character and propensities will be introduced at the penalty hearing. Yet this is exactly what the adoption of defendant's argument would permit." State v. Jordan,
+440 So. 2d 716
+, at 721 (La.1983) (Lemmon, J., concurring).

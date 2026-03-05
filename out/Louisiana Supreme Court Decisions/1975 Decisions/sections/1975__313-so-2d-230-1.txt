@@ -1,0 +1,133 @@
+55516
+National Gypsum Co. v. ADMINISTRATOR, LA. DEPT. OF EMP. SECURITY
+https://law.justia.com/cases/louisiana/supreme-court/1975/313-so-2d-230-1.html
+
+55516
+National Gypsum Co. v. ADMINISTRATOR, LA. DEPT. OF EMP. SECURITY
+Court: Louisiana Supreme Court
+Release date: 1975-04-24
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/313-so-2d-230-1.html
+
+313 So. 2d 230 (1975)
+
+NATIONAL GYPSUM COMPANY, Plaintiff-Appellant-Respondent,
+v.
+ADMINISTRATOR, LOUISIANA DEPARTMENT OF EMPLOYMENT SECURITY, et al., Defendants-Appellees-Relators.
+
+No. 55516.
+
+Supreme Court of Louisiana.
+
+April 24, 1975.
+
+Rehearing Denied May 30, 1975.
+
+*231 Leonard A. Washofsky, Jackson & Hess, New Orleans, for intervenor-applicant.
+
+Marion Weimer, Baton Rouge, for defendant-applicant.
+
+Samuel Lang, William C. Tidwell, III, Kullman, Lang, Inman & Bee, New Orleans, for plaintiff-respondent.
+
+C. Paul Barker, Dodd, Barker, Boudreaux, Lamy & Gardner, New Orleans, for amicus curiae.
+
+TATE, Justice.
+
+The employer ("Gypsum") seeks judicial review of an administrative determination that its employees were entitled to unemployment compensation benefits under the Louisiana Employment Security Law, La. R.S. 23:1471 et seq. The trial court affirmed the administrative determination, but a majority of the court of appeal reversed, over strong dissent. 300 So. 2d 527 (La.App.4th Cir. 1974), certiorari granted 303 So. 2d 175 (La.1974).
+
+The court of appeal upheld Gypsum's contentions that its employees were disqualified from receiving unemployment compensation on the ground that their unemployment was "due to a labor dispute which is in active progress" at the employment premises. La.R.S. 23:1601(4).[1]
+
+*232 The context facts are undisputed:
+
+The claimants are members of a labor union local. The existing contract expired on February 1st. Negotiations had been and were in progress for a new contract. The employees continued to report to work each day after the contract expired.
+
+At a negotiating session on February 3rd, the employer informed the union negotiators that the employees would be locked out if they did not by February 5th sign the contract offered by the employer. When the employees reported for work on February 5th, they found the gate locked and no work available. They reported to work each day thereafter during the lockout, but no work was available for them because the plant gates were locked.
+
+During the collective bargaining sessions, the union had informed the management that the employees would continue to work without a contract and would not strike, even if a strike was thereafter called, until after management had sufficient notice to assure the orderly closure of the plant. In fact, no strike was authorized by the union until March 4th.[2]
+
+A majority of the court of appeal held that, under these facts, the employer Gypsum had locked out its employees in the course of a labor dispute. It held that the unemployment was thus due to a labor dispute, within the disqualifying provisions of La.R.S. 23:1601(4) (see footnote 1 above).
+
+We are unable to agree with the court of appeal. In the light of the statutory purposes and in the context of the other disqualifying provisions, unemployment due to a lock-out by the employer is not, within the legislative intention, caused by "a labor dispute which is in active progress" at the premises. La.R.S. 23:1601(4).
+
+In enacting the unemployment compensation statute, the legislature solemnly declared that, "as a guide to the interpretation and application" of its statutory provisions, "the public policy of this state is declared to be as follows: Economic insecurity due to unemployment is a serious menace to the health, morals and welfare of the people of this state. Unemployment is therefore a subject of general interest and concern which requires appropriate action by the Legislature to prevent its spread and to lighten its burden which now so often falls with crushing force upon the unemployed worker and his family. The achievement of social security requires protection against this greatest hazard of our economic life." Thus unemployment compensation is not paid primarily to reward the employee nor to punish the employer, but rather to protect the stability of the state and of the family, by relieving the family distress and the menace to the public welfare occasioned through unemployment of individual workers.
+
+However, the legislature also provided for the disqualification from such benefits for employees who left employment or refused to accept it without good cause or who had been discharged for misconduct. La.R.S. 23:1601(1), (2) (see footnote 1 above). It additionally provided that employees could not receive benefits for unemployment "due to a labor dispute which is in active progress" on the premises.
+
+*233 In view of the strong public policy of the act designed to avoid crushing hardship on unemployed workers and their families, we think the more reasonable interpretation of the disqualification to be that unemployment due to "a labor dispute in active progress" includes only unemployment resulting from labor disputes in which the employee himself actively engages by refusing to work. We are reinforced in this interpretation by the further provision of the labor-dispute disqualification to the effect that an employee of a separate department shall not be deemed disqualified if he is unemployed because of a labor dispute within another department of the same premises.[3]
+
+In our opinion, the administrative board therefore correctly explained the purpose of the labor-dispute disqualification and why it is not applicable to the present claimants, here unable to work through no fault of their own: "The Unemployment Compensation Act is not intended to encourage idleness or labor disputes nor to force an employer to contribute benefits to help finance his employees' disputes with him. Only an employee prevented from working through no act of his own should be entitled to unemployment benefits."
+
+We thus regard the disqualification provision of La.R.S. 23:1601(4) as an expression of the public policy that the State remain neutral in labor disputes. The award or denial of unemployment compensation should not be available as a weapon to either labor or management, as they seek to resolve their differences.
+
+When employees are on strike, we have held that, by reason of the statutory policy, they cannot receive unemployment benefits. Senegal v. Lake Charles Stevedores, Inc., 250 La. 623,
+197 So. 2d 648
+(1967). We hold today that, for similar reasons, the act was not intended to enforce a lock-out by the employer by denying unemployment benefits to employees who are available for work, but who are denied it by their employer. To deny compensation under such circumstances would not only be to deny benefits to employees unemployed through no fault of their own, but would be to add a sanction not contemplated by law to conduct by the employer designed to withhold subsistence from his workers and their families in order to force them to accept the employer's terms.
+
+We thus do not believe that a labor dispute is in active progress, insofar as disqualification for unemployment benefits is concerned, when the employees are exercising their legal right through peaceful negotiation to bargain for what they deem to be better working conditions.
+
+To hold that, by resort to the economic coercion of a lock-out instead of to the bargaining table, an employer might also obtain his employees' disqualification from unemployment benefits to help feed themselves and their families, would be to encourage the resort to measures more aggressive than peaceful negotiation. The correct interpretation of the unemployment compensation act, in the light of its express policies and in the light of the general public policy in favor of peaceful bargaining negotiation, should not permit either party to provoke the award or denial of unemployment benefits in order to enforce the effect of a strike or of a lockout.
+
+We are aware that ours is a minority position among American jurisdictions; however, we are also aware that, in a number of instances where courts did not so interpret their unemployment statutes, such judicial interpretations were legislatively overruled in order to conform to the fundamental purpose and legislative intent of the unemployment compensation act. Broden, Law of Social Security and Unemployment Insurance, Section 9.03 (1962); Lewis, The Law of Unemployment Compensation   in Labor Disputes, 13 Labor L.J. 174 (1962).
+
+The only decision of this court interpreting the labor-dispute disqualification is Senegal, cited above.[4] It is not inconsistent with the result we here reach; we there held that a purpose of the labor-dispute disqualification was not to subsidize a strike.
+
+Similarly, our interpretation today prevents the disqualification from being used as a weapon to enforce a lock-out. The State should be neutral in labor disputes, and it should not encourage resort to aggressive measures in derogation of peaceful negotiation at the bargaining tables.
+
+For the reasons assigned, we reverse and set aside the court of appeal decree, and we reinstate the trial court judgment affirming the administrative determination that the employees are entitled to unemployment compensation benefits.
+
+Court of Appeal opinion set aside; trial court judgment reinstated.
+
+SANDERS, C. J., dissents and assigns written reasons.
+
+SUMMERS, J., dissents and will assign reasons.
+
+BARHAM, J., dissents for reasons assigned by SANDERS, C. J.
+
+SANDERS, Chief Justice (dissenting).
+
+At issue here is the right of a group of employees to receive unemployment compensation benefits.[1] The Court of Appeal held that the employees were disqualified from receiving benefits under LSA-R.S. 23:1601(4),[2] because the unemployment was due to a labor dispute. La.App., 300 So. 2d 527 (1974). I agree.
+
+Under the disqualification provision, we are obliged to determined whether or not a labor dispute was in progress and, if so, whether or not the claimants were "participating in or interested in" the dispute. See Senegal v. Lake Charles Stevedores, Inc., 250 La. 623,
+197 So. 2d 648
+(1967).
+
+I find the following narration of facts by the Court of Appeal to be correct:
+
+On the above facts, I conclude that there was a labor dispute in active progress; that the lockout resulted from a negotiation impasse; and that the employees, as members of the negotiating union, had an interest in the dispute.
+
+Despite these clearly established facts, the majority holds that no disqualification arose here, since the lockout was imposed by the unilateral action of management.
+
+I do not construe the disqualification provision so narrowly. LSA-R.S. 23:1601(4) is an expression of public policy that the State remain neutral in labor disputes. The public fisc should be unavailable to either labor or management as they seek to resolve their differences. We have theretofore applied this statutory policy in denying benefits to employees on strike. Senegal v. Lake Charles Stevedores, Inc., supra.
+
+A lockout is the closure of a plant or establishment by the employer as an economic weapon during a labor dispute. It is the counterpart of a strike. Federal labor law recognizes a lockout as a legitimate measure to support the employer's bargaining position. American Ship Building Co. v. N. L. R. B.,
+380 U.S. 300
+, 85 S. Ct. 955, 13 L. Ed. 2d 855 (1965); Adkins v. Indiana Employment Security Division, 117 Ind. App. 132, 70 N.E.2d 31 (1946). To subsidize the employees through unemployment compensation during a lockout would undermine the economic measure, which the law itself shelters. See LSA-R.S. 23:1531-1571.
+
+As the Court of Appeal noted, we are confronted here with an important state policy, that of maintaining state neutrality in labor disputes. By its decision, the majority has done violence to that policy. See Johns-Manville Corp. v. Doyal, 510 F.2d 1196 (5th Cir. 1975).
+
+For the reasons assigned, I respectfully dissent.
+
+SUMMERS, Justice (dissenting).
+
+I dissent for the reasons assigned by the Chief Justice.
+
+[1]  La.R.S. 23:1601 provides: "An individual shall be disqualified for benefits:
+
+"(1) If . . . he has left his employment without good cause connected with his employment. * * *
+
+"(2) If . . . he has been discharged for misconduct connected with his employment. * * *
+
+"(3) If . . . he has failed, without good cause, either to apply for . . . or to accept suitable work * * *.
+
+"(4) For any week with respect to which the administrator finds that his unemployment is due to a labor dispute which is in active progress at the factory, establishment, or other premises at which he is or was last employed; but such disqualification shall not apply if it is shown to the satisfaction of the administrator that he is not participating in or interested in the labor dispute which caused his unemployment. For the purposes of this Sub-section, if separate branches of work which are commonly conducted as separate businesses in separate premises, are conducted in separate departments of the same premises, each such department shall be deemed to be a separate factory, establishment or other premises.
+
+[2]  The claimants do not contend that they are entitled to compensation benefits after they went on strike, since they voluntarily entered into an active labor dispute at that time.
+
+[3]  See second sentence of La.R.S. 28:1601(4), quoted in footnote 1 above.
+
+[4]  Several court of appeal opinions have held that employees out of work because of a strike are not entitled to unemployment benefits. Hanndyman Homes, Inc. v. Administrator, etc., 192 So. 2d 827 (La.App.1st Cir. 1966); Brown v. Brown, 158 So. 2d 305 (La.App.1st Cir. 1963). They concern distinguishable facts. No rehearing or review was sought of the decision in Singleton v. Brown, 153 So. 2d 902 (La.App.1st Cir. 1963), which reaches a result inconsistent with our decision today.
+
+[1]  The present suit involves a single claimant, but the parties have agreed that the disposition of it will control the claims of the other employees.
+
+[2]  (4) For any week with respect to which the administrator finds that his unemployment is due to a labor dispute which is in active progress at the factory, establishment, or other premises at which he is or was last employed; but such disqualification shall not apply if it is shown to the satisfaction of the administrator that he is not participating in or interested in the labor dispute which caused his unemployment.

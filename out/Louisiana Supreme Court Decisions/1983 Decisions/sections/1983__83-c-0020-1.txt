@@ -1,0 +1,88 @@
+83-C-0020
+Valliant v. State, Dept. of Transp. & Dev.
+https://law.justia.com/cases/louisiana/supreme-court/1983/83-c-0020-1.html
+
+83-C-0020
+Valliant v. State, Dept. of Transp. & Dev.
+Court: Louisiana Supreme Court
+Release date: 1983-09-02
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1983/83-c-0020-1.html
+
+437 So. 2d 845 (1983)
+
+Wayne M. VALLIANT
+v.
+STATE of Louisiana, DEPARTMENT OF TRANSPORTATION AND DEVELOPMENT, et al.
+WESTBANK ELECTRIC, INC.
+v.
+STATE of Louisiana, DEPARTMENT OF TRANSPORTATION, et al.
+
+Nos. 83-C-0020, 83-C-0021.
+
+Supreme Court of Louisiana.
+
+September 2, 1983.
+
+Rehearing Denied October 7, 1983.
+
+*846 Roger I. Dallam, Greenberg & Dallam, Gretna, James Frederick, Jr., Baton Rouge, for applicant.
+
+Philip E. James, Jr., Andrew I. Brown, Henican, James & Cleveland, New Orleans, for respondents.
+
+LEMMON, Justice.
+
+The issue presented in this case is whether the lessor of movable property, which is used in performance of a public works contract, may recover the lease payments from the contractor's surety under the terms of the surety contract, although the lessor's claim against the governing authority is excluded from the protection of the statutes relating to Claims of Materialmen and Laborers on Public Works (La.R.S. 38:2241 et seq.). We hold that a public works contractor's surety, who binds himself (along with the contractor) in the contractor's bond to the payment of the contractor's debts to all furnishers of equipment, is liable to pay the claims of lessors of movable equipment used in constructing the project, even though such lessors have no privilege against the governing authority. The fact that the principal contract (between the contractor and the governing authority) does not give rise to a statutory obligation on the part of the governing authority toward a particular claimant does not prevent the separate accessory contract of surety (between the contractor and its surety) from giving rise to a contractual obligation on the part of the surety toward that claimant.
+
+On January 26, 1981, the State of Louisiana, through the Department of Transportation and Development (DOTD), entered into a contract with Pegasus Industries for the construction of a boat launching ramp and a parking area. Balboa Insurance Company was the surety on the contractor's bond furnished by Pegasus to DOTD.
+
+During the construction, plaintiffs Wayne Valliant and Westbank Electric, Inc. leased to Pegasus certain backhoes and bulldozers which were used in the work performed under the contract. Pegasus defaulted on the construction contract without having paid any of the rental charges to plaintiffs.
+
+On July 10, 1981, plaintiffs filed affidavits of lien and privilege, which asserted that Pegasus had not paid the charges under the rental contracts. Plaintiffs subsequently filed suit against DOTD, Pegasus and Balboa. Neither Balboa nor Pegasus filed an answer, and plaintiffs obtained a   default judgment against them in January, 1982.[1]
+
+Balboa appealed timely, contending that a surety may not be held liable for rental charges for movable equipment under the pertinent statutes and that the contractor's bond was intended to cover only claims within the coverage of those statutes. The court of appeal reversed, holding that La. R.S. 38:2241 et seq. does not grant a privilege to lessors of movable equipment. 424 So. 2d 1205. The court further rejected plaintiffs' alternative argument that La. R.S. 38:2247 accords the plaintiffs a direct action against the surety, without regard to the claims covered by the statutes.[2] The court relied on Mayeaux v. Lamco, 180 So. 2d 425 (La.App. 1st Cir.1965), which held that Section 2247 does not enlarge the class of persons entitled to coverage and that the phrase "any person or claimant within the terms of this Part" in Section 2247 restricts recovery on the bond to those persons specified in Section 2242.
+
+We granted certiorari primarily to consider the issue of whether the plaintiffs may recover the amount of their claims against the surety on the bond. 429 So. 2d 125.
+
+La.R.S. 38:2241 mandates the state, when contracting for certain construction of public works, to require the contractor to furnish a bond for the faithful performance of the contract, with the additional obligation to assure payment by the contractor for:
+
+Section 2242 provides that any "person" to whom money is due on the project may, by filing a sworn statement of the amount due him with the governing authority and by recording the statement, make the authority liable for the claim when a payment is thereafter made without deducting the amount of the claim thus served, if the money is due the "person" for:
+
+Thus, Section 2242 by its express terms excludes plaintiffs, as lessors of movable property, from the category of "any person" who may "file a sworn statement" and thereby trigger the conditional liability of the governing authority.[3] Moreover, the equipment furnished by plaintiffs was neither consumed nor incorporated into the project. See Slagle-Johnson Lumber Co. v. Landis Constr. Co.,
+379 So. 2d 479
+(La.1980). The critical inquiry in this case, however, is whether plaintiffs, although excluded from asserting a privilege against the governing authority under the statute, may assert the claim against the contractor's surety on the statutorily required bond, if the language of the bond exceeds the statutory requirements and encompasses their claims.
+
+Although Section 2241 requires a bond for payment of claims covered by the act (as well as defining such claims and, along with Section 2242, establishing a procedure for filing such claims and for notifying   the governing authority), the statutes do not limit the contractor to insuring payment only of those claims covered by the statutes. While the overall purpose of these statutes is to protect certain claimants who contract with the general contractor (but not with the governing authority), the bond is required primarily for the protection of the governing authority. However, nothing in this scheme for statutory protection of certain claimants and for limited liability of the governing authority prevents the contractor from contracting with the surety for payment of additional claimants not covered by the statutes.[4]
+
+Neither does La.R.S. 38:2247 contract or expand the number of claimants who may be covered by a contractor's bond. The purpose of Section 2247, which expressly recognizes that "any person or claimant within the terms of this Part" has a "right of action on the contractor's bond", is to make clear that a claimant who is granted a privilege under the Part against the governing authority is not deprived of his rights against the contractor's surety, even if the claimant loses his privilege (as by failing to record his sworn statement timely). However, nothing in Section 2247 suggests that the contractor and surety cannot contract to protect other claimants who are excluded from claiming against the governing authority or that any claimant covered by the bond must also be covered by Sections 2241 and 2242 in order to have an action on the bond.
+
+We therefore conclude that plaintiffs, although excluded from the coverage of the statutes, may recover on the bond, if the parties to that contract of surety contracted to assure payment of such claims.
+
+This conclusion is consistent with this court's decision in Construction Materials, Inc. v. American Fidelity Fire Ins. Co.,
+388 So. 2d 365
+(La.1980). In that case the plaintiff sold to a highway contractor certain signs, barricades and other items which were used in constructing the public works project, but which were not consumed or incorporated into the project. This court held that the seller, although not entitled to a statutorily protected claim against the governing authority, was entitled to recover against the surety who contracted to pay the contractor's unpaid workmen and suppliers by executing a bond which exceeded the statutory requirements.
+
+In the contract of surety in the present case, Balboa undertook, for an agreed consideration (a premium which apparently was based on the entire amount of the construction contract, since the bond was written for that amount), the accessory obligation of assuring Pegasus' performance of its obligations to perform the work and to pay certain workers and furnishers of material and equipment. Since plaintiffs contracted directly with Pegasus, they should have a direct action against Pegasus' surety, unless their claims are clearly excluded by the contract of surety. This contract of surety, in which Balboa bound itself expressly (along with the principal obligor) to DOTD and to "all sub-contractors, workmen, laborers, mechanics, and furnishers of materials and equipment" for the full amount of the project contract, may reasonably be construed to cover plaintiffs, who furnished directly to the contractor movable equipment necessary to complete the project and who were not paid by the contractor for furnishing this equipment.[5]
+
+*849 The above quoted language (and almost all of the language in the contractor's bond in the present case) is identical to the language in the contract of surety in the Construction Materials case. However, Balboa points out that this bond, unlike the bond in the Construction Materials case, contained the following additional provision:
+
+Arguably, since the contract of surety, which was executed after the Construction Materials decision, contained this additional language, a different result could be reached in the present case. However, the decision in Construction Materials was based on the express intent of the parties to the surety contract for the surety to assure performance of the contractor's obligation to pay "furnishers ... of equipment" (as well as to assure payment of other laborers and materialmen and the performance of the contractor's obligation to the governing authority, who required the bond). Had the parties to the surety contract in the present case intended for Balboa to assure Pegasus' payment only of those claims covered by the statutes governing public works, the parties could have so stated. But there is no indication in the contract of surety in the present case that the parties intended to assure payment only of those debts incurred by Pegasus on the project for which DOTD would also be contingently liable.
+
+We therefore conclude that Pegasus and Balboa contracted for Balboa to assure payment of all of Pegasus' project debts which were encompassed by the language of the bond, whether or not the claims of those creditors were also covered by the statutes relating to public works.
+
+Accordingly, the judgment of the court of appeal is reversed, and the judgment of the trial court is reinstated. All costs are assessed to respondent.
+
+MARCUS, J., dissents.
+
+[1]  DOTD filed an answer, but that case has not yet been tried.
+
+[2]  La.R.S. 38:2247 provides in part:
+
+"Nothing in this Part shall be construed to deprive any person or claimant within the terms of this Part of his right of action on the contractor's bond...."
+
+[3]  This express exclusion from coverage was added by Act 59 of 1960.
+
+[4]  There are two contracts involved in a public works project. The principal contract (between the governing authority and the contractor) gives rise to an additional statutory obligation on the part of the governing authority to pay certain of the contractor's debts under specific conditions. The accessory contract of surety, which is made for the purpose of assuring the performance of the principal contract (La.C.C. Art. 1771), gives rise to an obligation on the part of the surety to assure payment of any or of all the debts of the principal (the contractor), as set forth in the contract. Significantly, the surety contracts to assume payment of the obligations of the contractor, not of the governing authority.
+
+[5]  We reject Balboa's argument that a lessor of equipment is not a "furnisher" of equipment. One may furnish equipment to a contractor by sale or by lease, and the latter method of transaction is becoming increasingly important in times of complexity of construction operations and of emphasis on methods of tax savings.

@@ -1,0 +1,69 @@
+84-KA-1324
+State v. Taylor
+https://law.justia.com/cases/louisiana/supreme-court/1985/84-ka-1324-1.html
+
+84-KA-1324
+State v. Taylor
+Court: Louisiana Supreme Court
+Release date: 1985-02-25
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1985/84-ka-1324-1.html
+
+463 So. 2d 1274 (1985)
+
+STATE of Louisiana
+v.
+Walter J. TAYLOR.
+
+No. 84-KA-1324.
+
+Supreme Court of Louisiana.
+
+February 25, 1985.
+
+Concurring Opinion March 6, 1985.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., William R. Campbell, Nancy Sharp, Rockne Moseley, Asst. Dist. Attys., for appellant-plaintiff.
+
+Samuel S. Dalton, Jefferson, for appellee-defendant.
+
+DENNIS, Justice.
+
+Vehicular homicide is defined as the killing of a human being caused by a person's operation of an automobile when the operator's blood alcohol concentration is 0.10 percent or more[1]. La.R.S. 14:32.1. The trial court declared the statute unconstitutional, and the state appealed. La. Const. art. V, § 5. This appeal draws into question the trial court's construction of the statutory crime definition as requiring no causal link between a vehicle operator's blood alcohol concentration and the killing of a human being. We reverse. A genuine construction of the statute indicates a legislative aim to punish a person whose unlawful blood alcohol concentration in combination   with his vehicle operation causes the death of a human being.
+
+Defendant, Walter J. Taylor, was charged with the commission of vehicular homicide, La.R.S. 14:32.1, arising out of a fatal accident on February 10, 1984. Defendant moved to quash the bill of information. The trial court construed the statute as establishing that a traffic fatality caused by a vehicle operator having blood alcohol concentration of 0.10 percent or more is presumed to have resulted from his negligent operation and his unlawful blood alcohol concentration. Concluding that the statute sets up unconstitutional presumptions relieving the state of its burden of proof, the trial court struck the statute and quashed the bill.
+
+We do not view the statute as creating any presumptions. Giving the provisions of La.R.S. 14:32.1 a genuine construction, according to their context and with reference to their purpose, La.R.S. 14:3, we conclude that under the vehicular homicide statute, the state, in order to convict, must prove that an offender's unlawful blood alcohol concentration combined with his operation of a vehicle to cause the death of a human being. In our opinion, the statute does not establish any presumption of causation or negligence in aid of the prosecution; indeed, except for the offender's unlawful blood alcohol concentration during his operation of a vehicle, the state is not required to prove any negligence on his part as an essential element of the crime.
+
+The evident purpose of the vehicular homicide statute is to curb traffic fatalities caused by the consumption of alcohol. It is not aimed at persons involved in vehicular fatalities whose alcohol consumption does not cause but merely coincides with such an accident. A vehicle operator with unlawful blood alcohol concentration could be involved in many conceivable types of fatal accidents not caused in any way by his blood alcohol concentration. The punishment of persons who without fault and by coincidence fall in this latter class with the severe penalties intended for offenders whose alcohol consumption actually causes highway deaths is unnecessary to the legitimate purpose of the legislation and would constitute unwarranted statutory overkill.
+
+The criminal code expressly states that a crime is conduct defined as criminal, La.R.S. 14:7, and that criminal conduct consists of an act, a failure to act, or criminal negligence that "produces" criminal consequences. La.R.S. 14:8. Therefore, unless the legislature expressly stipulates otherwise, the conduct described in a crime definition "must result in" criminal consequences, id. Reporter's Comment. In other words, the conduct must be causally related to a prescribed criminal consequence. See La.R.S. 14:8, 9. Accordingly, the vehicular homicide statute should be construed to require proof of a causal relationship between an operator's unlawful blood alcohol concentration and the death of a victim in order to convict.
+
+Accordingly, under the statutory scheme of the criminal code the vehicular homicide statute complements the purposes served by negligent homicide and drunk driving laws. The DWI law makes it a crime to operate a vehicle when the operator's blood alcohol concentration is 0.10 percent, punishable on first conviction by a fine of no more than $500 and imprisonment of up to six months. La.R.S. 14:98. The negligent homicide statute makes it a crime to kill a human being by criminal negligence, punishable by imprisonment with or without hard labor for not more than five years, a fine of not more than five thousand dollars, or both. La.R.S. 14:32. The vehicular homicide statute imposes criminal sanctions similar to those imposed by the negligent homicide law, but requires a minimum prison sentence and a minimum fine, whenever a person's operation of a vehicle and his blood alcohol concentration of 0.10 percent or more combine to cause the killing of a human being. La.R.S. 14:32.1.
+
+Each statute serves to promote vehicular safety in a somewhat different way. Under the DWI statute, an offender is punished for creating a risk of accident, property damage, personal injury or death due   to his alcoholically impaired operation of a vehicle. On the other hand, enforcement of the negligent homicide statute punishes an offender whose criminal negligence causes the death of another, regardless of whether the accident was related to alcohol consumption. Finally, under the vehicular homicide statute an offender is exposed to somewhat more stringent punishment when his operation and his unlawful blood alcohol concentration combine to cause the death of another.
+
+Further support for our interpretation is found in the principles of the common law, in which the origins of Louisiana's criminal law in general and homicide law in particular are found. La.Act 1805, May 4, § 33; see State v. Moore, 196 La. 617, 199 So. 661 (1940). It is axiomatic that a crime is punishable in Louisiana only if made so by statute, State v. Vacarro, 200 La. 475, 8 So. 2d 299 (1942), but the historical basis of Louisiana's criminal law in the common law makes appropriate resort to common law principles for aid in interpreting legislative intent. See State v. Gyles,
+313 So. 2d 799
+(La.1975). At the common law, criminal liability for a killing attached in the following situations: (1) a killing caused by an act committed with the intent to kill or cause bodily harm, which is not excused or justified by other principles of law; (2) a killing caused by criminal negligence, regardless of the actor's intent; (3) an accidental or unintended killing caused by an unlawful act. 3 J. Stephen, a History of the Criminal Law of England, 20; 4 Blackstone, Commentaries, 176. There could be no conviction for homicide without proof of a causal link between the killing and actor's culpable conduct. W. LaFave and A. Scott, Criminal Law, 534, 596. Vehicular homicide fits neatly within the third category above if the driver's intoxication impaired driving (the unlawful act) must cause the death; if not, the crime would be an aberration from common law principles.
+
+Consequently, as we construe the statute, it does not contain the unconstitutional features upon which the district court based its decision. For the reasons assigned the judgment of the district court declaring the statute unconstitutional and quashing the bill of information is reversed and the case is remanded for further proceedings.
+
+REVERSED AND REMANDED.
+
+CALOGERO, Justice, concurring.
+
+While I agree that the trial judge's declaring the statute unconstitutional was incorrect, I hesitate to subscribe fully to this opinion. If the majority is stating that the crime of vehicular homicide is proved simply upon showing that .10 or better alcohol content combined with simple operation of a motor vehicle have caused the death of a human being, I suggest that such interpretation is either ambiguous or wrong. In my view a required additional element must surely be a showing that the .10 or better blood alcohol content has caused, or been accompanied by, at least negligent or substandard operation of the vehicle. Otherwise I cannot quite understand how the .10 or better blood alcohol content in defendant can cause the death of a victim.
+
+[1]  La.R.S. 14:32.1, as enacted by La.Acts 1983, No. 635, § 1, provides:
+
+A. Vehicular homicide is the killing of a human being caused proximately or caused directly by an offender engaged in the operation of, or in actual physical control of, any motor vehicle, aircraft, vessel, or other means of conveyance, whether or not the offender had the intent to cause death or great bodily harm, when:
+
+(1) The offender is under the influence of alcoholic beverages, as determined by chemical tests administered under the provisions of La.R.S. 32:662; or
+
+(2) When the offender's blood alcohol concentration is 0.10 percent or more by weight based upon grams of alcohol per one hundred cubic centimeters of blood.
+
+B. Whoever commits the crime of vehicular homicide shall be fined not less than two thousand dollars nor more than five thousand dollars and shall be imprisoned with or without hard labor for not less than two years nor more than five years.
+
+La.R.S. 14:32.1 was amended subsequent to the time when the instant facts arose. La.Acts 1984, No. 855, § 1.

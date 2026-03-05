@@ -1,0 +1,80 @@
+95-CC-0746
+Apolinar v. Professional Const. Services
+https://law.justia.com/cases/louisiana/supreme-court/1995/95-cc-0746-3.html
+
+95-CC-0746
+Apolinar v. Professional Const. Services
+Court: Louisiana Supreme Court
+Release date: 1995-11-27
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1995/95-cc-0746-3.html
+
+663 So. 2d 17 (1995)
+
+Alfredo APOLINAR
+v.
+PROFESSIONAL CONSTRUCTION SERVICES.
+
+No. 95-CC-0746.
+
+Supreme Court of Louisiana.
+
+November 27, 1995.
+
+Dwight Watkins Norton, Bernard Vincent Davis, New Orleans, for Applicant.
+
+Donald Edward McKay, Jr., Robert E. Leake, Jr., Leake & Anderson, New Orleans, for Respondent.
+
+Louis L. Robein, Jr., Nancy Picard, Metaire, for amicus curiae Southeast Louisiana Builders & Construction.
+
+LEMMON, Justice[*].
+
+This is an action against plaintiff's employer, Professional Construction Services (PCS), to recover overtime wages allegedly earned by plaintiff in performing work on a public works construction project in which PCS was the successful bidder in public bidding. We granted certiorari to decide whether the specifications for bids on the public construction contract violated the Louisiana Public Bid Law in La.Rev.Stat. 38:2212 A(1)(a) because the specifications contained a requirement for payment of overtime wages. We do not reach this issue, however, because PCS, in successfully bidding on the project, did not object to the overtime provision it now challenges and indeed submitted an unqualified bid to perform the work in accordance with all of the bid specifications. Accordingly, we hold that PCS waived any objection to the validity of the overtime provision in the bid specifications and must comply with the terms of the bid that it submitted on the project.
+
+The Board of Commissioners of the East Jefferson Levee District advertised for public bids for the Seventeenth Street Canal Westside Levee project. Paragraph 1.43 of the bid specifications for the project provided that workers on the project must be paid overtime of one and one-half times the hourly rate when they work "in excess of eight (8) hours in any calendar days or in excess of forty (40) hours in any work week, whichever   is the greatest number of overtime hours."[1] (emphasis added). PCS submitted a bid, without objecting to any of the specifications, and was the successful bidder on the project.
+
+Plaintiff was one of PCS's laborers on the project. Plaintiff worked fifty-two forty-hour work weeks at a rate of $9.00 per hour, and defendant paid him $360.00 per week. Although plaintiff never worked more than forty hours in any one work week, plaintiff worked four ten-hour days each week.
+
+Invoking the overtime pay requirement in Paragraph 1.43, plaintiff requested overtime pay of $13.50 per hour for two hours each work day, i.e., the hours he worked in excess of eight hours a day. PCS denied plaintiff's request, notifying plaintiff by letter that it is legally bound to pay overtime only for hours worked in excess of forty hours in any given week.
+
+Plaintiff thereafter commenced this action, seeking to recover overtime pay that PCS agreed to pay when it submitted its bid on the project. PCS filed a motion for summary judgment, arguing that no Louisiana law requires overtime pay when workers work in excess of eight hours in any calendar day and that the bid specification requiring such overtime pay violates the Public Bid Law. The trial court denied PCS's motion.
+
+The intermediate court granted PCS's application for supervisory writs and reversed. 94-2464 (La.App. 4th Cir. 2/23/95); 650 So. 2d 1239. Citing Louisiana Associated General Contractors v. Calcasieu Parish School Board,
+586 So. 2d 1354
+(La.1991), the court held that the bid specification requiring overtime pay violated the Public Bid Law.
+
+The Calcasieu case was an action to enjoin a school board from letting any public works contracts containing a prevailing wage rate specification. This court, while acknowledging that the Public Bid Law contains no express limitations on labor specifications mandating minimum wages, viewed the law as imposing implicit limitations on such specifications. Noting that specifications for materials that pertain to "quality" are allowed while specifications pertaining to price are not, this court concluded that the prevailing wage specification pertains to price and "stifles competition while at the same time not adequately insuring quality" and thus defeats the purpose behind the Public Bid Law.
+
+In the present case, the court of appeal, purportedly applying the Calcasieu rationale, held that the overtime requirement was an invalid specification pertaining to the price of labor, reasoning that "the overtime clause in this case has no essential or necessary connection to the intrinsic quality and character of the work done." 650 So. 2d  at 1240. The court of appeal concluded that the Board was not authorized to impose an overtime pay requirement in the bid specification or to make societal determinations in public bid contracts.
+
+Certiorari was granted to address the correctness of that decision. 95-0746 (La. 6/16/95); 655 So. 2d 351.
+
+The Louisiana Public Bid Law, La. Rev.Stat. 38:2212 A(1)(a),[2] mandates that all   public construction contracts of major significance be let to the "lowest responsible bidder." The Public Bid Law serves the dual purposes of (1) eliminating fraud and favoritism and (2) securing free and unrestricted competition among bidders, thereby avoiding undue or excessive costs. Louisiana Associated General Contractors v. Calcasieu Parish School Board, 586 So. 2d  at 1362.
+
+We granted certiorari in the present case to decide whether our holding in the Calcasieu decision requires a conclusion that the inclusion of any provision relating to wages in the bid specifications for a public works contract constitutes a violation of the Public Bid Law, even if the provision does not fix a minimum wage. Upon reviewing the record on certiorari, however, we conclude that PCS is not entitled to raise this issue. PCS did not qualify its bid or in any manner object to the provision prior to the time of bidding. Nor did PCS file a declaratory judgment action to have this term of the bid specifications declared invalid. Rather, PCS submitted an unqualified bid to perform the work in accordance with the specifications, as did every other bidder on the project.
+
+Some states have enacted procedures for protesting bid requirements, recognizing that it is necessary for a bidder to protest timely any objectional provision in bid specifications in order to allow the public body an opportunity to correct or clarify the specifications at a time when correction or clarification will be meaningful to all bidders.[3] But even in the absence of a statutory procedure, requiring timely objections assures fair competition among bidders by having the same specifications apply to all bids.
+
+We therefore conclude that PCS has waived any objections to the terms of the bid specifications and cannot now be heard to say that it need not pay the overtime wages that every bidder agreed to pay when the bids were submitted. While PCS perhaps may question the validity of the pertinent provision by protesting timely in bidding on future projects or by filing a declaratory judgment action if such a provision regularly is included in the District's bid specifications for public works projects,[4] the validity of the provision in the contract bid upon and entered into by PCS long ago is no longer subject to challenge.
+
+Accordingly, the judgment of the court of appeal is reversed, and the motion for summary judgment based on the defense of the invalidity of the provision for overtime wages is denied because Professional Construction Services waived any objections to that provision. The case is remanded to the trial court for further proceedings.
+
+[*]  Judge Ned Doucet, Jr., Court of Appeal, Third Circuit, sitting by assignment in place of Justice James L. Dennis. Calogero, C.J., not on panel. Rule IV, Part 2, § 3.
+
+[1]  In full, Paragraph 1.43 PAYMENT OF EMPLOYEES, provides as follows:
+
+No laborer or mechanic shall be required or permitted to be employed in this work in excess of eight (8) hours in any calendar day or in excess of forty (40) hours in any work week unless such laborer or mechanic receives compensation at a rate not less than one and one-half (11⁄2) times his basic rate of pay for all hours worked in excess of eight (8) hours in any calendar days or in excess of forty (40) hours in such work week, whichever is the greatest number of overtime hours.
+
+All employees engaged in this work shall be paid in full (less deducations made mandatory by law) no less often than once each week without subsequent deducations, rebate on any account the full amount due at time of payment computed in accordance with the provisions above, irrespective of any contractual relationship which may be alleged to exist between the contractor and/or subcontractor and such laborers and mechanics.
+
+[2]  La.Rev.Stat. 38:2212 A(1)(a) provides in pertinent part as follows:
+
+All public work exceeding the contract limit as defined herein, including labor and materials, and all purchases of any materials or supplies exceeding the sum of ten thousand dollars to be paid out of public funds, to be done by a public entity shall be advertised and let by contract to the lowest responsible bidder who had bid according to the contract, plans, and specifications as advertised, and no such public work shall be done and no such purchase shall be made except as provided in this Part.
+
+[3]  In Capeletti Bros., Inc. v. Department of Transp., 499 So. 2d 855 (Fla.App. 1st Dist.1986), cert, denied, 509 So. 2d 1117 (Fla.1987), the court required strict adherence to a statutory procedure for protesting bid requirements within a certain period after receipt of the project plans and specifications. The court stated that "[t]he purpose of the bid solicitation protest provision is to allow an agency, in order to save expense to the bidders and to assure fair competition among them, to correct or clarify plans and specifications prior to accepting bids."
+
+[4]  Compare Southwest Washington Chapter, Nat'l Elec. Contractors Ass'n v. Pierce County,
+100 Wash. 2d 109
+,
+667 P.2d 1092
+(1983), in which the plaintiffs, after dismissing some claims as to a particular project, ultimately sought only declaratory relief regarding future projects by the county. The court held there was a sufficient justiciable controversy because the challenged affirmative action provisions for the particular project were typical of those used in other county projects.

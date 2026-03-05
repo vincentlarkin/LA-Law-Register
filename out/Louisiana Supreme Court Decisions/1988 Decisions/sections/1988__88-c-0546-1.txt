@@ -1,0 +1,81 @@
+88-C-0546
+Nasello v. Transit Cas. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1988/88-c-0546-1.html
+
+88-C-0546
+Nasello v. Transit Cas. Co.
+Court: Louisiana Supreme Court
+Release date: 1988-09-12
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1988/88-c-0546-1.html
+
+530 So. 2d 1114 (1988)
+
+Katherine H. NASELLO
+v.
+TRANSIT CASUALTY COMPANY et al.
+Brenda BECKHAM
+v.
+TRANSIT CASUALTY COMPANY et al.
+Pauline N. CATALDIE et ux.
+v.
+TRANSIT CASUALTY COMPANY et al.
+
+No. 88-C-0546.
+
+Supreme Court of Louisiana.
+
+September 12, 1988.
+
+Rehearing Denied October 20, 1988.
+
+Richard Creed, Jr., Hampden R. White, Mathews, Atkinson, Guglielmo, Marks & Day, Baton Rouge, for applicant.
+
+Marc Judice, Kraig T. Strenge, Juneau, Hill, Judice, & Adley P.L.C., Lafayette, for respondent.
+
+DIXON, Chief Justice.
+
+In consolidated suits, plaintiffs Katherine Nasello, Brenda Beckham and Pauline Cataldie were awarded $97,500, $5,000 and $97,500 respectively in damages as a result of injuries sustained in an automobile accident in Evangeline Parish. Transit Casualty Company insured National Car Rental Systems, Inc. and Jorge Gonzales, the negligent driver of the rental car, for the first $100,000 of each plaintiff's damages for bodily injuries, making Transit Casualty the primary carrier before its insolvency. Great Northern Insurance Company insured Gonzales' employer for damages in "excess over any other collectable insurance."
+
+The sole issue presented by this case is whether Great Northern or Louisiana Insurance Guaranty Association is responsible for the damages that Transit Casualty is unable to pay due to its insolvency.
+
+The trial judge granted Great Northern's motion for summary judgment on the question, finding that Louisiana Insurance Guaranty Association became the primary carrier upon Transit Casualty's insolvency. The court of appeal affirmed. Nasello v. Transit Casualty Company et al., 524 So. 2d 1235 (La.App. 3 Cir.1988). We granted writs to consider the propriety of that conclusion.
+
+Act 81, § 1 of 1970 applies to all kinds of direct insurance, except life, health and accident, title, disability, mortgage guaranty and ocean marine insurance. R.S. 22:1377.   The legislature's express purpose for creating Louisiana Insurance Guaranty Association was to provide:
+
+The legislation creating Louisiana Insurance Guaranty Association called for its liberal construction to effect its purpose. R.S. 22:1378. Some forty-two states, including Louisiana, enacted legislation creating such associations between 1969 and 1972. Before that time, only three states had enacted such legislation. Epton and Bixby, Insurance Guaranty Funds: A Reassessment, 25 DePaul L.Rev. 227, 228-229 (1976).
+
+The courts of this state have interpreted the laws to protect claimants and policyholders and to advance their interests rather than the interests of the association and its members. Senac v. Sandefer,
+418 So. 2d 543
+(La.1982); Hickerson v. Protective National Insurance Co. of Omaha,
+383 So. 2d 377
+(La.1980); H & H Sewer Systems, Inc. v. Insurance Guaranty Association,
+392 So. 2d 430
+(La.1980); Louisiana Insurance Guaranty Association v. Bernard, 393 So. 2d 764 (La.App. 1st Cir. 1980).
+
+Great Northern argues that the association should be held responsible for the first $100,000 of each plaintiff's damages, relying on R.S. 22:1382(1)(b). That section provides that Louisiana Insurance Guaranty Association shall:
+
+Louisiana Insurance Guaranty Association, on the other hand, contends that it should be required to cover claims against insolvent primary carriers only in circumstances where the excess carriers also became insolvent; that is, the association reiterates its position that Great Northern as excess carrier should automatically "drop down" to cover Transit Casualty's exposure, as Louisiana Insurance Guaranty Association is the remedy of last resort under R.S. 22:1386. R.S. 22:1386 (1) provides that: "Any person having a claim against an insurer under any provision in an insurance policy ... shall be required to exhaust first his right" under that policy as long as that insurer is solvent. (Emphasis added).
+
+Louisiana Insurance Guaranty Association argues that the Great Northern policy provides other collectible insurance in this case. The "other insurance" clause in the Great Northern policy, both parties agree, provides:
+
+The rental car in this case was not owned by Gonzales' employer, the insured under the Great Northern policy. Great Northern claims to be only the "excess" carrier. Its policy, however, is only "excess over any other collectable insurance" on nonowned covered autos. There is no other collectible insurance, and Great Northern became the primary insurer upon the insolvency of Transit Casualty, according to the language of the policy.
+
+The "drop down" interpretation of a similar clause was approved in Mission National   Insurance Co. v. Duke Transportation Co., Inc., 792 F.2d 550, 553 (5th Cir. 1986).
+
+Because of the language contained in Great Northern's policy, the summary judgment was in error, and is reversed and vacated at respondents' cost. This case is remanded to the trial court for further proceedings consistent with this opinion.
+
+MARCUS, J., dissents and assigns reasons.
+
+WATSON, J., dissents, being of the opinion that the result conflicts with Washam and also adopts the reasons assigned by Marcus, J.
+
+MARCUS, Justice (dissenting).
+
+Great Northern's policy provides:
+
+The next step is to determine whether there is any other "collectable" insurance. Admittedly, Transit Casualty Company is insolvent, but Louisiana statutory law specifically provides for the collection of insurance in such an instance. In fact, the Louisiana Insurance Guaranty Association was formed with this purpose in the forefront. La.R.S. 22:1382 mandates that the association shall
+
+Therefore, if Transit is to be treated as if it never became insolvent, the claim against Transit as primary insurer is a collectable one, albeit against the association (LIGA). Hence, the pertinent part of La.R.S. 22:1386(1) which provides that
+
+does not apply here. Plaintiffs' claim against Great Northern is not a "covered claim" because it is collectable by virtue of La.R.S. 22:1382. Therefore, Great Northern's policy is excess. It does not "drop down" to cover Transit's exposure. Accordingly, I respectfully dissent.

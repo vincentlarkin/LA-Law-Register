@@ -1,0 +1,106 @@
+80-C-1827
+Hebert v. Brazzel
+https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-1827-1.html
+
+80-C-1827
+Hebert v. Brazzel
+Court: Louisiana Supreme Court
+Release date: 1981-09-08
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-1827-1.html
+
+403 So. 2d 1242 (1981)
+
+Derrell J. HEBERT
+v.
+George E. BRAZZEL, et al. (two cases).
+Maxine ROMERO, et al.
+v.
+George E. BRAZZEL, et al. (two cases).
+
+Nos. 80-C-1827, 80-C-1922, 80-C-1828, 80-C-1921.
+
+Supreme Court of Louisiana.
+
+September 8, 1981.
+
+Rehearing Denied September 28, 1981.
+
+*1243 Francis J. Mooney, Jr., of Curtis, Hyde, Mooney & McEachin, New Orleans, for plaintiffs-applicants.
+
+Allen L. Smith, Jr., of Plauche, Smith, Hebert & Nieset, James E. Williams, of Woodley, Barnett, Cox, Williams & Fenet, Lake Charles, for defendant-respondent.
+
+DENNIS, Justice.
+
+The original plaintiff, Derrell J. Hebert, brought an action for damages against the manufacturer of a valve. After his death, his widow and children were substituted for him as plaintiffs in that action, and a wrongful death suit was filed against the manufacturer by his widow individually and for his children. The cases were consolidated and tried before a jury and the plaintiffs appealed from the judgment in favor of the defendant manufacturer.[1] The court of appeal affirmed, 393 So. 2d 135 (La.App. 3d Cir. 1980) and this court granted writs.
+
+Hebert was injured during the course of his employment as a driller for Brazzel Well Service, at a well site in Beauregard Parish. The accident occurred as Hebert was removing a threaded gate valve from the top of a pressurized water tank. He thought he had opened the valve giving vent to all of the compressed air in the tank, but as he unscrewed the valve it was suddenly blown out of its fitting striking him in the chest. Hebert was treated for a ruptured esophaghus and other internal injuries. His condition improved somewhat but approximately one year after the accident he suffered a pulmonary embolism and died while undergoing treatment as a result of his injuries.
+
+A valve manufactured by NIBCO, Inc. was introduced into evidence. Its valve stem was broken, and its handwheel was broken off. As originally designed and manufactured, however, the valve could be opened and shut by turning a 23⁄4 inch handwheel. The handwheel was attached to a threaded valve stem which protruded from the valve. When the stem was turned, it raised or lowered a gate inside the valve which had the effect of opening or closing the valve's flow line. The gate had a threaded aperture through which the stem extended, so that the gate rode up and down the stem as it was turned. The valve stem and handwheel did not rise or descend as they were turned. Because the valve stem was broken on the valve introduced into evidence, the gate which blocked the flow line could not be opened by turning the valve stem.
+
+Hebert's co-workers testified that the NIBCO valve introduced into evidence was the one which caused the accident. All of the evidence indicates that the accident resulted from a broken stem in the valve. Hebert used a wrench to turn the valve   stem because the handwheel was broken off. His turning of the stem failed to vent the pressurized tank either because the valve stem was already broken or because the stem snapped as Hebert turned it with the wrench, allowing the gate to fall down into a closed position. Hebert's co-employees corroborated the latter theory by testifying that they heard air escaping through the valve for several seconds as he turned the stem with the wrench. The evidence was inconclusive, however, as to whether the valve stem was broken by its being forced beyond a normal open or closed position or due to some other reason. In any event, the valve's failure to open properly prevented a release of all the pressure from the tank causing the accident which occurred when Hebert unscrewed the valve from its fitting. Ultimately, the crucial issues presented to the jury were whether the accident was caused by a defect in the valve or by Hebert's use of excessive force with the wrench, and, if the latter, whether the danger of breaking the valve stem with the wrench was one which would be contemplated by an ordinary consumer or user.
+
+In response to special interrogatories the jury found:
+
+(1) That the valve in question was not defectively designed or manufactured by NIBCO.
+
+(2) That the valve was not in normal use at the time of its failure.
+
+(3) That the valve was not unreasonably dangerous to normal use.
+
+(4) That if the valve was defectively designed or manufactured by NIBCO, that that defect was not the proximate cause of Derrell Hebert's injuries and death.
+
+(5) That Derrell Hebert assumed the risk of his injuries.
+
+(6)-(8) That Hebert's widow and children were not entitled to recover damages.
+
+A manufacturer of a product which involves a risk of injury to the user is liable to any person, whether the purchaser or a third person, who, without fault on his part, sustains an injury caused by a defect in design, composition or manufacture of an article, if the injury might reasonably have been anticipated. However, the plaintiff claiming injury has the burden of proving that the product was defective, i. e., unreasonably dangerous to normal use, and that the plaintiff's injuries were caused by reason of the defect. Weber v. Fidelity & Casualty Ins. Co. of N. Y., 259 La. 599,
+250 So. 2d 754
+, 755 (1971).
+
+In reviewing findings of fact, an appellate court should not disturb a determination by the jury or the trial judge unless it is clearly wrong considering all the evidence. Arceneaux v. Domingue,
+365 So. 2d 1330
+(La.1979). Although the court of appeal correctly stated this standard of review in its opinion, it did not discuss the evidence from which it concluded that the factual findings of the jury were not clearly wrong. Without the court of appeal's discussion of the evidence to guide us, we granted writs on the basis of plaintiffs' claims that the jury erred manifestly in finding the facts and applying the rules of strict tort liability. After conducting our own review of the evidence and considering the arguments of the parties, however, we conclude that the decisions by the jury and the appellate court should be affirmed.
+
+The jury's determination that the plaintiffs failed to establish that the valve was defectively manufactured was not clearly wrong considering all of the evidence. The defendant manufacturer introduced substantial evidence from which the jury could have found that the valve stem probably was broken by excessive torque and not due to an internal weakness.
+
+Defendants' experts conducted tests on similar valve stems which tended to show that the stem in question could withstand force applied by an ordinary man with a 23⁄4 " handwheel but not stress generated directly on the valve stem by the same man using a 24" pipe or stillson wrench. In the experiment, the torque created by the wrench was roughly 21⁄2 times that applied by the handwheel. Plaintiffs' experts, who testified that the valve stem in question had been cast defectively as evidenced by   its centerline shrinkage, based their opinions on visual inspections without performing any physical strength tests. Their testimony was contradicted by defendants' witnesses who stated that centerline shrinkage was not uncommon and that their tests demonstrated that this phenomenon did not reduce the strength of the valve stem in question to a dangerous level in normal use. Accordingly, we conclude that the jury acted reasonably and within its proper function in finding that the valve stem was not defectively manufactured.
+
+Nevertheless, plaintiffs' counsel argues that the valve was defectively designed because it had no indicator to show when the valve was fully open or closed. He contends that use of a wrench on a valve with a broken handwheel is normal in oil field operations, but that it involves a danger of breaking the stem by forcing it beyond the ordinary stopping point. Hence, this court is urged to conclude that the jury was clearly wrong in failing to find that the valve was thus unreasonably dangerous in normal use.
+
+Although there may have been sufficient evidence from which the jury could have reached a different result, we do not think the trier of fact erred manifestly in finding that the plaintiffs failed to establish that the valve was defectively designed. A product is unreasonably dangerous when it is dangerous to an extent beyond that which would be contemplated by an ordinary consumer or user. DeBattista v. Argonaut-Southwest,
+403 So. 2d 26
+(La.1981); Foster v. Marshall, 341 So. 2d 1354 (La. App. 2d Cir. 1977); Loyacano v. Continental Ins. Co., 283 So. 2d 302 (La. App. 4th Cir. 1973); cf. Welch v. Outboard Marine Corporation, 481 F.2d 252 (5th Cir. 1973). See also Crawford, Products LiabilityThe Cause of Action, 22 La.Bar J. 239, 247-48 (1975). The expert witnesses testified that this type valve was commonly used and considered acceptable in the industry. The plaintiffs presented no evidence that an ordinary user would fail to contemplate the danger involved in opening the valve with a wrench. The jury reasonably could have concluded that an ordinary oilfield worker would appreciate the danger involved in greatly multiplying the torque to the valve stem by turning it with a 24" stillson wrench.
+
+Plaintiffs also argue that the manufacturer failed to warn of the dangers which would accompany use of a wrench to operate the valve. A manufacturer must give warning of any danger inherent in his product's normal use which is not within the knowledge of an ordinary user. Chappuis v. Sears Roebuck & Co.,
+358 So. 2d 926
+(La.1978); cf. Rey v. Cuccia,
+298 So. 2d 840
+(La.1974); Foster v. Marshall, supra; Amco Underwriters of Audubon Ins. Co. of American Radiator & Standard Corp., 329 So. 2d 501 (La.App. 3d Cir. 1976). However, as we noted in discussing the jury's finding that a design defect had not been proven, the record provides sufficient basis for a reasonable trier of fact to conclude that the danger of breaking the valve stem with a large wrench due to excessive torque was obvious to an ordinary worker.
+
+The jury found that the defendant manufacturer had proven its affirmative defenses of abnormal use and assumption of risk. Since we affirm the jury's decision that plaintiffs failed to establish a case of strict liability, however, the issues raised by these affirmative defenses will be set to one side, as irrelevant to our review in this case.
+
+Plaintiffs contend that the trial judge erred in allowing the manufacturer to introduce experimental evidence. Defendants' experts testified that they performed tests measuring the torsional strength of valve stems similar to the one in question in this case. They related that the valve stems used in the experiments had been reproduced from the same pattern, using the same alloy, the same dimensions, and the same thread pattern as were employed in making the valve in question in the 1950's.
+
+Plaintiffs' counsel objected to the introduction of the experimental evidence on the grounds that the experiments were conducted under dissimilar conditions. Defendants' experts conceded on cross-examination   that there were twenty-one individual differences between conditions during the experiments and those surrounding the accident. These variations merely demonstrated that the conditions were not identical, however, and do not establish that the experiments lacked probative value.
+
+The lack of similarity between the conditions of the experiment and those of the accident concerned such matters as the use of different workmen and lathes to make test valve stems, the possibility that the points of fracture on the valve stems may have been different, a difference in the design of the handwheels, the possibility that the strength of the men who turned the stems may have varied, and the fact that centerline shrinkages in valve stems, like fingerprints, are never identical. Plaintiffs failed to present any evidence that these variations destroyed the substantial similarity of conditions insofar as they were relevant in demonstrating the torsional strength of the valve stem in question.
+
+As noted by McCormick:
+
+"Usually the best gauge of the probative value of experiments is the extent to which the conditions of the experiment were identical with or similar to those obtaining in respect to the litigative happening. Accordingly, counsel in planning experiments must seek to make the conditions as nearly identical as may be, and in presenting the evidence he must be prepared to lay the foundation by preliminary proof of similarity of conditions. Though the similarity formula is sometimes overrigidly applied, most courts will recognize that the requirement is a relative one, so that where a high degree of similarity is not attainable, the court might still conclude that the results of the experiment are of substantial enlightening value to the jury to admit the evidence. Manifestly, if the trial judge is to be given responsibility for exercising such an indefinable value-judgment he must be accorded a reasonable leeway of discretion reviewable only for abuse." McCormick on Evidence, pp. 485-86 (2d ed. 1972). We think the trial judge acted within the reasonable discretion accorded him in determining that the degree of similarity attained sufficiently approached identicalness to be of substantial enlightening value to the jury without being misleading.
+
+Plaintiffs contend it was error for the trial court to allow introduction of the deposition of a plaintiffs' expert witness because 1) the witness was deceased at the time of the trial, 2) his testimony was hearsay, 3) his testimony was based on privileged information supplied by plaintiffs' counsel, 4) the deposition was inaccurately transcribed, and 5) the deposition contains irrelevant material and gross suppositions not in evidence.
+
+Article 1450 of the Code of Civil Procedure provides that at trial, so far as admissible under the rules of evidence applied as though the witness was then present and testifying, the deposition of a witness may be used for any purpose if the court finds that the witness is dead. See Maraist, 24 La.Bar J. 161, 167 (1976). Accordingly, the witness's death did not prevent use of his deposition. Since the rules of evidence applied as though the witness was present and testifying at trial, that he related hearsay facts given him by plaintiffs' counsel did not justify the exclusion of his testimony. He was called as an expert witness and the facts upon which he based his opinion were admissible. Moreover, these facts were consistent with the other evidence of the accident introduced at trial.
+
+The remaining grounds asserted for excluding the deposition are equally meritless. Our review of the deposition fails to disclose that the trial judge neglected to exclude hearsay, that the testimony was irrelevant or contained gross supposition, or that the jury was informed of the existence of other original parties to the suit. The plaintiffs have failed to even point out for us the portions of the deposition which they contend were inaccurately transcribed.
+
+Accordingly, the judgment of the court of appeal is affirmed.
+
+AFFIRMED.
+
+[1]  Before trial the plaintiffs settled tort claims with the following defendants: 1) George Brazzel, president and chief executive officer of Brazzel Well Service, Inc., Hebert's employer; 2) A. C. Company of South Louisiana, Inc., alleged to have designed and constructed the water tank to which the valve was attached; 3) Joseph Gibson, Vice-President of Brazzel Well Service and president of A. C. Company; and 4) their insurers.
+
+In addition, before trial, McDonald Well Service, Inc., which sold the water tank to Brazzel Well Service, and Hunt Oil Co. and the Estate of H. L. Hunt, whose employee allegedly was supervising Hebert at the time of the accident, and their insurers were dismissed by summary judgment.

@@ -1,0 +1,105 @@
+58895
+Odom v. Odom
+https://law.justia.com/cases/louisiana/supreme-court/1977/345-so-2d-1154-1.html
+
+58895
+Odom v. Odom
+Court: Louisiana Supreme Court
+Release date: 1977-04-11
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/345-so-2d-1154-1.html
+
+345 So. 2d 1154 (1977)
+
+Robert ODOM
+v.
+Christa ODOM.
+
+No. 58895.
+
+Supreme Court of Louisiana.
+
+April 11, 1977.
+
+Dissenting Opinion June 1, 1977.
+
+George H. Jones, New Orleans, for defendant-respondent.
+
+Ivor A. Trapolin, New Orleans, for plaintiff-relator.
+
+DIXON, Justice.
+
+On May 1, 1975 Robert Odom was granted a divorce from Christa Gertrude Odom (now Lemming) on the grounds of adultery. In a letter dated November 24, 1974 Christa Odom confessed adultery and stated that she did not desire the custody of her two minor children; she consented to allow her husband to take the children "any place in the world." Pursuant to the evidence adduced at trial, Robert Odom was granted the permanent care and custody of the two minor children on May 1, 1975.
+
+On October 31, 1975 Christa Odom was granted visitation rights with the children of the marriage. Sometime after this judgment was rendered (apparently around the first of May, 1976) Robert Odom moved to San Antonio, Texas and took his two children with him. On September 22, 1976 Christa Odom filed a rule for contempt and change of child custody in these same proceedings. On October 7, 1976 the district judge refused to sign this rule on the basis that there was no jurisdiction to modify the custody award previously entered. The Fourth Circuit Court of Appeal issued a writ of mandamus setting aside the October 7, 1976 judgment and ordered the district judge to appoint a curator for the absent husband and to hear the matter. On the curator's application we granted writs to review the jurisdictional issue.
+
+C.C.P. 10 provides in part:
+
+The minors in this case are physically present in Texas with the husband, who has legal custody. Since the domicile of a minor is that of the parent to whom custody is granted, C.C. 39, the children are domiciled in Texas. Therefore, absent an independent   basis for jurisdiction, Louisiana courts lack jurisdiction to hear this custody proceeding unless the jurisdiction of the court over the status of the children when the original custody decree was rendered can be said to continue, even in the absence of the children and their custodian.
+
+The Courts of Appeal are divided on the question of whether jurisdiction continues for purposes of determining custody of a nonresident child whose custody was previously determined by a Louisiana court while the child was present in Louisiana. The First and Second Circuits have held that courts lack jurisdiction to determine custody matters if the child is neither domiciled nor physically present in Louisiana. Stewart v. Stewart, 233 So. 2d 305 (La.App. 1st Cir. 1970); Nowlin v. McGee, 180 So. 2d 72 (La.App. 2d Cir. 1965). However, the Third and Fourth Circuits have recently noted that a court which rendered a separation or divorce retains jurisdiction over all matters incident to the separation or divorce, including custody. Bates v. Bates, 331 So. 2d 122 (La.App. 4th Cir. 1976); Lynn v. Lynn, 316 So. 2d 445 (La.App. 3d Cir. 1975); Pattison v. Pattison, 208 So. 2d 395 (La.App. 4th Cir. 1968).
+
+In Imperial v. Hardy,
+302 So. 2d 5
+(La. 1974), we held that when a nonresident father invoked the jurisdiction of Louisiana courts to obtain custody of his children present in Louisiana, and is cast for child support in an incidental demand, jurisdiction of the court over the husband continues when the wife later seeks to increase child support. It does not necessarily follow, however, that jurisdiction continues over all the parties for all purposes. In alimony or child support cases there are significant reasons to support the continuing exercise of jurisdiction by Louisiana: the child or spouse to whom the support is owed is a Louisiana resident whose welfare is a legitimate interest, if not ultimate responsibility, of the state. However, in the case before us, the parent with legal custody and the children are neither present nor domiciled in this state. Louisiana's responsibility for the welfare of such a child is remote, and its interest is, at most, vicarious and conditional because of the presence in the state of the parent who does not have custody. The state where the child is domiciled (or located) has a much more immediate interest and responsibility for, and ability to regulate conditions affecting, the welfare of the child. There are no compelling reasons for Louisiana courts to attempt to exercise "continuing jurisdiction" over the status of the absent children in this case. (What we say here has no reference to a case in which the parent obligated to support the child is in Louisiana and the child and its custodian are absentees).
+
+Lukianoff v. Lukianoff, 166 La. 219, 116 So. 890 (1928), cited to support the doctrine of "continuing jurisdiction," decided only that when a Louisiana court granted a judgment of separation to the wife its jurisdiction to grant a divorce based on the separation judgment continued, under the statutes and jurisprudence, even after both parties had moved from the state. In Wheeler v. Wheeler, 184 La. 689, 167 So. 191 (1936), the minor was actually present in Louisiana, although domiciled elsewhere, and, thus, the result of the case is correct under C.C.P. 10A(5). Other cases by this court in which the statement is found that jurisdiction continues even when the parent awarded legal custody and the child have changed domiciles and are no longer present in Louisiana are factually different from the case before us. Pullen v. Pullen, 161 La. 721, 109 So. 400 (1926), involved the custody of a child domiciled and present in Louisiana; the case actually dealt with continuing venue. Wilmot v. Wilmot, 223 La. 221,
+65 So. 2d 321
+(1953), involved the question of whether a parent who was awarded custody would be permitted to leave the state with the children; the court stated that jurisdiction would remain in Louisiana if the parent left the state, but that matter was not at issue.
+
+The instant case is "a proceeding to obtain the legal custody of a minor . . ." It is specifically the kind of case for which the legislature intended to grant jurisdiction only if the minor is present in the state   or is domiciled here. C.C.P. 10A(5). We are not required in this case to fully discuss the nature of a custody decree, nor to determine when the jurisdiction of a court which has granted a judgment of custody terminates. We only conclude that, absent a showing of some compelling reasons for the Louisiana court to attempt to exercise continuing jurisdiction, the district court was without jurisdiction in this case to entertain a petition for custody.
+
+Since we conclude that the district court was without jurisdiction in this case, we do not decide whether the exercise of continuing jurisdiction in custody cases might violate due process or whether principles of comity could affect the exercise of such jurisdiction. See State in Interest of King,
+310 So. 2d 614
+(La.1975). When an appropriate custody matter comes before the court in which jurisdiction exists, it can then be determined whether these principles prevent the court from acting.
+
+For these reasons, the judgment of the Court of Appeal is reversed and the judgment of the district court is reinstated.
+
+SANDERS, C. J., dissents and assigns written reasons.
+
+SANDERS, Chief Justice (dissenting).
+
+The majority summarized its holding in the following language:
+
+As I view it, the doctrine announced here is that there will be continuing jurisdiction in some custody cases, while in others there will be none. The test is whether or not there is a compelling reason for the court to act. I disagree with this holding. Besides being unsound in legal theory, it leaves jurisdiction in a state of uncertainty.
+
+Jurisdiction is properly defined as the power and authority of the court to hear and determine a matter. LSA-C.C.P. Art. 1; West v. Winnsboro, 252 La. 605,
+211 So. 2d 665
+(1968).
+
+Louisiana Code of Civil Procedure Article 10A(5) proves that a court otherwise competent has jurisdiction of "[a] proceeding to obtain the legal custody of a minor if he is domiciled in, or is in, this state."
+
+On December 3, 1974, Robert Odom filed suit for a divorce and custody of his minor children in the Civil District Court of Orleans Parish. At the time of the institution of the suit, the father, mother, and children were domiciled in Orleans Parish. On May 1, 1975, judgment was rendered in favor of Robert Odom, granting him a divorce and custody of the two minor children. On September 26, 1975, the mother, Christa Odom, filed a rule in the proceeding, seeking to have the court fix her visitation rights. On October 31, 1975, after a hearing on the rule, the court fixed the mother's visitation as follows: each Sunday, alternate Saturdays, specified days during the Christmas season, and two weeks during the summer vacation. Several months after this judgment was rendered, the father moved to San Antonio, Texas, taking the two children with him.
+
+On September 23, 1976, the mother filed in the divorce proceeding a rule for contempt for the father's denial of her visitation rights and for a change of custody. Alleging that the father was a nonresident, she sought the appointment of an attorney-at-law to represent the father and to receive service of the rule. It is the jurisdiction of this rule for modification of the custody decree which is now before this Court.
+
+There can be no doubt that the court had jurisdiction to issue the original custody decree incidental to the father's divorce action. The father, mother, and children were domiciled in Orleans Parish, Louisiana, where the matrimonial domicile had existed. See LSA-C.C.P. Art. 10A(5).
+
+Judgments awarding custody of minor children look to the future and are subject to modification at any time. Simon v. Calvert, La., 312 So. 2d 284 (1975); State v. Savoie, 185 La. 985, 171 So. 98 (1936); State   v. Cooke, 183 La. 404, 164 So. 153 (1935); Ransom v. Mitchell, La.App., 193 So. 2d 359 (1966).
+
+The majority rule is that the removal of minor children from the state by the custodian does not oust the court's jurisdiction to modify its own revocable custody decree. Wilmot v. Wilmot, 223 La. 221,
+65 So. 2d 321
+(1953); Bates v. Bates, La.App., 331 So. 2d 122 (1976); Lynn v. Lynn, La.App., 316 So. 2d 445 (1975); Pattison v. Pattison, La. App., 208 So. 2d 395 (1968); People v. Rone,
+3 Ill. 2d 483
+,
+121 N.E.2d 738
+(1954); Seaton v. Seaton, 221 Ark. 778,
+255 S.W.2d 954
+, 256 S.W.2d 555 (1953); Call v. Call, 250 Iowa 1175,
+98 N.W.2d 335
+(1959); Anno.Custody of Child DecreeJurisdiction, 70 A.L.R. 526; R. Leflar, American Conflicts Law, § 28, p. 50, § 245, p. 587 (1968); 24 Am. Jur.2d, Divorce & Separation, § 813, p. 924.
+
+Mr. Justice Holmes' famous dictum in Michigan Trust Co. v. Ferry,
+228 U.S. 346
+, 33 S. Ct. 550, 57 L. Ed. 867 (1913) sets forth the well-accepted basis for continuing jurisdiction:
+
+Professor Robert A. Leflar, a leading authority on conflict of laws, formulates the theory of continuing jurisdiction as follows:
+
+The majority cites Louisiana Code of Civil Procedure Article 10A(5) as authority for denying the trial court jurisdiction to modify its custody award. That article, in my opinion, is inapplicable to a supplemental rule to modify a custody decree. It applies only to an original proceeding to fix custody.
+
+So long as the custody decree remains unmodified, it will be recognized under familiar legal principles in other states. By modification, the court has the power to withdraw or alter the basis for recognition. The question of whether such a modification will be given effect in the domiciliary state addresses itself to the courts of that state. I conclude that the Louisiana court retains jurisdiction to modify its own custody decree.
+
+The unfortunate result of the majority holding is that Louisiana residents, unlike those of most states, are deprived of a convenient forum to modify the only existing custody decree so as to adjust visitation and custody rights to meet changing conditions. The pursuit of the custodian from state to state is an assignment that should not be lightly imposed.
+
+For the reasons assigned, I respectfully dissent.

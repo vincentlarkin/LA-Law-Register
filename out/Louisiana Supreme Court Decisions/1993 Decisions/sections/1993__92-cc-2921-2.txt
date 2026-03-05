@@ -1,0 +1,194 @@
+92-CC-2921
+Gauthier v. O'BRIEN
+https://law.justia.com/cases/louisiana/supreme-court/1993/92-cc-2921-2.html
+
+92-CC-2921
+Gauthier v. O'BRIEN
+Court: Louisiana Supreme Court
+Release date: 1993-05-24
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1993/92-cc-2921-2.html
+
+618 So. 2d 825 (1993)
+
+Vicky GAUTHIER
+v.
+William O'BRIEN, Jr., et al.
+
+No. 92-CC-2921.
+
+Supreme Court of Louisiana.
+
+May 24, 1993.
+
+Concurring Opinion June 1, 1993.
+
+*826 J. Morgan Passman, Walker, Passman, Michiels, Alexandria, for applicant.
+
+Darrel Ryland, Joseph B. Treuting, Marksville, for respondent.
+
+Concurring Opinion of Justice Lemmon June 1, 1993.
+
+ORTIQUE, Justice.[1]
+
+Defendants appeal a trial court ruling that fault of a statutorily immune employer should not be assessed under La.Civ.Code art. 2324, as amended, in a tort action brought by an injured employee against a third party tortfeasor. The Court of Appeal affirmed, holding that the 1987 amendment to article 2324 does not require assessment of an immune employer's fault in order to arrive at an appropriate assessment of fault between or among plaintiff(s) and a third party tortfeasor(s), 606 S.2d 915. We find that employer fault must be assessed in order to appropriately assess the fault of third party tortfeasors; however, because the employer is immune from suit in tort, indemnity and/or contribution, the employer cannot be required to pay damages and therefore will not be adversely effected by an assessment of fault. The ruling refusing to permit the assessment of employer fault is reversed and the case remanded.
+
+On May 10, 1990, plaintiff, Vicky Gauthier, was injured while a passenger in a pick-up truck driven by her employer, Curry J. Cooper, and owned by Pete Roy Ford, Inc. As plaintiff and Cooper drove North on Highway 29 in Bunkie, Avoyelles Parish, a tractor owned by defendant O'Brien and operated by defendant Pearce, attempted to negotiate a left turn at the same time that Cooper attempted to pass the tractor on the left in a no-passing zone, causing a collision between the tractor and the pick-up truck.
+
+Plaintiff brought an action against Pete Roy Ford, Inc., William O'Brien, William S. Pearce, Economy Fire & Casualty Co., Cooper's insurer, and Commercial Union Insurance Co., O'Brien's insurer[2]. In response to Commercial Union's Answer(s), plaintiff filed a Motion to Strike, Motion for Partial Summary Judgment & In the Alternative, Motion In Limine, seeking a judgment precluding assessment of employer fault, striking those portions of defendants' Answer and Supplemental Answers relating to settlement or collateral sources and precluding the introduction of evidence relating to settlement and/or collateral sources. The Motion for Partial Summary Judgment urged that the 1987 amendment is dispositive of the issue of quantifying employer fault. Defendants filed a Motion in Limine seeking a judgment preventing the testimony of a law enforcement officer as to point of impact; the motion was based upon the officer's alleged lack of expertise as well as the fact that he came on the accident scene after the vehicles had been moved. The district court granted plaintiff's motions and denied defendants' motion and defendants appealed; the Court of Appeal affirmed the trial court's judgment, focusing upon the issue of assessing employer fault.
+
+Appellants suggest that La.Civ. Code art. 2324 B, as amended, by 1987 La. Acts 373 requires assessment of employer fault in order to implement the statutory purpose of limiting solidary liability among multiple tortfeasors to the extent necessary   for a plaintiff to collect 50% of his or her damages and to insure that a tortfeasor is liable only for his or her virile share once a plaintiff has collected 50% of his or her damages.[3] We agree in part with this assertion. Specifically, we agree that the liability of multiple tortfeasors is solidary up to 50% of plaintiff's recoverable damages unless the tortfeasor is assessed more than 50% of the fault. However, unless the judgment creditor is assessed a greater degree of fault than the tortfeasor(s), the tortfeasor's liability is not limited to the percentage of fault with which they have been assessed[4]. Appellants buttress their assertion by relying on La.Code Civ. Proc. art. 1812 C(2) which provides that special written interrogatories may be submitted to the jury inquiring whether a person, party or not, was at fault in cases to recover damages for injury, death or loss.[5] Appellants point to the seeming unfairness of not quantifying employer fault, predicting a result wherein third party tortfeasors pay damages in excess of their virile shares, which, in their view, is contrary to the language of La.Civ. Code art. 2324 B.
+
+Appellee argues that the Louisiana workers' compensation scheme precludes the assessment of employer fault as the concept of fault has no place in the scheme. Appellee asserts that the compensation scheme is based upon the concept of an employer's no fault liability and the employee's relinquishing his or her right to sue his or her employer in tort where an injury occurs within the course and scope of his or her employment. Appellee asserts that quantifying employer fault can result in a plaintiff's recovery being reduced by the proportion of fault assessed to the employer because of the employer's tort immunity, a result appellee asserts is unfair and flies in the face of well established and jurisprudentially approved principles of the Louisiana workers' compensation scheme.
+
+Resolution of the issues presented by this case requires a review of several statutes as well as an analysis of how these statutes work together to effectuate the operation of La.Civ. Code art. 2324 B. The philosophical basis for workers' compensation schemes is grounded in the need for employers to anticipate and provide in advance by means of insurance for the human injury involved in production. The element of personal fault is relegated to a position secondary to broader economic considerations. Compensation eliminates the notion of fault on the part of either party to the employee-employer relationship and provides for the payment of compensation according to a limited schedule rather than through the recovery of damages as in a tort action. W. Malone & A. Johnson, Workers' Compensation Law and Practice, reprinted in 13 Louisiana Civil Law Treatise § 32, at 39 (2nd ed. 1980).
+
+Employees are provided with an exclusive remedy for injuries sustained while in the course and scope of their employment   by La.R.S. 23:1032.[6] The employer is provided with statutory immunity from tort actions. In exchange for this immunity, an employee has a right to compensation benefits without proving fault. This bargain between the parties to the workers' compensation scheme results in benefit to both parties arising out of their having given up certain rights. Of course, an employer is not immune from tort liability where an employee's injuries are the result of an intentional act.[7]Caudle v. Betts,
+512 So. 2d 389
+(La.1987) and Bazely v. Tortorich,
+397 So. 2d 475
+(La.1981). An injured employee's right to sue a negligent or strictly liable third party in tort is maintained in the worker's compensation scheme. La.R.S. 23:1101.[8] A third party whose fault in conjunction with the fault of an employer causes a work related injury is barred by the employer's statutory immunity from seeking indemnity or contribution from that employer.[9] This bar restricts the third party's cause of action for indemnity or contribution against the employer that would normally accrue from the solidary obligation which would arise between the negligent employer and the tortfeasor, but for the employer's immunity, even though the third party derives no benefit from the compensation bargain. Franklin v. Oilfield Heavy Haulers, 478 So. 2d 549 (La.Ct. App. 3rd Cir.1985), writ denied, 481 So. 2d 1330 (La.1986); LeJeune v. Highlands Insurance Company, 287 So. 2d 531 (La.Ct. App. 3rd Cir.1973), writ refused, 290 So. 2d 903 (La.1974) and Edmonds v. Boh Bros. Construction Co., 502 So. 2d 1137 (La.Ct. App. 4th Cir.1987).
+
+Appellants suggest that the language of La.Code Civ.Proc. art. 1812 C(2) requires that courts submit interrogatories to juries to obtain an assessment of fault for each tortfeasor whether or not a party to the action. The language of art. 1812 includes "may", a term which has been interpreted to indicate the permissive nature of a request; however, comment (b) of the 1983 Official Revision Comments indicates that Paragraph B of former art. 1811, the predecessor to art. 1812, provided that in actions to recover for death, injury or loss, the court was required to submit certain written questions to the jury. This court has recognized that La.Code Civ. Proc. art. 1812 requires the submission of jury interrogatories requesting an allocation of fault as to persons other than the person suffering injury, death, or loss. Lemire v. New Orleans Public Service, Inc.,  
+458 So. 2d 1308
+(La.1984). The question presented in Lemire, involved whether asking a jury to allocate fault as to the Sewerage and Water Board of New Orleans, a political subdivision, contravened La.R.S. 13:5105 which prohibited jury trials in cases where the state or a political subdivision is a defendant. NOPSI was the private corporate defendant whose case was being tried to the jury. This court, Calogero, J. writing for the majority, characterized La. Code Civ.Proc. art. 1812 as "[a] procedural statute which implements Louisiana's comparative fault scheme (C.C. 2323) and which the legislature determined was necessary to the appropriate determination of damages to which plaintiff is entitled against the private defendant, (in this case N.O.P.S.I.)"
+458 So. 2d 1311
+, 1310.[10] In our view, the statutorily immune employer is analogous to the political subdivision defendant in Lemire. Allocating fault with respect to the employer pursuant to La.Code Civ.Proc. art. 1812(C)(2) will likewise serve to implement Louisiana's comparative fault scheme. See Cambre v. Tassin Amphibious Equipment Corp., 464 So. 2d 878 (La. Ct.App. 4th Cir.1985).
+
+We are fully apprised that pre-amendment jurisprudence interpreting La.Civ. Code art. 2324, with reference to quantifying employer fault, held that employer fault should not be quantified. See Guidry v. Frank Guidry Oil Co.,
+579 So. 2d 947
+(La.1991); Melton v. General Elec. Co., Inc.,
+579 So. 2d 448
+(La.1991); Thompson v. PetroUnited Terminals, Inc., 536 So. 2d 504 (La.Ct.App. 1st Cir.1988), writ denied,
+537 So. 2d 212
+(La.1989); Weber v. Caterpillar Machinery Corp., 542 So. 2d 544 (La.Ct.App. 5th Cir.1989); Eskine v. Regional Transit Authority, 531 So. 2d 1159 (La.Ct.App. 4th Cir.1988); Senez v. Grumman Flxible Corp., 518 So. 2d 574 (La.Ct.App. 4th Cir.1988), writ denied,
+521 So. 2d 1151
+(La.1988); Davis v. Commercial Union Ins. Co., 892 F.2d 378 (5th Cir.1990) (applying Louisiana law) and Reed v. Shell Offshore, 872 F.2d 680 (5th Cir.1989) (applying Louisiana law). The allocation of employer fault and the reduction of a plaintiff's recovery by the proportion of fault attributable to an employer is viewed with disfavor and has been described as creating an "inroad into the workers' compensation scheme; it also penalized the very party which both compensation and tort damages are designed to benefit: the injured employee." Franklin v. Oilfield Heavy Haulers, 478 So. 2d 549, 556 (La.Ct.App. 3rd Cir.1985), writ denied, 481 So. 2d 1330 (La.1986). However, this characterization seems to overlook the fact that the employee has already recovered or will recover compensation as well as medical benefits from his or her employer. While it has been suggested that plaintiff/employees may be harmed by the reduction of their recovery based upon the combined proportion of fault allocated to the employer and the employee; the employee's rights under the Louisiana workers' compensation scheme are neither curtailed nor denied by allocating employer fault in tort actions against third parties.
+
+In other jurisdictions with workers' compensation schemes similar to Louisiana's scheme, employer fault is quantified in plaintiff actions against third party tortfeasors without an adverse impact on the employer or the employee. In Scales v. St. Louis-San Francisco Railway Company, 2 Kan.App.2d 491,
+582 P.2d 300
+(Kan.1978), the Kansas Court of Appeals held that despite the fact that plaintiff's employer was immune from suit under the Workmen's Compensation Act and not a party to the action, employer was a necessary "party" to provide a basis for allocation of fault; the court upheld the employer's retention for mere comparison purposes. The Supreme Court of Wisconsin found prejudicial error where a trial court failed to direct a jury to consider the proportion of employer fault when apportioning fault in an injured employee's case against a third party tortfeasor. See Connar v. West Shore Equipment of Milwaukee, 68 Wis.2d 42,
+227 N.W.2d 660
+(Wis.1975). The   rationale for allocating fault to all who may be culpable is that "[t]rue apportionment cannot be achieved unless that apportionment includes all tortfeasors guilty of causal negligence either causing or contributing to the occurrence in question, whether or not they are parties to the case." Pocatello Ind. Park Co. v. Steel West, Inc., 101 Idaho 783, 621 P.2d 399, 403 (Idaho 1980). Pocatello Ind. Park Company sought indemnification in connection with a prior judgment entered in a worker's compensation action by an employee against his employer, Pocatello. But see Heckendorn v. Consolidated Rail Corp., 502 Pa. 101,
+465 A.2d 609
+(Pa.1983) (holding that the Pennsylvania Legislature did not contemplate an apportionment of liability between one or more third party tortfeasors against whom recovery may be had and a plaintiff's employer against whom there can be no recovery) and Ramos v. Browning Ferris Industries of South Jersey, Inc., 103 N.J. 177,
+510 A.2d 1152
+(N.J.1986) (holding that workers' compensation statute precluded consideration of employer fault in action to determine liability of third party tortfeasor).
+
+After careful review of statutory pronouncements including legislative history, we find no compelling reason to refuse to assess employer fault under the circumstances presented by this case.
+
+The 1987 amendment to La.Civ. Code art. 2324 in addition to limiting solidarity to the extent necessary for a victim to recover 50% of his or her recoverable damages, included the following language: "... regardless of such other person's insolvency, ability to pay, degree of fault, or immunity by statute or otherwise." The meaning and effect of this language is in dispute. Potential third party tortfeasors argue that the language means that if their negligence and that of an employer concurrently causes injury to an employee, the third party tortfeasor cannot be required to pay more than his virile share as opposed to paying his share as well as that of the statutorily immune employer. See Thompson v. Petrounited Terminals, Inc., supra,; Trosclair v. Terrebonne Parish School Board, 489 So. 2d 1293 (La.Ct.App. 1st Cir.1986), writ denied, 493 So. 2d 644 (La.1986); Marzula v. White, 488 So. 2d 1092 (La.Ct.App. 2nd Cir.1986); Guidry v. Sam Grimmett, Inc., 557 So. 2d 249 (La.Ct. App. 3rd Cir.1989), writ denied,
+558 So. 2d 557
+(La.1990); Morrison v. J.A. Jones Const. Co., Inc., 537 So. 2d 360 (La.Ct.App. 4th Cir.1988) and Mitchell v. Clark Equipment Co., 561 So. 2d 175 (La.Ct.App. 5th Cir.1990). See also Cambre v. Tassin Amphibious Equipment Corp., 464 So. 2d 878 (La.Ct.App. 4th Cir.1985), writ denied, 466 So. 2d 1302 (La.1985).
+
+Professor David Robertson argues that allocation of employer fault will result in the unfair reduction of plaintiff's recovery by the degree of fault attributable to the employer and suggests that courts adopt the concept of relative fault to avoid this undesirable result.[11]See Robertson, The Louisiana Law of Comparative Fault: a Decade of Progress, 53 (1991) and Chamallas, Comparative Fault and Multiple Party Litigation in Louisiana: A Sampling of the Problems, 40 La.L.Rev. 373 (1980).
+
+Professor Robertson raises a concern that amended art. 2324 B may lead courts to believe that it is necessary to assess employer fault to avoid de facto imposition of solidary liability on defendants for the immune employer's share of the fault and suggests that the preferable method of avoiding the problem is to assign no fault to employers. Because the amendment precludes the imposition of solidary liability beyond the extent necessary for a plaintiff to recover 50% of his or her recoverable damages and limits a tortfeasor's obligation beyond 50% to his or her virile   share, where plaintiff is assigned a greater degree of fault than the tortfeasor, the statute provides its own safeguard against that eventuality. See The Louisiana Law of Comparative Fault: a Decade of Progress, supra. Either of the results characterized as undesirable may be evils made necessary by the 1987 amendment to article 2324. Such inequities have arisen in the context of the Longshoremen's and Harbor Workers' Act, 33 U.S.C. § 901 et seq., In Edmonds v. Compagnie Generale Transatlantique,
+443 U.S. 256
+, 99 S. Ct. 2753, 61 L. Ed. 2d 521 (1979), the Court held that an injury to a longshoreman caused by the concurrent negligence of the plaintiff, his employer and a third party tortfeasor, resulted in the tortfeasor's liability for the employer's portion as well as his own; however, the Court did not reach this conclusion in the context of a comparative fault scheme which limits solidary or joint and several liability to 50% of plaintiff's recoverable damages.
+
+Louisiana juries are not unfamiliar with the allocation of fault to non-parties. Phantom tortfeasors' fault has been assessed pursuant to former La.Code Civ. Proc. art. 1811(B)(2), now article 1812. See Varnado v. Continental Ins. Co., 446 So. 2d 1343 (La.Ct.App. 1st Cir.1984); Acosta v. Pendleton Memorial Methodist Hospital, 545 So. 2d 1053 (La.Ct.App. 4th Cir. 1989) and Devereux v. Allstate Ins. Co., 557 So. 2d 1091 (La.Ct.App. 2nd Cir.1990). See also Watson v. State Farm Fire and Cas. Ins. Co.,
+469 So. 2d 967
+(La.1985). Allocation of fault pursuant to article 2324 is not likely to result in jury confusion in light of the prior experience in this area. Failure to submit a special interrogatory to the jury to determine the fault, if any, of a third party constitutes error. Savoie v. McCall's Boat Rentals, Inc., 491 So. 2d 94 (La.Ct.App. 3rd Cir.1986), writ denied, 494 So. 2d 334 (La.1986).
+
+A review of the legislative history with respect to article 2324 B, reveals that the purpose of the amendment was to move Louisiana from a pure comparative fault scheme to one of modified comparative fault. The only comment made relative to the effect of the amendment on the workers' compensation scheme expressed a fear that third party tortfeasors may present evidence tending to show fault on the part of as many co-employees as possible in order to reduce the tortfeasor's virile share. Nothing in the legislative history indicates that the legislature contemplated reducing a plaintiff's recovery based upon the fault of co-employees. Nothing in the legislative history indicates that the legislature contemplated barring the allocation of fault to statutorily immune employers. In fact, the last sentence of the article suggests that fault will be allocated to immune employers and clearly precludes the imposition of solidary liability among joint tortfeasors resulting from the insolvency, inability to pay or immunity of a party found to be jointly liable. See Crawford, Tort Doctrine, 12 Louisiana Civil Law Treatise § 95 at 47 (2nd ed. Supp.1993) and D. Massey and A. Gasperecz, Employers Beware: The Free Ride May Be Over, 33 Loy.L.Rev. 947 (1988).
+
+We overrule Guidry v. Frank Guidry Oil Co., supra, and Melton v. General Elec. Co., Inc., supra, in so far they preclude the assessment of employer fault. Specifically, we find that the assessment of employer fault is made mandatory by the 1987 amendment to La.Civ. Code art. 2324 B, and to that extent Guidry, and Melton, are no longer the law.
+
+Having concluded that La.Civ. Code art. 2324 B requires the allocation of employer fault in actions against third party tortfeasors, we now address the ramifications of our conclusion. Not only does the Louisiana Worker's Compensation scheme retain an employee's right to sue a third person whose negligence may have caused injury to the employee while in the course and scope of his or her employment, it also grants employers the right to seek reimbursement for compensation benefits paid or which will be paid, as well as medical expenses. La.R.S. 23:1101 A and B.
+
+Public policy favoring a full damage recovery for injured plaintiffs underlies the provision retaining an injured employee's right to sue a negligent third party in tort.   This policy however was often defeated by the contributory negligence of plaintiff. Full tort recovery for plaintiffs remains a positive societal goal, and the institution of a comparative fault scheme in Louisiana furthers this policy by merely reducing a plaintiff's recovery in accordance with a plaintiff's proportion of fault rather than absolutely barring recovery. Allocation of employer fault and adopting a relative fault formula will not adversely impact a plaintiff's recovery; a plaintiff's recovery will be reduced only in proportion to the plaintiff's own negligence. The interest of a plaintiff/employee is protected to the extent that s/he is not negligent. See note 11 supra.
+
+An employer or its workers compensation insurer seeking to recover compensation benefits paid pursuant to La.R.S. 23:1101 B will recover in a percentage identical to that of the claimant. The right to reimbursement is not a recent phenomenon. Prior to the 1985 amendment to La.R.S. 23:1101 B, we held that an employer may recover the worker's compensation payments s/he is required to pay out of the employee's damage award. Vidrine v. Michigan Millers Mutual Insurance Co., 263 La.300,
+268 So. 2d 233
+(La.1972). At the time Vidrine was decided, the law did not provide for a reduction of the employer's reimbursement when an employer's negligence was vicarious, based upon the negligent conduct of a co-employee which concurred with a tortfeasor's negligence. Vidrine, supra; Highlands Insurance Co. v. L.J. Denny & Son, 328 So. 2d 779 (La.Ct. App. 3rd Cir.1976), cert. denied, 333 So. 2d 237 (La.1976). Reimbursement has been denied where the employee-plaintiff was negligent. Aetna v. Reed, 355 So. 2d 952 (La.Ct.App. 3rd Cir.1977), cert. denied, 356 So. 2d 1001 (La.1977); Tri-State Ins. Co. v. Tidewater Trailer Mfg. Co., 312 So. 2d 353 (La.Ct.App. 2nd Cir.1975); Bell v. Carolina Ins. Co., 227 So. 2d 171 (La.Ct.App. 2nd Cir.1969), cert. denied, 255 La.151, 229 So. 2d 733 (La.1970).
+
+Since the 1985 amendment to La.R.S. 23:1101 B, the reduction of an intervenor's or employer's recovery of compensation or medical benefits paid is based upon the percentage by which the employee's recovery is reduced. An employee's recovery is only reduced as a result of his or her own negligence. In Robertson v. Popeye's Fried Chicken, 524 So. 2d 97 (La.Ct.App. 4th Cir.1988), writ denied,
+526 So. 2d 802
+(La.1988), an employee of Scanio Produce and Institutional Foods was injured while delivering frozen chicken to a Popeye's restaurant. State Farm, Scanio's worker's compensation carrier intervened and the trial court rendered judgment in favor of State Farm, rejecting Popeye's request that intervenor's recovery be reduced by 70% because of plaintiff's fault. The court of appeal amended the judgment, reducing State Farm's recovery, applying the 1985 amendment despite the fact that the accident occurred prior to the effective date of the amendment. The court of appeal relied on Chatelain v. Project Square 221, 505 So. 2d 177 (La.Ct.App. 4th Cir.1987), writ denied,
+508 So. 2d 74
+(La.1987), wherein the court noted that the 1985 amendment did not change prior substantive rights, but merely restated the pre-existing rule that an intervening employer or compensation carrier can only recover to the extent the injured employee can recover. See also Scott v. Barclay's American Leasing Service, 506 So. 2d 823 (La.Ct.App. 1st Cir. 1987), writ denied,
+508 So. 2d 88
+(La.1987); Graves v. Lou Ana Foods, 604 So. 2d 150 (La.Ct.App. 3rd Cir.1992); Hale v. Aetna Life & Cas. Co., 580 So. 2d 1053 (La.Ct.App. 3rd Cir.1991); Succession of Theriot v. Southern Pacific Transportation Co., 560 So. 2d 861 (La.Ct.App. 3rd Cir.1990), writ denied, 565 So. 2d 453 (La.1990) and Thomas v. Hartford Ins. Co., 540 So. 2d 1068 (La.Ct.App. 1st Cir.1989), writ denied,
+542 So. 2d 516
+(La.1989). La.R.S. 23:1101 B as amended, protects an intervenor's or employer's right to reimbursement such that assessing employer fault will have no adverse impact upon the intervenor's recovery; it is only the plaintiff's negligence that can infringe upon an intervenor's recovery.
+
+We therefore conclude that we should adhere to the ratio approach utilized by this court in Guidry v. Frank Guidry Oil Co.,   supra, in which the jury had quantified employer fault. While employer fault must be quantified by a jury to enable the jury to reach a fairer determination of the relative fault of all blameworthy parties, the judge, after the jury has returned a verdict, should disregard the proportion of fault assessed to the employer and reallot the proportionate fault of all other blameworthy parties.
+
+For the reasons assigned, the judgments of the trial court and the court of appeal are reversed and the case is remanded for further proceedings in accordance herewith. Each party to bear their respective costs.
+
+REVERSED AND REMANDED.
+
+LEMMON, J., concurs and assigns reasons.
+
+DENNIS, J., dissents with reasons.
+
+LEMMON, Justice, concurring.
+
+Because this case is in the pretrial stage, the primary issue before the court is whether the jury should be required to quantify the fault of the employer in a case involving prospective fault of an employee, an employer and a third party tortfeasor. Because a jury which is required to quantify the fault of all parties whose blameworthiness is shown on the record has a less complex task and is more likely to reach a more accurate result, I agree that the jury should be required to quantify all fault rather than being told to disregard the fault of any immune party.
+
+Requiring the jury to determine the employer's fault in this situation is relatively meaningless, however, unless the court decides how to treat the employer's fault which is thus determined. The court has therefore proceeded to rule that after the jury has determined the percentage fault of all blameworthy parties, the judge should then disregard the fault of the employer and should proceed to allocate percentages of fault to the remaining parties according to the ratio approach utilized by this court in Guidry v. Frank Guidry Oil Co.,
+579 So. 2d 947
+(La.1991). I disagree with my dissenting colleague that the ratio approach attributes part of the employer's fault to reduce the plaintiff employee's recovery. If the plaintiff employee is twenty percent at fault and the employer and third party tortfeasor are each forty percent at fault, the plaintiff employee's recovery will be reduced by one-third because of his comparative fault of twenty percent in relationship to the third party tortfeasor's fault, the jury would have allocated two-thirds fault to the third party tortfeasor and one-third fault to the plaintiff employee. The result would be the same to the plaintiff.[1]
+
+DENNIS, Justice, dissenting.
+
+I respectfully dissent.
+
+The majority opinion formulates a judge-made ratio reduction rule having no real basis in legislated law. Also, it is probably in effect, an advisory opinion. Because a faultless plaintiff's recovery cannot be reduced under the majority's new rule, the rule may have no practicable application in the present suit by a probably non-negligent guest passenger. The impact of the majority's ratio reduction rule will be felt, however, in cases not before the court cases in which the rule will require faulty plaintiffs to suffer an extra reduction in their recovery because of their employers' fault. Most important, the majority is unable to demonstrate that the rule is authorized by law because, in truth, the rule is not based on anything the legislature said or had in mind. Instead, it appears to be based entirely on Professor Robertson's suggestion that appellate courts use the ratio expedient to adjust the assignments of fault without remanding when the trier   of fact has incorrectly assigned a percentage of the fault to a party. See D. Robertson, The Louisiana Law of Comparative Fault: A Decade of Progress, 77-80 (1991).
+
+In the majority's opinion, the present case raises the broad question of whether a plaintiff, under any circumstance, may have her recoverable damages from a tortfeasor reduced because of the job-related fault of her employer. The majority's answer to this question is, yes, when the plaintiff's fault contributes to her own injury, her recovery must be reduced not only in proportion to her percentage of the total fault between her and the tortfeasor, but also by a share of the employer's fault based on the ratio between her fault and the tortfeasor's fault.
+
+The majority says that the law which requires this reduction of a faulty plaintiff's recovery by her own fault plus a part of her employer's fault is La.Civil Code article 2324 (B). Specifically, my colleagues claim this because that Article provides, in pertinent part, that "a joint tortfeasor shall not be solidarily liable with any other person for damages attributable to the fault of such other person, including the person suffering injury, death, or loss, regardless of such other person's insolvency, ability to pay, degree of fault, or immunity by statute or otherwise." La.Civ.Code art. 2324 (B). The majority apparently accepts, in part, the defendants' argument that, because her employer is immune from tort liability to his employee, the legislature intended by the quoted language to provide that: (a) a tortfeasor cannot be held solidarily liable with an employer, and (b) therefore, the plaintiff-employee's recovery from the tortfeasor must be reduced by an extra amount to prevent the tortfeasor from being solidarily liable for damages attributable to the fault of the employer. However, the majority apparently concludes that instead of following this argument completely, that it would be fairer to reduce the plaintiff's recovery by an extra amount equivalent only to her ratable share of her employer's fault.
+
+In my opinion, however, when the words of the law are given their well established meaning, the rule announced by the majority cannot be derived from La.Civ.C. art. 2324. First, under the words of the code article, the interpretation proposed by the defendants must be rejected entirely. In a tort suit by an employee against a third party tortfeasor, at the time the quoted words were added to article 2324, an employer had never been considered to be a "joint tortfeasor" or to be "solidarily liable" to the employee for "damages attributable to the [employer's] fault". The law clearly does not say that the employer shall be treated as a joint tortfeasor solidarily liable to the employee for tort damages attributable to the employer's fault. By the same token, the law clearly does not expressly provide that the employee shall have her recovery reduced because of her employer's fault. Therefore, there is no warrant for reading such a meaning into the law. Second, there is even less justification for reading into the law a rule requiring an extra reduction of the plaintiff employee's recovery by application of a ratio involving the employer's fault. While there is nothing in the article which obliges the employee to bear totally the extra burden of the employer's fault, it is even clearer that there is nothing in the law which requires the more complex adjustment of a ratable sharing of this burden by the employee and the tortfeasor.
+
+Accordingly, I dissent for these reasons. See also, Gauthier v. O'Brien, 606 So. 2d 915 (La.App.3rd Cir.1992); Edmonds v. Compagnie Generale Transatlantique,
+443 U.S. 256
+, 99 S. Ct. 2753, 61 L. Ed. 2d 521 (1979).
+
+[1]  Pursuant to Rule IV, Part 2, § 3, Kimball, J. was not on the panel which heard and decided this case. See footnote in State v. Barras,
+615 So. 2d 285
+(La.1993).
+
+[2]  After amending her original petition to add Economy Fire & Casualty Company and Commercial Union Insurance Company, plaintiff later filed another action against O'Brien, Pearce and Commercial Union Insurance Company after retaining other counsel; the cases were consolidated in the district court. Plaintiff settled with Pete Roy Ford and Economy Fire & Casualty Company, dismissing her claims against them. Plaintiff also entered into a worker's compensation settlement with her employer. Curry J. Cooper.
+
+[3]  La.Civ.Code art. 2324 B as amended provides:
+
+If liability is not solidary pursuant to Paragraph A, or as otherwise provided by law, then liability for damages caused by two or more persons shall be solidary only to the extent necessary for the person suffering injury, death, or loss to recover fifty percent of his recoverable damages, however, when the amount of recovery has been reduced in accordance with the preceding Article, a judgment debtor shall not be liable for more than the degree of his fault to a judgment creditor to whom a greater degree of fault has been attributed. Under the provisions of this Article, all parties shall enjoy their respective rights of indemnity and contribution. Except as described in Paragraph A of this Article, or as otherwise provided by law, and hereinabove, the liability for damages caused by two or more persons shall be a joint, divisible obligation, and a joint tortfeasor shall not be solidarily liable with any other person for damages attributable to the fault of such other person, including the person suffering injury, death, or loss, regardless of such other person's insolvency, ability to pay, degree of fault, or immunity by statute or otherwise.
+
+[4]  See Touchard v. Williams,
+617 So. 2d 885
+, at 891 (La.1993).
+
+[5]  La.Code Civ.Proc. art. 1812 C(2) provides:
+
+If appropriate, whether another person, whether party or not, other than the person suffering injury, death, or loss, was at fault, and, if so:
+
+(a) Whether such fault was a legal cause of the damages, and, if so:
+
+(b) The degree of such fault, expressed in percentage.
+
+[6]  La.R.S. 23:1032 provides in pertinent part:
+
+A. (1)(a) The rights and remedies herein granted to an employee or his dependent on account of an injury, or compensable sickness or disease for which he is entitled to compensation under this Chapter, shall be exclusive of all other rights and remedies of such employee....
+
+(b) This exclusive remedy is exclusive of all claims, including any claims that might arise against his employer, or any principal or any officer, director, stockholder, partner, or employee of such employer or principal under any dual capacity theory or doctrine ... (emphasis added).
+
+[7]  La.R.S. 23:1032 B provides:
+
+Nothing in this Chapter shall affect the liability of the employer, or any officer, director, stockholder, partner or employee of such employer or principal to a fine or penalty under any other statute or the liability, civil or criminal, resulting from an intentional act.
+
+[8]  La.R.S. 23:1101 A provides:
+
+When a injury or compensable sickness or disease for which compensation is payable under this Chapter has occurred under circumstances creating in some person (in this Section referred to as "third person") other than those persons against whom the said employee's rights and remedies are limited in R.S. 23:1032, a legal liability to pay damages in respect thereto, the aforesaid employee or his dependents may claim compensation under this Chapter and the payment or award of compensation hereunder shall not affect the claim or right of action of the said employee or his dependents, relations, or personal representatives against such third person, nor be regarded as establishing a measure of damages for the claim; and such employee or his dependents, relations, or personal representatives may obtain damages from or proceed at law against such third person to recover damages for the injury, or compensable sickness or disease.
+
+[9]  A statutorily immune employer is free to enter into an indemnification agreement with persons who are potential third party tortfeasors. See Darrell Crane v. Exxon, et al., 613 So. 2d 214, currently before this court on writ application, and Ramos v. Browning Ferris Industries, 103 N.J. 177,
+510 A.2d 1152
+(N.J.1986).
+
+[10]  Lemire, was decided prior to the enactment of Act 373 which amended La.Civ.Code art. 2324.
+
+[11]  The ratio approach disregards employer fault:
+
+[1]  The advantage of my theory advanced in the Guidry case is that while the plaintiff employee's recovery will be the same as if the employer's fault is not quantified at all, the third party tortfeasor's total payment will be less because of the reduction of the negligent (but immune) employer's recovery of compensation payments. While I would prefer for the court to adopt the approach taken in my dissenting opinion in Guidry, I join the majority's adoption of the ratio approach because of the practicality and ease of application.

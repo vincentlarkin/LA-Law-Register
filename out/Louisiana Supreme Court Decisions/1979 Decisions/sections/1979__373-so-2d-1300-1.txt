@@ -1,0 +1,101 @@
+63866
+State v. Grogan
+https://law.justia.com/cases/louisiana/supreme-court/1979/373-so-2d-1300-1.html
+
+63866
+State v. Grogan
+Court: Louisiana Supreme Court
+Release date: 1979-06-25
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/373-so-2d-1300-1.html
+
+373 So. 2d 1300 (1979)
+
+STATE of Louisiana
+v.
+James Leroy GROGAN.
+
+No. 63866.
+
+Supreme Court of Louisiana.
+
+June 25, 1979.
+
+Rehearing Denied September 4, 1979.
+
+Dissenting Opinion September 6, 1979.
+
+*1301 James B. Supple, Franklin, Chief Defender 16th Judicial Dist. Indigent Defender Bd., for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Knowles M. Tucker, Dist. Atty., Walter J. Senette, Jr., Asst. Dist. Atty., for plaintiff-appellee.
+
+MARCUS, Justice.
+
+James Leroy Grogan was charged by bill of information with simple burglary in violation of La.R.S. 14:62. Defendant filed a motion to suppress a written confession. After a hearing, the trial judge denied the motion. Subsequently, defendant withdrew his former plea of not guilty and entered a plea of guilty as charged, reserving the right to obtain appellate review of the ruling of the trial judge denying his motion to suppress. The trial judge accepted the plea of guilty after determining that it was made voluntarily with understanding of the nature of the charge. Thereafter, defendant was sentenced to serve four years at hard labor. On appeal, defendant relies upon three assignments of error for reversal of his conviction and sentence.
+
+Defendant contends the trial judge erred in denying his motion to suppress his confession. He argues that his arrest was illegal; therefore, his subsequent confession should be excluded as the "fruit" of his illegal arrest.
+
+At the suppression hearing, the state called as witnesses John L. Robicheaux, chief of police, and Brady Como, police officer, for the Town of Patterson, Louisiana. Their testimony revealed the following facts. During the night of July 19, 1978, Cutrera's Grocery Store, located in Patterson, had been burglarized of two hundred to two hundred and fifty dollars in one dollar bills. A short time before noon on the following day (July 20), Chief Robicheaux received a phone call from a reliable informant, who had given him information in the past which had lead to arrests, informing him that the informant had seen defendant spending "a lot of one dollar bills" at various bars in the area. Acting on this information and the fact that he knew defendant had a previous criminal record, Chief Robicheaux sent two of his officers to locate defendant and to attempt to bring him in for questioning. The two officers located defendant that afternoon (July 20) at Cutrera's Pool Hall. Defendant agreed to accompany the officers outside where he was asked if he would go to the police station for questioning. At this point, defendant ran away from the officers. He was chased and caught, arrested for resisting an officer, and taken to the police station where he was advised of his Miranda rights by Officer Como. Defendant made no inculpatory statements to the police officers at this time; he merely explained to Chief Robicheaux that he had borrowed five dollars from his grandmother. Chief Robicheaux telephoned defendant's grandmother who stated that she had given defendant twenty-five dollars. Later that day, defendant was taken from Patterson to the police station in Franklin, Louisiana.
+
+The state next called Deputy Sheriff Alcide Gros of the St. Mary Parish Sheriff's Department. His testimony, together with a waiver of rights form executed by defendant and a transcribed copy of defendant's recorded confession, introduced in evidence, disclosed the following facts. Defendant was transferred to the police station in Franklin in order that Deputy Gros could administer a lie detector test to him. On the morning of July 21, 1978 (day after   defendant had been brought to Franklin), defendant was seen by Deputy Gros on the fourth floor of the St. Mary Parish courthouse where at about 10:15 a. m., Deputy Gros advised him of his Miranda rights, after which defendant executed a waiver of rights form. Thereafter, Deputy Gros administered "a couple of lie detector tests" to defendant which he "failed." Defendant then commenced, after again being advised of his Miranda rights, to make a confession to the burglary of Cutrera's grocery. The statement commenced at 11:48 a. m. and ended at 11:55 a. m. Thereafter, defendant was booked with simple burglary. Subsequently, on July 24, 1978, the recorded confession was transcribed and presented to defendant who refused to sign it.
+
+La.R.S. 14:108 provides:
+
+In State v. Huguet,
+369 So. 2d 1331
+(La. 1979), defendants were drinking while congregated in a public street. When the police officers ordered them to move on, they declined to do so. Defendants were placed under arrest and charged with resisting an officer in violation of La.R.S. 14:108(d). The state argued that the crime of resisting an officer entails the intentional obstruction of police officers acting in their official capacity, although not necessarily involved in arresting, seizing property or serving process. We rejected this argument and held that the crime consists of the obstruction of police officers "acting in their official capacity, while attempting to seize property, serve process or arrest. .." (emphasis added)
+
+In the instant case, the officers' testimony indicates that they were attempting merely to detain defendant momentarily outside of the pool hall when he broke away from them. Clearly, they were not seeking to arrest defendant at this time; nor were they attempting to seize any property from or serve process upon defendant. Thus, the police officers wrongfully placed defendant under arrest for violation of La.R.S. 14:108, resisting an officer. However, it does not automatically follow from this illegal arrest that the trial judge erred in denying defendant's motion to suppress his subsequent confession to the simple burglary. This issue requires a separate inquiry.
+
+In Wong Sun v. United States,
+371 U.S. 471
+, 83 S. Ct. 407, 9 L. Ed. 2d 441 (1963), the United States Supreme Court held that a confession "which derives immediately from... an unauthorized arrest ... is no less the `fruit' of official illegality than the more common tangible fruits of the unwarranted intrusion," and thus should be excluded under the fourth amendment. The Court did not hold, however, that all evidence is "fruit of the poisonous tree" simply because it would not have come to light but for the illegal actions of the police. Rather, the Court stated that the question in such cases is   whether, granting establishment of the primary illegality, the evidence to which instant objection is made has been come at by exploitation of that illegality or instead by means sufficiently distinguishable to be purged of the primary taint.
+
+Wong Sun v. United States, supra, at 488, 83 S. Ct.  at 417, quoting Maguire, Evidence of Guilt 221 (1959). In Brown v. Illinois,
+422 U.S. 590
+, 95 S. Ct. 2254, 45 L. Ed. 2d 416 (1975), the Court approved its holding in Wong Sun and held further that Miranda warnings alone cannot always make a confession sufficiently a product of free will to break, for fourth amendment purposes, the causal connection between the illegality and the confession. Instead, the Court indicated that the question whether a confession is the product of a free will under Wong Sun must be answered on the facts of each case, with no single fact being dispositive:
+
+Brown v. Illinois, supra, at 602-603, 95 S. Ct.  at 2261-2262 (citations omitted).
+
+In placing particular emphasis upon the purpose and flagrancy of the official misconduct involved, the Court took note of the policy underlying the exclusion of evidence obtained in violation of the fourth amendment. The primary, if not exclusive, purpose of the exclusionary rule is to deter future unlawful police misconduct and therefore effectuate the guarantees of the fourth amendment against unreasonable searches and seizures. Brown v. Illinois, supra; United States v. Calandra,
+414 U.S. 338
+, 94 S. Ct. 613, 38 L. Ed. 2d 561 (1974). Accordingly, where the fourth amendment infraction is merely technical or minor and the arrest made by the officers was in good faith, there is far less reason to exclude the confession obtained as a result of that illegal arrest. Brown v. Illinois, supra, (Powell, J. and Rehnquist, J. concurring); United States v. O'Looney, 544 F.2d 385 (9th Cir. 1976); see United States v. Carsello, 578 F.2d 199 (7th Cir. 1978); United States v. Peterson, 524 F.2d 167 (4th Cir. 1975).
+
+In the instant case, it is not disputed that defendant's confession was voluntarily made. Defendant was advised of his Miranda rights on at least three occasions by two different police officers prior to the time he gave his statement to Deputy Gros. The record reveals that defendant was arrested for resisting an officer and brought to the police station in Patterson some time during the afternoon of July 20, 1978, the same day defendant was transferred to Franklin. Defendant's confession was not made until the following morning on July 21, 1978.[1] Finally, the record supports the conclusion that at most a minor violation of the fourth amendment was involved here.[2]*1304 In arresting defendant for resisting an officer, the police officers acted in good faith, believing that defendant's conduct in fleeing from the officers, while they were attempting to momentarily detain him, warranted such an arrest. Hence, under these circumstances, there is far less reason to exclude the confession obtained as a result of the illegal arrest. In view of the foregoing, we conclude that defendant's confession was sufficiently an act of free will to have purged the primary taint of the unlawful arrest. Accordingly, the trial judge did not err in denying defendant's motion to suppress the evidence.
+
+For the reasons assigned, defendant's conviction and sentence are affirmed.
+
+SUMMERS, C. J., concurs.
+
+DIXON, J., dissents, believing the confession not "attenuated" from the illegal arrest.
+
+CALOGERO and DENNIS, JJ., dissents and assigns reasons.
+
+CALOGERO, Justice, dissenting.
+
+I respectfully dissent for the reason that I believe the state has failed to present evidence establishing sufficient attenuation of the taint of the illegal arrest by the passage of time or significant circumstances. The confession came late on the morning of July 21, 1978, less than twenty-four hours after the defendant was forcibly and, the majority correctly determines, illegally arrested. The confession, given immediately after the defendant was informed that he had failed to lie detector test, was a consequence of that illegal arrest, in my view.
+
+DENNIS, Justice, dissenting.
+
+I respectfully dissent for reasons assigned by Justice Calogero. Furthermore, I dissent on the basis of the rationale in my dissent in State v. Shy,
+373 So. 2d 145
+(La. 1979).
+
+[1]  Both the state and defense counsel apparently believe that the arrest and confession occurred on the same day. This conclusion was apparently based upon the colloquy between defense counsel and Chief Robicheaux:
+
+Q: Did he subsequently give a confession or any inculpatory statement to any other officer?
+
+A: Not to me. I think an officer in Franklin here.
+
+Q: An officer in Franklin. When was he brought to Franklin, do you recall?
+
+A: He was taken to Franklin the same day.
+
+The record as a whole indicates, however, that, although defendant was indeed taken to Franklin on the same day he was arrested for resisting an officer, he did not make his confession until the following day.
+
+In Wong Sun, the confession excluded as "fruit of the poisonous tree" was obtained immediately following defendant's illegal arrest. In Brown, the excluded confession was made less than two hours after the illegal arrest. Clearly, such is not the case here.
+
+[2]  It should be noted that our decision in State v. Huguet,
+369 So. 2d 1331
+(La. 1979), interpreting violations of La.R.S. 14:108 to require officers to have been involved in arresting, seizing property or serving process, was handed down on April 9, 1979; whereas, the illegal arrest at issue herein occurred well before that date on July 20, 1978.

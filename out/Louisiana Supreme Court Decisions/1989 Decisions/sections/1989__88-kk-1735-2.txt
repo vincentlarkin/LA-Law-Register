@@ -1,0 +1,269 @@
+88-KK-1735
+State v. Church
+https://law.justia.com/cases/louisiana/supreme-court/1989/88-kk-1735-2.html
+
+88-KK-1735
+State v. Church
+Court: Louisiana Supreme Court
+Release date: 1989-01-30
+Author: WATSON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1989/88-kk-1735-2.html
+
+538 So. 2d 993 (1989)
+
+STATE of Louisiana
+v.
+Victor CHURCH.
+
+No. 88-KK-1735.
+
+Supreme Court of Louisiana.
+
+January 30, 1989.
+
+Rehearing Denied March 2, 1989.
+
+*994 Bobby Sutton, Jr., Burnett, Sutton & Walker, Shreveport, for applicant.
+
+Paul Carmouche, Dist. Atty., Lydia M. Rhodes, Sp. Asst. Dist. Atty., for respondent.
+
+WATSON, Justice.
+
+After being stopped at a DWI roadblock in Shreveport, Louisiana, Victor Church was charged with driving without a license and first offense DWI. His motion to suppress the evidence of intoxication obtained at the roadblock was granted by the trial court, but the court of appeal reversed the judgment.[1] A writ was granted to consider whether the roadblock violated Church's rights guaranteed by the Louisiana Constitution of 1974.[2]
+
+On May 30, 1987, between 12:00 A.M. and 3:00 A.M., the Shreveport Police Department set up a DWI roadblock ("sobriety checkpoint") at the intersection of Martin Luther King Drive and North Market Street (Louisiana Highway 1) in the City of Shreveport. Flares were set on each side of the road, one hundred feet apart, to alert northbound drivers that they were approaching a roadblock and directing them from two lanes into one lane of traffic. As the vehicles were stopped, an officer identified himself and informed motorists that it was a DWI checkpoint. This officer asked to see a driver's license and checked for signs of intoxication. An auxiliary officer was stationed at the rear to check for expired license plates. Drivers suspected of being intoxicated were taken to a side area where an officer with DWI experience advised them of their Miranda rights and conducted field sobriety tests. Drivers failing that test were transported by police officers to another location where a chemical test was administered. All cars were stopped. There were no side streets available for drivers to escape the roadblock. Drivers who took the I-220 exit eastbound or westbound were stopped by "catch cars".
+
+At approximately 2:20 A.M., Victor Church was stopped and asked for his driver's license by Corporal W.E. Smith. Since Church was driving without his license, Smith asked Church to leave his vehicle so that a ticket could be written for that violation. When Church got out of the car, he leaned against it, holding onto the vehicle with his left hand. Church was given his Miranda rights and a field sobriety test, which he failed. Church was charged with violation of LSA-R.S. 32:411,[3] driving without   out a license, and LSA-R.S. 14:98,[4] driving while intoxicated, first offense. After consenting to a chemical test for intoxication, he registered .13%.
+
+Church's motion to suppress the evidence of intoxication obtained at the roadblock argued that the initial investigatory stop of his vehicle violated LSA-C.Cr.P. art. 215.1, Article I, Section 5 of the 1974 Louisiana Constitution; and the Fourth Amendment to the United States Constitution, because it was made without probable cause or reasonable suspicion of wrongdoing. Church, the City of Shreveport, and the State of Louisiana entered into joint stipulations that: (1) the primary purpose of this roadblock was the apprehension and deterrence of DWI offenders and accidents; (2) the sole reason for the initial contact with Church was the fact that he was operating his vehicle in that area; (3) the average time in which a noncited motorist passed through the roadblock was four minutes, including waiting time; (4) the average contact with a Shreveport Police officer for a noncited motorist was between 18 and 25 seconds; (5) the DWI checkpoint procedures were drafted to follow guidelines established in Delaware v. Prouse,
+440 U.S. 648
+, 99 S. Ct. 1391, 59 L. Ed. 2d 660 (1979) and other state and federal court cases; and (6) that roadblocks are in general some deterrent to DWI offenses.
+
+After a hearing at which law enforcement officials testified regarding the roadblock's procedures, the trial judge granted the motion to suppress, finding the roadblock was part of a criminal investigation and that the stop of Church's vehicle was a seizure under both the Louisiana and United States Constitutions. The initial contact was also a forcible investigatory stop under LSA-C.Cr.P. art. 215.1. The trial court noted that a warrantless, forcible stop by a police officer for criminal investigation is lawful only when based on individualized reasonable suspicion aroused prior to the stop.
+
+The court of appeal reversed the trial court judgment, finding that the roadblock was constitutional under both the state and federal constitutions. The court of appeal noted a significant difference between this roadblock and the one found constitutionally unacceptable in State v. Parms,
+523 So. 2d 1293
+(La.1988): citizens were protected against unbridled discretion by the field officers conducting the stop.
+
+The Fourth Amendment of the United States Constitution prohibits unreasonable searches and seizures by government officials.[5] This right of personal security was made applicable to the states by the Fourteenth Amendment. Mapp v. Ohio,
+367 U.S. 643
+, 81 S. Ct. 1684, 6 L. Ed. 2d 1081 (1961). When law enforcement officials stop a vehicle and detain its occupants, the action constitutes a "seizure" under the Fourth Amendment. Delaware v. Prouse,
+440 U.S. 648
+, 99 S. Ct. 1391, 59 L. Ed. 2d 660 (1979); United States v. Martinez-Fuerte,
+428 U.S. 543
+, 96 S. Ct. 3074, 49 L. Ed. 2d 1116 (1976). A warrantless search and seizure is per se unreasonable, unless justified by a specific exception to the warrant requirement.   Katz v. United States,
+389 U.S. 347
+at 357, 88 S. Ct. 507 at 514, 19 L. Ed. 2d 576 at 585 (1967); Coolidge v. New Hampshire,
+403 U.S. 443
+at 454-455, 91 S. Ct. 2022 at 2032, 29 L. Ed. 2d 564 at 576 (1971).[6]
+
+Prouse, supra, held that random stops of motorists without articulable or reasonable suspicion of unlawful activity were unreasonable seizures under the Fourth Amendment, and signalled the need for "neutral criteria" to curb the unbridled discretion of police officers in making such stops. Prouse suggested roadblocks for all traffic as an alternative to random stops. The United States Supreme Court has not considered the use of roadblock stops as an investigative technique to detect intoxicated drivers.[7] However, where the governmental interest is compelling, the intrusion minimal, and adequate neutral criteria are present, roadblocks may meet Fourth Amendment standards.[8] Nevertheless, even if the Shreveport DWI roadblock meets federal constitutional standards,[9] it violates the Louisiana Constitution of 1974.
+
+Article 1, Section 5, of the Louisiana Constitution of 1974 protects against unreasonable searches, seizures and invasions of privacy.[10] This declaration of rights does not duplicate the Fourth Amendment. It represents a conscious choice by the citizens of Louisiana to give a "higher standard of individual liberty than that afforded by the jurisprudence interpreting the federal constitution." State v. Hernandez,
+410 So. 2d 1381
+at 1385 (La.1982).
+
+State v. Parms,
+523 So. 2d 1293
+(La.1988) considered the constitutionality of a DWI roadblock and held the absence of neutral criteria invalidated the stop under federal constitutional standards. Since the roadblock failed to meet federal standards, Parms' motion to suppress the evidence of his intoxication was granted. In dicta, Parms questioned whether a roadblock could pass state constitutional muster and concluded that such seizures without probable cause or reasonable suspicion were unconstitutional invasions of the privacy guaranteed by the Louisiana Constitution of 1974.[11] Rehearing was denied in   Parms, with language leaving open the question of whether DWI roadblocks might be permissible under the Louisiana Constitution.
+
+The "probable cause" requirement was extended to the protection against unreasonable invasions of privacy, searches and seizures in the Louisiana Constitution,[12] which guarantees "the right to be let alone."[13] LSA-C.Cr.P. art. 215.1 embodies the Terry v. Ohio requirement that law enforcement officials must have reasonable suspicion to stop citizens. This requirement applies equally whether the official stops a citizen walking down the street or one traveling in a vehicle. "Before a police officer may stop a person for investigatory purposes he must reasonably suspect that the person has committed or is about to commit a criminal offense." State v. Matthews,
+366 So. 2d 1348
+at 1351 (La.1978). Evidence obtained in violation of this statutory and constitutional mandate may not be used in a criminal prosecution.[14] Smith testified that Church was not stopped based on any violation of the law, nor did the officers have a reasonable suspicion that he, or any of the other drivers stopped, had committed, were about to commit, or were engaged in a violation of the law.[15] The evidence of intoxication obtained must therefore be excluded and the motion to suppress was correctly granted by the trial court.
+
+The drunken driver is a pervasive problem in our society. Thousands of lives are lost and extensive property damage results when intoxicated persons pilot their vehicles on our roadways. However, roadblocks not only impinge on constitutionally guaranteed rights, but they have, at best, a marginal effect on the problem of drunken driving.
+
+From the 949 vehicles stopped at this roadblock, only 13 persons were arrested for DWI (1.36%). Other roadblocks conducted by the Shreveport police department have been even less successful.[16] Although the initial time for the stop of a noncited motorist was short, this does not take into account those drivers that were subjected to field sobriety tests and allowed to proceed, or those that failed field sobriety tests and were found to measure less than .10% by a chemical test. The testimony and statistics in evidence showed DWI arrests in Shreveport have decreased every year from 1981 or 1982, when records began to be kept. DWI roadblocks were not in effect in Shreveport prior to December 31, 1986, indicating that roadblocks have had no effect on DWI arrests. Thus, the effectiveness of roadblocks is questionable, especially when weighed against other measures less intrusive on individual privacy, such as roving patrols which act only when there is an articulable basis for a stop.
+
+"It may be that it is the obnoxious thing in its mildest and least repulsive form; but illegitimate and unconstitutional practices get their first footing in that way, namely: by silent approaches and slight deviations from legal modes of procedure.... It is the duty of courts to be watchful for the constitutional rights of the citizen, and against any stealthy encroachments thereon."[17]
+
+Although this Shreveport DWI roadblock may meet federal constitutional standards,   as viewed by the present United States Supreme Court, the seizure occurred without reasonable suspicion or probable cause to believe that defendant Church had violated some law and was therefore unconstitutional under Article 1, Section 5, of the Louisiana Constitution of 1974. Evidence of Church's intoxication was correctly suppressed by the trial court.
+
+For the foregoing reasons, the judgment of the court of appeal is reversed and the motion to suppress filed by Victor Church is granted.
+
+REVERSED AND RENDERED.
+
+CALOGERO, J., concurs, being of the view that both state and federal search and seizure clauses are offended by the roadblock involved here.
+
+MARCUS and LEMMON, JJ., dissent.
+
+COLE, J., dissents and assigns reasons.
+
+1. DWI CHECKPOINTS WILL BE SET UP AT SELECTIVE LOCATIONS WHERE THERE IS A HIGH RATE OF ACCIDENTS.
+
+2. CHECKPOINTS WILL BE SET UP WHERE THEY WILL BE VISIBLE ON THE HIGHWAY TO PREVENT CAUSING A TRAFFIC ACCIDENT AND INJURY TO OFFICERS INVOLVED IN THE CHECKPOINT.
+
+3. FOUR LANE HIGHWAYS ONLY 2 LANES WILL BE STOPPED AT ONE TIMEDUE TO THE HEAVY VOLUME OF TRAFFIC. (ALL VEHICLES WILL BE STOPPED). ALL DRIVERS WILL BE CHECKED FOR DRIVERS LICENSE & DWI. (FLARES) WILL BE SET OUT ON BOTH SIDES OF THE 2 LANES OF TRAFFIC 5 FLARES ON EACH SIDE 100 FEET APART.
+
+4. TWO LANE HIGHWAYS TRAFFIC FROM BOTH LANES OF TRAFFIC WILL BE STOPPED FROM BOTH DIRECTIONS. (ALL VEHICLES WILL BE STOPPED). ALL DRIVERS WILL BE STOPPED & CHECKED FOR DRIVERS LICENSE & DWI. (FLARES) WILL BE PUT OUT ON BOTH SIDES OF THE ROADWAY 5 FLARES 100 FEET APART BACK FROM THE START OF THE CHECKPOINT.
+
+5. 2 REGULAR OFFICERS EXPERIENCED IN DWI DETECTION WILL BE THE (LEAD CHECKPOINT POINT OFFICERS). AT THE HEAD OF THE CHECKPOINT 2 AUXILIARYS WILL CHECK THE REAR OF EACH VEHICLE AS IT PASSES THE HEAD OF THE CHECKPOINT FOR EXPIRED LICENSE PLATES.
+
+6. WHEN A VEHICLE IS STOPPED AND THE DRIVER IS SUSPECTED OF DWI THE DRIVER WILL BE IMMEDIATELY REMOVED FROM THE VEHICLE & TAKEN TO THE SIDE OF THE ROADWAY .. VEHICLE WILL BE MOVED OUT OF THE STREET BY A OFFICER IF OWNER OR DRIVER GIVES PERMISSION. IF NOT VEHICLE WILL BE PUSHED OUT OF THE STREET BY OFFICERS AT THE SCENE.
+
+7. DRIVER SUSPECT WILL BE IMMEDIATELY ADVISED OF RIGHTS PER MIRANDA AND GIVEN A FIELD SOBRIETY TEST AT THE SCENE.
+
+8. FIELD SOBRIETY TEST WILL CONSIST OF THE FOLLOWING.
+
+A. HEAD TILTED BACK EYES CLOSED TOUCH TIP OF NOSE WITH TIP OF RIGHT & LEFT INDEX FINGERS.
+
+B. WALK HEEL TO TOE 9 STEPS IN A STRAIGHT LINE MAKE A TURN TO THE RIGHT & WALK BACK TO THE STARTING POINT.
+
+C. SAY A-B-C A TO Z.
+
+*999
+
+DWI CHECKPOINT MANPOWER & EQUIPMENT
+
+1 SERGEANT DWI CHECK POINT SUPERVISOR.
+
+1 SERGEANT OFFICE SUPERVISOR (SELECTIVE ENFORCEMENT).
+
+2 OFFICERS LEAD CHECK POINT OFFICERS.
+
+4 OFFICERS SELECTIVE ENFORCEMENT (PROCESSING DWI).
+
+1 OFFICER SELECTIVE ENFORCEMENT (INTOXILYZER OPERATOR) & VIDEO OPERATOR.
+
+10 OFFICERS AT CHECKPOINT WRITING TICKETS & GIVING FIELD SOBRIETY TEST.
+
+2 AUXILIARY OFFICERS AT CHECKPOINT (CATCHING TURN AROUNDS).
+
+4 AUXILIARY OFFICERS AT SELECTIVE ENFORCEMENT PRISONER
+
+*1000 TRANSPORT & ASSIST PAPERWORK.
+
+3 AUXILIARY OFFICERS AT CHECKPOINT FOR PRISONER TRANSPORT TO SELECTIVE ENFORCEMENT.
+
+1 AUXILIARY AT CHECKPOINT (FLARE OFFICER).
+
+TOTAL OFFICERS & EQUIPMENT.
+
+19 POLICE OFFICERS
+
+14 AUXILIARY OFFICERS
+
+10 POLICE UNITS
+
+6 BOXES 30 MINUTE FLARES (NO SPIKES)
+
+2 TRAFFIC WAND FLASHLIGHTS
+
+COLE, Justice, dissenting.
+
+DWI roadblocks, when properly conducted, are a constitutionally permissible means available to law enforcement officers to reduce the risk of alcohol related auto accidents. Delaware v. Prouse,
+440 U.S. 648
+, 99 S. Ct. 1391, 59 L. Ed. 2d 660 (1979). The Shreveport Police Department issued detailed instructions to its officers to ensure their actions complied with the guidelines set forth in Prouse. The majority notes it took just four minutes, including waiting in line, to pass through the check point. All cars traveling on Louisiana Highway 1 between the hours of 12:00 a.m. and 3:00 a.m. passed through the roadblock.
+
+The majority opinion is premised on the contention that Article 1, Sec. 5 of the Louisiana Constitution of 1974 places greater restrictions on law enforcement personnel than does amendment IV of the United States Constitution. I find no discernable difference between the two articles as applies to this particular situation. Nor, apparently, did the drafters of Article 1, Sec. 5 at the Louisiana Constitutional Convention of 1973. The following excerpts are contained in the verbatim transcript of The Louisiana Constitutional Convention of 1973, Vol. XIII, 15-17. (Emphasis added.)
+
+MR. VICK
+
+MR. LANIER
+
+MR. VICK
+
+MR. LANIER
+
+No, what I'm getting at ...
+
+MR. VICK
+
+MR. LANIER
+
+MR. VICK
+
+Well, again, Mr. Lanier, without belaboring the point, the answer is yes, as long as it doesn't violate any of the Supreme Court guidelines, the most recent one of any magnitude being Chimel.
+
+MR. LANIER
+
+MR. VICK
+
+In the discussion of this article I find nothing to demonstrate an intent to afford a greater protection of individual liberty than does the federal constitution. The thrust of the delegate discussion was relating its purpose to that of the U.S. constitutional provision, as interpreted by the United States Supreme Court.
+
+The slight inconvenience of a properly conducted roadblock does not infringe on our standard of liberty as protected by this court in prior jurisprudence. Considering the gravity of alcohol related accidents, the efficiency of the Shreveport roadblocks, and the negligible interference with individual liberty, I find no violation of either the Louisiana or the United States constitution.
+
+As regards the question of whether the Louisiana Constitution is broader than the United States Constitution relative to Fourth Amendment principles, I concur in the conclusion of Justice Blanche in his dissent to State v. Hernandez,
+410 So. 2d 1381
+, 1387 (La.1982): "However, if the Louisiana [constitution] is, in fact, broader than the United States Constitution on that issue, this writer feels that the Constitution is due for an amendatory change in the opposite direction."
+
+I respectfully dissent.
+
+[1]  530 So. 2d 1235 (La.App. 2 Cir.1988).
+
+[2]  532 So. 2d 107 (La.1988).
+
+[3]  LSA-R.S. 32:411 provides in pertinent part:
+
+"D. The licensee shall have his license in his immediate possession at all times when driving a motor vehicle and shall display it upon demand of any officer or agent of the department or any police officer of the state, parish or municipality, except that where the licensee has previously deposited his license as provided in Subsection A hereof, and has received a receipt, as provided in Subsection B hereof, the licensee shall display the receipt upon demand of any officer or agent of the department or any police officer of the state, parish or municipality, the same to serve as a substitute for the license until the license is returned to the licensee. * * *"
+
+[4]  LSA-R.S. 14:98 provides in pertinent part:
+
+"A. The crime of operating a vehicle while intoxicated is the operating of any motor vehicle, aircraft, watercraft, vessel or other means of conveyance when:
+
+"(1) The operator is under the influence of alcoholic beverages; or
+
+"(2) The operator's blood alcohol concentration is 0.10 percent or more by weight based on grams of alcohol per one hundred cubic centimeters of blood; or
+
+"(3) The operator is under the influence of any controlled dangerous substance listed in Scheduled I, II, III, IV or V as set forth in R.S. 40:964. * * *"
+
+[5]  U.S. Const. amend. IV states:
+
+"The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized."
+
+[6]  Certain well-delineated exceptions to the warrant requirement have developed: Terry v. Ohio,
+392 U.S. 1
+, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968)
+
+(reasonable suspicion of wrong-doing); U.S. v. Martinez-Fuerte,
+428 U.S. 543
+, 96 S. Ct. 3074, 49 L. Ed. 2d 1116 (1976) (border searches); Warden v. Hayden,
+387 U.S. 294
+, 87 S. Ct. 1642, 18 L. Ed. 2d 782 (1967) (hot pursuit); Schmerber v. California,
+384 U.S. 757
+, 86 S. Ct. 1826, 16 L. Ed. 2d 908 (1966) (exigent circumstances).
+
+[7]  Certiorari was recently denied in the California case of In re Richard T., 194 Cal. App. 3d 1124, 229 Cal. Rptr. 884, cert. granted
+232 Cal. Rptr. 519
+,
+728 P.2d 1154
+(1986), remanded with order to vacate
+244 Cal. Rptr. 655
+,
+750 P.2d 297
+(1988), on transfer to In re Richard T., unpublished opinion (Cal.Ct. of Appeals, 4th district, March 10, 1988), cert. denied 488 U.S. ___, 109 S. Ct. 542, 102 L. Ed. 2d 572 (1988).
+
+[8]  Delaware v. Prouse, supra.
+
+[9]  Appendix A reproduces the first three pages of "DWI Checkpoint Operations Procedures" which provide the rules to be followed, diagrams of the roadblock and a list of personnel required (19 officers and 14 auxiliary officers). The other two pages cover only towing procedure and paperwork. (Tr., pp. 104-108)
+
+Surface analysis of the DWI roadblock suggests compliance with federal standards, yet closer analysis shows that some of the "safeguards" relied on by the court of appeal may have been the mere "window-dressing" decried in State v. Parms, supra. The written guidelines which established the "neutral criteria", for example, were developed by a police sergeant without reference to Louisiana law. When initially questioned regarding the purpose of the rules, the sergeant replied:
+
+"Be (sic) we started running it, we needed an Operational Procedure for the operation of the checkpoint, so if it came into Court we would have something to go by." (Tr. 291)
+
+The radio publicity approved by the court of appeal was a general announcement given by a police officer hired by a local radio station to give traffic reports, although there were after-the-fact newspaper articles.
+
+[10]  1974 La. Const., Art. 1, Section 5 provides:
+
+"Every person shall be secure in his person, property, communications, houses, papers, and effects against unreasonable searches, seizures, or invasions of privacy. No warrant shall issue without probable cause supported by oath or affirmation, and particularly describing the place to be searched, the persons or things to be seized, and the lawful purpose or reason for the search. Any person adversely affected by a search or seizure conducted in violation of this Section shall have standing to raise its illegality in the appropriate court."
+
+[11]  Parms, supra, at 1303.
+
+[12]  State v. Kinnemann,
+337 So. 2d 441
+(La.1976).
+
+[13]  Kinnemann, supra, at 444, quoting Olmstead v. United States,
+277 U.S. 438
+at 478, 48 S. Ct. 564 at 572, 72 L. Ed. 944 at 956 (1928) [Dissent by Justice Brandeis].
+
+[14]  State v. Matthews, supra, at 1350.
+
+[15]  Tr., p. 326.
+
+[16]  Of fourteen DWI roadblocks conducted in Shreveport from December 31, 1986, to August 7, 1987, over 7,000 cars were stopped; one roadblock yielded only 0.2% arrests; one as high as 2.4%. The average was 1.59%.
+
+[17]  Boyd v. United States,
+116 U.S. 616
+at 635, 6 S. Ct. 524 at 535, 29 L. Ed. 746 at 752 (1886). Quaere by this author: Would my concurring colleague in Parms (see 523 So.2d at 1304) say that a brief seizure of over 7,000 drivers at the Shreveport roadblocks is only a minimal inconvenience and therefore reasonable and therefore constitutional or a "stealthy encroachment" on constitutional rights?

@@ -1,0 +1,92 @@
+63986
+Thomas v. W & W CLARKLIFT, INC.
+https://law.justia.com/cases/louisiana/supreme-court/1979/375-so-2d-375-1.html
+
+63986
+Thomas v. W & W CLARKLIFT, INC.
+Court: Louisiana Supreme Court
+Release date: 1979-09-04
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/375-so-2d-375-1.html
+
+375 So. 2d 375 (1979)
+
+John THOMAS
+v.
+W & W CLARKLIFT, INC. and Reliance Insurance Co.
+
+No. 63986.
+
+Supreme Court of Louisiana.
+
+September 4, 1979.
+
+Rehearing Denied October 8, 1979.
+
+Concurring Opinion October 12, 1979.
+
+*376 Thomas E. Leohn, Harold B. Carter, Jr., Montgomery, Barnett, Brown & Read, New Orleans, for defendants-applicants.
+
+Jack W. Thomson, Coleman, Dutrey, Thomson, Meyer & Jurisich, New Orleans, for defendants-respondents (third party).
+
+*377 CALOGERO, Justice.
+
+Plaintiff, an employee of Dennis Sheen Transfer Company, was injured on his employer's premises when the counterweight of a forklift machine fell on him. The machine, repaired and overhauled by W & W Clarklift, Inc., had been sold as a used forklift by W & W Clarklift to Dennis Sheen Transfer about three weeks before the accident.
+
+Plaintiff sued W & W Clarklift and its insurer, Reliance Insurance Company, alleging that bolts which secured the counterweight to the forklift were missing from the forklift. He charged Clarklift with negligence and breach of its warranty to Dennis Sheen Transfer.
+
+Twenty-nine months after a first suit in Jefferson Parish and six months after defendants had filed answers to a second similar suit in Civil District Court for the Parish of Orleans, the defendants W & W Clarklift and Reliance filed third party demands against John Leckert, Sr., John Leckert, Jr., Joseph Blackburn and Frank Burns (hereinafter referred to as Leckert) in connection with the Orleans Parish suit. These four named third party defendants are alleged to be officers and supervisory personnel of Dennis Sheen Transfer who were assertedly negligent in failing to discover the unsafe condition of the forklift and who purportedly breached their duty to inspect the job site and equipment used by Dennis Sheen Transfer's employees. The third party demand sought indemnity or contribution against Leckert.
+
+Ruling favorably in response to certain exceptions filed by Leckert, the trial judge dismissed the third party demand. On appeal by W & W Clarklift and Reliance, the Court of Appeal affirmed dismissal of the third party demand, although for somewhat different reasons. 365 So. 2d 913 (La.App. 1979).
+
+The Court of Appeal maintained exceptions of no right and no cause of action to the claim for contribution asserted in the third party demand and maintained an exception of prescription of one year under Civil Code Article 3536.[1]
+
+We granted writs upon application of W & W Clarklift and Reliance to consider whether the Court of Appeal erred in affirming the dismissal of their third party demand for the two aforestated reasons. 368 So. 2d 144 (La.1979). We conclude that the Court of Appeal did err in both rulings.
+
+The crux of the Court of Appeal holding is that W & W Clarklift and Leckert, accepting the well pleaded allegations of the petitions, are not joint tortfeasors and thus not solidary obligors. The Court of Appeal so concluded on the assumption that the allegedly concurrent negligence was that of Leckert and one or more W & W Clarklift employees[2] and for the reason that in their view an employer only vicariously liable because of employee negligence is solidarily liable neither with its employee nor with the concurrently negligent tortfeasor. In support of that view the Court of Appeal cited and relied upon Cox v. Shreveport Packing Co., 213 La. 53, 34 So. 2d 373 (1948) and Caldwell v. Montgomery Ward & Co., Inc., 271 So. 2d 363 (La.App. 2nd Cir. 1972).
+
+It is true, of course, as held in Caldwell, that a master's liability with respect to his employee's negligence is secondary or vicarious, and that the employer is not a joint tortfeasor with its employee. This does not, however, preclude the vicariously liable employer's being a solidary obligor with the concurrently negligent stranger.
+
+*378 The principle that the liability of joint tortfeasors for damages resulting from their concurrent negligence is solidary has been acknowledged even in cases where one of multiple joint tortfeasors is liable only by virtue of the fact that another's negligence is imputed to him. See, e. g., Quatray v. Wicker, 178 La. 289, 151 So. 208 (1933). In the Quatray case, defendant Wicker was recognized as a joint tortfeasor with another whose operation of a motor vehicle contributed to the plaintiff's injury, even though it was defendant Wicker's minor son rather than Wicker himself whose operation of a second motor vehicle was primary, concurrent negligence. If the record evidence at the trial of the instant case discloses that negligence on the part of an employee (or employees) of W & W Clarklift is the only negligence for which W & W Clarklift is liable, but also establishes negligence on the part of Leckert, as alleged in W & W Clarklift's third party demand, solidary liability will result, notwithstanding W & W Clarklift is only vicariously liable.
+
+In Cox it was held that timely suit against an employee did not interrupt prescription of a claim against that employee's employer because the employer's vicarious liability was not solidary with that of his employee. Whatever the merit of this holding it is not dispositive here, where solidarity of the employer's obligation to plaintiff is charged to attach coincident, not with that of its employee, but with the obligation of a concurrently negligent stranger.
+
+Thus we conclude that even assuming that the pleadings are properly construed to assert negligence only upon Clarklift's employees, Clarklift's obligation may be solidary with that of Leckert. The Court of Appeal erred in maintaining Leckert's exceptions of no right and no cause of action to W & W Clarklift's claim for contribution.
+
+Having concluded that Clarklift on the pleadings is potentially a solidary obligor with Leckert, we must now determine whether the third party demand of Clarklift for contribution has prescribed. We determine that the claim for contribution may not prescribe before the right to contribution vests. The right to enforce contribution is not complete until payment of the common obligation; thus, prescription does not begin to run against a claim for contribution until the cast co-tortfeasor has been required to pay the common debt. Appalachian Corporation v. Brooklyn Cooperage Company, 151 La. 41, 91 So. 539 (1922); see Turck, Contribution Between Tortfeasors in American and German LawA Comparative Study, 41 Tul.L.Rev. 1, 10 (1966).
+
+Civil Code Article 2103 provides:
+
+That Civil Code Article 2103 permits assertion of the right to contribution by way of the filing of a third party demand by a defendant who claims that any liability on his part is shared by a co-tortfeasor does not require assertion of the contribution claim at that time; a subsequent action seeking contribution may be brought. Emmons v. Agricultural Insurance Company, 245 La. 411,
+158 So. 2d 594
+(1963), cited with approval in Mullin v. Skains, 252 La. 1009,
+215 So. 2d 643
+(1968). See C.Civ.P. art. 1113. Because the right to enforce contribution is not yet complete, it cannot be said that the action brought by W & W Clarklift pursuant to the provisions of Civil Code Article 2103 has prescribed.
+
+For the foregoing reasons, the judgments of the district court and the Court of Appeal dismissing W & W Clarklift's third party demand for contribution against Leckert are reversed and the case is remanded to the district court.
+
+DISTRICT COURT AND COURT OF APPEAL RULINGS REVERSED; CASE REMANDED TO THE DISTRICT COURT.
+
+MARCUS, J., dissents and assigns reasons.
+
+DENNIS, J., concurs and assigns reasons.
+
+MARCUS, Justice (dissenting).
+
+If employer's vicarious liability is not solidary with that of his employee, I am unable to see how the vicarious liability of the employer is solidary with the concurrent negligence of a third party. Accordingly, I respectfully dissent.
+
+DENNIS, Justice, concurring.
+
+I concur in the result reached by this Court, that prescription has not run barring Clarklift's demand for contribution. However, the majority fails to directly confront, thereby leaving intact, the finding by the court of appeal that the employer (Clarklift) cannot be solidarily liable with its employee who committed the tort. I believe the issue should be addressed and the holding of Cox v. Shreveport Packing Co., 213 La. 53, 34 So. 2d 373 (1948) supporting that theory overruled.
+
+Article 2091 of the Louisiana Civil Code states:
+
+The fault of any person which causes damage obliges him to repair it. La.C.C. art. 2315. Employers are answerable for the damage occasioned by their employees, if caused within the scope of their employment. La.C.C. art. 2320. The potential vicarious liability of the employer does not relieve the employee of his obligation under article 2315. Either the employer or the employee can be made to satisfy the obligation, therefore, the requirement of article 2091 that either obligor may be held to pay the whole debt is met here.
+
+Cox v. Shreveport Packing Co., supra, held that an employer and his employee were not solidary obligors. However, as Justice Tate noted in Wooten v. Wimberly,
+272 So. 2d 303
+, 308 (La.1973) (concurring opinion), "[t]he Cox misinterpretation (that the obligation of employer and employee not being expressly stated as solidary, cannot be so under article 2093) in 1948 may be excused by the dearth then of translated doctrinal explanations of the reason for the Article and its function in our Code." The purpose of article 2093 is to aid in determining whether an obligation is joint or in solido if there is any question as to its classification. Here there is no question in making that determination. The requisites in 2091 of an obligation in solido are met.
+
+[1]  The Court of Appeal left undisturbed the overruling by the trial court of Leckert's exceptions of no right and no cause of action founded on the contention that R.S. 23:1032 as amended in 1976 should be given retrospective application to this 1974 accident, and the Court of Appeal ruled that an exception of no cause of action should be maintained relative to W & W Clarklift's claim for indemnity. These rulings were correct.
+
+[2]  In fact, relators take issue with this conclusion of the Court of Appeal as the case was decided on exceptions and it is argued that the pleadings did not exclude the possibility of finding direct negligence on the part of W & W Clarklift.

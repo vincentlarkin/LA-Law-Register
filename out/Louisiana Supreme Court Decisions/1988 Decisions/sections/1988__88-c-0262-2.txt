@@ -1,0 +1,193 @@
+88-C-0262
+Pareti v. Sentry Indem. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1988/88-c-0262-2.html
+
+88-C-0262
+Pareti v. Sentry Indem. Co.
+Court: Louisiana Supreme Court
+Release date: 1988-12-12
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1988/88-c-0262-2.html
+
+536 So. 2d 417 (1988)
+
+Mary and Paul PARETI
+v.
+SENTRY INDEMNITY COMPANY.
+
+No. 88-C-0262.
+
+Supreme Court of Louisiana.
+
+December 12, 1988.
+
+*418 Dominic Ovella, Hailey, McNamara, Hall, Larmann & Papale, Metairie, for applicant.
+
+Frank Zaccaria, Sr., Frank Zaccaria, Jr., Zaccaria & Zaccaria, Gretna, for respondent.
+
+CALOGERO, Justice.
+
+In this case, the liability insurer's full policy limits were paid out in settlement of a single claim after a lawsuit had been filed against the insurer and its insured. The issue presented is whether the liability insurer had a continuing duty, after the exhaustion of its policy limits through settlement, to defend its insured in another claim arising from the same accident.
+
+The liability policy promises that the insurer "will settle or defend ... any claim or suit" brought against its insured for damages covered by the policy. However, the policy also states that the insurer's "duty to settle or defend ends when our limit of liability for this coverage has been exhausted."
+
+Finding this policy language ambiguous, the court of appeal concluded that the insurer's duty to defend was not terminated when it exhausted its policy limits through settlement.[1] We granted the liability insurer's writ application,[2] and now reverse.
+
+The policy's limitation on the insurer's duty to defend is not ambiguous. Further, there is no indication from the record that the insurer did not act in good faith when it settled the personal injury claim for the limits of its liability policy. Nor do we accept the insureds' argument that the express contractual limitation on the insurer's duty to defend should be stricken for reasons of public policy.
+
+We hold, therefore, that once the liability insurer exhausted its policy limits through a good faith settlement, it was no longer obligated to defend the insured in the separate action based on the same accident.   We do not suggest, however, that a liability insurer's duty to defend its insured will always be discharged by exhaustion of its policy limits. As discussed further below, our holding today is premised upon both the language of the policy before us and the facts of this particular case.
+
+On July 19, 1984, an automobile operated by Mary Pareti was struck in the rear by a vehicle operated by Mrs. Edward J. Schneller. Pareti and her husband later filed suit against Schneller and her husband for personal injuries sustained in the accident. Also named as defendants were the Schnellers' automobile liability insurer, Pennsylvania General Insurance Company, and the plaintiffs' uninsured motorist carrier, Sentry Indemnity Company. Because of its policy obligations, Pennsylvania retained an attorney to defend the Schnellers (and Pennsylvania, of course).
+
+On July 30, 1985, Sentry filed a cross-claim against the Schnellers, seeking indemnity for all amounts that Sentry might be required to pay under the U.M. policy to pay its insureds, the Paretis.
+
+Two days later, August 1, 1985, Mr. and Mrs. Pareti executed a compromise and release agreement with the Schnellers and Pennsylvania, whereby they released those defendants from all further liability in exchange for $50,000 tendered in settlement by Pennsylvania. $50,000 was the limit of Pennsylvania's "per person" liability for the accident. In the compromise agreement, the Paretis reserved their rights against Sentry, their own underinsured motorist carrier. At the time that this settlement was executed, Sentry had not made any payments to the Paretis under its U.M. policy.
+
+In November, 1985, the Schnellers, still represented by the attorney retained by Pennsylvania, moved for a summary judgment dismissal of Sentry's cross-claim against the Schnellers. The motion asserted that "[u]nder the jurisprudence of this state" the U.M. carrier's claim for subrogation was lost when the plaintiffs released the tortfeasors. The leading cases in support of the Schnellers' position included Pace v. Cage,
+419 So. 2d 443
+(La.1982), Bond v. Commercial Union Assurance Co.,
+407 So. 2d 401
+(La.1981) and Niemann v. Travelers Ins. Co.,
+368 So. 2d 1003
+(La. 1979). In those cases, this Court held that once the injured plaintiff releases the uninsured-underinsured motorist, the U.M. carrier has no right, either by statute or by conventional subrogation, to collect from the underinsured motorist benefits paid to the plaintiff under its policy.
+
+Had the district court applied Bond, Pace, and Niemann, Sentry's cross-claim would have been dismissed and the present duty-to-defend dispute would not have arisen. However, in February, 1986, the district court denied summary judgment, without written reasons. Apparently the trial court based its denial of summary judgment on reasons similar to those employed shortly thereafter by the Fifth Circuit court of appeal in Moncrief v. Panepinto, 489 So. 2d 938 (La.App. 5th Cir.1986). In Moncrief the court of appeal held, notwithstanding the aforementioned jurisprudence, that the U.M. carrier has an "independent" statutory cause of action against the tortfeasor for recovery of benefits paid to its insured. Moncrief was later overruled by this Court's decision in Bosch v. Cummings,
+520 So. 2d 721
+(La.1988), but, unfortunately for the Schnellers, Bosch was not decided until long after they had defended, and chosen to settle Sentry's cross-claim.
+
+Two weeks after the trial court denied the motion to dismiss the cross-claim, Pennsylvania advised the Schnellers by letter that because the company's policy limits had been exhausted in the settlement with the plaintiffs, it would no longer provide them with a defense against the cross-claim. Shortly thereafter Pennsylvania's attorney withdrew from the litigation, and the Schnellers retained an attorney at their own expense to defend the cross-claim. That attorney sought a supervisory writ from the court of appeal in an effort to secure dismissal of Sentry's cross-claim, but that writ was denied.
+
+*420 The Schnellers then filed a cross-claim of their own against Pennsylvania, asserting that Pennsylvania had breached its duty to defend them against the Sentry cross-claim, and therefore should be held liable to them for all attorney fees and costs which they had or would incur in defense of that claim. Pennsylvania answered with a general denial, asserting that its duty to defend the Schnellers had terminated when it exhausted its policy limits in the settlement with the plaintiffs.
+
+The Schnellers again sought summary judgment dismissing Sentry's cross-claim, and again their motion was denied. Shortly before the case was scheduled to be tried, the plaintiffs settled their U.M. claim against Sentry for $42,500. Sentry thereupon settled its corresponding cross-claim against the Schnellers for just $2,500, a sum paid by the Schnellers personally.
+
+The only matter which was not compromised was the Schnellers' cross-claim against Pennsylvania for breach of the asserted duty to defend. After a hearing, the trial court dismissed the cross-claim and ruled that Pennsylvania's duty to defend the Schnellers terminated when it exhausted its policy limits through settlement.
+
+The court of appeal reversed, on the ground that the provisions of the policy which pertain to the insurer's obligation to defend its insured are ambiguous. 519 So. 2d  at 227-28. Citing the well-recognized rule than an ambiguity in an insurance contract must be construed in favor of the insured, the court of appeal determined that Pennsylvania's duty to defend the Schnellers did not terminate when its policy limits were exhausted. Finding that Pennsylvania had breached its continuing duty to defend the Schnellers, the court of appeal found the company liable for the attorney fees that the Schnellers incurred defending the Sentry cross-claim.
+
+The pertinent portion of Pennsylvania's liability policy reads as follows:
+
+We first consider the court of appeal's conclusion that the above stated policy language is ambiguous.
+
+There are certain elementary legal principles which apply to the interpretation of insurance policies. An insurance policy is a contract and, as with all other contracts, it constitutes the law between the parties. Carney v. American Fire & Indemnity Co.,
+371 So. 2d 815
+(La.1979). If the policy wording at issue is clear and expresses the intent of the parties, the agreement must be enforced as written. Albritton v. Fireman's Fund Ins. Co., 224 La. 522,
+70 So. 2d 111
+(La.1953).
+
+An insurance contract is to be construed as a whole, and one portion thereof should not be construed separately at the expense of disregarding another. Benton Casing Service, Inc., v. Avemco Ins.,
+379 So. 2d 225
+(La.1979). If there is an ambiguity in a policy, then that ambiguity should be construed in favor of the insured and against the insurer. Albritton, 70 So. 2d  at 111. However, courts have no authority to alter the terms of policies under the guise of contractual interpretation when the policy provisions are couched in unambiguous language. Monteleone v. American Emp. Ins. Co., 239 La. 773,
+120 So. 2d 70
+(La.1960); Edwards v. Life & Cas. Ins. Co. of Tenn., 210 La. 1024, 29 So. 2d 50 (La.1946).
+
+The court of appeal concluded that the policy is ambiguous because it states that the insurer will defend or settle "any claim," yet also states that the duty to defend ends when coverage is exhausted. 519 So. 2d  at 228. When the paragraph of the policy containing this language (cited in full at the outset of this discussion) is read as a whole, there is no ambiguity. The   promise to defend "any" covered claim is clearly qualified, almost immediately thereafter in the same paragraph, by the statement: "Our duty to defend or settle ends when our limit of liability ... has been exhausted." Read as a whole, the only reasonable interpretation of this section is that the insurer will defend any claim, but the defense obligation will terminate if and when the insurer's policy limits are exhausted. These provisions are not subject to more than one reasonable interpretation. The policy in this regard is not ambiguous.
+
+The court of appeal also implied that the policy is ambiguous because it does not specify "in what manner the limit of liability must be exhausted in order to trigger termination of the duty to defend." Id. at 227. The appellate court noted that other liability policies which employ similar language contain the additional stipulation that the duty to defend will be terminated only if policy limits are exhausted "by payment of judgments or settlements." Id.
+
+The fact that Pennsylvania's policy does not contain this additional stipulation, however, does not render that policy ambiguous. It is self-evident that an insurer which has settled for its policy limits (or paid its full limits responsive to a judgment) has "exhausted" its limit of liability under the policy.[3]
+
+Finally, the court of appeal asserted that ambiguity is created by the fact that the insurer promises to pay all defense costs incurred "[i]n addition to our limit of liability..." Id. at 228. This standard policy provision simply means that defense costs will be paid separately by the insurer and will not be applied against its policy limits. Such was the case here, as the insurer paid its limits and also paid for defense costs during the period that its attorney defended the company and the Schnellers. This language cannot be taken to mean that the company will continue to pay defense costs once its policy limits have been exhausted, and in fact the very next sentence of the policy expressly states that this will not be the case. Once again, these sentences must be construed together, and when they are so construed there is no ambiguity.
+
+Having determined that the policy's limitation on the insurer's duty to defend is unambiguous, the next issue is whether there is a reason not to enforce that limitation. Policy provisions which limit the insurer's liability or place restrictions on policy obligations should be enforced unless they conflict with statutes or public policy. Oceanonics, Inc. v. Petroleum Distributing Co.,
+292 So. 2d 190
+(La.1974); Livingston Parish School Bd. v. Fireman's Fund American Ins. Co.,
+282 So. 2d 478
+(La.1973). The insureds do not argue that any statute prohibits the instant policy restriction, and we are aware of no such statutory prohibition. However, they argue that it should be against public policy for a liability insurance company to terminate its defense obligations upon exhaustion of policy limits.
+
+Although the particulars of the insureds' public policy argument are not specified in brief, the court of appeal discussed this issue and suggested that a "sharp division exists among jurisdictions over whether the duty to defend terminates upon exhaustion of the indemnity limits of the insurance policy." 519 So. 2d  at 225, quoting Comment, Termination of the Duty of an Insurance Carrier to Defend: Did the California Supreme Court Send the Wrong Signal?, 17 Pac.Law J. 283, 295 (1985). According to the authority cited by the court of appeal, courts in some jurisdictions have upheld policy restrictions on the insurer's duty to defend, but courts in other   states have "disregarded" policy provisions which "attempt to extinguish the duty upon policy indemnification." Id. The rationale used for disregarding such policy provisions is the fear that in cases involving multiple claimants, the insurance company will be tempted to make an "early escape" from the litigation by settling for its policy limits with less than all of the claimants and thereby terminating its defense obligations to the insured. Id.
+
+However, careful review of the cases from other jurisdictions[4] reveals that most courts have expressly or impliedly recognized that the insurer has the contractual right to provide that its duty to defend terminates upon exhaustion of policy limits. The cases which have refused to allow the insurer to terminate its defense of the insured have involved facts or policy language not present in this case.
+
+The large majority of reported cases involve policy language that was contained in standard form automobilie liability policies prior to 1966. These policies did not specify that the duty to defend would terminate upon exhaustion of the insurer's policy limits. Instead, the policies generally stated only that the insurer would defend "any suit ... payable under the terms of this policy," or that the insurer would defend any suit "as respects the insurance afforded by ... this policy." Many courts concluded that the foregoing language was insufficient to terminate the insurer's duty to defend upon the payment of policy limits pursuant to judgment or settlement, for the reason that the promise to defend "any suit" was not expressly limited by the policy.[5]
+
+Other courts interpreting the same unspecific policy language found that it was sufficient to terminate the duty to defend once the insurer settled or paid a judgment for its policy limits. These courts reasoned that the duty to indemnify was the primary obligation imposed by the policy and that full indemnification by the insurer discharged its subordinate duty to defend the insured.[6]
+
+This "sharp division" among common law jurisdictions is now relatively moot, at least in a case such as this one where totally different policy language is employed. As discussed above, the policy at issue in this case does unambiguously qualify the promise to defend any claim by specifying that the duty to defend ends when the policy's limits of liability have been exhausted.
+
+Also to be distinguished are the numerous cases which hold that the insurer cannot discharge its defense duties by unilaterally tendering its policy limits to the court, the claimant, or the insured.[7] When an insurer merely tenders its limits without obtaining a settlement of any claim for its   insured, a strong argument can be made that it has neither "exhausted" its policy limits nor fulfilled its fiduciary duty to discharge its policy obligations to the insured in good faith. See Samply v. Integrity Ins. Co.,
+476 So. 2d 79
+(Ala.1985), and authorities cited therein.
+
+In summary, we find no authority for the proposition than an unambiguous policy provision stating that the insurer's duty to defend will terminate upon payment of policy limits should be disregarded, or voided for reasons of public policy.[8]
+
+The concern that in some cases an insurer might attempt to circumvent its duty to defend the insured by making an "early escape" from the litigation is a valid one. However, in order to safeguard against the risk that insurance companies will enter inappropriate settlements in some cases, it is not necessary for us to void an unambiguous contractual provision. Instead, the protection afforded to insureds against this contingency is that in every case, the insurance company is held to a high fiduciary duty to discharge its policy obligations to its insured in good faithincluding the duty to defend the insured against covered claims and to consider the interests of the insured in every settlement. See Holtzclaw v. Falco,
+355 So. 2d 1279
+(La.1977); Richard v. Southern Farm Bureau Cas. Ins. Co., 254 La. 429,
+223 So. 2d 858
+(La.1969); Reichert v. Continental Ins. Co., 290 So. 2d 730 (La.App. 1st Cir.), writ denied
+294 So. 2d 545
+(1974); Younger v. Lumbermens Mutual Cas. Co., 174 So. 2d 672 (La.App. 3rd Cir.), writ denied, 247 La. 1086,
+176 So. 2d 145
+(1965).
+
+When multiple claims are filed against the insured that have the potential for exceeding the insurer's policy limits, the insurer must act in good faith and with due regard for the insured's best interest in considering whether to settle one or more of the claims. Holtzclaw, 355 So. 2d  at 1279; Richard, 223 So. 2d  at 858. An insurer which hastily enters a questionable settlement simply to avoid further defense obligations under the policy clearly is not acting in good faith and may be held liable for damages caused to its insured. See Sutton Mutual Cas. Co. v. Rolph, 109 N.H. 142, 244 A.2d 186, 188 (1968); Lumbermen's Mutual Cas. Co. v. McCarthy, 90 N.H. 320, 8 A.2d 750 (1939).
+
+If in fact an insurer enters into a good faith settlement for policy limits and thereby terminates its defense obligations under the express terms of the policy, the insurer must make every effort to avoid prejudicing the insured by the timing of its withdrawal from the litigation. The insurer should make allowances for the time that the insured will need to retain new counsel, and should continue to represent the insured after the settlement, if necessary, until new counsel can be retained. See 8 Appleman, Insurance Law and Practice § 4685 (1962).[9]
+
+*424 Further, any payment of the policy limits which does not release the insured from a pending claim (e.g., unilateral tender of policy limits to the court, the claimant or the insured), even if sufficient to terminate the duty to defend under the wording of the policy involved, raises serious questions as to whether the insurer has discharged its policy obligations in good faith.
+
+In this case there is no indication (and no suggestion by the Schnellers) that the insurer did not act in good faith toward its insured. The value of the injured plaintiff's claim probably exceeded Pennsylvania's $50,000 policy limits, as indicated by the fact that in addition to the $50,000 received from Pennsylvania, plaintiffs collected $42,500 from the U.M. carrier. Thus it was not even arguably unreasonable for Pennsylvania to settle the plaintiff's claim for $50,000.
+
+Nor did Pennsylvania prejudice its insureds by the manner in which it withdrew from the suit. Instead of immediately withdrawing from the litigation upon settlement, Pennsylvania's attorney filed a motion for summary judgment seeking to have Sentry's cross-claim against the Schnellers dismissed. After that motion was denied Pennsylvania gave written notice to the Schnellers that it was withdrawing from the litigation and that the Schnellers would have to retain their own counsel. At the point at which this notice was given, no motion or trial was immediately pending and it appears that the Schnellers were able to retain their own attorney just shortly thereafter.
+
+Given the unambiguous language of the policy and the absence of any showing that the insurer discharged its policy obligations to the insured in anything less than good faith, we hold that Pennsylvania's duty to defend the Schnellers terminated upon the exhaustion of its policy limits through settlement.
+
+For the reasons assigned, the judgment of the court of appeal is reversed, and the judgment of the trial court dismissing the Schneller's cross-claim against Pennsylvania is reinstated.
+
+WATSON, J., dissents.
+
+[1]  519 So. 2d 225 (La.App. 5th Cir.1988)
+
+[2]  521 So. 2d 1160 (La.1988)
+
+[3]  An added policy stipulation that exhaustion must occur through judgments or settlements would perhaps make clearer that payment by the insurer which is not made pursuant to a formal judgment or settlement, such as a unilateral tender of its policy limits, is not grounds under the policy for termination of the insurer's defense. If an effort were made to construe the policy clause at issue here to cover the situation where there is a tender of policy limits, arguably it would be ambiguous in that context. As discussed further below, see supra notes 7-8 and accompanying text, unilateral tenders by the insurer have generally been viewed as insufficient to terminate the duty to defend. In this case, of course, there was a formal settlement which resulted in the release of both the insured and the insurer by the injured claimant.
+
+[4]  Louisiana courts have not previously addressed the issue of whether a provision that the duty to defend terminates upon exhaustion of policy limits is against public policy. The court of appeal in this case based its holding on its conclusion that the policy is ambiguous, and thus did not resolve the public policy argument.
+
+[5]  See, e.g., Kocse v. Liberty Mutual Ins. Co., 159 N.J.Super. 340,
+387 A.2d 1259
+(1978); Travelers Ins. Co. v. East,
+240 So. 2d 277
+(Miss.1970); St. Paul Fire & Marine Ins. Co. v. Thompson, 150 Mont. 182,
+433 P.2d 795
+(1967); American Employers Ins. Co. v. Goble Aircraft Specialties, Inc., 205 Misc. 1066, 131 N.Y.S.2d 393 (1954); American Casualty Co. v. Howard, 187 F.2d 322 (4th Cir.1951) (South Carolina law); Anchor Casualty Co. v. McCaleb, 178 F.2d 322 (5th Cir.1950); City Poultry & Egg Co. v. Hawkeye Cas. Co., 297 Mich. 509, 298 N.W. 114 (1941).
+
+[6]  See, e.g., Keene Corp. v. Insurance Co. of N. America,
+597 F. Supp. 946
+(D.D.C.1985) (Pennsylvania law); Allstate Ins. Co. v. Montgomery Trucking Co. of Georgia, Inc.,
+328 F. Supp. 415
+(N.D.Ga.1971); Oda v. Highway Ins. Co., 44 Ill. App.2d 235, 194 N.E.2d 489 (1963); Liberty Mutual Ins. Co. v. Mead Corp., 219 Ga. 6,
+131 S.E.2d 534
+(1963); Travelers Indemnity Co. v. New England Box Co., 102 N.H. 380, 157 A.2d 765 (1960); Denham v. LaSalle-Madison Hotel Co., 168 F.2d 576 (7th Cir.1948), cert. denied 335 U.S. 871, 69 S. Ct. 167, 93 L. Ed. 415 (1948) (Illinois law); Lumbermen's Mutual Cas. Co. v. McCarthy, 90 N.H. 320, 8 A.2d 750 (1939).
+
+[7]  See, e.g., Samply v. Integrity Ins. Co.,
+476 So. 2d 79
+(Ala.1985); Keene Corp. v. Insurance Co. of N. America,
+597 F. Supp. 946
+, 952 (D.D.C.1985); Sutton Mutual Ins. Co. v. Rolph, 109 N.H. 142, 244 A.2d 186 (1968); Simmons v. Jeffords,
+260 F. Supp. 641
+(E.D.Pa.1966); National Cas. Co. v. Insurance Co. of N. America,
+230 F. Supp. 617
+(N.D.Ohio 1964).
+
+[8]  There are admittedly not many reported cases involving policy language which specifically provides that the duty to defend terminates upon the exhaustion of policy limits. The cases which do interpret such policy language, however, do not support the Schnellers' position.
+
+In Batdorf v. Transamerica Title Ins. Co., 41 Wash. App. 254, 702 P.2d 1211 (1985), the defendant insurer prevailed. The court held that the duty to defend was discharged by the insurer's payment of policy limits where the policy reserved the insurer's "option of at any time settling the claim or paying the amount of the policy in full" in lieu of providing a defense.
+
+In Conway v. County Cas. Ins. Co.,
+92 Ill. 2d 388
+, 65 Ill.Dec. 934,
+442 N.E.2d 245
+(1982), the insured prevailed and the policy language was identical to the policy language at issue in this case. However, the decisive and distinguishing factor in Conway is that there was no actual settlement in that case. Without obtaining a release on behalf of its insured, the insurer simply paid the policy limits to the claimant. The court held that the insurer's tender of the policy limits did not terminate its defense obligations.
+
+Similarly, in Delaney v. Vardine Paratransit, Inc., 132 Misc.2d 397, 504 N.Y.S.2d 70 (Sup. 1986), the insured prevailed where the insurer paid the plaintiff its policy limits without obtaining a release. The policy provided that "our payment of liability insurance limit ends our duty to defend or settle." The court refused to allow the company to terminate its defense of the insured under these circumstances, basing its holding in part on New York statutes regulating the content of automobile policies.
+
+[9]  Arguably there may be a point in ongoing litigation at which the insurance company's withdrawal from the defense of the insured would be so prejudicial to the insured's interests that it would constitute a breach of the company's duty to act as a fiduciary toward the insured and to discharge its policy obligations in good faith.
+
+For example, in Reichert v. Continental Ins. Co., 290 So. 2d 730 (La.App. 1st Cir.), writ denied
+294 So. 2d 545
+(La.1974), the court held that an insurance company must appeal an excess judgment against its insured if reasonable grounds for such an appeal are present. Reichert was premised on the rationale that the insurer, "as champion of the insured's rights," should appeal an excess judgment if reasonable grounds for such an appeal exist, notwithstanding the fact that where an excess judgment is rendered, exhaustion of the insurer's policy limits is necessarily implicated.
+
+The policy involved in Reichert contained an unqualified promise that the insurer would "defend any suit ... payable under the terms of the policy," and apparently contained no stipulation that the duty to defend terminated upon exhaustion of policy limits. See McKenzie & Johnson, 15 La.Civil Law Treatise § 213 at 379 (1986). This Court has not addressed whether the insurer has a duty to appeal under such circumstances.

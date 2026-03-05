@@ -1,0 +1,63 @@
+61859
+State v. Jones
+https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-455-1.html
+
+61859
+State v. Jones
+Court: Louisiana Supreme Court
+Release date: 1978-10-09
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-455-1.html
+
+363 So. 2d 455 (1978)
+
+STATE of Louisiana
+v.
+Frederick JONES.
+
+No. 61859.
+
+Supreme Court of Louisiana.
+
+October 9, 1978.
+
+*456 John M. Blanchard, Orleans Indigent Defender Program, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., William L. Brockman, Asst. Dist. Atty., for plaintiff-appellee.
+
+CALOGERO, Justice.
+
+Defendant was charged with armed robbery (R.S. 14:64) by bill of information and convicted of that crime after a jury trial. Before sentencing, the state filed an habitual offender bill pursuant to R.S. 15:529.1 and, upon proof in conformity with that statutory provision, defendant was adjudged an habitual offender and sentenced to one hundred ninety-eight years at hard labor. Upon this appeal of his conviction and sentence defendant relies on three assignments of error for a reversal of his conviction and sentence.[1] Finding merit in one of the assignments, we reverse the conviction and sentence.
+
+Assignment No. 7 complains that the trial court erred in refusing to require testimony of a purported co-perpetrator called by the defendant who had entered a guilty plea and been severed after jury selection in the joint trial had concluded. The witness had not invoked the constitutional privilege against self-incrimination.
+
+The state presented the evidence it had marshalled against defendant Jones, then rested. After the jury was retired from the courtroom, defendant Jones called Edward DeGreat as his first witness. DeGreat's counsel notified the court that DeGreat had advised counsel that he refused to testify in the case. The witness was sworn and verified under oath that he would refuse to testify. The prosecutor who also wanted to question DeGreat joined in defense counsel's request and opined that DeGreat should be directed by the court to testify, in view of the fact that he had already entered a plea of guilty. The court sought to have DeGreat's counsel state the grounds upon which defendant could refuse to testify and DeGreat's attorney cited the case of Widger (Widger v. United States, 244 F.2d 103 [5th Cir. 1957]), with the facts of which the court was apparently somewhat familiar. In discussing the Widger case, DeGreat's counsel noted that the federal Fifth Circuit had ruled that Widger did not have to testify. Jones' counsel sought to learn the basis for that holding and DeGreat's counsel announced that the basis was "self preservation." Jones' counsel protested that since DeGreat had already entered a plea, his testimony would in no way harm him, emphasizing that DeGreat ". . . may be able to exonerate the defendant before the bar."
+
+In expressing misgivings about the safety of the potential witness who, on the basis of his own guilty plea that morning, would be going to the penitentiary, the court stated: "I can't put his life in jeopardy by getting him to testify for one side or the other. I'm not going to be put in that position. I'm going to uphold his right to refuse to answer."
+
+*457 Subsequent discussion between the court and the prosecutor wherein the prosecutor communicated a willingness to grant immunity in exchange for DeGreat's testimony again established that the court's concern in "upholding] his right to refuse to answer" was for DeGreat's safety in the penitentiary. The court pointedly questioned the prosecutor: "Are you going to send a man up there to stay with him in the Penitentiary to protect him? If you guarantee me that, I'll make him testify."
+
+Because of the court's ruling, defendant Jones was wholly deprived of his constitutional right to compel the attendance of a witness. La.Const. art. I, § 16 (1974); U.S.Const., amend. VI. He was likewise deprived in some measure of his constitutional right to present a defense. La.Const. art. I, § 16 (1974); U.S.Const. amend. VI, as construed in Washington v. Texas,
+388 U.S. 14
+, 87 S. Ct. 1920,18 L. Ed. 2d 1019 (1967). We must determine whether the witness' asserted interest in self-preservation overrides Jones' constitutional rights.
+
+In refusing to require DeGreat to appear as a witness on Jones' behalf, the court clearly relied upon Widger, supra, determining that the threat to DeGreat's safety which would be engendered by his testimony outweighed the need for his testimony. Widger was an appeal from a contempt conviction which resulted from Widger's refusal to answer questions on the ground that to do so would subject him to imminent danger to grave physical harm; in refusing, Widger clearly established that he was not relying on any constitutional right he possessed. The Fifth Circuit noted that a court would not lightly require testimony if it believed that death or grave physical harm would ensue therefrom, and held that the federal district court had no right to reject without a hearing Widger's uncontradicted statements that harm would come to him. But the Fifth Circuit expressly stated: "We do not hold that appellant was justified in his refusal to answer the questions propounded to him by the Court and by the prosecuting attorney in its presence." Widger v. United States, supra, at 107.
+
+In Piemonte v. United States,
+367 U.S. 556
+, 81 S. Ct. 1720, 6 L. Ed. 2d 1028 (1961) the Supreme Court had before it for a review a contempt conviction predicated on a witness' refusal to testify before the Grand Jury. The stated basis for refusal was the witness' fear for his own safety and that of his family. In a footnote the United States Supreme Court stated:
+
+Called upon to decide whether DeGreat's claim of fear for his personal safety outweighs Jones' constitutional rights to compel the attendance of witnesses and to present a defense, we have no difficulty in determining that a witness' fear of reprisal does not override an accused's paramount right to present the evidence within the control of the witness. The federal and state constitutions guarantee to an accused the rights to compel the attendance of witnesses and to present a defense. In construing the scope of the federal constitutional right to compulsory process the United States Supreme Court stated in Washington   v. Texas,
+388 U.S. 14
+, 87 S. Ct. 1920, 18 L. Ed. 2d 1019 (1967);
+
+The Washington court held that a state law rendering co-indictees incompetent as witnesses for a defendant on trial denied the right to have compulsory process, but emphasized in a footnote that nothing in its opinion was to be construed as disapproving testimonial privileges, such as that against self-incrimination. As noted earlier in this opinion, the witness had not invoked the privilege against self-incrimination. Therefore this case presents no issue of the right to assert the privilege nor any question of the extent to which the privilege is available to one who has entered a guilty plea to the offense for which the defendant is being tried and about which he is being called upon to testify. The only matter at issue is the effect a witness' claim of fear for personal safety is to have in the face of a defendant's constitutional right to present a defense. We hold that an assertion by a witness called by the defense of fear of reprisal may not be allowed to excuse the witness' testimony, absent some other excuse, legally valid, for sanctioning his refusal to testify. The trial court in the instant case clearly erred in his ruling, requiring that we reverse defendant's conviction and sentence.
+
+For the foregoing reasons the defendant's conviction and sentence are reversed.
+
+REVERSED.
+
+[1]  The record on appeal contains seven formal assignments of error, four of which were not briefed and are therefore considered abandoned. State v. Burge,
+359 So. 2d 616
+(La. 1978).

@@ -1,0 +1,81 @@
+59043
+State v. Powers
+https://law.justia.com/cases/louisiana/supreme-court/1977/344-so-2d-1049-1.html
+
+59043
+State v. Powers
+Court: Louisiana Supreme Court
+Release date: 1977-04-11
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/344-so-2d-1049-1.html
+
+344 So. 2d 1049 (1977)
+
+STATE of Louisiana
+v.
+Lloyd POWERS.
+
+No. 59043.
+
+Supreme Court of Louisiana.
+
+April 11, 1977.
+
+James A. Wood, Baton Rouge, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie B. Brown, Dist. Atty., for plaintiff-respondent-appellee.
+
+CALOGERO, Justice.
+
+We granted writs in this case to consider the application to the particular facts of   this case of Article 581 of the Code of Criminal Procedure which regulates further prosecution of a person after the time limits for trial have expired.
+
+Defendant Lloyd Powers was initially indicted on January 17, 1974 with armed robbery, conspiracy to commit armed robbery and murder. These charges grew out of a single incident in which a Baton Rouge attorney, H. Alva Brumfield, was robbed and murdered in his home in May of 1973 by a group of people. The present accused, Lloyd Powers, was arrested in Texas and, on October 10, 1974, was returned to Louisiana for prosecution on these three charges.[1] Two years later, on October 11, 1976, Powers filed a motion to quash the three charges on the grounds that the state had failed to bring him to trial within two years from the date of the institution of prosecution. C.Cr.P. arts. 578, 581. The trial judge granted the motion as to the two armed robbery charges but denied it as to the murder indictment.[2] No review was sought from this action. The state subsequently, however, filed new charges against defendant, this time for aggravated burglary and conspiracy to commit aggravated burglary, charges which were based on the same incident at Brumfield's home in May of 1973.[3] Defendant filed a motion to quash these charges contending that they were barred by Article 581. When the trial judge denied defendant's motion, we granted his application for writ of review so as to consider the application of that article.
+
+Article 581 of the Code of Criminal Procedure provides that, when an indictment has been dismissed because of the state's failure to timely bring the charge to trial, "there shall be no further prosecution against the defendant for the same or a lesser offense based on the same facts."[4] Defendant argues that the aggravated burglary charges are lesser offenses based on the same facts, i. e., the robbery and murder at the Brumfield residence in May of 1973. To support his position, he insists that the word "lesser" in the statute means a crime carrying a lesser penalty, not necessarily a crime which is a lesser included offense, and he analogizes to the double jeopardy jurisprudence to argue that the factual proof at trial on the aggravated burglary charge will be the same evidence the state would have used against him at trial in the armed robbery charge.
+
+The state admits that both sets of charges grew out of the same factual context, but urges that the two sets of crimes were independent of each other. The state's position is that the offense of aggravated burglary had been completed before Mr. Brumfield returned home. His return unfortunately exposed Mr. Brumfield to the crimes of armed robbery and murder. The state's argument, in essence, is that the burglary was not a "lesser offense based on the same facts" as the armed robbery, but an independent offense which had completely transpired before the armed robbery occurred, even though both crimes were part of one extended criminal transaction.
+
+In order to resolve this conflict, we must examine Article 581 and its place in our Code of Criminal Procedure. Initially,   of course, it can be noted that the provision is one of those articles which implements the general directive of the Code that its provisions "shall be construed to secure. . . the elimination of unjustifiable delay." C.Cr.P. art. 2. The article complements the other provisions of this Chapter, Articles 571-577, which set out the time limitations within which an accused must be charged after the commission of the offense. But it is separate from the federal and state constitutional guarantees to a speedy trial.[5]United States v. Marion,
+404 U.S. 307
+, 92 S. Ct. 455, 30 L. Ed. 2d 468 (1971); State v. Moore,
+300 So. 2d 492
+(La. 1974); C. Joseph, Criminal Trial Procedure, 36 La.L.Rev. 605 (1976).
+
+The official revision comments indicate that the redactors in drafting the article, studied similar time limitation statutes in other states. See specific statutes listed in comment to Article 578. We have read all of those statutes in hopes of discovering a pattern to them which would help us interpret our own provisions, but we have found no pattern at all. Some of the provisions allow reprosecution on the very crime which was charged in the dismissed indictment; others view the dismissal as an acquittal or a grant of immunity for any further prosecution growing out of the same offense or any charge which could have been brought initially. Specific provisions in other states on the effect upon a subsequent prosecution of a dismissal of proceedings for delay in trial likewise vary greatly, and depend primarily upon the actual terminology of the state statute which authorizes the dismissal. See 50 A.L.R.2d 943. It is uniformly true, however, that these statutory provisions which, like our provision, prohibit retrials after quashing of indictments on the basis of non-timely trial, do so for the reason that to allow the state to initiate prosecution a second time for the same offense would nullify the timeliness requirement and make its protection meaningless. Id. There is no question, therefore, that the state here could not have reinstituted prosecution of defendant Powers for the crimes of armed robbery or conspiracy to commit armed robbery which occurred at the Brumfield residence in May of 1973. C.Cr.P. art. 581; see State v. Murray, 222 La. 950, 64 So. 2d 230 (1953). Moreover, it is clear that had defendant been denied his constitutional right to a speedy trial, no further prosecution of him could have been instituted for any charge that could have originally been brought out of that incident. See Strunk v. United States,
+412 U.S. 434
+, 93 S. Ct. 2260, 37 L. Ed. 2d 56 (1973); Mann v. United States, 113 U.S.App.D.C. 27, 304 F.2d 394 (1962), cert. denied, 371 U.S. 896, 83 S. Ct. 194, 9 L. Ed. 2d 127; State v. Bullock, supra.
+
+The codal language of Article 581 prohibits reprosecution after an initial indictment is quashed for untimely trial "for the same or a lesser offense based on the same facts." This same language is used in Article 576 which regulates the filing of new charges following dismissal of a charge, for, among various reasons, the state's failure to initiate its prosecution against the accused within specified statutory time limits. The official revision comment to that article indicates that the "same facts" language would prohibit a subsequent charge which is based on some of the same facts as the initial charge, even though it is not based on all of them. The comment also reflects the intention of the redactors to codify the rule in the case of   State v. Murray, supra, which is the only case which we have found that specifically interprets this language in either article. In that case, a delivery boy was charged with a single theft of $63.89 from his employer, a sum which was actually the total of four separate thefts on that day. When the state nolle prossed the indictment and charged him with theft of $47.94 from the employer, a sum which was the total of only three of the previously-included four thefts, this Court held that both charges were "based on the same facts." It is clear, then, that the codal language envisions a rather broad interpretation, and that the timeliness provisions cannot be circumvented merely because the state will be able to prove its case on the later-charged offense without establishing all of the elements that would have been necessary to prove violation of the formerly-charged offense. We understand, for example, that if A committed armed robbery of B by holding a gun on him and taking his money, A could not be charged with assault relative to the same incident following an Article 581 quash of the armed robbery indictment. In most situations, therefore, no further prosecution for the same offense can be made after an Article 581 quash.
+
+We find, however, that the situation before us is not a usual situation. Here, the aggravated burglary of the empty residence had completely taken place before Mr. Brumfield returned home.[6] Every element of the crime was complete before Brumfield returned home. The elements of the aggravated burglary committed here were, presumably, these: the unauthorized entry of an inhabited dwelling with the intent to commit a felony or theft therein while armed with a dangerous weapon.[7] It was only upon Brumfield's return that the offense of armed robbery took place, and every element of the armed robbery took place after his return. See R.S. 14:64. Therefore, because these were two separate crimes which occurred at different times and which contained separate elements (even though they were admittedly both part of one extended criminal transaction) we find that the charges for aggravated burglary and conspiracy to commit aggravated burglary were not "the same or. . . lesser offense[s] based on the same facts" as the charges for armed robbery and conspiracy to commit armed robbery.
+
+Accordingly, for the reasons assigned, the ruling of the trial judge overruling defendant's motion to quash is affirmed.
+
+[1]  The state's theory of the case is that Powers is guilty of these crimes as a principal and/or as a conspirator even though he was not personally present in the Brumfield home.
+
+[2]  Article 578 of the Code of Criminal Procedure sets a limit of two years for trial from the date of institution of the prosecution in felony cases other than capital cases, but allows three years to bring a person to trial in a capital case.
+
+[3]  Actually the state, having received notice of defendant's filing of the motion to quash, filed its new charges just before the trial judge actually quashed the first indictment but after the running of the two-year period. We do not find that this fact takes the situation out from under the purview of Article 581, and the state does not contend before us that it does.
+
+[4]  Article 581 provides in full that:
+
+"Upon the expiration of the limitations established by this Chapter, the court shall, upon motion of the defendant, dismiss the indictment. This right of dismissal is waived unless the motion to quash is made prior to trial. "If the indictment is dismissed under this article, there shall be no further prosecution against the defendant for the same or a lesser offense based on the same facts."
+
+[5]  Interestingly, the statutory provision is narrower than the constitutional right to a speedy trial (because, for example, the acceptable time period may be longer than that approved under the constitutional guarantee) and it is at the same time broader than the constitutional right (because, for example, there is no need to assess prejudice to the accused nor to require that an accused make known his desire for an early trial). In the instant case, the lengthy delay was caused by prolonged plea bargain negotiations between the state and defendant. The state's reason for delay is of no moment in questions of the running of statutory time periods, see State v. Martens,
+338 So. 2d 95
+(La. 1976), but may well be relevant in a determination as to whether defendant's right to speedy trial has been violated. See Barker v. Wingo,
+407 U.S. 514
+, 92 S. Ct. 2182, 33 L. Ed. 2d 101 (1972); State v. Stetson,
+317 So. 2d 172
+(La. 1975); State v. Bullock,
+311 So. 2d 242
+(La. 1975).
+
+[6]  The "facts" to which we refer have not, of course, been proved against defendant Powers at any trial, and our language here is not intended in any way to limit the state's proof or to establish any precedent should defendant be tried on these charges, be found guilty, and appeal his case. The state and defendant merely agreed before us what the facts were that the state hoped to prove so that we would have some information on which we could resolve the legal issue, since no record was made at the hearing on the motion to quash.
+
+[7]  Revised Statute 14:60 provides that aggravated burglary is the "unauthorized entering of any inhabited dwelling, or of any structure, water craft, or movable where a person is present, with the intent to commit a felony or any theft therein, if the offender, (1) Is armed with a dangerous weapon; or (2) After entering arms himself with a dangerous weapon; or (3) Commits a battery upon any person while in such place, or in entering or leaving such place."
+
+Assuming that these persons were armed or armed themselves later, the crime was complete when they entered the dwelling without authorization and with the specified intent. The residence was "inhabited" because Brumfield lived there irrespective of the fact that no one was at home at the time of the unauthorized entry. See State v. Arceneaux,
+302 So. 2d 1
+(La. 1974) and the official revision comment to R.S. 14:60.

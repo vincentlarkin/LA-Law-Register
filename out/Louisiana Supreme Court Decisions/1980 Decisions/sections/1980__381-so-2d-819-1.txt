@@ -1,0 +1,88 @@
+65533
+State v. Brady
+https://law.justia.com/cases/louisiana/supreme-court/1980/381-so-2d-819-1.html
+
+65533
+State v. Brady
+Court: Louisiana Supreme Court
+Release date: 1980-03-03
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/381-so-2d-819-1.html
+
+381 So. 2d 819 (1980)
+
+STATE of Louisiana
+v.
+Vance BRADY, Jr.
+
+No. 65533.
+
+Supreme Court of Louisiana.
+
+March 3, 1980.
+
+*820 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., J. Kevin McNary, Asst. Dist. Atty., New Orleans, for plaintiff-appellee.
+
+Robert F. Barnard, New Orleans, Orleans Indigent Defender Program, George M. Strickler, Jr., Supervising Atty., Marc L. Bonin, Michael F. Bertucci, Student Practitioners, Tulane Appellate Advocacy Program for defendant-appellant.
+
+CALOGERO, Justice.[*]
+
+Defendant Vance Brady, Jr., was charged by bill of information with armed robbery on November 14, 1977. Defendant entered a plea of not guilty. Defendant's first two trials ended in hung juries. On April 4, 1979, a twelve member jury found defendant guilty of simple robbery.
+
+Charles Brown, a bartender and victim of the crime, was the state's only witness. Mr. Brown testified that on October 20, 1977, at approximately 7:00 p. m. two men entered the Devil's Dungeon Lounge separately. The men ordered fruit drinks and talked. They asked Mr. Brown, the bartender, if there were any other employees present. Shortly thereafter one of the men grabbed Mr. Brown and announced "This is a stick-up." Brown was told to lie down on the floor, where he was bound and gagged. The two robbers locked the door, ransacked the bar, and took cash, Brown's wallet, and a gun.
+
+All of defendant's assignments of error relate to defendant's attempt to question Mr. Brown about a previous arrest of his for intentionally carrying a concealed weapon approximately one year before the trial in this case took place. During cross-examination defense counsel asked Mr. Brown if he had "made a deal with the D.A." in return for his testimony. The state objected at this point in order to prevent the witness from answering the question. The trial judge sustained the state's objection and the witness was not required to answer the question.
+
+At a bench conference held shortly thereafter out of the presence of the jury defense counsel renewed his objection to the court's ruling and stated for the record his grounds for objecting. Defense counsel stated that Mr. Brown had been charged with intentionally carrying a concealed weapon more than a year before the trial in this case and had forfeited bond; and that the state was delaying action in that case until after the trial of this defendant. He   then asked the court to "note an objection under Article 492 of Title 15," a statute which relates to the questioning of witnesses as to their interest or bias in a particular case:
+
+The trial judge sustained the state's objection to the question on the grounds that R.S. 14:495, concerning the questioning of witnesses about prior criminal convictions, allows only evidence of a conviction (and not an arrest) to be used in impeaching the credibility of a witness:
+
+On appeal to this Court defendant raises three arguments:
+
+1) The trial judge denied defendant his statutory right of effective cross-examination by refusing to permit him to cross-examine the only state witness concerning a criminal charge pending against the witness in an effort to show that the witness was biased and/or interested in the case being tried. (Assignment of Error No. 1)
+
+2) The trial court's refusal to allow the defendant to cross-examine the only witness to testify for the state to show the witness' bias or interest in the case violated defendant's right to confront his accuser guaranteed by the United States and Louisiana Constitutions. (Assignment of Error No. 1)
+
+3) The trial court denied defendant his right to a fair trial by permitting the prosecution to argue that the victim had no interest in the case, after preventing defendant's cross-examining the witness on that very matter, his interest in the case. (Assignment of Error No. 2)
+
+We reverse. The trial judge's ruling denied defendant his statutory right to question a witness concerning his bias or interest in the case and violated defendant's constitutional right of cross-examination (confrontation), there having been no valid statutory or other reason to curtail such cross-examination. The error complained of in defendant's second assignment of error (see 3 above) is particularly egregious because the court's permitting the state to argue that its witness had no interest in the case compounded the errors complained of in defendant's first assignment of error.
+
+Louisiana Revised Statute 15:495, the statute relied upon by the trial court to limit defendant's cross-examination, states in pertinent part: ". . . no witness, whether he be defendant or not, can be asked on cross-examination whether or not he has ever been indicted or arrested . ." Louisiana Revised Statute 15:495 was amended in part in 1952 to remove a provision which had allowed the witnesses to be impeached by questioning them as to whether they had ever been indicted or arrested. Apparently the Legislature amended the statute because they felt that the trier of fact might "ascribe undue weight to the accusation of guilt" by jumping to an unwarranted conclusion that the witness was guilty of the crime for which he was arrested and "then concluding that such a person is unworthy of belief." Pugh, The Work of the Louisiana Supreme Court for the 1958-1959 Term, 20 La.L.R. 341 (1960).
+
+Louisiana Revised Statute 15:495 permits cross-examination as to a witness'   convictions as theoretically relevant to a witness' credibility in general, regardless of when or for what crime the witness was convicted. When impeachment is sought on these grounds, the fact that a witness has been arrested or indicted is not logically relevant to this purpose because an arrest or an indictment is only an accusation. State v. Robinson, 337 So. 2d 1169, 1171 (La.1976); See also Pugh, Louisiana Evidence Law, 133, 134 (1974).
+
+The trial judge's ruling missed the point. Defendant's attempted cross-examination about the arrest was not for the purpose of impeaching the witness' general credibilitythe arrest was not presented as proof that the witness is not credible because he has an arrest record. If that had been the case the trial court's ruling would have been correct. Rather, the focus of defendant's questioning was to establish that the district attorney's office had leverage over Mr. Brown as a result of the pending charge (or at least that Mr. Brown might have assumed so), a reason why Mr. Brown's credibility was or might be suspect in this particular case. R.S. 15:492 permits a witness to be questioned as to "any particular fact showing or tending to show" bias or interest in the case on trial and this Court has held on numerous occasions that a witness' hope or knowledge that he will receive leniency from the state is highly relevant to establish bias or interest. State v. Daniels,
+378 So. 2d 1361
+, (La.1979); State v. Bailey,
+367 So. 2d 368
+(La.1979); State v. Franks,
+363 So. 2d 518
+(La.1978); State v. Robinson, supra; State v. Lewis, 236 La. 473,
+108 So. 2d 93
+(La.1959).[1]
+
+The right to cross-examine witnesses concerning their interest in a case is not only a statutory right, it is a right protected by the Sixth Amendment to the United States Constitution and Article I, Section 16 of the Louisiana Constitution. The United States Supreme Court stated in Pointer v. Texas,
+380 U.S. 400
+, 13 L. Ed. 2d 923, 85 S. Ct. 1065 (1965) that the right of cross-examination is included in the right of an accused to confront witnesses against him. See also Davis v. Alaska,
+415 U.S. 308
+, 39 L. Ed. 2d 347, 94 S. Ct. 1105 (1974); Douglas v. Alabama,
+380 U.S. 415
+, 13 L. Ed. 2d 934, 85 S. Ct. 1074 (1965). The Louisiana Constitution explicitly guarantees defendants the right of cross-examination: "An accused is entitled to confront and cross-examine the witnesses against him...." Louisiana Constitution, Article I, Section 16. Under both constitutions the exposure of a witness' motivation in testifying is a proper right of cross-examination. See, United States v. Davis, 415 U.S.  at 316, 94 S. Ct.  at 1110; Greene v. McElroy,
+360 U.S. 474
+, 496, 3 L. Ed. 2d 1377, 79 S. Ct. 1400 (1959).
+
+The trial court's ruling prevented the defendant from directly challenging the disinterestedness of the prosecution's only witness and prevented the jury from considering relevant information which could have diminished or negated the credibility of the state's only witness. We conclude that the limitation of defendant's cross-examination was prejudicial to the substantial rights of the accused, both his statutory right to impeach a witness' credibility by showing bias or interest and his constitutional right to cross-examine a witness against him. R.S. 15:492, United States Constitution, Amendment VI, Louisiana Constitution, Article I, Section 16. C.Cr.P. art. 921.[2]
+
+For the foregoing reasons the conviction and sentence are reversed and the defendant is granted a new trial.
+
+REVERSED; NEW TRIAL ORDERED.
+
+[*]  PAUL B. LANDRY, Jr., C. J., retired, participated in this decision as an Associate Justice Ad Hoc.
+
+[1]  We are constrained to note the existence of one case in our jurisprudence, however, which is at variance with these expressions and authorities. See State v. Romano,
+320 So. 2d 167
+(La.1975) and a criticism of that case, Pugh, The Work of the Louisiana Appellate Courts for the 1975-1976 Term, 37 La.L.R. 588 (1977).
+
+[2]  Code of Criminal Procedure, Article 921, in effect on the date of this trial, provides:
+
+"A judgment or ruling shall not be reversed by an appellate court on any ground unless in the opinion of the court after an examination of the entire record, it appears that the error complained of has probably resulted in a miscarriage of justice, is prejudicial to the substantial rights of the accused, or constitutes a substantial violation of a constitutional or statutory right."

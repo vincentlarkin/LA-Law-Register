@@ -1,0 +1,216 @@
+57906
+Poche v. Avondale Shipyards, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1976/339-so-2d-1212-1.html
+
+57906
+Poche v. Avondale Shipyards, Inc.
+Court: Louisiana Supreme Court
+Release date: 1976-11-08
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/339-so-2d-1212-1.html
+
+339 So. 2d 1212 (1976)
+
+Curtis POCHE, Jr. and Velma Poche, Widow of Curtis Poche, Sr., Individually and as Administratrix of the Estates of her minor children, Whitney Poche and Patricia Poche
+v.
+AVONDALE SHIPYARDS, INC., et al.
+Aldrich ADAMS
+v.
+Ed HARTZMAN et al.
+
+Nos. 57966 and 57906.
+
+Supreme Court of Louisiana.
+
+November 8, 1976.
+
+Dissenting Opinion November 18, 1976.
+
+Rehearing Denied January 21, 1977.
+
+*1213 Garland R. Rolling, Metairie, for plaintiff-applicant in 57906.
+
+Charles A. Kronlage, Jr., Kronlage, Cittmann & Caswell, New Orleans, for plaintiffs-applicants in 57906 and 57966.
+
+Dominic J. Gianna, Donald A. Hammett, Hammett, Leake, Hammett, Hulse & Nelson, New Orleans, for defendants-respondents in No. 57906 and 57966.
+
+Rehearing Denied (57906) January 21, 1977.
+
+MARCUS, Justice.
+
+This case involves two independent suits consolidated for our consideration because they present a common issue. In one suit, the widow and children of Curtis Poche, Sr. filed a third party negligence action against Avondale Shipyards, Inc., Poche's employer, and certain named executive officers of Avondale Shipyards, Inc. pursuant to La. R.S. 23:1101 for the wrongful death of their husband and father, respectively. On August 17, 1973, Curtis Poche, Sr., in the course and scope of his employment by Avondale Shipyards, Inc., was engaged in new ship construction in a shipyard area located entirely over land when the section of the ship to which his scaffold was attached suddenly broke away from the rest of the structure and collapsed, causing him to fall and be fatally injured.
+
+The plaintiff in the second suit, Aldrich Adams, sustained personal injuries in the course and scope of his employment by Avondale Shipyards, Inc. on October 28, 1974, while he was working entirely over land as operator of a crane being used in new ship construction. He was struck on the head and neck by a piece of ship framework which swung around unexpectedly as   it was being moved by the crane. Plaintiff made several executive officers and fellow employees defendants in a negligence action filed pursuant to La.R.S. 23:1101.
+
+Defendant executive officers and fellow employees in both suits filed exceptions alleging no right or cause of action claiming that the benefits afforded by the Longshoremen's and Harbor Worker's Compensation Act (LHCA) were available to plaintiffs and thus excluded all rights, remedies and benefits otherwise provided by the Louisiana Workmen's Compensation Act. Avondale Shipyards, Inc. also filed an exception of no cause of action to the suit instituted by Curtis Poche, Jr., et al. From judgments maintaining defendants' exceptions and dismissing their suits, plaintiffs appealed to the Fourth Circuit where their cases were consolidated for consideration. The appeal court affirmed the judgments below,[1] holding that, although the LHCA and Louisiana compensation acts may operate concurrently as to injuries occurring on land, a plaintiff who elects to sue under state law may not recover against executive officers and fellow servants since recovery against same would conflict with the prohibition of such suits embodied in the federal act.
+
+The appeal court additionally affirmed the trial court's judgment sustaining the exception filed by Avondale Shipyards, Inc. and dismissing Avondale from the Poche suit. We granted writs of certiorari to consider the correctness of the judgments of the court of appeal.[2]
+
+The issues presented for our consideration are narrow yet difficult ones involving the delicate balance to be maintained between state and federal laws which purport to govern the same area of activity. We must decide (1) whether a worker injured on land and covered by the LHCA[3] may elect to pursue the remedies afforded under the workmen's compensation law of Louisiana, and (2) if so, whether the state compensation law is to be applied in its entirety or only insofar as its provisions are compatible with those embodied in the federal legislation.
+
+Prior to the enactment of the 1972 amendments to the LHCA, the coverage of the act was defined as follows:
+
+It is undisputed that the LHCA before 1972 had no application to injuries occurring on land; state compensation acts constituted the sole remedy available, even to traditionally maritime workers who happened to be injured on shore. Nacirema Operating Co. v. Johnson,
+396 U.S. 212
+, 90 S. Ct. 347, 24 L. Ed. 2d 371 (1969). The principle that local not maritime law governed workers injured on land was reiterated in Victory Carriers, Inc. v. Law,
+404 U.S. 202
+, 92 S. Ct. 418, 30 L. Ed. 2d 383 (1971). At the same time, however, the United States Supreme Court intimated that under the authority granted in Articles I and III of the United States   Constitution, Congress might legislate compensation coverage for maritime workers injured in shoreside accidents.[4]
+
+Congress apparently responded to the invitation in Nacirema and revised the coverage of the LHCA in 1972 to extend benefits to certain classes of maritime workers who performed their duties on land. The coverage provisions were expanded as follows:
+
+Defendants argue that the 1972 amendments to the LHCA have the effect of preempting the power of this state to provide a compensation remedy to maritime workers injured on our soil. Their principal contentions are: (1) that the need for uniformity in the field of admiralty law demands that federal law operate exclusively as to covered workers; (2) that the history and wording of the LHCA evidence a Congressional intent that federal law in this area be preeminent; and (3) that even if concurrent operation of the two compensation laws is permissible, state law must yield where its provisions conflict with those of the federal act.
+
+We do not agree with any of these contentions.
+
+The history of workmen's compensation as it relates to longshoremen, harborworkers, and others injured on navigable waters in the course of their employment has been a long and tortuous one. In 1917, the United States Supreme Court held, in a divided opinion, that a state compensation law could not constitutionally be applied to a longshoreman who was killed aboard a ship in navigable waters while engaged in unloading cargo. Southern Pacific Co. v. Jensen,
+244 U.S. 205
+, 37 S. Ct. 524, 61 L. Ed. 1086 (1917). The Court emphasized that, under the facts of the case, the matter was clearly within traditional admiralty jurisdiction and therefore not subject to the diverse legislation of the various states. The Court noted however, that, while "it [is] difficult, if not impossible, to define with exactness just how far the general maritime law may be changed, modified, or affected by state legislation. That this may be done to some extent cannot be denied. . . ." The   rule was announced that state legislation would be permissible unless "it contravenes the essential purpose expressed by an act of Congress, or works material prejudice to the characteristic features of the general maritime law, or interferes with the proper harmony and uniformity of that law in its international and interstate relations." In 1917, a majority of the Court felt that this rule was violated when a state provided workmen's compensation to a stevedore injured on navigable waters. It is noteworthy, however, that the Jensen Court did not suggest that the uniformity of the maritime law was jeopardized when state compensation laws were applied to the same workers injured on shore, doubtless because at that time admiralty jurisdiction in tort was largely tied to the situs of the injury on navigable waters. That state law could constitutionally apply to longshoremen injured on land was confirmed in State Industrial Commission v. Nordenholt Corp.,
+259 U.S. 263
+, 42 S. Ct. 473, 66 L. Ed. 933 (1922).
+
+Thereafter, in Grant Smith-Porter Shipping Co. v. Rhode,
+257 U.S. 469
+, 42 S. Ct. 157, 66 L. Ed. 321 (1922), the Supreme Court crossed its own line of demarcation between state and federal jurisdiction and held that, if the nature of an employee's work was of "local concern," a state compensation act could apply without working a material prejudice to the federal maritime law, even if the injury occurred on navigable water.
+
+In 1927, Congress passed the Longshoremen's and Harbor Worker's Compensation Act, 33 U.S.C. § 901 et seq., which provided a federal compensation remedy for workers injured on navigable waters "if recovery for the disability or death through workmen's compensation proceedings may not validly be provided by State law." 33 U.S.C. § 903(a). This language of the act appeared to make the state and federal compensation remedies exclusive and engendered much confusion over which cases involved interests that were "maritime but local" and thus cognizable under state as opposed to federal law.
+
+In Davis v. Department of Labor & Industries,
+317 U.S. 249
+, 63 S. Ct. 225, 87 L. Ed. 246 (1942), the Supreme Court coined the phrase "twilight zone" to describe the shadowy area in which it was difficult to determine whether state or federal law should apply. In this area, if a worker elected to apply for state benefits his choice would be upheld and the application of state law presumed constitutional. In subsequent cases, the Court made it clear that an area of concurrent jurisdiction existed wherein workers injured on navigable waters, even when their occupations were traditionally maritime, could pursue remedies available under state compensation laws. Hahn v. Ross Island Sand & Gravel Co.,
+358 U.S. 272
+, 79 S. Ct. 266, 3 L. Ed. 2d 292 (1959); Richard v. Lake Charles Stevedores, Inc., 95 So. 2d 830 (La.App. 1st Cir. 1957), cert. denied 355 U.S. 952, 78 S. Ct. 535, 2 L. Ed. 2d 529 (1958); Baskin v. Industrial Accident Commission, 338 U.S. 854, 70 S. Ct. 99, 94 L. Ed. 523 (1949); Bethlehem Steel Co. v. Moore, 335 U.S. 874, 69 S. Ct. 239, 93 L. Ed. 417 (1948).[5] Although dicta in the Supreme Court's decision in Pennsylvania Railroad Co. v. O'Rourke,
+344 U.S. 334
+, 73 S. Ct. 302, 97 L. Ed. 367 (1953) referred to the LHCA as an exclusive remedy, the Court's comments were made in a case involving a contest between two federal compensation systems (FELA and LHCA). Moreover, in Calbeck v. Travelers Insurance Co.,
+370 U.S. 114
+, 82 S. Ct. 1196, 8 L. Ed. 2d 368 (1961), the Court judicially excised the troublesome clause in the LHCA "if recovery . . . may not validly be provided by State law," which had created the implication that state and federal compensation systems were exclusive. The Court held that LHCA benefits   would be available for all workers injured on navigable waters, whether or not a particular injury might also have been within the constitutional reach of a state compensation act. In so ruling, the Court did not suggest that the availability of federal benefits thereby excluded the operation of state law, but rather stated that its decision was consistent with Davis and the twilight zone concept. We note particularly the discussion in Calbeck of the decision in Avondale Marine Ways, Inc. v. Henderson,
+346 U.S. 366
+, 74 S. Ct. 100, 98 L. Ed. 77 (1953). In that case, the LHCA was held applicable to a fatal injury occurring on land to an employee engaged in the repair of a vessel which was physically located on a marine railway inasmuch as such a railway was comparable to a dry dock, an area specifically covered by LHCA. With regard to the LHCA coverage, the Calbeck Court noted that "at the same time, since the injury did, in a physical sense, occur on land, there is little doubt that a state compensation act could validly have been applied to it."
+
+In our own court, in Ellis v. Travelers Insurance Co., 241 La. 433,
+129 So. 2d 729
+(La.1961), we were persuaded by a decision of the United States Court of Appeal for the Fifth Circuit that as to a longshoreman performing maritime work at the time of injury aboard a vessel afloat on navigable waters the LHCA was the exclusive remedy. Flowers v. Travelers Ins. Co., 258 F.2d 220 (5th Cir. 1958). Our decision in Ellis, however, and the Flowers decision, on which we heavily relied, was reached without the benefit of the Supreme Court's opinion in Calbeck. Subsequently, in Arp v. Maryland Casualty Company, 170 So. 2d 166 (La.App. 4th Cir. 1964), the Fourth Circuit held that at least as to a shore based repairman injured aboard a vessel, the state compensation system could apply. We denied writs with the notation: "On the facts found by the Court of Appeal there appears no error of law in its judgment." 247 La. 411, 171 So. 2d 666 (1965).
+
+What can be gleaned from an examination of these cases is that the United States Supreme Court has made it clear that state compensation laws can be constitutionally applied concurrently with the federal compensation system to some, if not all, categories of maritime workers. While the Court has never overruled Jensen, it has demonstrated that the uniformity of the federal maritime law is not materially prejudiced by the operation of state compensation remedies even in areas where the federal law is also applicable.[6] Now that the amendments to LHCA cover land-based workers traditionally falling under the exclusive coverage of state acts, we see little reason to conclude that the concurrent application of the two compensation systems is any more inimical to the maritime law than was the case before the 1972 amendments.
+
+We are reinforced in our conclusions by the recent decision of the United States Supreme Court in Askew v. American Waterways Operators, Inc.,
+411 U.S. 325
+, 93 S. Ct. 1590, 36 L. Ed. 2d 280 (1973). In commenting on the shoreward extension of admiralty jurisdiction in the Admiralty Extension Act, 46 U.S.C. § 740, the Court noted:
+
+The Court further stated that Jensen has been confined to its facts, viz., to suits relating to the relationships of vessels, plying the high seas and our navigable waters, and to their crews. The fact that a whole   system of liabilities was established on the basis of the reasoning in that case, the Court noted, led years ago to the establishment of the twilight zone where state regulation was permissible. Thus, even subsequent to the passage of the 1972 amendments to the LHCA, the Court seems to have reaffirmed the notion that state and federal compensation systems can co-exist, at least in cases with facts distinguishable from those in Jensen.
+
+Accordingly, we find no constitutional impediment to the concurrent operation of the LHCA and Louisiana Workmen's Compensation Act with respect to injuries sustained on land in the course of new ship construction.
+
+Defendants argue that, even if state law may constitutionally apply to workers covered by LHCA, state law must nevertheless yield to federal preemption of the field. It is well settled, however, that the mere fact that Congress enacts a law in a given area does not thereby exclude the power of a state to apply its laws governing the same subject matter. In fact, where Congress legislates in a field traditionally occupied by state law, it is assumed that the historic police powers of the state were not to be superseded by federal act unless that was the clear and manifest purpose of Congress. Rice v. Santa Fe Elevator Corporation,
+331 U.S. 218
+, 67 S. Ct. 1146, 91 L. Ed. 1447 (1947). In Florida Lime & Avocado Growers, Inc. v. Paul,
+373 U.S. 132
+, 83 S. Ct. 1210, 10 L. Ed. 2d 248 (1963), the Court made the following observations concerning federal preemption:
+
+As stated in Askew v. American Waterways Operators, Inc.,
+411 U.S. 325
+, 93 S. Ct. 1590, 36 L. Ed. 2d 280 (1973):
+
+The general rule to be derived from these cases and others dealing with the question of federal preemption is that state power is not preempted unless: (1) it was the clear and manifest purpose of Congress to do so, or (2) the exercise of dual authority is repugnant to the Congressional objective.
+
+The disputed LHCA amendments make no express declaration that Congress has preempted the right of states to compensate those land-based longshoremen and harbor workers to whom federal benefits were extended. In fact, there has been no change whatsoever in the coverage provisions of the act itself warranting the conclusion that the LHCA is any more exclusive now than it was prior to 1972 when, as we have already observed, state and federal compensation laws operated concurrently as to many injuries. In fact, the troublesome clause which suggested that the state and federal systems were exclusive, "if recovery for the disability or death through workmen's compensation proceedings may not validly be provided by state law," was deleted in the 1972 revision of the act. This change prompted the following academic commentary:
+
+G. Gilmore & C. Black, Law of Admiralty 425-26 (2nd ed. 1975). Nor can we find a   clear manifestation of congressional intent to preempt state law in the legislative history of the 1972 amendments. With regard to the landward extension of LHCA, the Congressional committee which studied the amendments made the following comments:
+
+1 Plus $6 for each dependent.
+
+U.S.Code Cong. & Admin.News 1972, pp. 4698, 4707. (Emphasis added.)
+
+Our examination of the legislative history leaves us unconvinced that Congress intended to exclude workers injured on land from their remedies under state compensation laws. The intent was clearly to make the liberal benefits provided by the LHCA uniformly available to longshoremen and harborworkers regardless of on which side of the water's edge their injuries were sustained. The legislators noted the meager benefits provided by some states and demonstrated a desire to "permit" a uniform compensation system to apply to employees who would otherwise be covered by this act for part of their activity.
+
+There is nothing in the legislative history to suggest that Congress intended to overrule the line of cases recognizing a state's concurrent right to provide compensation for injuries sustained in maritime pursuits of local concern even though the worker was covered by the LHCA. It is pertinent to observe that, in discussing its intention to repudiate the judicial extension of the warranty of unseaworthiness to longshoremen in third party suits against a vessel, the congressional committee discussed in detail the Supreme Court decisions it intended to overrule. We are satisfied therefore that neither the history nor the wording of the 1972 amendments manifest a clear purpose to preclude the applicability of state compensation law in the new land areas covered by the federal act.
+
+Defendants further contend that the pervasiveness of the federal compensation system and regulations promulgated thereunder are facts from which a Congressional intention to preempt state law can be implied. It has not been demonstrated, however, that the regulations issued pursuant to the LHCA as amended are any more pervasive than those handed down prior to the 1972 revisions. Moreover, we note that the pervasiveness of federal regulation and superintendence of the field was never a bar to concurrent application of state and federal law to injuries over water in the pre-1972 era. We are not persuaded that arguments grounded in the pervasiveness of federal regulation are any more compelling now that the LHCA has moved inland nor that the operation of the state compensation law would frustrate the purpose or objectives of the federal act. If the concurrent applicability of the two systems as to certain classes of workers injured over water did not present a significant conflict when state law was elected by injured workers, it is difficult to comprehend how the concurrent operation of the compensation systems over land can generate conflicts of a more serious nature. We are in agreement with the appeal court's determination of this issue.
+
+La.R.S. 23:1101 gives an injured party the right to "obtain damages from or proceed at law against such [a negligent] third [party] to recover damages for the injury." Our jurisprudence has interpreted third parties within the contemplation of this   statute to include fellow employees and executive officers. Canter v. Koehring Co.,
+283 So. 2d 716
+(La.1973).[7]Grigg v. Martin, 269 So. 2d 331 (La.App.2d Cir. 1972); Jolly v. Travelers Ins. Co., 161 So. 2d 354 (La.App. 4th Cir. 1964). Defendants argue that in this respect the Louisiana Workmen's Compensation Act is in direct conflict with the LHCA which provides:
+
+That the provisions of the state and federal compensation laws with respect to third party negligence actions are different cannot be disputed. We are of the opinion, however, that once the initial determination was made that the LHCA and state compensations statutes could operate concurrently, the appeal court was in error to reexamine the question of state-federal conflict with respect to particular provisions of the acts. It is obvious that unless the state statute provides benefits or rights beyond those accorded by federal law, there would be no reason to elect to pursue the state remedy. To hold, as did the appellate court, that a plaintiff may elect state law but only insofar as the rights accorded thereunder do not exceed those provided in the federal scheme is to render meaningless the right to make the initial election. We find it particularly significant that workers who chose to pursue state remedies during the pre-1972 era were allowed to take advantage of the state law in its entirety. The courts did not compare particular provisions of the laws with a view to harmonizing differences.
+
+In sum, it is our opinion that the 1972 amendments to the LHCA were intended to provide additional benefits for land-based maritime workers rather than to deprive them of rights and remedies which they already had. Louisiana has a legitimate interest in assuring the applicability of its compensation laws to injuries sustained within its jurisdiction. Accordingly, there should be no compelling reason to prohibit the legislature of this state from making available what, to some plaintiffs, may be a more attractive compensation scheme, so long as double recovery is not permitted. Until this court is confronted with authority to the contrary, we decline to hold that the compensation law of this state is preempted from operating in an area of traditionally local concern.
+
+Accordingly, we reverse the decision of the appeal court insofar as it held that state law regarding suits against executive officers and fellow servants cannot be availed of by a plaintiff who has elected to proceed under the Louisiana Workmen's Compensation statute. However, we note a distinction in the cases before us for review which the appeal court failed to discern. The widow and children of Curtis Poche, Sr. elected to sue under the state law and declined to accept LHCA benefits when they were offered by Avondale Shipyards. Conversely, it was stipulated at trial that plaintiff Aldrich Adams was receiving compensation payments under the LHCA. We are of the opinion that Adams, having availed himself of the benefits under the LHCA, has elected to pursue his remedies under the federal compensation statute. No argument to the contrary has been made. Since the LHCA prohibits suits against officers and fellow employees, the decision of the appeal court affirming the ruling of the trial judge and dismissing the suit instituted by Adams is correct. Furthermore, we are unable to say that the court of appeal erred in affirming the trial court's ruling which sustained Avondale Shipyard's exception to the Poche suit; nor has any error in the court of appeal judgment in this regard been urged before us.
+
+For the reasons assigned, the judgment of the court of appeal affirming the trial court's ruling which sustained the exceptions of defendant executive officers and dismissed the suit of Curtis Poche, Jr., et al., against them is reversed and the case is remanded to the trial court for further proceedings not inconsistent with this opinion, with costs assessed to defendants. However, the portion of the judgment of the appeal court affirming the trial court's ruling which sustained the exception of Avondale Shipyards, Inc. and dismissed the suit as to this defendant is affirmed.
+
+For the reasons assigned, the judgment of the court of appeal as to plaintiff Aldrich Adams maintaining the trial court's ruling which sustained defendants' exceptions of no right or cause of action and dismissed the suit against them is affirmed at appellant's cost.
+
+SUMMERS, J., dissents and will assign reasons.
+
+SUMMERS, Justice (dissenting).
+
+While I agree with the result reached by the Court and the holding that the 1972 amendment of the Longshoreman's and Harborworker's Compensation Act, 33 U.S.C. § 902(3), (4) and 903(a), extending its effect inland did not preempt Louisiana's Workmen's Compensation Act, I do not agree with the opinion in the respects set forth hereafter.
+
+In referring to the exclusive remedy provisions of the federal and state compensation laws, the Court observes that they are different, a fact which it considers "cannot be disputed." I dispute this statement insofar as it applied to suits by injured employees against officers or employees of their employer.
+
+Before their amendment by Act 147 of 1976, the comparable provisions of Louisiana's Workmen's Compensation Act read as follows:
+
+In my view the deceased employee, whose death is the subject of this suit, and the defendants, presently before the Court, were all subject to the Workmen's Compensation Act under its provisions as they existed at the time of the alleged negligent   death. La.Rev.Stat. 23:1039 (1948). As I understand the facts, decedent and defendants were also coemployees of the same employer.
+
+Under Louisiana's Workmen's Compensation Act at the time of this accident, because of its benefits and limitations, the recourse allowed to employees coming under its provisions are exclusive, just as they are under the Federal Longshoreman's and Harborworker's Act. Thus under these acts the right to sue in tort does not apply to coemployees working under the same employer. Miller v. Scott,
+339 S.W.2d 941
+(Ky.1960).
+
+One purpose of both the Longshoreman's and Harborworker's Act and the Workmen's Compensation Acts was to sweep within their provisions all claims for compensation flowing from personal injuries arising out of and in the course of employment by a common employer, and not to preserve for the benefit of the employer, his insurer, or employees injured by other employees, liabilities between those engaged in the common employment which but for the Acts would exist under the general tort law. Canter v. Koehring Company,
+283 So. 2d 716
+(La.1973) (Summers, J. dissenting).
+
+It is true that this Court in Canter v. Koehring Company,
+283 So. 2d 716
+(La.1973), without referring to the above quoted provisions of the Louisiana Workmen's Compensation Act, held that a person is liable as an executive officer if he is an officer, agent or employee of an employer or principal and is liable to a third party, even a coemployee, for injuries caused as a result of the breach of a duty imposed by the employer or principal upon the executive officer.
+
+The disturbing implication of the decision in Canter v. Koehring was that the injured workman was thereafter permitted to recover fully in tort under circumstances intended to be covered by workmen's compensation, thus undermining the policy purposes for the limited liability imposed by those statutes. At the same time negligent employees were subjected to claims in tort as the result of injuries sustained by their coemployees while in the course and scope of their employment.
+
+The decision's departure from the clear wording, evident intent and obvious spirit of the Workmen's Compensation Act was readily recognized by employers and employees alike. As a result, in order to maintain the integrity of the Act, the effect and implications of the decision were overwhelming repudiated and rejected by the Legislature when it enacted Act 147 of 1976, amending Sections 1032 and 1101 of Title 23 of the Revised Statutes to read as follows:
+
+As amended these sections restate in unmistakable terms a meaning which had been distorted in Canter v. Koehring by forced logic and a disregard of those provisions of the act designed to prevent the result reached in Canter v. Koehring.
+
+It is now clear, as it should have been before Canter v. Koehring, that no suit will lie in tort by an employee against a negligent coemployee for injuries or death sustained in the course and scope of their employment.
+
+It is for these reasons, and the reasons more fully stated in my dissent in Canter v. Koehring, that I cannot agree with the Court's statement that Section 1101 "gives an injured party the right to `obtain damages from or proceed against such [a negligent] third party to recover damages for the injury.'" And the accompanying corroborating statement that "[o]ur jurisprudence has interpreted third parties within the contemplation of this statute to include fellow employees and executive officers." To support this proposition the Court cites the legislatively discredited holding in Canter v. Koehring and refuses to abide by the declared public policy as set forth in Sections 1032 and 1101 before and after their amendment by Act 147 of 1976.
+
+By these and other expressions in the opinion it is evident that the Court intends to adhere to the holding in Canter v. Koehring, at least for this case.
+
+If the basis for this holding is, as it appears to be, that plaintiffs may maintain a suit in tort against decedent's coemployees, then this right is, in the words of the majority, "a more attractive compensation scheme," one which is not permitted by the Longshoremen's and Harborworker's Act; and, according to the majority, plaintiffs should not be denied recourse to this advantage. My view is to the contrary. I do not quarrel with the fact that plaintiffs may elect which Act will govern their claim, only that plaintiffs have no claim in tort under Louisiana's Act, just as they have no such claim under the Federal Act, or, for that matter, under the compensation acts of a majority of the states.[1]
+
+*1225 I would overrule Canter v. Koehring on this issue for all purposes, for cases either before or after its abrogation by the Legislature in 1976.
+
+In addition, Aldrich Adams has been deprived of recourse under the State Act because he has received benefits under the Federal Act. This question of election was not briefed by plaintiff or defendants, and, because it was not an issue, that question should be reconsidered.
+
+PER CURIAM.
+
+Applicant Adams properly points out in his application on rehearing that there is no evidence in the record establishing that he made an election, or a choice of L.H.C.A. remedies, but only evidence that he has accepted benefits under the L.H.C.A. Act.
+
+In light of the following cases: Calbeck v. Travelers Insurance Company, 370 U.S. 116, 82 S. Ct. 1196, 8 L. Ed. 2d 368 (1962); Holland v. Harrison Bros. C. Dry Dock and Repair Yard, Inc., 306 F.2d 369 (5th Cir. 1962); Griffin v. Universal Underwriters Insurance Company,
+283 So. 2d 748
+(La. 1973), and Ryder v. Insurance Company of North America, 282 So. 2d 771 (La.App. 3d Cir. 1973), we deem it advisable to vacate our original judgment as to plaintiff Adams and to remand the case to the district court for the purpose of trying the issue of whether Adams elected federal benefits.
+
+Furthermore, we reserve to the defendants in the case of Adams v. Hartzman, et al. the right to apply for a rehearing on this issue. When final here the case of Adams v. Hartzman, et al. will be remanded to the district court for further proceedings in accordance with this per curiam.
+
+In the case of Poche, et al. v. Avondale Shipyards, Inc. et al., rehearing is denied.
+
+[1]  Poche v. Avondale Shipyards, Inc., 329 So. 2d 211 (La.App. 4th Cir. 1976); Adams v. Hartzman, 329 So. 2d 218 (La.App. 4th Cir. 1976).
+
+[2]
+332 So. 2d 280
+.
+
+[3]  All parties stipulated that both injured workers were within the coverage of LHCA as amended.
+
+[4]  Our attention has been directed to the recent case of Jacksonville Shipyards, Inc. v. Perdue, 539 F.2d 533 (5th Cir. 1976) decided by the United States Court of Appeals for the Fifth Circuit holding that the 1972 amendments to LHCA were a constitutional extension of the admiralty jurisdiction by Congress. The court further notes that, because of the disposition of this issue, it need not reach the question of whether the 1972 amendments were an exercise of Congress' power under the commerce clause as well. We do not consider this holding conflicts with our conclusions that there is no constitutional impediment to the concurrent operation of the LHCA and Louisiana Workmen's Compensation Act with respect to injuries sustained on land in the course of new ship construction and that the 1972 amendments do not preempt the state law in this field under the facts and circumstances herein expressed.
+
+[5]  Both the Moore and Baskin cases involved workers engaged in the repair of completed vessels over navigable waters. It had formerly been held that such injuries were within the exclusive federal maritime jurisdiction and thus beyond the protection of state compensation remedies. John Baizley Iron Works v. Span,
+281 U.S. 222
+, 50 S. Ct. 306, 74 L. Ed. 819 (1930). Nevertheless, the Supreme Court affirmed the state court's award of state benefits in Moore and reversed the denial of state benefits in Baskin, which denial had been based on the alleged exclusivity of the LHCA remedy.
+
+[6]  See discussions of concurrent jurisdiction in A. Larsen, The Conflict of Laws Problem Between the Longshoremen's Act and State Workmen's Compensation Acts, 45 So.Calif.L. Rev. 699 (1972).
+
+[7]  This interpretation of La.R.S. 23:1101 has now been legislatively overruled to prohibit suits against executive officers and fellow employees. La.Acts 1976, No. 147.
+
+[1]  See Ariz.Rev.Stat.Ann. § 23-1022 (1956); Cal.Labor Code § 3601 (Deering 1964); Colo. Rev.Stat. § 81-13-8 (1963); Conn.Gen.Stat. Ann. § 31-284(a) (West 1972); Del.Code Ann. tit. 19, § 2363 (Cum.Supp.1968); Fla.Stat. § 440.11 (1975); Hawaii Rev.Stat. § 386-8 (1968); Ill.Rev.Stat. ch. 48, § 138.5 (1969); La. Rev.Stat.Ann. § 23:1032 (West 1976); Me.Rev. Stat. tit. 39, § 28 (1973); Mass.Gen.Laws.Ann. ch. 152, § 24 (West 1958); Mich.Stat.Ann. § 17.237 (827) (1968); Mo.Ann.Stat. § 287.120.2 (Vernon Supp.1975); Mont.Rev.Codes Ann. § 92-1115 (1975); N.J.Stat.Ann. 34:15-8 (1972); N.Y. Workmen's Comp.Law § 29(6) (McKinney 1965); N.C.Gen.Stat. § 97-9 (1972); N.D.Cent.Code § 65-09-1 (1975); Ohio Rev. Code Ann. § 4123.77 (Page 1975); Okla.Stat. Ann. tit. 85, § 44 (1970); Ore.Rev.Stat. § 656.154 (1971); Pa.Stat.Ann. tit. 77, § 72 (Purdon 1963); S.C.Code Ann. § 72-401 (1962); Tex. Civ.Stat. art. 8306(3) (Vernon 1967); Utah Code Ann. § 35-1-62 (1966); Va.Code Ann. § 65-1-103 (1968); Wash.Rev.Code § 51.24.010 (1962); W.Va.Code Ann. 23-2-6a (1970); Wis. Stat.Ann. § 102.03(2) (West 1975).

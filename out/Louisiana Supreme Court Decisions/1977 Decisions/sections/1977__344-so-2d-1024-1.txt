@@ -1,0 +1,73 @@
+58835
+State v. Cox
+https://law.justia.com/cases/louisiana/supreme-court/1977/344-so-2d-1024-1.html
+
+58835
+State v. Cox
+Court: Louisiana Supreme Court
+Release date: 1977-04-11
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/344-so-2d-1024-1.html
+
+344 So. 2d 1024 (1977)
+
+STATE of Louisiana
+v.
+William L. COX.
+
+No. 58835.
+
+Supreme Court of Louisiana.
+
+April 11, 1977.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Sheila C. Myers, Asst. Dist. Atty., for plaintiff-relator.
+
+Dean Latsios, Jack Cooley, Michael H. Ellis, Supervising Atty., Tulane Clinical Education Program, Archie B. Creech, New Orleans, for defendant-respondent.
+
+DENNIS, Justice.
+
+Defendant, William L. Cox, pleaded guilty to simple burglary, La.R.S. 14:62, and received a three-year sentence to the Louisiana Department of Corrections. While serving this time defendant was charged with and pleaded guilty to simply escape from the Jackson Barracks Work Release Program, La.R.S. 14:110(A). For the crime of simple escape defendant was sentenced to six months at hard labor to run consecutively with any other sentence.
+
+The district attorney of the parish in which the escape conviction was had then charged defendant with being an habitual offender, alleging that he had been convicted of two felonies as provided by the terms   of La.R.S. 15.529.1. Upon defendant's motion, the trial judge quashed the bill of information charging him with being a multiple offender. We granted the State's petition for a writ of certiorari.
+
+The question presented is whether the State may employ a conviction of simple escape in seeking to have a person declared an habitual offender under La.R.S. 15:529.1. Louisiana's simple escape statute provides for a double scale of punishment: if the offense is committed by a person sentenced to the Department of Corrections, i. e., a felon, the escape is likewise a felony; but, if the offense is committed by one not sentenced to the Department of Corrections, it is a misdemeanor for which a lesser penalty is provided. La.R.S. 14:110(A).[1] Thus, by virtue of defendant's prior felony conviction for burglary and consequent hard labor sentence, his act of escape amounted to a felony for which a consecutive sentence was required. Therefore, he argues that the State's attorney, in effect, is attempting to use his burglary conviction more than once to enhance his punishment, viz., first to characterize his act of escape as a felony requiring a consecutive sentence, and, second, to classify him as a person who has committed two felonies for purposes of the Habitual Offender Law.
+
+In State v. Sanders,
+337 So. 2d 1131
+(La. 1976), essentially the same question was raised. The firearms statute, La.R.S. 14:95.1, provides for punishment at hard labor of a person who possesses a firearm or carries a concealed weapon if he has previously been convicted of any of certain felonies listed in the act. The defendant, who had been convicted of such felonies, was charged and convicted of carrying a concealed weapon in violation of La.R.S. 14:95.1. The district attorney then sought to rely upon the concealed weapon conviction in charging Sanders as a multiple offender under La.R.S. 15:529.1. The defendant successfully moved to quash, and we affirmed, holding:
+
+The result in the Sanders case was in keeping with our well established doctrine that criminal and penal laws are to be strictly construed, La.R.S. 14:3, State v. Gyles,
+313 So. 2d 799
+(La.1975); State v. Penniman, 224 La. 95,
+68 So. 2d 770
+(1953); State v. Truby, 211 La. 178, 29 So. 2d 758   (1947), and consistent with the approach we adopted recently in State v. McCarroll,
+337 So. 2d 475
+(La.1976), in deciding whether the legislature intended for a defendant's act to constitute more than one violation of a criminal statute. We held that, in the absence of an express legislative intent, any doubt should be resolved in favor of lenity, and not so as to multiply the penalty imposed upon the defendant.
+
+The Habitual Offender Law was enacted in 1956 and amended in 1958. Since then the simple escape statute has been amended numerous times, most recently in 1976, and the legislature has given no indication that it should be applied in tandem with the recidivist law. The escape statute itself causes an enhancement of penalty by requiring consecutive sentences because of a defendant's previous felony conviction. Although the legislature chose to make the enhancement to a felony dependent upon a defendant's escape from the Department of Corrections instead of relating the enhancement directly to his previous commission of a felony, we see no real difference because only convicted felons may be sentenced to the Department of Corrections.[2] In any event, there is sufficient doubt that the penalty for a simple escape should be escalated twice by what may be an unforeseen combination of two criminal statutes, and in the absence of an explicit legislative authorization, we will construe the law strictly by refusing to give it such an expansive interpretation.
+
+For the foregoing reasons the judgment of the district court is affirmed.
+
+[1]  La.R.S. 14:110(A) provides:
+
+"A. Simple escape is:
+
+(1) The intentional departure, under circumstances wherein human life is not endangered, of a person imprisoned, committed, detained, or otherwise in the lawful custody of any law enforcement officer or officer of the Department of Corrections from any place where such person is legally confined; or
+
+(2) The failure of a criminal serving a sentence and participating in a work release program authorized by law to report or return from his planned employment or other activity under said program at the appointed time; or
+
+(3) The failure of a person who has been granted a furlough under the provisions of R.S. 15:833 and fails to return to his place of confinement at the appointed time.
+
+Whoever having been sentenced to the Department of Corrections commits the crime of simple escape, shall be imprisoned at hard labor for not less than two years and not more than five years; provided that such sentence shall not run concurrently with any other sentence, provided, however, that:
+
+(a) A person who is participating in a work release program as defined in Paragraph (2) hereof shall be imprisoned at hard labor for not less than six months nor more than one year and any such sentence shall not run concurrently with any other sentence.
+
+(b) A person who fails to return from an authorized furlough as defined by Paragraph (3) hereof shall be imprisoned at hard labor for not less than six months nor more than one year and any such sentence shall not run concurrently with any other sentence.
+
+Whoever not having been sentenced to the Department of Corrections commits the crime of simple escape, shall be imprisoned for not more than one year and any such sentence shall not run concurrently with any other sentence.
+
+"* * *."
+
+[2]  Under certain circumstances, a court may commit, confine or award custody of a juvenile to the Department of Corrections. La.R.S. 13:1580(2). However, such action does not constitute a sentence to the Department of Corrections. A sentence is the penalty imposed by the court on a defendant upon conviction of a crime. La.C.Cr.P. art. 871. Furthermore, "[n]o adjudication by the court upon the status of any child shall operate to impose any of the civil disabilities ordinarily resulting from conviction, nor shall any child be deemed a criminal by reason of such adjudication, nor shall such adjudication be deemed a conviction." La.R.S. 13:1580.

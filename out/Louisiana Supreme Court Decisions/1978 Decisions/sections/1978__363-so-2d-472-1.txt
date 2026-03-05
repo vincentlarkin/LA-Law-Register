@@ -1,0 +1,169 @@
+61885
+State in Interest of Causey
+https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-472-1.html
+
+61885
+State in Interest of Causey
+Court: Louisiana Supreme Court
+Release date: 1978-10-09
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-472-1.html
+
+363 So. 2d 472 (1978)
+
+STATE of Louisiana In the Interest of Pate CAUSEY.
+
+No. 61885.
+
+Supreme Court of Louisiana.
+
+October 9, 1978.
+
+*473 Charles Williams, Gerdes & Valteau, New Orleans, for Pate Causey-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Gregory S. Abramson, Asst. Dist. Atty., for State-respondent.
+
+TATE, Justice.
+
+At the instance of a juvenile made defendant in juvenile proceedings, we granted certiorari to determine whether a juvenile has a right to plead not guilty by reason of insanity and a right to a hearing to determine his mental capacity to assist in his defense. La., 357 So. 2d 1159.
+
+Facts
+
+Pate Causey, age 16, was petitioned into the Orleans Parish juvenile court, charged with armed robbery. His attorney filed a motion, the substance of which was that defendant be allowed to plead not guilty and not guilty by reason of insanity, and that the judge appoint a panel of psychiatrists to perform comprehensive tests to determine whether defendant was legally insane at the time the act was committed, and also whether defendant was legally competent to aid in his own defense.
+
+Several psychological tests had been performed upon the defendant, and the report of the testing psychologists had recommended psychiatric evaluation. A psychiatrist had interviewed the defendant, without access to the psychological test results. Defense counsel wished to subpoena the psychiatrist, whose report he had been given by the judge at the time of the hearing on the motion. After indicating his inclination to deny the motion, the judge asked the defense attorney if he would "submit it [the question whether defendant was competent to assist in his defense] on that [the psychiatrist's report]." Defense counsel responded, "I submit on the report," and the court denied the motion.
+
+The Right of a Juvenile to Plead Insanity
+
+There is no statutory right to plead not guilty by reason of insanity in a Louisiana juvenile proceeding, since such proceedings are conducted as civil proceedings, with certain enumerated differences. La. R.S. 13:1579 (1977).[1] We hold, however,   that the due process guaranties of the Fourteenth Amendment to the United States Constitution, and of Article I, Section 2 of the Louisiana Constitution, require that a juvenile be granted this right.
+
+The only courts ever squarely confronted with the issue have held that, at least in adult proceedings, the denial of the right to plead insanity, with no alternative means of exculpation or special treatment for an insane person unable to understand the nature of his act, violates the concept of fundamental fairness implicit in the due process guaranties. Sinclair v. State, 161 Miss. 142, 132 So. 581 (1931); State v. Strasburg, 60 Wash. 106, 110 P. 1020 (1910). Some recent federal cases have also spoken of the insanity plea in terms indicating that the right to assert it has constitutional dimensions of a due process (fundamental fairness) nature. See, e. g., Buzynski v. Oliver, 538 F.2d 6 (1st Cir.), cert. denied, 429 U.S. 984, 97 S. Ct. 503, 50 L. Ed. 2d 596 (1976); Hill v. Lockhart, 516 F.2d 910 (8th Cir. 1975); Ramer v. United States, 390 F.2d 564 (9th Cir. 1968). See also United States v. Jackson,
+306 F. Supp. 4
+(N.D.Cal.1969).
+
+The insanity defense, and the underlying notion that an accused must understand the nature of his acts in order to be criminally responsible (the mens rea concept), are deeply rooted in our legal tradition and philosophy, as the cited decisions note. See also LaFave and Scott, Criminal Law, Sections 27 (p. 191) and 36 (p. 238) (1972); Hall, General Principles of Criminal Law, 18, 70-104 (Chapter 3), 146, 185-90, 449-64 (2d ed. 1960). We deem it clear, as held by the Mississippi and Washington supreme courts in Sinclair and Strasburg above cited, that the due process-fundamental fairness concepts of our state and federal constitutions would be violated, at least in adult prosecutions for crimes requiring intent, if an accused were denied the right to plead the insanity defense. Cf. also Robinson v. California,
+370 U.S. 660
+, 82 S. Ct. 1417, 8 L. Ed. 2d 758 (1962).
+
+However, not every constitutional right guaranteed to adults by the concept of fundamental tairness is automatically guaranteed to juveniles.
+
+The United States Supreme Court has undertaken a case-by-case analysis of juvenile proceedings, making not only the historical inquiry into whether the rights asserted were part of fundamental fairness, but also a functional analysis of whether giving the particular right in question to the juvenile defendant would interfere with any of the beneficial aspects of a juvenile proceeding. Only those rights that are both "fundamental" and "essential," in that they perform a function too important to sacrifice in favor of the benefits theoretically afforded by a civil-style juvenile proceeding, have been held to be required in such proceedings. McKeiver v. Pennsylvania,
+403 U.S. 528
+, 91 S. Ct. 1976, 29 L. Ed. 2d 647 (1970); In re Winship,
+397 U.S. 358
+, 90 S. Ct. 1068, 25 L. Ed. 2d 368 (1970); In re Gault,
+387 U.S. 1
+, 87 S. Ct. 1428, 18 L. Ed. 2d 527 (1967).
+
+The same approach was adopted by a majority of this court in determining which due process rights are guaranteed to juveniles by the Louisiana Constitution, in State in Interest of Dino,
+359 So. 2d 586
+(La.1978). (Since we ultimately find this defendant's right to plead insanity to be guaranteed by the state and federal due process clauses, we need not reach the additional equal protection argument advanced, by which juveniles would be denied the equal protection of the laws if they were not permitted as are adults to be exculpated by insanity from criminal responsibility.)
+
+McKeiver, Winship, and Gault imposed on juvenile proceedings a host of traditional criminal trial safeguards the right to appropriate notice, to counsel, to confrontation and cross-examination, and the privilege against self-incrimination and declined to impose only one safeguard, the right to a jury trial.
+
+While the due process right to a jury trial has been held to be an element of "fundamental fairness," at least in non-petty adult proceedings, Duncan v. Louisiana, 391 U.S.   145, 88 S. Ct. 1444, 20 L. Ed. 2d 491 (1968), the court's emphasis in McKeiver was not on the degree of "fundamentality," but on the function served by the jury trial. The plurality saw the jury as a component in the factfinding process, and as such, not "a necessary component of accurate factfinding." 403 U.S.  at 543, 91 S. Ct.  at 1985. Only after finding that the jury trial although "fundamental" for adults was not really "essential" to a fair trial proceeding, i. e., did not perform a function that could not be adequately performed by some other procedure, did the court examine the impact of a jury trial upon the beneficial effects of the juvenile system, and conclude that it would "bring with it into that system the traditional delay, the formality, and the clamor of the adversary system and, possibly, the public trial." Id. at 550, 91 S. Ct.  at 1988.
+
+In Winship, the court held that a juvenile could not be adjudged to have violated a criminal statute by a mere preponderance of the evidence. The standard of proof "beyond a reasonable doubt" was held to play "a vital role in the American scheme of criminal procedure. It is a prime instrument for reducing the risk of convictions resting on factual error. . . `[A] person accused of a crime . . . would be at a severe disadvantage . . . if he could be adjudged guilty and imprisoned for years on the strength of the same evidence as would suffice in a civil case." 397 U.S.  at 363, 90 S. Ct.  at 1072.
+
+Underlying the functional analysis of the two procedures examined in McKeiver and Winship, was not only the consideration of whether equally effective safeguards existed to the rights sought to be imported into juvenile proceedings, but also a consideration of the realistic role played by these two rights in safeguarding juvenile rights at actual trials: the "beyond a reasonable doubt standard" actually kept the juvenile in Winship out of jail, whereas there was no evidence that a jury trial in McKeiver would have done so.
+
+The availability of some procedure for differentiating between those who are culpably responsible for their act and those who are merely ill is, as we have seen, a part of "fundamental fairness." Moreover, it is hard to see that any important aim of the juvenile system is thwarted by affording such a distinction to the mentally ill juvenile.
+
+The function of the insanity plea is much more akin to that of the burden of proof imposed on juvenile proceedings in Winship, than of the jury trial involved in McKeiver and Dino. An insanity defense, like a high burden of proof, will generically spell the difference between conviction and acquittal. That there is perhaps a lesser stigma associated with an adjudication of juvenile delinquency than with an adult criminal conviction, and that juvenile incarceration is theoretically calculated to rehabilitate rather than to punish, were deemed constitutionally insignificant in Winship.
+
+In the present case, further, the state expressly does not contest the issue whether this juvenile should be allowed to plead not guilty and not guilty by reason of insanity when charged with a serious crime.
+
+Incompetence to Stand Trial in Juvenile Proceedings
+
+In Pate v. Robinson,
+383 U.S. 375
+, 86 S. Ct. 836, 15 L. Ed. 2d 815 (1966), the United States Supreme Court held that the failure to observe procedures adequate to protect a defendant's right not to be tried or convicted while incompetent to stand trial deprives him of due process. The Pate court held that the defendant was entitled to an evidentiary hearing on the issue of his competence to stand trial, where the showing at the time of the trial raised a substantial issue as to his mental condition. See also Drope v. Missouri,
+420 U.S. 162
+, 95 S. Ct. 896, 43 L. Ed. 2d 103 (1975).
+
+In State v. Bennett,
+345 So. 2d 1129
+(La. 1977), on rehearing, this court swept away many of the devices that had been used in Louisiana courts to circumscribe the effects of Pate. On original hearing, the court had relied on such factors as the defendant's burden of proof, judicial discretion and the "clearly erroneous" rule to uphold a trial   court determination, after a hearing had determined (but without significant psychological testing) that the defendant was legally sane. On rehearing, the court held that a defendant "has a right to demand that the [court-ordered sanity] hearing be thorough and cannot be held responsible for the commission's failure to complete its task," i. e., sufficient "clinical evaluation" so that the examining physicians will be "certain of their results." 345 So. 2d  at 1139. Burdens of proof and standards of judicial review relied upon here in the state's brief to uphold the juvenile court judge's finding that defendant was competent come into play only where the record does not suggest further inquiry into the defendant's sanity.
+
+Since the right not to be tried while incompetent is a due process-fundamental fairness right, see Pate and Drope cited above, it should (under the previous analysis) be applicable to juvenile proceedings, unless some essential end of the juvenile justice system will be thwarted by its application. Indeed, the right rooted as it is in traditional notions of fair play, viewed from the early days of the common law as central to a defendant's ability to present his defense, and akin to the right not to be tried in absentia is not only historically "fundamental," but also functionally "essential," and therefore cannot be outweighed under the Gault/McKeiver/Winship test by other, desirable aspects of the juvenile system.
+
+The state does not suggest any special reason that a juvenile should be denied this right due an adult. The only reason that comes to mind is the argument that many juveniles, "sane" as well as "insane," "normal" as well as "retarded," are incompetent to assist in their own defenses, at least by normal adult standards. This, indeed, is a large part of the rationale for the special juvenile system. Where a juvenile is "incompetent" primarily because of his tender years, it might be unnecessary and perhaps unwise to substitute the full-dress examinations and hearings designed for adult incompetents, in place of procedures designed especially to deal with youth and inexperience.
+
+But that is not the case here. Pate Causey was reported, by the psychologists who examined him for the court, to vary "from the upper end of the range of moderate mental retardation with regard to non-verbal intelligence . . . to the range of mild mental retardation with regard to verbal intelligence. . . ." He was reported to have "poor fine motor control, spatial disorientation, and problems in angling. . . suggestive of neuropsyschological dysfunction," with "memory problems and the possibility of episodic `blanking out'" as "further evidence of possible neuropathy." Psychiatric evaluation was recommended.
+
+A psychiatrist did meet with the boy, without access to test results; the gist of his conclusions was that the boy was dull and a liar rather than retarded and psychotic.
+
+The reports were given by the judge to the defense attorney at the trial, to read for five minutes before arguing the motion relating to incompetence. This data, inconclusive and perhaps contradictory but suggestive of possible problems, is much like that which, in Bennett, this court held to require further testing.
+
+Conclusion
+
+The right not to be tried while incompetent to assist in one's own defense is a fundamental due process right. The right to plead insanity, absent some other effective means of distinguishing mental illness from moral culpability, is also fundamental. There is no compelling reason to deny either of these constitutional rights to juveniles charged with conduct that would be serious crimes if committed by adults.
+
+Here, there were facts in the record to put the trial court on notice that the defendant might be mentally retarded or insane. A defendant in a juvenile proceeding has the right to plead not guilty and not guilty by reason of insanity. Under the showing made, this defendant also had the right to a more thorough mental (psychiatric) examination, followed by a contradictory hearing.
+
+For the foregoing reasons, the ruling of the trial judge denying applicant's motion is reversed, and the case is remanded to the district court for further proceedings consistent with the views expressed by this opinion.
+
+REVERSED AND REMANDED.
+
+SANDERS, C. J., dissents and assigns reasons.
+
+SUMMERS, J., dissents.
+
+MARCUS, J., dissents for reasons assigned by SANDERS, C. J.
+
+SANDERS, Chief Justice (dissenting).
+
+This proceeding was instituted by petition in the Juvenile Court for the Parish of Orleans, alleging that Pate Causey, age 16, had committed armed robbery upon Margarette Williams. After a preliminary hearing, the judge ruled that there was probable cause to hold the youth for hearing on the petition.
+
+Later, defense counsel filed two motions, a motion to suspend proceedings and a motion to enter a plea of "not guilty and not guilty by reason of insanity." Both motions were founded upon the following allegations:
+
+At the hearing on the motions, defense counsel submitted the motions on the psychiatric evaluation of Dr. Patrick Dowling of the court's Youth Study Center.
+
+Based upon the submission, the court ruled that the youth was competent to assist counsel and indicated that the case would later be assigned for hearing. The court made no ruling on his psychiatric condition at the time of the offense.
+
+In my opinion, the ruling of the trial judge was correct. Dr. Dowling's report found that the youth was "alert and oriented." Although he was found to be of "dull intellectual ability," he had no psychosis. The report contains no finding that he lacked the capacity to assist his counsel and understand the nature of the proceedings against him.
+
+The trial judge's ruling on competency for court proceedings is entitled to great weight and should not be disturbed in the absence of a clear showing of abuse of discretion. State v. Burnette, La.,
+337 So. 2d 1096
+(1976); State v. Nix, La.,
+327 So. 2d 301
+(1976). I would affirm the ruling of the trial judge.
+
+In this Court, the defense submits one assignment of error, reciting two arguments: (1) That a complete psychiatric examination should be performed to determine whether the juvenile is competent to stand trial; (2) that the defense should be allowed to plead "not guilty and not guilty by reason of insanity."
+
+The majority apparently agrees with both of these arguments. It holds that the juvenile is entitled to a "more thorough mental (psychiatric) examination." It also holds that due process guarantees require that a juvenile be accorded the right to plead not guilty by reason of insanity.
+
+The first holding is faulty. Defense counsel submitted the question of competency upon the psychiatric report already made. Clearly, this precludes a contention here that an additional examination is required. As I have already indicated, the ruling of the juvenile court judge was correct based upon the submission.
+
+The holding that a plea of not guilty by reason of insanity is constitutionally required in Louisiana juvenile law is based upon the premise that the present statute is constitutionally deficient in not providing procedures for exploring insanity at the time of the offense.
+
+In my opinion, the basic premise is untenable. The Juvenile Court Law contains ample procedures to deal with the issue.
+
+*478 LSA-R.S. 13:1570 provides in pertinent part:
+
+"* * *
+
+LSA-R.S. 13:1583 authorizes the psychiatric examination and commitment of a child to a hospital in any case.
+
+LSA-R.S. 13:1579 authorizes consideration of "social, psychological and psychiatric studies" at the hearing on a delinquency petition.
+
+LSA-R.S. 13:1580 provides in pertinent part:
+
+"* * *
+
+"* * *
+
+The 1978 Code of Juvenile Procedure contains similar procedures. See Articles 61, 70, 81, 83A(7), 86D.
+
+Thus, there is built into the juvenile court law procedures for pre-hearing mental and psychiatric examinations. Further examinations may be made in connection with the hearing. In the event a mental defect or insanity is found, the court is authorized to commit the child to a mental institution at any stage of the proceeding.
+
+Juvenile proceedings are non-criminal. LSA-R.S. 13:1580B. Hence, there is no provision for formal criminal-court pleas. The essential inquiry is whether the child admits or denies the factual allegations of the petition. See Art. 55, Code of Juvenile Procedure (1978).[1] Whether he admits or denies the allegations, however, his competence   to assist counsel and his sanity are always pertinent issues under juvenile procedures. There is no room in these procedures for a plea of not guilty by reason of insanity, because the competence and sanity of the child are before the court at all stages.
+
+The majority holding imports into the juvenile law formal criminal-court pleading and procedure by means of constitutional analysis based upon what I believe to be an erroneous premise. I greatly fear that the constitutional holding will disrupt juvenile procedures, so recently codified in the Code of Juvenile Procedure of 1978.
+
+For the reasons assigned, I respectfully dissent.
+
+[1]  Act 172 of 1978 enacted a Code of Juvenile Procedure (C.J.P.) which replaces much prior statutory regulation. La. C.J.P. art. 24 provides similarly to former La.R.S. 13:1579 (1977).
+
+[1]  Because of the criminal law experience of counsel, the response to the petition is frequently voiced as "not guilty." This expression, though technically inappropriate since juvenile proceedings are non-criminal, is received as a denial of the allegations of the petition.

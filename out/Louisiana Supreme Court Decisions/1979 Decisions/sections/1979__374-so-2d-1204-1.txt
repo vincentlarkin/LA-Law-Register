@@ -1,0 +1,51 @@
+63988
+State v. Farrar
+https://law.justia.com/cases/louisiana/supreme-court/1979/374-so-2d-1204-1.html
+
+63988
+State v. Farrar
+Court: Louisiana Supreme Court
+Release date: 1979-09-04
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/374-so-2d-1204-1.html
+
+374 So. 2d 1204 (1979)
+
+STATE of Louisiana
+v.
+Neal Edward FARRAR.
+
+No. 63988.
+
+Supreme Court of Louisiana.
+
+September 4, 1979.
+
+Gilmer P. Hingle, Smith & Hingle, Monroe, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. Carl Parkerson, Dist. Atty., Kenneth A. Rains, Asst. Dist. Atty., for plaintiff-appellee.
+
+DENNIS, Justice.
+
+In this criminal appeal, the defendant, who was convicted of simple arson and sentenced to nine years at hard labor, contends the trial judge erred by preventing the introduction, as evidence of insanity at the time of the offense, of written reports prepared out of court by members of a sanity commission. We affirm. The code of criminal procedure, which permits introduction of such reports in pretrial mental capacity proceedings, does not authorize their admission during trial as an exception to the rule excluding hearsay evidence.
+
+Defendant, Neal Farrar, was accused of burning the Corinth Baptist Church in Morehouse Parish on the night of May 2, 1977. He was discovered about two hundred yards from the church, shortly after the fire began, in possession of incendiary agents. He was arrested and soon thereafter confessed to the crime.
+
+Before trial, on defendant's motion, the court ordered a mental examination and appointed a sanity commission. The reports filed with the court by the members of the commission indicated that defendant was psychotic. After a hearing, the court determined that he lacked the mental capacity to proceed and transferred him to a state hospital for treatment. Six months later, however, after holding a hearing and receiving reports from a second sanity commission, the court found that defendant had regained his mental capacity to proceed.
+
+During trial, the written reports prepared out of court by two members of the first sanity commission, who did not appear as witnesses, were offered for introduction by the defendant. The reports were excluded, however, by the trial judge as inadmissible hearsay and irrelevant evidence.
+
+*1205 The crucial issue of law presented is whether there is any authorization for the admissibility at trial, as an exception to the hearsay rule, of a sanity commissioner's written out of court statement. Since it is decisive, we do not consider whether the evidence was relevant.
+
+The commissioners' out-of-court statements were correctly excluded by the trial judge because they were hearsay statements which did not fall within any exception to the rule prohibiting such evidence. Hearsay evidence, briefly and simply defined, is testimony in court, or written evidence, of an out-of-court statement offered as an assertion to show the truth of matters asserted therein. State v. Martin,
+356 So. 2d 1370
+, 1373-74 (La.1978). Hearsay evidence is inadmissible, except as provided by law. La.R.S. 15:434. The legislature has not provided an exception to this rule which would permit a person to introduce, during a criminal trial, written evidence of a sanity commissioner's out-of-court statement to show the truth of matters asserted therein. Accordingly, the written evidence of the commissioners' out-of-court statements, which was offered at trial clearly as an assertion to show the truth of the matter asserted therein, constituted inadmissible hearsay and was correctly excluded.
+
+Contrary to the defendant's contention, the code of criminal procedure does not provide an exception to the hearsay rule for such evidence in criminal trials. Louisiana Code of Criminal Procedure Article 653 provides that the members of the sanity commission may be called as witnesses upon the trial of the defense of insanity. The article "does not authorize the admissibility of the commission's report in evidence," as the Official Revision Comment makes clear. On the other hand, Louisiana Code of Criminal Procedure Article 647 expressly provides that the report of the sanity commission is admissible in evidence at the less formal contradictory pre-trial hearing to determine the issue of defendant's mental capacity to proceed. Article 647 applies exclusively to the contradictory hearing to determine mental capacity, however, as is made clear by its wording and placement in the chapter on mental incapacity to proceed. Thus, the legislature expressly authorized the parties to introduce written sanity commission reports at the pre-trial mental capacity hearing, but it clearly did not intend to create an exception to the hearsay rule especially for such reports at the trial on the merits for either party.
+
+The other assignments of error filed by the defendant present no reversible merit and do not require published explanation because they do not present any question of law. In accordance with our established practice, these assignments are discussed in an unpublished, but publicly recorded, appendix to this opinion.
+
+The defendant's conviction and sentence are affirmed.
+
+AFFIRMED.

@@ -1,0 +1,287 @@
+58706
+State v. Williams
+https://law.justia.com/cases/louisiana/supreme-court/1977/346-so-2d-181-1.html
+
+58706
+State v. Williams
+Court: Louisiana Supreme Court
+Release date: 1977-05-16
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/346-so-2d-181-1.html
+
+346 So. 2d 181 (1977)
+
+STATE of Louisiana
+v.
+Miles Anthony WILLIAMS.
+
+No. 58706.
+
+Supreme Court of Louisiana.
+
+May 16, 1977.
+
+*184 Gary R. Steckler, Lafayette, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. Nathan Stansbury, Dist. Atty., Thomas Robert Shelton, Lafayette, for plaintiff-appellee.
+
+DENNIS, Justice.
+
+Defendant, Miles Anthony Williams, was charged by bill of information with the attempted murder of Kenneth Ryder, La. R.S. 14:27 and La.R.S. 14:30, and pleaded not guilty and not guilty by reason of insanity. A jury of twelve found him guilty as charged and the court sentenced him to serve twenty years at hard labor. On appeal, defendant relies upon nineteen assignments of error for reversal of his conviction and sentence. We affirm.
+
+ASSIGNMENT OF ERROR NO. 1
+
+The victim of the alleged offense, Kenneth Ryder, was a police officer. During the voir dire examination of prospective jurors, defense counsel requested that Ryder, a state witness, be excluded from the courtroom. The State argued that Ryder's presence during voir dire would be helpful in ascertaining whether he was known to any of the prospective jurors, and further asked that he be permitted to remain throughout the trial in order to assist the prosecutor in "putting together the sequence of events." Defense counsel did not attempt to counter these arguments but stated that he might make some rebuttal at the time of his motion to sequester the witnesses. The trial court then denied the defense motion to remove Ryder.
+
+The defense invoked the rule of sequestration after the jury had been empanelled but made no objection to Ryder's exemption from the rule. Thus, although defendant assigns as error the judge's ruling permitting Ryder to remain in court during the voir dire examination and throughout the trial, no timely objection was entered to the court's ruling exempting Ryder, and hence the issue is not properly presented for our review. La.C.Cr.P. art. 841. Nevertheless, we conclude that defendant was not prejudiced by Ryder's presence at each stage of the proceedings.
+
+Louisiana Code of Criminal Procedure article 764 provides the rule for the sequestration of witnesses:
+
+The often repeated purpose of the rule is to prevent witnesses from being influenced by prior testimony and to strengthen the role of cross-examination in developing the facts. State v. Johnson,
+343 So. 2d 155
+(La. 1977); State v. Bias,
+337 So. 2d 426
+(La. 1976), and cases cited therein. The trial judge may, however, modify his exclusion order "in the interest of justice," and should he choose to do so his ruling will not be disturbed on appeal absent an abuse of discretion. State v. Griffin,
+329 So. 2d 693
+(La.1976); State v. Brevelle,
+270 So. 2d 852
+(La.1973); State v. Raymond, 258 La. 1,
+245 So. 2d 335
+(1971).
+
+Clearly, the purpose of the sequestration rule was not endangered by Ryder's attendance during the voir dire examination of prospective jurors and before any testimony was taken in the case. The record in this case reflects no error in denying defense counsel's motion to have Ryder removed at that time.
+
+Although we are not persuaded that it was "in the interest of justice" to allow the prosecuting witness to remain in the courtroom during the course of the trial, we do not find that defendant was prejudiced thereby. The two state witnesses who preceded Ryder in testifying recounted the events of the armed robbery committed by defendant which caused the officer to be summoned to the scene. They were not witnesses to the attempt upon Ryder's life and there was little overlap between their testimony and his, which focused upon the events transpiring after he intercepted defendant in flight. Thus, the salient portions of Ryder's testimony were based solely upon facts within his own knowledge and could not have been influenced by the introductory statements of the first witnesses. Ryder was not called on rebuttal. Therefore, we conclude that defendant was not harmed by the witness' exclusion from the sequestration order.
+
+This assignment lacks merit.
+
+ASSIGNMENT OF ERROR NO. 2
+
+Defendant complains that the court improperly restricted the scope of his voir dire examination of prospective jurors by refusing to allow him to propound the following question:
+
+The definition of insanity suggested by the question was taken directly from Louisiana Civil Code article 31, relating to "Insane Persons." The court sustained the prosecutor's objection that this was an incorrect statement of the criminal law of insanity and advised defense counsel to rephrase his question.
+
+Parties must be afforded wide latitude in the conduct of their voir dire examination; pertinent inquiries which either might show grounds for a challenge for cause or which will enable counsel to make intelligent use of their peremptory challenges should be permitted. State v. Monroe,
+329 So. 2d 193
+(La.1976); State v. Brumley,
+320 So. 2d 129
+(La.1975); State v. Jones,
+282 So. 2d 422
+(La.1973). However, Article 786 of the Louisiana Code of Criminal Procedure vests the trial judge with discretion to regulate the scope of the examination and that discretion is not abused when he disallows an improper question. See, State v. Clark,
+325 So. 2d 802
+(La.1976).
+
+The question at issue here purported to probe the jurors' ability to accept the law as given to them by the court, see, La.C.Cr.P. art. 797(4), and would have been   appropriate had defense counsel correctly represented the law. See, State v. Brumley, supra. This he did not do, but rather attempted to inject into the proceedings a definition of insanity not pertinent to the issues at hand. The law defines mental incompetence differently for different purposes. Compare, La.C.C. art. 31, La.C.Cr.P. art. 641 and La.R.S. 14:14. See also, State v. Glover,
+343 So. 2d 118
+(La.1977). The definition embodied in Civil Code article 31, which defense counsel incorporated into the subject question, might have been applicable to a determination of defendant's capacity to enter into a contract, see, Symposium, Contractual Incapacity in the Louisiana Civil Code, 43 Tul.L.Rev. 1093, 1099 (1973), but had no bearing upon the issue of defendant's criminal responsibility. Criminal responsibility is not negated merely by the existence of a mental disease or defect; the disease or defect must be of such a nature as to render the offender "incapable of distinguishing between right and wrong with reference to the conduct in question". La. R.S. 14:14.
+
+Through earlier questioning, defense counsel had ascertained whether the jurors were able to accept and apply the prevailing "right or wrong" test. We find no error in the court's refusal to allow a further question which was likely to confuse or mislead the jurors as to the applicable standard in criminal cases.
+
+This assignment is without merit.
+
+ASSIGNMENT OF ERROR NO. 3
+
+In order to depict for the jury the manner in which the crime occurred, the State asked Officer Ryder to step down from the stand and physically reenact his encounter with defendant (the prosecutor, directed by the witness, substituted for defendant), during which the officer was shot several times. At the conclusion of this exhibition, defense counsel objected that the procedure was inflammatory and prejudicial; he assigns the overruling of that objection as error.
+
+Of dramatic communication, Wigmore has said:
+
+Where, as here, verbal explanation would suffice, it is the favored mode of communication. With all due respect to Professor Wigmore, dramatic expression calculated to give unfair emphasis and create improper emotional effects can easily occur in criminal cases. However, we note that defendant did not object in time for the court to intervene and put a stop to the exhibition. Additionally, the record reflects that the witness made no attempt to appeal to the emotions of the jury but merely illustrated the relative positions of defendant and the witness during the shooting. Therefore, we conclude that defendant was not prejudiced by the display.
+
+This assignment is without merit.
+
+ASSIGNMENT OF ERROR NO. 4
+
+Defendant complains that the court erred in admitting certain items into evidence without requiring the State to establish the chain of custody. The basis of the complaint is that the officer who received the evidence at the crime lab was not produced in court.
+
+In State v. Dotson, 260 La. 471,
+256 So. 2d 594
+(1971), we stated:
+
+In the instant case, Sergeant Paul Stelly testified that he recovered the disputed items from the scene of the crime, tagged them, enclosed them in plastic bags, and placed them temporarily in the trunk of his car beforehand delivering the evidence to Ralph Huval at the Acadiana Criminalistics Laboratory. Travis Owen, the director of the crime lab who analyzed the evidence, stated that he kept it in his custody until it was brought to trial. He also identified Ralph Huval's signature on the evidence envelope, which indicated that Huval had received it at the crime lab. In addition, Sergeant Stelly made a visual identification of the evidence as being that which he had retrieved from the scene of the crime.
+
+This testimony established the probability that the crime scene evidence was the same as that introduced, and the failure of Ralph Huval to testify went to the weight, rather than to the admissibility of the evidence. See, State v. Brown,
+337 So. 2d 484
+(La. 1976).
+
+ASSIGNMENT OF ERROR NO. 5
+
+After a photograph depicting the site of the crime had been admitted into evidence and exhibited to the jury, defendant complained that he had been prejudiced by the jurors' inspection of the label on the reverse side of the exhibit which in addition to other identifying information included: "OFFENSE: att. murder; NAME: Kenneth Ryder."
+
+The label communicated nothing more than the bill of information read to the jury at the outset of the trial, and was clearly intended only to identify the photograph with the case in which it was to be used. We fail to see how defendant was prejudiced by the exhibition of the photograph and the printed material on its reverse side to the jury.
+
+There is no merit in this assignment.
+
+Assignment of error number six has been abandoned.
+
+ASSIGNMENT OF ERROR NO. 7
+
+Defendant asserts that the trial court erred in allowing the State to introduce into evidence certain oral inculpatory statements. He argues that he received inadequate and untimely notice of the State's intention to use the statements and that because he lacked the mental capacity to make an intelligent waiver of his constitutional rights, the statements were not voluntary.
+
+Defendant's complaint regarding the alleged defects in the State's notice of intent is not properly before us since no objection was made on this ground either at the time notice was given or at the time the statements were introduced. La.C.Cr.P. art. 841; State v. Schamburge,
+344 So. 2d 997
+(La.1977). However, defendant's contentions are meritless. The notice was timely given prior to the State's opening statement, La.C.Cr.P. art. 768, State v. Clark,
+340 So. 2d 1302
+(La.1976), and sufficiently apprised defendant of the specific statements involved. See, State v. Sneed,
+316 So. 2d 372
+(La.1975).
+
+Defendant's second argument relates to his alleged inability to waive his   constitutional rights intelligently. At trial the State laid the following predicate to the introduction of the inculpatory statements. Sergeant James Romero testified that after defendant's arrest and while en route to the police station, he advised defendant of his Miranda rights. When asked whether he understood his rights, defendant responded, "Yes." Sergeant Romero then asked defendant "why he had shot the policeman" and defendant answered, "I shot him because he shot at me." The officer claimed that he did not exercise any form of duress upon defendant to induce him to make a statement.
+
+On cross-examination, however, Sergeant Romero admitted that he had known defendant for approximately two years and "had a feeling" that defendant had received treatment for a mental disorder but did not know definitely whether or not he had. Because the officer suspected defendant had a mental disorder, the defense argues, the State failed to carry its heavy burden of proving that the defendant knowingly and intelligently waived his constitutional rights as required by Miranda and Art. I, § 13 of La.Const. of 1974. However, interrogating officers are entitled to rely upon reasonable appearances of understanding and consent. State v. Welch,
+337 So. 2d 1114
+(La.1976).
+
+In the absence of a clearer indication that the defendant's reasoning capacity was impaired, other than a mere "feeling" of the policeman, we find that under the circumstances Sergeant Romero was entitled to rely on the defendant's apparent knowing and willing waiver of his rights.
+
+This assignment is without merit.
+
+ASSIGNMENTS OF ERROR NOS. 8, 9 and 11
+
+These assignments variously relate to defendant's difficulty in placing his medical history before the jury in connection with his insanity defense.
+
+Defendant's sole witness at trial was Dr. William E. McCray, a member of the sanity commission appointed to examine defendant in October of 1973. After Dr. McCray stated that he had had access to medical reports of defendant from the Evangeline Guidance Center and the Acadiana Mental Health Unit, defense counsel, attempting to lay the foundation for an expert opinion that defendant was insane at the time he committed the offense, asked the doctor to recite the defendant's medical history from those reports. Additionally, defense counsel attempted to introduce the reports directly into evidence as exhibits. The court sustained the State's objections to both proffers on the grounds that the contents of the reports were hearsay.
+
+The contents of the reports which were not prepared by the witness himself were indeed hearsay and as such were inadmissible, La.R.S. 15:434 and La.R.S. 15:463, unless offered in compliance with the hospital records exception to the hearsay ban. La. R.S. 13:3714.
+
+An exception to the hearsay rule established by La.R.S. 13:3714 allows the introduction of certified copies of hospital records:
+
+Because the records were not admitted and are therefore not included in the record before us, we do not know whether the records offered complied with the statutory requirements, an essential prerequisite to their admission. See, State v. Trahan,
+332 So. 2d 218
+(La.1976). However, the trial judge did not base his ruling on the fact that the necessary formalities were not followed and we can only conclude that he was persuaded by the State's argument that the   records were incompetent hearsay, without adverting to the statutory exception. In this conclusion, we find that the trial judge was in error.
+
+However, we find that the error was not prejudicial to the defendant. Although the jury was not allowed to view the reports or to hear the witnesses read verbatim passages from them, both the defense and state medical experts were permitted to refer freely to the facts in the reports in stating their understanding of the defendant's past medical history and explaining how this history related to their opinions expressed at trial.
+
+Dr. McCray testified: that defendant had for an extended period of time experienced hearing voices in his head and hallucinating; that he was treated for this affliction at the Evangeline Area Guidance Center and subsequently, in 1963, at the state hospital at Mandeville; that more recently, defendant had been a patient at the Acadiana Mental Health Unit but has discontinued treatment there about a year before Dr. McCray's examination because he "was tired of taking them pills;" and that during the course of his treatment at various facilities, he had been diagnosed by several doctors as schizophrenic.
+
+Dr. McCray diagnosed defendant's illness as schizophrenic reaction and chronic brain syndrome. He concluded on the basis of defendant's medical history and his own observations that when defendant was not on medication, as he was not at the time of the offense, he was psychotic and unable to distinguish between right and wrong.
+
+Defendant complains that the court permitted the State's expert, Dr. James Blackburn, to testify regarding defendant's medical history, which he had obtained from reviewing medical records, although Dr. McCray had been prevented from doing so.
+
+The record reflects that the court extended to Dr. Blackburn the same privilege which had been accorded to defendant's expert: he was allowed to refer to the records as a basis for his expert medical opinion. Moreover, Dr. Blackburn gave approximately the same history of defendant's medical treatment as had been related by Dr. McCray; his testimony on this point was corroborative of rather than contradictory to that of defendant's expert.
+
+There was no dispute at trial as to the fact of defendant's chronic mental illness. Like Dr. McCray, the State's medical expert testified that defendant was suffering from a form of schizophrenia and that his judgment was severely impaired. The two experts differed only in their judgments regarding defendant's ability to distinguish between right and wrong at the time of the offense. Defendant does not specifically describe any information that was denied the jury or show how the direct introduction of or reading from the medical records could have shed any light upon this controversy. Therefore, it does not appear that defendant was prejudiced because of his inability to introduce the medical records or have them read to the jury.
+
+These assignments are without merit.
+
+ASSIGNMENT OF ERROR NO. 10
+
+Defendant argues that the court erred in sustaining the State's objection to the following question, asked of Dr. McCray: "Are you of the opinion that [the defendant] needs further treatment?" The court ruled that the question was immaterial and the witness was not permitted to answer. Defendant contends that the information sought was crucial to the jury's understanding of the consequences of a verdict of not guilty by reason of insanity.
+
+The legal effect of an acquittal on ground of insanity in a non-capital felony case is prescribed by Louisiana Code of Criminal Procedure article 654:
+
+In State v. Babin,
+319 So. 2d 367
+(La. 1975), we held that the consequences of a verdict of not guilty by reason of insanity, not commonly understood by the layman, must be explained to the jury upon defendant's or the jurors' request. We were concerned that in the absence of clarifying instructions the jury would falsely assume that a verdict of not guilty by reason of insanity would immediately free the defendant and would refuse to return such a verdict even if it were warranted by the evidence.
+
+The determination whether a defendant is to be released or institutionalized after a verdict of not guilty by reason of insanity is to be made by the court after the verdict is entered, La.C.Cr.P. art. 654, and any inquiry at trial into the defendant's present need for treatment is immaterial. The trial court's charge to the jury, which included the substance of Article 654 and other pertinent provisions adequately protected defendant against the jury's misunderstanding of the not guilty by reason of insanity verdict.
+
+This assignment lacks merit.
+
+Assignment of error number twelve has been abandoned.
+
+ASSIGNMENT OF ERROR NO. 13
+
+When the State's expert, Dr. Blackburn, stated that he had been assisted in making his diagnosis of defendant by records from the Acadiana Mental Health Unit, defense counsel asked to see the records. The State objected and defense counsel's request was ruled improper by the court.
+
+Defendant has offered no reason why he should have been permitted to view the requested materials. Defendant does not argue that Dr. Blackburn's testimony regarding his medical history was at variance with fact nor has he shown that he did not have his own copy of, or access to, the medical records. On the contrary, the testimony of defendant's own expert, Dr. McCray, that he had studied the Mental Health Unit reports indicates that these were available to defendant. Furthermore, Dr. Blackburn did not consult the records while testifying and there is no indication that he even had them with him at trial.
+
+This assignment is without merit.
+
+ASSIGNMENT OF ERROR NO. 14
+
+Defendant contends that the trial court erred in refusing to give the jury a requested special charge entitled "Effect of Mental Disorder on Specific Intent."
+
+A requested special charge must be given by the court if it does not require qualification, limitation or explanation and if it is wholly correct and pertinent. However, it need not be given if it is included in the general charge. La.C.Cr.P. art. 807; State v. May,
+339 So. 2d 764
+(La.1976).
+
+In the present case, the substance of defendant's requested charge was conveyed by the judge's general charge which explained at some length the principle that insanity negates criminal responsibility. Under Article 807, the trial court properly refused defendant's charge.
+
+This assignment is without merit.
+
+ASSIGNMENT OF ERROR NO. 15
+
+Defendant argues that the court erred in including within its general charge instructions regarding the crime of armed robbery. He claims that since he was on trial for attempted murder, the armed robbery definition was irrelevant and amounted to a judicial comment on the evidence.
+
+Included in the definition of first degree murder at the time the crime was committed   was "the killing of a human being. . . when the offender has a specific intent to kill or to inflict great bodily harm and is engaged in the perpetration or attempted perpetration of . . . armed robbery". La.R.S. 14:30(1), as amended by Acts 1973, No. 109, § 1. The evidence adduced at trial showed that defendant, after committing the armed robbery of a Triple-Quick grocery, shot a policeman who had responded to a radio dispatch alerting him that the crime was in progress in his patrol section. Accordingly, the definition of armed robbery was part of the law applicable to the case and was properly included in the charge. La.C.Cr.P. art. 802(1).
+
+This assignment is without merit.
+
+ASSIGNMENT OF ERROR NO. 16
+
+Defendant contends that the prosecutor's suggestion, made during his closing statement and while pointing at several of the jurors, that this crime could have been committed on them was improper argument and that the court erred in failing to grant his request for a mistrial.
+
+Louisiana Code of Criminal Procedure article 774 delineates the proper scope of argument:
+
+"The argument shall not appeal to prejudice."
+
+Although the prosecutor's remarks were not appropriate inferences from the facts and improperly appealed to emotion, we do not find that they were so prejudicial as to warrant the drastic remedy of mistrial. In State v. Dennis, 250 La. 125, 139,
+194 So. 2d 720
+, 725 (1967), we held:
+
+We do not consider the error to have been of sufficient magnitude to warrant a reversal on this ground.
+
+ASSIGNMENTS OF ERROR NOS. 17 and 18
+
+These assignments relate to the court's refusal to grant a directed verdict of not guilty by reason of insanity. As there is no statutory authority for a trial judge to take such action, the request was properly refused.
+
+These assignments lack merit.
+
+ASSIGNMENT OF ERROR NO. 19
+
+Defendant complains of the court's denial of his motion for a new trial which urged that the verdict was contrary to the law and evidence. Attached to the motion was an affidavit by a member of the jury stating that the jurors had been convinced of defendant's insanity but had been averse to rendering a verdict of not guilty by reason of insanity because of their fear that defendant would be prematurely released and would commit further crimes.
+
+In criminal cases, the scope of our appellate jurisdiction extends only to questions of law. La.Const. of 1974, Art. 5, § 5(C). An allegation that there is a total lack of evidence of the crime or an essential element thereof presents a reviewable question of law; but a motion for new trial challenging the sufficiency of the evidence, which is a question of fact, presents nothing for our review. La.C.Cr.P. art. 858. State v. Finley,
+341 So. 2d 381
+(La.1976).
+
+The testimony summarized in connection with prior assignments constituted some evidence of each essential element of the offense and of defendant's sanity at the time of the offense.
+
+Furthermore, the impeachment of a verdict by a juror is prohibited by La.R.S. 15:470:
+
+We are bound by this rule of law to ignore the juror's affidavit. See, State v. Fortenberry,
+307 So. 2d 296
+(La.1975); State v. Hatch,
+305 So. 2d 497
+(La.1975).
+
+Accordingly, the trial court did not err in denying defendant's motion for a new trial.
+
+This assignment is without merit.
+
+For the reasons assigned, defendant's conviction and sentence are affirmed.
+
+DIXON, J., dissents with reasons.
+
+SUMMERS and MARCUS, JJ., dissent for reasons assigned by DIXON, J.
+
+DIXON, Justice (dissenting).
+
+I respectfully dissent.
+
+In examining the pleadings and proceedings below, following the submission of the case to us for review, I have found the bill of information charging the attempted murder to be defective. C.Cr.P. 920(2). For that reason, the conviction and sentence of the defendant should be reversed.
+
+The bill of information charges that the defendant "Miles Anthony Williams at the Parish of Lafayette on or about the 27th day of August in the year of our Lord, one thousand nine hundred and Seventy-three (1973) attempted to murder one Kenneth Ryder . . ." The facts of the case indicate that the victim, Kenneth Ryder, was a patrolman in the Lafayette Police Department and that he was engaged in the performance of his duties at the time he was shot by the defendant. The defendant had allegedly perpetrated the armed robbery of a Triple-Quick store in Lafayette minutes before the shooting, and he shot the patrolman while attempting to flee. It is clear from the record that the defendant was being tried for attempted first degree murder, R.S. 14:27, 30. The information, however, merely charges that the defendant "attempted to murder one Kenneth Ryder. . ."
+
+Article I, § 10 of the Louisiana Constitution of 1921 (effective as of the date of the crime and the filing of the information) provided in pertinent part:
+
+In addition, on the date that the alleged attempted murder was committed, no crime of "murder" existed in Louisiana. Only four types of criminal homicide were recognized in Louisiana: first degree murder, R.S. 14:30; second degree murder, R.S. 14:30.1; manslaughter, R.S. 14:31; negligent homicide, R.S. 14:32. See R.S. 14:29. Similarly, no crime of attempted murder was recognized, but rather attempted first degree murder, attempted second degree murder and attempted manslaughter. See C.Cr.P. 814. Therefore, the information is defective on its face for failure to charge a crime under Louisiana law. See e. g., State v. Fontenot, 256 La. 12,
+235 So. 2d 75
+(1970).
+
+The only question remaining is whether, in light of this court's decision in State v. James,
+305 So. 2d 514
+(La.1974), the failure of the information to charge a crime punishable under Louisiana law should result in dismissal of the prosecution.
+
+Prior to State v. James, supra, the rule in Louisiana was to the effect that a fatal defect in an indictment must be noticed by a court even after conviction and even where the sufficiency of the indictment had not been challenged. When the defect was recognized the prosecution was dismissed, since it was founded on a defective indictment. C.Cr.P. 382. See State v. Smith,
+275 So. 2d 733
+(La.1973) and cases cited in the concurring opinion at page 737. However, in James this strict construction was relaxed in order to foreclose postconviction attack on indictments in certain circumstances:
+
+In addition, in James this court made the following observation:
+
+Similarly, in State v. Anderson,
+332 So. 2d 452
+, 455 (La.1976), this court said:
+
+Here, the indictment does not charge a crime punishable under Louisiana law. The defendant was not "informed of the nature and cause of the accusation against him. . ." La.Const. (1921) art. I § 10. No valid sentence may be imposed pursuant to a fatally defective indictment. C.Cr.P. 872.

@@ -1,0 +1,128 @@
+63132
+State v. Short
+https://law.justia.com/cases/louisiana/supreme-court/1979/368-so-2d-1078-1.html
+
+63132
+State v. Short
+Court: Louisiana Supreme Court
+Release date: 1979-03-05
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/368-so-2d-1078-1.html
+
+368 So. 2d 1078 (1979)
+
+STATE of Louisiana, Appellee,
+v.
+William A. SHORT, Appellant.
+
+No. 63132.
+
+Supreme Court of Louisiana.
+
+March 5, 1979.
+
+*1079 Jack Peebles, New Orleans, for appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John M. Mamoulides, Dist. Atty., P. Michael Cullen, Abbott J. Reeves, Asst. Dist. Attys., for appellee.
+
+TATE, Justice.[*]
+
+The defendant was convicted by a six-person jury of three counts of obscenity in violation of La.R.S. 14:106. He was sentenced to one year in the parish prison, suspended on condition that he serve 30 days in jail and pay a fine.
+
+The chief factual defense was that the magazines purchased by the vice officers, for which the defendant is prosecuted, were not obscene because they did not violate contemporary community standards. The defendant further denied that he knew these particular magazines were among the stock of his newsstand.
+
+The defendant's appeal raises seven assignments of error. We find the principal issue raised by this appeal is raised by the assignments questioning the trial court's refusal of a lay witness, the defendant's son, to testify concerning community standards (Assignments 3 and 4) and to permit introduction into evidence, in connection with this witness' testimony, of two magazines purchased by him at another store in Jefferson Parish (Assignment 5).[1]
+
+*1080 Facts
+
+At the time of his arrest, defendant was the owner/operator of a newsstand. Officers from the Jefferson Parish Sheriff's Office purchased three magazines containing sexually explicit photographs.
+
+At the trial the defense called the defendant's son, who worked in the store at the time of the arrest. The son testified that other stores in the parish sold magazines that were "a lot worse" than those sold by the defendant. The defense counsel showed the witness two magazines, which the witness identified as magazines he had bought from a store near defendant's.
+
+The trial court then sustained the state's objections to defense questions asking the witness to compare the materials sold with that sold in other newsstands of the parish, and asking him to describe the contemporary community standards in the area with regard to the sale of sexually explicit materials.[2]
+
+At the close of the witness's testimony, the defense attempted to introduce into evidence the two magazines the witness said he had purchased at the neighboring bookstore, but the state objected and the court sustained the objection.
+
+I. Lay Opinion Testimony Concerning Community Standards
+
+If the witness had answered the questions to which objections were sustained, he would have been stating his opinion. Opinion evidence is generally not admissible (although the exceptions and its flexible application have much eroded this general rule). La.R.S. 15:463; see McCormick's Handbook of the Law of Evidence, Section 11 (2d ed. 1972); Wigmore on Evidence, Sections 1917-18 (Chadbourn rev. 1978).
+
+This general rule has been justified on the ground that a witness must not be allowed to "usurp the function of the jury" by drawing inferences from his sense perceptions, rather than reporting the sense perceptions themselves. McCormick, Section 1920. However, there is no bright line between "opinion" and "fact"; rather, there are varying degrees to which a witness will summarize his factual sense perceptions when testifying. See State v. Garner, 255 La. 115, 229 So. 2d 719 (1969) (witness's identification of a substance he saw as "blood" held to be statement of fact); Pugh, Louisiana Evidence Law 143-44 (1974) (Garner criticized on the ground that identification of blood requires an inference from sense perceptions); Wigmore, Section 1919.
+
+At its best, the rule against lay opinion testimony operates to exclude evidence which, although relevant, is superfluous. The witness should testify from his first-hand knowledge, in as much detail as the trial judge in his discretion feels appropriate.[3] Nevertheless, as Wigmore, McCormick,   and Pugh indicate, the opinion rule should not be applied so strictly as to exclude first-hand testimony that may be several inferences removed from raw sense perceptions, yet more helpful to the jury than mere recitation of such perceptions.
+
+The major recognized exception to the rule excluding opinion testimony is the expert opinion rule. La.R.S. 15:464 provides: "On questions involving a knowledge obtained only by means of a special training or experience the opinions of persons having such special knowledge are admissible as expert testimony."
+
+Expert testimony is admitted because the expert is uniquely skilled at drawing inferences. His conclusions from real or hypothetical data are more helpful to the jury than the data themselves, without the conclusions. The jury retains the right and power to accept or reject his conclusions.
+
+The Louisiana expert testimony statute follows the commentators in recognizing that not only "special training" but also "experience" can qualify an individual as an "expert" on certain matters.
+
+Thus, for instance, a person who had driven automobiles and observed their speed over a period of time was permitted to testify as to his "opinion" of the relative speed of a particular car on a particular occasion. Fidelity & Casualty Co. of N. Y. v. Aetna Life and Casualty Co., 244 So. 2d 255 (La.App.3d Cir. 1971); Wigmore, Section 1977. The jurors themselves could presumably have formed an "opinion" of the car's speed had they themselves been present; and they could form such an opinion if the witness would recount accurately, split-second by split-second, the data from which he drew his opinion of the car's speed. In this instance, however, his "opinion" is less time-consuming, less confusing, and probably more reliable than his memory of his sense perceptions.
+
+Similarly, when a witness testifies to the reputation that an individual has in the community, see La.R.S. 15:479, he is summarizing an inference from myriad individual conversations he has had with members of the community, some of which he may not even remember in detail: he is, in effect, giving his opinion of what people think of the individual. See State v. Frentz,
+354 So. 2d 1007
+(La.1978).
+
+Community standards are clearly relevant to an obscenity conviction. La. R.S. 14:106 defines as "obscene material" that which "the average person applying contemporary community standards" would find appeals to the prurient interest.
+
+How are such standards to be proven?
+
+Relevant expert testimony may be admissible to prove community standards. Kaplan v. California, 417 U.S. 115, 121, 97 S. Ct. 2680, 2685, 37 L. Ed. 2d 492 (1973); Schauer, The Law of Obscenity 276-91 (1976).
+
+With regard to proof by lay evidence, it is theoretically possible to call as witnesses a statistically significant sample of a communitysay, a thousand personsand to demonstrate that these persons had been selected in such a way as to guarantee a cross-section. This, however, would be impractical. However, it might also be possible for an individual witness to testify concerning numerous of his personal experiences in the community, from which the jury might infer a community standard. However, like a witness' testimony about the reputation of another (cf. State v. Frentz, cited above, at 354 So.2d 1011), it is much more practical to permit a witness to summarize and draw inferences from his numerous experiences, which might in themselves seem trivial and cumulative. See, e. g., State v. Henry, 250 La. 682,
+198 So. 2d 889
+(1967); reversed on other grounds, Henry v. Louisiana,
+392 U.S. 655
+, 88 S. Ct. 2274, 20 L. Ed. 2d 1343 (1967).
+
+Generally, therefore, community standards should be regarded as one of those facts, like speed and reputation, on which a qualified lay witnessqualified by experience rather than by trainingmay   give his opinion. However, the party wishing to offer such opinion evidence must first demonstrate that the witness is in fact qualified to give an opinion. Moreover, since the jurors, who are likely to be residents of the same general community, are themselves more capable of drawing inferences of community standards than, for instance, of the speed of an automobile they have not seen, or of the reputation of an individual of whom they have not heard, the trial judge in his discretion may feel that a greater threshold showing of "qualification" is necessary.
+
+In State v. Henry, 250 La. 682,
+198 So. 2d 889
+(1967), we upheld the trial judge's admission of opinion testimony from a banker and a priest regarding community standards. Both witnesses had been questioned about their backgrounds, contacts, and experiences in the community, and "it would have been difficult to find another so well qualified to express an opinion as to the `average person' in the community." 198 So. 2d  at 894-95.
+
+In contrast, the witness here was asked only about his experiences in bookstores selling sexually-oriented literature. This qualified him only to testify about the practices of these establishmentsnot to give his opinions about community attitudes in general. If a proper predicate had been laid, by asking the witness about his life in the community and about his experiences outside sexually-oriented bookstores, perhaps he would have been a qualified witness notwithstanding the fact that he was the defendant's son and co-worker. Nevertheless, in the absence of an attempt so to establish his qualifications, we find no reversible abuse by the trial court in exercising its discretion to exclude the witness's opinions because of the insufficiency of the predicate shown for them.
+
+II. Evidence of Sale of Comparable Material
+
+One of the questions to which the witness' answer was excluded involved a comparison of the material defendant was charged with selling and material sold in other stores. Error was also assigned to the exclusion of two magazines purchased at another store.
+
+The mere fact that other stores were selling material that was as bad as, or worse than, the material sold by defendant would not render defendant's material less obscene. Only a showing that the community accepts or tolerates the materialnot merely a showing that such material is sold, or that it has not thus far been prosecutedwould be material evidence of contemporary community standards of obscenity. Hamling v. United States, 418 U.S. 125, 125-26, 94 S. Ct. 2912, 41 L. Ed. 2d 590 (1974); Schauer, The Law of Obscenity 133-34 (1976).
+
+However, it is difficult to imagine how community acceptance of material could be shown without first discussing the availability of the material. Therefore, the trial judge should perhaps have allowed the witness to answer the question concerning materials that were available in the community. That evidence of availability does not itself prove acceptance or toleration is an argument addressed to the weight, not the admissibility, of such evidence.
+
+Nevertheless, in the context facts of the present trial, the judge's exclusion of availability evidence is not reversible error.
+
+Prior to the question to which an objection was sustained, defense counsel was allowed to elicit answers to a nearly identical line of questions. The witness was allowed without objection to testify that in certain "stores" he had seen materials that were much more sexually explicit, "a lot worse," than those his father was charged with selling.
+
+Thus, the later question, which differed from the earlier questions only in that it pertained to "newsstands" rather than "stores", might fairly be regarded as cumulative. Moreover, defense counsel made no attempt to show any indicia of community acceptance other than the availability of explicit materials in other stores, although he had an opportunity to develop such evidence. Therefore it is likely, and   the trial judge may have inferred, that the cumulative later questions concerning availability were offered for their own sake, and not as part of a larger pattern showing acceptance.
+
+At the time the magazines were offered into evidence, defense counsel had asked the witness all the questions he planned to ask about the magazines, and had tendered the witness. All the questions asked about the magazines had to do with their availability in the other store, and their sexual explicitness. There was no other evidence of community acceptance or toleration, which (unlike mere availability) would have been material to the case. Therefore, the judge's refusal to allow their introduction into evidence was within his discretion. See Hamling, cited above, 94 S. Ct.  at 2912.
+
+Summary
+
+Lay opinion testimony is admissible to show community standards concerning obscenity, provided that the witness has been shown to be qualified to form such opinions. In this case, no such qualification was shown.
+
+Evidence of the availability of comparable materials in the community, while it is not per se material to community standards, may be relevant to proving community acceptance or toleration of such material, and should normally be admissible for such purpose. However, in the context in which the issue was raised in this case, the trial judge did not commit reversible error in holding the testimony inadmissible as proof of mere availability, rather than of community acceptance or toleration, of such materials.
+
+The conviction and sentence are affirmed.
+
+AFFIRMED.
+
+SUMMERS, C. J., concurs.
+
+[*]  Judge Cecil C. Cutrer, Louisiana Court of Appeal, Third Circuit, participated in this decision as an Associate Justice Ad Hoc.
+
+[1]  The defendant assigns several other errors, which are without merit: Assignment 1 : That the trial court erroneously denied his motions to quash based on the unconstitutionality of La.R.S. 14:106, and of the six-man jury. These contentions were rejected in, respectively, State v. Burch,
+365 So. 2d 1263
+(No. 62,127), and State v. Wrestle, Inc.,
+360 So. 2d 831
+(La. 1978); Assignment 2: That the court erred in not excusing for cause a juror who testified on voir dire that she thought "girlie magazines" to be "nothing but filth." The juror indicated, however, that she thought she could apply the law as given to the jury by the court, and in light of this and numerous other questions asked for the purpose of ascertaining whether prospective jurors were impartial, the trial judge did not abuse his discretion; Assignments 6 and 7: That the trial judge erred in charging the jury, and in not giving requested special jury charges. Taken as a whole, the jury charge given by the trial judge was correct, and included all aspects of the requested special charges that were wholly correct and pertinent. See La.C.Cr.P. art. 807.
+
+[2]  The two questions to which state objections were sustained were:
+
+"How would you compare the material sold in the other neighborhood news stores in Jefferson Parish with the material sold in your adult section?
+
+"Would you describe the contemporary community standards in Orleans proper, including both Jefferson Parish and Orleans Parish from the standpoint of what is the practice with regard to the sale of sexually explicit materials?"
+
+[3]  A catalogue of sense perceptions which are too "raw" would be time-consuming and confusing (e. g., a witness might testify that he saw a large object that moved on four wheels, rather than stating his "inference" that he saw an automobile). On the other hand, too much inference and summarization (e. g., "he was driving carelessly") will invariably require further explanation ("he was driving on the left-hand side of the road") which in turn will render superfluous the initial "opinion" statement, albeit relevant and based on the witness' first-hand knowledge.

@@ -1,0 +1,85 @@
+259 So. 2d 324 (1972); 261 La. 282
+Surridge v. Benanti
+https://law.justia.com/cases/louisiana/supreme-court/1972/261-la-282-0.html
+
+259 So. 2d 324 (1972); 261 La. 282
+Surridge v. Benanti
+Court: Louisiana Supreme Court
+Release date: 1972-02-21
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1972/261-la-282-0.html
+
+259 So. 2d 324 (1972)
+
+261 La. 282
+
+Grace SURRIDGE and Russell T. Surridge
+v.
+Philip BENANTI, Jr., and Security Insurance Company.
+
+No. 51239.
+
+Supreme Court of Louisiana.
+
+February 21, 1972.
+
+*325 Roos & Roos, Leo S. Roos, New Orleans, for plaintiffs-appellants-applicants.
+
+Bienvenu & Culver, H. F. Foster, III, New Orleans, for defendants-appellees-respondents.
+
+DIXON, Justice.
+
+This damage suit was met with an exception in the Civil District Court for the Parish of Orleans. That court sustained the exception and dismissed the suit. The Court of Appeal affirmed. 243 So. 2d 354.
+
+Because of the arguments made before us by the plaintiffs, we set out the exception:
+
+The exception was signed, and was accompanied by a "MEMORANDUM IN SUPPORT OF EXCEPTIONS" filed with the exception, we are informed, in conformity with the rules and practice of the district court. The "memorandum" was probably designed to fill the requirements of C.C.P. art. 924. The memorandum stated:
+
+In his reasons for judgment, the trial court judge related that he was originally of the opinion that R.S. 22:655 provided that an action could be brought at the principal place of business of the insurer. The trial court pointed out, however, that R.S. 22:655 was amended in 1962, and that the amendment eliminated the former provision authorizing suit at the principal place of business of an insurer, and sustained the exception, dismissing the suit.
+
+The Court of Appeal found that the trial court had both "jurisdiction over the subject matter and jurisdiction over the person." Jurisdiction over the subject matter was found in the trial court as a result of C.C.P. art. 2 and Article 7, Sections 35 and 81 of the Louisiana Constitution of 1921. Jurisdiction over the person was found because C.C.P. art. 6 states that it is based upon service of process on the defendant. (Both defendants were properly served).
+
+Nevertheless, the Court of Appeal found that Orleans Parish was not the proper venue for the suit, since the accident happened in Jefferson Parish and the individual defendant was domiciled in St. Bernard Parish. The Court of Appeal pointed out that C.C.P. art. 42 provided that an action against a domiciliary of this State should be brought in the parish of his domicile, and that against a foreign insurer should be brought in the Parish of East Baton Rouge. C.C.P. art. 74 provides that a damage suit may be brought where the wrongful conduct occurs, or in the parish where the damages were sustained. Therefore, concluded the Court of Appeal, the only proper venue for this action was in the Parish of Jefferson, where the accident occurred, the Parish of St. Bernard, where the individual defendant lived, or the Parish of East Baton Rouge, where it could have been brought against the insurer.
+
+Plaintiffs argue that defendant have waived any objections to venue by failing to plead them by declinatory exception, and that the courts below erred in supplying the exception for the defendants.
+
+Plaintiffs rely on the last paragraph of C.C.P. art. 44:
+
+We cannot conclude that the declinatory exceptions filed by the defendants in this case exhibited an intention to waive their exceptions to the venue. Although the word "venue" is not used, either in the exception proper, or in the "memorandum" attached to it, the whole pleading does state the relief which the defendants seek, and alleges the facts upon which they seek the relief with particularity. C.C.P. art. 924. Unless the law specifically required such a holding, it is not reasonable to conclude that the defendants waived their objections to the venue when they prayed for dismissal of the action, alleging that the accident happened in Jefferson Parish, that one defendant is a resident of St. Bernard Parish and the other defendant is a foreign insurance corporation authorized to do business in the State of Louisiana.   "Venue" is not a magic word which the exception is required to use. We are not required to overlook the intention of the defendants, as exhibited by the pleadings filed.
+
+Plaintiffs further argue that C.C.P. art. 77 provides an additional place where the defendant insurance company may be sued. That article provides:
+
+Plaintiffs argue that "person" in article 77 means corporation under the definitions in C.C.P. art. 5251, and that the defendant insurance company is a corporation. The defendants, on the other hand, contend that the word "corporation" defined in C.C.P. art. 5251 excludes insurance corporations in the chapter on venue. C.C.P. art. 5251(5) provides:
+
+This provision says that "corporation" does mean insurance corporation, "unless another article in the same Chapter where the word is used indicates otherwise."
+
+The plain meaning of this "unless" clause is: if an article in a chapter in the Code of Civil Procedure uses the word "corporation," it is to include insurance corporations unless another article in that chapter indicates that "corporation" does not include insurance corporations.
+
+There is no such article in Title I, Book I, Chapter 2. In the general rules of venue in C.C.P. art. 42, the word "person" is not used. When the intention is to state a general rule of venue applicable to human beings, the word "individual" is used, for the stated reason that "person" is given a broad meaning in C.C.P. art. 5251, and includes corporations. See Comment (g), C.C.P. art. 42. In addition, when C.C.P. art. 42 uses "domestic corporation" in subsection (2), it also specifies that its provisions shall apply to a "domestic insurer." In C.C.P. art. 42, subsection (5), there is a clear indication that the words "foreign corporation" would normally include foreign insurers. In that subsection, the venue for a suit against a foreign corporation not licensed to do business in Louisiana, "other than a foreign or alien insurer," is the parish where service may be had upon the defendant. Article 42, subsection (6), further indicates that the words "foreign corporation" mean an insurance corporation; in that section there is a venue provision for suits against a nonresident, "other than a foreign corporation or a foreign or alien insurer. . . ."
+
+It becomes clear that the redactors did not follow the technical drafting device available to them in C.C.P. art. 5251 by which they could have confined the definition of "corporation" to corporations other than insurance corporations. There is no other article in the venue chapter which indicates that the word "corporation" is not to include insurance corporations.
+
+It is also apparent that, in an effort towards clarity, the redactors of C.C.P. art. 42 avoided the word "person," specified that "corporation" included insurance corporations (when they intended that result), and specified that "corporation" excluded insurance corporations when they intended that result.
+
+It does not appear that the venue rule for suits against foreign insurers in C.C.P. art. 42(7) was intended to be exclusive. For example, it cannot now be reasonably argued that C.C.P. art. 73 does not apply to foreign insurers, and, when a foreign insurer is joined as a solidary obligor, he may be sued in the domicile of the solidary   obligor. Tate, Symposium on the Work of the Louisiana Appellate Courts for the 1967-1968 Term, 29 La.L.Rev. 171, 274-276 (1969). Nor could it be successfully contended that C.C.P. art. 74 does not apply; a suit against an insurer will lie in the parish where the tort occurred. Taylor v. State Farm Mut. Auto. Ins. Co., 158 So. 2d 413 (La.App.1963); Broussard v. Liberty Mut. Ins. Co., 210 So. 2d 411 (La.App.1968); DuBell v. Union Central Life Ins. Co., 211 La. 167, 29 So. 2d 709 (1947); cf. Walker v. Associated Press, 162 So. 2d 437 (La.App. 1964). It is true that the venue provisions in C.C.P. arts. 73 and 74 (as to insurers) are duplicated in the direct action statute (R.S. 22:655). Nevertheless, the same result would be reached under the provisions of the Code of Civil Procedure alone.
+
+Article 45 of the Code of Civil Procedure states that the provisions of C.C.P. art. 42 are not exclusive. The rule is there stated that, in the event of a conflict of C.C.P. art. 42 and C.C.P. arts. 71-77, "the plaintiff may bring the action in any venue provided by any applicable article."
+
+Prior to Act 471 of 1962, R.S. 22:655 (the Louisiana direct action statute) provided for venue at the "principal place of business" of either the insured or the insurer. That portion of the statute was removed by the 1962 amendment which substituted the rule that an action could be brought against either the insured or the insurer "under the general rules of venue prescribed by Art. 42, Code of Civil Procedure." Since article 42 contains the general rule of venue, it is to be understood that the 1962 amendment also incorporated the exceptions to the general rules of venue which follow Article 43 of the Code of Civil Procedure, which states:
+
+Nevertheless, even if we were to conclude that the word "corporation," when used in the venue chapter of the Code of Civil Procedure, does include insurance corporations, the record before us does not permit the relief for which plaintiffs pray.
+
+C.C.P. art. 77 provides for venue where a person has a business office or establishment, when the suit is "on a matter over which this office or establishment had supervision." (There is no showing that this defendant insurance company designated Orleans Parish as its "principal business establishment" in its application to do business; therefore, even if C.C.P. art. 42(4) were applicable to insurance corporations, the record does not bring the defendant within its terms).
+
+On the trial of the declinatory exceptions, two witnesses testified. One was the defendant Benanti. The other identified himself as a "claims supervisor and staff adjuster" for the defendant insurance company. He testified that he had worked for the Security Insurance Group, including the Security Insurance Company, for six years. The only question asked this witness about the work of the defendant's office in New Orleans was: "Does Security write a great deal of insurance in New Orleans?" The answer was: "I'd say a rough guess around $800,000.00." There was no question about whether this office had supervision of the matter which was the subject of the suit before us. The record is silent on the essential element which would make C.C.P. art. 77 applicable. We could not therefore, on the record before us, find that Article 77 of the Code of Civil Procedure established Orleans Parish as one of the places of proper venue for this action.
+
+The plaintiffs have requested that, instead of dismissing the suit as was done by the trial court, we should transfer this action to a court of proper venue in the interest of justice, pursuant to the provisions of C.C.P. art. 121. Defendants argue that such a transfer would serve no useful purpose, since prescription has run on the claim.
+
+*329 No exception of prescription has been filed, and no court has ruled on the matter. To avoid the possibility of a miscarriage of justice, this case is remanded to the district court for the Parish of Orleans, with instructions to transfer it to a court of proper venue.
+
+The judgment of the Court of Appeal is to this extent amended, and, as amended, affirmed, at plaintiffs' cost.
+
+BARHAM, J., concurs in decree only.
+
+TATE, J., concurs in the result.

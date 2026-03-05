@@ -1,0 +1,61 @@
+63311
+State v. Heads
+https://law.justia.com/cases/louisiana/supreme-court/1980/385-so-2d-230-1.html
+
+63311
+State v. Heads
+Court: Louisiana Supreme Court
+Release date: 1980-06-23
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/385-so-2d-230-1.html
+
+385 So. 2d 230 (1980)
+
+STATE of Louisiana
+v.
+Charles Gene HEADS.
+
+No. 63311.
+
+Supreme Court of Louisiana.
+
+June 23, 1980.
+
+*231 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Paul Carmouche, Dist. Atty., Abbott J. Reeves, B. Woodrow Nesbitt, Jr., Asst. Dist. Attys., for plaintiff-appellee.
+
+Wellborn Jack, Jr., Jack & Jack, Shreveport, for defendant-appellant.
+
+MARCUS, Justice.
+
+Charles Gene Heads was indicted by the grand jury for the first degree murder of Roy Kenneth Lejay, Sr. in violation of La. R.S. 14:30. After trial by jury, defendant was found guilty as charged. A sentencing hearing was conducted before the same jury that determined the issue of guilt. The jury unanimously recommended that a sentence of life imprisonment without benefit of probation, parole or suspension of sentence be imposed on defendant. The trial judge sentenced defendant in accordance with the recommendation of the jury. The conviction and sentence were affirmed by this court on appeal. State v. Heads,
+370 So. 2d 564
+(La.1979).
+
+The United States Supreme Court granted a writ of certiorari on January 7, 1980, 444 U.S. 1008, 100 S. Ct. 654, 62 L. Ed. 2d 637 (1980), vacating the judgment and remanding the case to this court for further consideration in light of Sandstrom v. Montana,
+442 U.S. 510
+, 99 S. Ct. 2450, 61 L. Ed. 2d 39 (1979). In Sandstrom, the Court reversed a conviction of "deliberate homicide" where the trial judge's instruction to the jury, virtually identical to that given in Heads' trial,[1] read: "The law presumes that a person intends the ordinary consequences of his voluntary acts." In Sandstrom, as in the instant case, the instruction was given over defendant's objection that such instruction had the effect of shifting the burden of proof of purpose or knowledge of the offense to the defense. The Supreme Court found that this instruction violated Sandstrom's right to due process of law under the fourteenth amendment requirement that the state prove every element of a criminal offense beyond a reasonable doubt.
+
+Because Sandstrom's jury may have interpreted the judge's instruction as either shifting the burden of proving intent to defendant or creating a conclusive presumption of intent against defendant, the Supreme Court concluded that under either of the possible interpretations of the instruction, constitutional error would result. The state argued that, even if the jury did rely upon the unconstitutional instruction, it was harmless error under Chapman v. California,
+386 U.S. 18
+, 87 S. Ct. 824, 17 L. Ed. 2d 705 (1967). Defendant replied that an unconstitutional jury instruction on an element of the crime could never be harmless error. The Supreme Court held that, since this issue had not been considered by the Supreme Court of Montana, it would decline to do so as an initial matter and accordingly remanded the case to the Montana Supreme Court for further proceedings.
+
+In view of our mandate from the Supreme Court to further consider this case in light of Sandstrom, we must determine whether the jury instruction complained of in the instant case was harmless error.
+
+Before a federal constitutional error can be held harmless, the court must be able to declare a belief that it was harmless beyond a reasonable doubt. Chapman v. California, supra.
+
+Defendant was charged with the crime of first degree murder in violation of La.R.S. 14:30 which provided at that time: "First degree murder is the killing of a human being when the offender has the specific intent to kill or to inflict great bodily harm." The facts developed at the trial of this matter are generally as follows:
+
+Defendant, a resident of Houston, Texas, traveled to Shreveport in search of his wife and three children who had left the family home in Houston. After unsuccessfully deriving his wife's location from his wife's mother, defendant called the Shreveport home of his wife's sister. The sister's denial   of knowledge of his wife's whereabouts arose his suspicion and defendant drove to her home though it was nearing midnight. No answers were made to his repeated knocks on the doors and windows. Defendant then kicked in a door leading from the carport, entered and found his sister-in-law's husband at the end of the bedroom hall, armed with a pistol.
+
+Though the evidence is not clear as to the precise moment when the shooting began, both the victim's wife and defendant's wife testified that defendant began firing his pistol shortly after breaking into the house. The sister-in-law's husband pleaded with defendant to stop shooting and leave their home. The sister-in-law's husband informed defendant that he, too, was armed and did not want to be forced to shoot him. Defendant continued firing his pistol down the bedroom hallway until he had emptied the pistol of bullets. Defendant then ran to his car, retrieved a rifle from the trunk, and returned, firing several blasts, one of which struck the sister-in-law's husband in the eye, killing him.
+
+The state attempted to prove that defendant specifically intended to kill the victim. Defendant, while contending he was not guilty by reason of insanity, attempted to demonstrate that the killing was one done in the heat of passion and he should not be found guilty of a charge greater than manslaughter.
+
+As in Sandstrom, the jury could have interpreted the instruction as either shifting the burden of proving intent to defendant or creating a conclusive presumption of intent against defendant. Since intent, an essential element of the crime charged, was the main issue in the case and was also the subject of the erroneous instruction, we are unable to say that the error was harmless beyond a reasonable doubt. Hence, we must remand the case to the district court for a new trial consistent with the views expressed by the United States Supreme Court in Sandstrom v. Montana, supra.
+
+For the reasons assigned, the case is remanded to the district court for further proceedings consistent with the views herein expressed.
+
+WATSON, J., dissents.
+
+[1]  In the instant case, the trial judge instructed the jury that: "A man is presumed to intend the natural and probable consequences of his acts."

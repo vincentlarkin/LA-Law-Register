@@ -1,0 +1,66 @@
+59241
+State v. Brawley
+https://law.justia.com/cases/louisiana/supreme-court/1977/347-so-2d-238-1.html
+
+59241
+State v. Brawley
+Court: Louisiana Supreme Court
+Release date: 1977-06-20
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/347-so-2d-238-1.html
+
+347 So. 2d 238 (1977)
+
+STATE of Louisiana
+v.
+Shelly Herman BRAWLEY.
+
+No. 59241.
+
+Supreme Court of Louisiana.
+
+June 20, 1977.
+
+Bryan E. Bush, Jr., Baton Rouge, for defendant-respondent.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie Brown, Dist. Atty., Warren J. Hebert, Marilyn C.
+
+*239 Castle, Asst. Dist. Attys., for plaintiff-relator.
+
+PER CURIAM.
+
+This case presents questions of whether a search warrant affidavit sufficiently sets forth facts and circumstances from which a magistrate could conclude that probable cause existed for the issuance of a warrant.
+
+An East Baton Rouge Parish sheriff's deputy and a Louisiana Department of Justice investigator applied to a district judge for a warrant to search for stolen merchandise in the home of the defendant, Shelly Brawley. In support of their application, the officers submitted an affidavit which, in relevant part, recited that:
+
+*240 In executing the warrant, the officers entered the premises and seized two weapons, a .22 caliber pistol and a 16-gauge sawed-off shotgun. After being charged with possession of an unregistered sawedoff shotgun in violation of La.R.S. 40:1783-85, 1791, defendant successfully moved the district court to suppress the evidence.
+
+Although the sawed-off shotgun was not an item named in the search warrant, no contention has been made that the search was invalid for this reason. Instead, the defendant argued, and the district court without assigning reasons apparently agreed, that the affidavit did not provide a sufficient basis for a finding of probable cause.
+
+If hearsay information is an essential element in establishing the sufficiency of the affidavit, the magistrate must be informed of underlying circumstances which show that the informant was in a position to observe the facts reported, and underlying circumstances which show that the informant was credible or his information reliable. Aguilar v. Texas,
+378 U.S. 108
+, 84 S. Ct. 1509, 12 L. Ed. 2d 723 (1964); State v. Paciera,
+290 So. 2d 681
+(La. 1974); State v. Linkletter,
+286 So. 2d 321
+(La. 1973); State v. Wells, 253 La. 925,
+221 So. 2d 50
+(1969).
+
+In the instant case the affidavit reflected both personal observations of the officers and hearsay information provided by Donald Ray Caine, an informant. Caine had confessed to the officers that he committed three burglaries in neighboring parishes and definitely named Calvin Wilson, Grandville Tennart and Willard Clark as his accomplices in one of these crimes. Tennart, according to Caine, remarked that he had dropped a .22 caliber pistol while scaling a fence during the burglary. A deputy from the parish involved recovered the pistol, and its serial number matched that of a revolver stolen from a store in Donaldsonville. Caine accused Wilson of having participated in the Donaldsonville offense and of having committed another burglary in East Baton Rouge Parish. Acting on Caine's information, the officers recovered tires which had been taken in two burglaries, one to which Caine had confessed and another that Caine accused Wilson of committing. Caine's information also led the officers to property that had been taken in the East Baton Rouge Parish burglary which he attributed to Wilson.
+
+In the crucial portion of the affidavit Caine said he saw Wilson sell a pistol and an IBM electric typewriter to the defendant, Brawley, on separate occasions at Brawley's home and business place. Caine further related that Wilson claimed he sold Brawley some tools, which were concealed at either Brawley's house or business establishment, and that all the items he sold Brawley had been stolen. The officers were informed by the Donaldsonville police that an IBM electric typewriter and some tools were among the property taken in the burglary of the store there.
+
+The disclosure of an informant's identity does not assure the truthfulness of his information, but it aids in evaluating his credibility. The fact that Caine correctly directed the officers to merchandise which had been stolen in three different burglaries tended to vouch for his credibility. So did his accurate information about the pistol dropped by Tennart. Caine's observations of the sales of the typewriter and pistol from Wilson to Brawley were sufficient underlying circumstances from which the magistrate could find it likely that the transactions occurred and that the items were in Brawley's house or place of business.
+
+Defendant argues, however, that the affidavit did not provide a sufficient basis for a finding that the pistol and typewriter had been stolen. He contends that because the affidavit contained no underlying circumstances from which the magistrate could conclude that Wilson was credible or his information reliable, Wilson's statement that the property sold to Brawley was stolen cannot be believed. We agree that there was no basis for concluding that Wilson was a credible person. However, we find that the affidavit contains sufficient   underlying circumstances to support a finding that Wilson's statement was reliable.
+
+According to information worthy of belief in the affidavit Wilson had recently participated in at least one burglary. Also, Caine stated Wilson committed other burglaries and successfully guided authorities to property stolen in these crimes. One of the items which Caine observed Wilson sell to Brawley, the IBM electric typewriter, was similar to an item taken in a burglary reportedly committed by Wilson. A common sense reading of the affidavit leads one to the conclusion that Caine and Wilson were partners in at least one, and probably other, burglaries and, through either confidences or personal observation, each was probably familiar with the other's activities. Under all of these circumstances we conclude that Wilson's statement to Caine that the goods sold Brawley were stolen, was probably reliable.
+
+Alternatively, defendant asserts in this Court for the first time that the probable cause set forth in the affidavit had become stale before issuance of the search warrant. The sales to Brawley occurred in late February or early March of 1976, and the warrant was issued on April 12, 1976. Certainly, a warrant should not be issued if the support for it has become so attenuated with the passage of time as to be non-existent. Sgro v. United States,
+287 U.S. 206
+, 53 S. Ct. 138, 77 L. Ed. 260 (1932); State v. Boudreaux,
+304 So. 2d 343
+(La. 1974); See, Mascolo, The Staleness of Probable Cause in Affidavits for Search Warrants: Resolving the Issue of Timeliness, 43 Conn.B.J. 189 (1969). Nevertheless, the present affidavit did not indicate a likelihood that the defendant would have disposed of the items sold to him before the warrant was applied for and issued. The items were of a kind defendant might be inclined to keep indefinitely for personal use. We find the information in the affidavit sufficiently current to justify the conclusion that the stolen goods probably remained in defendant's possession despite the passage of time.
+
+In view of the foregoing, we reverse and set aside the ruling of the district judge granting defendant's motion to suppress, and remand the case for further proceedings consistent with the views herein expressed.

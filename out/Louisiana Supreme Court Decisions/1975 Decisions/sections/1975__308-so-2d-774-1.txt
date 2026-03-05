@@ -1,0 +1,63 @@
+55319
+State v. Wells
+https://law.justia.com/cases/louisiana/supreme-court/1975/308-so-2d-774-1.html
+
+55319
+State v. Wells
+Court: Louisiana Supreme Court
+Release date: 1975-02-24
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/308-so-2d-774-1.html
+
+308 So. 2d 774 (1975)
+
+STATE of Louisiana, Through the DEPARTMENT OF HIGHWAYS, Plaintiff-Appellant-Respondent,
+v.
+Chester D. WELLS, Defendant-Appellee-Relator.
+
+No. 55319.
+
+Supreme Court of Louisiana.
+
+February 24, 1975.
+
+Charles S. Weems, III, Gold, Hall, Hammill & Little, Alexandria, for defendant-applicant.
+
+D. Ross Banister, William W. Irwin, Jr., Jerry F. Davis, Alva J. Jones, Johnie E. Branch, Jr., Baton Rouge, for plaintiff-respondent.
+
+TATE, Justice.
+
+The issue is whether the court of appeal erred in disallowing severance damages which had been awarded by the trial court. 298 So. 2d 301 (La.App. 3d Cir. 1974), certiorari granted 302 So. 2d 21 (La.1974).
+
+By a quick-taking, La.R.S. 48:441 et seq., the state highway department expropriated   the front 154 feet of the defendant Wells' tract. Prior to the taking, the tract fronted 300 feet on a two-lane highway, with a depth of about 280 feet. After the taking, the remainder was a low marshy strip 11⁄2 to 21⁄2 feet below an access road, with greatly restricted access via the service road to the now-widened highway.
+
+The court of appeal affirmed the trial court award of $67,500 for the 154-foot front depth actually taken. (This amount was based upon a valuation of $225 per front foot, or about $1.40 per square foot of the commercially valuable former frontage.) However, it disallowed the severance damages to the remainder of $11,250 awarded by the trial court.
+
+This latter trial court award was based on the remainder's value of 70¢ per square foot before the taking, with a value after the taking of only 35¢ The trial court attributed this 50% loss in value for this low marshy irregularly shaped remainder to: its topographical deficiencies (after the front sixty feet of the remainder, it degenerated into marsh); its average depth (120 feet) being below the desirable depth for highway commercial purposes; and the restricted access to it resulting from the increased grade of the access road which it bordered, as well as the difficulty of reaching it from the highway. (It lay 150 feet south of a highway turn-in to the service road, and there were no turn-ins south of it connecting the service road to the highway.)
+
+The intermediate court did not disturb these findings of fact by the trial court, nor the trial court's determination that the remainder had not received any special benefits from the taking. (We also affirm such factual determinations.)
+
+Nevertheless, our intermediate brethren disallowed severance damages on the basis of some isolated responses of the defendant landowner's appraiser under cross-examination.
+
+Asked if it would be possible to fill in this remainder and to bring it up to road level, this appraiser noted that the marshy soft mud from the rear portion could be removed with draglines and then the entire tract filled up to road level with river sand and, in response to a request for a cost estimate, replied that, although "I didn't go into it real deeply ... I estimate it would take somewhere in the neighborhood of a dollar or so a square foot to bring it up to grade." Testifying at the trial (almost four years after the taking), the appraiser also under cross-examination estimated in response to a question that, if this remainder were so reconstructed, it might "possibly" have a value of $1.50 to $2.00 per square foot "because we've had a natural increase and everything has gone up due to inflation and the demand on the land".
+
+The court of appeal held the severance damages of 35¢ per square foot allowed by the trial court had been negated by these estimates. The court reasoned that, by expending $1.00 per square foot, the landowner could cure the deficiencies in the remainder and sell it for $1.50 to $2.00 per square foot.
+
+In reversing the trial court and in so holding, the court of appeal erred:
+
+(1) We are cited to no authority which would deprive a landowner of undoubtedly proven severance damages by requiring him to make expenditures of three times the value of the remainder in order to "cure" the deficiencies in the tract; nor is there any evidence that a willing buyer would pay the full pre-taking value, in order himself to make this highly speculative effort to salvage some commercial usefulness out of the tract. Further, under the expert testimony accepted by the trial court, even aside from the topographical deficiencies of the land, its shallow remaining depth and its restricted access greatly diminished its marketability. (We pretermit whether the informal and unconsidered   estimate of the cost-to-cure made by an appraiser, under the circumstances shown, is competent proof of reconstruction costs.)
+
+(2) Perhaps more important, the court of appeal assumed that no severance damages could be awarded because the sales price of the portion taken (if it were restored to highway level) had appreciated at the trial, four years after the taking. The evidence shows that no portion of this increase was due to any special benefit resulting from the taking, and that all of it was due to inflation and the general increase in value of all property during the four years after the taking. Succinctly, the landowner's severance damages caused by the taking should not be diminished by a general appreciation of all property in the vicinity.
+
+Severance damages are ordinarily calculated as the difference between the market value of the remaining property immediately before and immediately after the taking. State, Department of Highways v. Hoyt, La.,
+284 So. 2d 763
+(1973); State, Department of Highways v. Central Realty Investment Co., 238 La. 965,
+117 So. 2d 261
+(1960). Although La.R.S. 48:453 provides that, in quick-taking expropriations, severance damages should be determined as of the date of the trial, this provision (in the light of the initial statutory scheme that such damages be determined after construction of the improvement is accepted, La.R.S. 48:451(1), see 26 La.L.Rev. 102-03 (1965)) "* * * was statutorily intended to specify that the damages the remainder suffers should be reduced by special benefits which result to it from the completion of the highway construction, not to deprive the landowner of compensation for damages sustained by his tract because of any general increase in the value of land between the taking and the trial." State, Department of Highways v. William T. Burton Indus., Inc., 219 So. 2d 837, 842 (La.App. 3d Cir. 1969), certiorari denied 254 La. 14, 222 So. 2d 67 (1969)
+
+("* * * no error of law * * *."). See also, Legal Criteria of Damages and Benefits  The Measurement of Taking-Caused Damages to Untaken Property, 31 La.L.Rev. 431, 440-42 (1971).
+
+For the reasons assigned, therefore, we reinstate the trial court's award of severance damages and amend the court of appeal decree insofar as it disallowed them.
+
+Court of Appeal decree amended, and trial court judgment reinstated.

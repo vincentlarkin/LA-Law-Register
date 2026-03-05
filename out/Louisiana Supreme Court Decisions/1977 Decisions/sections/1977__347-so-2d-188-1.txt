@@ -1,0 +1,85 @@
+59075
+Savoie v. Fireman's Fund Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1977/347-so-2d-188-1.html
+
+59075
+Savoie v. Fireman's Fund Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1977-06-20
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/347-so-2d-188-1.html
+
+347 So. 2d 188 (1977)
+
+John C. SAVOIE et al.
+v.
+FIREMAN'S FUND INSURANCE COMPANY.
+
+No. 59075.
+
+Supreme Court of Louisiana.
+
+June 20, 1977.
+
+*189 Reid K. Hebert, Plauche, Smith, Hebert & Nieset, Lake Charles, for defendant-respondent.
+
+J. B. Jones, Jr., Jones, Jones & Alexander, Cameron, for plaintiff-applicant.
+
+MARCUS, Justice.
+
+This case involves an action by plaintiffs, John C. and Mymae Savoie, for the wrongful death of their minor daughter who was fatally injured in a farm accident when she fell off of and under a tractor and bush hog owned and operated by Edward LeBoeuf. At the time of the accident, LeBoeuf was assisting in the cutting of hay on a thirtyacre tract of land owned by plaintiffs. Plaintiffs instituted suit against Fireman's Fund Insurance Company alone, alleging that the death of their daughter was caused solely by the negligence of Edward LeBoeuf. They further alleged that Edward LeBoeuf was an employee covered as an insured under the terms and conditions of a Farmer's Comprehensive Personal Insurance policy issued in favor of John C. Savoie by Fireman's Fund. In answer to plaintiffs' petition, defendant denied coverage of Edward LeBoeuf under the Savoie policy. Defendant further answered that the accident occurred through no fault or negligence of LeBoeuf and alternatively that the deceased as well as the plaintiffs in this suit assumed the risk and were contributorily negligent.
+
+The trial judge rendered judgment in favor of defendant and against plaintiffs finding that Edward LeBoeuf was not an employee within the meaning of the insurance contract and therefore was not covered under the personal liability insurance policy issued by defendant. The court of appeal affirmed the judgment of the district   court.[1] Upon plaintiffs' application, we granted certiorari to consider the correctness of this decision.[2]
+
+The primary issues presented for our consideration are (1) whether Edward LeBoeuf was an employee of John Savoie and thus covered under the comprehensive personal liability policy issued by defendant and (2) if so, whether LeBoeuf was legally responsible for the death of Johnette Savoie.
+
+The pertinent coverage provision in the policy issued by Fireman's Fund in favor of John Savoie provides as follows:
+
+Plaintiffs contend that, since Edward LeBoeuf was rendering a service to John Savoie at the time of the accident, he should be classified and covered as an "employee" within the meaning of the insurance contract. In support of this argument, plaintiffs direct our attention to Part VIII of the policy entitled Additional Definitions wherein the term "farm employee" is defined as "an employee of an insured whose duties are principally in connection with the farming operations of the insured.. . ." (Emphasis added.) In our view, the definition of "farm employee" casts little light on whether Edward LeBoeuf was an "employee" as that term is used in the coverage provision set forth hereinabove. "Farm employee" is defined only as a particular type of employee. Manifestly, an individual must in fact be an "employee" before being singled out as a "farm employee." The policy does not, however, provide a definition of the general term "employee."
+
+Plaintiffs next argue that Edward LeBoeuf's status as a "farm employee" can be inferred from other language in the policy found in the following exclusion to Part II Coverage M Medical Payments:
+
+Plaintiffs suggest that, had the drafters of the policy not considered a person in the position of Edward LeBoeuf to be a "farm employee," there would have been no need to specify that the exclusion of farm employees from medical payments coverage in part (4) "does not apply to any other person while on the premises in a neighborly exchange of assistance for which the insured is not obligated to pay money." We agree that the policy reference to a neighborly exchange of assistance indicates an awareness by the drafters of the policy that farmers frequently assist one another without expectation of compensation. However, we cannot agree that this language indicates that anyone who volunteers any assistance to an insured in connection with the use or operation of a farm automatically becomes an "employee" insured for liability under the coverage provisions of the policy. In our view, the stronger argument would be that by exempting persons engaged in a "neighborly exchange of assistance" from the exclusion applying to "farm employees," the drafters of the policy recognized a distinction between the two classes of persons and wished to clarify that neighborly assistants to whom the insured is not obligated to pay any money are eligible for medical payment benefits because they are not to be considered as "farm employees."   We do not, however, rest our decision with respect to coverage solely on the language found in the Medical Payments portion of the Savoie policy.
+
+It is well settled that an insurance policy is a contract. It becomes the law between the parties and the rules established for the construction of written instruments apply. Theye Y Ajuria v. Pan American Life Ins. Co., 245 La. 755,
+161 So. 2d 70
+, cert, denied, 377 U.S. 997, 84 S. Ct. 1922, 12 L. Ed. 2d 1046 (1964); Albritton v. Fireman's Fund Ins. Co., 224 La. 522,
+70 So. 2d 111
+(1954). In interpreting insurance policies, the courts of this state have frequently relied on the directive of La.Civil Code art. 1946 which provides that the words of a contract are to be understood, like those of a law, in the common and usual signification, without attending so much to grammatical rules, as to general and popular use. Taylor v. State Farm Mutual Auto. Ins. Co., 248 La. 246,
+178 So. 2d 238
+(1965); Muse v. Metropolitan Life Ins. Co., 193 La. 605, 192 So. 72 (1939); Schwegmann Bros. Giant Super Markets v. Underwriters at Lloyd's, London, 300 So. 2d 865 (La.App. 4th Cir. 1974), writ ref., La., 303 So. 2d 172; Prestenback v. Prudential Ins. Co. of America, 257 So. 2d 698 (La.App. 4th Cir. 1972). Accordingly, the word "employee" in the coverage provision of the instant insurance policy must be given its ordinary and usual meaning.
+
+There can be little doubt that the word "employee" is one used in common parlance and readily understood by men of ordinary intelligence. An employee is defined in Black's Law Dictionary as "[o]ne who works for an employer; a person working for salary or wages. . . ." Plaintiffs rely on the following discussion of the word found at 30 C.J.S. Employee p. 672 (1965):
+
+While this definition is quite broad, it nevertheless reiterates the notion that an employee is one who is a party to an employer-employee relationship. As noted at 12 Couch on Insurance § 45:605, to be an "employee":
+
+We are satisfied that absent an indication of a different meaning in an insurance contract, the word "employee," understood in its common and usual sense, signifies one who is a party to an employment contract, express or implied.
+
+In determining whether an employment relationship exists in other contexts, the jurisprudence of this state has uniformly held that the most important element to be considered is the right of control and supervision over an individual. Hickman v. Southern Pacific Transport Co., 262 La. 102,
+262 So. 2d 385
+(1972); Blanchard v. Ogima, 253 La. 34,
+215 So. 2d 902
+(1968). Factors to be considered in assessing the right of control are the selection and engagement of the worker, the payment of wages and the power of control and dismissal. Dauzat v. Crites, 237 So. 2d 697 (La.App. 4th Cir. 1970); Wambles v. State, 283 So. 2d 331 (La.App. 4th Cir. 1973); Trahan v. State, 158 So. 2d 417 (La.App. 3d Cir. 1963). Moreover, La.Civil Code art. 2669 provides that:
+
+Inasmuch as there is nothing to indicate any special meaning to the word "employee" in the insurance contract, we consider it appropriate to review the evidence adduced at trial in light of the above factors and in view of La.Civil Code art. 2669 in order to determine whether LeBoeuf was an employee of Savoie in the usual and popular sense of the word.
+
+The facts relative to Edward LeBoeuf's alleged status as an employee are virtually undisputed. The record reflects   that John Savoie and Edward LeBoeuf were neighbors, good friends and first cousins. Savoie was employed as a marsh buggy operator and LeBoeuf as an offshore crew boat worker. Both men, however, owned relatively small tracts of land which they used in sideline farming operations. The two had been raised together and for approximately thirty years they had always helped each other out whenever the need arose. On some occasions, John Savoie would help his cousin plant potatoes and work cattle. On others, Edward LeBoeuf would help John Savoie perform similar farm chores on the Savoie property. Both men acknowledged that they had assisted one another over the years because they were friends and kinsmen and that neither had ever expected anything in return. There was never any agreement as to hours or wages. Nor was there any understanding reached as to the worth of the services rendered with a view toward a future accounting.[3] Neither man recognized any right of control over the other beyond that control which every property owner has over persons who come onto his land. Apparently each was free to help the other when and how he chose to.
+
+On the evening before the accident, John Savoie mentioned to his cousin that he would be cutting hay the next day and asked his cousin if he would help. About 10:30 a. m. on October 4, 1975, Edward LeBoeuf arrived at the Savoie property driving his own tractor and bush hog and began cutting hay without any directions or instructions from his cousin who was cutting hay in another section of the field. The two worked independently all morning and, after lunch at the Savoie home, they returned to the field to finish the job. The fatal injuries to the Savoie's nearly fourteen-year-old daughter, Johnette Savoie, occurred early that afternoon when she fell off of Edward LeBoeuf's tractor where she had been riding as a passenger on the tractor's running board.
+
+After a careful review of the facts and circumstances presented in this case, we do not believe that the relationship which existed between John Savoie and his cousin Edward LeBoeuf could in any reasonable sense be deemed an employer-employee relationship. None of the factors usually considered in the determination of such a relationship existed in the instant case. Savoie did not "select" and "engage" LeBoeuf from potential "employees." Nor did he pay his cousin wages for his assistance. Although LeBoeuf later received some of the hay cut on the date of the accident, the record clearly demonstrates that the hay was given not as remuneration for services rendered but because John Savoie had more hay than he needed and preferred to give the excess to his cousin rather than have it rot in his barn. Finally, the record does not indicate that Savoie considered himself to have any right to "control" or "dismiss" his cousin. Nor can the record be said to support the existence of a contract of hire, either express or implied. It was never contemplated that LeBoeuf would be given anything by way of compensation. Hence, the essential element of price was not present. Moreover, we are satisfied that the relationship of the parties exhibited no contractual intent.
+
+Having determined that Edward LeBoeuf was not an "employee" of John Savoie in the usual and popular sense of the word, we accordingly find that he is not an "employee" within the meaning of the insurance contract and thus is not covered as an insured under the personal liability policy issued by Fireman's Fund Insurance Company.[4] In view of our disposition of this issue,   we do not reach the question of Edward LeBoeuf's liability vel non for the death of Johnette Savoie.
+
+For the reasons assigned, the judgment of the court of appeal is affirmed.
+
+DIXON, J., dissents.
+
+[1]  339 So. 2d 914 (La.App. 3d Cir. 1977).
+
+[2]  341 So. 2d 902 (La.1977).
+
+[3]  This fact distinguishes the instant case from that presented for decision in St. Paul Fire & Marine Ins. Co. v. Richard, 208 So. 2d 35 (La. App. 3d Cir. 1968), writ refused, 252 La. 171, 210 So. 2d 54 (1968), wherein the appeal court found a father who regularly exchanged work with his son to be an employee for workmen's compensation purposes because an agreement had been reached that a day's work was worth six dollars and a yearly accounting was to be made. This fact indicated to the court that the father's services were not performed gratuitously.
+
+[4]  Compare Hudson v. Allstate Ins. Co., 169 So. 2d 598 (La.App. 2d Cir. 1964); Kentucky Farm Bureau Mutual Ins. Co. v. Snell, 319 S.W. 462 (Ky.1958); Patty v. State Farm Mutual Automobile Ins. Co., 228 F.2d 363 (6th Cir. 1965).

@@ -1,0 +1,121 @@
+88-C-0706
+Tedesco v. Gentry Development, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1989/88-c-0706-2.html
+
+88-C-0706
+Tedesco v. Gentry Development, Inc.
+Court: Louisiana Supreme Court
+Release date: 1989-03-13
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1989/88-c-0706-2.html
+
+540 So. 2d 960 (1989)
+
+Ignatius TEDESCO, III, et ux.
+v.
+GENTRY DEVELOPMENT, INC., et al.
+
+No. 88-C-0706.
+
+Supreme Court of Louisiana.
+
+March 13, 1989.
+
+Rehearing Denied April 20, 1989.
+
+*961 John M. Madison, Jr., Stephen Mark Tatum, Wiener, Weiss, Madison & Howell, Shreveport, for applicant.
+
+James Johnson, John T. Campbell, Campbell, Campbell & Johnson, Minden, for respondent.
+
+LEMMON, Justice.
+
+This is an action against Gentry Development, Inc. to compel specific performance of a contract to sell immovable property executed by James Winford, Gentry's president, without actual authority from the corporation. The principal issue is whether the doctrine of apparent authority is applicable in a case involving a contract to sell immovable property.
+
+In 1979 Gentry purchased a tract of land containing several acres. Gentry subdivided the tract in 1981 into several lots comprising the Gentry subdivision.[1] Lots 1 and 2, the latter being the property at issue in this litigation, faced U.S. Highway No. 71, and Gentry's directors intended to use these lots as a location for a branch bank.[2]
+
+On April 7, 1983, Winford, under authority given by Gentry's board of directors, signed six-month listing agreements with Montgomery Realty to sell Lots 2, 4, 5, 7, 8 and 9. The listing on Lot 2 provided for a sale price of $50,700.00.[3] When Montgomery placed a "For Sale" sign on the subdivided tract, the sign was located on Lot 2.
+
+Winford renewed the listing agreements for additional six-month periods on November 18, 1983 and June 18, 1984, but was not specifically authorized by the board of directors to extend the listing agreements beyond the original term.
+
+Montgomery eventually obtained a prospective purchaser for Lots 4 and 5. Winford accepted an offer to purchase Lots 4 and 5 on June 18, 1984. The acts of sale for these lots were executed by Winford as Gentry's president on August 30, 1984, pursuant to a written resolution of Gentry's   board of directors, adopted at an August 21 meeting, which authorized Winford to execute the particular sales.
+
+In the meantime plaintiffs had contacted Montgomery Realty on July 23, 1984, and had signed an offer to purchase Lot 2 for $45,000. Winford rejected the offer, but indicated he would accept $50,700.
+
+On August 25, plaintiffs executed a written offer to purchase Lot 2 for $50,700. Winford signed the acceptance on August 30 after making certain modifications which were subsequently approved by plaintiffs.[4]
+
+Gentry informed plaintiffs' agent that Winford had not been authorized to extend the listing agreement or to accept the offer to purchase. Gentry accordingly declined to sell the property. Hence this action for specific performance.
+
+After a trial on the merits the district court rendered a judgment ordering specific performance. The court found that Winford was Gentry's agent and that he acted with apparent authority for Gentry when he accepted plaintiffs' offer on Lot 2 on August 30, 1984. The court further found that plaintiffs were third parties who totally relied on Winford's apparent authority as a result of Gentry's manifestations.[5]
+
+The court of appeal reversed. 521 So. 2d 717. The court concluded that Winford, as president of Gentry, could only be empowered to sell the corporation's immovable property by an express grant of power in writing. Since Winford was not authorized in writing to sell the immovable property belonging to Gentry, he had no authority to bind Gentry to the contract with plaintiffs. The court concluded that the doctrine of apparent authority is inapplicable in the area of real estate sales.[6]
+
+*963 We granted certiorari to address the issue of the applicability of the doctrine of apparent authority in contracts involving the sale of immovable property. 523 So. 2d 1313.
+
+Apparent authority is a doctrine by which an agent is empowered to bind his principal in a transaction with a third person when the principal has made a manifestation to the third person, or to the community of which the third person is a member, that the agent is authorized to engage in the particular transaction, although the principal has not actually delegated this authority to the agent.[7] Restatement (Second) of Agency § 8 (1958); W. Seavey, Law of Agency § 8(D) (1968); F. Mechem, Law of Agency § 84 (4th ed. 1952); Comment, Agency Power in Louisiana, 40 Tul.L.Rev. 110 (1965) [hereinafter cited as Comment, Agency Power]. In an actual authority situation the principal makes the manifestation first to the agent; in an apparent authority situation the principal makes this manifestation to a third person. However, the third person has the same rights in relation to the principal under either actual or apparent authority. Further, apparent authority operates only when it is reasonable for the third person to believe the agent is authorized and the third person actually believes this. Restatement, supra § 8, comments a and c.
+
+There is no express codal or statutory authority for the doctrine of apparent authority in Louisiana. This doctrine of unprivileged agency power, however, is an important part of the modern law of agency.[8] A. Yiannopoulos, Civil Law in the Modern World 88 (1965).
+
+Louisiana courts have utilized the doctrine of apparent authority to protect third persons by treating a principal who has manifested an agent's authority to third persons as if the principal had actually granted the authority to the agent. See Restatement, supra § 8, comment d; Comment, Agency Power, supra; Conant, The Objective Theory of Agency: Apparent Authority and the Estoppel of Apparent Ownership, 47 Neb.L.Rev. 678 (1968).
+
+Perhaps the leading case on apparent authority in Louisiana is Interstate Electric Co. v. Frank Adam Electric Co., 173 La. 103, 136 So. 283 (1931). In that case the plaintiff wholesaler agreed to sell certain items of electrical equipment to a contractor and placed a purchase order for the items with the local agent of the defendant manufacturer. Although the defendant contended that the agent was not authorized to enter into a binding contract, the plaintiff established that the defendant had specifically informed the plaintiff that the agent's predecessor had authority to make binding contracts and had never informed the plaintiff that the successor did not have this same power. The court ruled for the plaintiff, holding that the agent was acting within the apparent authority manifested by his principal and the fact that the apparent authority was different from the actual authority did not relieve the principal of responsibility. See also Johnson v. Manget Bros. Co., 168 La. 317, 122 So. 51 (1929).
+
+In Analab, Inc. v. Bank of the South, 271 So. 2d 73 (La.App. 4th Cir.1972), the defendant bank was held liable to the plaintiff for the cost of analyses of the gold and silver content of ore samples requested by the bank's president. In ordering the services, the president identified himself as president of the bank and labeled the boxes with the bank's name, and plaintiff picked up the samples at the president's bank office, where the bank allowed him to engage in other businesses. The court held that the bank participated with its president   in creating circumstances which led the plaintiff to reasonably believe that the services were being performed for the bank, especially since it was not evident from the nature of the transaction that the services were for the personal business of the president. See Harrison, The Work of the Louisiana Appellate Courts for the 1972-1973 TermsMandate, 34 La.L.Rev. 263 (1974).
+
+The Louisiana decisions have sometimes used language of estoppel, but have not distinguished between the concepts of apparent authority and agency by estoppel. The Restatement, however, makes a clear distinction. According to the Restatement, apparent authority is based on the objective theory of contracts that a party ought to be bound by what he says and manifests rather than by what he intends, so that a third person who contracts with an agent need only prove reliance on the appearance of authority manifested by the principal. Because an enforceable contract results from the agreement with the agent after the principal's conduct has manifested his consent, the third person need not prove any change of position induced by the reliance. On the other hand, agency by estoppel is based on tort principles of preventing loss by an innocent person. The third person not only must show reliance on the conduct of the principal, but also must show such a change of position on his part that it would be unjust to allow the principal to deny the agency. Restatement, supra § 8, comment d.
+
+Professor Mechem prefers the estoppel approach. F. Mechem, supra § 85-89. He argues that it is conceptually difficult to see how a real contract can be made between the principal and a person of whose existence the principal is unaware, in the absence of an actual agency, but it is not difficult to understand why the law treats such a person for many purposes as if he had made a real contract. See also Cook, Agency by Estoppel, 5 Colum.L.Rev. 36 (1905); Ewart, Agency by Estoppel, 5 Colum.L.Rev. 354 (1905); and Cook, Agency by Estoppel: A Reply, 6 Colum.L.Rev. 34 (1906).
+
+Two situations come to mind in which the distinction between apparent authority and agency by estoppel may be important. First, it may not be possible in some apparent authority situations to show a change of position. Restatement, supra § 8B points out that a third person who enters into a contract with an agent in reasonable reliance on the principal's manifestations of the agent's authority should be entitled to enforce the contract without regard to losses or changes in position. If the concepts of apparent authority and agency by estoppel are viewed as identical or coextensive, another element of required proof would be added in apparent authority cases, thus reducing without a conceptually necessary purpose the number of situations in which a third person may hold the principal responsible for the acts of his apparent agent. Comment, Agency Power, supra.
+
+The second situation in which the distinction may be important is presented in the present case. In the sale of immovable property, written authority is required for an agent to execute either an agreement to sell or a contract of sale. La.C.C. art. 2996, 2997, 2440; Bordelon v. Crabtree, 216 La. 345, 43 So. 2d 682 (1949); Rebman v. Reed, 335 So. 2d 37 (La.App. 4th Cir.1976). If a principal authorizes the agent orally to sell property and tells a third person of the agent's authority, the agent's contract with the third person is not enforceable, either on the basis of actual authority or apparent authority, because of the absence of the formal requirement of written authorization. Just as testimonial proof cannot be used to prove the sale of immovable property (or the agreement to sell such property), testimonial proof cannot be used to prove the agent's authority to execute the contract, whether that authority was actual or apparent. Nevertheless, the principal may be estopped from asserting the defense of lack of written authority if the third person can show a change of position in reliance on the representation.[9] Restatement, supra § 8, comment d.
+
+*965 Change of position includes payment of money, expenditure of labor, suffering of loss, or subjection to legal liability in reliance on the belief of agency. Restatement, supra § 8B. There is generally no change of position, however, when a third person merely enters into an executory contract which he believes has been authorized by the principal. If the contract is immediately repudiated by the principal (as occurred in the present case) and is ultimately declared unenforceable, the parties are in the exact position they occupied before the contract was executed. However, a change of position has occurred when money has been paid to the agent or other transactions have been undertaken or abandoned in reliance on the contract. Restatement, supra § 8B.
+
+In the present case, it is not necessary for this court to consider adopting a distinction between the doctrines of apparent authority and agency by estoppel. Even if plaintiffs proved the elements normally necessary for enforcement of a contract on the basis of apparent authority, the absence of Gentry's written authorization for Winford's signing the executory contract renders the contract unenforceable. Furthermore, plaintiffs are not entitled to relief under the doctrine of agency by estoppel (or under the estoppel theory of apparent authority) because they did not change their position in any manner in reliance on Gentry's conduct. They do not claim that they suffered any loss or detriment, expended any money or labor, or incurred any legal liability before Gentry's prompt repudiation of Winford's authority. Plaintiffs simply seek to require performance by Gentry so that they may obtain an apparent "bargain". There is no loss which would justify this court's reliance on equitable principles to make whole.
+
+Accordingly, the judgment of the court of appeal is affirmed.
+
+DIXON, C.J., concurs.
+
+WATSON, J., concurs in the result.
+
+DENNIS, J., concurs with reasons.
+
+[1]  Winford signed, as owner, a subdivision plat which was recorded on November 4, 1981. This plat was corrected on August 30, 1984, to show that Gentry was the owner. Winford signed the ratification of this plat on behalf of Gentry in his capacity as president.
+
+[2]  According to Gentry's directors, the corporation was formed by the directors of the bank for the sole purpose of purchasing the multi-acre tract.
+
+[3]  All of Gentry's directors testified that the inclusion of Lot 2 in the listing was in error, because Lot 2 was to be used for a branch bank.
+
+[4]  Three members of Gentry's board of directors testified they informed Montgomery's president on August 21 (the same day the board adopted the resolution for the sale of Lots 4 and 5) that Gentry was not interested in selling any more lots. Montgomery's president testified the meeting was after August 30, insisting the directors contacted him in an attempt to get out of the contract with plaintiffs.
+
+[5]  The court found the following manifestations by Gentry of Winford's apparent authority:
+
+(1) Winford had prior dealings with Montgomery Realty during which Gentry had completed sales transactions on Lots 4 and 5 without raising the issue of Winford's authority.
+
+(2) Gentry allowed Montgomery to place a "For Sale" sign on Lot 2, and this sign attracted plaintiffs to the property.
+
+(3) Gentry had Lot 2 appraised by Mark Montgomery without written authorization, but later ratified the appraisal by payment of Montgomery's fee at the completion of the appraisal.
+
+(4) Gentry knew that Montgomery Realty was acting in its behalf, but took no action to tell Montgomery that Winford was not authorized to renew the listing agreements on the property.
+
+(5) Gentry ratified Winford's signing of the subdivision plat as owner, rather than as President of Gentry, on the same day that Winford signed the sales agreement with plaintiffs. The Board ratified the execution of the subdivision plat by Winford by executing an affidavit signed by Winford as President of Gentry Development, Inc.
+
+(6) Gentry's attorney acknowledged in a September 21, 1984 letter the fact that the Gentry board had authorized Winford to sign listing contracts, and the attorney stated his understanding that the listing contract was renewed on June 18, 1984, without Board authorization. Notwithstanding these facts, the Board took no action prior to August 30, 1984 to stop Montgomery Real Estate from offering the property for sale.
+
+(7) Winford testified that he believed he had corporate authority, acted for the corporation at all times, and believed he acted in conformity with the Board's wishes when he signed the instruments.
+
+(8) The same day that Winford signed the sales agreement with plaintiffs on August 30, he signed two deeds, as President of Gentry, for the sales of Lots 4 and 5. Harold Holley, Secretary of Gentry, signed a resolution indicated that Winford was authorized to execute these acts of sale.
+
+[6]  The court noted that even if the doctrine of apparent authority was applicable in cases involving real estate, the doctrine would not apply, because Winford's previous actions could not have reasonably been relied upon by plaintiffs as a grant of authority by Gentry to sell another specific tract of land for a specific price. Chief Judge Hall concurred, observing that while he did not necessarily agree that the doctrine of apparent authority could never apply to a corporate transaction involving immovable property, he agreed that the doctrine was not applicable in this case. He observed that the corporation made no manifestations of the president's authority directly to plaintiffs and that plaintiffs were not justified by any manifestations of other corporate officials in believing that Winford had authority to bind the corporation for this contract. Judge Sexton dissented, believing that the trial court's judgment should be affirmed based on this court's decision in Ideal Savings & Homestead Association v. Kerner, 208 La. 513, 23 So. 2d 200 (1945).
+
+[7]  Restatement (Second) of Agency § 8 (1958) contains the following definition:
+
+"Apparent authority is the power to affect the legal relations of another person by transactions with third persons, professedly as agent for the other, arising from and in accordance with the other's manifestations to such third persons."
+
+[8]  The terms "privileged power" and "unprivileged power" were used by Professor Seavey in his class at Harvard University. A. Yiannopoulos, supra note 39.
+
+[9]  The case of Ideal Savings & Homestead Association v. Kerner, 208 La. 513, 23 So. 2d 200 (1945), was an action to cancel an act of sale from the association to the defendant on the basis that the association did not authorize its president to execute the sale. The sale was passed by the association's notary (who was a director) after the association's attorney (who was also a director) examined the title, but the resolution of the board of directors was not attached to the act. At the sale the defendant handed a blank check to the president, requesting that he complete it with the correct amount due. The president made the check payable to himself, and he kept the funds and did not record the sale. The deceit was not discovered for more than a year.
+
+This court held that the defendant was entitled to rely on the president's ostensible and apparent authority because of the homestead's manifestations to the defendant. The issue of the lack of written authority required in sales of immovable property was not raised, but the case clearly presented a situation for applying agency by estoppel based on the defendant's change of position in reliance on the association's representations. The court used language of estoppel in the opinion.

@@ -1,0 +1,135 @@
+64196
+Flowers v. US Fidelity & Guaranty Co.
+https://law.justia.com/cases/louisiana/supreme-court/1980/381-so-2d-378-1.html
+
+64196
+Flowers v. US Fidelity & Guaranty Co.
+Court: Louisiana Supreme Court
+Release date: 1979-09-04
+Author: BLANCHE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/381-so-2d-378-1.html
+
+381 So. 2d 378 (1979)
+
+Mr. and Mrs. Ernest FLOWERS
+v.
+UNITED STATES FIDELITY & GUARANTY COMPANY et al.
+
+No. 64196.
+
+Supreme Court of Louisiana.
+
+September 4, 1979.
+
+On Rehearing March 3, 1980.
+
+Rehearing Denied April 7, 1980.
+
+Dissenting Opinion April 9, 1980.
+
+*379 Frederick P. Heisler, Heisler, Wysocki & DeLaup, New Orleans, for plaintiffs-applicants.
+
+Peter A. Feringa, Jr., James A. Babst, Chaffe, McCall, Phillips, Toler & Sarpy, New Orleans, for defendants-respondents.
+
+BLANCHE, Justice.
+
+The principal issue is whether the claim for plaintiff's personal injuries has prescribed.
+
+On January 11, 1976, plaintiff, Mrs. Flowers, was injured when the defendant's insured struck the Flowers family vehicle. Mr. Leon A. Aucoin, also made a defendant, was a claims adjuster for defendant United States Fidelity & Guaranty Company, and entered into negotiations with Mr. and Mrs. Flowers with regard to the settlement of their claims arising out of the accident. Concerning Mrs. Flowers' claim for personal injuries, Aucoin requested that she obtain final medical reports so that they could reach an agreement as to the amount to be paid, and further indicated that he did not want to make an appointment at his office until she had the reports to bring with her. With regard to Mr. Flowers' claim as head and master of the community, United States Fidelity & Guaranty Co. paid him for the damages to the family automobile and all but $175 of the medical expenses. Negotiations for payment of these amounts extended for over one year.
+
+Finally, on January 14, Mrs. Flowers, then in possession of all medical reports, telephoned Aucoin in order to make an appointment to discuss the final terms of the settlement. As one may guess, this little narrative concludes with Aucoin telling Mrs. Flowers that she was too late, and that her claim had prescribed.
+
+Mrs. Flowers then contacted a lawyer and filed suit. The suit was met with a peremptory exception of prescription insofar as it asserted a claim on the underlying automobile accident; a peremptory exception of no cause of action insofar as plaintiffs' claim purported to assert a claim against defendants in tort arising out of their conduct of settlement negotiations; and, a motion for summary judgment as to plaintiffs' claim for damages arising out of breach of contract. The trial judge ruled in defendant's favor on all counts, and dismissed plaintiffs' suit. The Fourth Circuit Court of Appeal affirmed. We reverse, finding that prescription was interrupted by the acknowledgment of defendant's representative Aucoin that he would settle with Mrs. Flowers as soon as all of her medical reports were available.
+
+*380 Civil Code Article 3520 provides as follows:
+
+On its face, all that is required is a simple acknowledgment by the party who owes the debt; neither does the Code require that the acknowledgment be in any particular form; nor does it require that anything beyond the "right" of the obligee be recognized by the acknowledgment of the obligor.
+
+The Court of Appeal relied on the case of Tassin v. Allstate Ins. Co., 310 So. 2d 680, La.App. 4th Cir., Writ Ref., 313 So. 2d 836 (La.1975), which we observe is indistinguishable in principle from the present case. In Tassin, the trial judge accepted the testimony of the attorney representing the plaintiff and who was attempting to negotiate a settlement with defendant Allstate's representative, that it was not necessary for him to file suit, and that the case would definitely be settled as soon as the medical reports were assembled. The decision reports that the claim adjuster asked the attorney to "hold out" in addition to leading him to believe that the claim would be amicably settled. Tassin, supra, at 686. The only distinguishable difference between this case and the Tassin case is that Mrs. Flowers did not have a lawyer and consequently, Aucoin's agreement was directly with plaintiff to settle when all of the medical was assembled. The crucial finding in Tassin of this issue is as follows:
+
+The "right" which resided with Mrs. Flowers was to be compensated for her injuries. The acknowledgment of that right was unquestionably recognized when defendant's agent made it clear to her that all of the medical reports must be assembled and made available before an amount could be determined.
+
+Despite the holding in Tassin, supra, the acknowledgment need not have been an amount certain. Once recognized, there would be no prohibition for the parties to have agreed that the exact amount could be determined after a certain condition or event had been complied with (in this case, the furnishing of the medical reports).
+
+We therefore determine that a debtor may acknowledge owing a debt without knowing the exact amount, and accordingly, overrule Tassin v. Allstate Ins. Co., 310 So. 2d 680 (1975), holding to the contrary.
+
+Having decided that plaintiffs' claim on the underlying accident has not prescribed, it is unnecessary to decide the other issues raised by plaintiffs on this appeal.
+
+For the above reasons, we reverse the decision of the Court of Appeal and remand the case to the District Court for further proceedings in accordance with law.
+
+REVERSED AND REMANDED.
+
+MARCUS, J., dissents and assigns reasons.
+
+MARCUS, Justice (dissenting).
+
+I disagree with the finding of the majority that prescription was interrupted by the acknowledgement of defendant's representative Aucoin that he would settle with Mrs. Flowers as soon as all of her medical reports were available. To constitute an acknowledgement, the actions of the defendant must clearly and specifically indicate that the defendant accepts liability. See La.Civil Code art. 3520. Such was not the case here. I agree with the majority in overruling Tassin v. Allstate Ins. Co., 310 So. 2d 680 (La.App. 4th Cir.), writ refused, 313 So. 2d 836 (La.1975), to the extent that Tassin held that unliquidated debts could not be acknowledged. Accordingly, I respectfully dissent.
+
+DENNIS, Justice.[*]
+
+On rehearing we uphold the basic rule of law stated in our original opinion but resolve the case differently, primarily due to a corrected factual finding. We continue to hold that prescription of an unliquidated claim for damages may be interrupted by the tacit acknowledgment of the debtor. After reconsidering the evidence, however, we find that the insurance company's adjuster did not tacitly acknowledge the wife's tort claim by either his offer to negotiate settlement or his payment of medical expenses. Although prescription of the claim for medical expenses by the husband as head of the community was interrupted, the wife's claim for damages prescribed.
+
+Nora Flowers sustained injuries in an automobile accident with the defendant insurance company's insured on January 11, 1976. Over one year following the accident, on February 3, 1977, she and her husband filed suit against defendant, praying for damages because of her bodily injuries and medical expenses. After a hearing, the trial court sustained the defendant's exception of prescription. The court of appeal affirmed, and we granted certiorari.
+
+The plaintiffs argue that their lower courts suits were timely filed because prescription was interrupted by several events. The evidence reflects that in January or February, 1976, the defendants' insurer paid Mr. Flowers for the damages to the family automobile. By April or May, 1976 the defendant insurer paid for most of Nora Flowers' medical expenses resulting from the accident. On two occasions Mrs. Flowers discussed her claim for damages with defendants' adjuster. She first telephoned him in April or May, 1976 to set up a meeting, but he told her it would be pointless to meet until she had all of her medical reports. Shortly after being released by her doctors on November 14, 1976, Mrs. Flowers again requested an appointment. But the adjuster, as before, told her that she would need to obtain reports from her doctors. Finally, after she had received the reports Mrs. Flowers called the adjuster on January 14, 1977, but was told that her claim had prescribed.
+
+We find from the evidence that the insurance company, which paid Mr. Flowers for all but $175 of Mrs. Flowers' medical expenses intended to acknowledge its indebtedness for all of these expenses. There is no evidence that the company sought merely to compromise this claim. Contrary to our finding on original hearing, however, the evidence does not disclose that the insurance company ever admitted that it owed Mrs. Flowers for her personal injuries. It is true that its adjuster expressed a willingness to discuss her claims and to try to reach a compromise with her. But his statements and actions did not manifest an intention to admit the company's indebtedness to her.
+
+The questions presented, therefore, are (1) whether liberative prescription of an action for delictual damages may be interrupted tacitly by the actions of the debtor, and, if so, (2) whether the company's acknowledgment of its indebtedness for medical expenses to Mr. Flowers interrupted prescription of Mrs. Flowers' action for damages due to her personal injuries.
+
+Prescription of a right to damages for personal injuries or medical expenses arising from an offense or quasi-offense may be interrupted by either an express or a tacit acknowledgment of the right by the debtor.
+
+Louisiana Civil Code article 3520 does not require that an acknowledgment be in a particular form. It merely provides:
+
+*382 Accordingly, this Court has stated that acknowledgment sufficient to interrupt prescription may be made verbally, in writing, by partial payment, by payment of interest or by pledge, or in other ways; and that it may be implicit or it may be inferred from the facts and circumstances. Lake Providence Equipment Co. v. Tallulah Prod. Cred. Assn., 257 La. 104,
+241 So. 2d 506
+(1970). Upon reconsidering this interpretation of Article 3520, we find that it is solidly based upon doctrinal writings. For example, Baudry-Lacantinerie & Tissier observe:
+
+Also, Aubry and Rau maintain:
+
+See also, 2 M. Planiol, Treatise on Civil Law, §§ 665 et seq. (La.St.Law.Inst.Transl.1959); 5 Civil Law Translations, J. Carbonnier, Notes on Liberative Prescription, pp. 465-66. Accordingly, we adhere to our view that Article 3520 does not require that an acknowledgment be in any particular form.[1]
+
+Furthermore, prescription of a civil action based on an offense or quasi-offense is governed by the same rule pertaining to interruption by the debtor's acknowledgment as other civil actions. By its terms Article 3520 is applicable to the prescription of all rights or actions and we find no justification in the civil code for insulating rights based on offenses or quasi-offenses from its effects. Again, we find that this view is consistent with the interpretations of the doctrinal commentators. See 5 Civil Law Translations, Baudry-Lacantinerie & Tissier, Prescription, § 531, p. 264; 2 Civil Law Translations, Aubry & Rau, Property, § 215, No. 304, p. 344; see also Flowers v. U.S. Fidelity & Guaranty Co., 367 So. 2d 107 (La.App. 4th Cir. 1979) (Lemmon, J., dissenting).
+
+The view has been expressed in several court of appeal opinions that Article 3520 provides for the interruption of prescription by acknowledgment only on claims to liquidated amounts. Wooden v. Hartford Ins. Co., 335 So. 2d 742 (La.App. 2d Cir. 1976); Tassin v. Allstate Ins. Co., 310 So. 2d 680 (La.App. 4th Cir. 1975); Kennard v. Yazoo & M.V.R. Co., 190 So. 188 (La.App. 1st Cir. 1939). These holdings are contrary to statutory law which is clear and free from all ambiguity; they are also in conflict with civilian doctrine. These opinions, therefore, cannot be considered as correct interpretations of Civil Code article 3520. Accordingly, they are overruled.
+
+The interruption of prescription has no effect beyond the specific right of   the person of which the debtor makes acknowledgment. Hence, the insurer's acknowledgment of Mr. Flowers' right, as head of the community, to recover for medical expenses, did not acknowledge or interrupt prescription of Mrs. Flowers' separate right to damages for her personal injuries.
+
+As applied to liberative prescription, Article 3520, in effect, provides that prescription is legally interrupted when the debtor makes acknowledgment of the right of the person against whose claim he prescribed.[2] Legal interruption does not regularly transfer from one obligation or action to another. 5 Civil Law Translations, Baudry-Lacantinerie & Tissier, Prescription, §§ 571-573, pp. 279-81; 2 Civil Law Translations, Aubry & Rau, Property, § 215, No. 305, pp. 347-348. Moreover, legal prescription is personal, and generally benefits only the person with whom it originates or whose right has been acknowledged. 2 Civil Law Translations, Aubry & Rau, Property, § 215, p. 348; 5 Civil Law Translations, Baudry-Lacantinerie & Tissier, §§ 555-557, pp. 273-74.
+
+Mrs. Flowers' right to damages for her personal injuries was distinct from her husband's right to recover medical expenses for the community. A wife's action for damages resulting from offenses and quasi-offenses are her separate property and are recoverable by her alone. La.C.C. arts. 2334, 2402.[3] On the other hand, claims for medical expenses for either spouse belong to the community and are recoverable by the husband as its head. Cf. Simon v. Harrison, 200 So. 476 (La.App.1941); Credit Service Corp. v. Dickerson, 243 So. 2d 827 (La.App. 2d Cir. 1971); see McConnell v. Travelers Indem. Co., 346 F.2d 219 (Ca.1965); Rollins v. Beaumont-Port Arthur Bus Lines,
+88 F. Supp. 908
+(D.C.1950). Accordingly, the claims adjuster's acknowledgment of Mr. Flowers' right to reimbursement for medical expenses did not interrupt prescription of his wife's separate right to damages for her personal injuries.
+
+For the reasons assigned, the court of appeal judgment is amended to overrule the exception of prescription insofar as it pertains to the husband's cause of action. The case is remanded to the trial court for further proceedings consistent with this opinion. Otherwise, the court of appeal opinion and judgment are correct and are affirmed.
+
+AFFIRMED IN PART; AMENDED AND REMANDED.
+
+BLANCHE, J., dissents and hands down reasons.
+
+BLANCHE, Justice (dissenting).
+
+I respectfully dissent. The insurance adjuster did agree that the company would pay Mrs. Flowers for her personal injuries when all the medical reports were assembled. Although there has been no trial on the matter, there really is no issue in this case as to the liability of the insured. It is clear that the accident, which resulted in damage to Mr. Flowers' car and personal injuries to Mrs. Flowers, was caused solely by USF&G's insured. The issue which was presented in this case was whether the prescriptive period had run without there being any interruption.
+
+As the case has not been tried, the only evidence in the record consists of the depositions of both Mr. Flowers and Mrs. Flowers. The testimony is unrebutted. Throughout, there is clear, direct testimony that Mr. Aucoin, the adjuster for USF&G, orally acknowledged that there was a debt owed to Mrs. Flowers for her pain and suffering. A specific amount was not agreed upon as that amount depended upon the reports from the several physicians who were treating Mrs. Flowers. Mr. Aucoin and Mrs. Flowers had numerous conversations   over the period from early February, 1976 until January, 1977. In that time, Mrs. Flowers indicated that she did not wish to agree to the amount for which she would settle until she met with Mr. Aucoin in his office. Excerpts of the testimony from the deposition of Mrs. Flowers are as follows:
+
+Q. All right. The man, being who?
+
+"Q. Did you call Mr. Aucoin on the 15th of November?
+
+Q. Did he say anything else?
+
+The majority states:
+
+Since Mr. Aucoin did not testify, that conclusion could only be based upon Mr. and Mrs. Flowers' testimony which, as shown hereinabove, leads to the opposite conclusion.
+
+Mrs. Flowers is entitled to her day in court to prove that an award for personal injuries is due her.
+
+[*]  The Honorable JESSE N. STONE, Jr. participated in this decision as an Associate Justice Ad Hoc.
+
+[1]  Public policy supports acknowledgments of ordinary obligations on an informal basis. An acknowledgment of a mineral servitude, however, is not the same as an acknowledgment interrupting the ordinary liberative prescription operating as a release of a debt. The law has developed a rigid set of formal rules intended to assure that a landowner is fully aware of and clearly intends the legal consequences of his act in acknowledging outstanding mineral rights. See La.R.S. 31:54, 55 and comments.
+
+[2]  Although Article 3520 literally applies to acquisitive prescription, the prescription releasing debts is interrupted by all such causes as interrupt the prescription by which property is acquired. See La.C.C. art. 3551.
+
+[3]  The rights or causes of action in the present case arose prior to the enactment of Title VI of the Civil Code (Matrimonial Regimes) as provided by Act 709 of 1979.

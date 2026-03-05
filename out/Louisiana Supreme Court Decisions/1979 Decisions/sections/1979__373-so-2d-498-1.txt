@@ -1,0 +1,207 @@
+63982
+Reck v. Stevens
+https://law.justia.com/cases/louisiana/supreme-court/1979/373-so-2d-498-1.html
+
+63982
+Reck v. Stevens
+Court: Louisiana Supreme Court
+Release date: 1979-06-25
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/373-so-2d-498-1.html
+
+373 So. 2d 498 (1979)
+
+Gothlyn J. RECK, Plaintiff-Appellant-Relator,
+v.
+Richard STEVENS, Defendant-Appellee-Respondent.
+
+No. 63982.
+
+Supreme Court of Louisiana.
+
+June 25, 1979.
+
+*499 Gothard J. Reck, New Orleans, for plaintiff-appellant-relator.
+
+George H. Jones, New Orleans, for defendant-appellee-respondent.
+
+TATE, Justice.
+
+After a lengthy trial, the district court awarded the plaintiff $10,000 for pain and suffering. The court of appeal found the award to be excessive and reduced it to $5,000. 365 So. 2d 876 (La.App. 4th Cir. 1979).
+
+We granted certiorari, 368 So. 2d 144 (La. 1979), because we felt that, in reducing the award, the intermediate court erred (whatever its result) in failing to follow the principles of appellate review required by La. Civ.C. art. 1934(3) and the jurisprudence of this court. Specifically, we felt that the intermediate court had erred:
+
+(1) In apparently finding that the trier of fact's great discretion in the award of general damages had been abused, simply on the basis of previous awards made for medically similar injuries, without considering the particular facts and circumstances of the injury to this particular person (the plaintiff).
+
+(2) In its failure to articulate the prior awards and their range, in the light of which a principled reduction of the award might be madeif the reviewing court first finds an abuse of discretion by the trier of fact in the award of general damages.
+
+Civil Code Article 1934(3) provides that, in the assessment of general damages, "much discretion must be left to the [trial] judge or jury * * *." Gaspard v. LeMaire, 245 La. 239,
+158 So. 2d 149
+(1963) is the fountainhead decision of modern jurisprudence interpreting and applying this code provision. In annulling an appellate change of the trier of fact's award for general damages, we there stated, 158 So.2d 158:
+
+"The primary question before the appellate court, then, is whether the judge or the jury in fixing the amount of the award has   abused its great discretion vested in them by law. ... [Prior decisional awards] relied upon may be similar in that each of them involve a similar injury such as broken arm, the loss of an eye or eyes, or the loss of some member of the body. Thereafter, however, the similarity ceases for each case is different, and the adequacy or inadequacy of the award should be determined by the facts or circumstances peculiar to the case under consideration. The primary purpose of the judge or jury in fixing the award in a personal injury case is to adequately compensate the injured person for his injury under the facts shown to exist in his case."
+
+We elaborated on the methodology of appellate review of awards for general damages in Coco v. Winston Industries, Inc.,
+341 So. 2d 332
+(La.1977). We there stated, 341 So. 2d 335-36 (Italics supplied and citations omitted):
+
+"We do re-emphasize, however, that before a Court of Appeal can disturb an award made by a trial court that the record must clearly reveal that the trier of fact abused its discretion in making its award. Only after making the finding that the record supports that the lower court abused its much discretion can the appellate court disturb the award, and then only to the extent of lowering it (or raising it) to the highest (or lowest) point which is reasonably within the discretion afforded that court. It is never appropriate for a Court of Appeal, having found that the trial court has abused its discretion, simply to decide what it considers an appropriate award on the basis of the evidence."
+
+In the present instance, the intermediate court's written opinion ignores these principles, although it cites and purports to follow Coco.[1]
+
+We initially note that, in reducing the award, the court of appeal apparently did so only on the basis of the nature of the medical injuries. It described the medical injuries it found proved (post-concussion syndrome lasting not more than six months, loss of hearing treated for approximately two months, laceration inside her mouth resulting from blows to her face), and then found the award of $10,000 to be excessive. The methodology of the reduction was as if the intermediate court had read only medical reports to this effect, and then had determined that for this type of injury no more than $5,000 should be awarded.
+
+The court of appeal did not take into consideration the particular effects of these particular injuries upon this particular plaintiff (with an underlying previously latent psychiatric disorder), nor the emotional trauma caused by the particular circumstances of this particular tort, where her uncle-defendant struck the plaintiff-victim to the floor, and again hit her when she arose, propelling her part way across the room.
+
+The use of such a scale of prior awards, made for merely generically similar medical injuries, has been expressly and repeatedly disapproved by Gaspard and the succeeding jurisprudence. Such a hypothetical scale of hypothetical awards cannot be used to determine whether or not this trier of fact has abused its discretion in the award to this particular plaintiff under the   facts and circumstances peculiar to this case.[2]
+
+Before a trial court award may be questioned as inadequate or excessive, the reviewing court must look first, not to prior awards, but to the individual circumstances of the present case. Only after analysis of the facts and circumstances peculiar to this case and this individual may a reviewing court determine that the award is excessive.
+
+With regard to appellate review of the much discretion of the trier of fact in the award of general damages, La.C.Civ.P. art. 1934(3), we stated (after exhaustive review of the facts, and reversing the appellate court for disturbing (on the basis of prior awards) the trier of fact's award) in Lomenick v. Schoeffler, 250 La. 959,
+200 So. 2d 1
+27, 132 (1967) (Italics ours):
+
+"The law is plain and means what it says, and it is the duty of all appellate courts to follow it. Under this rule the amount of damages assessed by the judge or jury should not be disturbed unless the appellate court's examination of the facts reveals a clear abuse of the discretion vested in the trial court. ... The facts and circumstances in the other neck injury awards, relied upon by respondent as showing that this award was all out of proportion with the previous awards for similar injuries, causes them to have little or no relevancy for purposes of demonstrating the excessiveness of this award."
+
+Thus, the initial inquiry must always be directed at whether the trier court's award for the particular injuries and their effects upon this particular injured person is, a clear abuse of the trier of fact's "much[3] discretion," La.Civ.C. art. 1934(3) in the award of damages. It is only after articulated analysis of the facts discloses an abuse of discretion, that the award may on appellate review, for articulated reason, be considered either excessive, Carollo v. Wilson,
+353 So. 2d 249
+(La.1977); Schexnayder v. Carpenter,
+346 So. 2d 196
+(La.1977), or insufficient, Olds v. Ashley, 250 La. 935,
+200 So. 2d 1
+(1967). Only after such determination of abuse has been reached, is a resort to prior awards appropriate under Coco for purposes of then determining what would be an appropriate award for the present case.
+
+In the initial determination of excessiveness or insufficiency, an examination of prior awards has a limited functionif indeed the facts and circumstances of the prior awards are closely similar to the present. The prior awards may serve as an aid in this determination only where, on an articulated basis, the present award is shown to be greatly disproportionate to past awards (not selected past awards, but the mass of them) for (truly) "similar" injuries, see Coco at 341 So. 2d 334.
+
+However, absent an initial determination that the trial court's very great discretion in the award of general damages has been abused under the facts of this case, the reviewing court should not disturb the trier's award. Wilson v. Magee,
+367 So. 2d 314
+(La.1979).
+
+The trial court awarded the plaintiff, Miss Reck, $10,000 general damages, and $1,362.75 special damages. The latter included $926.75 medical expenses occasioned by Miss Reck's injuries and $400 for twenty days loss of work resulting from them.
+
+Miss Reck received severe blows from her uncle by marriage, the defendant Richard   Stevens, in the aftermath of a heated quarrel between Miss Reck and her aunt (Mrs. Stevens), and her grandmother (Mrs. Lamana). The plaintiff is a 31-year-old female weighing 115 pounds, while the defendant is a 48-year-old male weighing 185 pounds.
+
+Miss Reck, who had underlying emotional problems (see below) and was very upset, was in a tug of war with her grandmother to take out a family portrait. (The plaintiff had lived with her grandmother since the age of two, but she had moved out shortly after Mr. and Mrs. Stevens had moved into the grandmother's household.) The grandmother slipped and fell. As the trial court expressly indicated, there was no intention indicated on the part of Miss Reck to assault her grandmother.
+
+However, the defendant Stevens, fearing for the grandmother's safety, then intervened. The defendant admitted he struck Miss Reck with a total of four blows on the right side of her face, but he claims they were in defense of his wife and the grandmother and in self-defense. At least one severe blow was just above the plaintiff's right ear.
+
+The trial court found that his intervention was reasonable under the circumstances, but that his response was greatly excessive and "out of proportion to the realities of the situation."
+
+In the district court's words, Stevens struck Miss Reck with "a full force blow ["somewhere between a slap and a professional punch"]. It propelled plaintiff eight to ten feet across the room, causing her to fall to the ground. She got up, and now in full anger, approached him threateningly. Again, however, his reaction was unreasonable, and he again struck plaintiff with sufficient force to throw her across the room. The most convincing evidence of the severity of Stevens' blows was the objective evidence of brain injury found by Dr. Dysart, together with the clinical evidence of ear damage found by Dr. Rubin."
+
+The testimony of Drs. Dysart and Rubin, cited by the trial court, shows (see below) that, as a result of the forceful blows, the plaintiff, Miss Reck, suffered serious (if temporary) brain damage and hearing and balance loss, fortunately with effects lasting not longer than a year. They were serious enough to cause her to lose twenty days of work, however, as well as to cause her persistent symptoms.
+
+Unquestionably, the severity and persistence of the subjective symptoms (headaches, dizziness, disorientation) in part resulted because of an underlying (but until-then controlled) emotional instability of the plaintiff, a non-specific schizophrenic process of long standing. Nevertheless, a tortfeasor takes his victim as he finds him, and he is responsible in damages for the consequences of his tort although the damages so caused are greater because of a prior condition of the victim which is aggravated by the tort. Restatement of Torts, 2d, Section 461; see many Louisiana cases including, e. g., Johnson v. Ceaser, 304 So. 2d 855 (La.App. 4th Cir. 1974).
+
+In making its award, the trial court referred to a brain injury diagnosed and treated by Dr. Dysart, and the ear (auditory nerve) damage diagnosed and treated by Dr. Rubin. We will discuss briefly the injuries referred to.
+
+Brain Damage-Psychiatric Aggravation: The intermediate court summarized this injury as resulting in a post-concussion syndrome which lasted not more than six months. While not inaccurate, this summary minimizes the testimony of Dr. Dysart, upon whom the trial court properly relied in making its award.
+
+Dr. Dysart was qualified as an expert in neurology, psychiatry, and psychoanalysis. He first saw the plaintiff about fifteen days after the incident, and he treated her over a period of four months. At the time he last saw her, she was still on prescription tranquillizers and medication prescribed by him. He had not discharged her, but he had advised her to try to cope with her symptoms unless she felt the need of further medical attention.
+
+Based on objective tests (including an electroencephalogram), he found that as a result of the blows the plaintiff had sustained   a cortical contusion of the right hemisphere of the brain. He explained that a contusion is a bruise within the brain, involving the breaking of small capillaries and blood vessels, from the sheering force of the brain being thrown back and forth. He noted that, unlike body bruises, brain bruises can cause loss of function in the brain tissue which does not regenerate and also irritation of the remaining brain fibers.
+
+The physical symptoms from a brain contusion may include motor weakness, sensory dysfunction, headaches, disequilibrium, difficulties with vision, nervous instability, fatigue, and lethargy. (The plaintiff complained of suffering most of these symptoms over an extended period following the blows.)
+
+In addition to physical symptoms, the temporal lobe dysfunction relating from the contusion can result in psychiatric problems, with symptoms including amnesia, bizarre behavior for the occasion, fragmentation of thought processing similar to that found in schizophrenia, and severe depression and emotional instability. Again, Miss Reck complained of most of these symptoms following the injury.
+
+In Miss Reck's case, her problem was aggravated because of a non-specific psychiatric illness of long standing, in the nature of a non-specific schizophrenic process. However, before the incident, she was "borderline compensated ... [i. e.,] she was functioning in a productive manner although she had a severe deficit," Tr. 133. Based on his tests and examinations, the doctor found that as a result of the incident this underlying emotional instability had become activated"she was certainly not able to be productive in a meaningful way as far as holding a job and sticking to it, also with her impulsivity, her rigid manner, depression, easily provoked anger, I think it would be difficult to maintain a friendship or any kind of close relationship."
+
+He estimated that this dysfunction could be brought under control in from three to six months.
+
+At the trial some thirteen months after the incident, Miss Reck testified that she was still suffering severe headaches periodically and occasional spells of dizziness. She stated she was still taking the medication prescribed by Dr. Dysart.
+
+Hearing-Balance Injury: The intermediate court described this as a loss of hearing which required two months of medical treatment. While again this is not inaccurate, this description minimizes the residuals of the ear-damage caused by the blow, as found by Dr. Rubin, the ear-specialist, upon whom the trial court relied in its award.
+
+Dr. Rubin, who examined the plaintiff three days after the incident, found that she had suffered damage to the nerve part of the hearing mechanism. This caused definite but gradually diminishing loss of hearing over his two months' observation of her. However, as objective tests verified, this nerve damage also caused damage to the balance system of the body of which the auditory nerve is a component. This damage caused symptoms of dizziness and light-headedness.
+
+Dr. Rubin estimated that this balancing damage would be cured in from six to twelve months of the accident, probably closer to six months. At the trial (thirteen months after the incident), Miss Reck complained that she occasionally suffered dizzy spells and vertigo.
+
+Summary
+
+In addition to the brain-psychiatric and hearing-balance injuries described, the plaintiff suffered bruises and an inner-mouth laceration from the heavy blows received. After she returned to work her work-evaluation remained favorable on formal employment reports; nevertheless, the plaintiff's complaints of mental dysfunction, justified by Dr. Dysart's diagnosis, seem to be corroborated by her co-worker supervisor's testimony that, following the incident, there was a distinct difference between Miss Reck's behavior pattern at this particular time than in her past two years'   experience with herthat "she wasn't her usual self," Tr. 6. This witness and two other co-workers testified that, although (after the incident) they had noticed in the earlier stages some unharmonious behavior of Miss Reck unusual for her, by the time of the trial (thirteen months after the battery) she was again functioning normally.[4]
+
+Thus the evidence as a whole indicates that, as a result of the severe blows received, Miss Reck received not only physical injuries resulting in a temporary impairment of hearing and loss of balancing function extending as long as six months, but that her life both at work and at home was made miserable by headaches, dizziness, depression, and emotional instability which had resulted from the temporary activation (for from six months to a year) of her pre-existing psychiatric deficiencywhich, until the incident, was well-controlled. The trial court's award of $10,000 general damages indicated its appreciation of the seriousness of the emotional and physical trauma caused Miss Reck by the deliberate and severe blows inflicted upon her by her uncle, the defendant.
+
+We cannot say the trial court abused its great discretion by making such an award of general damages.
+
+Technically, then, we do not reach the issue of awards for comparable injuries. Nevertheless, as we will show, the allegedly comparable awards upon which the appellate court (may have) relied in its (unarticulated) opinion do not justify any inference that the trier of fact's award in the present case constituted an abuse of its great discretion.
+
+A feature of the intermediate court's opinion which invited our review in this case is its apparent use, on an unarticulated basis, of uncited prior awards as demonstrating not only present excessiveness (disapproved above in part II of this opinion) but also as a basis for its present award.
+
+The danger of this approach is that, without principled articulation of the basis for the appellate court's action, the reduction or increase will be (even if unconsciously) based solely upon the appellate judge's intuition, founded perhaps on his personal experience in practice or trial-judging years earlier, as to what the injury is worth. However, the function of an appellate court is not "to decide what it considers an appropriate award on the basis of the evidence," Coco at 341 So. 2d 335, but rather only to review the exercise of the trier of fact's discretion in the matter.
+
+Further, without an articulated basis for its action, neither the parties nor this court (in the event further review is sought) are informed as to which (if any) prior awards have been utilized by the appellate court for example, to permit examination of whether they are truly comparable to the present injury-facts or are actually representative of the mass of awards made for injuries under circumstances similar to the present.
+
+Moreover, as sated in Coco at 341 So.2d 335-36: "* * * heretofore, courts of appeal have placed too much emphasis on their review of other reported decisions. Certainly no two cases are ever fully alike.   And whether two cases are so similar as to produce like quantum judgments is hardly discernible by gleaning the facts of the comparable decision from simply a written opinion of an appellate tribunal. Of course, another factor bearing on this matter is that significant change has been, and is taking place in our society not the least of which are changes in economic conditions (particularly rampant inflation), fluctuating job categories, employment opportunities, and even lifestyles. Furthermore, it is impossible for an appellate court to judge what evidence in a particular case was given special weight by the finder of fact."
+
+Examining the briefs filed in the court of appeal, the seeming (although unarticulated) basis of the court of appeal's reduction of the trial award from $10,000 to $5,000 (unless based only on our appellate brethren's intuition as to the "worth" of the injuries) were the following prior awards: (a) approximately four cited awards for batteries causing injuries allegedly more serious than the present (e. g., a fracture) in a range of $5,000 to $7,000; and (b) three decisions not involving batteries involving between $2,500 and $5,000 for the effects of brain concussion (the plaintiff suffered a brain contusion here) or for an intense aggravation of a pre-existing emotional problem. Each of these bases, (a) and (b), will be discussed below.
+
+As to (a):
+
+Appellate review awards for damages in many battery cases are key-noted at 3 West's Louisiana Digest, verbo "Assault and Battery." Reading the decisions there cited, the awards relied upon by the defendant are not unrepresentative of those awarded for the type of injuries there concerned, although there are both higher and lower awards. The issue in each case, however, was most often whether the trier of fact had abused its discretion, not a determination that a higher (or lower) award was not appropriate.
+
+Although the physical injuries (a fracture, etc.) in cases cited by the defendant might be by some fact-finders considered more serious than the present injuries, the injuries in the present case (with persisting residual of the present claimant's injuries over six months and the emotional trauma of the incident) might cause other fact-finders to regard her injuries as comparable or worse. Examination of the battery awards cited in the digest reference indicates the impossibility of attempting to determine a schedule or scale of appropriate awards in relation to the relative "seriousness" of each particular injury and its severity (reprobated, moreover, by the post-Gaspard jurisprudence, see footnote 2): Awards made for different injuries (e. g., a broken arm vs. an abrasion or concussion) bear no discernible proportion to one another.
+
+As stated in Squyres v. Phillips, 285 So. 2d 337, 339 (La.App. 3d Cir. 1973): "A general review of the jurisprudence indicates that our courts balance many factors in assessing damages in assault and battery cases. These include, besides physical pain and suffering, the factors of provocation, reasonableness of force used, attendant humiliating circumstances, sex of victim, mental distress, etc. There is no rule or standard of law fixing or establishing the amount of recovery and each case consequently must rest on its own set of facts."[5]
+
+*506 As to (b):
+
+In determining that $5,000 was the maximum amount awardable for the plaintiff's injuries, the court of appeal apparently relied upon the three decisions cited by the defendant concerning awards for allegedly similar injuries. Two of them concerned awards of $2,500 and $3,500 for concussion injuries sustained in automobile accidents as the result of negligence,[6] and the other involved an award of $5,000 for the intense aggravation of a pre-existing emotional problem which resulted from the defendant's brief (but private) wrongful detention of her as a suspected shoplifter.[7]
+
+None of these decisions suggest authority for an appellate determination that $5,000 is the maximum award possible for the present plaintiff's injuries under the particular circumstances of the present case.
+
+Aside from other distinguishing features, the first two (concussion) awards (see footnote 6) do not involve the present intense emotional trauma resulting from the forceful intentional blows given the present victim by her own uncle, nor do they involve the intensification and prolongation of the felt consequences of the physical injuries stemming from the victim's pre-existing psychiatric illness. The third (mental anxiety) decision (see footnote 7), while concerning the non-usual effect of a (non-physical) tort upon a person with an underlying emotional problem, does not involve the severe and actual physical injuries and the intense humiliation and emotional trauma resulting in the present case from the hard blows struck her by her uncle in the presence of others in her family. None of these decisions involved the substantial auditory-nerve damage sustained by the plaintiff, with temporary loss of hearing and her rather prolonged (six to twelve months) balance and dizziness problems.
+
+Absent these distinguishing features, perhaps a trial court might have found some guidance from them in determining that a $5,000 award would be appropriate to the plaintiff for her medical injuries, i. e., concussion syndrome (although hers was far more serious than those involved), the loss of hearing of short duration, and the laceration. Assuming this is so (as the intermediate court did), it seems to us apparent that an award of $10,000 for the same medical injuries, but now accompanied by these cited distinguishing and aggravating factual circumstances, cannot be said to indicate that the great discretion of the trier of fact in awarding general damages was clearly abused in the present case or that the $10,000 award should be reduced to $5,000.
+
+For the foregoing reasons, we reverse the judgment of the court of appeal, which had reduced the trial court's award; and we reinstate the judgment of the district court. The defendant-appellant is to pay all costs of these proceedings.
+
+COURT OF APPEAL REVERSED; DISTRICT COURT JUDGMENT REINSTATED.
+
+SUMMERS, C. J., and MARCUS, J., concur.
+
+BLANCHE, J., dissents and assigns reasons.
+
+*507 BLANCHE, Justice, dissenting.
+
+We granted this writ because an appellate court's reduction of a trial court's award for damages is highly suspect. This is rightly so, not because Courts of Appeal in this state have demonstrated in the past that their ability to deal with damages is suspect, but most probably because a Court of Appeal cannot possibly follow our impossible guidelines for reviewing excessive awards.
+
+Consider the difficulty of reviewing a lower court award under the following criteria: First and foremost, the appellate courts must always keep in mind the trial judge's "much discretion." The parameters of this "much discretion" are defined in terms of not what the trial judge can do but what he cannot do. A trial judge abuses his "much discretion" when he grants an award in excess of the amount that reason dictates.
+
+On its face, it would seem that the above determination would be easy. On the contrary, the task is impossible since this Court has held that the appellate courts should not rely on past awards in similar cases in their determination of whether the trial judge abused his "much discretion." Thus, the appellate court is forced to flounder in the appellate sea without any objective criteria for guidance. Even if the appellate court is successful in passing this first hurdle, i. e., finding the court has abused its "much discretion," it is practically fruitless for the appellate court to continue because the next step requires another complicated and difficult maneuver.
+
+Upon finding the trial court has abused its discretion and awarded an excessive judgment, the Court of Appeal is only allowed to reduce the award to the highest point which is reasonably within the discretion afforded the trial court. The problem, again, is that the appellate court has no permissible standard by which to determine this "ball park" figure. The determination is totally arbitrary, if not impossible.
+
+I believe the great majority of trial judges in this state make sincere efforts to award a successful claimant an amount which fairly compensates that party for his injuries. Nevertheless, some system of appellate review of damage awards is necessary. However, I suggest to the Courts of Appeal that under our present jurisprudence, it is more trouble than it is worth to reduce an excessive award simply because the permissible reasons for reduction are impossible to articulate.
+
+For the record, this writer is in agreement with the Court of Appeal that $10,000 was excessive in the instant case, although I am really unable to say why.
+
+[1]  The only other decision cited by the intermediate court to justify its reduction is its own opinion, Gaudet v. Allstate Ins. Co., 346 So. 2d 333 (La.App. 4th Cir. 1977). Since that decision concerns injuries of a nature different than those before us now, the decision is apparently cited for its critical disapproval of Gaspard and Coco, 346 So. 2d 336-339, see 38 La.L.Rev. 633 (1978) (summarizing its criticism). We expressly disapprove of this decision.
+
+Although we denied certiorari, 350 So. 2d 892 (La.1977) ("On the facts found by the Court of Appeal, the result is correct"), our denial of certiorari to an application for a writ of review does not indicate approval of the rationale (or even of the result), see Coco at 341 So. 2d 335 and Gaspard at 158 So. 2d 153; only that we declined at that time to exercise supervisory review. In view of our other decisions on this issue, and our previous grants of supervisory writs for failure to follow Coco, we did not think it necessary to make plain once again that this panel of the intermediate court as well as other judges of the state are bound by Civil Code Article 1934(3) and should follow authoritative interpretations of it.
+
+[2]  The early post-Gaspard jurisprudence expressly and repeatedly disapproved of the former practice of appellate courts, see, e. g., Cassreino v. Brown, 144 So. 2d 608 (La.App. 4th Cir. 1962), of determining the inadequacy or excessiveness of an award by comparing it to a schedule of the ranges of prior awards for medically similar injuries. Lomenick v. Schoeffler, 250 La. 959,
+200 So. 2d 1
+27 (1967); Ballanga v. Hymel, 247 La. 934,
+175 So. 2d 274
+(1965); Winfree v. Consolidated Underwriters, 246 La. 981,
+169 So. 2d 71
+(1964); Ballard v. National Indemnity Company, 246 La. 963,
+169 So. 2d 64
+(1964).
+
+[3]  I. e., The trial court's great discretion, or its discretion to a considerable degree. See Webster's Third New International Dictionary, verbo "much", p. 1481 (1961).
+
+[4]  We should note here that the trial court rejected Miss Reck's claim for further special damages, a $3,000 a year loss of salary allegedly resulting from her trauma-caused inability to perform in a higher position to which she was promoted. With regard to this rejection, the trial court stated: "The evidence does not support an award for loss of earning capacity as a result of her resigning her promotion to the Treme Center. Considering Dr. Dysart's description of plaintiff's emotional state before the incident, and the timing of her employment problems, her problems [in holding the new position] are more likely attributable to her general inability to handle increased responsibility as aggravated by her family problems predating the altercation, than to the injuries sustained on October 12th."
+
+Despite a suggestion to the contrary, the rejection of this claim for permanent loss of earnings does not, under the circumstances, reflect a trial court rejection of the testimony proving a real and substantial, if temporary, aggravation of the claimant's emotional disability during the six months or so following the incident.
+
+[5]  In Squyres, incidentally, the appellate court found no abuse of discretion in the award of $2,000 to a pregnant mother for a beating in which she suffered only minor facial abrasions; however, in refusing to disturb this award for these inconsequential physical injuries, the appellate court noted that the trier of fact could properly take into consideration the victim's emotional upset and humiliation, in that the incident occurred in the presence of other people she was acquainted with and in that she suffered some anxiety that it might have caused injury to her unborn baby.
+
+It should be noted also that the inflationary factor ought not be disregarded, when examining prior awards. For instance, the $2,000 award made in Squyres in 1973 would in 1978 dollars be valued at $2,903. See Table No. 781 (Purchasing power of dollar: 1940 to 1978), Statistical Abstract of the United States, 1978 (U. S. Department of Commerce, Bureau of the Census; 1979).
+
+[6]  Gallin v. Travelers Insurance Company, 323 So. 2d 908 (La.App. 4th Cir. 1975) (claimant awarded $3,500 for cerebral concussion and lacerations and contusions of head, minor injuries of which the patient was completely cured five weeks after the accident); Shafer v. Langston, 311 So. 2d 63 (La.App. 2d Cir. 1975) (syllabus 3) (claimant awarded $2,500 for slight concussion and severe laceration of forehead leaving small scar on this male passenger, requiring one night's hospitalization).
+
+[7]  Pace v. Winn-Dixie Louisiana, Inc., 339 So. 2d 856 (La.App. 1 Cir. 1976) ($5,000 awarded for psychiatric resultant of the wrongful detention, which as an immediate consequence caused an "acute anxiety with depression reaction, which in common terms is nervous breakdown," 339 So. 2d 859-860, requiring five days hospitalization, and causing a prolonged anxiety problem which made it difficult for her to go shopping for about a year.

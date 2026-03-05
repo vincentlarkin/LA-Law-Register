@@ -1,0 +1,99 @@
+85-C-0782
+City of Kenner v. Normal Life of Louisiana, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-0782-1.html
+
+85-C-0782
+City of Kenner v. Normal Life of Louisiana, Inc.
+Court: Louisiana Supreme Court
+Release date: 1986-02-24
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-0782-1.html
+
+483 So. 2d 903 (1986)
+
+CITY OF KENNER
+v.
+NORMAL LIFE OF LOUISIANA, INC.
+
+No. 85-C-0782.
+
+Supreme Court of Louisiana.
+
+February 24, 1986.
+
+James A. Gray, II, Jefferson, Bryan & Gray, for defendant-applicant.
+
+George W. Giocobbe, for plaintiff-respondent.
+
+LEMMON, Justice.
+
+This is an action by the City of Kenner to enjoin Normal Life of Louisiana, Inc. from operating a community home as a residence for six mentally retarded persons in a neighborhood which is restricted by the municipal zoning ordinance to single family dwellings. The issues are (1) whether the City's zoning ordinance by its terms prohibits such use in an R-1 Single Family Residential   district, and (2) whether the ordinance's prohibition conflicts with state law or public policy.
+
+Facts
+
+Normal Life leased five residences within the City of Kenner for use as community homes. The City's Planning Department informed Normal Life that no approval was required, and the Mayor wrote a letter stating the City's position that such homes could be located in residential districts zoned for single family dwellings. Normal Life began operation of the homes upon obtaining licenses from the state. When complaints were received from neighbors, the City notified Normal Life that the City's zoning ordinance prohibited occupying of a residence in a single family residential district by more than four unrelated persons and that Normal Life had failed to obtain approval of the site as required by La.R.S. 28:478 C. Eventually the City filed this action to enjoin operation of the homes.
+
+At trial the parties stipulated that the properties leased by Normal Life were located in areas zoned as single family residential districts; that Normal Life provided at each residence living quarters and related services for six mentally retarded persons, unrelated by blood, who were not mentally ill or insane, but who had employment or were in job training outside the home; that staff supervisors were provided for twenty-four-hour-per-day supervision, but did not reside in the home; and that each residence was an ordinary house with one kitchen.[1]
+
+After a hearing, the trial court rendered a judgment permanently enjoining operation of the homes. The court of appeal affirmed. 465 So. 2d 82. The appellate court rejected Normal Life's argument that La.R.S. 28:381(8)'s characterization of a community home with six or fewer mentally retarded persons as a single family unit superceded the definition of single family dwelling in the City's zoning ordinance. The court also rejected Normal Life's contention that it was misled by City officials in failing to obtain the required approval.[2] We granted certiorari to review the decisions of the lower courts. 470 So. 2d 115.
+
+Ordinance Prohibiting Certain Uses
+
+The City denied Normal Life's use of any of the properties for a community home occupied by six mentally retarded persons on the basis that the number of occupants unrelated by blood exceeded the limitation of four persons in the zoning ordinance's definition of family.[3] The definition of family, in the article which defines terms and words for purposes of the ordinance, was as follows:
+
+Normal Life contends that despite the restriction on the number of residents, its use of the property for a community home did not violate the literal terms of the section on permitted uses in single family residential districts.
+
+Section 6.02 of the ordinance listed the permitted uses in single family residential districts in pertinent part as follows:
+
+The ordinance, by permitting a building or land in this zoning district to be used only for the listed purposes, prohibited the use of a building or land for any other purpose. Therefore, the definition of single family dwelling is critical to the determination whether Normal Life's use was a permitted use or a prohibited use.
+
+Single family dwelling was defined in the definitions section as "[a] building designed for or occupied exclusively by not more than one family", (emphasis added). Normal Life argues that since the term is defined in the disjunctive, a building under the literal definition is a single family dwelling if it is either designed for not more than one family or occupied exclusively by not more than one family. Normal Life therefore contends that its building is a single family dwelling because it is designed for not more than one family, and that occupancy of that permitted building by six unrelated persons is not prohibited by the literal terms of the restrictions for single family residential districts.
+
+A zoning ordinance which is subject to more than one reasonable interpretation should be construed in favor of unrestricted use of property. We conclude, however, that the interpretation suggested by Normal Life is not reasonable.
+
+Section 6.02 prohibits the use either of land or of a building for purposes other than the listed purposes. In the light of this dual prohibition, the definition of single family dwelling should be construed to apply separately to the use of land and the use of a building. As to land, Section 6.02 prohibits use of land within the district for construction or alteration of a structure designed for more than one family. As to a building, Section 6.02 prohibits use of a building for occupancy by more than one family. When interpreted to apply separately to the use of land at the time of construction or alteration or to the use of a building at the time of occupancy, the definition of single family dwelling achieves the clear legislative intent to restrict either the use of a building or the use of land to specific purposes. On the other hand, the interpretation of the ordinance suggested by Normal Life is unreasonably technical and contrary to the clear intent of the ordinance to limit both the use of land for construction and the use of the building constructed thereon.
+
+We therefore conclude that the term "single family dwelling", as a use restriction, cannot reasonably be construed as a disjunctive definition which permits a building to qualify for use as a single family dwelling if it was designed at the time of its construction for not more than one family, but is used at the time of its occupancy by more than one family (as defined elsewhere in the ordinance). Otherwise, the definition of family in the ordinance would be useless, and Section 6.02 would never prohibit use of a building with one kitchen by more than one family.
+
+We distinguish this court's interpretation in Clark v. Manual, above, of a building restriction which prohibited only the erection or alteration on a single lot of a structure other than a single family dwelling. This court held that the use of the conforming structure as a group home did not violate the prohibition which purported to govern only the erection or alteration of a structure. While the restriction in the Clark case prohibited only the use of restricted land for construction of certain   structures, the ordinance in the present case prohibits both the use of land and the use of a building other than for a single family dwelling. Accordingly, we reject Normal Life's contention that its use of the building for occupancy by more than four unrelated persons did not violate the ordinance.[4]
+
+Conflict with State Law
+
+Normal Life's second defense against the enforcement of the ordinance is that the ordinance's use restriction, as applied to this particular use, conflicts with state law and public policy. This contention requires an analysis of the pertinent statutory materials.
+
+Title 28 of the Revised Statutes, pertaining to Mental Health, includes Chapter 4, the Mental Retardation and Developmental Disability Law, and Chapter 5, the Group Home for Handicapped Persons Act.
+
+Chapter 5, composed of Sections 475 through 478, was enacted by Acts 1981, No. 892. The title of Act 892 stated that the purpose was "to provide relative to the promotion of community facilities for the care of mentally and physically handicapped persons, to allow small community homes to be permitted in all residential districts zoned for multiple family dwellings, and otherwise to provide with respect thereto", (emphasis added). In Section 476, the Legislature, stating that it was exercising its police power, declares the state policy that "mentally and physically handicapped persons are entitled to live in the least restrictive environment in their own community and in normal residential surroundings".[5] Section 477(1) defines community home as follows:
+
+Section 478 provides that community homes are to be permitted by right in all residential districts zoned for multiple family dwellings in order to achieve uniform statewide implementation of the policies of Act 892. Thus, Act 892 arguably constitutes a state law which was enacted under the Legislature's police power and which authorizes community homes in a residential district zoned for multiple family dwelling, notwithstanding any local zoning ordinance prohibiting such use in that class of districts.
+
+Chapter 5, however, provides no relief to Normal Life which seeks to establish a community home in a residential district zoned for single family dwellings. Inasmuch as Chapter 5 does not permit such homes of right in single family residential districts, there is no conflict between Chapter 5 and the local zoning ordinance which prohibits a household of more than four unrelated people in single family residential districts.
+
+Chapter 4, composed of Sections 380 through 444, was re-enacted by Acts 1982, No. 538.[6] Chapter 4 is a multi-faceted group of statutes pertaining to the administration of many types of services to mentally retarded and other handicapped persons. The legislation provides for services to mentally retarded persons living in their own homes, in the homes of their parents, in supervised private homes with other mentally retarded persons, and in public institutions.
+
+Section 381(8) defines community home as follows:
+
+Section 381(8) thus distinguishes between community homes for six or fewer mentally retarded persons and homes for seven to fifteen mentally retarded persons. Moreover, Section 381(38) establishes a third category, called residential facilities, as a residential living option for sixteen or more mentally retarded persons.
+
+Significantly, the definitions contained in Section 381 are limited in meaning to "purposes of this chapter". There is no suggestion of any intent to exercise police power (as in Section 476) or to permit such homes of right in any particular zoning district (as in Section 478 A). Thus, despite the curious use of the word "single family unit", there apparently was no reference intended to other state laws or to local zoning ordinances which refer to single family dwellings or to use as a single housekeepingunit. The division into categories of residential living options and the denomination of the categories was apparently designed for administrative use in providing services under Chapter 4, since categorization based on size may be used to furnish an organizational system in which size may determine the application of different requirements. See Model Act Regulating Board and Care Homes: Guidelines for States, § 4.1. (Report prepared for the U.S. Department of Health and Human Services 1984). There is no indication in Acts 1982, No. 538, or in the title stating its purpose, that the Legislature intended to exercise its police power to require local governing authorities to permit the use of property as homes for six or fewer mentally retarded persons in single family residential districts. If the Legislature intended to override local zoning ordinances and to force municipalities into accepting community homes with six or fewer occupants in single family residential districts, it certainly did not express that intent in a clear and unqualified manner. See Hargrave, Developments in the Law, 1983-84Louisiana Constitutional Law, 45 La.L.Rev. 397, 413 (1984). When the Legislature enacted Chapter 5 by Acts 1981, No. 892, it specifically expressed an intent to exercise its police power to require that community homes be permitted in multiple family residential districts. The absence of such a clear and unequivocal statement of intent suggests there was no similar intent in Chapter 4, which was enacted in the very next session.
+
+Normal Life, in arguing that the Legislature intended Section 381(8) to override local zoning ordinances and subdivision restrictions, relies on decisions by courts of appeal in City of West Monroe v. Ouachita Association for Retarded Children, 402 So. 2d 259 (La.App. 2nd Cir.1981), Tucker v. Special Children's Foundation, Inc., 449 So. 2d 45 (La.App. 1st Cir.1984), Concord Estates Homeowners Association, Inc., v. Special Children's Foundation, Inc., 459 So. 2d 1242 (La.App. 1st Cir.1984) and Vienna Bend Subdivision Homeowners Association v. Manning, 459 So. 2d 1345 (La. App. 3rd Cir.1984). Because the ordinances and restrictions in those cases did not define family or otherwise place limitations on the number of unrelated persons living together as a single household unit, Section 381(8) was utilized to supply the basis for treating a community home with six or less occupants as a single family unit. In the present case, the ordinance defines family and limits the number of unrelated persons living together as a single household unit, and the question of legislative intent to override such an ordinance is squarely presented for the first time.
+
+We decline to interpret Section 381(8) as expressing a legislative intent to   override a local ordinance adopted in non-discriminatory terms at an unsuspicious time. The Legislature arguably expressed in Chapter 5 a public policy that community homes may be operated by right in multiple family residential districts, but that public policy cannot be extended to apply to single family residential districts in the absence of express legislation. We therefore reject Normal Life's contention that there is a conflict between the ordinance sought to be enforced and any state law which expresses a contrary public policy.
+
+Accordingly, the judgments of the lower courts are affirmed.
+
+[1]  The residents had previously lived in institutions under a more restrictive environment. The object of the government-sponsored program was to provide a supervised, but less restrictive, environment to the residents at a lower cost to their families.
+
+[2]  After the appellate court's decision on original hearing, this court rendered the decision in Clark v. Manual,
+463 So. 2d 1276
+(La.1985), declaring unconstitutional the requirement for approval of the site under La.R.S. 28:478 C. The appellate court considered the Clark decision on application for rehearing in this case, but concluded that the City's zoning ordinance was not unconstitutionally discriminatory because it applied to all groups of more than four unrelated persons who wished to reside together in the area zoned for single family residences. The court further noted that the Clark decision had not reached the issue whether a local zoning ordinance must yield in the face of a state legislative act or policy that encourages the establishment of community homes, an issue which the appellate court viewed as determinative of the present case.
+
+[3]  The City also denied the use of the property for this purpose because Normal Life did not obtain approval of the site by the local governing authority, as required by La.R.S. 28:478 C. After this court's decision in Clark v. Manual, above, the City no longer relies on Normal Life's failure to obtain approval of the site, but points out that no group of more than four unrelated persons has ever been permitted to occupy a home in a single family residential district.
+
+[4]  The City conceded that Normal Life could use the building for occupancy by four or fewer unrelated persons, but Normal Life's official explained that any number below six was not economically feasible.
+
+[5]  The powers given to local government are qualified by the provision that "the police power of the state shall never be abridged". La. Const. Art. VI, § 9(B) (1974).
+
+[6]  Acts 1983, No. 659, enacted amendments which are not pertinent to this discussion.

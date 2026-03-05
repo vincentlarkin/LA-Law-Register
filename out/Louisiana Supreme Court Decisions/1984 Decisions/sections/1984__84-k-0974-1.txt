@@ -1,0 +1,79 @@
+84-K-0974
+State v. Tomlinson
+https://law.justia.com/cases/louisiana/supreme-court/1984/84-k-0974-1.html
+
+84-K-0974
+State v. Tomlinson
+Court: Louisiana Supreme Court
+Release date: 1984-10-15
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1984/84-k-0974-1.html
+
+457 So. 2d 651 (1984)
+
+STATE of Louisiana
+v.
+James P. TOMLINSON, III.
+
+No. 84-K-0974.
+
+Supreme Court of Louisiana.
+
+October 15, 1984.
+
+Rehearing Denied November 15, 1984.
+
+*652 Thomas W. Davenport, Jr., Monroe, for applicant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. Carl Parkerson, Dist. Atty., Earl Cox, Asst. Dist. Atty., for respondent.
+
+DENNIS, Justice.
+
+The defendant, James P. Tomlinson, III, was charged by bill of information with committing forgery in violation of La.R.S. 14:72 by issuing or transferring an instrument which he knew to be forged. The defendant was convicted following a nonjury trial and sentenced to five years at hard labor. On appeal to the Court of Appeal for the Second Circuit the conviction and sentence were affirmed. State v. Tomlinson, 450 So. 2d 380 (La.App. 2d Cir.1984). We granted the defendant's application for a writ of certiorari in order to review the sufficiency of the evidence supporting his conviction. Having done so, we now reverse the defendant's conviction.
+
+Under the well-known due process standard of Jackson v. Virginia,
+443 U.S. 307
+, 99 S. Ct. 2781, 61 L. Ed. 2d 560 (1979), when sufficiency of the evidence is in question, the critical inquiry is "whether, after viewing the evidence in the light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt." Id., 443 U.S.  at 320, 99 S. Ct.  at 2789.
+
+In the present case the defendant is charged with committing forgery in violation of La.R.S. 14:72, which provides as follows:
+
+§ 72. Forgery.
+
+Thus, forgery may be committed by acting with an intent to defraud to either (1) make or alter a signature or another part of an instrument, or (2) issue or transfer an instrument known to be forged. In either instance the state must also prove a general intent to defraud. State v. Raymo,
+419 So. 2d 858
+(La.1982). See La.R.S. 14:10(2). The intent must be to injure or prejudice the rights of another, but neither actual injury or prejudice to the particular person intended to be defrauded need be shown. State v. Raymo, supra.
+
+The state sought to prove in this case that the defendant committed forgery by transferring an instrument known to him to be forged. The trial court found that the state had successfully carried its burden of proving beyond a reasonable doubt that the defendant knew the instrument transferred by the defendant bore a forged endorsement. The court of appeal held   that the trial court's finding was sufficiently supported by the evidence. We conclude that our trial and appellate brethren fell into error.
+
+Paula Banks, an employee of the savings and loan bank where the defendant had an account, testified that as she arrived for work on the morning of March 12, 1982, she encountered the defendant in the bank's parking lot. The defendant ascertained that Ms. Banks worked at the bank and asked her to make a deposit for him since he could not wait for the bank to open. Ms. Banks assented, and the defendant filled out a deposit slip and gave it and some other items to her. She took the deposit slip and the items inside and gave them to Floyce Jackson, another bank employee, so that Ms. Jackson could make the deposit.
+
+Ms. Jackson testified that she had seen the defendant, whom she recognized as a bank customer, with Ms. Banks in the parking lot and that she received the defendant's deposit from Ms. Banks. According to Ms. Jackson the deposit consisted of $231.00 in cash, a government check for $164.00, and a second check for $56.56 from Donald Brown payable to the defendant. The $164.00 check is the basis of the charge against the defendant.
+
+The check, a copy of which is in the record, was a state unemployment check payable to "Gary L. Ellis" of 106 Brooks Lane, West Monroe. The check was endorsed on the back with the signature "Gary Brooks Ellis." A social security number which matched the typed social security number on the front of the check was handwritten beneath the endorsement on the back. Also on the back of the check is a handwritten number preceded by the letters "DL" but which did not match the driver's license number of anyone who could be involved in this case. Lastly, the words "for deposit" and the defendant's account number were placed on the back of the check by Ms. Jackson. The payee on the check, Gary L. Ellis, testified that he never received his unemployment check for that month, that the signature on the back of the check was not his, and that he did not authorize anyone to endorse the check for him. Ms. Jackson further testified that she deposited the checks and the cash to the defendant's account. Ms. Jackson also indicated that although the defendant's endorsement may have been required if he had cashed the check, it was only necessary to make the notation "for deposit only" on the back of the check because the check was deposited without a return of cash to the customer.
+
+The results of the handwriting analyses by the Northwest Louisiana Criminalistics Laboratory were stipulated to by the defense and the prosecution. The handwriting experts examined the check, the deposit slip, a handwriting sample from the defendant, and a handwriting sample from Gary L. Ellis. The experts concluded that from these items neither the endorser of the check, nor the person who filled out the deposit slip could be identified. However, they stated that the endorsement was "disguised writing." They also stated that Gary L. Ellis was not the endorser. Finally, the experts said that there were "similarities" between the defendant's handwriting, the writing on the deposit slip, and the endorsement on the back of the check.
+
+The drawer of the check for $56.56 which was deposited by the defendant was Donald Brown. Mr. Brown identified the defendant and stated that the defendant operated a garage. Mr. Brown testified that the defendant was doing business in his own name. The check Mr. Brown wrote to the defendant was for repairs the defendant had made on Mr. Brown's car at the garage.
+
+The only other significant evidence offered was that the defendant had moved to Kansas in April after depositing the unemployment check in March. The defense called no witnesses and the defendant himself did not testify. Of course, the fact that the defendant did not testify cannot be used against him.
+
+From the evidence presented it is clear that the endorsement on the unemployment check was forged and that the   defendant transferred the check intending that it be deposited to his account. The key issue, however, is whether there is enough evidence for a reasonable juror to conclude beyond a reasonable doubt that the defendant knew that the endorsement was forged and acted with an intent to defraud. That the defendant knew that the instrument was forged was an essential element of the type of forgery of which the state sought to prove. La.R.S. 14:72. Without such knowledge defendant's intent to defraud would have been lacking as well. The court of appeal correctly stated that mere possession of a forged writing does not prove beyond a reasonable doubt that the possessor has knowledge of the forgery and intent to defraud. State v. Tomlinson, supra, 450 So. 2d  at 383; See also State v. Goiner,
+410 So. 2d 1085
+(La. 1982); State v. Brown,
+352 So. 2d 690
+(La. 1977). Thus, the state was required to present other evidence which proved the defendant's knowledge of the forgery.
+
+In concluding that there was enough evidence to support a finding that the defendant knew the endorsement was forged the court of appeals relied primarily on the discrepancy between the name of the payee and the name signed by the endorser. The name of the payee was "Gary L. Ellis" but the endorsement read "Gary Brooks Ellis." The court concluded that this discrepancy was sufficient to put a reasonable person on notice that the endorsement was forged. State v. Tomlinson, supra, 450 So. 2d  at 384. We disagree. First, and most significantly is the fact that the name discrepancy was not noticed by either of the two bank employees who handled the check and who testified at the trial. In fact, it appears that the forgery was not discovered by any bank employee, but was instead discovered when Gary L. Ellis reported that his unemployment check had not been delivered. If knowledgeable bank employees who examine checks and other items daily to see if they are properly endorsed and completed did not notice the name discrepancy, the defendant certainly could not be expected to notice it. Secondly, the name of the street on which Gary L. Ellis lived, "Brooks Ln" and was typed directly beneath "Ellis, Gary L." on the front of the check such that someone glancing at the front and then the back of the check might easily but mistakenly assume that "Gary Brooks Ellis" on the back was the endorsement of the named payee. Finally, as a matter of negotiable instruments law the name discrepancy does not necessarily mean that the endorsement is improper. La.R.S. 10:3-203 states:
+
+Thus, even assuming that the defendant was well versed in negotiable instruments law and that he noticed the name discrepancy, the defendant could not have been certain that the endorsement was forged. Considering only the check and La.R.S. 10:3-203, a reasonable explanation of the name discrepancy could be that "Gary L. Ellis" was a mistaken designation of Gary Brooks Ellis who then endorsed the check in his own name as contemplated by the first part of the statute. Under the statute it is not mandatory that the name of the endorser be the same as that of the payee. For all of the above reasons the name discrepancy adds little or nothing to the state's effort to prove that the defendant knew or reasonably should have known that the endorsement was forged.
+
+The other argument relied upon by the state and the court of appeal is that the totality of the evidence is sufficient to support the conviction. In addition to the name discrepancy the appellate court points out that there are "some similarities" between the defendant's signature and the endorsement. Further, it is added that Ms. Banks saw the defendant fill out the deposit slip. The state adds that the defendant's failure to place his own endorsement on the check, the unusual method in which the deposit was made, and the   defendant's move to Kansas a month later, are facts which when considered together evidence the defendant's desire to avoid detection and thus his guilty knowledge.
+
+We find the totality of the circumstances argument unpersuasive. The state's argument that there is evidence that the defendant tried to avoid detection is undermined by the fact that the defendant openly deposited the money into his own account. Furthermore, the existence of "some similarities" between the defendant's signature and the endorsement is not sufficient evidence for any reasonable juror to find beyond a reasonable doubt that the defendant forged the endorsement or that he knew that it was forged, especially when the experts stated that the defendant could not be identified as the endorser. Finally, the fact that the defendant apparently filled out the deposit slip does not show that he forged the endorsement or that he knew that it was forged since the experts did not state that the person who wrote the deposit slip also wrote the endorsement and since they stated the endorsement was "disguised writing" but made no such conclusion about the deposit slip.
+
+Beyond the above outlined weaknesses of the evidence against the defendant is the fact that the most reasonable hypothesis of what actually happened is consistent with defendant's innocence. According to Mr. Brown the defendant operated a garage in his own name and the payments for services went directly to him. The deposit of two checks and a substantial amount of cash to the defendant's own account when one of the checks was established to be the proceeds of repair work at the garage suggests that the entire deposit was of proceeds from the garage and was made in the regular course of business. Pursuing this theory further, it is entirely possible that the defendant accepted the endorsed unemployment check as payment for repair work. Once endorsed the check became bearer paper and was negotiable by delivery alone. Thus, the check could have been given by a third person to the defendant in payment for repair services without arousing the defendant's suspicion. The acceptance of an endorsed check as payment is even more likely when the apparently small scale of the defendant's garage operation is taken into account. This explanation of the defendant's possession and deposit of the check is at least as reasonable, if not more so, as the state's argument that the defendant knew the endorsement was forged.
+
+After viewing the evidence in the light most favorable to the prosecution, we do not believe that a rational trier of fact could have found all of the essential elements of the crime beyond a reasonable doubt. The conviction of the defendant is reversed and the case is remanded to the trial court for the entrance of a judgment of acquittal.
+
+WATSON, J., dissents believing the totality of the circumstances to be sufficient to sustain the conviction.

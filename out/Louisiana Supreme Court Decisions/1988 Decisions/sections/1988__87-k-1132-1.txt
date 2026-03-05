@@ -1,0 +1,163 @@
+87-K-1132
+State v. Brand
+https://law.justia.com/cases/louisiana/supreme-court/1988/87-k-1132-1.html
+
+87-K-1132
+State v. Brand
+Court: Louisiana Supreme Court
+Release date: 1988-01-18
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1988/87-k-1132-1.html
+
+520 So. 2d 114 (1988)
+
+STATE of Louisiana
+v.
+Janice BRAND.
+
+No. 87-K-1132.
+
+Supreme Court of Louisiana.
+
+January 18, 1988.
+
+Brady Jones, III, Alton Moran, Office of Public Defender, for applicant.
+
+William J. Guste, Jr., Atty. Gen., Bryan Bush, Dist. Atty., E. Kay Kirkpatrick, Asst. Dist. Atty., for respondent.
+
+LEMMON, Justice.
+
+We granted certiorari to review the intermediate court's decision that the evidence was sufficient to support defendant's conviction of public bribery and that defendant did not carry her burden of proving the affirmative defense of entrapment.
+
+Defendant, as a safety enforcement officer with the Office of Motor Vehicles, had access to confidential driving and criminal records maintained by the state and by the National Crime Information Center (NCIC). State and federal laws prohibited her from releasing information from the NCIC records to the general public.
+
+At trial, Jerry Peters was the principal witness presented by the prosecutor to establish that defendant accepted something of value with the intent to influence her conduct in relation to her position as a public employee.[1] Peters testified that he   was a Federal Bureau of Investigation informant covertly investigating a security guard union and had been appointed to the position of security chief for the union. In April, 1984, he was told by Bobby Blanton, another union official, that he could obtain information on driving or criminal records of union members and employees by calling defendant at a specified telephone number. After meeting defendant at a union meeting, he obtained confidential information from her verbally on several occasions, but no compensation was requested or paid for this information. When Peters mentioned this source of information to his F.B.I. contact and said that defendant had bragged about her access to "close security" state police information, Lieutenant Joseph Booth of the Louisiana State Police asked him to investigate and also to determine whether defendant released this type of information on a regular basis or only as a favor to him and his union.[2]
+
+About June 26, 1984, Peters called defendant at Booth's request to obtain confidential information about five persons and gave her their names, addresses and dates of birth. During the conversation he mentioned giving her money for this information and told her that he was doing some work for New Orleans area lawyers in locating missing persons.
+
+On June 29, 1984, Peters met defendant at a restaurant to obtain the documents. At that meeting Peters had a wireless transmitter strapped to his body, and the conversations were monitored and recorded by Booth and the F.B.I. agent on a receiver across the street from the restaurant. While much of the recording was unintelligible because of background noise in the restaurant, the following conversation outside the restaurant was very clear:
+
+Peters: "When I come back from Eunice, if it's alright with you, I'll bring your money then. OK?
+
+Peters: "O.K. Before you go to Jamaica when are you going to Jamaica?
+
+Defendant: "We're leaving here August 5. We're going to stay in Houston a couple of nights. We're leaving on the 8th.
+
+After the meeting Peters turned the documents over to Booth.
+
+On July 31, 1984, Peters went to defendant's office with $100 in cash obtained from Booth and gave her the money on a ramp outside the building.[3] Although Peters never saw defendant again, defendant was not arrested until December because Peters was acting as an undercover agent on other cases.
+
+Defendant testified and admitted that she gave Peters the documents on June 29 at the restaurant and received $100 from him on July 31 at her office. However, she stated that Peters knew before the June 29 meeting that she was seeking a loan to have extra money for a trip to Jamaica. When Peters called her on June 26 to request the information on the five persons and asked her if she wanted $100, she thought he was lending her that amount   for her trip. When asked on cross-examination about her statement on the tape in response to the "make you rich" comment, she replied that she was shocked and that the statement "was not really meant the way it came down".
+
+The jury returned a verdict of guilty as charged. On appeal, the intermediate court affirmed the conviction, but set aside the sentence and remanded for resentencing. 506 So. 2d 702 (La.App. 1st Cir.1987). We granted certiorari. 512 So. 2d 445.
+
+Sufficiency of Evidence
+
+In complaining of the denial of her motion for post verdict judgment of acquittal, defendant contends that the evidence does not support the jury's finding that defendant agreed to accept the money with the intent that the payment would influence her conduct in relation to her public employment. She argues that the money was received as a loan a month after delivery of the documents and that the evidence did not establish her intent to accept payment in exchange for the information prior to or at the time she delivered the documents.
+
+Peters was apparently a poorly prepared witness, and his testimony as to dates of events was confused. However, he clearly stated that he offered defendant money in return for the information prior to her delivering the documents.[4] Defendant's contrary testimony that she was seeking a loan and received the payment for that purpose is certainly plausible, particularly in view of the fact that she did not request payment for any previous information. Nevertheless, the resolution of the conflict between defendant's version of the payment as a loan and Peters' version of the payment in return for delivery of confidential information was a matter for the jury to decide. Indeed, defendant's extremely damning recorded statement at the time of delivery of the documents strongly favors the jury's resolution of that issue against her and establishes that she intended and agreed to accept money in exchange for the documents at the time of that meeting or earlier. Moreover, there is no indication that defendant attempted to repay any part of the "loan" during the five months between her receipt of the money and her arrest. Finally, the fact that Peters was deriving income from the extra work for the lawyers in missing persons cases possibly explains why he paid for this additional information, although defendant had previously provided similar information without charge as a favor for Peters and his union. We therefore conclude that the evidence, viewed in the light most favorable to the prosecution, was sufficient for a rational trier of fact to find that every essential element of the crime had been proved beyond a reasonable doubt. Jackson v. Virginia,
+443 U.S. 307
+, 99 S. Ct. 2781, 61 L. Ed. 2d 560 (1979); La. C.Cr.P. art. 821.
+
+Entrapment
+
+Defendant contends that the evidence established her defense of entrapment.
+
+*117 Entrapment is a defense which arises when a law enforcement official or an undercover agent acting in cooperation with such an official, for the purpose of obtaining evidence of a crime, originates the idea of the crime and then induces another person to engage in conduct constituting the crime, when the other person is not otherwise disposed to do so. W. LaFave & A. Scott, Criminal Law § 48 (1972); State v. Batiste,
+363 So. 2d 639
+(La.1978). The defense is designed to deter the police from implanting criminal ideas in innocent minds and thereby promoting crimes which would not otherwise have been committed. R. Perkins, Criminal Law, Ch. 10, § 9 (1969). Obviously, law enforcement agents should not persuade citizens to commit crimes, and the defense is recognized to prevent shocking police inducement of the perpetration of a crime.
+
+Entrapment is an affirmative defense.[5] See Model Penal Code § 2.13(2); State v. Cook, 460 So. 2d 1075 (La.App. 2nd Cir.1984), cert. denied 466 So. 2d 465,
+466
+(1985). Thus, the burden was on defendant to prove entrapment by a preponderance of the evidence. The question whether the government agent implanted the criminal idea in the mind of an innocent person to induce the commission of a crime that would not otherwise be committed is one for the jury. Sorrells v. United States,
+287 U.S. 435
+, 53 S. Ct. 210, 77 L. Ed. 413 (1932).
+
+The entrapment defense will not be recognized when the law enforcement official merely furnishes the accused with an opportunity to commit a crime to which he is predisposed. State v. Moody,
+393 So. 2d 1212
+(La.1981). In entrapment cases, a line must be drawn between the trap for the unwary innocent and the trap for the unwary criminal. Sherman v. United States,
+356 U.S. 369
+, 78 S. Ct. 819, 2 L. Ed. 2d 848 (1958). Thus, the focus in determining an entrapment defense is on the conduct and predisposition of the defendant, as well as the conduct of the government agent.
+
+In the present case, defendant contends that the evidence, while showing that she was predisposed to release confidential information to unauthorized persons, did not establish that she was predisposed to do so for money. The question is whether the proved criminal conduct was caused by Peters' inducement of an innocent person into committing the crime or by defendant's readiness and willingness to do so without persuasion. State v. Batiste, supra.
+
+The fact that defendant did not charge Peters for illegally furnishing information on several occasions does not necessarily prove that she would not charge for continuing requests or for increased numbers of requests. The evidence was somewhat neutral on this point, perhaps because defendant never took the position at trial that she was induced to commit a crime she would not otherwise have committed. Rather, defendant consistently took the opposite position that she did not commit a crime at all, through inducement or otherwise.[6] Her steadfast assertion was that she intended to accept the money only as a loan, a version obviously rejected by the jury.
+
+Defendant's conduct in furnishing criminal history records to Peters, with or without compensation, was arguably a violation of La. R.S. 15:596 which could have subjected her to criminal sanctions roughly equivalent   to the penalty for public bribery. The fact that defendant engaged in risky (and arguably criminal) conduct in furnishing the confidential information to Peters not only indicates that she was not totally innocent, but also gives rise to the reasonable inference that she might expect compensation for continuing or increasing the risk. Moreover, her statement that she "could use the money" in response to Peters' "make you rich" comment at the time of delivery suggests a predisposition to receive money for continuing and possibly increasing the risky practice of supplying this information. The inference of being predisposed to accepting money in connection with continuing risky conduct is at least as equally plausible from the evidence as the inference (of not being so predisposed) which might arise from the fact that she had not previously charged for occasionally furnishing this information to the union.
+
+On the evidence in this record, viewed in the light most favorable to the prosecution, a rational trier of fact could have found that defendant did not prove her affirmative defense of entrapment by a preponderance of the evidence.
+
+Accordingly, the conviction is affirmed.
+
+CALOGERO, J., concurs.
+
+[1]  La.R.S. 14:118 provides in pertinent part:
+
+"Public bribery is the giving or offering to give, directly or indirectly, anything of apparent present or prospective value to any of the following persons, with the intent to influence his conduct in relation to his position, employment, or duty:
+
+"(1) Public officer or public employee; or
+
+"(2) Election official at any general, primary, or special election; or
+
+"(3) Grant or petit juror; or
+
+"(4) Witness, or person about to be called as a witness, upon a trial or other proceeding before any court, board, or officer authorized to hear evidence or to take testimony.
+
+"(5) Any person who has been elected or appointed to public office, whether or not said person has assumed the title or duties of such office.
+
+"The acceptance of, or the offer to accept, directly or indirectly, anything of apparent present or prospective value, under such circumstances, by any of the above named persons, shall also constitute public bribery." (emphasis added)
+
+[2]  Peters had been arrested by Booth in 1983 while on parole on a federal bank robbery conviction. The charges were dropped about four months later when Peters, who denied guilt on the arrest charges, agreed to assist law enforcement authorities in disposing of two old cases. Peters denied any promises or benefits for his testimony in this case.
+
+[3]  Peters was again equipped with a wireless transmitter, but the recording was completely unintelligible. Booth, however, heard the money exchange on the receiver, and defendant admitted receipt of the money on this occasion.
+
+[4]  Peters testified at various points in the record:
+
+"Q Isn't it true that on June 26th, 1984 you had a telephone conversation with Ms. Brand?
+
+"A Correct.
+
+"Q And where certain communcations were made aboutor the information necessary for an NCIC to be accomplished was given to Ms. Brand?
+
+"A Correct.
+
+"Q Was there any mention as to money at that time?
+
+"A Either at that time or prior to it."
+
+. . . . .
+
+"Q How much money was given to her?
+
+"A A hundred dollars.
+
+"Q Had that amount been agreed upon between you and Ms. Brand previously?
+
+"A Yes, sir.
+
+. . . . .
+
+"Q In the conversation that you had with Ms. Brand prior to June 29th which I believe was June 26th you did communicate an offer of a hundred dollars for documents. Is that my understanding of what you said you did?
+
+"A I believe so.
+
+"Q And you gave her the names, dates of addressaddresses, and dates of birth of five individuals?
+
+"A I believe so.
+
+"Q Okay. And that was the documents, the NCIC written reports that you received on June 29th?
+
+"A Correct."
+
+"Q The money that you offered, is that money for what?
+
+"A Uh, NCIC information on some criminal records and such on some particular individuals."
+
+[5]  An affirmative defense is one which, rather than negating an essential element of the crime, presents exculpatory circumstances that defeat culpability in spite of the fact that the prosecutor has proved all of the essential elements beyond a reasonable doubt. State v. Cheatwood,
+458 So. 2d 907
+(La.1984), n. 4. Thus, the defense of intoxication (La. R.S. 14:15) which negates the mental element of an offense is not an affirmative defense, while the defense of justification (La. R.S. 14:18) which presents exculpatory circumstances bearing on culpability is an affirmative defense.
+
+[6]  In State v. Harrington,
+332 So. 2d 764
+(La. 1976), a plurality decision of this court held that a defendant may plead not guilty and still rely on the defense of entrapment to show that he was induced into committing the crime. See United States v. Mathews, 803 F.2d 325 (7th Cir.1986), cert. granted ___ U.S. ___, 107 S. Ct. 1601, 94 L. Ed. 2d 788. The present decision, without addressing that issue, simply holds that a defendant who relies on the defense of entrapment has the burden of proving that affirmative defense.

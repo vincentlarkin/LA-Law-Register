@@ -117,17 +117,23 @@ def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
                     doc_id = _doc_id_from_entry(ent)
                     if not doc_id:
                         continue
-                    citation = ent.get("citation") or ""
-                    title = ent.get("title") or ""
                     meta_path = bundle_dir / "sections" / f"{doc_id}.json"
                     txt_path = bundle_dir / "sections" / f"{doc_id}.txt"
                     text = _load_doc_text(meta_path, txt_path)
                     if not text:
                         continue
                     local_file = ""
+                    citation = ent.get("citation") or ""
+                    title = ent.get("title") or ""
                     if meta_path.exists():
                         try:
                             meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                            raw_citation = meta.get("citation")
+                            if isinstance(raw_citation, str) and raw_citation.strip():
+                                citation = raw_citation.strip()
+                            raw_title = meta.get("title")
+                            if isinstance(raw_title, str) and raw_title.strip():
+                                title = raw_title.strip()
                             raw_local_file = meta.get("local_file")
                             if isinstance(raw_local_file, str):
                                 local_file = raw_local_file.strip()

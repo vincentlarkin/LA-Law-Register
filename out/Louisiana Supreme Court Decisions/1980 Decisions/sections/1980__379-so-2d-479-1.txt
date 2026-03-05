@@ -1,0 +1,165 @@
+63701
+Slagle-Johnson Lumber Co. v. Landis Const. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1980/379-so-2d-479-1.html
+
+63701
+Slagle-Johnson Lumber Co. v. Landis Const. Co.
+Court: Louisiana Supreme Court
+Release date: 1979-05-21
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/379-so-2d-479-1.html
+
+379 So. 2d 479 (1979)
+
+SLAGLE-JOHNSON LUMBER COMPANY, INC., Plaintiff-Appellant-Relator,
+v.
+LANDIS CONSTRUCTION COMPANY, INC. and Seaboard Surety Company, Defendants-Appellees-Respondents.
+
+No. 63701.
+
+Supreme Court of Louisiana.
+
+May 21, 1979.
+
+Dissenting Opinion June 27, 1979.
+
+On Rehearing January 28, 1980.
+
+R. L. Davis, Jr., Theus, Grisham, Davis & Leigh, Monroe, for plaintiff-appellant-relator.
+
+Wood T. Sparks, Thompson, Sparks, Cudd & Dean, Monroe, for defendants-appellees-respondents.
+
+TATE, Justice.
+
+The plaintiff lumber company seeks recovery from a general contractor (Landis) and its surety (Seaboard) for some twelve thousand dollars of lumber and nails used to construct wooden forms for pouring of concrete. The forms were used in the construction of a concrete football stadium for a state university, pursuant to a public contract between the state and the general contractor. The materials had been sold to a defaulting subcontractor.[1]
+
+The plaintiff's suit was dismissed. 366 So. 2d 206 (La.App. 2d Cir. 1978). The trial   and intermediate courts held that the statutory lien granted to materialman and suppliers for construction of public works, La. R.S. 38:2241, 2242, did not extend to materials such as these, which were only indirectly used in construction, even though they were to an appreciable extent consumed during the performance of the construction contract.
+
+In so holding, the previous courts followed our decision in Hayes Lumber Co. v. McConnell, 176 La. 431, 146 So. 14 (1932). There, we denied a statutory lien under facts similar to the present for lumber and nails used to make forms for concrete bridge piers constructed in performance of a public highway contract.
+
+We granted certiorari, 367 So. 2d 379 (1979), to re-examine our holding in Hayes that materials entirely consumed in the performance of the contract, if not physically incorporated into the work, were not within the lien protection accorded those who do work, perform labor, or furnish material and supplies for the construction, alteration, or repair of public works. La.R.S. 38:2241-48, originally enacted as Act 224 of 1918 (sometimes referred to as the Public Works Act).
+
+We entertained doubt as to the viability of the Hayes interpretation of so restricted a statutory intent, because of amendments to the original 1918 act which expanded the lien protection to materials or services used in the construction of the work, although not actually physically part of the completed construction.[2] Likewise, we were concerned by the plaintiff's arguments that a supplier who delivered materials to a job-site, ordinarily protected by a presumption of a statutory lien upon such delivery, Bernard Lumber Company v. Sayre, 230 La. 17,
+87 So. 2d 713
+(1956), might be readily deprived of it upon the contractor's diversion (or self-serving assertion of such diversion) of the lumber or other materials to a purpose other than of incorporation in the completed structure.
+
+Further, the holding in Hayes is to some extent inconsistent with our earlier holding in Long Bell Lumber v. S. D. Carr Const. Co., 172 La. 182, 133 So. 438 (1931). Therein, we recognized a statutory lien for dynamite, fuses, and caps used in clearing ground in the performance of a highway contract, because these items were necessary to and entirely consumed in the performance of the highway construction contract.[3]
+
+*481 Despite these persuasive considerations to the contrary, however, we decline to overrule Hayes, for reasons more fully stated below.
+
+The facts show:
+
+Landis, the general contractor, had entered into a subcontract with a construction company (Crutcher) for it to construct the first and second level concourse platforms of the stadium and the ramps leading to it. Crutcher purchased the materials for the forms from the plaintiff lumber company (Slagle-Johnson), but defaulted after two months, with the subcontract then being about thirty percent complete. (Crutcher ultimately declared bankruptcy.)
+
+Landis took over Crutcher's subcontract, using some of the material purchased from Slagle-Johnson, which Crutcher had abandoned at the job-site. At the conclusion of the construction contract, the remaining materials used and re-used for the forms were stacked up and remained at the job-site. The evidence is conflicting whether this remainder is still re-usable, it having been sawed up into particular lengths and having been previously used one or more times.
+
+The materials which were the basis of the lien consisted primarily of timbers or lumber (2 × 4's, 2 × 6's, and 4 × 4's, etc.), plyform (a special grade of plywood made especially for concrete forms), and nails. According to the record, to the knowledge of both buyer and seller the lumber and nails were purchased for the purpose of constructing the forms; there is no claim that the seller was misled or ignorant as to the destination of the materials delivered by it to the construction site.
+
+A contractor builds the forms to particular specifications for the concrete forms to be used, and he removes the material when the concrete is set. Some of the form material is damaged or destroyed in removing it; some of it is of such shape or size as to be of little or no further utility; but much of it can be cleaned, oiled, and re-used to build other forms as many as six times. Whether to use or discard a specific item is a judgment decision of the foreman, which is based upon his evaluation of the utility of the material (based upon its shape, size and condition) and the labor cost of cleaning and preserving the material or of transporting it to a new job-site.
+
+In this particular case, much of the material was used and re-used on the job-site until it had become useless as forming material. Some of it survived and allegedly would have been suitable for use on another job, although actually it was abandoned by Landis (as well as Crutcher) at the job-site.
+
+The issue before us is whether the lumber and nails used to construct the forms are lienable "materials or supplies for the construction" of a public work, La.R.S. 38:2242, within the meaning of the Public Works Act.
+
+Both previous courts, citing Hayes, held that the material was not, within the statutory intention, "material or supplies furnished for the construction" of the stadium. The facts in Hayes are similar to the present case. Lumber and nails were used in the construction of concrete forms and trestles at the construction site. None of the timber or nails were permitted to remain and become a part of the completed structure. All of the nails and 75% of the lumber were materially injured or destroyed in the course of construction.
+
+In Hayes, we held that the material was not lienable, since it "did not enter directly into the improvement, but only in an indirect and secondary manner, and, in no sense, goes to make up the completed improvement," 146 So. 16, and was, similar to a tool used in construction, neither consumed   nor incorporated into the construction. See footnote 3 above, for full quotation.
+
+In so concluding, we distinguished our earlier decision in Long Bell Lumber Company v. S. D. Carr Const. Co., 172 La. 182, 133 So. 438 (1931), wherein dynamite and caps were held to be protected by the lien because they were destined for consumption into the construction. As noted above (footnote 3), Hayes stated that in the Long Bell case "by direct use and consumption of the material on the proposed bed of the roadway a desired condition was brought about, which formed a permanent and necessary part of the roadway. In that sense it may be said the material entered into the completed work." 146 So.  at 16. See footnote 3 above.
+
+We agree with the plaintiff that the distinction between Hayes and Long Bell is a fragile one. The lumber in plywood forms, to the extent that it is destined to be rendered useless by repeated use on the job-site, seems to "enter into the completed work" to the same extent as the dynamite. It is "consumed" even though it may not be "incorporated into" the final product; arguably, it is used "for the construction of" the work under the literal terms of the statute.
+
+Nevertheless, however fragile the distinction, it seems to have been workable in practice. The construction industry does not seem to have found practical difficulty in accommodating itself to the distinction that lumber and supplies delivered to a job-site and incorporated in the completed construction are lienable, while those delivered and intended for use for purposes merely incidental to the construction are not. See Louisiana Highway Commission v. McCain, 197 La. 359, 1 So. 2d 545 (1941).[4] To solve particular difficulties, the legislature has amended La.R.S. 38:2241 and 2242 on several occasions,[5] but nevertheless has not seen fit to address the alleged difficulties to suppliers presented by Hayes and by that decision's alleged discrepancy in rationale with Long Bell.
+
+The Hayes interpretation of the ambiguous statutory language reflects a choice of policy values as to those interests which should be protected by lien. In the absence of clear showing that the former interpretation is unwise or impractical, legislative amendment rather than judicial re-interpretation is appropriate to accomplish any change.
+
+We are re-enforced in this view by the facts of the present case.
+
+Once material is delivered to the job-site by a supplier, the burden is upon those who oppose his lien to prove that the material was not used in the construction. Bernard Lumber Company v. Sayre, 230 La. 17,
+87 So. 2d 713
+(1956); Laney Company v. Airline Apartments, 223 La. 1000,
+67 So. 2d 570
+(1953). If lumber and nails intended for use for forms were lienable if entirely consumed in the work (as the plaintiff contends) under this principle the plaintiff would here be entitled to recover for all lumber or nails delivered to the job-site, even though none of it was incorporated in the final structure and though an appreciable part of it was (according to the record) re-usable: for no records are (or could practicably be) kept as to how much of the   lumber is consumed by the forms, and how much is available for re-use on other construction projects.
+
+The Hayes line of lienability, i. e., the incorporation into the completed construction or directed consumption (dynamite) into the work, while difficult to accept as totally logical, has served over the years fairly well to delineate and limit those items covered by the lien. To afford lienability to other items indirectly consumed in the construction, such as tools which break or wear out, scaffolding, ropes, and disposable forms, might create uncertainty and afford lienability to incidental costs of construction not intended by the legislature to be protected by the Public Works Act.[6]
+
+As our brothers of the Second Circuit noted above, that law was essentially designed to protect only the contractor and subcontractor and their respective creditors for constructing a work of fixed and permanent value to be surrendered to the owner for whom the work is done. It should not be judicially extended beyond its intent to protect those who furnish materials or supplies not directly used as part of the construction of the work and (except where otherwise authorized by statute) not incorporated therein.
+
+Accordingly, we affirm the judgment of the court of appeal, which denied the plaintiff lien protection for material used to make forms for concrete, where such forms were incidentally and indirectly used in the construction of the public work and were not physically incorporated into the completed structure. The plaintiff is to bear all costs of these proceedings.
+
+AFFIRMED.
+
+DENNIS and CALOGERO, JJ., dissent and assign reasons.
+
+CALOGERO, Justice, dissenting.
+
+I respectfully dissent, being of the opinion that H. R. Hayes Lumber Co. v. McConnell, 176 La. 431, 146 So. 14 (1933) is incorrect and should be overruled.
+
+DENNIS, Justice, dissenting.
+
+I respectfully dissent.
+
+Plaintiff asserts that he is entitled to a statutory lien for the value of lumber and nails used to build concrete forms in connection with a construction under public contract. La.R.S. 38:2241 provides, in pertinent part:
+
+The Miller Act, which creates a statutory lien in connection with federal public works projects, contains language similar to the language at issue in the present case. See 40 U.S.C.A. §§ 270a, 270b. In interpreting this statute, federal courts have expressly refused to distinguish between materials incorporated into the completed building and materials which were used up, or essentially used up in the construction process. See, e. g., Continental Casualty Co. v. Allsop Lumber Co., 336 F.2d 445 (8th Cir. 1964), cert. denied 379 U.S. 968, 85 S. Ct. 662, 13 L. Ed. 2d 561 (1964); United States v. Endebrock-White Co., Inc., 275 F.2d 57 (4th Cir. 1960); United States v. Fire Association of Philadelphia, 260 F.2d 541 (2d Cir. 1958); Fourt v. United States, 235 F.2d 433 (10th Cir. 1956); Glassell-Taylor Co. v. Magnolia Petroleum Co., 153 F.2d 527 (5th Cir. 1946); United States v. Continental Casualty Co., 224 F. Supp. 857 (D.C.Pa.1964).
+
+The distinction which forms the basis of the majority's opinion is, in my opinion, both fragile and unworkable. A supplier of materials must now determine, if he can, prior to delivery whether materials requested by a builder are to be entirely incorporated into the finished structure or are to be used in construction and then discarded. If the items are not to be entirely incorporated into the finished structure, then the supplier may find it necessary to demand cash in advance in order to secure payment. When dealing in materials such as nails and lumber, it may be virtually impossible in most circumstances to determine how much of the materials will end up in the finished building.
+
+DENNIS, Justice.[*]
+
+We granted a rehearing to consider again the question of statutory construction presented by this case: whether the Public Works Act, La.R.S. 38:2241 et seq., provides a privilege to persons who furnish materials for the construction of public works, if the materials are consumed in construction but not incorporated in the permanent structure. Upon further consideration and review, we hold that suppliers of such materials are protected by the statute. Accordingly, we reverse the judgments of the trial and intermediate appellate courts, which rejected the materialman's claims entirely, and remand the case to the district court for further proceedings.
+
+This is a suit under the Public Works Act, La.R.S. 38:2241 et seq., by Slagle-Johnson Lumber Company against Landis Construction Company, the primary contractor for the construction of a football stadium at Northeast Louisiana University, and its surety, Seaboard Surety Company. Slagle-Johnson sold building materials, primarily nails, lumber and plyform, to a Landis sub-contractor, N. D. Crutcher Construction Company, and delivered the materials to the stadium construction site. Crutcher failed to pay Slagle-Johnson for the materials and defaulted on its subcontract with Landis. Slagle-Johnson unsuccessfully sought to collect from Crutcher and Landis and filed a lien against the job. Landis took over and completed Crutcher's part of the contract using the materials furnished by Slagle-Johnson.
+
+Crutcher's subcontract called for it to build forms for the pouring of concrete to construct stadium ramps and concourses.   The trial judge found that none of the materials furnished by Slagle-Johnson had been removed from the site. In his written reasons he stated that "[s]ome of the material is damaged or destroyed in removing it; some of it is of such shape or size as to be of little or no further utility; much of it can be kept and re-used to build most forms.... Apparently, whatever Crutcher left on the job has either been `junked' or is still being used...."
+
+Slagle-Johnson filed this suit against Landis and Seaboard Surety Company, the surety on the bond filed by Landis. The trial and intermediate appellate courts rejected Slagle-Johnson's demands, basing their decisions on H. R. Hayes Lumber Company v. McConnell, 176 La. 431, 146 So. 14 (1933) in which this Court held that materials furnished for the construction of public works must be actually incorporated in the permanent structure to entitle the material supplier to a privilege. We granted writs to consider whether our holding in the Hayes case should be overruled.
+
+H. R. Hayes Lumber Company v. McConnell, supra, must be overruled because the Public Works Act clearly provides a privilege to all materialmen who furnish materials consumed in the construction of public works, regardless of whether the materials are physically incorporated in the permanent structure. The Public Works Act, in pertinent part, provides:
+
+"* * *
+
+The statute draws no distinction between furnished materials which are incorporated in the public works and those which are merely consumed in their construction. Indeed, under the literal wording of the statute a privilege is granted whenever materials are furnished for the construction of a public work, regardless of whether they are consumed or incorporated in the edifice. We conclude, however, that the statute implies a requirement of consumption or incorporation of the materials furnished for construction of the public work before a privilege shall attach.
+
+A different interpretation cannot be justified by the rule that statutes conferring privileges are to be strictly construed. Cf. La.C.C. art. 3185; Lumber Products, Inc. v. Crochet, 244 La. 1060,
+156 So. 2d 438
+(1933). The rule is one of statutory construction requiring courts to adopt the reasonable interpretation which is more favorable to the obligor in case of an ambiguity. Even a strict construction of a statute, however, must be a reasonable one. The words of the Public Works statute cannot be reasonably interpreted as conditioning a materialman's lien upon the incorporation of each item supplied into the completed structure. By adding the requirement of "actual incorporation" to the statute this Court has not merely adopted a strict construction of the law; it has engaged in unwarranted legislation which altered the statute beyond the scope of its original meaning.
+
+Moreover, the statutory construction adopted by this Court in H. R. Hayes Lumber Company v. McConnell was contrary to the underlying legislative policy. The Public Works Act was adopted to protect those   who furnish labor or materials for public works.[**] In accord with this policy, and the clear wording of the statute, it is the opinion of this Court that as against the statutory obligors a materialman may recover under the Act where he has sold and delivered material to the construction site which is effectively consumed or used up in the construction of the public work. Neither the policy nor the language of the legislature suggests an intention to afford protection only to materialmen whose materials end up being physically incorporated in the building.
+
+The mere fact that the legislature has not seen fit to amend the statute following interpretation of it in H. R. Hayes Lumber Company v. McConnell does not require that we perpetuate a construction plainly inconsistent with the legislative intent. The theory that courts may presume from the legislature's silence its adoption of a statutory construction is not without limits. Where the judicial interpretation exceeds the bounds of reasonable construction of an ambiguous statute, as in the Hayes case, the legislature's failure to amend the statute does not warrant perpetuation of the judicial error.
+
+Since the trial and intermediate courts did not reach the problem of determining how much of the materials furnished by Slagle-Johnson was effectively consumed or used up in the course of constructing the public football stadium, it will be necessary that the case be remanded for further factual findings. Our review of the record indicates that it may be necessary for the trial judge to take additional evidence on the issue. Accordingly, the judgments of the district court and court of appeal are vacated and the case is remanded to the district court for further proceedings consistent with our opinion herein, including, within the trial judge's discretion, the taking of additional evidence.
+
+REVERSED AND REMANDED.
+
+WATSON, J., concurs in the result.
+
+MARCUS, J., dissents.
+
+[1]  The general contractor and its surety are nevertheless liable to the subcontractor's suppliers for materials used (within the meaning of the Public Works Act) in the construction of a public work. La.R.S. 38:2241 (1975); Thurman v. Star Electric Supply, Inc.,
+307 So. 2d 283
+(La.1975).
+
+[2]  See amendments incorporating the lien protection accorded by present La.R.S. 38:2242 to: materials or supplies for use in machines used in connection with such contracts. Act 271 of 1926; claims for services of architects and engineers, Act 537 of 1966; transportation costs for delivery of materials, Act 344 of 1975.
+
+[3]  In rejecting (over the dissent of one justice) the argument that the lumber and nails for the concrete forms in Hayes were as effectively consumed in the performance of the public contract as was the dynamite in Long Bell, we stated in Hayes, 146 So. 16:
+
+"The [Long Bell] case was one where, by the direct use and consumption of the material on the proposed bed of the roadway, a desired condition was brought about, which formed a permanent and necessary part of the roadway. In that sense it may be said the material entered into the completed work. On the other hand, the present case is one in which the lumber and the nails were not used directly on the work, but indirectly on it, once removed, as it were, from the highway construction, much, though not quite so far, as was the saw that sawed the lumber. In this view, there is a clear distinction between this case and the Long Bell Lumber Co. casea distinction that it is necessary to observe, otherwise the act of 1918, which is intended to protect certain classes of claimants, will be made virtually of no value by the letting in of a large number of claimants, never intended by the Legislature, whose claims are far removed from the improvement under way. It may be said that it was not the intention of the majority of the court, in the Long Bell Lumber Co. case, to depart from prior jurisprudence, as appears from the face of the decision itself. It may also be said that the question presented is not one of equity, but is one of law, and of that kind which must be construed strictly, and the jurisprudence under it must be uniform, for there is a vast amount of material furnished monthly in this state under the statute, the furnishers looking largely to the statute for protection.
+
+"Since the [forming] material furnished did not enter directly into the improvement, but only in an indirect and secondary manner, and, in no sense, goes to make up the completed improvements, and since the act of 1918 has not been amended so as to bring the material furnished within its scope, there is nothing to do but to amend the judgment appealed from by rejecting the demand of the H. R. Hayes Lumber Company. * * *"
+
+[4]  "Other decisions which have held materials to be not lienable by the applicable statute are B & G Crane Service, Inc. v. Anderson Bros. Corp., 132 So. 2d 681 (La.App. 1st Cir. 1961) (files, nails, pipe cable, wedges, potato forks, and rope); and Terrebonne Lumber and Supply Co. v. Favret, 2 So. 2d 256 (La.App. 1st Cir. 1941) (lumber for scaffolding and mortar box forms).
+
+[5]  These amendments have both expanded and narrowed the scope of the lien. See, Act 59 of 1960 (excluding from section 2242 "persons to whom money is due for the lease or rental of movable property"); Act 537 of 1966 (including in section 2242 availability of the lien for architects and consulting engineers); Act 344 of 1975 (expanding both sections to include transportation costs for delivery of materials); Act 253 of 1977 (amending section 2242 to specify conditions under which architects and consulting engineers will be entitled to the lien.) See also Act 271 of 1926 ("furnishing material or supplies for use in machines used in connection" with public contracts).
+
+[6]  In the instant case, our brothers of the Second Circuit in our view perceptively analyzed and decided the issue before us, 366 So.2d 208-209:
+
+"The material in question here (plywood, lumber and nails) was not incorporated into the completed concrete structure. The use of the material was temporary and not permanent and fixed. The material was not surrendered to the university for whom the work was done. Once the concrete hardened, the material was removed from the structure. In many jobs there are things which are used temporarily that do not become part of the completed structure. Examples in the cases include material used for making forms, scaffolding, lumber, nails, wedges, rope, cables, material in temporary embankments, temporary piling as well as tools and implements. Some of these things are `effectively consumed', greatly damaged, or worn out by the temporary use to which they are employed. Nonetheless, they are not directly consumed in or by the work and exist in tangible form after the work is completed. An implement, no matter how specialized, which is used to create a particular shape required by a public contract, and no matter what its worth after, does not become a part of the work, and unlike dynamite directly employed to create a shape for the foundation of a work, it is not directly consumed so as to become a part of the work. This is the express pronouncement of the cases beginning in 1928 and ending in 1976, as we have reviewed them."
+
+[*]  Chief Judge Paul B. Landry, Retired, participated in this decision as an Associate Justice Ad Hoc.
+
+[**]  The purpose of the statute is evident from both its text and the title indicative of its object. The Public Works Act title, in pertinent part, provides that it was enacted:
+
+"... to protect persons doing work, performing labor or furnishing material for the construction, erection, alteration or repair of public buildings, public roads or public works of any character; ..." Act No. 224 of 1918.

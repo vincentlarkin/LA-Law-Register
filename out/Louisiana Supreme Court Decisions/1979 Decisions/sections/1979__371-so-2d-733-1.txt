@@ -1,0 +1,128 @@
+62746
+State v. Simpson
+https://law.justia.com/cases/louisiana/supreme-court/1979/371-so-2d-733-1.html
+
+62746
+State v. Simpson
+Court: Louisiana Supreme Court
+Release date: 1979-03-05
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/371-so-2d-733-1.html
+
+371 So. 2d 733 (1979)
+
+STATE of Louisiana
+v.
+Everette SIMPSON.
+
+No. 62746.
+
+Supreme Court of Louisiana.
+
+March 5, 1979.
+
+Dissenting Opinion June 19, 1979.
+
+*734 Thomas W. Mull, Orleans Indigent Defender Program, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Fred P. Harper, Jr., Asst. Dist. Atty., for plaintiff-appellee.
+
+*735 DIXON, Justice.[*]
+
+During the early morning hours of July 6, 1975 Everette Simpson and Gregory Ursin were playing pool at Jimmie's Pool Hall near the corner of Valence and Freret Streets in New Orleans. Ursin had arrived at Jimmie's after an evening of frequenting bars and pool halls with a friend, LeRoy Washington. Although he did not know Simpson, Ursin engaged him in a pool match and the stakes were set at $3.00 a game. After several hours of play, Ursin owed Simpson about $15.00 and offered to pay him with a check which was in his car, to which Simpson agreed. However, in the meantime Washington had borrowed Ursin's car to take another friend home. While waiting outside for the car to be returned, Simpson grew impatient and asked Ursin to give him his watch as collateral for the debt. When Ursin refused, Simpson placed a gun between Ursin's eyes and demanded the watch. Ursin again refused; Simpson then cocked the trigger and Ursin gave him the watch. After Simpson walked away, Ursin followed him and attempted to notify the authorities, but Simpson had disappeared by the time he found a police officer. However, Simpson surrendered himself to the police on the following day and was charged with armed robbery, a violation of R.S. 14:64. He was subsequently convicted on November 6, 1975 of simple robbery and was sentenced as a multiple offender to seven years at hard labor. On appeal the defendant relies on one assignment of error as requiring a reversal of the conviction and sentence.[1]
+
+By this assignment of error, the defense contends that it was error for the trial judge to deny the defendant's plea of former jeopardy. The plea arose from a mistrial granted on October 9, 1975 when the defendant was first tried for the same offense. During the trial Gregory Ursin testified for the prosecution and was cross-examined by the defense on the subject of past convictions:
+
+After a bench conference out of the jury's hearing, the trial judge declared a mistrial and gave the following justification for his ruling:
+
+The record indicates no response to this ruling by either the defendant or his attorney.
+
+The constitutional protection against double jeopardy protects a defendant in a criminal proceeding from repeated prosecutions for the same offense as well as from repeated convictions and punishments for it. United States v. Dinitz,
+424 U.S. 600
+, 96 S. Ct. 1075, 47 L. Ed. 2d 267 (1976); United States v. Wilson,
+420 U.S. 332
+, 95 S. Ct. 1013, 43 L. Ed. 2d 232 (1975). Therefore, a mistrial declared without the defendant's consent ordinarily operates as a bar to further prosecution for the same criminal conduct. United States v. Jorn,
+400 U.S. 470
+, 91 S. Ct. 547, 27 L. Ed. 2d 543 (1971); State v. Lawson,
+338 So. 2d 627
+(La.1976); State v. Birabent,
+305 So. 2d 448
+(La.1974).
+
+However, the jurisprudence has developed certain exceptions to this principle. United States v. Perez, 9 Wheat. 579,
+22 U.S. 579
+, 6 L. Ed. 165 (1824), established the right of the prosecution to reprosecute in instances of "manifest necessity," as where the jury was unable to reach a verdict. Moreover, the United States Supreme Court has until recently followed a course of limited review for such declarations and has questioned the trial court's ruling only in clear cases of abuse of discretion. Note, 32 La.L.Rev. 145 (1971). In Gori v. United States,
+367 U.S. 364
+, 81 S. Ct. 1523, 6 L. Ed. 2d 901 (1961), the court in effect held that declaring a mistrial and discharging the jury did not trigger double jeopardy if the mistrial benefited the defendant. However, in United States v. Jorn, supra, the court apparently retreated from the broad implications of its holding in Gori. There the mistrial was declared without the defendant's consent so that the government witnesses could consult with their attorneys (about their right against self-incrimination) prior to testifying; a subsequent prosecution was then dismissed on double jeopardy grounds. By affirming the dismissal, the court demonstrated that a mistrial declared without the defendant's consent and in the absence of manifest necessity is likely to trigger double jeopardy, especially if the mistrial was not declared for the defendant's benefit.
+
+Louisiana has attempted to codify these principles in the Code of Criminal Procedure. Article 591 states that a retrial is permissible only if the defendant moved for the new trial "or where there has been a mistrial legally ordered under the provisions of Article 775 or ordered with the express consent of the defendant." Article 775 in turn establishes grounds for ordering a mistrial:
+
+By providing five specific instances in which the trial judge may declare a mistrial on his own motion, the article limits the scope of the manifest necessity rule developed by the federal courts. State v. Lawson, supra. Due to this limitation, situations may arise in which it may seem advisable to declare the mistrial without the defendant's consent, but which do not fit into the circumstances enumerated in Article 775. In such situations, a "mistrial" declared without the defendant's consent would actually constitute an illegal dismissal, and a retrial would be prevented by the constitutional protection against double jeopardy. U.S.Const. Amend. V, Amend. XIV; La.Const., art. 1, § 15; C.Cr.P. 591; Note, 32 La.L.Rev. 145, 153 n. 30 (1971).
+
+In the instant case, the defense contends that the defendant did not consent to the mistrial, apparently on the basis of the absence in the record of any specific agreement to that effect. The State in turn argues that the defendant did consent to the ruling or, in the alternative, that the trial judge was authorized to grant the mistrial sua sponte because "a legal defect in the proceeding (the allegedly improper questions asked by the defense attorney) . . . would make any judgment entered upon the verdict reversible as a matter of law." C.Cr.P. 775(3). We note at the outset that this latter provision is inapplicable to the instant situationa judgment acquitting the defendant would not be appealable, and a conviction certainly would not be reversed on the basis of questions asked by defense counsel. Therefore, it is clear that the trial judge was not authorized to declare the mistrial on his own motion, and, as a result, the defendant's consent was necessary to the proper granting of the mistrial. The question raised, therefore, is whether this consent must be "the express consent of the defendant" of Article 591.
+
+Although Article 775 provides that a mistrial may be granted and the jury dismissed when "[t]he defendant consents thereto," it does not further define consent. However, comment (e) to this article states that it must be considered in light of Article 591, in which "the express consent of the defendant" is required for the ordering of a mistrial (emphasis added).[2] The record of the first trial reveals only that the defense pursued a line of questioning which the State found objectionable, and that, after a bench conference, the trial judge ordered a mistrial to which ruling the defense did not object. Clearly, the express consent required by Article 591 cannot be found in the record before the court.
+
+In State v. Lawson, supra, the court considered the propriety of a mistrial which was granted after a bench conference following defense objections to improper cross-examination of a defense witness. Although the defendant did not specifically consent to the ruling, we concluded that the failure to object to a mistrial was the equivalent of an acquiescence which barred subsequent complaint about the propriety of the mistrial. This result was reached in   reliance on comment (d)[3] to Article 775 which provides:
+
+Certainly the result in Lawson is correct. The defense attorney brought the objectionable question to the attention of the trial judge and was apparently not satisfied with the prospect of an admonition by the judge. Moreover, it was the defense which was aggrieved by the cross-examination and which benefited from the mistrial. In light of these factors, a finding that the defendant consented to the mistrial had ample support.
+
+Nevertheless, the reasoning underpinning the Lawson decision cannot be applied to the case at hand. Comment (d) to Article 775 states that a defendant must object to an improper mistrial and reserve a bill of exceptions or be considered to have acquiesced in the court's ruling. In essence the comment is a statement that the provisions of Article 841 (as originally enacted)[4] apply to a mistrial situation, and that the general legislative policy requiring contemporaneous objection to any irregularity and reservation of a bill of exceptions must be followed.
+
+However, it is apparent that contemporaneous objection and reservation of a bill are not applicable to a plea of double jeopardy. As originally drafted, Article 841 did not require a bill to be reserved for "a ground for arrest of judgment under Article 859 . . .," one of which is double jeopardy. Moreover, it is clear that requiring a contemporaneous objection to an improperly granted mistrial does not advance the purpose of the rule, which is to put the trial judge on notice of the alleged irregularity and to provide him with the opportunity to correct the problem during trial. State v. Dupre,
+339 So. 2d 10
+(La.1976); State v. Charles,
+326 So. 2d 335
+(La.1976). When a mistrial is declared, the jury is dismissed. (Compare the effect of granting a motion for acquittal, even when erroneously granted. State v. Hurst,
+367 So. 2d 1180
+(La.1979). Unless the defendant anticipates the declaration of a mistrial, the trial ends without the opportunity to object. See United States v. Jorn, supra. Therefore, comment (d) is not a complete statement of the law; it must be considered with comment (e), and can apply only to mistrials granted for the defendant's benefit. United States v. Jorn, supra; Note, 32 La.L.Rev. 145 (1971).
+
+In the instant case, the State was clearly not entitled to a mistrial. Although the prosecution may have believed its case prejudiced by the defense questions put to Ursin, its remedy was redirect examination to rehabilitate the witness and rebut the inferences arising from the cross-examination. Nevertheless, the trial judge granted a mistrial, for the prosecution's benefit, without obtaining the "express consent" of the defendant. By aborting the proceedings   without the defendant's consent and without his interest in mind, the trial judge impermissibly deprived the defendant of his right to have his trial completed by the jury before which he had been placed in jeopardy. We therefore conclude that the trial judge was in error to deny the defendant's plea of double jeopardy.
+
+For the reasons assigned, the conviction and sentence of Everette Simpson are reversed and the case is remanded to the district court for further proceedings consistent with the views expressed herein.
+
+MARCUS, J., dissents and assigns reasons.
+
+DENNIS, J., dissents and assigns reasons.
+
+MARCUS, Justice (dissenting).
+
+I agree with comment (d) to article 775 that, when a mistrial is improperly ordered, the defendant must object at the time. Otherwise, he will be deemed to have acquiesced in the court's ruling. La.Code Crim.P. art. 841. Defendant's objection would enable the trial judge to correct his error in improperly granting a mistrial. Accordingly, I respectfully dissent.
+
+DENNIS, Justice, dissenting.
+
+I respectfully dissent. A mistrial declared by the trial court without the consent of the defendant will ordinarily bar further prosecution of that defendant for the same criminal conduct. State v. Lawson,
+338 So. 2d 627
+(La.1976); see also, United States v. Jorn,
+400 U.S. 470
+, 91 S. Ct. 547, 27 L. Ed. 2d 543 (1971). La.C.Cr.P. art. 775 notes only five specified situations in which the trial court may declare a mistrial upon its own motion. Under the facts of this case, the trial court did not possess the statutory discretion conferred by the code provision to declare a mistrial without the consent of the defendant.
+
+However, the official revision comment (d) to La.C.Cr.P. art. 775 notes that "[w]hen a mistrial is improperly ordered, the defendant must object at the time and reserve a bill of exceptions. Otherwise, he will be deemed to have acquiesced in the court's ruling." See State v. Lawson,
+338 So. 2d 627
+, 631 (La.1976); La.C.Cr.P. art. 775, Comment (e). Because the record does not indicate that defendant made any objection to the trial court's declaration of a mistrial, he should be barred from subsequently complaining that the trial court's action was improper.
+
+[*]  Chief Judge L. Julian Samuel participated in this decision as Associate Justice Ad Hoc sitting in the place of Chief Justice Joe W. Sanders, Retired.
+
+[1]  Assignments of error neither briefed nor argued are considered abandoned. State v. Schwartz,
+354 So. 2d 1332
+(La.1978).
+
+[2]  The term "express consent" was not employed in the 1928 Code of Criminal Procedure. See e.g. arts. 274, 278.
+
+[3]  In Lawson we erroneously cited comment (e) as the authority for this conclusion.
+
+[4]  Article 841 as originally enacted provided:
+
+"An irregularity or error in the proceedings cannot be availed of after verdict unless it is objected to at the time of its occurrence and a bill of exceptions is reserved to the adverse ruling of the court on such objection. Failure to reserve a bill of exceptions at the time of an adverse ruling of the court operates as a waiver of the objection and as an acquiescence in the irregularity or ruling.
+
+This requirement shall not apply to:
+
+(1) A ground for arrest of judgment under Article 859, or the court's ruling on a motion in arrest of judgment; or
+
+(2) The court's ruling on a motion for a new trial based on the ground of bills of exceptions reserved during the trial."
+
+It was subsequently amended by Act 297 of 1974 to provide:
+
+"An irregularity or error cannot be availed of after verdict unless it was objected to at the time of occurrence. A bill of exceptions to rulings or orders is unnecessary. It is sufficient that a party, at the time the ruling or order of the court is made or sought, makes known to the court the action which he desires the court to take, or of his objections to the action of the court, and the grounds therefor.
+
+The requirement of an objection shall not apply to the court's ruling on any written motion."

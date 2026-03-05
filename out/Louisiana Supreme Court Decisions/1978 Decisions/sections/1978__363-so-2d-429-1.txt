@@ -1,0 +1,123 @@
+61743
+State v. Kirsch
+https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-429-1.html
+
+61743
+State v. Kirsch
+Court: Louisiana Supreme Court
+Release date: 1978-10-09
+Author: SANDERS, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-429-1.html
+
+363 So. 2d 429 (1978)
+
+STATE of Louisiana
+v.
+John E. KIRSCH.
+
+No. 61743.
+
+Supreme Court of Louisiana.
+
+October 9, 1978.
+
+*431 Edward C. Keeton, Gretna, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John M. Mamoulides, Dist. Atty., P. Michael Cullen, Abbott J. Reeves, Asst. Dist. Attys., Research and Appeals Division, for plaintiff-appellee.
+
+SANDERS, Chief Justice.
+
+The defendant, John E. Kirsch, was charged by Bill of Information with the crime of making an obscene and threatening phone call, a violation of LSA-R.S. 14:285. After a bench trial, he was found guilty and sentenced to six months' imprisonment. Defendant appeals, relying upon ten assignments of error for reversal of the conviction and sentence. Assignment of Error No. 4 was neither briefed nor argued and is considered abandoned. See State v. Phillips, La.,
+337 So. 2d 1157
+(1976).
+
+On June 27, 1977, about 4 o'clock a. m., a man telephoned the Spitelera residence. Mrs. Spitelera answered the telephone. Although she recognized the voice as that of the defendant, who had dated her daughter, she asked the caller to identify himself. He replied he was "John." When she asked him why he wished to speak to her husband, he used threatening and obscene language. Shortly thereafter, Mr. Spitelera contacted the police.
+
+The defendant's appeal is based primarily on several objections to testimony alleged to be hearsay. In Assignment of Error No. 1, the defendant complains of the State's question addressed to Mr. Spitelera, husband of the recipient of the telephone call: Did you ever receive a complaint from your wife concerning a telephone call? The witness answered in the affirmative. After the answer, the defense objected, and the trial judge noted that the question had already been answered. Whereupon, defense counsel moved that the answer be stricken. The trial judge did not respond to the motion to strike.
+
+In State v. Martin, La.,
+356 So. 2d 1370
+(1978), we defined hearsay as follows:
+
+"`Hearsay evidence is testimony in court, or written evidence, of a statement made out of court, the statement being offered as an assertion to show the truth of matters asserted therein, and thus resting for its value upon the credibility of the out-of-court asserter.'"
+
+The testimony that a complaint was made is non-hearsay. The content of the complaint was not given. The fact of the complaint was relevant to explain why the husband called the law enforcement officers.
+
+The motion to strike evidence is unknown to the criminal procedure of Louisiana. State v. Vince, La.,
+305 So. 2d 916
+(1974); State v. Isaac, 261 La. 487,
+260 So. 2d 302
+(1972). The failure of the trial judge to rule upon the motion to strike is of no legal consequence, because the testimony was non-hearsay and, as we have noted, the motion was foreign to Louisiana criminal procedure.
+
+We conclude that the assignment of error is without merit.
+
+When Mrs. Spitelera testified, she recited the text of the defendant's telephone communication to her. She stated that he asked to speak to Mr. Spitelera; that she asked who was calling; and that the defendant identified himself by name. The defense objected on the grounds that the identification of the defendant was based on this hearsay testimony. The trial court allowed the prosecutor to lay a proper foundation establishing that Mrs. Spitelera could identify the defendant's voice. This   foundation was established when the witness testified that she was familiar with his voice, having spoken to the defendant over the telephone several times per week for several months.
+
+The caller's identification of himself was admissible to corroborate the witness's own testimony identifying the voice. It formed part of the criminal act. LSA-R.S. 15:447, 448.
+
+To sustain the charge, the State was required to prove that the obscene and threatening words were actually spoken in the telephone conversation. The testimony of the conversation was admissible, not to prove the truth of the content, but to show the fact of utterance. The testimony is non-hearsay. State v. Gonzales, 258 La. 103,
+245 So. 2d 372
+(1971).
+
+The assignment of error lacks merit.
+
+During the defense cross-examination of Mrs. Spitelera, the following interrogation occurred:
+
+"By Defense Counsel
+
+On redirect examination the prosecutor questioned Mrs. Spitelera concerning the nature of the trouble that they had with the defendant. The defense objected on the grounds that the testimony related to matters outside the scope of the Bill of Information, which charged that defendant committed a crime on June 27, 1977.
+
+LSA-R.S. 15:281 states:
+
+In State v. Overton, La.,
+337 So. 2d 1201
+(1976), this Court ruled, "Where defense counsel went on cross-examination, the State had the right to follow on redirect." Since the defense inquired about the past relationship between the defendant and the Spiteleras, the prosecutor was entitled to elicit testimony on that subject on redirect examination.
+
+During the redirect examination of Mrs. Spitelera, the defense raised objections to hearsay testimony given by that witness and moved that the testimony be stricken from the record. The testimony related to the text of a telephone conversation between Mr. Spitelera and the defendant. The trial judge sustained the defendant's objections, indicating that he would not consider the testimony.
+
+In subsequent testimony, however, the witness testified that the defendant had previously threatened her husband. Defense counsel then asked the trial judge to "note" that the testimony was hearsay. The trial judge responded, "I understand."
+
+Ultimately, the defense moved to strike the testimony. The trial judge failed to specifically rule on this motion.
+
+As we have observed, the motion to strike testimony is unknown to the criminal procedure of Louisiana. State v. Vince, supra; State v. Isaac, supra. However, as we interpret the record, the trial judge indicated by his initial ruling and subsequent response that he, as trier of the facts, would not consider the evidence.
+
+This assignment is without merit.
+
+After Mrs. Spitelera had testified, the State recalled her husband to the witness stand. While trying to establish that   this witness could identify the defendant from his voice, the prosecutor asked the witness whether he had ever talked to the defendant. The witness answered that he had a phone conversation with the defendant in December of 1976. The defense objected, contending that the State had not laid a proper foundation for this evidence. The trial court sustained the defendant's objection until a foundation was laid.
+
+The State asked another question relating to this December telephone call, and the defense again objected. Counsel for defendant failed to state the grounds for that objection but contends on appeal that the objection was based on the theory that the question sought evidence beyond the scope of the Bill of Information.
+
+LSA-C.Cr.P. Art. 841 states in pertinent part:
+
+The defense failed to state the grounds for this objection at the trial on this matter. The trial judge had no opportunity to rule on this point. This Court will not consider this contention, which is raised for the first time on appeal. State v. Cobb, La., 334 So. 2d 200 (1976).
+
+This assignment of error complains of the failure of the trial judge to rule upon the defense's continuing objection to hearsay testimony. The assignment is cross-referenced to pages 27 and 28 of the trial transcript.
+
+The objection on page 27 is the same objection referred to in Assignment of Error No. 7. Defense Counsel merely stated, "Objection, your honor" and assigned no grounds for the objection. As previously noted, this objection is not reviewable.
+
+The second objection (Tr. p. 28) was phrased as follows: "Your honor, note my continuing objection to hearsay testimony." It is true that the trial judge did not respond to this objection. However, we conclude that the objection lacks merit.
+
+This objection relates to the testimony of Mr. Spitelera concerning the telephone conversation he had with defendant in December of 1976. The State was attempting to establish that there had been an altercation between Mr. Spitelera and the defendant prior to the crime charged.
+
+The defense contended that the testimony concerning this December telephone call was hearsay. The argument is specious in that the testimony was not offered to prove the truth of the matters contained in an out-of-court statement but rather to prove that the altercation, in the form of the utterance, occurred. State v. Sheppard, La.,
+350 So. 2d 615
+(1977); State v. Monk, La.,
+315 So. 2d 727
+(1975); State v. Gonzales, supra.
+
+In this assignment of error, the defense contends that the trial court erred in overruling the defendant's objections to questions propounded to Mr. Spitelera which allegedly went beyond the Bill of Information. This assignment also alleges that the trial court erred in allowing the State to recall Mr. Spitelera as a witness.
+
+The trial court did not err in allowing the prosecuting attorney to recall Mr. Spitelera. Allowing the recall rested in the sound discretion of the trial judge. LSA-C.Cr.P. Art. 765(5); LSA-R.S. 15:281. The trial judge did not abuse his discretion by permitting the State to recall the witness in view of the fact that he also gave the defendant the opportunity to conduct further cross-examination. State v. Smith, La.,
+340 So. 2d 247
+(1976).
+
+The contention that the testimony went beyond the Bill of Information was dealt with in Assignment of Error No. 5.
+
+The defendant argues in this assignment of error that the trial court erred in not sustaining his objection to one of the State's questions posed to Mr. Spitelera. The contention was that the question required an answer which would have been hearsay. We note the State withdrew the question before it was answered and asked another question to which the defense did not object. Hence, there is no merit in this assignment of error.
+
+After defendant was sentenced, he filed a motion for a new trial, based on newly discovered evidence. Although the record does not reflect the trial judge's ruling, the defendant alleges that the trial judge denied the motion for a new trial.
+
+We note that the motion is not sworn to by the defendant or his counsel as required by Article 854 of the Louisiana Code of Criminal Procedure. Nonetheless, we have reviewed it and conclude that the matter set forth in the motion does not constitute newly discovered evidence. Rather, the allegation is that the defendant subsequently remembered a collateral fact that he did not include in his testimony at the trial. Such an allegation is legally insufficient to constitute newly discovered evidence or to warrant a new trial.
+
+For the reasons assigned, the conviction and sentence are affirmed.

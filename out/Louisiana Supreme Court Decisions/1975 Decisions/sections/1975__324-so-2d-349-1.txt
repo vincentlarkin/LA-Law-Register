@@ -1,0 +1,103 @@
+56703
+State v. Johnson
+https://law.justia.com/cases/louisiana/supreme-court/1975/324-so-2d-349-1.html
+
+56703
+State v. Johnson
+Court: Louisiana Supreme Court
+Release date: 1975-12-08
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/324-so-2d-349-1.html
+
+324 So. 2d 349 (1975)
+
+STATE of Louisiana
+v.
+Alex JOHNSON.
+
+No. 56703.
+
+Supreme Court of Louisiana.
+
+December 8, 1975.
+
+Rehearing Denied January 16, 1976.
+
+*350 Stephen J. Katz, Kidd, Katz & Strickler, Monroe, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. Carl Parkerson, Dist. Atty., John R. Harrison, Asst. Dist. Atty., for plaintiff-appellee.
+
+MARCUS, Justice.
+
+Alex Johnson was indicted by the Ouachita Parish Grand Jury for second degree murder in violation of La.R.S. 14:30.1. After trial by jury, he was found guilty as charged. He was subsequently sentenced to life imprisonment at hard labor. On appeal, he relies upon five assignments of error for reversal of his conviction and sentence.[1]
+
+Defendant first alleges error in the trial judge's denial of his motion to produce evidence favorable to defendant.
+
+Brady v. Maryland,
+373 U.S. 83
+, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963) held that the prosecution may not suppress evidence, in the face of a defense production request, where the evidence is favorable to the accused and is material either to guilt or punishment. At the hearing on defendant's motion for production of favorable evidence, the prosecutor affirmatively stated that the state did not possess any evidence that was favorable to defendant. In the motion, defendant did not contend that the state was in possession of any specific evidence that would assist his case, nor does he now present any indication of what type of exculpatory evidence the prosecution might have had.
+
+There is no constitutional requirement that the prosecution make a complete and detailed accounting to the defense of all police investigatory work on a case. Moore v. Illinois,
+408 U.S. 786
+, 92 S. Ct. 2562, 33 L. Ed. 2d 706 (1972). As we stated in State v. Williams,
+310 So. 2d 528
+(La.1975), the state is not required to open its files to the accused and allow him to search them and decide what is exculpatory. Accordingly, there is no merit in this assignment of error.
+
+Defendant filed a motion for a bill of particulars that asked, inter alia, whether   or not any dangerous weapon was found on the victim's person or near his body at the scene of the crime. The state declined to answer this request on the ground that it was not required to reveal its evidence. Defendant assigns as error the trial judge's refusal to order the state to answer this request.
+
+As a general rule, pretrial discovery is not available to a defendant in a criminal case. State v. Kado,
+300 So. 2d 461
+(La.1974); State v. Rose,
+271 So. 2d 863
+(La.1973); State v. Hunter, 250 La. 295,
+195 So. 2d 273
+(1967). Brady v. Maryland, supra, requires the prosecution to disclose evidence that is favorable to the accused. In State v. Woodruff,
+281 So. 2d 95
+(La.1973), the accused, claiming self-defense as justification for his admitted homicide, moved for particulars as to whether a dangerous weapon or instrument was found on the victim's person or in close proximity to the scene of the killing. The trial judge refused to order the state to respond to this request. During the trial, the state disclosed the existence of a gun near the victim's body, which was admitted in evidence at trial. We held that the refusal of the state to disclose its knowledge of the weapon prior to trial denied the accused due process of law under Brady, supra, in that he was deprived of the opportunity to fortify his defense of self-defense, and thus constituted reversible error.
+
+Although defendant relies on Woodruff in support of this assignment of error, the facts in Woodruff are distinguishable from those in the instant case. Unlike the accused in Woodruff, defendant did not rely on a claim of self-defense at trial. Rather, he asserted that a third party shot the victim and that he was the object of a "frame-up" by the state's witnesses. In addition, this case is further distinguishable from Woodruff in that no weapon was in fact found at the scene of the homicide. See State v. Thomas,
+306 So. 2d 696
+(La.1975). Defendant argues, however, that he needed to know before trial of the existence vel non of a dangerous weapon near the deceased's body so that he could plan his defense by deciding whether he would take the witness stand. This contention has no substance. The state alleges in its brief, and defendant makes no showing to the contrary,[2] that testimony given during the presentation of the state's case revealed that no weapon was located in the victim's vicinity. Defendant had ample time to make an informed decision as to whether he should take the stand. Therefore, the prosecution's failure to furnish the particular requested was not prejudicial. Accordingly, Woodruff is not applicable in this case; this assignment of error therefore lacks merit.
+
+Defendant next alleges that the trial judge committed error when he denied his challenges for cause of two prospective jurors. Defendant exercised peremptory challenges against both, and exhausted his peremptory challenges prior to completion of the panel. La.Code Crim.P. art. 800 (1966).
+
+Article 797 of the Code of Criminal Procedure pertinently provides:
+
+The determination of the qualifications of a juror is within the sound discretion of the trial judge. State v. Frazier,
+283 So. 2d 261
+(La.1973). We have repeatedly held that only when his exercise of such discretion is arbitrary or unreasonable, to the prejudicial injury of the defendant in obtaining a fair and impartial trial, will this court be warranted in setting aside a verdict. State v. Johnson, 263 La. 462,
+268 So. 2d 620
+(1972).
+
+Mrs. George Fink, the first prospective juror, was challenged for cause because she replied, in response to questions by defense counsel, that it would be difficult for her to vote for defendant's acquittal unless he presented some evidence in his behalf. Defendant contends that the juror was incapable of recognizing the defendant's presumption of innocence since she testified that she would have to hear "his side" of the case. Defense counsel, however, may have confused the prospective juror when he told her, at the outset of the examination, that "there will be witnesses called by both the state and by the defense on behalf of Alex Johnson." Thus, it is reasonable to assume that Mrs. Fink, when she stated that she would require "a word from [defendant] or his witnesses" before making a judgment, was under the impression that it was incumbent upon defendant to present evidence in his favor.
+
+After the trial judge explained to Mrs. Fink, however, that the accused was not required to present evidence and that it was the duty of the state to prove his guilt beyond a reasonable doubt, she unequivocally said that she could give defendant the presumption of innocence throughout the trial. Furthermore, in response to a question propounded by the prosecutor, she stated that she would return a verdict of not guilty if not satisfied that the state had proved defendant guilty beyond a reasonable doubt, even if defendant presented no evidence. Viewing the totality of Mrs. Fink's testimony, we conclude that she was impartial and that she could accept the law as given her by the court.
+
+The second prospective juror, James G. Shephard, was challenged for cause because he initially responded that he might give slightly more credence to the testimony of a deputy sheriff than to that of other witnesses. Defendant, relying on State v. Jones,
+282 So. 2d 422
+(La.1973), contends that the witness was not impartial and that the challenge for cause should have been sustained.
+
+State v. Jones is distinguishable from the instant case. In Jones, it appeared that there would be a direct conflict in the testimony of the accused and of a police officer. The prospective juror in Jones stated that in any event he would "go along with the policeman's testimony." Defendant does not allege that there was any direct conflict in the testimony of a defense witness and a deputy sheriff in the case sub judice. Moreover, although Mr. Shephard stated that he had a tendency to believe a deputy's testimony, he also testified that he understood law enforcement officers were capable of committing errors and telling falsehoods and that he would, to the best of his ability, weigh the testimony of each witness according to the rules to be given by the court.
+
+Upon consideration of the total testimony of Mr. Shephard, we cannot say that the trial judge, in denying the challenge for cause, abused the wide discretion accorded to him in determining the competency of jurors. This assignment of error lacks merit.
+
+Defendant, contending that there was no testimony or evidence at trial suggesting that he had a motive for killing the victim, alleges that the trial judge erred in denying his request for the following special jury charge:
+
+Article 807 of the Code of Criminal Procedure provides:
+
+Defendant points out that in State v. Johnson, 139 La. 829, 72 So. 370 (1916), and State v. Iles, 201 La. 398, 9 So. 2d 601 (1942), this court stated that it would be proper to give the special charge requested by defendant if the prosecution presented no evidence of motive and if the accused had produced evidence from which the absence of motive might be inferred. In those cases, as in this one, defendant failed to show evidence from which an absence of motive might be inferred. Consequently, in both cases the rejection of the charge was held to be proper. In any event, because these cases arose prior to the adoption of the Criminal Code in 1942, their approval of this special charge must be regarded as superseded by the subsequent statutory definition of criminal offenses. "Motive" is not an element of second degree murder as defined in La.R.S. 14:30.1(1). The state is not obligated to prove that the accused had a cause or reason to commit the crime of second degree murder; it is required to prove that the accused had the "specific intent"[3] to commit the crime. Hence, the requested special charge was not wholly correct and should not have been given. La.Code Crim.P. art. 807 (1966).
+
+Furthermore, the trial judge's general charge to the jury concerning the definition of specific intent adequately explained the necessity to prove that defendant actively desired the prescribed criminal consequences to follow his act or failure to act. Since the trial judge instructed the jury in the general charge as to the need to prove the defendant's state of mind, the substance of the requested special charge was included in the general charge. Therefore, the special charge need not be given. La.Code Crim.P. art. 807 (1966). This assignment of error has no merit.
+
+For the reasons assigned, the conviction and sentence are affirmed.
+
+DIXON, J., concurs, disagreeing with the treatment of bill #5.
+
+[1]  Defendant perfected two other assignments of error; however, neither was briefed nor argued before this court and both are therefore considered abandoned. State v. Carlisle,
+315 So. 2d 675
+(La.1975).
+
+[2]  The entire transcript of the proceedings below is not before us. We have for our review only those portions of the transcript that defendant designated in support of his assignments of error.
+
+[3]  Specific criminal intent is defined in La.R.S. 14:10(1) as "that state of mind which exists when the circumstances indicate that the offender actively desired the prescribed criminal consequences to follow his act or failure to act."

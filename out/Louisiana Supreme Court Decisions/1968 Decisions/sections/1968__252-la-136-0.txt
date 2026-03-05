@@ -1,0 +1,119 @@
+209 So. 2d 733 (1968); 252 La. 136
+Stevens Concrete Pipe & Products, Inc. v. Burgess
+https://law.justia.com/cases/louisiana/supreme-court/1968/252-la-136-0.html
+
+209 So. 2d 733 (1968); 252 La. 136
+Stevens Concrete Pipe & Products, Inc. v. Burgess
+Court: Louisiana Supreme Court
+Release date: 1968-04-29
+Author: McCALEB, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1968/252-la-136-0.html
+
+209 So. 2d 733 (1968)
+
+252 La. 136
+
+STEVENS CONCRETE PIPE & PRODUCTS, INC., et al.
+v.
+Ray W. BURGESS et al.
+
+No. 48946.
+
+Supreme Court of Louisiana.
+
+April 29, 1968.
+
+*734 R. Gordon Kean, Jr., Parish Atty., for defendants-appellants.
+
+E. Drew McKinnis, McGehee & McKinnis, Baton Rouge, for plaintiffs-appellees.
+
+McCALEB, Justice.
+
+Plaintiff, a resident taxpayer of East Baton Rouge, individually and as President of Stevens Concrete Pipe & Products, Inc., seeks a declaratory judgment pronouncing the invalidity, and preliminary and permanent injunctions barring enforcement, of certain pipe criteria adopted by the City-Parish Council of East Baton Rouge at its meeting of February 16, 1966 on the ground that the requirement of 12-foot lengths was an arbitrary, unreasonable and capricious exercise of power designed to thwart the purpose of the competitive bidding laws, and that the proposed specifications are violative of R.S. 38:2211 et seq. (the "low bidder" or "public advertisement statute"), and R.S. 38:2290-38:2296 (the "closed specification law").
+
+Named as defendants are The City of Baton Rouge, The Parish of East Baton Rouge, and Ray W. Burgess, Director, Department of Public Works, for the City-Parish.
+
+In plaintiff's petition charges concerning favoritism for the only pipe manufacturer in the area presently capable of producing pipe in 12-foot lengths were leveled at the Director of Public Works, Mr. Ray W. Burgess.
+
+Defendants filed certain exceptions, which were overruled. However, by pretrial order, the judge ruled out any questions inquiring into the motives or reasons of the Councilmen who voted either in favor of or against the action taken by the City-Parish Council at its meeting on February 16, 1966,[1] when the specification was approved.
+
+After a trial on the merits, the district judge concluded from the evidence presented that the action of the Council in requiring pipe to be in minimum lengths of twelve feet was "clearly arbitrary and capricious", there being no basis in fact on the difference in "n" factor as between eight and twelve foot pipe, nor is there valid reason for the opinion of defendants' engineers that use of twelve foot pipe would reduce joint failure because all experts agree the use of the confined "O" ring joint provided for in the specifications reduces failures to a minimum. The judge further found that, since the evidence showed that pipe in 8-foot lengths is substantially equal in utility to pipe in 12-foot lengths, the restriction in the specifications requiring the use of pipe in 12-foot lengths violates the public policy of this state and the low bidder statutes. Accordingly, judgment was rendered against defendants, permanently enjoining them from requiring that concrete pipe used in public works projects be in minimum lengths of twelve feet, and invalidating the specification for reinforced concrete culvert, storm drain and sewer pipe insofar as it requires all such pipe to be in such minimum lengths.
+
+A decree was also rendered declaring that, "* * * no distinction be made by the defendants as between the use of twelve foot lengths of pipe, on the one hand, and the use of eight foot lengths of pipe, on the other hand, based on the difference in the `n' factor."
+
+An appeal was taken by defendants and the Court of Appeal, First Circuit, affirmed the judgment. See 202 So. 2d 498. That court did not rest its opinion on the action being arbitrary.[2] Rather, it chose to ground its affirmance on defendants' violation of the closed specification law,   R.S. 38:2290-38:2296, finding the evidence showed that the requirements regarding minimum 12-foot lengths of pipe eliminates the use of products equal to or as good as those specified.
+
+Upon application of defendants, this Court granted certiorari and the matter has been argued and submitted for our determination.
+
+Defendants (relators) contend the Court of Appeal erred in substituting its judgment for that of an elected legislative body on a matter of legislative discretion, there being a substantial difference of opinion concerning the engineering criteria in question; in holding that the provisions of R. S. 38:2290-38:2296 and R.S. 38:2211 et seq., were applicable, or if applicable, that the criteria of February 16, 1966 contravened the cited statutory provisions; and, finally, in holding that the defendants had the burden of proving by a preponderance of the evidence, the validity of the pipe criteria adopted by the City-Parish Council.
+
+The record reveals the following facts: The City-Parish Council for the Parish of East Baton Rouge, in connection with a program of parish-wide improvement and extension of drainage facilities, adopted the following recommendation of the Capital Improvements Expediting Committee at its meeting on February 16, 1966 authorizing the use of 12-foot minimum lengths effective September 1, 1966:
+
+The criteria proposed by the Director of Public Works, Burgess, requires that:
+
+Plaintiff, or rather the corporation he heads, Stevens Concrete Pipe & Products, Inc., is a pipe manufacturer equipped to make pipe in 8-foot lengths only. While it has the machinery which can be converted to the manufacture of twelve foot pipe, this would be costly and is estimated to be $150,000. On this phase of the case, the trial judge observes:
+
+Primarily, plaintiff alleges that the action of the City-Parish Council is capricious and arbitrary in requiring the use of twelve foot pipe in pipe between 12" and 72" in diameter. In an amended petition it is asserted:
+
+The answer of defendants sets out that they have power and authority to exercise discretion in establishing the criteria stated above and, further, that the criteria represents good engineering practice, being designed to save costs and improve the efficiency of the drainage system in the parish. The answer specially alleges:
+
+It is seen from the foregoing statement of the legal issues set forth in the pleadings that the determination of the case must necessarily turn on expert engineering testimony and scientific data. Imprimis, the question presented is whether or not there is a substantial difference in "n" factor between a twelve foot pipe system and an eight foot pipe system. It is shown that a twelve foot pipe system will have approximately one-third fewer joints than an eight foot system. If the effect of the increased number of joints substantially increases the friction within the conduit, then elimination of a significant number of these junctures will produce a better flow. This is where the "n" factor becomes important in this litigation. The evidence shows that the "n" factor simply represents the friction factor. Manning's formula for the "n" factor is an equation to determine how much liquid will flow through a conduit. The friction encountered within the conduit is represented by a coefficient designated by the letter "n". This friction factor is not determinable by mathematical calculation but is established by actual tests perfected at hydraulic laboratories with the use of elaborate instrumentation. The "n" values for different types of conduits are then reported in scientific journals, and engineers resort to these journals to get the "n" factor in their design work on drainage systems.
+
+When Mr. Burgess recommended a minimum of 12-foot pipe lengths, he stated that this design would have an "n" factor of 0.010, and he took the position that by constructing the system with 12-foot lengths of pipe the "n" factor would be reduced ten percent more than by use of eight foot pipe. However, the expert testimony submitted by plaintiff's engineers, which we find to be fully supported by the scientific data produced at the trial, demonstrates that Mr. Burgess' calculation or assumption that the 12-foot pipe lengths would appreciably reduce the "n" factor to be without foundation. The most elaborate experiments concerning the "n" factor have been conducted at St. Anthony Falls Hydraulic Laboratory of the University of Minnesota, and the recent tests on this subject are reported in Technical Paper No. 22, Series B, which defendants produced in response to a subpoena and offered in evidence by plaintiff. Mr. Cecil K. Oakes, the head of the hydraulic engineering section of the Louisiana Department of Public Works and the immediate past president of the Louisiana Chapter of the American Society of Civil Engineers, testifying for plaintiff stated that he analyzed the test of St. Anthony Falls Hydraulic Laboratory regarding the effect of junctures and found that the difference in "n" factor between 8-foot length and 12-foot length pipe amounted to 2/100,000. He further declared that this fractional difference was absolutely insignificant, and that any difference in   flow through a given conduit based upon such valuation would be "immeasurable in the field."[3]
+
+We do not find it essential to review in detail the expert evidence submitted by plaintiff's and defendants' professional engineers.[4] We have carefully perused the voluminous record and are in complete agreement with the factual statements of the district judge and the detailed analysis of the evidence contained in the opinion of the Court of Appeal.
+
+The district judge succinctly sets forth his conclusions on the facts in part, as follows:
+
+Albeit the reasoning of the district judge, that the City-Parish Council acted arbitrarily and unreasonably in requiring the specification of a minimum length of twelve foot pipe in the construction work of its drainage system, appears to have considerable merit in view of certain circumstances (unnecessary to relate) surrounding the adoption of the recommended criteria on February 16, 1966, we do not deem it necessary to rest our decision on this resolution. For we are convinced that the Court of Appeal, as well as the district judge, correctly deduced that the specification for a minimum length of twelve foot pipe was a closed specification of a product which came within the ban of R.S. 38:2290-38:2296. Indeed, we find the Court of Appeal, in its well-reasoned opinion (save for one incorrect statement to which we shall later advert), has comprehensively set forth the law and jurisprudence applicable to the case and properly disposed of the issues presented. Hence, it remains only for us to answer the specifications assigned by defense counsel in his claim that the decisions of the courts below are unsound.
+
+The initial contention of counsel is that the Court of Appeal erred in finding for plaintiff as it thereby substituted its judgment for that of an elected legislative body on a matter of legislative discretion, under circumstances where there was a substantial difference of opinion concerning the engineering criteria in   question. In support of this proposition, counsel relies on the time-honored rule that it is not the province of the judiciary to substitute its judgment for that of a legislative or administrative body unless the action of such body is unsupported by evidence and hence is to be deemed unreasonable, arbitrary or capricious.
+
+We find this doctrine inapposite to this case for the question for decision here (apart from the issue of the unreasonableness and arbitrariness of the council's action) pertains fundamentally to the violation by the council of a prohibitory statute enacted in the public interest which bans the acceptance by governmental bodies of a closed specification of a particular product, for use in the construction of public works, unless all other products brought to the approving authority's attention are found to be of unequal utility and appearance prior to letting of the bid. Of course, the acceptance of a closed specification is to be first determined by the approving authority, but its resolution is subject to judicial review and will not be upheld where the evidence preponderately shows that there is another product or products of substantially equal utility which have been directed to the attention of the approving authority, as in the case at bar.
+
+The command of the closed specification law is clear and unequivocal. This recent statute, Act 40 of 1965, which is incorporated into our Revised Statutes as R.S. 38:2290-38:2296, was unquestionably designed, as the Court of Appeal properly found, to supplement our low bidder statute, R.S. 38:2211 et seq., to assure competitive bidding which heretofore could be stifled by the use of closed specifications excluding products of equal utility and appearance. The statute is not only prohibitory in language and concept; it provides by R.S. 38:2296 a criminal penalty for violation thereof.[5]
+
+Counsel's next assignment is that the Court of Appeal erred, not only when it held that defendants violated the closed specification law, but also in deducing that the specification of twelve foot pipe contravened the low bidder statute, R.S. 38:2211 et seq.
+
+We think counsel misreads the Court of Appeal opinion. That court did not hold that defendants specifically violated the low bidder statute. It declared that the closed specification statute was a law in pari materia with the low bidder statute, which had for its purpose the letting of public contracts pursuant to advertisement for competitive bids, thus assuring uninhibited competitive bidding. The court   then went on to say that the restrictive closed specification statute accomplished the same purpose, which was to prevent the stifling of competition "* * * through the process of eliminating products just as good as those expressly stipulated."
+
+As an adjunct to counsel's argument under this assignment is the contention that the restriction in the specification of concrete pipe to minimum lengths of twelve feet does not constitute a closed specification but merely requires that all concrete pipe be in such minimum lengths.
+
+We find no substance in this postulation for, unquestionably concrete pipe is a product and, when it is specified that all pipe to be used be in minimum lengths, this is a closed specification in that it excludes all pipe of less than twelve feet in length even though the pipe of lesser length may be of equal quality and utility.
+
+Counsel's further argument, citing the annotation in 77 A.L.R. 702 and other authorities, to the effect that municipal authorities have the right to designate a patented or monopolized material to be used for public improvement, provided it is not the purpose and effect of the specifications to prevent or restrict competitive bidding required by statute, is also not controlling here. This, for the reason that we are dealing with a prohibitory statute restricting the use of closed specifications of products to be used in the construction of public projects unless all other products other than the one specified would detract from the utility of the project to be constructed.
+
+Finally, counsel complains that the Court of Appeal, in resolving the case in favor of plaintiffs, reversed the traditional rules of burden of proof and imposed on the defendants the obligation of proving by a preponderance of evidence that the criteria adopted for concrete pipe in minimum lengths of twelve feet would produce a more efficient drainage system than pipe of lesser dimensions.
+
+It is true that the Court of Appeal erroneously stated, "We are of the further opinion defendants have failed to establish by that degree of proof required by law to prevail, that the use of 12 foot pipe in the proposed project would produce a better or more efficient system." It was for this reason that we granted a writ of review, as we were apprehensive that the appellate court may have unwittingly placed on defendants a burden which the law required plaintiff to shoulder.
+
+However, notwithstanding this statement, the Court of Appeal asserted in the sentence immediately following the one just quoted, "On the contrary, we find the clear weight of the evidence to be in favor of plaintiff's contention that the use of 8 foot pipe, joined by confined O rings as the specifications provide, would result in a system just as good as one constructed of 12 foot pipe as now proposed." See La.App., 202 So. 2d 510.
+
+Thus, although the court incorrectly placed the burden of proof on the shoulders of the wrong litigant, it actually concluded from the facts that plaintiff had proved the case by a clear preponderance of evidence. As we have already stated above, our review of the record coincides with the conclusions of the district court and the Court of Appeal.
+
+The judgment is affirmed.
+
+[1]  In oral argument counsel for the plaintiff was asked if he had made a proffer under the Code of Civil Procedure and he answered that he had not in view of the pre-trial order.
+
+[2]  The opinion states: "* * * we find this case does not turn on the point of defendants' purported arbitrariness." (La.App., 202 So. 2d 498, 502)
+
+[3]  Mr. Oakes' professional life, following his graduation in engineering at L.S.U., has been devoted to work in the field of hydraulics. He has designed many drainage systems in this state and elsewhere. He testified without qualification that the specification requiring minimum 12-foot lengths of pipe is unreasonable.
+
+[4]  Testifying for plaintiff in addition to Mr. Cecil K. Oakes, to whose testimony we have adverted in the body of this opinion, were Dr. Paul G. Mayer, who holds a Ph.D. degree in civil engineering and is Associate Professor of Civil Engineering at Georgia Institute of Technology, and Mr. Joseph P. Krupp, C.E., Assistant Professor of Engineering, Louisiana State University.
+
+Besides Mr. Burgess, defendants called to the stand, among others, Mr. Edward E. Evans, C.E., a licensed engineer and a member of the Capital Improvements Expediting Committee, which recommended the criteria proposed for concrete pipe to be used in drainage projects constructed as a part of the improvement program. Mr. Evans confirms Mr. Burgess' opinion although he frankly admits that he was not too concerned with the "n" factor when the twelve foot minimum requirement for pipe was adopted. Under cross-examination he reluctantly admitted that he may have stated to plaintiff and his counsel that he was more concerned with getting a realistic "n" value and "* * * I guess you'd call it nit picking about whether you are going to use eight foot or twelve foot lengths of pipe."
+
+Also testifying on behalf of defendants were Horatio Nash Ogden, Consulting Civil Engineer, L. A. St. Germaine, C.E., and Sidney L. Zeid, C.E. These witnesses, as noted by the Court of Appeal, "* * * corroborated Burgess and Evans to the effect that the specifications as written would produce an efficient system requiring a minimum of maintenance because of the reduction in the number of joints. They also confirmed that in recent years the trend has been toward longer pipe." See La. App., 202 So.2d at page 509.
+
+[5]  R.S. 38:2290 prohibits architects or engineers from submitting a closed specification of a product for use in the construction of a public project unless all other products, except the one specified, would detract from either the utility or appearance of the public building or work or from the uniform appearance of other public buildings in the immediate vicinity;
+
+R.S. 38:2291 specifies that, whenever an architect or engineer includes a closed specification in the specifications he has prepared for a public project, he must submit a written report to the public authority stating why he has included a closed specification and identify other products which are apparently equal to the one specified with a concise statement as to why they may be excluded under the provisions of R.S. 38:2290;
+
+R.S. 38:2292 declares that the approving authority may accept a closed specification only after it determines that all products brought to its attention are excludable under R.S. 38:2290, and it must reject such specification when another product of equal utility and appearance is submitted to it prior to the letting of the bid;
+
+R.S. 38:2293 renders null any contract let in violation of the provisions of the law, and the Attorney General is directed to institute legal proceedings to have such contract judicially declared void;
+
+R.S. 38:2294 provides for separate bids for each closed specification authorized by the approving authority; and
+
+R.S. 38:2295 defines a closed specification to be: "* * * a product specified to the exclusion of all other products of apparent equal quality and utility."

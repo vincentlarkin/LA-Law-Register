@@ -1,0 +1,286 @@
+93-CQ-0583
+Grubbs v. Gulf Intern. Marine, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1993/93-cq-0583-2.html
+
+93-CQ-0583
+Grubbs v. Gulf Intern. Marine, Inc.
+Court: Louisiana Supreme Court
+Release date: 1993-10-18
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1993/93-cq-0583-2.html
+
+625 So. 2d 495 (1993)
+
+Jonathan P. GRUBBS
+v.
+GULF INTERNATIONAL MARINE, INC., et al.
+
+No. 93-CQ-0583.
+
+Supreme Court of Louisiana.
+
+October 18, 1993.
+
+*496 Roger S. Bernstein, Harvey D. Lewis, Bernstein & Bernstein, for applicant.
+
+Terrence C. Forstall, Richard L. Seelman, Courtney, Forstall, Guilbaut, Hunter & Fontana, Richard E. Windhorst, Jr., for respondent.
+
+Louis R. Koerner, Jr., for Power Systems Diesel Inc., Vener Marine Ltd., Calvin Loveless, Sr., Sandy Holland amicus curiae.
+
+George M. Gilly, Stephanie G. McShane, for Offshore Marine Serv. Ass'n amicus curiae.
+
+Drew A. Ranier, Michael R. Garber, for Waldon Doxey, Edna Doxey amicus curiae.
+
+Paul H. Dué, Walter L. Smith, Donald W. Price, George Pavlakis, Dimitrios Giannouleaus amicus curiae.
+
+Harvey J. Lewis, Louisiana Trial Lawyers Ass'n amicus curiae.
+
+KIMBALL, Justice.[*]
+
+The United States Court of Appeals for the Fifth Circuit has certified to this court the following question of law:
+
+Whether the Louisiana Direct Action Statute, LSA-R.S. 22:655 (West Supp. 1992) permits an injured party to maintain a direct action against a marine protection and indemnity insurer.
+
+985 F.2d 762 (5th Cir.1993) (per curiam), withdrawing 975 F.2d 186. We accepted certification, 616 So. 2d 691 (La.1993), and now answer in the affirmative.[1]
+
+Jonathan P. Grubbs was injured in 1986 while employed as an engineer on the tug M/V THOMAS HEBERT. At the time of the accident, the tug was in Texas territorial waters. Gulf International Marine, Inc. (Gulf), Grubbs' Houma, Louisiana based employer and the owner and operator of the tug, was insured under a marine protection and indemnity (P & I) policy issued by American Steamship Owners' Mutual Protection and Indemnity Association, Inc. (American). American's sole U.S. office is located in New York, New York. It delivered the policy to Gulf's broker, Seahawk International, Inc. (Seahawk), at Seahawk's New York office. Although American and Seahawk furnished certificates of insurance to Gulf's customers upon Gulf's request, neither the insurer nor the broker ever complied with Gulf's repeated requests for a copy of the policy.
+
+In December 1986, Grubbs filed suit in United States District Court for the Eastern District of Louisiana against Gulf and American seeking recovery for his injuries.[2] The district court granted American's motion for summary judgment, concluding that American was not amenable to suit under the Louisiana   Direct Action Statute because the accident occurred outside Louisiana and the policy was neither written nor delivered in Louisiana.[3]
+
+On appeal, the United States Court of Appeals for the Fifth Circuit affirmed the district court's dismissal of American, but on different grounds. The district court had dismissed Grubbs' direct action against American on the grounds that the requirements of the Louisiana Direct Action Statute had not been met; the court of appeals, on the other hand, relied on this court's reasoning in Backhus v. Transit Casualty Co.,[4] as well as on dicta in Deshotels v. SHRM Catering Services, Inc.,[5] to conclude that the P & I policy American issued to Gulf was an "ocean marine" policy and as such was excluded altogether from the application of the Direct Action Statute.
+
+Meanwhile, two Louisiana courts of appeal held that an injured party may maintain a direct action against a P & I insurer under the Direct Action Statute. See Hae Woo Youn v. Maritime Overseas Corp., 605 So. 2d 187 (La.App. 5th Cir.), writ denied,
+609 So. 2d 240
+(1992), cert. denied, ___ U.S. ___, 113 S. Ct. 2342, 124 L. Ed. 2d 252 (1993), writ granted, 609 So. 2d 239 (1992), vacated in part on other grounds,
+623 So. 2d 1257
+(1993), and Treadway v. Certain Underwriters at Lloyds, No. 92-C-1500 (La.App. 4th Cir. Sept. 15, 1992).[6] Noting that the Louisiana appellate court decisions "cast some doubt on how the Louisiana Supreme Court would resolve this issue," the Fifth Circuit granted Grubbs' petition for rehearing, withdrew its original opinion, and certified the question stated above to this court. 985 F.2d  at 763.
+
+The Louisiana Direct Action Statute generally allows an injured party to proceed directly against an insurance company which has issued a policy or contract of insurance against the liability of the insured tortfeasor.[7] The issue in this case is whether   the Direct Action Statute applies to marine P & I insurance.
+
+A. The Law as Written
+
+By its literal terms, the Direct Action Statute applies to "all liability policies." La.Rev. Stat. 22:655(D) (emphasis added). Likewise, this court held in Quinlan v. Liberty Bank and Trust Co.,
+575 So. 2d 336
+, 347 (La.1990), that "the statute applies to any insurance against the liability of the insured for the personal injury or corporeal property damage to a tort victim, regardless of whether the policy is framed in liability or indemnity terms ..." (emphasis added). Additionally, the Louisiana Insurance Code classifies "Marine protection and indemnity insurance" as one of five types of "Marine and transportation (inland marine)" insurance and defines P & I insurance as
+
+La.Rev.Stat. 22:6(13)(e) (emphasis added).
+
+Considering the plain meaning of the language in the Direct Action Statute, the language in Quinlan, and the Insurance Code definition of P & I insurance, it would seem to follow that the Direct Action Statute applies to P & I insurance as well as to other types of liability insurance.[8] Moreover, as we observed in Quinlan:
+
+Quinlan, 575 So. 2d  at 353 (citations omitted). When the Direct Action Statute is interpreted in reference to other provisions in the   Insurance Code, however, the law is not so clear and unambiguous.[9]
+
+B. "Ocean Marine" Insurance
+
+The Louisiana Insurance Code is found in Title 22 of the Louisiana Revised Statutes. The Direct Action Statute is contained in Part XIV of the Insurance Code. Part XIV is entitled "The Insurance Contract" and includes Sections 611-673 of Title 22. Section 611 is entitled "Scope of Part" and provides in pertinent part: "The applicable provisions of this Part shall apply to insurance other than ocean marine and foreign trade insurances." La.Rev.Stat. 22:611(A) (emphasis added).[10] Section 611 thus raises the question of whether P & I insurance is a type of "ocean marine" insurance. If it is, then the "ocean marine" exclusion in Section 611 appears to conflict with the plain meaning of the all-inclusive language in the Direct Action Statute.
+
+In Deshotels v. SHRM Catering Services, Inc.,
+538 So. 2d 988
+(La.1989), and Backhus v. Transit Casualty Co.,
+549 So. 2d 283
+(La. 1989), this court interpreted the meaning of the term "ocean marine insurance" as that term is used in Part XXIX-A of the Insurance Code which governs the Louisiana Insurance Guaranty Association Fund (LIGA). Section 1377 delineates the scope of Part XXIX-A and provides that that Part "shall apply to all kinds of direct insurance, except... ocean marine insurance." La.Rev.Stat. 22:1377(A).
+
+In Deshotels, the court concluded that because the categories of insurance excluded from coverage under LIGA enumerated different kinds of insurance policies rather than different kinds of risks, therefore a claim brought under a workers' compensation policy with a maritime endorsement was not a claim brought under an "ocean marine insurance" policy and thus was subject to LIGA protection. Deshotels, 538 So. 2d  at 993. Implicit in this holding was the premise that ocean marine insurance policies would fall within the ocean marine insurance exclusion in Section 1377 and thereby be excluded from LIGA protection.
+
+Later, in Backhus, the court addressed the issue of whether a P & I policy was "ocean marine insurance" within the meaning of the LIGA exclusion. The court held that
+
+Backhus, 549 So. 2d  at 289 (emphasis added). Backhus therefore establishes that P & I insurance constitutes "ocean marine insurance" as that term is used in the Louisiana Insurance Code, including Part XIV of the Insurance Code containing Section 611 and the Direct Action Statute.[11]
+
+*500 The similarity between the "ocean marine insurance" exclusion in Part XXIX-A of the Insurance Code (governing LIGA) and the "ocean marine" insurance exclusion in Part XIV of the Insurance Code (containing the Direct Action Statute) has led some courts, including the federal court of appeals in its original opinion in this case, to reason that our holding in Backhus leads inevitably to the conclusion that Section 611 excludes P & I insurance from the operation of the Direct Action Statute.[12] No doubt such reasoning has been encouraged by this court's dictum in Deshotels that ocean marine insurance "is not only excluded from LIGA but also from the scope of Part XIV, which applies to `The Insurance Contract' and includes the Louisiana direct action statute." Deshotels, 538 So. 2d  at 992. However, Backhus and Deshotels do not settle the issue presented in the present case. The similarity between LIGA and the Direct Action Statute stretches no farther than our interpretation of the term "ocean marine insurance" as used in the Louisiana Insurance Code.
+
+Thus, while it may be said that P & I insurance constitutes "ocean marine" insurance within the meaning of the exclusion in Section 611, such a conclusion does not resolve the peculiar ambiguities created by the interaction between Section 611 and the Direct Action Statute. The Direct Action Statute applies to "all liability policies"; yet, Section 611 excludes "ocean marine" insurance, including P & I policies, from the operation of the "applicable provisions" of Part XIV. La.Rev.Stat. 22:611(A). The apparent conflict between these provisions therefore must be resolved by reference to the purpose of the provisions, the legislature's intent in enacting them, and the context in which they occur and the text of the law as a whole. See La.Civ.Code arts. 9, 10, and 12.[13]
+
+C. Resolving the Conflict
+
+First enacted in 1918, the Louisiana Direct Action Statute predated by thirty years the adoption of the Louisiana Insurance Code of 1948.[14] During those thirty years, the statute was unfettered in scope and applied indiscriminately to all liability policies.[15] In   1948, the legislature reenacted the Direct Action Statute and other laws regulating insurance into a single insurance code. Chapter 14 of the new code regulated the insurance contract and included the predecessor of La.Rev.Stat. 22:611 as Section 14.01.[16] Chapter 14 also included the Direct Action Statute as Section 14.45. Thus, although the 1948 Act essentially made no substantive change in the Direct Action Statute itself,[17] it arguably subjected the statute to the scope-limiting provision of Section 14.01. We must determine, therefore, whether the Louisiana Legislature, by placing the Direct Action Statute within the Insurance Code in 1948, intended to restrict the application of the Direct Action Statute "to insurances other than ocean marine and foreign trade insurances."
+
+Shortly after the passage of the 1948 Act, a similar issue was presented to a federal district court in Belanger v. Great American Indemnity Co.,
+89 F. Supp. 736
+(E.D.La. 1950). That court was called upon to decide whether the passage of the Act evidenced a legislative intent to restrict the extraterritorial effect of the Direct Action Statute. The court first acknowledged that prior to the adoption of the Insurance Code in 1948, the Louisiana Supreme Court and other courts had interpreted the Direct Action Statute to grant an injured party a right of direct action against a liability insurer regardless of where the policy was issued and delivered.[18] The Belanger court nonetheless concluded that in repealing Act 55 of 1930[19] and enacting Section 14.45 of the Louisiana Insurance Code,[20] the Louisiana Legislature had manifested an intention to restrict the application of the Direct Action Statute to policies issued in Louisiana.
+
+The legislature responded swiftly by adopting Senate Concurrent Resolution No. 13 of 1950 in which it recognized the prior jurisprudence and declared:
+
+S.Con.Res. No. 13 (1950) (emphasis added).[21]
+
+Then in Act 475 of 1956, the legislature added the following paragraph, presently La. Rev.Stat. 22:655(D), to the Direct Action Statute:
+
+It is also the intent of this Section that all liability policies within their terms and limits are executed for the benefit of all injured persons, his or her survivors or   heirs, to whom the insured is liable; and that it is the purpose of all liability policies to give protection and coverage to all insureds, whether they are named insured or additional insureds under the omnibus clause, for any legal liability said insured may have as or for a tort-feasor within the terms and limits of said policy.
+
+(Emphasis added.)
+
+We believe that these unequivocal expressions of legislative intent refute any suggestion that the Louisiana Legislature ever intended to restrict application of the Direct Action Statute to less than all policies or contracts of liability insurance. Accordingly, we conclude that the Louisiana Legislature did not intend to restrict the application of the Direct Action Statute by its inclusion in Part XIV of the Insurance Code "to insurances other than ocean marine and foreign trade insurances."
+
+This conclusion is consistent with this court's observation in Gay v. United Benefit Life Insurance Co., 233 La. 226, 230,
+96 So. 2d 497
+, 498 (1957), that
+
+The court in Gay went on to quote the following from Section 324 of Crawford on Statutory Construction (1940):
+
+Id. at 231, 96 So. 2d  at 499. Prior to the codification of insurance laws in Act 195 of 1948, the Direct Action Statute was unrestricted in its application to liability policies. The only possible indication in the 1948 Act of a legislative intent to restrict the application of the statute was its inclusion in Chapter 14 along with the ambiguous scope provision which is now La.Rev.Stat. 22:611(A). The Direct Action Statute itself, on the other hand, was carried almost verbatim into the Insurance Code.[22] Under these circumstances and in view of the all-inclusive language of the statute, it cannot be assumed that the legislature intended to alter the law as it existed prior to the codification.
+
+Additionally, despite numerous state court of appeal and federal court decisions allowing direct actions against marine P & I insurers beginning with Cushing v. Maryland Casualty Co., 198 F.2d 536 (5th Cir.1952),[23] the Louisiana Legislature has never taken action to limit such direct actions by amendment of the Direct Action Statute. This court has recognized that in the absence of legislative amendment of a statute during a long period, a reasonable construction of that statute "may reasonably be presumed to be in accord with the legislative intent." Traigle v. PPG Indus.,
+332 So. 2d 777
+, 782 (La.1976); see also 2B Norman J. Singer, Sutherland Statutory Construction § 49.10 (5th ed. 1992 & Supp. 1993). In the case of the Direct Action Statute, the legislature has amended the statute no less than six times during the more than forty years since the Cushing decision,[24] yet none of the amendments addressed the statute's applicability to P & I insurance. Rather, the statute "has been gradually expanded in scope by the legislature and the courts to enlarge the remedy thus made available to a person injured through the fault of a tortfeasor." Webb v. Zurich Insurance Co., 251 La. 558, 567,
+205 So. 2d 398
+, 402 (1967). The many years of judicial construction of the statute as applicable to P & I insurance therefore may reasonably be presumed to be   in accord with the legislative intent, especially considering the reasonableness of that construction in light of the literal terms and remedial purpose of the statute.
+
+It is also significant that Section 611 of the Insurance Code provides that "[t]he applicable provisions of this Part shall apply to insurances other than ocean marine and foreign trade insurances." La.Rev.Stat. 22:611(A) (emphasis added). As observed recently by the Louisiana First Circuit Court of Appeal:
+
+Giannouleas v. Phoenix Maritime Agencies, Inc., 621 So. 2d 1131, 1135 (La.App. 1st Cir. 1993). While we express no opinion regarding exactly which sections of Part XIV constitute "applicable provisions," we agree with the first circuit that the legislature must have intended the exclusions in Section 611 to apply to only some of the sections of that part and that the Direct Action Statute was not one of them.
+
+Defendant-appellee American points out that House Bill No. 1108, enacted by the Louisiana Legislature in its 1991 regular session but subsequently vetoed by the Governor, would have added a Subpart C to Section 611, which then would have provided as follows: "C. For the purposes of La.R.S. 22:655 only, `ocean marine insurance' shall not include marine protection and indemnity insurance." H.B. No. 1108 (1991).[25] According to American, the legislature's attempt to enact Subpart C constitutes a legislative acknowledgement that Section 611 as presently written excludes P & I insurance from the operation of the Direct Action Statute.
+
+We disagree. In light of our analysis of the legislative history of the Direct Action Statute and the Insurance Code, we believe the legislature's enactment of House Bill No. 1108 supports our conclusion that the legislature never intended Section 611 to exclude P & I insurance from the operation of the Direct Action Statute. Rather, we view the enactment of the bill as a legislative response to a 1990 decision by the United States District Court for the Eastern District of Louisiana in Delaune v. Saint Marine Transportation Co.,
+749 F. Supp. 1463
+(E.D.La.1990).[26] In that case, the federal district court erroneously held that this court's decisions in Deshotels and Backhus had "implicitly but necessarily overruled earlier Fifth Circuit opinions that had held that an injured person may bring a direct action against a marine P & I underwriter under the Louisiana Direct Action Statute, La.R.S. 22:655." Id. at 1463. Confronted with the Delaune decision, the legislature enacted House Bill No. 1108 in an effort to clarify the law and ensure the continued availability of direct actions against P & I insurers. The Governor's subsequent veto of that bill certainly did not render the Direct Action Statute suddenly inapplicable to P & I insurance.[27]
+
+In sum, the text, purpose, and legislative history of the Louisiana Direct Action Statute and the Louisiana Insurance Code lead us to conclude that within its terms the statute permits all injured persons to maintain   direct actions against all liability insurers, including P & I insurers.[28]
+
+For the foregoing reasons, we answer the certified question from the United States Court of Appeals for the Fifth Circuit in the affirmative. The Louisiana Direct Action Statute, La.Rev.Stat. 22:655, permits an injured party to maintain a direct action against a marine protection and indemnity insurer.
+
+CERTIFIED QUESTION ANSWERED.
+
+[*]  Pursuant to Rule IV, Part 2, § 3, Watson, J., was not on the panel which heard and decided this case. See the footnote in State v. Barras,
+615 So. 2d 285
+, 286 n. 1 (La.1993).
+
+[1]  Certified questions from federal courts are governed by Rule XII of the Rules of the Supreme Court of Louisiana. Rule XII provides in pertinent part:
+
+Section 1. When it appears to the Supreme Court of the United States, or to any circuit court of appeal of the United States, that there are involved in any proceedings before it questions or propositions of law of this state which are determinative of said cause independently of any other questions involved in said case and that there are no clear controlling precedents in the decisions of the supreme court of this state, such federal court before rendering a decision may certify such questions or propositions of law of this state to the Supreme Court of Louisiana for rendition of a judgment or opinion concerning such questions or propositions of Louisiana law. This court may, in its discretion, decline to answer the questions certified to it.
+
+See also La.Rev.Stat. 13:72.1.
+
+[2]  Federal jurisdiction was based on the Jones Act, 46 U.S.C.App. § 688, and general maritime law, 28 U.S.C. § 1333.
+
+[3]  Plaintiff-appellant Grubbs urges this court to hold that American Steamship "constructively delivered" the policy to Gulf in Houma, Louisiana. He argues that American Steamship's failure to deliver the policy in Louisiana was calculated to avoid the Direct Action Statute and that such conduct should not be allowed to defeat the application of the statute. Although on the facts presented we find Grubbs' argument compelling, we decline to address issues beyond the scope of the precise legal question certified. Moreover, we note that under Rule XII of the Supreme Court Rules, a question certified to this court must be "determinative of said cause independently of any other questions involved in said case...." Sup.Ct.Rule XII, § 1; see supra note 1. In this connection, the federal court of appeals made it clear that the answer we provide to the certified question "will determine the issue on appeal in this case." 985 F.2d  at 763.
+
+[4]
+549 So. 2d 283
+(La.1989).
+
+[5]
+538 So. 2d 988
+(La.1989).
+
+[6]  After the United States Court of Appeals for the Fifth Circuit certified its question to this court, the Louisiana First Circuit Court of Appeal in Giannouleas v. Phoenix Maritime Agencies, Inc., 621 So. 2d 1131 (La.App. 1st Cir.1993), also ruled that a direct action is available against a P & I insurer. A third circuit panel reached the opposite conclusion in Doxey v. Zapata Haynie Corp., 615 So. 2d 36 (La.App. 3d Cir.1993), while another third circuit panel in Hebert v. B.T.R. Marine, Inc., No. CA-92-00947 (La.App. 3d Cir.1993), disagreed and referred the matter to a five-judge panel before the case was settled.
+
+[7]  The Louisiana Direct Action Statute, La.Rev. Stat. 22:655, provides:
+
+§ 655. Liability policy; insolvency or bankruptcy of insured and inability to effect service of citation or other process; direct action against insurer
+
+A. No policy or contract of liability insurance shall be issued or delivered in this state, unless it contains provisions to the effect that the insolvency of the insured shall not release the insurer from the payment of damages for injuries sustained or loss occasioned during the existence of the policy, and any judgment which may be rendered against the insured for which the insurer is liable which shall have become executory, shall be deemed prima facie evidence of the insolvency of the insured, and an action may thereafter be maintained within the terms and limits of the policy by the injured person, or his or her survivors, mentioned in Civil Code Art. 2315, or heirs against the insurer.
+
+B. (1) The injured person or his or her survivors or heirs mentioned in Subsection A, at their option, shall have a right of direct action against the insurer within the terms and limits of the policy; and, such action may be brought against the insurer alone, or against both the insured and insurer jointly and in solido, in the parish in which the accident or injury occurred or in the parish in which an action could be brought against either the insured or the insurer under the general rules of venue prescribed by Code of Civil Procedure Art. 42 only. However, such action may be brought against the insurer alone only when:
+
+(a) The insured has been adjudged a bankrupt by a court of competent jurisdiction or when proceedings to adjudge an insured a bankrupt have been commenced before a court of competent jurisdiction;
+
+(b) The insured is insolvent;
+
+(c) Service of citation or other process cannot be made on the insured;
+
+(d) When the cause of action is for damages as a result of an offense or quasi-offense between children and their parents or between married persons; or
+
+(e) The insured is deceased.
+
+(2) This right of direct action shall exist whether or not the policy of insurance sued upon was written or delivered in the state of Louisiana and whether or not such policy contains a provision forbidding such direct action, provided the accident or injury occurred within the state of Louisiana. Nothing contained in this Section shall be construed to affect the provisions of the policy or contract if such provisions are not in violation of the laws of this state.
+
+C. It is the intent of this Section that any action brought under the provisions of this Section shall be subject to all of the lawful conditions of the policy or contract and the defenses which could be urged by the insurer to a direct action brought by the insured, provided the terms and conditions of such policy or contract are not in violation of the laws of this state.
+
+D. It is also the intent of this Section that all liability policies within their terms and limits are executed for the benefit of all injured persons and their survivors or heirs to whom the insured is liable; and, that it is the purpose of all liability policies to give protection and coverage to all insureds, whether they are named insured or additional insureds under the omnibus clause, for any legal liability said insured may have as or for a tortfeasor within the terms and limits of said policy.
+
+[8]  See La.Civ.Code art. 9:
+
+When a law is clear and unambiguous and its application does not lead to absurd consequences, the law shall be applied as written and no further interpretation may be made in search of the intent of the legislature.
+
+[9]  See La.Civ.Code art. 13:
+
+Laws on the same subject matter must be interpreted in reference to each other.
+
+[10]  The full text of Section 611 provides:
+
+§ 611. Scope of Part
+
+A. The applicable provisions of this Part shall apply to insurance other than ocean marine and foreign trade insurances. This Part shall not apply to life insurance policies not issued for delivery in this state nor delivered in this state. This Part also shall not apply to any health and accident insurance not issued for delivery in this state nor delivered in this state, except for any group policy covering residents of Louisiana, regardless of from where it was issued or delivered.
+
+B. The exceptions in Subsection A of this Section do not apply to R.S. 22:627. The only exceptions from the requirements of R.S. 22:627 are those specifically stated therein.
+
+La.Rev.Stat. 22:611.
+
+[11]  While the Backhus case was pending in this court, the Louisiana Legislature enacted a definition of "ocean marine insurance" in Part XXIX-A governing LIGA. 1989 La.Acts No. 688. Section 1379 now provides:
+
+As used in this Part:
+
+(9) "Ocean marine insurance" includes marine insurance as defined in R.S. 22:6(13), except for inland marine, as well as any other form of insurance, regardless of the name, label or marketing designation of the insurance policy, which insures against maritime perils or risks and other related perils or risks, which are usually insured against by traditional marine insurances such as hull and machinery, marine builders' risks, and marine protection and indemnity. Such perils and risks insured against include without limitation loss, damage or expense or legal liability of the insured for loss, damage, or expense arising out of or incident to ownership, operation, chartering, maintenance, use, repair or construction of any vessel, craft or instrumentality in use in ocean or inland waterways, including liability of the insured for personal injury, illness or death or for loss or damage to the property of the insured or another person.
+
+La.Rev.Stat. 22:1379(9) (emphasis added).
+
+[12]  See Grubbs v. Gulf Int'l Marine, Inc., 975 F.2d 186 (5th Cir.1992), withdrawn; Bodden v. Texas Marine Underwriters Agency, Inc.,
+785 F. Supp. 77
+(E.D.La.1991); Delaune v. Saint Marine Transp. Co.,
+749 F. Supp. 1463
+(E.D.La.1990); Doxey v. Zapata Haynie Corp., 615 So. 2d 36 (La.App. 3d Cir.1993).
+
+Contra Tassin v. Hess Marine Transp., Inc., 1990 WL 93831 (E.D.La.1990); Giannouleas v. Phoenix Maritime Agencies, Inc., 621 So. 2d 1131 (La.App. 1st Cir.1993); Hae Woo Youn v. Maritime Overseas Corp., 605 So. 2d 187 (La.App. 5th Cir.), writ denied,
+609 So. 2d 240
+(1992), cert. denied, ___ U.S. ___, 113 S. Ct. 2342, 124 L. Ed. 2d 252 (1993), writ granted, 609 So. 2d 239, vacated in part on other grounds,
+623 So. 2d 1257
+(1993); Treadway v. Certain Underwriters at Lloyds, No. 92-C-1500 (La.App. 4th Cir. Sept. 15, 1992).
+
+[13]  See supra note 8 for text of La.Civ.Code art. 9.
+
+La.Civ.Code art. 10 provides:
+
+When the language of the law is susceptible of different meanings, it must be interpreted as having the meaning that best conforms to the purpose of the law. La.Civ.Code art. 12 provides:
+
+When the words of a law are ambiguous, their meaning must be sought by examining the context in which they occur and the text of the law as a whole.
+
+[14]  The Direct Action Statute was enacted in 1918 La.Acts No. 253; the Insurance Code was enacted in 1948 La.Acts No. 195.
+
+[15]  1918 La.Acts No. 253 provided:
+
+[I]t shall be illegal for any company to issue any policy against liability unless it contains a provision to the effect that the insolvency or bankruptcy of the assured shall not release the company from the payment of damages for injury sustained or loss occasioned during the life of the policy, and, in case of such insolvency or bankruptcy, an action may be maintained within the terms and limits of the policy by the injured person or his or her heirs, against the insurer company.
+
+(Emphasis added.)
+
+1930 La.Acts No. 55 amended the Direct Action Statute to provide that "any judgment which may be rendered against the assured, for which the insurer is liable, which shall have become executory, shall be deemed prima facie evidence of the insolvency of the assured," and further that
+
+the injured person or his or her heirs, at their option, shall have a right of direct action against the insurer company within the terms and limits of the policy, in the parish where the accident or injury occurred, or in the parish where the assured has his domicile, and said action may be brought either against the insurer company alone or against both the assured and the insurer company, jointly and in solido.
+
+[16]  Section 14.01 provided: "The applicable provisions of this chapter shall apply to insurances other than ocean marine and foreign trade insurances." 1948 La.Acts No. 195, § 14.01.
+
+[17]  The 1948 Act changed the wording of the opening sentence of the statute from "It shall be illegal for any company to issue any policy unless...," 1930 La.Acts No. 55, to "No policy or contract of liability insurance shall be issued and delivered in this State, unless...." 1948 La.Acts No. 195, § 14.45.
+
+[18]  See, e.g., Stephenson v. List Laundry and Dry Cleaners, Inc., 182 La. 383, 162 So. 19 (1935); Rogers v. American Employers' Ins. Co.,
+61 F. Supp. 142
+(E.D.La.1945).
+
+[19]  See supra note 15.
+
+[20]  Unlike the earlier Acts, Section 14.45 referred to policies "issued or delivered in this State...." 1948 La.Acts No. 195, § 14.45; see supra note 17.
+
+[21]  See also Webb v. Zurich Ins. Co., 251 La. 558, 574-78,
+205 So. 2d 398
+, 404-06 (1967) (quoting Senate Concurrent Resolution No. 13 as evidence that the decision in Belanger "was not only contrary to the jurisprudence of this state, but also erroneous and contrary to the legislative intent").
+
+[22]  See supra note 17.
+
+[23]  See, e.g., Lovless v. Employers' Liab. Assur. Corp., 218 F.2d 714 (5th Cir.1955); Coleman v. Jahncke Serv., Inc., 341 F.2d 956 (5th Cir.1965); Olympic Towing Corp. v. Nebel Towing Co., 419 F.2d 230 (5th Cir.1969); Trahan v. Gulf Crews, Inc., 246 So. 2d 280 (La.App. 3rd Cir.), rev'd in part on other grounds, 260 La. 29,
+255 So. 2d 63
+(1971); Vincent v. Penrod Drilling Co., 372 So. 2d 807 (La.App. 3rd Cir.), writ denied, 375 So. 2d 646 (1979); Heaton v. Gulf Int'l Marine, Inc., 536 So. 2d 622 (La.App. 1st Cir.1988).
+
+[24]  1956 La.Acts No. 475, § 1; 1958 La.Acts No. 125; 1962 La.Acts No. 471, § 1; 1988 La.Acts No. 934, § 1; 1989 La.Acts No. 117, § 2; 1992 La.Acts No. 584, § 1.
+
+[25]  Compare Subpart B of Section 611, added by 1989 La.Acts No. 563, § 1:
+
+B. The exceptions in Subsection A of this Section do not apply to R.S. 22:627. The only exceptions from the requirements of R.S. 22:627 are those specifically stated therein.
+
+La.Rev.Stat. 22:611(B). Section 627 addresses various issues concerning insurance premiums.
+
+[26]  See supra text accompanying note 12.
+
+[27]  Similarly, in Webb v. Zurich Ins. Co., 251 La. 558, 582,
+205 So. 2d 398
+, 407 (La.1967), this court remarked:
+
+The fact that the Governor vetoed the act of the 1962 legislature which sought to eliminate from the sentence added in 1950 the clause "provided the accident or injury occurred within the State of Louisiana" to avoid the interpretation being erroneously placed on this portion of the sentence, does not detract from the provisions of the statute as they were previous to this 1962 legislative action. The conclusion we have reached in this case does not constitute, as asserted by defense counsel, an attempt to judicially amend the statute despite the Governor's veto, but, instead, is only our interpretation of the 1950 amendment to reflect the real intent of the legislature in adopting it.
+
+[28]  Compare Backhus, where we found "nothing in the Insurance Code to indicate that the Louisiana Legislature intended to exclude from Louisiana Insurance Guaranty Association protection only that aspect of ocean marine insurance related to property interests." Backhus, 549 So. 2d  at 291.

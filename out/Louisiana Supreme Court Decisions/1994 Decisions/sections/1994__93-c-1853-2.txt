@@ -1,0 +1,106 @@
+93-C-1853
+Deville v. Federal Sav. Bank
+https://law.justia.com/cases/louisiana/supreme-court/1994/93-c-1853-2.html
+
+93-C-1853
+Deville v. Federal Sav. Bank
+Court: Louisiana Supreme Court
+Release date: 1994-04-11
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1994/93-c-1853-2.html
+
+635 So. 2d 195 (1994)
+
+Brandie Ann DEVILLE
+v.
+The FEDERAL SAVINGS BANK OF EVANGELINE PARISH.
+
+No. 93-C-1853.
+
+Supreme Court of Louisiana.
+
+April 11, 1994.
+
+On Rehearing June 3, 1994.
+
+*196 John B. Deshotels, Ville Platte, for applicant.
+
+John L. Vidrine, Ville Platte, for respondent.
+
+LEMMON, Justice[*].
+
+While plaintiff was a minor, defendant bank made several secured loans to plaintiff and her tutrix, who failed to obtain court authorization for the loans and the pledges of the minor's savings account. The issue now before the court is whether plaintiff can recover from the bank the amount of funds that the bank debited from plaintiff's savings account in payment of the loans.
+
+Mary Vidrine, as plaintiff's tutrix, settled a wrongful death action involving plaintiff's mother and deposited the settlement proceeds in a savings account with defendant bank in the names of "Brandie Deville Trust-Tutrix Mary L. Vidrine." In 1988, plaintiff's natural father, concerned that the account was being depleted too rapidly, filed a petition in the tutorship proceeding to remove the tutrix. The trial court issued a restraining order prohibiting the disbursement of any funds from the savings account, and the bank was served with this order.
+
+On November 10, 1988, the trial court granted the father's motion to dismiss his petition to remove the tutrix and recalled the restraining order. The court further ordered that "the principal of the funds of the minor cannot be withdrawn without an order of this court."[1] The record does not reflect that the November 10 judgment was served on the bank.
+
+In 1991, the bank made a series of loans to plaintiff, with the concurrence of her tutrix.[2] Each of these loans was secured by the pledge of plaintiff's funds which were converted to a certificate of deposit. The due date of the loans was the maturity date of the certificate of deposit.
+
+When the loans became due on September 11, 1991, the bank debited plaintiff's funds on deposit in payment of the loans.
+
+When plaintiff reached the age of majority on December 17, 1991, she attempted to withdraw the remaining funds in the savings account. The bank required her to obtain a court order and released the remaining funds in the account after presentation of the order.
+
+*197 Plaintiff then instituted this action seeking to recover damages of $27,767.92, consisting principally of the amount debited by the bank to pay the loans.[3] She alleged that the payment was in violation of the November 10 court order and therefore invalid. She further asserted that the bank's violation of La.Rev.Stat. 6:763 B and La.Civ.Code art. 3148 rendered the bank liable for her damages.[4]
+
+The trial court granted plaintiff's motion for summary judgment, reasoning that the use of the savings account as security for the loans was tantamount to withdrawal of the principal. The court determined that the bank had knowledge of the court order when it entered into the loans, and that the bank's action was an attempt to circumvent the court order.
+
+The court of appeal reversed in an unpublished opinion. 620 So. 2d 434. Noting that the bank was not a party to the proceedings to remove the tutrix and was not served with the November 10, 1988 judgment and not bound by it, the court concluded that the bank did not violate the court order when it entered into the loans with plaintiff. The court further held that the minor's recourse under the cited statutes was against the tutrix.
+
+We granted certiorari to review the decision of the appellate court.
+625 So. 2d 1050
+.
+
+There was clearly a disputed issue of material fact regarding the bank's knowledge of the court order, and the court of appeal correctly reversed the summary judgment on that point. However, the court of appeal was incorrect in holding that plaintiff's sole recourse as to the unauthorized loan was against her tutrix.
+
+Unemancipated minors do not have the capacity to contract. La.Civ.Code art. 1918. Contracts with minors are relatively null and may be rescinded at the minor's request, unless the purpose of the contract was to provide the minor with necessities for support or education, or was for a purpose related to his business. La.Civ.Code arts. 1919, 1923. Because of the relative nullity of contracts when a minor is a party thereto, persons who contract with minors do so at their own peril.
+
+A minor's tutrix is charged with the administration of the person and property of the minor. La.Code Civ.Proc. arts. 4261, 4262. If the tutrix does not obtain court authorization when acting in a manner that affects the minor's property, third persons who contract with the tutrix in that capacity do so at their own risk. See Leadman v. First Nat'l Bank, 198 La. 466, 3 So. 2d 739 (1941); Leonard Oppenheim, The Basic Elements of Tutorship in Louisiana, 44 Tul. L.Rev. 493 (1970).
+
+The court may authorize the minor's tutrix to borrow money for the purpose of preserving or administering the minor's property, of paying debts, or for the care, maintenance, training, or education of the minor.[5] La.Code Civ.Proc. art. 4267. However, the tutrix must petition the court for approval of any action which affects the minor's   interest in property.[6] La.Code Civ. Proc. art. 4271. Furthermore, the tutrix cannot pledge the minor's property without prior express authorization. La.Civ.Code art. 3148.
+
+Here, the tutrix failed to obtain court authorization for the loans or for use of the minor's savings certificate as security for the loans. The bank thus dealt in making the loans with a tutrix who lacked court authority and with a minor who lacked contractual capacity.
+
+Courts have recognized that minors can annul or defeat contracts with creditors who dealt with tutors that did not have court authority, White v. Hodges, 201 La. 1, 9 So. 2d 433 (1942); Wiley v. Davis, 164 La. 1090, 115 So. 280 (1928), or who dealt directly with minors who were incapable of contracting, Jim Walter Corp. v. Hunt, 183 So. 2d 91 (La.App. 1st Cir.1965), cert. denied, 248 La. 1102, 184 So. 2d 25 (1966); Reeme v. Motor Securities Co., 51 So. 2d 833 (La.App.2d Cir. 1951); D.H. Holmes Co. v. Rena, 34 So. 2d 813 (La.App.Orl.Cir.1948). In the present case the bank could not have judicially enforced the loan against the minor's saving certificate, because the tutrix did not have authority to pledge the security and the minor did not have capacity. The bank, acting under the terms of the illegal pledges, improperly debited the funds in payment of the loans. Plaintiff is therefore entitled to recover back the amount of the funds that was improperly debited because the loan contracts and pledges of security by the unauthorized tutrix and the minor were invalid.
+
+To the extent that the funds from the loans in this case were applied to the benefit of the minor in providing support or education, plaintiff is not entitled to restoration of those funds. La.Civ.Code arts. 1858, 1921, 1923; Reeme v. Motor Securities Co., 51 So. 2d 833 (La.App.2d Cir.1951); D.H. Holmes Co. v. Rena, 34 So. 2d 813 (La.App.Orl.Cir.1948). The bank has the burden of proving to what extent, if any, the minor has received a benefit. Reeme v. Motor Securities Co., 51 So. 2d 833 (La.App.2d Cir.1951). As the trial court did not take evidence on this issue, we remand the case for further proceedings to determine the extent to which plaintiff benefited from the various loans made in her name.
+
+Accordingly, the judgment of the court of appeal is set aside. The case is remanded to the district court for further proceedings in accordance with this opinion.
+
+PER CURIAM.
+
+On application for rehearing, plaintiff contends that set off is an affirmative defense which must be specially pleaded in order for the defendant to have the right to present evidence supporting this defense. La.Code Civ.Proc. art. 1005. The defendant did not plead set off in its answer in this case.
+
+Accordingly, plaintiff's application for rehearing is granted, and the remand to the district court for further proceedings is deleted from the original judgment of this court. 635 So. 2d 195. Further, the judgment of this court of April 11, 1994 is recast to award plaintiff the stipulated amount of $27,767.92, plus costs and interest from December 17, 1991.
+
+HALL, J., not on panel.
+
+[*]  Pursuant to Rule IV, Part 2, § 3, Hall, J. was not on the panel which heard and decided this case. See footnote in State v. Barras,
+615 So. 2d 285
+(La.1993).
+
+[1]  The interest earned on the funds in the savings account were credited to a checking account in plaintiff's name.
+
+The November 10 voluntary dismissal and the prohibitory order suggest that there was an agreement between the tutrix and the father (who had filed the petition to remove the tutrix) for the tutrix to have use of the interest in caring for the minor, with a court order necessary for withdrawal of principal.
+
+[2]  Plaintiff and her tutrix signed all of the loans as makers, except for one signed by the tutrix only.
+
+[3]  After the bank debited her account to pay the loans, plaintiff made three more loans during her minority. These loans were paid when she withdrew the remainder of the funds upon attaining majority.
+
+[4]  La.Rev.Stat. 6:763 B provides:
+
+In the case of a minor less than ten years of age whose parents are alive but divorced or legally separated, the parent to whose custody the child has been committed by any decree of the court allowing the divorce or separation shall exercise the rights of the surviving parent and shall present to the association a certified copy of such decree. Nothing in this Section shall be construed as authorizing any minor to pledge or borrow upon any such shares or savings accounts or to buy or sell immovable property without the authorization required under the existing laws. (emphasis added).
+
+La.Civ.Code art. 3148 provides:
+
+Tutors of minors and curators of persons under interdiction, curators of vacant estates and of absent heirs, testamentary executors and other administrators named or confirmed by a judge, can not give in pledge the property confided to their administration, without being expressly authorized in the manner prescribed by law.
+
+[5]  La.Code Civ.Proc. art. 4267 provides:
+
+When it appears to the best interest of the minor, and after compliance with Article 4271, the court may authorize a tutor to borrow money for the purpose of preserving or administering the property, of paying debts, for expenditures in the regular course of a business conducted in accordance with Article 4266, or for the care, maintenance, training, or education of the minor. As security for such a loan, the court may authorize the tutor to mortgage or pledge property of the minor upon such terms and conditions as it may direct. Before authorizing a loan, the court may require the tutor to furnish additional security in an amount fixed by the court. (emphasis added).
+
+[6]  La.Code Civ.Proc. art. 4271 provides:
+
+The tutor shall file a petition setting forth the subject matter to be determined affecting the minor's interest, with his recommendations and the reasons therefor, and with a written concurrence by the undertutor. If the court approves the recommendations, it shall render a judgment of homologation. The court may require evidence prior to approving the recommendations.
+
+If the undertutor fails to concur in the tutor's recommendations, the tutor shall proceed by contradictory motion against him. After such hearing and evidence as the court may require, the court shall decide the issues summarily and render judgment. (emphasis added).

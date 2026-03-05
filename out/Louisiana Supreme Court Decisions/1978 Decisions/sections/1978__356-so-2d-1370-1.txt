@@ -1,0 +1,97 @@
+60832
+State v. Martin
+https://law.justia.com/cases/louisiana/supreme-court/1978/356-so-2d-1370-1.html
+
+60832
+State v. Martin
+Court: Louisiana Supreme Court
+Release date: 1978-03-06
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/356-so-2d-1370-1.html
+
+356 So. 2d 1370 (1978)
+
+STATE of Louisiana
+v.
+John T. MARTIN.
+
+No. 60832.
+
+Supreme Court of Louisiana.
+
+March 6, 1978.
+
+Rehearing Denied April 6, 1978.
+
+*1372 Raymond A. McGuire, New Orleans, for defendant-appellant.
+
+*1373 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry Connick, Dist. Atty., Donald T. Giglio, Asst. Dist. Atty., for plaintiff-appellee.
+
+DENNIS, Justice.
+
+Defendant, John T. Martin, was convicted by a jury of attempted armed robbery, La. R.S. 14:27 and 14:64, subsequently adjudged an habitual offender, La.R.S. 15:529.1, and sentenced to forty years at hard labor. He appealed and relies on four assignments of error for reversal of his conviction.
+
+"Give me your. . . ." were the only words uttered by defendant before he was seized by two policemen as he held a gun on a third plain-clothes officer in a shopping center parking lot. In assignment number one defendant contends that the trial court erred in failing to grant his motion for a new trial. He argues that because he was interrupted in mid-sentence there was no evidence of his specific intent to commit a theft of anything of value, an essential element of the crime of attempted armed robbery. We disagree. The rule as to circumstantial evidence is: assuming every fact to be proved that the evidence tends to prove, in order to convict, it must exclude every reasonable hypothesis of innocence. La.R.S. 15:438. See, La.R.S. 14:27 and 14:64. Taken in context defendant's words and deed excluded every reasonable hypothesis of innocence. Accordingly, defendant's motion did not present sufficient grounds for a new trial. La.C. Cr.P. art. 851.
+
+Assignment of Error No. 2 was taken when the court curtailed defense counsel's cross-examination of a police witness on the subject of his acquaintance and association with his fellow arresting officers. After the witness responded to a series of inquiries relating to how well he knew them, and how long he had worked with them, the State interposed an objection to the relevancy of his further testimony in this vein. Upon being questioned by the court, defense counsel stated that the evidence was relevant to show bias or prejudice. When the purpose is to show that in the special case on trial the witness is biased, it is competent to question him as to any particular fact showing or tending to show such bias. La.R.S. 15:492. However, the cross-examination in the instant case did not appear to bear on any particular fact showing or tending to show bias, and defense counsel failed to point out any such fact in response to the judge's query. We conclude, therefore, that the exclusion of the evidence as irrelevant to the purpose of showing bias or prejudice was not erroneous.
+
+During his direct examination of the defendant, defense counsel sought to introduce a letter written to him by the defendant relating the events preceding his arrest. A prosecution objection was sustained on the ground that the letter constituted hearsay. The general rule is that hearsay evidence is inadmissible, La.R.S. 15:434 and 15:463, but Louisiana has no statutory definition of hearsay.
+
+We have on occasion indicated that an out-of-court assertion by a testifying witness is not hearsay, although it does not appear that this notion was actually crucial to any of our decisions.[1] In other cases, this Court has stated the definition of hearsay in language which would include an out-of-court assertion of a testifying witness.[2] After warning that any one-sentence definition is an over-simplification, Professor McCormick proposes the following:
+
+Upon reflection, we conclude that Professor McCormick's formulation is preferable as a brief definition of hearsay. Often an erroneous ruling admitting an unsworn out-of-court assertion by a testifying witness will not present grounds for reversal, but the hearsay character of a proffered out-of-court assertion is not altered by the fact that the statement was made by a person who appears in court as a witness.[3] In the instant case the letter proffered by the defense was written evidence of a statement made out-of-court, offered to show the truth of the matter asserted therein, and thus resting for its value upon the credibility of the out-of-court asserter. Accordingly, the letter was inadmissible hearsay, and it was correctly excluded by the trial court.
+
+Assignment of error number four[4] was reserved when the court overruled the defendant's objection to the introduction of certain documents during the multiple offender hearing. The documents consisted of an arrest report and a fingerprint card from a neighboring sheriff's office. Defendant contends that the documents were not admissible because they were not properly authenticated and because they were hearsay.
+
+The rule of authentication evidencing the genuineness of a particular document has always to be satisfied; for an official document may belong to a class clearly admissible, but still the document actually offered must be authenticated as genuinely that which it purports to be. 5 J. Wigmore, Evidence, §§ 1637, 2129 (1974). In the instant case the documents were stamped "a true copy of the original on file in this office" and signed by an individual identifying himself as "Deputy Sheriff, Jefferson Parish." The State contends that the documents were authenticated in accordance with La.R.S. 15:457, which provides:
+
+This statute is apparently a codification of the general principle that the lawful custodian of a public record has, by implication of his office, and without express order, an authority to certify copies. See, Church v. Hubbart, 6 U.S. (2 Cranch) 187, 236, 2 L. Ed. 249 (1804); United States v. Percheman, 32 U.S. (7 Pet.) 51, 86, 8 L. Ed. 604 (1883); 5 J. Wigmore, Evidence, § 1677 (1974); C. McCormick, Evidence, § 320 (Cleary ed. 1972).
+
+Nevertheless, defendant contends that because the certification does not establish that the deputy sheriff was the legal custodian the documents were not authenticated. Ordinarily, he would be correct. The person having the duty of keeping official records and the person certifying copies   of them must, on principle, be identical. 5 J. Wigmore, Evidence, § 1633(8) (1974). Although such authority may be delegated when practical necessity dictates, id., it should clearly appear in the certificate that the person certifying the copy has been entrusted with legal custody of the original document by the original official custodian. Cf. State v. Washington,
+322 So. 2d 185
+(La. 1975). However, in the case of deputy sheriffs, such delegation has been effected by Article 331 of the Louisiana Code of Civil Procedure which, in pertinent part, provides:
+
+Since the documents were certified as being true copies of the originals on file in the sheriff's office by a deputy sheriff, they were equivalent to the originals in authenticity.
+
+These documents were hearsay evidence, however, and should have been excluded for the same reason that defendant's letter was not allowed in evidence. The documents contained out-of-court assertions offered to show the truth of matters asserted therein. The State advances no reason why they should be admitted as exceptions to the hearsay rule. The mere fact that the documents were entitled to be regarded as authentic copies of the originals on file in the sheriff's office does not render them admissible.[5] La.R.S. 15:457 is a rule of authentication and not an exception to the hearsay rule. When the legislature has enacted such exceptions it has done so in express terms. E. g., La.C.Cr.P. art. 105 (coroner's report and proces verbal of autopsy); La.R.S. 13:3714 (hospital records); La.R.S. 15:529.1 (penitentiary photographs and fingerprint records); cf. Fed.R.Evid. 803(8), 901. This is consistent with the lawmakers' declarations that hearsay is inadmissible "except as otherwise provided in this code," La.R.S. 15:434, and that a witness can testify only as to facts within his knowledge "[e]xcept as otherwise provided in this Code." La.R.S. 15:463. It is also in accord with the notion that it is essential for an exception to the hearsay rule that some circumstantial probability of trustworthiness be found, to take the place of cross-examination so far as may be. 5 J. Wigmore, Evidence, § 1632 (1974). An overbroad exception admitting into evidence all statements on file with all public officers would have potential conflict with a defendant's right to confrontation and allow introduction of information derived from untrustworthy sources and through unreliable methods. Compare, Fed.R.Evid. 803(8); C. McCormick, Evidence, § 317 (Cleary ed. 1972).
+
+The trial judge's per curiam indicates that he overruled defendant's objections because "the documents in question reflected entries in the ordinary course of business." In this he fell into error. Before such exception may be invoked by the State against the defendant, allowing introduction of a permanent record made in the ordinary course of business from personal knowledge of the facts recorded, or from information furnished by one having a business duty to observe and report the facts, it must be shown that the person who made the record is genuinely unavailable for testimony, that he had no strong motive to misrepresent, and that in all probability the evidence is trustworthy. State v. Monroe,
+345 So. 2d 1185
+(1977). The State failed to make such a showing in at least one particular, i. e., that the person who made the record was genuinely unavailable for testimony.
+
+Because these documents were essential to the proof required for a multiple offender conviction, i. e., that there was   a prior felony committed and that the defendant is the person who committed it, State v. Dugas, 170 La. 5, 127 So. 345 (1930), the evidence adduced was incompetent to convict defendant as a second offender. The case must be remanded for re-sentencing in accordance with law. State v. Washington, supra.
+
+For the reasons stated, we affirm the defendant's conviction but reverse the trial court's adjudication of defendant as an habitual offender and the sentence imposed thereon. The cause is remanded to the trial court for proceedings consistent with the foregoing opinion.
+
+SANDERS, C. J., and SUMMERS, J., dissent.
+
+MARCUS, J., concurs in part and dissents in part and assigns reasons.
+
+MARCUS, Justice (concurring in part and dissenting in part).
+
+I concur in the affirmance of defendant's conviction. I dissent from the reversal of the trial judge's adjudication of defendant as an habitual offender and the sentence imposed thereon.
+
+[1]  State v. Monroe,
+345 So. 2d 1185
+(La.1977); State v. Launey,
+335 So. 2d 435
+(La.1976); State v. Hayes,
+306 So. 2d 705
+(La.1975); State v. Jacobs,
+281 So. 2d 713
+(La.1973); Southern Scrap Material Co., Ltd. v. Commercial Scrap Materials Corp., 239 La. 958,
+120 So. 2d 491
+(1960).
+
+[2]  E. g., State v. Johnson, 352 So. 2d 1285 (La. 1977); State v. Junegain,
+324 So. 2d 438
+(La. 1975); State v. Gonzales, 258 La. 103,
+245 So. 2d 372
+(1971).
+
+[3]  See, State v. Johnson, 352 So. 2d 1285 (La. 1977); Pugh, Louisiana Evidence Law, 433-434 (1973). Apparently, a growing number of jurisdictions recognize a broad exception to the hearsay rule admitting hearsay declarations if the declarant is present and subject to cross-examination. See, C. McCormick, Evidence, § 251 (Cleary ed. 1972). However, we share the uneasiness manifested by other authorities "lest complete rejection of the orthodox view encourage the practice whereby lawyers would offer in evidence a carefully prepared statement in lieu of testimony, merely tendering the witness to be cross-examined concerning it." Id., p. 603. Therefore, in criminal cases we reject the position taken by those who would admit prior statements of witnesses in toto. See, Model Code of Evidence Rule 503(b); Uniform Rule of Evidence 63(1). The better view allows only certain prior statements of witnesses thought by circumstances to be free of the danger of abuse, namely, statements of identification, inconsistent statements, and consistent statements where admissible to rebut a charge of "recent fabrication." McCormick, supra, at p. 603.
+
+[4]  Although the original assignments were numbered differently, we have used the number given in the State and defense briefs.
+
+[5]  "[T]he question of the authenticity of official records should not be confused with the ultimate admissibility of such records. It is quite possible for a public record to be perfectly genuine, and yet remain inadmissible for some distinguishable reason, e. g., that it is excludable hearsay." C. McCormick, Evidence, § 224 (Cleary ed. 1972); Matthews v. United States, 217 F.2d 409 (5th Cir. 1954).

@@ -1,0 +1,113 @@
+86-KK-0223
+State v. Taylor
+https://law.justia.com/cases/louisiana/supreme-court/1987/86-kk-0223-1.html
+
+86-KK-0223
+State v. Taylor
+Court: Louisiana Supreme Court
+Release date: 1987-02-23
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/86-kk-0223-1.html
+
+502 So. 2d 537 (1987)
+
+STATE of Louisiana
+v.
+Nick TAYLOR.
+
+No. 86-KK-0223.
+
+Supreme Court of Louisiana.
+
+February 23, 1987.
+
+*538 William Giddens, Indigent Defender Office, Richard Hiller, Shreveport, for applicant.
+
+William J. Guste, Jr., Atty. Gen., Baton Rouge, Paul Carmouche, Dist. Atty., Ansel Stroud, III, Scott Crichton, Asst. Dist. Attys., Shreveport, for respondent.
+
+MARCUS, Justice.
+
+We granted a second rehearing in this case to reconsider the circumstances under which the crime or fraud exception to the attorney-client privilege set forth in La.R.S. 15:475 is applicable and the procedure to be followed in order to determine whether those circumstances are present.
+
+The pertinent facts of this case were set forth in detail in the first rehearing of this case, State v. Taylor, 502 So. 2d 534 (La. 1986):
+
+At the first rehearing of this case, we held that the attorney-client privilege would not preclude the state from introducing in evidence the gun held by Fish in his office provided the state laid a proper foundation. We further held that the attorneyclient privilege would not preclude Fish from testifying about his retrieval of the gun from Taylor's attic if Fish and Taylor had conspired to secrete relevant evidence material to the charge pending. In order to determine whether such a conspiracy existed, thus invoking the crime or fraud exception to the attorney-client privilege, the case was remanded to the trial court for a hearing in accordance with a detailed procedure devised by this court pursuant to the authority of La. Code Crim. P. art. 3.[1]
+
+Defendant applied for a second rehearing, questioning the court's rulings and requesting a clarification of the procedure for proving the crime or fraud exception to the attorney-client privilege.
+
+Defendant first contends that this court erred in allowing the state to introduce in evidence the gun held by former defense attorney Fish. He argues that the physical evidence of the gun should be inadmissible because it would not exist for purposes of this trial if Fish had not recovered it from defendant's attic based upon privileged information obtained during the attorney-client interview between Fish and defendant. However, physical evidence connected to the commission of a crime which has been received or recovered by an attorney on account of his representation of a client is not excluded by virtue of the attorney-client privilege. State v. Green,
+493 So. 2d 1178
+(La.1986). Fish was under an obligation to turn over evidence relevant to a criminal prosecution, and therefore an exception to the attorney-client privilege exists. Id. Thus, in accordance with our ruling in Green, the gun is admissible provided the state lays the proper foundation.
+
+Defendant next contends this court erred in refusing to hold as a matter of law that Fish was precluded by the attorneyclient privilege from being called to the stand and testifying as to the substance of the interview between defendant and him. Defendant argues that the crime or fraud exception to the attorney-client privilege is not applicable in the instant case.
+
+In criminal cases, the scope of the attorney-client privilege is governed by the terms of La.R.S. 15:475,[2] and before a client may claim the benefit of the privilege, the prerequisites set forth in that section must be met. State v. Green, supra. However, the attorney-client privilege is not without exception. Even where a claim of privilege is established pursuant to La.R.S. 15:475, the privilege does not generally exist:
+
+State v. Green, supra, at 1182.
+
+In order to understand the crime or fraud exception to the attorney-client privilege, it must be remembered that the purpose of the privilege is to encourage the client to make full disclosure to his counsel so as to ensure competent and ethical representation. In Re Berkley & Co., Inc., 629 F.2d 548, 554 (8th Cir.1980). However,
+
+Berkley & Co., supra, at 555. Hence, "attorney-client communications `in pursuit of a criminal or fraudulent act yet to be performed [are] not privileged in any judicial proceeding.'" Berkley & Co., supra, at 555, citing In re Sawyer's Petition, 229 F.2d 805, 808-09 (7th Cir.), cert. denied sub nom. Sawyer v. Barczak, 351 U.S. 966, 76 S. Ct. 1025, 100 L. Ed. 1486 (1956) (emphasis added by court in Berkley & Co.)[3] Therefore, if the communications between Fish and defendant were made in pursuit of a criminal or fraudulent act yet to be performed (such as conspiracy to secrete relevant evidence), then those communications are not protected by the attorney-client privilege.
+
+Having concluded that the attorney-client privilege is vitiated where the attorneyclient relationship is used to further an ongoing or a future crime or fraud, we must now reconsider the procedure for making that determination as detailed on the first rehearing. While it is true that the attorney-client privilege is not itself constitutionally guaranteed, nevertheless it is closely linked to the federal and state constitutional guarantees of effective assistance of counsel. U.S. Const. amend. VI; La. Const. art. 1, § 13. Because of the constitutional interest implicated in the attorney-client privilege, that privilege should not be easily derogated. For this reason, upon reconsideration, we conclude that the procedure set forth on the first rehearing does not afford adequate safeguards to the attorney-client privilege, and, in its stead,   the following procedure should be utilized to evaluate whether the crime or fraud exception to the privilege is present.
+
+Generally, questions of admissibility, relevance, and weight of evidence are properly raised at trial on the merits, not by pretrial motions. State v. Tanner,
+457 So. 2d 1172
+(La.1984). In the instant case, defendant challenges the admissibility of communications with his lawyer on the ground that those communications are privileged. However, because of the strong constitutional implications of the attorneyclient privilege, "it would serve the orderly administration of justice and further insure the defendant a fair trial if the admissibility of the [attorney-client communications] could be determined in a pretrial proceeding." State v. Tanner, supra, at 1174.
+
+La. Code Crim. P. art. 703 provides that a defendant adversely affected may move to suppress any evidence from use at trial on the ground that it was unconstitutionally obtained. There is no contention that the evidence of the communications between Fish and defendant in the present case was unconstitutionally obtained. Therefore, a literal reading of art. 703 would seem to exclude the use of a motion to suppress to test admissibility of allegedly privileged attorney-client communications. Nevertheless, for the reasons set forth above, we believe that the importance of the attorney-client privilege justifies the use of the motion to suppress to test the admissibility of such communications prior to trial. Thus, pursuant to our authority under La. Code Crim. P. art. 3[4] to establish procedural guidelines in the absence of specific legislative procedural rules, we hold that a motion to suppress is available to question the admissibility of allegedly privileged attorney-client communications.
+
+Once a defendant has made out a claim that certain communications are subject to the attorney-client privilege pursuant to La.R.S. 15:475,[5] the trial court shall hold an evidentiary hearing, see La.Code Crim.P. art. 703(E), in which the burden of proving the admissibility of those communications under an exception to the privilege is on the state as in the case of a confession or evidence seized without a warrant. See La.Code Crim.P. art. 703(D). The question of the standard of proof the state must meet in order to prove the crime or fraud exception to the attorney-client privilege is more problematic. In the instant case, where the controverted communications were allegedly in furtherance of a conspiracy to secrete material evidence, the state urges that it should be required to establish only a prima facie case of the underlying conspiracy in order to vitiate the attorney-client privilege, by analogy to La.R.S. 15:455, the co-conspirator exception to the hearsay rule.[6] Federal courts have similarly held that where the government makes a prima facie showing that the attorneyclient relationship was intended to further continuing or future criminal or fraudulent activity, the privilege does not exist. United States v. Dyer, 722 F.2d 174, 177 (5th Cir.1983), and cases cited therein.
+
+Nevertheless, we feel that the prima facie standard of proof does not afford adequate protection to the attorney-client privilege in criminal cases. Because of the importance of the privilege, therefore, we hold that the state must prove by a preponderance of the evidence that the attorneyclient relationship was intended to further continuing or future criminal or fraudulent activity in order to vitiate the attorneyclient privilege. Our holding is supported by Comment (e) to Article 801 D(3)(b) of the   Proposed Evidence Code,[7] which suggests that the appropriate standard of proof to invoke the co-conspirators exception to the rule against hearsay is a preponderance of the evidence. Furthermore, the criminal or fraudulent activity in question must be proved by substantial, independent evidence without considering the allegedly privileged communications. United States v. Shewfelt, 455 F.2d 836, 840 (9th Cir.), cert. denied, 406 U.S. 944, 92 S. Ct. 2042, 32 L. Ed. 2d 331 (1972); cf. State v. Carter,
+326 So. 2d 848
+(La.1975); also Comment (f) to Article 801 D(3)(b) of the Proposed Code of Evidence.
+
+At the hearing on the admissibility of the attorney-client communications, neither the defendant nor the attorney to whom the allegedly privileged communications were made may be compelled to testify. However, both the defendant and the attorney may testify in support of a motion to exclude privileged attorney-client communications without being subject to examination on other matters. See La.Code Crim.P. art. 703(E). If the defendant does so testify, his testimony cannot be used by the state except for the purpose of impeaching the defendant's testimony at the trial on the merits. Id. Similarly, if after the hearing the trial judge sustains defendant's claim of privilege, the attorney may not be called to the stand at trial, and his testimony at the hearing may not be used for any purpose. However, if the attorneyclient privilege is denied at the hearing, the state may call the attorney to the stand at trial, and his testimony at the hearing may be fully used.
+
+As previously stated, if the communications between Fish and defendant were made in pursuit of a criminal or fraudulent act yet to be performed (such as conspiracy to secrete relevant evidence), then those communications are not protected by the attorney-client privilege of La.R.S. 15:475. However, based on the record before us, we cannot make a determination as to the merits of the claim; therefore, we must remand this case to the trial court for further proceedings in accordance with the views expressed herein.
+
+For the reasons assigned, that portion of the ruling of the trial judge denying defendant's motion to disallow introduction of the gun at trial is affirmed; however, that portion of the ruling denying defendant's motion to exclude the testimony of Randall Fish concerning the gun is vacated and set aside. The case is remanded to the trial court for further proceedings in accordance with the views expressed herein.
+
+LEMMON, J., concurs in remanding the case for a hearing and dissents in part from the supervisory procedure adopted for the hearing.
+
+COLE, J., concurs in part and dissents in part, with reasons assigned.
+
+COLE, Justice, dissenting in part.
+
+My learned brothers in the majority have found, in the context of an ongoing or a future crime or fraud, the attorney-client privilege is "closely linked to the federal and state constitutional guarantees of effective assistance of counsel." To the contrary, the privilege does not exist in such circumstances and the concept has nothing to do with effective assistance of counsel. There are, therefore, no constitutional underpinnings which justify the use of article 703 of the Louisiana Code of Criminal Procedure as a procedural device to test the admissibility of allegedly privileged attorney-client communications. This motion to suppress article speaks to any evidence unconstitutionally   obtained and to constitutional grounds for the suppression of a confession or statement of any nature made by the defendant. Absent constitutional implications, which is here the case, article 703 is inapplicable by its very language and does not support the use of a motion to suppress attorney-client communications.
+
+The majority deems it best to require proof of the alleged conspiracy by a "preponderance of the evidence." I adhere to the belief the state need only establish a "prima facie" case of the underlying conspiracy in order to vitiate the attorneyclient privilege pending final resolution of the merits of the claimed privilege. Our brothers on the federal bench agree. United States v. Dyer, 722 F.2d 174, 177 (5th Cir.1983), and cases cited therein. Adequate safeguard is provided by the constitutional constraint against being compelled to give testimony against oneself.
+
+In all other respects, I agree with the majority.
+
+[1]  La.Code Crim.P. art. 3 provides:
+
+Where no procedure is specifically prescribed by this Code or by statute, the court may proceed in a manner consistent with the spirit of the provisions of this Code and other applicable statutory and constitutional provisions.
+
+[2]  La.R.S. 15:475 provides:
+
+No legal adviser is permitted, whether during or after the termination of his employment as such, unless with his client's express consent, to disclose any communication made to him as such legal adviser by or on behalf of his client, or any advice given by him to his client, or any information that he may have gotten by reason of his being such legal adviser.
+
+[3]  In Alexander v. United States,
+138 U.S. 353
+, 360, 11 S. Ct. 350, 352, 34 L. Ed. 954 (1891), the Supreme Court suggested that the crime or fraud exception will overcome a claim of attorney-client privilege only at trial for the specific crime in furtherance of which the allegedly privileged communication was made. In Alexander, the defendant was convicted of the murder of his business partner. At trial, apparently for impeachment purposes, an attorney was permitted to testify that sometime between the disappearance of the partner and discovery of his body, the defendant contacted the attorney, advised him that the partner was missing along with some partnership money, and inquired whether he could hold some horses owned by the partnership to secure his share of the missing money. The Supreme Court held the communication privileged and reversed the conviction, stating that because defendant was not being tried for the fraudulent disposition of his partner's property, the crime or fraud exception to the attorney-client privilege was not applicable.
+
+This suggestion has been explicitly rejected by several federal courts (see, e.g., In re Berkley & Co., Inc., 629 F.2d 548 (8th Cir.1980); see also, In re Sawyer's Petition, 229 F.2d 805 (7th Cir.), cert. denied sub nom. Sawyer v. Barczak, 351 U.S. 966, 76 S. Ct. 1025, 100 L. Ed. 1486 (1956)) and has been criticized by commentators. See, e.g., 8 Wigmore on Evidence, § 2298 at 573 n. 1 (McNaughton rev. 1961). Moreover, where a client abuses the attorney-client relationship by seeking legal advice for the purposes of future wrongdoing, there is no reason to accord that relationship a privilege in any context. See Berkley & Co., supra, at 555. We agree with the view expressed by the subsequent federal court decisions rejecting the suggestion advanced in Alexander.
+
+[4]  See footnote 1, supra.
+
+[5]  See footnote 2, supra.
+
+[6]  La.R.S. 15:455 provides:
+
+Each coconspirator is deemed to assent to or to commend whatever is said or done in furtherance of the common enterprise, and it is therefore of no moment that such act was done or such declaration was made out of the presence of the conspirator sought to be bound thereby, or whether the conspirator doing such act or making such declaration be or be not on trial with his codefendant. But to have this effect a prima facie case of conspiracy must have been established. [Emphasis added.]
+
+[7]  Article 801 D(3)(b) of the Proposed Evidence Code provides:
+
+A statement is not hearsay if:
+
+(3) ... The statement is offered against a party, and the circumstances under which it was made are not shown by an objecting party to create a substantial risk of untrustworthiness such that it would be unfair to admit it, and the statement is:
+
+(6) A statement by a declarant while participating in a conspiracy to commit a crime or civil wrong and in furtherance of the objective of the conspiracy[.]

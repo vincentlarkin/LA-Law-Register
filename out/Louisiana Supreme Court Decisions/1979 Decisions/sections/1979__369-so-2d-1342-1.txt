@@ -1,0 +1,81 @@
+63433
+State v. Romero
+https://law.justia.com/cases/louisiana/supreme-court/1979/369-so-2d-1342-1.html
+
+63433
+State v. Romero
+Court: Louisiana Supreme Court
+Release date: 1979-04-09
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/369-so-2d-1342-1.html
+
+369 So. 2d 1342 (1979)
+
+STATE of Louisiana, Appellee.
+v.
+Luke Lionel ROMERO, Appellant.
+
+No. 63433.
+
+Supreme Court of Louisiana.
+
+April 9, 1979.
+
+*1343 Thomas L. Mahfouz, James R. McClelland, Morgan City, for appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Knowles M. Tucker, Dist. Atty., Edward M. Leonard, Jr., Asst. Dist. Atty., for appellee.
+
+TATE, Justice.
+
+The defendant was convicted of manslaughter, La.R.S. 14:31, and sentenced to fourteen years imprisonment at hard labor.
+
+Upon his appeal, he relies upon 13 assignments of error.
+
+Admissibility of Confessions and Statements
+
+The most serious assignments concern the denial of the motion to suppress inculpatory statements on the ground that they were involuntary due to the defendant's mental deficiencies (Assignments 1, 2, and 4). The medical testimony indicates that the accused had an I.Q. of 69, the intelligence of a boy of nearly eleven, and that due to mental retardation and organic brain damage he was easily susceptible to being influenced by others.
+
+The state must prove beyond a reasonable doubt that a confession is free and voluntary before it may be introduced into evidence. Although the issue is close, we are unable to find that the trial court erred in finding the defendant's inculpatory statements and confessions to have been made freely and voluntarily and without coercion.
+
+The medical testimony indicates that the accused could understand his rights to remain silent, as advised by the officers. The officers themselves testified that the accused seemed to understand his rights and that the accused appeared to be normal and not mentally impaired in any way. The officers denied his testimony that they had promised him he would be released if he made a statement (or beaten if he would not), and we find no error in the trial court's evaluation of the officers' testimony as truthful.
+
+The other assignments do not require extended comment:
+
+Assignments 3 and 9: The defendant objected to introduction of his confessions before proof of the death of the victim and of the commission of a crime.
+
+Although this may be the better practice, cf. State v. Brown, 236 La. 562,
+108 So. 2d 233
+(1959), the reason for the rule as stated in Brown is that the crime (corpus delicti) must be proved by evidence independent of the accused's confessionthat the uncorroborated confession of the accused will not of itself sustain a conviction. Therefore, the proof of the corpus delicti is not required as a prior condition for admission into evidence of a confession, so long as proof of the corpus delicti is subsequently established during trial (as here). State v. Mullins,
+353 So. 2d 243
+, 246 (La.1977).
+
+Assignments 4, 7, 13, and 14: The state pleaded surprise and successfully impeached the testimony of a state witness by proof of her prior contradictory statement on a material issue concerning motive. La.R.S. 15:487, 488. We do not find the defendant's arguments persuasive that insufficient predicate of surprise was made by the state, or that the testimony was not upon a material matter.
+
+*1344 Assignment 6: The trial court cautioned the jury, as requested, that the inconsistent prior testimony was admissible only on the issue of the credibility of the witness and not as substantive evidence of its content or of the defendant's guilt. The defendant now complains that the trial court's admonition insufficiently complied with this requirement of our procedure. See State v. Ray, 259 La. 105,
+249 So. 2d 540
+(1971). While we do not believe the contention is meritorious, nevertheless no objection was made at the time to the admonition as insufficient; therefore, such contention is not reviewable on appeal. La.C. Cr.P. art. 841.
+
+Assignment 8: The trial court did not abuse its discretion in allowing re-direct examination of a state witness on matters not covered in cross-examination. La.R.S. 15:281.
+
+Assignment 12: The defendant contends that there is a total lack of evidence that the accused himself did a culpable act or omission in the killing of the victim, La.R.S. 14:29, so as to be guilty of manslaughter.
+
+The state's theory is that the accused was guilty of manslaughter, as an unintentional killing which resulted when the accused was engaged in perpetration of an offense, La. R.S. 14:31(2)(a), namely a simple battery (the intentional use of force or violence upon a victim, without a dangerous weapon) La.R.S. 14:33, 35. The victim was beaten and thrown into a borrow pit, where he drowned.
+
+The evidence shows that a co-defendant Gaskins (who pleaded guilty), angered by an exaggerated report of his girlfriend that the victim had severely beaten her, found the victim passed out. With the aid of the defendant Romero, he took the victim to the levee. Gaskins beat the victim most viciously and threw him into a borrow pit, where he drowned. The defendant assisted Gaskins in the episode, and he himself contributed in a minor way to the beating.
+
+The evidence before the jury permitted it reasonably to find the accused guilty as principal, La.R.S. 14:24, in the beating of the victim and the subsequent placing of him in the cold December waters of the borrow pit, as a result of which the victim died.
+
+Assignment 15: Despite the jury's recommendation of leniency for this retarded and easily led first offender otherwise without criminal record, the district court sentenced him to fourteen years imprisonment at hard labor.
+
+In sentencing the accused, the trial court stated its reasons for such sentence as required by La.C.Cr.P. art. 894.1. These included the seriousness of the offense, 894.1A(3), and the serious harm caused and intended by the defendant's conduct and the lack of provocation or substantial grounds to excuse it, 894.1B(1)-(4). The trial court also gave weight to the premeditated return by the accused to the scene of the victim's beating, in order to administer a second beating (followed by the throwing of the victim into the water).
+
+Almost all the other factors suggested by 894.1 suggest a lighter sentence. Nevertheless, despite some reservations,[1] we are unable to find a clear abuse of the trial court's discretion in the sentencing so as to justify a remand for its reconsideration.
+
+Finding no merit to the assignments of error, we affirm the conviction and sentence.
+
+AFFIRMED.
+
+SUMMERS, C. J., concurs.
+
+[1]  The co-defendant Gaskins, the dominating leader and principal participant in the beating and drowning, had pleaded guilty and was likewise sentenced to fourteen years, the same as the mentally deficient and easily led accused.

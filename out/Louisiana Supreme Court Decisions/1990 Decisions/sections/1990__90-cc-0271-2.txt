@@ -1,0 +1,142 @@
+90-CC-0271
+Kelly v. Weil
+https://law.justia.com/cases/louisiana/supreme-court/1990/90-cc-0271-2.html
+
+90-CC-0271
+Kelly v. Weil
+Court: Louisiana Supreme Court
+Release date: 1990-06-04
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1990/90-cc-0271-2.html
+
+563 So. 2d 221 (1990)
+
+Charles P. KELLY, Jr.
+v.
+Estelle V. WEIL, Associated Moving and Storage Co., Inc., Transprotection Service, Royal Oldsmobile, Inc., and Fireman's Fund Insurance Companies.
+
+No. 90-CC-0271.
+
+Supreme Court of Louisiana.
+
+June 4, 1990.
+
+Gus A. Fritchie, III, New Orleans, for U.S. Fire Ins. Co., defendant-applicant.
+
+Louis LaCour, New Orleans, Henry Terhoeve, Baton Rouge, for Estelle V. Weil & Associated Moving & Storage Co., Inc., defendant-respondent.
+
+Malcolm Robinson, Metairie, for Charles P. Kelly, Jr., plaintiff-respondent.
+
+Robert Levenstein, Laplace, for State of La., Dept. of Transp., defendant-respondent.
+
+William R. Seay, Jr., Metairie, for American Mut. Liability Ins. Co./LIGA, defendant-respondent.
+
+Michael Martin, New Orleans, for State Farm Ins. Co., defendant-respondent.
+
+Geoffrey P. Clement, Metairie, for American Auto. Ins. Co., defendant-respondent.
+
+CALOGERO, Chief Justice[*].
+
+Charles P. Kelly, Jr. and Estelle V. Weil, opposing drivers, were involved in an automobile accident on November 11, 1983. As a result of the accident, Kelly filed suit against Weil and her employer, Associated Moving and Storage Company, Inc., the alleged owner of the vehicle. Transit Casualty Company, through the named defendant, Transprotection Service Co., provided automobile liability insurance of $1,000,000 per accident on the Associated vehicle driven by Weil, and became obligated to provide a defense against this claim for damages. After suit was filed Transit became insolvent. Thereupon, plaintiff added the Louisiana Insurance Guaranty Association ("LIGA") pursuant to LSA-R.S. 22:1382(1)(a), and U.S. Fire Insurance Co., Associated's excess insurance carrier.
+
+Weil and Associated, as third party plaintiffs, contend that because the primary carrier became insolvent, U.S. Fire, as excess insurer, should "drop down" to provide a defense and to indemnify them for any liability they may incur arising out of this suit, including that which would have been provided by Transit. Kelly therefore added U.S. Fire through an amended petition for damages. U.S. Fire then moved for a partial summary judgment prior to trial, alleging that its policy does not provide coverage until its insured is cast in judgment in excess of the $1,000,000 limit of the underlying policies. The trial judge,   following a hearing on that motion and a cross motion for summary judgment filed by Weil and Associated, granted Weil and Associated's cross motion ruling that U.S. Fire's policy provided coverage in excess of $150,000 up to its policy limits, and denied U.S. Fire's motion.[1] The court of appeal denied writs, agreeing with the district court's judgment. We granted writs in this case, and in another, Robichaux v. Randolph, No. 90-C-0157,[2] involving an identical issue, to determine whether the respective excess insurance policies provide for a "drop down" when the primary underlying insurance carrier is insolvent (i.e., whether the excess carrier essentially becomes an underlying insurer in place of an insolvent underlying insurance carrier).
+
+A review of the state and federal jurisprudence in this country reveals that the controlling consideration on this "drop down" issue is the agreement between the insurer and the insured, namely, the insurance policy itself. Basically three types of excess policies are to be found in the cases.
+
+In one category there are excess policies that distinctly facilitate dropping down. The policies in this group state, in effect, that the underlying limit of the excess coverage is dependent on the "collectibility" or "recoverability" of the primary limits. For instance, in McGuire v. Davis Truck Services, Inc., 518 So. 2d 1171 (La.App. 5th Cir.), writ denied,
+526 So. 2d 791
+(La.1988) and Reserve Ins. Co. v. Pisciotta,
+30 Cal. 3d 800
+, 180 Cal. Rptr. 628, 640 P.2d 764 (1982), the respective policies provided for liability in excess of "the amount recoverable under the underlying insurance as set out in the schedule of the underlying insurance...." It is clear that in this type of policy the excess carrier does drop down to provide coverage. Insolvency of the underlying carrier prevents the primary limits from being collectible, or recoverable. If not recoverable because of insolvency, the underlying insurance does not constitute any part of a retained limit. Where this phraseology is used (liability in excess of the amount recoverable), the pro-coverage result is consistent in the cases.
+
+In a second category are excess policies that also convey a sufficiently clear meaning, but, to the contrary, are properly understood not to facilitate a drop down of the excess insurance. Those policies describe the excess coverage as the excess of the limits of the policies "covered" in schedules attached to the policy. It is evident that this language does not provide for a drop down. The retained limit in this instance is simply the limits of the policies "covered" in the attached schedules. Excess coverage is not made dependent on recoverability or collectibility of the amount. See Radar v. Duke Transp. Inc., 492 So. 2d 532 (La.App. 3d Cir.1986) and Mission Nat. Ins. Co. v. Duke Transp. Co., Inc., 792 F.2d 550 (5th Cir.1986).
+
+In a third category of cases, the insured's "retained limit" is defined as the greater of the "applicable limits of the scheduled underlying policies, and the applicable limits of any other insurance collectible by the insured." This phraseology, unlike that in the two types of policies discussed above, at least arguably raises the question of whether the excess insurance kicks in if the underlying policy is not "collectible by the insured."
+
+Some courts, finding the policy language ambiguous, and thus subjecting the drafter to an unfavorable interpretation, hold that "collectible" modifies both "other insurance" and the scheduled "underlying policies." The excess insurance drops down because the retained limit excludes the scheduled underlying policy limits if not collectible (for whatever reason). See Poirrier v. Cajun Insulation, Inc., 501 So. 2d 800 (La.App. 4th Cir.), recon. denied,
+502 So. 2d 579
+(1987); Geerdes v. St. Paul Fire   & Marine Ins. Co., 128 Mich.App. 730, 341 N.W.2d 195 (1983).
+
+The larger number of cases in the jurisprudence regarding the third category of cases, however, find that there is no drop down based on this policy language. These cases hold that the provision is not ambiguous, and that the proper interpretation of the policy language does not require the underlying policy to be collectible. Only the "other insurance" carries that requirement. The insured's retained limit, as to which the excess insurer is in no event bound, is minimally the applicable limits of the scheduled underlying policies, whether that insurance is collectible or not. See Transco Explor. Co. v. Pacific Employers Ins. Co., 869 F.2d 862 (5th Cir.1989); Continental Marble & Granite v. Canal Ins. Co., 785 F.2d 1258 (5th Cir.1986); LIGA v. Intern. Ins. Co., 551 So. 2d 50 (La.App. 1st Cir.1989); Gibson v. Kreihs, 538 So. 2d 1057 (La.App. 4th Cir.), writ denied,
+541 So. 2d 856
+(La.1989); Radar v. Duke Transp. Inc., 492 So. 2d 532 (La.App. 3d Cir.1986); U.S. Fire Ins. v. Capital Ford Tr. Sales, 257 Ga. 77,
+355 S.E.2d 428
+(1987); U.S. Fire Ins. Co. v. Coleman,
+754 S.W.2d 941
+(Mo.App.1988).
+
+Cases which fit this third category vary slightly in the relevant phraseology.[3] The policy language at issue in this case is as follows:
+
+Our conclusion is that the language, standing alone, is not ambiguous, and that this is even more evident when we focus upon the policy in its entirety. First, regarding the provision itself, the phrases are disjunctive, separated by a comma and the conjunction "and", with "collectible by the insured" only within the second phrase. There is no such qualifier where reference is made, in the first phrase, to the "underlying policies listed in Schedule A." A simple, logical, common sense reading of the provision leaves one conclusionthat the retained limit is the limits of the scheduled underlying policies, supplemented by any other insurance, provided that the other insurance is collectible.
+
+The U.S. 5th Circuit came to this same conclusion upon analyzing similar policy language in Transco Explor. Co. v. Pacific Employers Ins. Co., 869 F.2d 862 (5th Cir. 1989). That policy provided for coverage with identical language in the limit of liability clause, except that it substituted the word "plus" for the word "and." The reasoning used by that court to find no drop down is applicable here. The Transco court held that:
+
+Similarly, the court in Value City, Inc. v. Integrity Ins. Co., 30 Ohio App.3d 274, 508 N.E.2d 184, 187 (1986) explained the phraseology as follows:
+
+See also Radiator Specialty Co. v. First State Insurance Co.,
+651 F. Supp. 439
+(W.D.N.C.1987), aff'd, 836 F.2d 193 (4th Cir.1987); Federal Ins. Co. v. Pacific Sheet Metal, 54 Wash. App. 514, 774 P.2d 538 (1989), writ denied, 779 P.2d 727 (Wash. 1989); U.S. Fire Ins. Co. v. Coleman,
+754 S.W.2d 941
+(Mo.App.1988); Radar v. Duke Transp. Inc., 492 So. 2d 532 (La.App. 3d Cir.1986).[4]
+
+As indicated earlier, however, we are buttressed in our view concerning the intent and meaning of the relevant provision (Section V. Retained LimitLimit of Liability) by other provisions of the U.S. Fire policy in this case that also unambiguously distinguish "underlying policies" and "other insurance." At least four other instances in this policy clearly show that only the "other insurance" need be "collectible." Therefore, the other clear references throughout the policy that use the term "collectible" and that distinguish between "underlying insurance" and "other insurance" lend support to the likelihood that the distinction was also intended for Section V.
+
+The first example is found in Section II of the policy, "Defense Settlement," which states, in part:
+
+In that instance, the policy does not even arguably qualify the "underlying policies" with "collectible," for the two clauses follow their own respective predicates (i.e., "not covered by the underlying policies ... or not covered by any other underlying insurance collectible by the insured"). "Collectible" can only modify the "other insurance" in this section.[5]
+
+*225 Secondly, Paragraph I of the "Conditions" section, entitled "Other Insurance," refers in its text to "other collectible insurance," while a parallel and immediately succeeding Paragraph J, "Underlying Insurance," does not mention "collectible," or collectibility when referring to "underlying insurance" within its text.[6] See Capital Ford, supra.
+
+Furthermore, as a third example, that same Paragraph J recites that U.S. Fire assumes the obligation to defend and take charge of settlements if the underlying insurance is "exhausted by any occurrence."[7] "Occurrence" is defined in paragraph 7 as "an accident ...", which does not include the insolvency of the primary insurer. Zurich Ins. Co. v. Heil Co., 815 F.2d 1122 (7th Cir.1987); Molina v. U.S. Fire Ins. Co., 574 F.2d 1176 (4th Cir.1978); Federal Ins. Co. v. Pacific Sheet Metal, 54 Wash. App. 514, 774 P.2d 538 (1989), writ denied, 779 P.2d 727 (Wash.1989); U.S. Fire Ins. v. Capital Ford Tr. Sales, 257 Ga. 77,
+355 S.E.2d 428
+(1987). Thus, Paragraph J, by implication, does not require defense and settlement coverage if the underlying insurance is simply not collectible.
+
+Lastly, as additional support for holding that "collectible" does not modify the scheduled insurance, Paragraph 5 ("Ultimate Net Loss") provides that "(t)his policy shall not apply to defense, investigation, settlement or legal expenses covered by underlying insurance." Had it been the intent of the parties to make the policy applicable where the underlying insurance was not "collectible" for any reason including insolvency, would they not have used the word "collectible" rather than "covered"? The term "covered" does not convey the same meaning as "collectible," but rather refers to policies owned by the insured that include the risk in question regardless of those policies' collectibility. See Radar v. Duke Transp. Inc., 492 So. 2d 532 (La.App. 3d Cir.1986); Mission Nat. Ins. Co. v. Duke Transp. Co., Inc., 792 F.2d 550 (5th Cir.1986). Thus, in another provision of the policy where it could have said that the insurer is obligated to assume the defense and take charge of settlements if the underlying insurer is unavailable because of insolvency, it specifically did not.
+
+The consistent distinctions throughout this policy between underlying insurance and other collectible insurance buttress our independent conclusion that, properly interpreted, and as intended by the policy, "collectible," in Section V, modifies only the other insurance and not the underlying insurance. Thus, the insured's retained limit includes the applicable limits of the scheduled underlying policies irrespective of whether those underlying policies are collectible.
+
+Likewise, the Supreme Court of Georgia, in U.S. Fire Ins. v. Capital Ford Tr. Sales, 257 Ga. 77,
+355 S.E.2d 428
+(1987), found no drop down based on its interpretation of a policy as a whole. There, the pertinent provisions were identical to those in this case, and the court held that:
+
+Thus, U.S. Fire's coverage does not drop down upon the event of insolvency of Transit, the underlying insurer, under the provisions of this policy. The courts below were wrong in granting Weil and Associated's motion for summary judgment and in denying U.S. Fire's motion for summary judgment. There can be no liability imposed on U.S. Fire except for damages which might be awarded plaintiff in excess of the $1,000,000 underlying limits.
+
+Because it is contrary to the judgment rendered in this case, Poirrier v. Cajun Insulation, Inc., 501 So. 2d 800 (La.App. 4th Cir.1986) is overruled.
+
+For the foregoing reasons, the judgment of the district court granting Weil and Associated's motion for summary judgment and denying U.S. Fire's motion for partial summary judgment is reversed. U.S. Fire Insurance Company's motion for partial summary judgment is granted.[8] U.S. Fire's excess policy and its attendant coverage will not be applicable should the award to this plaintiff, following a trial on the merits, not exceed the $1,000,000 underlying policy limits. The case is remanded to the district court for further proceedings.
+
+REVERSED AND REMANDED TO THE DISTRICT COURT.
+
+[*]  Judge Melvin A. Shortess of the 1st Circuit Court of Appeal, assigned to this Court following the retirement of former Chief Justice John A. Dixon, Jr. on April 8, 1990, participated in this decision as Associate Justice Pro Tempore.
+
+[1]  The $150,000, for which the trial judge found U.S. Fire was not obligated, is covered by LIGA. LSA-R.S. 22:1382(1)(a) states that LIGA provides coverage to claimants because of insolvent insurers for claims that are "in excess of one hundred dollars and ... less than one hundred fifty thousand dollars, per claim...."
+
+[2]  A separate opinion is being handed down today in Robichaux v. Randolph,
+563 So. 2d 226
+(La.1990).
+
+[3]  Some policies use the word "plus" with no punctuation preceding it to separate the two clauses, see Poirrier v. Cajun Insulation, Inc., 501 So. 2d 800 (La.App. 4th Cir.1986); Transco Explor. Co. v. Pacific Employers Ins. Co., 869 F.2d 862 (5th Cir.1989); while others add a comma before "plus", see Zurich Ins. Co. v. Heil Co., 815 F.2d 1122 (7th Cir.1987); Radiator Specialty Co. v. First State Ins. Co.,
+651 F. Supp. 439
+(W.D.N.C.1987), aff'd, 836 F.2d 193 (4th Cir. 1987); Alabama Ins. Guar. Assoc. v. Magic City Trucking Service, Inc.,
+547 So. 2d 849
+(Ala. 1989); Geerdes v. St. Paul Fire & Marine Ins. Co., 128 Mich.App. 730, 341 N.W.2d 195 (1983). Others still, like the policy in this case, have a "comma" and the word "and" to separate the clauses. See Washington Ins. Guar. Ass'n v. Guaranty Nat. Ins.,
+685 F. Supp. 1160
+(W.D.Wash.1988); U.S. Fire Ins. v. Capital Ford Tr. Sales, 257 Ga. 77,
+355 S.E.2d 428
+(1987). Additionally, there are other policies that simply use the word "and" with no punctuation. See Gulezian v. Lincoln Ins. Co., 399 Mass. 606,
+506 N.E.2d 123
+(1987).
+
+[4]  The view of U.S. Fire's experts, Professor Frank R. Trechsel, Ph.D., Visiting Assistant Professor, College of Arts and Sciences, Department of English, Tulane University, and Professor Marcus A.J. Smith, Ph.D., Associate Professor of English at Loyola University, coincides with this majority view. Professor Trechsel states that the provision at issue consists of two "noun phrases," the first being "the limits of liability indicated beside the underlying insurance listed in Schedule A hereof" and the second being "the applicable limits of any other underlying insurance collectible by the insured." He notes that the two phrases are separated by a conjunction. Focusing on the controversial phrase "collectible by the Insured," Professor Trechsel calls that a "post-nominal modifier," which limits "collectible" to "any other insurance" because of its placement in the sentence. The first phrase, referring to the scheduled insurance, is separated by the conjunction and the "post-nominal modifier." Thus, it cannot be modified by "collectible," which only appears in the second phrase. Professor Smith further states that the intent to create two completely separate phrases is further evidenced by the otherwise unnecessary comma preceding the conjunctive "and." Commas are used "to reflect structure and to clarify the sense of the sentence." Practical English Handbook, Rule 20. The comma reflects the intent to separate "collectible" from the scheduled insurance, so that it can only modify "any other insurance."
+
+[5]  The same language was used in the defense provision of the excess policy in Radar v. Duke Transp. Inc., 492 So. 2d 532, 535 (La.App. 3d Cir. 1986). That court found that "(t)he word `or' separating the two conditions is a disjunctive conjunction setting apart the two mutually exclusive alternatives." Collectibility of the underlying insurance was not a factor in determining the duty to defend the insured in Radar. Because the underlying policy provided coverage for the occurrence in question, the underlying insurer had the duty to defend whether or not that insurance policy was collectible. The Radar result argues for the position we take here, that in the retained limit provision, "collectible" modifies only "other insurance."
+
+[6]  These provisions recite, in their entirety, as follows:
+
+"I. Other Insurance. If other collectible insurance including other insurance with this company is available to the insured covering a loss also covered hereunder (except insurance purchased to apply in excess of the sum of the retained limit and the limit of liability hereunder) the insurance hereunder shall be in excess of and not contribute with, such other insurance.
+
+J. Underlying Insurance. If underlying insurance is exhausted by any occurrence, the company shall be obligated to assume charge of the settlement or defense of any claim or proceeding against the insured resulting from the same occurrence, but only where this policy applies immediately in excess of such underlying insurance, without the intervention of excess insurance of another carrier."
+
+[7]  Note that Paragraph J does not state that the excess carrier is obligated to defend if the underlying insurance is not collectible.
+
+[8]  La.C.C.P. art. 1915 provides that partial judgments may be rendered on motions for summary judgment only as provided in La.C.C.P. arts. 966-69. Art. 966 states that a party "may move for summary judgment in his favor for all or part of the relief for which he has prayed." Arguably, this Court's action in this opinion granting U.S. Fire's motion for partial summary judgment is not a judgment for all or part of the relief for which U.S. Fire has prayed. Rather, what U.S. Fire seeks, by way of this motion for partial summary judgment, is a declaratory determination regarding the amount, if any, of its exposure, which is dependent on the quantum of relief to which plaintiff is shown to be entitled. (In effect, our judgment here decides coverage issues before any judgment in favor of the plaintiff is rendered.) Two reasons, however, justify this disposition. First, in granting the writ and now reversing the district court's judgment in favor of Weil and Associated, we concluded that there is no drop down regarding excess coverage, the very determination that U.S. Fire seeks through its motion. Secondly, judicial economy is served by remanding the case to the district court with a dispositive judgment on this central issue at this juncture.

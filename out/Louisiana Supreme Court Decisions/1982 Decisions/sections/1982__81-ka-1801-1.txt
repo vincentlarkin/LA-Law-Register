@@ -1,0 +1,141 @@
+81-KA-1801
+State v. Robinson
+https://law.justia.com/cases/louisiana/supreme-court/1982/81-ka-1801-1.html
+
+81-KA-1801
+State v. Robinson
+Court: Louisiana Supreme Court
+Release date: 1982-10-18
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1982/81-ka-1801-1.html
+
+421 So. 2d 229 (1982)
+
+STATE of Louisiana
+v.
+Jimmy R. ROBINSON
+
+No. 81-KA-1801.
+
+Supreme Court of Louisiana.
+
+October 18, 1982.
+
+*230 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John M. Mamoulides, Dist. Atty., Abbott J. Reeves and David C. Loeb, Asst. Dist. Atty., for plaintiff-appellee.
+
+A.J. Boudreaux, Metairie, William Noland, New Orleans, for defendant-appellant.
+
+LEMMON, Justice.
+
+This is an appeal from a conviction of first degree murder and a sentence of death. Although we affirm the conviction, we must set aside the sentence because of the prosecutor's improper closing argument to the jury. We accordingly remand the matter for the trial court to conduct a new sentencing hearing.
+
+Facts
+
+On August 5, 1980, defendant and Keith Stewart knocked at the door of the apartment of Mrs. Joyce Waites, who managed an apartment complex. They told Mrs. Waites that they wanted to apply for a job, but they left when she advised that there were no positions available. Approximately 30 minutes later, Mrs. Waites answered another knock at the door and was confronted by the same two men, who drew guns and demanded money. When Mrs. Waites pointed to her purse, defendant placed a gun against her head and told her to lie on the floor.
+
+Defendant held the gun to Mrs. Waites' head, while Stewart searched the house for valuables. Mrs. Waites warned that her husband was coming home for lunch soon and begged them to leave, but they did not do so. When the husband arrived, defendant and Stewart used the gun to require him to lie on the floor next to Mrs. Waites. Defendant then made Mrs. Waites accompany him upstairs to search for more money. When they came back downstairs, defendant again told her to lie on the floor next to her husband.
+
+Mrs. Waites told defendant that she could not stop shaking and asked for a cigarette, which defendant gave her. At defendant's instruction, she placed her head on the floor and closed her eyes. When she heard a shot, she looked up and started screaming when she saw that her husband had been shot. Defendant placed the gun against her head and told her to shut up or she would be next. Shortly thereafter, defendant and Stewart left the apartment with the stolen money in the Waites' car.
+
+Mr. Waites died of a gunshot wound to the head. Later the same day, defendant was arrested and confessed to the shooting, but claimed that the gun went off accidentally. Defendant admitted, however, that the hammer of the gun was cocked prior to the shooting.
+
+Review of Guilt Phase
+
+The evidence clearly supports the jury's finding that defendant committed the murder, with specific intent to kill, and was engaged in the perpetration of an aggravated burglary. R.S. 14:30. While armed with a dangerous weapon, defendant entered an inhabited dwelling without authority and with the intent to commit a theft therein. R.S. 14:60. Defendant's cocking of the gun's hammer and his subsequent threat to kill Mrs. Waites militate against defendant's claim of accident and support the jury's finding of a specific intent killing.
+
+Defendant's only contentions with regard to the guilt phase of the trial are that the trial judge erred in refusing to allow him to waive the jury trial and in refusing to allow him to plead guilty without capital punishment.
+
+While an accused in Louisiana has a statutory right to waive a jury trial in noncapital cases, La. Const. Art. I, § 17 (1974) requires that a capital case shall be tried before a jury of 12 persons. Furthermore, an accused's Sixth Amendment right to a jury trial does not carry with it the   privilege of insisting on the opposite of that right. Singer v. United States,
+380 U.S. 24
+, 85 S. Ct. 783, 13 L. Ed. 2d 630 (1965). An accused in a capital case does not have an independent statutory or constitutional right to be tried by a judge alone. State v. Whitt,
+404 So. 2d 254
+(La.1981).
+
+Although this court has recognized the trial court's authority (with the state's consent) to accept a plea of guilty in a capital case if both sides stipulate that a life sentence is to be imposed, the trial judge here properly refused to accept defendant's unilateral offer to plead guilty and thereby deprive the state of the opportunity to seek capital punishment. State v. Jett,
+419 So. 2d 844
+(La.1982). While C.Cr.P. Art. 557 only expressly prohibits a defendant in a capital case from entering an unqualified plea of guilty (thereby preventing "judicial suicide"), a defendant may not enter a "qualified plea" of guilty in a capital case unless the district attorney agrees to accept the plea. See C.Cr.P. Art. 558.
+
+Review of Penalty Phase
+
+Defendant argues several assignments of error concerning the penalty phase. However, since the prosecutor's improper closing argument requires the setting aside of the death penalty, it is unnecessary to resolve the merits of defendant's other contentions.[1]
+
+In closing argument, the prosecutor stated:
+
+And in rebuttal closing argument, the prosecutor stated:
+
+The closing argument requires that the death sentence be set aside, because this court cannot determine that misleading and improper remarks of this magnitude did not influence the jury's recommendation. See State v. Willie,
+410 So. 2d 1019
+(La.1982).
+
+The prosecutor informed the jury that the trial judge had the power to set aside an inappropriate death sentence (by granting a new penalty trial), that the entire federal court system could review such a sentence, and that the governor must review it.[2] He then strongly suggested the improbability that a death sentence would be sustained when "we ... get through all of that review". He ended his closing argument by telling the jurors that their decision was unlikely to "make a significant contribution" because of the extensive process of appellate review of capital cases. In rebuttal closing argument, the prosecutor reviewed the evidence of statutory aggravating and mitigating circumstances before concluding with a reminder that the jury's decision would be "reviewed and rehashed... for years to come" and that the importance of their function in the capital sentencing process was not "going to be much but it's something".
+
+The function of the jury, while important in every case, is particularly critical in the bifurcated trial of capital cases, because the jury alone has the prerogative to impose a death sentence. C.Cr.P. Arts. 905 and 905.3. It is therefore imperative that the jury's sentencing discretion be protected from the influence of arbitrary and inappropriate factors.
+
+Remarks concerning appellate review of death sentences are generally inappropriate, because such remarks may suggest to a conscientious juror that his awesome responsibility is lessened by the extensive system of subsequent review, thus diverting the juror's attention from the central sentencing issue of whether death is the appropriate punishment for this offense and this offender. See State v. Berry,
+391 So. 2d 406
+(La.1980). Because the jury's function is to weigh the aggravating and mitigating circumstances in deciding whether to recommend a death sentence,   remarks concerning postsentence review proceedings are generally irrelevant. Moreover, the jury's recommendation is virtually unassailable when supported by the evidence and when the penalty trial was free of arbitrary and prejudicial considerations. Any suggestion that the jury's responsibility is lessened by appellate review or that the jury's recommendation is just a "beginning step" in the process can easily mislead a layman who is unfamiliar with the limitations governing appellate review. See State v. Willie, above.
+
+In State v. Berry, above, this court warned:[3]
+
+The court affirmed the death sentence in the Berry case because the prosecutor's remarks on appellate review, which were included in a commentary on the fairness of the legislative scheme for capital punishment, did not serve to lessen the jurors' appreciation of the significance of their role in the overall scheme.
+
+The remarks in the present case, unlike those in Berry, tended to convince the jurors that their role in imposing the death penalty was minimal because of extensive appellate safeguards. This is especially true in view of the prosecutor's suggestion that there was a "strong possibility that the defendant [would] never see the electric chair" despite the jury's death penalty recommendation.
+
+Because we cannot say that the jury's sentencing discretion was unaffected by the prosecutor's repeated and often misleading references to the largely irrelevant consideration of appellate review of death sentences, we must set aside the death sentence and remand for a new sentencing hearing.
+
+Accordingly, the conviction is affirmed, but the sentence is set aside and the matter is remanded for a new sentencing hearing.
+
+DIXON, C.J., concurs.
+
+MARCUS, J., concurs and assigns for reasons assigned by WATSON, J.
+
+DENNIS, J., concurs with reasons.
+
+WATSON, J., concurs and assigns reasons.
+
+DENNIS, Justice, concurring.
+
+I respectfully concur but object to and disagree with the procedure employed by the majority in its footnote number 1. First, the footnote says that it will not address the issue of whether defendant's confession containing other crimes evidence is admissible. Second, it then goes on to give several reasons why the evidence should be admissible. Third, it justifies its failure to address any of the forceful arguments presented in defendant's brief with the questionable statement that "we intimate no inclination on the merits of these issues." This treatment of a very important issue is perplexing. If the majority wishes to "intimate no inclination" it should   not present an argument for introduction of the evidence. On the other hand, if it wishes to decide the issue, commit this court to a position and give guidance to the trial court, it should forthrightly address both sides of the argument and resolve it decisively in the text of its opinion.
+
+WATSON, Justice, concurring.
+
+As a general rule, prosecutors and defense counsel should be allowed considerable latitude in arguing cases to the jury.
+
+Jurors are told over and over at every stage of the proceedings that the opening statements and closing statements are not to be regarded as evidence but only as argument.
+
+It is naive to believe that a few words in a closing argument can fill modern-day jurors with prejudice and passion against the defendant, causing them to ignore the evidence and the law and convict. Likewise, a brief and correct statement concerning the possibility of pardon does not interject such an arbitrary factor into deliberations in a capital case as to require setting aside the sentence.
+
+Therefore, I have been strongly disinclined to reverse convictions or sentences in otherwise fair trials on the basis of a few poorly chosen or misguided words from the prosecutor in closing argument.[1]
+
+However, the prosecutor's argument here represents a most thorough and most persistent attempt to minimize the jury's role in deciding whether the defendant is to receive capital punishment. In at least eight different examples by actual count, the prosecutor advised the jury that some other authority would review their decision as he belittled the role of the jury. The prosecutor's remarks represent a gross disregard for confining argument to the law and the evidence. LSA-C.Cr.P. art. 774. Reversal of the sentence is required.
+
+I concur with the majority in affirming the conviction, reversing the sentence and remanding for further proceedings.
+
+[1]  Because we are remanding for a new penalty hearing (and for the selection of a new subsequent sentencing jury), we need not consider defendant's other complaints regarding the conduct of the penalty hearing. Any complaints defendant may have regarding the excusing of prospective jurors based on their attitude toward imposition of the death penalty are moot, because the recommendation of that jury is being set aside. See State v. Edwards,
+406 So. 2d 1331
+(La.1981). The alleged "Witherspoon" error does not affect the guilt determination and thus is moot in view of our reversal of the death penalty. See State v. Kent,
+391 So. 2d 429
+(La.1980). Compare State v. Turner, 253 La. 763,
+220 So. 2d 67
+(1969). For guidance on the "Witherspoon" issue in the selection of the new penalty jury, see Williams v. Maggio, 679 F.2d 381 (5th Cir. 1982); C.Cr.P. Art. 798.
+
+We are also not required to resolve defendant's complaint regarding the admissibility at the penalty trial of defendant's confession (determined in the guilt phase to be voluntary) that he committed a series of other burglaries and a robbery in close temporal proximity to the commission of the offense in question. The evidence was offered to prove the statutory aggravating circumstance that defendant had a "significant prior history of criminal activity". C.Cr.P. Art. 905.4(c). Defendant, citing Arnold v. State, 236 Ga. 534,
+224 S.E.2d 386
+(1976), argues that the aggravating circumstance is unconstitutional, because the statute does not set forth sufficiently clear and objective standards.
+
+On the other hand, the disputed portion of C.Cr.P. Art. 905.4(c) arguably is an appropriate corrollary to the statutory mitigating circumstance of the lack of a significant prior history of criminal activity. C.Cr.P. Art. 905.5(a). And even without the express inclusion of "prior significant history of criminal activity" (which was added to C.Cr.P. Art. 905.3(c) by Act 74 of 1979), such evidence could perhaps be introduced to negate the existence of the mitigating circumstance, which the trial judge reads to the jury in his instructions, whether or not either side introduces evidence. Further, the offenses were proved by reliable evidence (defendant's own voluntary confession), of which defendant clearly had notice. In addition, the other crimes evidence related to offenses which were committed in close temporal proximity to the first degree murder and which could fairly be described as part of the same "crime spree".
+
+Although the issues of the admissibility of "other crimes" evidence and the constitutionality of the "significant prior history" addition to C.Cr.P. Art. 905.3(c) may be presented again if the subsequent sentencing jury is exposed to such evidence and again recommends the death penalty, our resolution of the merits of those issues at this point would involve reaching a constitutional issue which need not now be decided, in view of our setting aside the death sentence on other clear grounds. Therefore, we intimate no inclination on the merits of these issues.
+
+[2]  This statement was inaccurate because, under the statutory scheme adopted by Acts 1978, No. 758, amending R.S. 15:567, the trial court, rather than the Governor, orders defendant's execution and sets the date. The Governor may exercise his constitutional authority to commute a death sentence, but this step requires an affirmative intervention by the chief executive. La. Const. Art. IV, § 5(E).
+
+[3]  The quoted statement was made in a per curiam denial of rehearing on November 26, 1980. The closing argument in the present case was made on January 8, 1981, after the warning in Berry.
+
+[1]  See, for example, dissents in State v. Jordan,
+420 So. 2d 420
+(La., 1982) and State v. Brown,
+414 So. 2d 689
+(La., 1982). Also see State v. Sharp,
+418 So. 2d 1344
+(La., 1982).

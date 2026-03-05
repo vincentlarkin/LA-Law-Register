@@ -1,0 +1,173 @@
+53480
+State v. Smith
+https://law.justia.com/cases/louisiana/supreme-court/1973/285-so-2d-240-1.html
+
+53480
+State v. Smith
+Court: Louisiana Supreme Court
+Release date: 1973-10-29
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1973/285-so-2d-240-1.html
+
+285 So. 2d 240 (1973)
+
+STATE of Louisiana
+v.
+Warren SMITH.
+
+No. 53480.
+
+Supreme Court of Louisiana.
+
+October 29, 1973.
+
+*241 Allen C. Hope, Jr., Orleans Indigent Defender Program, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., LeRoy A. Hartley, Asst. Atty. Gen., Jim Garrison, Dist. Atty., Louise Korns, Asst. Dist. Atty., for plaintiff-appellee.
+
+CALOGERO, Justice.
+
+Defendant, Warren Smith, was charged by a bill of information with violation of La.R.S. 14:64, armed robbery. Defendant allegedly robbed one Robert Brooks of sixty-two dollars ($62.00) on July 20, 1972, while armed with a dangerous weapon (a revolver). On September 21, 1972, a jury of twelve unanimously found the defendant guilty as charged. On October 4, 1972, the defendant was sentenced to serve twenty-five (25) years at hard labor. Because the state had charged the defendant as a multiple offender under La.R.S. 15:529.1, the defendant, after a hearing, was re-sentenced on November 15, 1972 to serve forty-nine and one half (491⁄2) years at hard labor in the custody of the Louisiana Department of Corrections. Defendant perfected sixteen (16) bills of exceptions and now seeks a reversal of his sentence and conviction.
+
+At the trial, Robert Brooks testified that the defendant came upon him as he was working at the back of the freezing compartment of his dairy truck. He further testified that after he gave the defendant his money he was told to get into the freezing compartment of the truck, that he waited thirty seconds then "started banging   on the walls and hollering," that he was then let out of the truck by a man ("Immediately" is the inference from his several answers in this line of questioning), and that a woman handed him a piece of paper upon his being let out of the truck. The woman did not testify. Her identity and whereabouts were apparently not discovered by the police. The piece of paper was introduced into evidence. It bore a license number. The police acted upon this information and in a very brief time the defendant was arrested as he pulled up in front of his residence in his automobile. After being arrested the defendant was taken to the scene of the armed robbery and identified by the victim Brooks. At the trial, police officers involved in the incident testified as to what action was taken by them and why such action was taken.
+
+Defendant submitted, but neither briefed nor argued, bills of exceptions Nos. 1 through 6 inclusive, and 15. Under our holding in State v. Edwards, 261 La. 1014,
+261 So. 2d 649
+(1972), the bills are deemed abandoned. Defendant also reserved and perfected a bill of exceptions when the trial judge refused to quash the multiple bill (R.S. 15:529.1) at defendant's resentencing. This bill is not submitted, briefed, or argued. Therefore it is deemed abandoned also.
+
+Bill of Exceptions Nos. 7, 11, 12, 13, 14.
+
+These bills are interrelated. They involved the alleged error of the trial judge in permitting the identification and introduction into evidence of the slip of paper containing the license number and testimony concerning the receipt of the slip of paper by the victim.
+
+The basis of the defense objections to the receipt into evidence of, and testimony concerning, the piece of paper with the license number on it is that this evidence was inadmissible hearsay, being inferentially the "testimony" of a woman who was not called to the witness stand that at the scene of the robbery she observed an automobile bearing license number 292B243.
+
+The first determination to be made is whether the evidence was hearsay. Our esteemed trial brother, in his per curiam to these bills of exceptions, states that the evidence was not hearsay because:
+
+We are unable to agree with this statement. Defendant did not place at issue the validity of his arrest. No evidence was therefore needed to prove that the police officers had reasonable cause to arrest the defendant. Nor was it necessary in describing the arrest and any relevant facts surrounding the arrest to show that it was facilitated by receipt at the scene of a license number purportedly that of the robber. The slip of paper was only relevant when considered as assertive of the fact that the vehicle bearing that license number was at the scene of the crime. This assertive use, however, renders the slip of paper hearsay, since the woman who wrote down the number was not called as a witness. Cf. State v. Kimble, 214 La. 58, 36 So. 2d 637 (1948).
+
+Having found that the slip of paper was hearsay, it was not admissible into evidence unless it comes within one of the recognized exceptions to the hearsay rule. La.R.S. 15:434.
+
+No purpose would be served in attempting to analyze the history and purposes of the hearsay exclusionary rule in light of the excellent and readily available doctrinal materials on the subject.[1] It is sufficient   here to note that the theory of the rule is that the reliability of testimony is increased where the witness is required to testify personally, under oath, and subject to cross examination.[2]
+
+A blanket exclusion of all hearsay statements would greatly interfere with the ultimate search for truth. As a result, numerous exceptions to the hearsay exclusionary rule developed at common law[3] in situations where there exists a circumstantial probability of trustworthiness and a necessity for the evidence.[4] The rule, and its major exceptions, were clearly formulated in England by the 1700's[5] and incorporated by reference into Louisiana law in 1805.[6]
+
+In 1928, the Louisiana legislature adopted a comprehensive Code of Criminal Procedure. The hearsay exclusionary rule was set forth in Article 434 of that Code as follows:
+
+The Code then proceeded to set forth rules regulating the admissibility of specific types of evidence, without an attempt to enumerate all of the long recognized exceptions to the hearsay rule. Those exceptions which were included in the Code were treated as if admissibility was presumed, but certain conditions precedent were established beyond those required by common law. See, e. g., Chapter 6 governing the admission of admissions and confessions.
+
+When our present Code of Criminal Procedure was adopted in 1966, the evidentiary provisions of the 1928 Code of Criminal Procedure were shifted in toto to Title 15 of the Louisiana Revised Statutes, in contemplation of the subsequent adoption of a Code of Evidence.[7]
+
+We recently noted in State v. Moore,
+278 So. 2d 781
+(La.1973), the English origin of the 1928 Code of Criminal Procedure. We pointed out in that opinion that the brevity of the articles of that Code can   be somewhat misleading if not viewed in the context of their source material.
+
+La.R.S. 15:434 is such an article. From the prior statutes, jurisprudence, and the structure of the 1928 Code itself, it is evident that the hearsay exclusionary rule was adopted with the contemplation that its traditional exceptions would reman in force.
+
+This becomes apparent when one reviews the cases decided both before and after the adoption of the 1928 Code, all of which accept without discussion the existence of the traditional hearsay exceptions.[8]
+
+In the recent case of State v. Jacobs,
+281 So. 2d 713
+(La.1973) we recognized the validity of non-statutory exceptions to the hearsay rule. In that case we stated:
+
+Having determined that the non-statutory exceptions to the hearsay rule form a part of our law of evidence, we now turn to the question of the admissibility of the slip of paper in the instant case. We find that this non-verbal declaration of an unidentified bystander immediately following the armed robbery was admissible either as an "excited utterance"[9] or as a "present sense impression".[10]
+
+In considering first the "excited utterance" exception to the hearsay rule, we find that the basic rationale for admission involves the alleged special reliability of a declaration made in spontaneous reaction to an event sufficiently startling to render normal reflective and fabricative thought processes of the observer inoperative.[11]
+
+It is not generally required that the declarant be actually involved in the event; an excited utterance by a bystander is admissible.[12] Furthermore, the specific identity of the bystander who makes the spontaneous declaration need not be shown. For instance in St. Laurent v. Manchester Street Ry. Co., 77 N.H. 460, 92 A. 959 (1915), the testimony of a bystander passenger that the common cry of the passengers was that the boy ran into the train (and not the train into the boy) was held to be admissible.
+
+In the instant case the unidentified bystander apparently viewed the armed robbery in progress. Within about 30 seconds of the victim's being forced into the back of the truck she handed the victim the slip of paper with the license number in question.
+
+We find under these facts that the viewing of the robbery was a sufficiently exciting event to render her subsequent declaration (the license number on a slip of paper) reliable. The elapsed time between the event and her communication of her declaration to the victim was sufficiently brief that her act of writing down the license number was a spontaneous reaction to the event she viewed, and not the product of reflection, or likely a fabrication. Certainly the fact that the declaration was written rather than verbal indicates that a slightly greater time elapsed between the event and the declaration than might ordinarily be the case where there is an excited or spontaneous utterance. However, since the victim, to whom the utterance   would normally be directed, was not instantly available (he was shut inside the truck) and since transcription of the license number is generally to be assessed more lasting and less subject to mistaken recall, we find that the natural reaction of the bystander would have been to write down the license number of the car driven by the robber.
+
+An additional ground favoring admissibility is to consider the slip of paper as a present sense impression of the unidentified bystander.[13] This exception to the hearsay rule does not require that the declaration be made in response to an exciting event. The fact that the declaration is made contemporaneously with the event being described adds reliability in that there is no danger of a defective memory rendering the declaration unreliable. Also, in the case of verbal declarations, the declaration will be made in the hearing of the person who later relates the declaration. Therefore, this person will possibly have had an opportunity to observe the event himself, and thus provide a check on the accuracy of the declarant's observation. Even where the declaration is non-verbal, however, the fact that the statement is made contemporaneously with the act or immediately thereafter implies reliability since the declarant is unlikely to have had an opportunity to form a purpose to mistake his observations.[14]
+
+Having found that the slip of paper bearing the license number was properly admitted into evidence, these bills of exceptions are without merit.
+
+Bills of Exceptions Nos. 8, 9 and 10
+
+Bill No. 8 was reserved during the trial when Officer Stephen Furst was permitted, over objection by the defense that it was hearsay, to testify that shortly after the armed robbery occurred he had shown Robert Brooks, the robbery victim, five photographs, and that Brooks had picked out the picture of Warren Smith.[15]
+
+Bills Nos. 9 and 10 are identical and were reserved when the trial judge denied defense counsel's motion for a mistrial based on the same Officer's response to a question by the district attorney. The district attorney asked the witness, "Do you remember which photograph it was?" The witness answered, "He (the victim, Brooks) picked out the mugshot of Warren Smith." After another question but before an answer could be made, defense counsel moved for a mistrial under La.C.Cr.P. Art. 770(2).
+
+Bills 8, 9 and 10 were in brief argued, and here treated, together, because they arose out of a single line of questioning of Officer Furst. The legal issue raised, however, were two, separate and distinct.
+
+Bill No. 8 directed to the victim's assertive act, of picking the defendant's photograph out of several presented him, and attested to by the officer, is an objection that the officer's testimony was hearsay.
+
+Bills 9 and 10 complaining of the Officer's use of the word "mugshot" in reference to the defendant's photograph chosen by the victim, is an objection that La.C.Cr. P. Art. 770(2)[16] and its proscription   against referring directly or indirectly to another crime, was violated.
+
+With respect to Bill No. 8 we agree that the victim's act in picking our defendant's photograph was essentially assertive in nature, and thus the officer's testimony to this effect hearsay. However, we find this cumulative testimony not substantially prejudiced in view of the fact that the victim had already testified to the very occurrence, namely, that he had picked defendant's photograph out of several shown him by Officer Furst.
+
+He also testified that immediately thereafter he identified the defendant at the scene, and, of course, he identified the defendant in court as the perpetrator of the armed robbery.
+
+With respect to Bills No. 9 and 10, the "mugshot" reference, or implied suggestion of another crime not by the judge, district attorney or court official, but rather by a policeman witness. Therefore, the law applicable is Article 771[17] of the Louisiana Code of Criminal Procedure rather than Article 770. See Official Revision Comment (d) to Article 770.
+
+Under Article 771, the trial judge, when requested to do so, must admonish the jury to disregard an irrelevant or immaterial remark which might cause prejudice to the defendant;[18] but the trial judge has discretion to grant a mistrial if he finds that an admonition would not sufficiently assure the defendant of a fair trial. We do not find this unsolicited, corresponsive statement by the witness of the word "mugshot" to be so inherently prejudicial as to require a mistrial. Cf. State v. Callihan, 257 La. 298,
+242 So. 2d 521
+(1970).
+
+We note also that the photographs were not introduced into evidence nor displayed before the jury. Therefore, there was no prejudice to the accused from the nature of the "mugshot" photographs themselves. Cf. State v. Jones, La.,
+283 So. 2d 476
+(1973). We find no abuse of discretion on the part of the trial judge in refusing to grant a mistrial under these circumstances, and consequently no merit to the bills.
+
+For the reasons assigned, the conviction and sentence are affirmed.
+
+[1]  See, e. g., McCormick, Evidence, Sec. 244 et seq. (2d Ed. 1972); 5 Wigmore on Evidence, Sec. 1364 (1940); 9 Holdsworth's History of the English Law, 214-219 (1926); Thayer, Preliminary Treatise on Evidence, p. 518 et seq. (1898).
+
+[2]  McCormick, supra note 1 at Sec. 245.
+
+[3]  The recognized exceptions to the hearsay exclusionary rule are set forth in rules 501-531 of the ALI Model Code of Evidence (1942).
+
+[4]  Wigmore supra note 1 at Sec. 1420. Wigmore states the considerations to be taken into account in deciding admissibility thusly:
+
+"Where the test of cross-examination is impossible of application, by reason of the declarant's death or some other cause rendering him now unavailable as a witness on the stand, we are faced with the alternatives of receiving his statements without that test, or of leaving his knowledge altogether unutilized. The question arises whether the interests of efficient investigation would suffer more by adopting the latter or the former alternative. Whatever might be thought of the general policy of choosing the former alternative without any further requirement, it is clear at least that, so far as in a given instance some substitute for cross-examination is found to have been present, there is ground for making an exception. The mere necessity alone of taking the untested statement, instead on none at all, might not suffice; but if, to this necessity, there is added a situation in which some degree of trustworthiness more than the ordinary can be predicated of the statement, there is reason for admitting it as not merely the best that can be got from that witness, but better than could ordinarily be expected without the test of cross-examination."
+
+[5]  Wigmore, supra note 1 at Secs. 1364 and 1426; Thayer, supra note 1 at p. 518 et seq.
+
+[6]  Section 33 of the Crimes Act of 1805 stated:
+
+"All crimes, offenses and misdemeanors shall be taken, intended and construed, according to and in conformity with the common law of England, and the forms of indictment (divested, however, of unnecessary prolixity), the method of trial, the rules of evidence, and all other proceedings whatsoever in the prosecution of crimes, offenses and misdemeanors, changing what ought to be changed, shall be according to common law, unless otherwise provided * * *."
+
+This provision remained part of our law until the adoption of our present Code of Criminal Procedure in 1966. See former La.R.S. 15:0.2. Cf. La.C.Cr.P. Art. 3 and the Official Revision Comment thereto.
+
+[7]  No Code of Evidence has ever been adopted in Louisiana. However, the language of Article 434 (now La.R.S. 15:434) has not been amended to omit the reference to a "Code".
+
+[8]  See, e. g., State v. Gianfala, 113 La. 463, 37 So. 30 (1904) (dying declaration); State v. Price, 121 La. 53, 46 So. 99 (1908) (admissions and confessions); State v. Dierlamm, 189 La. 544, 180 So. 135 (1938) (official documents); State v. Frizzell,
+273 So. 2d 831
+(La.1973) (spontaneous utterances); State v. Jacobs,
+281 So. 2d 713
+(La.1973) (dying declaration).
+
+[9]  See Comment, Excited Utterances and Present Sense Impressions as Exceptions to the Hearsay Rule in Louisiana, 29 La.L.Rev. 661 (1969); McCormick, supra note 1 at Sec. 297.
+
+[10]  See Comment, supra note 9; McCormick, supra note 1 at Sec. 298.
+
+[11]  McCormick, supra note 1 at Sec. 297.
+
+[12]  McCormick, Id. See comment, supra note 9 at 668-69 for an excellent summary of prior Louisiana jurisprudence on the issue of bystander declarations.
+
+[13]  McCormick, supra note 1 at Sec. 298; Morgan, A Suggested Classification of Utterances Admissible as Res Gestae, 31 Yale L.J. 229 (1922); Model Code of Evidence Rule 512(a); Fed.Rules of Evidence (R.D.1971) 803(2).
+
+[14]  McCormick, supra note 1 at Sec. 298.
+
+[15]  This took place at the scene before defendant was arrested and returned. Having learned the name of the registered motor vehicle operator whose license number was seen by the bystander, the investigating officers were able to present defendant's photograph, along with others to the victim within a very brief time following the occurrence. The police work on the part of the investigating officers in this case could hardly have been more capable, or efficient.
+
+[16]  La.C.Cr.P. Art. 770:
+
+Upon motion of a defendant, a mistrial shall be ordered when a remark or comment, made within the hearing of the jury by the judge, district attorney, or a court official, during the trial or in argument, refers directly or indirectly to:
+
+(2) Another crime committed or alleged to have been committed by the defendant as to which evidence is not admissible;
+
+An admonition to the jury to disregard the remark or comment shall not be sufficient to prevent a mistrial. If the defendant, however, requests that only an admonition be given, the court shall admonish the jury to disregard the remark or comment but shall not declare a mistrial. (Emphasis provided)
+
+[17]  Art. 771. Admonition
+
+In the following cases, upon the request of the defendant or the state, the court shall promptly admonish the jury to disregard a remark or comment made during the trial, or in argument within the hearing of the jury, when the remark is irrelevant or immaterial and of such a nature that it might create prejudice against the defendant, or the state, in the mind of the jury:
+
+(1) When the remark or comment is made by the judge, the district attorney, or a court official, and the remark is not within the scope of Article 770; or
+
+(2) When the remark or comment is made by a witness or person other than the judge, district attorney, or a court official, regardless of whether the remark or comment is within the scope of Article 770.
+
+In such cases, on motion of the defendant, the court may grant a mistrial if it is satisfied that an admonition is not sufficient to assure the defendant a fair trial.
+
+[18]  It should be noted the defense counsel did not at any time request the trial judge to admonish the jury to disregard the reference to "mugshot."

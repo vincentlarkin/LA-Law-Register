@@ -1,0 +1,86 @@
+65813
+State v. Johnson
+https://law.justia.com/cases/louisiana/supreme-court/1980/381-so-2d-436-1.html
+
+65813
+State v. Johnson
+Court: Louisiana Supreme Court
+Release date: 1980-03-03
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/381-so-2d-436-1.html
+
+381 So. 2d 436 (1980)
+
+STATE of Louisiana
+v.
+Joseph W. JOHNSON.
+
+No. 65813.
+
+Supreme Court of Louisiana.
+
+March 3, 1980.
+
+Rehearing Denied April 7, 1980.
+
+*437 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Paul J. Carmouche, Dist. Atty., for plaintiff-appellee.
+
+Gamm, Greenberg & Kaplan, Irving M. Greenberg, Shreveport, for defendant-appellant.
+
+WATSON, Justice.[*]
+
+Defendant, Joseph W. Johnson, was indicted for second degree murder and attempted second degree murder in violation of LSA-R.S. 14:30.1 and LSA-R.S. 14:27. The indictment alleged that defendant murdered Estella Allen and attempted to murder Jimmy S. Allen, Jr., her son. The jury found defendant guilty as charged and he was sentenced to life imprisonment for second degree murder and to thirty years hard labor for the attempted second degree murder. Defendant has appealed, asserting twelve assignments of error. All but one of these assignments involve well-settled and recognized principles of law, and do not warrant discussion here.
+
+Defendant contends that the trial court erred in allowing the introduction of hearsay testimony.
+
+Two of the murder victim's friends made statements regarding the relationship between her, her husband and defendant. The State attempted to show that Estella had intended to return to her husband by the testimony of these witnesses. Both said that defendant Johnson was Estella Allen's "boyfriend" (Tr. 11, 19). One added that Estella was separated from her husband.
+
+On direct examination by the State, Clara Bolden testified that she spoke with Estella Allen a few days before her death. Defense counsel's objection to the substance of Estella's conversation was sustained. Defense counsel's objection to Clara Bolden's account of what she had said was overruled. Ms. Bolden stated, "I told her I was happy for her ..." (Tr. 13). Defendant's hearsay objection to further inquiry was sustained. Later, the trial court overruled a defense objection and allowed the witness to state: "I was happy that her and her husband were getting back together. And what was she going to do about Joe." (Tr. 14)
+
+*438 Ann Thomas testified that she spoke to the victim the day before her death and told Estella she was glad Estella had decided to go back to her husband (Tr. 21-22). No objection was made to the question eliciting this statement. Defendant claims a general objection was made, but the record does not support this assertion. Since no contemporaneous objection was made to this response, LSA-C.Cr.P. art. 841, only the testimony of Clara Bolden is at issue.
+
+An out-of-court assertion by a testifying witness differs from other hearsay. State v. Monroe,
+345 So. 2d 1185
+(La.,1977); State v. Launey,
+335 So. 2d 435
+(La.,1976); State v. Hayes,
+306 So. 2d 705
+(La.,1975); State v. Jacobs,
+281 So. 2d 713
+(La.,1973). The declarant is available for cross-examination, and defendant is not deprived of his right to confrontation. The United States Supreme Court has noted:
+
+However, in State v. Martin,
+356 So. 2d 1370
+(La.,1978) the definition of hearsay proposed by Professor McCormick was adopted as follows:
+
+"`Hearsay evidence is testimony in court,... of a statement made out of court, the statement being offered as an assertion to show the truth of matters asserted therein, and thus resting its value upon the credibility of the out-of-court asserter.' C. McCormick, Evidence, § 246 (Cleary ed. 1972)." Id., 356 So. 2d  at 1374.
+
+This definition does not allow an exception when the declarant testifies and is available for cross-examination.
+
+Since the out-of-court statement of the testifying witness was introduced to show that Estella Allen intended to return to her husband, the statement was inadmissible hearsay under the definition adopted in Martin. LSA-R.S. 15:434. The evidence was erroneously admitted. However, "[o]ften an erroneous ruling admitting an unsworn out-of-court assertion by a testifying witness will not present grounds for reversal," State v. Martin, 356 So. 2d 1374.
+
+The admission of this evidence was not unduly prejudicial to the accused. Defendant testified that he thought Estella had ceased taking birth control pills and wanted to become pregnant so he would marry her (Tr., Vol. III, 252-253). He claimed ignorance of any plans she may have had to return to her husband. Estella's father and husband also testified that she had not planned a reconciliation. There was no evidence to show defendant thought Estella might leave him, and a lack of proof of the motive the State tried to imply. The absence of support for this motive minimizes any prejudice resulting from the trial court's ruling. When this factor is considered with the fact that the defendant was able to confront the witnesses giving the hearsay testimony, there is no reversible error. LSA-C.Cr.P. art. 921.
+
+Since all of the assignments of error are without merit, the conviction and sentence of defendant are affirmed.
+
+AFFIRMED.
+
+CALOGERO, J., concurs.
+
+DENNIS, J., dissents with reasons.
+
+DENNIS, Justice, dissenting.
+
+I respectfully dissent.
+
+Defendant's assignment of error number eight appears to have merit. The witnesses' testimony was relevant only to convey to the jury the victim's out of court statements. These extra-judicial statements were offered as assertions to show the truth of the matter asserted therein, i. e., that the victim intended to leave defendant and go back to her husband. Since there was no evidence that her intention was ever communicated to defendant, the statement did not lead to an inference of any reaction by defendant to her undisclosed intention. State v. Weedon,
+342 So. 2d 642
+(La.1977).
+
+*439 Moreover, it is incorrect to excuse the introduction of inadmissible hearsay on the grounds that a witness who has heard hearsay appears in court and is subject to cross-examination. State v. Martin,
+356 So. 2d 1370
+, 1374 (La.1978) does not stand for this proposition, but only for the notion that often it will be harmless error to admit hearsay if the declarant of the out of court statement appears as a witness in court.
+
+[*]  Chief Judge PAUL B. LANDRY participated in this opinion as Justice ad hoc in place of SUMMERS, C. J.
+
+[**]  This was filed in the trial court as assignment number five, but we have used the number designated in brief.

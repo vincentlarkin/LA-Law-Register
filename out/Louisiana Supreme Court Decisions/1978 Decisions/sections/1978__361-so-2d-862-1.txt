@@ -1,0 +1,63 @@
+61395
+Tabb v. LOUISIANA HEALTH SERVICES & INDEM. CO.
+https://law.justia.com/cases/louisiana/supreme-court/1978/361-so-2d-862-1.html
+
+61395
+Tabb v. LOUISIANA HEALTH SERVICES & INDEM. CO.
+Court: Louisiana Supreme Court
+Release date: 1978-06-19
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/361-so-2d-862-1.html
+
+361 So. 2d 862 (1978)
+
+Wilbert TABB, Sr.
+v.
+LOUISIANA HEALTH SERVICES & INDEMNITY CO.
+
+No. 61395.
+
+Supreme Court of Louisiana.
+
+June 19, 1978.
+
+Rehearing Denied August 31, 1978.[*]
+
+Gerald J. Block, Lafayette, for plaintiff-applicant.
+
+Paul J. Hebert, Cooper & Sonnier, Abbeville, for defendant-respondent.
+
+DIXON, Justice.
+
+Wilbert Tabb, Sr. brought this action against Louisiana Health Services & Indemnity Company (Blue Cross) for medical expenses under a group insurance policy, plus penalties and attorney fees. The trial court granted a summary judgment in favor of defendant and dismissed plaintiff's action. The Court of Appeal affirmed. Tabb v. Louisiana Health Services & Indemnity Co., 352 So. 2d 771 (La.App. 3d Cir. 1977). We granted writs to review that ruling.
+
+On November 7, 1970 Tabb, a deputy sheriff in Lafayette Parish, was shot by a burglar and rendered a paraplegic. At the time of the accident plaintiff was a subscriber in a group hospitalization and medical   services insurance policy issued by Blue Cross. Plaintiff's benefit claims were paid by defendant from the time of the injury until March 31, 1972, at which time the group policy was cancelled. Plaintiff filed this suit on December 9, 1975 seeking recompense for medical expenses incurred after the date of cancellation. After various preliminary pleas, Blue Cross moved for a summary judgment.
+
+The Court of Appeal correctly dealt with one aspect of the motion for summary judgment. Defendant's supporting affidavits were made on the personal knowledge of the affiant that he, the finance officer for the sheriff's department, had written Blue Cross to cancel the policy because of other arrangements made in securing insurance coverage. Plaintiff's affidavit countering the one filed by Blue Cross contained the unsupported statement, without details, that Blue Cross had cancelled the policy, a matter which, if intended as a factual allegation, did not lie within plaintiff-affiant's knowledge, and would not demonstrate a genuine issue as to a material fact. C.C.P. 966, 967.
+
+The other argument dealt with by the Court of Appeal was plaintiff's attack on a clause in the policy as violating public policy and certain statutory provisions. In Article XI(d) of the policy it was provided that no subscriber would be paid for medical services received after termination of the contract. The Court of Appeal correctly found that public policy did not prohibit such contractual provision. Plaintiff's argument that R.S. 22:213 B (7) and (8) invalidate the clause is without merit. R.S. 22:213 applies only to health and accident insurance, which is defined as follows in R.S. 22:6 (2):
+
+The Blue Cross policy was not a "Health and Accident" policy. It did not insure against injury, disablement or death. It only provided benefits for hospital and medical care.
+
+However, although confused about the application of the statutes governing "Health and Accident" policies, plaintiff's attack was in the right direction. He claimed (under R.S. 22:213 B (7)) that he should have had notice of the cancellation. He was right, but not because of the authorities he relied on.
+
+The insurance code defines many kinds of insurance but not all kinds. This Blue Cross policy would be classed as "miscellaneous" under R.S. 22:6 (14) and the general provisions of the insurance code would govern, including the provisions of R.S. 22:636 requiring written notice to the insured for cancellation.
+
+The Blue Cross policy does not define the "insured" as do some policies. The policy is issued to the "Lafayette Parish Sheriff Department," who is called the "employer." Benefits are to be provided to the "Employees of the Employer." The employer is not the insured; the employees are. They, alone, receive the benefits. The employer has been held to be an agent of the insurer in a similar case in 1948, the year the insurance code was adopted.
+
+In Neider v. Continental Assurance Co., 213 La. 621, 35 So. 2d 237, the beneficiary named in the certificate under a group life insurance policy sought recovery from the insurance company after the insurance company refused to pay because of the termination of the policy for nonpayment of premiums before the death of the insured. The policy had been issued to the decedent's employer, the Illinois Central System. According to the terms of the policy, the employer paid the premiums, but each employee was issued a certificate of insurance and contributed to the payment of the premiums through payroll deductions. The court, in reference to the duties of the employer and insurer, stated:
+
+See also Comment, 22 La.L.Rev. 169 (1961); Keeton, Insurance Law 66 (1971).
+
+Neider, therefore, advances the general proposition that the employee is entitled to notice of changes which could affect his coverage, at least when he contributes to the payment of premiums and is issued a certificate of insurance by the insurer. Without such notice, the insured employee could be left without insurance or adequate coverage, without being aware of the need to procure other insurance or to supplement his reduced coverage.
+
+The same reasoning would apply to situations such as the one presented by the instant case. The plaintiff was entitled to notice of the cancellation, either by the employer or the insurer.[1]
+
+The affidavits introduced in the trial court show that the issue of whether the plaintiff received notice of the cancellation is disputed. The sheriff's finance officer said he personally told plaintiff about the cancellation; plaintiff said he had no prior notice. Accordingly, there was a substantial issue of material fact, and a summary judgment should not have been granted.
+
+The judgment of the Court of Appeals is reversed and the case is remanded to the trial court for further proceedings not inconsistent with the views expressed herein. The defendant is cast with all costs incurred to date.
+
+[*]  Sanders, C. J., Tate and Marcus, JJ., would grant a rehearing.
+
+[1]  It appears that a majority of other jurisdictions adhere to the rule requiring notice to the employee when the employee contributes to the payment of the premiums. See Annot. 68 A.L.R.2d 269 (1959). Some jurisdictions, however, distinguish contributory policies from noncontributory policies and reason that because the noncontributory coverage is in effect a gratuity, the employee is not entitled to notice. 68 A.L.R.2d at 270. This latter rule has been criticized because the premium is in reality compensation, whether or not it is actually subtracted from the employee's pay. See Note, 40 So.Cal.L.Rev. 697 (1967); Note, 49 Yale L.J. 585 (1940). Although we see little reason for the distinction, we do not reach the issue here because of the procedural posture of the case and the paucity of the record.

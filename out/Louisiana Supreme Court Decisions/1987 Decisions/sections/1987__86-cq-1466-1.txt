@@ -1,0 +1,135 @@
+86-CQ-1466
+Meloy v. Conoco, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1987/86-cq-1466-1.html
+
+86-CQ-1466
+Meloy v. Conoco, Inc.
+Court: Louisiana Supreme Court
+Release date: 1987-04-06
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/86-cq-1466-1.html
+
+504 So. 2d 833 (1987)
+
+Robert Earl MELOY, et al.
+v.
+CONOCO, INC.
+v.
+OILFIELD SERVICES OF CAMERON, INC.
+
+No. 86-CQ-1466.
+
+Supreme Court of Louisiana.
+
+April 6, 1987.
+
+*834 Gregory P. Massey, Jones, Tete, Nolen, Hanchey, Swift & Spears, Lake Charles, for defendant-appellant.
+
+Joseph W. Looney, George B. Jurgens, III, Milling, Benson, Woodward, Hillyer, Pierson & Miller, P.C., New Orleans, for amicus curiae.
+
+Rudie Ray Soileau, Jr., Scofield, Bergstedt, Gerard, Mount & Veron, P.C., Lake Charles, for plaintiff-appellee.
+
+MARCUS, Justice.
+
+Pursuant to La.R.S. 13:72.1[1] and Rule XII of the Supreme Court of Louisiana,[2]*835 the United States Court of Appeals for the Fifth Circuit has certified the following questions of law to this court:[3]
+
+As Rule XII requires, the certificate includes a statement of facts showing the nature of the cause and the circumstances out of which the question of law arises:
+
+The questions certified to this court raise two issues: (1) the extent to which the Louisiana Oilfield Indemnity Act of 1981[6] prohibits indemnification agreements in contracts relating to oilfield operations; and (2) whether the allegations of the complaint govern the indemnitor's obligation to defend, and if not, whether the indemnitee can recover its cost of defense after trial on the merits.
+
+We first address the nature of the prohibition against indemnity contracts found in the Louisiana Oilfield Indemnity Act (Act). The Act has not been interpreted uniformly by the federal district courts which have considered it. Some courts have held that the Act voids totally any indemnification clause in any contract to which the Act applies while other courts have found that the Act bars indemnification only to the extent of an indemnitee's own fault and that the Act allows indemnification for the proportionate fault of the indemnitor. Our interpretation of the Act must be guided by the language of the statute and the legislature's intent in enacting it.
+
+Fruge v. Muffoletto,
+137 So. 2d 336
+, 339 (La.1962). Laws must be interpreted to give them the connotation that the lawmaker obviously intended. Smith v. Flournoy,
+115 So. 2d 809
+, 814 (La.1959).
+
+The relevant portion of La.R.S. 9:2780 provides as follows:
+
+La.R.S. 9:2780 was passed in response to the concern of oilfield contractors over the widespread inclusion of indemnification agreements in the master service contracts which oil companies require all contractors to sign.[7] The indemnification provisions exposed contractors to both worker's compensation and tort liability. Louisiana Oilfield Contractors Association (Amicus Curiae) contends that because these contractual indemnification agreements were inherently adhesive in nature due to the unequal bargaining position between the parties, the legislature enacted the Louisiana Oilfield Indemnity Act, La.R.S. 9:2780.
+
+Section A of the Act states that the defense and indemnity provisions in certain contracts relating to the drilling industry are inequitable to some oilfield contractors. It declares that the intent of the legislature is to declare null and void and against public policy "any provision in any agreement which requires defense and/or indemnification for death or bodily injury to persons where there is negligence or fault (strict liability) on the part of the indemnitee...."
+
+After this statute was passed by the 1981 Regular Session of the Legislature, the wording of Section B of the Act apparently raised concerns that it might be interpreted to void an oil company's entire master service contract rather than only the offending indemnity and/or defense provisions.[8] The 1981 Special Session of the   Legislature amended Section B to make clear that the Act was intended to void only the indemnity and/or defense portion of a contract and not the entire contract. The word "provision" was substituted for the first reference to "agreement" in Section B and the phrase "to the extent that it purports to or does" replaced "if it purports to." 1981 La.Acts, Ex.Sess., No. 33. These changes make it clear that master service contracts are not voided by the Act. The Act nullifies only those contractual provisions that provide for defense or indemnity where the indemnitee is in some way at fault.
+
+Conoco and several other oil companies appearing as amici curiae argue that the amendment to Section B was intended to limit the scope of the Act. They suggest that Section B should be read to nullify an indemnification agreement only to the extent that it provides indemnification for the indemnitee's own fault. Therefore, an oil company indemnitee should be able to obtain contractual indemnification for damages resulting from a contractor's concurrent negligence.[9] We disagree. The wording of Section A makes it clear that the legislature intended to prohibit "any provision in any agreement which requires defense and/or indemnification, for death or bodily injury to persons, where there is negligence or fault (strict liability) on the part of the indemnitee." This language was not amended when the wording of Section B was changed. The amendments to Section B clarify the fact that such contracts are voided only to the extent that they purport to require indemnification and/or defense where there is negligence or fault on the part of the indemnitee; otherwise, they are enforceable as any other legal covenant. The oil companies' contention that the Act only prohibits indemnification for an indemnitee's own fault takes the words "to the extent" out of context. Construing the Act so that the words "to the extent" apply to "the sole or concurrent negligence or fault" of the indemnitee requires that one ignore the words which lie between the two phrases in Section B. Additionally, this reading of Section B reaches a result inconsistent with the similar provision in Section A. A reading of the Act in its entirety convinces us that the amendments to Section B were intended only to keep from invalidating those portions of oilfield master service contracts unrelated to indemnification and/or defense. There was no intent to modify the prohibition against indemnification agreements between the parties specified in the Act. Therefore, we conclude that La.R.S. 9:2780 nullifies completely any provision in any agreement that requires defense and/or indemnification where there is any negligence or fault on the part of the indemnitee.
+
+We next consider whether the allegations of the complaint govern the indemnitor's obligation to defend, and if not, whether the indemnitee can recover its cost of defense after trial on the merits.
+
+Generally, the insurer's obligation to defend suits against its insured is broader than its liability for damage claims. And the insurer's duty to defend suits brought against its insured is determined by the allegations of the injured plaintiff's petition, with the insurer being obligated to furnish a defense unless the petition unambiguously excludes coverage. American Home Assurance Co. v. Czarniecki, 255 La. 251,
+230 So. 2d 253
+(1969).
+
+*839 An indemnity agreement is a specialized form of contract which is distinguishable from a liability insurance policy.[10] A cause of action under a liability insurance policy accrues when the liability attaches. Appleman, Insurance Law and Practice (Buckley ed.) § 4261. However, an insurer's duty to defend arises whenever the pleadings against the insured disclose a possibility of liability under the policy. American Home Assurance Co. v. Czarniecki, supra; Appleman, Insurance Law and Practice (Berdal ed.) § 4683.01. On the other hand, an indemnity agreement does not render the indemnitor liable until the indemnitee actually makes payment or sustains loss. BLACK'S LAW DICTIONARY 692-93 (5th ed. 1979); Appleman, Insurance Law and Practice (Buckley ed.) §§ 4261, 6668. Therefore, a cause of action for indemnification for cost of defense does not arise until the lawsuit is concluded and defense costs are paid. The allegations of the complaint against the indemnitee are irrelevant to the indemnitor's obligation to pay. Rather, it is the terms of the indemnity agreement which govern the obligations of the parties. However, indemnification agreements between oil companies and oilfield contractors are limited by the Act.
+
+The Act only prohibits indemnity for cost of defense where there is "negligence or fault (strict liability) on the part of the indemnitee." The Act does not apply where the indemnitee is not negligent or at fault. An agreement providing for cost of defense in the event of a meritless suit against the indemnitee is outside the scope of the Act. Accordingly, the indemnitor's obligation for cost of defense cannot be determined until there has been a judicial finding that the indemnitee is liable or that the charges against it were baseless. Whether an oil company (indemnitee) is free from fault and thus outside the scope of the Act can only be determined after trial on the merits."[11] If it is established at trial that there is no "negligence or fault (strict liability) on the part of the indemnitee," the Act does not prohibit indemnification for cost of defense.
+
+For the foregoing reasons, we render the following judgment in response to the certified questions:
+
+1. The allegations of the plaintiff's suit against the indemnitee are irrelevant to the indemnitor's obligation to pay. Rather, it is the terms of the indemnity agreement which govern the obligations of the parties.
+
+2. After trial on the merits, if the indemnitee is found free from fault, the Act does not prohibit the indemnitee from recovering its cost of defense. Whether the injury is found to have resulted in whole or in part from the fault of the indemnitor does not affect the indemnitee's right to recover its cost of defense provided it is free from fault.
+
+3. The Louisiana Oilfield Indemnity Act of 1981, La.R.S. 9:2780 nullifies completely any provision in any agreement that requires indemnification where there is any negligence or fault on the part of the indemnitee.[12]
+
+WATSON, J., concurs in part and dissents in part, assigning reasons.
+
+LEMMON, J., dissents in part, disagreeing as to certified question III.
+
+*840 WATSON, Justice, dissenting as to Certified Questions I and II; concurring in the answer to Question III.
+
+In LSA-R.S. 9:2780, the legislature of Louisiana declared it to be against the State's public policy for oil companies to impose upon their service companies, through contracts of adhesion, an obligation to defend or indemnify the oil companies, where there is negligence, strict liability, or fault on the part of the oil companies or those for whom they are answerable.
+
+Under the well settled law of Louisiana, the pleadings of a suit determine the obligation to defend. The federal courts have correctly decided the first two certified questions in Sullen v. Missouri Pacific Railroad Co., 750 F.2d 428 (5 Cir., 1985); Laird v. Shell Oil Co., 770 F.2d 508 (5 Cir., 1985); and in an excellent opinion by Judge Duplantier in the case at bar.[1] Also see Babineaux v. McBroom Rig Bldg. Service, Inc., 806 F.2d 1282 (5 Cir., 1987). The majority errs in disregarding the settled federal and state jurisprudence as to the obligation to defend.[2] The pleading of the suit, not the outcome of the case, also determine the obligation to pay defense costs.[3]
+
+I respectfully dissent from the majority's answers to the first two certified questions and concur as to the third.
+
+[1]  La.R.S. 13:72.1(A) provides:
+
+The supreme court of this state may, by rule of court, provide that when it shall appear to the Supreme Court of the United States, or to any court of appeals of the United States, that there are involved in any proceeding before it questions or propositions of the laws of this state, which are determinative of the said cause, and there is no clear controlling precedent in the decisions of the supreme court of this state, such federal appellate court may certify such questions or propositions of the laws of this state to the supreme court of this state for instructions concerning such questions or propositions of state law, which certificate the supreme court of this state may, by written opinion, answer.
+
+[2]  Rule XII provides in pertinent part:
+
+Section 1. When it appears to the Supreme Court of the United States, or to any circuit court of appeal of the United States, that there are involved in any proceedings before it questions or propositions of law of this state which are determinative of said cause independently of any other questions involved in said case and that there are no clear controlling precedents in the decisions of the supreme court of this state, such federal court before rendering a decision may certify such questions or propositions of law of this state to the Supreme Court of Louisiana for rendition of a judgment or opinion concerning such questions or propositions of Louisiana law. This court may, in its discretion, decline to answer the questions certified to it.
+
+Section 2. The provisions of this rule may be invoked by the Supreme Court of the United States or any circuit court of appeal of the United States upon its own motion or upon the suggestion or motion of any interested party.
+
+Section 3. The certificate provided for herein shall contain the style of the case, a statement of facts, showing the nature of the cause and the circumstances out of which the questions or propositions of law arise, and the question or questions of law to be answered.
+
+Section 4. The certificate may be prepared by stipulation or as directed by such certifying court....
+
+[3]  Meloy, et al v. Conoco, Inc., Certificate from the United States Court of Appeals for the Fifth Circuit, 794 F.2d 992 (1986), by decision rendered at 792 F.2d 56, recalling opinion at 784 F.2d 1320, on appeal from the United States District Court for the Western District of Louisiana.
+
+Certification granted, to be briefed and argued, at 496 So. 2d 340. See Rule XII of the Supreme Court of Louisiana, Sections 1, 6 and 7.
+
+[4]  Contractor agrees to indemnify and hold harmless Company, and any or all co-lessees or co-owners of Company who wholly or partially bear the cost of operations hereunder, or other Company Contractors to which Company owes an indemnification and any or all agents, directors, officers, employees or servants of Company or of such co-lessees, or co-owners, or other such Company Contractors, against any and all claims, demands, or suits (including, but not limited to, claims, demands, or suits, for bodily injury, illness, disease, death, or loss of services, property or wages) which may be brought against Company or against Company and such co-lessees or co-owners, or other such Company Contractor, whether one or more, or in which any and all such agents, directors, officers, employees, or servants of Company or of such co-lessees, co-owners or other such Company Contractors, as the case may be, are named party defendant or parties defendant, as the case may be, by any employee of Contractor, his subcontractor, or the legal representative or successor of such employee, in any way arising out of or incident to the work to be performed under this contract, irrespective of whether such suits are based on the relationship of master and servant, third party, or otherwise, and even though occasioned, brought about, or caused in whole or in part by the negligence of Company, and/or its co-lessees or co-owners and/or other Company Contractors, their agents, directors, officers, employees, or servants, or by the unseaworthiness of vessel or craft, or by conditions, acts or omissions (whether or not in whole or in part the responsibility of or occasioned by negligence or fault of Company and/or co-lessees and/or co-owners or other Company Contractor, their agents, directors, officers, employees or servants) which imposes strict liability provided, however, that such indemnification shall only apply to the extent permitted by applicable law. Contractor further agrees to have any such claim, demand, or suit investigated, handled, responded to and defended at no cost to Company, its co-lessees, co-owners and/or other Company Contractors, even if such claim, demand, or suit is groundless, false or fraudulent.
+
+[5]  784 F.2d 1320 (5th Cir.1986).
+
+[6]  La.R.S. 9:2780. The official title of this statute is "Certain Indemnification Agreements Invalid"; however, it is widely known as the Louisiana Oilfield Indemnity Act of 1981 and shall be referred to by that name in this opinion.
+
+[7]  Such agreements govern all of the work to be performed by a contractor for an oil company.
+
+[8]  As originally passed in the 1981 Regular Session, Section B of the Act provided:
+
+Any agreement contained in, collateral to, or affecting an agreement pertaining to a well for oil, gas, or water, or drilling for minerals which occur in a solid, liquid, gaseous, or other state, is void and unenforceable if it purports to provide for defense or indemnity, or either, to the indemnitee against loss or liability for damages arising out of or resulting from death or bodily injury to persons, which is caused by or results from the sole or concurrent negligence or fault (strict liability) of the indemnitee, or an agent, employee, or an independent contractor who is directly responsible to the indemnitee.
+
+1981 La.Acts, No. 427 (emphasis added).
+
+[9]  Conoco suggests that an interpretation of the Act which does not allow indemnification for liability resulting from the fault of the indemnitor is a disincentive to safety in the workplace, is inconsistent with Louisiana's system of comparative fault and interferes with the parties' freedom to contract. Such policy arguments should be addressed to the legislature.
+
+[10]  In Louisiana, insurance law is sui juris. Insurance principles are not necessarily applicable to other contractual relationships. La.R.S. 22:2(A)(1); Succession of Feist, 274 So. 2d 806 (La.App. 4th Cir.1973), modified on other grounds,
+287 So. 2d 514
+(La.1973).
+
+[11]  Prior to a judicial determination, it is not known whether the indemnitee is or is not at fault; therefore, the Act would prohibit a provision requiring an "up-front" defense.
+
+[12]  Pursuant to Rule XII, Section 9, Supreme Court of Louisiana, the judgment rendered by this court upon the questions certified shall be sent by the clerk of this court under seal of this court to the United States Court of Appeals for the Fifth Circuit and to the parties, Robert Earl Meloy, Conoco, Inc., and Oilfield Services of Cameron, Inc.
+
+[1]  784 F.2d 1320 (5 Cir., 1986).
+
+[2]  "In Knapp v. Chevron U.S.A., Inc., 781 F.2d 1123 (5th Cir.1986), the court found that there was no basis in the Act under Louisiana law for allowing an indemnitee to recover costs of defense. Citing Sullen v. Missouri Pacific Railroad Co., 750 F.2d 428 (5th Cir.1985), the court held that whether a party is obliged to tender a defense to another party depends entirely upon the allegations in the precipitating pleadings. It stated that if the pleadings of the plaintiff-employee allege negligence on the part of the indemnitee, the ultimate outcome of the litigation is of no moment since the duty to defend is voided by the Act ab initio and in its entirey. This ruling has now become firmly entrenched." D. Panagiotis, Offshore UpdateFive Years After Passage: Contractual Indemnity, Defense, and Insurance Under the Louisiana Oilfield Indemnity Act, The Maritime Lawyer, Vol. X, No. 2 (1985).
+
+[3]  See the discussion in 47 Louisiana L.Rev. 87.

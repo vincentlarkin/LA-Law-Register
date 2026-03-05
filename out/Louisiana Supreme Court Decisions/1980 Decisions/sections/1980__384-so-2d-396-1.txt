@@ -1,0 +1,70 @@
+66181
+State v. Curtis
+https://law.justia.com/cases/louisiana/supreme-court/1980/384-so-2d-396-1.html
+
+66181
+State v. Curtis
+Court: Louisiana Supreme Court
+Release date: 1980-05-19
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/384-so-2d-396-1.html
+
+384 So. 2d 396 (1980)
+
+STATE of Louisiana
+v.
+Larry CURTIS.
+
+No. 66181.
+
+Supreme Court of Louisiana.
+
+May 19, 1980.
+
+*397 Jacques F. Bezou, Garon, Brener & McNeely, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise S. Korns, Joseph Meyer, Jr., Asst. Dist. Attys., for plaintiffappellee.
+
+BLANCHE, Justice.[*]
+
+Defendant, Larry Curtis, was convicted of second degree murder in violation of R.S. 14:30.1. Subsequently, he was sentenced to life imprisonment without benefit of probation, parole, or suspension of sentence for a period of not less than forty years. Defendant now appeals on the basis of five assignments of error. Assignments of Error Numbers 4 and 5, alleging the state's failure to reveal, upon request, certain exculpatory evidence, merit consideration.
+
+On July 16, 1978, the victim, Jack Gilmore, was working on his sister's car in the parking lot at 3705 Thalia Street in New Orleans, when two men approached him and one of them fired three shots which struck and killed him. Both the victim's sister, Armentine Gibb Gilmore, and the victim's brother, Donald Gilmore, witnessed the shooting. At trial, Armentine Gilmore testified that she recognized the defendant as one of the two men who had approached her brother, but did not see which of the two men fired the fatal shots. Donald Gilmore identified the defendant as the person who shot and killed his brother. One Tracy Clark, who did not witness the shooting, identified defendant as a man with a gun whom she observed run by her immediately after she heard gunfire. Jerry Gilmore, another brother of the victim, testified that he recognized defendant as the person who stopped outside the victim's apartment earlier on the day of the murder and stared at the victim.
+
+Prior to trial, defense counsel filed a motion for bill of particulars and prayer for oyer, requesting that the state furnish him with any exculpatory evidence. The state responded that it possessed no exculpatory evidence. Following defendant's conviction, defense counsel viewed the district attorney's file on the case and learned that Donald Gilmore, the only witness who testified that he actually saw defendant shoot his brother, had viewed a group of photographs which contained a photograph of defendant and failed to identify defendant as the murderer. Counsel immediately filed a motion for a new trial on the ground that this information was exculpatory evidence which should have been disclosed by the state. Brady v. Maryland,
+373 U.S. 83
+, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963). At a hearing on the motion for a new trial, Donald Gilmore testified that he had viewed a photographic display and had not identified defendant. After listening to this testimony, the trial judge denied the motion.
+
+The law is settled that the prosecution may not suppress evidence, in the face of a defense request for production, where the evidence is favorable to the accused   and is material to his guilt. Brady v. Maryland, supra; State v. Cass,
+356 So. 2d 936
+(La.1978); State v. Falkins,
+356 So. 2d 415
+(La.1978). The Brady rule includes cases in which evidence concerns the reliability of key state witnesses. Giglio v. United States,
+405 U.S. 150
+, 92 S. Ct. 763, 31 L. Ed. 2d 104 (1972); State v. Roussel,
+381 So. 2d 796
+(La.1980); State v. Falkins, supra. However, the failure of the state to disclose exculpatory evidence will not result in reversal of a conviction unless such evidence creates a reasonable doubt as to defendant's guilt that did not otherwise exist. Only then can defendant complain that nondisclosure deprived him of his due process right to a fair trial. United States v. Agurs,
+427 U.S. 97
+, 96 S. Ct. 2392, 49 L. Ed. 2d 342 (1976); State v. Falkins, supra; State v. Williams,
+349 So. 2d 286
+(La.1977). The following language from the United States Supreme Court case of Agurs often has been quoted as an explanation of the reasonable doubt test of reversibility:
+
+See e. g., State v. Falkins, supra, at 418 quoting U. S. v. Agurs, 96 S. Ct.  at 2401-02.
+
+In the present case, there is no question but that the evidence suppressed by the state was favorable to the accused and material to his guilt. The fact that Donald Gilmore failed to identify defendant in an earlier photographic display weakens the reliability of his later identification of defendant at trial. Consequently, this failure of Gilmore to identify defendant was Brady material which the state should have disclosed following defense counsel's request for exculpatory evidence.
+
+The more difficult issue is whether the undisclosed evidence creates a reasonable doubt that did not otherwise exist, thus requiring a reversal of the conviction. The entire basis of the state's case was eyewitness identification of the defendant. One state witness provided testimony that defendant was one of two persons who approached the victim, and another witness identified defendant as a man who fled the scene of the shooting. However, only Donald Gilmore actually saw who fired the shots and thus, was the only witness who identified defendant as the person who killed his brother. While the identification testimony against defendant is substantial, Donald Gilmore's identification was the most important and key evidence presented against defendant, and his reliability would have been a crucial factor in the jury's determination of defendant's guilt. Because the evidence excluded (i. e., the earlier failure of Donald Gilmore to identify defendant) weakens the identification of the only state witness who actually saw the shooting, we believe it creates a reasonable doubt that did not otherwise exist. The identification is further weakened by the fact that the witness did not know the defendant prior to the murders. Having examined the evidence as a whole, we conclude that the state's nondisclosure of Gilmore's earlier failure to identify defendant deprived defendant of a fair trial in violation of due process of law.
+
+Accordingly, the conviction and sentence is reversed. The case is remanded for a new trial.
+
+CONVICTION AND SENTENCE REVERSED; CASE REMANDED FOR A NEW TRIAL.
+
+MARCUS, J., dissents and assigns reasons.
+
+*399 MARCUS, Justice (dissenting).
+
+I do not consider that the omitted evidence would have created a reasonable doubt that did not otherwise exist under the facts of this case sufficient to cause reversal of the conviction. United States v. Agurs,
+427 U.S. 97
+, 96 S. Ct. 2392, 49 L. Ed. 2d 342 (1976). Accordingly, I respectfully dissent.
+
+[*]  Honorable FREDERICK S. ELLIS participated in this decision as Associate Justice Ad Hoc.

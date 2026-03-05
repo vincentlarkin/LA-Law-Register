@@ -1,0 +1,91 @@
+263 So. 2d 871 (1972); 262 La. 509
+Federal Insurance Co. v. Insurance Co. of No. Amer.
+https://law.justia.com/cases/louisiana/supreme-court/1972/262-la-509-1.html
+
+263 So. 2d 871 (1972); 262 La. 509
+Federal Insurance Co. v. Insurance Co. of No. Amer.
+Court: Louisiana Supreme Court
+Release date: 1972-06-29
+Author: McCALEB, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1972/262-la-509-1.html
+
+263 So. 2d 871 (1972)
+
+262 La. 509
+
+FEDERAL INSURANCE COMPANY
+v.
+INSURANCE COMPANY OF NORTH AMERICA et al.
+
+No. 51852.
+
+Supreme Court of Louisiana.
+
+June 29, 1972.
+
+*872 Gist, Methvin & Trimble, David A. Hughes, Alexandria, for plaintiff-applicant.
+
+Stafford, Pitts & Bolen, James A. Bolen, Jr., Alexandria, for defendants-respondents.
+
+McCALEB, Chief Justice.
+
+This is a suit for damages to equipment leased by Brun Sensor Systems, Inc. to Pineville Kraft Corporation. Plaintiff is the Federal Insurance Company, the subrogee of Brun Sensor Systems, Inc. The defendants are Pineville Kraft Corporation (the lessee) and its insurer, the Insurance Company of North America.
+
+An exception of one-year prescription filed by defendants was maintained by the district court. The judgment was affirmed on appeal. 252 So. 2d 184. We granted certiorari, 259 La. 931, 253 So. 2d 379.
+
+The decisions of the courts below were founded on the conclusion that the petition sounded in tort and that, since more than a year had elapsed from the date of the alleged negligent act of the defendant, Pineville (on or about May 12, 1969), to the time the suit was filed (December 9, 1970), the action was prescribed under Civil Code Article 3536.
+
+However, our examination of the petition convinces us that the lower courts erred in holding that the action is one ex delicto. We have determined that the suit is one sounding in contract, and that, consequently, the ten-year prescription set forth in Civil Code Article 3544 applies.
+
+It has been recognized by this Court on numerous occasions that when a party has been damaged by the conduct of another arising out of a contractural relationship, the former may have two remedies, a suit in contract, or an action in tort, and that he may elect to recover his damages in either of the two actions. In such cases, the prescription applicable is determined by the character which plaintiff gives his pleadings and the form of his action. American Heating & Plumbing Co., Inc. v. West End Country Club, 171 La. 482, 131 So. 466 (1930); Kramer v. Freeman, 198 La. 244, 3 So. 2d 609 (1941); LaFleur v. Brown, 223 La. 976,
+67 So. 2d 556
+(1953); and Importsales, Inc. v. Lindeman, 231 La. 663,
+92 So. 2d 574
+(1957).
+
+In the instant case plaintiff alleges that in March, 1968 Brun leased certain equipment to Pineville, the lease being made   part of the petition by reference. (The lease is not physically attached.) Paragraph 4 of the petition recites:
+
+as well as the following paragraph:
+
+Implicit in these clauses, and without consideration of the remainder of the contract, is the obligation of Brun to maintain the machines by way of four scheduled service calls per year and emergency services at the customer's request with associated replacement parts to be provided at no charge to the customer, except that any services and replacement parts "required by customer's neglect or misuse of the equipment" would not be provided free of charge, and also excepted are travel and living costs of Brun's personnel in connection with all service calls.
+
+The petition further alleges the following facts: On May 12, 1969, while Joseph Mattia, an employee of Brun, was making minor repairs in connection with a scheduled service call, an employee of Pineville without Mattia's knowledge negligently attempted to work on the machine and damaged it in the process. It was necessary for Mattia to remain at the Pineville site through July 10, 1969 to repair the damages caused by the negligent action of Pineville's employee. This necessitated an expenditure by Brun of $5,718.69, for labor (services), parts and travel and living accommodations. The prayer seeks reimbursement for this amount.
+
+Paragraphs 5 and 15 of the petition recite:
+
+And
+
+We cannot conceive of any language which might state more clearly that the action is one ex contractu than that used by petitioner herein. In view of the aforequoted allegations, our conclusion that petitioner seeks recompense under the terms of the contract, and only under the contract, need not be gleaned in this case from an interpretation of the various allegations. It is specifically and plainly so stated.
+
+True, the petition contains allegations of particular acts of negligence on the part of Pineville's employee and the statement that these acts caused the expenditures by Brun to be made. But the above-quoted portions of the lease contract indicate that such allegations were necessary to plaintiff's action in contract for recovery of some of the damages it seeks herein.
+
+Defendants also urge that plaintiff's instituting this action against Brun's insurer as well as against Brun, indicates that it considered the suit as one in tort.
+
+*874 We do not agree. Plaintiff sued both Pineville and its insurer. At this time, because the defendant-insurer's contract is not in evidence, it cannot be ascertained whether the policy issued by Pineville's insurer is restricted to tort liability or whether it is general and covers all of Pineville's legal liability in the operation of its business.[1] It may be that the direct action ex contractu against the insurer is improper. If so, the latter can present that question by appropriate pleadings. But plaintiff's joining the insurer as a party defendant does not make the suit any the less a suit for damages arising out of the contract. And, if the insurer by appropriate pleadings can succeed in having itself dismissed on the ground that it cannot be sued directly in an action ex contractu, the demands against Pineville will still be cognizable.
+
+From our holding that the action is one in contract and not in tort, it necessarily follows that the one-year prescription applied by the lower courts is inapplicable and the exception is therefore overruled.
+
+For the reasons assigned the judgment of the Court of Appeal is reversed and set aside and the case is remanded to the district court for further proceedings according to law and consistent with the views herein expressed. All costs in this Court and the Court of Appeal are to be paid by defendants; assessment of other costs is to await further proceedings.
+
+TATE, Justice (concurring).
+
+I subscribe entirely to the majority opinion. I might note, however, that the basic rationale is founded upon our 1960 Code of Civil Procedure.
+
+By this code, Louisiana has adopted a system of "fact pleading", by reason of which the pleadings need only allege the ultimate or material facts which constitute the basis for relief. La.C.C.P. Arts. 854, 891, 1003, 1004; McMahon, The Louisiana Code of Civil Procedure, 21 La.L.Rev. 1 (1960).
+
+Under this Louisiana system of fact pleading, all that is required of a plaintiff is that he allege the material facts constituting a cause of action. Article 854. The courts are required, in their judgment, to "grant the relief to which the party in whose favor it is rendered is entitled, even if the party has not demanded such relief in his pleadings and the latter contain no prayer for general and equitable relief." C.C.P. Article 862.
+
+The 1960 Code of Civil Procedure, which has as its aim ultimate and substantial justice rather than procedural technicality, C.C.P. Article 865, sought to suppress "the harsh and unduly technical `theory of the case' doctrine in Louisiana, under which the litigant must select a theory of his case or defense and adhere to it throughout the litigation." C.C.P. Article 862, Comment b.
+
+In cases such as this one, a plaintiff who pleads and proves the necessary facts should be allowed to recover under any available theory, whether tort, quasi contract, or contract. To bar recovery simply by strictly construing the pleadings is to abandon the spirit of the 1960 Code of Civil Procedure.
+
+The facts here pleaded can be construed as stating an action for breach of contract. Our majority correctly does so, since to construe them as alleging a tort action would cause this suit to be prescribed.
+
+Nevertheless, if the issue were whether these allegations stated a tort action (e.g., for purposes of justifying the venue selected, or for purposes of justifying a tort recovery under a timely-filed tort suit against a liability insurer), thenliberally construed in favor of the pleader as the Code requiresthe allegations of fact also justify construing the pleadings as stating   a tort action. The better view of our Louisiana jurisprudence is that the plaintiff retains the right of election between concurrent remedies, when the facts pleaded justify either. Cf., Prescription, Classification and Concurrence of Obligations, 36 Tul.L.Rev. 556 (1962).
+
+The whole thrust of our Code of Civil Procedure is to permit the courts to render substantive justice on the basis of facts pleaded, and to refuse to permit a denial of substantive rights (where the party has timely filed pleadings alleging the factual basis of his claim) because of technical defects of language or of some mechanical "theory-of-the-case" characterization defeating a recovery otherwise allowable under the facts pleaded. La.C.C.P. Arts. 862, 865, 2164, 5051.
+
+The majority opinion illustrates the application of these principles. I fully concur in it.
+
+[1]  The petition does not allege the nature of the insurance contract, it merely states that the insurer is "legally liable" under the existing circumstances.

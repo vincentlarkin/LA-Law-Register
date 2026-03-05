@@ -1,0 +1,88 @@
+63002
+State v. Koncir
+https://law.justia.com/cases/louisiana/supreme-court/1979/367-so-2d-365-1.html
+
+63002
+State v. Koncir
+Court: Louisiana Supreme Court
+Release date: 1979-01-29
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/367-so-2d-365-1.html
+
+367 So. 2d 365 (1979)
+
+STATE of Louisiana
+v.
+Michael KONCIR, Jeanne Koncir and Marion Hutchens.
+
+No. 63002.
+
+Supreme Court of Louisiana.
+
+January 29, 1979.
+
+*366 Philip A. LeTard, Vidalia, for defendants-relators.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., W. C. Falkenheiner, Dist. Atty., Glenn B. Gremillion, Asst. Dist. Atty., for plaintiff-respondent.
+
+SAMUEL, Justice Ad Hoc.
+
+On March 24, 1978, a warrant was issued for the search of Jeanne Koncir's residence on Lake Concordia, Louisiana. In executing the warrant later that night, law enforcement officers searched the named residence and an automobile parked in the driveway; they seized, inter alia, several pounds of marijuana and a large amount of cash. The occupants of the residence, Jeanne Koncir, Michael Koncir and Marion Hutchens, were arrested for possession of marijuana with intent to distribute, a violation of La.R.S. 40:966. Shortly thereafter, the legality of the search was contested by a motion to suppress the evidence, which the lower court denied after a hearing. This Court granted supervisory writs to review the ruling below. 362 So. 2d 787 (La. 1978).
+
+Petitioners contend the warrant was issued upon insufficient facts and, further, the automobile search was not authorized by the warrant nor by any exception to the warrant requirement. Finding merit in both contentions, we conclude that the search was unlawful and that the evidence it yielded must therefore be suppressed.
+
+I. VALIDITY OF THE WARRANT
+
+A search warrant may issue only upon an affidavit establishing probable cause to the satisfaction of the issuing judge. La.Const.1974, Art. 1, § 5; La.C. Cr.P. Art. 162. Probable cause exists when facts and circumstances within the affiant's knowledge, and of which he has reasonably trustworthy information, are sufficient to support a reasonable belief that an offense has been committed and that evidence or contraband may be found at the place to be searched. State v. Turnipseed,
+362 So. 2d 486
+(La.1978); State v. Richards,
+357 So. 2d 1128
+(La.1978); State v. Valentine,
+355 So. 2d 897
+(La.1978). To insure an independent basis for the issuing magistrate's judgment, this Court has held to the following rule (derived from decisions of the United States Supreme Court) in evaluating affidavits which rely upon hearsay:
+
+With these fundamental principles in mind, we turn to the affidavit which supported the warrant at issue. It reads:
+
+This affidavit, although fraught with ungrounded rumors, fails to comply with the requirements set forth above. First, it recites no facts which would enable the magistrate to independently evaluate the reliability of the informants. A stark assertion that they are "known to [the affiants] to be reliable" cannot suffice; the basis for an affiant's belief in the trustworthiness of his informant must be articulated with specificity. State v. Richards, supra; State v. Joseph,
+351 So. 2d 1162
+(La.1977).
+
+Although it is unnecessary to consider the sufficiency of the affidavit beyond the first fatal flaw, we note it further fails to set forth facts from which the magistrate might have concluded the informants' information was reliable. Undisclosed were the sources of the allegations that Jeanne Koncir had recently received a quantity of marijuana for immediate sale, that she "deals" out of her residence and, that she "regularly has pot parties on weekends.[1]" Hence, the magistrate had no basis for crediting the accusations as more than idle rumor. Nor does the multiplication of the faceless voices into a chorus of factually unsubstantiated "regular complaints" alter the uncreditable nature of the accusations. See, Spinelli v. United States,
+393 U.S. 410
+, 89 S. Ct. 584, 21 L. Ed. 2d 637 (1969); State v. Tassin,
+343 So. 2d 681
+(La.1977) (on rehearing).
+
+One item of information bears the required indicia of reliability: the sale by Jeanne Koncir of a "lid" of marijuana, which was personally observed by the informant. However, the hearing on the motion to suppress revealed that incident occurred not at petitioners' residence, as the affidavit suggests, but in another town. The misleading implication was apparently accidental, but like any unintentional misrepresentation of fact, it must be excised from the warrant affidavit. See, State v. Rey,
+351 So. 2d 489
+(La.1977). There remains no information in the affidavit upon which the magistrate might have relied to conclude contraband might be found in the Koncir residence. See, State v. Loehr,
+355 So. 2d 925
+(La.1978); State v. Valentine, supra.
+
+In summary, we find that the affidavit failed to state facts underlying the credibility of either the informants or their information, that the warrant was therefore issued improperly, and that the evidence seized under the authority of the warrant must be suppressed.
+
+II. VALIDITY OF THE AUTOMOBILE SEARCH
+
+During the course of the officers' search of the Koncir residence, they also searched an automobile belonging to petitioner Hutchens, which was parked in the driveway. Before the search commenced, the police apparently had no evidence linking Hutchens (Jeanne Koncir's father) to the reportedly illegal activity at the Koncir residence, and the warrant did not authorize the search of his car. However, the state attempts to justify the search of the vehicle on the basis of the "plain view" exception to the warrant requirement.
+
+Recently, in State v. Banks,
+363 So. 2d 491
+, 493 (La.1978), this Court repeated the well-recognized prerequisites to the application to the plain view doctrine:
+
+Because the warrant is claimed as the "prior justification" for the intrusion onto the Koncir property, the automobile search is tainted by the invalidity of the warrant. Further, the search of the car was hardly "inadvertent," since the officer who initiated it admitted at the hearing that he "had all intentions of searching the car when [he went] in the yard, sooner or later . . ." Finally, the money seized from the car seat was not immediately identifiable as contraband.
+
+Even if information obtained during the unlawful search of the residence provided probable cause for the search of Hutchens' car, the latter search nevertheless must be condemned as an exploitation of the primary illegality. See, Wong Sun v. United States,
+371 U.S. 471
+, 83 S. Ct. 407, 9 L. Ed. 2d 441 (1971); State v. Thompson,
+354 So. 2d 513
+(La.1978); State v. Jenkins,
+340 So. 2d 157
+(La.1976).
+
+For the reasons assigned, we find the trial court erred in denying the motion to suppress. Accordingly, the matter is remanded to the district court for further proceedings not inconsistent with this opinion.
+
+[1]  At the hearing on the motion to suppress, one of the affiants asserted, for the first time, that the informant had personally observed "considerable drug activity" at petitioners' residence. However, information possessed by the affiant, but not disclosed to the issuing magistrate for his consideration, cannot be used to rehabilitate an otherwise insufficient affidavit. See, Stone v. Powell,
+428 U.S. 465
+, 473, n.3, 96 S. Ct. 3037, 3042, 49 L. Ed. 2d 1067 (1976); Whiteley v. Warden,
+401 U.S. 560
+, 91 S. Ct. 1031, 28 L. Ed. 2d 306 (1971).

@@ -1,0 +1,149 @@
+91-K-0996
+State v. Potter
+https://law.justia.com/cases/louisiana/supreme-court/1991/91-k-0996-2.html
+
+91-K-0996
+State v. Potter
+Court: Louisiana Supreme Court
+Release date: 1991-12-02
+Author: COLE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1991/91-k-0996-2.html
+
+591 So. 2d 1166 (1991)
+
+STATE of Louisiana
+v.
+Vinson G. POTTER.
+
+No. 91-K-0996.
+
+Supreme Court of Louisiana.
+
+December 2, 1991.
+
+William J. Guste, Jr., Atty. Gen., Harry F. Connick, Dist. Atty., Pamela S. Moran, Asst. Dist. Atty., for applicant.
+
+Raymond A. McGuire, New Orleans, for respondent.
+
+COLE, Justice.
+
+The sole issue for our consideration is whether a criminal defendant tried fifteen days prior to the decision of the Supreme Court of the United States in Batson v. Kentucky,
+476 U.S. 79
+, 106 S. Ct. 1712, 90 L. Ed. 2d 69 (1986), is entitled to a hearing to determine whether the prosecution improperly discriminated against blacks by exercising its peremptory challenges to exclude them from the jury, despite defense counsel's failure to make a contemporaneous objection to those peremptory strikes at trial.[1] We conclude the defendant's failure   to adhere to the contemporaneous objection rule embodied in La.Code Crim.Proc. art. 841 bars his later attempt to challenge the state's peremptory strikes. Accordingly, we reverse the judgment of the Court of Appeal, Fourth Circuit, to the contrary and remand for further proceedings.
+
+Defendant Vinson Potter was convicted by a jury of second degree murder, in violation of La.Rev.Stat. § 14:30.1, in the shooting death of Raymond Lewis, one of Potter's co-workers. Potter admitted shooting Lewis but maintained he acted in self-defense. The verdict was returned by a jury of nine whites and three blacks on April 15, 1986.[2] The vote was eleven to one with the sole "not guilty" vote cast by one of the black members of the jury. Eleven blacks were peremptorily challenged by the state during voir dire, but defense counsel did not object to the state's use of its peremptory challenges to exclude blacks.[3]
+
+Defense counsel made an oral motion for a new trial on May 15, 1986 and filed a written motion for a new trial on June 3, 1986. In the written motion, he challenged the state's allegedly improper use of its peremptory challenges to exclude blacks from the jury. That motion was denied by the trial court, as was another motion for new trial filed in March 1988 by defendant's appellate counsel.
+
+Potter appealed his conviction to the Court of Appeal, Fourth Circuit, primarily on the basis of his claim that his 14th Amendment right to equal protection was violated by the state's use of peremptory challenges to exclude members of his race from the jury. He additionally asserted an ineffective assistance of counsel claim based upon numerous alleged acts and omissions by his trial counsel, including the failure to object contemporaneously to the state's use of its peremptory challenges. The court of appeal held Potter's failure to object contemporaneously did not bar his claim of purposeful discrimination. State v. Potter, 578 So. 2d 528 (La.App. 4th Cir. 1991). It remanded the case to the trial court for a hearing to afford Potter an opportunity to present evidence in support of his Batson claim. Id. In light of its remand order, the court did not resolve Potter's ineffective assistance of counsel claim. Id. We granted the state's writ application, State v. Potter, 582 So. 2d 844 (La.1991), to resolve the question whether the failure to adhere to the contemporaneous objection rule constitutes a waiver of Potter's Batson claim. We conclude that it does.
+
+The state maintains the court of appeal erred in failing to apply the contemporaneous objection rule to bar Potter from raising a Batson claim.[4] It contends that because Potter made no objection to the state's use of its peremptory challenges at trial, he was precluded from raising the issue on appeal, citing State v. Jackson,
+450 So. 2d 621
+(La.1984); State ex rel. Ross v. Blackburn,
+403 So. 2d 719
+(La.1981); and State v. Stramiello,
+392 So. 2d 425
+(La. 1980). The state urges that to require it to produce now the attorney, who tried the case five years ago and to expect him to remember why he retained some jurors and not others is unreasonable and will work to the state's prejudice. The state also maintains that even though Batson was not decided until two weeks after the trial,   nothing prevented Potter from complying with the contemporaneous objection rule.
+
+Potter, on the other hand, maintains the contemporaneous objection rule is not absolute, and exceptions exist which allow errors to be raised despite the lack of objection at trial. He notes the rule is inapplicable when the objection would have been a "vain and useless act." State v. Ervin,
+340 So. 2d 1379
+, 1381 (La.1976). Potter asserts that an objection in his case would have been a vain and useless act since he would have been required to meet the standard of Swain v. Alabama,
+380 U.S. 202
+, 223-24, 227, 85 S. Ct. 824, 837-39, 13 L. Ed. 2d 759 (1965), viz., he would have been required to show the prosecutor's systematic use of peremptory challenges against members of his race over a period of time. This would have posed a crippling burden, one he could not possibly have met. According to Potter, Batson created a new right, was an explicit and substantial break with prior precedent, and announced a new standard of proof imposed on both defendant and prosecutor.
+
+The contemporaneous objection rule, Potter notes, is not applied where the "very essence of the reliability of the fact-finding process is involved." State v. Arvie,
+505 So. 2d 44
+, 47 (La.1987). Eleven black persons were excluded from the fact-finding process in this case without any reason being offered for the exclusion. Such an exclusion, Potter argues, suffices to excuse his failure to comply with the contemporaneous objection rule.
+
+We believe the state has the better argument. We note at the outset that Batson did not establish a new rule of law or a new legal right.[5] To the contrary, it is grounded in the same equal protection principles that have sustained one hundred years of Supreme Court jurisprudence from Strauder v. West Virginia,
+100 U.S. 303
+, 25 L. Ed. 664 (1880) to Swain, supra, and to the Court's recent decisions in Powers v. Ohio, 499 U.S. ___, 111 S. Ct. 1364, 113 L. Ed. 2d 411 (1991) and Edmonson v. Leesville Concrete Co., 500 U.S. ___, 111 S. Ct. 2077, 114 L. Ed. 2d 660 (1991). Batson only provided the means by which a criminal defendant could establish his equal protection claim.
+
+"Both Swain and Batson recognized that a purposeful exclusion of members of the defendant's race from the jury selected to try him would work a denial of equal protection...." Ford v. Georgia, 498 U.S. ___,___, 111 S. Ct. 850, 855, 112 L. Ed. 2d 935 (1991). Batson, however, "dropped the Swain requirement of proof of prior discrimination, holding it possible for a defendant to make out a prima facie equal protection violation entirely by reference to the prosecution's use of peremptory challenges in the circumstances of the defendant's own case." Id.
+
+Ford, 498 U.S. at ___, 111 S. Ct.  at 856. Thus, while Batson marked a clear break from the previous, i.e., Swain, evidentiary standard, it in no way altered the underlying equal protection principles of that case.
+
+Years before our decision in State v. Williams, supra, we made it clear that a defendant waived an equal protection complaint about the state's exercise of its peremptory challenges to exclude black venire members by failing to make his objection known during jury selection. State v. Spencer,
+446 So. 2d 1197
+,
+1200
+(La.1984) (objection which came during motion for mistrial immediately following closing arguments was too late); State v. Qualls,  
+377 So. 2d 293
+, 298 (La.1979) (objection raised for first time on appeal came too late). Counsel for the defendant in this case was therefore on notice that he was required to object in a timely manner or waive the issue of the prosecutor's allegedly intentional discrimination against blacks.
+
+We have long recognized a defendant's right to prove discriminatory intent in the state's exercise of its peremptory challenges, albeit under the systematic exclusion rule of Swain. See, e.g., State v. Bias,
+354 So. 2d 1330
+(La.1978). In fact, we have reversed convictions because of equal protection violations under the Swain standard. See State v. Washington,
+375 So. 2d 1162
+(La.1979); State v. Brown,
+371 So. 2d 751
+(La.1979). While the circumstances of those two cases may have been particularly egregious, they remain examples of a defendant's ability to make a prima facie showing of discrimination a number of years prior to Batson.
+
+In addition, we had also contemplated adopting a rule under the Louisiana Constitution that would prohibit all discrimination because of race or religion even though the discrimination may be reasonably related to a legitimate state objective such as a criminal prosecution. See Brown, supra, at 754. Hence, the elements for defense counsel to construct an equal protection challenge under either the federal or the state constitutions to the state's use of peremptory challenges were in existence well before Potter's trial. Thus, an objection timely made would not invariably have amounted to a "vain and useless act," and we reject the defendant's assertion to the contrary.
+
+Our decision in this case imposes no new or undue burden on defendants in Potter's position. It was settled law at the time of the trial that a defendant must raise any equal protection challenge to the state's use of peremptory strikes during the jury selection process itself. In Williams, supra, we continued the rule under the Batson standard. Hence, in this case, we merely enforce a procedural rule already firmly in place at the time of Potter's trial. A timely objection would have satisfied the fundamental purposes of the contemporaneous objection rule[6] by placing the trial judge on notice that a problem existed and by giving the court a chance to correct the alleged error before it infected the entire proceeding. The equal protection issue would thus have been preserved under the reduced standard of circumstantial evidence established in Batson. By failing to make the timely objection required by La.Code Crim.Proc. art. 841(A), Potter waived the alleged violations.
+
+In his brief to the court of appeal, and in a somewhat truncated fashion in his brief before this Court, Potter asserted a claim of ineffective assistance of counsel on a number of grounds, including the trial counsel's failure to object to the state's challenges of the eleven black potential jurors. Because of its remand to the trial court for a Batson hearing, the court of appeal deemed it unnecessary to resolve the claim.
+
+State v. Wille,
+559 So. 2d 1321
+, 1339 (La. 1990) (quoting State v. Ratcliff,
+416 So. 2d 528
+, 530 (La.1982)). This case, however, does not present an instance when the narrow   exception should be exercised. Potter raised a number of issues before the court of appeal which were neither briefed nor argued before us. The court of appeal should have the initial opportunity to determine whether the issue can be resolved on the present record or is more appropriately referred to post-conviction proceedings in which both sides can introduce the evidence necessary for proper resolution of the claim.
+
+For the foregoing reasons, the judgment of the court of appeal is reversed and the case is remanded to that court for determination of the previously unresolved issues.
+
+REVERSED AND REMANDED.
+
+LEMMON, J., dissents and assigns reasons.
+
+DENNIS, J., dissents for the reasons assigned by LEMMON, J.
+
+CALOGERO, J., dissents for the reasons assigned by Court of Appeal and agrees with dissenting reasons of LEMMON, J., herein.
+
+LEMMON, Justice, dissenting.
+
+The critical issue in this case is whether defendant had reasonable cause for failing to object to the prosecutor's use of peremptory challenges to purposely exclude members of defendant's race from the jury at his trial conducted two weeks before the decision in Batson v. Kentucky,
+476 U.S. 79
+, 106 S. Ct. 1712, 90 L. Ed. 2d 69 (1986). If defendant had reasonable cause to excuse his procedural default, then the district court should have considered his constitutional challenge to the denial of equal protection which he raised by motion for new trial filed within thirty days of his conviction.
+
+In a similar situation in Reed v. Ross,
+468 U.S. 1
+, 104 S. Ct. 2901, 82 L. Ed. 2d 1 (1984), the Court considered the "cause" requirement for excusing the defendant's procedural default in failing to raise a constitutional issue which was not reasonably known to him at the pertinent time. Ross had been convicted of murder at a time when settled state law placed the burden on the accused of proving the defense of lack of malice. Six years later in Mullaney v. Wilbur,
+421 U.S. 684
+, 95 S. Ct. 1881, 44 L. Ed. 2d 508 (1975), the Court struck down this requirement as violative of due process. On Ross' post-conviction application the prosecutor asserted that Ross had forfeited his right to relief under Mullaney by failing (several years before the Mullaney decision) to raise the unconstitutionality of the jury instruction on burden of proof. The Supreme Court held that because the state of the law at the pertinent time did not offer a reasonable basis upon which to challenge the jury instruction on burden of proof, Ross had cause for his failure to raise the challenge.[1]
+
+In the present case defendant did not object at trial to the prosecutor's use of peremptory challenges on eleven black prospective jurors, apparently because he could not meet the extremely difficult burden under the existing law of proving the prosecutor's systematic misuse of peremptory challenges over a period of time. See Swain v. Alabama,
+380 U.S. 202
+, 85 S. Ct. 824, 13 L. Ed. 2d 759 (1965). While the majority requires defendant to have anticipated a change in the settled law, I believe that defendant's failure to object in anticipation of a possible change was reasonable under the circumstances. As in the Ross case, the state of the law at the time did not offer defendant a reasonable basis upon which to challenge the prosecutor's actions.
+
+Moreover, excusing defendant's failure to object at trial does not thwart the primary purpose of the contemporaneous objection rule, which is to put the trial judge on notice of an error at a time at which the error can be corrected. If defendant had objected to the prosecutor's misuse of peremptory challenges at trial, the trial judge certainly would have applied Swain and overruled the objection. Additionally, when defendant did raise the equal protection issue by motion for new trial thirty   days after his conviction, the prosecutor's memory of his reasons for excusing the eleven black prospective jurors had not been dimmed by the passage of time. Therefore, the prosecutor's current dilemma of being required at Batson hearing in 1991 to state his reasons for striking black jurors five years ago was caused as much by the trial judge's denial of defendant's motion for new trial (requesting a Batson hearing) as by defendant's failure to object at trial (which objection would have been overruled, resulting in the same current dilemma).
+
+This court should allow defendant to litigate his claim of a violation of the constitutional requirement of equal protection, rather than rigidly maintaining the prosecutor's claim of a violation of the statutory requirement of a contemporaneous objection which was reasonable under the circumstances. Because of the limited retroactivity of Batson, allowing defendant a Batson hearing will not open the floodgates for such applications.
+
+Finally, if defense counsel's failure to object to the prosecutor's use of peremptory challenges to strike blacks from the jury was not excusable because he should have anticipated the Batson decision, then the same failure arguably constitutes ineffective assistance of counsel. This claim should be examined closely by the court of appeal on remand.
+
+[1]  In this case, the defendant was tried well before our decision in State v. Williams,
+524 So. 2d 746
+(La.1988) (per curiam), wherein we made clear that a defendant wishing to raise a Batson claim must comply with the contemporaneous objection rule and make known his complaint during jury selection or waive the claim.
+
+[2]  The Supreme Court issued its decision in Batson fifteen days later on April 30, 1986.
+
+[3]  Defendant Potter is, himself, black.
+
+[4]  The rule provides that
+
+[a]n irregularity or error cannot be availed of after verdict unless it was objected to at the time of occurrence.... It is sufficient that a party, at the time the ruling or order of the court is made or sought, makes known to the court the action which he desires the court to take, or of his objections to the action of the court, and the grounds therefor.
+
+La.Code Crim.Proc. art. 841(A).
+
+[5]  No one disputes that Batson is applicable to this case. The Supreme Court has held that Batson applies retroactively to cases pending on direct appeal at the time Batson was decided. Griffith v. Kentucky,
+479 U.S. 314
+, 328, 107 S. Ct. 708, 716, 93 L. Ed. 2d 649 (1987).
+
+[6]  The rule has two purposes: "(1) to put the trial judge on notice of the alleged irregularity so that he may cure the problem, and (2) to prevent a defendant from gambling for a favorable verdict and then resorting to appeal on errors that might easily have been corrected by objection." State v. Thomas,
+427 So. 2d 428
+, 433 (La.1982).
+
+[1]  The prosecutor conceded the existence of prejudice.

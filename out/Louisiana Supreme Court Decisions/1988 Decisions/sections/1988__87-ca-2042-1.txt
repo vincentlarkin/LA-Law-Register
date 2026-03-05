@@ -1,0 +1,87 @@
+87-CA-2042
+Toney v. Whitfield
+https://law.justia.com/cases/louisiana/supreme-court/1988/87-ca-2042-1.html
+
+87-CA-2042
+Toney v. Whitfield
+Court: Louisiana Supreme Court
+Release date: 1988-09-12
+Author: COLE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1988/87-ca-2042-1.html
+
+531 So. 2d 445 (1988)
+
+Paul TONEY
+v.
+George WHITFIELD, Administrator, Louisiana Office of Employment Security and Tulane Medical Center.
+
+No. 87-CA-2042.
+
+Supreme Court of Louisiana.
+
+September 12, 1988.
+
+*446 David Williams, Mark A. Moreau, Mary Ellen Roy, New Orleans Legal Assistance Corp., New Orleans, for plaintiff-appellant.
+
+Frank T. Scott, Jr., Denise Nagel, Baton Rouge, Dona Dew, Chaffe, McCall, Phillips, Toler & Sarpy, New Orleans, for defendant-appellee.
+
+COLE, Justice.
+
+This is a direct appeal of a judgment declaring La.R.S. 23:1634(A) unconstitutional. The background of this case is set forth in our opinion found at 521 So. 2d 406. Briefly, a 1985 amendment to § 1634(A) provides unemployment compensation benefits may be paid to a claimant if the administrator fails to file the record of the administrative proceedings in the district court within sixty days of service of process of the notice of judicial review. The enacting clause of this amendment styles these benefits as a "penalty" for the failure to timely file the record. In our original opinion we held this provision to be an unconstitutional violation of due process because it was not reasonably related to the objective of the statute of securing prompt filing of the record and prompt judicial review. 521 So. 2d  at 409. We granted rehearing in order to consider the claimant's argument that the benefits awardable under this statute can be viewed as administrative expenses allocable to all employers rather than a penalty. For the reasons stated below we reverse our original judgment and remand the matter for proceedings consistent with this opinion.
+
+Statutes are presumed to be constitutional. Sherman v. Cabildo Const. Co.,
+490 So. 2d 1386
+(La.1986); Tanner v. Beverly Country Club, Inc., 217 La. 1043, 47 So. 2d 905, 910 (1950). Further, if a statute is susceptible to more than one construction, courts should subscribe to the construction which upholds its constitutionality. Jones v. Thibodeaux,
+488 So. 2d 945
+, 949 (La. 1986); Tanner, supra. For legislation involving economic and social welfare interests, rather than fundamental civil rights,   the test of substantive due process is whether the regulation is reasonable in relation to the goal sought to be attained and is adopted in the interest of the community as a whole. Sibley v. Board of Supervisors of Louisiana State University,
+462 So. 2d 149
+, 157 (La.), reversed on other grounds,
+477 So. 2d 1094
+(La.1985); Everett v. Goldman,
+359 So. 2d 1256
+, 1268 (La. 1978).
+
+As we have noted above and in our original opinion, the stated objective of this amendment was to insure the timely filing of the record. A second objective can be implied consistent with the overall purpose of the unemployment compensation program of lightening the burden on unemployed workers and their families. La.R.S. 23:1471. This objective is evident from the choice of the legislature to award interim benefits to claimants, as opposed to another method of compelling the administrator to timely file the record; and from the legislative testimony regarding the length of the delays claimants were experiencing. 521 So. 2d  at 408, n. 4.
+
+On rehearing, the claimant argues we erred in interpreting this statute as penalyzing an individual employer. He contends the practice of the district courts in these cases is to restrict the payment of benefits to the Social Charge account provided for by La.R.S. 23:1553; not charging the employer's rating until there is a final determination of the claim. Since the Social Charge account is funded by an annual surcharge tax on all employers, the cost of each award under § 1634(A) to each employer is an infinitesimal fraction of the total award. He argues these benefits are substantively administrative expenses, rather than penalties, the cost of which can be constitutionally spread among all employers under the holding of Carmichael v. Southern Coal & Coke Co.,
+301 U.S. 495
+, 57 S. Ct. 868, 81 L. Ed. 1245 (1937).
+
+The statute does not specify the fund within the unemployment compensation system to which these benefits should be charged. To the extent our opinion rested upon an assumption that the employer was responsible for these benefits, considering the practice has been to charge the Social Charge account, it was inaccurate. However, the rationale remains valid. The due process problems with the provision do not arise from whether an individual employer bears the cost, or the cost is borne by all employers collectively. The problem is that the goal of the statute is to insure the timely filing of the record by the administrator. The method chosen to meet this goal is to pay benefits not otherwise due as an incentive for the administrator to file timely. Any interpretation of this provision which allows the administrator to pass these costs on, either to all employers as part of the annual social surcharge tax or to the individual employer as we originally contemplated, would violate due process. Employers have no control over the preparation and filing of the record by the administrator. Accordingly, charging the employers is not reasonably related to the objective sought by the provision.
+
+However, we do agree with the claimant these benefits can be considered administrative expenses. They arise from an administrative problem, i.e., the failure or inability to produce the record on a timely basis. Since the administrator has under his control two funds for the payment of administrative expenses which are not funded by taxes levied against the employers, this provision is susceptible to a construction which is reasonably related to the objective of the amendment and is, therefore, constitutional.
+
+There are a total of four funds under the control of the administrator. The Unemployment Compensation Fund, established by La.R.S. 23:1491, is funded by employer contributions and is the source of payment of benefits. The Social Charge account, established by La.R.S. 23:1553, is funded by the annual surcharge tax on employers and covers the expenses resulting from the erroneous payment of benefits. The Employment Security Administration Fund, established by La.R.S. 23:1511, is funded by money appropriated by the state and the   federal government for the payment of administrative expenses deemed necessary and proper by the United States Department of Labor. The last is the Special Employment Security Administration Fund, established by La.R.S. 23:1513, and is funded by interest, fines and penalties collected from employers. This fund is available to pay administrative expenses not otherwise appropriate according to the Department of Labor under § 1511.
+
+Payments of awards under § 1634(A) should be restricted to the administrative expense funds, at least until there has been a final judicial determination of the claim. If the claimant is ultimately successful, these payments should then be charged to the Unemployment Compensation Fund and the employer's rating. If the claimant is ultimately unsuccessful the administrator may seek from him recovery of the amount paid, in accordance with R.S. 23:1713. By restricting payment to these funds the provision has been construed in a manner reasonably related to the objectives contemplated by the legislature.
+
+The administrator argues these payments cannot be levied against the administrative funds. First, only those expenses deemed proper and appropriate by the Department of Labor can be charged to the § 1511 Employment Security Administration Fund. Second, these payments cannot be charged to the Special Employment Security Administration Fund because these monies "shall at no time be considered to be a part of the unemployment compensation fund." La.R.S. 23:1513. Further, § 1472(15) specifies the Unemployment Compensation Fund to be the source of payment for all benefits. We disagree.
+
+Under our interpretation of this statute, these payments are unique administrative expenses. We have found nothing in our review of the federal legislation which prohibits this interpretation. 42 U.S.C.A. § 503 (West 1983 & Supp.1988). In the event the Department of Labor determines this not to be the case, the § 1513 fund is available for payment of administrative expenses disqualified by that federal agency. Similarly, the argument fails with respect to the Special Employment Security Administration Fund of § 1513. Although the payments in § 1634(A) have been styled as "benefits," the legislature has implicitly treated them as administrative expenses. We deem it to have been the implied intent of the legislature that any benefits paid pursuant to § 1634(A) would be paid out of the funds described in § 1511 and/or § 1513.
+
+The administrator also contends the amendment violates procedural due process because it is unconstitutionally vague. Citing State of Louisiana in the Interest of Hunter,
+387 So. 2d 1086
+(La.1980), he argues there is a lack of standards for conducting a hearing on § 1634(A) benefits or for determining the size of the award.
+
+Although the provision is vague, when construed in a manner consistent with its objectives and the social purposes of the Unemployment Compensation legislation as a whole, it is not unconstitutionally so.
+
+As regards the vagueness argument, the first issue is what constitutes "sufficient evidence" to justify the award of § 1634(A) benefits. Section 1634(B) mandates that proceedings for benefits under this section are to be limited to questions of law, without the taking of additional evidence by the district court, and heard in a summary, expedited proceeding. When the notice of judicial review is filed in the district court the claimant has already had his claim reviewed at two administrative levels. Previously made available to the parties or counsel was the Appeals Referee's decision containing a case history, findings of fact and opinion; and the decision of the Board of Review. These documents can be made available to the district court. All that is not available is the transcript of the hearing conducted before the referee. In considering the award of benefits under § 1634(A), the district court is confined to the review of questions of law presented by the claimant as they exist at the time the rule for these benefits is filed.
+
+The second area of vagueness concerns the discretion which should be exercised by the district judge in awarding these benefits. Although the statute lacks standards,   the benefits should not exceed the maximum otherwise awardable under § 1591 et seq. and should not be awarded for a number of weeks greater than the time it takes for the administrator to file the complete record from the date of the expiration of the sixty day period. Since the employer is not charged with these benefits, it is unnecessary for him to participate in these proceedings. A determination by the district judge to award § 1634(A) benefits does not constitute a decision on the merits once the entire record is filed.
+
+For the reasons set forth above, our original opinion is vacated and set aside, the judgment of the district court is reversed, and the case is remanded to the district court for proceedings consistent with this opinion.
+
+COLOGERO, J., concurs.
+
+DENNIS, J., concurs disagreeing with the statement that the statute would be unconstitutional under another interpretation of the statute.
+
+LEMMON, J., dissents and assigns reasons.
+
+LEMMON, Justice, dissenting.
+
+The Legislature arguably could have authorized interim payments of unemployment compensation benefits to a claimant whose appeal is delayed by the administrator's failure to file the record timely, upon the claimant's making a prima facie showing of entitlement to benefits.[1] However, this is not what the Legislature in fact did.
+
+In enacting Act 939 of 1985, the Legislature effected two changes in La.R.S. 23:1634 A. The first change was to impose a sixty-day limitation on the administrator to lodge the record of the administrative hearing, and the second was to authorize payment of benefits upon a delay by the administrator under the vague standard of the court's "hearing sufficient evidence". In the title to the act, the Legislature clearly stated that the award of benefits was a "penalty" for tardy filing of the record. Such a penalty clearly violates due process if the employer or employers who underwrite the cost of the penalty do not have it within their power to accomplish or require timely filing of the record. The majority's decision rewrites the act as if the Legislature had intended the payment of benefits as an administrative expense of handling claims. If the Legislature intended something other than its clear statement that the payment was a penalty, then the statement should be corrected by subsequent legislative action, rather than by judicial legislation in accordance with the approach the majority believes the Legislature should have taken.
+
+[1]  It is highly unlikely that the Legislature intended to add an additional step to an already tremendously overburdened procedure for determining entitlement to unemployment compensation benefits.

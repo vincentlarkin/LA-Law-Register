@@ -1,0 +1,167 @@
+56176
+Veal v. Interstate Fire and Casualty Company
+https://law.justia.com/cases/louisiana/supreme-court/1976/325-so-2d-795-1.html
+
+56176
+Veal v. Interstate Fire and Casualty Company
+Court: Louisiana Supreme Court
+Release date: 1975-12-08
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/325-so-2d-795-1.html
+
+325 So. 2d 795 (1975)
+
+Leon VEAL, on his own behalf and as the administrator of the estate of his minor children, Helen Elizabeth Veal, et al., Plaintiff-Appellant-Relator,
+v.
+INTERSTATE FIRE AND CASUALTY COMPANY, Defendant-Appellee-Respondent.
+
+No. 56176.
+
+Supreme Court of Louisiana.
+
+December 8, 1975.
+
+Dissenting Opinion January 27, 1976.
+
+Jerome Friedman, Metairie, for plaintiff-applicant.
+
+A. W. Wambsgans, Richard M. Michalczyk, Cronvich & Wambsgans, Metairie, for defendant-respondent.
+
+TATE, Justice.
+
+The plaintiff Veal sues to recover damages caused through the negligence of an uninsured motorist. Made defendant is Veal's own automobile liability insurer ("Interstate"). The court of appeal affirmed the trial court's summary judgment dismissing the suit. 308 So. 2d 345 (La. App. 4th Cir. 1975).
+
+The issue in this case concerns an interpretation of a statute, La.R.S. 22:1406(D) (1). This requires automobile liability policies issued for delivery in this state to contain uninsured motorist coverage unless the policyholder expressly waives it.
+
+The particular issue before us is whether this mandatory requirement of law applies to policies issued by "unauthorized" insurers, such as Interstate. It concededly does apply to insurers authorized to transact business in this state subject to this state's rate-making regulation. La.R.S. 22:981-87, 1401-03, 1406.
+
+Interstate is a foreign insurer not so authorized to transact rate-regulated business   in this state. The policy issued by it was procured through "surplus-line" brokers, in accordance with Louisiana law, from a foreign insurer not so authorized and regulated. La.R.S. 22:1257-62. As we will note more particularly below, the latter type of policies may not be sold or delivered in Louisiana unless the foreign insurer has made certain filings with the Louisiana commissioner of insurance. La.R.S. 22:1262(B) (1966).
+
+In the instant case, the previous courts found that Interstate's policy issued to Veal was not required to provide uninsured motorist coverage, because issued by an "unauthorized" insurer. As earlier noted, the courts therefore dismissed Veal's suit for recovery under the alleged uninsured-motorist coverage provided as a matter of law (in the absence of express waiver) by all liability policies delivered or issued for delivery in this state. La.R.S. 22:1406(D).
+
+We granted certiorari, 313 So. 2d 246 (1975), because we entertained doubt as to the correctness of this holding, taking into consideration also 1970 legislation to be discussed below.
+
+Since 1962, Louisiana statute has mandatorily provided that, unless the policyholder has expressly rejected the coverage, "no automobile liability insurance" "shall be delivered or issued for delivery" in Louisiana unless it provides uninsured motorist coverage in not less than certain limits. La. R.S. 22:1406(D)(1) (originally enacted by Act 187 of 1962).[1]
+
+We have held that the statute represents the public policy of this state as declared by the legislature, and that it cannot be circumvented by policy provisions which lessen the mandatory minimum coverage against fault of uninsured motorists. Dean v. McGee, 261 La. 686,
+260 So. 2d 669
+(1972); Graham v. American Casualty Company, 261 La. 85, 259 So.2d (1972). See also Barbin v. United States Fidelity and Guaranty Company,
+315 So. 2d 754
+(La.1975).
+
+The present policy was issued in Louisiana by a Louisiana-licensed broker for surplus line insurance. Interstate has never applied for and been authorized to transact business in Louisiana subject to this state's rate-making regulation, although it has made the filings in Louisiana required by this state statute.
+
+Thus, as authorized by Louisiana statute, the present policy was procured through a Louisiana-licensed surplus line broker from a foreign insurer and issued in Louisiana to cover risks of a Louisiana policyholder and a Louisiana-based vehicle. La.R.S. 22:1257. The policy is endorsed (as required by statute, La.R.S. 22:1258) as being registered and delivered as surplus line coverage under the insurance code of Louisiana.
+
+By the policy itself (Condition 25), Interstate has agreed; "Terms of this policy which are in conflict with the statutes of   the State wherein this policy is issued are hereby amended to conform to such statutes."
+
+No Louisiana-licensed surplus line broker can lawfully insure with any "unauthorized" insurer (such as the present) unless that insurer has made certain filings with the Louisiana commissioner of insurance. La.R.S. 22:1262B (as enacted by Act 175 of 1966; see also amendment by Act 239 of 1972). The record in this case includes a certificate by the Commissioner of Insurance that Interstate has met these statutory requirements and "is an eligible carrier for placement of surplus line coverage on Louisiana risks."
+
+Despite the express legislative mandate of La.R.S. 22:1406 (quoted in Footnote 1) that no automobile liability policy shall be issued in Louisiana which does not contain uninsured motorist coverage,[2] the previous courts in this case have held that Interstate's policy was exempt from this statutory requirement. (If not exempt, it is not disputed that Interstate's policy must be reformed as of the date of issuance to include such legislatively-mandated coverage. La.R.S. 22:620, 623, 1258, 1259. Moreover, by the policy in the instant case, the insurer Interstate expressly agreed that provisions of its policy in conflict with any Louisiana statute should be amended to conform to such statute. Webb v. Zurich Insurance Co., 251 La. 558,
+205 So. 2d 398
+, 408 (1967).)
+
+In holding Interstate's policy exempt from the requirement (in absence of waiver) of providing uninsured motorist coverage, the previous courts relied upon Barrett v. State Farm Mutual Automobile Insurance Company, 226 So. 2d 74 (La.App. 3d Cir. 1969). This 1969 decision affirmed the dismissal of the action as against a surplus line insurer (Midwest) under circumstances similar to the present. The court there relied upon the placement of the requirement within the Louisiana Insurance Code, La.R.S. 22:1 et seq.
+
+By the 1962 amendment, the requirement of uninsured-motorist coverage (La.R.S. 22:1406D) had been placed with Part XXX of the Code, La.R.S. 22:1401-46. This part primarily relates to the rate-making functions of the Louisiana Insurance Rating Commission and its divisions, including the Casualty and Surety Insurance Division.
+
+In effect, Barrett held that, despite the legislative language that Section 1406(D) mandatorily applied to all automobile liability policies issued or delivered in this state, the court could ascribe no legislative intent for the provision to apply to policies issued by surplus line ("unauthorized") insurers because the enactment was found in a division of the code which (except for the section) related wholly to rate-making regulation of "authorized" insurers.[3]
+
+This was a doubtful interpretation at best, and one (so far as we can ascertain) never reviewed by this court nor followed by any other decision until the instant case. By its terms, the legislative provision did not refer to rate-making functions of the Commission. Its unambiguous language could properly be held to apply to any automobile liability policy issued or delivered in Louisiana, whether by an "authorized" insurer or (as here) by a surplus-line insurer acting through a Louisiana-licensed broker and expressly by its own terms subject to Louisiana law.
+
+*798 Nevertheless, whatever the merits of this 1969 ruling's narrowing of the apparent legislative intent of Section 1406based on the then-absence of any reference in Insurance Code Part XXX to surplus-line insurers, in the very next session of the legislature Section 1406(D) was amended so as to additionally provide: "Each nonadmitted company (surplus line underwriter) shall file with the Casualty and Surety Division in accordance with the regulations of the casualty and surety division a copy of each automobile liability policy written by said company." La.R.S. 22:1406(D)(7) (as added by Act 345 of 1970).
+
+At the least, the 1970 amendment makes doubtful any previous judicial assumption that the legislature did not intend Section 1406 to apply to policies issued by surplus-line insurers. This prior assumption was based solely upon the statutory section's placement within a division of the insurance code which contained no reference to surplus-line insurers and which primarily relates to insurance regulatory agencies with no function with regard to such insurers.
+
+However, by the 1970 amendment, surplus line insurers were subjected to some non-rate-making supervision by the Louisiana regulatory agency. The amendment erodes the basis for the somewhat tenuous finding of no legislative intent to apply to policies issued by surplus line insurers.
+
+We prefer to rest our holding, however, upon the broad and unambiguous language of Section 1406(D). It expressly provides that all policies issued for delivery in Louisiana must afford uninsured-motorist coverage (unless such is waived). We can find no intent to exempt from this requirement policies issued through Louisiana-licensed brokers for coverage of Louisiana-based automobiles and Louisiana policyholders.
+
+Accordingly, we reverse the summary judgments of the district court and of the court of appeal which dismissed this claim against the defendant insurer. We remand this case to the district court for further proceedings consistent with the views here expressed. All costs of appellate review are assessed against the defendant insurer.
+
+Reversed and remanded.
+
+Summers, J., dissents and will assign reasons.
+
+SUMMERS, Justice (dissenting).
+
+Certiorari was granted to decide whether a surplus line insurance policy procured by a Louisiana licensed surplus line broker from an unauthorized foreign insurer providing automobile liability coverage to a Louisiana resident is exempt from the provisions of Section 1406D(1)(a) of Title 22 of the Louisiana Insurance Code. This section requires that no automobile liability insurance policy may be "delivered or issued for delivery in this state with respect to any motor vehicle registered or principally garaged in this state unless coverage is provided therein" for uninsured motorist coverage, unless such coverage has been rejected by the insured.[1] 313 So. 2d 246.
+
+*799 The pertinent facts are not in dispute. Plaintiffs are the surviving spouse and children of Alta Gwins Veal, who sustained fatal injuries on December 26, 1971 while a passenger in the Veal family car. Her son Leon Veal, Jr., was driving at the time. He also sustained personal injuries. The Veal automobile was struck from the rear on Airline Highway in Jefferson Parish by an automobile owned and operated by Frederick D. Jordan, an uninsured motorist.
+
+When Veal sued his insurer, Interstate Fire & Casualty Company, the company sought and obtained a summary judgment dismissing his suit. On appeal to the Fourth Circuit, the judgment was affirmed. 308 So. 2d 345. Both courts relied upon the authority of the decision of the Third Circuit in Barrett v. State Farm Mutual Automobile Ins. Co., 226 So. 2d 74 (La.App.1969), which held that Section 1406D(1)(a) does not apply to an unauthorized insurer.
+
+The theory upon which the decision in the Barrett Case rests is that Louisiana's insurance code does not regulate the provisions of policies issued by unauthorized insurers. Only the brokers licensed by this state to write insurance with unauthorized companies are regulated. These regulations, contained in Part XXVII of the Insurance Code, entitled "Unauthorized Insurance" recognize that they are inapplicable to an insurer not doing business in the State. They are principally concerned with the licensing of surplus line brokers, the records they are required to maintain, the tax they must remit to the Commissioner of Insurance, the penalty for failure, suspension or revocation of their license, provision for venue of suits against unauthorized insurers, and the inapplicability of the regulations controlling the placing of insurance with unauthorized insurers to certain specified insurance. Thus, the broker is regulated to some extent in the placing of insurance with unauthorized insurers, but the unauthorized insurer is not regulated.
+
+The Court's conclusion in the Barrett Case was arrived at for the reason that Section 1406D(1)(a), requiring that uninsured motorist coverage be included in all automobile liability policies issued in Louisiana, is contained in Part XXX of the Insurance Code, entitled "Louisiana Insurance Rating Commission and Rate Regulation." It was reasoned in the Barrett Case and in the opinion of the Fourth Circuit under review that this Part of the Insurance Code purports to regulate rates in policies issued by authorized insurers, and makes no reference to the regulation of rates in policies issued by unauthorized insurers. La.R.S. 22:1401-46. I agree.
+
+Part XXVII of the Insurance Code, which pertains to unauthorized insurance, purports to regulate the activities of domestic insurers doing business outside the State of Louisiana in states in which they are unauthorized. La.R.S. 22:1251. Louisiana insurance agents are prohibited from acting as agents for any insurer not authorized to do business in this state. La.R.S. 22:1252. The use of the courts of this State are prohibited to unauthorized insurers. La.R.S. 22:1254. Surplus line insurance is authorized to be issued by unauthorized insurers. La.R.S. 22:1257. However, every insurance contract procured and delivered as a surplus line coverage must be stamped by the surplus line broker who obtained it with the following:
+
+Brokers maintaining an office at a designated location in this state may be licensed as surplus line brokers. La.R.S. 22:1260. Licensed brokers are authorized to accept and place surplus line insurance for insurance agents or brokers licensed in this state for the kind of insurance involved. La.R.S. 22:1261. Surplus line brokers shall not knowingly place surplus line insurance with insurers unsound financially, La.R.S. 22:1262; and they are required to maintain records of surplus line contracts showing, among other things, the terms of those contracts. La.R.S. 22:1263. These brokers are taxed on the surplus line insurance they procure. La.R.S. 12:1265.
+
+The scope of Part XXX is declared to be applicable to "risks or operations in this state." La.R.S. 22:1403A. Reference is made in Section 1406A of that part to the insurance companies authorized to write casualty insurance. Thereafter the uninsured motorist provisions already quoted appear in Section 1406D(1). Section 1407 refers to "Every insurer whose rates are subject to regulation under the provisions of this Part," and then provides the procedure for rate filings. An expense fund is required of all "insurers doing business in this state" for the Insurance Rating Commission, and the expense is to be met by an annual assessment "on each insurer subject to this part." La.R.S. 22:1419.
+
+Section 1420 sets forth that "No insurer shall make or issue a contract or policy after July 27, 1960, except in accordance with this Part . . .." A mandatory program to assure an adequate market for fire and extended coverage insurance in the coastal areas of Louisiana is made obligatory on "every licensed insurer" writing fire and extended coverage in Louisiana by Section 1431. Again, Section 1433 refers to "all insurers authorized to write" property insurance within this state and makes membership in the Louisiana Insurance Underwriters Association a condition of the "authority" of insurers "to continue to transact the business of insurance in this state."
+
+It is evident from this partial reference to its provisions and a careful reading of Parts XXVII and XXX that the Legislature only intended to regulate insurers authorized to do business in the state. In Gray & Company v. Stiles, 221 So. 2d 832 (La.App.1969) the First Circuit recognized that unauthorized insurers issuing surplus line policies in Louisiana through agents were not regulated except through brokers, saying "Such companies are not subject to any further regulation by the Insurance Commissioner, except that he can forbid surplus line brokers to place insurance with companies which do not meet the requirements of the law."
+
+The business of insurance has always been considered a matter of public concern. It was the settled jurisprudence in this country, therefore, that legislatures were undoubtedly vested with ample power, authority and wide discretion to regulate insurance companies. Hammett v. Fire Association of Philadelphia, 181 La. 694, 160 So. 302 (1935). The principal standard recognized by the decisions was that the regulation be reasonable. Keystone Mutual Casualty Co. of Pittsburgh, Pa. v. Hinds, 180 Md. 676, 26 A.2d 761 (1942).
+
+These principles were established in the cases based upon the legal fiction that the business of insurance was neither interstate nor commerce preventing regulation by the states. The interstate character of a contract of insurance made by a resident of one state with a corporation of another state did not establish immunity from control of the state in which the insured resided and in which the corporation did business. National Union Fire Ins. Co. v. Wanberg,
+260 U.S. 71
+, 43 S. Ct. 32, 67 L. Ed. 136 (1922); Paul v. Virginia, 8 Wall. 168, 19 L. Ed. 357 (U.S.1868); Bothwell v. Buckbee Mears Co.,
+275 U.S. 274
+, 48 S. Ct. 184, 72 L. Ed. 277 (1927); New York Life   Ins. Co. v. Cravens,
+178 U.S. 389
+, 20 S. Ct. 962, 44 L. Ed. 1116 (1900); 19 Appleman, Insurance Law and Practice, § 10321-22.
+
+In 1944, after more than 75 years of adherence to this fiction, the Supreme Court of the United States tore aside the veil of judicial precedent, and held the business of insurance to be within the scope of interstate commerce. United States v. South-Eastern Underwriters Association,
+322 U.S. 533
+, 64 S. Ct. 1162, 88 L. Ed. 1440 (1944); Appleman, supra.
+
+After the holding that insurance was interstate commerce, Congress passed the McCarran Act, 15 U.S.C.A. #1011 et seq., leaving regulation of insurance to the states. In enacting the Act Congress intended to give support to existing and future state systems for regulating and taxing the business of insurance, but it did not intend to validate unconstitutional provisions of state laws. Securities and Exchange Comm. v. National Securities, Inc.,
+393 U.S. 453
+, 89 S. Ct. 564, 21 L. Ed. 2d 668 (1969). The Act is applicable to out-of-state insurers only where they are transacting insurance business within the state. Johnson v. Universal Underwriters, Inc., 283 F.2d 316 (7th Cir. 1960).
+
+Thus, a state cannot constitutionally prescribe the terms, or control the construction and effect, of contracts made and to be performed beyond the borders of the state, since a state statute restricting the rights of, or imposing a tax upon, a citizen placing insurance upon local property with a foreign insurance company, under contracts made and to be performed outside the enacting state, deprives such citizen of liberty of contract without due process of law within the meaning of the Fourteenth Amendment to the Federal Constitution. New York Life Ins. Co. v. Head,
+234 U.S. 149
+, 34 S. Ct. 879, 58 L. Ed. 1259 (1914) and New York Life Ins. Co. v. Dodge,
+246 U.S. 357
+, 38 S. Ct. 337, 62 L. Ed. 125 (1918).
+
+Undoubtedly Louisiana's Legislature was influenced by these principles in the enactment of its insurance code and deliberately refrained from imposing its regulations upon unauthorized insurers on the theory that a statute which purports to do so would be invalid. Provident S. L. Assur. Soc. v. Kentucky,
+239 U.S. 103
+, 36 S. Ct. 34, 60 L. Ed. 167 (1915); Allgeyer v. Louisiana,
+165 U.S. 578
+, 17 S. Ct. 427, 41 L. Ed. 832 (1897). To sustain statutes which purport to extend the state's authority to regulate so as to give it extraterritorial effect would deprive citizens of their right to make such contracts as they choose beyond the boundaries of their state. 2 Couch, Cyclopedia of Insurance Law § 21.80.
+
+It is upon this theory that the imposition of the uninsured motorist coverage upon insurance companies authorized to do business within the state can have no effect upon a policy issued by an unauthorized insurer outside the state, even though the insured may be a resident of the state. Cf. Rybasack v. Travelers Ins. Co., 15 N.J. Misc. 266, 190 A. 308 (1937).
+
+Nothing in this result contradicts what this Court said in Graham v. American Casualty Company, 261 La. 85,
+259 So. 2d 22
+(1972) and in Deane v. McGee, 261 La. 686,
+260 So. 2d 669
+(1972). In these cases the Court recognized that the uninsured motorist statute requiring uninsured motorist protection was a declaration of the public policy of the state. This policy, however, is one which is imposed upon authorized insurers as the context of the Graham and Deane Cases makes clear. The cases did not purport to extend the State's public policy extraterritorially and make it obligatory upon unauthorized insurers who were not engaged in business within the state, whose policies were written and issued outside the state, and who, when paid, would be paid outside the state. The policy in this case was procured by the broker on behalf of the insured from the unauthorized insurer outside the state and was not solicited or issued by the unauthorized insurer within the state. The unauthorized   insurer was not, therefore, transacting business in Louisiana.
+
+Another factor supporting freedom from regulation of the unauthorized, surplus lines insurers is the fact that the insurance coverage they afford an insured is highrisk coverage he cannot obtain elsewhere. La.R.S. 22:1257.
+
+Plaintiff contends that the Legislature has manifested its intention to regulate unauthorized insurers by enacting Act 345 of 1970 as paragraph (7) of Section 1406(D) of Title 22, and incorporating its provisions within Part XXX of the Insurance Code entitled "Louisiana Insurance Rating Commission and Rate Regulation" which regulates authorized insurers. Paragraph (7) of Section 1406D provides that "Each nonadmitted company (surplus line underwriter) shall file with the Casualty and Surety Division in accordance with the regulations of the casualty and surety division a copy of each automobile liability policy written by said company."
+
+Paragraph (7) simply requires that copies of policies issued by unauthorized surplus line insurers be filed with the casualty and surety division. It is not a regulation affecting the terms and conditions of coverage of the policy negotiated by the insured outside the state. Nor, particularly, does it require that policies procured from unauthorized insurers contain the uninsured motorist coverage. No infringement of constitutional dimensions upon the rights of the parties freely to contract is involved in this minor regulation imposing a filing requirement upon the unauthorized insurer. Its object is not to reverse the entire theme of the regulations pertaining to authorized insurers and to make these regulations applicable to unauthorized insurers. Its object is, apparently, to provide interested parties contemplating asserting claims or instituting suit against the unauthorized insurer with information regarding the coverage of the policy.
+
+For the reasons assigned, I respectfully dissent.
+
+[1]  La.R.S. 22:1406(D)(1) (1962) provided: "No automobile liability insurance covering liability arising out of the ownership, maintenance, or use of any motor vehicle shall be delivered or issued for delivery in this state with respect to any motor vehicle registered or principally garaged in this state unless coverage is provided therein or supplemental thereto, in not less than the limits described in the Motor Vehicle Safety Responsibility Law of Louisiana, under provisions filed with and approved by the Commissioner of Insurance, for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of uninsured motor vehicles because of bodily injury, sickness or disease, including death, resulting therefrom; provided, however, that the coverage required under this section shall not be applicable where any insured named in the policy shall reject the coverage."
+
+A series of subsequent enactments has broadened the right of policyholders to this type of mandatory coverage, unless waived by the policyholder: Acts 137 and 550 of 1972; Act 154 of 1974.
+
+As both of the previous courts held, a substantial issue of fact as to the policyholder's alleged waiver of the coverage precludes summary judgment on this factual issue.
+
+[2]  i. e., unless waived by the policyholder, which under the present summary-judgment showing was not done.
+
+[3]  The court concluded: "There are no provisions for the regulation of rates of unauthorized insurers. Since Midwest is an unauthorized insurer, it is not subject to these rate regulations and is not required to contain uninsured motorist coverage in its automobile liability policies." 226 So. 2d 75-76.
+
+[1]  R.S. 22:1406.
+
+"D. (1) [a] No automobile liability insurance covering liability arising out of the ownership, maintenance, or use of any motor vehicle shall be delivered or issued for delivery in this state with respect to any motor vehicle registered or principally garaged in this state unless coverage is provided therein or supplemental thereto, in not less than the limits of bodily injury liability provided by the policy, under provisions filed with and approved by the commissioner of insurance, for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of uninsured or underinsured motor vehicles because of bodily injury, sickness, or disease, including death, resulting therefrom; provided, however, that the coverage required under this subsection shall not be applicable where any insured named in the policy shall reject the coverage or selects lower limits . . . ."

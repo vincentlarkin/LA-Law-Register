@@ -1,0 +1,183 @@
+80-C-1794
+Jenkins v. Jefferson Parish Sheriff's Office
+https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-1794-1.html
+
+80-C-1794
+Jenkins v. Jefferson Parish Sheriff's Office
+Court: Louisiana Supreme Court
+Release date: 1981-06-22
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-1794-1.html
+
+402 So. 2d 669 (1981)
+
+Florestine JENKINS, et al.
+v.
+JEFFERSON PARISH SHERIFF'S OFFICE.
+
+No. 80-C-1794.
+
+Supreme Court of Louisiana.
+
+June 22, 1981.
+
+Rehearing Denied September 4, 1981.
+
+Orlando G. Bendana, Wayne H. Carlton, Jr., New Orleans, for plaintiff-applicant.
+
+Kenneth V. Ward, Jr. of Cronvich, Wambsgans & Michalczyk, New Orleans, for defendant-respondent.
+
+LEMMON, Justice.
+
+We granted certiorari to review a judgment which held that the sheriff of a parish was not vicariously liable for the tort of a deputy sheriff committed in the exercise of the function for which the deputy was employed. 392 So. 2d 684 (La.1980). We now reverse and hold that C.C. art. 2320 imposes liability on a sheriff, in his official capacity as employer of his deputy (but not in a personal capacity), for the deputy's torts in the course and scope of employment.
+
+Plaintiff's suit seeks recovery for damages allegedly caused by the negligence of a Jefferson Parish deputy sheriff in the operation of an official vehicle while on duty. The trial court dismissed Sheriff Alwynn J. Cronvich from the action on an exception of no cause of action. The court of appeal affirmed. 385 So. 2d 578 (4th Cir. 1980).[1]
+
+In Foster v. Hampton,
+352 So. 2d 197
+(La. 1977) Chief Justice Dixon undertook a thorough historical review of the legislative and jurisprudential developments regarding a sheriff's vicarious liability for his deputy's torts. The opinion relied on R.S. 33:1433, which expressly provided (since its 1950 amendment) that a sheriff was not liable for a tort committed by one of his deputies, beyond the amount of the deputy's bond, unless the deputy acted in compliance with a direct order of the sheriff and in the sheriff's presence. The opinion restated the common law notion adopted in Gray v. De-Bretton, 192 La. 628,188 So. 722 (1939) that the relationship between a sheriff and his deputy was official, rather than private, and was not one of master and servant, since the deputy's authority and duties were prescribed by law.
+
+The Foster decision further noted that a deputy sheriff is an officer of the state, which might be considered the deputy's employer, but observed that the state was not a party to that suit.[2] The decision did, however, expressly affirm the intermediate court's holding that the parish was not vicariously liable for the torts of a sheriff or his deputy.
+
+The plaintiff in Foster then filed suit against the state, and this court subsequently held that the state was vicariously liable for the deputy's tort. See Foster v. Hampton,
+381 So. 2d 789
+(La.1980).
+
+In the meantime the first Foster decision of 1977 had generated a flurry of legislative activity. Acts 1978, No. 318, revised R.S. 33:1433 and added R.S. 42:1441.
+
+The amendment to R.S. 33:1433 deleted the language, relied on in the first Foster decision, regarding the sheriff's general immunity from liability except for the deputy's acts in compliance with a direct order of and in the presence of the sheriff. Moreover, the title of Act 318, after referring to the "liability of sheriffs for acts or torts of their deputies" stated that act's object to be "to delete certain limitations on such liability".
+
+Significantly, in the same Act 318 the Legislature, for the obvious purpose of overruling the dicta in the first Foster decision, added R.S. 42:1441, which provides in pertinent part:
+
+The accident at issue in the present case occurred after the effective date of Act 318. Accordingly, we must construe the effect of both acts as applicable to the facts of this case.
+
+First, we note that the state is not a party to the present litigation. Therefore, while noting the questionable constitutionality of R.S. 42:1441 in its conflict with the 1974 Constitution's abolition of governmental immunity, we cannot squarely decide   the state's liability in this case. Nevertheless, we can refer to R.S. 42:1441 in determining the legislative intent of Act 318 and in attempting to identify the real employer of a sheriff's deputy. To achieve this identification we must assess the realities of the employment situation in the light of present day tort law and must reassess the prior jurisprudential and legislative attempts to arrive at a workable solution to the problem of responsibility to the innocent tort victim.
+
+The reality of the situation is that there does exist an employment relationship between a sheriff and his deputies. The sheriff, and not the state, hires and fires deputies, exercises direct and indirect supervision and control over them, fixes their time and place of work, and generally allocates their responsibility and assigns their duties. Although the money for the operation of the various sheriffs' departments may come from various sources of public funds (primarily fees as tax collector and in civil and criminal matters), the sheriffs disburse the allocated funds and actually pay most of the salaries of the deputies with these funds. No one but the sheriff can realistically be viewed as the employer of the deputies. Whether the sheriff is the appropriate governmental entity on which to impose liability for the employment-related torts of the deputy sheriff is a more difficult question.
+
+The doctrine of respondeat superior is based on the rationale that the enterprise should pay for damages caused by one who is acting in furtherance of the enterprise. Here, there is no enterprise. The deputy on duty is acting in furtherance of the public good, and the damages caused by those actions of the deputy should be paid by public funds.
+
+The Legislature, in enacting Act 318 of 1978, has clearly indicated its intention that governmental responsibility for torts committed by a public employee should be placed on the public officer most closely related to the tortfeasor. The Legislature also removed the previous statutory immunity enjoyed by the sheriff. Moreover, as noted in the discussion of the employment relationship, neither the state nor the parish (the other logical entities on which liability might be imposed) exercises any significant control over sheriff's deputies. We conclude that the sheriff is the appropriate governmental entity on which to place responsibility for the torts of a deputy sheriff.
+
+However, in the employment relationship which gives rise to delictual responsibility, the sheriff acts solely in his official capacity; he cannot reasonably be viewed as acting in a personal capacity in the employment relationship. Therefore, if the sheriff as an employer is to be held vicariously liable for the torts of his employee, he is liable only because he is sheriff and is only liable to the extent that he holds that office.[3] He is not liable personally, and his personal funds and property cannot be subjected to execution of a judgment decreeing that liability. The public funds which are to be used to compensate victims of the torts committed by sheriff's deputies are the public funds controlled by the deputy's employer. The sheriff should be no more personally responsible for the deputy's torts than he is (in the absence of special circumstances) for the deputy's salary, or for the gasoline purchased for official vehicles. It is the officer who is responsible.
+
+How the obligation may be enforced is one of the practical problems not solved by this decision. In this case, for example, any judgment against this sheriff in his official capacity will have to be recovered (disregarding the probability of liability insurance) from the official funds of his successor sheriff, since Cronvich is no longer in office.[4] Future incidents can be provided   for by liability insurance.[5] While pending unlitigated claims may cause budget problems, perhaps special legislative appropriations may be required for special interim cases arising after Act 318 and before this opinion. Nevertheless, this area of the law so badly needs clarification that the present result is required (especially when the intention of Act 318 is considered). An overall legislative plan of action (rather than of reaction) is needed to resolve the problem of which governmental entity is responsible in this type case so that the appropriate entity may set aside funds to cover that responsibility with liability insurance.[6] For these reasons the judgments of the lower courts are reversed insofar as they dismissed the suit against Sheriff Alwynn J. Cronvich in his official capacity. The judgments are affirmed, however, insofar as they dismissed the suit against Sheriff Alwynn J. Cronvich in his personal capacity.
+
+BLANCHE, J., dissents and hands down reasons therefor.
+
+MARCUS and WATSON, JJ., dissent and assign reasons.
+
+BLANCHE, Justice (concurring in part; dissenting in part).
+
+The court of appeal, in ruling on an exception of no cause of action filed by Sheriff Cronvich, dismissed plaintiff's suit against Cronvich, relying upon the holding of Foster v. Hampton,
+352 So. 2d 197
+(La. 1977) that a sheriff is not liable for the negligent acts of his deputy under the doctrine of respondeat superior unless the deputy is engaged in an official act, and the operation of an automobile without negligence is not the performance of an official duty. I wholeheartedly agree with the majority opinion that Foster is no longer good law.
+
+Foster relied upon older jurisprudence in this state which severely limited the liability of a sheriff for the acts of his deputies and which specifically held that the doctrine of respondeat superior did not apply to the sheriff/deputy sheriff relationship. See Gray v. DeBretton, 192 La. 628, 188 So. 722 (1939). The rationale cited for the doctrine that a sheriff is only liable for "official acts" of his deputies is that the relationship between a sheriff and his deputy is an official and not a private relation and the deputy is not a representative of the sheriff in his official capacity, but he is a public officer whose authority and duty are delegated by law. Gray, supra.
+
+In Gray, the Court held that when a deputy sheriff, while taking an arrestee into custody in a sheriff's department vehicle, strikes pedestrians with that vehicle, he is not engaged in an "official act" so as to make the sheriff liable for the deputy's negligence. The Court noted, however, that "... e. g., if the sheriff or a deputy has a car under seizure, and by reason of the negligent driving or handling of the car, it is damaged, the negligence in that case involves an official act. Likewise, it is the duty of the sheriff and his deputy to secure and protect a prisoner in his custody, and if, by the negligent operation of a car, or by the careless handling of a pistol, the prisoner is injured, such negligence and carelessness constitute a violation of an official duty for which the sheriff and the surety on his official bond are liable...", Gray, supra 188 So.  at 726. It is obvious that the distinctions among situations in which a sheriff is liable for the negligent acts of his deputies under this "official act" doctrine are illogical and unjust. This doctrine should certainly be discarded and I agree with the majority that the doctrine of respondeat superior should be applied to hold the employer of a deputy sheriff liable for the torts of the deputy. The entity benefitting from the services of the deputy should be responsible for the negligence of that   deputy occurring in the course and scope of his employment.
+
+As noted by the majority, Act No. 318 of 1978 sought to legislatively overrule the majority holding of this Court in Foster v. Hampton,
+381 So. 2d 789
+(La.1980) that the state was the employer of a deputy sheriff and could be liable for this employee's torts under the doctrine of respondeat superior. In the same Act, the legislature eliminated a former statutory limitation on a sheriff's liability for the actions of his deputy which was even more stringent than the jurisprudential "official act" doctrine. This legislation left the way open for the imposition of respondeat superior liability on a sheriff for the delictual acts of his deputy.
+
+I do not necessarily disagree with the majority's conclusion that the true employer of a deputy sheriff is the sheriff and that since a deputy on duty is acting in the furtherance of the public good, damages caused by the tortious actions of the deputy should be paid by the public funds controlled by the deputy's employer. Nevertheless, I dissent from these pronouncements as holdings in this case. The only issue before this Court in this case was whether plaintiff stated a cause of action against Sheriff Cronvich.
+
+In order to state a cause of action under the doctrine of respondeat superior, a plaintiff must allege the existence of an employer-employee relationship, that there was negligence on the part of the employee and that the tortious acts of the employee were committed in the course and scope of the employment. Moreau v. Landry, 305 So. 2d 671 (1st Cir. 1974). Plaintiffs alleged that Deputy Boutuell was negligent in his operation of the sheriff's department vehicle while working in the course and scope of his employment with the sheriff's office, that defendant Alwynn J. Cronvich was the Sheriff of Jefferson Parish "at all times hereto pertinent", and that Cronvich was responsible under the doctrine of respondeat superior for damages to petitioners caused by Boutuell's negligence. I would find that these allegations are sufficient to state a cause of action against defendant Cronvich and would hold that there is no longer any obstacle to the application of the doctrine of respondeat superior to a sheriff and his employees.
+
+Since there is no evidence in the record of this case of facts, aside from the allegations of plaintiff, which prove an employment relationship (e. g. who hired the deputy, who supervised and controlled him, who fixed his time and place of work, who paid his salary, etc.), I would hold only that plaintiff did state a cause of action. I consider an actual holding that this sheriff was the employer of this deputy premature and would, therefore, remand for evidence on this issue, in the course of plaintiff's proof of the other elements of her cause of action which would entitle her to recovery. I would also pretermit a decision determining the source of funds from which any judgment that might be acquired in this suit may be satisfied until such judgment is secured and the issue presents itself should that judgment not be paid and execution of the judgment sought.
+
+MARCUS, Justice (dissenting).
+
+I disagree with the majority's conclusion that the sheriff is liable in his official capacity as employer of his deputy for the deputy's torts in the course and scope of employment. Rather, I am of the opinion that the sheriff is only responsible for acts and omissions of deputies when they are acting in performance of their official duties. Gray v. DeBretton, 192 La. 628, 188 So. 722 (1939). Accordingly, I respectfully dissent.
+
+WATSON, Justice (dissenting).
+
+I dissent from the majority's conclusion that the sheriff is liable in his official capacity as employer of his deputy for the deputy's torts in the course and scope of employment. Likewise, I strongly disagree with the idea expressed that a judgment against the sheriff may be executed against his successor's departmental funds.
+
+Foster v. Hampton,
+352 So. 2d 197
+(La., 1977) held that a sheriff is liable for a deputy's tort only when the deputy acts   "`... in compliance with a direct order of and in the personal presence of, the said sheriff...'", 352 So. 2d 201, quoting LSA-R.S. 33:1433. That statute was amended by Act 318 of 1978, effective September 8, 1978.[1] Plaintiffs contend that Act 318 of 1978, by eliminating the language quoted in Foster, supra, from the statute, made sheriffs liable for all employment related torts of their deputies.
+
+The language which was deleted from the statute in 1978 had been added by Act No. 426 of 1950. Before the 1950 enactment sheriffs were "responsible for" their deputies.[2] The 1950 enactment, which limited the sheriff's liability, also deleted the prior affirmation of responsibility. The 1978 enactment, which removed the limitation, did not restore a positive statutory basis for liability.
+
+The former language, which made sheriffs "responsible for" their deputies, was added by Act No. 8 of the Extra Session of 1940, after the 1939 Supreme Court opinion in Gray v. DeBretton Gray[3] held that the negligence of a deputy in driving the sheriff's automobile while transporting a prisoner was not an official act. At the time of Gray, there was no express language making a sheriff responsible for the acts of his deputy. See the Court of Appeal opinion in Gray.[4] In the absence of a statute, the Court of Appeal in Gray relied on common law authorities to hold that a sheriff was nonetheless responsible for his deputy's acts when performing certain official acts. The Supreme Court opinion in Gray made it clear that the deputy was not an employee, and there was no liability under the doctrine of respondeat superior. A deputy sheriff is not an employee of the sheriff. Foster v. Hampton,
+352 So. 2d 197
+(La., 1977); State v. Titus;[5]State v. Jones;[6] Williams v. Guerre.[7]Foster v. Hampton,
+381 So. 2d 789
+(La., 1980) held that a deputy sheriff is a public officer with official duties whose true employer is the State. Also see State v. Mayeaux.[8]
+
+The title of Act 318 of 1978 states that it is intended "to delete certain limitations"   on the liability of sheriffs for the torts of their deputies. Nothing in the title or body of the Act provides that sheriffs are the employers of their deputies or that they are responsible for their torts.[9]
+
+There is no statute which makes a deputy sheriff an employee of the sheriff. In the absence of such an enactment, the jurisprudence, which holds that the deputy sheriff is a State employee, must prevail. The 1978 legislation relied on by plaintiffs did not make sheriffs liable for the acts of their deputies. Such an intent cannot be inferred. Removal of the statutory limitation was not accompanied by a reinstatement of the prior language making the sheriff responsible for the acts of his deputies. The amendment or partial repeal of a law does not revive the former law. State v. Tugwell; LSA-Const. 1974, Art. 3 § 15(B).[11] Deletion of the limiting language in 1978 did not have the effect of reviving the prior law or enacting a positive provision of law.
+
+The intention of the legislature is shown by its enactments. Act 318 of 1978 does not state what the sheriff's liability is after removal of the limitation. The title of a statute determines its object but cannot enlarge its text. Melancon v. Mizell.[12] The 1978 deletion of the language added in 1950 left the law with no clear statement of a sheriff's liability for a deputy's torts, the situation when Gray was decided. Gray therefore controls.
+
+The Court of Appeal correctly held that any intent to legislatively overrule the prior jurisprudence is not apparent. Plaintiffs' petition does not state a cause of action against Sheriff Alwynn J. Cronvich.[13]
+
+Therefore, I respectfully dissent.
+
+[1]  The court of appeal also affirmed the dismissal in the same judgment of the "Jefferson Parish Sheriff's Office". Plaintiffs do not assign any error to that portion of the judgment.
+
+[2]  The Gray decision and other earlier decisions were undoubtedly influenced by underlying considerations of governmental immunity. That doctrine had been abolished when the Foster case arose, but the court was faced with numerous decisions and statutes which reflected the influence of the doctrine.
+
+Nevertheless, the Foster decision relied on the tort victim's right to recover against the state as the deputy's employer in order to maintain the constitutionality of R.S. 33:1433.
+
+[3]  This case does not involve the sheriff's liability for his own negligence, as might occur, for example, when the sheriff sends a deputy out on patrol in a motor vehicle when the sheriff actually knew that the deputy was intoxicated.
+
+[4]  The pleadings indicate there was liability insurance coverage in this case.
+
+[5]  See R.S. 33:1450, which expressly authorizes sheriffs to purchase liability insurance for this purpose.
+
+[6]  See, for example, the suggested approach in K. Murchison, The Work of the Louisiana Appellate Courts for the 1977-1978 Term-Local Government Law, 39 La.L.Rev. 657, 843 at 878 (1979).
+
+[1]  1978 Amendment: Deleted a paragraph in subsection A which read:
+
+"No sheriff of any parish of this state, nor his sureties, shall be liable for any act or tort committed by one of his deputies, or by any person commissioned as deputy sheriff by him, beyond the amount of the bond or limits of liability insurance furnished by said deputy sheriff, unless said deputy sheriff in the commission of the said act or tort, acts in compliance with a direct order of, and in the personal presence of, the said sheriff, at the time the act or tort is committed."
+
+[2]  Act No. 8 of the Extra Session of 1940 provided:
+
+"To amend and reenact Section 3542 of the Revised Statutes of Louisiana of 1870, as amended by Act No. 27 of the Third Extraordinary Session of 1934, relative to deputy sheriffs, and to repeal all laws or parts of laws in conflict with this Act.
+
+* * * * * *
+
+"`Section 3542. The Sheriff of each parish, the Criminal Sheriff of the Parish of Orleans and the Civil Sheriff of the Parish of Orleans may appoint as many deputies as he may deem necessary, or as may be authorized by law, but he remains responsible for them, and they must, before entering on their duties, take the oath of office. This appointment and oath must be entered on the records of the Court, provided that the Commission Council of the City of New Orleans shall fix the salaries and number of the Deputy Criminal Sheriffs in the City of New Orleans, Parish of Orleans, provided that the salaries fixed shall not be less than eighty-seven and one-half percentum of the salaries as are now fixed by law, and provided further, that a sufficient sum of money be set aside in the annual budget and appropriated out of the general fund of the said City of New Orleans to provide for not less than eighty-nine assistants, clerks and deputies, to be employed monthly.'
+
+"Section 2. That if any section or sentence of this Act be declared unconstitutional, the remainder shall continue in full force and effect.
+
+"Section 3. That all laws or parts of laws in conflict herewith be, and the same are, hereby repealed."
+
+[3]  192 La. 628, 188 So. 722 (1939).
+
+[4]  Gray v. DeBretton, 184 So. 390 (La.App. 1 Cir. 1938).
+
+[5]  152 La. 1011, 95 So. 106 (1922).
+
+[6]  181 La. 390, 159 So. 594 (1935).
+
+[7]  182 La. 745, 162 So. 609 (1935).
+
+[8]  228 La. 6,
+81 So. 2d 426
+(1955).
+
+[9]  The positive deficiencies of Act 318 of 1978 are readily apparent:
+
+"...Unfortunately, the legislative response suffers from two defects: it does not impose liability on the sheriff for the negligent operation of a motor vehicle by his deputy, and its provision with respect to state liability is probably unconstitutional. Although the legislation eliminates the statutory basis for relieving the sheriff of personal liability, it does nothing with respect to the court's alternate basis for its holdingthe prior decisions establishing that the negligent operation of an official vehicle by a deputy is not an `official act' for which the sheriff is liable. Not only does the 1978 act fail to impose liability on the sheriff, but its attempt to limit the state's liability appears to fly in the face of the 1974 constitution's abolition of governmental immunity. Even if the sheriff were rendered liable, the plaintiff would still lack a governmental defendant to assume liability for the deputy's conduct because the sheriff's liability is personal and does not affect a governmental entity." 39 La. Law Rev. 877-878.
+
+[10]  199 La. 18,5 So. 2d 370 (1941).
+
+[11]  LSA-Const. 1974, Art. 3 § 15(B) provides:
+
+"No General Reference. A bill enacting, amending or reviving a law shall set forth completely the provisions of the law enacted, amended or revived. No system or code of laws shall be adopted by general reference to it."
+
+[12]  216 La. 711,
+44 So. 2d 826
+(1950).
+
+[13]  This result would not preclude recovery under a liability policy issued to cover negligent acts of a sheriff's office and its deputies. See LeJeune v. Allstate Ins. Co.,
+365 So. 2d 471
+(La., 1978). The defense is personal to the sheriff. Webb v. Zurich Insurance Company,251 La. 558,
+205 So. 2d 398
+(1968).

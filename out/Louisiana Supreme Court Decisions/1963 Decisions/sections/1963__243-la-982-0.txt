@@ -1,0 +1,101 @@
+149 So. 2d 413 (1963); 243 La. 982
+Reserve Insurance Company v. Fabre
+https://law.justia.com/cases/louisiana/supreme-court/1963/243-la-982-0.html
+
+149 So. 2d 413 (1963); 243 La. 982
+Reserve Insurance Company v. Fabre
+Court: Louisiana Supreme Court
+Release date: 1963-01-14
+Author: HAWTHORNE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1963/243-la-982-0.html
+
+149 So. 2d 413 (1963)
+
+243 La. 982
+
+RESERVE INSURANCE COMPANY
+v.
+Wilbur J. FABRE.
+
+No. 46232.
+
+Supreme Court of Louisiana.
+
+January 14, 1963.
+
+Rehearing Denied February 18, 1963.
+
+*414 Voorhies, Labbé, Voorhies, Fontenot & Leonard, Lafayette, for plaintiff-relator.
+
+Simon & Trice, Lafayette, for defendant-respondent.
+
+HAWTHORNE, Justice.
+
+In the district court the plaintiff Reserve Insurance Company obtained a judgment for $1113.74 against the defendant Wilbur J. Fabre. On appeal the Court of Appeal, First Circuit, annulled and set aside this judgment, sustained a plea of prescription of one year, and dismissed the suit. See La.App., 140 So. 2d 438. On application of plaintiff we granted certiorari.
+
+The factual situation out of which this litigation arose is somewhat complicated, even involving an earlier lawsuit in which the plaintiff insurer was a party. This insurance company issued a collision insurance policy upon an automobile owned by Kenneth C. Cameron, who is not a party to the present suit. On July 15, 1956, the owner of the car, Cameron, loaned it to the defendant Wilbur J. Fabre. In using the car under this loan Fabre became involved in an accident which caused extensive damage to the automobile. Reserve Insurance Company refused to pay Cameron for the loss, and on September 22, 1956, he instituted suit in Lafayette Parish against the insurance company. Reserve Insurance Company, defendant in that suit, filed a third party petition against Fabre, a resident of St. Mary Parish, and caused him to be cited. Fabre excepted to the third party action on the ground that the district court of Lafayette Parish was without jurisdiction over his person. In due course the case was appealed to this court. By decree which became final on April 27, 1959, this court affirmed the judgment of the district court which had sustained the plea to the jurisdiction filed by Fabre,[1] and affirmed the judgment against Reserve Insurance Company; it dismissed plaintiff's claim against Calvert Fire Insurance Company, another defendant in that suit. See Cameron v. Reserve Ins. Co., 237 La. 433,
+111 So. 2d 336
+.
+
+On February 17, 1959, Reserve paid Cameron the amount due by it under this judgment, and, as Cameron's subrogee under the provisions of the policy, it instituted the present suit against Fabre on June 8, 1959, to recover $1113.74.[2]
+
+To recapitulate, the facts show that the damage occurred to the automobile on July 15, 1956, that the amount due under the judgment subsequently rendered against Reserve was paid on February 17, 1959, and that the instant suit was instituted on June 8, 1959. Thus payment was made and   the present suit filed much more than a year after the damage occurred. The present suit, however, was instituted less than a year after the judgment in the previous case became final.
+
+Both the district court and the Court of Appeal considered the instant suit to be one in tort under Article 2315 of the Civil Code, and the Court of Appeal in reversing the district court and sustaining the plea of prescription concluded that the plaintiff here had no legal right in the prior suit to file the third party action upon which it now relies to interrupt prescription, saying that "consequently the filing of the third party action had no legal effect and could not serve to interrupt prescription" of one year. Moreover, plaintiff Reserve itself considered its action one in tort, and contended for the first time in its application for rehearing in the Court of Appeal that its action was contractual in nature, and that the prescription applicable was not the one-year prescription for offenses and quasi-offenses but was the prescription of 10 years for personal actions generally, under Article 3544. In this court both in argument and in brief plaintiff Reserve argues in the alternative that its action in the instant case is one ex contractu.
+
+To determine whether this is a suit in tort or one in contract we must examine the petition of plaintiff.
+
+The petition alleges in Paragraph 9, and this allegation is admitted, "That the said Fabre, on July 15, 1956, borrowed from Cameron the Thunderbird automobile at Morgan City, Louisiana, and drove the same to Grand Isle * * *".
+
+The evidence in the prior suit between Cameron and Reserve was introduced in evidence in this case, and it is clear from this evidence, as well as from the admitted allegation quoted above, that Cameron had loaned Fabre his automobile. Consequently there existed between Cameron and Fabre an agreement of the sort which is designated in our Civil Code as a "loan for use".
+
+Article 2891 of the Civil Code provides:
+
+"There are two kinds of loans:
+
+"The loan of things, which may be used without being destroyed;
+
+"And the loan of things, which are destroyed without [by] being used.
+
+"The first kind is called loan for use or commodatum.
+
+"The second kind is called loan for consumption or mutuum."
+
+Article 2893 defines the loan for use:
+
+"The loan for use is an agreement, by which a person delivers a thing to another, to use it according to its natural destination, or according to the agreement, under the obligation on the part of the borrower, to return it after he shall have done using it."
+
+One of the obligations imposed upon the borrower for use is to keep and preserve the thing lent, as set forth in Article 2898:
+
+"The borrower is bound to keep and preserve, in the best possible order, the thing lent. He can use it only in the manner for which it is fitted by is nature, or which is allowed by the agreement, under the penalty of damages." (Italics ours.)
+
+Fabre, the borrower, therefore, under penalty of damages had to keep and preserve the automobile loaned for use. His negligence in the operation of the thing loaned, alleged in the petition and found by the trial judge to be sustained, constituted a breach of the obligation imposed by law upon the borrower, and consequently this is an action for reparation, which is prescribed in 10 years. Both the district court and the Court of Appeal therefore erred in considering plaintiff's suit one in tort prescribing in one year.
+
+The defendant insists, however, that this case must be considered one in tort because the petition in great detail outlines the negligence of the defendant and because the evidence submitted in support of   the cause of action dealt exclusively with the question of the alleged negligence. It is true that the petition in Paragraph 12 sets out affirmatively the fault of the defendant thus: "That the fault of the said Fabre, among other things, consisted of the following: * * *"; and there follows a detailed pleading of his negligence.
+
+This argument of the defendant overlooks the fact that the concept of fault is not confined to offenses and quasi-offenses under Article 2315. Planiol's discussion of the French Civil Code makes it clear that the concept of fault is not confined to matters delictual in his distinction between contractual and delictual fault:
+
+"An idea which has reigned sovereignly in all the French doctrine for more than fifty years is the distinction between delictual fault and contractual fault * * *. What does one understand from such words? Contractual fault is that which is committed on the occasion of the execution [inexecution] of a contract. It consists in violating a contractual obligation. As to the delictual fault, most authors say that it is `an act productive of obligations which takes place between persons juridically strangers to each other.' Thus an essential difference separates these two kinds of fault: the contractual fault supposes the pre-existence of an obligation which is the inexecution thereof, while delictual fault supposes the absence of the obligation, and its result is the creation of one." Planiol, Traité élémentaire de droit civil, 11th ed. 1939 (La. State Law Institute tr. 1959), Vol. 2, pt. 1, § 873, p. 485.[3]
+
+The French commentator Laurent shows that the concept of fault is peculiarly applicable in the obligation to care for a thing borrowed. He says that because of the high degree of care required of the borrower he is held responsible for a slight or trivial fault. On the other hand, if there is no fault with which to reproach the borrower, he cannot be held responsible for damages to or loss of the thing borrowed. Laurent points out also that if an accident occurs which is ordinarily brought about by fault, the borrower must prove his lack of fault to be relieved of responsibility. 26 Laurent, Droit civil (3e éd. 1878), no 471, p. 477.
+
+Dalloz' discussion of the duty of care of the borrower toward the property and his liability for damage is in terms of fault also. 4 Dalloz, Codes annotés, Nouveau code civil art. 1880, (1905-07), § 1 er (A), p. 678.
+
+Defendant contends also that the plaintiff has treated this as a case in tort and that under the authority of Importsales, Inc., v. Lindeman, 231 La. 663,
+92 So. 2d 574
+, it cannot now argue to the contrary. That case is authority for the proposition that when the relief available under the contract theory is different from the relief available under the tort theory and the petitioner in his prayer prays for the relief available under the tort theory, his case must be considered as governed by the prescription of one year under the rule that "it is the well settled jurisprudence of this state that the character which plaintiff gives his pleading and the form of his action govern the prescription applicable". In the case before us there is no distinction. The remedy available under Article 2898, as under Article 2315, is damages, and that is what plaintiff prayed for here.
+
+The defendant argues also that the prayer for legal interest conclusively characterizes the action as one in tort, but he fails wholly to substantiate this argument. A prayer for legal interest would appear to be equally   as appropriate for damages under Article 2898 as for damages under Article 2315.
+
+The defendant both in the Court of Appeal and in this court relies on his plea of prescription of one year, which we have found not applicable; there is no issue between the parties on the merits of the case.
+
+For the reasons assigned the judgment of the Court of Appeal is annulled and set aside, and the judgment of the district court is reinstated and made the judgment of this court. Defendant-respondent is to pay all costs.
+
+HAMITER, J., concurs in the result.
+
+[1]  This result would not obtain under the new Code of Civil Procedure. See Art. 1034.
+
+[2]  It was stipulated by all parties in the present suit that in the event judgment is rendered in favor of plaintiff, the amount which it may recover is $1113.74 plus 5 per cent per annum interest from June 6, 1960; that "said amount represents the portion of the judgment paid by Reserve Insurance Company in the prior suit, which is attributable to the actual loss * * *".
+
+[3]  Article 2219 of our Civil Code relative to the extinguishment of obligations by the loss of the thing due is a further example of the concept of fault in contractual matters. That article states: "When the certain and determinate substance, which was the object of the obligation, is destroyed, is rendered unsalable, or is lost, so that it is absolutely not known to exist, the obligation is extinguished, if the thing has been destroyed or lost, without the fault of the debtor, or before he was in default." (Italics ours.)

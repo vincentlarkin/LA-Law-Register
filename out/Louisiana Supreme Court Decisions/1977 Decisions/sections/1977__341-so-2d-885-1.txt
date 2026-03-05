@@ -1,0 +1,75 @@
+58373
+State v. Nolan
+https://law.justia.com/cases/louisiana/supreme-court/1977/341-so-2d-885-1.html
+
+58373
+State v. Nolan
+Court: Louisiana Supreme Court
+Release date: 1977-01-24
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/341-so-2d-885-1.html
+
+341 So. 2d 885 (1977)
+
+STATE of Louisiana
+v.
+Edward NOLAN.
+
+No. 58373.
+
+Supreme Court of Louisiana.
+
+January 24, 1977.
+
+*886 Wilson R. Ramshur, Willis & Ramshur, St. Francisville, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Leon A. Picou, Jr., Dist. Atty., Cynthia Picou Branton, Asst. Dist. Atty., for plaintiff-appellee.
+
+DENNIS, Justice.
+
+Defendant, an inmate of Louisiana State Penitentiary, was indicted by the West Feliciana Parish Grand Jury for the second degree murder of a fellow prisoner. La. R.S. 14:30.1. Twelve jurors unanimously found defendant guilty of manslaughter and the court sentenced him to serve five years at hard labor consecutive to any previous sentence. On appeal, defendant urges nine assignments of error, one of which requires reversal of his conviction and sentence.
+
+Following an extensive voir dire examination of a prospective juror, Mrs. Cornelius Doherty, defense counsel challenged her for cause. Upon the court's refusal to excuse the juror for cause, defense counsel challenged her peremptorily and exhausted the remainder of his peremptory challenges before the panel was completed. See, La.C. Cr.P. art. 800. We find that the court erred in failing to sustain the challenge for cause.
+
+The prospective juror, a woman of sixth grade education, vacillated in her responses and indicated an inability to understand the questions asked by the attorneys and the judge. On the presumption of innocence and defendant's right not to testify in his own behalf, the following exchanges took place between the juror, counsel, and the court:
+
+Additionally, because the killing occurred in the penitentiary and it was anticipated that the prime defense witnesses would be inmates, Mrs. Doherty was questioned about the relative weight she would attach to a police officer's testimony vis-a-vis inmate testimony:
+
+During the course of the voir dire examination, the trial judge repeatedly remarked upon the venirewoman's apparent incomprehension of the questions, but nevertheless concluded that she was merely "confused" and did not "[present] any prejudice one way or the other." Consequently, he refused to excuse her for cause.
+
+Article 797 of the Louisiana Code of Criminal Procedure provides that a juror may be excused for cause on either of the following pertinent grounds:
+
+Under the jurisprudence, a juror who is incapable of recognizing the defendant's presumption of innocence or who will unquestioningly credit the testimony of law enforcement officers over that of defense witnesses is not competent to serve. State v. Thompson,
+331 So. 2d 848
+(La.1976); State v. Johnson,
+324 So. 2d 349
+(La.1976), and State v. Jones,
+282 So. 2d 422
+(La.1973).
+
+Portions of Mrs. Doherty's testimony reveal a predisposition in favor of the State and police witnesses and against the defendant and inmate witnesses, upon whose testimony the defense depended. Admittedly, there were contrary indications on her part, but these do not dispel our doubts concerning her partiality. We find this case distinguishable from those in which a juror has voiced an opinion seemingly prejudicial to the defense but subsequently, upon further inquiry or instruction by the court, has demonstrated the willingness and ability to decide the case impartially, according to the law and evidence; under those circumstances, a challenge for cause is properly refused. See, State v. Governor,
+331 So. 2d 443
+(La.1976) and State v. Johnson, supra. In the instant case, however, the juror's retractions, occasionally following considerable coaching by the court and district attorney, were unreliable because she did not appear to be steadfast in any of her opinions. For instance, she variously stated that she did not believe that defendant would be prosecuted if he were not guilty; that the Grand Jury indictment was not conclusive evidence of guilt; that the district attorney's office would not proceed to trial unless defendant were guilty; that the district attorney's prosecution of defendant would be indicative of guilt "if he [were] found guilty;" and that she would require the State to prove defendant's guilt beyond a reasonable doubt.
+
+If Mrs. Doherty's wavering responses do not conclusively establish that she was biased against defendant, they do show that her ability to grasp the questions propounded was limited, a fact which the trial judge himself observed. If she could not comprehend these simple and direct inquiries, she could not be expected to accept the court's instructions and apply them to the facts of the case, which raised issues of self-defense and provocation. The State conceded in oral argument that comprehension of the court's instructions on the law would probably have been difficult for this juror. We agree and find that this factor alone was sufficient to disqualify her from serving on the petit jury. A juror who lacks the capacity to understand the law cannot accept the law as given to him by the court. La.C. Cr.P. art. 797(4). Cf. State v. Raymond, 258 La. 1,
+245 So. 2d 335
+(1971) and State v.   Washington, 256 La. 233,
+236 So. 2d 23
+(1970); State v. Rountree, 32 La.Ann. 1144 (1880). The trial court abused its discretion in failing to excuse this juror for cause.
+
+One other assignment of error warrants comment. Defense counsel complains that he was improperly prevented from cross-examining Lt. Richard Rodriguez, a prison guard, for possible bias.
+
+The killing occurred after defendant was released from his cell on a request to go the hospital. Defense counsel attempted to prove that just prior to the incident the victim, Ferrygood, had intimidated defendant by throwing makeshift bombs into his cell, and that defendant had stabbed Ferrygood either in self-defense or in heat of blood. However, Rodriguez cast doubt upon these defenses by testifying that he noticed no animosity between the two men until defendant's cell door was opened and he attacked Ferrygood.
+
+Defense counsel contends that because the tension between the two men was readily apparent before defendant was released, Rodriguez was remiss in his duty by permitting their confrontation. The threat of civil liability, counsel maintains, provided Rodriguez with a motive for falsifying his testimony; but the trial court prevented defense counsel from questioning Rodriguez as to the possibility of a civil suit being lodged against him.
+
+La.R.S. 15:492 provides:
+
+Counsel's proposed inquiry was intended to show that Rodriguez' testimony was biased or that he had an interest in his asserted version of the facts, and under this provision the trial court should have allowed cross-examination on the subject of his potential civil liability.
+
+The remaining assignments of error are without merit.
+
+Accordingly, defendant's conviction and sentence are reversed, and the case is remanded to the district court for a new trial.
+
+SANDERS, C.J., concurs in the decree only.

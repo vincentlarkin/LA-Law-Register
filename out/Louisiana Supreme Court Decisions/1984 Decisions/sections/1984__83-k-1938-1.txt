@@ -1,0 +1,107 @@
+83-K-1938
+State v. Camp
+https://law.justia.com/cases/louisiana/supreme-court/1984/83-k-1938-1.html
+
+83-K-1938
+State v. Camp
+Court: Louisiana Supreme Court
+Release date: 1984-02-27
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1984/83-k-1938-1.html
+
+446 So. 2d 1207 (1984)
+
+STATE of Louisiana
+v.
+Nolan CAMP, Jr.
+
+No. 83-K-1938.
+
+Supreme Court of Louisiana.
+
+February 27, 1984.
+
+Clyde Merritt, Dwight Doskey, New Orleans, for applicant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., William Campbell, Mary Charlott McMullan, Beryl M. McSmith, Asst. Dist. Attys., for respondent.
+
+LEMMON, Justice.
+
+We granted defendant's application for certiorari to review his complaint that the evidence was insufficient to support his conviction of receiving stolen things in violation   of La.R.S. 14.69.[1] 440 So. 2d 753. The evidence outlined in the opinion of the court of appeal (which we assume, when considering a defendant's application for certiorari in a criminal case, represents the evidence most favorable to the prosecution) did not appear to support the jury's verdict.[2] Upon review of the record, we conclude that a "rational trier of fact could [not] have found proof of guilt beyond a reasonable doubt". Jackson v. Virginia,
+443 U.S. 307
+, 324, 99 S. Ct. 2781, 2792, 61 L. Ed. 2d 560 (1979). The due process guarantee of the Fourteenth Amendment of United States Constitution therefore requires that the conviction be reversed.
+
+An unidentified person stole a green refrigerator and other items from an unoccupied apartment at 8615 Green Street between late July, 1980, when a tenant vacated the premises, and August 5, 1980, when a real estate agent visited the premises with a prospective tenant and discovered the burglary. The agent told a friend in the neighborhood of the missing items. At some unspecified time thereafter, the neighbor informed the police that he had seen a refrigerator fitting the description of the stolen property when he looked through the window of an apartment in an adjacent building at 8611 Green Street. He further stated that the apartment was shared by defendant and a woman.
+
+On October 14, 1980, police executed a search warrant at the apartment at 8611 Green Street and recovered the refrigerator. However, defendant was not present when the search warrant was executed, and he was not residing there when police sought to arrest him later on an arrest warrant charging him with receiving a stolen refrigerator.[3]
+
+La. Const. Art. V, §§ 5 and 10 (1974) limit the jurisdiction of the Supreme Court of Louisiana and of the courts of appeal in criminal cases to questions of law. Whether the evidence is sufficient to support a conviction is a question of law, although the determination of this question necessarily involves a review of the record evidence. The standard for performing this review, mandated in Jackson v. Virginia, above, is that the reviewing court must determine that the record evidence, viewed in the light most favorable to the prosecution, is sufficient to convince a rational juror that the defendant is guilty beyond a reasonable doubt of the crime of which he has been convicted.
+
+The due process clause of the Fourteenth Amendment protects a defendant in a criminal case against conviction except upon proof beyond a reasonable doubt of every element of the crime with which he is charged. In re Winship,
+397 U.S. 358
+, 90 S. Ct. 1068, 25 L. Ed. 2d 368 (1970). The Jackson decision imposed the "rational juror" standard for reviewing the jury's determination that the evidence constituted proof beyond a reasonable doubt.[4]
+
+*1209 The standard for appellate review mandated by the United States Supreme Court also applies in cases which involve circumstantial evidence. The United States Supreme Court has rejected a contention that the trial judge is constitutionally required to instruct the jury that circumstantial evidence must exclude every reasonable hypothesis other than that of guilt. Holland v. United States,
+348 U.S. 121
+, 75 S. Ct. 127, 99 L. Ed. 150 (1954); see also Jackson v. Virginia, above, footnote 9. The Court stated that "the better rule is that where the jury is properly instructed on the standards for reasonable doubt, such an additional instruction on circumstantial evidence is confusing and incorrect". 348 U.S.  at 139, 75 S. Ct.  at 137.
+
+La.R.S. 15:438 provides the following rule for circumstantial evidence in Louisiana:
+
+Therefore, when the defendant requests an instruction in a Louisiana case involving circumstantial evidence, the trial judge is statutorily required to instruct the jury in accordance with Section 438. However, the standard of appellate review of a conviction is the same in all cases, whether or not circumstantial evidence is involved: The evidence, viewed in the light most favorable to the prosecution, must be sufficient for a rational juror to conclude beyond a reasonable doubt that defendant is guilty of the crime. Nevertheless, the rule stated in Section 438 is useful in determining the existence of a reasonable doubt, because when the overall evidence, direct and circumstantial, does not exclude a reasonable hypothesis of innocence, there exists a reasonable doubt as to guilt.[5]
+
+The state's evidence in this case established only that defendant and the stolen refrigerator were both located at 8611 Green Street at about the same time between August 5 and October 14, 1980. Although the neighbor testified that defendant lived there at some time during the pertinent months in 1980, the witness did not know whether others also lived there. Neither did he know when or under what circumstances defendant had vacated the apartment, nor did he know who owned the building. The officers who executed the search warrant were not sure whether the electricity was turned on at the time or whether defendant (or anyone else) was occupying the apartment when they seized the stolen refrigerator.
+
+The evidence did not establish the circumstances surrounding the arrival of the refrigerator at the apartment.[6] Moreover, the circumstances surrounding the presence of the refrigerator in the apartment indicated that there was no effort to conceal its presence.[7]
+
+*1210 When the record in this case is considered under the appropriate standard of review, there is not sufficient evidence from which a rational jury could have concluded that defendant was guilty of "procuring, receiving, or concealing" the stolen refrigerator or even that he had guilty knowledge that the refrigerator located in his apartment was stolen.[8] See State v. Morris,
+414 So. 2d 320
+(La.1982); State v. Ennis,
+414 So. 2d 661
+(La.1982).
+
+Accordingly, the conviction is reversed, and defendant is ordered discharged.[9]
+
+DIXON, C.J., concurs.
+
+CALOGERO, J., concurs.
+
+[1]  At the time of the 1980 offense, the statute provided in pertinent part:
+
+"Receiving stolen things is the intentional procuring, receiving, or concealing of anything of value which has been the subject of any robbery or theft, under circumstances which indicate that the offender knew or had good reason to believe that the thing was the subject of one of these offenses."
+
+The statute was amended by Act 552 of 1982 to proscribe illegal possession of stolen things.
+
+[2]  The court of appeal by two to one vote affirmed the conviction. 436 So. 2d 723.
+
+[3]  Over six months after the refrigerator was recovered, defendant was arrested on the outstanding arrest warrant, after he had been detained for an unrelated traffic offense. The state endeavored to develop a theory that defendant fled the apartment to avoid apprehension on the charge of receiving the stolen refrigerator, but offered no evidence in support of this theory. Nothing in the record indicated when defendant was last seen at the residence. Thus, there was no evidence to support an inference that defendant left because he was trying to escape prosecution.
+
+[4]  In Jackson, the Court upheld the conviction because "a rational trier of fact could reasonably have found that the petitioner committed murder in the first degree under Virginia law". 443 U.S.  at 326, 99 S. Ct.  at 2793.
+
+[5]  An appellate court reviewing the sufficiency of evidence must resolve any conflict in the direct evidence by viewing that evidence in the light most favorable to the prosecution. When the direct evidence is thus viewed, the facts established by the direct evidence and inferred from the circumstantial evidence must be sufficient for a rational juror to conclude beyond a reasonable doubt that defendant was guilty of every essential element of the crime. As stated by this court in State v. Chism,
+436 So. 2d 464
+, 470 (La.1983), Section 438 "may not establish a stricter standard of review than the more general reasonable juror's reasonable doubt formula, [but] it emphasizes the need for careful observation of the usual standard, and provides a helpful methodology for its implementation in cases which hinge on the evaluation of circumstantial evidence".
+
+[6]  The statute under which defendant was charged and convicted required the state to prove that defendant was guilty of "procuring, receiving or concealing, and not merely of possessing", the stolen refrigerator. See State v. Walker,
+350 So. 2d 176
+(La.1977). See also footnote 1.
+
+[7]  Essentially, we agree with the view stated in the dissenting opinion of the intermediate court:
+
+"In this case the State only proved the defendant's apartment was next door to the burglarized residence and the stolen refrigerator was in his apartment. There is no evidence to show how the refrigerator got into defendant's possession. The State failed to show that the defendant knew or even had reason to know of the theft.
+
+"Importantly, there was testimony the defendant was not the sole occupant and did not have exclusive control of the apartment. It is certainly conceivable the other resident brought the refrigerator there. Also, there was a stolen stove which was not found in defendant's apartment.
+
+"The fact that two refrigerators were in the apartment does not create a suspicion of guilt because there was testimony the other one wasn't working. It is certainly possible the defendant (or the other occupant) purchased the stolen refrigerator to replace the broken one. The defendant made no effort to conceal the refrigerator." 436 So. 2d  at 725-726 (Citations omitted.)
+
+[8]  Additionally, there is no evidence in the record from which the jury could have concluded that the refrigerator had a value of $499, as charged in the bill of information. See State v. Peoples,
+383 So. 2d 1006
+(La.1980). No witness testified concerning the value of the refrigerator.
+
+Because we reverse on failure to prove other essential elements of the crime, we need not decide whether, under different circumstances in which all other elements were satisfactorily established, we might hold that there was sufficient evidence from which the jury could reasonably have concluded that the thing had "some value", whereby we could affirm the conviction of the lesser offense of misdemeanor theft. See State v. Byrd,
+385 So. 2d 248
+(La. 1980).
+
+[9]  In cases in which the evidence does not reasonably support the verdict (or a verdict of guilty of a lesser included responsive offense), a judgment of acquittal is required. State v. Shapiro,
+431 So. 2d 372
+(La.1983).

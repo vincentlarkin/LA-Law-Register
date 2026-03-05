@@ -1,0 +1,39 @@
+
+STATE OF LOUISIANA v. RODNEY RICHARDS
+https://law.justia.com/cases/louisiana/supreme-court/1999/99k0067-pc.html
+
+STATE OF LOUISIANA v. RODNEY RICHARDS
+Court: Louisiana Supreme Court
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1999/99k0067-pc.html
+Source PDF: https://cases.justia.com/louisiana/supreme-court/99k0067.pc.pdf?ts=1462357532
+
+Knoll, J., not on panel. See La. S.Ct. Rule IV, Part II, * § 3.
+
+SUPREME COURT OF LOUISIANA
+
+No. 99-K-0067
+
+STATE OF LOUISIANA v.
+
+RODNEY RICHARDS
+
+On Writ of Certiorari to the Fourth Circuit Court of Appeal
+
+PER CURIAM:*
+
+Doyle v. Ohio, 426 U.S. 610, 96 S.Ct. 2240, 45 L.Ed.2d 99 (1976), precludes the state from impeaching a defendant's testimony at trial with evidence that he remained silent immediately after his arrest and after receiving the warnings required by Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 695 (1966). The decision in Doyle rests on the premise that Miranda warnings render the subsequent silence of a defendant "insolubly ambiguous," id., 426 U.S. at 617, 96 S.Ct. at 2244, and thereby make later use of that silence to impeach his or her exculpatory testimony at trial fundamentally unfair. Id., 426 U.S. at 618, 96 S.Ct. at 2245. In this case, the court of appeal acknowledged that "the prosecuting attorney questioned the defendant about his failure to come forward during the time prior to his arrest, when he knew that [the victim] had made a charge against him," and that, unlike Doyle and its progeny, "defendant was not yet in custody when he chose to remain silent." State v. Richards, 96-0331, p.
+
+6 (La. App. 4 Cir. 12/9/98), ____ So.2d ____. The court of th appeal nevertheless concluded that any line drawn between pre-arrest and postarrest silence for Doyle purposes amounted to a "distinction without a difference" because the defendant had been
+
+"aware of the warrant for his arrest" in the four-month period separating commission of the charged offense and his eventual arrest and was therefore also aware that "had he gone to the police, he would have been arrested and Mirandized before relating his version of the incident." Id. In the context of a swearing match between the victim and the defendant, the court of appeal found itself unable to declare the apparent Doyle violation harmless and reversed the defendant's conviction and sentence for first degree robbery in violation of La.R.S. 14:64.1. The court of appeal erred. In the case of prearrest silence, in which "[t]he failure to speak occur[s] before the petitioner [is] taken into custody and given Miranda warnings," and in which "no governmental action induce[s] petitioner to remain silent," "the fundamental unfairness present in Doyle is not present." Jenkins v. Anderson, 447 U.S. 231, 240, 100 S.Ct. 2124, 2130, 65 L.Ed.2d 86 (1980). Neither Doyle specifically, nor the Due Process Clause generally, bars the inquiry. Jenkins, Jenkins expressly cautioned that it did "not force any state court to allow impeachment through the use of prearrest silence." Id., 447 U.S at 240, 100 S.Ct. at 2130. Each jurisdiction therefore remains free to strike its own evidentiary balance and to exclude evidence of a defendant's silence under circumstances in which the federal constitution would not bar it. See, e.g., Silvernail v. State, 777 P.2d 1169, 1174-78 (Alaska App. 1989); State v. Hoggins, 718 So.2d 761, 765-72 (Fla. 1998) (collecting cases); Mallory v. State, 409 S.E.2d 839, 843 (Ga. 1991); see also 1 McCormick on Evidence, § 132, p. 489 (4 ed., John th William Strong ed., 1992). We need not, however, consider here whether and under what circumstances Louisiana law may afford a defendant broader protection than the federal constitution with regard to the evidentiary use of his prearrest silence. Louisiana has long subscribed to the general waiver principle that by taking the stand at trial a defendant exposes himself to cross-examination on any relevant matter as any other witness. La.C.E. art. 611(B), cmt. (e) ("There is no intent to change the rule that a defendant who takes the witness stand in a criminal case is regarded as any other witness and is subject to examination on the whole case as was provided under former R.S. 15:462."); State v. Shelby, 308 So.2d 279, 282-83 (La. 1975); State v. Pellerin, United States, 356 U.S. 148, 154-155, 78 S.Ct. 622, 626, 2 L.Ed.2d 589 (1958)). Louisiana has also followed common law tradition and allowed the substantive use of a defendant's silence as a tacit admission under certain circumstances. State v. McClain, 254 La. 56, 222 So.2d 855, 857 (1969); State v. Carey, 628 So.2d 27, 32 (La. App.
+
+447 U.S. at 239-40, 100 S.Ct. at 2129-30. In addition, Jenkins made clear, without expressly deciding "whether or under what circumstances prearrest silence may be protected by the Fifth Amendment," id., 447 U.S. at 236 n. 2, 100 S.Ct. at 2128, that by taking the stand and exposing himself to cross-examination, "a defendant waives any Fifth Amendment privilege he may have against the use of his prearrest silence for impeachment purposes." Id., 447 U.S. at 235-36, 100 S.Ct. at 2127-28 (discussing Raffel v. United States, 271 U.S. 494, 46 S.Ct. 566,
+
+70 L.Ed. 1054 (1926)). The federal constitution therefore leaves undisturbed the common law tradition which "allowed witnesses to be impeached by their previous failure to state a fact in circumstances in which that fact naturally would have been asserted." Jenkins, 447 U.S. at 239, 100 S.Ct. at 2129 (citing 3A J. Wigmore, Evidence, § 1042, p. 1056) (Chadbourn rev. 1970)).
+
+286 So.2d 639, 642 (La. 1973). In this respect, Louisiana's law adheres to federal law. See United States v. Mitchell, ___ U.S. ____, ____, 119 S.Ct. 1307, 1311-12, 143 L.Ed.2d 424 (1999) ("It is well established that a witness, in a single proceeding, may not testify voluntarily about a subject and then invoke the privilege against self-incrimination when questioned about the details . . . . The privilege is waived for the matters to which the witness testifies, and the scope of the <waiver is determined by the scope of relevant cross-examination.'") (quoting Brown v.
+
+2 Cir. 1993) (on reh'g). At least as a general matter, this nd state has thus recognized that "aside from the privilege against compelled self-incrimination . . . in proper circumstances silence in the face of accusation is a relevant fact not barred from evidence by the Due Process Clause." Baxter v. Palmigiano,
+
+425 U.S. 308, 319, 96 S.Ct. 1551, 1558, 47 L.Ed.2d 810 (1976). As with any other evidentiary question, the trial court retains the discretion to weigh the probative value of the defendant's prearrest silence against its prejudicial impact. La.C.E. art., 403. In this case, however, defense counsel failed to provide any grounds for her objection to the prosecutor's line of cross-examination, and she thereby precluded review of any basis for excluding evidence of the defendant's prearrest silence. State v. Dupar, 353 So.2d 272, 273 (La. 1977) ("An objection stating no basis presents nothing for this court to review."); State v. Burnette, 337 So.2d 1096, 1100 (La. 1976) (same). Accordingly the decision of the Fourth Circuit is reversed and this case is remanded to the court of appeal for consideration of the remaining assignments of error pretermitted on original hearing.

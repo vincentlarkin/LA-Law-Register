@@ -1,0 +1,109 @@
+80-KA-1408
+State v. Dauzat
+https://law.justia.com/cases/louisiana/supreme-court/1980/80-ka-1408-1.html
+
+80-KA-1408
+State v. Dauzat
+Court: Louisiana Supreme Court
+Release date: 1980-12-15
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/80-ka-1408-1.html
+
+392 So. 2d 393 (1980)
+
+STATE of Louisiana
+v.
+Nolan DAUZAT, Jr.
+
+No. 80-KA-1408.
+
+Supreme Court of Louisiana.
+
+December 15, 1980.
+
+Michael J. Johnson, Cottonport, John R. Contois, Marksville, for defendant-appellant.
+
+*394 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Eddie Knoll, Dist. Atty., Cliff E. Laborde, III, Asst. Dist. Atty., for plaintiff-appellee.
+
+DIXON, Chief Justice.
+
+On August 11, 1979 at about 5:00 p. m. Russell Guillot was sitting in his car in the Tunica Tavern parking lot in Marksville, Louisiana. The defendant drove up and parked beside Guillot, pulled out a pistol, waved it at Guillot and then shot in his direction. The bullet lodged in the right front door of the car. Guillot backed the car out of the lot onto the highway and headed west. The defendant followed in his car. Guillot then made a U-turn and headed east toward his father's house. As he passed the defendant's car, the defendant shot again, this time hitting the left front door of the car. The defendant was charged by grand jury indictment with attempted second degree murder. (R.S. 14:30.1 and 14:27). A jury of twelve found him guilty of aggravated battery. (R.S. 14:34). After a hearing on the state's motion to have him sentenced under the habitual offender law (R.S. 15:529.1), the defendant was adjudged a third offender and was sentenced to six years imprisonment at hard labor.
+
+The defendant now appeals his conviction and sentence on the basis of six assignments of error. We reverse because there is no evidence of an essential element of aggravated battery, and discuss only Assignment of Error No. 4.
+
+The defendant contends that the jury erred in returning a verdict of guilty of aggravated battery, as there was no evidence to support such a verdict. He argues that the conviction should be reversed because an essential element of the offense was never proved at trial. The state argues that the verdict should stand because aggravated battery is a legislatively designated responsive verdict to a charge of attempted second degree murder. (C.Cr.P. 814). The state notes that in previous opinions we have refused to examine evidence adduced at trial to determine whether a responsive verdict provided by C.Cr.P. 814 is warranted. It is true that we have, in the past, affirmed convictions of lesser offenses designated as responsive by the legislature where there was evidence to prove the greater offense without reviewing the evidence in the belief that:
+
+See also State v. Qualls,
+353 So. 2d 978
+(La. 1977); State v. West,
+319 So. 2d 901
+(La. 1975); State v. Peterson,
+290 So. 2d 307
+(La. 1974).[1] However, in all these cases defendants were charged with murder and convicted of manslaughter; the essential elements of the lesser offense found by verdict were essential elements of the greater offense and, consequently, the evidence which proved the greater crime did necessarily and automatically prove the lesser.
+
+We have also disapproved a legislatively provided responsive verdict if it offends a constitutional principle. State v. Booker,
+385 So. 2d 1186
+(La.1980); State v. Peterson,   supra, at 310. Our analysis of the elements of the offenses in Peterson constitutes a tacit acknowledgment that:
+
+In Roberts, as here, the defendant was indicted for attempting to murder by shooting with a pistol. He was found guilty of aggravated battery and appealed, arguing that the verdict was not responsive to the charge. The court noted that the elements of the crime of attempted murder were specific intent to kill and an overt act in furtherance of that object. (R.S. 14:27 and 14:30). Battery was defined as "the intentional use of force or violence upon the person of another." (R.S. 14:33); aggravated battery was battery committed with a dangerous weapon. (R.S. 14:34). The court pointed out that if A intentionally shot at B but missed him, he would be amenable to a charge of attempted murder, but not aggravated battery, as he did not apply force or violence to the person of B with a dangerous weapon. Finding it "... plain from the definitions of attempted murder and aggravated battery that the elements of the lesser offense are not necessarily included in the greater offense, ..." (State v. Roberts, supra at 213 La. 563, 35 So.2d 217), the court held that the conviction for aggravated battery was not responsive to the charge of attempted murder, reversed the conviction, and dismissed the proceedings against the defendant. The court explicitly rejected the state's argument that it should be guided by the allegations in the indictment rather than the definitions of the offenses involved in determining whether a greater offense charged contained all the elements of a lesser offense. It said:
+
+In State v. Peterson, supra, we distinguished Roberts and cases following it on the ground that they did not involve responsive verdicts provided by the legislature.[2] However, in the recent case of State v. Booker, supra, we applied the principles enunciated in Roberts to a situation involving a statutorily designated responsive verdict. In Booker, the defendant was charged with attempted first degree murder and convicted of attempted second degree murder. We reversed the conviction, finding that the verdict, though legislatively provided, was not properly responsive to the   charge, as all the elements of the lesser offense were not included in the greater offense. Applying a Peterson-like analysis to the definitions of the two offenses, we determined that an essential element of attempted second degree murderthat the offender be engaged in the perpetration of an enumerated felony when the homicide occurredwas not an essential element of attempted first degree murder. The legislature's failure to remove the crime of attempted second degree murder from the list of responsive verdicts provided by C.Cr.P. 814 to a charge of first degree murder when it amended the definition of second degree murder created a situation in which a jury could acquit a defendant of first degree murder, finding no specific intent to kill, but find him guilty of second degree murder where there was no evidence to prove that he was engaged in the perpetration of one of the felonies enumerated in the definition of that lesser offense. In reversing the conviction, we stated:
+
+On rehearing, we commented:
+
+In Booker we declined to overturn State v. Cooley, supra, and the cases which held that if there is some evidence in the record to support a conviction for a greater offense, the evidence will also support a conviction of the lesser offense which has been made responsive by the legislature. However, we added the proviso "so long as the elements of the lesser offense are included in the greater offense." State v. Booker, supra, at 1190. We must now hold that in some cases evidence offered to support a conviction for a greater offense will not necessarily and automatically support a conviction for a lesser offense which has been made responsive by legislative action. Where the definition of the greater crime does not necessarily include all the elements of the lesser, we will have to determine whether there is any evidence to support the conviction for the lesser offense even though it is a legislatively designated responsive verdict. Where there is a total lack of evidence to prove the presence of an element contained in the lesser crime, but not in the greater, the conviction must be reversed.
+
+This case is one in which an essential element of the lesser crime found is not an essential element of the greater crime charged; consequently, the evidence adduced to support the greater offense does not automatically prove the lesser. An essential element of batterydefined as the intentional use of force or violence upon the person of anotheris physical contact whether injurious or merely offensive.[3]*397 Contact is not an essential element of attempted murder, which is defined as the commission of an act intended to kill or to inflict grave bodily harm. In many situations an act committed with the intent to kill or injure will also involve contact with the person of another, as where A beats B severely with a club. In those cases, the evidence introduced to support the greater offense will also support the lesser. However, where the accused shoots at the intended victim and misses, the elements of attempted murder may be present but not those of battery. That is the case we have before us. The defendant shot his gun in Guillot's direction. The bullets lodged in the door of Guillot's car. Guillot testified at trial that he was not touched by the defendant or by the bullets. Since there is no evidence to establish the presence of the essential element of the crime of battery contact with the person of anotherthe verdict of guilty of aggravated battery must be reversed.
+
+Having determined that the conviction must be reversed, we must now decide whether the defendant must be discharged or whether he may be retried for a lesser offense, such as aggravated assault, in light of the double jeopardy clause of the Fifth Amendment. In a recent case the United States Supreme Court dealt at length with the double jeopardy issue. Burks v. United States,
+437 U.S. 1
+, 98 S. Ct. 2141, 57 L. Ed. 2d 1 (1978). Noting that its own holdings on the subject could hardly be characterized as models of consistency and clarity, the court attributed much of the conceptual confusion it found in the area to the failure to distinguish reversals based on evidentiary insufficiency from reversals based on trial error. Overruling several previous decisions, the court held that the double jeopardy clause precludes a second trial where a conviction is reversed by an appellate court solely because the evidence introduced at trial is insufficient to sustain the verdict, but does not preclude retrying a defendant when a conviction is set aside because of an error in the trial proceedings. The rationale for this distinction is that:
+
+In the case at bar, we reversed the conviction because there was no evidence of an essential element of the crime found by the jury. However, the faulty verdict was largely the product of a trial error in that the judge read the jury the responsive verdicts listed in C.Cr.P. 814 without instructing them that aggravated battery would not be an appropriate responsive verdict where there was no evidence to support that charge. The judge's action is understandable when considered in the light of some of our previous decisions on responsive verdicts. Nevertheless, C.Cr.P. 803 states, in pertinent part:
+
+*398 Had the judge told the jury the essential elements of the crime of battery, the jury might not have rendered that verdict. Unfortunately, the verdict of guilty of aggravated assault, which would have been appropriate in this case, was not designated a responsive verdict to the crime of attempted second degree murder by the legislature.
+
+Because trial error led to the defendant's conviction for a crime not supported by the evidence, we believe that retrial for a lesser offense is not barred by the double jeopardy clause. Accordingly, we reverse the conviction and remand for proceedings consistent with this opinion.
+
+MARCUS, J., dissents and assigns reasons.
+
+DENNIS, J., concurs and will assign additional reasons.
+
+WATSON, J., dissents for reasons assigned by MARCUS, J.
+
+MARCUS, Justice (dissenting).
+
+I would not reverse the conviction and sentence for aggravated battery because it is designated by La.Code Crim.P. art. 814 as a responsive verdict to the charged crime of attempted second degree murder. Accordingly, I respectfully dissent.
+
+DENNIS, Justice, assigning additional concurring reasons.
+
+I join in the majority opinion but feel that a word of caution should be added. Regardless of whether one focuses on the lack of evidence of an essential element of the lesser offense of which defendant was convicted, or on the failure of the indictment to include due process notice of that lesser charge, it was a violation of due process to convict him of that lesser offense. Although both of these deficiencies are present in this case, it would violate due process equally to convict a defendant of a charge of which he was not given adequate notice and against which he had no chance to defend, even if there was evidence to support the charge. State v. Booker,
+385 So. 2d 1186
+(La.1980); Cole v. Arkansas,
+333 U.S. 196
+, 68 S. Ct. 514, 92 L. Ed. 644 (1948).
+
+[1]  In State v. Peterson, supra, we analyzed the elements of the crimes of murder and manslaughter in order to demonstrate the rational basis for making manslaughter a responsive verdict to a charge of murder. We pointed out that all the elements of the two offenses were identical except for the passion factor. We determined that the presence of passion was not an additional element of the crime of manslaughter but rather a factor which diminished the degree of culpability from that present where homicide is committed without passion. Finding manslaughter to be a legally and constitutionally responsive verdict to a murder charge, we followed State v. Cooley, supra, refused to review the evidence, and concluded:
+
+"... when there is evidence to prove the greater offense, it is the jury's province to determine the existence vel non of lesser culpability and exercise the statutory right to return the manslaughter verdict. ..." State v. Peterson, supra, at 311.
+
+[2]  In State v. Poe, 214 La. 606, 620, 38 So. 2d 359, 363 (1948), the court cited State v. Roberts, supra, and emphasized that "... if any reasonable state of facts can be imagined wherein the greater offense is committed without perpetration of the lesser offense, a verdict for the lesser cannot be responsive." The court held that the judge was correct in refusing to instruct the jury that the verdict of simple assault would be responsive to a charge of attempted simple kidnapping.
+
+In State v. Clayton, 236 La. 1093,
+110 So. 2d 111
+(1959), the court found that a conviction of unauthorized use of a movable (the lesser offense) was not responsive to a charge of issuing worthless checks (the greater offense) because all the essential elements of the lesser offense were not necessarily included in the greater. The court noted that the lesser crime was characterized by a lack of intent to deprive the owner of his property permanently, while the greater crime's gravamen was intent to defraud.
+
+In State v. Stewart,
+292 So. 2d 677
+(La.1974), this court said: "A lesser included offense is one composed of some, but not all, of the elements of the greater crime, and which does not have any element not included in the greater offense. ..." 292 So. 2d  at 679. The court found that possession of a controlled dangerous substance was a lesser offense included in the crime of distribution and a responsive verdict to such a charge.
+
+In State v. McCoy,
+337 So. 2d 192
+(La.1976), the defendant was charged with aggravated crime against nature and convicted of crime against nature. The court stated that all the elements of the lesser offense were included in the greater and therefore the verdict was responsive to the crime charged.
+
+[3]  LaFave and Scott, Criminal Law (1972) at 603-604. Battery may be committed by touching or damaging the clothes of another, but does not yet include touching or damaging the automobile of another. The authors believe that physical contact is the element which distinguishes battery from assault. Assault requires no physical contact and may be committed by attempting battery or by intentionally frightening the victim and causing him to fear imminent bodily harm.
+
+Kadish and Paulsen find that battery includes "the intentional bodily harm of another without justification." Criminal Law and its Processes (3d Ed., 1975) at 269. They note that assault is sometimes defined as an attempted battery, but may also include the intentional creation in another of reasonable fear of receiving a battery.
+
+Possibly the broadest interpretation of battery was given in a famous New York case, People v. Moore, 50 Hun 356, 3 N.Y.S. 159 (Sup.Ct. 1888): the defendant, who never touched the victim, was convicted of the offense for grabbing the lines of a horse-drawn sleigh in which the victim was riding and forcing it to turn around.

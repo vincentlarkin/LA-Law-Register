@@ -1,0 +1,261 @@
+62522
+Olsen v. Shell Oil Co.
+https://law.justia.com/cases/louisiana/supreme-court/1978/365-so-2d-1285-1.html
+
+62522
+Olsen v. Shell Oil Co.
+Court: Louisiana Supreme Court
+Release date: 1978-11-16
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/365-so-2d-1285-1.html
+
+365 So. 2d 1285 (1978)
+
+Mary OLSEN, Plaintiff,
+v.
+SHELL OIL COMPANY, Defendant.
+
+No. 62522.
+
+Supreme Court of Louisiana.
+
+November 16, 1978.
+
+As Corrected on Rehearing Denied January 26, 1979.
+
+*1287 William P. Rutledge, Domengeaux & Wright, Lafayette, for plaintiff.
+
+John O. Charrier, Jr., Jones, Walker, Waechter, Poitevent, Carrere & Denegre, W. K. Christovich, Charles W. Schmidt, III, Christovich & Kearney, Patrick T. Caffery, Caffery, Duhe, Oubre & Gibbens, New Iberia, for defendant.
+
+Douglas A. Molony, Bernard J. Caillouet, Gene S. Palmisano, M. Truman Woodward, Jr., H. H. Hillyer, Jr., Wilson S. Shirley, Jr., James K. Irvin, M. Hampton, Carver, W. Richard House, Jr., Milling, Benson, Woodward, Hillyer & Pierson, New Orleans, amicus curiae for Chevron U. S. A., Inc. and Exxon Corp.
+
+TATE, Justice.
+
+The United States Court of Appeals for the Fifth Circuit certified to us for our opinion certain questions of state law. Olsen v. Shell Oil Co., 561 F.2d 1178 (1977). The certification was in accordance with the procedure authorized by La.R.S. 13:72.1 (1972) and Rule 12, Rules of the Supreme Court of Louisiana (1973).
+
+Certain employees of a drilling contractor ("Movible") were killed or injured, and they or their representatives sue to cover damages thereby sustained. As set forth more fully in Appendix 1 to this opinion:
+
+The injuries and deaths resulted from the explosion of a water heater aboard a fixed drilling platform owned by Shell Oil Company situated in the Gulf of Mexico offshore of Louisiana. Pursuant to a drilling   contract with Shell, Movible had attached (in such a way that burning and cutting of metal would be required to remove it) its modular drilling rig onto the platform, and a modular living unit to house Movible's drilling employees. The explosion of the water heater which caused the injuries (and which was part of the living quarters) resulted from Movible's failure to repair properly or to replace a pressure relief value of the heater after having been warned to do so by a safety engineer.
+
+The issue before us concerns Shell's liability for the injuries and deaths by reason of its ownership of the drilling platform. Louisiana Civil Code Article 2322 (1870).[1] The Fifth Circuit, having determined that federal law requires the plaintiffs to look to Louisiana law for redress,[2] found itself unable to determine whether Shell is liable under Civil Code Article 2322 and Louisiana jurisprudence thereunder.
+
+Accordingly, that court certified five questions to us for our opinion as to state law applicable. Four questions query as to Shell's strict liability as owner of the drilling platform,[3] which are answered below in our discussion of liability and defenses under Civil Code Article 2322. In view of the conclusions we reach below as to Shell's strict liability, the remaining question[4] need not be answered by us.
+
+Article 2322 imposes liability upon the owner of a building to persons injured through its "ruin", whether due to a vice in its original construction or through his neglect to repair it.[5]
+
+The owner's fault is founded upon the breach of his obligation to maintain or   repair his building so as to avoid the creation of undue risk of injury to others. The owner is absolved from its strict liability neither by his ignorance of the condition of the building, nor by circumstances that the defect could not easily be detected. He is absolved from such liability only if the thing owned by him falls, not because of its defect, but rather because of the fault of some third person or of the person injured thereby, or because the fault is caused by an irresistible cause or force not usually foreseeable. Article 3556(14), (15), (usually, an act occasioned exclusively by violence of nature without the interference of or contribution by any human agency).
+
+See: Klein v. Young, 163 La. 59, 111 So. 495 (1927); Thompson v. Commercial National Bank, 156 La. 479, 100 So. 688 (1924); Barnes v. Beirne, 38 La.Ann. 280 (1886); Camp v. Church Wardens, 7 La.Ann. 321 (1852); Crawford v. Wheless, 265 So. 2d 661 (La.App.2d Cir., 1972); Anslem v. Travelers Insurance Company, 192 So. 2d 599 (La. App.3d Cir., 1966); Green v. Southern Furniture Company, 94 So. 2d 508 (La.App.1st Cir., 1957); Comment, 42 Tul.Law Rev. 178 (1967).
+
+Under the terms of Article 2322, several requirements for the imposition of liability under the article must be met: (1) There must be a building; (2) the defendant must be its owner; and (3) there must be a "ruin" caused by a vice in construction or a neglect to repair, which occasions the damage sought to be recovered.
+
+1. Is Shell's Platform a "Building" Within the Meaning of Article 2322?
+
+The word "building" as used in Article 2322 has received no clear jurisprudential definition. This court itself has never spoken directly to the question whether an oil derrick or drilling platform constitutes a building within the meaning of the article.
+
+Nevertheless, some Louisiana jurisprudence indicates that an oil derrick is a building for purposes of imposing liability under the code article. Vinton Petroleum Co. v. L. Seiss Oil Syndicate, 19 La.App. 179, 139 So. 543 (1932). The United States Fifth Circuit Court of Appeals has relied on the Vinton decision, in holding that fixed offshore drilling platforms constitute buildings for such purposes. Mott v. Odeco, 577 F.2d 273 (1978); Moczygemba v. Danos & Curole Marine Contractors, 561 F.2d 1149 (1977); McIlwain v. Placid Oil Company, 472 F.2d 248 (1973) certiorari denied, 412 U.S. 923, 93 S. Ct. 2734, 37 L. Ed. 2d 150 (1973).
+
+Without making specific reference to oil derricks, this court has made several observations as to what constitutes a building under the article. An inherent requirement is that there be a structure of some permanence. Mudd v. Travelers Indemnity Co.,
+309 So. 2d 297
+(La.1975). Also, the permanent structure need not be intended for habitation, for it to be considered a "building." Cothern v. LaRocca, 255 La. 673,
+232 So. 2d 473
+(1970). Additionally, we have held, for instance, that, for purposes of delictual responsibility under Article 2322, the word "building" encompasses a wharf or walkway over water which gave access and was attached to a camphouse. Cristadoro v. Von Behren's Heirs, 119 La. 1025, 44 So. 852 (1907). See also Howe v. City of New Orleans, 12 La.Ann. 481 (1857).
+
+The wording "building" in Article 2322 is translated from the word "batiment" in its corresponding article of the French Civil Code, Article 1386. "Batiment" is defined in Bescherelle's Dictionnaire National (1844) as "a generic term designating all edifices public or private, regardless of the type material composing them, but most particularly those which serve as habitations." (The writer's translation.) Traditionally, French jurisprudence has interpreted the word "batiment" broadly; according to an authoritative French treatise, numerous French authors consider it to include all works of man, synonymous with the word "construction" (including structures both movable and immovable, whether temporary or permanent).[6] The treatise would more narrowly define the word, at least   limiting it to immovables, and the tendency of modern French jurisprudence has been so to interpret the word more narrowly.[7]
+
+Louisiana Civil Code Article 464 (1870) provides that "buildings or other constructions, whether they have their foundations in the soil or not, are immovable by their nature." See also Civil Code Articles 463 and 464, as re-enacted in 1978. In the context of the Louisiana Civil Code, a "building" is a type of permanent construction that would be classified as an immovable.
+
+Without further defining the limits of a "building" within the meaning of Article 2322, it is sufficient for present purposes to hold that a permanent structure, such as the fixed drilling platform owned by Shell and which has a foundation in the soil, is indeed a building for purposes of that article, whether or not intended for habitation.[8] This result is consistent with and analogous with our earlier holdings summarized above.
+
+The defendant further argues that federal law dictates that we hold Shell's drilling platform to be an island, and therefore an extension of the soil, rather than a building.[9] In support of this thesis, the defendant cites Rodrigue v. Aetna Casualty & Surety Co.,
+395 U.S. 352
+, 89 S. Ct. 1835, 23 L. Ed. 2d 360 (1969) and In Re Dearborn Marine Service, Inc., 499 F.2d 263 (5th Cir. 1974).
+
+We find no merit to this argument. The cited decisions concern a choice of law question, federal maritime law versus state law. They do not touch upon nor concern the classification of a drilling platform as land or soil rather than as a building.[10]
+
+As previously noted, the federal courts have reached, correctly, the same conclusion as we do now, i. e., that a drilling platform such as the present is a building within the meaning of Article 2322: See Mott, Moczygemba, and McIlwain, cited above.
+
+2. Is Shell the "Owner", for Purposes of Article 2322 Liability, of the Defective Attachments to Its Drilling Platform?
+
+By contract between Shell and Movible, Movible retained the ownership of its drilling rig and of its living unit attached to Shell's drilling platform. (Movible's modular living unit included the defective water heater as a component part thereof.) Much of the argument of both parties is addressed to this issue of ownership. Unquestionably, as between Shell and Movible, the latter remained the owner of its drilling rig and living unit.
+
+The true issue, however, is whether by reason of this contractual circumstance, Shell is relieved of its obligation as owner of the "building" (i. e., the fixed drilling platform) for its strict liability under Article   2322 for injuries caused by any defect in it or its appurtenances.[11]
+
+Preliminarily, we note that "necessary appurtenances to structures and movables made immovable by attachment, which are defective or have fallen into ruin, also may be included within that term `building' "for purposes of the building-owner's delictual responsibility under Article 2322. Cothern v. LaRocca, 255 La. 673,
+232 So. 2d 473
+, 477 (1970). See also Dunn v. Tedesco, 235 La. 679, 105 So. 2d 264 (1958) (water heater).[12] Thus, the Fifth Circuit has correctly held that the owner of a fixed drilling platform (a "building") is liable for injuries resulting from a defect in an appurtenant drilling rig which (as in the present case) was welded onto the building by a drilling contractor which (as between itself and the platform owner) retained title to this appurtenant attachment. Moczygemba v. Danos and Curole Marine Contractors, 561 F.2d 1149 (CA 5, 1977).
+
+In attacking the conclusion reached in the cited Moczygemba decision, Shell argues that because its drilling contractor (Movible) owned the living unit attached so as to become part of Shell's building (the drilling platform), Shell cannot be held delictually responsible for defects in the living unit, insofar as sought to be based on the strict liability of an owner under Article 2322 for defects in its buildings or appurtenant or component parts thereof.
+
+In our view, this argument overlooks the basis for the delictual obligation of the owner of a building for damages caused by defects in its structure or appurtenances:
+
+"The obligation of every property owner to answer for damages for a failure to keep his property in such condition of repair that it will not be dangerous to other persons is imposed by law, by Articles 670, 2315, 2322 of the Civil Code." Klein v. Young, 163 La. 59, 69, 111 So. 495 (1927). In Klein, this court held that, although the owner of the premises could by contract "allow another person to use the property for any particular purpose" and could thus regulate the rights as between owner and contractual occupant, the owner could not by such contract evade his obligation imposed by law to repair harm to others resulting from defects in his premises.
+
+The decisions previously cited have imposed Article 2322 liability upon the owner of a building for defects in its appurtenant structures without consideration of whether the thing attached to a building has become an immovable by nature or by destination under property law concepts, and without consideration of whether there is unity of ownership of the building and its appurtenance. In the absence of another statute providing otherwise, the strict liability under Article 2322 of the owner of a building for harm caused by defects in its structure or appurtenances imposes a non-delegable duty upon him to keep his building and appurtenances in repair and to be responsible to third persons for harm caused by any defect in the structure or its appurtenances.[13]
+
+*1292 By contractual agreement between himself and the occupant who "owns" the appurtenance incorporated into the structure of the building, the owner of the building may regulate their relative ownership or duties of indemnification to one another resulting from injury to third persons. The owner cannot by such contract, however, limit his law-imposed liability to third persons for injuries arising from premise defects. Klein v. Young, 163 La. 59, 111 So. 495 (1927). For the same reasons, neither can he, by contractual agreement relating to the ownership of appurtenant parts by an occupier, absolve himself from liability to third persons from injuries resulting from premise-defects in any part of his premises, including in occupier-owned appurtenant parts attached to his building so as to become a part of it.
+
+In view of this conclusion, we need not discuss Shell's additional argument that no liability attaches to it because the modular living unit attached to its building (the drilling platform) did not become an immovable by nature under Civil Code Article 467 (1870; as amended in 1912), since it was attached to the building by a person (Movible) other than the owner. Because the appurtenant living unit was part of the building for purposes of Article 2322, cf. also La.C.C. art. 508 (1870), it is immaterial whether it is technically immobilized or not under Article 467 (1972) for purposes of determining rights between Shell and Movible and their respective creditors or purchasers.[14]
+
+3. Did the explosion of the water heater constitute a "ruin" of the building under Article 2322 so to impose liability upon the building's owner for damages occasioned thereby?
+
+Shell argues that the explosion of the water heater, caused by the negligent failure of the occupier Movible to install the correct valve in it, is not a "ruin" of the building which was the result of a "neglect to repair" it or "a vice in its original construction", as required by Article 2322.
+
+We find no merit to this contention, for reasons stated in our previous discussion. There, we noted that Louisiana jurisprudence interpreting Article 2322 has held that the owner of a building has a non-delegable duty to keep his buildings and its appurtenances in repair so as to avoid unreasonable risk of injury to others, and that he is held strictly liable for injuries to others resulting from his failure to perform this duty imposed by law upon him. As likewise noted, the premise owner's liability under Article 2322 extends to damages resulting from defects in appurtenances such as window fans and water heaters. See footnote 12 and surrounding text.
+
+Shell's reliance upon certain language in Davis v. Royal-Globe Insurance Co., 257 La. 523,
+242 So. 2d 839
+(1970) is misplaced. That decision held that the owner-landlord was not liable for the lead poisoning of a tenant's children who had eaten paint flakes which had fallen from the ceiling. The court felt that the intermittent peeling, flaking, and fall of paint particles to the   floor did not constitute a "ruin" for purposes of Article 2322, since that term referred to "the actual fall or collapse of a building or one of its components", 242 So. 2d 841, or a situation "`in which some part of the building collapses, or breaks, or gives way'", 242 So. 2d 842 (i. e., as compared to the intermittent falling of paint flakes from a ceiling).
+
+Whatever the merits of that particular ruling, the decision did not in terms or context intend to modify the jurisprudence previously cited that an owner is liable under Article 2322 for injuries resulting from a defective condition which causes a breaking or explosion of an appurtenant or component part of the building.
+
+An owner may be exculpated from liability under Article 2322 for a premise-defect, if the victim is injured not, by reason of the defect, but instead because of the fault of some third person. See Loescher v. Parr,
+324 So. 2d 441
+, 445 (La.1975), and decisions therein cited.
+
+On this basis, Shell claims exculpation. It argues that the damages were in fact caused by the intervening fault of a third person, its independent contractor Movible, which negligently failed to repair the defective water-heater valve.
+
+We have previously noted that the owner has a non-delegable duty imposed by Articles 670 and 2322 to keep his building in repair and free of defects constituting an unreasonable risk of injuries to others. The owner's agreement with or reliance upon a contractor or tenant to perform this duty imposed by law on him, the owner, does not constitute that contractor or tenant a "third person" for purposes of exculpating the owner from his liability under these code articles. See: Klein v. Young, 163 La. 59, 111 So. 495 (1927); Camp v. Church Wardens, 7 La.Ann. 321 (1852).
+
+The latter decision holds that, insofar as the victim is concerned, the owner is liable because of his obligation imposed by the code articles ("from the policy of the law alone", 7 La.Ann. 325), but the contractor also may be held liable for his independent fault in the construction. Somewhat similarly, the analagous strict liability under Article 670 (1870) of a proprietor not to make any work on his land which causes damage to his neighbor, imposes responsibility for such damages upon both the proprietor and his independent contractor performing the work. Lombard v. Sewerage & Water Board,
+284 So. 2d 905
+(La.1973); D'Albora v. Tulane University, 274 So. 2d 825 (La.App.4th Cir. 1973).
+
+The fault of a "third person" which exonerates a person from his own obligation importing strict liability as imposed by Articles 2317, 2321, and 2322 is that which is the sole cause of the damage, of the nature of an irresistible and unforeseeable occurrence[15]i. e., where the damage resulting has no causal relationship whatsoever to the fault of the owner in failing to keep his building in repair, and where the "third person" is a stranger rather than a person acting with the consent of the owner in the performance of the owner's   non-delegable duty to keep his building in repair.
+
+See: Mazeaud and Mazeaud, Traite Theorique et Pratique de la Responsibilite Civile, Delictuelle et Contractuelle, Sections 1068-70 (pp. 51-53), Sections 1622-85 (pp. 74-80), especially Sections 1622, 1630, 1637, 1644, 1646-48, 1652 (6th ed. 1970).
+
+In view of this conclusion, we find no merit to the defendant's argument that the building-owner might somehow be exculpated from his liability under Article 2322 to keep the building in safe repair, because the damages could be said to result (also) from the negligence of an independent contractor in performing work on a part of the premises within its control.
+
+The argument is based upon expressions in certain decisions by the intermediate courts: Temple v. General Insurance Co., 306 So. 2d 915 (La.App.1st Cir. 1968); Vinton Petroleum Co. v. L. Seiss Oil Syndicate, 19 La.App. 179, 139 So. 543 (1st Cir. 1932). Temple and Henson dealt with the liability of the premise-owner for injuries to a construction employee resulting from the negligence of the independent contractor or his subcontractor employed to perform construction work, while Vinton by way of dicta indicated the owner might not have been liable if the person employed to dismantle a drilling rig (which fell and caused the damage) were an independent contractor instead of an employee of the owner.
+
+As the Fifth Circuit noted, in certifying the present questions to us, the rationale in these decisions is unclear and, if interpreted as Shell desires, is inconsistent with other Louisiana jurisprudence imposing a non-delegable strict liability upon an owner under Article 2322 regardless of whether he retains control of his premises. Olsen, cited above at 561 F.2d 1190-94. To some extent, the uncertainty of rationale results from a failure to note that the strict liability under Article 2322 of the owner of a building for damages resulting from his non-delegable duty to keep it in repair, is based upon a totally distinct theory of liability than is that under Article 2320 of a master for the negligent torts of his servants.[16]
+
+In Camp v. Church Wardens, 7 La.Ann. 321, 325 (1852), this court early recognized this distinction, in rejecting contentions similar to those now advanced by the defendant: "That these provisions [the provisions of Article 2302 (1825), the verbatim predecessor of Article 2322 (1870)] are entirely independent of the general rules concerning the responsibilities of masters and employers, and not in any manner connected with their relations, is shown conclusively by their place in the code. These articles are in the same chapter, and follow immediately that which provides for the latter, which is numbered 2299 [(1825), the verbatim predecessor of article 2320 (1870)]. They are evidently founded in an enlightened view of public necessity. They protect the neighbor; the passenger in the street; and it would be singular, indeed, if the men at work at the building were excluded from their just and salutary operation."
+
+In the context of our civil code, a building may be an immovable separate and distinct from the land upon which it is situated, when it is owned separately from the ownership of the land. Article 464 (1870); see 1978 re-enactment of Article 464   expressly so providing, and its Official Revision Comment (b) citing jurisprudence interpreting to this effect the former version of the article. See also Yiannopoulos, Civil Law of Property, Section 46 (Louisiana Civil Law Treatise, Volume 2; 1966).
+
+We are cited to no persuasive authority or functional reason by which the owner of a building would be exculpated from his liability under Article 2322 for premise-defects in his building, simply because the soil upon which it is situated is owned by another.
+
+Conclusion
+
+Accordingly, we answer the certified questions (see footnotes 3 and 4) as follows:
+
+Pursuant to Rule 12, Section 8, Supreme Court of Louisiana (1973), the judgment rendered by this court upon the questions certified shall be sent by the clerk of this court under its seal to the United States Court of Appeals for the Fifth Circuit and to the parties.
+
+CERTIFIED QUESTIONS ANSWERED.
+
+DIXON, J., concurs with reasons.
+
+SANDERS, C. J., dissents and assigns written reasons.
+
+MARCUS, J., dissents and assigns reasons.
+
+SUMMERS, J., dissents.
+
+As set forth in the opinion of the Fifth Circuit, the full facts are, 561 F.2d 1178, at 1180-81:
+
+DIXON, Justice (concurring).
+
+I respectfully concur in the conclusion reached by Justice Tate, but would narrow one issue somewhat.
+
+Ownership of the living unit attached to Shell's drilling platform is not the essential inquiry. We need only determine whether an owner of a building may allow another to make an attachment to the structure (from which attachment the owner intends profit to himself) and escape responsibility for the damage when the building is ruined by a malfunction in the attachment.
+
+The public policy of this State, as embodied in C.C. 670, 2315 and 2322 requires the owner to answer in damages if he maintains his property in such a manner as to cause harm to others. Klein v. Young, 163 La. 59, 111 So. 495 (1927); Camp v. Church Wardens of the Church of St. Louis, 7 La. Ann. 321 (1852). Moreover, the owner cannot evade this responsibility through contractual arrangements, except with respect to the actual parties to the agreement. Klein v. Young, supra. (Although R.S. 9:3221 allows a deviation from this principle for leased premises, no lease is involved here).
+
+The advantage to Shell from the attachment of the rig and living quarters is evident: unused drilling platforms return no profit. The responsibility for damage occasioned by the platform and its attachment is the converse of the advantages which accrue to Shell from owning the structure. See Starck, The Foundation of Delictual Liability in Contemporary French Law, 48 Tul.L.Rev., 1043, 1055 (1974); Prosser, Law of Torts, § 69 (4th ed. 1971).
+
+SANDERS, Chief Justice (dissenting).
+
+I dissent for the reasons assigned by Mr. Justice Marcus.
+
+MARCUS, Justice (dissenting).
+
+While I agree with the majority opinion that Shell's platform is a "building" within the meaning of La.Civil Code art. 2322, I am unable to agree with the other conclusions reached by the majority.
+
+A threshold requirement for the imposition of strict liability under article 2322 is that the building be owned by the party against whom liability is claimed. Our law recognizes that buildings or other constructions are separate immovables when they belong to a person other than the owner of the ground. La.Civil Code art. 464. Everything incorporated into a building or other construction becomes immovable without regard to ownership. See La.Civil Code art. 465, Comment (c).[1] There is, however, a   distinction between the classification of a building or other construction as an immovable and the determination of the ownership of that building or other construction. Ownership is the right by which a thing belongs to someone in particular, to the exclusion of all others. La.Civil Code art. 488. La.Civil Code art. 504 provides, as a general rule, "[a]ll that which becomes united to or incorporated with the property, belongs to the owner of such property, according to the rules hereafter established." The presumption of ownership contained in article 504 may, however, be rebutted by proof that a construction is owned separately from the soil or that any part of the building is owned separately from the rest of the building. See La.Civil Code art. 506. Such proof is undisputed in this case that Movible owned the living quarters module separately from Shell's ownership of the platform. Hence, pursuant to article 2322, Movible, as owner of the living quarters module, had the obligation to maintain or repair its building so as to avoid creation of risk of injury to others resulting from neglect to repair or vice in original construction. See Loescher v. Parr,
+324 So. 2d 441
+(La.1975). By imposing this obligation on Shell, who had no ownership interest in the living quarters module, the effect of the majority opinion is to extend the strict liability concept of article 2322 to non-owners as well as owners of buildings in contravention of the intent and express language of article 2322.
+
+Moreover, even assuming for the sake of argument the majority's erroneous characterization of Shell as the owner of the living quarters module, I would still be unable to agree with the majority's designation of the explosion of the water heater as a "ruin" of the building within the contemplation of article 2322. In Davis v. RoyalGlobe Insurance Cos., 257 La. 523,
+242 So. 2d 839
+(1970), this court defined the meaning of the word "ruin" as used in article 2322:
+
+It is thus apparent that the explosion of a water heater is simply not a "ruin" of the living quarters module due to "neglect to repair" or "a vice in its original construction" under article 2322 and this court's jurisprudence interpreting this article.
+
+In sum, it is my opinion that Shell was neither the owner of the living quarters module nor was the explosion of the water heater a "ruin" within the meaning of article 2322. Accordingly, article 2322 has no application in the determination of Shell's liability, if any, under the facts presented.[2] I, therefore, respectfully dissent.
+
+PER CURIAM.
+
+We delete from our original opinion the phrase "by a drilling contractor which (as between itself and the platform owner) retained title to this appurtenant attachment".   365 So. 2d 1291. This was unnecessary to our opinion, and the Fifth Circuit in Moczygemba did not consider the issue of ownership. Although that decision's published opinion does not so reflect, the defendant has called to our attention a pretrial order in the unpublished district court opinion which indicates that the quoted statement in our original opinion is incorrect.
+
+With this correction, the defendant's application for rehearing is denied.
+
+APPLICATION FOR REHEARING DENIED.
+
+SUMMERS, C. J., and MARCUS, J., would grant.
+
+BLANCHE, J., not participating.
+
+[1]  La.C.C. art. 2322 provides: "The owner of a building is answerable for the damage occasioned by its ruin, when this is caused by neglect to repair it, or when it is the result of a vice in its original construction."
+
+[2]  The Outer Continental Shelf Lands Act, 43 U.S.C. § 1331 et seq. (1953) makes Louisiana law applicable to fixed offshore platforms. Rodrigue v. Aetna Cas. & Sur. Co.,
+395 U.S. 352
+, 89 S. Ct. 1835, 23 L. Ed. 2d 360 (1969).
+
+[3]  These four questions are:
+
+(1) Whether the owner of an offshore drilling platform can be held strictly liable pursuant to Article 2322 of the Louisiana Civil Code absent the existence of intrinsically dangerous work and absent the exercise of control of the premiseswhen employees of an independent contractor hired by the owner are injured while on the platform by the explosion of a hot water heater located in the living module which caused part of the platform to fall or collapse, and when the employees are on the platform for the purpose of conducting drilling operations and not for the purpose of repairing or constructing the platform or any appurtenances or attachments thereto.
+
+(3) Whether injuries sustained by an employee of an independent contractor are the result of "ruin" of the building within the meaning of Article 2322 of the Louisiana Civil Code, when the fall or collapse of the building is caused by the explosion of a hot water heater attached to the living module of the platform.
+
+(4) Whether a modular and movable drilling rig which is attached to an offshore drilling platform in such a manner that cutting and burning would be required to remove it, and which is not owned by the owner of the platform to which it is attached, constitutes an "immovable by attachment" within the meaning of Cothern v. La Rocca, 255 La. 673,
+232 So. 2d 473
+, 477 (1970), and as applied to Article 2322 of the Louisiana Civil Code.
+
+(5) Whether an owner of an offshore drilling platform can be held strictly liable pursuant to Article 2322 of the Louisiana Civil Code for injury sustained upon the platform, even though ownership of the underlying soil is not vested in the owner of the platform.
+
+[4]  The remaining question certified to us is:
+
+(2) Assuming that an owner cannot be held strictly liable to employees of an independent contractor without the existence of an intrinsically dangerous activity, whether drilling for oil on an offshore drilling platform constitutes "intrinsically dangerous work" within the meaning of Vinton Petroleum Co. v. L. Seiss Oil Syndicate, Inc., 19 La.App. 179, 139 So. 543 (1st Cir. 1932), and as applied to Article 2322 of the Louisiana Civil Code.
+
+[5]  See also Civil Code Article 670: "Every one is bound to keep his buildings in repair, so that neither their fall, nor that of any part of the materials composing them, may injure the neighbors or passengers [passers-by], under the penalty of all losses and damages, which may result from the neglect of the owner in that respect."
+
+[6]  2 Mazeaud & Mazeaud, Traite Theorique et Practique de la Responsabilite Civile, Vol. 2, Section 1039, pp. 26-29 (6th ed. 1970).
+
+[7]  For a general discussion of the meaning of the word, see Mazeaud, id.; Comment, Article 2322 and the Liability of the Owner of an Immovable, 42 Tul.L.Rev. 178, especially 182-84 (1968).
+
+[8]  It should be pointed out that, even if we were to hold that the platform is not a "building" within the meaning of Article 2322, it would not necessarily follow that the defendant is free from liability. While Article 2322 provides a special rule of strict liability for buildings, Article 2317 provides the general rule of strict liability for "things." See, Loescher v. Parr,
+324 So. 2d 441
+(La. 1975).
+
+[9]  According to this characterization, Shell would be the owner of the "land" or "soil" upon which Movible affixed a building. It could not therefore, it is argued, be subject to the liability of the owner of a building.
+
+[10]  The question addressed in the cited cases was whether fixed drilling platforms located beyond the three mile limit should be characterized as vessels, in which case the law applicable to actions for death on the rig would be the Death on the High Seas Act, 46 U.S.C. § 761 et seq. (1920), or instead as artificial islands, in which case the Outer Continental Shelf Lands Act, 43 U.S.C. § 1331 et seq. (1953), would provide the applicable law. In Rodrigue, the United States Supreme Court interpreted the Outer Continental Shelf Lands Act to mean that these structures were to be treated as though they were federal enclaves in an upland state so that federal law, supplemented by the state law of the adjacent state controlled in death actions. The language of the decision clearly indicate that the court did not contemplate characterizing the rigs (fixed structures in the nature of artificial islands) as "land" as opposed to "buildings" for purposes of either federal or state law.
+
+[11]  By the questions presented, we are not required to address the issue of any concurrent liability under Articles 2315-17 or 2322 of Movible for the defective part of Shell's "building" under its control (and owned by Movible, per contractual agreement between Shell and Movible).
+
+[12]  Other Louisiana cases which have held the owner of a building liable under this "appurtenance doctrine" include, for instance, Adamson v. Westinghouse Electric Corp., 236 So. 2d 556 (La.App. 1970) (elevator), Fontenot v. Sarver, 183 So. 2d 75 (La.App. 1966) (window fan), and Murphy v. Fidelity and Casualty Co., 165 So. 2d 497 (La.App.2d Cir. 1964) (electrical wiring).
+
+[13]  There are two competing notions of the theoretical basis of the strict liability of the owner for the harm caused by his building, the "fault" theory and the "risk" theory. For a general discussion of these competing theories, see Starck, The Foundation of Delictual Liability in Contemporary French Law, 48 Tul.L.Rev. 1043 (1974); Comment, Article 2322 and the Liability of the Owner of an Immovable, 42 Tul.L.Rev. 178, especially footnotes 3, 22, and 53.
+
+Basically, the "fault" theory is that even though we hold the owner of the building strictly liable, this liability is based on his "fault" in failing to attend to his building. For a thorough discussion of this theory, see Mazeaud and Mazeaud, Traite Theorique et Pratique de la Responsibilite Civile, § 1063-1070, pp. 48-53 (6th ed. 1970).
+
+The "risk" theory is based on the notion that, even though the owner may have a right of indemnification against some third person, he must bear the primary responsibility for damage caused by the building as the quid pro quo for the advantages and powers of ownership of the building. This theory of liability is quite similar to the notion of "enterprise liability", which reflects a policy determination that the person or entity that causes risk to the public through some enterprise should be responsible for the damage caused by the enterprise so that the cost of the damage will be allocated as an expense of the enterprise. See, Prosser, Law of Torts, Section 69 (4th ed. 1971).
+
+[14]  The revision of Article 467 in 1912, upon which Shell relies, had as a primary purpose to protect, against the landlord's creditors and purchasers, the interest of tenants in incidental attachments to a building made for their own convenience. Yiannopoulos, Civil Law of Property, Section 47 (Louisiana Civil Law Treatise, Volume 2; 1966); Comment, 20 La.L.Rev. 410, 413 (1960). The immobilization issue raised by Shell would, if applicable, include a consideration of whether the attachment of the living unit and drilling rig to the platform was of so substantial a nature as instead to be the incorporation of them into the building as an integral and component part of it, Civil Code Article 464 (1870); cf. Article 465 (1978), and of whether the substantial attachments in question were within the terms and intent of Article 467 (1912) or met certain technical requirements of that code article, insofar as it inhibits the immobilization which would normally flow from attachment to the building. See Yiannopoulas, cited above, id.
+
+See also La.Civ.Code Article 466 (1978).
+
+[15]  See especially Section 1652 of the Mazeaud treatise, cited at the conclusion of the paragraph in the text as authority for its statements.
+
+Thus, the owner or custodian of a defective building, thing, or animal is not relieved of his responsibility and strict liability to a victim injured thereby by the circumstance that the fault or negligence of a third person contributed to the injury, unless the intervening third person's act or fault is in the nature of a superseding cause in Anglo-American tort law. See Restatement of Torts, 2d, Sections 440-453 (1965). The considerations for determining that an intervening act or force is a superseding cause of the harm, as to which the actor's antecedent fault was a substantial causal factor, include, for instance, that the harm is different in kind than that would have otherwise resulted, that it is of an extraordinary nature or operates independently of any situation created by the actor's fault, Section 442; but the intervening act or force is a concurrent rather than superseding cause when the fault of the actor created or increased the foreseeable risk of harm through such an intervening act, or when such intervening act is a normal and non-extraordinary consequence of the situation created by the actor's fault, Sections 442A, 443, 447.
+
+[16]  The usual rule is that the vicarious tort liability of an employer-master for the torts of his employee-servant does not extend to liability for the torts of an independent contractor hired by the master. Prosser on Torts, Section 71 (4th ed. 1971). Nevertheless, even here tort doctrine recognizes that the master-employer may be liable for damage caused by his independent contractor in performing inherently dangerous duties, Id., pp. 472-74, or a non-delegable duty owed by the master-employer to the plaintiff, Id., pp. 470-72.
+
+As the text of our opinion indicates, whatever the validity of these distinctions in determining tort liability under master-servant and independent contractor law, they play no function with regard to enforcing against a premiseowner the strict liability of Article 2322 for premise-defects, or of exculpating him from it.
+
+[1]  The Louisiana Civil Code of 1870 established three categories of immovables: immovables by nature, immovables by destination, and immovables by the object to which they are applied. La.Civil Code art. 463 (1870). Buildings and other constructions were thus classified as immovable by their nature. La.Civil Code art. 464 (1870). By amendment to the civil code, the various categories of immovables by nature have been eliminated and a single category of corporeal immovables has been substituted therefor. 1978 La.Acts 728. These amendments, however, have no effect upon the determination of ownership of a particular immovable.
+
+[2]  Having concluded that Shell is not liable pursuant to article 2322, I would find it unnecessary to consider whether the fault of a third person (Movible) relieves Shell of liability under article 2322 or whether liability under article 2322 is affected by the circumstance that the underlying soil upon which a building rests is owned by another. In addition, because the certification from the Fifth Circuit was limited to questions pertaining to Shell's liability under article 2322, it is unnecessary to consider Shell's liability, if any, under other articles of our code.

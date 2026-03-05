@@ -1,0 +1,174 @@
+91-CA-1171
+Matter of American Waste & Poll. Control
+https://law.justia.com/cases/louisiana/supreme-court/1991/91-ca-1171-2.html
+
+91-CA-1171
+Matter of American Waste & Poll. Control
+Court: Louisiana Supreme Court
+Release date: 1991-10-21
+Author: CALOGERO, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1991/91-ca-1171-2.html
+
+588 So. 2d 367 (1991)
+
+In the Matter of AMERICAN WASTE & POLLUTION CONTROL CO.
+consolidated with In the Matter of CHEMICAL WASTE MANAGEMENT, INC., Lake Charles.
+consolidated with CHEMICAL WASTE MANAGEMENT, INC.
+v.
+STATE of Louisiana, DEPARTMENT OF ENVIRONMENTAL QUALITY.
+consolidated with In the Matter of DRAVO BASIC MATERIALS CO., INC., Pontchartrain Materials Corporation and Louisiana Materials Company.
+
+No. 91-CA-1171.
+
+Supreme Court of Louisiana.
+
+October 21, 1991.
+
+Rehearing Denied November 21, 1991.
+
+*368 Michael Osborne, Michael D. Conroy, Christopher Gobert, Osborne, McComiskey & Gobert, New Orleans, Paula J. Lawrence, Gordon B. Green, John B. King, Roland T. Huson, III, Raeford C. Lackey, Ann C. Coco, William J. Guste, Jr., Atty. Gen., John B. Sheppard, Jr., Ian Douglas Lindsey, Asst. Attys. Gen., John N. Kennedy, J. Arthur Smith, Baton Rouge, Frederick B. Alexius, Provosty, Sadler & deLaunay, Alexandria, for appellant.
+
+Gerald L. Walter, Jr., Anne J. Crochet, James C. Percy, Schwab & Walter, Baton Rouge, John R. Peters, Jones, Walker, Waechter, Poitevent, Carrere & Denegre, Frank J. Peragine, James A. Burton, Susan F. Clade, J. Thomas Hamrick, Jr., Simon, Peragine, Smith & Redfearn, New Orleans, for appellee.
+
+Robin Durant, in pro. per.
+
+Gernine Mary Mailhes, in pro. per.
+
+Michael Tritico, in pro. per.
+
+CALOGERO, Chief Justice.
+
+The Legislature has determined that appeals of final decisions or orders of the Department of Environmental Quality (DEQ) in a permit or enforcement action are to bypass the district court and go directly to the First Circuit Court of Appeal. La.R.S. 30:2024. The court of appeal, in these four consolidated cases, has held that La.R.S. 30:2024 is unconstitutional, because it is in contravention of La. Const. art. V, § 16(A), which vests the district courts with "original jurisdiction of all civil ... matters," and "exclusive original jurisdiction of ... cases ... involving ... the state ... as a defendant." For the reasons expressed herein, we reverse the court of appeal's decision, 580 So. 2d 392, and find that La.R.S. 30:2024 is not unconstitutional.
+
+The substantive facts and legal issues in the four cases under consideration are distinct. All four, however, involve DEQ's denial of waste disposal or water discharge permits, or DEQ's issuance of permits with conditions. The cases were consolidated by the First Circuit Court of Appeal to address the common threshold issue of the constitutionality of the appellate process set forth in La.R.S. 30:2024. The court of appeal found that the statute is offensive to the language of La.Const. art. V, § 16(A), quoted hereinabove, and that it is   not saved by any other provision of the constitution.
+
+The court of appeal determined that DEQ decisions are civil matters, that judicial review of DEQ decisions is an exercise of original jurisdiction, and that original jurisdiction vests in the district courts under Article V, § 16(A). They found no express constitutional authority for DEQ to exercise original jurisdiction in this civil matter, and no constitutional provision expressly allowing an appeal of a DEQ decision to bypass the district court and go directly to the court of appeal. Thus, the court of appeal concluded that La.R.S. 30:2024 is in contravention of Article V, § 16(A)'s grant to the district courts of original jurisdiction of all civil matters, and of exclusive original jurisdiction of all cases involving the state as a defendant. For these reasons, the court of appeal held that the statute is unconstitutional. The appellants,[1] the intervenors,[2] and two of the appellees[3] now ask this Court to reverse the court of appeal's ruling declaring La. R.S. 30:2024 unconstitutional.
+
+The primary question regarding the constitutionality of La.R.S. 30:2024 concerns the meaning of La.Const. art. V, § 16(A), which provides that "[e]xcept as otherwise authorized by this constitution,... a district court shall have original jurisdiction of all civil and criminal matters." The even narrower question in this case is the meaning of "all civil matters." The appellees, American Waste & Pollution Control Co., and Chemical Waste Management, Inc., contend that this Court has already decided in Moore v. Roemer,
+567 So. 2d 75
+(La.1990), that judicial review of an administrative agency decision is a civil matter, with jurisdiction thereof vested in the district courts. They specifically contend that judicial review of a DEQ decision is a distinctly civil matter, and that entertaining such an appeal is an exercise of original jurisdiction which is vested in the district courts under Article V, § 16(A). The opponents' contrary argument is that a DEQ determination regarding a waste disposal or water discharge permit is not the kind of civil matter which was contemplated by the drafters of that constitutional provision, or by this Court in Moore when it interpreted that provision. They argue that judicial review of this kind of DEQ determination is instead an exercise of appellate jurisdiction, and that the Legislature has been granted discretion to vest, or not vest, appellate jurisdiction in the district courts in Article V, § 16(B) which provides that "[a] district court shall have appellate jurisdiction as provided by law."
+
+It is apparently unquestioned that the issuance of environmental permits is a power which vests, not in the judiciary, but in the executive branch. In this instance, the Legislature has properly reposed this power in the executive and has authorized the DEQ (within the executive branch) to exercise quasi-judicial authority.[4] The Legislature has frequently vested such quasi-judicial authority in administrative agencies, and as we determine in this opinion, has acted, under the 1974 Louisiana Constitution,   within its constitutional authority in vesting judicial review of DEQ determinations in the First Circuit Court of Appeal. Furthermore, judicial review of a DEQ final decision or order, at least where the Legislature has not specifically provided for de novo review, is an exercise of a court's appellate, rather than original, jurisdiction.
+
+It is true, of course, that Bowen v. Doyal, 259 La. 839,
+253 So. 2d 200
+(1971), held that district courts exercise original jurisdiction when they review determinations of administrative agencies. Just as in the 1974 Louisiana Constitution, the district courts were vested with original jurisdiction in civil matters in the La.Const. of 1921, art. VII, § 35.[5] At the time Bowen was decided, however, there was no provision in the 1921 Louisiana Constitution (unlike the 1974 Louisiana Constitution), authorizing the district courts to exercise appellate jurisdiction, except in reviewing decisions of several specific courts of limited jurisdiction and justice of the peace courts.[6] Confronted with those provisions in the 1921 Louisiana Constitution, and recognizing, in the absence of any constitutional mandate to the contrary, that the district courts should be permitted to review administrative agency determinations, the Bowen court chose to construe what was actually appellate review of agency determinations as "original jurisdiction."
+
+The 1921 constitutional article which established district court appellate jurisdiction in certain specific instances did not provide for district court appellate review of agency determinations. This absence (which is no longer the case) prompted the Bowen Court's determination that review of agency decisions is original jurisdiction. The redactors of the 1974 Louisiana Constitution made specific provision in Article V, § 16(B) for district court appellate jurisdiction to be "as provided by law." According to floor discussion at the 1973 Constitutional Convention, the meaning of Article V, § 16(B) was "that the legislature can set that appellate jurisdiction as it sees fit."[7] There was even discussion regarding whether the language in Article V, § 16(B) was sufficiently explicit in expressing the delegates' intention to give the Legislature this discretionary right to vest appellate jurisdiction in the respective courts. The delegates concluded that the provision as written was sufficiently clear in expressing that intent.[8]
+
+In the present case, review of DEQ's permitting decisions clearly represents an exercise of appellate review of quasi-judicial determinations. Bowen is therefore distinguishable from, if not at variance with, our present view that judicial review of quasi-judicial administrative agency determinations constitutes appellate review. There is today constitutional authority for the Legislature to vest judicial review of administrative agency decisions in either the district courts or the courts of appeal. If the Legislature were to decide that district courts, either de novo or on the agency record, should review   DEQ's decisions regarding the issuance of permits, we would find that constitutionally within the prerogative of the Legislature. Conversely, it is within the Legislature's prerogative to provide for that appellate review in a court of appeal.
+
+We have previously discussed this question of judicial review of administrative agency determinations in Loop, Inc. v. Collector of Revenue,
+523 So. 2d 201
+(La.1987). In that case, in our original opinion,[9] we concluded that "a court's review of an administrative tribunal's action is considered functionally to be an exercise of its appellate review jurisdiction." Id. at 203. It was also stated that "for the purpose of judicial review of administrative action, the district courts are courts of limited jurisdiction, having only such appellate jurisdiction to review administrative actions as is provided by law or constitutionally required." Id. Because the 1974 Louisiana Constitution permits the Legislature to provide for appellate jurisdiction in the district courts, the district courts have only such appellate jurisdiction as is provided by statute or by a specific provision of the constitution. In the present case, neither the constitution nor the Legislature provides that the district courts should exercise appellate jurisdiction of DEQ determinations. On the contrary, the Legislature has decided to confer jurisdiction over DEQ appeals in the First Circuit Court of Appeal. The Legislature was within its constitutional prerogative in doing so.
+
+The appellees contend that, applying this Court's holding in Moore v. Roemer,
+567 So. 2d 75
+(La.1990), a direct appeal from the DEQ to the court of appeal is an unconstitutional divestiture of the district courts' original jurisdiction. However, the issue in Moore involved worker's compensation, a civil matter which had been in place in Louisiana since 1914, adjudicated in the first instance in the district courts since its inception, and an area of law and practice of which the delegates to the 1974 Louisiana Constitutional Convention were fully cognizant. In Moore, the constitutional violation consisted of the Legislature's establishing the Office of Worker's Compensation Administration (OWCA) within the executive department, with provision for OWCA to exercise original jurisdiction in worker's compensation claims. That legislative scheme resulted in the divestiture of the original jurisdiction which the district courts had traditionally exercised in worker's compensation cases, and the vestiture of that traditional judicial power in an executive agency. For that reason, the statute in Moore was declared unconstitutional.
+
+Worker's compensation, however, is distinctly unlike the environmental permitting matter in the present case. Protection of the environment through regulation and control of waste disposal and water pollution is a legislative creation which has historically been vested in the executive branch. At the time of the 1974 Louisiana Constitution, the regulation and control of waste disposal that threatened the public health was under the exclusive jurisdiction of the Louisiana State Board of Health, an executive agency. La.R.S. 40:11 (1950). In addition, the Legislature delegated the control of waste disposal into the waters of the state to the Stream Control Commission of Louisiana, with enforcement by the Commissioner of Wildlife and Fisheries. La. R.S. 56:1434 (1950); La.R.S. 56:1437 (1950). Prior to 1974, the issuance of waste disposal or water discharge permits was not the object of any known cause of action which was initiated in the district courts under their original jurisdiction. While courts have traditionally enjoined nuisances, courts have never been in the business of issuing permits for water pollution or waste disposal.[10]
+
+*372 Although the 1921 Louisiana Constitution contained a policy regarding protection of the state's natural resources,[11] it was not until the adoption of Article IX, § 1 of the 1974 Louisiana Constitution that the "public trust doctrine ... mandate[d] the legislature to enact laws to implement this policy." Save Ourselves v. La. Environmental Control Com'n,
+452 So. 2d 1152
+, 1154 (La.1984). La.Const. art. IX, § 1 directs the Legislature to enact laws to implement the constitutionally mandated policy of protecting, conserving and replenishing the natural resources of the state. The delegates to the 1973 Constitutional Convention delegated specific decisions regarding protection of the state's environment to the Legislature. The scheme envisioned by the Legislature includes the establishment of the DEQ, an executive agency, provision for the exercise of quasi-judicial authority by that agency, appellate review of DEQ final determinations in permit and enforcement actions in the First Circuit Court of Appeal, and litigation in the district courts for enforcement of DEQ penalties or sanctions. The Legislature has acted within its prerogative in enacting statutes which delegate environmental regulatory and quasi-judicial authority to the DEQ within the executive branch, and which establish a constitutional process for judicial review of DEQ final determinations in permit and enforcement actions.
+
+La.Const. art. V, § 16(A)'s grant of original jurisdiction in all civil matters to the district courts contemplates first instance judicial adjudications, rather than situations such as we have here. According to Moore v. Roemer,
+567 So. 2d 75
+(La.1990), "[o]riginal jurisdiction refers to jurisdiction in the first instance" and "designates the adjudicative tribunal in which the initial adjudication is made." Id. at 79. In this case, the first instance adjudication has been delegated by the Legislature to the DEQ. While intervention by environmental groups and private citizens is not prohibited, private citizens have no independent right to bring suit in the district court in environmental permitting matters. In contrast to Moore where worker's compensation actions had historically been brought in the judicial branch by injured employees, applicants have never had the right to bring civil actions in the courts in order to force issuance of waste disposal or water discharge permits. Such a pursuit cannot be initiated in the district court either by the applicants for permits or by their opponents. The authority to issue such permits, with or without attendant restrictions or conditions, has been specifically and properly delegated to the DEQ, an executive agency.
+
+In fact, the members of the 1973 Constitutional Convention's Natural Resources and Environment Committee considered giving private citizens a constitutional right to bring suit in the judicial branch in environmental matters, but the committee deleted those proposed provisions and delegated protection of the environment to the Legislature.[12] The Legislature thereupon passed laws which respected the right of private citizens to litigate regarding environmental matters. They provided in La. R.S. 30:2024(C) that "[a]ny person aggrieved by a final decision or order of the secretary may appeal therefrom to the Court of Appeal, First Circuit...." This right of "aggrieved" persons under La.R.S. 30:2024(C) no doubt includes the opponents and parties who have been permitted to intervene in the DEQ permit action. The Legislature has further enacted La.R.S. 30:2026 which provides for civil actions in the district courts. That statute states that "any person having an interest, which   is or may be adversely affected, may commence a civil action on his own behalf against any person whom he alleges to be in violation of this Subtitle or of the regulations promulgated hereunder."
+
+We find that DEQ determinations are not civil matters within the meaning of La.Const. art. V, § 16(A). They are therefore not within the scope of the district courts' constitutional grant of original jurisdiction, because waste disposal and water discharge permitting did not exist as a traditional judicial civil matter in 1974 and has never been delegated in the first instance to the judicial branch, and because such matters were thereafter constitutionally delegated by the Legislature to the DEQ within the executive branch. Judicial review of a decision of an administrative agency is an exercise of a court's appellate jurisdiction, and the Legislature may constitutionally repose such appellate review in the court of its choice. In this case, the Legislature has properly vested such appellate review of DEQ final decisions in the First Circuit Court of Appeal.
+
+Appellees' alternative argument is that this is a case involving the state as a defendant in which the district court has exclusive original jurisdiction under La. Const. art. V, § 16(A). The simple answer to that argument is that the state is not a defendant in this case. Rather, the state is acting as a regulatory authority in accord with its constitutional imperative to protect the environment under La.Const. art. IX, § 1. In this type of case, neither party is a "defendant," whether in court or before the DEQ. The appellant and appellee in the reviewing court come to the court of appeal from the first instance tribunal in which they were simply applicant for permit and state regulatory agency. The state in this situation has never been a defendant as contemplated by Article V, § 16(A). Therefore, that constitutional provision does not confer original jurisdiction in this type of case in the district courts.
+
+Unlike the federal government which has only those powers which are granted to it by the states, the Louisiana Legislature has all powers which have not been denied it by the state constitution. Moore v. Roemer,
+567 So. 2d 75
+, 78 (La. 1990); Board of Directors of the Louisiana Recovery District v. All Taxpayers, Property Owners, and Citizens of Louisiana,
+529 So. 2d 384
+, 387 (La.1988); Board of Commissioners v. Dept. of Natural Resources,
+496 So. 2d 281
+, 286 (La.1986). The opponents who are challenging the constitutionality of a statute bear the burden of proving clearly that a particular statute is barred by a provision of the state constitution. Moore at 78; Board of Directors of the Louisiana Recovery District at 387; State v. Griffin,
+495 So. 2d 1306
+, 1308 (La. 1986). It is insufficient for the opponents to establish that the statute's constitutionality is questionable; instead, the opponents must clearly and convincingly prove that the Legislature's action is in contravention of a specific provision of the constitution. Board of Directors of the Louisiana Recovery District at 388; Ancor v. Belden Concrete Products, Inc., 260 La. 372,
+256 So. 2d 122
+, 125 (1971).
+
+In the present case, the appellees have not satisfied their burden of proving that the Legislature's vesting of direct appellate review of DEQ final determinations in the First Circuit Court of Appeal is in violation of La.Const. art. V, § 16(A), or of any other constitutional provision. Thus, the Legislature's enactment of La.R.S. 30:2024, which allows for an appeal directly from the DEQ to the First Circuit Court of Appeal, is not in conflict with the constitution. The statute is constitutional.
+
+For the foregoing reasons, the judgment of the court of appeal declaring La.R.S. 30:2024 unconstitutional is reversed and these four appeals are remanded to the First Circuit Court of Appeal for further proceedings.
+
+REVERSED AND REMANDED.
+
+MARCUS and HALL, JJ., dissent and assign reasons.
+
+DENNIS, J., joins in the opinion and assigns additional reasons.
+
+*374 DENNIS, Justice, assigning additional reasons.
+
+I join fully in the majority opinion and write separately only to emphasize points overlooked or misconceived by the dissenting opinions. Contrary to the dissenting justices' opinion, the constitution clearly authorizes the legislature to assign appeals from the DEQ to the court of appeal, and judicial review of an administrative agency's determination is an exercise of appellate rather than original jurisdiction.
+
+Article V, § 10(A), of the 1974 Louisiana Constitution (West Supp.1991) provides that "[e]xcept as otherwise provided by this constitution, a court of appeal has appellate jurisdiction of ... all civil matters." Paragraph (B) of the same article provides that "[e]xcept as limited to questions of law by this constitution, or as provided by law in the review of administrative agency determinations, appellate jurisdiction of a court of appeal extends to law and facts." Clearly, these provisions indicate that the legislature is empowered to provide by law that appeals from administrative agency determinations, such as those of the DEQ, may be taken to and reviewed by the courts of appeal; and the constitution does not anywhere provide otherwise. Moreover, the present constitutional grant of appellate jurisdiction to the courts of appeal affords the legislature with more flexibility in assigning appeals to particular appeals courts because it now provides that a court of appeal has appellate jurisdiciton of "all civil matters" rather than "civil matters decided within its circuit", as originally provided. See La. Const. Art. V, § 10(A) (1974).
+
+A serious misconception of the nature of judicial review of administrative agency determinations is revealed in the dissenting opinions. Regardless of whether a court normally functions as a trial or appellate court with respect to judicial controversies, its judicial review of an administrative agency determination is an appellate proceeding, Schwartz, Administrative Law § 10.2 (1984) and is universally considered to be an exercise of appellate jurisdiction when the legislature has made clear its intention to place the matter under appellate jurisdiction. Public Administrative Law and Procedure, 73A CJS § 186, p. 198; see also 2 Cooper, State Administrative Law (1965) at p. 611. By placing these matters in the court of appeal for review, and by using the words "appeal" and "appellate" in La.R.S. 30:2024 C, the legislature has clearly shown its intent for the review proceedings to be under the appellate jurisdiction of the court.
+
+The dissenting opinions also misconceive the nature of original jurisdiction. Original jurisdiction is the "[j]urisdiction to consider a case in the first instance. Jurisdiction of court to take cognizance of a cause at its inception, try it, and pass judgment upon the law and facts. Distinguished from appellate jurisdiction." Black's Law Dictionary (6th ed. 1990) (emphasis in original). See also, B. Garner, A Dictionary of Modern Legal Usage (1987) ["Original jurisdiction," meaning "jurisdiction to take cognizance of a case at its commencement, to try it, and to decide the issues," is usually contrasted with appellate jurisdiction. "In the U.S., primary jurisdiction is original jurisdiciton that lies in an administrative agency." (Emphasis in original.)] Consequently, when a court performs the function of judicial review of an administrative agency determination, it does not exercise original jurisdiction, because in such a case the court does not take cognizance of a case at its inception, try it, or pass judgment on the facts. Instead, the court merely reviews such decisions made by an administrative agency under the agency's primary jurisdiction; usually, judicial review calls for only limited scrutiny of the agency determination for errors of law and arbitrary, capricious or unreasonable findings.
+
+MARCUS, Justice (dissenting).
+
+I believe La.R.S. 30:2024 is in contravention of La. Const. Art. V, § 16(A)'s grant to the district courts of original jurisdiction of all civil matters. In Bowen v. Doyal, 259 La. 839,
+253 So. 2d 200
+(1971), we clearly held that a "district court's review of an administrative determination is not an appeal; it is in fact an original judicial action." The court reasoned that appellate   jurisdiction could not exist until the administrative determination was judicially presented and judicially determined by a court of original jurisdiction. In giving the district court appellate jurisdiction, the Constitution of 1974 did not change the fact that the district court's review of an administrative matter falls under its original jurisdiction. It is axiomatic that appellate jurisdiction can only exist in conjunction with original jurisdiction, and under our constitution, such original jurisdiction may not be divested from the district court.
+
+Moreover, the majority's reasoning that DEQ determinations are not "civil matters" within the meaning of Art. V, § 16 is inconsistent with the jurisdiction of the court of appeal, as set out in Art. V, § 10. That section gives the courts of appeal "appellate jurisdiction of all civil matters....." (emphasis added). Under the majority's reasoning, the First Circuit Court of Appeal would have no appellate jurisdiction over a DEQ determination since it is not a "civil matter."[1]
+
+For these reasons, I respectfully dissent from the majority opinion, and would have affirmed the decision of the court of appeal.
+
+HALL, Justice, dissenting.
+
+I respectfully dissent.
+
+Bowen v. Doyal, 259 La. 839,
+253 So. 2d 200
+(1971) correctly held that a court's review of an administrative determination is not an appeal; it is an original judicial action. Judicial review of administrative determinations should not be confused with judicial appeals. When district courts review the determinations, rulings and adjudications of administrative bodies, they exercise their original jurisdiction.
+
+"Appellate jurisdiction" as used in La. Const. Article V, § 10, relative to the courts of appeal, and Article V, § 16 relative to the district courts, refers to appellate review by one court of the decision of another court, not to judicial review of the decision of an executive department administrative agency.
+
+The filing of a petition for judicial review of the decision of an executive department administrative agency is the institution of a "civil matter" of which the district court has original jurisdiction under the express provisions of the constitution. The legislature does not have the power to legislate contrary to the constitutional provision so as to vest original jurisdiction of such civil matters in the courts of appeal.
+
+The 1974 Constitution did not change the sound principles upon which Bowen v. Doyal was decided. District courts had limited appellate jurisdiction over decisions of lower courts under the 1921 Constitution. While the 1974 Constitution broadened the authority of the legislature to regulate the district court's appellate jurisdiction over lower courts, there is nothing to indicate that it was intended that the legislature be given authority to regulate the original jurisdiction of the district courts. As stated, review of administrative decisions is original jurisdiction.
+
+As noted in the majority opinion, this court's original opinion in Loop, Inc. v. Collector of Revenue,
+523 So. 2d 201
+(La. 1987) concluded that a court's review of an administrative action is considered functionally as an exercise of its appellate review jurisdiction. However, the original opinion, a four-three decision, was set aside when rehearing was granted and an opinion was rendered on rehearing reaching a contrary result in the case.
+
+The majority opinion correctly concludes that "DEQ determinations are not civil matters within the meaning of La. Const. Article V, § 16(A)," and "are therefore not within the scope of the district courts' grant of original jurisdiction." A "civil matter" exists when the judicial process, as distinguished from the administrative process, is invoked. District courts have original   jurisdiction of all such matters, unless otherwise provided in the constitution. Courts of appeal have appellate jurisdiction of all such matters decided by lower courts, unless otherwise provided in the constitution.
+
+I would affirm the judgment of the court of appeal holding LSA-R.S. 30:2024 unconstitutional insofar as it provides for an appeal from a final decision or order of the commission to the Court of Appeal, First Circuit, with the effect of placing original jurisdiction of judicial review of such decisions or orders in the district court of the domicile of the commission.
+
+[1]  The State of Louisiana, through the Department of Environmental Quality; the State Attorney General; the Governor's Office.
+
+[2]  Lake Pontchartrain Basin Foundation; Inglewood Land & Development Co., Rio Rouge Development Co., Marc Oray, and Dr. Robert Rush.
+
+[3]  In one of the four cases, Dravo Basic Materials Company, Inc. and Pontchartrain Materials Corporation are adversaries of the DEQ on the merits. In that case, Dravo and Pontchartrain are appealing the DEQ's denial of their applications for wastewater discharge permits, which has resulted in the shutting down of their shell dredging operations in Lake Pontchartrain. However, in brief and in oral arguments to this Court, Dravo and Pontchartrain support the position of the State and the DEQ regarding the question of the constitutionality of La.R.S. 30:2024. They argue that the statute is constitutional and provides an efficient and expeditious method of review of DEQ determinations.
+
+[4]  DEQ holds hearings for the "purpose of factfinding, receiving public comments, conducting inquiries and investigations, or other purposes under this Subtitle, and, in connection therewith, [the Secretary of the DEQ has the power] to issue subpoenas ... requiring the attendance of such witnesses and the production of such documents as are related to the meeting or hearing." La.R.S. 30:2011(D)(5). The DEQ also has the power to issue orders or determinations. La.R.S. 30:2011(D)(6).
+
+[5]  La. Const. of 1921, art. VII, § 35 provided: "The District Courts ... shall have original jurisdiction in all civil matters regardless of the amount in dispute, or the fund to be distributed...; and in all cases where the title to real estate, or the right to office, or other public position, or civil or political rights are involved, and in all cases where no specific amount is in contest, except as may be otherwise provided in this Constitution. District Courts shall be courts of record, except in cases where they have concurrent jurisdiction with justices of the peace."
+
+[6]  La.Const. of 1921, art. VII, § 36 provided: "The District Courts shall have jurisdiction of appeals from justices of the peace from orders requiring peace bonds, and of all civil matters regardless of the amount in dispute, except cases where immovable property, either separately or in conjunction with movable property, is claimed as a homestead. Persons sentenced to pay a fine or to imprisonment, by mayors, recorders, or municipal courts shall be entitled to an appeal to the District Court of the parish, upon giving security for fine and costs of court, and in such cases trials shall be de novo and without juries."
+
+[7]  Statement by Mr. DeBlieux, Records of the Louisiana Constitutional Convention of 1973: Convention Transcripts, Vol. VI, page 799.
+
+[8]  See discussion regarding Amendment No. 1, Records of the Louisiana Constitutional Convention of 1973: Convention Transcripts, Vol. VI, pages 799-780.
+
+[9]  This Court's determination that judicial review of administrative agency determinations is an exercise of appellate jurisdiction was unchanged by the Court's decision on rehearing.
+
+[10]  In 1978, the Louisiana Legislature directed the Department of Natural Resources to promulgate regulations to govern hazardous waste disposal. 1978 La.Acts 334. Regulations were promulgated by the Dept. of Natural Resources and became effective on August 1, 1979. The Legislature also passed the Environmental Affairs Act in 1979. La.R.S. 30:1051 et seq. Those statutes, which became effective on January 1, 1980, established the Environmental Control Commission within the Dept. of Natural Resources, and charged it with promulgating regulations regarding hazardous waste disposal and water pollution and with processing of permit applications for hazardous waste disposal facilities and for discharge of water pollutants. The Legislature amended La.R.S. 30:1051 in 1983, renaming the Act the Environmental Quality Act and establishing the present DEQ.
+
+[11]  La. Const. of 1921, art. VI, § 1.
+
+[12]  La. Const. art. IX, § 1; Statement by Mr. Lambert, Records of the Louisiana Constitutional Convention of 1973: Convention Transcripts, Vol. IX, 103d Day, page 2912; Record of the Louisiana Constitutional Convention of 1973: Committee Documents, Vol. XIII, pages 572-574 and pages 602-603.
+
+[1]  It is noteworthy that when Art. V, § 16 was amended to provide for administrative agency determinations in worker's compensation matters, Art. V, § 10 was also amended to give the courts of appeal jurisdiction over "direct review of administrative agency determinations in worker's compensation matters...." The amendment was necessary since the courts could not have reviewed such matters under their appellate jurisdiction of civil matter.

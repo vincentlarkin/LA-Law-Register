@@ -1,0 +1,93 @@
+60376
+State v. Elias
+https://law.justia.com/cases/louisiana/supreme-court/1978/357-so-2d-275-1.html
+
+60376
+State v. Elias
+Court: Louisiana Supreme Court
+Release date: 1978-01-30
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/357-so-2d-275-1.html
+
+357 So. 2d 275 (1978)
+
+STATE of Louisiana
+v.
+Wilfred ELIAS, Jr.
+
+No. 60376.
+
+Supreme Court of Louisiana.
+
+January 30, 1978.
+
+Rehearing Denied March 3, 1978.
+
+Dissenting Opinion April 11, 1978.
+
+*276 Fredric G. Hayes, Fredric Hayes, Inc., Lafayette, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. Nathan Stansbury, Dist. Atty., David F. Hutchins, Asst. Dist. Atty., for plaintiff-appellee.
+
+MARCUS, Justice.
+
+Wilfred Elias, Jr. was charged by bill of information with contributing to the delinquency of a juvenile on September 2, 1976 in violation of La.R.S. 14:92 A(3). The juvenile involved was a female of twelve years. After trial by jury, defendant was found guilty as charged and sentenced to serve six months in the parish prison and to pay a fine of five hundred dollars plus court costs. On appeal,[1] defendant relies on one assignment of error, denial of his motion in arrest of judgment, for reversal of his conviction and sentence.
+
+Defendant first contends the trial judge erred in denying his motion in arrest of judgment on the ground that the offense with which he was charged is not punishable under a valid statute. When the instant offense was allegedly committed, La.R.S. 14:92 contained two irreconcilable penalty provisions, enacted in 1968. See former La.R.S. 14:92 C. Although this inconsistency was resolved by Act 121 of 1976,[2] the 1968 statute was still in effect on September 2, 1976, date of the instant offense.[3]
+
+*277 Act 486 of 1968 provided:
+
+Act 647 of 1968 provided:
+
+In State v. Seals, 343 So. 2d 717 (La.1977), this court was presented with the issue of whether the City Court of Plaquemine had jurisdiction over a contributing to the delinquency of juveniles charge under La.R.S. 14:92 where the offense was committed during the effective period of the 1968 statute. Since the city court's jurisdiction is limited to the trial of offenses not punishable by imprisonment at hard labor (La.R.S. 13:1894), resolution of the jurisdictional issue required determination of which of the 1968 acts was applicable. In Seals, this court found that Act 647 of 1968 was the latest expression of the legislative will and, therefore, the applicable provision:
+
+`. . . [I]t is apparent that where the acts are in direct conflict the arbitrary rule, that the statute last in order of position will prevail, must be applied. This rule is recognized by the above quoted article of the LSA-Civil Code [LSA-C.C. Art. 23] with reference to laws where the former law is irreconcilable. There is no other reasonable rule that could be applied to conflicting statutes passed at the same session of the legislature than to hold that the later expression of the legislative will must govern.'
+
+See also Dickerson v. Hennen, La.App., 249 So. 2d 251 (1971); State v. Toups, La.App., 95 So. 2d 55 (1957); 13 La.L.Rev. 606.
+
+Louisiana Constitution of 1921 Article 3, § 26 provided:
+
+Hence, at the time the instant offense was committed, La.R.S. 14:92 contained only one effective penalty provision, Act 647 of 1968. Accordingly, defendant's first contention is without merit.
+
+Defendant next contends that his motion in arrest of judgment was wrongfully denied on the ground that specific criminal intent is an essential element of the crime charged under La.R.S. 14:92 A but that subsection B thereof has the effect of relieving the state of its burden of proving and precludes defendant from presenting a defense on that element of the crime, in derogation of his constitutional right to be presumed innocent until proven guilty.
+
+Defendant was charged with violation of La.R.S. 14:92 A(3) which provides:
+
+Subsection B provides: "Lack of knowledge of the juvenile's age shall not be a defense."
+
+Although the presence of a "vicious will" or mens rea has long been a requirement of criminal responsibility, many exceptions have been recognized. United States v. Freed,
+401 U.S. 601
+, 91 S. Ct. 1112, 28 L. Ed. 2d 356 (1971). In Morisette v. United States,
+342 U.S. 246
+, 72 S. Ct. 240, 96 L. Ed. 288 (1952), a case involving the mens rea requirement as an element in the crime of conversion of government property, the United States Supreme Court examined at length the historical development of mens rea as an element of criminal conduct and recognized certain exceptions, including "sex offenses, such as rape, in which the victim's actual age was determinative despite defendant's reasonable belief that the girl had reached age of consent." Crimes involving juveniles, historically recognized as a special class of persons in need of protection, often do not require knowledge of the child's age as an essential element.[4]
+
+In examining La.R.S. 14:92, the statute under which defendant was charged, we note that the mens rea required is general criminal intent, not specific criminal intent as defendant contends. La.R.S. 14:10 and 11; State v. Hardy, 232 La. 920,
+95 So. 2d 499
+(1957). However, in subsection B, the legislature expressly provided that the age of the juvenile, only one of the several elements of the offense, is not subject to the mens rea requirement. Knowledge of the juvenile's age is not an essential element of the offense with which defendant was charged. Hence, there is no merit to defendant's contention that La. R.S. 14:92 B relieves the state of its burden of proving and precludes the defendant from presenting a defense on an essential element of the crime charged. Accordingly, the trial judge did not err in denying defendant's motion in arrest of judgment on this ground.
+
+For the reasons assigned, the conviction and sentence are affirmed.
+
+DIXON, J., concurs.
+
+CALOGERO, J., dissents and assigns reasons.
+
+CALOGERO, Justice, dissenting.
+
+I am of the view that subsection B of R.S. 14:92[A] has the effect of relieving the   state of its burden of proof in this case to prove that defendant knowingly contributed (general intent) to the delinquency of a juvenile, and that same is in derogation of the defendant's constitutional right to be presumed innocent until proven guilty.
+
+[1]  Since the sentence actually imposed does not include a fine exceeding five hundred dollars or imprisonment exceeding six months, our appellate jurisdiction is dependent upon whether defendant has been convicted of a felony, i. e., an offense that may be punished by death or imprisonment at hard labor. La.Const. art. 5, § 5(D); La.Code Crim.P. art. 933(3). For reasons hereinafter set forth, defendant was convicted of a felony. Hence, the case is appealable to this court.
+
+[2]  La.R.S. 14:92 C and D now provide:
+
+C. Whoever commits the crime of contributing to the delinquency of a juvenile shall be fined not more than five hundred dollars, or imprisoned for not more than six months, or both.
+
+D. Whoever is charged and convicted of contributing to the delinquency of a juvenile under Paragraph (7) of Subsection A of this Section shall be fined not more than one thousand dollars, or imprisoned with or without hard labor for not more than two years, or both.
+
+[3]  Article 3, § 19 of the Louisiana Constitution of 1974 provides:
+
+All laws shall take effect on the sixtieth day after final adjournment of the session in which they were enacted, and shall be published prior thereto in the official journal of the state as provided by law. However, any bill may specify an earlier or later effective date.
+
+The Second Regular Session, 1976, under the Constitution of 1974 convened on May 10, 1976, and adjourned sine die August 2, 1976. The general effective date of laws enacted by the Second Regular Session, 1976, is October 1, 1976. Hence, Act 121 of 1976 is not applicable in the instant case.
+
+[4]  In furtherance of the state's historical and well-recognized interest in protection of juveniles, our legislature has chosen to expressly exclude knowledge of the juvenile's age from the essential elements of several crimes involving that class of persons. See, e. g., La.R.S. 14:42(3) (aggravated rape); La.R.S. 14:80 (carnal knowledge of a juvenile); La.R.S. 14:81 (indecent behavior with juveniles); La.R.S. 14:86 (enticing minors into prostitution); La. R.S. 14:92 (contributing to the delinquency of juveniles); La.R.S. 14:93 (cruelty to juveniles).

@@ -1,0 +1,185 @@
+57018
+State v. Williams
+https://law.justia.com/cases/louisiana/supreme-court/1976/331-so-2d-467-1.html
+
+57018
+State v. Williams
+Court: Louisiana Supreme Court
+Release date: 1976-03-29
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/331-so-2d-467-1.html
+
+331 So. 2d 467 (1976)
+
+STATE of Louisiana, Appellee,
+v.
+Lawrence Ted WILLIAMS, Appellant.
+
+No. 57018.
+
+Supreme Court of Louisiana.
+
+March 29, 1976.
+
+Dissenting Opinion May 14, 1976.
+
+*468 Edward C. Keeton, Marrero, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John M. Mamoulides, Dist. Atty., Abbott J. Reeves, Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant Williams was convicted of aggravated burglary, La.R.S. 14:60, in that he entered a dwelling with the intent to commit aggravated battery upon Mrs. Ethel Gray. He was sentenced to twenty years at hard labor.
+
+We find prejudicial error presented by bill No. 3 and therefore must reverse.
+
+Prejudicial hearsay
+
+The prejudicial error resulted from the admission, under objection, of hearsay testimony which identified the defendant Williams as Mrs. Gray's assailant.
+
+*469 The incident occurred shortly after 6:30 in the morning, after the victim's daughter, granddaughter, and great-granddaughter had left for work and school. An assailant knocked on the door, forced his way in, and beat the old lady with an iron pot.
+
+The testimony in question was admitted during the examination of the first witness, Rosalie Smith, the victim's daughter. Sometime after she had arrived at work, she received a call that her mother had been hurt.
+
+She returned from her work across the river and asked her mother what had happened. By this time, her mother had gone to a neighbor's home, and policemen had arrived at the scene and were completing their investigation. Although the time interval is not clearly shown, the daughter arrived back at the home within about two hours after the incident.
+
+The objected-to testimony occurred when the witness, Mrs. Smith, was permitted to testify that her mother told her that her assailant had told her, "I am Bagette's pa."[1]
+
+This witness identified the defendant Williams as the father of Bagette, Mrs. Gray's (the victim's) great-granddaughter, as did later witnesses.
+
+The trial court overruled the objection on the basis that it would corroborate the testimony of Mrs. Gray when she took the stand.
+
+If indeed Mrs. Gray's assailant had made the declaration in the course of the crime, Mrs. Gray could have testified to this out-of-court declaration under the res gestae exception to the hearsay rule. The evidence would then be of words or acts of a participant which were an immediate concomitant and part of the continuous conduct incident to the criminal act, La.R.S. 15:447, 448.
+
+Perhaps,[2] then, as the trial court held (see also discussion below), the witness could have testified in corroboration of the victim's admissible account of the facts surrounding the criminal act.
+
+The present difficulty arises, however, because in fact the victim did not so testify when she took the stand. In fact, she testified to the contrary that her assailant had identified himself as "Bertrand".[3] (The testimony of the investigating policeman was to the effect that Mrs. Gray told him, when he interviewed her at the neighbor's home, that her assailant was "an unknown colored male". Tr. 43.)
+
+Thus, the first witness was permitted to testify that the victim told her that her assailant had stated to the victim at the time of the crime that he was the defendant.   However, when the victim herself testified, she did not so testify. The witness was therefore permitted to testify to a most damaging statement allegedly made by the victim, which was contradicted by the victim herself when she took the stand.
+
+Thus, if admissible, the admission of the witness's statement as to the victim's declaration, has the effect of permitting such unsworn alleged out-of-court declaration into testimony as direct evidence that the defendant was her assailanteven though the victim herself, in her sworn evidence, testified contrary to the first witness's description of what she had allegedly said.
+
+In Louisiana, a prior inconsistent statement of one's own witness cannot be admitted as substantive evidence of the truth of its content. The effect of its admissibility is limited, when in fact proper foundation has been made for its admission (as was not the case here), for its effect on impeaching the credibility of the witness. La.R.S. 15:487; State v. Ray, 259 La. 105,
+249 So. 2d 540
+(1971).
+
+The trial court's ruling was thus erroneous. Whatever its justification or lack of prejudice if the witness's testimony had merely corroborated the victim's testimony of the incident, the witness's testimony of the out-of-court statement allegedly made to her by the victim is in effect denied by the victim herself. Thus, the effect of the ruling was to admit into evidence an unsworn out-of-court statement as truth of its own contentto admit damaging and inadmissible hearsay to the effect that the victim's assailant had admitted to her that he was the named accused now on trial for the offense.
+
+Res gestae exception
+
+The State apparently concedes that the basis on which the trial court admitted the out-of-court declaration was, as it turned out, incorrect, since it did not corroborate the declarant's sworn testimony at the trial. It now contends that the evidence was admissible under the res gestae exception to the hearsay rule. La.R.S. 15:447, 448.[4]
+
+However, as the statute (quoted in footnote 4) itself specifically provides, res gestae includes spontaneous words or acts of the participants at the time of the occurrence, but "not the words of the participants when narrating the events." As early recognized, the res gestae exception permits admission of events speaking through participants, but not the testimony of participants speaking about events. State v. Charles, 111 La. 933, 36 So. 29 (1904). Thus, when the declaration by the victim is narrative rather than spontaneous, it is not considered res gestae and its admission is erroneous. State v. Jacobs,
+281 So. 2d 713
+(La.1973).
+
+Our Louisiana jurisprudence has consistently distinguished between admissible res gestae statements (excited utterances) and non-spontaneous narration after the event, with the latter being inadmissible as hearsay. State v. Willis, 241 La. 796,
+131 So. 2d 792
+(1961); State v. Nash, 169 La. 947, 126 So. 434 (1929); State v. Bussey, 162 La. 394, 110 So. 626 (1926); State v. Watson, 159 La. 779, 106 So. 302 (1925); State v. Roberts, 149 La. 657, 89 So. 888 (1921); State v. Cole, 145 La. 900, 83 So. 184 (1919); State v. Charles et al., 111 La. 933, 36 So. 29 (1904); State v. Ramsey, 48 La.Ann. 1407, 20 So. 904 (1896). See also State v. Hayden, 243 La. 793,
+147 So. 2d 392
+(1962) (inadmissible hearsay identification   testimony constituted reversible error although the out-of-court assertion was made in the presence of the defendant).
+
+The State alternatively contends that, even if the evidence of the victim's statement was inadmissible, the evidence was harmless, because the victim herself from the stand also identified the defendant as her assailant. The decisions cited in the previous paragraph indicate that, even if other evidence (including that of the victim) identifies the defendant as having committed the crime, reversible error results when the jury is permitted to hear inadmissible hearsay that directly identifies the defendant as the guilty perpetrator. See State v. Garon, 158 La. 1014, 105 So. 47 (1925) (holding adverse to the specific contention of the State).
+
+Additionally, however, here the inadmissible hearsay added an additional dimension of prejudice: The out-of-court declaration was to the effect that, at the time of the offense, the perpetrator had specifically identified himself as the defendant. This hearsay testimony by the first witness of the trial was to an out-of-court declaration nowhere else in evidence, and which the sworn trial evidence of the declarant indicates was not in fact made.
+
+The admission of prejudicial hearsay in violation of its exclusion by statute is prejudicial to the substantial rights of the accused and constitutes a substantial violation of a statutory right. It is thus reversible error. See, e. g., La.C.Cr.P. art. 921; State v. Murphy,
+309 So. 2d 134
+(La.1975); State v. Hayden, 243 La. 793,
+147 So. 2d 392
+(1962); State v. Kimble, 214 La. 58, 36 So. 2d 637 (1948); State v. Garon, 158 La. 1014, 105 So. 47 (1925); State v. Larocca, 157 La. 50, 101 So. 868 (1924).
+
+Accordingly, for the reasons assigned, we reverse the conviction and sentence, and we remand to the district court for a new trial in accordance with law.
+
+REVERSED AND REMANDED FOR A NEW TRIAL.
+
+SANDERS, C. J., dissents with written reasons.
+
+SUMMERS, J., dissents and assigns written reasons.
+
+SANDERS, Chief Justice (dissenting).
+
+As the majority holds, an item of hearsay evidence entered the record in the present case. Every item of hearsay, however, does not upset a conviction. Under both state and federal law, the ensuing question is whether or not the admission of the testimony is reversible error. See LSA-C.Cr.P. Art. 921; Dutton v. Evans,
+400 U.S. 74
+, 91 S. Ct. 210, 27 L. Ed. 2d 213 (1970); California v. Green,
+399 U.S. 149
+, 90 S. Ct. 1930, 26 L. Ed. 2d 489 (1970); Favre v. Henderson, 464 F.2d 359 (5th Cir. 1972). If a consideration of the entire record reflects that the ruling was harmless beyond a reasonable doubt, the conviction should be affirmed. See Chapman v. California,
+386 U.S. 18
+, 87 S. Ct. 824, 17 L. Ed. 2d 705 (1967).
+
+After reviewing the record, I have concluded that the independent evidence of guilt is overwhelming. Hence, I would hold that the error is harmless and affirm the conviction.
+
+For the reasons assigned, I respectfully dissent.
+
+SUMMERS, Justice (dissenting).
+
+A bill of information filed on October 19, 1972 charged that Lawrence Ted Williams committed aggravated burglary on September 28, 1972, by entering, without authorization, an inhabited dwelling at 1401 Lincoln Drive in Marrero, Louisiana, where Ethel Gray was present, with intent to commit a felony therein, and that the did then commit a battery upon Ethel Gray with an iron pot, a dangerous weapon.
+
+Defendant was tried on September 6, 1973, and the jury returned a unanimous verdict of guilty. He was committed to the   Department of Corrections and sentenced to serve twenty years at hard labor.
+
+Rosalie Smith was called and examined as a witness for the State. The victim, Ethel Gray, was her aged mother living with her at 1401 Lincoln Drive in Marrero. On the morning of September 28, 1972 when Rosalie Smith left her house for work, defendant was in his car parked across the street. Soon after arriving at work she was recalled to her house and upon arrival found her mother badly injured, bleeding and in need of hospitalization. She found blood "from my mother's bedroom all the way out the kitchen and the driveway." Her mother had been struck with an aluminum pot by a burglar who had gained access to the house. When the offender left he took a television set. Rosalie Smith was asked by the prosecutor:
+
+Defense counsel objected that the question sought to elicit hearsay evidence. The trial judge found that Ethel Gray would later testify as a witness and the response sought from Rosalie Smith was designed to corroborate the later testimony of Ethel Gray. Accordingly he overruled the objection and this bill was reserved.
+
+Rosalie Smith then testified that her mother told her that her assailant was "Bagette's pa." Bagette is Rosalie Smith's granddaughter and the victim's great-granddaughter. According to Rosalie Smith's testimony, her daughter had lived with the defendant at some time in the past and was believed to be the father of a child of that union called Bagette. Thereafter Ethel Gray testified, but she did not say that her assailant told her he was "Bagette's pa". Instead she said the assailant told her, "I am Bertrand," apparently an assumed name. Therefore, Ethel Gray's testimony was not in this respect corroborated by Rosalie Smith. However, Ethel Gray did positively identify the defendant in court.
+
+The State contends that Ethel Gray's statement that her assailant was "Bagette's pa" was part of the res gestae. There is no direct evidence of the time lapse between the burglary and assault on Ethel Gray and Rosalie Smith's return to her home at which time Ethel Gray said her assailant told her he was "Bagette's pa". The record does show, however, that Rosalie Smith worked across the river. She left home that morning between six and 6:30 o'clock to arrive at work at seven. Shortly after seven the police received a call to go to the scene of the crime. This fact, together with the fact that defendant was parked across the street from the scene of the crime when Rosalie Smith left for work, strongly indicates that the crime occurred shortly after Rosalie Smith departed for work. While at work Rosalie Smith received a call from her neighbor and she returned to her house forthwith. The time interval was therefore not great.
+
+In this State the rule of res gestae has been broadened rather than restricted. This tendency has been favorably regarded by the courts because the ultimate object   to be attained by the introduction of any evidence is the ascertainment of facts; it is a reasonable means of arriving at the truth. Therefore, acts and declarations have been brought within the doctrine if they are connected with, and grow out of, the act or transaction in such a way as to form one continuous transaction, provided they in some way illustrate, elucidate, qualify or characterize the act, and, in a legal sense, are a part of it. State v. Curry, 263 La. 997,
+270 So. 2d 484
+(1972); State v. Raymond, 258 La. 1,
+245 So. 2d 335
+(1971); State v. Andrus, 250 La. 765,
+199 So. 2d 867
+(1967); State v. Reese, 250 La. 151,
+194 So. 2d 729
+(1967).
+
+In State v. Curry, supra, this court stated, ". . . incidents offered as res gestae may be separated from the act by a lapse of time more or less appreciable, provided they grow out of and are in a legal sense immediately connected with the litigated act." Testimony of an abortion victim's landlady was held to be res gestae in State v. Reese, supra. There the victim had told her that she was pregnant and that she had found someone to perform an abortion. Then, on the following day, the victim told her that the abortion had been performed. Again in State v. Morgan, 296 So. 2d 86 (La.1974), this Court held that testimony of the prosecutrix's neighbor that she heard the prosecutrix say that she had been raped by her stepfather was admissible as part of the res gestae. The statement was admitted even though it was made after the prosecutrix had time to clean up and get dressed. State v. Hills, 241 La. 345,
+129 So. 2d 12
+(1961), allowed testimony of the victim's landlord regarding a statement made by the victim to him more than a half hour after the attack.
+
+Considered in the light of the quoted statutes and the cases interpreting those enactments the facts of this case do fall within the broad application of the rule of res gestae. When Rosalie Smith returned to find her mother still in a state of shock and bleeding from the assault, she appeared upon the scene of an "immediate concomitant" of the criminal act. The wounded and still suffering victim's condition accompanied and was collaterally connected with the criminal act; her statements under these circumstances at a time shortly following the actual assault were therefore part of the res gestae. It should be noted also that defendant's statement given by Ethel Gray to Rosalie Smith was itself a part of the res gestae uttered by defendant during the actual commission of the crime. Proof of such an utterance by the perpetrators of the crime while it was happening is always admissible as part of the res gestae.
+
+It is furthermore relevant to mention that Ethel Gray's statement to Rosalie Smith was in fact corroborated. Later in the trial Bonnie Hunter testified without objection that her sister said the description given to her by a neighbor of the man who came out of Rosalie Smith's house carrying a television set shortly after Ethel Gray was assaulted, and the description she gave of the car he drove, indicated that defendant was the perpetrator of the crime.
+
+I respectfully dissent.
+
+[1]  See testimony of Mrs. Smith at Tr. 19-20:
+
+"Q Did she tell you anything he said?
+
+"A She told me what I asked her what did the man
+
+[Defense counsel: "Objection; hearsay." The Court in overruling the objection: "She [the mother] is going to be here as a witness.. . . It is a matter of corroboration."]
+
+"Q What did she tell you?
+
+"A I asked her what did the man say, and she said that when he came in, he say `I am Bagette's pa.'
+
+"Q Would you repeat that?
+
+"A `I am Bagette's pa.'
+
+"Q Who is Bagette?
+
+"A My granddaughter.
+
+"Q Is that your granddaughter's daughter?
+
+"A Yes.
+
+"Q And is that the daughter, who has been living with this man [i. e., the defendant]?
+
+"A That's right."
+
+[2]  While corroborative testimony may be admissible, La.R.S. 15:485, such corroborative testimony is usually not admissible until the witness has been sworn and his credibility has been attacked, La.R.S. 15:484. See, e. g., State v. Watson, 159 La. 779, 106 So. 302 (1925).
+
+[3]  See testimony of the victim, Mrs. Gray at Tr. 28:
+
+"When I opened the door, he stepped up in the door. I said, `Who is you? What are you doing here?' I said, `What you want?' He said `I am Bertrand.' I said `Bertrand. I never seen Bertrand in my life.' Well, he said, `I am Bertrand,' I said `What you want?'"
+
+[4]  La.R.S. 15:447: "Res gestae are events speaking for themselves under the immediate pressure of the occurrence, through the instructive, impulsive and spontaneous words and acts of the participants, and not the words of the participants when narrating the events. What forms any part of the res gestae is always admissible in evidence." (Italics ours.)
+
+La.R.S. 15:448: "To constitute res gestae the circumstances and declarations must be necessary incidents of the criminal act, or immediate concomitants of it, or form in conjunction with it one continuous transaction."

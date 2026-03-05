@@ -1,0 +1,222 @@
+94-C-0499
+South Cent. Bell Telephone v. Barthelemy
+https://law.justia.com/cases/louisiana/supreme-court/1994/94-c-0499-6.html
+
+94-C-0499
+South Cent. Bell Telephone v. Barthelemy
+Court: Louisiana Supreme Court
+Release date: 1994-10-17
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1994/94-c-0499-6.html
+
+643 So. 2d 1240 (1994)
+
+SOUTH CENTRAL BELL TELEPHONE CO.
+v.
+Sidney J. BARTHELEMY, et al.
+
+No. 94-C-0499.
+
+Supreme Court of Louisiana.
+
+October 17, 1994.
+
+Rehearing Denied December 15, 1994.
+
+*1241 Gregory D. Guth, Bruce E. Naccari, Kathy L. Torregano, Joseph N. Naccari, Avis M. Russell, New Orleans, for applicants.
+
+William M. Backstrom, Jr., Edward D. Wegmann, Rosemarie Falcone, Keith G. Landry, New Orleans, for defendant.
+
+HALL, Justice.[*]
+
+We granted writs in this case to decide whether certain computer software constitutes "tangible personal property" taxable under the sales and use tax imposed by the City of New Orleans pursuant to Section 56 of the City Code. The district court classified the two types of computer software at issueswitching system and data processing softwareas intangible, nontaxable property, and thus granted partial summary judgment in favor of the taxpayer, South Central Bell Telephone Co. (Bell). The court of appeal affirmed. We classify computer software as tangible, taxable property, and thus reverse and remand.
+
+During the pertinent taxing periods, January 1, 1986 through April 30, 1990, Bell operated a telephone system in Orleans Parish. As part of its system, Bell set up in the parish sixteen telephone central offices. Each telephone central office is a system, in and of itself, as well as part of the larger telephone system. Simply put, each central office is a place where the caller's telephone line is connected to the line of the person being called, if that person is served by the same central office, or, if not, to a line connected to another telephone central office. Depending upon the location of the person being called, a given call may pass through multiple central offices.
+
+Each central office consists of, among other things, switching equipment. Switching equipment includes computer processors that are directed and operated by computer software programs. Each central office is unique; consequently, each central office requires specifically tailored software designed to meet that office's operations.[1]
+
+During the pertinent taxing periods, Bell licensed specific switching system software programs for use in specific central offices pursuant to license agreements confected out of state with three vendors, AT & T Technologies, Inc., Northern Telecomm and Erickson. Under these license agreements, Bell acquired the limited right to use such switching system software programs; the license agreements limited Bell's right to use designated switching system software to designated   switches in designated telephone central offices. More particularly, the license agreements prohibited Bell's transfer of such software to any switch other than the designated one; prohibited Bell's sublicense, assignment, sale or transfer of the programs; prohibited Bell's use of the programs after the license expired; and required that Bell maintain strict confidentiality with regard to the programs. The license agreements also reserved to the vendors ownership of, and proprietary rights in, the switching system software programs.
+
+The vendors delivered the switching system software programs to Bell via magnetic tapes. Once received, the software programs were loaded onto Bell's switching system processors, and the magnetic tapes were either used or discarded. The vendors either billed Bell for City taxes on the magnetic tapes, or Bell automatically accrued such taxes on the magnetic tapes. Bell was neither billed by the vendors, nor accrued such taxes on the switching system software itself, however. The switching system software is thus one of the two types of software at issue in this case.
+
+The second type of software at issue in this case is data processing software. This software guides the functions of the computers located in Bell's data processing center in Orleans Parish. Bell's data processing center handles basic accounting functions, including processing customer billings and payments, storing and managing customer data and maintaining a voucher and disbursement system. Bell acquired the right to use the data processing software through its affiliate, BellSouth Services, Inc. (BellSouth). BellSouth entered into a master license agreement regarding the software out of state. BellSouth also tested, evaluated and adapted the software out of state. BellSouth then transmitted the software electronically via telephone lines to Bell's modem in Orleans Parish. As with the switching system software, the license agreements limited Bell's rights to use the software and reserved to the vendors ownership of, and proprietary rights in, the data processing software.
+
+Bell also acquired certain maintenance services in relation to both types of software. Those services consisted of updating, enhancing and reformatting the software, and advising Bell with respect to certain usages of the software.
+
+The taxes at issue in this case are use taxes levied by the City on Bell's use of the two types of software programs under § 56-21 of the City Code, and sales taxes levied by the City on Bell's payment for the related maintenance services under §§ 56-21 and 56-15(7) of the City Code.
+
+In October 1990, following an audit, the City notified Bell of a proposed tax deficiency assessment for, among other things, Bell's use of the two types of computer software and Bell's payment for maintenance services for such software during the pertinent taxable period. Bell paid the full amount of the proposed tax deficiency under protest.[2] Thereafter, in November 1990, Bell commenced the instant action, seeking to recover the taxes paid under protest and contending that the items at issue were not taxable under the pertinent provisions of the City Code.
+
+Each party filed cross-motions for summary judgment. After a hearing on the motions, the trial court denied the City's motion and granted Bell's motion in part, finding "that the sale/use tax of the City of New Orleans is not applicable to the licensing of the data process[ing] software or to the switching software." In written reasons for judgment, the district court stated "that under the essence of transaction test" neither   type of software at issue was taxable. Bell then filed a motion for amended judgment. Granting Bell's motion, the district court found "that the sale/use tax of the City of New Orleans is not applicable to the maintenance of software," and granted judgment in favor of Bell for the sum of taxes paid under protest.
+
+Affirming, the court of appeal reasoned that computer software does not fall within the definition of "tangible personal property"; rather, it falls within the definition of incorporeal property as it constitutes "intellectual property." In support of the latter conclusion, the court cited jurisprudence from other jurisdictions holding that computer software is intangible because the essence of the transaction is the acquisition of intangible information or knowledge. South Cent. Bell Tel. Co. v. Barthelemy, 93-1072, p. 5 (La.App. 4th Cir. 1/27/94), 631 So. 2d 1340, 1343. Likewise, the court found that since the maintenance services related to such intangible property and did not constitute "repairs," such services were not subject to the City's sales tax. Id. at 8-9, 631 So. 2d  at 1344-45.
+
+On the City's writ application, we granted certiorari to consider the correctness of that decision. 94-0499 (La. 4/29/94),
+637 So. 2d 451
+.[3]
+
+The city use tax is imposed by § 56-21 of the Code of the City of New Orleans:
+
+"Tangible personal property" is defined in § 56-18 of the City Code as follows:
+
+Construing this provision, we held in City of New Orleans v. Baumer Foods, Inc.,
+532 So. 2d 1381
+(La.1988), that "the term `tangible personal property' in the City Code's use tax is synonymous with corporeal movable property as used in the Louisiana Civil Code." 532 So. 2d  at 1383. See also St. John the Baptist Parish Sch. Bd. v. Marbury-Patillo Constr. Co., 259 La. 1133,
+254 So. 2d 607
+, 612 (1971); Sales Tax Collector, St. Charles Parish v. Westside Sand Co., 534 So. 2d 454, 456 (La.App. 5th Cir.1988); McNamara v. Stauffer Chem. Co., 506 So. 2d 1252 (La.App. 1st Cir.1987); Exxon Corp. v. Traigle, 353 So. 2d 314, 316-17 (La.App. 1st Cir.1977); American Sign & Indicator Corp. v. City of Lake Charles, 320 So. 2d 234, 236 (La.App. 3d Cir.1975). The application of property law concepts in this tax context is an exception to the general rule that tax laws are sui generis, B. Oreck, Louisiana Sales & Use Taxation § 2.2 (1992) (hereinafter Oreck). The reasoning behind applying property concepts in such a tax context is that the use of the common law term "tangible personal property" by the legislature, or by the various political subdivisions, was not intended to import the common law into Louisiana for purposes of sales and use tax law, nor to require the development of an entirely new body of property law for sales and use tax purposes only, but rather, the term was intended to be interpreted consistently with our civilian property concepts embodied in the Civil Code. Baumer Foods, Inc., 532 So. 2d  at 1383, n. 4 (citing Exxon Corp., 353 So.2d at 316-17); Westside Sand Co., 454 So. 2d  at 456; Stauffer Chem. Co., 506 So. 2d  at 1258.
+
+The pertinent Civil Code provisions are Louisiana Civil Code articles 461, 471 and 473. Article 461 distinguishes between corporeals and incorporeals, providing:
+
+Article 471 further defines corporeal movables as "things, whether animate or inanimate, that normally move or can be moved from one place to another." Article 473 further defines incorporeal movables as "rights, obligations, and actions that apply to a movable thing.... Movables of this kind are such as bonds, annuities, and interests or shares in entities possessing juridical personality."
+
+As a noted property law scholar has observed, under Roman law, "Material objects that could be felt or touched were given as illustrations of corporeal things. Incorporeal things were abstract conceptions, objects having no physical existence but having a pecuniary value. The illustrations given were rights of various kinds...." A.N. Yiannopoulos, Louisiana Civil Law Treatise, Property § 25 (3d Ed.1991) (hereinafter Yiannopoulos). The Louisiana Civil Code departed from the narrow Roman law conception that only "tangible objects" were corporeal; instead, "the Louisiana Civil Code of 1870 declared that perceptibility by any of the senses sufficed for the classification of a material thing as corporeal." Yiannopoulos, § 26. While the 1978 revision to the property articles used slightly different language, the official comments indicate that it was not intended to change the law. La.Civ.Code art. 461, 1978 Official Revision Comment (a). "The word `felt' in [Article 461] refers to perceptibility by any of the senses." Yiannopoulos, § 26.
+
+Planiol points out that corporeals are "things" and that incorporeals are "rights." 1 M. Planiol, Treatise on the Civil Law, No. 2174 (12th Ed.La.State Law Inst.Trans.1939) (hereinafter Planiol). Planiol goes on to state that corporeal movables comprise "all things (physical objects) which are not immovables" and that incorporeal movables are "rights." 1 Planiol, Nos. 2238 and 2244. As illustrative of incorporeal movables, Planiol cites literary, artistic and industrial ownership, stating that "[t]he temporary monopoly of exploitation which the law grants to authors and inventors is also tantamount to a right of ownership." 1 Planiol, No. 2248. Hence, the civilian concept of corporeal movable encompasses all things that make up the physical world; conversely, incorporeals, i.e., intangibles, encompass the non-physical world of legal rights.
+
+The term "tangible personal property" set forth in the City Code, and its synonymous Civil Code concept "corporeal movable," must be given their properly intended meaning. Physical recordings of computer software are not incorporeal rights to be comprehended by the understanding. Rather, they are part of the physical world. For the reasons set out below, we hold the computer software at issue in this case constitutes corporeal property under our civilian concept of that term, and thus, is tangible personal property, taxable under § 56-21 of the City Code.
+
+The taxation of computer software has only been addressed once by Louisiana appellate courts. United Companies Life Ins. Co. v. City of Baton Rouge, 577 So. 2d 195 (La.App. 1st Cir.1991), held that certain "canned" computer software was tangible property subject to sales taxation by the Parish of East Baton Rouge. That decision, however, was premised primarily on the taxpayer's attempt to invoke a prior exemption from taxation provided for by the Louisiana Department of Taxation's administrative regulations for certain computer software and did not rest on an analysis of tangibility versus intangibility. That decision is thus inapposite, and needs no further discussion.
+
+The taxation of computer software has, however, been considered by numerous courts across the country. These courts have split on the issue and have employed various analyses in reaching their decisions. The first case generally recognized as addressing the tangibility of computer software for tax purposes was District of Columbia v. Universal Computer Assoc., Inc., 465 F.2d   615 (D.C.Cir.1972), which held computer software to be intangible, and therefore not taxable. The cases following soon thereafter, likewise held computer software to be intangible for sales, use and property tax purposes. See e.g. State v. Central Computer Serv., Inc.,
+349 So. 2d 1160
+(Ala.1977); County of Sacramento v. Assessment Appeals Bd. No. 2,
+32 Cal. App. 3d 654
+, 108 Cal. Rptr. 434 (1973); First Nat'l Bank of Springfield v. Dep't of Revenue,
+85 Ill. 2d 84
+, 51 Ill.Dec. 667,
+421 N.E.2d 175
+(1981); Greyhound Computer Corp. v. State Dep't of Assessments & Taxation, 271 Md. 674, 320 A.2d 52 (1974); Commerce Union Bank v. Tidwell,
+538 S.W.2d 405
+(Tenn.1976); First Nat'l. Bank of Fort Worth v. Bullock, 584 S.W.2d 548 (Tex. Civ.App.1979).
+
+However, as computer software became more prevalent in society, and as courts' knowledge and understanding of computer software grew, later cases saw a shift in courts' attitudes towards the taxability of computer software, and courts began holding computer software to be tangible for sales, use and property tax purposes. This trend began with two cases decided just one day apartComptroller of the Treasury v. Equitable Trust Co., 296 Md. 459, 464 A.2d 248 (1983) and Chittenden Trust Co. v. King, 143 Vt. 271,
+465 A.2d 1100
+(1983). The trend continued throughout the 1980's, see e.g. Citizens & S. Sys., Inc. v. South Carolina Tax Comm'n, 280 S.C. 138,
+311 S.E.2d 717
+(1984); Hasbro Indus., Inc. v. Norberg,
+487 A.2d 124
+(R.I.1985); Creasy Sys. Consultants, Inc. v. Olsen,
+716 S.W.2d 35
+(Tenn.1986); Measurex Sys., Inc. v. State Tax Assessor,
+490 A.2d 1192
+(Me.1985); Bridge Data Co. v. Director of Revenue,
+794 S.W.2d 204
+(Mo.1990) (en banc); Pennsylvania & West Virginia Supply Corp. v. Rose, 179 W.Va. 317,
+368 S.E.2d 101
+(1988), though the trend was not uniform, see e.g. CompuServe, Inc. v. Lindley, 41 Ohio App.3d 260, 535 N.E.2d 360 (1987); General Business Sys., Inc. v. State Board of Equalization,
+162 Cal. App. 3d 50
+,
+208 Cal. Rptr. 374
+(1984); Maccabees Mut. Life Ins. Co. v. State Dep't of Treasury, 122 Mich.App. 660, 332 N.W.2d 561 (1983); Northeast Datacom, Inc. v. City of Wallingford, 212 Conn. 639, 563 A.2d 688 (1989).
+
+The issue has also been the subject of numerous articles in various legal periodicals. Most commentators agree that computer software is tangible for sales, use and property tax purposes, and thus taxable, at least to some degree. See e.g. Paul P. Hanlon, Computer Software and Sales Taxes: New Cases Take an Old Direction, 2:4 J.St.Tax'n 315 (1984); John M. Shontz, Computer Software: Time to Pay a Fair Share, TaxesThe Tax Magazine, Feb. 1990, at 162; Richard D. Harris, Note, Property Taxation of Computer Software: Northeast Datacom, Inc., v. City of Wallingford, 23 Conn.L.Rev. 161 (1990); Robert D. Crockett, Comment, Software Taxation: A Critical Reevaluation of the Notion of Intangibility, 1980 B.Y.U.L.Rev. 859 (1980); Robert L. Cowdrey, Note, Software and Sales Tax: The Illusory Intangible, 63 B.U.L.Rev. 181 (1983).
+
+In addition, computer software has generally been held to constitute "goods" under the Uniform Commercial Code. See, e.g., Schroders, Inc. v. Hogan Sys., Inc., 137 Misc.2d 738, 522 N.Y.S.2d 404 (Sup.1987); Chatlos Sys., Inc. v. National Cash Register Corp., 635 F.2d 1081 (3d Cir.1980); RRX Indus., Inc. v. Lab-Con, Inc., 772 F.2d 543 (9th Cir.1985); Communications Groups, Inc. v. Warner Communications, Inc., 138 Misc.2d 80, 527 N.Y.S.2d 341 (N.Y.City Civ. Ct.1988). See also Note, Computer Programs as Goods Under the UCC, 77 Mich. L.Rev. 1149 (1979); Bonna Lynn Horovitz, Note, Computer Software as a Good Under the Uniform Commercial Code: Taking a Byte Out of the Intangibility Myth, 65 B.U.L.Rev. 129 (1985); Shontz, supra, at 171-72.
+
+Although interesting and helpful as background, the extensive jurisprudence and writings from other jurisdictions are not determinative or controlling of the issues presented in this case. We return to a discussion of the characteristics of computer software and classification thereof as tangible or intangible under Louisiana law.
+
+To correctly categorize software, it is necessary to first understand its basic characteristics.   In its broadest scope, software encompasses all parts of the computer system other than the hardware, i.e., the machine; and the primary non-hardware component of a computer system is the program. Horovitz, supra, at 183; Kurt Stohlgren, Note, The Nature and Taxability of Computer Software, 22 Washburn L.J. 103, 104 (1982); 77 Mich.L.Rev. at 1152 n. 17 (1979) (defining software expansively as the "obverse of `hardware'"). In its narrowest scope, software is synonymous with program, which, in turn, is defined as "a complete set of instructions that tells a computer how to do something." D. Tunick and D. Schechter, State Taxation of Computer Programs: Tangible or Intangible?, TaxesThe Tax Magazine, Jan. 1985, at 54, 56. Thus, another definition of software is "a set of instructions" or "a body of information." Shontz, supra, at 162, 167.
+
+When stored on magnetic tape, disc, or computer chip, this software, or set of instructions, is physically manifested in machine readable form by arranging electrons, by use of an electric current, to create either a magnetized or unmagnetized space. Donald H. Sanders, Computers Today, 229, 233 (1988); Schontz, supra, at 162 n. 2; Stohlgren, supra, at 105. The computer reads the pattern of magnetized and unmagnetized spaces with a read/write head as "on" and "off", or to put it another way, "0" and "1".[4] This machine readable language or code is the physical manifestation of the information in binary form. Sanders, supra, at 167, 233; Stohlgren, supra, at 105.
+
+Ordinarily, at least three program copies exist in a software transaction: (i) an original, (ii) a duplicate, and (iii) the buyer's final copy on a memory device. 77 Mich.L.Rev. at 1154 n. 27. More basically, "[A] program copy is developed at the seller's computer. To deliver a copy to the buyer, the seller duplicates the program copy on software, and transports the duplicates to the buyer's computer. The duplicate is read into the buyer's computer and copied on a memory device." 77 Mich.L.Rev. at 1154 n. 27.
+
+South Central Bell argues that the software is merely "knowledge" or "intelligence," and as such is not corporeal and thus not taxable. We disagree with South Central Bell's characterization. The software at issue is not merely knowledge, but rather is knowledge recorded in a physical form which has physical existence, takes up space on the tape, disc, or hard drive, makes physical things happen, and can be perceived by the senses. See e.g. Crockett, supra, at 869-72; Cowdrey, supra, at 189-90. As the dissenting judge at the court of appeal pointed out, "In defining tangible, `seen' is not limited to the unaided eye, `weighed' is not limited to the butcher or bathroom scale, and `measured' is not limited to a yardstick." 93-1072, at p. 8-9, 631 So. 2d  at 1348 (dissenting opinion). That we use a read/write head to read the magnetic or unmagnetic spaces is no different than any other machine that humans use to perceive those corporeal things which our naked senses cannot perceive. See Crockett, supra, at 871-72; Shontz, supra, at 168; Cowdrey, supra, at 198-99.
+
+The software itself, i.e. the physical copy, is not merely a right or an idea to be comprehended by the understanding. The purchaser of computer software neither desires nor receives mere knowledge, but rather receives a certain arrangement of matter that will make his or her computer perform a desired function. This arrangement of matter, physically recorded on some tangible medium, constitutes a corporeal body.
+
+We agree with Bell and the court of appeal that the form of the delivery of the softwaremagnetic tape or electronic transfer via a modemis of no relevance. However, we disagree with Bell and the court of appeal that the essence or real object of the transaction was intangible property. That the software can be transferred to various   media, i.e., from tape to disk, or tape to hard drive, or even that it can be transferred over the telephone lines, does not take away from the fact that the software was ultimately recorded and stored in physical form upon a physical object. See Crockett, supra, at 872-74; Shontz, supra, at 168-70; Cowdrey, supra, at 188-90. As the court of appeal explained, and as Bell readily admits, the programs cannot be utilized by Bell until they have been recorded into the memory of the electronic telephone switch. 93-1072, at p. 6, 631 So. 2d  at 1343. The essence of the transaction was not merely to obtain the intangible "knowledge" or "information", but rather, was to obtain recorded knowledge stored in some sort of physical form that Bell's computers could use. Recorded as such, the software is not merely an incorporeal idea to be comprehended, and would be of no use if it were. Rather, the software is given physical existence to make certain desired physical things happen.
+
+One cannot escape the fact that software, recorded in physical form, becomes inextricably intertwined with, or part and parcel of the corporeal object upon which it is recorded, be that a disk, tape, hard drive, or other device. Crockett, supra, at 871-72; Cowdrey, supra, at 188-90. That the information can be transferred and then physically recorded on another medium is of no moment, and does not make computer software any different than any other type of recorded information that can be transferred to another medium such as film, video tape, audio tape, or books.
+
+The court of appeal rejected the analogy of computer software to such media as motion pictures, books, video tape, audio tape, etc ..., which are taxable. Like the court of appeal, the earlier jurisprudence from other states uniformly rejected the analogy to such other artistic works, finding computer software distinguishable in several respects.[5] More recent jurisprudence from other states, however, has recognized the appropriateness of such analogy, as have numerous commentators.[6] The court of appeal distinguished the purchase of these types of storage devices, such as books, films, video and audio tapes, etc ..., which hold stories, ideas, information and knowledge in physical form, by reasoning that the true essence of such transactions is the purchase of the tangible medium, not the intangible property (the artist's expressions) contained in that medium, and that without the specific tangible medium, the artist's expressions are useless, whereas computer software is separable from the tangible object upon which it is recorded. This distinction simply does not exist. As the dissenting judge at the court of appeal pointed out:
+
+93-1072, at p. 4-5, 631 So. 2d  at 1346-47 (dissenting opinion). See also Shontz, supra, at 168-170; Harris, supra, at 187.
+
+That the information, knowledge, story, or idea, physically manifested in recorded form, can be transferred from one medium to another does not affect the nature of that physical manifestation as corporeal, or tangible. Shontz, supra, at 168-170. Likewise, that the software can be transferred from   one type of physical recordation, e.g., tape, to another type, e.g., disk or hard drive, does not alter the nature of the software, Shontz, supra, at 168-170; it still has corporeal qualities and is inextricably intertwined with a corporeal object. The software must be stored in physical form on some tangible object somewhere. Shontz, supra, at 169; Crockett, supra, at 871-72; Harris, supra, at 187 n. 149. The software was reduced to physical form and recorded on a tangible object prior to delivery to Bell, and Bell maintained the software in physical form on a tangible objectthe computer hard drive. If Bell chooses to so store and use the software in the City of New Orleans, it must pay the use tax imposed on such tangible personal property.
+
+Once the software is reduced to physical form and has come to rest in the City of New Orleans, be it on tape, disk, hard drive, or other device the use tax attaches. Section 56-129 of the City Code provides in pertinent part:
+
+When the magnetic tapes, upon which the switching software was physically recorded, came to rest in the City of New Orleans, or alternatively, when the software was physically recorded into the memory of the electronic telephone switch, the use tax attached. Likewise, once the data processing software was transmitted via telephone line and then physically recorded into the memory of Bell's computer, the software came to rest in corporeal or tangible form in the City of New Orleans and the use tax attached.[7]
+
+The court of appeal found that computer software constitutes "intellectual property" and thus classified such software as an incorporeal under Louisiana Civil Code article 461. In so doing, the court of appeal relied on a line of out of state jurisprudence holding that intangible information stored on magnetic tapes or punch cards is not taxable. That line of jurisprudence is premised on the notion that a computer software program constitutes intangible knowledge or information.
+
+Commerce Union Bank v. Tidwell,
+538 S.W.2d 405
+, 407 (Tenn.1976), cited by the court of appeal, is illustrative. There, the court agreed with the taxpayer's argument that "while the intellectual processes may be embodied" in the magnetic tapes or punch cards, "the logic or intelligence of the program is an intangible property right," and that intangible right is the object of the transaction sought to be taxed. The court reasoned that "[w]hat is created and sold here is information, and the magnetic tapes which contain this information are only a method of transmitting these intellectual creations from the originator to the user." Tidwell, 538 S.W.2d  at 407.
+
+We find this line of reasoning flawed and inconsistent with our civilian property concepts outlined above. As the dissenting court of appeal judge in this case perceptively pointed out, this reasoning confuses the corporeal computer software copy itself with the incorporeal right to the software. Explaining this often confused distinction, the dissenting judge noted that the incorporeal right to software is the copyright, which in this case, as is typical in such license agreements, was reserved to the vendors. 93-1072, at p. 2, 631 So. 2d  at 1345 (dissenting opinion). What Bell acquired, and what the City was attempting to tax, was not the copyright to the software, but the copy of the software itself. It was not the copyright that operated the telephone central office switching equipment, but rather the physical copy of the software.
+
+*1249 This distinction between the right to the software and a copy of the software was aptly articulated by a noted commentator as follows:
+
+C. Samuel, Louisiana's Offense Against Intellectual Property: What Exactly Is the Offense and Is It Preempted by the United States Copyright Law?, 37 La.Bar J. 157,158 (1989). See also 18 C.J.S. Copyright §§ 2, 26 (1990); Cowdrey, supra, at 204-08. We find this distinction a valid one under Louisiana property law, and thus classify the intellectual property rights to software as incorporeal, as is clearly set out in Civil Code article 461, and as is explained by Planiol, 1 Planiol, at No. 2248, and classify the actual software copy itself as corporeal.
+
+We reject Bell's argument that what was purchased was the license or right to use the computer software, and that such license is intangible. In Saenger Realty Corp. v. Grosjean, 194 La. 470, 193 So. 710 (1940), which involved taxation of the rental of motion pictures, we rejected the taxpayer's argument that the right or license to exhibit copyrighted films was intangible. Adopting the reasoning from a New York case, we stated that "`[t]he transaction which is the subject of the tax under review consists of the transfer by the distributor to the exhibitor of the possession of corporeal property in the form of positive and negative prints of photoplays with the license to use or exhibit them for a specified time. The license to exhibit without the transfer of possession would be valueless.'" 193 So.  at 712 (quoting United Artist Corp. v. Taylor, 273 N.Y. 334, 341, 7 N.E.2d 254, 256 (1937)). Hence, we found that the license to exhibit the films was inseparable from the tangible film prints. Likewise, the license to use the software, without transferring the software, would be of no use to Bell, and the license to use the software is inseparable from the physical manifestation of the software in recorded form.
+
+We likewise decline to adopt the canned versus custom distinction invoked by a few state legislatures, commentators and courts. "Canned" software is software which has been pre-written to be used by more than one customer, or mass marketed; "custom" software is specially designed for exclusive use by one particular customer. Oreck, supra, § 2.2[1](a); Schontz, supra, at 164 n. 10, 12; Richard Harris, supra, at 171-72. Under the canned versus custom distinction, canned programs are classified as taxable on the theory that the buyer acquires an end product; whereas, custom programs are classified as non-taxable services on the theory that the buyer acquires professional services. See e.g. Hanlon, supra; Robert W. McGee, Recent Developments in the Taxation of Computer Software, 19 Golden Gate U.L.Rev. 265, 272-74 (1989).
+
+While the Louisiana Department of Taxation's current sales tax regulation regarding software adopts the "custom" versus "canned" distinction, see Oreck, supra at 2.2[1](a) (discussing the Department's regulations), it has been observed that this distinction departs entirely from the general Louisiana property law concepts applicable for making the tangible versus intangible distinction. Oreck, supra, at § 2.2[1](a), p. 2-4. See also Shontz, supra, at 166. To put it simply, whether the software is custom or canned, the nature of the software is the same.
+
+Another problem with the custom/canned distinction, as illustrated by the facts in this case, is that often the software at issue is mixed, i.e., canned software is modified to the buyer's specifications, and fits neatly into neither category. As the court of appeal commented, "the uncontroverted facts in this case tend to establish that the programs at   issue were a combination of canned and custom programs. The programs were premade but apparently significant adaptations were required before [Bell] could use them." 93-1072, at p. 8, 631 So. 2d  at 1344.
+
+As one commentator aptly articulated, several problems arise when the canned versus custom distinction is substituted for the tangible versus intangible distinction, including the following:
+
+Hellerstein and Hellerstein, 2 State Taxation, Sales and Use, Personal Income and Death and Gift Taxes § 13.05[2] (1991). See also Oreck, supra, at § 2.2[1](a), p. 2-7 (echoing these criticisms and noting that "[t]he degree of customization ..." [is] less than a credible standard. Virtually all software must be customized by the end user to operate properly.) For the foregoing reasons we reject the canned versus custom distinction, particularly where there is nothing in the ordinance to indicate that such a distinction was intended to be applicable.
+
+In sum, once the "information" or "knowledge" is transformed into physical existence and recorded in physical form, it is corporeal property. The physical recordation of this software is not an incorporeal right to be comprehended. Therefore we hold that the switching system software and the data processing software involved here is tangible personal property and thus is taxable by the City of New Orleans.
+
+The only remaining issue for us to consider is the taxability of the maintenance services Bell acquired in relation to both types of software. Those services consisted of technical support, updating, enhancing and reformatting the software, and advising Bell with respect to certain usages of the software.
+
+Only a limited number of services are taxable under the City Code. City Code §§ 56-21 and 56-15. Only those services specifically set forth in the taxing ordinance may be taxed. Intracoastal Pipe Serv., Co. v. Assumption Parish, 558 So. 2d 1296 (La.App. 1st Cir.1990); Oreck, supra, § 2.11. The City argues that the maintenance services are taxable under City Code § 56-15(7) which imposes a tax on "[t]he furnishing of repairs to tangible personal property...."
+
+The maintenance services acquired by Bell do not constitute "repairs" and thus are not taxable. The term "repairs" must be given its generally prevailing meaning and be construed according to its common usage. La. Civ.Code art. 11; La.R.S. 1:3, Webster's New Collegiate Dictionary defines "repair" as, "to restore by replacing a part or putting together what is torn or broken." The jurisprudence has similarly defined it as, to fix anything that is broken. Intracoastal Pipe Serv. Co., 558 So. 2d  at 1300, (cleaning of tubing (pipe used in oil and gas industry) did not constitute "repair services" since "the cleaning services do not `fix' anything that is broken.") "Repair services" has also been defined as a process or service which restores a thing to the condition in which it originally existed. McNamara v. Stauffer Chemical Co., 506 So. 2d 1252 (La.App. 1st Cir.1987) (restoration of spent sulfuric acid to its original condition such that it was again usable was held to constitute "repair services.") Under any of these definitions, the services acquired by Bell do not fall under the rubric of "repair services." The services provided were not to "fix" broken software but were to enhance already operable software and make it perform as efficiently as possible, and to advise Bell with respect to certain usages of the software. Therefore,   we hold that the maintenance services provided to Bell are not taxable.
+
+For the foregoing reasons, we conclude that the court of appeal erred in affirming the trial court's judgment granting Bell's motion for partial summary judgment, with respect to the taxability of the software, and accordingly reverse the judgments of the lower courts in this regard. With respect to the taxability of the maintenance services, we affirm the court of appeal judgment. The case is remanded to the trial court for further proceedings consistent with this opinion.
+
+AFFIRMED IN PART, REVERSED IN PART, AND REMANDED.
+
+WATSON, J., concurs in part and dissents in part, assigning reasons.
+
+WATSON, Justice, concurring in part and dissenting in part.
+
+The software at issue was transmitted by two methods: (1) encoded on magnetic tape; or (2) electronically transferred via telephone wires and modems. The ordinary definition or generally prevailing meaning (C.C. art. 11) of "tangible personal property" would not cover either type of software.
+
+However, state jurisprudence gives the phrase an altered meaning which may be extended to cover the taped software. Applying the expansive reasoning of the jurisprudence, the lynch pin of holding the software to be tangible personal property seems to be that it is on a floppy disc, a tape or a compact disc and the value of the software is included in the price of the disc, tape or CD. The simplest example of this type of taxation is the purchase of a software program (such as WordPerfect, Windows or Excel) at a local computer store. Who can argue that only the value of the floppy discs and the manual may be taxed and not the program?
+
+On the other hand, subscribers to "bulletin boards" can use modems and telephone connections to download software programs without being taxed. The analysis of software being taxed because it is bought on a tape or disc cannot be stretched logically to include data transmitted by modems and telephone wires.
+
+I respectfully concur on taxing the South Central Bell software purchased on tapes, but dissent as to software received electronically.
+
+[*]  Judge William Norris, III, Court of Appeal, Second Circuit, sitting by assignment in place of Justice James L. Dennis; Judge Felicia Toney Williams, Court of Appeal, Second Circuit, participating as Associate Justice Pro Tempore, effective September 1, 1994.
+
+Marcus, J., not on panel. Rule IV, Part 2, § 3.
+
+[1]  See In re Appeal of AT & T Technologies, Inc., 242 Kan. 554,
+749 P.2d 1033
+, 1041 (1988) (discussing the nature of electronic switching software).
+
+[2]  Bell paid $961,029.99 in tax, interest, penalties and audit costs. In its petition, Bell breaks this amount down into its components, two of which are relevant here. First the tax attributable to Bell's use of computer software was $434,603.42. Second, the tax attributable to the payments for maintenance services for such software was $1,559.87. Given our ultimate disposition of this case, it is unnecessary that we address Bell's exact refund rights, if any. Suffice it to say, Bell has already received a refund of part of the total assessment amount relating to other items. Moreover, the issue of Bell's right to proportionate interest, penalties and costs on the proposed tax assessment was not before the court of appeal and is thus not before this court. South Cent. Bell Tel. Co. v. Barthelemy, 93-1072, p. 1 n. 2 (La.App. 4th Cir. 1/27/94), 631 So. 2d 1340, 1341 n. 2.
+
+[3]  Bell suggests that at the court of appeal, the City did not argue that the data processing software was taxable. We find that the issue was properly raised in the City's assignments of error before the court of appeal. Further, the court of appeal did not hold that the issue was not before it. Also, before this Court, both parties have extensively briefed the issue of the taxability of both types of software. For the foregoing reasons we will address the issue of the taxability of both the switching system software and the data processing software.
+
+[4]  Though not at issue in this case, CD-ROM storage devices work on a similar concept as magnetic storage devices, but instead of using an arrangement of magnetic and unmagnetic spaces, information is stored by burning or pressing tiny pits into a thin coating of metal or other material deposited on the disk, which is then read by use of a laser light. Sanders, supra, at 241.
+
+[5]  See, e.g. First Nat'l Bank of Springfield v. Department of Revenue,
+85 Ill. 2d 84
+, 51 Ill.Dec. 667,
+421 N.E.2d 175
+, 178 (Ill.1981); Commerce Union Bank v. Tidwell,
+538 S.W.2d 405
+, 408 (1976); State v. Central Computer Services, Inc.,
+349 So. 2d 1160
+, 1162 (Ala.1977).
+
+[6]  See, e.g., Comptroller of the Treasury v. Equitable Trust Co., 296 Md. 459, 464 A.2d 248 (1983); Chittenden Trust Co. v. King,
+465 A.2d 1100
+, 1102 (1983); Citizens and Southern Sys., Inc. v. South Carolina Tax Comm'n, 280 S.C. 138,
+311 S.E.2d 717
+(1984); Hasbro Industries, Inc. v. Norberg,
+487 A.2d 124
+, 128 (R.I.1985); Shontz, supra; Harris, supra, at 184; Crockett, supra at 866-67.
+
+[7]  We need not address the issue of whether use of software, through telephonic transmission, which is never reduced to physical recordation and at rest in the City of New Orleans, is subject to the City's use tax, as that issue is not raised by the facts of this case.

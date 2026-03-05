@@ -1,0 +1,85 @@
+52610
+Andrews v. Williams
+https://law.justia.com/cases/louisiana/supreme-court/1973/281-so-2d-120-1.html
+
+52610
+Andrews v. Williams
+Court: Louisiana Supreme Court
+Release date: 1973-06-11
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1973/281-so-2d-120-1.html
+
+281 So. 2d 120 (1973)
+
+Edward ANDREWS, Plaintiff-Appellee-Relator,
+v.
+Jessie WILLIAMS, Defendant-Appellant-Respondent.
+
+No. 52610.
+
+Supreme Court of Louisiana.
+
+June 11, 1973.
+
+Rehearing Denied August 20, 1973.
+
+*121 Arnold J. Gibbs, Baton Rouge, for defendant-respondent.
+
+C. Alvin Tyler & Associates, Baton Rouge, for plaintiff-relator.
+
+TATE, Justice.
+
+This is a suit on a promissory note. The trial court held the defendant Williams liable to the maker Andrews.[1] The trial court rejected the defendant-maker Andrews' defenses (a) that he did not intend to sign any note nor to bind himself for the full amount shown by it but only for a proportionate share of it, and (b) that there was no valid consideration for the note.
+
+The court of appeal reversed. 262 So. 2d 55 (La.App. 1st Cir.1962). It essentially held that the plaintiff had not borne a burden of proving valid consideration by a preponderance of the evidence. We granted certiorari. 262 La. 457, 263 So. 2d 723 (1972).
+
+The issue, as we see it, is whether the plaintiff in a case such as this must prove only a voluntary agreement to make a reasonable payment by note arising out of an arguably valid tort claim. The court of appeal, in dismissing the suit upon the note, apparently held that, when consideration is questioned, the plaintiff-holder must additionally prove not only the claim but also that he could have won a tort suit.
+
+The controversy arose out of the following facts: The plaintiff Andrews owned a bulldozer. When not in use, this equipment was parked on a vacant lot rented by him. A group of boys ran the bulldozer without his permission, after he had drained the water and oil from it. The motor was burned up.
+
+The plaintiff's uncontradicted testimony, corroborated by an estimate secured the next day, is that the amount of the damage to the motor was $1,225.84. In addition, he lost income from being unable to use the bulldozer while it was being repaired.
+
+At this point, there is contradictory testimony by the plaintiff Andrews as compared with that of the defendant Williams and Williams' wife. Essentially, the Williamses claim that they signed the note of $1,225.84 payable to the plaintiff Andrews because they believed it to be a paper by which the parents of the several boys in the neighborhood were going to pay a proportionate share of the damages. At the trial they denied knowing whether their son had been part of the group. The son also testified in denial of any participation by him in causing the bulldozer damage.
+
+The trial court rejected such testimony. It accepted instead, as more credible and as preponderating, the testimony of Andrews and of his attorney. By this testimony, the defendant Williams had admitted that his 20-year-old son[2] was the principal actor in a group of boys who had done the damage by running the bulldozer in play without authority. Tr. 53, 57, and he signed the note understanding it was to pay for such damages.
+
+The trial court's factual finding, based upon this evidence found credible by it, should not have been disturbed on review in the absence of manifest error,[3] which we do not find.
+
+*122 The court of appeal nevertheless found that there was no consideration for the note. The apparent basis for this holding[4] is that there was insufficient proof that the defendant's son had himself done the damage and insufficient proof of the amount of the damagei.e., that the tort claim forming the consideration for the note was not proved by a preponderance of the evidence.
+
+In this holding, our brothers of the court of appeal erred.
+
+The Louisiana jurisprudence holds that, in a suit on a promissory note by a payee against the maker, once the maker casts doubt upon the consideration, the burden shifts to the payee to prove consideration by a preponderance of the evidence. La.R.S. 7:28; Cooper v. Succession of Cooper, 234 La. 832,
+101 So. 2d 686
+(1958); Moss v. Robinson, 216 La. 295, 43 So. 2d 613 (1949); Alexander v. Occhipinti, 251 So. 2d 188 (La.App.4th Cir.1971). In our opinion, the plaintiff-payee Andrews has met this burden.
+
+Under the negotiable instruments law, "value is any consideration sufficient to support a simple contract". La.R.S. 7:25. A promissory note for a sum agreed upon in compromise of a disputed claim is given for value and is supported by valid consideration. Stoltz v. Michel, 121 So. 673 (La.App.Orl.1929); cf., Hyman v. Succession of Parkerson, 140 La. 249, 72 So. 953 (1916). See decisions cited at 10 C.J.S. Bills and Notes § 151(g)(5). Forbearance from suing or judicially enforcing a claim may constitute valid consideration for a note. Robinson Lumber Co. v. Tracka & Boudreau, 173 La. 461, 137 So. 853 (1931); Quaintance v. Cook, 92 So. 2d 504 (La.App.1st Cir.1957).
+
+Thus, in the present suit upon a note given by the maker in settlement of a tort claim, the plaintiff-payee was not required to prove his tort claim on its merits in order to prove valid consideration for the note. The court of appeal erred in so holding. The plaintiff-payee sufficiently proved valuable consideration for the note by the evidence of his arguably valid tort claim against the defendant-maker and by the preponderant showing that the maker executed the note voluntarily and with understanding that it was in settlement of such tort liability.
+
+For the foregoing reasons, therefore, we reverse the judgment of the court of appeal, which had dismissed the plaintiff's suit, and we reinstate the trial court's judgment, which awarded the plaintiff-holder judgment upon his note. The defendant is cast with all costs of these proceedings.
+
+Reversed; trial court judgment reinstated.
+
+DIXON, J., concurs with reasons.
+
+DIXON, Justice (concurring).
+
+I concur in the result, but regret (respectfully) the advertence to "manifest error." This majority opinion typifies the method in which we import common law terms which have no precise meaning in Louisiana and which tend to weaken and confuse our excellent appellate system.
+
+While ostensibly applying "manifest error," the majority does exactly what this court has always done and does precisely what is meant by the Constitution which grants appellate jurisdiction on both the law and the facts. Louisiana Constitution 1921, Article 7 § 10, § 29. It reviews the facts and decides the trial court is correct (not "manifestly erroneous") and the Court of Appeal is incorrect ("manifestly erroneous?") in its factual determinations.
+
+*123 The unnecessary use of legal-sounding terms of loose definition is like the citation of C.J.S. as authorityeasy bushes behind which appellate judges hide their factual and legal findings.
+
+[1]  The trial court exonerated from liability Williams' wife, a co-maker and co-defendant. This ruling was not questioned by appeal or answer to the appeal and is no longer an issue in the case.
+
+[2]  And thus a minor for whose torts the father was responsible. Civil Code Article 2318.
+
+[3]  Town of Slidell v. Temple, 246 La. 137,
+164 So. 2d 276
+(1964); Kendrick v. Kendrick, 236 La. 34,
+106 So. 2d 707
+(1958); Moore v. Angiolette, 12 Mart. (O.S.) 532 (1823) and many intervening decisions, cited at West's Louisiana Digest "Appeal and Error". See Robertson, Appellate Review of Facts in Louisiana Civil Cases, 21 La.L.Rev. 402 (1961).
+
+[4]  Another basis for the dismissal was its incorrect disregard of the trial court's evaluation of credibility, founded upon the intermediate court's conclusion that it was "most unlikely" that parents earning $250 a month would sign a $1200 note and agree to pay $50 per month upon it.

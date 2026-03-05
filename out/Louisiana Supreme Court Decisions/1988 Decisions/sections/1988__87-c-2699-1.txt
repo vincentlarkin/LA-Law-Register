@@ -1,0 +1,101 @@
+87-C-2699
+GUARANTY BANK & TR. CO. v. Ideal Mut. Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1988/87-c-2699-1.html
+
+87-C-2699
+GUARANTY BANK & TR. CO. v. Ideal Mut. Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1988-05-23
+Author: COLE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1988/87-c-2699-1.html
+
+526 So. 2d 1094 (1988)
+
+GUARANTY BANK & TRUST COMPANY
+v.
+IDEAL MUTUAL INSURANCE COMPANY, et al.
+
+No. 87-C-2699.
+
+Supreme Court of Louisiana.
+
+May 23, 1988.
+
+*1095 Charles A. Schutte, Jr., Mathews, Atkinson, Guglielmo, Marks & Day, Baton Rouge, for applicant.
+
+Kenneth Miller, Jr., Paul West, Melanie M. Hartmann, Roy, Kiesel, Aaron & West, Baton Rouge, Daniel Caruso, Simon, Peragine, Smith & Redfearn, New Orleans, for respondents.
+
+COLE, Justice.
+
+In this suit brought by Guaranty Bank to recover under a miscellaneous indemnity bond issued in its favor, we are presented with three issues. The first is whether certain documents submitted by Guaranty with each application for endorsement under the bond were properly excluded at trial under La.R.S. 22:618(A). The second is whether the testimony and reports of certain witnesses concerning the loans covered by the bond and Guaranty's lending practices were properly excluded because their testimony and reports were based in part on these same excluded documents. Lastly, we must determine whether La.R.S. 22:1382(1)(a) limits the liability of the Louisiana Insurance Guaranty Association (LIGA) to $50,000.00, less a $100.00 deductible, without regard to the number of endorsements issued under the bond.
+
+The original defendants were Ideal Mutual Insurance Company (Ideal), Credit Protection Insurance Agency, Inc. (CPI), Allied Fidelity Insurance Company (AFIC), Allied Fidelity Corporation (AFC), and Robert C. Bundren, the agent for Ideal and CPI who supervised the implementation of the bond at Guaranty Bank. CPI entered into bankruptcy   in January of 1983. Ideal was placed in liquidation in the State of New York on February 7, 1985 and, as a result, LIGA became obligated to assume any obligation of Ideal under the miscellaneous indemnity bond issued to Guaranty. On July 15, 1986, AFIC was placed in liquidation in the State of Indiana and all Louisiana proceedings against AFIC were stayed. AFC has filed under Chapter 7 in the Bankruptcy Courts and a stay order is in effect for AFC also.
+
+In July 1981, CPI approached Guaranty to solicit its participation in an automobile loan insurance program known as "Loan-Power." LoanPower was designed to provide financing for purchasers of vehicles who did not have the customary 20% downpayment but were otherwise creditworthy. Under LoanPower, Ideal acted as "insurer" by paying the balance due on the vehicle if the borrower defaulted. Guaranty's participation in the program began when CPI arranged for the issuance of the miscellaneous indemnity bond by Ideal to insure the loans. This bond was issued to Guaranty on October 28, 1981.
+
+The program operated in this manner. Guaranty would make loans for cars and trucks to individual borrower/buyers and acquire a mortgage on the vehicle. Pursuant to the agreement, Guaranty would apply for an endorsement on the bond for each borrower. It would send to CPI an application for endorsement and other documents related to the loan and creditworthiness of each borrower. CPI would review the application and decide whether to issue an endorsement. When an endorsement issued, CPI would send the endorsement for that particular borrower to Guaranty but would keep the documents and the premium paid by the bank. If the borrower defaulted on the loan, Guaranty was to make a timely presentation of notice of default, assign the bank's rights in the vehicle to Ideal, and submit a claim to Ideal for payment. CPI, acting as agent for Ideal, would either deny the claim or adjust the loss on the claim. Within ninety days of the notice of default, Ideal was to make payment of the principal indebtedness and interest owed at the date of settlement. CPI would then be responsible for repossessing and selling the vehicle and pursuing any deficiency.
+
+Ideal reinsured 95% of its obligation under the bond with AFIC. As part of the reinsurance agreement AFC agreed to act as surety manager of the LoanPower program. AFC in turn contracted with CPI to administer the LoanPower program on a daily basis. CPI continued to receive the applications, collect the premiums and deny claims or adjust losses on the claims.
+
+While obtaining the participation of Guaranty, CPI also solicited Lieux Chevrolet Co., Inc. as a participating dealer in the LoanPower program. Lieux Chevrolet was the only dealership for which Guaranty regularly provided loan funds. This was effected by Lieux Chevrolet's assignment of their customer's notes and chattel mortgages to Guaranty. The president of Lieux Chevrolet, Ted Lieux, also sat on the Board of Directors of Guaranty Bank. Unbeknown to the defendants, Lieux Chevrolet and Guaranty already operated under a recourse agreement by which Lieux Chevrolet agreed to be responsible for any deficiency incurred by Guaranty on loans purchased from the dealer in the event the loan went into default.
+
+Shortly after the bond was issued, Guaranty began to submit applications for endorsement on vehicles sold by Lieux Chevrolet. The parties operated under the program only briefly. From October of 1981 to May of 1982, approximately 130 endorsements were submitted and issued under the bond. Guaranty Bank immediately experienced a high default rate, eventually submitting a total of 105 claims to CPI and its successor, AFC. CPI handled the claims until January 1983; AFC handled them after that time. In September 1982, CPI imposed a moratorium on the payment of claims to Guaranty, pending an audit by CPI. Prior to that date, CPI denied payment on numerous claims submitted by Guaranty.
+
+*1097 As a result of non-payment of the claims on defaulted loans, Guaranty filed suit on December 15, 1982. On December 27, 1985, LIGA filed a Motion for Partial Summary Judgment contending its liability under the bond was statutory, limited by R.S. 22:1382(1)(a) to $50,000.00, less a $100.00 deductible, regardless of the number of endorsements issued under the bond. The district court disagreed and ruled the liability limitation of § 1382(1)(a) applied to each endorsement issued under the bond.
+
+On January 17, 1986, Guaranty Bank filed a motion in limine seeking to exclude under La.R.S. 22:618(A) all documents submitted in obtaining the endorsements. The district court denied the motion. Guaranty Bank immediately sought and obtained supervisory writs vacating the district court's ruling and granting the motion as requested.
+
+The matter was tried to a jury and 88 claims were submitted for consideration. The jury determined LIGA owed 23 of the 88 claims. Prior to trial, the parties had stipulated on the principal amounts and the accrued interest on each claim. Therefore, the jury did not have to consider the dollar value of each claim. The total amount stipulated as due on the 23 claims was $170,352.53. The jury also determined that AFIC and AFC owed Guaranty, in solido, $142,403.99 less an offset of $60,195.16 owed by Guaranty to AFIC. AFIC and AFC did not appeal. The court of appeal affirmed. 517 So. 2d 208 (La.App. 1st Cir. 1987).
+
+Because we find the courts below erred in ruling certain evidence inadmissible, we reverse and remand the case for a new trial.
+
+The documents excluded, referred to by the court of appeal as an "application package," consisted of the following: Application for Endorsement under the bond, the LoanPower Evaluation form, the Customer Statement, the Vehicle Purchase Order/Sales Invoice, and the credit reports on each borrower. A brief description of several documents is helpful in understanding the case.
+
+The first section of the Application for Endorsement contains basic information on the borrower, such as name, address and Driver's License number. The second section is a worksheet which discloses the basic terms of the loan and calculates the premium due. The third section consents to the release of credit information, acknowledges that the borrower remains primarily responsible on the loan obligation and is signed by the borrower. On the reverse, there are sections to be completed by the dealer and lender, showing their respective addresses. The lender section also contains the signature of the approving loan officer. The application also instructs that the remaining documents specified above, except for the credit report, are to be attached to the application.
+
+The LoanPower evaluation form is a "rating" form to be completed by the lender to determine if the borrower qualifies for the program. The lender is obligated to take four steps before rating the borrower: (1) complete the lender's conventional loan application, (2) obtain a credit report, (3) determine from this information whether the borrower can meet the loan obligation, and (4) determine if the borrower would qualify for the loan under the lender's criteria if the borrower provided a conventional downpayment. If the lender answered the questions posed by steps three and four affirmatively, the lender was to proceed with rating the borrower to determine if the LoanPower "Minimum Acceptance Criteria" were met. The borrower was rated by scoring his creditworthiness based on his length of employment and time at present address, occupation, whether he owned his residence, quality of borrower's credit report, number of dependents, and other criteria. If the score was greater than 36 points, the borrower qualified. At the bottom of the form the lender is instructed to attach the credit report, if available, and to sign his approval.
+
+The Customer Statement is merely a standard credit application supplied by the
+
+*1098 General Motors Acceptance Corporation (GMAC). All of the information provided, such as the borrower's address, occupation, employer, monthly income and references are provided by the borrower. The form is signed by the borrower and authorizes the lender to investigate his credit and employment history.
+
+According to the testimony all of the forms necessary for the borrower to participate in the LoanPower program, including the Application for Endorsement and the LoanPower Evaluation form, were actually prepared and assembled by Lieux Chevrolet, not Guaranty Bank. By the time these documents were sent to Guaranty the vehicle had already been delivered to the borrower. The lending officer merely checked to see if all the necessary forms were included. The decision to submit a borrower to the program was made by the dealer. Under the LoanPower program, lenders were authorized to submit borrowers for participation based upon information provided by the dealer. The lender, however, remained responsible for qualifying the borrower by determining if the borrower would meet the lender's criteria for a conventional loan, verifying employment and income, and determining if the borrower met the LoanPower criteria by rating the borrower with the LoanPower Evaluation form.
+
+At trial, LIGA sought to avoid paying these claims by asserting contractual defenses contained in the indemnity bond issued by Ideal. The bond provides in part:
+
+6. Credit Review
+
+LIGA sought to introduce the documents contained in the "application package" in order to show that Guaranty failed to properly screen applicants by negligently performing the credit review required by the bond.
+
+The exclusionary provision asserted by Guaranty and relied upon by the court of appeal below is La.R.S. 22:618(A). It provides:
+
+Section 618(A), like many similar statutes in other jurisdictions, is commonly referred to as an "Entire Contract Policy Statute." The purpose of the statute is to assure that the insured is in possession at all times of the entire evidence of the insurance contract. Johnson v. Occidental Life Insurance Co. of California,
+368 So. 2d 1032
+, 1035 (La.1979). The effect of the statute is to prevent the insurer from defending a claim based upon misstatements by the insured on the application unless a copy of the application is returned with the policy to the insured. Even when a copy is returned attached to the policy, a misstatement will only provide a defense when the representation is material to the risk or   made with the intent to deceive. La.R.S. 22:619(B); 1. Couch on Insurance, § 4:11 (2d ed. 1984).
+
+In Estate of Borer v. Louisiana Health Services,
+398 So. 2d 1124
+(La.1981), the insurer sought to deny coverage under a hospitalization policy on the basis the claims were due to a preexisting condition excluded by the insurance contract. The trial court held the insurer could not assert the preexisting condition defense because the applications were not attached to the policies issued to the insured. We first noted the trial court's rationale was valid when applied to the defense of misrepresentation. However, since the preexisting condition defense is not dependent upon statements made in the application, as with the misrepresentation defense, it was irrelevant whether the application was attached to the policy. Since the insurer could show the claims were due to a preexisting condition without introducing the application as evidence, we held the failure to attach the application to the policy did not preclude the insurer from asserting the contract defense.
+
+In this case, LIGA was allowed to assert the contractual defenses. LIGA contends, however, that it was unable to effectively present the defenses because of the exclusion of the documentary evidence. By questioning Guaranty's officers on the individual loans LIGA intends to show a pattern of neglect in failing to properly evaluate the creditworthiness of the borrowers.
+
+LIGA argues § 618(A) should not apply to the facts of this case because the defense of misrepresentation has not been asserted and the veracity of the statements contained in the documents is not at issue. We agree. The purpose of this statute is to prevent the insurer from asserting the defense of misrepresentation based on statements made by the insured on the application. The contractual defenses asserted by LIGA are not dependent on the truthfulness of the statements made in these documents. The exclusion of the documents in this case does not further the intended purpose of the statute. The exclusion merely presents obstacles to proving the defenses particular to this contract. LIGA is not concerned with whether or not the statements made in these documents are true. The documents are to be introduced to show whether Guaranty complied with its duty to determine the credit worthiness of the borrower. Accordingly, we hold § 618(A) does not apply in cases where the insurer has not asserted the defense of misrepresentation and has not questioned the truthfulness of the information contained within the contract application.
+
+The court of appeal erred in excluding from evidence the documents it referred to as an "application package." This is so even conceding La.R.S. 22:618(A) was intended by the Legislature to apply to an insurance contract providing coverage by endorsements for sophisticated multiple commercial loan transactions of the nature here involved. We do question whether such was the intent of the Legislature but find it unnecessary to base our opinion upon resolution of that concern. We only note appellant's argument that the "application package" at issue in this case is not an "application" within the intent, context or meaning of § 618(A), is an argument of persuasive weight.
+
+LIGA also asserts the courts below erred in excluding the testimony of Mr. William Comben, Mr. William Coffey, and certain reports prepared by them. Citing Borer, LIGA contends it should have been allowed to present this testimony and the reports as other evidence of Guaranty's neglect to properly qualify borrowers under the LoanPower program.
+
+As reported by the court of appeal, Comben, who was qualified as an expert in consumer lending, prepared two reports based on his review of the credit reports obtained by Lieux Chevrolet and other records retained by Guaranty and Lieux Chevrolet. The court of appeal characterized these reports as a synopsis of the excluded credit reports. Mr. Coffey reviewed each borrower's file at Guaranty, Lieux, and CPI as well. From this review   he compiled "Loan Audit Sheets" on each loan, which summarized the information contained in both the excluded documents and other admissible evidence.
+
+LIGA argued it was error to exclude testimony of the information contained in the excluded documents when the statute merely prohibits the introduction of the documents themselves. The court of appeal disallowed the introduction of these reports, as well as the testimony by each of these witnesses with respect to their findings on each loan, on the basis that LIGA could not do indirectly what it could not do directly.
+
+Given our opinion previously stated concerning the applicability of § 618(A) to the documents in question, this evidence should not be excluded. The testimony and reports LIGA intends to introduce is based on evidence we have held to be admissible. Accordingly, the courts below should have allowed this evidence to be admitted.
+
+The last issue presented is whether La.R.S. 22:1382(1)(a) limits the liability of LIGA to $50,000, less a $100 deductible, without regard to the number of endorsements issued under the bond. Under this section LIGA is obligated to pay "covered claims" of an insolvent insurer up to $50,000.00, less a $100.00 deductible. The issue raised is whether each claim for payment of a defaulted loan submitted by Guaranty results in a separate covered claim under the indemnity bond. The courts below determined the $50,000.00 limit applied to each claim submitted. LIGA contends the proper interpretation of this statute provides the maximum exposure of LIGA under the indemnity bond, for all claims submitted, is $50,000.00. We disagree.
+
+La.R.S. 22:1379(3) defines a covered claim as "an unpaid claim, including one for unearned premiums, which arises out of and is within the coverage and not in excess of the applicable limits of an insurance policy...." LIGA contends this is one insurance policy in the form of an indemnity bond, insuring the loss to the obligee bank under the LoanPower program. It contends the interpretation applied below exposes LIGA to a potential liability of $1,150,000.00 on the 23 claims, and that this tremendous exposure was not intended when this legislation was adopted.
+
+The construction proposed by LIGA ignores the operation of the indemnity bond. The indemnity bond itself is not an insurance policy. The bond itself contains no policy limit. No premiums were paid to secure the bond and no risks were incurred under the bond until endorsements were accepted. Each separate application for endorsement operates as a separate policy of insurance governed by the terms of the bond. Each loan insured was a separate and distinct risk. Each was obtained by the submission of a separate premium based upon that risk. Each defaulted loan was a separate loss giving rise to a distinct and separate claim. Each claim was individually submitted for payment. This construction has not led to absurd results or tremendous exposure. As stipulated by the parties the liability of LIGA on the 23 claims is only $170,352.53. The courts below correctly held that each endorsement was a separate covered claim and LIGA's limit of liability on each covered claim was $50,000.00, less the $100.00 deductible.
+
+Because the errors committed below with respect to the admissibility of evidence have left the record incomplete, we are unable to render a decision in this case. Accordingly, the judgment below is vacated and the case remanded for a new trial consistent with the views expressed herein.

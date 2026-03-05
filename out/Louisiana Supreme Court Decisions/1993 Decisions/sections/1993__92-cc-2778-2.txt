@@ -1,0 +1,88 @@
+92-CC-2778
+Fox v. Southern Scrap Export Co., Ltd.
+https://law.justia.com/cases/louisiana/supreme-court/1993/92-cc-2778-2.html
+
+92-CC-2778
+Fox v. Southern Scrap Export Co., Ltd.
+Court: Louisiana Supreme Court
+Release date: 1993-05-24
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1993/92-cc-2778-2.html
+
+618 So. 2d 844 (1993)
+
+Rodney L. FOX
+v.
+SOUTHERN SCRAP EXPORT CO., LTD., et al.
+
+No. 92-CC-2778.
+
+Supreme Court of Louisiana.
+
+May 24, 1993.
+
+*845 Philip F. Cossich, Jr., Stephen M. Wiles, George Pivach, II, Pivach, Cossich & Pivach, Belle Chasse, for applicant.
+
+James B. Kemp, Jr., Michael F. Walther, David B. Sharpe, Phelps Dunbar, Timothy F. Burr, Edward S. Rapier, Jr., David Perry Salley, Jack Marks Alltmont, Lisa A. Condrey, New Orleans, Michael Royce Sistrunk, Metairie, for respondent.
+
+HALL, Justice.[*]
+
+The issue presented by this case is whether plaintiff's claim for damages to his leased oyster beds caused by vessels operating in navigable waters is a claim in admiralty or maritime law so as to entitle plaintiff to demand a non-jury trial under the provisions of LSA-C.C.P. art. 1732(6). Affirming the district court, the court of appeal held that the matter was one exclusively governed by state law and denied plaintiff's motion to amend his petition to designate his suit as one in admiralty and request a non-jury trial. We reverse.
+
+Plaintiff filed this action in state court[1] alleging essentially the following facts. In September of 1988, a barge, JO-601, owned by Marmac Corporation through its McDonough Marine Service Division and chartered by Southern Scrap Materials Co., Ltd., was being towed across the Gulf of Mexico by the M/V HIPPO, owned and operated by Audubon Towing, Inc. The barge contained steel scrap. During the voyage, one of the propellers of   the M/V HIPPO became tangled with the towline and the barge was cut loose and anchored. A few days later, following a hurricane, the barge was found grounded in oyster beds leased by plaintiff, Rodney L. Fox, from the state. The barge was salvaged under the direction of Solars Marine and Salvage and River Sand, Inc. More damage allegedly resulted from the salvage operation.
+
+Named defendants were the owners and operators of the vessels involved. One of the defendants requested a jury trial. Plaintiff filed a motion to amend his petition, seeking to add an allegation designating his claim as one in admiralty or maritime law, brought under the savings to suitors clause, and requesting a non-jury trial pursuant to LSA-C.C.P. art. 1732(6). The district court denied the motion. After the court of appeal denied plaintiff's writ application, this court granted writs and remanded the case to the court of appeal for briefing, argument and opinion. 596 So. 2d 542 (La.1992). Justice Watson concurred, "especially noting the Admiralty Extension Act, 46 U.S.C.A. Section 740." On remand, the court of appeal affirmed the judgment of the district court, 606 So. 2d 46 (La.App. 4th Cir.1992). We granted plaintiff's application for writs, 609 So. 2d 214 (La.1992).
+
+In reaching their decisions, the lower courts relied principally on a previous decision of the Fourth Circuit, Pace v. Chevron, U.S.A., Inc., 579 So. 2d 494 (La.App. 4th Cir.1991). In Pace, the plaintiff's oyster beds were damaged by defendant's dredging operations. In deciding whether the state's one-year prescription for tort actions or admiralty's doctrine of laches should be applied, the court held that state law applied. The court found that the state had comprehensively regulated the oyster industry, LSA-R.S. 56:422, et seq., and that state law prevailed over admiralty law. Although the court of appeal in the instant case followed Pace, it also held that even if the case were analyzed under decisions of the United States Supreme Court, this is not an admiralty case.
+
+LSA-C.C.P. art. 1732(6) provides that a jury trial is not "... available in ... [a] suit on an admiralty or general maritime claim under federal law that is brought in state court under a federal `saving to suitors' clause, if the plaintiff has designated that suit as an admiralty or general maritime claim." Under this provision, it is the plaintiff who has the right to decide if he wants a jury or non-jury trial in an admiralty or maritime case that is brought in state court. Parker v. Rowan Companies, Inc.,
+599 So. 2d 296
+(La.1992).
+
+A tort action falls within admiralty or maritime jurisdiction if the tort occurred in navigable waters and had a significant relationship to a traditional maritime activity. Executive Jet Aviation, Inc. v. City of Cleveland, Ohio,
+409 U.S. 249
+, 93 S. Ct. 493, 34 L. Ed. 2d 454 (1972). In Kelly v. Smith, 485 F.2d 520 (5th Cir.1973), the U.S. Fifth Circuit established a four-prong test for determining whether there is a significant relationship to a traditional maritime activity: (1) the functions and roles of the parties; (2) the types of vehicles and instrumentalities involved; (3) the causation and type of injury; and (4) traditional concepts of the role of admiralty law. Foremost Ins. Co. v. Richardson,
+457 U.S. 668
+, 102 S. Ct. 2654, 73 L. Ed. 2d 300 (1982) held that for a tort to be within maritime jurisdiction, it must bear a significant relationship to traditional maritime activity, but it need not affect commercial maritime activity. The primary purpose of admiralty jurisdiction is to protect maritime commerce. This federal interest necessitates that operators of vessels on navigable waters be governed by uniform rules of conduct. In Sisson v. Ruby,
+497 U.S. 358
+, 110 S. Ct. 2892, 111 L. Ed. 2d 292 (1990), the court held that the initial inquiry is whether the activity has a potentially disruptive effect on maritime commerce. The potential disruptive effect is to be determined by examining the general character of the activity, not the particular facts of the incident or the actual effect on maritime commerce.
+
+*847 The Fifth Circuit in Molett v. Penrod Drilling Co., 826 F.2d 1419 (5th Cir.1987), applied the Kelly v. Smith analysis and the indicia of "maritime flavor" indicated by the Supreme Court cases: "(1) the impact of the event on maritime shipping and commerce (2) the desirability of a uniform national rule to apply to such matters and (3) the need for admiralty `expertise' in the trial and decision of the case." Molett, 826 F.2d  at 1426. This test does not alter the Kelly test and it encompasses all the original Kelly factors. Miller v. Griffin-Alexander Drilling Co., 873 F.2d 809 (5th Cir. 1989).
+
+This case clearly falls within admiralty or maritime jurisdiction because it meets all of the tests established by Executive Jet, Foremost, Sisson, Kelly, and Molett.
+
+The tort occurred on navigable waters in which the vessels were operating and under which the oyster beds were located. The damage to the oyster beds was occasioned by vessels, which brings the case under the Admiralty Extension Act[2], even if oyster beds are considered land. See, Southern Natural Gas Co. v. Gulf Oil Corp., 320 So. 2d 917 (La.App. 3d Cir.1975). The instrumentalities involved were vessels. Both plaintiff and defendants were involved in pursuits that have a maritime flavor[3], and involved maritime commerce. Oyster harvesting has been held to be a traditional maritime activity. Union Oil Company v. Oppen, 501 F.2d 558 (9th Cir. 1974); Potomac River Ass'n Inc. v. Lundeberg Md. Sea. Sch., Inc.,
+402 F. Supp. 344
+(D.Md.1975); and Burgess v. M/V Tamano,
+370 F. Supp. 247
+(D.Me.1973). Additionally, oyster cultivation and harvesting is analogous to commercial fishing, which has a sufficient maritime nexus. Bordelon v. T.L. James & Co., 380 So. 2d 226 (La.App. 3d Cir.1980). As for the defendants, there is no question that they were involved in activities that were maritime in nature. They operated a tow and a barge and conducted salvage operations. The towing, cutting loose and anchoring of the barge, and the salvage operation, had a potentially disruptive impact on maritime commerce. Finally, the damage to the oyster beds was alleged to have resulted from the defendants' negligence in navigation and choice of salvage methods. The uniform rules of navigation and salvage, as well as maritime expertise, will be needed to resolve the issue of the defendants' negligence.
+
+Thus, since this case is one in admiralty or maritime, the plaintiff is entitled to elect to have a non-jury trial under the provisions of LSA-C.C.P. art. 1732(6).
+
+Classification of the claim as one in admiralty will also be important in determining the substantive law to be applied, but issues of what law to apply are not presented and do not need to be decided at this time. We note that application of federal maritime law does not preclude application of state law to supplement and fill in the gaps in federal admiralty law. Thus, the oyster statutes, LSA-R.S. 56:422, et seq., may be applied when not in conflict with federal maritime law. See, Askew v. American Waterways Operators,
+411 U.S. 325
+, 93 S. Ct. 1590, 36 L. Ed. 2d 280 (1973); Green v. Industrial Helicopters, Inc.,
+593 So. 2d 634
+(La.1992); Rodrigue v. LeGros,
+563 So. 2d 248
+(La.1990).
+
+For the reasons assigned, the decisions of the lower courts are reversed, the plaintiff's motion is granted, and the case is   remanded to the district court for further proceedings.
+
+REVERSED AND REMANDED.
+
+[*]  Pursuant to Rule IV, Part 2, § 3, Justice Lemmon was not on the panel which heard and decided this case. See the footnote in State v. Barras,
+615 So. 2d 285
+(LA 1993).
+
+[1]  In suits governed by admiralty or maritime law, state and federal courts have concurrent jurisdiction. Lavergne v. Western Co. of No. America, Inc.,
+371 So. 2d 807
+(La.1979); Jackson v. Lykes Bros. Steamship Co.,
+386 U.S. 731
+, 87 S. Ct. 1419, 18 L. Ed. 2d 488 (1967). In federal court that jurisdiction is provided by U.S. Const. Art. III, § 2 and 28 U.S.C. § 1333 which provides that "[t]he district courts shall have original jurisdiction, exclusive of the courts of the States, of: (1) Any civil case of admiralty or maritime jurisdiction, saving to suitors in all cases all other remedies to which they are otherwise entitled." The "saving to suitors" clause, contained in § 1333(1), allows a plaintiff to bring his admiralty claim in state court.
+
+[2]  The Admiralty Extension Act, 46 U.S.C. § 740 states in part:
+
+The admiralty and maritime jurisdiction of the United States shall extend to and include all cases of damage and injury, to person or property, caused by a vessel on navigable waters, notwithstanding that such damage or injury be done or consummated on land.
+
+[3]  The court of appeal erred in focusing on the activity of the party injured instead of the activity of the injuring party. The activity of each party should be considered. Woessner v. Johns-Manville Sales Corp., 757 F.2d 634 (5th Cir. 1985). The cases cited by the court of appeal, unlike the present case, involved non-maritime defendants; thus, the focus on the maritime activities of the injured plaintiff rather than those of the defendants in those cases.

@@ -1,0 +1,111 @@
+82-KA-0195
+State v. Mitchell
+https://law.justia.com/cases/louisiana/supreme-court/1982/82-ka-0195-1.html
+
+82-KA-0195
+State v. Mitchell
+Court: Louisiana Supreme Court
+Release date: 1982-10-18
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1982/82-ka-0195-1.html
+
+421 So. 2d 851 (1982)
+
+STATE of Louisiana
+v.
+Tyronne MITCHELL.
+
+No. 82-KA-0195.
+
+Supreme Court of Louisiana.
+
+October 18, 1982.
+
+Rehearing Denied November 19, 1982.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John M. Mamoulides, Dist. Atty., Abbott Reeves, Stephen Little and William C. Credo, III, Asst. Dist. Attys., for plaintiff-appellee.
+
+Theon A. Wilson, New Orleans, for defendant-appellant.
+
+LEMMON, Justice.
+
+The principal issue in this appeal is whether defendant's statement to a police officer regarding his addiction to codeine was admissible to prove that he knowingly obtained a controlled substance (an amberyl expectorant containing codeine) by using a forged prescription. See R.S. 40:971 B(1)(b). A related issue is whether the state's evidence was sufficient to support the jury's finding that defendant had knowledge of the forged nature of the prescription.[1]
+
+Defendant entered a pharmacy and presented a document which purported to be a prescription for amberyl expectorant. At the top of the document was the printed name of Dr. Janifer Roberts, and at the bottom was a signature which purported to be that of Dr. Roberts. The prescription was supposedly issued to "Tyrone Wilson".
+
+When the prescription aroused the pharmacist's suspicions, he called Dr. Roberts.[2] She unhesitatingly denied writing the prescription and informed the pharmacist that a pad of blank forms had recently been   stolen from her office. The pharmacist alerted the store security guard, who in turn contacted the police. The pharmacist then filled the prescription and sent a package containing the medicine to the counter, to be delivered to the customer who had presented the prescription. When defendant picked up the package, he was detained, and the controlled substance was seized by the security officer. Defendant and the substance were turned over to the police shortly thereafter.
+
+Defendant advised Officer Hurly at the store that the prescription was not for him, but rather that he was "picking it up for a friend". After confirming with the doctor that the prescription was forged, Hurly told defendant that he was under arrest and advised him of his rights, as required by La. Const. Art. I, § 13 (1974). He was then taken to the police station to be booked. C.Cr.P. Art. 228.
+
+When they arrived at the police station, Officer Hurly began filling out a standard arrest report. Without repeating the Miranda advice, the officer asked the defendant numerous questions concerning his name, address, age, height, weight, occupation and health status. In response to a question about drug addiction, defendant stated that he was addicted to codeine. Since codeine was the controlled substance in the allegedly prescribed expectorant, the defendant's statement concerning addiction to that substance was of significant evidentiary value in proving defendant's guilty knowledge.[3]
+
+Admissibility of the Statement
+
+Under the facts and circumstances of this case, the trial court did not err in permitting the officer to testify concerning the statement. There is no suggestion in the record that defendant was not adequately advised of his rights at the time of his arrest.[4] He was made fully aware that any statement he made to the officer might be used against him, and there is not even a hint of evidence challenging the officer's testimony that defendant understood his rights.[5]
+
+At the time the question about drug addiction was asked and answered, defendant was aware of his rights.[6] Although the state must prove that defendant intelligently and voluntarily waived his rights in order for a custodial statement made in response to "interrogation" to be admissible, the state has borne that burden in this case. See Tague v. Louisiana,
+444 U.S. 469
+, 100 S. Ct. 652, 62 L. Ed. 2d 622 (1980); North Carolina v. Butler,
+441 U.S. 369
+, 99 S. Ct. 1755, 60 L. Ed. 2d 286 (1979); Rhode Island v. Innis,
+446 U.S. 291
+, 100 S. Ct. 1682, 64 L. Ed. 2d 297 (1980). In proving an intelligent waiver of the rights to silence, self-incrimination and counsel, the state need not show that defendant was aware of the full evidentiary significance of his statements.
+
+Furthermore, the fact that the officer told defendant that information about injuries,   addiction to drugs and such matters would aid the jailers in providing for any medical needs did not of itself render the statement involuntary or otherwise inadmissible, in the absence of any indication of a bad-faith effort to trick or deceive defendant or to overwhelm his will by threats or subtle coercion.[7]
+
+Defendant clearly knew that officers had him under arrest for obtaining drugs by means of a forged prescription and that he was in the presence of persons seeking to gather evidence to prove his guilt. Moreover, the officer himself was not aware, at the time of the questioning, that the answers by defendant would have evidentiary significance, and he was merely attempting to gather routine information which might be useful if medical problems arose. While not obviating the necessity of an initial advice of Miranda rights (as was done here) when there is a reasonable possibility that the question might elicit an incriminating response (see Rhode Island v. Innis, above), these factors are pertinent to the negating of any claim that the postarrest questioning was a sham designed to trick, coerce or cajole the suspect into divulging information which he could not have known might be used against him. Compare State v. Weedon,
+342 So. 2d 642
+(La.1977), in which this court suppressed statements elicited from the defendant during the booking process after officers explicitly agreed with defense counsel not to question defendant about the offense.
+
+Therefore, the evidence in this record supports the trial judge's conclusion that the state carried its burden of proving that the statement was voluntarily given and that defendant knowingly waived his Miranda rights prior to responding to the officer's questions.
+
+Sufficiency of Evidence
+
+The evidence established beyond a reasonable doubt that defendant obtained a controlled dangerous substance by means of a forged prescription. Defendant's explanation to arresting officers that he was "picking the prescription up for a friend" suggested that he did not do so "knowingly", and the state bears the burden of proving every element of the offense.[8]
+
+In prior cases in which this court has reversed convictions for obtaining controlled substances with forged prescriptions, the evidence, although sufficient to prove that forged prescriptions were used, was insufficient to prove the essential scienter element.[9] Although the instant appeal also presents a case in which the forged prescription was presented to the pharmacist by a person other than the person purportedly named in the prescription to receive the drug, defendant's statement concerning his codeine addiction formed the basis from which a rational juror could draw the inference of guilty knowledge and could conclude beyond a reasonable doubt that defendant knowingly used a forged prescription to obtain the drug to which he was addicted.
+
+Defendant's conviction and sentence are affirmed.
+
+DIXON, C.J., concurs.
+
+[1]  Defendant's other assignment of error lacks any arguable merit and is treated in an appendix, which is unpublished, but forms part of the official record in this case.
+
+[2]  The pharmacist, who described a recent rash of forged prescriptions, testified that this was the second prescription from Dr. Roberts that same day. He found that unusual, since he had not previously received any prescriptions from Dr. Roberts. In her testimony, Dr. Roberts pointed out some other irregularities, such as the misspelling of the name of the prescribed drug and the failure of the "physician's signature" to have "M.D." written behind it.
+
+[3]  In closing argument, the prosecutor alluded to defendant's statement about codeine addiction as important evidence that defendant (who did not testify, but whose exculpatory explanation was nevertheless presented to the jury) was fully aware that he was presenting a forged prescription. The defense argument, understandably, had centered on the state's failure to prove guilty knowledge.
+
+[4]  See Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966); La. Const. Art. I, § 13 (1974).
+
+[5]  The court conducted a hearing, outside the presence of the jury, on the circumstances surrounding the challenged statement. Defendant failed to avail himself of his right to testify out of the presence of the jury concerning the free and voluntary nature of his statement. See C.Cr.P. Art. 703; State v. Lovett,
+345 So. 2d 1139
+(La.1977). See also State v. Dison,
+396 So. 2d 1254
+(La. 1981); State v. Day,
+391 So. 2d 1147
+(La.1980).
+
+[6]  Although the arresting officer did not readvise defendant of his rights at the booking station, the advice had been fully given (and was shown to have been understood) only about 30 minutes earlier. Furthermore, the booking questions were asked by the same officer who had previously given the advice of rights.
+
+[7]  We need not decide in this case under what circumstances a "trick" might defeat admissibility of an inculpatory statement. See People v. Castello, 194 Cal. 595, 229 P.2d 855 (1924); Frazier v. Cupp,
+394 U.S. 731
+, 89 S. Ct. 1420, 22 L. Ed. 2d 684 (1969). In this case, defendant was not made any promises of immunity in exchange for his cooperation. See State v. Dison, above; R.S. 15:451. Nor did he allege that he was in a state of physical pain or otherwise unable to understand or act rationally because of drug addiction, intoxication or any other cause. See Mincey v. Arizona,
+437 U.S. 385
+, 98 S. Ct. 2408, 57 L. Ed. 2d 290 (1978); State v. Sears,
+298 So. 2d 814
+(La.1974); State v. Glover,
+343 So. 2d 118
+(La.1977).
+
+[8]  Because the indictment charged defendant under R.S. 40:971, rather than under the general forgery article (R.S. 14:72), the state was not required to prove that defendant acted with a specific intent to defraud. See State v. Raymo,
+419 So. 2d 858
+(La. 1982).
+
+[9]  See State v. Goiner,
+410 So. 2d 1085
+(La.1982); State v. Brown,
+352 So. 2d 690
+(La.1977).

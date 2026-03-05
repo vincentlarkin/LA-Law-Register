@@ -1,0 +1,119 @@
+67303
+State v. Coleman
+https://law.justia.com/cases/louisiana/supreme-court/1980/390-so-2d-865-1.html
+
+67303
+State v. Coleman
+Court: Louisiana Supreme Court
+Release date: 1980-11-10
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/390-so-2d-865-1.html
+
+390 So. 2d 865 (1980)
+
+STATE of Louisiana
+v.
+Lillie Mae COLEMAN.
+
+No. 67303.
+
+Supreme Court of Louisiana.
+
+November 10, 1980.
+
+*867 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., James D. Caldwell, Dist. Atty., George F. Fox, Asst. Dist. Atty., for plaintiff-appellee.
+
+Voelker, Ragland, Brackin & Crigler, Charles R. Brackin, Lake Providence, for defendant-appellant.
+
+DIXON, Chief Justice.
+
+For approximately five years, Lillie Mae Coleman received welfare benefits. In order to demonstrate eligibility, she completed forms in which she represented that Anderson Coleman, her husband, neither lived with her nor supported her and her six minor children. The state, believing these statements to be false, charged Mrs. Coleman with three counts of theft.[1] She was convicted and sentenced to three years at hard labor.
+
+The state's principal witness at trial was Daniel Mallette, a fraud investigator for the Office of Family Security. Mallette testified that he conducted a surveillance of Mrs. Coleman's residence and had twice observed Anderson go there in the middle of the night. The rural mail carrier testified that she had delivered Anderson's mail to Mrs. Coleman's house, and had occasionally seen Anderson's red pick-up truck parked in front of the residence. The operator of the local Otasco store testified that he had sold two refrigerators, a washing maching and other items to Anderson, who listed his address as that of Mrs. Coleman. The items were delivered to Mrs. Coleman's residence. The vice president of a local bank testified that his bank extended several loans to Anderson and in all instances Anderson listed his address as that of Mrs. Coleman. The state also introduced signed statements by Anderson and Mrs. Coleman in which they admitted that they were living together while she was receiving the welfare benefits. The admissibility of these statements is challenged in this appeal. Because we find that the assignments of error lack merit, we affirm the conviction and sentence.
+
+These assignments of error deal with a statement signed by Anderson admitting that he and his wife were living together while she was receiving welfare benefits. At trial, the state called Anderson as a witness. Anderson denied that he had lived with his wife while she was receiving the benefits. Furthermore, he told the prosecutor that he did not remember signing any statement in which he admitted living with his wife at that time. During direct examination, the state proceeded to impeach Anderson's credibility pursuant to R.S. 15:487, which allows a party to impeach his witness because of surprise or hostility. Defense counsel did not object to   the impeachment. In fact, he told the trial judge he realized that the state had a right to impeach Anderson and that the process was "perfectly legitimate." Defense counsel did object, but his objections were directed to the voluntariness of the statement with which the state sought to impeach Anderson. While not objecting contemporaneously to the propriety of the impeachment, defense counsel, in his assignment of error No. 4, contends that the state knew all along that Anderson would deny having lived with Mrs. Coleman and therefore that the requirements of R.S. 15:487 were not met. This court will not review the propriety of the impeachment because no contemporaneous objection was made. See State v. Kelly,
+375 So. 2d 1344
+(La.1979); State v. Valentine,
+364 So. 2d 595
+(La.1978); State v. Holstead,
+354 So. 2d 493
+(La.1977).
+
+Regarding the objection actually lodged, defendant contends that the trial judge erred in ruling that Anderson's statement was free and voluntary. She claims that the state did not meet the requirements of R.S. 15:451, which provides:
+
+By advancing this argument, defense counsel assumes that this article is applicable to statements introduced for the limited purpose of impeaching a witness' credibility. R.S. 15:451, however, is designed to protect the constitutional rights of the defendant. By imposing an affirmative burden on the state to show that a defendant's confession was freely and voluntarily given, that article safeguards a defendant's Fifth Amendment protection against self-incrimination. R.S. 15:451 is a corollary of R.S. 15:452, which provides that "[n]o person under arrest shall be subjected to any treatment designed by effect on body or mind to compel a confession of crime."
+
+Furthermore, even if we were to find R.S. 15:451 to be applicable to confessions of guilt by witnesses in criminal prosecutions, R.S. 15:451 would still not be applicable in the instant case. The statement by Anderson, in which he admitted living with his wife, is not a "confession" as that term is defined in R.S. 15:449:
+
+Anderson's admission that he had been living with his wife simply does not evince criminal intent. See generally State v. Andrus, 250 La. 765,
+199 So. 2d 867
+(1967); Comment, Confessions in Louisiana Law, 14 La.L.Rev. 642 (1954). For the foregoing reasons, there was no burden on the state to prove, as a prerequisite to admissibility, that Anderson's statement was freely and voluntarily given. Assignment of Error No. 4 lacks merit.
+
+In her first assignment of error, defendant contends that the judge erred in denying her motion for a mistrial when Mallette told the jury that Anderson had admitted living with Mrs. Coleman. The judge sustained defendant's objection and admonished the jury to disregard the remark. As discussed above, the statement was later admitted into evidence for the limited purpose of impeaching Anderson's credibility, and Mallette was called upon to testify about the circumstances surrounding the taking of the statement from Anderson.
+
+There was no error in denying the motion for a mistrial, and no merit in this assignment.
+
+This assignment of error concerns Mallette's unsolicited, unresponsive answer to the question: "What can you personally testify to that would lead us to believe ... [t]hat, in fact, he did live there and he did support them." Mallette's response consisted of summaries of things that he heard Anderson had done. Defense counsel objected to the testimony as hearsay, but his   objection was overruled.[2] While this court agrees with defendant that the statement constituted impermissible hearsay, testimony by other witnesses clearly established most of the factors mentioned by Mallette. Due to the cumulative nature of Mallette's testimony, any error here was harmless. C.Cr.P. 921; State v. Williams,
+366 So. 2d 1365
+(La.1978).
+
+This assignment of error lacks merit.
+
+Defendant contests the trial judge's admission of a written statement signed by Mrs. Coleman in which she admitted that her husband had been living with her. The defendant contends that the state had not "affirmatively shown that it was free and voluntary, and not made under the influence of fear, duress, intimidation, menaces, threats, inducement or promises." R.S. 15:451.
+
+Mrs. Coleman testified for the limited purpose of showing the circumstances surrounding the taking of the statement. On direct examination the following exchange occurred:
+
+In direct contrast to Mrs. Coleman's version was the testimony of Mallette and Mrs. Nettie Robinson, an eligibility worker for the Office of Family Security. Mallette wrote down the statement after questioning Mrs. Coleman; Mrs. Robinson, who was present, witnessed the event. They testified that Mrs. Coleman was advised of her Miranda rights, that no force or intimidation was used, and that no promises or inducements were made. Defense counsel in brief urges that the confession was procured by promises that Mrs. Coleman would not be prosecuted if she paid back the money. This allegation is thoroughly refuted by the testimony of Mallette and Mrs. Robinson. The admissibility of a confession is in the first instance a question for the trial judge. His conclusions on the credibility and weight of testimony relating to the voluntariness of a confession will not be overturned on appeal unless they are not supported by the evidence. State v. Gaines,
+354 So. 2d 548
+(La.1978); State v. Hutto,
+349 So. 2d 318
+(La.1977); State v. Adams,
+347 So. 2d 195
+(La.1977). In the instant case there is ample evidence in the record to support the trial judge's determination that the confession was voluntary.
+
+This assignment lacks merit.
+
+By this assignment of error defendant contests the trial judge's refusal to give the jury a special charge on entrapment. The judge's refusal was based on his conclusion that employees of the Office of Family Security are not law enforcement officials of the state. Pretermitting that issue, it is clear that defendant presented no evidence to justify this special charge. Mrs. Robinson testified that her office did not solicit people to apply for food stamps, and there is no evidence that people were induced to lie in order to receive food stamps or other forms of welfare. The trial judge properly refused to give defendant's special charge. Louisiana State Bar Association v. Quaid,
+368 So. 2d 1043
+(La.1979); State v. Fox, 251   La. 464,
+205 So. 2d 42
+(1967); State v. Johnson, 250 La. 85,
+193 So. 2d 794
+(1967).
+
+This assignment is without merit.
+
+In this assignment of error defendant contends that because twenty-three of the sixty prospective jurors comprising the petit jury venire were either excused or absent, she was deprived of a trial by jury composed of a fair cross section of the community. No evidence (except the fact of high absenteeism) was adduced to support this contention. When allegations of prejudice are not substantiated by any evidence offered as proof of that fact, this court will not overturn the trial judge's ruling. State v. Badon,
+338 So. 2d 665
+(La.1976); State v. Bluain,
+315 So. 2d 749
+(La.1975); State v. Elie, 257 La. 130, 241 So. 2d 515 (1970); State v. Ceaser, 249 La. 435,
+187 So. 2d 432
+(1966).
+
+This assignment of error lacks merit.
+
+In this assignment defendant contends that the trial judge erred in denying her motion for new trial on the basis of newly discovered evidence. The burden on a defendant in obtaining a new trial on this basis is twofold: first, he must demonstrate that the evidence was not discoverable before or during trial despite the exercise of reasonable diligence; second, he must show that "if the evidence had been introduced at the trial it would probably have changed the verdict or judgment of guilty ..." C.Cr.P. 851(3). Neither burden has been met in this case.
+
+Mrs. Coleman offered no evidence at trial. At the hearing on the motion for a new trial, she offered the testimony of a good friend who attended the same church and the testimony of a relative by marriage who has lived across the street since 1976. Neither witness had been asked to testify at the trial. Defense counsel's assertion in brief that "defendant was unable to find witnesses willing to come forward in her behalf because they did not want to get involved ..." does not satisfy the requirement of reasonable diligence.
+
+Assuming, however, that these witnesses were not discoverable until after the trial, it does not seem that their testimony probably would have changed the verdict. The church friend testified that Anderson and Mrs. Coleman came to church in separate vehicles, and did not sit together. However, that witness also testified that Anderson was a deacon and that deacons did not sit with the general congregation. The neighbor testified that he saw Anderson over at Mrs. Coleman's only occasionally, and that Anderson never stayed long. The testimony of these two witnesses is inconclusive and not so material that it probably would have changed the verdict.
+
+This assignment of error lacks merit.
+
+For the foregoing reasons, the conviction and sentence are affirmed.
+
+WATSON, J., dissents.
+
+[1]  The bill of information charges Mrs. Coleman with the following counts:
+
+"Count No. 1 Between February, 1973 and June 1978, Lillie Mae Coleman committed theft of Food Stamps, having a value of $5,792.00,
+
+Count No. 2 Between November, 1972 and June, 1978, Lillie Mae Coleman committed theft of Aid to Families with Dependent Children checks having a value of $8,041.00.
+
+Count No. 3 Between October, 1973 and June, 1977, Lillie Mae Coleman committed theft of Medical Vendor Payment checks having a value of $3,362.29."
+
+The six member jury convicted Mrs. Coleman of "theft of property of approximately $17,000 in value," one of the "responsive verdicts to the offense charged." Apparently, the state treated the criminal conduct as one offense.
+
+[2]  Immediately before defense counsel objected to Mallette's testimony as hearsay, Mallette had stated that Anderson "was seen at the house at night." After the objection was lodged, the witness blurted out: "I saw him. I saw him." Id. It was on this basis that the objection was overruled. Defense counsel did not clarify his objection at that time and arguably no contemporaneous objection was made. Nevertheless, we have addressed the merits of the objection.

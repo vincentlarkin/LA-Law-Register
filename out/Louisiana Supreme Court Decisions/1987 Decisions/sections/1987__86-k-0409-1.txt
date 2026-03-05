@@ -1,0 +1,141 @@
+86-K-0409
+State v. Arvie
+https://law.justia.com/cases/louisiana/supreme-court/1987/86-k-0409-1.html
+
+86-K-0409
+State v. Arvie
+Court: Louisiana Supreme Court
+Release date: 1987-04-06
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/86-k-0409-1.html
+
+505 So. 2d 44 (1987)
+
+STATE of Louisiana
+v.
+Kallan ARVIE.
+
+No. 86-K-0409.
+
+Supreme Court of Louisiana.
+
+April 6, 1987.
+
+Rehearing Denied May 28, 1987.
+
+Julie LeBlanc, Julie E. Cullen, Baton Rouge, for applicant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. William Pucheu, Dist. Atty., Allen Rozas, Asst. Dist. Atty., for respondent.
+
+LEMMON, Justice.
+
+The principal issue in this case is whether the prosecutor's use of the fact of defendant's post-arrest silence for impeachment purposes warrants reversal of defendant's conviction of forcible rape, although defense counsel failed to make contemporaneous objections to the prosecutor's questions which brought out this fact. We conclude that the circumstances of this case do not warrant an exception to the contemporaneous objection rule of La.C. Cr.P. art. 841.
+
+The alleged victim of the rape was the twenty-year old sister of the woman with whom defendant was living at the time of the incident. Defendant and his girl friend had gone out for the evening, and the   victim had agreed to spend the night at her sister's apartment to take care of the sister's children. Defendant and his girl friend argued outside a lounge later that evening, and defendant returned to the apartment. According to the victim, defendant entered the bedroom in which she was sleeping with the children, slapped her several times, threatened her when she screamed, and raped her. After promising not to tell her sister about the incident, the victim escaped through a window and ran two blocks to a friend's house. Upon receiving a report of the rape, the police went to defendant's apartment, where they awakened defendant and arrested him.
+
+At trial, the friend to whose home the victim had fled described the victim's hair as "messed up" and her face as red "like she had been slapped". The medical examination of the victim indicated a recent sexual encounter, and the victim's emotional state was reported as consistent with that of a woman who had been raped.
+
+Defendant in his testimony admitted sexual intercourse with the alleged victim, but insisted that she seduced him and made up the rape story because of a sense of guilt. Defendant's girl friend testified that she did not believe her sister's accusations.
+
+During the cross-examination of defendant, the prosecutor repeatedly referred to defendant's failure at the time of his arrest to tell the police the exculpatory version of the incident that he had related to the jury on direct examination. The following questions and answers are illustrative:
+
+Earlier in the trial, the prosecutor had brought out, through the testimony of the arresting officers, that defendant had been arrested at 3:00 a.m., had been told he was accused of raping a person (with whom he now admits he had just had intercourse), and had made no protest nor any statement whatsoever. It was also shown that defendant, upon being advised of his rights at the police station, declined to make a statement until he spoke to an attorney.
+
+In Doyle v. Ohio,
+426 U.S. 610
+, 96 S. Ct. 2240, 49 L. Ed. 2d 91 (1976), the defendants remained silent after being expressly advised of their right to do so. At trial, each defendant took the stand and gave a plausible exculpatory account of the drug transaction which was not contradicted by direct evidence. Over objection, the prosecutor asked each defendant why he had not told his version to the police prior to trial. The Court reversed the conviction, holding that "the use for impeachment purposes of petitioners' silence, at the time of arrest and after receiving Miranda warnings, violated the Due Process Clause of the Fourteenth Amendment." Id. at 619, 96 S. Ct.  at 2245. The court reasoned:
+
+Id. at 617, 96 S. Ct.  at 2244.
+
+Thus, the prosecutor may not use the fact of an accused's exercise of his constitutional right to remain silent, after he has been advised of this right, solely to ascribe a guilty meaning to the silence or to undermine by inference an exculpatory version related by the accused for the first time at trial.[1] The record in this case   makes it evident that the sole purpose of the prosecutor's questions was to emphasize to the jury that defendant at the time of his arrest (the time when a lay person might expect the accused to come forward immediately with the truth) did not claim that the intercourse was consensual. The problem inherent in Doyle was present in this casethe prosecutor attempted to use the fact of defendant's silence to persuade the jury that defendant had nothing to say in his defense, although the silence may merely have meant that defendant was relying on the arresting officer's assurance that he had the right to remain silent. Since the trial was essentially a swearing match between the only two witnesses to the incident, this improper use of the fact of post-arrest silence for impeachment purposes would arguably warrant a reversal.
+
+When this issue was raised on appeal, the intermediate court noted that the defense had failed to object to the prosecutor's questions at any point during the trial and ruled that counsel's failure to make a timely objection prevented review of the error. Finding no merit in any other assignment of error, the court affirmed the conviction and sentence. 482 So. 2d 1083.
+
+The defense generally cannot avail itself of an error which was not objected to at the time of occurrence. La.C. Cr.P. art. 841. One purpose of the contemporaneous objection rule is to require counsel to call an error to the judge's attention at a time when the judge may correct the error. The rule also prevents defense counsel from "sitting on" an error and gambling unsuccessfully on the verdict, and later resorting to appeal on an error which might have been corrected at trial. State v. Mart,
+419 So. 2d 1216
+(La.1982).
+
+On very rare occasions, this court has refused to apply the contemporaneous objection rule as a bar to review of an error which was so fundamental that it struck at the very essence of the reliability of the fact-finding process.[2] In State v. Williamson,
+389 So. 2d 1328
+(La.1980), the judge instructed the jury on the essential elements of first and second degree murder as those crimes were defined under statutes which had been amended to redefine the crimes before the date of the charged crime. Apparently the prosecution and the defense shared the court's misconception, and there were no objections to the instruction. This court reversed the conviction, despite the absence of a contemporaneous objection, noting that a substantial error in the very definition of the charged crime was of such importance and significance as to violate the fundamental requirements of due process. The concurring opinion noted that very few errors are so prejudicial as to warrant disregarding the contemporaneous objection rule.[3] Nevertheless, one could hardly imagine an error which more seriously affects the fairness of a judicial proceeding or which is more prejudicial to the fundamental rights of an accused than a jury instruction which incorrectly defines the crime with which the accused is charged.
+
+In State v. Green,
+493 So. 2d 588
+(La. 1986), this court again considered an error to which no contemporaneous objection had been made at trial. During Green's trial on the charge of third offense theft, the trial judge failed to instruct the jurors that they were to consider Green's prior theft convictions only for the purpose of sentence enhancement and not for the purpose of determining his guilt or innocence. Although defense counsel failed to request such an instruction or to object to its omission, this court considered the error and reversed the conviction. This court's unanimous opinion noted that the Court in   Spencer v. Texas,
+385 U.S. 554
+, 87 S. Ct. 648, 17 L. Ed. 2d 606 (1967) had approved the constitutionality of a procedure which allowed evidence both of the current offense and of prior convictions of similar crimes at the guilt determination trial only because of the procedural requirement in the statutory scheme that the jury must be instructed to consider the prior crimes only for the purpose of sentence enhancement and not for the purpose of deciding guilt or innocence of the charged crime. Because Louisiana's statute arguably was facially unconstitutional without the requirement of a limiting instruction, this court held that the failure to give such an instruction required reversal, even without a contemporaneous objection.
+
+This court's consideration of the erroneous jury instruction in the absence of a contemporaneous objection in Williamson did not create or recognize a plain error rule of general application. State v. Thomas,
+427 So. 2d 428
+(La.1982). The unique facts of Williamson required consideration of an error which cast substantial doubt on the reliability of the fact-finding process. Likewise, the consideration of an error in the unobjected to omission of a fundamental jury instruction in Green was a reasonable alternative to declaring unconstitutional the statute which by its terms did not require such an instruction.[4] This type of error, similar to an error in the definition of a crime, substantially undermines the reliability of the fact-finding process in a criminal trial.
+
+The circumstances of the present case do not warrant making an exception to the contemporaneous objection rule.[5] The prosecutor's use in cross-examination of an accused's post-arrest silence for impeachment purposes does not have nearly the same substantial effect on the reliability of the fact-finding process as the judge's giving of a jury instruction which erroneously defines the charged crime or the judge's omission of a jury instruction which is an essential prerequisite to the constitutionality of a statute.
+
+For these reasons, the judgment of the court of appeal is affirmed.
+
+DIXON, C.J., dissents.
+
+WATSON, J., dissents and assigns reasons.
+
+WATSON, Justice, dissenting.
+
+At this trial, in the typical rape scenario, Arvie's guilt resolved into a credibility issue for the jury. Was the intercourse forcible or consensual? Only Kallan Arvie and the victim were present at the time.
+
+The serious legal issue is whether defendant's rights were fundamentally abridged by the prosecution's use of his post-arrest silence to impeach his trial testimony. Doyle v. Ohio,
+426 U.S. 610
+, 96 S. Ct. 2240, 49 L. Ed. 2d 91 (1976).
+
+Prior to Arvie's testimony, there was extensive testimony without objection from police officers about his lack of reaction, that is, his remaining silent at the time of arrest and his not talking after being read his rights at the police station.[1] Realizing   the guilty-looking position in which this placed his client, even Arvie's own attorney asked why he did not "raise hell" at the time of his arrest. On cross-examination, the prosecutor hammered at Arvie's postarrest silence. There was no objection. Later, Arvie was asked: "And you never told the police one word. The same story. Although the story was the same then as it is now...." Again, there was no objection.
+
+The defendant was crucified by police testimony, by cross-examination, and by the failure of his attorney to object, essentially for exercising his constitutional right under the Fifth Amendment. Better to reverse now and order a new trial rather than wait for a post-conviction application claiming ineffective assistance of counsel and violation of the Fifth Amendment.
+
+Doyle, supra, holds that it is fundamentally unfair and a deprivation of due process to allow an arrested person's silence to be used to impeach an explanation offered at trial. Despite the lack of objections from his counsel, the emphasis on Arvie's silence in this trial was so egregious that a new trial is mandated. Compare State v. Mosley,
+390 So. 2d 1302
+at 1305 (La., 1980), where the reference to defendant's silence was "oblique and obscure." See State v. Sam,
+412 So. 2d 1082
+(La., 1982).
+
+Here, since Arvie's credibility was the only issue, the trial error was so prejudicial that fairness requires waiver of the contemporaneous objection rule in favor of a new trial.
+
+I respectfully dissent.
+
+[1]  Of course, the prosecutor may use a post-arrest statement to demonstrate the inconsistency of the statement with trial testimony. Anderson v. Charles,
+447 U.S. 404
+, 100 S. Ct. 2180, 65 L. Ed. 2d 222 (1980). See State v. Kersey,
+406 So. 2d 555
+(La.1981), in which the defendant answered a series of questions by the police before invoking his right to remain silent, and this court held that the officer's reference to this fact merely explained how the interrogation was concluded, rather than calling attention to the silence. See also State v. Bell,
+446 So. 2d 1191
+(La.1984), in which this court recognized an exception to Doyle when the evidence of post-arrest silence is relevant to rebut a defense-raised assertion that the arresting officers failed to properly investigate or that defendant actively cooperated with police when arrested.
+
+[2]  By contrast, this court routinely reviews all errors, even those to which no objection was lodged, in capital cases in which the death penalty has been imposed. State v. Thomas,
+427 So. 2d 428
+(La.1983).
+
+[3]  Fed.R.Cr.P. 52(b) contains the federal plain error rule, which is an exception to the requirement of a timely objection. The plain error rule is to be applied cautiously and only in exceptional cases where the error results in the denial of a fundamental right or a miscarriage of justice or where the error seriously affects the fairness, the integrity or the reputation of judicial proceedings. United States v. McCaskill, 676 F.2d 995 (4th Cir.1982), cert. denied 459 U.S. 1018, 103 S. Ct. 381, 74 L. Ed. 2d 513.
+
+[4]  Describing the problem in terms of the possible facial unconstitutionality of the statute avoided a direct confrontation with the contemporaneous objection rule. Joseph, Developments in the Law, 1985-1986Criminal Procedure, 47 La.L.Rev. 267, 291 (1986).
+
+[5]  In the event that defendant seeks post-conviction relief and claims that his previous counsel was ineffective because counsel failed to object to the prosecutor's improper questions, the district court may take evidence, if necessary, and consider the failure under the standard of review for such claims enunciated in Washington v. Strickland,
+466 U.S. 668
+, 104 S. Ct. 2052, 80 L. Ed. 2d 674 (1984). See also Murray v. Carrier, 477 ___ U.S. ___, 478, 106 S. Ct. 2639, 91 L. Ed. 2d 397 (1986).
+
+[1]  "Q. Officer, my only question to you is that you show up at a man's apartment at 3:00 o'clock in the morning and charge him with rape and haul him down to the thing and he doesn't say anything. That's what happened.
+
+"A. At the time, Mr. Rozas, he wasn't charged.
+
+"Q. Sir?
+
+"A. He wasn't charged at the time.
+
+"Q. I agree. But he didn't say anything.
+
+"A. No, sir. Not to us.
+
+"Q. Made no protest, no defense, no statement whatsoever?
+
+"A. Not to us." (Tr. 401)
+
+* * * * *
+
+"A. Yes, sir. When I got back to the police station, the defendant. Kallan Arvie, was at the police station. His rights had been read to him. I again advised him of his rights and asked him if he wanted to takewhat had happened? He advised me he wouldn't tell me anything until he had spoke to an attorney. That was it." (Tr. 407)

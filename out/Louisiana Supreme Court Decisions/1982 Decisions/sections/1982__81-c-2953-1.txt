@@ -1,0 +1,127 @@
+81-C-2953
+Matthews-McCracken Rutland Corp. v. City of Plaquemine
+https://law.justia.com/cases/louisiana/supreme-court/1982/81-c-2953-1.html
+
+81-C-2953
+Matthews-McCracken Rutland Corp. v. City of Plaquemine
+Court: Louisiana Supreme Court
+Release date: 1982-05-17
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1982/81-c-2953-1.html
+
+414 So. 2d 756 (1982)
+
+MATTHEWS-McCRACKEN RUTLAND CORP.
+v.
+The CITY OF PLAQUEMINE.
+
+No. 81-C-2953.
+
+Supreme Court of Louisiana.
+
+May 17, 1982.
+
+Rehearing Denied June 18, 1982.
+
+Neil H. Mixon, Jr., and Rick J. Norman of McCollister, McCleary, Fazio, Mixon, Holliday & Hicks, Baton Rouge, for defendant-relator.
+
+William C. Dupont of Dupont, Dupont & Dupont, Plaquemine, Allen R. Boudreaux, of Kizer & Kizer, Baton Rouge, for plaintiff-respondent.
+
+LEMMON, Justice.
+
+The issue in this case is whether the third party defendant is entitled to require arbitration of the claim asserted in the third party demand.
+
+Plaintiff filed this suit for damages based on breach of a contract to install electrical equipment, alleging that delays caused by defendant required plaintiff to keep personnel and equipment on the job five months beyond the completion date. Defendant, the City of Plaquemine, filed a third-party demand against Riley Stoker Corporation, alleging that if the City is held liable on the principal demand, the City is entitled to judgment over against Stoker (with whom the City contracted separately to erect a steam generating unit), because Stoker delayed   completion of the total construction. Stoker filed a timely answer.
+
+Eighty-eight days after filing its answer, Stoker notified the City by letter of its intent to arbitrate the claim asserted in the third-party demand. Stoker then moved the court to stay the proceedings and to require arbitration in accordance with the terms of the City-Stoker contract.[1]
+
+After a hearing, at which the only evidence introduced was the contract and the letter of notification, the City argued that the official contract did not contain an arbitration clause and that the City had waived its right to demand arbitration.[2] The trial court found that the final contract contained a written arbitration clause. The court nevertheless refused to order arbitration, relying on the prior ruling (by the same judge) in a companion case, Forte and Tablada v. The City of Plaquemine.[3] After the court of appeal denied Stoker's application for supervisory writs, we granted certiorari to review the ruling of the trial court, because the ruling appeared to be erroneous and because immediate review was necessary to prevent a possibly needless trial. 407 So. 2d 744.
+
+R.S. 9:4201 and 4202 mandate that an arbitration provision in a written contract shall be valid and enforceable. Once the court finds an agreement to arbitrate and a failure to comply therewith, the court shall order arbitration. Bartley, Inc. v. Jefferson Parish Sch. Bd.,
+302 So. 2d 280
+(La. 1974).
+
+The City did not assert in its pleadings that arbitration should be denied because of the delay and did not introduce any evidence of prejudice resulting from the delay. The City merely argued at the hearing that Stoker should have filed an exception of prematurity prior to answer and that the City would be prejudiced if all parties did not proceed to trial together at one time.
+
+Neither the mere answering of a judicial demand nor the mere delay in filing the demand for arbitration necessarily constitutes a waiver of the right to demand arbitration, especially in the absence of prejudice to the opposing party. M. Domke, The Law and Practice of Commercial Arbitration § 19.01 (1968); see also Annot., 24 A.L.R.3d 1171 (1969), for a discussion of delay in asserting contractual right to arbitration as precluding enforcement of the right. Because of the strong policy favoring the right to demand arbitration, a party's otherwise explainable conduct should be construed against waiver of the right.
+
+Only in extreme cases have courts found waiver of the right to demand arbitration. In I.D.C., Inc. v. McCain-Winkler Partnership, 396 So. 2d 590 (La.App. 3rd Cir. 1981), arbitration was refused when the party filed a reconventional demand and request to set for trial, but did not demand arbitration until the day of trial seven months later. In Sim v. Beauregard Elec. Cooperative, Inc., 322 So. 2d 410 (La.App. 3rd Cir. 1975), the plaintiff's motion to stay the proceedings in his own suit was denied when that party filed the suit in court and waited 33 months before filing its demand for arbitration on the first day of trial.
+
+*758 In the present case, Stoker's trial counsel, after filing an answer to the third-party demand, was seriously injured in an automobile accident and was hospitalized for over four weeks. During the time this attorney was recuperating, another lawyer in the firm took over the file and asserted the demand for arbitration.
+
+The overall circumstances do not establish a waiver of Stoker's right to demand arbitration.[4] The contract did not fix a specific time for demanding arbitration, and the question of incorporation of the terms of Stoker's proposal in the final contract explains some delay in asserting the demand. The length of the 88-day delay does not appear to be unreasonable, particularly in view of trial counsel's unexpected incapacity.
+
+Moreover, the record does not suggest any prejudice to the City resulting from the delay. Although its counsel argued at the hearing in the trial court that all parties should proceed to trial at the same time, the City has not suggested the manner in which it will be prejudiced if the third-party demand is severed from the principal demand in accordance with C.C.P.Art. 1038.[5]
+
+Accordingly, the judgment of the trial court is reversed, and all proceedings against Riley Stoker Corporation are stayed pending arbitration in accordance with the contract.
+
+DENNIS, J., concurs with reasons.
+
+WATSON, J., dissents and assigns reasons.
+
+WATSON, Justice, dissenting.
+
+The trial court refused arbitration here because arbitration had been denied in the case of Forte and Tablada, Inc. v. City of Plaquemine. The basis of the ruling is clear from the argument and comments made at the hearing.[1]
+
+*759 The trial court determined that the arbitration issue should have the same disposition in the two closely related cases. Since Riley Stoker had elected trial in the other case, the court concluded that its right to arbitration in this case had been waived. The trial court specifically pointed out that Riley Stoker should not be able to arbitrate one lawsuit and try another when both involved the same contract.
+
+By the time its motion to stay the proceedings had been filed, Riley Stoker had, according to the pretrial order, already completed its discovery. Utilization of discovery procedures is an affirmative acceptance of a judicial forum and should bar a party from thereafter insisting on arbitration. "The courtroom may not be used as a convenient vestibule to the arbitration hall so as to allow a party to create his own unique structure combining litigation and arbitration." DeSapio v. Kohlmeyer, 35 N.Y.2d 402, 362 N.Y.S.2d 843, 321 N.E.2d 770 at 773 (1974).
+
+These cases concern responsibility for a five month delay in completion of a contract for installation of electrical equipment. The same issue is intertwined in the principal and third party demands in this case and in the case of Forte and Tablada, Inc. v. City of Plaquemine. As to Riley Stoker, the same question is presented in both cases, whether Riley Stoker was responsible for the delay in completion of the City's project. As a result of the majority's holding, Riley Stoker will be able to try this issue in one case and arbitrate it in the other. The trial court was correct in avoiding this anomalous result.
+
+I respectfully dissent.
+
+[1]  The contract contains the following arbitration clause:
+
+"Any controversy or claim arising out of or relating to this contract, or breach thereof, shall be settled by arbitration in accordance with the rules of the American Arbitration Association, and judgment upon the award rendered by the arbitrators may be entered in any court having jurisdiction thereof."
+
+[2]  At the hearing the City contended that while Stoker's proposal contained an arbitration clause, the final contract prepared by the City did not. Stoker, on the other hand, contended that the proposal was made part of and incorporated into the final contract.
+
+[3]  In the companion case, involving a contract between the City and Forte and Tablada, the City attempted to assert a demand for arbitration by filing an exception of prematurity to the principal demand. The trial court overruled the exception, and the court of appeal denied the City's application for supervisory writs.
+
+Without revealing how the companion case controlled the decision in the instant case, the trial court cited the ruling and denied Riley Stoker's request for a stay pending arbitration.
+
+[4]  Arguably, if Stoker's objection to proceeding to trial, rather than to arbitration, is properly raised (as the City argues) only by an exception of prematurity, then that dilatory exception had to be pleaded prior to answer. C.C.P.Art. 928. However, the objection may also be raised by an exception of no cause of action (a peremptory exception which can be pleaded at any time), because the party has no cause of action at law when the contract expressly required settlement of contractual controversies and claims by arbitration.
+
+[5]  Although represented by different counsel, Stoker was also a party in the companion suit in which the trial court denied the City's request to arbitrate. At the hearing Stoker's counsel stated that since he did not know if the same contract was involved in the companion suit or the current status of that suit, he was unable to determine if Stoker had the right to arbitrate in the companion suit or had waived that right.
+
+The suits were not consolidated, and the record in the companion suit was not introduced into evidence in the present case.
+
+[1]  "THE COURT: Excuse me, in the other law suit, isn't the City of Plaquemine also a party?
+
+* * * * * *
+
+"MR. DUPONT. Your Honor, the City of Plaquemine is a party.
+
+"THE COURT: And doesn't it arise out of the same set of facts?
+
+"MR. DUPONT: Yes, Your Honor.
+
+"MR. NORMAN: Same facts or similar facts?
+
+"MR. DUPONT: Well, same allegations.
+
+"THE COURT: Closely related?
+
+"MR. DUPONT: Yes, sir.
+
+"THE COURT: In fact, the cases ought to be consolidated. (Tr. 12-13)
+
+* * * * * *
+
+"THE COURT: But, Counsel, in that other law suit you have the City of Plaquemine and you have your client [Riley Stoker], right?
+
+"MR. NORMAN: I believe so.
+
+"THE COURT: And they have that same contract that you introduced in this case in that case, right? Now, if the contract provides that you are to arbitrate the differences and you are going to a law suit in one case, doesn't that constitute action which waives arbitration as to all causes of action under that contract?
+
+* * * * * *
+
+"THE COURT: I think we need to know. You are certainly not going to have a case where under the same contract you are going to be arbitrating one law suit and trying the other one. (Tr. 23-24)
+
+* * * * * *
+
+"THE COURT: In the opinion of the Court, the arbitration clause is a part of the contract which was introduced from the case of Forte and Tablada vs. the City of Plaquemine, 359 So. 2d 995, which was marked as Exhibit "A" in that suit and which the parties will furnish a copy of. (Court reviews record.)
+
+Gentlemen, it appears that in the companion suit an exception of prematurity was filed on behalf of the City on the grounds that there was an arbitration clause between Forte and Tablada and the City of Plaquemine. The Court overruled the exception and it was taken up on writs and the First Circuit denied the writs on the statement that there was no error of law. The rule to show cause will be recalled and set aside and there will be judgment in favor of defendant-in-rule refusing to grant a stay order in this matter." (Tr. 41)

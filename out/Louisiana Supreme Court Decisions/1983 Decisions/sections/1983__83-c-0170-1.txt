@@ -1,0 +1,107 @@
+83-C-0170
+Taylor v. Tanner
+https://law.justia.com/cases/louisiana/supreme-court/1983/83-c-0170-1.html
+
+83-C-0170
+Taylor v. Tanner
+Court: Louisiana Supreme Court
+Release date: 1983-11-28
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1983/83-c-0170-1.html
+
+442 So. 2d 435 (1983)
+
+Cindy TAYLOR, et al.,
+v.
+William R. TANNER, II, et al.
+
+No. 83-C-0170.
+
+Supreme Court of Louisiana.
+
+November 28, 1983.
+
+Dissenting Opinion December 21, 1983.
+
+Rehearing Denied January 13, 1984.
+
+*436 Louis D. Bufkin, Michael K. Dees, McHale, Bufkin & Dees, Lake Charles, for applicants.
+
+David R. Frohn, Randy J. Fuerst, Camp, Carmouche, Palmer, Barsh & Hunter, Lake Charles, for respondents.
+
+LEMMON, Justice.
+
+This is a wrongful death action by the beneficiaries of the tort victim against Home Indemnity Insurance Company under the uninsured motorist coverage of an automobile liability policy issued to the tort victim's employer.[1] Home obtained a summary judgment dismissing plaintiffs' claim on the basis that plaintiffs were not entitled to further recovery, having compromised with the underinsured tortfeasor's liability insurer and having accepted payment of policy limits from the primary uninsured motorist insurer and from one excess uninsured motorist insurer, as defined by La.R.S. 22:1406D(1)(c). The issue is whether the stacking limitation of Subsection 1406D(1)(c) precludes plaintiffs under these circumstances from choosing to recover under Home's excess uninsured motorist coverage, which provided higher limits than the other applicable excess policy.[2]
+
+*437 According to stipulated facts, the tort victim sustained fatal injuries while occupying a vehicle operated by Bryon Champagne, when that car was struck from the rear by a truck owned and operated by William Tanner. The Tanner vehicle was covered by a liability policy with limits of $10,000, and the Champagne vehicle was covered by a liability policy with uninsured motorist limits of $5,000. Additionally, the tort victim owned a vehicle covered by a liability policy with uninsured motorist limits of $10,000. After suit was filed by the tort victim's widow and three minor children, the plaintiffs collected under the coverages of the three abovementioned policies in the total amount of $25,000, signing restrictive releases and reserving their rights against Home, whose coverage and limits had not yet been determined.[3] The parties further stipulated that plaintiffs' damages exceed $25,000.
+
+Home then filed a motion for summary judgment on the ground that the plaintiffs were barred from further recovery by the anti-stacking provisions of Subsection 1406D(1)(c). The trial court granted the motion. The court of appeal affirmed, holding that the express wording of the statute prevented the plaintiffs from recovering under the Home Indemnity policy after they had "selected" the excess coverage under another policy. 422 So. 2d 1338. We granted certiorari. 429 So. 2d 141.
+
+This court has previously considered the anti-stacking provision of Subsection 1406D(1)(c). In Courville v. State Farm Mut. Auto Ins. Co.,
+393 So. 2d 703
+(La.1981) and Nall v. State Farm Mut. Auto Ins. Co.,
+406 So. 2d 216
+(La.1981), we noted that the subsection states the general rule that the "limits of uninsured motorist coverage shall not be increased" because an insured has insurance available to him under more than one uninsured motorist provision or policy. We recognized, however, that the subsection also contains a limited exception to the general prohibition against stacking and permits a party, who is injured while occupying a non-owned automobile, to recover first under the uninsured motorist coverage of the vehicle in which he was an occupant as primary coverage and then under one additional uninsured motorist "coverage available to him". See McKenzie, Louisiana Uninsured Motorist Coverage After Twenty Years, 43 L.La.Rev. 691, 719 (1983). Only under this exception may the "limits of uninsured motorist coverage" be increased on account of the availability of more than one uninsured motorist coverage provision or policy.
+
+*438 In the present case, the tort victim at the time of the accident was occupying a non-owned vehicle, and the damages exceeded the primary uninsured motorist coverage. Consequently, plaintiffs fall within the limited exception to the general rule against stacking, and Subsection 1406D(1)(c) expressly entitles plaintiffs to recover under one uninsured motorist coverage on top of the primary coverage on the Champagne vehicle. However, this case differs from the case in which the claimant attempts to stack two $10,000 excess coverages in order to recover the combined total of both. Here, there are two excess coverages, one with $10,000 limits and one with higher limits, and plaintiffs are attempting to recover the amount of the policy with the higher limits.
+
+The purpose of the limitation of Subsection 1406D(1)(c)(ii) is to prevent a claimant from recovering more than the limits of any one of several excess uninsured motorist coverage provisions or policies available to him. Nevertheless, the claimant should be able to choose the provision or policy with the highest limits. The only question in this case is whether plaintiffs' decision to collect the proceeds of one excess policy tendered by that insurer was an irrevocable election which precludes recovery when plaintiffs later determined that another excess policy has higher limits.[4]
+
+Here, plaintiffs accepted the policy limits tendered by one excess insurer and reserved their rights against Home, while awaiting a determination during protracted litigation about possible coverage available under Home's policy. In such a situation, the logical conclusion is that the interim acceptance constituted a conditional acceptance, pending a determination of whether the other excess insurer provided coverage with greater limits.
+
+It would be unrealistic to require a widowed mother with three young children either to accept the tendered policy limits at the peril of losing her rights to higher limits of another policy or to refuse the funds while pursuing extensive litigation concerning the coverage or the limits of the other policy.[5] We do not believe that the Legislature, by enacting a statute which limits stacking, intended to prohibit a claimant from conditionally accepting the tendered limits of a known excess policy with undisputed coverage and then litigating to determine whether another policy affords coverage with greater limits. Such an interpretation would be directly contrary to the primary objective of the uninsured motorist schemeto protect innocent victims of the negligence of financially irresponsible motorists by providing such victims with full recovery. Booth v. Fireman's Fund Insurance Company,
+218 So. 2d 580
+(La.1968); Bond v. Commercial Union Assurance Company,
+407 So. 2d 401
+(La.1981). The result reached by the lower courts also penalizes the excess insurer who immediately tenders payment and rewards the excess insurer who is dilatory or evasive.
+
+Therefore, plaintiffs' acceptance of the policy limits from one uninsured motorist carrier should not be deemed to constitute an implied choice or election to reject the limits from other policies that may be available to them.[6] Payment by the other excess insurer is irrelevant to Home's liability, as long as the amount of recovery of excess uninsured motorist coverage does not exceed the limits of the   highest excess policy which is ultimately determined to be available to plaintiffs.
+
+We conclude that plaintiffs may proceed against Home's uninsured motorist coverage at a trial on the merits. As long as there is no ultimate recovery which increases the limits of available excess uninsured motorist coverage beyond that provided by any one policy, Subsection 1406D(1)(c) is not violated, and the purpose of uninsured motorist insurance is fulfilled.[7]
+
+For the foregoing reasons, the summary judgment is reversed, and the matter is remanded for trial on the merits.
+
+CALOGERO and DENNIS, JJ., concur and assign reasons.
+
+BLANCHE, J., dissents and assigns reasons.
+
+MARCUS, J., dissents for reasons assigned by the Court of Appeal.
+
+CALOGERO, Justice, concurring.
+
+The majority seems to rely substantially upon the fact that Home's coverage and limits had not been discovered by plaintiffs at the time they settled with Mr. Taylor's uninsured motorist carrier, State Farm Mutual Insurance Company. While the record is not entirely clear I'm not at all satisfied that this is the case. Counsel for plaintiffs have attached to their supplement to the application for writ a designated exhibit "W", which is a release of State Farm Mutual Automobile Insurance Company, and that document is dated December 10, 1981, which is at least one month after the complete policy of Home's was furnished plaintiffs' counsel. Nonetheless I concur in the majority's resolution because I don't believe that it makes a difference to the plaintiffs' rights against Home in this case, that they may have settled with an excess UM carrier at a time when they knew or should have known of the existence of the additional policy with Home.
+
+DENNIS, Justice, concurring.
+
+I respectfully concur.
+
+I disagree with the majority's view that Subsection 1406D(1)(c) is not violated as long as there is no ultimate recovery of a greater value than the highest limits of any one available excess uninsured motorist policy. This ruling permits, inter alia, proration of the proceeds from multiple policies. While I agree that an insured may conditionally opt for one uninsured motorist coverage and later elect to refund those proceeds in favor of a larger coverage, I believe that Subsection 1406D(1)(c) expressly forbids recovery from more than one policy.
+
+BLANCHE, Justice (dissenting).
+
+The express provisions of the "anti-stacking" statute, R.S. 22:1406(D)(1)(c), prevents plaintiff from stacking the Home Indemnity policy, having already collected the limits of uninsured motorist coverage on two other policies. In this writer's opinion, plaintiffs were simply unaware of the foregoing statutory provision when they unconditionally accepted the proceeds of the policies.
+
+I respectfully dissent.
+
+[1]  The policy covered a vehicle furnished to the tort victim by his employer for use in his employment. The vehicle was owned by the employer and was not involved in the accident.
+
+[2]  La.R.S. 22:1406D(1)(c) provides:
+
+"(c) If the insured has any limits of uninsured motorist coverage in a policy of automobile liability insurance, in accordance with the terms of Subsection D(1), then such limits of multiple motor vehicles covered under said policy of insurance and such limits of uninsured motorist coverage shall not be increased when the insured has insurance available to him under more than one uninsured motorist coverage provision or policy; provided, however, that with respect to other insurance available, the policy of insurance or endorsement shall provide the following:
+
+"with respect to bodily injury to an insured party while occupying an automobile not owned by said injured party, the following priorities of recovery under uninsured motorist coverage shall apply:
+
+"(i) The uninsured motorist coverage on the vehicle in which the injured party was an occupant is primary;
+
+"(ii) Should that primary uninsured motorist coverage be exhausted due to the extent of damages, then the injured occupant may recover as excess from other uninsured motorist coverage available to him. In no instance shall more than one coverage from more than one uninsured motorist policy be available as excess over and above the primary coverage available to the injured occupant." (Emphasis supplied)
+
+[3]  The joint stipulations of fact, which through inadvertence were not filed of record until after rendition of the summary judgment, do not refer to the date that plaintiffs determined the limits of Home's uninsured motorist coverage. However, the record indicates that plaintiffs requested production of Home's policy on March 4, 1981, the same date that Home was joined as a defendant in the action on the November, 1980 accident. The record further indicates that Home filed an answer on June 1, 1981, admitting issuance of a policy, but denying liability thereunder; that plaintiffs on June 17, 1981, filed a motion to compel production of the policy; that Home produced parts of the policy, but did not produce a certified copy of the entire policy until after plaintiffs on November 3, 1981 filed a rule to invoke sanctions for failure to comply; and that plaintiffs had already collected the proceeds of the three policies when Home finally produced the complete policy.
+
+[4]  Plaintiffs contend that Home's policy has an uninsured motorist limit of $500,000. Home asserts that the policy limit is actually $30,000. That dispute is not material to the question of law adjudicated by the summary judgment.
+
+[5]  If there is a dispute as to coverage under the second excess policy which cannot be resolved without extensive litigation, certainly the claimant should not be prohibited from accepting conditionally the tendered limits of the lesser policy and litigating the coverage issue on the policy with higher limits.
+
+[6]  Compare Biondelillo v. Geosource, 359 So. 2d 286 (La.App. 4th Cir.1978), concerning the election of remedies by a claimant entitled to either federal or state compensation benefits, but not both.
+
+[7]  At the trial on the merits, the trial court may be called upon to decide whether plaintiff will have to refund the amount previously accepted from the other excess insurer, or whether the total amounts of available excess insurance must be prorated so as to award the highest limit provided by any one policy, or whether Home is simply entitled to some sort of credit. Or perhaps the trial court may order some other disposition. We need not address this issue in our present review of a summary judgment denying plaintiffs the right to proceed against Home.

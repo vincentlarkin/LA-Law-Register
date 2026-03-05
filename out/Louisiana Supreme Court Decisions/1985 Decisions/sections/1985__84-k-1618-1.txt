@@ -1,0 +1,133 @@
+84-K-1618
+State v. Rankin
+https://law.justia.com/cases/louisiana/supreme-court/1985/84-k-1618-1.html
+
+84-K-1618
+State v. Rankin
+Court: Louisiana Supreme Court
+Release date: 1985-04-01
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1985/84-k-1618-1.html
+
+465 So. 2d 679 (1985)
+
+STATE of Louisiana
+v.
+Henry RANKIN.
+
+No. 84-K-1618.
+
+Supreme Court of Louisiana.
+
+April 1, 1985.
+
+*680 Dwight Doskey, Craft & Doskey, New Orleans, for relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Mary C. McMullan, Maria Lazarte, Asst. Dist. Attys., for respondent.
+
+DIXON, Chief Justice.
+
+The issue before the court is whether a defendant in a murder trial is precluded by the attorney client privilege from calling the attorney of a state's witness. The purpose for calling the attorney in the instant case was to determine whether the witness had been promised favorable treatment by the district attorney on an unrelated charge pending in another section of court, in exchange for his testimony.
+
+On March 13, 1982 defendant Henry Rankin left the Club Desire where he had consumed a few drinks and danced with friends. Rankin walked to his car where he encountered the victim, Michael Gardner, known to the defendant but only by his nickname "Snow White." Gardner and an accomplice sprayed Rankin's face with mace, stole $30.00 from him and sped away in his car.
+
+Rankin walked to his aunt's house and called the police, to whom he reported the crime, giving as good a description as possible of the culprits. According to the officer who took Rankin's statement, defendant also asserted that he would kill "Snow White" the next time he saw him.
+
+The events which occurred on March 15, the day of the shooting, were the subject of dispute at trial. According to prosecution witnesses, Rankin took his boss' .357 Magnum handgun without permission and set out in search of Gardner. Rankin found Gardner near Gallier and Law Streets. Gardner was accompanied by a friend, Curtis Bichman, the only eyewitness to testify.
+
+According to Bichman, Rankin pulled a gun from underneath his shirt and shot at Gardner, missing him. Gardner began to run with the defendant in close pursuit. Rankin caught up with the victim and fired into his back from approximately one foot away. The defendant then stood over the fallen victim and fired one shot into his body despite pleas from onlookers not to kill the man. According to Bichman, Gardner had no weapon.
+
+The defendant's version of the story varies only in his claim that the victim was armed. Rankin contends that Gardner also pulled a gun and that the fatal shot was fired in self defense.
+
+The issue in this case springs from Bichman's testimony. On cross-examination the defense asked Bichman whether there was a criminal charge pending against him in another section of court. Bichman admitted   it, and the defense next inquired whether Bichman had made a plea arrangement with the district attorney to reduce Bichman's felony charge to a misdemeanor in exchange for favorable testimony in the Rankin case. Bichman vehemently denied this allegation.
+
+After a recess and out of the presence of the jury, defense counsel made a "proffer of evidence." The defense proposed to call Bichman's attorney, Paul Weidenfeld to testify as to the alleged plea bargain. The testimony was designed to impeach Bichman's credibility and to show the self-interest which permeated his testimony.
+
+The trial court concluded that any evidence obtained from Bichman's attorney would be inadmissible on two grounds: that such evidence would be irrelevant, and that there was a "conflict of interest" between Rankin's and Bichman's counsel in that both were employed by the Orleans Indigent Defender Board.
+
+The court of appeal affirmed but discounted the trial court's reasoning, holding instead that Weidenfeld's testimony would have been inadmissible under the attorney client privilege, 454 So. 2d 880.
+
+The defendant's right to confront and cross-examine witnesses, found in the Sixth Amendment to the United States Constitution, is a fundamental right and applicable to the states through the Fourteenth Amendment. Pointer v. Texas,
+380 U.S. 400
+, 85 S. Ct. 1065, 13 L. Ed. 2d 923 (1965). In addition this right to confrontation is found in the Louisiana Constitution of 1974. See Article 1, § 16.
+
+In order to cross-examine a witness effectively, a defendant must be afforded the opportunity to demonstrate any bias or self-interest which is attached to a witness' testimony. Davis v. Alaska,
+415 U.S. 308
+, 94 S. Ct. 1105, 39 L. Ed. 2d 347 (1974); State v. Senegal,
+316 So. 2d 124
+(La.1975). This right to evince bias is also provided by statute:
+
+A cross-examiner is allowed wide latitude in exploring any facts that might support an inference of bias. State v. Sweeney,
+443 So. 2d 522
+(La.1983); 3A Wigmore, Evidence § 944 (Chadbourn rev. 1970). The bias must be specific as opposed to general in nature. State v. Williams,
+445 So. 2d 1171
+(La.1984).
+
+The possibility that the prosecution may have leverage over a witness due to that witness' pending criminal charges is recognized as a valid area of cross-examination. State v. Brady,
+381 So. 2d 819
+(La. 1980); State v. Franks,
+363 So. 2d 518
+(La. 1978); State v. Owens,
+338 So. 2d 645
+(La. 1976); State v. Robinson,
+337 So. 2d 1168
+(La. 1976); 3A Wigmore, Evidence § 967 (Chadbourn rev. 1970). See also Gordon v. United States,
+344 U.S. 414
+, 73 S. Ct. 369, 97 L. Ed. 447 (1953), for an analogous situation.
+
+That, however, is not the issue in the case at bar. The defense was in fact allowed to interrogate the witness about his pending charges and possible deals made with the district attorney.
+
+Thus, even though the trial court seemingly sustained the prosecution's objection to the line of questioning, the defense was allowed to persist in its interrogation.
+
+The instant problem arose rather when the defendant attempted to call Bichman's attorney in order to contradict Bichman's denials and thereby impeach the witness' assertions that no self-serving interest motivated his testimony.
+
+The court of appeal held that testimony from Bichman's attorney concerning any plea arrangement was inadmissible under the attorney-client privilege, and cited State v. Franks, supra.
+
+In Franks this court reversed a conviction because a police report from which a police witness testified was denied defense counsel for purposes of cross-examination. The court then went on to speak of a problem which it foresaw might arise on retrial, that of impeachment of a witness who denied having struck a bargain with the state. On that issue the court stated that the defense should be allowed to call the district attorney to establish the witness' bias.
+
+In criminal cases the attorney-client privilege is governed by R.S. 15:475:[2]
+
+The information sought from Bichman's attorney was clearly gained "by reason of his being ... legal adviser" to Bichman, and therefore privileged.
+
+The purpose behind the privilege is to encourage the client to confide fully in his counsel without fear that his disclosures could be used against him by his adversaries.
+
+See generally, 8 Wigmore, Evidence (McNaughten rev. 1961) § 2290 et seq.; McCormick Evidence (2d ed. 1942) § 87 et   seq.; 2 Louisell and Mueller, Federal Evidence § 207 et seq. (1978).[3]
+
+Under Wigmore's analysis, four requirements must be met to create a privilege:
+
+The information about which Bichman's attorney was to be examined, although literally fitting our statutory definition of privileged attorney-client communications, is not protected by the general rules of confidentiality. Defendant wanted to disclose the witness Bichman's plea bargain in another case. A plea bargain is not designed to be a secret or confidential matter. At sentencing, defendants are commonly asked if they had been promised anything. Such information is useful, and sometimes essential, in sentencing.
+
+Plea bargains are not made between defendants and their lawyers, but between defendants and prosecutors. Agreements made in the presence of third parties are not entitled to the attorney-client privilege. Rester v. Powell, 120 La. 406, 45 So. 372 (1907). A lawyer might well be prohibited from disclosing what bargain his client wanted to make, but not the bargain already made.
+
+It is argued that, even if erroneous, the ruling excluding the evidence does not constitute reversible error.
+
+Under Chapman v. California,
+386 U.S. 18
+, 87 S. Ct. 824, 17 L. Ed. 2d 705 (1967), a state reviewing court must apply the federal harmless error rule where a federal constitutional violation is shown.[4] Here the provisions violated are the Sixth and Fourteenth Amendments of the United States Constitution. The standard outlined in Chapman is that "before a federal constitutional error can be held harmless, the court must be able to declare a belief that it was harmless beyond a reasonable doubt." Chapman v. California, supra, at 24, 87 S. Ct.  at 828.
+
+The facts of this case lead to the inevitable conclusion that the trial court's error was in fact harmless. Were Bichman the only witness to testify as to the merits of the defendant's self-defense claim, then a conclusion of reversible error would be well founded.
+
+However, the defendant Rankin took the stand in his own defense at trial and testified fully concerning the shooting. His statements, under both direct and cross-examination, reveal that his justifiable homicide defense is utterly without basis in fact.
+
+And on cross-examination, Rankin further admitted both that he fired first and that he fired at Gardner as he was running away.
+
+In addition, Bichman's testimony that Rankin stood over the prone victim and fired a second shot into his body was corroborated by the coroner who testified that the trajectory of the second gunshot wound was consistent with a person standing over the fallen victim and firing.
+
+It is a well established rule of law that the aggressor cannot claim self-defense. Even if Gardner had been armed as the defendant claims, Rankin is precluded from claiming justifiable homicide. R.S. 14:21; State v. Simmons,
+414 So. 2d 705
+(La.1982); State v. Plain, 171 La. 128, 129 So. 730 (1930).
+
+Accordingly, the defendant's conviction and sentence are affirmed.
+
+DENNIS, J., concurs with reasons.
+
+[1]  According to defendant's application for writs to this court, Bichman pleaded guilty to his charges on the day after trial of this matter. He was sentenced to four months in prison and, with credit for time served, walked out of parish prison a free man.
+
+[2]  For an overview of the Louisiana law on the subject of the attorney client privilege, see Comment, Purpose and Extent of the Attorney-Client Privilege in Louisiana, 18 La.L.Rev. 162 (1957).
+
+[3]  For differing viewpoints on the validity of the attorney-client privilege, see 8 Wigmore, Evidence at § 2291 (McNaughten rev. 1961).
+
+[4]  In any case, since the 1979 amendment to the Code of Criminal Procedure art. 921 and our interpreting opinion in State v. Gibson,
+391 So. 2d 421
+(La.1980), our state harmless error rule mirrors the federal rule.

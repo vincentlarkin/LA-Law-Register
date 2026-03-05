@@ -1,0 +1,97 @@
+84-CC-0084
+Thibodeaux v. Thibodeaux
+https://law.justia.com/cases/louisiana/supreme-court/1984/84-cc-0084-1.html
+
+84-CC-0084
+Thibodeaux v. Thibodeaux
+Court: Louisiana Supreme Court
+Release date: 1984-06-25
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1984/84-cc-0084-1.html
+
+454 So. 2d 813 (1984)
+
+Louise Miles THIBODEAUX
+v.
+Kidearn THIBODEAUX.
+
+No. 84-CC-0084.
+
+Supreme Court of Louisiana.
+
+June 25, 1984.
+
+Rehearing Denied September 14, 1984.
+
+*814 Paul B. Deal, Lemle, Kelleher, Kohlmeyer & Matthews, New Orleans, for relator.
+
+J. William Starr, J. Joseph Blotner, Gretna, for respondents.
+
+MARCUS, Justice.
+
+On October 19, 1979, the Civil District Court for the Parish of Orleans rendered by consent an executory judgment in favor of Louise Miles Thibodeaux and against Kidearn Thibodeaux for $5,460 for past due child support. Another consent judgment against Kidearn for $2,850 for past due child support was made executory by the same court on August 27, 1982. Thereafter, Louise filed a petition in the Twenty-Fourth Judicial District Court for the Parish of Jefferson to have the $2,850 judgment made executory in that court. Judgment was rendered and signed on June 27, 1983. Louise had the $5,460 judgment made executory in the same court on August 31, 1983. After issuance of writs of fieri facias, Louise caused Employers National Insurance Company to be cited as garnishee to declare what property it had in its possession or under its control belonging to Kidearn. Interrogatories to be answered by Employers were annexed to the petitions. Employers was making compensation payments pursuant to the Longshoremen's and Harbor Workers' Compensation Act[1] (LHWCA) on behalf of its policy holder Gulf Stevedores to Kidearn for his work-related injury in July 1980. Employers answered the petitions for garnishment and interrogatories asserting that the federally mandated benefits being paid to Kidearn were exempted under the LHWCA from attachment. The district court overruled the "exception of exemption of seizure" and ordered the garnishment to remain in effect. The court of appeal denied Employers' application for supervisory writs with reasons. On application of Employers, we granted certiorari to review the correctness of the ruling of the district court.[2]
+
+The LHWCA was enacted by Congress to provide workers' compensation benefits to persons injured in the course of maritime employment. Maritime employers are liable for and must ensure that payments as compensation for disability are made to the employee periodically, promptly and directly,[3] and employers that are not qualified self-insurers must secure these payments by insurance with a carrier approved by the Secretary of Labor.[4] These payments from the carrier are protected under the LHWCA by the broad language of 33 U.S.C. § 916:
+
+Despite this federal statutory exemption, the court of appeal agreed with Louise's contention that past due child support is   not a "debt" within the meaning of section 916 and hence that exemption is not applicable to the garnishment of LHWCA benefits under state court judgments for child support and/or alimony. We disagree.
+
+Notwithstanding the limited application of federal law in the field of domestic relations generally, the Supremacy Clause protects rights and expectancies established by federal law against the operation of state law and prevents the frustration and erosion of the congressional policy embodied in the federal rights. U.S. Const. art. VI, cl. 2; Ridgway v. Ridgway,
+454 U.S. 46
+, 102 S. Ct. 49, 70 L. Ed. 2d 39 (1981). While state family and family-property law must do major damage to clear and substantial federal interests before the Supremacy Clause will demand that state law be overridden, the relative importance to the state of its own law is not material when there is a conflict with a valid federal law, for the framers of our constitution provided that the federal law must prevail. Hisquierdo v. Hisquierdo,
+439 U.S. 572
+, 99 S. Ct. 802, 59 L. Ed. 2d 1 (1979); Free v. Bland,
+369 U.S. 663
+, 82 S. Ct. 1089, 8 L. Ed. 2d 180 (1962). In particular, a state divorce decree, like other law governing the economic aspects of domestic relations, must give way to clearly conflicting federal enactments. Ridgway v. Ridgway, supra (servicemen's life insurance); McCarty v. McCarty,
+453 U.S. 210
+, 101 S. Ct. 2728, 69 L. Ed. 2d 589 (1981) (military retirement pay); Hisquierdo v. Hisquierdo, supra (Railroad Retirement Act benefits); Free v. Bland, supra (United States savings bonds); Wissner v. Wissner,
+338 U.S. 655
+, 70 S. Ct. 398, 94 L. Ed. 424 (1950) (servicemen's life insurance).
+
+The critical terms of the federal law involved here include payment to a specified beneficiary protected by a flat prohibition against attachment. The section itself says nothing about contrary dictates of state law or state judgments. Counsel for both parties assert they have found no reported case involving this LHWCA exemption provision and we have discovered none. Cases interpreting exemption provisions in other workers' compensation or benefit statutes are divided on whether alimony and child support awards are preempted by the general exemption of such benefits from creditors' claims.[5] Some courts have adopted Louise's sole argument in this case by holding that alimony and child support are not "debts" within the meaning of the exemption provisions because the wife and children are not creditors in the ordinary sense but are in fact persons intended to be benefited by the statutes as much as the workman himself.[6]
+
+However, we are faced here with clear explicit language in a congressional enactment and not merely with the recognition of our state's public policy. Whatever the plausibility of her argument that LHWCA benefits ought to serve to protect a disabled worker's family and fulfill his legal obligation of support, La.Civ.Code art. 227, Louise nevertheless stands as a judgment creditor whose garnishment is an attachment prohibited by section 916. To allow her to garnish these benefits would require carving out a jurisprudential exception to Congress' anti-attachment clause which the strong language of the LHWCA does not permit. Section 916 does not refer only to claims of commercial creditors; it imposes a bar against the seizure of these benefits in terms broad enough to include all claimants. Cf. Philpott v. Essex County Welfare Board,
+409 U.S. 413
+, 93   S. Ct. 590, 34 L. Ed. 2d 608 (1973) (federal disability benefits protected by 42 U.S.C. § 407 against state government).
+
+We are bolstered in this interpretation of congressional intent by the clarity with which Congress has addressed this very issue in other enactments.[7] A convincing example involves the exact exception which Louise requests we imply in the LHWCA made explicit in the anti-attachment protection afforded by Congress to seamen, traditionally themselves "wards of the courts":
+
+The result in this case mandated by the LHWCA may be similarly avoided with ease if Congress so chooses. Thus far, however, since its passage in 1927 with the creation of the LHWCA system section 916 has remained unchanged. It therefore continues to insulate LHWCA disability benefits from going to any claimant in place of the disabled worker himself. When Congress desires to expose a uniform federal benefits plan to the vagaries of state alimony and support laws, it has demonstrated that intention unmistakably.[9]
+
+Additionally, we have the benefit of a recent United States Supreme Court interpretation of a similar anti-attachment provision in Ridgway v. Ridgway, supra. A Maine divorce judgment ordered a father to keep in force his life insurance then outstanding for the benefit of his three minor children. Instead, the father, a career army sergeant, made his second wife the policy's beneficiary. After his death, both the second wife and the three minor children filed claims for the proceeds of the policy, which was issued by a private insurer pursuant to the Servicemen's Group Life Insurance Act[10] (SGLIA). Congress included an anti-attachment section in the SGLIA which shields the insurers' payments from "claims of creditors" and states that they "shall not be liable to attachment, levy, or seizure by or under any legal or equitable process whatever, either before or after receipt by the beneficiary." 38 U.S.C. § 770(g). The Supreme Judicial Court of Maine nevertheless ordered the policy proceeds paid to the former wife in constructive trust for the three children, concluding that the anti-attachment provision "has no application to the instant case since its purpose is to protect the proceeds of the insurance from the claims of creditors." Ridgway v. Prudential Ins. Co. of America,
+419 A.2d 1030
+, 1033 (Me.1980). That court decided it was "concerned here not with the claim of a creditor but with the claims of minor children who assert an equitable interest in the proceeds arising from their deceased father's voluntary agreement and a valid judicial decree." Id.
+
+The United States Supreme Court reversed on two independent grounds as a consequence of the Supremacy Clause: (1)   the SGLIA provides that the serviceman has the right to freely designate the beneficiary and to alter that choice at any time, and (2) the state decree operated as a seizure forbidden by the anti-attachment provision. The Court specifically rejected arguments that the statutory exemption was inapplicable because of "the special nature of the parental legal duty" whereby "familial obligations are not merely commercial" and hence are not debts within the meaning of the statute. 454 U.S.  at 61 n. 11, 102 S. Ct.  at 58 n. 11. Instead, the Court emphatically reiterated that its language of Hisquierdo was applicable without qualification:
+
+As in the case before us, that father had specific obligations to his children imposed by a judgment of the state court. Indeed, the Court recognized "that this unpalatable case suggests certain `equities' in favor of the ... minor children and their mother." Id. at 62, 102 S. Ct.  at 59. Nevertheless, the Court held to the interpretation which most closely accords with the purpose of anti-attachment provisions like the ones in the SGLIA and LHWCA: they ensure that the benefits actually reach the beneficiary. In the instant case, of course, we deal not just with life insurance proceeds but with disability benefits which Congress has said should go to the disabled worker directly without any attachments. It is not the province of state courts to ignore or rewrite the exemption provision enacted by Congress. The strong language of the LHWCA anti-attachment provision bars this garnishment action. Accordingly, we must reverse the ruling of the district court.
+
+For the reasons assigned, the judgment of the district court is reversed. It is ordered, adjudged and decreed that the petitions for garnishment filed by Louise Miles Thibodeaux be dismissed at her costs.
+
+LEMMON, J., dissents.
+
+[1]  33 U.S.C. § 901 et seq.
+
+[2]  445 So. 2d 748 (La.1984).
+
+[3]  33 U.S.C. §§ 904, 908, 914.
+
+[4]  Id. § 932.
+
+[5]  E.g., 24 Am.Jur.2d Divorce and Separation § 766 (1983); Annot. 31 A.L.R.3d 532, § 6 (1970); 35 C.J.S. Exemptions § 83 (1960); E. Blair, Workmen's Compensation Law § 11.19.
+
+[6]  See also Mickenheim v. Cathcart, 228 La. 890,
+84 So. 2d 449
+(1955) (dicta; attorney fees for obtaining alimony judgment included in garnishment of seaman's wages where Congress was "particularly careful" to expressly except enforcement of support obligations from the exemption afforded in 46 U.S.C. § 601). But see Ridgway v. Ridgway, 454 U.S.  at 74 n. 8, 102 S. Ct.  at 57 n. 8 (Stevens, J., dissenting) and Wissner v. Wissner, 338 U.S.  at 663 n. 2, 70 S. Ct.  at 402 n. 2 (Minton, J., dissenting) which note that the Supreme Court twice did not accept the reasoning of these listed cases when interpreting federal exemption provisions.
+
+[7]  Similarly, Louisiana's comparable statute contains an explicit legislative exception to the anti-attachment exemption which protects state worker's compensation benefits:
+
+Claims or payments due under this Chapter... shall not be assignable, and shall be exempt from all claims of creditors and from levy or execution or attachment or garnishment, except under a judgment for alimony in favor of a wife, or an ascendant, or descendant.
+
+La.R.S. 23:1205 (enacted 1914 La.Acts No. 20, § 22).
+
+[8]  46 U.S.C. § 601 (enacted March 4, 1915).
+
+[9]  E.g., 5 U.S.C. §§ 8346, 8345(j) (civil service retirement benefits, amended in 1978); 10 U.S.C. § 1408 (military retirement pay, in particular section (c)(1) effective after June 25, 1981 overruling McCarty); 22 U.S.C. § 4060 (Foreign Service Act of 1980); 42 U.S.C. § 659 (effective January 1, 1975 waiving United States' sovereign immunity to allow garnishment of government employees' wages for the enforcement of child support and alimony obligations); 45 U.S.C. § 231m (railroad retirement benefits, amended in 1983 overruling Hisquierdo).
+
+[10]  38 U.S.C. § 765 et seq.

@@ -1,0 +1,83 @@
+58640
+State v. Sylvester
+https://law.justia.com/cases/louisiana/supreme-court/1977/343-so-2d-1020-1.html
+
+58640
+State v. Sylvester
+Court: Louisiana Supreme Court
+Release date: 1977-02-28
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/343-so-2d-1020-1.html
+
+343 So. 2d 1020 (1977)
+
+STATE of Louisiana
+v.
+David Joseph SYLVESTER.
+
+No. 58640.
+
+Supreme Court of Louisiana.
+
+February 28, 1977.
+
+Rehearing Denied April 7, 1977.
+
+*1021 Robert Glass, New Orleans, for defendant-respondent.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Timothy W. Cerniglia, Asst. Dist. Atty., for plaintiff-relator.
+
+CALOGERO, Justice.
+
+We granted writs in this case upon application of the state to review a pre-trial ruling of the district judge disallowing for use at trial the prior recorded testimony of a now-deceased witness given at a hearing held on the state's Prieur motion.
+
+Defendant David Sylvester was indicted in May of 1975 for the crime of possessing heroin with intent to distribute on April 17, 1975. The state filed notice of intent to introduce evidence of similar acts of the defendant which had purportedly taken place on April 7 and 8 of 1975 so as to prove knowledge and intent pursuant to R.S. 15:445 and 446 and State v. Prieur,
+277 So. 2d 126
+(La.1973). At the hearing on the Prieur motion,[1] several persons took the stand including Paulette Royal who testified as to defendant's activities under oath and was cross-examined at length by defense counsel. Thereafter the trial court granted the state's motion and ruled that evidence of defendant's activities on April 7-8 were admissible at his trial in order to prove knowledge and intent. However, two days prior to trial Ms. Royal died. The trial was continued and the state filed a motion requesting permission to introduce Royal's Prieur testimony, in transcript form, at defendant's trial on the merits. The trial judge denied the state's motion to use the transcript, but reaffirmed the fact that the state could attempt to establish knowledge and intent through proof of defendant's activities on April 7-8.[2] We granted the state's application to review the judge's ruling disallowing use by the state of the deceased witness' testimony recorded at the Prieur hearing.[3]
+
+The state contends that statutory and jurisprudential authority exists to support the admission of prior recorded testimony. They cite Article 295 of the Code of Criminal Procedure which allows the admission under certain circumstances of a witness' testimony recorded at a preliminary hearing,[4] and they rely on our decisions in State   v. Pearson,
+336 So. 2d 833
+(La.1976), State v. Ghoram,
+328 So. 2d 91
+(La.1976), and State v. Kaufman,
+304 So. 2d 300
+(La.1974) which allow the introduction in certain circumstances at defendant's second trial of the testimony recorded at his first trial.
+
+Defendant Sylvester contends first that the judge's decision to disallow the introduction of the transcript was a discretionary one, as are, he contends, all decisions relating to the introduction of Prieur evidence, and that this decision cannot be upset by this Court in the absence of abuse of discretion. Secondly, defendant argues that, as a matter of law, testimony transcribed at a Prieur hearing is not admissible because its introduction has never been previously allowed in this state by statute or jurisprudential ruling and because under our decision in State v. Augustine, 252 La. 983,
+215 So. 2d 634
+(1968) and the dissenting opinion in State v. Dickerson,
+282 So. 2d 456
+(La.1973) a transcript is inadmissible in this situation.
+
+When the state wishes to introduce the recorded testimony of a witness at a prior hearing, there must be an examination into whether the constitutional safeguards, particularly the right of confrontation, embodied in the federal and state constitution are violated. U.S.Const. Amend. VI; La.Const. art. I, § 16 (1974). As we have stated in State v. Pearson, supra, at 835 "One reason that this right is so fundamental to our law is that it guarantees that the witnesses who participate in the deprivation of a person's freedom present themselves in person before the jury so that the jurors can observe their demeanor and decide whether they should be believed." This face-to-face viewing of witnesses is no less critical when the witness is to testify to other acts of the accused pursuant to R.S. 15:445 and 446 than when the witness is to testify as to the accused's guilt of the crime charged. Before an accused can be deprived of his freedom by means of recorded, not live, testimony, the federal and state constitutions require that certain standards be satisfied. In addition to other standards not at issue here,[5] the testimony of a witness from a previous judicial proceeding against the same defendant in the same case can only be admitted in transcript form when there is an identity of issues between the former proceeding and the trial on the merits. State v. Augustine, supra. As stated in McCormick in his Law of Evidence:
+
+The issue in a former and subsequent trial of the same defendant for the same charge will always be identical: was defendant guilty of the crime charged? The issue in a preliminary hearing and a later trial are likewise identical; only the standard of proof the state must meet varies. We must now decide if the issue at a Prieur hearing and a subsequent trial are sufficiently the same so as to allow the state to introduce the testimony of its witness in transcript form.
+
+The issue at the Prieur hearing was whether the state has established to the satisfaction of the trial judge that the evidence of defendant's "other conduct" is admissible at trial on the merits to show defendant's knowledge and intent. The evidence at the hearing focused on the witness' knowledge of defendant's "other conduct" and their similarity to the defendant's act on April 17th, as well as her own credibility and possible bias. At trial on the merits, evidence of the events on April 7-8 would likewise be introduced by the state to prove knowledge and intent and the defendant's interest would be in attacking the witness' ability to recall the facts of April 7-8, her general credibility and her possible bias. We find, therefore, the issues explored at the Prieur hearing so substantially identical to those for which the evidence will be used at trial on the merits that introduction of the evidence by means of a transcript rather than by live testimony does not violate the confrontation clauses of the federal or state constitutions.
+
+We find distinguishable the case of State v. Augustine, supra. In that case, defendant was charged with a November 1962 murder. A psychiatrist examined defendant in March of 1963, and testified at a lunacy commission hearing convened for the purpose of determining defendant's present sanity. Although the psychiatrist was unavailable at the trial, his testimony was introduced. On appeal, this Court reversed and held that the recorded testimony was not admissible because the psychiatrist's testimony related to present sanity (in March of 1963) and the issue at the trial, raised by defendant's plea of not guilty by reason of insanity, was insanity at the time of the offense (in November of 1962). We said there that:
+
+Unlike the disparate inquiries relative to psychiatric conditions on different dates and for different purposes, the inquiry at a Prieur hearing and later at trial relate in each instance to defendant's guilt or innocence of the prior crime and the similarity of the modus operandi involved.
+
+Defense counsel submits that he will be prejudiced by the transcript's use because it contains irrelevant legal arguments and prejudicial material, i. e., areas he explored in cross-examination of the witnes at the pre-trial hearing before the judge which he would not have pursued had he been questioning the witness before the jury as well as legal argument between court and counsel. We feel confident that the trial judge in conjunction with the attorneys in the case will be able to cleanse the transcript so as to present to the jury only those sections of the transcript necessary to present the witness' knowledge of the events in question without extraneous prejudice.
+
+Defendant's initial argument in this Court is that, irrespective of the admissibility per se of the Prieur motion transcript at trial, we should conclude that the trial judge's ruling excluding the transcript was simply by virtue of the exercise of that wide discretion which is his in the Prieur area. In effect he says that since the trial judge could exclude evidence relative to another crime because its prejudicial effect   outweighs its probative value, then he surely can, having determined the other crime evidence permissible, exclude a particular kind of evidence, such as a cold transcript, as unduly prejudicial because of the character of that evidence. He argues that the judge in effect so held, or could be construed to have so held, and that we should not interfere with the exercise of that discretion. The argument is not groundless. It is premised, however, upon an assumption that the ruling excluding the transcript was an exercise by the trial judge of his Prieur discretion. We disagree with that premise. In ruling the judge said, "to bring the issue squarely before the Supreme Court I will permit system and intent to be used." Thereafter, he ruled that the transcript for use at trial was impermissible. We conclude that the judge's ruling excluding the transcribed testimony was prompted by considerations unrelated to the Prieur discretion afforded him, and that exclusion was required for the reason that there existed no statutory or jurisprudential authority for its admission. Thus we conclude that defendant's outset argument is without merit.
+
+Accordingly for these reasons we reverse the ruling of the trial judge and remand the case for further proceedings not inconsistent with this opinion.
+
+[1]  The hearing on the motion was held before Judge Jerome Winsberg.
+
+[2]  A second judge, Honorable Charles A. Ward, heard this motion. He adopted the former ruling of Judge Winsberg as to the Prieur motion, but further ruled that the transcript of Royal's testimony could not be introduced.
+
+[3]  The defendant made no application to us questioning the validity of the judge's ruling that evidence (other than the transcript) of similar, acts on April 7-8 was admissible at the defendant's trial. That issue, therefore, is not before us.
+
+[4]  Article 295 of the Code of Criminal Procedure provides in full that:
+
+"The transcript of the testimony of a defendant who testified at the preliminary examination is admissible against him upon the trial of the case or, if relevant, in any subsequent judicial proceeding.
+
+"The transcript of the testimony of any other witness who testified at the preliminary examination is admissible for any purpose in any subsequent proceeding in the case, on behalf of either party, if the court finds that the witness is dead, too ill to testify, absent from the state, or cannot be found, and that the absence of the witness was not procured by the party offering the testimony.
+
+"The transcript of testimony given by a person at a preliminary examination may be used by any party in a subsequent judicial proceeding for the purpose of impeaching or contradicting the testimony of such person as a witness."
+
+[5]  In the case of State v. Kaufman, supra, we set down the following test for the use of prior recorded testimony: the defendant must have been represented by counsel at the earlier hearing; the witness must have testified under oath; the witness must have been cross-examined, or the accused must have waived the right to cross-examination; and the witness must be unavailable to testify at trial on the merits. When we apply these prerequisites to the situation before us, we find that each has been satisfied: defendant Sylvester was represented by counsel at the Prieur hearing; witness Royal there testified under oath and was vigorously cross-examined; and the witness is now dead and therefore certainly unavailable.

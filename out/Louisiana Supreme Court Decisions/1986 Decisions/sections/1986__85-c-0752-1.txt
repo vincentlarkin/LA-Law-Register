@@ -1,0 +1,125 @@
+85-C-0752
+Pullin v. Louisiana State Racing Com'n
+https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-0752-1.html
+
+85-C-0752
+Pullin v. Louisiana State Racing Com'n
+Court: Louisiana Supreme Court
+Release date: 1986-02-24
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-0752-1.html
+
+484 So. 2d 105 (1986)
+
+Vernon PULLIN
+v.
+LOUISIANA STATE RACING COMMISSION.
+
+No. 85-C-0752.
+
+Supreme Court of Louisiana.
+
+February 24, 1986.
+
+William J. Guste, Jr., Atty. Gen., Robert A. Barnett, John E. Jackson, Jr., Asst. Attys. Gen., for defendant-applicant.
+
+Salvador Anzelmo, Thomas W. Milliner, New Orleans, for plaintiff-respondent.
+
+MARCUS, Justice.
+
+We granted a rehearing to reconsider whether evidence obtained in a search by state police officers is admissible in a civil proceeding before the Louisiana State Racing Commission. The facts of this case are set forth in our original opinion,
+477 So. 2d 683
+. However, briefly stated, the evidence shows that members of the Louisiana State Police Racing Investigations Unit conducted a search of a barn at Delta Downs assigned to Vernon Pullin, a licensed owner and trainer of racehorses, and found a bottle of Dilaudid pills, a bottle of Mazindol pills, four syringes containing Dilaudid and a battery machine. After a hearing, the track stewards suspended Pullin for violating LAC 11-6:53.22 of the Rules of Racing.[1] The Louisiana State Racing Commission   upheld the stewards' ruling, fined Pullin $2,000 and suspended him for three years. On review, the trial court affirmed the commission's ruling. Pullin appealed. The court of appeal reversed. It found that the warrantless search was unconstitutional and suppressed the evidence.[2] On the commission's application, we granted certiorari to review the correctness of that decision.[3]
+
+On original hearing, we concluded that the evidence was admissible. Primarily, we based our ruling on the finding that Pullin had consented to the search. By accepting his owner-trainer license, Pullin consented to all searches authorized by the commission or the steward representing the commission. LAC 11-6:53.25 (currently codified at 35 La.Admin.Code 1749 (1984)). We reasoned that all searches conducted by the State Police Racing Investigations Unit must be regarded as authorized because La.R.S. 4:166.5, which provides that the unit's expenses are to be covered by deductions from exotic wagering pools, makes the unit an adjunct of the commission. Since the search of Pullin's barn by the state police was authorized, he had consented to it, and therefore it was legal. Alternatively, we ruled that even if the evidence was obtained illegally, it would still be admissible because the exclusionary rule does not apply in civil administrative proceedings.
+
+On reconsideration, we feel that the facts do not support our original finding that Pullin consented to the search of his stable. Pullin only consented to searches authorized by the commission or the steward representing the commission. There is no evidence that either the commissioner or the steward representing the commission gave the unit authorization to search Pullin's barn. Our reasoning in the original opinion that the search must be regarded as authorized because a statute provides for deductions to cover the police unit's expenses was incorrect. Since no evidence was introduced to the contrary, we find that the search was not authorized and thus not consented to by Pullin. In the absence of Pullin's consent, the police unit's warrantless search violated his fourth amendment rights. Therefore, the evidence was obtained illegally.
+
+Since the search was illegal, the admissibility of the evidence depends upon whether the exclusionary rule applies in a civil proceeding before the Louisiana State Racing Commission. In United States v. Janis,
+428 U.S. 433
+, 96 S. Ct. 3021, 49 L. Ed. 2d 1046 (1976), the Supreme Court set forth a framework for deciding in what types of proceeding application of the exclusionary rule is appropriate. The appropriateness of extending the rule to a particular proceeding is to be determined by weighing the likely social benefits of excluding unlawfully seized evidence against the likely social costs. If the costs outweigh the benefits, then the court should not apply the rule.
+
+The issue before the Janis court was whether the exclusionary rule should be applied in a federal civil tax assessment proceeding to bar evidence unlawfully seized by state law enforcement officials.[4] The Court observed that "the `prime purpose' of the rule, if not the sole one, `is to deter future unlawful police conduct.'" Thus, on the benefit side of the balance, it focused on the deterrent value of the exclusionary rule. According to the Court, two factors suggested that extending the rule to the civil tax proceeding would have only a slight deterrent effect. First, the state police officer had already been "punished" by exclusion of the evidence in the state criminal trial, and, secondly, the evidence would also be inadmissible in any federal criminal trial that might be held. Thus, the   court reasoned that the entire criminal enforcement process, which is the concern and duty of the officers, was frustrated, creating a substantial and efficient deterrent. Additionally, the Court emphasized the "intersovereign" nature of the violationthe officer who committed the unconstitutional search and seizure had no responsibility or duty to, or agreement with, the sovereign seeking to use the evidence. Under these circumstances, the Court felt that exclusion of relevant evidence from a civil suit by or against a different sovereign was "unlikely to provide significant, much less substantial, additional deterrence." On the cost side of the balance, the Court focused solely on the loss of "concededly relevant and reliable evidence." It concluded "that exclusion from federal civil proceedings of evidence unlawfully seized by a state criminal enforcement officer has not been shown to have a sufficient likelihood of deterring the conduct of the state police so that it outweighs the societal costs imposed by the exclusion." Accordingly, it held that the exclusionary rule was inapplicable.
+
+In INS v. Lopez-Mendoza,
+468 U.S. 1032
+, 104 S. Ct. 3479, 82 L. Ed. 2d 778 (1984), the Supreme Court made its next pronouncement on the applicability of the exclusionary rule in civil proceedings. Unlike Janis, Lopez-Mendoza involved an "intrasovereign" violation. Specifically, the Court had to determine whether evidence obtained unlawfully by Immigration and Naturalization Service (INS) agents was admissible in an INS civil deportation hearing. To resolve that issue, the Court applied the Janis balancing test.
+
+In evaluating the likely benefits, the Court once again focused on the exclusionary rule's deterrent effect. Although there had been no actual criminal trial, it found that "the prospect of losing evidence that might otherwise be used in a criminal prosecution undoubtedly supplies some residual deterrent to unlawful conduct by INS officials." The Court acknowledged that the INS officer's primary objective was to use the evidence in a civil deportation proceeding and that the exclusionary rule would be most effective in "intrasovereign" situations. However, it found that other factors, unique to cases involving the INS, significantly reduced the likely deterrent value of the rule in deportation hearings. Considering these other factors, in conjunction with the frustration of the criminal enforcement process, the Court concluded that application of the exclusionary rule was "unlikely to provide significant, much less substantial, additional deterrence." On the cost side of the scale, the Court engaged in a more in-depth and particularized analysis than it had in Janis. In addition to the traditional cost of excluding concededly reliable evidence, the Court considered other costs unique to the case before it. It felt that these other costs were both unusual and significant. Since the costs of the exclusionary rule were high while the additional deterrent value was small, the Court held that the rule was not applicable in civil deportation proceedings conducted by the INS.
+
+As in Janis and Lopez-Mendoza, the admissibility of the evidence in the instant case will depend on the results of the Janis balancing test. The benefit to be considered is the deterrent value of extending the rule to civil proceedings before the Louisiana State Racing Commission. In evaluating the deterrent effect, the first step is to identify those who are to be deterred. Here, as in Janis, the state law enforcement officer is the primary object of the deterrent sanction. While acknowledging that the members of the State Police Racing Investigations Unit are concerned with enforcing the racing rules, their primary duty as state police officers is to enforce the criminal laws. That duty, however, has been frustrated because the inevitable application of the exclusionary rule, due to the illegality of the search and seizure, precludes possible criminal prosecutions of Pullin for the possession of controlled dangerous substances in violation of La.R.S. 40:967 and 969.[5] This frustration   of the state police officer's duties as an enforcer of the criminal laws is a significant deterrent. Also, applying the exclusionary rule in the civil proceedings before the racing commission is not likely to provide significant additional deterrence due to the interagency nature of the violation.[6]Tirado v. C.I.R., 689 F.2d 307 (2d Cir.1982); Delguidice v. New Jersey Racing Com'n, 100 N.J. 79,
+494 A.2d 1007
+(1985).
+
+On the cost side of the balance, we consider that application of the rule will require the commission to exclude concededly relevant and reliable evidence. In addition to this traditional cost, however, we find that there is another social cost which is both unusual and significant. Louisiana has a vital interest in maintaining the integrity of the horse racing industry. La. R.S. 4:141; Durham v. Louisiana State Racing Com'n,
+458 So. 2d 1292
+(La.1984). Maintaining the integrity of horse racing requires close and constant supervision. The legislature created the racing commission to carry out this regulatory task. La. R.S. 4:141, et seq. Extending the exclusionary rule to the commission's civil proceedings would impair its ability to regulate. Without close, constant regulation, there is a danger that corrupt, incompetent, dishonest and unprincipled horse racing practices would spread. La.R.S. 4:141. Therefore, the state's vital interest in maintaining the integrity of the horse racing industry would be jeopardized.
+
+In sum, we find that high social costs would likely result from exclusion of the challenged evidence. Moreover, we find that the additional deterrent value of applying the exclusionary rule in this case would likely be small. Therefore, we conclude that the likely costs outweigh the likely benefits. Accordingly, we hold that the exclusionary rule does not apply in civil proceedings before the Louisiana State Racing Commission; the commission properly considered the illegally seized evidence in its civil proceeding against Vernon Pullin.
+
+For the reasons assigned, our judgment on original hearing is reinstated.
+
+WATSON, J., concurs for the reasons assigned on original hearing.
+
+LEMMON, J., concurs and assigns reasons.
+
+DENNIS, J., dissents with reasons.
+
+CALOGERO, J., dissents and assigns reasons.
+
+LEMMON, Justice, concurring.
+
+It is not necessary to reach the issue of the applicability of the exclusionary rule, because Pullin did not object to the introduction of the evidence on the grounds that the steward failed to approve the search.
+
+At the hearing, Pullin argued that the seizure was illegal on the sole basis that "the only person or persons who can authorize a search and seizure of one's home or office is a judicial officer".[1] When the state steward testified, Pullin did not inquire whether the steward failed to approve the search, but only asked if she was "a judicial officer in the State of Louisiana".
+
+Inasmuch as Pullin did not challenge the search as illegal because of the lack of approval by the steward, there was no need for the Commission to establish the steward's approval at the hearing as a foundation to the introduction of the evidence.
+
+*109 DENNIS, Justice (dissenting).
+
+I respectfully dissent. The majority's reliance on Immigration and Naturalization Service v. Lopez-Mendoza,
+468 U.S. 1032
+, 104 S. Ct. 3479, 82 L. Ed. 2d 778 (1984) is misplaced. It omits mention of the factor the Court in that opinion found most important in justifying its conclusion. There is no analogue to that factor in the present case:
+
+Id. 104 S. Ct.  at 3487-88.
+
+In the present case, there is no evidence of any internal procedures followed by the state that would reduce the deterrent value of the exclusionary rule. This factor was crucial to the decision in Lopez-Mendoza; the Court labeled that factor the most important one justifying its conclusion, and the opinion only carried 5-4. Without evidence of internal procedures that would reduce the deterrent value of the exclusionary rule, Lopez-Mendoza does not support the majority's opinion today.
+
+Also persuasive are Justice White's reasons for dissenting in Lopez-Mendoza. Just as in that case, the civil proceedings before the Racing Commission are in no sense "collateral." The primary objective of the search was to obtain evidence for use in the administrative disciplinary proceeding. Thus the conduct challenged falls within "the offending officer's zone of primary interest," just as the INS's primary interest is in deportation actions. Thus applying the exclusionary rule to cases such as this would provide significant deterrence. Id. at 3492 (White, J., dissenting).
+
+For the foregoing reasons, I respectfully dissent.
+
+CALOGERO, Justice, dissenting.
+
+United States v. Janis,
+428 U.S. 433
+, 96 S. Ct. 3021, 49 L. Ed. 2d 1046 (1976) is distinguishable from this case. It involved inter-sovereign cooperation, i.e., exclusion from a federal civil proceeding of evidence unlawfully seized by a state criminal law enforcement officer. Here we are concerned with intrasovereign cooperation, i.e., exclusion from a state civil proceeding of evidence unlawfully seized by state criminal law enforcement officers. Janis did not extend that far.
+
+In any event, even if Janis is applicable, it is not dispositive in this case. Both Janis and Delguidice v. New Jersey Racing Commission, 100 N.J. 79,
+494 A.2d 1007
+(1985), which the majority cites herein, simply hold that the exclusionary rule will not apply to a civil proceeding before an agency that is separate and apart from the agency which originally obtained the illegal evidence.
+
+In Delguidice, the New Jersey Supreme Court applied the principles enunciated in Janis to a search of a racing licensee. In that case, in determining whether to apply   the exclusionary rule in a racing licensing proceeding, the New Jersey Supreme Court did not simply admit the illegally seized evidence, but instead applied a balancing test to determine whether the deterrent value obtained by excluding the evidence outweighed the social costs of such exclusion. The Delguidice court focused on three factors: (1) the connexity between the officials who seized the evidence and the agency which was attempting to utilize the evidence; (2) whether the evidence seized had already been excluded in a criminal proceeding, and (3) whether the purpose of the investigation which resulted in the seizure of the evidence was to obtain criminal convictions or license revocations. Those factors, which prompted the Delguidice court to admit the illegal evidence in that civil proceeding, should lead this Court to precisely the opposite result here.
+
+The first factor is the connexity between the officials who seized the evidence and the agency which was attempting to utilize the evidence. Noting that the deterrent effect of excluding evidence is highly attenuated where the entitity forbidden from using the evidence is not the same entity which authorized its seizure, the Delguidice court found that the deterrent value in that case would be minimal since the State Police investigator was not under the direction of or affiliated in any way with the Racing Commission. However, in this case, since the Louisiana State Police Racing Investigation Unit was at the least affiliated with the Louisiana State Racing Commission, the opposite result obtains.
+
+The second factor is whether the police might be deterred in a case such as this because they have already been precluded from using the seized evidence in a criminal proceeding. In Delguidice, the seized evidence had already been excluded in a criminal proceeding. In this case, the opposite is true. Application of the exclusionary rule would provide substantial deterrent value since the evidence has not previously been excluded in a criminal proceeding.
+
+The third factor is whether the purpose of the police investigation was to obtain criminal convictions or license revocations. In Delguidice, the primary purpose for obtaining the evidence was for use in a criminal proceeding. The Delguidice court reasoned that it would serve no purpose to exclude this evidence from an incidental license revocation proceeding. However, the converse is true in this case and an opposite conclusion should be reached. The primary purpose of the illegal search of Pullin's barn was for use in the license revocation proceeding. Surely, since the primary purpose of the search was for use in a civil proceeding, it is hardly arguable that the exclusionary rule's deterrent effect would not be substantially served by excluding the illegally seized evidence from the very proceeding for which it was procured.
+
+[1]  LAC 11-6:53.22 (currently codified at 35 La. Admin.Code 1743 (1984)) provides that:
+
+No person shall have in his possession, within the confines of a race track or within its stables, buildings, sheds or grounds, or within an auxiliary (off-track) stable area, where horses are lodged or kept which are eligible to race over a race track of any association holding a race meeting, any prohibited drugs, hypodermic syringes or hypodermic needles or similar instruments which may be used for injection, except that licensed veterinarians may have in their possession such drugs, instruments or appliance, etc. as required in general veterinary practice.
+
+[2]  465 So. 2d 122 (La.App. 4th Cir.1985).
+
+[3]  468 So. 2d 1198 (La.1985).
+
+[4]  The Court noted at the outset that, "[i]n the complex and turbulent history of the rule, the Court never has applied it to exclude evidence from a civil proceeding, federal or state."
+
+[5]  The drugs found in Pullin's barn were Dilaudid and Mazindol. La.R.S. 40:964 classifies Dilaudid as a Schedule II drug and Mazindol as a Schedule IV drug. The possession of these drugs is proscribed by La.R.S. 40:967 and 969.
+
+[6]  As its title indicates, the State Police Racing Investigations Unit is a component of the Louisiana State Police. The state police is a component of the Department of Public Safety (La.R.S. 40:1301) and is governed by La.R.S. 40:1371, et seq. The racing commission, on the other hand, is within the Department of Commerce (35 La. Admin.Code Preface and Forward) and is governed by La.R.S. 4:141, et seq.
+
+[1]  This argument has not been reurged in this court.

@@ -1,0 +1,99 @@
+56678
+State v. Gilmore
+https://law.justia.com/cases/louisiana/supreme-court/1975/323-so-2d-459-1.html
+
+56678
+State v. Gilmore
+Court: Louisiana Supreme Court
+Release date: 1975-12-08
+Author: BOLIN, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/323-so-2d-459-1.html
+
+323 So. 2d 459 (1975)
+
+STATE of Louisiana
+v.
+Mottoria F. GILMORE.
+
+No. 56678.
+
+Supreme Court of Louisiana.
+
+December 8, 1975.
+
+*460 Frank E. Brown, Jr., Huckaby, Piper & Brown, Shreveport, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John A. Richardson, Dist. Atty., Charles R. Lindsay, Asst. Dist. Atty., for plaintiff-appellee.
+
+BOLIN, Justice.
+
+Defendant was convicted of the crime of forgery in violation of La.R.S. 14:72.
+
+*461 After having been adjudicated an habitual offender he was sentenced to ten years' imprisonment. La.R.S. 15:529.1. On this appeal defendant argues eight assignments of error. Finding no merit in these assignments, we affirm.
+
+Defendant was prosecuted for having issued and transferred a forged check with intent to defraud and knowledge that it was forged. The check was drawn on the account of a Shreveport businessman and made payable to one Howard T. Bennett. At the time defendant issued and transferred the check to the Thrifty Liquor Store for payment, he presented for identification purposes a Veterans Administration Patient Data card made out in the name of Howard T. Bennett. In cashing the check the liquor store clerk utilized a device designed to imprint the data on the identification card onto paper inserted into the device. In this case, the card and the check were inserted into the device, and the impression of the identifying data appearing on the card was impressed on the check. When Thrifty presented the check to the bank upon which it was drawn for payment the check was dishonored and returned with the notation that the signature on the check did not agree with that contained in the bank's files. Personnel of Thrifty brought the matter to the attention of the Shreveport Police Department, an investigation was undertaken, and this prosecution ensued.
+
+Defendant assigns as error the trial court's failure to sustain a pre-trial motion to suppress the physical evidence seized on the date of his arrest, the line-up identification by the person to whom he issued and transferred the forged check, the handwriting exemplars he was compelled to execute, and any inculpatory and/or exculpatory statements made while he was without the advice of counsel.
+
+The basis for that part of defendant's motion which sought suppression of the physical evidence involves an attack on the legality of the arrest based on the claim that the arresting officer did not have "* * * reasonable cause to believe that * * * [defendant] has committed an offense, although not in the presence of the officer;". La.C.Cr.P. art. 213. Defendant argues the only information possessed by the officer at the time of the arrest was the stated belief of the bank teller from whom defendant attempted to obtain funds from the account of one Joe Jackson that defendant appeared to be the person who had previously passed a forged check to her (the Gosey check forgery). This information, defendant argues, did not supply the officer with reasonable cause to make a legal arrest.
+
+At the time the officer made the arrest, he had more information than that asserted by defendant. During the hearing on the motion to suppress, the officer testified that prior to defendant's appearance at the teller's window, he had knowledge there had been a forgery of a check on the Gosey account and the check had been transferred to the same teller who was on duty on the day of the arrest. He also testified he was aware that the method used by the person who transferred the forged Gosey check was to approach the walk-up window, request a counter check, ask the teller to fill out the counter check, sign the check filled out by the teller, and transfer it in order to receive the funds. The officer testified that on the date of the arrest the first few steps of the same modus operandi were used by defendant in connection with the attempt to transfer a check drawn on the account of Joe Jackson. At this point, the teller related that the defendant appeared to be the same person who had passed the forged Gosey check. Upon hearing this information the officer assumed a standing position in order to obtain a view of the defendant through the   teller's window and simultaneously picked up the telephone to notify the auditing department of the suspected irregularity. Apparently upon observing the uniformed officer, the defendant abandoned his venture, left the counter check and hurriedly walked across the street. The officer exited the side door of the teller's enclosure, shouted to defendant to stop, and sought identification of the defendant after he had effected the detention. He conducted the search after defendant denied having identification and denied having a wallet in his possession, even though the officer could "* * * see one in his pocket." The search revealed a wallet containing various papers and documents evidencing the names and bank account numbers of several individuals and a Veterans Administration Patient Data card in the name of Howard T. Bennett.
+
+In State v. Di Bartolo,
+276 So. 2d 291
+(La.1973), this Court discussed the prerequisites of a valid warrantless arrest. We stated:
+
+Applying these accepted maxims to the case at bar, we hold the officer was in possession of ample information upon which to base a reasonable belief the defendant had committed an offense out of his presence, i.e., forgery of the Gosey check. Moreover, at the time of the arrest the officer could reasonably have believed the defendant had committed a felony (attempted forgery) in his presence. Therefore, we hold the trial court did not err in refusing to sustain the motion to suppress the evidence seized.
+
+Defendant sought suppression of the line-up identification, arguing that his participation therein was involuntary. He admits signing a waiver of rights in connection therewith but contends he participated only because his earlier request for an attorney did not meet with compliance. He also claims he was informed by the police that he had no choice but to participate. Defendant testified concerning the allegation at the hearing on the motion to suppress the identification but each allegation was refuted by testimony of various officers who took part in the investigation and conducted the line-up. The officer who invoked the line-up proceeding testified he personally apprised defendant of his rights in connection with the line-up, obtained defendant's waiver and his participation without the use of threats, abuse or other coercion, and was satisfied prior to the line-up that defendant's participation was free and voluntary. The officer further affirmatively stated the defendant did not request that an attorney be present at the line-up.
+
+It is clear the credibility of the opposing witnesses on the issue of the legality of the line-up proceedings was resolved adversely to defendant. In reviewing the pertinent portions of the record, we find no basis for disturbing the trial court's determination. The United States Constitution's Sixth Amendment right to counsel is not applicable in cases involving pre-indictment line-ups. Kirby v. Illinois,
+406 U.S. 682
+, 92 S. Ct. 1877, 32 L. Ed. 2d 411 (1972). This Court has consistently followed the Kirby holding. See, e.g., State v. Nero,
+319 So. 2d 303
+(La.1975) and cases cited therein. This line-up was held prior to the filing of the bill of information in the instant case; hence, Kirby applies.
+
+Defendant argues the handwriting exemplars and any inculpatory and/or exculpatory statements should have been excluded as "fruit of the poisonous tree" since the receipt of same stemmed from   the allegedly illegal arrest. We find this argument lacks merit, in light of our holding that the arrest was legal, having been made with reasonable cause. At the hearing on the motion to suppress these items, defendant attempted to establish that the exemplars obtained by the police on the morning after his arrest, as well as any statements made, were not freely and voluntarily given. As in the case of defendant's attack on the line-up, we note these allegations were painstakingly refuted by the State's witnesses. Again, we find no basis for disturbing the trial court's determination of the relative credibility of the witnesses and the ruling based thereon.
+
+This assignment of error lacks merit.
+
+This assignment of error complains of the trial court's overruling of his objection to the State's alleged use of its allotted peremptory challenges to exclude Blacks from the petit jury. He contends this prosecutor systematically used peremptory challenges to deny him a trial by an impartial jury which was fairly representative of the community. This Court has on numerous occasions held the motive for the exercise of peremptory challenges is not subject to judicial review, absent a showing of long-term systematic exclusion of Blacks, as enunciated in Swain v. Alabama,
+380 U.S. 202
+, 85 S. Ct. 824, 13 L. Ed. 2d 759 (1965). See, e.g., State v. Jack,
+285 So. 2d 204
+(La.1973) and State v. Gray,
+285 So. 2d 199
+(La.1973). No such showing has been made and we note that one of the five petit jurors was Black, notwithstanding the State still had one peremptory challenge left at the time it accepted the Black juror.
+
+There is no merit in this assignment of error.
+
+During the State's opening statement defendant objected to mention of his having actually confected the forged check, as opposed to having merely issued and transferred it, as charged in the bill of information. Assignment of Error No. 3 complains of the trial court's overruling defendant's objection. Assignment No. 4 has reference to the trial court's ruling admissible the original and supplemental handwriting exemplars used to prove the defendant had confected the forged check, in addition to having issued and transferred it. The trial court's refusal to sustain the defendant's objection to the testimony of a handwriting expert concerning the person who actually executed the signatures and other written portions of the forged check is the subject of defendant's complaint in Assignment of Error No. 7.
+
+Defendant argues that admitting evidence concerning the maker of the forged instrument was error in view of the fact that the information merely charged him with having issued and transferred the check.
+
+The State argues the best evidence which it could present to show defendant knew the check to be forged, a fact it was required to prove, was evidence which tended to establish defendant had executed the writing himself. We agree that the evidence presented by the State did not constitute evidence of an extraneous offense, since in the act of executing the various written portions of the check which defendant then transferred was part of a continuous offense which constituted a single forgery.
+
+The trial court did not err in its refusal to maintain defendant's objection to the State's opening statement and in allowing physical and testimonial evidence tending to prove defendant executed the forged check, in addition to transferring it.
+
+This assignment of error complains that the trial court erred in failing to grant a motion for mistrial made by defendant   based on the State's alleged failure to supply him with exculpatory evidence in its possession, despite an earlier motion filed on the basis of Brady v. Maryland,
+373 U.S. 83
+, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963). Brady mandates that evidence favorable to the accused may not be suppressed by the prosecution after the accused has requested same.
+
+The evidence which defendant contends is potentially favorable involves the inability of certain individuals who viewed the line-up in which he participated to identify him as the individual who passed to them other forged instruments. As pointed out by the State in brief, this information is irrelevant to the issues for determination in the instant prosecution. The inability of these individuals to identify defendant in connection with other forged instruments, not the subject of this case, could not possibly have availed defendant.
+
+There being no Brady violation in this instance, this assignment accordingly lacks merit.
+
+Defendant contends that during closing argument the prosecutor commented to the jury "that defense lawyers have a knack for putting prosecution witnesses on trial instead of the defendant." Defendant claims this statement is a comment on his failure to take the stand and mandates the granting of a mistrial under La. C.Cr.P. art. 770(1).
+
+The comment of the prosecutor which prompted the defense objection was not as quoted by the defendant but was as follows:
+
+In the context of the closing argument of defense counsel, to which this rebuttal was directed, this remark was not prejudicial error, and was not a comment on the failure of the defendant to testify. The record reveals defense counsel had just concluded his summation, during which he zealously attempted to point out whatever inconsistencies may have come to light during the testimony of the State's witnesses. He questioned the possible motives and biases of the various State's witnesses. While the trial court certainly had the discretion to require the prosecutor to restrict his rebuttal to the facts of the case, we cannot say the prosecutor's comment constitutes serious error.
+
+None of the arguments made in connection with this assignment of error warrant reversal of the defendant's conviction and sentence.
+
+Defendant argues the ten-year sentence imposed constitutes cruel and unusual punishment because it is disproportionate to the offense. We note defendant was sentenced as an habitual offender, based on proof that this conviction constituted his third felony conviction. The penalty imposed was one-half the maximum sentence which could be imposed. This Court has held in cases too numerous to require citation that a sentence imposed within the statutory limitations set forth does not violate the Eighth Amendment prohibiting cruel and unusual punishment.
+
+This assignment is devoid of merit.
+
+For the foregoing reasons, the defendant's conviction and sentence are affirmed.

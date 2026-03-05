@@ -1,0 +1,85 @@
+56599
+Cooley v. Slocum
+https://law.justia.com/cases/louisiana/supreme-court/1976/326-so-2d-491-1.html
+
+56599
+Cooley v. Slocum
+Court: Louisiana Supreme Court
+Release date: 1976-01-19
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/326-so-2d-491-1.html
+
+326 So. 2d 491 (1976)
+
+Lloyd L. COOLEY, Plaintiff-Appellant-Relator,
+v.
+J. W. SLOCUM d/b/a J. W. Slocum Construction Company, et al., Defendants-Appellees-Respondents.
+
+No. 56599.
+
+Supreme Court of Louisiana.
+
+January 19, 1976.
+
+Dissenting Opinion February 26, 1976.
+
+Rehearing Denied February 20, 1976.
+
+Chris J. Roy, Gravel, Roy & Burnes, Alexandria, for plaintiff-appellant-relator.
+
+David A. Hughes, Gist, Methvin & Trimble, Alexandria, for defendants-appellees-respondents.
+
+Dissenting Opinion of Summers, J., February 26, 1976.
+
+TATE, Justice.
+
+We granted certiorari, 318 So. 2d 45 (La.1975), to review the dismissal of the plaintiff Cooley's claim in tort against the defendant Guinn and his liability insurer. The issue is whether a partner may be individually liable to an employee of the partnership injured as a consequence of the partner's negligence at work.
+
+The partnership was the injured claimant's employer. His exclusive remedy against the partnership, his employer, for his work-injuries was for workmen's compensation benefits. La.R.S. 23:1032. However, an employee injured at work is entitled to recover in tort from those third persons whose negligence caused or contributed to the injury. La.R.S. 23:1101-1103.
+
+By this tort suit, the employee Cooley prays for recovery for his personal injuries at work from the defendant partner, Guinn. Cooley contends that his injuries were caused by the personal negligence of Guinn while he was working with the plaintiff Cooley. The plaintiff employee thus sues the defendant partner as a negligent third person, with a legal personality separate and distinct from the partnership itself.
+
+The court of appeal affirmed the trial court's summary judgment dismissing the employee's tort suit against the partner. 313 So. 2d 606 (La.App. 3d Cir. 1975). It did so in reliance upon three intermediate decisions to the same effect: Leger v. Townsend, 257 So. 2d 761 (La.App. 3 Cir. 1972), certiorari denied 261 La. 464, 259 So. 2d 914 (1972); Cockerham v. Consolidated Underwriters, 262 So. 2d 119 (La.   App. 2 Cir. 1972), certiorari denied 262 La. 315, 263 So. 2d 49 (1972); and Bersuder v. New Orleans Public Service, Inc., 273 So. 2d 46 (La.App. 4 Cir. 1973).
+
+These decisions essentially held that, even though under our civil law a partnership is a separate entity from its members, partners cannot as a general rule be sued for partnership debts during its existence. Kline v. Dawson, 230 La. 901,
+89 So. 2d 385
+(1956); cf. also Brinson v. Monroe Automobile & Supply Co., 180 La. 1064, 158 So. 558, 96 A.L.R. 1206 (1934). Cockerham inferentially suggested that the secondary liability of the partners individually for the partnership's torts could not be the basis of a tort suit against a partner, when the partnership itself is exempt from liability for the tort (i.e., because of the exclusiveness of compensation remedy).
+
+These decisions have received uniform scholarly criticism. Dean Milton Harrison, Work of the Appellate CourtsPartnership, 34 La.L.Rev. 265 (1974); Note, 34 La.L.Rev. 654 (1974). As these analyses point out, under settled civilian theory the partnership is an entity separate and apart from the partners who compose it, a civil person independent of the legal personalities of its partners. Trappey v. Lumbermen's Mutual Casualty Co., 229 La. 632,
+86 So. 2d 515
+(1956).
+
+Thus, as the commentaries point out, a partner is a different legal person than the partnership itself. Therefore, for the purposes of La.R.S. 23:1101-1103 of the compensation act, a partner is a third person who is liable to an employee for injuries at work caused by the partner's personal negligence, just as is any other third person.
+
+Insofar as not factually distinguishable, the error in the reasoning of the intermediate Leger, Cockerham, and Bersuder decisions, cited above, is that they failed to recognize that a partner's personal liability for his own fault is an obligation owed by him individually independent of any liability of the partnership itself arising out of the incident.
+
+A partner is thus individually liable to an employee of the partnership injured by the partner's personal fault, just as is one employee of a corporate individually liable for injuries caused by his personal negligence to a co-employee. Canter v. Koehring Company,
+283 So. 2d 716
+(La.1973). In both instances, the individual liability of the negligent actor is independent of the liability of the partnership or corporate employer in workman's compensation for injuries so caused. (Of course, the employer may be entitled to be indemnified for compensation payments from the proceeds available for the tort recovery. La.R.S. 23:1103.)
+
+Our decision in Trappey v. Lumbermen's Mutual Casualty Co., 229 La. 632,
+86 So. 2d 515
+(1956) held that a partner injured in the course of his employment with his partnership has a cause of action in workmen's compensation against it. We thus recognized that the legal personality of a partnership is separate and distinct from the legal personalities of the partners who comprise itthat the partnership and each of the partners are separate persons.
+
+Our decision today holds that a partner is a third person insofar as the employment relationship between the partnership and its injured employee. It is consistent with Trappey. Insofar as inconsistent with Trappey and our decision herein, we overrule the cited intermediate decisions in Leger, Cockerham, and Bersuder, as well as Obiol v. Industrial Outdoor Displays, 288 So. 2d 425 (La.App. 4th Cir. 1974) which followed them.
+
+For the reasons assigned, therefore, we reverse the summary judgments of the district and intermediate court which dismissed the plaintiff Cooley's suit against the defendant Guinn and (insofar as this claim) his insurer; and we remand this case to the district court for further proceedings   consistent with the views herein expressed. The defendants-respondents are cast with all costs attributable to appellate review of this dismissal; all other costs to await final termination of these proceedings.
+
+Reversed and remanded.
+
+SANDERS, C. J., dissents.
+
+SUMMERS, J., dissents and assigns reasons.
+
+MARCUS, J., dissents and assigns reasons.
+
+MARCUS, Justice (dissenting).
+
+An employee's remedy on account of a personal injury for which he is entitled to compensation shall be exclusive of all other rights and remedies of such employee. La.R.S. 23:1032. However, when the injury for which compensation is payable creates in some person (third person) other than the employer a legal liability to pay damages in respect thereto, the injured employee may claim compensation from his employer as well as damages against such third person for the injury. La.R.S. 23:1101.
+
+In my opinion, a partner is not a third person as contemplated in the above statute. A partnership is a contract between two or more persons for mutual participation in the profits which may accrue from property, credit, skill or industry furnished in determined proportions by the parties. La.Civil Code art. 2801. Partners are bound in solido or for their virile share of the debts of the partnership depending on the type of partnership (commercial or ordinary). La.Civil Code arts. 2872 and 2873. This obligation would include any claim for compensation benefits owed to the employee under the act. While a partnership may be a separate legal entity from the partners who compose it, I do not consider a partner in the same category as a third person other than the employer as set forth in the statute. In my view, the majority opinion, extending delictual liability for industrial accidents to individual partners of a partnership, represents a strained interpretation of the above statute that is contrary to the spirit of the compensation law. Accordingly, I respectfully dissent.
+
+SUMMERS, Justice (dissenting).
+
+I dissent for the reasons assigned by Mr. Justice MARCUS.

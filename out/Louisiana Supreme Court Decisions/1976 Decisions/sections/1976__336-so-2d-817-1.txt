@@ -1,0 +1,165 @@
+57495
+State v. Ford
+https://law.justia.com/cases/louisiana/supreme-court/1976/336-so-2d-817-1.html
+
+57495
+State v. Ford
+Court: Louisiana Supreme Court
+Release date: 1976-06-21
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/336-so-2d-817-1.html
+
+336 So. 2d 817 (1976)
+
+STATE of Louisiana, Appellee,
+v.
+Edward Lee FORD, Appellant.
+
+No. 57495.
+
+Supreme Court of Louisiana.
+
+June 21, 1976.
+
+Rehearing Denied September 10, 1976.
+
+*818 George Wear, Jr., Shotwell, Brown & Sperry, Monroe, for defendant-appellant.
+
+William J. Guste, Jr., Atty., Gen., Barbara Rutledge, Asst. Atty. Gen., J. Carl Parkerson, Dist. Atty., Joe Rolfe White, Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant Ford was convicted of attempted armed robbery, La.R.S. 14:27, 64, and sentenced to twenty years at hard labor.
+
+Upon his appeal, he makes seven assignments of error. The most serious of them relate to a denial of a change of venue (Assignment 2) and to the admission over objection of allegedly hearsay testimony (Assignment 6 and 7). Assignment 5, relating to the introduction of testimony taken at a preliminary examination, also deserves comment.
+
+Assignment 2 (Change of venue)
+
+The offense charged occurred in November, 1974. The victim, Gerald Summerville, was killed in a subsequent robbery of his business place in March, 1975.   Two days later another businessman of the community was similarly killed. The defendant was not in any manner connected with either of these latter two offenses. (In fact, at the time he had been for some time held in the parish jail.)
+
+The motion for a change of venue essentially relies upon the alleged public prejudice created by these latter crimes and, especially, the publicity concerning Summerville's death, which in two newspaper articles briefly included mention of the incident some four months later.
+
+The trial was held in September, 1975 some ten months after the offense and some six months after the March killing of Summerville. After reviewing the evidence heard at the motion, the trial court's per curiam concludes:
+
+"The subject newspaper had limited coverage in the parish, and it appears probable that the articles in question did not make a lasting impression even on those who likely read them. No evidence was presented that the public had been inflamed against this defendant. Any knowledge acquired in this manner, about the defendant or the instant case, did not warrant a change of venue."
+
+The defendant points out, however, that during voir dire examination most of the jurors admitted to having read or heard of at least one of the incidents involving Summerville. However, the voir dire examination also satisfactorily shows no general prejudice or preconception of the defendant's guilt, nor any association of the November incident (with which the defendant is charged) with the subsequent fatal robbing.
+
+As the trial court held, the defendant did not bear his burden of proof that he was entitled to a change of venue because he could not obtain a fair and impartial trial in the parish of the offense. La.C.Cr.P. arts. 621, 622. See, e.g.: State v. Stewart, La., 325 So. 2d 819 (1976); State v. Butler,
+322 So. 2d 189
+(La.1975); State v. Dupuy,
+319 So. 2d 294
+(La.1975); State v. Flood,
+301 So. 2d 637
+(La.1974); State v. Leichman,
+286 So. 2d 649
+(La.1973); State v. Richmond,
+278 So. 2d 17
+(La.1973).
+
+The trial court correctly denied a change of venue.
+
+Assignment 5 (Transcript or tape of preliminary examination)
+
+On motion of the defendant, a preliminary examination was held in January 1975 to determine whether the state had probable cause to hold him pending trial. La.C. Cr.P. arts. 291-98. At this trial, the testimony of Summerville, the victim, was taken under oath, at which time he was also cross-examined by the defendant's counsel.
+
+As noted, Summerville was killed in March, 1975. Consequently, his testimony taken at the preliminary examination was offered in evidence at the September trial, as authorized by La.C.Cr.P. art. 295. Due to the unavailability of the witness by reason of his death, the Confrontation Clauses of the state and federal constitutions do not prevent admission of his sworn and cross-examined testimony at the preliminary examination. State v. Dotch,
+298 So. 2d 742
+(La.1974); State v. Kaufman,
+304 So. 2d 300
+(La.1974) at 304 (summary of principles); Barber v. Page,
+390 U.S. 719
+, 721-22, 88 S. Ct. 1318, 1320, 20 L. Ed. 2d 255 (1968); McCormick on Evidence, Section 252, see also Section 253 (2d ed., 1972).
+
+Of course, as the defendant argues, when the testimony of the preliminary examination is offered at the trial, the party against whom it is offered may object to any particular question or answer as inadmissible for purposes of the merit-trial. The defendant's failure to object at the time the testimony is taken at the preliminary examination does not waive his right to do so, since testimony such as hearsay may be admissible at the preliminary examination for its purposes (probable cause),   although it is not admissible at the trial on the merits of guilt or innocence.
+
+After hearing the defendant's objections to some of the questions and answers, the trial court sustained some and overruled others. We find no error in its rulings and in its admission of the preliminary-examination testimony (less that to which objections were sustained) into evidence at the trial.
+
+By this testimony, Summerville identified one of his would-be robbers as the defendant Ford, both by pointing him out at the pre-trial hearing and by name. Summerville stated that he had known Ford by face for about eight years, although not by name. Immediately following the incident, he told the police of his acquaintance and described him, and then picked him out immediately from several photographs shown him by the police.
+
+The defendant nevertheless claims that admission of the preliminary-examination hearing was erroneous for an additional technical reason. After the trial court's rulings settled which portions of the preliminary-examination testimony were admissible and which were not, the defendant objected to introduction and reading of the transcript (which he had been furnished long before the trial). The ground was that, although the court reporter had recorded the testimony, an assistant court reporter had transcribed (typed) it.
+
+The basis for this objection is the requirement of La.C.Cr.P. art. 294 that: "A transcript of the testimony [at the preliminary examination] . . . shall be made by the court or under its direction and signed or certified by the person taking the testimony."
+
+As we read the article, it does not require that the person taking the testimony actually transcribe it personally, but only that such person sign and certify it as true and correct. (In many districts of the state, the court reporter does not actually type the transcript of his notes or recordations, but rather has them typed under his supervision; after correcting any error, the reporter signs and certifies the transcript. This is sufficient compliance with the article.)
+
+In this case, the court reporter signed and certified the transcript of the preliminary examination, which had been typed from her recording by the deputy court reporter. The objecting should have been overruled. Nevertheless, out of an excess of caution, the trial court sustained the objection.
+
+The state then offered, instead, the taped testimony of Summerville from which the transcript had been made, less the objection-sustained portions of it.
+
+The defendant objected to receipt of the taped testimony (i.e., the sound-recorded tape), on the ground that La.C.Cr.P. art. 295 authorizes introduction of a transcript, i.e., a written copy, and not of a sound copy of the testimony taken at the preliminary examination.
+
+We do not read the code article so restrictively. When the preliminary-hearing evidence is admissible at the merit-trial, the "transcript" is admissible under Article 295, not because it is typed on paper, but rather to prove its contents. We do not believe that the article contemplates that, upon penalty of reversal, in no circumstance may the preliminary-hearing evidence be produced before the jury except by reading it from a typed transcript, nor that the article prohibits under any circumstances the jury from hearing the same evidence by any other method, such as through audio or video recordation. In any event, however, under the circumstances shown, we find no prejudice and therefore no merit to this objection.
+
+In summary, Assignment 5 does not reflect reversible error.
+
+Assignment 6 and 7 (Hearsay identification testimony)
+
+*821 These assignments relate to the admissibility of testimony that the deceased victim (Summerville) of the robbery had identified the defendant Ford as his would-be robber. Prior to Summerville's deposition (preliminary-examination) testimony had been introduced, by which he had already so identified Ford. The defendant objected to this subsequent testimony as inadmissible hearsay.
+
+The objected-to testimony consisted of the testimony of police officers of Summerville's identification in two particulars: (a) his selection of the defendant's picture from the photographs submitted to him (Assignment 6); and (b) the officers' testimony as to the defendant's oral and physical identification (by pointing) of the defendant Ford as one of his robbers, when within two hours of the robbery Ford was brought to him by the police officers (Assignment 7).
+
+In Louisiana criminal trials, hearsay is inadmissible except under recognized exceptions. La.R.S. 15:434. "The hearsay rule excludes out of court assertions offered to prove the matter asserted because they are not made under oath and their veracity cannot be tested by cross examination." Pugh, Louisiana Evidence Law 388-89 (1974). The traditional exclusion of hearsay in Anglo-American jury trials is based upon historic considerations of unreliability and of potential unfairness to an accused to permit into evidence damaging out-of-court statements which cannot be tested as to their basis in fact, or by cross-examination of the out-of-court declarant. Pugh, 388-432.
+
+The trial court incorrectly ruled that the (a) testimony, as a physical action (pointing to and picking out the defendant's pictures), was not hearsay because not an oral communication.
+
+The assertive action of Summerville, though not oral, was a communication to the officers that the photograph before him was one of his robber. It was introduced for the purpose of proving the truth of the matter so asserted, i.e., that the defendant Ford was his robber. It was therefore hearsay, as an assertive communication introduced for the truth of the assertion thereby made.
+
+See: State v. Smith,
+285 So. 2d 240
+, 246 (La.1973); State v. Maiden, 258 La. 417,
+246 So. 2d 810
+(1971); State v. Garon, 158 La. 1014, 105 So. 47 (1925); Pugh, Louisiana Evidence Law 412, 414 (1974); Mc-Cormick on Evidence, Section 250 (2d ed., 1972).
+
+Likewise, the trial court was in error in its reason for holding admissible the (b) testimony i.e., that Summerville had orally and physically (by pointing) identified Ford as his robber. The trial court held that such identification, when made in Ford's presence without objection by him, was a tacit admission by the accused of the truth of the statement and conduct made in his presence.
+
+However, although inculpatory statements made by others in the presence of an accused may be admissible for such reason, State v. Sharbino, 194 La. 709, 194 So. 756, 759-760 (1940), this rule does not apply when the defendant is in legal custody. State v. Hayden, 243 La. 793,
+147 So. 2d 392
+(1962). As we there stated, 147 So.2d 393-394: "`Mere silence, while a party is held in custody under a criminal charge, affords no inference whatever of acquiescence in statements of others made in his presence. He has the undoubted right to keep silence as to the crime with which he is charged, and is not called upon to reply to or contradict such statements. Under such circumstances, it is held that the statements so made are not admissible against the prisoner, because they do not even tend to support the hypothesis of acquiescence.'"
+
+Thus, in overlooking these decisions and these will-settled principles, we were in error in State v. St. Amand,
+274 So. 2d 179
+, 190 (La.1973), critically noted on this ground, 34 La.Law Review 455 (1974), in holding that evidence of this nature is not hearsay and therefore not subject to objection as hearsay.[1]
+
+However, even if the testimony is inadmissible hearsay,[2] under the circumstances here shown its admission does not constitute reversible error. It was merely cumulative and corroborative of the testimony of the witness himself, whose testimony at the preliminary examination was introduced into evidence due to his non-availability to testify at the trial because of his death. When hearsay identification testimony is merely corroborative of the witnesses' prior direct evidence of his own identification of the accused, we similarly held admission of the hearsay harmless in State v. Smith,
+285 So. 2d 240
+(La.1973) and State v. Maiden, 258 La. 417,
+246 So. 2d 810
+(1971).
+
+In holding harmless the testimony of the witness as to the visual identification of the accused by the victim, we are to some extent influenced by developments in modern evidence law, which tend under present circumstances to hold the testimony admissible, although for differing reasons. For, while some jurisdictions still hold that testimony as to an out-of-court visual identification made by another in the witness's presence is inadmissible hearsay under almost all circumstances, by far the greater number of jurisdictions now permit admission of such testimony, at least when offered in corroboration of direct testimony of a trial witness which identifies the accused. See: Annotation, Admissibility of Evidence as to Extrajudicial Identification, 71 ALR 2d 449 (1960), and especially Later Case Service (through 1976); 1 Wharton's Criminal Evidence, Section 187 (13th ed., Torcia, ed.; 1972).
+
+As noted in McCormick on Evidence, Section 251, p. 603 (2d ed., 1972): "When A testifies that on a prior occasion B pointed to the accused and said, `That's the man who robbed me,' the testimony is clearly hearsay. If, however, B is present in court and available for cross-examination, a case within the present section is presented. Similarly if B has himself testified to the prior identification. Admissibility of the prior identification in all these situations has the support without recognition of the presence of a hearsay problem. Recent statutes and rules also favor admissibility. Justification is found in the unsatisfactory nature of courtroom identification and the safeguards which now surround staged out-of-court identifications."
+
+The above-cited ALR annotation comprehensively cites and analyzes the evolving jurisprudence in the area. The annotation summarizes, 71 ALR 452-453:
+
+"The question of the admissibility of evidence as to an extrajudicial identification of the defendant in a criminal prosecution arises in a variety of factual situations,   and the determination thereof may involve the consideration of various differentiating factors. The conclusion may depend, inter alia, upon whether the testimony offered is that of the identifier or that of a third person who heard or observed the identification; upon whether the identifier testified or was available as a witness at the trial; upon whether the identifying act or statement was in the presence of the accused; upon the means by which or the manner in which the identification was made; and upon the purpose for which the evidence is offered, whether as original or substantive proof of the identity of the accused, as corroborative of the testimony of the identifying witness, or as in rebuttal of evidence or statements tending or intended to impeach or discredit the testimony of the witness as to the identity of the defendant. Furthermore, there are divergent views or theories as to the grounds of admission or exclusion of the evidence, particularly in respect of the application, in this connection, of the rules relating to hearsay evidence, and as to the effect of particular factors or circumstances.
+
+"The review of the decisions discloses that the law of the subject has in several jurisdictions been in process of development up until comparatively recent times, and that in some it is still in a more or less unsettled condition. As appears from the ensuing discussion and the review of the cases individually, the rule now prevailing in most jurisdictions in which the question has been fully considered, subject to the qualifications and exceptions noted, is that the prior identification may be shown by the testimony of the identifier or identifying witness, or by the testimony of the third person to whom or in whose presence the identification was made, where the identifier has testified or is present and available for cross-examination at the trial, not as original, independent, or substantive proof of the identity of the defendant as the guilty party, but in corroboration of the testimony of the identifying witness, at the trial, as to the identity of the defendant. As above indicated, however, a contrary rule obtains in some jurisdictions as to some or all of the propositions stated, as hereinafter shown."[3]
+
+Other Assignments
+
+The other assignments do not present arguable merit and will not be discussed: Assignment 1 relates to the denial of a directed verdict; Assignment 3 (relating to the denial of a motion to suppress a pistol and bullets, seized in plain view incident to a lawful arrest) was expressly abandoned at the oral argument; and Assignment 4 relates to an (not well-founded) objection that the chain of custody for introduction of the pistol was inadequate.
+
+Accordingly, we affirm the conviction and sentence.
+
+AFFIRMED.
+
+SUMMERS, J., concurs in result only.
+
+MARCUS, J., concurs.
+
+[1]  The decision to some extent relies upon State v. Wilkerson, 261 La. 342,
+259 So. 2d 871
+, 874-75 (1972). Wilkerson indicated that such testimony might not be hearsay; but it essentially affirmed the admission of the evidence on the ground that, if hearsay, the evidence was harmless. The Wilkerson intimation of the non-hearsay character of the testimony received scholarly criticism as erroneous. Pugh, Louisiana Evidence Law 429 (1974).
+
+[2]  There is no showing, for instance, that the direct testimony by Summerville introduced at the trial (his out-of-court testimony taken under cross-examination at the preliminary examination) had been attacked, so as to permit proof of prior statements or assertions made by him at an unsuspicious time in order to corroborate his assailed trial testimony. La.R.S. 15:496; State v. Watson, 159 La. 779, 785-86, 106 So. 302 (1925); State v. Wagoner, 39 La.Ann. 919, 921-23, 3 So. 119 (1887). See 4 Wigmore on Evidence, Section 1130 (Chadbourn Rev., 1972).
+
+[3]  The annotation cites the following articles and commentaries: 36 Minn.L.Rev. 530 (1952); 27 NYU L.Rev. 367 (1952); 30 Rocky Mt.L.Rev. 332 (1958). See also: Comment, The Use of Prior Identification Evidence in Criminal Trials and on the Federal Rules of Evidence, 66 J. Criminal Law and Criminology 240 (1975); Note, Hearsay, Witnesses Prior Statements and Criminal Justice in Illinois, 1974 University of Illinois Law Forum 675 (1974).
+
+For a decision upholding the classical view of inadmissibility, see Trimble v. State, Ark.,
+302 S.W.2d 83
+(1957). For a thoughtful decision permitting such identification testimony under limited conditions to be admissible as exception to the hearsay rule see People v. Gould,
+54 Cal. 2d 621
+, 354 P.2d 865 (1960) (by Traynor, J.). Yet a third approach is to except from the hearsay rule this type of evidence. See Federal Rules of Evidence, Rule 801(d):1(c) (1975) which provides: "A statement is not hearsay if(1) Prior statement by a witness. The declarant [of the out-of-court statement] testifies at the trial or hearing and is subject to cross-examination concerning the statement, and the statement is * * * (C) one of identification of a person made after perceiving him.. . ."

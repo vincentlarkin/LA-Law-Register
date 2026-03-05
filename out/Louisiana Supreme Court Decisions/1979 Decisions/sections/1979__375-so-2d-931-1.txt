@@ -1,0 +1,167 @@
+64277
+State v. Williams
+https://law.justia.com/cases/louisiana/supreme-court/1979/375-so-2d-931-1.html
+
+64277
+State v. Williams
+Court: Louisiana Supreme Court
+Release date: 1979-09-04
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/375-so-2d-931-1.html
+
+375 So. 2d 931 (1979)
+
+STATE of Louisiana, Applicant,
+v.
+Mark R. WILLIAMS, Respondent.
+
+No. 64277.
+
+Supreme Court of Louisiana.
+
+September 4, 1979.
+
+Dissenting Opinion October 24, 1979.
+
+Paula A. Perrone, New Orleans, for defendant-respondent.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Leander H. Perez, Jr., Dist. Atty., Gilbert V. Andry, III, Sp. Counsel, Asst. Dist. Atty., for plaintiff-relator.
+
+TATE, Justice.
+
+In this negligent homicide prosecution, the essential issue before us concerns   whether due process requires that an arrested driver be informed (warned), before he submits to a photo-electric intoximeter (PEI) test, that a presumption of criminal negligence will arise from a blood alcohol content reading which exceeds a certain percentage. We hold that such warning is not required, but that any presumption arising from the PEI test results may not be used at the trial of a charge for negligent homicide.
+
+Preliminary to stating the facts of this case and the reasons for our ruling, we note the statutory setting of the issues before us.
+
+Negligent homicide is the killing of a human being by criminal negligence,[1] and "The violation of a statute or ordinance shall be considered only as presumptive evidence of such negligence." La.R.S. 14:32. In any criminal action arising out of operation of a vehicle on the highways, it is presumed that the driver was under the influence of alcoholic beverages if the chemical (PEI) analysis reflects more than 0.10 per cent by weight of alcohol in the person's blood. La.R.S. 32:662. Operating a vehicle while under the influence of alcoholic beverages is a criminal offense under the laws of this state. La.R.S. 14:98.
+
+The defendant thus points out that, by reason of the multiple presumptions of the applicable statutes, a driver involved in an accident which results in a fatality may, on the basis of a test by a machine (as contrasted with sworn direct testimony), not only be presumed by the trier of fact to be guilty of driving while intoxicated but also to be guilty of the felony of negligent homicidethereby relieving the state of its constitutional burden of proving beyond a reasonable doubt the essential element of criminal negligence required to convict of this felony.
+
+The state charged the defendant with negligent homicide, La.R.S. 14:32, after a death resulted from an automobile accident in which he was involved. After receiving Miranda warnings and the statutorily required warning that his driver's license would be suspended should he refuse to submit, the defendant was given a PEI test, resulting in a blood alcohol concentration of 0.169, a reading above the presumptive level of intoxication set out in La.R.S. 32:662.
+
+We granted certiorari, 369 So. 2d 1368 (1979), to determine whether the trial court had properly granted the defendant's motion to suppress the test results. The ground urged by the motion was that "the defendant was not informed at the signing of the waiver for the administration of said test that test results showing an alcohol level of 0.10 or more would create thereby a presumption of criminal negligence in the charge of negligent homicide."
+
+In sustaining the motion, the trial court simply held that the accused "would be denied a constitutional right if the PEI test were introduced in this negligent-homicide prosecution."
+
+The defendant thus contends that due process requires that he be informed fully of any possible consequences of submission to the PEI test, including any possible evidentiary use of the results. As noted, he moved to suppress because he was not told that the reading on the PEI test could give rise to a presumption of criminal negligence satisfying proof of that element of the crime of negligent homicide.
+
+The defendant's contention is based in part on the premise that full information is necessary in order for a defendant to make a knowing and intelligent waiver of the constitutional right against self-incrimination.
+
+*933 The right against self-incrimination is not, however, implicated in the gathering of such physical evidence as a blood sample to be subjected to the scientific test. State v. Graham,
+278 So. 2d 78
+(La.1973); State v. Dugas,
+211 So. 2d 285
+(La. 1968); Schmerber v. California,
+384 U.S. 757
+, 86 S. Ct. 1876, 16 L. Ed. 2d 908 (1966).
+
+In Schmerber, the Supreme Court held that neither the Fifth Amendment's privilege against self-incrimination, nor the Fourth Amendment's protection against unreasonable searches, prohibits the state from securing blood alcohol evidence from an arrested driver. It may do so without the driver's consent, over his express objection, and without a warrant. The constitution requires only probable cause and a reasonable test performed in a reasonable manner.
+
+The federal constitution may not require consent to the PEI test. Nevertheless, the state legislature has allowed the driver to withdraw the consent implied by state law and requires exclusion of the test from evidence if the option of refusing the test is not made known to the driver. La.R.S. 32:661 B.[2]
+
+The statute also requires that when the driver is asked to take the PEI test, he be informed of "his constitutional rights" and of "the consequences of a refusal" to take the test. La.R.S. 32:661 C. The Department of Public Safety form used in this case incorporates a statement of these possible consequences with a Miranda caution as a statement of constitutional rights.
+
+At the hearing on the motion to suppress, the defendant urged the constitutional argument for suppression summarized earlier, which we have rejected. In brief, the defendant now further contends that administration of the test by the arresting officer also contravened the defendant's rights as required by La.R.S. 32:661 (see above) to be informed of the consequences of refusal, because one such consequence (of which defendant was not informed) is avoidance of the PEI test and thus of any presumptions created by its results. The avoidance of the test and any evidentiary effects it may have is, however, the obvious result of refusal; clearly the legislation did not intend that the defendant be informed of this consequence of which he was aware.[4]
+
+Accordingly, as the state correctly urges, a "motion to suppress" was improperly granted, if based upon the grounds urged by the defendant.
+
+Nevertheless, in denying admissibility of the PEI test at the trial, the trial court was properly concerned with the effect on the accused's constitutional rights in a negligent homicide trial of permitting a statutory presumption of intoxication to arise under La.R.S. 32:662with its consequent effect (by reason of the presumption of negligence under La.R.S. 14:32, because of violation of the driving-while-intoxicated statute) of relieving the state of its burden to prove that the intoxication had any causal relationship with any negligent conduct of the driver. In pragmatic result, this might have the effect of relieving the state of its constitutional burden of proving that the defendant driver was negligent at all, a necessary essential element of the crime   which the state is required to prove beyond a reasonable doubt before subjecting the driver to the possibility of penitentiary imprisonment.
+
+The motion was heard immediately before the trial on the merits was commenced. (On motion of the state, the trial was continued after the court's adverse ruling.) In effect, it was a pre-trial hearing on the admissibility of the PEI test, in order to avoid the disruption and delay during the trial if the issue was then first raised, and also to question the availability to the state of the presumption arising therefrom.
+
+We have concluded therefore that, in addition to deciding the suppression issue, we should also resolve the presumption issue to avoid the misunderstanding and possible reversal that might result if our ruling were understood to permit not only introduction at the trial of the PEI test but also reliance upon the statutory presumption flowing therefrom.
+
+As illustrated again most recently in County Court of Ulster County v. Allen, ___ U.S. ___, 99 S. Ct. 2213, 60 L. Ed. 2d 777 (1979), the United States Supreme Court has carefully considered the use of statutory presumptions in criminal trials so as to avoid the use of them to erode constitutional protections accorded the accused. In a series of recent decisions by this court, we also have held that a statutory presumption may be utilized only when, and in a manner that, it does not erode the constitutional right of the accused not to be a witness against himself or his constitutional protection that the state prove his guilt beyond a reasonable doubt.
+
+See: State v. Bell, 373 So. 2d 184 (La. 1979); State v. Taylor,
+363 So. 2d 699
+(La. 1978); State v. Muse,
+363 So. 2d 462
+(La. 1978); State v. Coleman,
+358 So. 2d 289
+(La. 1978); State v. McGehee,
+350 So. 2d 370
+(La.1977); State v. Montoya,
+340 So. 2d 557
+(La.1976); State v. Searle,
+339 So. 2d 1194
+(La.1976).
+
+In view of the serious constitutional issues thereby presented, the trial court was properly concerned with constitutionally prejudicial effect that might arise from the introduction of the PEI test in connection with the linking or piggy-backing in a negligent-homicide prosecution of the presumptions provided by La.R.S. 32:662 and 14:32. This concern was well-founded, as is shown by the decision of the United States Supreme Court in County Court of Ulster County v. Allen, cited above, decided some three months after the trial court correctly indicated that statutory presumption arising from the PEI test result could not be used in the present trial on the merits of the charge of negligent homicide.
+
+In the Ulster County decision, the high court defined a mandatory presumption as one which "tells the trier that he or they must find the elemental fact upon proof of the basic fact, at least unless the defendant has come forward with some evidence to rebut the presumed connection between the two facts [Supreme Court's emphasis] * * * In this situation, the Court has generally examined the presumption on its face to determine the extent to which the basic and elemental facts coincide. [Italics added by us.] * * *" 99 S. Ct. 2224-25.[5]
+
+*935 In the present instance, the presumption of intoxication while driving provided by La.R.S. 32:662 is a mandatory presumption, as defined by Ulsterthe trier of fact must find that the accused was driving while intoxicated, unless he comes forth with exculpatory evidence believed by the trier, a virtually impossible burden as our jurisprudence notes.[6]
+
+The practical effect of the mandatory presumption of being involved in a fatal vehicle accident as an intoxicated driver is to presume the criminal negligence and consequently the guilt of the defendant driver, when considered in connection with the other applicable presumption provided by La. R.S. 14:32 of criminal negligence arising from proven violation of a statute (even though we have held the latter to be merely permissive[7]).
+
+Evaluated from this standpoint, the presumption of criminal negligence (the elemental fact) arising from the basic fact (a PEI reading of 0.169 per cent alcohol in the blood) is not an inference "which reasonable minds beyond a reasonable doubt could draw from the proven fact." State v. Searle,
+339 So. 2d 1194
+, 1205 (La.1976). For, as there stated correctly (at least with regard to mandatory presumptions), "in order to sustain the use of a presumption to prove the crime charged or an essential element thereof it is incumbent upon the prosecution to prove that the presumed fact must beyond a reasonable doubt flow from the proven fact on which it is made to depend."
+
+See also Ulster County, at 99 S. Ct. 2229, which indicates that in the instance of a mandatory presumption the prosecution may not rest its case for guilt entirely upon the presumption "unless the fact proved is sufficient to support the inference of guilty beyond a reasonable doubt," as contrasted with a permissive presumption where "the prosecution may rely on all of the evidence in the record to meet the reasonable doubt standard."
+
+Ulster County observed that "in criminal cases, the ultimate test of any device's constitutional validity in a given case remains constant: the device [i. e., the "presumption," in context] must not undermine the factfinder's responsibility at trial, based on the evidence adduced by the State, to find the ultimate facts beyond a reasonable doubt." 99 S. Ct. 2224.
+
+So tested, the mandatory presumption of intoxication of La.R.S. 32:662 which flows from the PEI blood-alcohol test result may not be utilized in a prosecution for negligent homicide: By requiring the jury to conclusively presume the motorist's intoxication and thereby supplying a statutory violation which is presumptive of criminal negligence, it permits the state to prove guilt in a negligent-homicide prosecution without meeting the constitutionally-required "beyond a reasonable doubt" standard of proof.
+
+Caveat
+
+The effect of our ruling is that the presumption provided by La.R.S. 32:662 may not be utilized in a prosecution for negligent homicide, for the reasons stated. We do not hold that the presumption may not   be utilized in the trial of charges for other offenses, where there is a constitutionally sufficient connection between the test result evidencing intoxication and the ultimate fact sought to be proved (such as that the motorist was operating his vehicle under the influence of alcohol).
+
+Nor do we hold that the PEI test result itself is necessarily inadmissible, if otherwise proper under the rules of evidence, including (assuming indeed it is admissible under evidence law) the requirement of a proper foundation of the reliability of the test and the use of sworn expert opinion testimony to evaluate its results, subject to cross-examination.
+
+For the reasons assigned, we reverse the ruling of the trial court insofar as it held that the PEI test was inadmissible for the reasons urged; but we affirm it, insofar as an essential basis for its ruling was that the presumption of intoxication provided by La. R.S. 32:662 could not be utilized in this prosecution of a charge of negligent homicide under La.R.S. 14:32. The case is remanded to the district court for further proceedings in accordance with law.
+
+TRIAL COURT RULING MODIFIED AND, IN PART, AFFIRMED.
+
+DIXON, J., dissents with reasons.
+
+BLANCHE, J., dissents with reasons.
+
+DIXON, Justice (dissenting).
+
+I respectfully dissent.
+
+I would admit the PEI test and its presumption, but prohibit any inference of criminal negligence to be drawn from intoxication alone. Drunkenness is not criminal negligence, but intoxication while driving may cause criminal negligence.
+
+BLANCHE, Justice (dissenting).
+
+The PEI test was conceived and statutorily sanctioned for the protection of an accused. Before its introduction and acceptance as a reliable means of determining the state of intoxication of a person, DWI convictions were obtained from police officers giving "sworn, direct testimony". It may be recalled that the standard description of the drunk driver at that time was generally as follows: He possessed a strong odor of alcohol; was unsteady on his feet and staggered when he walked; his speech was slurred and his eyes were red; finally, he had trouble finding his driver's license. Because of the variables in judgment in making the determination of the state of one's sobriety, the PEI test was conceived as a scientifically reliable means of determining intoxication and relieved the court of the credibility judgment which it so often had to make between the accused and the police. If the machine had any fault, it was in its accuracy, for as in this case, when the test showed a reading of 0.169% alcohol in the blood, the inference of that person's state of intoxication was so great that reasonable minds could not differ as to the fact of intoxication which it inferred. That it is more reliable than the judgment of an arresting officer is beyond question, provided that the other statutory requirements are met concerning the qualifications of the operator, the testing of the machine and the ampules used in measuring the level of alcohol in the blood.
+
+Therefore, it is not understandable why the majority would require the state to put on expert testimony to evaluate the result of the test, when the legislature has already made such an evaluation before enacting the statute into law.
+
+What the opinion does in negligent homicide cases is force the state back to the days before the invention of the test and base intoxication on the testimony and judgment of the arresting officer.
+
+To prove the crime of negligent homicide, the state must prove that the killing resulted from criminal negligence. Criminal negligence is proved by evidence that there was such a disregard of the interest of others that the offender's conduct amounts to a gross deviation below the standard of care expected to be maintained by a reasonably careful man under like circumstances. In connection with such proof, the negligent   homicide statute provides that proof of the violation of a statute shall be considered as presumptive evidence only of criminal negligence. Being only a rebuttable presumption, driving while intoxicated may or may not be evidence of criminal negligence depending on all the facts and circumstances offered in evidence.
+
+Therefore, I disagree that the admission of the test relieves the state of its burden to prove that the intoxication had any causal relationship with any negligent conduct of the driver. When admitted into evidence, its sole purpose is to prove the intoxication of the driver and this proof, whether by the PEI test or by the live testimony of police officers, would have the same effect.
+
+For these reasons, I respectfully dissent.
+
+[1]  La.R.S. 14:12: "Criminal negligence exists when, although neither specific nor general intent is present, there is such disregard for the interest of others that the offender's conduct amounts to a gross deviation below the standard of care expected to be maintained by a reasonably careful man under like circumstances."
+
+[2]  "If the above procedure [the procedure requiring the law enforcement officer to request submission to the test and provide the detained driver with certain information] is not complied with, the results of the test or any reference to it [are] inadmissible into evidence in any criminal action or proceeding." La.R.S. 32:661(C). A dead or unconscious driver may be tested without triggering this exclusionary rule because consent is implied at law and has not been (since it cannot actually be and the law does not deem it to be) withdrawn. La.R.S. 32:661(B).
+
+[3]  The consequences, as provided in the statute, include license suspension for six months and the use in court of evidence of his refusal.
+
+[4]  The apparent basis of the disclosure procedure is a desire to comport with the requirements of procedural due process that notice be given of the possible loss of significant rights, such as the right to drive. A similar "consent" statute in Massachusetts recently withstood a procedural due process attack in the Supreme Court, Mackey v. Montrym, ___ U.S. ___, 99 S. Ct. 2612, 61 L. Ed. 2d 321 (1979).
+
+[5]  The mandatory presumption, with its possible facial invalidity, is contrasted by the court with the permissive presumption, the validity of which may depend upon the facts of a particular case or the manner in which it is sought to be used therein, 99 S. Ct. 2224 (citations omitted):
+
+"The most common evidentiary device is the entirely permissive inference or presumption, which allowsbut does not requirethe trier of fact to infer the elemental fact from proof by the prosecutor of the basic one and that places no burden of any kind on the defendant. * * * In that situation the basic fact may constitute prima facie evidence of the elemental fact. * * * When reviewing this type of device, the Court has required the party challenging it to demonstrate its invalidity as applied to him. * * * Because this permissive presumption leaves the trier of fact free to credit or reject the inference and does not shift the burden of proof, it affects the application of the `beyond a reasonable doubt' standard only if, under the facts of the case, there is no rational way the trier could make the connection permitted by the inference. [Italics added by us.] For only in that situation is there any risk that any explanation of the permissible inference to a jury, or its use by a jury, has caused the presumptively rational factfinder to make an erroneous factual determination."
+
+[6]  While this court has not explicitly classified the presumption previously, prior cases have characterized the chemical test result as "giving rise to . . . a virtually indisputable presumption," State v. Batiste,
+327 So. 2d 420
+, 422 (La.1976), in fact, a "practically conclusive presumption of guilt," State v. Graham,
+360 So. 2d 853
+, 857 (La.1978), and have noted the "heavy reliance placed on the results obtained," State v. Jones,
+316 So. 2d 100
+, 104 (La. 1975). Most recently, this court has held that the presumption of La.R.S. 32:622(A)1(c) is a rebuttable one, State v. Williams,
+354 So. 2d 152
+(La.1977), since La.R.S. 32:662(C) states that the provisions of that section shall not be construed as limiting the introduction of any other competent evidence bearing upon the question whether the person was under the influence of alcoholic beverages.
+
+[7]  While it was previously considered to be a rebuttable presumption, State v. Nix, 31 So. 2d 1 (La. 1947), the presumption of criminal negligence from proven violation of a statute, has recently been held by this court to be, under the "better interpretation," not a legal presumption but a permissive inference. State v. Hammontree,
+363 So. 2d 1364
+(La.1978).

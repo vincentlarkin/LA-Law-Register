@@ -1,0 +1,151 @@
+87-C-0341
+Superior Supply v. Assoc. Pipe & Supply
+https://law.justia.com/cases/louisiana/supreme-court/1987/87-c-0341-1.html
+
+87-C-0341
+Superior Supply v. Assoc. Pipe & Supply
+Court: Louisiana Supreme Court
+Release date: 1987-11-30
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/87-c-0341-1.html
+
+515 So. 2d 790 (1987)
+
+SUPERIOR SUPPLY COMPANY
+v.
+ASSOCIATED PIPE AND SUPPLY COMPANY.
+
+No. 87-C-0341.
+
+Supreme Court of Louisiana.
+
+November 30, 1987.
+
+Stephen Tatum, Wiener, Weiss, Madison & Howell, Shreveport, for applicant.
+
+Brian Coody, Lunn, Irion, Johnson, Salley & Carlisle, Shreveport, for respondent.
+
+LEMMON, Justice.
+
+The principal issue in this case is whether the Louisiana court's exercise of personal jurisdiction over the nonresident defendant under La.R.S. 13:3201 et seq. (Louisiana's long-arm statute), as amended in 1987, violates defendant's constitutional due process rights.
+
+In June, 1985, plaintiff, a Texas corporation with its principal place of business in Shreveport, Louisiana, contracted to purchase steel casing for oil wells from defendant, a Colorado corporation which was not licensed to do business in Louisiana and had no office in this state.[1] Shortly after contracting to purchase the casing, plaintiff resold it to a Texas company. The casing was shipped from defendant's Texas warehouse directly to plaintiff's vendee's well site in Texas.
+
+Approximately one month after the sale, plaintiff was notified that the casing was   defective. After investigating the claim, plaintiff refunded $54,006.43 to its vendee and filed the instant redhibition suit against defendant. Asserting its nonresident status, defendant filed a declinatory exception of lack of personal jurisdiction. La.C.C.P. art. 925(5).
+
+The matter was submitted on affidavits and briefs. Defendant admitted that it was doing business in Louisiana and had made "previous transactions of business with buyers in this state", but pointed out that this particular sale was negotiated by means of a telephone conversation between its representative, Rob Dynes, in Colorado and plaintiff's representative in Shreveport.[2] Defendant further asserted that the intent of the contract was to supply the pipe to plaintiff in Texas and that the pipe never entered Louisiana.
+
+Plaintiff's employee who ordered the particular pipe by telephone stated in his affidavit that Rob Dynes had visited him in Shreveport on defendant's behalf and solicited business from plaintiff in April, September and one other date in 1985 (the year of the sale) and on other occasions.
+
+The trial judge ruled that the Louisiana court could not exercise personal jurisdiction over defendant, concluding that there were not "sufficient minimal contacts arising out of defendant's activities within this state for the exercise of personal jurisdiction over it". On appeal, the intermediate court affirmed on the basis of statutory interpretation without reaching the constitutional due process issue. 499 So. 2d 558. The court of appeal held that La.R.S. 13:3201 (before the 1987 amendment) was inapplicable because plaintiff's cause of action did not "arise from" any activity by defendant in this state.[3] We granted certiorari. 503 So. 2d 1009.
+
+The determination of the validity of a state court's assertion of personal jurisdiction over a nonresident under a long-arm statute generally involves a two-step analysis. The state statute must provide authority for the court to exercise personal jurisdiction over the nonresident in the particular litigation, and there must be sufficient contacts between the defendant, the litigation and the forum state so as to comport with constitutional due process requirements.[4]Petroleum Helicopters, Inc. v. Avco Corp.,
+513 So. 2d 1188
+(La.1987).
+
+Before 1987, La.R.S. 13:3201 authorized the exercise of personal jurisdiction by a Louisiana court over a nonresident as to a cause of action "arising from" certain enumerated activities by the nonresident. In Petroleum Helicopters, Inc. v. Avco Corp., supra, this court accepted a certified question from the federal appellate court to decide whether a Louisiana court could exercise personal jurisdiction when the case fell beyond the statutory reach of the literal provisions of the long-arm statute, but within the constitutional reach of due process. While the case was pending in this court, the Louisiana Legislature adopted Acts 1987, No. 418, effective September 1, 1987 to amend La.R.S. 13:3201 and add Subsection B, which provides:
+
+*792 The 1987 amendment was designed to insure that the long-arm jurisdiction of a Louisiana court extends to the limits allowed by due process. See Official Comment Acts 1987, No. 418. When constitutional requirements of due process have been met, there is no longer a need to inquire into whether the defendant's conduct falls within the reach of the long-arm statute. Now, under the express terms of the present long-arm statute, the sole inquiry into jurisdiction over a nonresident is a one-step analysis of the constitutional due process requirements. If the assertion of jurisdiction meets the constitutional requirements of due process, the assertion of jurisdiction is authorized under the long-arm statute. The limits of Louisiana's long-arm statute and the limits of constitutional due process are now coextensive. Petroleum Helicopters, Inc. v. Avco Corp., supra. Furthermore, the enactment of a new long-arm statute or the amendment of an existing statute apply retroactively to provide jurisdiction over a nonresident whose conduct giving rise to the cause of action occurred prior to the effective date of the statute or amendment. McBead Drilling Co. v. Kremco,
+509 So. 2d 429
+(La. 1987).
+
+Inasmuch as the amended La.R.S. 13:3201 applies in the present case, the basis of the intermediate court's decision (which was rendered before the effective date of the amendment) is no longer valid.[6] Resolution of the exception thus turns on the issue (one not reached by the court of appeal) of whether the Louisiana court's assertion of personal jurisdiction over defendant comports with constitutional due process requirements.
+
+In International Shoe Co. v. Washington,
+326 U.S. 310
+, 66 S. Ct. 154, 90 L. Ed. 95 (1945), the Supreme Court of the United States held that personal jurisdiction may be asserted over a nonresident who has "certain minimum contacts with [the forum state] such that the maintenance of the suit does not offend traditional notions of fair play and substantial justice." Id. at 316, 66 S. Ct.  at 158. The decision approved the exercise of jurisdiction by a Washington court in an action by the state to assess and collect unemployment compensation fund contributions from a Missouri corporation employing several salesmen who resided in the state, but whose only corporate activity was to solicit orders in the state. The Court noted that the determination of due process must depend "upon the quality and nature of the activity in relation to the fair and orderly administration of the laws which it was the purpose of the due process clause to insure", but stated that due process does not permit personal jurisdiction over a defendant "with which the state has no contacts, ties, or relations".[7]Id. at 319, 66 S. Ct.  at 160.
+
+The Court's analysis of corporate amenability to personal jurisdiction in terms of minimum contacts and relations with the forum state has been the basis for deciding a multitude of jurisdictional challenges in state and federal courts. Because many of these decisions have used language from International Shoe and subsequent decisions of the Court without analyzing the holdings, it is appropriate to review the   Court's most important decisions on personal jurisdiction which followed the landmark 1945 case.
+
+In McGee v. International Life Insurance Co.,
+355 U.S. 220
+, 78 S. Ct. 199, 2 L. Ed. 2d 223 (1957), the Court permitted a California court to assert personal jurisdiction in a suit by a California beneficiary of a life insurance policy insuring a California resident, although the insurer was a Texas corporation whose only contact with the forum state was to offer by mail to reinsure the California resident (after the Texas insurer took over the obligations of another company) and to accept policy premiums mailed from California. The Court held that due process was satisfied since the suit was based on a contract which had substantial connection with the forum state, but also pointed out that California had a manifest interest in providing effective means of redress for its citizens when their insurers fail to pay claims. The Court also noted that since modern transportation and communications have made it much less burdensome to defend a suit in a state where the nonresident engages in economic activity, it usually is not unfair to subject the nonresident to the burden of litigating disputes relating to such activities.
+
+In Hanson v. Denckla,
+357 U.S. 235
+, 78 S. Ct. 1228, 2 L. Ed. 2d 1283 (1958), the Court refused to allow a Florida court, in a dispute involving a power of appointment over the assets of a trust established in Delaware, to exercise personal jurisdiction over the trustee, a Delaware bank whose only connection with the forum state was its relationship with the deceased settlor who had moved to Florida after establishing the trust. The Court reasoned that a nonresident must purposefully avail itself of the privilege of conducting activities within the forum state in order to be subject to personal jurisdiction.
+
+It was almost twenty years until the next major decision in Shaffer v. Heitner,
+433 U.S. 186
+, 97 S. Ct. 2569, 53 L. Ed. 2d 683 (1977), which was a derivitive action filed in Delaware by a nonresident owner of one share of stock in a Delaware corporation whose principal place of business was in Arizona. The defendants were past and present corporate officers and directors who were all nonresidents. The quasi in rem proceeding was based on the attachment of the defendants' stock in the Delaware corporation. The Court held that the standards of fairness and substantial justice govern actions in rem as well as in personam. Noting that the "relationship among the defendant, the forum, and the litigation" is the "central concern of the inquiry into personal jurisdiction", the Court concluded that the mere presence of the defendants' property in the forum state does not alone support the exercise of jurisdiction. Id. at 204, 97 S. Ct.  at 2580.
+
+Kulko v. Superior Court,
+436 U.S. 84
+, 98 S. Ct. 1690, 56 L. Ed. 2d 132 (1978), involved a suit filed in California under the long-arm statute by a California resident against her former husband, a New York resident, to increase support payments for two children who were born while the parents were living together in New York.[8] When the parties separated, the mother moved to California. She returned to New York to execute a separation agreement and then had the agreement incorporated into a Haitian divorce decree before returning to California. Both children eventually moved to California to live with their mother. The Court held that the assertion of personal jurisdiction as to the support claim was unreasonable because the California contacts did not result from the husband's purposeful acts, but rather from the acts of the wife and the children. The Court further noted that the state's interest in the welfare of the children was adequately protected by the availability of the Uniform Reciprocal Enforcement of Support Act.
+
+In World-Wide Volkswagen Corp. v. Woodson,
+444 U.S. 286
+, 100 S. Ct. 559, 62 L. Ed. 2d 490 (1980), the Court held that an Oklahoma court could not exercise personal jurisdiction in a products liability action against a regional automobile distributor or a local retail dealer, two New York corporations   which had been involved in the sale of a car to a New York resident, when the defendants' only connection with the forum state was the fact that the accident occurred while the car was passing through that state.[9] The Court concluded there was a total absence of affiliating circumstances necessary for the exercise of jurisdiction. The unfairness of requiring a local retailer to defend a products liability action based on a manufacturing defect in a faraway state outweighed the fact that one car sold by the dealer in New York was involved in an accident in Oklahoma. While conceding that foreseeability is a relevant factor in the due process determination, the Court emphasized the critical analysis is whether the defendant's connection with the forum state was such that he should reasonably anticipate being haled into court there.
+
+The case of Rush v. Savchuk,
+444 U.S. 320
+, 100 S. Ct. 571, 62 L. Ed. 2d 516 (1980), was filed in Minnesota by a Minnesota resident against an Indiana resident to recover damages arising from an automobile accident in Indiana.[10] Because the defendant had no contacts with Minnesota which would support personal jurisdiction, the plaintiff (who had been a resident of Indiana at the time of the accident) attempted to obtain quasi in rem jurisdiction by seizing the obligation owed to the defendant by the defendant's liability insurer who was doing business in both Minnesota and Indiana.[11] The Court held that the defendant's contacts with the forum state were insufficient and that the insurer's contacts could not be ascribed to the insured.
+
+In Insurance Corp. of Ireland v. Compagnie des Bauxites de Guinee,
+456 U.S. 694
+, 102 S. Ct. 2099, 72 L. Ed. 2d 492 (1982), a Delaware corporation that operated mines in Guinea sued its insurer (actually a group of foreign insurers) in Pennsylvania on a business interruption policy. When the insurers objected to the jurisdiction, but persistently failed to comply with orders compelling discovery on the issue of jurisdiction, the state court imposed a discovery sanction which in effect precluded the insurers from contesting jurisdiction because of their constructive waiver. The Court held that the insurers, by submitting the question of jurisdiction to the Pennsylvania court, agreed to abide by its procedures and that the use of discovery sanctions to estop the contesting of jurisdiction was a reasonable procedure which under the circumstances did not violate due process.
+
+Helicopteros Nationales de Colombia v. Hall,
+466 U.S. 408
+, 104 S. Ct. 1868, 80 L. Ed. 2d 404 (1984), was a wrongful death action arising from a helicopter crash in Peru. Suit was filed in a Texas court against a Colombian corporation which had contracted to provide helicopter service in Peru to a Peruvian corsortium whose alter-ego was a joint venture with headquarters in Texas. Neither the plaintiffs nor their decedents, who were employees of the Peruvian consortium, resided in the forum state. The defendant's chief executive officer had flown to Texas to negotiate the helicopter contract with the joint venture. The defendant's only other contacts with Texas were the purchase of most of its helicopter fleet from a Texas manufacturer, the sending of the pilot and other employees involved in helicopter operations to be trained in Texas, and the receipt of payments for its services by checks drawn on a Texas bank. The Court held that the defendant's contacts with Texas were insufficient to allow a Texas court to assert jurisdiction over a nonresident on a cause of action based on tortious conduct which did not arise out of or relate to any activities by the Colombian corporation within the state. The Court noted that defendant's officer's one trip to Texas to negotiate the contract was not a contact of a continuous and systematic nature which would support an assertion of general jurisdiction, and the other contacts pertaining merely to purchases in Texas were not sufficient unless the cause of action was related to those purchases.
+
+In Burger King Corp. v. Rudzewicz,
+471 U.S. 462
+, 105 S. Ct. 2174, 85 L. Ed. 2d 528 (1985), a Florida franchisor filed a breach of contract suit in Florida against a Michigan resident who had contracted by mail and wire to operate a franchise in Michigan. The Court permitted the exercise of jurisdiction on the basis that the defendant, although never physically entering the forum state, had created a substantial long-term economic relationship with a Florida firm that contemplated ongoing activity by the franchisor in the forum state. The Court suggested a method of determining jurisdiction, once it has been decided that the defendant purposefully established minimum contacts with the forum state, by considering these contacts in light of other factors to determine whether the assertion of personal jurisdiction comports with fair play and substantial justice.[13] The Court concluded that when a nonresident has purposefully directed his activities at forum residents, he must present a compelling case that the presence of other conditions renders jurisdiction unreasonable.
+
+Phillips Petroleum Co. v. Shutts,
+472 U.S. 797
+, 105 S. Ct. 2965, 86 L. Ed. 2d 628 (1985), was a class action filed in Kansas to require a Delaware corporation, whose principal place of business was in Oklahoma, to pay interest to royality owners on delayed royalty payments. Ninety-seven per cent of the members of the class of plaintiffs lacked any contact with the forum state. The Court held that constitutional protection from state court jurisdiction is afforded in a higher degree to nonresident defendants in nonclass suits than to absent class plaintiffs, noting that the absent plaintiffs' protection of notice, adequate representation and opportunity to opt out of the class satisfied due process.
+
+Asahi Metal Industry Co. v. Superior Court,  U.S., 107 S. Ct. 1026, 94 L. Ed. 2d 92 (1987) was a products liability action in California, arising out of a motorcycle accident in California, against (among others) the Taiwanese manufacturer of the motorcycle tube and the Japanese manufacturer of the tube's valve assembly. After the plaintiff settled out of the case, the only remaining issue was whether the Japanese corporation should indemnify the   Taiwanese manufacturer. The sales of the valve assemblies to the Taiwanese manufacturer took place in Taiwan and the products were shipped from Japan to Taiwan. The Court held that California's exercise of jurisdiction over the Japanese corporation was unreasonable under the circumstances. The plurality opinion reasoned that the defendant's conduct must be more purposefully directed at the forum state than by the mere placing of a product in the stream of commerce. However, the concurring Justices expressly did not subscribe to that portion of the opinion pertaining to the stream of commerce, but agreed with the determination that the exercise of jurisdiction did not comport with fairness and substantial justice because of the insufficient relationship among the California forum, the Japanese corporate defendant, and the litigation of the indemnity issue.
+
+The theme that emerges from this series of decisions, rendered over a period of more than forty years and authored by a number of different justices, is that when a nonresident who has purposefully established contacts and relationships with the forum state contests the assertion of personal jurisdiction, the court must analyze the quality and nature of the contacts, the relationship among the defendant, the forum and the litigation, and the evidence presented by the nonresident of facts militating against the exercise of jurisdiction, and must then determine whether the exercise of jurisdiction is reasonable.[14] Of course, particular relevant factors may be more or less important depending on the type of litigation and the nature of the defendant's business operation, as in World-Wide Volkswagen v. Woodson, supra, when jurisdiction over the products liability action was resisted by the local retailer rather than the manufacturer.
+
+Of the cases reviewed, only two (McGee and Burger King) were contracts cases, as is the instant litigation, and the exercise of jurisdiction was approved in both. Of the cases in which the exercise of jurisdiction was not approved, two (Shaffer and Rush) were quasi in rem actions, one involving the attachment of stock in a shareholder's derivative suit and the other involving the seizure of a liability insurer's obligation to its insured in a personal injury suit. In neither case was there any substantial relationship among the defendant, the litigation and the forum.[15]Kulko involved a child support claim in which there was no purposeful availment and another adequate remedy was available. Hanson, which adopted the purposeful availment criteria, involved trust litigation with virtually no contacts between the defendant trustee and the forum. World-Wide Volkswagen and Asahi Metal were products liability cases, but the former involved a local retailer and a regional distributor who simply sold the subject automobile far from the forum state, while the latter involved an indemnity claim between two Asian manufacturers. In Helicopteros the Colombian defendant had some contractual contacts with the decedents' employer's alter-ego in the forum state, but the Court found an insufficient relationship between those contacts and the wrongful death litigation.[16]
+
+The exercise of jurisdiction was approved in Keeton and Calder, both defamation cases in which the defendant purposefully established contacts with the forum state or engaged in conduct intentionally directed at the forum state.
+
+*797 In the first contract case (McGee), the defendant purposefully extended its insurance business into the forum state, and it was not unreasonable to require the defendant to defend the litigation arising from the insurance policy issued as a result of that extension of business. In the Burger King case, the defendant, although never entering the forum state, purposefully established a contractual relationship with a forum resident and was unable to present compelling reasons which rendered the exercise of jurisdiction unreasonable.
+
+Here, the nonresident was in the business of selling pipe and related supplies far beyond the borders of Colorado. By sending its employees to solicit sales in Louisiana and by selling pipe to Louisiana residents, defendant purposefully directed its business activities toward the forum state. The particular sale which is the subject of this litigation was negotiated in a telephone conversation between defendant's representative, who had entered Louisiana to solicit business from plaintiff, and plaintiff's representative, who had been one of the parties specifically contacted by defendant's employee's solicitation efforts in this state. Thus, the particular sale (two months after the last visit by defendant's representative) was clearly related to and more probably than not arose from defendant's business activities purposefully directed toward Louisiana. While these contacts may have been too random or attenuated to provide general jurisdiction, the contacts were clearly related to the litigation and were not fortuitous or the result of unilateral activity of a third person. Moreover, the fact that defendant was a supplier and not a manufacturer is not as significant in this dispute over contract terms as in products liability litigation. Finally, defendant's alleged failure to supply material in accordance with the contract caused foreseeable injury to a Louisiana resident, and this state has a manifest interest in providing its residents with a convenient forum for redressing contractual breaches by nonresidents who solicit business in this state.
+
+The only factors raised by defendant which militate against jurisdiction are that the pipe was never shipped to or through Louisiana and that the intention of the contract at all times was to ship the pipe to Texas. These factors do not establish a compelling case that the exercise of jurisdiction in Louisiana is unreasonable, especially since there is no apparently greater burden on the Colorado defendant to defend a suit in Louisiana rather than Texas and since the Colorado defendant engaged in economic activities in both states relating to this litigation.
+
+For these reasons, the judgments of the lower courts are reversed, the exception of lack of personal jurisdiction is overruled, and the case is remanded for further proceedings.
+
+[1]  Defendant had acquired the pipe from Valley Industries, which had purchased it from the manufacturer and modified it so as to be suitable for use in the oil field.
+
+[2]  Dynes' denial in his affidavit that he represented the casing to be an "API product" (a fact alleged in the petition) suggests the basis of the dispute on the merits.
+
+[3]  The court reasoned:
+
+"The cause of action rises (sic) from the placement of an order for steel casing from plaintiff to defendant in Colorado. There is no evidence of a connection between Associated's employee's visits and the telephone call from which the cause of action arose. The cause of action appears to lie in Texas. The steel casing was delivered and allegedly found to be defective there. Witnesses undoubtedly will be in or near Zapata County, Texas."
+
+Id. at 561.
+
+[4]  The constitutional limitations on the exercise of personal jurisdiction are not the only conditions which must be met before a court can subject a person to its orders. The provisions of the relevant statute conferring jurisdiction must also be satisfied. R. Casad, Jurisdiction in Civil Actions § 3.01 (1983).
+
+[5]  Act 418 also repealed La.R.S. 13:3202, which had required that when personal jurisdiction is asserted over a nonresident solely on the basis of La.R.S. 13:3201, only causes of action arising from conduct enumerated in the statute could be asserted.
+
+[6]  There is considerable doubt as to the intermediate court's conclusion that the cause of action did not arise from defendant's transacting business in Louisiana. The cause of action arose from a sale negotiated in a June, 1985 telephone conversation between plaintiff's Parnell Holt and defendant's Rob Dynes, who had three times during mid-1985 called upon Holt in Louisiana to solicit business from plaintiff. Although two months elapsed between Dynes' April visit and the sale, the same employee of plaintiff placed the June order with Dynes, thus suggesting that the sale resulted from Dynes' activity in Louisiana.
+
+[7]  Justice Black concurred in the unanimous decision, preferring to base the result on the constitutional reservation to each state of the power to open its courts for its citizens to sue corporations whose agents do business in the state. Subsequent decisions have emphasized that the due process clause's purpose of protecting persons against unfair governmental treatment focuses first on the nonresident defendant, but the forum state's interest in providing its residents with an adequate method for redressing injuries inflicted by nonresidents is also a relevant consideration.
+
+[8]  The husband did not contest the California court's jurisdiction as to the custody claim.
+
+[9]  The manufacturer and the importer were also defendants, but were not involved in this jurisdiction contest. See McBead Drilling Co. v. Kremco, Inc., supra, a decision involving personal jurisdiction over a nonresident manufacturer which distinguished the World-Wide Volkswagen case.
+
+[10]  The plaintiff was seeking to avoid the Indiana guest statute.
+
+[11]  Evidently Minnesota does not have a direct action statute.
+
+[12]  The plaintiff was attempting to avail herself of the unusually long statute of limitations in New Hampshire.
+
+[13]  Considerations indicated by the Court include the burden on the defendant to defend the suit there, the interest of the plaintiff in obtaining convenient and effective relief, the interest of the forum state in adjudicating the litigation, the interest of the interstate judicial system in obtaining the most efficient resolution of controversies, and the shared interest of the several states in furthering fundamental substantive policies.
+
+[14]  The obvious threshold question is whether any contacts or relationships exist which were the foreseeable result of the nonresident's purposeful conduct. After determining the existence of contacts, the court examines the quality and nature of the contacts and determines whether it is reasonable, in the light of all relevant factors, to require the nonresident to defend himself in the forum state.
+
+[15]  Insurance Corp. of Ireland and Phillips Petroleum Co. were isolated decisions involving specialized issues pertaining to discovery and class actions.
+
+[16]  If the action had been brought by the Texas joint venture on the contract that the Colombian corporation's chief executive officer flew to Texas to negotiate (a situation more closer to the instant case), the relationship of the defendant's contacts to the litigation and the forum's interest in providing a method of redress would have been more substantial, possibly dictating a different result.

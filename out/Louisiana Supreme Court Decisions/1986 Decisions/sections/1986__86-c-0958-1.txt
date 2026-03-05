@@ -1,0 +1,151 @@
+86-C-0958
+Louisiana Materials Co., Inc. v. Atlantic Richfield Co.
+https://law.justia.com/cases/louisiana/supreme-court/1986/86-c-0958-1.html
+
+86-C-0958
+Louisiana Materials Co., Inc. v. Atlantic Richfield Co.
+Court: Louisiana Supreme Court
+Release date: 1986-09-08
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/86-c-0958-1.html
+
+493 So. 2d 1141 (1986)
+
+LOUISIANA MATERIALS CO., INC.
+v.
+ATLANTIC RICHFIELD COMPANY.
+
+No. 86-C-0958.
+
+Supreme Court of Louisiana.
+
+September 8, 1986.
+
+*1142 Neal D. Hobson, William T. Finn, John F. Landrum, Milling, Benson, Woodward, Hillyer, Pierson & Miller, P.L.C., New Orleans, for applicant.
+
+John M. Wilson, Frank E. Massengale, James D. McMichael, Liskow & Lewis, New Orleans, for respondent.
+
+CALOGERO, Justice.
+
+Under the Oil, Gas and Water Well Lien Act, R.S. 9:4861-4867, must a lien be recorded within the period specified in the statute in order to have effect?
+
+The question is posed in this case and in I.E. Miller of Eunice, Inc. v. Source Petroleum, Inc., 493 So. 2d 1141 (La.1986), the two cases having been consolidated for argument. This opinion will address the question as it affects both cases. A separate brief opinion and decree is today being rendered in connection with the latter case.[1]
+
+In each case an owner hired a general contractor to perform certain services or furnish materials for an oil well. The general contractor in turn hired a subcontractor to provide the services or materials.[2] In each instance after the general contractor failed to pay, the subcontractor sought to enforce a lien or privilege purportedly granted by the Oil, Gas, and Water Well Lien Act against the well and/or production therefrom, notwithstanding the absence of a contractual relationship with the well owner.
+
+Louisiana Materials filed their lien and their lawsuit on August 22, 1984, 364 days after the last delivery of shells to Atlantic Richfield's contractor, Luke Construction Co. In the second case, I.E. Miller of Eunice filed their lien on March 23, 1983, some eight months after completion of their rigging down and hauling service for Source Petroleum's contractor, Aamwell Workover   Services, Inc. They filed their lawsuit on June 1, 1983, within one year of the work.
+
+Atlantic Richfield (ARCO) filed a pair of peremptory exceptions of no cause of action.[3] They were maintained by the district court. On appeal to the Fourth Circuit Court of Appeal this ruling was reversed. However, an exception of prescription, first filed by ARCO while the case was on appeal, was granted. As did Source Petroleum in the companion I.E. Miller case, ARCO claims in support of its exception of prescription that the lien was not recorded within the period set forth in La.R.S. 9:4862. The Fourth Circuit, in this Louisiana Materials case, applied its earlier ruling in C-Craft Marine Services, Inc., v. Llog Exploration Co., 470 So. 2d 241 (La. App. 4th Cir.) (Williams, J., dissenting), writ den., 472 So. 2d 921 (La.1985), which held that a lien granted by the Well Lien Act must be recorded within the 180 day period specified in La.R.S. 9:4862 in order to have any effect. The Third Circuit Court of Appeal, in I.E. Miller of Eunice, Inc. v. Source Petroleum, followed Continental Casualty Co. v. Associated Pipe and Supply,
+310 F. Supp. 1207
+(E.D.La. 1969), aff'd, 447 F.2d 1041 (5th Cir.1971) and Beacon Gasoline Co. v. Sun Oil Co.,
+455 F. Supp. 506
+(W.D.1978), which held that the lien need not be recorded within the period specified in La.R.S. 9:4862 in order to be effective.
+
+The common and dispositive issue in the cases under consideration is, therefore, whether a lien granted by the Oil, Gas, and Water Well Lien Act must be recorded within the time provided in La.R.S. 9:4862 in order to be effective, or whether the recordation is necessary only for the purpose of ranking other privileges or mortgages.
+
+For the reasons which follow we answer the question posed at the outset of this opinion in the negative. In order to be effective the lien need not be recorded within the one hundred eighty days specified in La.R.S. 9:4862 (or ninety days if prior to the 1983 amendment to La.R.S. 9:4862).[4] When prescription runs on an unrecorded lien or a lien filed later than one hundred eighty days after service or supply of materials is a matter we need not resolve in this opinion, as will be discussed hereinafter.
+
+An appropriate statutory analysis should begin with an examination of the language of the statute under consideration. According to La.R.S. 1:3, "[w]ords and phrases shall be read with their context and shall be construed according to the common and approved usage of the language."
+
+We must first, therefore, examine the language of the statute. The pertinent provisions of the Well Lien Act are sections 4861, 4862 and 4865 of Title 9.
+
+La.R.S. 9:4861, prior to a 1984 amendment, and pertinent as regards this and the companion case, provided in part as follows:
+
+The precatory language of La.R.S. 9:4862 ("If ... notice is filed for record ... the privileges are superior to ... other privileges...") and the absence of any requirement for recording in the statute granting the privilege, R.S. 9:4861 ("any person who performs any labor or service [and later in the statute, who furnishes ... any materials or supplies ...] has a privilege.....") makes it evident that recordation within one hundred eighty days is not imperative, except for ranking other privileges or mortgages. Even C-Craft, supra, which held that the privilege is lost if notice of claim is not filed in the mortgage office within the time set forth in the statute, stated that the "literal terms of the statute'the privileges are superior'" supports the proposition that the time limitation is only relevant to ranking, not effectiveness. 470 So. 2d  at 243. And the federal trial and appeals courts in Continental Casualty Co. v. Associated Pipe and Supply Co.,
+310 F. Supp. 1207
+(E.D.La.1969), aff'd 447 F.2d 1041 (5th Cir.1971) applied the literal terms of the statute. As stated by the United States district judge in that case:
+
+*1145 A decade later, in Beacon Gasoline Co. v. Sun Oil Co.,
+455 F. Supp. 506
+(W.D.La. 1978), the same interpretation was given the statute. There the court in a federal interpleader action held that an untimely recording (more than ninety days after furnishing services in that case) preserved the lien, favorably to the furnishers of the services, even in competition with third parties, who in that case were mineral lessees.
+
+Nowhere in the pertinent Sections 4861 and 4862 of Title 9, or otherwise, is it stated that recordation is required to give effect to a lien or privilege. The only provision other than that in Section 4862 concerning recordation for purpose of ranking which mentions recordation of the lien is La.R.S. 9:4865. That section states:
+
+"Unless interrupted by suit thereon, the privilege shall prescribe and become ineffective one year from the date of recordation."
+
+Like Section 4862, Section 4865 does not state that recordation is required for all purposes. On the other hand, in treating prescription of the privilege, the statute fixes the date of recordation for commencement of the running of the prescriptive period. When Section 4862 is read in conjunction with Section 4865, an argument can thus be made that the well lien statute requires recordation, not only for the purpose of ranking, and also for the purpose of cleansing the public record of recorded liens, but also for effectiveness of the privilege.
+
+The well owners contend that Section 4862 must require recordation for both effect and ranking, because the failure to require recordation would render meaningless Section 4865's one year prescription from date of recordation. In so arguing, the well owners quote Western Wireline v. Pecos Western Corp., 377 So. 2d 892 (La. App. 4th Cir.1979) in which the Court of Appeal stated:
+
+Id. at 895.
+
+The underlying assumption of this argument of the well owners is that the purpose of Section 4865 is to establish an absolute time limit in which liens granted by the Well Lien Act must be asserted. If that was the purpose, the argument goes, that absolute time limit is established only if Section 4862 requires recordation both to effectuate a lien and to assure its ranking.
+
+The lien claimants, on the other hand, contend that while the effect of Section 4865 may be to provide an absolute time limit for the filing of lawsuits, perhaps both for recorded and unrecorded liens, the purpose of Section 4865 was simply to prevent the indefinite duration of recorded liens and to furnish a means of cleansing the public record of unpursued, recorded claims. By reading Sections 4865 and 4862 to support an imperative deadline for recordation for effectiveness of lien, the lien claimants argue, the Court would only encourage the filing of liens when claimants would otherwise be willing to desist from recording liens and negotiate with the owner and/or contractor for payment. So, the lien claimants argue, Section 4865 will not be rendered entirely meaningless if the one hundred eighty day recordation is not required to facilitate effectiveness of the lien; Section 4865 would still serve to facilitate cancellation from the public record of recorded liens.
+
+Both the lien claimants and well owners find solace in rules of statutory construction which favor their respective interpretations of the statutes in question. The well owners rely on the principle that the lien statutes should be strictly construed against the party claiming the lien; thus, Section 4865 should be read to require a deadline for recordation if a lien is to have any effect. For support, the lien claimants rely upon the principle that prescription statutes are to be strictly construed against the application of prescription; thus Section 4865 should be construed as simply mandating a deadline for filing suit where a lien has been recorded. While   both parties present arguably meritorious contentions, neither states compelling reasons for their version of the construction of Sections 4861, 4862 and 4865.
+
+According to La.C.C. art. 18,
+
+The forerunner of the present version of the Oil, Gas, and Water Well Lien Act was 1928 La. Acts 171.[5] That act gave only laborers a lien or privilege on oil and gas wells. And the only mention of recordation in that act was in Section 2 thereof which stated,
+
+Like the present La.R.S. 9:4862, the literal terms of 1928 La.Acts 171 did not require recordation to effectuate or preserve the lien. Notably absent from the 1928 version of the Well Lien Act is the present Section 9:4865's requirement that a suit be brought within one year of recordation. Under the 1928 version, therefore, there was not even an argument that any provision of 1928 La.Acts 171 required recordation to give effect to a lien. Only to prime other privileges or mortgages did the 1928 well lien act, applicable only to laborers, require recordation within a prescribed period (forty-five days in the 1928 statute).
+
+1932 La.Acts No. 161 superseded the 1928 act and for the first time, aside from the 1916 version of an oil well lien act, granted the privilege not only to laborers but also to materialmen and service contractors. In the process the same provisions as were applicable to laborers were made applicable to service contractors and materialmen. Like the 1928 act, recordation was not a stated requirement for a privilege's effectiveness. The stated purpose for recordation, as in the 1928 act, was for priming other privileges and mortgages. However in 1932, La.Acts 161, a counterpart to the present La.R.S. 9:4865 did appear for the first time"unless interrupted by suit thereon, the privilege shall prescribe and become ineffective one year from date of recordation."
+
+So, because the Legislature included that section concerning prescription in the 1932   act, an implication can arguably be made that recordation is required to preserve the lien. However, had the legislature intended to require recordation to preserve the lien and thus deviate from the earlier 1928 act which did not require recordation for that purpose, they could have expressly done so. That they did not do so evidences an intent to keep for laborers and extend to service contractors and materialmen the then prevailing scheme which did not require a lien to be recorded in order to be effective. Thus the evolution of the Oil, Gas, and Water Well Lien Act tends to support the lien claimants' position that recordation is not required simply to effectuate or preserve the lien.
+
+Nonetheless, the proper resolution of the legal question is not a simple one, as is evident from the conflicting lines of jurisprudence. A quandry is created by section 4865's requiring suit within one year of recordation and its implication that recordation is generally required. Yet the applicable statute, La.R.S. 9:4862 has, since inception in 1928 and notwithstanding repeated amendments, rather unambiguously afforded a lien and privilege without a requirement that the lien be recorded.[6]
+
+We determine that the better arguments support the lien claimants' position. First, the Oil, Gas, and Water Well Lien Act by its terms facilitates effectuation of a lien or privilege without a concomitant requirement that the lien or privilege be recorded. The only stated purpose for recordation is to prime other privileges or mortgages. Second, the legislative history of Act 171 of 1928 and successor statutes[7] reflect that not requiring recordation for effectiveness   of the lien has persisted for sixty-one years, until 1986, without alteration by the Legislature. Finally, applying Section 4862's literal provisions which afford a lien and privilege without a requirement that it be recorded does not render meaningless Section 4865's provision that the privilege prescribes and becomes ineffective if suit is not filed within one year from date of recordation for Section 4865 provides a means of cleansing the public record of recorded liens.
+
+We resolve the issue as did the federal courts in Continental Casualty Co. v. Associated Pipe and Supply Co.,
+310 F. Supp. 1207
+(E.D.La.1969), aff'd 447 F.2d 1041 (5th Cir.1971) and in Beacon Gasoline Co. v. Sun Oil Co.,
+455 F. Supp. 506
+(W.D.La. 1978), and as did the Third Circuit Court of Appeal in I.E. Miller of Eunice v. Source Petroleum, Inc., 484 So. 2d 239 (La.App. 3rd Cir.1986), one of the two cases under consideration, and Genina Marine Serv. Inc. v. Mark Producing Co., 490 So. 2d 1158 (La. App. 3rd Cir.1986). To the extent that the Fourth Circuit cases, Western Wireline Services, Inc. v. Pecos Western Corp., 377 So. 2d 892 (La.App. 4th Cir.1979), and C-Craft Marine Services, Inc. v. Llog Exploration Co., 470 So. 2d 241 (La.App. 4th Circ.), writ denied, 472 So. 2d 921 (1985) are contrary, or may be contrary, they are overruled. The Fourth Circuit case under consideration herein, Louisiana Materials Co. v. Atlantic Richfield Co., 486 So. 2d 776 (La.App. 4th Cir.1986) will be reversed.
+
+Our resolution of the legal issue in this case does not require that we decide just what prescriptive period applies to the enforcement of liens recorded after one hundred eighty days, or of those which are unrecorded.[8] With respect to unrecorded liens the Fourth Circuit in Western Wireline was no doubt correct in asserting that liens cannot exist indefinitely without recordation. And, for the unrecorded lien, we need not decide whether a lien claimant who fails to record his lien within the recordation period (one hundred eighty days from last service performed) has one year from the date of last service performed to assert his privilege, as was advanced by the Third Circuit in I.E. Miller, supra and the dissenting judge in C-Craft Marine, supra or whether a lien claimant who fails to record his lien within the recordation period has one year plus the recordation period in order to assert his lien. It suffices to conclude, at the least, that if suit is filed within one year of the conclusion of the activity which gave rise to the privilege, assertion of the lien is timely. In this case, Louisiana Materials filed their lien and lawsuit thereon three hundred and sixty-four days after their last supply of clam shells. In the companion case, I.E. Miller recorded their lien within eight months and filed suit to enforce their lien within one year.
+
+For the foregoing reasons the judgment of the Court of Appeal is reversed; respondent's exception of prescription is overruled, and the case is remanded to the district court for further proceedings.
+
+JUDGMENT OF THE COURT OF APPEAL REVERSED; REMANDED TO THE DISTRICT COURT.
+
+MARCUS and LEMMON, JJ., dissent and assign reasons.
+
+COLE, J., dissents for reasons assigned by LEMMON, J.
+
+MARCUS, Justice dissenting.
+
+Reading La.R.S. 9:4862 and 9:4865 in pari materia, I consider that the privilege has no effect unless recorded within one hundred eighty days after the last day of the performance of the labor or service. Otherwise, La.R.S. 9:4865 would be virtually meaningless. Lien statutes should be strictly construed against the party claiming the lien. Accordingly, I respectfully dissent.
+
+*1149 LEMMON, Justice, dissenting.
+
+I dissent for the reasons expressed in my concurring opinion in Western Wirelines Services v. Pecos Western Corp., 377 So. 2d 892 (La.App. 4th Cir.1979), which has been overruled by the majority opinion.[1] In addition to the public policy and possible constitutional reasons, there are other compelling practical considerations which support the conclusion that the Legislature did not intend to create a privilege which lasts indefinitely.
+
+The scheme in Sections 4862 and 4865 contemplates a two-step process for enforcement of the privilege granted in Section 4861. It is illogical to believe that the Legislature intended to place a one-year limitation on the second step without any limitation whatsoever on the first step.
+
+It is also unfair to construe the statutes broadly in favor of the claimant and against the owner of the well. It is entirely within the claimant's power to protect himself by filing a notice of his claim, and he suffers no detriment whatsoever by the imposition of this normal requirement. On the other hand, the well owner has no contractual relationship with and frequently no knowledge of the existence or identity of the claimant. The well owner can only look to the public records before paying the retainage to the general contractor. If the public records show no recorded privileges and the general contractor furnishes a fraudulent affidavit stating that all laborers, materialmen, and suppliers have been paid, the owner generally pays the retainage. The owner's only other protection is a bond, which does involve some financial detriment and which may not be adequate protection if the lien period in indefinite, as this decision suggests.
+
+[1]  I.E. Miller of Eunice, Inc. v. Source Petroleum, Inc., 493 So. 2d 1141 (La.1986), rendered this day.
+
+[2]  In Louisiana Materials Co. v. Atlantic Richfield, the general contractor for Arco, Luke Construction Co. purchased clam shells from Louisiana Materials Co. The function of the shells was to provide support for a pipeline which ran from a petroleum plant in Plaquemines Parish out to an oil well situated in the Gulf of Mexico on the outer continental shelf. The area on which the well was located was leased by Arco from the Department of the Interior.
+
+In I.E. Miller of Eunice v. Source Petroleum the owner of the well, Source, hired a general contractor, Aamwell Workover Services, Inc., to drill the Jackson C. Parker well. Aamwell hired I.E. Miller of Eunice, Inc. to rig down and haul the rig to a new site where the well was ultimately drilled and production secured.
+
+[3]  In one exception of no cause of action, ARCO argued that Louisiana Materials did not have a lien under the Oil, Gas, and Water Well Act because the pipeline which is supported by the clam shells lies on the Outer Continental Shelf, and, therefore, is not governed by the Well Lien Act. In a second exception of no cause of action ARCO asserted that the Well Lien Act does not apply to those portions of the pipeline that lie outside of the leased property. Both exceptions were maintained and the Fourth Circuit reversed that ruling. Because ARCO did not seek writs complaining of the Court of Appeal's judgment in any respect, and because ARCO did not in brief or oral argument take issue with the Court of Appeal's reversal of the trial court's granting the two exceptions of no cause of action, we need not address the rulings below on the no cause of action exceptions.
+
+[4]  R.S. 9:4862, as amended by Acts 1983, No. 374, Sec. 1, makes provision for recordation and inscription in the mortgage records within 180 days, the time period which is pertinent in this case, Louisiana Materials Co., Inc. v. Atlanta Richfield Co. Prior to this 1983 amendment the period was 90 days, which is the period pertinent in I.E. Miller of Eunice, Inc. v. Source Petroleum, Inc.
+
+[5]  A first version of an oil well lien act was enacted by 1916 La.Acts 232. That act required that drilling contracts in excess of one thousand dollars be recorded and compelled the general contractor to record a surety bond in the amount of one half the value of the drilling contract. Within thirty days of the owner's final acceptance of the project, claimants against the contractor had to record their claims. If claims were recorded, the owner invoked a concursus; but the owner would be liable for up to one half of the amount of the contract, with the claimants having a privilege on the well and land to secure their claim if the owner failed to require the recordation of a surety bond or if the surety was insolvent.
+
+The above act was codified in the Louisiana Revised Statutes of 1950 at R.S. 9:4881-4887. However, those sections of Title 9 were specifically repealed by 1950 La.Acts No. 200 in July of 1950.
+
+This 1916 version of an oil well lien act was a companion statute to the Private Works Act, enacted as 1916 La.Acts 262, and contained provisions very similar to the Private Works Act. See Standard Supply and Hardware Co. v. Humphrey Bros., 209 La. 979, 26 So. 2d 8 (1946). This earliest version of an oil well lien act, in effect until repealed in 1950, applied when a contract was reduced to writing and recorded in the specified manner. When not so recorded, the 1928 act and successor statutes were applicable. Id.
+
+[6]  The Legislature just recently passed 1986 La. Acts 191 (inapplicable to the cases under consideration) which amends Sections 4862 and 4865 to make recordation within the time specified in Section 4862 a requirement for preservation of the privilege. While this might arguably support the well owners' claim that the earlier version of the Act required recordation, it also supports the lien claimants' argument that had the Legislature chosen to change the law to its 1986 form they could have easily done so prior to 1986.
+
+[7]  Act 171 of 1928 granted a lien to laborers who performed services on gas, oil, or water wells. The lien attached to the well and appurtenances. If filed within forty-five days after the labor was performed, the lien primed subsequent liens or mortgages. Presumably that lien even primed tax liens and vendor's privileges, which signifies the privileged position the Legislature chose to give the laborer. Notably absent from the 1928 act was the one year period in which suit had to be brought to enforce a recorded lien. Act 161 of 1932 superseded the 1928 act and granted the lien to materialmen as well as laborers. The recordation period to prime other liens or privileges was increased to sixty days. In that act, tax liens and vendor's privilege recorded prior to activity giving rise to the well lien were given superior ranking. Also included in the Act was the necessity to bring suit within one year of recordation. Act 145 of 1934 included repairmen, truckers, bargers, and towers along with laborers and materialmen in the class of persons afforded a lien. Another change from the earlier acts was that the laborer's lien now primed the liens granted to the materialmen and servicemen.
+
+Act 100 of 1940 increased the recordation period to ninety days. This act was the first to attach the lien to the well's production. In Act 68 of 1942, the lien was granted to secure not only the cost of recording the privileges but also ten percent attorney's fees. Act 100 of 1956 differed in that the lien was not effective against any purchaser of the well's production until written notice of the claim was delivered to the purchaser. Act 22 of 1958 re-instated the ten percent attorney's fees provision that was deleted from the 1956 re-enactment of the well lien Act. Act 31 of 1960 gave the claimant the right of sequestration without furnishing security, while Act 523 of 1968 amended the well lien act by allowing owners of property affected by the lien to bond out those liens. Act 374 of 1983 increased the recordation period to one hundred and eighty days. Act 949 of 1984 granted the lien to those who performed services or labor or supplied material in connection with flow lines and pipelines. The lien also attached to the flow lines or pipeline. Act 519 of 1985, amending R.S. 9:4867, allowed the owner to deposit a federally insured certificate of deposit in lieu of a bond. Finally, as mentioned in footnote 7, Act 191 of 1986 amended sections 4862 and 4865 to make recordation within one hundred eighty days a requirement for effectiveness.
+
+Every enactment or amendment to the well lien act dealing with the recordation period, except the recent 1986 act, expressly states in very similar language that if a privilege afforded by the act is recorded within a specified period the privilege shall be superior. In not one act, except for the 1986 act, is recordation within the specified period required.
+
+[8]  For the recorded lien (and here the statute presumably refers to where the lien has been recorded within 180 days) La.R.S. 9:4865 specifies prescription of a lien one year after recordation.
+
+[1]  The concurring opinion stated:
+
+"La. Const. 1921, Art. 19, § 19, which controlled the validity of R.S. 9:4861 et seq. at the time of the statute's enactment, required (with certain exceptions) that a privilege against immovable property, in order to affect third persons, had to be `recorded in the manner and within the time prescribed by law'. The constitutional provision was apparently based on the public policy consideration that a privilege, which confers an exceptional status in derogation of common rights, cannot exist indefinitely and must be perfected within express time limitations.
+
+"If R.S. 9:4861 et seq. is interpreted to accord a privilege for an indefinite period, the statute is constitutionally infirm. Since a statute subject to interpretation must be construed in the manner which renders it to be constitutional, and since a statute granting a privilege must be interpreted strictly, the statute should be interpreted to require recordation within 90 days, not only for its ranking, but also for its validity."

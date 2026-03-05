@@ -1,0 +1,93 @@
+65064
+State v. Lee
+https://law.justia.com/cases/louisiana/supreme-court/1980/381-so-2d-792-1.html
+
+65064
+State v. Lee
+Court: Louisiana Supreme Court
+Release date: 1980-02-15
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/381-so-2d-792-1.html
+
+381 So. 2d 792 (1980)
+
+STATE of Louisiana
+v.
+Willie Earl LEE and Grady E. Harris.
+
+No. 65064.
+
+Supreme Court of Louisiana.
+
+February 15, 1980.
+
+On Denial of Rehearing April 7, 1980.
+
+*793 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Henry N. Brown, Jr., Dist. Atty., Bobbie Stromile, Asst. Dist. Atty., for plaintiff-appellee.
+
+S. Patrick Phillips, Bossier City, for defendants-appellants.
+
+Per Curiam on Denial of Rehearing April 7, 1980.
+
+DENNIS, Justice.
+
+This criminal appeal calls upon us to decide when evidence of an attempted escape by a person in custody may be introduced as an admission of guilt by conduct of the crime for which he was arrested. Since evidence of an attempted escape constitutes other crimes evidence, we conclude that unless the evidence forms part of the res gestae of the charged offense, it may be introduced only if it is probative of defendant's consciousness of guilt of the crime charged and its probative value outweighs its prejudicial effects. In the present case, evidence of defendant Harris' attempted escape, which occurred while he was being transported from jail to a hospital over six weeks after his arrest for the crime charged, was clearly not sufficiently probative of his consciousness of guilt of the crime charged to outweigh its prejudicial effects. Accordingly, the trial court's refusal to grant a mistrial because of the prosecuting attorney's reference to the attempted escape in the presence of the jury was reversible error.
+
+Defendant, Grady E. Harris, was convicted by a jury of armed robbery, La.R.S. 14:64, and sentenced to serve forty years at hard labor. He appealed, relying on four assignments of error. We pretermit all assignments save his complaint relative to the trial court's refusal to grant a mistrial, in which we find reversible merit.
+
+Defendant Harris was arrested and charged with the crime of armed robbery. After he had been incarcerated in the Bossier Parish Jail for six weeks, he was taken to a hospital in Shreveport for treatment. En route to the hospital, at an interstate highway exit ramp, Harris jumped from the police car and attempted to flee, but was apprehended quickly by the officers. At the armed robbery trial, when the prosecuting attorney asked Harris, on cross-examination, if he jumped from the car and ran, the trial judge sustained defense counsel's objection and admonished the jury to ignore the remark. However, the defense motion for a mistrial was overruled.
+
+The prosecuting attorney's remark, which referred within the hearing of the jury to another crime committed by the defendant as to which evidence was not admissible, was mandatory ground for a mistrial; an admonition to the jury to disregard the   remark was not sufficient. See La.C.Cr.P. art. 770. The defendant's conduct referred to by the prosecutor was "another crime" because an intentional departure of a person in lawful custody of any law enforcement officer constitutes simple escape. La.R.S. 14:110. Evidence of the other crime was not admissible in the present case because the attempted simple escape did not form part of the res gestae or meet the tests governing the introduction of other-crimes evidence.
+
+The prosecution may not introduce evidence of other criminal acts of the accused unless the evidence is substantially relevant for some other purpose than to show a probability that he committed the crime on trial because he is a man of criminal character. Aside from related offenses admissible as part of the res gestae, and convictions admissible for impeachment purposes, Louisiana statutes provide for only three "other purposes" for which evidence of other criminal acts may be offeredto show intent, knowledge or system. La.R.S. 15:445, 446; State v. Prieur,
+277 So. 2d 126
+(La. 1973). In accordance with general authority, however, evidence has been admitted for purposes other than those listed in the statutes. See State v. Sutfield,
+354 So. 2d 1334
+(La. 1978).
+
+In State v. Burnette and Granger,
+353 So. 2d 989
+(La. 1978), this Court held that evidence of criminal acts of the accused designed to obstruct justice or avoid punishment for the present crime may be introduced as an admission by conduct, provided that none of the safeguards for protecting the accused from unfair prejudice are violated. The safeguards applicable to evidence of criminal conduct offered as an admission of guilt include the following: (1) before the evidence is introduced at all, there must be clear and convincing evidence of the commission of the other crimes and the defendant's connection therewith; (2) the evidence of the accused's conduct must be substantially relevant to show his consciousness of guilt of the crime charged; (3) the probative value of the extraneous crimes evidence must outweigh its prejudicial effect. See State v. Burnette and Granger, supra; State v. Franklin,
+353 So. 2d 1315
+(La. 1977); cf. State v. Hatcher,
+372 So. 2d 1024
+(La. 1979); United States v. Meyers, 550 F.2d 1036 (5th Cir. 1977).
+
+Similarly, evidence of an accused's escape or attempted escape may, in compliance with applicable safeguards, be introduced to show his admission of guilt by conduct. By the same token, however, evidence of escape must be excluded if its admission would violate any of the rules protecting a defendant from unfair prejudice.
+
+Applying these rules to the present case, we conclude that the evidence of attempted escape by Harris did not form part of the res gestae, that it had no significant probative value as circumstantial evidence of his guilt, ad that its prejudicial effect clearly outweighed its probative value. Defendant's flight, a momentary departure from a vehicle transporting him from jail to a hospital for treatment which occurred over six weeks after his arrest for armed robbery, was not significantly probative of his guilt, since it may have been motivated by many other reasons, such as prison or hospital conditions, a simple desire for freedom, or a lack of confidence in his right to a fair and speedy trial. Accordingly, while there was no question of defendant's attempted escape, consciousness of guilt of the crime charged reasonably could not be inferred from his flight, and the prejudicial effect of the evidence clearly outweighed its probative value.
+
+We reject as too broadly formulated the statements by this Court and other authorities which seem to indicate that evidence of flight is always admissible regardless of the circumstances. See State v. Graves,
+301 So. 2d 864
+(La. 1974); J. Wigmore, II Wigmore on Evidence, § 276; Pugh, Work of the Louisiana Supreme Court 1958-59 Term, 20 La.L.Rev. 336 (1960). Unless the flight is part of the res gestae of the charged crime, discernment is now required between escape evidence which is admissible under the other crimes   rules and that which must be excluded as unfairly prejudicial. Consistent with this view is a growing trend among other authorities to require closer scrutiny of the validity of the inference of guilt from flight in each particular case. See United States v. Meyers, supra; McCormick, McCormick on Evidence, § 271 at 656 (2d ed. 1972).
+
+The other crimes evidence was, therefore, inadmissible and the prosecuting attorney committed error clearly prejudicial to the defendant's rights by referring to it in the jury's presence. Accordingly, upon his timely motion, the defendant was entitled to have a mistrial ordered by the trial judge. La.C.Cr.P. art. 770. Consequently, the refusal of the trial judge to order a mistrial under those circumstances was reversible error because it was prejudicial to substantial rights of the accused. La.C.Cr.P. art. 921.
+
+The conviction and sentence of defendant Grady E. Harris are reversed and a new trial is ordered.
+
+REVERSED AND REMANDED.
+
+SUMMER, C. J., dissents.
+
+MARCUS, J. dissents and assigns reasons.
+
+BLANCHE, J., dissents.
+
+MARCUS, Justice (dissenting).
+
+I agree with State v. Graves,
+301 So. 2d 864
+(La. 1974), which is contrary to the result reached by the majority. Moreover, I do not consider that the jury interpreted the question asked by the district attorney to defendant on cross-examination as an indirect reference to another crime in violation of La.Code Crim.P. art. 770. Accordingly, I respectfully dissent.
+
+PER CURIAM.
+
+On February 15, 1980 we reversed the conviction and sentence of defendant Harris and remanded for a new trial, having concluded that the trial court's refusal to grant a mistrial based on the prosecutor's reference, in the presence of the jury, to an attempted escape by Harris was reversible error. We have this day considered an application for rehearing by the state and have determined that the case should not be reheard. A motion filed on behalf of defendant Lee, however, prompts this per curiam.
+
+In the original opinion, we were silent as to defendant Lee's conviction and sentence. A motion has been filed arguing that our judgment should be amended to show that the conviction of defendant Lee is also reversed. We conclude that this argument lacks merit. The prosecutor's remark referred to defendant Harris only. We are not convinced that the prejudice was such as to deprive defendant Lee of a fair trial. See La.C.Cr.P. art. 771. Moreover, the jury was contemporaneously instructed to disregard the remark and was later charged that "[t]here must be a separate verdict returned for each defendant. And you are not required to return the same verdict for each defendant." We have also reviewed the remaining assignments of error briefed and argued and conclude that there is no independent basis for reversal of defendant Lee's conviction and sentence.
+
+MARCUS and BLANCHE, JJ., and de la HOUSSAYE, J. ad hoc, would grant the State's application.
+
+Accordingly, the decree is hereby amended. The conviction and sentence of defendant Grady E. Harris are reversed and the case remanded for a new trial; the conviction and sentence of defendant Willie Earl Lee are affirmed.[1]
+
+[1]  Because we have amended the decree as to defendant Lee, his time within which to apply for rehearing commences this date. See La.Sup.Ct. Rules, Rule 9.

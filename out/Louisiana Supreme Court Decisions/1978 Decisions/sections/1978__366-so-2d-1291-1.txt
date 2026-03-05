@@ -1,0 +1,85 @@
+62154
+State v. Thompson
+https://law.justia.com/cases/louisiana/supreme-court/1978/366-so-2d-1291-1.html
+
+62154
+State v. Thompson
+Court: Louisiana Supreme Court
+Release date: 1978-10-09
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/366-so-2d-1291-1.html
+
+366 So. 2d 1291 (1978)
+
+STATE of Louisiana
+v.
+Terry THOMPSON.
+
+No. 62154.
+
+Supreme Court of Louisiana.
+
+October 9, 1978.
+
+Dissenting Opinion November 27, 1978.
+
+Louis Berry, Wanda G. Henton, Alexandria, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Speedy O. Long, Dist. Atty., Jimmie C. Peters, Asst. Dist. Atty., for plaintiff-respondent.
+
+MARCUS, Justice.
+
+Terry Thompson was charged by separate grand jury indictments with disturbing the peace by using unnecessarily loud, offensive, or insulting language in violation of La.R.S. 14:103A(2), resisting arrest in violation of La.R.S. 14:108, and simple battery in violation of La.R.S. 14:35. After a single bench trial on all three charges, defendant was found not guilty of disturbing the peace and resisting arrest, but was found guilty of simple battery and sentenced to serve thirty days in jail plus the payment of all costs. Defendant's application to this court under our supervisory jurisdiction was   granted.[1] He asserts three assignments of error. Finding merit in one of the assigned errors, we need not consider the other two.
+
+Defendant contends the trial judge erred in denying his motion for a new trial. He argues that because he was found not guilty of disturbing the peace and resisting arrest, there was no evidence to find him guilty of simple battery. He further argues that the evidence adduced at trial established only that he repelled the unlawful aggression of a deputy sheriff.
+
+In criminal matters, the scope of this court's appellate jurisdiction extends only to questions of law. La.Const. art. 5, § 5(C). It is well settled that an assigned error based upon the denial of a motion for a new trial grounded on a claim of no evidence of the crime charged or an essential element thereof presents a question of law which can be reviewed by this court. State v. Williams,
+354 So. 2d 152
+(La.1977). We consider that the allegations in defendant's motion for a new trial adequately raise the contention that there was no evidence of the crime charged, simple battery, or an essential element thereof. Hence, this issue is properly before us.
+
+The evidence adduced at trial established the following facts. Defendant's younger brother had, without defendant's knowledge, traded defendant's rifle to Don Elliot for a mini-trail bike. Defendant executed an affidavit accusing Elliot of receiving stolen goods. On the afternoon of September 8, 1977, defendant entered the sheriff's office to inquire as to the status of his rifle. Defendant approached the front counter in the office and asked a deputy sheriff where his rifle was and how he could recover it. Deputy Rex Powell, who was standing behind the counter entered the conversation and told defendant that the grand jury had determined that the rifle belonged to Elliot as a result of the trade. Nonetheless, defendant maintained that the rifle belonged to him and that he wished to recover his property. After further discussion, Powell asked defendant to leave the office.
+
+The testimony of several other deputies who were in the vicinity of the front counter during the discussion between Powell and defendant was to the effect that defendant was not speaking in a particularly loud or disruptive tone of voice. Nevertheless, as defendant still did not leave the office, Powell told defendant that he would place him under arrest for disturbing the peace unless he left. Thereafter, as defendant continued to stand before the front counter, Powell walked around from behind the counter and grabbed defendant's arm. At this point, defendant struck Powell in the eye. A scuffle involving defendant and several other deputies ensued. Finally, defendant was handcuffed and taken away.
+
+The defense produced witnesses who testified that Powell, during the conversation with defendant and without apparent warning, swung at and missed defendant from behind the counter. Immediately thereafter, Powell came from behind the counter, grabbed defendant's collar, and began choking him. The defense was that defendant struck Powell only in an effort to prevent the continuing choking.
+
+After argument of counsel, the trial judge first took notice of this court's per curiam decision in State v. Adams, 263 La. 286,
+268 So. 2d 228
+(1972), wherein that section of the disturbing the peace statute under which defendant was charged (La. R.S. 14:103A(2)) had been declared unconstitutional. He further observed that "it does not appear that the language [used by defendant] was particularly loud. In reference to that charge I find defendant not guilty." Then, in reference to the resisting arrest charge, the trial judge stated that based on the evidence presented "there was no grounds to arrest for disturbing the peace before any blows was exchanged." Hence, he found defendant not guilty of that charge. Finally, the trial judge concluded that, since he found that "Powell was not the aggressor," defendant was guilty of simple battery.
+
+*1293 A battery is defined, in pertinent part, as the intentional use of force or violence upon the person of another. La.R.S. 14:33. A simple battery is a battery, without consent of the victim, committed without a dangerous weapon. La.R.S. 14:35. La.R.S. 14:18 provides in pertinent part:
+
+.....
+
+The sole basis of the trial judge's judgment finding defendant guilty of simple battery was that "Powell was not the aggressor." There is no evidence to support this conclusion. The testimony offered by the state of the deputies who witnessed the confrontation between Powell and defendant indicated that defendant was not speaking in a loud or disruptive manner or otherwise acting aggressively. The testimony conclusively established that Powell advanced upon defendant and grabbed his arm before any blow was struck by defendant. The evidence is uncontroverted that Powell was the aggressor in this fray, not defendant. See La.R.S. 14:21. Moreover, there is no evidence in the record to show that defendant's use of force or violence (the blow to Powell's eye) was not reasonable or apparently necessary to prevent a forcible offense against defendant's person. La.R.S. 14:19. In other words, no evidence was produced that defendant's conduct was not justified in the defense of his person. La.R.S. 14:18(7). On the contrary, all evidence was that it was justified under the circumstances here presented. Hence, we find no evidence of criminal conduct on the part of defendant. Accordingly, he should be acquitted of the crime of simple battery.
+
+In State v. Gatlin, 241 La. 321,
+129 So. 2d 4
+(1961), we overruled prior jurisprudence and held that when this court found no evidence of the crime charged or an essential element thereof upon review of a bill of exceptions taken to the overruling of a motion for a new trial grounded on such a contention, defendant would not be discharged but rather the case would be remanded for a new trial conformably with the nature of the pleadings.
+
+The United States Supreme Court in Burks v. United States,
+437 U.S. 1
+, 98 S. Ct. 2141, 2150, 57 L. Ed. 2d 1 (1978), addressed the issue of whether a defendant may be tried a second time when a reviewing court had determined that in a prior trial there was no evidence of the crime charged or an essential element thereof. The Court held that the double jeopardy clause of the fifth amendment precludes a second trial once the reviewing court has found no evidence of the crime charged or an essential element thereof.[2] The Court further stated, "[t]he only `just' remedy available for [the reviewing] court is the direction of a judgment of acquittal." The Court noted that the contention that there was no evidence of the crime charged or an essential element thereof may properly be raised solely by a motion for a new trial. In addition, the Court expressly held that a defendant   does not waive his right to a judgment of acquittal by moving for a new trial.
+
+The double jeopardy prohibition of the fifth amendment is applicable to a state criminal trial through the fourteenth amendment. Benton v. Maryland,
+395 U.S. 784
+, 89 S. Ct. 2056, 23 L. Ed. 2d 707 (1969). It is our opinion that we are compelled under the holding in Burks and the federal constitutional standard pronounced therein to enter a judgment of acquittal when this court upon review properly presented finds no evidence of the crime charged or an essential element thereof in the record of the trial. To the extent that State v. Gatlin, supra, and our other decisions relying thereon suggest that by moving for a new trial a defendant waives his right to a judgment of acquittal on the basis of no evidence, they are overruled. We held similarly in State v. Liggett,
+363 So. 2d 1184
+(La.1978).
+
+For the reasons assigned, the conviction and sentence are annulled and set aside and defendant is ordered discharged.
+
+SUMMERS, J., dissents and assign reasons.
+
+SUMMERS, Justice (dissenting).
+
+While the majority purports to recognize the scope of this Court's appellate jurisdiction to be constitutionally limited to questions of law in criminal cases, the limitation is disregarded in this case. La.Const. art. V, § 5(C). Only when there is no evidence of an essential element of the crime charged is a question of law presented which empowers this Court to reverse a verdict of guilty. Here the Court finds no evidence of simple battery contrary to the finding of the trial judge.
+
+On the day in question, Deputy Rex Powell appeared at the LaSalle Parish Sheriff's Office while Deputy Branton and defendant Thompson were involved in a discussion over a rifle reportedly belonging to defendant which defendant's younger brother had traded to Don Elliot without defendant's knowledge. At the time defendant displayed an aggressive attitude and was using loud and profane language. When asked to leave the Sheriff's Office defendant told Powell he would not leave until he obtained the rifle. At that point Powell told him that if he didn't leave he was going to place him under arrest for disturbing the peace. Defendant replied that "no white m____f____ was going to arrest him." Whereupon Powell walked from behind the counter, where he had been standing, toward defendant, who stood in front of the counter, intending to place him under arrest. As Powell extended his hand to take hold of his arm, defendant struck him in the eye. This version of the happening, which the trial judge accepted, is some evidence of the essential elements of simple battery.
+
+What the Court had done in this case is precisely what the Constitution forbids. Contrary to the finding of the trial judge the Court has reconstructed the events of the offense from the testimony of other witnesses, denying thereby the trial judge's credibility determination of Deputy Powell's testimony.
+
+[1]  358 So. 2d 955 (La. 1978).
+
+[2]  The Court distinguished reversals due to trial error from reversals resulting solely from no evidence presented of the crime charged or an essential element thereof. The holding in Burks and this court's implementation of that holding are strictly limited to those cases wherein this court upon review properly presented determines that there was no evidence of the crime charged or an essential element thereof.

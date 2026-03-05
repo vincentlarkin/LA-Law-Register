@@ -1,0 +1,67 @@
+59559
+State v. Rhodes
+https://law.justia.com/cases/louisiana/supreme-court/1977/351-so-2d-103-1.html
+
+59559
+State v. Rhodes
+Court: Louisiana Supreme Court
+Release date: 1977-10-10
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/351-so-2d-103-1.html
+
+351 So. 2d 103 (1977)
+
+STATE of Louisiana, Appellee,
+v.
+Edward L. RHODES, Appellant.
+
+No. 59559.
+
+Supreme Court of Louisiana.
+
+October 10, 1977.
+
+Alton T. Moran, Director, Vincent Wilkins, Jr., Appellate Counsel, Baton Rouge, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie Brown, Dist. Atty., Frank J. Saia, Marilyn C. Castle, Asst. Dist. Attys., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant was convicted of attempted aggravated escape, La.R.S. 14:27, 14:110B, and sentenced to ten years' imprisonment at hard labor. Upon his appeal, he raises two issues.
+
+First, he contends: The state used its peremptory challenges to excuse prospective black petit jurors, thus allegedly depriving   this black defendant of a jury drawn from a fair cross-section of the population. (Assignment of Error No. 5.)
+
+No objection was raised to the state's exercise of its peremptory challenges during the selection of the petit jury. No attempt was made to introduce evidence to show any historical pattern of exclusion of black jurors in this district or in this division of the district. The defendant attempted to raise this issue by a motion to quash the bill of information after the petit jury was selected.
+
+As thus posed, the assignment is without merit. Absent a showing of purposeful discrimination by a historical pattern of exclusion of an identifiable class, the courts will not inquire into the motive of the state in exercising its peremptory challenges in a particular case. Thus, the mere circumstance that the state has used its peremptory challenges to strike every qualified member of the defendant's race does not constitute a denial of equal protection or due process.
+
+See: Swain v. Alabama,
+380 U.S. 202
+, 85 S. Ct. 824, 13 L. Ed. 2d 759 (1965); State v. Bennett,
+341 So. 2d 847
+(La.1977); State v. Haynes,
+339 So. 2d 328
+(La.1976); State v. Gray,
+285 So. 2d 199
+(La.1973).
+
+Second, the defendant contends: The state improperly impeached two defense witnesses by cross-examination, over objection, eliciting testimony as to convictions which were then on appeal and had not yet been affirmed. (Assignment Nos. 11 and 12.)
+
+La.R.S. 15:495 permits the impeachment of the credibility of a witness by cross-examination as to his prior convictions of criminal offenses. The defendant contends that, since the convictions had been suspended by appeals, the state's use of them for impeachment purposes was improper.
+
+This issue is of first impression in this state. Nevertheless, the vastly preponderant American view is that the prior conviction may be used for impeachment purposes, even though an appeal, provided that the trier of fact may likewise be informed of the pendency of the appeal.
+
+See: McCormick on Evidence, Section 43 at p. 87 (2d ed. 1972); Annotation, Credibility Former Conviction Appeal, 16 A.L. R.3d 726 (1967); Federal Rule of Evidence 609(e).
+
+The United States Court of Appeals, Second Circuit, has summarized the reasons for this majority view. In United States v. Soles, 482 F.2d 105, 108 (1973), that court stated:
+
+See also United States v. Franicevich, 471 F.2d 427 (CA 5, 1973).
+
+For similar reasons, insofar as La.R.S. 15:495 permits impeachment of the credibility of a witness because of his prior convictions, we interpret this statute as permitting convictions to be so used even though they have been appealed and are not yet final. We reject, as not persuasive, the defendant's contention that this interpretation   of our impeachment statute is inconsistent with the policies represented by other provisions of our law which suspend the execution of sentences during the appeal, La.C.Cr.P. art. 913, or which permit bail pending finality of the conviction, La.Const. of 1974, Art. 1, Section 18, La.C.Cr.P. art. 314.
+
+Accordingly, we find no merit to this contention of the defendant.
+
+For the reasons assigned, we affirm the conviction and sentence.
+
+AFFIRMED.

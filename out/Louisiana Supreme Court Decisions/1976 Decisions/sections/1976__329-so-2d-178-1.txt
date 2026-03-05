@@ -1,0 +1,73 @@
+56957
+State v. Spain
+https://law.justia.com/cases/louisiana/supreme-court/1976/329-so-2d-178-1.html
+
+56957
+State v. Spain
+Court: Louisiana Supreme Court
+Release date: 1976-02-23
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/329-so-2d-178-1.html
+
+329 So. 2d 178 (1976)
+
+STATE of Louisiana, Appellee,
+v.
+Willie J. SPAIN, Appellant.
+
+No. 56957.
+
+Supreme Court of Louisiana.
+
+February 23, 1976.
+
+Concurring Opinion March 31, 1976.
+
+*179 Vincent Wilkins, Jr., Director, Lake Charles, Roland T. Huson, Appellate Counsel, Office of Public Defender, Baton Rouge, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie B. Brown, Dist. Atty., James E. Boren, Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant pleaded guilty to attempted simple burglary, La.R.S. 14:27, 62, and was sentenced to four years at hard labor.
+
+He appeals. His assignment of error admits that no objections were made at the time the plea was taken, but asks for appellate review of the conviction and sentence. The record further indicates that no appealable ruling is presented for review, such as the denial of a motion to withdraw a guilty plea, see La.C.Cr.P. art. 559.
+
+Under these circumstances, the appeal presents nothing for review except "patent" errors, i.e., those discoverable by an inspection of the pleadings and proceedings and without inspection of the evidence. La.C.Cr.P. arts. 841, 920. In reviewing appeals from pleas of guilty, our jurisprudence holds that the review is limited to jurisdictional defects which appear on the face of the pleadings and proceedings. State v. Knighten,
+320 So. 2d 184
+(La.1975); State v. Coats, 260 La. 64,
+255 So. 2d 75
+(1971).
+
+The defendant argues that this statutory and jurisprudential limit upon appellate review violates Article 1, Section 19, of the new Louisiana Constitution of 1974. This constitutional provision provides: "No person shall be subjected to imprisonment. . . without the right of judicial review based upon a complete record of all the evidence upon which the judgment is based. This right may be intelligently waived."
+
+Our Code of Criminal Procedure assures every accused in a criminal proceeding of "the right" of judicial review based upon a complete record of all the evidence "upon which the judgment is based." In felony cases, a complete record is made of all the proceedings, with similar recording being made in misdemeanor cases upon request of the accused. La.C.Cr.P. art. 843 (1974).
+
+Nevertheless, the accused's right to have review of particular trial actions or evidentiary rulings may be waived by the failure of his counsel to object to them at the time made. La.C.Cr.P. art. 841. His right to have appellate review of other potential contentions may likewise be waived by the failure to file trial motions raising the issue (such as a motion to suppress evidence seized in alleged violation of constitutional right, La.C.Cr.P. art. 703; or such as a motion for directed verdict, La.C.Cr.P. art. 778, or for a new trial, La.C.Cr.P. art. 851, questioning the total lack of evidence to prove the essential elements of a trial; or such as a motion to quash the indictment or prosecution for many procedural defects, La.C.Cr.P. art. 535 D).
+
+We hold that, within the intention of the constitutional article, the failure of an accused's counsel to make such objections or to file such motions will ordinarily constitute an intelligent waiver of the right to appellate review of such types of errors and the evidence upon which they are based. Likewise, a defendant's plea of guilty constitutes an intelligent waiver of appellate review of the merits of the prosecution's case against him.
+
+Accordingly, we find no merit in the defendant's complaint that Article 1, Section 19 of the Louisiana Constitution is   offended by the code articles and jurisprudential holdings which limit appellate review, under present circumstances, to jurisdictional defects which appear on the face of the pleadings and proceedings. We are thus unable to accede to the defendant's plea that we review the entire record and all of the evidence in it.[1]
+
+Accordingly, we affirm the conviction and sentence.
+
+Affirmed.
+
+SUMMERS, J., concurs and assigns reasons.
+
+SUMMERS, Justice (concurring).
+
+The impression may be gained from a reading of this opinion and the reference to Article 843 of the Code of Criminal Procedure that "the right" to judicial review entitles the appellant to a complete transcribed record of the proceedings in every felony appeal. This is not my understanding of Article 843.[1] The Article provides that the entire proceedings be recorded, but it does not require that the entire proceedings be transcribed for review on appeal in every case.
+
+When the Constitution prescribes that "No person shall be subjected to imprisonment or forfeiture of rights or property without the right of judicial review based upon a complete record of all evidence upon which the judgment is based.", it does not mean that those portions of the evidence which are not relevant to the contentions made at the trial must be furnished for review. For instance, only those portions of the record relevant to assignments of error need be transcribed and furnished to the appellate court. Pleadings and proceeding, as distinguished from evidence, however, from which error is discoverable by a mere inspection, are properly part of the record furnished to the appellate court in every appeal. La.Code Crim.Pro. art. 920.
+
+The labor, time and expense involved in transcribing the evidence are principal deterrents to speedy criminal appeals. Needless transcriptions should be avoided unless specifically required by law. I view the restrictive language of the Constitution to be designed to accomplish this result.
+
+I respectfully concur.
+
+[1]  If we were permitted to review the record, it affirmatively shows that the defendant pleaded guilty to the offense, freely and voluntarily and with the assistance of counsel, only after the trial court fully explained to him the rights he was waiving by pleading guilty and only after the trial court had ascertained from him the factual basis for his plea (in this case, his admitted guilt) and only after the trial court fully informed him of the penitentiary sentence to which his plea subjected him.
+
+[1]  La.Code Crim.Pro. art. 843:
+
+"In felony cases, and on motion of the court, the state, or the defendant in misdemeanor cases tried in a district, parish, or city court, the clerk or court stenographer shall record all of the proceedings, including the examination of prospective jurors, the testimony of witnesses, statements, rulings, orders, and charges by the court, and objections, questions, statements, and arguments of counsel."

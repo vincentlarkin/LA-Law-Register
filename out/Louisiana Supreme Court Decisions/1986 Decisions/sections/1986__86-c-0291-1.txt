@@ -1,0 +1,233 @@
+86-C-0291
+Williams Engineering, Inc. v. Goodyear
+https://law.justia.com/cases/louisiana/supreme-court/1986/86-c-0291-1.html
+
+86-C-0291
+Williams Engineering, Inc. v. Goodyear
+Court: Louisiana Supreme Court
+Release date: 1986-10-20
+Author: WATSON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/86-c-0291-1.html
+
+496 So. 2d 1012 (1986)
+
+WILLIAMS ENGINEERING, INC.
+v.
+David GOODYEAR, Andrew Goodyear, Bart LaRocca, John Leyens and Frank Friedler, Jr.
+
+No. 86-C-0291.
+
+Supreme Court of Louisiana.
+
+October 20, 1986.
+
+Rehearing Denied November 13, 1986.
+
+Robert E. Leake, Jr., Lawrence Mann, Hammett, Leake & Hammett, for applicant.
+
+Russ M. Herman, Steven J. Lane, Herman, Herman, for respondent.
+
+WATSON, Justice.
+
+In this dispute over engineering services, both plaintiff, Williams Engineering, Inc.,[1] and plaintiffs-in-reconvention, the owners of the project,[2] claim breach of a contract to construct a water slide. Williams, the engineer, attempted to collect professional fees of $33,641 and plaintiffs-in reconvention, the owners, asserted that Williams'   nonfeasance and malfeasance caused them damages of $409,669.[3]
+
+After eight days of trial, a jury concluded that both sides breached the contract, but that Williams was not in bad faith.[4] Leaving aside the court costs and expert witness fees, the owners recovered a differential of $74,200 in damages for Williams' breach of the contract.[5]
+
+The court of appeal[6] reversed the jury's award to Williams on the ground that the engineer was not entitled to any further compensation and increased the quantum awarded the owners to the sum of $204,928.[7] A writ was granted to review the judgment.[8]
+
+The questions are:
+
+(1) whether a professional engineer breached his contract of employment by failing to: (a) notify the owners until after completion of a "cost-plus" project that the price had more than doubled; (b) give the owners other alternatives; or (c) re-estimate the cost; and
+
+(2) the measure of damages.
+
+From the evidence, the jury could reasonably have concluded that the following facts were established: The Goodyear group of investors contacted Southbend Construction Company about building a recreational facility, a water slide. Southbend advised the leading member of the group, David Goodyear,[9] that engineering services were necessary for the project and recommended Williams Engineering. After a meeting with Williams in December of 1978, and receipt of Williams' proposed contract, the investors decided to proceed and leased a tract of property for three years on January 10, 1979. The group executed Williams' contract on January 19, 1979. It was his personal form contract and more detailed than the standard contract for engineering services.
+
+To implement the project, the investors met with Williams again on February 8, 1979. The investing group had two concerns: (1) the cost of the project; and (2) the feasibility of opening for business before the summer of 1979. Williams gave a preliminary estimate of $409,300 but advised the Goodyear group that it was impossible to have completion by summer on a bid basis. He advised the investors that a "fast track" method, which had concurrent design and construction, was the only feasible way to implement the project. Williams suggested that Southbend be the cost-plus contractor, an understandable reciprocity. Williams advised the owners that Southbend was an honest nonunion contractor on which they could rely. Because Southbend did not pay union scale, there would be a labor economy on the project and the fast track method would also allow   advance purchase of materials at uninflated prices. Williams then prepared a cost-plus contract between the owners and Southbend which was executed by the parties the first week in March.
+
+The design phase of the contract was completed on April 18, 1979. During the design and construction, Williams rendered monthly invoices to the owners for his fees which were based on a percentage of the cost of construction. During the period of construction, Williams continued to bill the owners based on a projected construction cost of $409,300. This sum included a ten percent contingency fund.
+
+Because of prior information about the possible cost of a water slide, the principal movers in the project, Goodyear and Bart LaRocca, thought Williams' figure was high and hoped that the final construction cost would be less than his estimate. Various savings during construction and Williams' assurance that he had over-estimated many items encouraged this thought.[10] The owners' naivete' is perhaps understandable in a group which signed both engineering and construction contracts without maximums, in which the engineer and the contractor would profit by a percentage of the completion figure.[11]
+
+During the course of construction, Williams sent the owners a monthly invoice showing the total cost as $409,300. On August 1, 1979, three days before the slide opened, Williams' bill showed the cost as $409,300; the facility 85% complete; and, the balance of his fee as $2,528.20. Williams issued a Certificate of Substantial   Completion to the contractor on August 4, 1979, and the waterslide opened for business. Twenty days later, the owners were billed for construction costs of $888,688 covering 81.8% completion, a sum more than double Williams' original estimate. Williams claimed an additional fee of $28,628.[12] Williams later billed the owners on January 1, 1983, for an additional fee of $36,144 based on the projected cost of the project, if completed as designed, which was estimated by an expert at $988,985. The owners paid $824,000 for the facility. According to Williams' expert Ewing, the water slide, as constructed, should have cost only $645,593.
+
+There was expert testimony that Williams was not entitled to any further fees because he had breached the contract. His failure to: look at other water slides; employ a professional estimator; make full disclosure to the owners of other contract possibilities, such as a fixed fee contract or a contract with a maximum exposure; and his failure to furnish revised cost estimates during the period of construction resulted in damages to the owners.
+
+The water slide was a financial failure; the owners lost their lease and had to pay to have the slide removed. Although the basic reason for the loss was lack of customers, the delayed opening and elimination of a covering or skin on the mountain were negative factors.
+
+It is well settled that a written contract is the law between the parties. LSA-C.C. art. 1901.[13] Pertinent portions of Williams' service contract are as follows:
+
+This contract specifically provided that it could only be modified in writing. LSA-C.C. art. 1934 gives the measure of damage for breach of contract.[14] These owners do not claim the profit of which they have been deprived but only the loss sustained from the doubling of the construction price.
+
+In Moossy v. Huckabay Hospital, Inc.,
+283 So. 2d 699
+(La., 1973), there was a contract for architectural services with no limit on the cost of construction. The architect was awarded a percentage fee on the basis of the last estimated project cost, but, since the facility was not constructed, the architect was found not entitled to a percentage of the lowest bid.
+
+Rosenthal v. Gauthier, 224 La. 341,
+69 So. 2d 367
+(1953) involved a standard architectural contract which did not have a cost limitation. There was conflicting testimony about whether the architect had   carte blanche on the costs. On the basis of parole evidence about the parties' intentions, the architect's suit for his fee was dismissed. Rosenthal is in accord with other jurisdictions,[15] which regard contracts without cost limitations as incomplete and allow parole testimony to supply the omission. See, for example, Keene v. Farris, 67 S.W.2d 526 (Mo.App., 1934); Svarz v. Dunlap, 134 Wash. 555, 235 P. 801 (1925); Hite v. Aydlett, 192 N.C. 166, 134 S.E. 419 (1926); Petrus v. Bunnell, 129 So. 2d 702 (Fla.App., 1961); and Spitz v. Brickhouse, 3 Ill.App.2d 536, 123 N.E.2d 117 (1954).
+
+It is generally recognized that an architect or engineer has an affirmative duty to give a definite idea of the reasonable cost of a project. Zannoth v. Booth Radio Stations, 333 Mich. 233,
+52 N.W.2d 678
+(1952); Durand Associates, Inc. v. Guardian Investment Co., 186 Neb. 349,
+183 N.W.2d 246
+(1971). In the Durand case, an unreasonably low estimate of costs was held to be a breach of the contract.[16] In Durand, as in Moossy, the project was not completed because the bids submitted were too high.
+
+In many instances, excessive costs are the fault of the owner and the architect is not penalized. See, for example, Pieri v. Rosebrook,
+128 Cal. App. 2d 250
+, 275 P.2d 67 (1954).
+
+Zannoth, supra, held that the absence of a written cost limitation does not relieve the architect of responsibility for staying within an owner's means. Exceeding the cost limitation is a breach of contract because the architect is bound to make full disclosure of all matters which his principal should know. See Edward Barron Estate Co. v. Woodruff, 163 Cal. 561, 126 P. 351, 42 L.R.A., N.S. 125 (1912); Jones v. J.H. Hiser Constr. Co., 60 Md.App. 671,
+484 A.2d 302
+(1984); and Kellogg v. Pizza Oven, Inc., 157 Colo. 295,
+402 P.2d 633
+(1965).
+
+Kaufman v. Leard, 356 Mass. 163,
+248 N.E.2d 480
+(1969) involved an architect who ordered and directed work in excess of his client's budget resulting in a much more expensive house. The architect was allowed his fee but was held responsible for the proven excess costs (adjusted for a reasonable margin of error).
+
+In Kostohryz v. McGuire, 298 Minn. 513,
+212 N.W.2d 850
+(1973), the court relied on Durand to hold that an estimate which was too low by one-half established, without expert testimony, a breach of the architect's contractual duty to render a reasonably accurate statement of probable construction costs. The measure of damages was the difference between the cost of the property and its market value.
+
+In Kellogg v. Pizza Oven, Inc., 157 Colo. 295,
+402 P.2d 633
+(1965), damages for the owners were fixed at the difference between the architect's estimated costs and a building's actual costs, less a ten percent contingency and the price of alterations in the plans.
+
+The vigorous contention of Williams and the amicus curiae is that Williams did not guarantee the cost of the project and cannot be cast in damages for the overrun on costs. However, there was expert testimony that Williams breached the contract, not by giving an inaccurate initial estimate, but by failing to employ a professional estimater, failing to look at other water slides, failing to advise the owners about other contractual possibilities, and failing to provide revised cost estimates. The   owners, while admitting a somewhat blind faith in Williams, argue that they could have modified the design of the project or given it up entirely if they had been fully apprised of what their exposure might be.[17]
+
+Aside from his failure to make complete and reliable disclosure to these owners of their construction options, it is clear that Williams breached the contract by failing to re-estimate the cost during the course of construction. The breach caused the resulting damages to the owners. The owners were completely unaware that the cost had escalated and received this rude advice almost a month after the facility opened. Contrary to Williams' contention that the written contract was abrogated by the cost-plus, fast track contract, the owners were more in need of reliable estimates of construction costs under that contract than they would have been if bids had been received. Had bids been received, the architect's responsibility for estimating costs would have ended when he completed his design and bids were submitted. In this instance, the design and construction phases were pursued simultaneously and the engineer had an on-going responsibility to keep the owners advised of the costs.
+
+Any doubt about the meaning of the contract must be considered in light of the fact that Williams, the engineering professional who drafted the instrument, was dealing with lay persons.[18] The contract clearly envisions revised opinions of costs as warranted.[19] Such revisions were needed here, if only as a "guide". As of August 1, 1979, Williams still showed the net construction cost of the project as $409,300.[20]
+
+By advising the owners that certain items were under his estimate, Williams lulled the owners into a false sense of financial security. Then on August 24, 1979, twenty days after completion of the project, the net construction costs escalated, without any warning by the advising engineer, to $888,688, more than twice the estimate of August first.[21] Williams breached the contract in failing to provide revised estimates of costs and is not entitled to any further fee.
+
+This exact factual situation has not been presented before in Louisiana. It is unreasonable to think that the owners were indifferent to the final cost of this project. There is no evidence that they were responsible for the overrun of over 100%. On the contrary, it appears that they placed immense faith in Williams and the contractor and were lulled into a false sense of security by the invoices which Williams submitted.
+
+Although the jury did not find bad faith, there is certainly an element of misrepresentation in the engineer's failure to reveal even an approximation of the true cost of the project until after construction was completed.
+
+It is impossible to offset the market value of the project against the excess cost because the structure became worthless long before the architect's final bill was submitted to the owners.
+
+There is no factual basis for the jury's award of damages and the court of appeal   correctly amended that award to reflect the actual damages sustained by the owners.
+
+For the foregoing reasons, the judgment of the court of appeal is affirmed.
+
+AFFIRMED.
+
+LEMMON, J., concurs.
+
+[1]  Williams Engineering, Inc., is insured for $100,000 by American Motorists Insurance Company, defendant-in-reconvention.
+
+[2]  The engineering service contract was entered into with Williams by David Goodyear, Andrew Goodyear and Bart LaRocca. A partnership was then formed with those three individuals, Jon F. Leyens and Frank Friedler, Jr. Part of the interest of Andrew Goodyear and David Goodyear was then assigned to Mary Glenn, Charles Goodyear, III, and Walter Flowers, III. The partnership known as Water Maze, Ltd., a/k/a Watermaze, Ltd., subsequently transferred its interest to a Louisiana Subschapter S corporation, Waterslide, Inc., which was owned in the following percentages: Bart LaRocca, 16.67%; Leyens' family, 16.67%; Frank Friedler, Jr., 16.67%; David Goodyear, 18.38%; Andrew Goodyear, 13.55%; Mary Glenn, 10.795%; Charles Goodyear, III, 4.065%; Walter Flowers, III, 3.21%. Jon F. Leyens died and his surviving spouse, Ann L. Leyens, was placed in possession of an 8.325% interest: his two children, through the Jon F. Leyens, Jr., community trust and the Andrew Leyens community trust, each have a 4.1625% interest. After the initial suit was filed, there was a substitution of parties to reflect the percentage ownership of Waterslide, Inc., a corporation which was dissolved on April 18, 1983. [Goodyear-38]
+
+[3]  The "Fifth Amended and Reconventional Demand" asked damages of $633,858. During trial, plaintiffs-in-reconvention abandoned claims totaling approximately $224,189.
+
+[4]  In answers to interrogatories, the jury unanimously found that Williams and the Goodyear water slide group entered into a written contract. By a vote of eleven to one, the jury found that Williams was entitled to be paid an additional professional fee, which was fixed by a 12-0 vote at $25,000, plus attorney's fees of $23,000. In a nine to three vote, the jury concluded that Williams had breached the contract and Goodyear should have damages of $125,000. The jury unanimously found no bad faith on the part of Williams.
+
+[5]  Plaintiff Williams was awarded $25,000 in professional fees; $23,000 attorney's fees; $2,800 in "litigations costs"; plaintiff's court costs"; and expert witness fees of $5,925. Plaintiffs-in-reconvention were awarded damages of $125,000; expert witness fees of $3,000; and their costs. The liability of American Motorists Insurance Company was restricted to its $100,000 policy limit. The costs of trial by jury were equally divided.
+
+[6]  Williams Engineering, Inc. v. Goodyear, 480 So. 2d 772 (La.App. 5 Cir., 1985).
+
+[7]  The owners also recovered stipulated costs of $15,000. The costs of appeal were divided.
+
+[8]  488 So. 2d 190 (La., 1986).
+
+[9]  Hereafter Goodyear.
+
+[10]  23, 1979
+"Southbend Contractors, Inc.
+P. O. Box 23353
+New Orleans, LA 70183               Attn:   Mr. James B. Graham
+                                            President
+                                    Subj:  Water Maze, Ltd.
+                                           Water Slide Facility
+                                           Metairie, LA.
+                                           Proj:   7901
+Gentlemen:
+This is to confirm your report to me today that you have received the following quotations on
+steel furnishing and erection:
+(1) Perez Fabricators  - $34,068 Incl. Tax
+(2) Victory Iron Works - $31,102 Incl. Tax
+In accordance with authorization given to me today by Mr. David Goodyear, you are
+requested to make an immediate award to Victory Iron Works to enable the earliest
+fabrication completion date. Actual steel erection cannot commence until the issuance of a
+permit by Parish authorities unless you are given specific written authorization by this office
+or the Owner to the contrary.
+                                                 Respectfully,
+                                                 WILLIAMS ENGINEERING, INC.
+                                                /s/ ROBERT M. WILLIAMS, P.E.
+                                                 President
+RMW:nn
+cc: Mr. David Goodyear
+Mr. Bart LaRocca
+P.S.: My estimate for this portion of the work was a little over $36,000. (I am not
+sure we should dare bank on this relationship for all of the portions of the
+work)."  [Goodyear Exhibit 12]
+
+[11]  "There seems to be no reported case in which an architect is alleged to have over-estimated the cost of a building project. Indeed, no case reveals that an architect has correctly estimated the cost of a project although tradition assures that this does occur." James Acret, Architects and Engineers, 84 (2d Ed.1983).
+
+[12]  Williams is in the anomalous position of claiming on the one hand that he is entitled to an additional fee on the basis of the written contract but that the owners are not entitled to the benefit of any of the other contractual provisions because they were allegedly abrogated by the cost-plus construction contract.
+
+[13]  In 1979, LSA-C.C. art. 1901 provided:
+
+"Agreements legally entered into have the effect of laws on those who have formed them.
+
+"They can not be revoked, unless by mutual consent of the parties, or for causes acknowledged by law.
+
+"They must be performed with good faith." The current article, LSA-C.C. art. 1983, reads as follows:
+
+"Contracts have the effect of law for the parties and may be dissolved only through the consent of the parties or on grounds provided by law. Contracts must be performed in good faith."
+
+[14]  In 1979, LSA-C.C. art. 1934 provided:
+
+"Where the object of the contract is any thing but the payment of money, the damages due to the creditor for its breach are the amount of the loss he has sustained, and the profit of which he has been deprived, under the following exceptions and modifications:
+
+"1. When the debtor has been guilty of no fraud or bad faith, he is liable only for such damages as were contemplated, or may reasonably be supposed to have entered into the contemplation of the parties at the time of the contract. By bad faith in this and the next rule, is not meant the mere breach of faith in not complying with the contract, but a designed breach of it from some motive of interest or ill will.
+
+"2. When the inexecution of the contract has proceeded from fraud or bad faith, the debtor shall not only be liable to such damages as were, or might have been foreseen at the time of making the contract, but also to such as are the immediate and direct consequence of the breach of that contract; but even when there is fraud, the damages can not exceed this.
+
+"3. Although the general rule is, that damages are the amount of the loss the creditor has sustained, or of the gain or which he has been deprived, yet there are cases in which damages may be assessed without calculating altogether on the pecuniary loss, or the privation of pecuniary gain to the party. Where the contract has for its object the gratification of some intellectual enjoyment, whether in religion, morality or taste, or some convenience or other legal gratification, although these are not appreciated in money by the parties, yet damages are due for their breach; a contract for a religious or charitable foundation, a promise of marriage, or an engagement for a work of some of the fine arts, are objects and examples of this rule.
+
+"In the assessment of damages under this rule, as well as in cases of offenses, quasi offenses, and quasi contracts, much discretion must be left to the judge or jury, while in other cases they have none, but are bound to give such damages under the above rules as will fully indemnify the creditor, whenever the contract has been broken by the fault, negligence, fraud or bad faith of the debtor.
+
+"4. If the creditor be guilty of any bad faith, which retards or prevents the execution of the contract, or if, at the time of making it, he knew of any facts that must prevent or delay its performance, and concealed them from the debtor, he is not entitled to damages.
+
+"5. Where the parties, by their contract, have determined the sum that shall be paid as damages for its breach, the creditor must recover that sum, but is not entitled to more. But when the contract is executed in part, the damages agreed on by the parties may be reduced to the loss really suffered, and the gain of which the party has been deprived, unless there has been an express agreement that the sum fixed by the contract shall be paid, even on a partial breach of the agreement."
+
+[15]  In 1979, LSA-C.C. art. 1953 provided:
+
+"Whatever is ambiguous is determined according to the usage of the country where the contract is made."
+
+[16]  "[A]n architect or engineer may breach his contract for architectural services by underestimating the construction costs of a proposed structure.... the cost of construction must reasonably approach that stated in the estimate unless the owner orders changes which increase the cost of construction. It is ordinarily for a jury to say whether the actual cost is within a reasonable range of the estimated costs unless, as here, the excess is so great that the court can deal with it as a matter of law." Durand, supra,
+183 N.W.2d 246
+at 251.
+
+[17]  "When we mean to build,
+
+We first survey the plot, then draw the model; And we see the figure of the house,
+
+Then must we wait the cost of the erection; Which if we find outweighs ability,
+
+What do we then but draw anew the model In few offices or at last desist To build at all?"
+
+Shakespeare, King Henry IV, pt 2, Act 1, Scene 3.
+
+[18]  In 1979, LSA-C.C. art. 1957 provided:
+
+"In a doubtful case the agreement is interpreted against him who has contracted the obligation."
+
+[19]  "Their accuracy will ... vary."
+
+[20]  "NET CONSTRUCTION COST: $409,300(1)
+
+* * * * * *
+
+"(1) Subject to adjustment after determination of final `Net Construction Cost'." (Exhibit P-12 and G-29)
+
+[21]  "PROJECTED `NET CONSTRUCTION COST': $888,688(1)
+
+* * * * * *
+
+"(1) Subject to adjustment after determination of final `Net Construction Cost'." (Exhibit P-12 and G-30)

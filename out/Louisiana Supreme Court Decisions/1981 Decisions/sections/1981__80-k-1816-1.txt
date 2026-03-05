@@ -1,0 +1,72 @@
+80-K-1816
+State v. Taylor
+https://law.justia.com/cases/louisiana/supreme-court/1981/80-k-1816-1.html
+
+80-K-1816
+State v. Taylor
+Court: Louisiana Supreme Court
+Release date: 1981-04-06
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1981/80-k-1816-1.html
+
+396 So. 2d 1278 (1981)
+
+STATE of Louisiana
+v.
+Gardner TAYLOR
+
+No. 80-K-1816.
+
+Supreme Court of Louisiana.
+
+April 6, 1981.
+
+*1279 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise S. Korns, Shelia C.
+
+Myers, and John Craft, Asst. Dist. Attys., for plaintiff-appellant.
+
+Alvin N. Taylor, New Orleans, for defendant-appellee.
+
+BLANCHE, Justice.[*]
+
+Gardner Taylor was charged with the crime of obliterating a serial number from a firearm in violation of R.S. 40:1788. The defendant filed a motion to quash the bill of information alleging that language contained in the statute imports an unconstitutional presumption. The trial court agreed and granted the motion. From this ruling, the state has appealed. La.Const. art. 5, § 5(D) 1974.
+
+The statute in question reads as follows:
+
+At issue in this case is whether the second sentence of Section B, authorizing conviction upon mere proof of possession of a firearm with an obliterated serial number, relieves the state of establishing beyond a reasonable doubt the accused's guilt for the act of obliterating. La.Const. art. 1, § 16; U.S.Const. Amend. 14; In Re Winship,
+397 U.S. 358
+, 90 S. Ct. 1068, 25 L. Ed. 2d 368 (1970). We hold that it does.
+
+Two of the most fundamental features of our criminal justice system are the presumption of innocence and the requirement   that the state prove each element of a crime beyond a reasonable doubt. Of course, proving the elements of the crime with evidentiary or "basic" facts often calls for the trier of fact to make an inferential "leap" between the facts presented to it and the element of the crime that must be proven. In order to facilitate this inferential leap, the legislature has, on occasion, passed legislation which provides that proof of an evidentiary fact can or must be construed as proof of an element of a crime. The effect of such legislation is the creation of a presumption that flows from the established evidentiary fact. See County Court of Ulster County v. Allen,
+442 U.S. 140
+, 99 S. Ct. 2213, 60 L. Ed. 2d 777 (1979).
+
+The constitutionality of a statutory presumption in a criminal statute depends "... on the strength of the connection between the particular basic and elemental facts involved and on the degree to which the device curtails the factfinder's freedom to assess the evidence independently." Ulster County, supra, 99 S. Ct.  at 2224. Where a statute provides that proof of an evidentiary fact necessarily constitutes proof of an element of the crime, the statute creates a mandatory presumption that proof of the former is deemed proof of the latter.
+
+In order for a mandatory presumption to adequately safeguard the "beyond a reasonable doubt" standard, the evidentiary fact must be sufficient to prove the elemental fact beyond a reasonable doubt because the factfinder is denied any discretion to assign its own weight to the proven evidentiary fact. Ulster County, supra; State v. McCoy,
+395 So. 2d 319
+(La.1980); State v. Lollar,
+389 So. 2d 1315
+(La.1980); State v. Daranda,
+388 So. 2d 759
+(La.1980). If the mandatory presumption required by the statute does not meet this standard, the provision is constitutionally defective. To hold otherwise would sanction a shift of the burden of proof to the defendant by elevating proof of an evidentiary fact not constituting proof of an element of the crime beyond a reasonable doubt to the status of proof beyond a reasonable doubt. The defendant would be faced with either risking conviction upon proof of guilt not meeting the reasonable doubt test or is forced to go forward with evidence that he is not guilty in the absence of proof of guilt beyond a reasonable doubt.
+
+In State v. McCoy, supra, this Court considered these principles in analyzing the propriety of a presumption contained in a statute that proscribed the taking or misappropriation of defined utility services without the consent of and with the intent to defraud the utility supplier. R.S. 14:67.6. The provision under attack provided that the presence of equipment or devices resulting in the diversion of the defined utility "... shall constitute prima facie evidence of knowledge of the person ... having custody or control of the ... structure ... where such device ... is located, ... and shall constitute prima facie evidence of the intention on the part of such person ... to defraud ...". R.S. 14:67.6(B). Because the statute expressly provided that proof of the evidentiary fact of diversion must be considered as proof of the elements of knowledge and specific intent to defraud, we held that it created a mandatory presumption. Ultimately the presumption was struck down as unconstitutional since it could not be said that "guilty knowledge" and "intent to defraud" were established beyond a reasonable doubt by a mere showing that diversion occurred to the defendant's benefit. This was because there were "too many other explanations" for diversion than criminality on the part of the beneficiary. McCoy, supra, at p. 323.
+
+From the foregoing, it is clear that R.S. 40:1788(B) is equally susceptible to the same analysis as the presumption at issue in McCoy. The provision clearly prescribes the act of obliterating or altering a serial number, not mere possession of a firearm with an obliterated or altered serial number. State v. Burton, 382 So. 2d 938 (La. 1980). By its own terms, it instructs the trier of fact that proof of possession is sufficient proof of obliteration unless the defendant comes forward with an exculpatory explanation. Because the statute equates possession and obliteration, it requires conviction upon a showing by the state that a defendant possessed a "defaced"   weapon at any time unless, of course, the defendant establishes his innocence. And since obliteration is the essence of the crime, possession of an unmarked firearm is deemed proof of guilt of the substantive offense rather than proof of a mere element. Thus, it creates a mandatory presumption since it totally curtails the factfinder's ability to assign a particular weight to proof of possession. It must, therefore, stand or fall on the basis of the connexity between the basic and elemental facts.
+
+The obliteration of a serial number from a firearm cannot be inferred, beyond a reasonable doubt, from a defendant's status as a past or present possessor of a firearm with an obliterated serial number. This is because firearms are easily transferred in this as well as other states and there is always the substantial possibility that the person in possession of the offending firearm received it from a third person who was the obliterator or transferee of an obliterator, or that the weapon was altered after it left a possessor's hands.
+
+For the reason that the second sentence of R.S. 14:1788(B) establishes a mandatory presumption that does not meet the "beyond a reasonable doubt" standard, it literally throws the burden upon a defendant to establish his innocence once the prosecution proves the evidentiary fact of possession. Therefore, it is unconstitutional.
+
+The unconstitutionality of one portion of a statute, however, does not necessarily render the entire statute unenforceable. If the remaining portion of the statute is severable from the offending portion, this Court often strikes only the offending portion and leaves the remainder intact. State v. McCoy, supra; State v. Brown,
+389 So. 2d 48
+(La.1980). We find in the present case that the remainder of the statute can stand.
+
+In the first place, the legislature provided a severability clause in the original enactment of the statute in question which provides that the invalidity of any portion of the act shall not affect the validity of the other portions. Acts 1935, 4th Ex.Sess., No. 17, § 15. Second, the remaining portions of 1788 have meaning and can still accomplish the purpose the legislature sought to accomplish even without the aid of the unconstitutional presumption. The marking requirement of § 1788(A), not at issue here, is totally unaffected and obliteration or alteration proscribed by § 1788(B) can still be proven in the same manner any other crime may be proven even without the aid of a presumption.
+
+Although we have declared the second sentence of R.S. 40:1788(B) unconstitutional, the trial court erred in quashing the information against defendant. Because the offensive provision can be severed from the remainder of the statute, the defendant may still be charged with the crime of obliterating a serial number. Thus, we remand this case to the trial court for further proceedings consistent with the views expressed herein.
+
+REVERSED AND REMANDED.
+
+[*]  Judges Grover L. Covington, Remy Chiasson and Elmo E. Lear of the Court of Appeal, First Circuit, participated in this decision as Associate Justices Ad Hoc, joined by Associate Justices Calogero, Marcus, Dennis and Blanche.

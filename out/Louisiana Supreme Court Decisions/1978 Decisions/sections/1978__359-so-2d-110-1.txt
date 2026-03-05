@@ -1,0 +1,95 @@
+61120
+State v. Baker
+https://law.justia.com/cases/louisiana/supreme-court/1978/359-so-2d-110-1.html
+
+61120
+State v. Baker
+Court: Louisiana Supreme Court
+Release date: 1978-05-22
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/359-so-2d-110-1.html
+
+359 So. 2d 110 (1978)
+
+STATE of Louisiana
+v.
+Jacob BAKER.
+
+No. 61120.
+
+Supreme Court of Louisiana.
+
+May 22, 1978.
+
+Rehearing Denied June 15, 1978.
+
+*111 Billy H. Ezell, Levingston, Tynes, Liles & Ezell, Lake Charles, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Frank T. Salter, Jr., Dist. Atty., Adam L. Ortego, Jr., Asst. Dist. Atty., for plaintiff-appellee.
+
+CALOGERO, Justice.
+
+Defendant Jacob Baker was convicted of violating Revised Statute 14:71 by issuing eleven worthless checks in the aggregate amount of $627.38. He was sentenced to ten years at hard labor in the custody of the Department of Corrections. On appeal he urges three assignments of error for reversal of his conviction.[1]
+
+Defendant urges that the trial judge wrongly refused to grant his motion to quash based on the allegation that the section of R.S. 14:71 under which he was prosecuted was unconstitutionally vague.
+
+Revised Statute 14:71 provides in full that:
+
+Defendant argues that the part of the act which allows the state to aggregate amounts of checks in order to determine the grade of the offense is unconstitutionally vague because it is uncertain in meaning and allows for arbitrary enforcement and unreasonable application, all in violation of his state and federal guarantee of due process of law. Defendant forcefully argues that the aggregation provision puts too much discretion in the hands of the state which can change the grade of the offense by the manner in which it aggregates the worthless checks. The state's arbitrary decisions as to aggregation can transform a series of misdemeanors into a single felony, or multiple felonies, affecting the mode of trial, range of punishments and applicable prescription periods.
+
+*112 The state counters defendant's arguments by relying on the language of the aggregation provision which is that "When the offender has issued two or more worthless checks, the aggregate amount of the worthless checks shall determine the grade of the offense." The fact that the legislature used the word "shall" in the provision, the state urges, means that the state is required to aggregate the check amounts when an offender has written more than one worthless check. The state's position is that it has no discretion as to aggregation. That position is severely undercut by the state's actions in this very case. Asserting in brief that defendant was originally charged with issuing over fifty worthless checks, the state takes the position that it elected to consolidate those fifty charges into four bills of information.
+
+The bill of information for which defendant has been tried and is now an appeal charges eleven worthless checks in an aggregate amount of $627.38 written between December 31, 1975 and January 15, 1976. The checks were issued in varying amounts ranging from $50.00 to $97.38 to three different business establishments. Another information, referred to here as the "second" information although it was filed the same day, charges eleven worthless checks in an aggregate amount of $502.45 written between December 31, 1975 and March 27, 1976. The checks were issued in amounts varying from $19.95 to $96.33 to five different business establishments. The "third" information, filed the same day as the others, charges twelve worthless checks amounting to $651.49 during the same time period, December 23, 1975 to January 15, 1976. The amounts vary from $9.68 to $75.60 and the payees are ten different business establishments. The "fourth" information charges thirteen bad checks amounting to $562.50 during the same time period December 23,1975 to January 15,1976. The checks range in amount from $14.17 to $91.76 and were written to six business establishments. Four months later the state filed a fifth information against defendant Baker for issuing $343.05 worth of checks to seven businesses between January 10, 1976 and April 3, 1976.
+
+We make this rather detailed digression to illustrate several points which we deem important to resolution of the issue in the case. First we note the state divided forty-seven checks which were all written between December 23, 1975 and March 27, 1976 into" four separate bills of information. The bills were not divided into rational time segments (such as by months) because all four bills include the period December 31, 1975 to January 15, 1976. Nor were the bills divided by payee: for example, bills one, two and four contain checks written to George Theriot's; bills one and four reflect checks written to Kroger's; bills three and five contain checks written to Wizard Enterprises, etc. And, of course the state did not aggregate all the bad checks that it might have charged against defendant into one prosecution, but rather opted to charge the crimes in four groups each totalling over $500.00 (and a fifth group totalling over $100.00) thereby exposing defendant to four ten year sentences and one two year sentence. In short, the state divided fifty-nine checks into five groups in an arbitrary manner and aggregated the sums of those checks into five different felony charges. Clearly the state's action was not based on the language of the statute which it now claims is mandatory because if that were so all fifty-nine checks would have been aggregated into one crime, causing defendant to be exposed to only one ten year prison term.
+
+Having noted that the state did not act in this case as if it were bound by the "clear mandatory provisions" of the statute, we turn to an examination of the statute itself in light of defendant Baker's claim that it is unconstitutional.
+
+The eleven checks in the first information which alone is here on appeal are seven checks for $50.00, three checks for $60.00, and one check for $97.38. If the checks could not be aggregated, the crimes would have been separate misdemeanors since no   single check was for $100.00 or more.[2] Had the checks not been totalled, one year prescription on commencement of trial would have applied and the offense grade of each charge would have been a misdemeanor, carrying a maximum punishment of six months in parish prison and a fine of $500.00. See C.Cr.P. art. 578. It was on the strength of the aggregation provision that the state chose to charge him with five felonies. Defendant Baker argues that the statute is unconstitutionally vague.
+
+The rule that a criminal statute must fall if it is vague requires that the statutory language convey a sufficiently definite warning of the proscribed conduct that the public and law enforcement officials will be put on notice as to its meaning. A statute may not be so vague and indefinite as to be impossible of reasonable, fair and uniform operation. See Schwegmann Brothers Giant Supermarkets v. McCrory, 237 La. 768,
+112 So. 2d 606
+(1959). If the language is so vague that men of common intelligence must necessarily guess at its meaning and differ as to its application, then the statute violates due process. Lanzetta v. New Jersey,
+306 U.S. 451
+, 59 S. Ct. 618, 83 L. Ed. 888 (1939); Connally v. General Construction Co.,
+269 U.S. 385
+(1926); Connick v. Lucky Pierre's,
+331 So. 2d 431
+(La.1976); State v. Dardar, 257 La. 191,
+241 So. 2d 905
+(1970). That portion of a statute which pertains to the grade of an offense and defines the crime may be so vague that it offends due process. See United States v. Evans,
+333 U.S. 483
+, 68 S. Ct. 634, 92 L. Ed. 823 (1948); State v. Billiot, 254 La. 988,
+229 So. 2d 72
+(1969).
+
+The provision in question was added to the worthless check statute in 1972. Before that time Louisiana, like most other states, did not allow the totalling or aggregating of the amounts of multiple worthless checks. Acts 1914, No. 209, §§ 1, 2; Acts 1952, No. 433, § 1; Acts 1954, No. 442, § 1; Acts 1956, No. 156, § 1. After Louisiana added the aggregation provision it was apparently one of only a few states which allowed a totalling of amounts to determine the grade of the offense. See 38 Missouri L.R. 432, 445-46 (1973). Of those states, Alabama has since amended its statute to excise the aggregation provision, see Ala. Stat. Tit. 13A, § 13 A-9-13 (1975); Oklahoma allows aggregation of only those checks which were written "in pursuance of a common scheme or plan to cheat and defraud," Okla.Stat.Ann. Tit. 21, § 1541.3; Minnesota allows aggregation only when the transactions occurred within a six-month period, Minn.St. 609.52, subd. 2(3)(a); Utah repealed its aggregation provision in 1973, see Laws 1973, Ch. 196, § 76-10-1401; and the New Mexico totalling provision was struck down as unconstitutionally vague, see State v. Ferris, 80 N.M. 663,
+459 P.2d 462
+(Ct.App. 1969).
+
+In the Ferris case the court struck a totalling provision similar[3] to ours as unconstitutionally vague after making the following analysis:
+
+We believe that a similar analysis can be made regarding uncertainty and arbitrariness under the Louisiana statute. First, the Louisiana statute, unlike some other states' aggregation provisions, sets no time period within which the crimes must have been committed to be available for aggregation. If two bad checks are written eleven months apart, can or must they be coupled? What is the cutoff period? Is it to be one month, three months, six months, a year? What about a defendant who writes additional bad checks after arrest but before trial? Does arrest separate offenses so that the new offense remains a separate offense or must the state amend its charge to include the new offense? Second, under R.S. 14:71 a single worthless check represents a crime for which a person may be prosecuted. When a person has written three checks in the amounts of $110, $95, and $10 can he be charged only with the felony of writing three checks totaling $215, or can he be charged with two felonies, one for the $110 check and one for the two others? The mandatory "shall" would indicate that the state could not so charge, and yet it has done so in this case. Third, we are concerned with single and multiple punishments under the statute. If trial is had on all three checks, can the convicted defendant receive a punishment for each check according to its value or only one punishment for the total?
+
+This worthless check statute is not saved from uncertainty as is the theft provision which allows the grade of the offense to be determined by the aggregate taken, because the theft provision punishes "a misappropriation or taking by a number of distinct acts." R.S. 14:67. The crime of theft is one crime ("a misappropriation or taking") against a single victim through a series of separate actions. The legislature has made it one offense to pursue a certain course of conduct, viz., misappropriation of the property of another, even when that misappropriation takes place through a number of distinct acts. The legislature, however, has not by R.S. 14:71 made it one offense to issue worthless checks within a particular time frame, or against a single establishment, or with a common plan or scheme. Instead, the legislature has allowed aggregation of worthless checks by means of a statute which is so uncertain of application as to allow for arbitrary, nonuniform and unfair enforcement of the law and to require persons of common intelligence to guess at its meaning. Thus, the provision of R.S. 14:71 which states that "When the offender has issued two or more worthless checks, the aggregate of the amount of the worthless checks shall determine the grade of the offense" is so vague   that it offends due process as a matter of state law and is consequently declared void.
+
+We find that this sentence is severable from the remainder of the statute. The aggregation clause was added to the worthless check law by Acts 1972, No. 655. Before that amendment the act had operated simply to proscribe the issuance of worthless checks. There was no reference to aggregation of worthless checks. When the legislature added the aggregation section, it specifically declared the provisions severable. Because the act had existed so many years without an aggregation provision and because the act was specifically declared severable by the legislature, we have no difficulty in holding the aggregation provision severable from the rest of the statute.
+
+Thus, we hold that the portion of Revised Statute 14:71 which provides for aggregation of amounts of worthless checks is unconstitutionally vague. The remainder of the statute is unaffected by our decision herein. The effect of our declaration herein is to excise from the statute the sentence which provides for the aggregation of amounts and the references in the three penalty paragraphs to more than one check. Our decision does not affect the legality of the remainder of the statute and does not bar reprosecution of this defendant in accordance with law for issuance of the worthless checks at issue in this appeal.
+
+Accordingly, we grant defendant's motion to quash made on the basis that the aggregation provision of Revised Statute 14:71 is unconstitutionally vague. We reverse defendant's conviction and remand the case to the trial court for further proceedings not inconsistent with this opinion.
+
+REVERSED AND REMANDED.
+
+SANDERS, C. J., and SUMMERS and MARCUS, JJ., dissent.
+
+[1]  We find it unnecessary to consider the second and third assignments because of our resolution of assignment number one.
+
+[2]  No check charged in any of the other four informations was greater than the check for $97.38 charged in the first information.
+
+[3]  The New Mexico statute declared unconstitutional in Ferris provided as follows:
+
+"A. When the amount of the check, draft or order, or the total amount of the checks, drafts or orders, are for more than one dollar ($1.00) but less than twenty-five dollars ($25.00), imprisonment in the county jail for a term of not more than thirty days or a fine of not more than one hundred dollars ($100), or both such imprisonment and fine.
+
+"B. When the amount of the check, draft or order, or the total amount of the checks, drafts or orders, are for twenty-five dollars ($25.00) or more, imprisonment in the penitentiary for a term of not less than one year nor more than three years or the payment of a fine of not more than one thousand dollars ($1,000) or both such imprisonment and fine." N.M.Stat.Ann. §§ 40-49-1 to -9.

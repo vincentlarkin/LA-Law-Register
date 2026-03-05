@@ -1,0 +1,173 @@
+54820
+State v. Michelli
+https://law.justia.com/cases/louisiana/supreme-court/1974/301-so-2d-577-1.html
+
+54820
+State v. Michelli
+Court: Louisiana Supreme Court
+Release date: 1974-10-11
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1974/301-so-2d-577-1.html
+
+301 So. 2d 577 (1974)
+
+STATE of Louisiana
+v.
+John Boy MICHELLI.
+
+No. 54820.
+
+Supreme Court of Louisiana.
+
+October 11, 1974.
+
+*578 William E. Woodward, Clinton, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Leon A. Picou, Jr., Dist. Atty., W. Lee Overton, Asst. Dist. Atty., Cynthia Picou, Sp. Counsel to Dist. Atty., for plaintiff-appellee.
+
+DIXON, Justice.
+
+On December 6, 1973, under a bill of information, the defendant was tried and convicted of having committed the crime of burglary. R.S. 14:62. Subsequently, he was sentenced to serve nine years at hard labor. On appeal defendant has urged three bills of exceptions. We find Bill of Exceptions No. 3 to be meritorious.
+
+Bill of Exceptions No. 3
+
+During the presentation of the State's case in chief, Leon Ferguson, an admitted participant in the alleged burglary, was called to testify as a witness. Ferguson, the brother-in-law of the defendant, was not on trial. He refused to testify to any facts except to identify his signature on a statement which had been made in the presence of Alvin Dousay, a deputy sheriff, over a month after the crime had occurred. Ferguson did not invoke the protection of the Fifth Amendment of the United States Constitution or of Article I § 11 of the Louisiana Constitution of 1921; he refused to testify, saying, "because I hate to say anything." The State did not seek to require him to testify. There was no cross-examination of Ferguson.
+
+Dousay, the man to whom the statement had been made, was then called as a witness for the State. He identified the previous witness as Leon Ferguson and the statement which Ferguson admitted having made and signed. Dousay further attested to the fact that the statement had been made voluntarily, without coercion, and in conformity with the dictates of the Miranda decision. Then, over the timely objection of defendant, Dousay was permitted to read to the jury the statement of Ferguson which directly named the defendant as a participant in the burglary for which he was on trial. We find the objection based upon the lack of confrontation well taken.
+
+For almost one hundred years, it has been the law of this State that the confession or statement made by a confederate after the termination of the conspiracy may not be introduced or used at the separate trial of another to prove his guilt. The statement used in the instant case was hearsay. It was introduced for the purpose of asserting the truth of an out-of-court utterance in order to prove the guilt of the defendant. There was no basis upon which the statement could be admitted to prove the guilt of the defendant after Ferguson had refused to testify. Its introduction and unquestioned prejudicial effect on the defendant justify a reversal. See, e. g., State v. Murphy, 141 La. 313, 75 So. 64 (1917); State v. Johnson, 47 La.Ann. 1225, 17 So. 789 (1895); State v. Buchanan, 35 La.Ann. 89 (1883); State v. Carroll, 31 La.Ann. 860 (1879); State v. Jackson, 29 La.Ann. 354 (1877). For the federal rule, see Kruelwitch v. United States,
+336 U.S. 440
+, 69 S. Ct. 716, 93 L. Ed. 790 (1949); Mosely v. United States, 285 F.2d 226 (5th Cir. 1960).[1]
+
+Furthermore, we find the admission of the statement of Ferguson to have been in violation of the defendant's right of confrontation as guaranteed to him by Article I § 9 of the Louisiana Constitution of 1921. The right of confrontation guaranteed by the Sixth Amendment is applicable to the states under the Fourteenth Amendment.   Pointer v. Texas,
+380 U.S. 400
+, 85 S. Ct. 1065, 13 L. Ed. 2d 923 (1965).[2] There is hardly any question that the practice of trial by affidavit, as was partially attempted in this case, was a primary cause for the adoption of the Sixth Amendment[3] and its incorporation into Article I § 11 of the Louisiana Constitution of 1921, and its predecessors.[4] The action of the prosecution in the instant case is therefore prohibited by that provision of our Constitution. State v. Soukup,
+275 So. 2d 179
+(La.1973); State v. Washington, 261 La. 808, 261 So. 2d 224 (1972); State v. Hayden, 243 La. 793,
+147 So. 2d 392
+(1962); State v. Bussey, 162 La. 393, 110 So. 626 (1926).
+
+The State suggests in brief that we apply a "harmless error" rule because the record contains incriminating testimony of another confederate and a confession taken from defendant by an East Baton Rouge Parish detective which defendant had refused to sign. It is contended that this evidence independently establishes the guilt of the defendant regardless of any effect of the tainted evidence on the jury.
+
+"Harmless error" is a doctrine which permits an appellate court to affirm a conviction in spite of error appearing in the record. It has been called a "cop out" for appellate judgesan abdication of the judicial function in criminal appeals.
+
+One of the few methods available for enforcing legal and constitutional procedures in the system of criminal justice is the reversal of convictions by appellate courts for errors of law. The American experience, the experience of this court, in fact, is that nothing short of reversals of convictions is understood or heeded by trial judges, prosecutors and police. Warnings by this court that certain procedures are illegal are, in the absence of a reversal, often ignored or misconstrued. If there is no penalty for error in the apprehension   and prosecution of offenders, expediency seems to prompt a repetition of the error.
+
+The harmless error rule in Louisiana is in the form of a statutory prohibition against reversals of convictions by this court. C.Cr.P. 921 provides:
+
+The Official Revision Comment to C.Cr.P. 921 states that the Louisiana provision (the same language is found in former R.S. 15:557) accomplishes exactly the same as the rule articulated by the United States Supreme Court in Katteakos v. United States,
+328 U.S. 750
+, 66 S. Ct. 1239, 90 L. Ed. 1557 (1946). There the court stated that error which did not influence the jury, or which had only a slight effect, would not result in reversal, "except perhaps where the departure is from a constitutional norm or a specific command of Congress." (Emphasis added). Katteakos v. United States,
+328 U.S. 750
+, 764, 66 S. Ct. 1239, 1248, 90 L. Ed. 1557, 1566 (1945). In the instant case, a constitutional norm was clearly violated.
+
+Our statute (C.Cr.P. 921) prohibits reversal unless we find: (1) a miscarriage of justice, (2) prejudice to the substantial rights of the accused, or (3) a substantial violation of a constitutional or statutory right. The article is written in the disjunctive. If there is a violation of a constitutional or statutory right, there is no suggestion that this court should not fulfill its historic appellate function and reverse, ordering a new trial.
+
+The Louisiana statutory rule has remained the same through the years, while the federal jurisprudential rule with regard to constitutional rights has continued to develop. If there is a violation in federal cases of a defendant's constitutional rights, under the Bruton[5] decision, it will be deemed harmless if a review of the independent evidence overwhelmingly indicates the guilt of the accused.[6] Brown v. United States,
+411 U.S. 223
+, 93 S. Ct. 1565, 36 L. Ed. 2d 208 (1973); Milton v. Wainwright,
+407 U.S. 371
+, 92 S. Ct. 2174, 33 L. Ed. 2d 1 (1972); Schneble v. Florida,
+405 U.S. 427
+, 92 S. Ct. 1056, 31 L. Ed. 2d 340 (1972); Harrington v. California,
+395 U.S. 250
+, 89 S. Ct. 1726, 23 L. Ed. 2d 284 (1969). The administration of this rule requires that the entire trial record be before the appellate court in order for it to review all the evidence. This is not the case under this State's bill of exception procedure.[7] Furthermore, this court is not as free as the United States Supreme Court to institute new rules of law and procedure where the legislature has spoken. The legislature in this instance has not changed the harmless error rule and where the error   amounts to a substantial violation of a constitutional or statutory right of the defendant, we cannot inquire as to whether the error is harmless beyond a reasonable doubt; we are obligated to enforce constitutional and statutory provisions.
+
+Since a new trial will be ordered in this case, we note another error on the face of the pleadings which should be correctedan error which, under existing jurisprudence, would, alone, require reversal.
+
+The bill of information attempts to charge burglary, using the short form. The bill charges that "John Boy Michellie violated R.S. 14:62 in that he committed the simple burglary of King Industries."
+
+R.S. 14:62 provides:
+
+The short form bill for simple burglary (C.Cr.P. 465(14) is:
+
+"Simple BurglaryA. B. committed simple burglary of the houseboat (or other structure, watercraft, or movable, as the case may be) belonging to C. D."
+
+The bill of information does not name or describe the building or structure burglarized, nor is the owner named. Cf. State v. Bowers, 260 La. 436, 256 So. 2d 435 (1972). The uniform jurisprudence of this State would require a reversal. State v. Barnes, 242 La. 102,
+134 So. 2d 890
+(1961); Cf. State v. Russell,
+292 So. 2d 681
+(La.1974); State v. Clark,
+288 So. 2d 612
+(La.1974); State v. Thomas, 260 La. 784,
+257 So. 2d 406
+(1972).
+
+The jurisprudence requiring technical perfection in indictments and informations developed when the record in a criminal case contained little in addition to the indictment and minutes of court. See State v. Clark, supra. The evidence was not transcribed, except to preserve a bill of exceptions. (See C.Cr.P. 843; R.S. 13:961(F); R.S. 15:291). When the record is complete and contains all the evidence (as it will after the effective date of Article I § 19, La.Const. of 1974), this court may determine that the jurisprudence which developed under the Sixth Amendment of the United States Constitution ("... the accused shall enjoy the right... to be informed of the nature and cause of the accusation...") requiring technical perfection in the indictment will be relaxed. Until that time, however, the bill of indictment or information must at least conform to the requirements of C.Cr.P. 465.
+
+For the reasons assigned, the conviction is reversed and the sentence is vacated.
+
+SANDERS, C. J., dissents and assigns written reasons.
+
+SUMMERS, J., dissents in part and concurs in part.
+
+MARCUS, J., dissents.
+
+SANDERS, Chief Justice (dissenting).
+
+The bill of information in the present case charges that "John Boy Michelli violated R.S. 14:62 in that he committed simple burglary of King Industries." The charge, in my opinion, satisfies the requirements of Article 465 of the Louisiana Code of Criminal Procedure, which sets forth the charge for simple burglary as follows:
+
+"A.B. committed simple burglary of the houseboat (or other structure, watercraft, or movable, as the case may be) belonging to C.D."
+
+The present charge names the structure: King Industries. The Article does not require that the structure be described. If a description of the structure is desired by defendant, this information could have   been obtained by a motion for a bill of particulars. It is true that the charge does not separately name the owner, apparently because both the building and owner are known as King Industries. However, I have never subscribed to the rule of technical perfection in indictments and bills of information. See my dissents in State v. Smith, La.,
+275 So. 2d 733
+(1973); State v. Williams, La.,
+275 So. 2d 738
+(1973); State v. Raby, 259 La. 909,
+253 So. 2d 370
+(1971); State v. Butler, 259 La. 560,
+250 So. 2d 740
+(1971). In my opinion, the present charge is legally sufficient.
+
+Bill of Exceptions No. 3 was reserved to the introduction in evidence of the written statement of Leon Ferguson, one of defendant's accomplices in the crime.
+
+In his Per Curiam, the trial judge states:
+
+The complete transcript of testimony at the trial is included in the appellate record. Assuming that the statement was erroneously admitted, I am of the opinion that the error does not justify a reversal for the following reasons:
+
+In my opinion, the harmless error doctrine is applicable. See LSA-C.Cr.P. Art. 921.
+
+For the reasons assigned, I respectfully dissent.
+
+[1]  Additionally, Wharton's Criminal Evidence, Section 643 (13th Ed. 1973) states the applicable rule to be as follows:
+
+"It is well established that a declaration of a conspirator made in the absence or without the knowledge of the accused, after the conspiracy has come to an end through withdrawal or arrest of the participants or termination of the plan in success or failure, is inadmissible to prove the guilt of one other than the declarant."
+
+[2]  In Douglas v. Alabama,
+380 U.S. 415
+, 85 S. Ct. 1074, 13 L. Ed. 2d 934 (1965), a coconspirator was called to testify at the trial of his fellow co-conspirator. He invoked the Fifth Amendment and refused to answer any questions concerning his purported confession which implicated the defendant on trial. After having the witness declared to be "hostile," the prosecutor read portions of the alleged statement as he attempted to cross-examine the witness. The United States Supreme Court held that the witness' invocation of his Fifth Amendment rights and the reading by the prosecutor effectively denied the defendant the right of confrontation of the witness who refused to acknowledge that he had made the alleged confession. In the instant case, however, the witness admitted that the statement was his and failed to invoke any constitutional protection.
+
+For a discussion as to the extent of the coverage of the confrontation clause and its application to the states, see Chambers v. Mississippi,
+410 U.S. 284
+, 93 S. Ct. 1038, 35 L. Ed. 2d 297 (1973); Dutton v. Evans,
+400 U.S. 74
+, 91 S. Ct. 210, 27 L. Ed. 2d 213 (1970); California v. Green,
+399 U.S. 149
+, 90 S. Ct. 1930, 26 L. Ed. 2d 489 (1970); McCormick On Evidence, § 252 (2d Ed. 1972); Comment, 75 Yale L.J. 1434 (1966); Comment, 13 U.C.L.A.L.Rev. 366 (1966). Justice Harlan's concurring opinion in Dutton, supra, resists the attempt to develop the confrontation clause into a federal constitutional rule of evidence. He would prefer to base many of that court's decisions, which had relied upon the confrontation clause, upon the due process clause of the Fourteenth Amendment which is a more flexible guide than the confrontation clause, which contains language that does not seem to suggest any exceptions to its mandate.
+
+[3]  In Mattox v. United States,
+156 U.S. 237
+, 242, 15 S. Ct. 337, 339, 39 L. Ed. 409 (1895), the United States Supreme Court stated:
+
+"The primary object of the constitutional provision in question was to prevent depositions or ex parte affidavits, such as were sometimes admitted in civil cases, being used against the prisoner in lieu of a personal examination and cross-examination of the witness, in which the accused has an opportunity, not only of testing the recollection and sifting the conscience of the witness, but of compelling him to stand face to face with the jury in order that they may look at him, and judge by his demeanor upon the stand and the manner in which he gives his testimony whether he is worthy of belief."
+
+See also Dowdell v. United States,
+221 U.S. 325
+, 31 S. Ct. 590, 55 L. Ed. 753 (1911); 5 Wigmore on Evidence, §§ 1364, 1397 (3d Ed. 1940).
+
+[4]  The same language is also contained in Article I § 16 of the Louisiana Constitution of 1974.
+
+[5]  Bruton v. United States,
+391 U.S. 123
+, 88 S. Ct. 1620, 20 L. Ed. 2d 476 (1968).
+
+[6]  See Ditmer, 33 La.L.Rev. 82 (1972).
+
+[7]  Our appellate jurisdiction extends to questions of law only. Article VII § 10, La.Const. 1921. This clause has been interpreted as prohibiting the weighing of evidence by this court. State v. Plummer,
+281 So. 2d 716
+(La. 1973); State v. Singleton, 252 La. 976, 215 So. 2d 512 (1968); State v. Page, 251 La. 810,
+206 So. 2d 503
+(1968).
+
+If we find a substantial violation of a constitutional or statutory right, and if we then attempted to determine whether the error were harmless, nothing could keep us from the prohibited task of evaluating the evidence, to see if the jury reached the correct result, or if there were substantial evidence to support the verdict, or whether there were a reasonable possibility that the error might have contributed to the conviction, or whether the error were harmless beyond a reasonable doubt, or highly probably harmless, or to apply some other test of harmless error. See Traynor, The Riddle of Harmless Error, Ohio St.U.Press, 1970.

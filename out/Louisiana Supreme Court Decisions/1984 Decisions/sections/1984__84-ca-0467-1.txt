@@ -1,0 +1,79 @@
+84-CA-0467
+Bailey v. Cajun Insulation
+https://law.justia.com/cases/louisiana/supreme-court/1984/84-ca-0467-1.html
+
+84-CA-0467
+Bailey v. Cajun Insulation
+Court: Louisiana Supreme Court
+Release date: 1984-06-25
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1984/84-ca-0467-1.html
+
+453 So. 2d 237 (1984)
+
+Joseph BAILEY
+v.
+CAJUN INSULATION, et al.
+
+No. 84-CA-0467.
+
+Supreme Court of Louisiana.
+
+June 25, 1984.
+
+*238 Carolyn A. Ingraham, Lafayette, for defendant-appellant.
+
+G. Don Irby, Leonard K. Fisher, Jr., Luling, for plaintiff-appellee.
+
+William E. Crawford, Denise A. Nagel, James McGraw, Baton Rouge, Louisiana Dept. Of Labor, for respondent-appellee.
+
+LEMMON, Justice.
+
+This is an action to recover unemployment compensation benefits. Plaintiff's petition for judicial review was filed in the district court more than 15 days after the mailing of notice that the board of review had denied his application for appeal from the decision of the appeal tribunal. When defendant raised the issue of the timeliness of the petition, the district court refused to dismiss the action, holding unconstitutional the notice provisions of La.R.S. 23:1630 and 1634. The matter is now before this court on direct appeal. La. Const. Art. V, § 5 (1974).
+
+The principal issue on appeal is whether the pertinent statutes reasonably provide an employee who seeks judicial review in an unemployment compensation proceeding with notice and an opportunity to be heard.
+
+The copy of the decision of the board of review, which was received by plaintiff at his post office box listed on the document, contained the notation that the decision was mailed on September 2, 1983. The notice also contained the following statement:
+
+Plaintiff filed a petition for judicial review in the district court on October 4, 1983. Defendant filed an exception of prescription, urging that the petition, filed more than 15 days after the mailing of the decision, was untimely.[1] At the trial on the   exception, plaintiff testified that he did not receive the notice until the last week in September, after the delay for applying for judicial review had elapsed. The trial court overruled the exception on the basis that La.R.S. 23:1630 and 23:1634 were unconstitutional, observing that the statutes did not provide for adequate notice or an opportunity to be heard. Defendant then filed an application for supervisory writs. We granted the application and docketed the case as an appeal, since the trial court had held a statute unconstitutional.
+
+La.R.S. 23:1630 provides the procedures (1) when the board of review initiates a review of a decision by an appeal tribunal or allows an appeal from the decision by any party and (2) when the board of review denies an application for appeal from the decision of the appeal tribunal. Section 1630 further provides that an application for judicial review of the decision of the board of review may be filed within 15 days of the date of notice of the decision.[2] La.R.S. 23:1634 provides the procedure for judicial review when filed "[w]ithin the time period specified in R.S. 23:1630".
+
+Plaintiff first contends that his petition, filed within 15 days of his receipt of the notice, was timely. He argues that "date of notice" in the last sentence of Section 1630 means date of receipt, rather than date of mailing. We disagree.
+
+The first portion of Section 1630 regarding notice (underscored in footnote 2), refers to the situation in which the board of review either reviews a decision of an appeal tribunal or grants an appeal requested by a party. After a decision by the board of review under such circumstances, the statute expressly provides that the delay for applying for judicial review begins to run from the date of mailing of the notice of the decision of the board of review. On the other hand, the last portion of Section 1630 regarding notice refers to the situation in which the board of review denies a party's application for appeal. Under the circumstances, the statute provides that the appeal tribunal's decision is deemed to be the decision of the board of review, but that the delay for initiating judicial review begins to run from notice of the board's   denial, rather than from notice of the appeal tribunal's decision.
+
+There is no justification for a conclusion that the Legislature intended that the 15-day delay in Section 1630 should run from date of mailing of decisions of the board of review in some instances and from date of receipt in others. Indeed, a contrary conclusion is indicated by the fact that most statutes and court rules in cases which provide for notice by mail provide for delays which begin to run from the date of mailing of notice. See, e.g., La.C.C.P. Art. 2123(3) (suspensive appeal); La.C.C.P. Art. 2087(3) (devolutive appeal); La.C.C.P. Art. 1974 (new trial); Uniform Rules, Courts of Appeal, Rule 2-18.2(b) (rehearing in appellate court); Louisiana Supreme Court Rules, Rule X, § 4(b) (application for writ of certiorari); Louisiana Supreme Court Rules, Rule IX, § 1 (rehearing in supreme court).
+
+Plaintiff next contends that these notice provisions do not provide him with due process of law, as required by the federal and state constitutions. Due process requires "at a minimum ... that deprivation of life, liberty or property by adjudication be preceded by notice and opportunity for hearing appropriate to the nature of the case". Mullane v. Central Hanover Bank & Trust Co.,
+339 U.S. 306
+, 313, 70 S. Ct. 652, 656-7, 94 L. Ed. 865 (1950). Mullane involved a question of notice to beneficiaries of a common trust fund when the trustee filed his accounts. The challenged state law provided that a court could issue its final decree accepting the trustee's accounts after notice was published for four successive weeks in a local newspaper. Once the court issued a final decree accepting the trustee's accounts, the beneficiaries' rights to complain of improper management during the accounting period were terminated. Balancing the state's interest in bringing issues to final settlement against the individual interests protected by the Fourteenth Amendment, the Supreme Court held that this publication constituted sufficient notice to beneficiaries whose interest or addresses were unknown to the trustee, but that due process required mailing of notice by regular mail to each of the known beneficiaries at his record address. The Court stated:
+
+The import of the Mullane decision is that the notice required by the statute under consideration must be reasonably calculated, under all the circumstances, to inform the parties of their rights. The Court noted that personal service is not an indispensable requirement and that due process does not necessarily require that the notice actually reach the parties, but only requires a method reasonably calculated to inform the parties. The Court further explained that the notice in the newspaper to known beneficiaries was inadequate, "not because in fact it fail[ed] to reach everyone, but because under the circumstances it [was] not reasonably calculated to reach" them. Id. at 319, 70 S. Ct.  at 660.
+
+Using the Mullane principle of balancing the interests of the state against those of the individual, we conclude in the present case that the statutory notice by regular mail is reasonably calculated to give notice to plaintiff. The statute does not exclude the possibility that delayed delivery of a notice could cause a party to lose his right of review before he even receives notice that the delay for applying has begun to run. Indeed, this case may be an example. Nevertheless, the method of notice required by the statute is reasonably calculated to inform interested parties of the event which commenced the period for exercising their rights and to afford them an opportunity to make their appearance. As the Court stated earlier in Blinn v. Nelson,
+222 U.S. 1
+, 7, 32 S. Ct. 1, 2, 56   L. Ed. 65 (1911) and reiterated in Mullane, 339 U.S.  at 319, 70 S.Ct. at 659:
+
+Plaintiff also contends that the statute's lack of a requirement of mailing of the notice to his attorney rendered the notice procedure unconstitutional. He points out that he was represented by an attorney before the appeal tribunal and that his attorney requested that notice of the decision be sent to him.
+
+A provision for notice to the attorney of record may have been beneficial to this plaintiff, but it is not constitutionally required. Due process does not require that the attorney be notified, because notice sent to the interested party is reasonably calculated to give him notice.
+
+As to the merits of the exception, defendant at the hearing introduced the copy of the decision which the plaintiff admittedly received at the post office box indicated on the document. The decision also contained the notation "Decision Mailed: 9/2/83". This notation gives rise to a presumption that the notice was mailed on September 2, since public officials are presumed to have performed their duties correctly. Vaughan v. Dowling, 243 La. 390,
+144 So. 2d 371
+(1962); Sweet v. Brown, 125 So. 2d 261 (La.App.3d Cir.1960).
+
+Plaintiff correctly argues that the presumption is rebuttable, but the evidence he offered to rebut the presumption consisted solely of his own testimony that he had checked his mailbox every day and that he did not receive the letter until the last week in September. This evidence, although tending to prove the date of receipt and to raise the inference that the date of mailing was later than September 2, was weakened by the fact that plaintiff did not produce the envelope which contained the decision. Presumably the postmark or other markings on the envelope would have been evidence as to the date of mailing. Moreover, plaintiff admitted he received the notice, that it was properly addressed, and that he had received timely all other notices in the proceedings at the same post office box. Therefore, we conclude that plaintiff failed to rebut the presumption that the notice was mailed on September 2. His appeal, filed more than 15 days thereafter, was untimely.
+
+Accordingly, the judgment of the trial court is reversed, the exception is maintained, and the petition for judicial review is dismissed as untimely.
+
+DIXON, C.J., dissents.
+
+WATSON, J., dissents believing 15 days from mailing a notice is too short a period to reasonably afford a person an opportunity to pursue his constitutional right to proceed in a court of law.
+
+[1]  The more appropriate exception was res judicata. The petition sought review of an administrative decision which allegedly became definitive when the petition for judicial review was not filed within the 15-day period. Nevertheless, this incorrect label for the exception is not fatal, because the Code of Civil Procedure does not favor harsh technical rules of pleading, but rather requires that pleadings be construed so as to do substantial justice. La.C.C.P. Art. 865.
+
+[2]  La.R.S. 23:1630 in its entirety provides:
+
+"The board of review may on its own motion, within fifteen days after the date of notification or of mailing of a decision of an appeal tribunal, initiate a review of such decision or allow an appeal to be filed by any party entitled to notice of such decision. An appeal filed by any such party shall be allowed as of right if such decision was not unanimous, or, if the determination was not affirmed by the appeal tribunal. Upon review on its own motion or upon appeal, the board of review may, on the basis of the evidence previously submitted in such case, or upon the basis of such additional evidence as it may direct be taken, affirm, modify or reverse the findings and conclusions of the appeal tribunal. The board of review may remove to itself or transfer to another appeal tribunal the proceedings on any claims pending before an appeal tribunal. Any proceedings so removed to the board of review prior to the completion of a fair hearing shall be heard by the board of review in accordance with the requirements of this Subsection with respect to proceedings before an appeal tribunal. The board of review shall make a determination and notify all parties of its decision, including its findings and conclusions in support thereof, within sixty days from the date an appeal is received or initiated by the board. Should the board of review, within sixty days from the date an appeal is received or initiated, direct that additional evidence be taken, the board of review shall make a determination and notify all parties of its decision, including its findings and conclusions in support thereof, within sixty days from the date it receives the additional evidence. Such decision shall be final unless within fifteen days after the mailing of notice thereof to the party's last known address, or in the absence of such mailing, within fifteen days after the delivery of such notice, a proceeding for judicial review is initiated pursuant to R.S. 23:1634. Provided, that upon denial by the board of review of an application for appeal from the decision of an appeal tribunal, the decision of the appeal tribunal shall be deemed to be a decision of the board of review within the meaning of this Section for purposes of judicial review and shall be subject to judicial review within the time and in the manner provided for with respect to [the] decision of the board of review, except that the time for initiating such review shall run from the date of notice of the order of the board of review denying the application for appeal." (Emphasis supplied.)

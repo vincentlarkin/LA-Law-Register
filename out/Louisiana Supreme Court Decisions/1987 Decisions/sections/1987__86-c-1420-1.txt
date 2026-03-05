@@ -1,0 +1,103 @@
+86-C-1420
+McBead Drilling Co. v. Kremco, Ltd.
+https://law.justia.com/cases/louisiana/supreme-court/1987/86-c-1420-1.html
+
+86-C-1420
+McBead Drilling Co. v. Kremco, Ltd.
+Court: Louisiana Supreme Court
+Release date: 1987-06-30
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/86-c-1420-1.html
+
+509 So. 2d 429 (1987)
+
+McBEAD DRILLING COMPANY, et al.
+v.
+KREMCO, LTD., et al.
+
+No. 86-C-1420.
+
+Supreme Court of Louisiana.
+
+June 30, 1987.
+
+Rehearing Denied September 3, 1987.
+
+A. Kennon Goff, III, Goff & Goff, Ruston, for plaintiff-applicant.
+
+Charles G. Tutt, Cook, Yancey, King & Galloway, Shreveport, for defendant-respondent.
+
+LEMMON, Justice.
+
+The issues presented in this case are whether the Louisiana court may exercise personal jurisdiction over defendant Dickirson Corporation pursuant to La. R.S. 13:3201 et seq, Louisiana's Long-Arm Statute, and whether such an exercise of jurisdiction violates constitutional due process.
+
+Plaintiff, an Arkansas corporation, contracted with Dickirson, a West Virginia corporation, to purchase a drilling rig. In accordance with its customary business practice in the sale of drilling rigs, Dickirson purchased the basic rig from Kremco, a Canadian company, and added its manufactured substructure and other modifications to the basic rig to meet plaintiff's specifications.[1] In October 1981, Dickirson completed the sale of the modified rig to plaintiff for $658,680 and delivered the rig to plaintiff's yard in southern Arkansas. Shortly   thereafter, plaintiff moved the rig across the state line to Caddo Parish, Louisiana for use in its drilling operations. On December 3, 1981, the rig collapsed while in use by plaintiff in Caddo Parish.
+
+Alleging that design and structural defects caused the rig's collapse, plaintiff filed this action for damages against Dickirson and several other defendants, seeking to recover the cost of repairs, the loss of revenues, and other expenses and damages. Plaintiff alleged that all defendants "played a part in the sale, distribution, design, construction, reconstruction, and modification" of the rig prior to sale. Asserting its nonresident status, Dickirson filed an exception of lack of personal jurisdiction.
+
+The evidence at the hearing on the exception established that Dickirson was in the business of selling drilling rigs, oil field service trucks, and other similar equipment. The company had sold oil field equipment in approximately twelve states from New York to Arkansas and in several foreign countries.[2] However, Dickirson had never made a sale to a Louisiana resident and did not solicit in Louisiana in its regular course of business or do any advertising which would be expected to reach Louisiana.
+
+Dickirson's only direct contacts with Louisiana consisted of several calls by a salesman on Louisiana businesses prior to 1981 in unsuccessful attempts to sell oil field trucks, while the salesman was in the state on personal business. Additionally, Dickirson had sent a service representative, as required by the warranty in the contract of sale, to Caddo Parish about a week before the rig collasped to change the hydraulic pump on plaintiff's rig. Because he could not change the pump at the particular stage of the drilling operation, the employee was still in Louisiana when the collapse occurred. Thereafter, Dickirson sent another employee by company plane to investigate the incident.
+
+In addition to its sales operations, Dickirson purchased basic trucks, drilling rigs and other oil field equipment and customized the basic structures or added its manufactured substructures in accordance with the specifications of the customer for a particular sale. Thus, Dickirson frequently was a manufacturer as well as a seller. The gross profit on the sale of the rig to plaintiff was about $100,000.
+
+The trial court held that there was no personal jurisdiction over Dickirson and dismissed that defendant from the action. Noting that only Subsection (d) of La.R.S. 13:3201 could possibly serve as a basis for providing jurisdiction, the court found that Dickirson did not regularly do or solicit business in Louisiana, did not engage in a persistent course of conduct in Louisiana, and did not derive substantial revenue from goods used or consumed or service rendered in Louisiana.[3]
+
+Plaintiff applied for a new trial on the ground that the trial court had failed to consider the 1984 amendment which added Subparagraph (8) to the Long Arm-Statute.[4] The trial court denied the application,   noting that the amendment was not in effect at the time of the alleged loss or at the time suit was filed.
+
+On appeal, the intermediate court concluded that the 1984 amendment should be applied retroactively, but nevertheless affirmed Dickirson's dismissal, concluding that the exercise of jurisdiction over Dickirson would violate constitutional due process. 490 So. 2d 674. The court characterized Dickirson's contacts with Louisiana as insubstantial. We granted certiorari. 494 So. 2d 1164.
+
+A dual analysis is required to determine whether Louisiana has personal jurisdiction over a nonresident defendant under La.R.S. 13:3201. First, the facts of the case must fit within one of the provisions of the Long-Arm Statute. Second, the assertion of jurisdiction must comport with constitutional due process standards.
+
+The facts of this case fit squarely under Subsection (8) of the Long-Arm Statute. Dickirson manufactured a component of a product which allegedly caused damages in Louisiana and could have reasonably foreseen at the time the product was placed into the stream of commerce that the product may eventually be found in the state by reason of the product's nature and the manufacturer's marketing practices.[5] Moreover, Subsection (8), which pertains to jurisdiction and procedure, is entitled to retroactive application. Laws which determine jurisdiction and procedure are applicable, from the date of their promulgation, to all law suits, even to those which bear upon facts and acts of a prior date and to pending law suits. 1 M. Planiol, Traite Elementaire de Droit Civil § 258 (Louisiana State Law Institute Trans. 1959); Covington v. Southern Specialty Sales Co., 158 So. 2d 79 (La.App. 3rd Cir.1963); Coreil v. Pearson,
+242 F. Supp. 802
+(W.D.La.1965); see also R. Casad, Jurisdiction in Civil Actions § 4.01[2] (1983). We conclude, as did the court of appeal, that the Louisiana court's exercise of jurisdiction is authorized by La. R.S. 13:3201(8).
+
+The remaining issue is whether the exercise of jurisdiction over Dickirson under La.R.S. 13:3201(8) violates constitutional due process standards.
+
+In International Shoe Co. v. Washington,
+326 U.S. 310
+, 66 S. Ct. 154, 90 L. Ed. 95 (1945), the Court held that for the exercise of personal jurisdiction to comport with constitutional due process, there must be sufficient minimum contacts between the defendant and the forum to satisfy traditional notions of fair play and substantial justice. The International Shoe decision formed the basis of most of the long-arm statutes adopted by state legislatures to confer personal jurisdiction over nonresidents, primarily in contracts, torts, property and domestic relations cases. In Shaffer v. Heitner,
+433 U.S. 186
+, 97 S. Ct. 2569, 53 L. Ed. 2d 683 (1977), a quasi-in-rem jurisdiction case, the Court expanded its prior holdings and held that the standards of fairness and substantial justice set forth in International Shoe govern actions in rem as well as in personam. The Court reiterated that the central concern of any inquiry into personal jurisdiction is "the relationship among the defendant, the forum, and the litigation". 433 U.S.  at 205, 97 S. Ct.  at 2580.
+
+In the present case, the lower courts relied primarily on the decision in World-Wide Volkswagen Corp. v. Woodson,
+444 U.S. 286
+, 100 S. Ct. 559, 62 L. Ed. 2d 490 (1980). World-Wide Volkswagen was a product liability case which arose out of an automobile accident in Oklahoma. Plaintiffs had purchased their car in New York while domiciled there and were driving to their new home in Arizona when the collision occurred, causing their car to catch fire. Claiming design defects, plaintiff filed suit in Oklahoma, naming the manufacturer, the importer, the regional distributor and the retail dealer as defendants under the long-arm statute which contained   a provision similar to the former La.R.S. 13:3201(d). Only the distributor and dealer challenged the exercise of jurisdiction. The Court concluded that the affiliating circumstances necessary for the exercise of personal jurisdiction had not been established, observing that the sole "fortuitous circumstance that a single Audi automobile, sold in New York to New York residents, happened to suffer an accident while passing through Oklahoma" was insufficient to establish jurisdiction. Id. at 295, 100 S. Ct.  at 566. In response to the argument that it was foreseeable from an automobile's design and purpose that it might cause injury in Oklahoma, the Court stated that foreseeability alone has never been a sufficient benchmark for the exercise of personal jurisdiction. Noting that it was inappropriate for every seller of chattels to be held as having appointed his chattel an agent for service of process, the Court nevertheless conceded that foreseeability is not wholly irrelevant. The court stated:
+
+Id. at 297, 100 S. Ct.  at 567.
+
+The court of appeal in the present case concluded that World-Wide Volkswagen was factually analogous and added:
+
+490 So. 2d  at 679. We disagree. In World-Wide Volkswagen, jurisdiction over the manufacturer was not at issue. On the other hand, jurisdiction over the manufacturer is the only issue in the present case. In litigation arising from a product-related injury in the forum state, there are significant differences between the exercise of jurisdiction over a retailer who simply sold the product locally and the exercise of jurisdiction over a manufacturer whose products were sold over a large area. Casad, supra, at § 7.02[2][c].
+
+Consideration of the relationship among the defendant, the forum, and the litigation could lead one to reasonably conclude that it is basically unfair to hold a local retail dealer subject to personal jurisdiction in a remote state on a product liability claim relating to design or manufacturing defects. But one could also reasonably conclude on the same considerations that fairness and substantial justice do not preclude subjecting the manufacturer to jurisdiction wherever the product causes damages because of design or manufacturing defects. Moreover, the availability in World-Wide Volkswagen of jurisdiction over the manufacturer, who would be primarily liable as between the manufacturer and the retailer, was an additional justification for declining to force the local retailer into the action in the remote state where the action was filed. See Casad, supra, at § 2.04[2][e]. Also, while the forum state in World-Wide Volkswagen had too little interest in the litigation against the local retail dealer and regional distributor based on design and manufacturing defects to require them to defend the claim there, the same cannot be said about Louisiana's interest in requiring the manufacturer to defend the action for damages caused in this state by its product because of alleged design and manufacturing defects.[6]
+
+*433 Here, Dickirson manufactured component parts of an allegedly defective rig and sold it to an Arkansas drilling company which was located in the Ark-La-Tex triangle of oil drilling activity. Thus, unlike World-Wide Volkswagen, not only were there significant affiliating circumstances established in this case, but also the defendant's conduct in its business operations and the nature of its manufactured product were such that it should have reasonably anticipated being haled into court in Louisiana if the product caused damages here because of design or manufacturing defects.[7] Exercise of personal jurisdiction under these circumstances is not violative of the Due Process clause, the purpose of which is to protect persons against unfair or arbitrary treatment at the hands of the government. Insurance Corp. of Ireland v. Compagnie des Bauxites de Guinee,
+456 U.S. 694
+, 102 S. Ct. 2099, 72 L. Ed. 2d 492 (1982).
+
+For these reasons, the judgments of the lower courts are reversed, the exception of lack of personal jurisdiction is overruled, and the case is remanded to the trial court for further proceedings.
+
+[1]  Kremco is also a named defendant. Kremco and another defendant made general appearances, but the case is awaiting the outcome of this decision.
+
+[2]  Dickirson's president testified that the company made sales in Kansas, Oklahoma, Illinois, Michigan, Indiana, Kentucky, Tennessee, West Virginia, Ohio, Pennsylvania, New York, Arkansas, the Middle East, North Africa and the Indonesia area.
+
+[3]  La.R.S. 13:3201(d), which was amended in 1984 to change the designation to Subsection (4), provided at the time of the accident as follows:
+
+"A court may exercise personal jurisdiction over a nonresident, who acts directly or by an agent, as to a cause of action arising from the nonresident's
+
+"(d) causing injury or damage in this state by an offense or quasi-offense committed through an act or omission outside of this state if he regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered in this state." (emphasis added)
+
+The 1984 amendment also changed the wording of the first paragraph and deleted the word "substantial".
+
+[4]  Subsection (8) provides:
+
+"(8) Manufacturing of a product or component thereof which caused damage or injury in this state, if at the time of placing the product into the stream or commerce, the manufacturer could have foreseen, realized, expected, or anticipated that the product may eventually be found in this state by reason of its nature and the manufacturer's marketing practices."
+
+[5]  Arguably, the facts of this case also fit into Subsection (d), now (4), in that Dickirson dervied (substantial) revenue from goods used in Louisiana.
+
+[6]  In Brown v. Drillers, Inc., 401 So. 2d 366 (La. App. 1st Cir.1981), a case similar to the present one, the court upheld the exercise of personal jurisdiction. There the defendant, the lessor of a drilling rig, entered into a lease with a Texas company, and the Texas lessee moved the rig to Louisiana for drilling. A few months later, an accident occurred on the rig injuring a roughneck who sued in a Louisiana court for his injuries. The defendant-lessor contended that jurisdiction was lacking, citing World-Wide Volkswagen as controlling. The defendant argued that, with the sole exception that this case involved a lessor rather than a seller, the facts are identical to World-Wide Volkswagen. Therefore, the defendant contended that the Texas-lessee's mere unilateral activity of bringing the rig into Louisiana to drill should not be sufficient to establish minimum contacts. The court, disagreeing with the defendant-lessor, found World-Wide Volkswagen to be clearly distinguishable, stating that "[defendant] was availing itself of the protection of Louisiana law in entering into a lease permitting its rig, its sole income producing asset, to be placed anywhere, including Louisiana." 401 So. 2d  at 368.
+
+[7]  The recent case of Asahi Metal Industry Co. v. Superior Court of California, Solano County, ___ U.S. ___, 107 S. Ct. 1026, 94 L. Ed. 2d 92 (1987), does not require a different result. The Court prohibited California's exercise of jurisdiction over a foreign manufacturer, and the plurality opinion discussed a requirement that the defendant's conduct must be more purposefully directed at the forum state than the mere placing of a product in the stream of commerce. However, the concurring Justices did not subscribe to that portion of the opinion pertaining to the stream of commerce, but agreed with the determination that the exercise of jurisdiction did not comport with fairness and substantial justice. The only issue in the case was whether a Japanese corporation should indemnify a Taiwanese corporation for a sale made in Taiwan and a shipment of goods from Taiwan to Japan. There was clearly an insufficient relationship among the California forum, the Japanese corporate defendant, and the litigation of the indemnity issue.

@@ -1,0 +1,89 @@
+83-K-2360
+State v. Jackson
+https://law.justia.com/cases/louisiana/supreme-court/1984/83-k-2360-1.html
+
+83-K-2360
+State v. Jackson
+Court: Louisiana Supreme Court
+Release date: 1984-06-25
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1984/83-k-2360-1.html
+
+452 So. 2d 682 (1984)
+
+STATE of Louisiana
+v.
+Eli JACKSON.
+
+No. 83-K-2360.
+
+Supreme Court of Louisiana.
+
+June 25, 1984.
+
+Anne L. Jordan, Frank J. Saia, Georgia Wilemon, Baton Rouge, for applicant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie B. Brown, Dist. Atty., Kay Kirkpatrick, Asst. Dist. Atty., for respondent.
+
+LEMMON, Justice.
+
+We granted certiorari to decide whether an appellate court, on an appeal by the defendant in a criminal case, may take notice of and correct an illegally lenient sentence so that the defendant is worse off for having exercised his right to appeal. We hold that an appellate court under such circumstances should disregard sentencing errors favorable to the defendant unless the prosecution has raised the issue in the trial court and has sought appellate review.
+
+Defendant was convicted of simple burglary of a pharmacy in violation of La.R.S. 14:62.1. The trial court sentenced defendant as a second offender under La.R.S. 15:529.1 to ten years imprisonment at hard labor, without mentioning the denial of parole eligibility required by the statute.
+
+Defendant appealed, contending among other things that the trial court erred in finding him to be a multiple offender and in imposing an excessive sentence. The court of appeal rejected all of defendant's contentions, but amended the sentence to provide that defendant was not eligible for parole, even though the prosecution had not raised the issue in the trial court and appealed or otherwise sought appellate review of the legality of the sentence. 439 So. 2d 622. We granted certiorari.
+443 So. 2d 1123
+.
+
+La.C.Cr.P. Art. 882 provides that an illegal sentence may be corrected by the trial court at any time. Additionally, an appellate court may take notice of the illegality   of a sentence as an error patent on the face of the record. La.C.Cr.P. Art. 920. However, there is a fundamental precept in appellate procedure that when a party exercises his right to appeal, the appellate court should not, by taking cognizance of an issue not properly raised by either the appellant or the appellee, render a judgment on appeal which is less favorable to the appellant than the judgment from which the appeal was taken. This precept is particularly applicable in the case of appeals by defendants in criminal cases. An unsought modification by an appellate court, if the result is a harsher sentence, either is or appears to be retaliatory in nature. Such modifications thus may produce a "chilling effect" on the exercise of the right to appeal.[1]
+
+On defendant's appeal in State v. Napoli, 428 So. 2d 957 (La.App. 1st Cir.1983), the court of appeal, on its own motion and without any request for review by the prosecution, corrected an illegal sentence so as to deny parole eligibility to the defendant for an additional thirty months more than the sentence imposed by the trial court. This court, on defendant's application, rendered the following per curiam decision, reported at 437 So.2d 868:
+
+Unfortunately, although the import of the ruling was very clear, this court cited the wrong Goodley decision, the correct citation being
+423 So. 2d 648
+(La.1983). In the first Goodley decision (which was incorrectly cited in Napoli), this court had recognized an illegal jury verdict as patent error on defendant's appeal and had set aside the verdict. Of course, as the court of appeal correctly noted in the present case, the first Goodley decision was not authority for the proposition that recognizing a patent error unfavorable to defendant on defendant's appeal has a chilling effect on a defendant's exercise of his right to appeal. However, the second Goodley decision clearly stands for (and was intended to be cited for) the proposition that an appellate court's review for patent errors should not work to a defendant's disadvantage on his own appeal.[2]
+
+In the present case, the court of appeal expressed doubt about the import of the per curiam decision in Napoli (with its incorrect citation) and about the procedure for correcting a patent error in sentencing. There is no cause for doubt.[3] When a defendant alone appeals and the record   contains a patent error unfavorable to the defendant, an appellate court should recognize and correct the error. However, when a defendant alone appeals and the record contains a patent error favorable to the defendant, the appellate court should ignore the error, unless the prosecution, having properly raised the issue in the trial court, has sought appellate review. Otherwise, as noted earlier, a defendant's exercise of his right to appeal would result in his coming out of the appeal with a harsher sentence than he had going into the appeal.[4]
+
+Therefore, if a trial judge imposes a sentence without mentioning denial of parole eligibility required by a statute, it is inappropriate for an appellate court to correct the sentence when the defendant alone seeks appellate review.[5] Only the prosecution can seek correction of the error, and this should be done by applying first to the trial court, subject to subsequent appellate review. See State v. Speed,
+335 So. 2d 28
+(La.1976); State v. Jimmerson, 432 So. 2d 1093 (La.App. 3d Cir.1983).
+
+Finally, the court of appeal compounded its error in the present case by correcting the sentence itself, rather than remanding the case to the trial court to do so. Correction of a sentence by an appellate court is arguably appropriate in some cases. However, since it is possible that the trial judge at the time of sentencing in the present case simply overlooked the "without benefit" provision of the statute, a reviewing court cannot determine whether the judge might have imposed a sentence of fewer than ten years if the prosecution had pointed out the restriction to him. Thus, the action of the appellate court possibly denied defendant the right to have the trial judge exercise informed sentencing discretion.
+
+Accordingly, the portion of the judgment of the court of appeal amending the sentence is set aside, and the sentence imposed by the trial court is reinstated. The conviction and original sentence are affirmed.
+
+DIXON, C.J., concurs.
+
+[1]  Of course, if a defendant requests relief on appeal which results in his being in a less advantageous position after appeal than he was before the appeal, then it is the defendant, and not the appellate court, which has produced this result, and there is no element or appearance of retaliation present. Nor is there a chilling effect on the exercise of the right of appeal, but there is only a realization of the maxim that all relief sought by a party on appeal is not necessarily beneficial to that party. See, for example, State ex rel. LaFleur v. Donnelly,
+416 So. 2d 82
+(La.1982), (note 2, Lemmon, J., concurring.)
+
+[2]  In the first Goodley case, this court held that the trial court erred in permitting a non-unanimous jury (10-2) to return a responsive verdict of manslaughter in a capital case. Although neither party had objected to the non-unanimous manslaughter verdict, this court noted the error and reversed. In the second Goodley case, this court refused to allow the state to retry the defendant for murder, rather than manslaughter.
+
+[3]  There certainly can be no cause for doubt on the basis of State v. Telsee,
+425 So. 2d 1251
+(La.1983). The court of appeal stated that the Telsee decision "corrected a sentencing error adverse to the state even though the state did not raise an objection." Actually, the Telsee decision set aside as excessive (and not as a patently illegal sentence) a sentence of 40 years and imposed a sentence of 25 years. In doing so, this court included a (meaningless) provision denying parole eligibility for two of the 25 years, as required by the statute. Significantly, the amended 25-year sentence (on which defendant would not be eligible for parole for well in excess of two years anyway) was still far more favorable to the defendant than the original sentence imposed before defendant appealed. The Telsee decision, therefore, is hardly authority for amending a sentence to defendant's detriment on defendant's own appeal.
+
+[4]  This was also pointed out clearly by this court to the same appellate court in State v. Williams,
+439 So. 2d 387
+(La.1983), as follows:
+
+"Granted. The ruling of the Court of Appeal, 434 So. 2d 585, is reversed and the sentence imposed by the district judge is reinstated. R.S. 14:52 set only a maximum fine, not a minimum. State v. Telsee,
+425 So. 2d 1251
+(La.1983), is not applicable. Increasing a lawful sentence chills the right to appeal.
+
+"CALOGERO and LEMMON, Justices, Concurring. When the defendant appeals the excessiveness of the sentence, the appellate court may not increase the severity of the sentence."
+
+[5]  This court has also ruled that the Department of Corrections has no authority to correct the illegal sentence, since the Department's function is to carry out the sentence ordered by the trial judge. See State ex rel. Almore v. Criminal District Court,
+433 So. 2d 712
+(La.1983); State ex rel. Pierre v. Maggio,
+445 So. 2d 425
+(La.1984). In Pierre, this court rendered the following per curiam decision:
+
+"Granted. Relator's sentence, thirty-three years at hard labor, was not imposed without benefit of parole, probation or suspension of sentence; whereas the Department of Corrections records reflect parole ineligibility. The determination of the sentence a defendant is to serve, and what, if any, conditions are to be imposed on that sentence, is made by the trial judge, not the defendant's custodian. The custodian's obligation is to see that the sentence imposed is the sentence served. The State of Louisiana in the person of the prosecutor was party to the proceedings in which this sentence was imposed. The prosecutor has not objected and has not sought to have the sentence set aside. Accordingly, the Department of Corrections is ordered to correct their records to show that relator's sentence is to be served as imposed by the trial judge, without the restriction of parole ineligibility. See State v. Almore,
+433 So. 2d 712
+(La.1983).
+
+"MARCUS and BLANCHE, JJ., concur. It is the prosecutor's duty to have a sentence set aside if it is not in accordance with the statute. The Department's duty is to comply with the sentence of the trial judge as rendered."

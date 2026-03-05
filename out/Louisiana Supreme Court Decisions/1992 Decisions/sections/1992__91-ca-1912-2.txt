@@ -1,0 +1,125 @@
+91-CA-1912
+Central Louisiana Elec. Co. v. LA. PSC
+https://law.justia.com/cases/louisiana/supreme-court/1992/91-ca-1912-2.html
+
+91-CA-1912
+Central Louisiana Elec. Co. v. LA. PSC
+Court: Louisiana Supreme Court
+Release date: 1992-07-13
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1992/91-ca-1912-2.html
+
+601 So. 2d 1383 (1992)
+
+CENTRAL LOUISIANA ELECTRIC COMPANY, INC.
+v.
+LOUISIANA PUBLIC SERVICE COMMISSION.
+
+No. 91-CA-1912.
+
+Supreme Court of Louisiana.
+
+July 13, 1992.
+
+*1384 William Oliver Bonin, Landry, Watkins & Bonin, New Iberia, for appellant.
+
+Robert Lewis Rieger, Baton Rouge, Carolyn DeVitis, Denham Springs, James Bancroft Supple, Darnall, Biggs, Trowbrige, Supple, & Cremaldi, David H. Stiel, III, Aycock, Horne & Coleman, Franklin, for appellee.
+
+LEMMON, Justice.
+
+The issue before the court is whether the district court or the Public Service Commission (PSC) has subject matter jurisdiction to adjudicate a dispute between the City of Franklin and Central Louisiana Electric Company (CLECO), an electric supplier which held a franchise to supply electricity to the entire City, over the City's execution of a subsequent franchise agreement with Teche Electrical Cooperative for Teche to supply electric power to a newly annexed area of the City. In the underlying dispute CLECO contends that the City's franchise agreement with Teche impaired CLECO's contractual rights vested under an earlier operating agreement between CLECO and the City in which the City agreed not to grant to anyone other than CLECO a franchise or permit for the sale of electric power within the City. The instant action represents CLECO's second filing in an attempt to have this dispute adjudicated.
+
+Prior to 1980 the City of Franklin owned and operated an electric power system serving its citizens. In 1980 the City, pursuant to a referendum election and a subsequent ordinance, entered into an operating agreement, as well as street lighting and electric service agreements, with CLECO. In the agreements CLECO contracted to operate the City's electric distribution system and to furnish reliable and efficient service to present and future customers. CLECO further obligated itself to provide the entirety of the City's electric power requirements, to make additions, improvements and replacements to the system, to pay all expenses for maintaining the system, and to satisfy the City's revenue bond sinking fund obligations, even if the revenues from electric service did not provide sufficient funds for the payments. In return the City agreed not to grant other franchises or permits for the sale of electric power within the City limits as then existing or later extended.
+
+In 1985 the City, again pursuant to a referendum election and a subsequent ordinance, granted an electric franchise to Teche to supply electricity to an area which the City had annexed after the 1980 agreements   with CLECO. The City also entered into agreements to take street lighting and electric services from Teche in the annexed area, most of which Teche had been serving since 1939.
+
+CLECO filed suit in the district court in St. Mary Parish to invalidate the City's 1985 franchise, electric service and street lighting agreements with Teche as violative of the 1980 agreements between CLECO and the City. CLECO also sought to enjoin construction and other action by the parties under the 1985 agreement.
+
+Teche filed an exception to the court's jurisdiction over the subject matter, contending that the PSC had jurisdiction to regulate any territorial dispute between two electric utilities.
+
+The district court overruled the exception, noting in oral reasons:
+
+The court then proceeded to adjudicate the merits of the controversy. Concluding that the exclusive franchise granted by the City to CLECO violated the City charter as well as state law, the court denied preliminary injunctive relief on the basis that CLECO had not made a prima facie showing it would prevail on the merits.
+
+On CLECO's appeal, the court of appeal reversed on the jurisdiction issue.[1]Central Louisiana Electric Co. v. City of Franklin, 519 So. 2d 781 (La.App. 1st Cir. 1987). The court reasoned that since "the subject matter is centered upon the regulation of two public utilities, CLECO and Teche, as they compete for actual or potential customers," the matter was appropriate for adjudication by the PSC. Id. at 783.
+
+This court, by a five-to-two vote, declined to review the ruling of the intermediate court. 521 So. 2d 1155 (La.1988).
+
+Thwarted in its attempt to utilize the courts to adjudicate the underlying dispute, CLECO filed the instant proceeding with the PSC. Noting that La. Const. art. IV, § 21(C) withholds from the PSC the power to regulate any public utility owned, operated or regulated by the governing authority of a municipality and that La.Rev.Stat. 45:123 reaffirms the authority of municipalities with respect to franchises within the corporate limits, the PSC adhered to its previously announced position of refusing to construe agreements between municipalities and public utilities or to resolve disputes arising under such agreements. The PSC accordingly ruled that it did not have jurisdiction over the subject matter and dismissed the proceeding.
+
+On judicial review of the PSC's ruling, the district court, adopting the reasoning of the decision by the court of appeal in the earlier litigation, reversed the PSC's ruling and remanded the case to the PSC to determine the merits of the controversy.
+
+CLECO then filed the present appeal in this court.
+
+La. Const. art. V, § 16 vests the district courts with "original jurisdiction of all civil and criminal matters," unless there is other jurisdictional authorization in the Constitution. Generally a contract dispute would constitute a civil matter over which jurisdiction is vested in the district courts. However, other constitutional provisions are arguably applicable in this case.
+
+The constitutional provisions pertaining to the powers and duties of the PSC are La. Const. art. IV, § 21(B) and (C). Section 21(B) grants the PSC the power to "regulate all ... public utilities" and "such other regulating authority as provided by law."[2]*1386 However, Section 21(C) limits the power of the PSC by withholding authority to regulate any public utility owned, operated or regulated by a municipality.[3]
+
+Because Section 21(B) authorizes the Legislature to grant other regulatory authority to the PSC, other statutory material may be pertinent to this litigation. La.Rev. Stat. 45:121 defines the term "electric public utility" as "any person furnishing electric service within this state, the parish of Orleans excepted, including any electric cooperative transacting business in this state...."
+
+La.Rev.Stat. 45:123 provides in pertinent part:
+
+La.Rev.Stat. 45:1161 defines "public utility," as used in Sections 1168 through 1175, as:
+
+La.Rev.Stat. 45:1163 authorizes the PSC to exercise all necessary power and authority over electric utilities for the purpose of fixing and regulating rates charged and services furnished.[5]
+
+Thus, the PSC has constitutional and statutory jurisdiction over subject matters which principally involve the right to fix and regulate rates charged by and services furnished by public utilities. The Legislature has never "provided by law" for the PSC to exercise jurisdiction over other subject matters and areas of litigation in which public utilities are involved, such as tort actions and contract disputes. It is therefore necessary at the outset to determine the relief demanded by all parties in order to resolve the subject matter jurisdiction issue.
+
+CLECO's petition, filed originally in the district court and virtually duplicated in the present action in the PSC, called for the interpretation of the franchise contract between CLECO and the City, and the determination of the legal right of the City to grant another franchise in the newly annexed area of the City, as well as the   validity of the provision in the CLECO franchise prohibiting the City from granting a franchise to anyone else, inconsistently with the bond resolutions, for the generation, distribution and sale of electric power. The district court, in ruling on the merits of the original action, based its decision on the prohibitions in the City charter and the state statutes against the City's granting an exclusive franchise. The issues of the validity and enforcement of contracts and the interpretation of statutes and municipal charters are generally civil matters over which the district courts have original jurisdiction.
+
+One of Teche's defenses is that the CLECO franchise only prohibits the City's issuing another franchise which is inconsistent with the bond resolutions. An interpretation of the bond resolutions appears to present an issue for judicial determination.
+
+Moreover, the grantee of a franchise from a municipality does not need a certificate of convenience and necessity from the PSC. Richland Gas Co. v. Hale, 169 La. 300, 125 So. 130 (1929). La.Rev. Stat. 33:4406 authorizes a city to be the "sole and final judge" of public convenience and necessity as a ground for a permit or franchise. Inasmuch as the PSC cannot invalidate a franchise on the basis of absence of public convenience and necessity, an area which the PSC has general expertise, then the PSC normally would not be the appropriate tribunal to invalidate (or enforce) a franchise on the basis of contractual, constitutional or statutory provisions, which is not generally an area of PSC expertise.
+
+The conflicting rights in the present case arose from franchises granted by the City of Franklin. Therefore, this case is distinguishable from the cases relied upon by the court of appeal in CLECO's original action. In Porter v. O'Neal, 205 La. 445, 17 So. 2d 622 (La.1944), there was a dispute between a common carrier certified by the PSC across a certain route and another carrier operating across the same route (outside the City of Pineville) under a franchise from the City to operate within a sevenmile radius of the City. This court held that the matter involved the regulatory authority of the PSC to resolve a conflict arising from its grant of authority.
+
+In Pointe Coupee Electrical Membership Corp. v. Central Louisiana Electric Co., 140 So. 2d 683 (La.App. 1st Cir.1962), there was a conflict over territorial rights between an electric cooperative which was not then regulated by the PSC and a public utility which was subject to PSC regulation. The court held that the case involving the right of a public utility to furnish electricity to a potential customer addressed itself to the PSC. Neither case involved interpretation, validity or enforcement of a franchise granted by a municipality to a public utility.
+
+Furthermore, this case does not involve the PSC's ratemaking power, which has been allowed to supercede contractual obligations when the power is exercised for a public end and reasonably adapted to the accomplishment of that end. See Conoco, Inc. v. Louisiana Public Service Commission,
+520 So. 2d 404
+(La.1988).
+
+We therefore conclude that the district court has jurisdiction to adjudicate the contractual and statutory issues which make up the subject matter of this action.
+
+The judgment of the district court on the merits in earlier proceedings never acquired the authority of the thing adjudged, because the court of appeal reversed the judgment and dismissed the action for lack of jurisdiction. CLECO may accordingly refile the action in the district court. The earlier judgment on the merits appears to be the law of the case for that court, but the judgment in the new action may be appealed to the court of appeal for the first appellate review of the merits.[6]
+
+Accordingly, the judgment of the district court maintaining subject matter jurisdiction in the Public Service Commission is   reversed, and the action filed in the Public Service Commission is dismissed.
+
+LEMMON, J., subscribes to the opinion and assigns additional concurring reasons.
+
+LEMMON, Justice, concurring.
+
+In some cases it is very difficult to determine whether the relief demanded by the parties presents issues for court resolution or agency resolution, and some cases present both. Under such circumstances the court in which an exception of lack of subject matter jurisdiction is filed may consider the doctrine of primary jurisdiction.
+
+The doctrine is designed to guide a court in determining whether to refrain from exercising its own jurisdiction in a particular case so that an administrative agency with special competence may first decide an issue presented, laying the foundation for a judicial decision or possibly making judicial proceedings unnecessary. 4 Kenneth W. Davis, Administrative Law § 22.1 (2d ed. 1983); Magnolia Coal Terminal v. Phillips Oil Co.,
+576 So. 2d 475
+(La.1991) (Dennis, Lemmon & Hall, JJ., concurring). The doctrine simply allocates power between courts and administrative agencies to make initial determinations when two potential jurisdictions exist. The court's jurisdiction may rest on an independent ground such as contract or tort, but the decision may require a determination normally confided to an agency. Louis L. Jaffe, Primary Jurisdiction, 77 Harv.L.Rev. 1037 (1964). The doctrine is primarily applicable to controversies concerning regulated industries. Id. at 1040.
+
+Primary jurisdiction, unlike the rule of exhaustion of administrative remedies which applies when a claim is cognizable in the first instance only in an administrative agency, applies when a claim is originally cognizable in a court. In exhaustion cases judicial proceedings are premature until the administrative process has been completed, while in primary jurisdiction cases the judicial process is suspended pending referral to the administrative agency of issues which under a regulatory scheme are within the agency's special competence. United States v. Western Pacific Railroad Co.,
+352 U.S. 59
+, 77 S. Ct. 161, 1 L. Ed. 2d 126 (1956). Primary jurisdiction may be appropriately used to refer specific issues to an administrative agency charged with particular regulatory duties when such reference would secure uniformity and consistency in the regulation of business entrusted to the agency or when the limited functions of judicial review would be more rationally exercised by preliminary resort to the specialized agency for ascertaining and interpreting the circumstances underlying the legal issues, particularly when technical questions of fact uniquely within the expertise and experience of the agency are involved. Far East Conference v. United States,
+342 U.S. 570
+, 72 S. Ct. 492, 96 L. Ed. 576 (1952).
+
+Thus, if warranted by the situation in a particular case, a district court may cede primary jurisdiction to the agency on those issues in which the court considers the product of agency expertise to be useful in deciding the action. See Davis, supra. If the district court determines that one or more issues should be presented first to the PSC, the court may invoke the doctrine and defer exercise of jurisdiction over the remaining issues.
+
+In the present case, however, considerations of uniformity in regulation and of technical expertise do not call for prior reference to the PSC. See Nader v. Allegheny Airlines, Inc.,
+426 U.S. 290
+, 96 S. Ct. 1978, 48 L. Ed. 2d 643 (1976); South-West Utilities, Inc. v. South Central Bell Telephone Co., 339 So. 2d 425 (La.App. 1st Cir. 1976).
+
+[1]  Because its ruling that the PSC had jurisdiction over the dispute resulted in dismissal of the court proceeding, the court of appeal did not reach the merits of the controversy.
+
+[2]  In its entirety Section 21(B) provides:
+
+(B) Powers and Duties. The commission shall regulate all common carriers and public utilities and have such other regulatory authority as provided by law. It shall adopt and enforce reasonable rules, regulations, and procedures necessary for the discharge of its duties, and shall have other powers and perform other duties as provided by law.
+
+[3]  In its entirety Section 21(C) provides:
+
+(C) Limitation. The commission shall have no power to regulate any common carrier or public utility owned, operated, or regulated on the effective date of this constitution by the governing authority of one or more political subdivisions, except by the approval of a majority of the electors voting in an election held for that purpose; however, a political subdivision may reinvest itself with such regulatory power in the manner in which it was surrendered. This Paragraph shall not apply to safety regulations pertaining to the operation of such utilities.
+
+[4]  Section 123 E was referred to by the PSC in declining jurisdiction in this case.
+
+[5]  La.Rev.Stat. 45:1164 B provides that the powers of the PSC in Section 1163 shall not apply to a public utility owned or operated by a municipality.
+
+[6]  The parties may wish to stipulate in the district court to the record and judgment in the original proceedings, thereby expediting the matter to the court of appeal for a decision on the merits.

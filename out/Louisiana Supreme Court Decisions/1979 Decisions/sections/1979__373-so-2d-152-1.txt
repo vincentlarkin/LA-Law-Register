@@ -1,0 +1,101 @@
+63680
+State v. Bosworth
+https://law.justia.com/cases/louisiana/supreme-court/1979/373-so-2d-152-1.html
+
+63680
+State v. Bosworth
+Court: Louisiana Supreme Court
+Release date: 1979-06-25
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/373-so-2d-152-1.html
+
+373 So. 2d 152 (1979)
+
+STATE of Louisiana
+v.
+Gerald A. BOSWORTH.
+
+No. 63680.
+
+Supreme Court of Louisiana.
+
+June 25, 1979.
+
+Robert Glass, Glass & Reed, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Norval J. Rhodes, Dist. Atty., James L. Alcock, Asst. Dist. Atty., for plaintiff-appellee.
+
+DIXON, Justice.
+
+On January 12, 1977 the grand jury for Terrebonne Parish returned two indictments against Gerald A. Bosworth for the offense of contributing to the delinquency of a minor, a violation of R.S. 14:92 A(9). After an initial plea of not guilty, the defendant pleaded guilty to one indictment on August 24, 1977; the prosecution subsequently dismissed the other. On the date set for sentencing, the defense filed a motion for production of the pre-sentence investigation report which was denied after oral argument. Application was made for   supervisory writs, and on June 19, 1978 this court ordered disclosure of the report and stated that the defendant must be given an opportunity to explain or deny any information contained in it.
+360 So. 2d 173
+(La. 1978).
+
+A sentencing hearing was conducted on September 8, 1978 at which the defense presented the testimony of Dr. Charles Billings, a psychiatrist who had treated Bosworth for over eighteen months.[1] On October 27, 1978 the defendant was sentenced to one year of imprisonment at hard labor. The defense objected to the sentence on three grounds which are now before the court on appeal.[2]
+
+In this assignment of error, the defense contends that the trial judge erred in treating a violation of R.S. 14:92 as a felony rather than a misdemeanor.
+
+This assignment stems from the passage of conflicting amendments to R.S. 14:92 during the 1968 session of the legislature. In 1966 the legislature amended the penalty for contributing to the delinquency of a juvenile from a fine of $500 and one year imprisonment to a $1000 fine and two years imprisonment in parish prison, Act 481 of 1966. Act 486 of 1968 redefined subsections A(3) and A(8) and reworded the statute's penalty provision:
+
+Act 486 dealt only with the provisions of R.S. 14:92. On the other hand, Act 647 of 1968 amended or reenacted a large number of misdemeanor statutes, including R.S. 14:92. Act 647 was designated emergency legislation and was adopted in response to the Supreme Court's decision in Duncan v. Louisiana,
+391 U.S. 145
+, 88 S. Ct. 1444, 20 L. Ed. 2d 491 (1968), which held that a defendant was entitled to a jury trial when exposed to a prison sentence in excess of six months. By Act 647, the legislature weighed the expense of providing jury trials against the need for penalties in excess of six months, then enhanced some penalties and reduced others. Act 647 enhanced the penalty for a violation of R.S. 14:92 by providing the possibility of punishment at hard labor:
+
+Therefore, under the terms of Act 486, a violation of R.S. 14:92 was to remain a misdemeanor, but Act 647 converted the crime into a felony because it provided imprisonment at hard labor as a possible penalty. R.S. 14:2(4); C.Cr.P. 933.
+
+The conflict between these penalty provisions was first addressed by this court in State v. Seals, 343 So. 2d 717 (La.1977).[3] In that case, the defendants had pleaded guilty to violations of R.S. 14:92 in Plaquemine City Court, but appealed on the ground that the court had jurisdiction only in misdemeanor cases, R.S. 13:1894, and therefore   could not accept their pleas. In annulling their convictions and sentences, this court declared that the provisions of Act 687 prevailed over those of Act 486 and that the crime of contributing to the delinquency of a juvenile was therefore a felony which the city court was not competent to entertain. In reaching this decision, the court stated that the last statute in order prevailed in case of a direct conflict, State v. St. Julian, 221 La. 1018,
+61 So. 2d 464
+(1952), but noted that both acts were passed on the same day, July 10, 1968, and were signed by the governor on the same day, July 20, 1968. However, the court noted that Article 3, § 26 of the Louisiana Constitution of 1921[4] required acts to be taken to the governor at once after they were signed by the president of the senate and the speaker of the house, and from this provision reasoned that the last bill delivered to the governor, in this case Act 687, was the final expression of the legislature. This interpretation was first articulated in an opinion of the attorney general, 1956 Report and Opinions of the Attorney General, 121, and was adopted by the First Circuit in State v. Toups, 95 So. 2d 55 (La.App.1957).[5]
+
+However, on reconsidering the issue it appears that the rationale of Seals was incorrect, although leading to a proper result. A determination of which penalty provision prevailed was actually unnecessary to the decision since the city court could not have exercised jurisdiction under the provisions of either act. Both acts provide for a maximum penalty of two years imprisonment which, under Duncan v. Louisiana, supra, triggers the constitutional requirement that a jury trial be available to the defendant. However, R.S. 13:1895 specifically provides that prosecutions in city courts are to be tried without a jury. It is therefore clear that a prosecution begun under either penalty provision was improper in a city court. See State v. Seals, 343 So. 2d 717,
+720
+(Dixon, J. concurring).
+
+Moreover, it is a fundamental principle of statutory construction that penal provisions are interpreted strictly in favor of the defendant, who must be afforded the benefit of genuine ambiguity. Huddleston v. United States,
+415 U.S. 814
+, 94 S. Ct. 1262, 39 L. Ed. 2d 782 (1974); United States v. Wiltberger, 5 Wheat. 76, 5 L. Ed. 37 (1820); State v. Young,
+357 So. 2d 503
+(La.1978); State v. Brunson, 162 La. 902, 111 So. 321 (1927). This principle must apply when the legislature has provided conflicting penalties for the same crime; the reasoning used in Toups and adopted in Seals is perhaps appropriate when the issue is a salary increase (the question raised in Toups), but it has no place when a possible deprivation of liberty is involved. As Sutherland notes:
+
+In addressing a similar problem, the Supreme Court of Utah stated:
+
+See also: Gee v. State, 225 Ga. 669,
+171 S.E.2d 291
+(1969); Curtis v. State, 102 Ga. App. 790,
+118 S.E.2d 264
+(1960); People v. Hoaglin, 262 Mich. 162, 247 N.W. 141 (1933); People v. Lockhart, 242 Mich. 491, 219 N.W. 724 (1928); State v. Levin, 587 P.2d 124 (Utah 1978); State v. Fair, 23 Utah 2d 34,
+456 P.2d 168
+(1969).
+
+At the time of the instant offense, the statute under which the defendant was prosecuted provided two conflicting punishments, one of which rendered the crime a felony while the other retained the crime's misdemeanor status. As a matter of statutory construction, R.S. 14:92 should be interpreted strictly in the defendant's favor and he should therefore reap the benefit of the legislature's ambiguous pronouncements.
+
+It is also significant that the legislature at last removed the conflict in the penalty provision by Act 121 of 1976 which provides misdemeanor status for the crime except for violation of subsection A(7), a subsection not at issue in the instant case.[6] Although Act 121 was not in effect at the time of the instant offense, its passage suggests that Act 486 of 1968, which retained misdemeanor status for the crime, expressed the intent of the legislature, despite its earlier delivery to the governor. For these reasons, we conclude that the defendant should be afforded the advantage of the lesser punishment provided by the conflicting amendments, and we therefore overrule the decisions in State v. Seals, 343 So. 2d 717 (La. 1977) and State v. Elias,
+357 So. 2d 275
+(La. 1978), insofar as they are inconsistent with the decision rendered today.
+
+For the reasons assigned, the sentence of Gerald A. Bosworth is reversed and the case is remanded to the district court for resentencing in accordance with the views herein expressed.
+
+SUMMERS, C. J., and MARCUS, J., dissent.
+
+BLANCHE, J., recused.
+
+[1]  Dr. Billings testified that he had diagnosed Bosworth as a manic-depressive and that he believed the defendant's criminal behavior was caused by the violent shifts in mood and attitude which are characteristic for manic-depressives. He also stated that the defendant had improved after using lithium carbonate, a drug frequently used in the treatment of manic-depressives.
+
+[2]  The defense raised three assignments of error; that the trial court erroneously treated a violation of R.S. 14:92 as a felony rather than a misdemeanor; that the trial judge incorrectly applied, and in part ignored, the sentencing criteria provided in Article 894.1 of the Code of Criminal Procedure; and that the sentence violated Article 1, § 20 of the Louisiana Constitution as being excessive. The first assignment has merit; the second and third are not considered.
+
+[3]  In State v. Coleman, 290 So. 2d 906 (La. 1974), a writ was granted ordering the district court to afford the defendant a preliminary examination for charges of contributing to the delinquency of a juvenile which the court characterized as a felony.
+
+[4]  Article 3, § 26 of the Louisiana Constitution of 1921 provided:
+
+"Whenever a bill that has been passed by both houses has been enrolled and placed in possession of the house in which it originated, the title shall be read, and at the request of any five members, the bill shall be read in full, when the Speaker of the House of Representatives or the President of the Senate, as the case may be, shall at once sign it in open house, and the fact of signing shall be noted in the journal; thereupon the clerk or secretary shall immediately convey the bill to the other house, whose presiding officer shall cause a suspension of all other business to read and sign the bill in open session and without delay. As soon as bills are signed by the Speaker of the House and President of the Senate, they shall be taken at once, and on the same day, to the Governor by the clerk of the House of Representatives or secretary of the Senate."
+
+[5]  The reasoning of Seals was followed in State v. Elias,
+357 So. 2d 275
+(La.1978).
+
+[6]  Act 121 of 1976 provides in pertinent part:
+
+"C. Whoever commits the crime of contributing to the delinquency of a juvenile shall be fined not more than five hundred dollars, or imprisoned for not more than six months, or both.
+
+D. Whoever is charged and convicted of contributing to the delinquency of a juvenile under Paragraph (7) of Subsection A of this Section shall be fined not more than one thousand dollars, or imprisoned with or without hard labor for not more than two years, or both."

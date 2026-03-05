@@ -1,0 +1,75 @@
+67030
+State v. Dyer
+https://law.justia.com/cases/louisiana/supreme-court/1980/388-so-2d-374-1.html
+
+67030
+State v. Dyer
+Court: Louisiana Supreme Court
+Release date: 1980-09-03
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/388-so-2d-374-1.html
+
+388 So. 2d 374 (1980)
+
+STATE of Louisiana
+v.
+Arnold R. DYER.
+
+No. 67030.
+
+Supreme Court of Louisiana.
+
+September 3, 1980.
+
+Dissenting Opinion September 24, 1980.
+
+*375 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Michael W. Campbell, Louise S. Korns, Asst. Dist. Attys., for plaintiff-relator.
+
+Charles Michael Winters, New Orleans, for defendant-respondent.
+
+MARCUS, Justice.
+
+Arnold R. Dyer was charged by bill of information with attempted concealment of a firearm on his person in violation of La.R.S. 14:27 (La.R.S. 14:95). Defendant filed a motion to quash the information contending that it failed to charge an offense which is punishable under a valid statute. The trial judge granted the motion. On the state's application, we granted certiorari under our supervisory jurisdiction to review the correctness of this ruling.[1]
+
+The facts as supplied by defendant's memorandum in support of his motion to quash are as follows: At about 11:45 p.m. on January 14, 1980, as defendant was walking down a street in New Orleans, he was observed by a police officer who noticed a weapon protruding from defendant's right front pocket. The officer arrested defendant for carrying a concealed weapon. Subsequently, defendant was charged by information with an attempt to conceal a weapon on his person.
+
+No evidence was adduced at the hearing on defendant's motion to quash. The issue was submitted on the pleadings. Though the trial judge's reasons for granting defendant's motion do not appear in the record, the state, in brief to this court, states that the trial judge found there can be no attempt to carry a concealed weapon.
+
+La.R.S. 14:95(A)(1) provides:
+
+A. Illegal carrying of weapons is:
+
+In State v. Fluker,
+311 So. 2d 863
+(La. 1975), we stated that:
+
+We further stated in Fluker:
+
+La.R.S. 14:27 provides that an attempt, specific intent to commit a crime and an act in furtherance of the purpose, is a separate but lesser grade of the intended crime and La.R.S. 14:5 provides that one who commits an offense which includes all of the elements   of other lesser offenses may be prosecuted for and convicted of either the greater offense or one of the lesser and included offenses.
+
+In prosecutions for illegal carrying of weapons, the state must prove that a defendant specifically intended to conceal the weapon on his person. Because a defendant's guilt is based on his intent to conceal, rather than the extent of his concealment, his conduct would be such that he either did or did not commit the substantive offense. In other words, the nature of the offense is such that proof of the attempted offense proves the substantive offense, as the elements of the attempted offense are the same as that of the substantive offense. Hence, it is obvious that attempted concealment, comprising the identical elements, cannot be a "lesser grade" of La.R.S. 14:95(A)(1). Proof of the elements of attempted concealment would not be proof of a "lesser offense" under La.R.S. 14:5 but would be proof of the greater offense alone. Accordingly, we agree with the trial judge's ruling that there can be no attempt to carry a concealed weapon.
+
+For the reasons assigned, the ruling of the trial judge granting defendant's motion to quash the bill of information is affirmed.
+
+LEMMON, J., dissents and assigns reasons.
+
+DENNIS, J., dissents with reasons.
+
+LEMMON, Justice, dissenting.
+
+The circumstances of a particular case may show that a person has the specific intent to conceal a weapon and has done an act tending directly toward the accomplishment of that object, despite the fact that the proscribed concealment was not in fact accomplished. Under such circumstances the person would be guilty of attempted illegal carrying of weapons.
+
+There are some crimes which are not susceptible of an attempt, usually because the specific intent required for an attempt by R.S. 14:27 is not compatible with the elements of the particular crime. For example, since one cannot have a specific intent to commit the offense of negligent homicide, there can be no such crime as attempted negligent homicide. But one can specifically intend to conceal a weapon, and an unsuccessful effort to accomplish concealment is attempted illegal carrying of weapons.[1]
+
+Defendant was charged with an offense punishable under a valid statute, and the motion to quash the bill of information should have been denied.
+
+DENNIS, Justice, dissenting.
+
+I respectfully dissent.
+
+Under the statutory scheme, it appears to me that the crime of illegal carrying of weapons requires proof that the defendant had the general intent to conceal a firearm and that he actually concealed the weapon, La.R.S. 14:95(A)(1); whereas, attempted illegal carrying of a weapon would require the prosecution to prove that the defendant had the specific intent to commit the crime and that he committed an act toward concealment. La.R.S. 14:27; 95(A)(1).
+
+[1]  381 So. 2d 1243 (La. 1980).
+
+[1]  As a practical matter an attempted concealment of weapons, without actual concealment, will seldom occur. Furthermore, there is a real danger that a person (such as the defendant in the Fluker case) legally carrying a partially concealed weapon will be charged by an overzealous policeman or prosecutor with attempted illegal carrying of weapons. Nevertheless, it is possible to attempt to commit the offense of illegal carrying of weapons, and any prosecutorial abuse can probably be corrected by the trial court or by appellate review for sufficiency of evidence of specific intent, and if this solution is not workable, the Legislature can correct the problem.

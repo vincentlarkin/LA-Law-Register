@@ -1,0 +1,91 @@
+59274
+State v. Hall
+https://law.justia.com/cases/louisiana/supreme-court/1977/350-so-2d-141-1.html
+
+59274
+State v. Hall
+Court: Louisiana Supreme Court
+Release date: 1977-09-19
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/350-so-2d-141-1.html
+
+350 So. 2d 141 (1977)
+
+STATE of Louisiana
+v.
+DeWayne F. HALL.
+
+No. 59274.
+
+Supreme Court of Louisiana.
+
+September 19, 1977.
+
+*142 Johnnie A. Jones, Adair D. Jones, Jones & Jones, Baton Rouge, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie B. Brown, Dist. Atty., Marilyn C. Castle, Asst. Dist. Atty., for plaintiff-appellee.
+
+MARCUS, Justice.
+
+DeWayne F. Hall was charged by bill of information with armed robbery in violation of La.R.S. 14:64. At the time of the commission of the offense, defendant was sixteen years of age. Pursuant to La. R.S. 13:1571.1, et seq., he was transferred from the juvenile court to the criminal district court for trial as an adult.[1] After trial by jury, defendant was found guilty as charged and was sentenced to serve five   years and six months at hard labor without benefit of parole, probation or suspension of sentence with credit given toward service of sentence for time spent in custody prior to imposition of sentence. On appeal, defendant relies on six assignments of error for reversal of his conviction and sentence.[2]
+
+Defendant contends that the trial judge erred in overruling his exception to the jurisdiction of the court.
+
+At trial, defendant claimed that the district court lacked jurisdiction to try him because the juvenile court which transferred him to district court for trial as an adult lacked personal jurisdiction over him. Defendant abandons this argument on appeal and contends instead under this assignment of error and in brief to this court that the statutes authorizing the transfer of certain juveniles to district court and providing rules for the conduct of a transfer hearing, La.R.S. 13:1571.1, et seq., are unconstitutional. He argues that the statutes are fatally infirm in that they authorize the juvenile court to look at the prior arrest and conviction records of a juvenile in determining whether he should be transferred without making such records available to his attorney and because different attorneys may be appointed to represent the juvenile at the transfer hearing and subsequent adult trial.
+
+In State v. Everfield,
+342 So. 2d 648
+(La.1977), we held that the due process requirement of access by defense counsel to all social, probation and other reports relevant to the issue of transfer or considered by the court in making its determination is a procedural safeguard implicitly embodies in our transfer statute. Accordingly here, as in State v. Everfield, we find it unnecessary to rule our transfer statute unconstitutional. Moreover, in the instant case the written reasons for transfer rendered by the juvenile judge reflect that the juvenile's defense counsel was given notice of his right to examine all judicial and social records and that an order was directed to the custodian of the records to insure their availability. Hence, the procedural safeguard of access to all such relevant material was accorded in defendant's case.
+
+Defendant's argument that the transfer statute is unconstitutional for permitting the appointment of a different attorney to represent a defendant at the transfer hearing and subsequent trial in district court is similarly without merit. While access to effective assistance of counsel at a juvenile transfer hearing is constitutionally required, Kent v. United States,
+383 U.S. 541
+, 86 S. Ct. 1045, 16 L. Ed. 2d 84 (1966), we have been cited no authority for the proposition that a transfer statute is unconstitutional unless it provides for representation by the same attorney at the subsequent trial. It may be preferable to have a single attorney represent a defendant throughout the entire procedure; however, there is no constitutional right in this regard. Moreover, defendant makes no allegation that his representation by a different attorney in district court was in any way prejudicial to his defense. Nor does he claim ineffective assistance of counsel.
+
+Hence, we find no merit in defendant's contention that the statutory provisions for transfer of juveniles for trial in district court are unconstitutional either on their face or as applied.
+
+For the first time in brief, defendant additionally asserts that his trial in district court constituted double jeopardy after the transfer hearing. It is well settled that a new basis for an objection cannot be raised for the first time on appeal. State v. Marks,
+337 So. 2d 1177
+(La.1976). In any event, the United States Supreme Court in Breed v. Jones,
+421 U.S. 519
+, 95 S. Ct. 1779, 44 L. Ed. 2d 346 (1975) held that double jeopardy bars retrial in a criminal district court only after an adjudicatory hearing in juvenile court. The Court clearly   stated that a double jeopardy issue is not presented where a transfer hearing is limited to a determination of the merits of transfer even if evidence of probable cause is admitted relative to the transfer issue. La.R.S. 13:1571.1, et seq., authorizes a hearing to ascertain whether certain juveniles should be transferred to the jurisdiction of an adult criminal court. The hearing is not adjudicatory in nature. Only such evidence may be introduced at the transfer hearing which pertains to the transfer criteria stated in La.R.S. 13:1571.1 and to determine whether probable cause exists that the child committed the acts alleged in the original petition. La.R.S. 13:1571.4. Thus, defendant in this case was not twice placed in jeopardy.
+
+Assignment of Error No. 1 is without merit.
+
+Defendant contends the trial judge erred in denying his motion for a new trial.
+
+In his motion for a new trial, defendant urged that two rulings of the trial judge pursuant to defense objections demonstrated prejudicial error. The first ruling complained of concerned jurisdiction of the juvenile court which held the transfer hearing in the instant case. Defendant abandons this basis for his new trial motion on appeal. Defendant secondly complained of the ruling of the trial judge denying his motion to suppress an oral confession. Defendant contends that the confession was not free and voluntary because the Miranda warnings given him prior to his confession did not include an additional warning that he might be transferred for trial as an adult in criminal court. We find no merit to this argument. In In re Gault,
+387 U.S. 1
+, 87 S. Ct. 1428, 18 L. Ed. 2d 527 (1967), the United States Supreme Court extended its holding in Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966) to juveniles. The decision did not, however, indicate that juveniles are entitled to be warned respecting concerns beyond the issues of self-incrimination and right to counsel addressed in Miranda. We are satisfied that there is no constitutional requirement that a juvenile be instructed as to the courts in which he may be tried or the potential penalties which may accompany his offenses before he can waive his Miranda rights and make a free and voluntary confession. The "warnings" proposed by defendant would require arresting officers to offer legal counsel as to whether a particular juvenile might be subject to transfer proceedings. In many cases, such advice would require familiarity with a juvenile's past record. Indeed, in the instant case, the arresting officers were not even aware that defendant was a juvenile. As a matter of fact, defendant was originally booked and charged as an adult in the district court by mistake prior to his transfer to the juvenile authorities.
+
+La.R.S. 15:451 provides that, before a confession can be introduced into evidence, the state has the burden of affirmatively proving that it was free and voluntary and not made under the influence of fear, duress, intimidation, menaces, threats, inducements or promises. It must also be established that an accused who makes a confession during custodial interrogation was first advised of his Miranda rights. Miranda v. Arizona, supra. While close scrutiny is required in determining whether the state has met its heavy burden of demonstrating that the confession of a juvenile was free and voluntary, we have held that the age of a defendant does not of itself render a confession involuntary. State v. Ross,
+343 So. 2d 722
+(La.1977); State v. Sylvester,
+298 So. 2d 807
+(La. 1974). See also West v. United States, 399 F.2d 467 (5th Cir. 1968), cert. denied, 393 U.S. 1102, 89 S. Ct. 903, 21 L. Ed. 2d 795 (1969).
+
+The record reflects that defendant in this case was fully informed of his Miranda rights on several occasions and that he signed a waiver of rights form. It additionally demonstrates that defendant was not threatened, abused, coerced or promised anything in return for his confession. Defendant   presented no evidence to controvert the voluntary nature of his confession. After reviewing the record, we are convinced that the state satisfied its burden of affirmatively proving that defendant's confession was freely and voluntarily made after defendant had been fully advised of his Miranda rights. Accordingly, since there is no constitutional requirement of further "warnings," the trial judge did not err in denying defendant's motion to suppress and in admitting his confession in evidence.
+
+The third basis for defendant's new trial motion was that he was denied a trial by a jury of his peers inasmuch as he was not tried by a jury of juveniles. The record reveals that defendant neither filed a motion to quash nor made any objection at trial to the composition of the jury. Accordingly, defendant has waived his objection to this alleged error. La.Code Crim.P. arts. 535 B(2), 535 D and 841; State v. Lewis,
+288 So. 2d 324
+(La.1974). In any event, there is no merit to defendant's contention. He was tried as an adult in criminal district court under the Louisiana Code of Criminal Procedure which fixes the minimum age of jurors at eighteen. La.Code Crim.P. art. 401(2).
+
+Defendant finally argues that the provisions of La.R.S. 13:1569, et seq., are unconstitutional in that a prosecution of a minor child is permitted thereunder without affording the child the same constitutional protections afforded an adult likewise charged. Defendant fails to specify, however, wherein his constitutional rights have been infringed. In Kent v. United States,
+383 U.S. 541
+, 86 S. Ct. 1045, 16 L. Ed. 2d 84 (1966), the Supreme Court indicated that juvenile transfer procedures are constitutionally adequate where they provide for: (1) a hearing with effective assistance of counsel; (2) access by defense counsel to all social, probation and other reports relevant to the issue of transfer or considered by the court in making its determination; and (3) a statement setting forth the reasons for the juvenile court ruling with sufficient specificity to permit meaningful review. These procedural safeguards are either expressly or implicitly embodied in Louisiana's transfer statute. State v. Everfield,
+342 So. 2d 648
+(La.1977). Furthermore, La.R.S. 13:1571.1, et seq., expressly provides for the constitutional rights extended to juveniles in In Re Gualt, supra. La.R.S. 13:1571.1 A(2) provides for a hearing on whether the transfer should be made. A juvenile is entitled to written notice of the time, place and purpose of the hearing at least ten days before the hearing (La.R.S. 13:1571.1 A(3)); the trial judge must find that there are reasonable grounds to believe that the child is not amenable to treatment or rehabilitation through facilities available to the juvenile court (La.R.S. 13:1571.1 A(4)); a juvenile is entitled to introduce evidence in his own behalf, to confront and cross-examine witnesses against him and to refuse to incriminate himself (La.R.S. 13:1571.4); and he has a right to counsel or to have counsel appointed in case of his indigency (La.R.S. 13:1571.3). Moreover, a juvenile is entitled to a record of the proceedings on request and to appellate review of the judgment of the transferring court. La.R.S. 13:1571.2; La.R.S. 13:1571.4 B. The record indicates that defendant was afforded these rights in the instant case. We are satisfied that the juvenile transfer statute provides for all constitutional rights to which defendant was entitled. Once defendant was transferred for trial as an adult in district court, he was subject to the same procedural rules and entitled to the same constitutional guarantees afforded any adult similarly charged and tried. There is no indication whatsoever that defendant was treated otherwise. Accordingly, defendant's claim that the transfer statute permits a juvenile to be prosecuted without being afforded the constitutional rights afforded adults similarly situated is groundless.
+
+In view of the foregoing, we are unable to say the trial judge erred in denying defendant's motion for a new trial. Assignment of Error No. 5 is without merit.
+
+For the reasons assigned, the conviction and sentence are affirmed.
+
+[1]  The record reflects that defendant did not apply to this court for a writ of review of the transfer order or designate the transfer order as error to be urged on appeal to this court. La.R.S. 13:1571.4B; La.Code Crim.P. arts. 844 and 920.
+
+[2]  Assignments of Error Nos. 2, 3, 4 and 6 have been neither briefed nor argued. Therefore, we consider these assignments or error to have been abandoned. State v. Blanton,
+325 So. 2d 586
+(La.1976); State v. Carlisle,
+315 So. 2d 675
+(La.1975).

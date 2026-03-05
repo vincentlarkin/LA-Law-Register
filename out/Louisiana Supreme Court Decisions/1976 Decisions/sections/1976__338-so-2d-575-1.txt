@@ -1,0 +1,181 @@
+56909
+Jackson v. D'AUBIN
+https://law.justia.com/cases/louisiana/supreme-court/1976/338-so-2d-575-1.html
+
+56909
+Jackson v. D'AUBIN
+Court: Louisiana Supreme Court
+Release date: 1976-02-23
+Author: SANDERS, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/338-so-2d-575-1.html
+
+338 So. 2d 575 (1976)
+
+Virgil T. JACKSON, Jr., Testamentary Executor of the Succession of Mrs. Edith Forbes Jackson
+v.
+Leo G. D'AUBIN et al.
+
+No. 56909.
+
+Supreme Court of Louisiana.
+
+February 23, 1976.
+
+On Rehearing October 6, 1976.
+
+*576 C. Alvin Tyler & Associates, Baton Rouge, for defendant-respondent.
+
+Ashton L. Stewart, Laycock, Stewart & Preis, Baton Rouge, for plaintiff-applicant.
+
+SANDERS, Chief Justice.
+
+This proceeding commenced when the testamentary executor of the Succession of Mrs. Edith Forbes Jackson sought a judicial partition by licitation of certain immovable property located in East Baton Rouge Parish, specifically Lots 3 and 4 of Square 11 of the Devall Town Subdivision. The estate of Mrs. Jackson claimed to be the owner of an undivided one-half interest in the property and named the other claimants as defendants in the partition proceeding.
+
+After a hearing, the district court ordered the partition by licitation of the property and appointed a Notary Public to effect the partition. In his proces verbal dated February 18, 1974, the notary reported that the property was sold at public auction on February 6, 1974, for the price of $157,000.00 cash. After deducting the expenses of the sale, the proceeds remaining for distribution were deposited in the registry of the court because the notary's report also showed   that certain claims to the deposit proceeds required a determination by the court.
+
+The pertinent facts as found by the Court of Appeal are virtually undisputed:
+
+Thus, two parties claimed the one-eighth interest of William P. Jackson, II, in the property, namely, the trustees of the spendthrift trusts and the purchaser at the tax sale. The district court dismissed the claim of the tax purchaser, recognizing the claim of the trustees.
+
+The Court of Appeal reversed, upholding the claim of the tax purchaser. La.App., 316 So. 2d 478 (1975). On application of the trustees, we granted certiorari to review the judgment. La., 320 So. 2d 910 (1975). After consideration, we affirm the judgment of the Court of Appeal.
+
+In determining whether and to what extent a taxpayer has property rights to which a federal tax lien can attach, both federal and state courts must look to state law. Aquilino v. U. S.,
+363 U.S. 509
+, 80 S. Ct. 1277, 4 L. Ed. 2d 1365 (1960). The applicable federal statute, 26 U.S.C. § 6321, providing that the United States is entitled to a lien upon all property rights belonging to a person who has failed to pay any tax, creates no property rights but merely attaches federally defined consequences to rights created under state law. U. S. v. Bess,
+357 U.S. 51
+, 78 S. Ct. 1054, 2 L. Ed. 2d 1135 (1958). The quitclaim deed executed by the United States conveyed to D'Aubin "all the right, title, and interest of said taxpayers" in and to the described real estate. We are required, therefore, to make a determination of what rights, if any, the United States actually conveyed to D'Aubin under Louisiana law.
+
+The trustees contend that the ownership of the property vested in the testamentary trustee immediately upon the settlor's death, and the Court of Appeal failed to recognize that the trustee, rather than the beneficiary, owned the property at the time of the seizure and sale for the delinquent taxes of the beneficiary.
+
+We agree that under Article 940 of the Louisiana Civil Code and LSA-R.S. 9:1821, the trust was created at the moment of the settlor's death. At that time, title to the property making up the corpus of the trust vested in the trustee named in the will. However, the trust instrument was not recorded in East Baton Rouge Parish, where the property in question was located. This omission to record brings into operation another provision of the Trust Code, LSA-R.S. 9:2092, which, in our opinion, is controlling. That section provides:
+
+We hold that under LSA-R.S. 9:2092, an unrecorded trust instrument has no effect insofar as immovables are concerned, except between the immediate parties. It is null and void as to all others.
+
+Article 2266 of the Louisiana Civil Code is the basis of the general Public Records Doctrine. This Court has recognized an exception to the general doctrine in holding that the absence of recordation is not fatal to the rights of forced heirs and others whose rights vest by operation of law. See, e. g., Long v. Chailan, 187 La. 507, 175 So. 42 (1937); Knighten v. Ruffin, La.App., 255 So. 2d 388 (1971).
+
+This exception, in our opinion, is inapplicable to the trustee of a testamentary trust. A trust is a creature of statute. Section 2092 of the Trust Code makes it mandatory for the trustee to record the trust instrument in order to affect third parties. To give an unrecorded trust instrument greater effect than the statute provides would, in our opinion, defeat the purpose of the recordation requirement.
+
+Since the recording requirement applies, actual knowledge of the trust on the part of the tax purchaser does not alter the result. See American Creosote Company v. Springer, 257 La. 116,
+241 So. 2d 510
+(1970); Ewald v. Hodges, 239 La. 883,
+120 So. 2d 465
+(1960); Blevins v. Manufacturers Record Publishing Company, 235 La. 708,
+105 So. 2d 392
+(1958); McDuffie v. Walker, 125 La. 152, 51 So. 100 (1910).
+
+Our holding in this case should not be construed to mean that reliance by a purchaser upon a judgment of possession is sufficient in all cases, or even in this case. We hold narrowly that when a succession includes a testamentary trust, the trust instrument must be recorded in the parish where the immovable property is located in order to affect third parties.
+
+Having concluded that in effect no trust existed as to the purchaser at the tax sale, we need not reach the other issues raised.
+
+For the reasons assigned, the judgment of the Court of Appeal is affirmed.
+
+DIXON, J., dissents.
+
+MARCUS, J., dissents and assigns reasons.
+
+MARCUS, Justice (dissenting).
+
+I agree with the majority that title to the immovable property vested immediately in the trustee upon the death of Virgil T. Jackson, despite the fact that the judgment of possession rendered in his succession proceeding failed to mention the trust he had established in her will. La.Civil Code art. 940 (1870); La.R.S. 9:1821. I disagree with the majority insofar as it holds that the trust has no efficacy vis-a-vis the tax purchaser because the trust instrument was not recorded in accordance with La.R.S. 9:2092. In my view, the Public Records Doctrine is inapplicable in this case. A judgment of possession that places the wrong person in possession, like the one rendered herein, even if recorded does not defeat the rights of the true owner of the property, in this case the trustee. Although a ten-year prescription may bar the trustee's action against a third person who purchases the property, La.R.S. 9:5682, as amended, La.Acts 1975, No. 642, § 1, the facts show that this prescription had not yet accrued.
+
+Provided that proper notice was given (an issue the majority does not reach), the United States was entitled to seize all the right, title, and interest of William P. Jackson in the immovable property. The tax purchaser to whom it executed a quitclaim deed acquired no greater interest in the property than that owned by Jackson. In such a case, the tax purchaser would acquire the interest of Jackson subject to the trust.
+
+Accordingly, I respectfully dissent.
+
+MARCUS, Justice.
+
+We granted a rehearing in this case involving a dispute over one-eighth of the proceeds from the sale of certain immovable   property located in East Baton Rouge Parish[1] between the trustees of a spendthrift trust and the tax purchaser of a beneficiary's interest in the property. The district court dismissed the claim of the tax purchaser and recognized that of the trustees. The court of appeal reversed, upholding the tax purchaser's claim. 316 So. 2d 478 (La.App. 1st Cir. 1975). We granted certiorari upon the application of the trustees, 320 So. 2d 910 (La.1975), and, on original hearing, affirmed the judgment of the court of appeal.
+
+The facts in this case were set forth in our original opinion and will be repeated herein insofar as they are pertinent to our discussion.
+
+Virgil T. Jackson, Sr. died testate on November 10, 1959, survived by his wife, Mrs. Edith Forbes Jackson, and four children, Mrs. Mildred Jackson Koestering, Mrs. Dorothy Jackson Stevens, Virgil T. Jackson, Jr., and William P. Jackson II. In his statutory will, he bequeathed various particular legacies to his wife and his two daughters and left to each of his four children an undivided one-fourth interest in his residuary estate, consisting entirely of community property, subject to a usufruct in favor of his wife and further subject to a separate spendthrift trust established in favor of each child for the duration of his or her life. The settlor directed that the income from each trust be payable upon accrual to the usufructuary and, after her death, to the beneficiaries. He appointed his wife the trustee of each trust and the National Bank of Commerce in New Orleans the successor trustee. The trust instrument was drawn in great detail, as is evident from the fact that the portion establishing the trust accounts for more than six pages of the seven-page testament.
+
+After the will was duly probated on November 18, 1959 in Jefferson Parish, the settlor's domicile at the time of his death, the settlor's widow and all of his children except William P. Jackson II petitioned the court to be sent into possession of his estate. Upon this petition, the district court on March 10, 1960 signed an ex parte judgment of possession omitting all reference to the testamentary trust and sending Mrs. Edith Forbes Jackson into possession of the usufruct of the settlor's residuary estate (which included a one-half interest in the subject immovable property) and recognizing and sending into possession his four children as naked owners thereof in indivision. The judgment of possession was registered in the conveyance records for the Parish of East Baton Rouge on March 11, 1960.
+
+Approximately five years afterwards, the United States seized the interest of William P. Jackson II in the subject immovable property for the satisfaction of delinquent income taxes and sold all of his "right, title, and interest" in the property to Leo G. D'Aubin at a public sale on August 3, 1965. William P. Jackson II was served with notice of the seizure and sale. Then, on August 16, 1966, the United States executed a quitclaim deed conveying William P. Jackson II's interest to D'Aubin.
+
+Mrs. Edith Forbes Jackson died on October 6, 1971. On March 1, 1973, an amended judgment of possession was obtained in the succession of Virgil T. Jackson, Sr. that recognized the spendthrift trusts he had established in his will. Because of the refusal of the National Bank of Commerce in New Orleans to serve as trustee, Virgil T. Jackson, Jr. and Emile Rainold III were named dative co-trustees of the beneficiaries' interests and were placed in possession of the trust property. On October 13, 1972, Virgil T. Jackson, Jr. was also appointed testamentary executor of his mother's succession.
+
+The instant proceeding commenced when Virgil T. Jackson, Jr., as testamentary executor of the succession of Mrs. Edith Forbes Jackson, filed suit, on May 4, 1973, for a partition by licitation of the subject immovable property in which the decedent owned   an undivided one-half interest. Among those made defendants were the dative cotrustees, the beneficiaries, and Leo G. D'Aubin. The district court, after finding that the property could not be conveniently divided in kind, ordered it partitioned by licitation. On February 6, 1974, the property was sold for $157,000.00 in cash at public sale. Defendant D'Aubin claimed one-eighth of the proceeds by virtue of his purchase of William P. Jackson II's interest in the property. The trustees resisted his claim to any portion of the proceeds on the ground that William P. Jackson II owned no interest in the property because Virgil T. Jackson, Sr. had bequeathed it in trust, and on the ground that the United States had not served the trustees with notice of its seizure of Jackson's interest as required by 26 U.S.C. § 6335.
+
+Title to the property of a testamentary trust vests in the trustee by operation of law upon the settlor's death, and a trustee's acceptance of the trust is retroactive to that date. La.R.S. 9:1781; La.R.S. 9:1821; La.R.S. 9:1823; La.Civil Code arts. 940, 1626 (1870). Even though the trustees in this case did not accept the trust until more than thirteen years after the settlor's death, their failure to accept the trust within a reasonable time after its creation did not cause it to fail. La.R.S. 9:1824, Official Revision Comment (c). Nor did the ex parte judgment of possession omitting mention of the trust and sending the settlor's children into possession of the naked ownership of the residuary estate deprive the trustee of title to the trust property, since a judgment of possession is only prima facie evidence of the relationship of the deceased to the heirs or legatees recognized therein. La.Code Civ.P. art. 3062 (1960); Miller, Judgments of Possession, 35 Tul.L.Rev. 567 (1961).
+
+On original hearing, we held that under La.R.S. 9:2092[2] the trust did not affect D'Aubin, a third party, because the trust instrument was not recorded in the Parish of East Baton Rouge where the subject immovable property is located. It has been consistently held in the jurisprudence, however, that the law of registry is inapplicable where the ownership of, or claim affecting, immovable property (such as the interest in the subject immovable property claimed by the trustees) has been acquired by inheritance and title has become vested by operation of law. Bishop v. Copeland, 222 La. 284,
+62 So. 2d 486
+(1953); Dugas v. Powell, 207 La. 316, 21 So. 2d 366 (1945); Long v. Chailan, 187 La. 507, 175 So. 42 (1937); Knighten v. Ruffin, 255 So. 2d 388 (La.App. 1st Cir. 1971), cert. denied, 260 La. 399, 256 So. 2d 288 (1972); Succession of Rosinski, 158 So. 2d 467 (La.App. 3d Cir. 1963); Vaughan v. Housing Authority of New Orleans, 80 So. 2d 561 (La.App. Orl. 1955).[3] After reconsideration, we do not believe that La.R.S. 9:2092 purports to create an exception to that rule.[4]
+
+Nevertheless, we are still of the opinion that the dispute between the trustees and the tax purchaser should be resolved in the tax purchaser's favor, although for reasons different from those assigned on original hearing.
+
+While, as we stated previously, a judgment of possession is only prima facie evidence of the relationship of the deceased to the recognized heirs or legatees, the legislature has endeavored to give a measure of protection to third persons who acquire property from or through a recognized (but not necessarily a true) heir or legatee. La. R.S. 9:5682, enacted in 1960, provided, prior to its amendment in 1975, as follows:
+
+As we stated in All-State Credit Plan Natchitoches, Inc. v. Ratliff,
+279 So. 2d 660
+(La.1973), the legislature, in enacting this statute, was attempting to balance the opposing interests involved: protection of inheritance rights, especially against possible fraud or abuse of succession procedure; and stabilization of titles, through affording greater prescriptive benefits where third persons rely upon succession judgments. In Trahan v. Broussard, 251 La. 714,
+206 So. 2d 82
+(1968), we held that the prescription established by La.R.S. 9:5682 is acquisitive. In Ratliff, supra, we held that the purpose of the statute was to make the judgment of possession an act translative of title, I. e., just title[5] sufficient to commence the running of the ten-year prescriptive period, and to make ordinary ten-year prescription principles applicable where third persons were involved. We further held in Ratliff that good faith on the part of the recognized heir or legatee was required, since good faith as a general rule is necessary to acquire the ownership of immovable property by the prescription of ten years. La.Civil Code arts. 3473-75 (1870). In 1975, the legislature amended La.R.S. 9:5682, making the prescription liberative, rather than acquisitive, and providing that the good faith or bad faith on the part of the person recognized as heir or legatee in the judgment of possession is immaterial to the running of prescription.[6] This proceeding commenced,   however, before the statute was amended, and therefore is governed by its former provisions.
+
+In our opinion, the tax purchaser has acquired a one-eighth interest in the subject immovable property based on the prescription established by La.R.S. 9:5682.[7]
+
+The tax purchaser acquired his interest in the subject immovable property through William P. Jackson II, a person recognized as an heir or legatee in the judgment of possession. Hence, the tax purchaser is a "third person" under La.R.S. 9:5682. The trustee (now trustees), the unrecognized legatee, failed to assert any right, title, or interest in the property until the amended judgment of possession recognizing the trust was obtained in the succession of Virgil T. Jackson, Sr. on March 1, 1973, more than ten years after registry of the original judgment of possession on March 11, 1960.
+
+The requirement of good faith on the part of the recognized heir or legatee has also been satisfied, for the trustees have failed to prove that William P. Jackson II was in bad faith at the time the judgment of possession omitting the trust was signed in 1960. We note that William P. Jackson II, alone of all the trust beneficiaries (his brothers and sisters), did not join in the petition for possession in 1960. Nor is he shown, on the evidence before us, to have participated in any of the early probate or other proceedings in the succession of his father. Moreover, there is no evidence that William P. Jackson II engaged the attorney who drafted the petition for a judgment of possession in 1960 to represent him in his father's succession. In fact, the signature of William P. Jackson II does not appear on any pertinent document until February 28, 1973, when he joined in the petition for an amended judgment of possession recognizing the trust.
+
+Good faith is always presumed in matters of prescription; and he who alleges bad faith in the possessor must prove it. La.Civil Code art. 3481 (1870). The trustees have presented no evidence whatsoever tending to show that William P. Jackson II was aware that his interest in the property had been left in trust. Accordingly, we conclude that they have not rebutted the presumption that William P. Jackson II was in good faith.[8]
+
+Finally, we find that the tax purchaser and his ancestor in title, William P. Jackson II, were collectively in continuous, uninterrupted,   peaceable, public, and unequivocal possession of the property for ten years after registry of the judgment of possession on March 11, 1960, as La.R.S. 9:5682 requires. It is not disputed that the property was in the possession of Mrs. Edith Forbes Jackson, as owner of an undivided one-half interest and as usufructuary of the other half, during that period. As usufructuary and as a precarious possessor, she possessed the property for the naked owner, who can invoke the possession of the usufructuary for the purpose of completing prescription. La.Code Civ.P. arts. 3656 Comment (b), 3660 (1960); G. Baudry-Lacantinerie et A. Tissier, 28 Traite the orique et pratique de droit civil no. 345, at 181 (4 ed. La.State L. Inst. transl. 1972); A. Yiannopoulos, Personal Servitudes § 49, at 185 n.207 (1968); cf. La.Civil Code art. 3433 (1870); Bell v. Saunders, 139 La. 1037, 72 So. 727 (1916).
+
+The trustees, however, contend that the usufructuary possessed the undivided one-half of the property for the trustee (I. e., for herself) rather than for the persons named in the judgment of possession as the naked owners, her children. We cannot accept this contention. La.R.S. 9:5682, both as originally enacted and even as amended in 1975, would have absolutely no effect as a prescriptive statute if the persons recognized as heirs or legatees in the judgment of possession, and those named in the judgment as their precarious possessor, e. g., a usufructuary, were held to possess the property for the unrecognized heirs or legatees. If such were the case, it would be impossible for any third person relying on the prescription established by La.R.S. 9:5682 to satisfy the statute's requirement of possession.
+
+The second defense of the trustees against the tax purchaser's claim, and the last issue for our consideration, concerns the adequacy of notice of the seizure and sale of William P. Jackson II's interest in the property.
+
+The trustees contend that the sale to the tax purchaser was invalid because, as its trustees, they were the "owners" of the property and therefore entitled to receive notice of its seizure and sale.
+
+We agree with the court of appeal that the validity of the sale was not affected by the lack of notice to the trustees. The notice provisions of 26 U.S.C. § 6335 are clearly designed for the protection   of the delinquent taxpayer, who in this case was William P. Jackson II. The government seized only his right, title, and interest in the subject immovable property. We think it clear that where the statute requires notice of seizure and sale to the owner of the property, it refers to the owner of the right, title, and interest in the property that is to be seized and sold for the collection of delinquent income taxes.
+
+For the reasons assigned, our decree on original hearing is reinstated, and the judgment of the court of appeal is affirmed.
+
+SANDERS, C. J., and DENNIS, J., concur.
+
+TATE, J., concurs and assigns reasons.
+
+DIXON, J., dissents.
+
+TATE, Justice (concurring).
+
+I concur in the decree, adhering to the views expressed by us in our opinion on original hearing. The trust instrument could only have such effect against third parties as authorized by the statute authorizing it. With regard to immovables, an unrecorded trust instrument cannot affect third parties. La.R.S. 9:2092.
+
+[1]  Specifically, the property comprises Lots 3 and 4 of Square 11 of Devall Town, a subdivision of the City of Baton Rouge.
+
+[2]  La.R.S. 9:2092 provides:
+
+If at any time the trust property of either an inter vivos trust or a testamentary trust includes immovables or other property the title to which must be recorded in order to affect third parties, a trustee shall file the trust instrument for record in each parish in which the property is located.
+
+[3]  Article 2266 of the Civil Code, the basis of the law of registry in Louisiana, provides:
+
+All sales, contracts, and judgments affecting immovable property, which shall not be so recorded, shall be utterly null and void, except between the parties thereto. The recording may be made at any time, but shall only affect third persons from the time of the recording.
+
+The recording shall have effect from the time when the act is deposited in the proper office, and indorsed by the proper officer. (Emphasis added.)
+
+See Redmann, The Louisiana Law of Recordation: Some Principles and Some Problems, 39 Tul.L.Rev. 491, 505-06 (1965).
+
+[4]  La.R.S. 9:2092 does not declare that unrecorded trust instruments do not affect third parties, but rather that the trustee has the duty to record the trust instrument in every parish in which is located immovable or other property the title to which requires recordation to affect third persons. The title to property acquired by inheritance does not require recordation to be effective against third persons. La. Civil Code art. 2266 (1870).
+
+[5]  See La.Civil Code arts. 3484-85 (1870):
+
+Art. 3484. By the term just title, in cases of prescription, we do not understand that which the possessor may have derived from the true owner, for then no true prescription would be necessary, but a title which the possessor may have received from any person whom he honestly believed to be the real owner, provided the title were such as to transfer the ownership of the property.
+
+Art. 3485. And in this case, by the phrase transfer the ownership of the property, we understand not such a title, as shall have really transferred the ownership of the property, but a title which by its nature, would have been sufficient to transfer the ownership of the property, provided it had been derived from the real owners, such as a sale, exchange, legacy or donation.
+
+Thus, prescription could not be acquired under a title resulting from a lease or loan, because these contracts do not transfer the ownership of the property.
+
+[6]  La.R.S. 9:5682, as amended, La.Acts 1975, No. 642, § 1, provides:
+
+A. An action by a person who is an heir or legatee of a deceased person, and who has not been recognized as such in the judgment of possession rendered in the succession of the deceased by a court of competent jurisdiction, to assert any right, title, or interest in any of the property formerly owned by the deceased against a third person who has acquired this property from or through a person recognized as an heir or legatee of the deceased in this judgment of possession, is prescribed in ten years if the third person, or his ancestors in title, singly or collectively, have been in continuous, uninterrupted, peaceable, public, and unequivocal possession of the property for such period after the registry of the judgment of possession in the conveyance records of the parish where the property is situated, irrespective of the good faith or bad faith of the third person's ancestors in title, including the heir or legatee of the deceased recognized as such in the judgment of possession.
+
+B. This Section establishes a liberative prescription, and shall be applied both retrospectively and prospectively; provided, however, that an action by any person against whom the period of liberative prescription herein provided would otherwise already have accrued except for the provisions of this Section, must be brought within one year from and after August 1, 1975.
+
+C. As used herein, `third person' means a person other than one recognized as an heir or legatee of the deceased in the judgment of possession.
+
+[7]  The district court rejected the tax purchaser's plea of prescription based on La.R.S. 9:5682. The court of appeal did not discuss the issue.
+
+[8]  Whether or not defendant, the tax purchaser, was in good faith is not relevant to our inquiry; for it is sufficient that the possession commenced in good faith, and the fact that it is the afterward held in bad faith, whether by the original possessor or his successor in title, does not affect the running of the ten-year acquisitive prescription. La.Civil Code arts. 3482, 3493 (1870); Vance v. Ellerbe, 150 La. 388, 90 So. 735 (1922); Brewster v. Hughes, 113 La. 45, 36 So. 883 (1904); Barrow v. Wilson, 38 La. Ann. 209 (1886); Devall v. Choppin, 15 La. 566 (1840); Liuzza v. Heirs of Nunzio, 241 So. 2d 277 (La.App. 1st Cir. 1970). In any event, there is no evidence that the tax purchaser, who relied on the judgment of possession signed and registered in 1960, was aware, or should have been aware, that the judgment of possession omitted the testamentary trust.

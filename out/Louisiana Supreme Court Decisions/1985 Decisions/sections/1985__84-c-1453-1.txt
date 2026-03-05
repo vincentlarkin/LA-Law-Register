@@ -1,0 +1,256 @@
+84-C-1453
+Arrow Trucking Co. v. Continental Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1985/84-c-1453-1.html
+
+84-C-1453
+Arrow Trucking Co. v. Continental Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1985-04-01
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1985/84-c-1453-1.html
+
+465 So. 2d 691 (1985)
+
+ARROW TRUCKING COMPANY
+v.
+CONTINENTAL INSURANCE COMPANY.
+Philip R. O'CONNOR, Director of Insurance for the State of Louisiana as Liquidator of Reserve Insurance Company
+v.
+CONTINENTAL INSURANCE COMPANY.
+
+No. 84-C-1453.
+
+Supreme Court of Louisiana.
+
+April 1, 1985.
+
+Rehearing Denied May 3, 1985.
+
+*692 Mack Barham, Mary Talbott, Robert Arceneaux, Barham & Churchill, New Orleans, Neil Mixon, Jr., Baton Rouge, for applicant.
+
+David W. Robinson, Due, Dodson, deGravelles, Robinson & Caskey, Charles A. Schutte, Jr., Owen, Richardson, Taylor, Mathews & Adkinson, Baton Rouge, Harry McCall, Corinne Morrison, Chaffe, McCall, Phillips, Toler & Sarpey, New Orleans, Horace C. Lane, Baton Rouge, Harold Broussard, Lafayette, for respondent.
+
+CALOGERO, Justice.
+
+May an insured, having liability coverage with an insolvent insurance company, recover from the reinsurer of the insolvent company the sum paid by the insured to an injured accident victim?
+
+Incident to this larger question in this case we must consider whether the original insured may employ Louisiana's direct action statute to sue the reinsurer in Louisiana and whether the reinsurance contract in this case contains a stipulation pour autri for the benefit of the original insured.
+
+In the seminal Louisiana case on reinsurance (which involved a tort suit brought by the accident victim as well as by the insured against the reinsurer) we answered the two questions in the preceding paragraph in the negative. Fontenot v. Marquette Casualty Co., 258 La. 671,
+247 So. 2d 572
+(1971). In the case under consideration the Court of Appeal reluctantly followed Fontenot on the direct action issue but allowed the insured to recover as a third party beneficiary, against the reinsurer, distinguishing this case from Fontenot as regards the stipulation pour autri.
+
+For the reasons which follow we reaffirm our holding in Fontenot, and, reversing the Court of Appeal, hold that there does not exist against the reinsurer either a direct action or a substantive third party beneficiary claim on behalf of the original insured.
+
+The facts giving rise to the issues presented in this case are as follows. In July, 1974, an accident occurred in Baton Rouge, Louisiana involving an Arrow Trucking Company vehicle and a pickup truck in which Roy Case and Jimmy Este were riding. Roy Case is from Gonzales, Louisiana and Jimmy Este was from New Orleans, Louisiana. Arrow is a corporation domiciled in Tulsa, Oklahoma. Arrow's commercial carrier liability coverage was underwritten by Continental Insurance Company, with policy limits of $100,000.00 per person. Reserve Insurance Company, domiciled in Illinois, was Arrow's excess liability carrier, having a policy limit of $2 million (above Continental's primary coverage). Reserve had entered into a reinsurance contract with North American Reinsurance Corporation, a New York corporation, covering $1.8 million of Reserve's $2 million risk, Reserve retaining its first $200,000.00 of exposure. The reinsurance agreement was issued by North American to Reserve. Arrow was not aware of it. Case was injured in the accident and Este was killed. Case and Este's descendants filed suit against Arrow, Continental and Reserve.[1]
+
+*693 Trial was held and judgment rendered against Arrow, Continental and Reserve. After appeal, the judgment was affirmed, with amendments, in the total sum of $1,060,000.00.[2] This Court denied writs. Case v. Arrow Trucking Co., et al, consolidated with Dianna Cheramie Este v. Arrow Trucking Co., et al, 372 So. 2d 670 (La.App. 1st Cir.1979), writ denied,
+375 So. 2d 944
+(La.1979).
+
+Before the judgment became final, Reserve was adjudged insolvent. On May 29, 1979, the Circuit Court of Cook County, Illinois entered an order of liquidation with respect to Reserve and appointed the Director of Insurance of the State of Illinois as liquidator. On June 8, 1979, ancillary receivership proceedings were commenced against Reserve in Louisiana (In the Matter of the Liquidation of Reserve Insurance Company, Nineteenth Judicial District Court for the Parish of East Baton Rouge). Thus, upon finality of the $1,060,000.00 judgment, Continental paid its policy limits of $200,000.00 ($100,000.00 per person) and, because of Reserve's insolvency at that time, Arrow paid $560,000.00.[3]
+
+In November, 1979, the liquidator of Reserve formally demanded that North American pay him $660,000.00 under the provisions of the North American/Reserve Reinsurance agreement.[4] The liquidator's demand was supported by an Illinois court order issued under the Uniform Insurers Liquidation Act, a uniform statute in effect in both Illinois and Louisiana. On June 4, 1980, North American transmitted to the liquidator its check in the amount of $660,000.00 payable to Reserve Insurance Company in Liquidation in payment of North American's liability under the North American/Reserve reinsurance contract.
+
+The initial action in the instant consolidated matters was a suit filed by the Illinois liquidator against Continental for failure to settle the underlying tort action within the policy limits. Philip O'Connor v. Continental Insurance Co., Nineteenth Judicial District Court for the Parish of East Baton Rouge. Arrow, in a separate proceeding, sought recovery from Continental on the same grounds. The two cases were consolidated. Subsequently, on January 13, 1981, Arrow filed a Petition of Intervention and a Third Party Petition naming both North American and Reserve's liquidator as third party defendants. Arrow sought recovery of the $560,000.00 which it had paid the Este and Case claimants, "from either the liquidator or North American Reinsurance or both."
+
+North American filed an Answer to the Petition denying liability to Arrow and claiming that any responsibility and obligation it had under the Reserve/North American reinsurance contract was satisfied by the payment of $660,000.00 by North American to the liquidator of Reserve following the liquidator's formal demand for payment. North American also filed Peremptory Exceptions of No Cause of Action, No Right of Action, and an Alternative Motion for Summary Judgment.
+
+A hearing was held in the 19th Judicial District Court for the Parish of East Baton Rouge. The trial judge ruled: (1) that Arrow was not a third party beneficiary under the North American/Reserve reinsurance agreement; indeed, the court specifically stated that both the reinsurance contract and well-settled Louisiana law provide that an insured of the ceding company is not a third party beneficiary to a reinsurance contract; (2) consequently, that Arrow had no right of action and no cause of   action against North American; (3) that North American's $660,000.00 payment to the liquidator was a valid defense to Arrow's action; and (4) that North American's Motion for Summary Judgment should be, and was granted. The court relied on Fontenot v. Marquette Casualty Co., supra, in so ruling, and noted that the Legislature had had ample opportunity (14 years) to overrule the Fontenot decision which had decreed that an insured of the ceding company was not a third party beneficiary. Since the legislature had not done so, the court followed the dictates of Fontenot.
+
+On June 6, 1983, judgment was rendered on North American's exception and on the alternative summary judgment motion, dismissing North American from this litigation. From this judgment, Arrow appealed.
+
+On appeal, the First Circuit rendered an opinion reversing the trial court on both the granting of the Peremptory Exceptions of No Right and/or No Cause of Action and the Alternative Motion for Summary Judgment. 452 So. 2d 217.
+
+In its opinion, the Court of Appeal followed Fontenot insofar as it held that a Louisiana direct action did not lie in favor of the insured against the reinsurer. However, the court went on to distinguish the reinsurance agreement in Fontenot from the Reserve/North American reinsurance agreement on the basis of the fact that Arrow's name and its policy with Reserve was specifically referred to in the Reserve/North American agreement and that the reinsurance only covered losses Reserve (the reinsured) suffered as a result of that very insurance policy issued to Arrow. In Fontenot, the reinsurance agreement involved was general in nature and covered all the losses the reinsured suffered over $10,000.00 and up to $300,000.00, irrespective of the insurance policy or policies under which they arose. Based on this distinction, the Court of Appeal held that unlike the reinsurance certificate in Fontenot, the one here between Reserve and North American did create a stipulation pour autri in Arrow's favor, allowing Arrow to recover from North American.
+
+North American sought writs in this Court. Its main contentions are: (1) that Louisiana state courts lack subject matter jurisdiction over this controversy; (2) that Arrow has no right of action against North American; (3) that the Court of Appeal erred in applying Louisiana law under the Uniform Insurers Liquidation Act; (4) that any obligation North American may have had under the reinsurance agreement was extinguished by its payment of $660,000.00 to Reserve's liquidator; and (5) that Fontenot is controlling and precludes an action by the insured, Arrow, against the reinsurer, North American, under the direct action statute and/or as a third party beneficiary of the reinsurance agreement.
+
+In granting North American's writ application, we were mainly concerned with the fact that the Court of Appeal had reached a legal result apparently at odds with our 1971 opinion in Fontenot.
+
+In Fontenot, like here, claims were being asserted directly against the reinsurer, Peerless, because the reinsured, Marquette, had been placed in rehabilitation. Unlike the case here under consideration, where only the insured is asserting a claim, however, the claims in Fontenot were being asserted by the injured tort victim as well as the insured. Nevertheless, this Court in Fontenot held that such a claim could not be asserted against the reinsurer by either the tort victim or the insured, whether under the direct action statute or as an asserted third party beneficiary to the reinsurance contract. Arrow asks this Court to reconsider its position taken in Fontenot.
+
+An appreciation of reinsurance, its history, its nature and its function, is essential to an understanding and resolution of the issue before us.
+
+Reinsurance came to the United States from France where it had been established in French law prior to the Seventeenth Century. It was introduced in our American jurisprudence in 1847 in the New York case Hone v. Mutual Safety Ins. Co., 1   Sand Ch. 137 (N.Y.Super.Ct.1847), aff'd, 2 N.Y. 235 (1848).
+
+Since the mid-nineteenth century, American courts have barred original insureds and injured claimants from collecting directly from reinsurers. Courts have reasoned that because the insured did not participate in the formation of the reinsurance contract he had no interest in that contract. The numerous cases in this area have shaped a general rule which states that reinsurance is a contract of indemnity between the insurer and the reinsured, under which the original insured has no claim. 19 Couch on Insurance § 80.1 (2d ed. 1983); 13 Appleman, Insurance Law and Practice § 7694 (1976), and the multiple cases cited therein at n. 69 from some fifteen plus different states; Fontenot v. Marquette, supra, and the cases cited at pp. 578-579. With the exception of one New Hampshire decision [Hunt v. New Hampshire Fire Underwriters' Ass'n, 68 N.H. 305, 38 A. 145 (1985) ], all courts faced with the issue have recognized the general rule which precludes the insured from collecting from the reinsurer. Comment, Reinsurance and Insurer Insolvency: The Problem of Direct Recovery by the Original Insured or Injured Claimant, 29 UCLA L.Rev. 872, 878 (1982). Some states have even adopted specific legislation precluding the insured from having any interest in a reinsurance contract. See e.g., S.D. Codified Laws Ann. § 58-14-6 (1978); Cal.Ins.Code § 623 (Deering 1976). However, it has also been well recognized that if the reinsurance contract reflects the reinsurer's intent to become directly obligated to the original insured (as is often the case with a reinsurer taking over the policies and assets of an insolvent insurer), then the original insured may pursue his action directly against the reinsurer.
+
+To understand the nature of reinsurance, it has to be examined in context. The term has too often been used loosely to describe different types of insuring agreements which are not truly reinsurance. In a purely legal sense, reinsurance means "the ceding by one insurance company [the original insurer which is the reinsured] to another of all or a portion of its risks for a stipulated portion of the premium, in which the liability of the reinsurer is solely to the reinsured [the ceding company], and in which contract the reinsured retains all contact with the original insured, and handles all matters prior to and subsequent to loss." 13 Appleman, supra, § 7681, at 480. The true reinsurer is merely an insurance company or underwriter which deals only with other insurance companies as its certificate holders.
+
+The reinsurance situation usually arises in the following manner. The original insurer, or the ceding company, finds that it has more risks than it cares to safely keep in its own portfolio. It has incurred expenses such as agency commissions, ordinary overhead, and the like, and in addition has to maintain a reserve for payment of claims. Consequently, it agrees to turn over to another insurer, usually one handling nothing but such reinsurance, a portion of its risks. The premium which it pays to the reinsurer for the risk the reinsurer assumes is not as large in proportion to that which the ceding company retains, since the reinsurer does not bear like agency expenses and other similar overhead. The original insured has no contact with the reinsuring company and is not notified of the reinsurance. The insured is not a party to the contract between the insurer/reinsured and the reinsurer, and has no legal interest therein. A diversification or spread of risk is achieved with greater security, though less profit, to the ceding company. 13 Appleman, supra, § 7681.
+
+A contract of reinsurance may be made with reference to a portion of the risk on a single policy of the ceding company or with reference to a percentage or excess portion of risks attendant to a class of the ceding company's policies. Generally, reinsurance is issued with reference to a single policy of the ceding company when a particular contract between the original insured and the ceding company is larger than the insurer chooses to carry. When this happens, the ceding company may, for its own security, enter into an agreement with a   reinsurer to cover specifically a part of the risk covered in that given policy. This kind is facultative reinsurance. This is the kind of reinsurance agreement entered into between Reserve and North American, covering all but $200,000.00 of Reserve's exposure to Arrow on a single identifiable policy. The risk the reinsurer is covering has already been acquired by the ceding company and it is specific and determined. 19 Couch, supra, § 80.3; 13 Appleman, supra, § 7681. There is a second basic type called treaty reinsurance. This is the kind of reinsurance agreement involved in Fontenot. By treaty reinsurance the reinsurer and the ceding company enter into a contract whereby the reinsurer provides reinsurance on all policies existing or to be written by the reinsured, in a specified percentage, either on all or specified classes of the reinsured's business. 19 Couch supra, § 80.3; 13 Appleman, supra, § 7681. Nevertheless, both of these types of reinsurance are pure reinsurance, to be distinguished from coinsurance, double or multiple insurance, or novation. 19 Couch supra, § 8:2. The term "reinsurance" has at times mistakenly been used to refer to these latter types of insurance. However, they are distinguishable from reinsurance, having different functions and effects. 13 Appleman, supra, § 7681.
+
+This is not to say that the reinsurer cannot by contract with the ceding company take on liability directly to the original insured. This is most common when reinsurance is sought by a liquidator, for the outstanding policies of an insolvent insurance company. Such an assumption of the ceding company's exposure on outstanding policies must be express in the reinsurance contract. It is not the typical reinsurance contract. 13 Appleman, supra, § 7694.
+
+The courts have often distinguished reinsurance from other insurance by referring to reinsurance as a contract of indemnity rather than of liability. That distinction, however, is not entirely accurate. While it is correct that reinsurance is a contract of indemnity, there are two kinds of reinsurance indemnity contracts, one of which indemnifies the ceding company for its liability and the other which indemnifies the ceding company for its loss. The former is liability insurance; the latter is not. The effects of, or remedies available under, a reinsurance agreement, in some measure depend upon whether it is one which indemnifies for liability or one which indemnifies for loss.
+
+Reinsuring is a standard practice of insurers, small and large. The main function of reinsurance is to bolster the "reserves" of the ceding company. Reserves are sums of money an insurer is required to set aside as a fund for the liquidation of future unaccrued and contingent claims, and claims accrued, but contingent and indefinite as to amount. Maryland Casualty Co. v. United States,
+251 U.S. 342
+, 40 S. Ct. 155, 64 L. Ed. 297 (1920); Note, Insurance Reinsurance Direct Action Against Reinsurer on Insolvency of Reinsured Liability Insurer, 45 Tul.L.Rev. 648 (1971). All jurisdictions by statute require the maintenance of reserves. Louisiana, for example (La.R.S. 22:891 and 896), requires all liability insurers to maintain reserves against unearned premiums in addition to reserves against contingent losses. Thepurpose of this system of reserves is to insure the solvency of insurance companies for the benefit of policyholders, claimants and other creditors. 45 Tul.L.Rev. 648. Note, supra.
+
+In most states, including Louisiana (La. R.S. 22:941), reinsurance is treated as an asset of the ceding company against unearned premium reserves or as a deduction from liability in place of loss reserves. Thus, the money spent by the liability insurer to pay the reinsurance premium is replaced by the credits derived from the reinsurance policy. Indeed, in Louisiana as in other jurisdictions, one of the basic motivations for a small insurance company to obtain reinsurance is to secure the credits against reserves as are prescribed by law. In other words, in order to comply with the legal requirements as to reserve levels for the protection of all of a company's creditors, an insurance company purchases reinsurance   to maintain the proper reserve levels without having to freeze an inordinate amount of its assets. Thereby the small insurer is able to accept larger risks and at the same time assure adequate protection for the payment of losses. Accordingly, since reinsurance is statutorily permitted as a supplement to the reserve levels of a company it must also be assured, as it is in Louisiana and other jurisdictions, that the proceeds of the reinsurance will be available to the liquidator on behalf of all the creditors (including insureds and claimants) in the event of insolvency of the ceding company. Reinsurance, including its customary governing provisions, is thus inextricably tied to the statutory system of reserves, which in turn secures the interests of all policyholders and creditors.
+
+In light of this background of the nature and function of reinsurance we now consider the question posed in this case, that is, whether the insured, Arrow, which procured insurance with a now insolvent insurer, Reserve, may proceed in a direct action against the reinsurer, North American, either under this state's direct action statute or as a purported third party beneficiary to the reinsurance agreement.
+
+The provisions of the reinsurance agreement are of course critical to a determination of the parties' rights under the agreement. Upon examining the contract in this case, we find (with our minor editorialization) the following. The reinsurance certificate was issued by North American to Reserve and provides that North American Reinsurance Corporation "Hereby Reinsures: Reserve Insurance Company." Reserve is referred to as the "Ceding Company", or "Company." The certificate further provides that North American reinsures Reserve "with respect to the COMPANY'S policy hereinafter described...." That policy is then described as follows:
+
+The agreement then provides the "Details of Reinsurance Afforded." It notes that the Arrow/Reserve policy is an umbrella liability policy with limits of $2,000,000.00 for each occurrence in excess of the underlying coverage (in this case Continental's policy, $100,000.00 per person). It notes that as between Reserve and North American, Reserve agrees to retain $200,000.00 of their risk and that North American agrees to reinsure Reserve for $1,800,000.00 in excess of that $200,000.00 retained amount. Finally, the certificate recites that North American's "basis of acceptance" is the "excess of [Reserve's] loss," that is, the amount of Reserve's loss beyond $200,000.00.
+
+The meaning of the language in these provisions is fairly clear. This is a typical contract of facultative reinsurance, that is, reinsurance made with reference to a single policy of the ceding company. Viewed in context, the reference to Arrow's name as the "Insured" is nothing more than an attempt to set forth clearly the particular policy of the ceding company to which the reinsurance applies. There is no indication that the reference is meant to be anything else, and certainly not an indication that Arrow was the insured of North American under the reinsurance contract.
+
+The remainder of the reinsurance agreement, setting forth its terms and conditions adds support to this assessment. In the remaining sections of the agreement all the duties, obligations and requirements set forth apply only to the reinsurer (North American) and the "COMPANY" (Reserve) with no further reference to the "insured". For example, it is the "COMPANY", not the insured, which is required to give notice of an occurrence to the Reinsurer. Section A of the conditions provides that "[t]he liability of the reinsurer shall follow the terms and conditions of the Company's policy furnished to the Reinsurer at the effective date of this Reinsurance Certificate...." It goes on to provide that any changes made after that time are not binding on the reinsurer. Again, an indication that the earlier reference to Arrow as the insured, and the Arrow/Reserve policy   number, is nothing more than an attempt to identify accurately and precisely the policy (at a given time) to which the reinsurance applies.
+
+Arrow argues that it is a third party beneficiary under the Reserve/North American reinsurance agreement. The support for this argument was found by the Court of Appeal in the fact that Arrow's name is specifically mentioned in the agreement, and that the reinsurance agreement is solely to cover a portion of losses Reserve sustains under that policy and no other.
+
+It is well settled that for a person to successfully maintain an action under a contract to which it is not a party the contract must clearly express the contracting parties' intent to stipulate some advantage for that (third) person. La.C.C. arts. 1890 and 1902.[5]Fontenot v. Marquette, supra; Teacher's Ret. System of La. v. La. State Emp. Ret., 444 So. 2d 193 (La.App. 1st Cir.1983).
+
+No such intent can be found, express or otherwise, in the Reserve/North American reinsurance contract. To the contrary, the provisions of the contract establish just the opposite. Arrow's name is only used once in the contract as a means, in part, of identifying the policy to which the reinsurance applies. It sets out no benefit for Arrow whatsoever. In fact the contract specifically and expressly provides that in the event of Reserve's insolvency, the proceeds due under the agreement shall be payable directly to Reserve's liquidator, not to Arrow.
+
+Accordingly, this is a typical facultative reinsurance agreement between the reinsured, Reserve, and the reinsurer, North American, to indemnify Reserve for any losses it may suffer as a result of the insurance policy it issued to Arrow. The only parties to the reinsurance agreement are Reserve and North American. Arrow was not a party to the agreement nor was the agreement entered into for Arrow's benefit. It was entered into to offset Reserve's contingent losses so that its statutorily required reserve levels could be maintained, and to give Reserve some protection against a high loss on the Arrow/Reserve policy. Arrow has no cause or right of action against North American as a third party beneficiary to the reinsurance agreement.
+
+As concerns Arrow's argument that it can maintain its action against North American under the Louisiana direct action statute, we must look to another section in the agreement, that is, the part setting out the "basis of [North American's] acceptance" of the coverage. North American agreed to cover Reserve for the loss Reserve might suffer under its policy issued to Arrow, not Reserve's liability arising by virtue of the Arrow policy. We have an indemnity contract here. But more particularly, North American has only agreed to indemnify Reserve for its loss not its liability. Accordingly, until Reserve suffers a loss North American is not liable under this reinsurance agreement. There are reinsurance policies where the reinsurer agrees to indemnify the reinsured for its liability. And this might well constitute "liability insurance", a position espoused by Chief Justice Dixon in his dissent to Fontenot. However, that is not the kind of reinsurance contract we have before us in this case. Rather, we have here an indemnity for loss contract.
+
+In 1937, the United States Supreme Court, in Fidelity & Deposit Co. of Maryland v. Pink,
+302 U.S. 224
+, 58 S. Ct. 162, 82 L. Ed. 213 (1937), spoke on the effect of such a clause (indemnity for loss) in a reinsurance contract and held that under such a clause actual payment by the reinsured was a prerequisite to recovery from the reinsurer. Thereupon they applied this holding to deny recovery to the reinsured's liquidator. The effect of that decision was clear. Where a reinsurance contract contains such a clause (indemnity for loss) only payment or loss by the reinsured will trigger   the reinsurer's obligation. That being the case there was found in Pink no liability by the reinsurer even to the reinsured or its successor, the liquidator.
+
+Insofar as the Pink case prevented a reinsured's receiver in liquidation from recovering from the reinsurer (because the reinsured, by virtue of insolvency, has not yet sustained a loss), the case has been statutorily overruled in most if not all jurisdictions. It is now provided by statute that if the insurer wants the reinsurance to count in computing its mandatory reserve levels, the reinsurance agreement must contain a provision requiring payment to the liquidator of an insolvent reinsured. In Louisiana for example, La.R.S. 22:941(B)(2), provides:
+
+With the required clause in the reinsurance agreement (that in the event of insolvency the reinsurance is payable to the reinsured's liquidator) the reinsured is permitted to use the reinsurance in computing its reserves. The required insolvency provision is thus a statutorily imposed exception to the reinsurance scheme under which the reinsurer pays only upon the reinsured's sustaining a loss. The only effect of the provision is a statutorily prescribed one, requiring payment to a liquidator in the event of insolvency of the reinsured, on the basis, in Louisiana, of "the claim or claims allowed against the insolvent ceding insurer." In other words, Fidelity & Deposit Co. of Maryland v. Pink, supra, has been statutorily overruled to the extent that by statute the reinsurance is payable to the liquidator even without the reinsured's having first sustained a loss.
+
+The Reserve/North American reinsurance agreement in this case has just such a provision:
+
+While the clause in the reinsurance agreement before us (payable on "the basis of the liability of the company") is a little different from that mandated in our own state, (payable on the "basis of the claim" allowed against the company) its meaning and effect are the same. It enables the liquidator to recover from the reinsurer in the event of the reinsured's insolvency, where the reinsurer would otherwise not be liable because insolvency has prevented its sustaining a loss.
+
+This clause does not change the nature of the reinsurance agreement from one of indemnity for loss to one of indemnity for liability. The reinsurance agreement "should be construed so as to give effect to the intention of the parties as expressed by their language, and cannot be extended or enlarged by implication to embrace any object distinct from that originally contemplated, and all its provisions should be construed together in determining the meaning of any particular clause or portion thereof." 13 Appleman, supra, § 7686 at 501-502. In construing the provisions of the Reserve/North American reinsurance agreement to determine the meaning of the insolvency clause herein, it is clear that the insolvency clause does not change the nature of the agreement from one of indemnity for loss, but merely provides a single exception, where the reinsured becomes insolvent. In that event alone, it is provided that the reinsurer must pay the liquidator based on an assessment of Reserve's liability for the claim (rather than loss already sustained) under the Arrow policy. This permits the reinsurance to be taken into   account in the computation of the legally prescribed reserve levels, which benefit all Reserve's creditors.
+
+The Direct Action statute, La.R.S. 22:655, applies only to "polic[ies] or contract[s] of liability insurance." While the Reserve/North American reinsurance agreement is certainly "insurance", within the definition provided by our laws,[6] it is not "liability" insurance.
+
+Liability insurance is defined in La.R.S. 22:6(4) as "(i)nsurance against the liability of the insured for the death, injury or disability of an employee or other person, and insurance against the liability of the insured for damage to or destruction of another person's property." The insurance issued in the Reserve/North American reinsurance agreement did not provide insurance against the "liability of the insured" (Reserve) for death or bodily injury. Rather, it provided insurance against a policy loss of Reserve. Had it been written to cover Reserve's liability, it might well have been "liability" insurance and might have come within the purview of our direct action statute.[7] However, as issued, to indemnify Reserve for its losses, it is insurance, but not liability insurance covered by the direct action statute.
+
+Furthermore, a review of the entire direct action statute indicates that the Legislature never intended that the provision would apply to a reinsurance contract or agreement. (This was also the conclusion of Fontenot and the Legislature has not in the fourteen years since its rendition changed that holding.) For example, it is provided therein that "an action may ... be maintained within the terms and limits of the policy by the injured person, or his or her survivors mentioned in Revised Civil Code Article 2315." Obviously, the reference here as to who may maintain the action is to the tort victim. It goes on to provide that "the injured person or his or her survivors or heirs hereinabove referred to [under La.C.C. art. 2315], at their option shall have a direct action against the insurer...." It states that "it is also the intent of this Section that all liability policies ... are executed for the benefit of all injured persons, his or her survivors or heirs." And there is reference made in the provision to such things as the "omnibus clause" in the policy and the liability of the insured as a "tort-feasor."
+
+Obviously, the direct action statute (La.R.S. 22:655) does not, nor was it ever intended to, apply to reinsurance agreements. The terms used in the direct action statute are foreign to such agreements. The direct action statute was enacted to give special rights of action to injured tort victims and not to insureds even if, as alleged although disputed, an insured may have a claim in contract against a reinsurer. Accordingly, the direct action statute does not apply here and Arrow has no cause or right of action under this statute against North American.
+
+This was the essence of our 1971 decision in Fontenot. Therein we held that neither the injured tort victim nor the insured could proceed under the direct action statute against the reinsurer of the insolvent insured. The Legislature has not amended the statute. It remains the same today as it was when considered in Fontenot, as does our decision today regarding it.
+
+La.R.S. 22:943 provides the only exception to the fact that the insured has no direct action against the reinsurer under the direct action statute. That statute is found in the section of the Louisiana Insurance Code dealing with Reinsurance and provides:
+
+Where there is language in a reinsurance agreement indicating that the reinsurer is agreeing "to assume and carry out directly with the policyholder any of the policy obligations of the ceding insurer" then the result will be different. However, the agreement in question here does not come within this statutorily prescribed exception.
+
+North American has responded to its legal as well as its contractual obligations under the reinsurance agreement. It is statutorily as well as contractually mandated, in the event of Reserve's insolvency, that North American make any payments under the reinsurance agreement directly to Reserve or its liquidator. This is exactly what North American has done. The record indicates that it has paid Reserve's liquidator the $660,000.00 due under the reinsurance agreement. (In fact it made that payment to the liquidator long before Arrow made its claim against North American and after Arrow made a claim in the Illinois liquidation proceedings.) Arrow's claim for all or a portion of those proceeds has been brought, and belongs in, the liquidation proceedings, and not here.
+
+Finally, it has been argued that a direct action does lie in this particular case because of the peculiar language in the insolvency clause in the Reserve/North American agreement. This reference is to the language following the direction to pay the proceeds of the reinsurance contract to the liquidator, which simply states "except as otherwise provided by law." Under this phrase, it is argued that that includes the Louisiana direct action statute. We do not find the argument persuasive.
+
+First of all, there is no convincing showing made why Louisiana law should apply to this lawsuit at all. This is not a suit by the injured Louisiana tort victim. That lawsuit has been concluded. Rather this is an action brought by Arrow, an Oklahoma corporation, against North American, a New York corporation, on a contract North American entered into in Texas with Reserve, an Illinois insurer. Nevertheless, even assuming that Louisiana law is applicable, the argument still lacks merit.
+
+As stated above, our Insurance Code provides the exception to the rule that a direct action is not allowed against a reinsurer. That exception is found in La.R.S. 22:943 (quoted above) which limits the direct action to the circumstance where the reinsurer "agrees to assume and carry out directly with the policyholder any of the policy obligations of the ceding insurer." No such agreement has been made in this case nor has it been argued that such an agreement was made. Accordingly there is no legal provision that excepts the reinsurer from making his payment to the insolvent reinsured's liquidator as North American did in this case.[8]
+
+The contract of reinsurance issued by North American to Reserve was issued solely for Reserve's benefit, not Arrow's. It was a pure facultative reinsurance agreement, providing indemnity for any loss Reserve might incur under the Reserve/Arrow liability policy. Arrow was not a party to the reinsurance agreement and has no right to proceed against North American under it, be it by virtue of Louisiana's direct action statute or as a purported third party beneficiary of the agreement.
+
+Accordingly, we hold that the Court of Appeal erred in reversing the trial court judgment which dismissed North American from these consolidated lawsuits.
+
+For the foregoing reasons, the judgment of the Court of Appeal is reversed and the   trial court judgment dismissing North American from the case is reinstated.
+
+REVERSED AND RENDERED.
+
+DIXON, C.J., dissents.
+
+WATSON and LEMMON, JJ., dissent and assign reasons.
+
+WATSON, Justice, dissenting.
+
+The fundamental error in Fontenot v. Marquette Casualty Co., supra, lies in one sentence: "The vital distinction between reinsurance and liability insurance is that reinsurance indemnifies the insurer for a loss which is actually sustained, whereas liability insurance is protection against the liability of an insured."
+247 So. 2d 572
+at 576-577. This distinction is contrary to the statutory law of Louisiana. LSA-R.S. 22:5(1) states "`Insurance' is a contract whereby one undertakes to indemnify another or pay a specified amount upon determinable contingencies." Liability insurance is defined in LSA-R.S. 22:6(4) as: "Insurance against the liability of the insured for the death, injury or disability of an employee or other person, and insurance against liability of the insured for damage to or destruction of another person's property." The Louisiana definition of liability insurance is substantially the same as that found in the Fifth Edition of Black's Law Dictionary as follows:
+
+See the dissent by Chief Justice Dixon in Fontenot at 247 So. 2d 582.
+
+In the section of the Insurance Code dealing with reinsurance, LSA-R.S. 22:943 provides:
+
+This section indicates that a direct action against the reinsurer or "assuming insurer" is not barred. On the contrary, the assuming insurer may be substituted for the ceding insurer in a pending action or claim.
+
+Both reinsurance and direct insurance are forms of liability insurance and thus fall within the purview of the Louisiana Direct Action Statute. LSA-R.S. 22:655.[1]*703 See Comment, Reinsurance and Insurer Insolvency: The Problem of Direct Recovery by the Original Insured or Injured Claimant, 29 U.C.L.A.L.Rev. 872 (1982). The public policy of the State of Louisiana, as stated in LSA-R.S. 22:655, gives the protection of a direct action "to all insureds" under liability policies. The right of direct action exists if the policy of insurance was written and delivered in Louisiana or the accident or injury occurred within the State of Louisiana. LSA-R.S. 22:655. Watson v. Employers Liability Corp.,
+348 U.S. 66
+, 75 S. Ct. 166, 99 L. Ed. 74 (1954), reh. den. 348 U.S. 921, 75 S. Ct. 289, 99 L. Ed. 722 (1955). Any provisions of North American's reinsurance contract which purport to deny the named insured, Arrow, a direct action against North American Reinsurance Corporation are null and void, being contrary to the public policy of Louisiana. See Federoff v. Ewing, 386 Mich. 474,
+192 N.W.2d 242
+(1971) and Illinois v. Michigan,
+409 U.S. 36
+, 93 S. Ct. 29, 34 L. Ed. 2d 42 (1972). The North American policy in fact provides:
+
+See First National Bank of Kansas City v. Higgins,
+357 S.W.2d 139
+(Mo., 1962).
+
+The court of appeal correctly found that the reinsurance contract contained a stipulation pour autrui in favor of Arrow. LSA-C.C. art. 1890;[2]Andrepont v. Acadia Drilling Co., 255 La. 347,
+231 So. 2d 347
+(1969); First State Bank v. Burton, 225 La. 537,
+73 So. 2d 453
+(1954).
+
+This policy of reinsurance gives the reinsurer, in the case of insolvency, the option of paying directly to the insolvent company or its liquidator "except as otherwise provided by law." In Louisiana the direct action statute by law removes the other options from the reinsurer, who stands in the shoes of the insolvent insurer and is directly responsible to the insured.
+
+North American has filed a motion to dismiss based on lack of jurisdiction over the subject matter. It argues that Arrow's claim had to be brought in either the Illinois liquidation proceeding or in the Louisiana ancillary liquidation proceeding. See LSA-R.S. 22:760(B). In a liquidation proceeding, the liquidator takes possession of the assets of the insolvent insurer so that claims can be paid off. See LSA-R.S. 22:736-737 and Ill.Rev.Stat. ch. 73, §§ 804-805. However, certain funds or property are not considered assets of the insolvent insurer because those funds are encumbered for the benefit of "specified persons".[3] Arrow is a specified party to   whom funds have been encumbered by virtue of the stipulation pour autrui.
+
+The orders issued in the Illinois and ancillary liquidation proceedings do not prohibit this suit. Because the $660,000 is not an asset of Reserve, it does not constitute a "res" in the possession of the Illinois liquidator. Since it is not subject to his authority under in rem jurisdiction, Arrow can sue to recover the money. Louisiana courts can hear this case because Louisiana has a substantial interest in seeing that its residents are compensated by insurance for torts committed in Louisiana. Watson v. Employers Liability Corp., supra.
+
+North American asserts that its payment to Reserve Insurance Company's Illinois liquidator satisfied its obligation under the reinsurance policy. The judgments against Arrow, Continental and Reserve were affirmed on May 29, 1979.[4] North American paid the liquidator in Illinois on June 4, 1980, long after it was aware of the potential liability existing under the policy.[5] Under LSA-C.C. art. 2145, payment can be legally made only to the creditor or to one legally empowered to receive payment on the creditor's behalf. Arrow is the creditor who is to receive payment. North American is not discharged by paying the liquidator because the liquidator has no power to receive the money. It is not an asset of Reserve.[6]
+
+I respectfully dissent.
+
+LEMMON, Justice, dissenting.
+
+The majority opinion provides an excellent comprehensive analysis of the purpose, functions, and effect of reinsurance. I disagree only as to the applicability of the Louisiana Direct Action Statute, La.R.S. 22:655.
+
+As a contract which basically provides indemnity against loss, the reinsurance policy generally affords a right of action only in favor of the reinsured and then only in the event of a loss paid by the reinsured. Therefore, as long as the reinsured is solvent, the contract is not one of liability insurance, and the Direct Action Statute is inapplicable. However, the policy itself provides that in the event of insolvency of the reinsured, "reinsurance shall be payable by the reinsurer on the basis of the liability of the [reinsured]". Because the contract provides indemnity against liability under certain circumstances, it is to that extent a policy of liability insurance. See La.R.S. 22:6(4), defining liability insurance.
+
+The Direct Action Statute provides a right of direct action to the tort victim against a liability insurer when the accident or injury occurred in Louisiana. Since the contract between Reserve and North American provided liability insurance in the event of Reserve's insolvency, and since Reserve has become insolvent, the tort victim has a right of action directly against North America under the Direct Action Statute. Inasmuch as Arrow is the subrogee of the tort victim, Arrow may assert that right of action directly against the insurer. I would affirm the judgment of the court of appeal and would overrule the decision in Fontenot v. Marquette Casualty Co., 258 La. 671,
+247 So. 2d 572
+(1971).
+
+[1]  North American was not named as a defendant in this suit, nor was it third partied by any of the named defendants. Presumably, this was because no one (except Reserve) knew of the existence of the Reserve/North American reinsurance agreement, and Reserve had no need to third party North American in order to collect.
+
+[2]  Roy Case was awarded $800,000.00 and Jimmy Este's descendants were awarded $260,000.00.
+
+[3]  The remainder of the $1,060,000.00 judgment was paid by Continental ($200,000.00) and by the Texas and Louisiana Insurance Guaranty Associations ($300,000.00).
+
+[4]  As noted, the judgment rendered against Arrow, Continental and Reserve totaled $1,060,000.00. Continental paid its policy limits of $100,000.00 per person or $200,000.00 leaving $860,000.00 unpaid. According to the reinsurance agreement between Reserve and North American, Reserve retained $200,000.00 of its risk under the policy it issued to Arrow, leaving North American owing $660,000.00 to Reserve's Illinois liquidator.
+
+[5]  La.C.C. arts. 1890 and 1902 were amended and re-enacted by 1984 La.Acts. No. 331, eff. Jan. 1, 1985 and are now consolidated in La.C.C. art. 1978.
+
+[6]  La.R.S. 22:5(1) provides in pertinent part:
+
+(1) "Insurance" is a contract whereby one undertakes to indemnify another or pay a specified amount upon determinable contingencies.
+
+[7]  While a reinsurance agreement which provides indemnity for liability may well come within our definition of liability insurance, for the reasons which follow in the text, it is still not clear that it would come within the purview of the Direct Action statute.
+
+[8]  Interestingly, under Louisiana law, La.R.S. 22:941(B)(2), North American would have been required to pay the money to the liquidator without exception.
+
+[1]  LSA-R.S. 22:655 provides:
+
+"No policy or contract of liability insurance shall be issued or delivered in this state, unless it contains provisions to the effect that the insolvency or bankruptcy of the insured shall not release the insurer from the payment of damages for injuries sustained or loss occasioned during the existence of the policy, and any judgment which may be rendered against the insured for which the insurer is liable which shall have become executory, shall be deemed prima facie evidence of the insolvency of the insured, and an action may thereafter be maintained within the terms and limits of the policy by the injured person, or his or her survivors mentioned in Revised Civil Code Article 2315, or heirs against the insurer. The injured person or his or her survivors or heirs hereinabove referred to, at their option, shall have a right of direct action against the insurer within the terms and limits of the policy; and such action may be brought against the insurer alone, or against both the insured and insurer jointly and in solido, in the parish in which the accident or injury occurred or in the parish in which an action could be brought against either the insured or the insurer under the general rules of venue prescribed by Art. 42, Code of Civil Procedure. This right of direct action shall exist whether the policy of insurance sued upon was written or delivered in the State of Louisiana or not and whether or not such policy contains a provision forbidding such direct action, provided the accident or injury occurred within the State of Louisiana. Nothing contained in this Section shall be construed to affect the provisions of the policy or contract if the same are not in violation of the laws of this State. It is the intent of this Section that any action brought hereunder shall be subject to all of the lawful conditions of the policy or contract and the defenses which could be urged by the insurer to a direct action brought by the insured, provided the terms and conditions of such policy or contract are not in violation of the laws of this State.
+
+"It is also the intent of this Section that all liability policies within their terms and limits are executed for the benefit of all injured persons, his or her survivors or heirs, to whom the insured is liable; and that it is the purpose of all liability policies to give protection and coverage to all insureds, whether they are named insured or additional insureds under the omnibus clause, for any legal liability said insured may have as or for a tort-feasor within the terms and limits of said policy."
+
+[2]  LSA-C.C. art. 1890 provides:
+
+"A person may also, in his own name, make some advantage for a third person the condition or consideration of a commutative contract, or onerous donation; and if such third person consents to avail himself of the advantage stipulated in his favor, the contract can not be revoked."
+
+[3]  LSA-R.S. 22:757(8) states:
+
+"`General assets' means all property, real, personal, or otherwise, not specifically mortgaged, pledged, deposited, or otherwise encumbered for the security or benefit of specified persons or a limited class or classes of persons, and as to such specifically encumbered property, the term includes all such property or its proceeds in excess of the amount necessary to discharge the sum or sums secured thereby...."
+
+[4]  Coincidentally, the Illinois court also placed Reserve in liquidation on May 29, 1979.
+
+[5]  The check shows the insured as Arrow Trucking Company.
+
+[6]  LSA-C.C. art. 2145 provides in pertinent part:
+
+"Payments in general can legally be made only to the creditor, or some one empowered by him. The debtor, however, is discharged by a payment made in good faith to one who is really not the creditor nor empowered by him, in the following cases:
+
+* * * * * *
+
+"2. When the person, to whom the payment has been made, was at the time in possession of the evidence of the debt, under an order of a competent court, as syndic or trustee of creditors, as curator, executor, heir, or by virtue of any office or other trust, that apparently gives him the power to receive the payment."

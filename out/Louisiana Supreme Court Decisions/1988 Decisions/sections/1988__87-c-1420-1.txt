@@ -1,0 +1,87 @@
+87-C-1420
+Wyatt v. Robin
+https://law.justia.com/cases/louisiana/supreme-court/1988/87-c-1420-1.html
+
+87-C-1420
+Wyatt v. Robin
+Court: Louisiana Supreme Court
+Release date: 1988-01-18
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1988/87-c-1420-1.html
+
+518 So. 2d 494 (1988)
+
+Louis WYATT, Jr.
+v.
+Raymond ROBIN, Jr. et al.
+
+No. 87-C-1420.
+
+Supreme Court of Louisiana.
+
+January 18, 1988.
+
+Karl W. Bengtson, Shelton and Legendre, Lafayette, for applicant.
+
+Michael W. Campbell, New Orleans, Caffery, Oubre & Dugas, New Iberia, Douglas Longman, Jr., Onebane, Donohoe, Bernard, Torian, Diaz, McNamara & Abell, Richard Meaux, Philip A. Fontenot, Davidson, Meaux, Sonnier & McElligott, Norman Foret, McBride, Foret, Rozas & Leonard, Thomas Hightower, Jr., Voorhies & Labbe, Lucius A. Hornsby, Jr., Lafayette, for respondent.
+
+DIXON, Chief Justice.
+
+The issue in this case is whether the owner and operator of a motor vehicle who is injured by an under-insured motorist may select from several available uninsured motorist policies the one under which he prefers to recover.
+
+In December, 1981 Louis Wyatt, Jr. suffered severe injuries when the vehicle he owned and was operating collided with one driven by Raymond Robin, Jr. Wyatt sued Robin and Robin's insurer, Commercial Insurance   Company, seeking $462,800 in damages.
+
+Wyatt later amended the petition to include as additional defendants American Specialty Insurance Company, Foremost Insurance Company, United States Fidelity and Guaranty Company (USF & G) and American Universal Insurance Company. At the time of the accident, American Specialty provided $5000 of uninsured motorist coverage to Wyatt pursuant to a policy in which he was the named insured and which specifically covered the vehicle he was driving at the time of the accident.
+
+Foremost, USF & G and American Universal provided coverage to Wyatt's parents, Louis, Sr. and Virginia, as "named insureds" and covered certain automobiles owned by them. Because Wyatt resided with his parents at the time of the accident, he was an "omnibus insured" under each of these three policies. The Foremost policy provided liability and uninsured motorist coverage of $25,000. USF & G and American Universal provided liability coverage of $100,000 but purported to limit the uninsured motorist coverage to $5000 and $10,000 respectively.
+
+After the petition was amended, Commercial Union paid Wyatt the full amount of available coverage$50,000.[1] American Specialty then tendered to Wyatt its limit under the uninsured motorist provision $5000. The district court dismissed Robin, Commercial Union and American Specialty from the action. Wyatt reserved all rights against the three remaining insurance companies.
+
+Foremost, USF & G and American Universal then moved for summary judgment on the ground that that the anti-stacking provision of the Louisiana Uninsured Motorist Statute, R.S. 22:1406, bars any further recovery by Wyatt.[2] The trial court granted the defendants' motion and dismissed Wyatt's suit. Wyatt appealed, asserting that he was seeking only to select among available policies, not attempting to stack. The court of appeal affirmed. Wyatt v. Robin, 509 So. 2d 746 (La.App. 3d Cir.1987). We granted writs and now reverse.
+
+R.S. 22:1406(D)(1)(c), commonly referred to as the anti-stacking provision, states in pertinent part:
+
+We have held that this provision limits the amount one can recover when several policies are available. Courville v. State Farm Mutual Automobile Insurance Co.,
+393 So. 2d 703
+(La.1981). However, the provision does not limit one's access to available coverage. Taylor v. Tanner, 442 So. 2d 435, 438 (La.1983). In this case, Wyatt has available to him uninsured motorist coverage under four policies. Wyatt is entitled to select from those policies the one under which he would prefer to recover.
+
+The fact that Wyatt has already accepted the $5000 limit from the American Specialty policy is irrelevant to his right of selection. As we stated in Taylor v. Tanner, supra at 438:
+
+The opinion of the court of appeal is accordingly vacated. The motion for summary judgment is denied and the matter is remanded to the trial court for further proceedings consistent with this opinion.[3] All costs of this proceeding are assessed to the defendants, Foremost Insurance Company, United States Fidelity and Guaranty Company and American Universal Insurance Company.
+
+LEMMON, J., concurs and assigns reasons.
+
+COLE, J., dissents for reasons assigned.
+
+CALOGERO, J., by way of additional reasons, would expressly overrule Breaux v. La. Farm Bureau Mutual Ins. Co., 413 So. 2d 988 (La.App. 1st Cir.1982).
+
+LEMMON, Justice, concurring.
+
+La.R.S. 22:1406(D)(1)(c) was designed to prevent stacking.[1] The first paragraph applies to any policy in which the claimant is an insured and prohibits stacking of any other policy, while the second paragraph applies to the policy on the nonowned vehicle occupied by the claimant and provides an exception to allow stacking of one other policy available to the claimant.
+
+Plaintiff does not attempt in this case to stack two policies (which is prohibited by the first paragraph), but rather seeks to selectively claim under one of four policies in which he is an insured. Nothing in the first paragraph prohibits this selection. Moreover, there is no provision in the statute limiting a claimant who is an insured under four policies to recovery only under the policy on the owned vehicle he was occupying at the time of the accident.
+
+COLE, Justice, dissenting.
+
+The majority's reliance upon Taylor v. Tanner, 442 So. 2d 435 (La.1983) is misplaced. In that case the plaintiff was a guest passenger in a non-owned automobile. In the case now before us the plaintiff is the owner and operator of the motor vehicle in which he was injured. In this latter instance, La.R.S. 22:1406(D)(1)(c) renders the UM coverage under the policy listing the involved vehicle exclusive of coverage in other policies which do not list the vehicle. That is the result of the 1977 amendment to the Act.
+
+Since the plaintiff in this case owned and was driving the vehicle in which he was injured, his policy became exclusive. The scheme of statutory UM protection is in terms of the insured's limits arising from a liability policy on a particular vehicle, not in terms of the aggregate or single limits one or more insurers may otherwise have provided.   The clear language of the Act denies plaintiff access to the higher limits provided in policies covering other non-owned automobiles. Where, as here, plaintiff has a policy on his owned vehicle which he was operating at the time of the injury, the statutory limitation against stacking or increasing the limits of UM coverage in that policy is triggered.
+
+Accordingly, I respectfully dissent.
+
+[1]  Because this amount did not fully compensate Wyatt for his damages, Robin is considered an "underinsured" motorist. The provisions of uninsured motorist coverage apply equally to the underinsured motorist situation. R.S. 22:1406(D)(1)(a).
+
+[2]  "`Stacking' occurs when the insured is covered by more than one policy, and he recovers benefits from a second policy when the benefits from the first policy are insufficient to fully compensate him for his losses." No-Fault and Uninsured Motorist Automobile Insurance § 23.20[2], at p. 23-27 (1987).
+
+[3]  At the trial on the merits, the trial court may be called upon to decide the disposition of the $5000 already tendered to Wyatt. We need not address this issue in our review here of the summary judgment. See Taylor v. Tanner, supra at 439 fn. 7.
+
+[1]  Section 1406(D)(1)(c), the anti-stacking statute, provides:
+
+"(c) If the insured has any limits of uninsured motorist coverage in a policy of automobile liability insurance, in accordance with the terms of Subsection D(1), then such limits of liability shall not be increased because of multiple motor vehicles covered under said policy of insurance and such limits of uninsured motorist coverage shall not be increased when the insured has insurance available to him under more than one uninsured motorist coverage provision or policy; provided, however, that with respect to other insurance available, the policy of insurance or endorsement shall provide the following:
+
+"With respect to bodily injury to an injured party while occupying an automobile not owned by said injured party, the following priorities of recovery under uninsured motorist coverage shall apply:
+
+"(i) The uninsured motorist coverage on the vehicle in which the injured party was an occupant is primary;
+
+"(ii) Should that primary uninsured motorist coverage be exhausted due to the extent of damages, then the injured occupant may recover as excess from other uninsured motorist coverage available to him. In no instance shall more than one coverage from more than one uninsured motorist policy be available as excess over and above the primary coverage available to the injured occupant."

@@ -1,0 +1,147 @@
+89-K-2158
+State v. Russland Enterprises
+https://law.justia.com/cases/louisiana/supreme-court/1990/89-k-2158-2.html
+
+89-K-2158
+State v. Russland Enterprises
+Court: Louisiana Supreme Court
+Release date: 1990-02-05
+Author: COLE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1990/89-k-2158-2.html
+
+555 So. 2d 1365 (1990)
+
+STATE of Louisiana
+v.
+RUSSLAND ENTERPRISES, et al.
+
+No. 89-K-2158.
+
+Supreme Court of Louisiana.
+
+February 5, 1990.
+
+William J. Guste, Jr., Atty. Gen., Harry F. Connick, Dist. Atty., Jack Peebles, Michele Smith, Janet Ahen, Asst. Dist. Attys., for plaintiff-applicant.
+
+Joe Meyer, Jr., Orleans Indigent Defender Program, for defendant-respondent.
+
+COLE, Justice.
+
+At issue is the constitutionality of La. R.S. 14:106(A)(6), regulating the advertisement,   exhibition or display of sexually violent material. We find the statute does not meet the criteria for regulating obscene material set forth by the United States Supreme Court and therefore hold it to be unconstitutional.
+
+On January 15, 1987, officers of the New Orleans Police Department entered the "S-E-X" bookstore on Bourbon Street. The store was one of several adult bookstores in the New Orleans area owned by Russland Enterprises, which in turn was owned by two brothers, Kenneth and Bryan Ledet. The police officers purchased tokens from the cashier, went upstairs to the "peep show" booths and watched a short film entitled "The Punishment."[1] The film was described at trial as follows:
+
+The officers left the store and prepared an application for a search warrant. The defendants were subsequently arrested and charged with sixteen counts of violating La.R.S. 14:106(A)(6):
+
+§ 106. Obscenity
+
+A. The crime of obscenity is the intentional:
+
+Sub-Subparagraph (b)(iii) of Paragraph (2) of Subsection A reads:
+
+A judge trial was held on count sixteen (involving "The Punishment") only. The defense stipulated that the store sold adult materials, that "The Punishment" was shown in the booth, that the movie was seized and that Bryan and Kenneth Ledet owned the business. The trial judge then viewed the film.
+
+During the trial, the defense raised the issue of whether the film had to be judged according to the contemporary community standard test enunciated by the United States Supreme Court in Miller v. California,
+413 U.S. 15
+, 93 S. Ct. 2607, 37 L. Ed. 2d 419 (1973). The trial judge allowed the defense to present evidence on the issue, but noted that he did not find the contemporary community standards requirement applied:
+
+(emphasis added).
+
+The defense then introduced a list of approximately 1,500 people who belonged to defendants' adult movie video rental club. The defense correlated this list with a 400 person list of Orleans Parish jurors and found four people on the jury list also belonged to the club. Based on this figure, the defense argued the types of films rented and shown by defendants did not violate contemporary community standards. At the conclusion of this evidence, the trial judge again stated:
+
+Subsequently, the trial judge found Russland Enterprises and Kenneth and Bryan Ledet guilty as charged on count sixteen. The three defendants pled guilty as charged to the other fifteen counts. The trial judge fined Russland Enterprises $2,500. He sentenced Kenneth and Bryan Ledet each to two years at hard labor on each count, suspended, and ordered that the sentences were to run concurrently. Each was placed on two years inactive probation, ordered to pay court costs and fined $1,000. All three defendants appealed.
+
+The court of appeal reversed the convictions. State v. Russland Enterprises, 548 So. 2d 354 (La.App. 4th Cir.1989). The court found the failure of La.R.S. 14:106(A)(6) to require the material be judged by contemporary community standards made it violative of the first amendment right to free speech and due process. It concluded that the trial judge's finding that the material violated contemporary community standards was irrelevant since the defendants were prosecuted under a statute that did not require application of that standard.
+
+The state applied to this court for review of the court of appeal's judgment. Due to the constitutional issues involved, we granted the state's application for writs and treated it as an appeal. State v. Russland Enterprises, 550 So. 2d 616 (La.1989).
+
+In Roth v. United States,
+354 U.S. 476
+, 77 S. Ct. 1304, 1 L. Ed. 2d 1498 (1957), the United States Supreme Court held that obscenity was not within the area of constitutionally protected speech or press. In determining whether material was obscene, the Court adopted a test which embodied the community standards requirement:
+
+In Miller v. California, supra, the Court announced a three-prong test for the regulation of obscenity that incorporated the Roth holding:
+
+The basic guidelines for the trier of fact must be: (a) whether "the average person, applying contemporary community standards" would find that the work, taken as a whole, appeals to the prurient interest, Kois v. Wisconsin, [
+408 U.S. 229
+] at 230 [92 S. Ct. 2245, 2246, 33 L. Ed. 2d 312 (1972)], quoting Roth v. United States, [354 U.S.] at 489 [77 S. Ct.  at 1311]; (b) whether the work depicts or describes, in a patently offensive way,   sexual conduct specifically defined by the applicable state law; and (c) whether the work, taken as a whole, lacks serious literary, artistic, political, or scientific value.
+
+413 U.S.  at 24, 93 S. Ct.  at 2615, 37 L. Ed. 2d  at 431 (emphasis added).
+
+After Miller was decided, this court dealt with a challenge to the constitutionality of the predecessor to La.R.S. 14:106(A)(6).[2]State v. Johnson,
+343 So. 2d 705
+(La.1977). We found the statute invalid under the second prong of the Miller test, since it went beyond sexual conduct and purported to regulate all "violent material." However, we saw no reason to declare the entire obscenity statute unconstitutional, and simply severed paragraph (A)(6).
+
+Following Johnson, the legislature amended La.R.S. 14:106(A)(6) by Acts 1977, No. 717, § 1. The changes are emphasized:
+
+A. The crime of obscenity is the intentional:
+
+The amendment dealt with the Johnson problem, but did not otherwise change the statute.
+
+The state argues that Miller never intended to require the use of the term "contemporary community standards" in all obscenity statutes. While we agree the exact words "contemporary community standards" need not be used in the statute, we find the constitution requires at a minimum that obscene material be judged by a community standard. It may be stated in general terms or defined geographically. We find the Supreme Court's language in Jenkins v. Georgia,
+418 U.S. 153
+, 94 S. Ct. 2750, 41 L. Ed. 2d 642 (1974), instructive on this point. Jenkins involved a Georgia obscenity statute which required the trier of fact to apply "community standards." The Court wrote:
+
+Thus, while the legislature is given some flexibility in framing its definition of community standards, it is very clear that some mention of community standards is necessary.
+
+In any event, we note that the legislature has in fact incorporated the term contemporary community standards, either explicitly or by reference, into every section of La.   R.S. 14:106(A) except paragraphs 1 and 6.[3] In State v. Amato,
+343 So. 2d 698
+(La.1977), the defendants contended that La.R.S. 14:106(A)(2)'s use of the term contemporary community standards was unconstitutionally vague. We found no merit to this argument. We reasoned that since the statute followed the guidelines of Miller, it could not be considered vague. The clear implication of this holding is that a statute which fails to follow the Miller guidelines is open to an attack based upon vagueness as well as upon first amendment principles.
+
+The state next contends that by using the term "patently offensive," La.R.S. 14:106(A)(6) implicitly embodies community standards. The state cites the definition of "patently offensive" used in F. Schauer, The Law of Obscenity (1976): "[A]n affront to or surpassing of the current level of society's acceptance of sexual depictions or descriptions." Therefore, the state concludes that the two terms are so closely intertwined that the use of "patently offensive" is tantamount to the use of "contemporary community standards." We disagree. The terms, while perhaps overlapping in some regards, are nonetheless separate inquiries. In Smith v. United States,
+431 U.S. 291
+, 97 S. Ct. 1756, 52 L. Ed. 2d 324 (1977), the U.S. Supreme Court noted the distinction:
+
+431 U.S.  at 300-02, 97 S. Ct.  at 1763-64, 52 L. Ed. 2d  at 334-35 (emphasis added; footnote omitted).
+
+Patent offensiveness is a question of fact to be determined by applying contemporary community standards. Thus, it is clear that the two terms are not synonymous. The state's argument on this point lacks merit.
+
+The state's final argument is that La. R.S. 14:106(A)(6)'s reference to La.R.S. 14:106(A)(2)(b)(iii) somehow incorporates the contemporary community standards language found in La.R.S. 14:106(A)(2).
+
+We begin from the well-settled proposition that penal statutes must be strictly construed against the state and in favor of the defendant. State v. Peacock,
+461 So. 2d 1040
+(La.1984); State v. Cannon, 457 So. 2d 1177 (La.1984); State v. Freeman,
+411 So. 2d 1068
+(La.1982). The provisions of such statutes "shall be given a genuine construction, according to the fair import of their words, taken in their usual sense, in connection with the context, and with reference to the purpose of the provision." La.R.S. 14:3.
+
+Applying these precepts, we cannot extend La.R.S. 14:106(A)(2)'s contemporary community standards language to La.R.S. 14:106(A)(6). Although La.R.S. 14:106(A)(6) does make reference to sub-subparagraph (b)(iii) of La.R.S. 14:106(A)(2), its language clearly shows that the legislature intended only to incorporate the definition of sadomasochistic abuse contained in sub-subparagraph (b)(iii) and not the entirety of La.R.S. 14:106(A)(2). Our conclusion is further reinforced when we consider that the reference to subparagraph (b)(iii) was added in order to cure the problem raised in Johnson, supra. The amendment did limit violent material to that involving sexual conduct; however, it did not add the contemporary community standards language.
+
+We therefore hold that La.R.S. 14:106(A)(6)'s failure to mention contemporary community standards is fatal to its validity under Miller, supra. We note that the trial judge did mention contemporary community standards in his reasons for judgment. Nonetheless, we agree with the court of appeal that this statement is irrelevant, since defendants were prosecuted under   a statute which did not require application of that standard.
+
+The facial unconstitutionality La. R.S. 14:106(A)(6) does not necessarily render the entire obscenity statute unconstitutional. This court may strike only the offending portion and leave the remainder intact. State v. Azar,
+539 So. 2d 1222
+(La. 1989); State v. Williams,
+400 So. 2d 575
+(La.1981). Therefore, we must consider whether paragraph (A)(6) is severable from the rest of La.R.S. 14:106. Although the statute originally contained a severability clause, that clause was omitted after 1983 amendments. Nonetheless, this court may still sever if it determines that the unconstitutional portion is not so interrelated and connected with the constitutional parts that it cannot be separated without destroying the intention manifested by the legislature in passing the statute. State v. Azar, supra; Cobb v. Louisiana Board of Institutions, 237 La. 315,
+111 So. 2d 126
+(1958). See also Pollitt v. Connick,
+596 F. Supp. 261
+, 266 n. 6 (E.D.La.1984).
+
+In the present case, we find this test is satisfied. La.R.S. 14:106(A)(6) adds little, if anything, to the statute and its severance does no violence to the legislative intent in passing the statute. Clearly, any conduct regulated by La.R.S. 14:106(A)(6) is also regulated by La.R.S. 14:106(A)(3).[4]
+
+Perhaps prior to Johnson, supra, the statute purported to regulate a broader scope of conduct. However, as a result of the post-Johnson amendments, there is little doubt that La.R.S. 14:106(A)(6) is simply surplusage to the rest of the statute. We therefore hold La.R.S. 14:106(A)(6) is severable.
+
+For the reasons assigned, the judgment of the court of appeal is affirmed.
+
+[1]  Both the original 8 mm film and a videotape copy were made part of this court's record.
+
+[2]  Former La.R.S. 14:106(A)(6) read:
+
+A. The crime of obscenity is the intentional:
+
+(6) Advertisement, exhibition or display of violent material. "Violent material" is any tangible work or thing which the trier of facts determines depicts actual or simulated patently offensive acts of violence, including but not limited to, acts depicting sadistic conduct, whippings, beatings, torture and mutilation of the human body.
+
+[3]  La.R.S. 14:106(A)(1) deals with indecent exposure. This court has found the Miller standard did not apply in this context. State v. Walters,
+440 So. 2d 115
+, 122 (La.1983).
+
+[4]  La.R.S. 14:106(A)(3) reads:
+
+A. The crime of obscenity is the intentional:
+
+(3) Sale, allocation, consignment, distribution, dissemination, advertisement, exhibition, or display of obscene material, or the preparation, manufacture, publication, or printing of obscene material for sale, allocation, consignment, distribution, advertisement, exhibition, or display.
+
+Obscene material is any tangible work or thing which the trier of fact determines (a) that the average person applying contemporary community standards would find, taken as a whole, appeals to the prurient interest, and (b) depicts or describes in a patently offensive way, hard core sexual conduct specifically described in Paragraph (2) above, and (c) the work or thing taken as a whole lacks serious literary, artistic, political, or scientific value.
+
+Since both statutes reference La.R.S. 14:106(A)(2)(b)(iii) and both deal with advertisement, exhibition or display of such material, it is clear they regulate identical subject matter.

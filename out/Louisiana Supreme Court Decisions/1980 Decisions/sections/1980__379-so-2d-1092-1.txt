@@ -1,0 +1,103 @@
+65381
+State v. Martin
+https://law.justia.com/cases/louisiana/supreme-court/1980/379-so-2d-1092-1.html
+
+65381
+State v. Martin
+Court: Louisiana Supreme Court
+Release date: 1980-01-28
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/379-so-2d-1092-1.html
+
+379 So. 2d 1092 (1980)
+
+STATE of Louisiana
+v.
+Willie MARTIN.
+
+No. 65381.
+
+Supreme Court of Louisiana.
+
+January 28, 1980.
+
+Concurring Opinion February 28, 1980.
+
+Robert Barnard, New Orleans, Orleans Indigent Defender Program, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick,   Dist. Atty., Thomas Chester, Asst. Dist. Atty., for plaintiff-appellee.
+
+DENNIS, Justice.
+
+Martin was convicted of one count of armed robbery following a trial by jury. He was then sentenced to serve one hundred and ninety-eight years at hard labor as a multiple offender, having been convicted of simple burglary on November 3, 1971, and simple robbery on June 11, 1974. He asserts three assignments of error: (1) there are errors patent on the face of the record; (2) the trial court erred in failing to suppress identifications made out of court; (3) the trial judge improperly used the two prior convictions to enhance the sentence because their underlying guilty pleas were involuntary.
+
+ASSIGNMENT OF ERROR NO. 1
+
+We find no error patent on the face of the record.
+
+ASSIGNMENT OF ERROR NO. 2
+
+The defendant argues that eyewitness identifications of the defendant should have been suppressed and excluded from the trial, because the out-of-court identifications were prejudicial and tainted the in-court identifications.
+
+This armed robbery occurred at a church in the presence of five witnesses, M. Yolanda Domingue, Ms. Mercedes Barthe, and three priests. At a photographic line-up taken shortly after the robbery, Ms. Domingue selected the photo of the defendant, but noted that the hair style was different. The police permitted her to cover the hair and she identified the defendant. Later, Ms. Domingue identified the defendant at a line-up at police headquarters. At trial, Ms. Domingue again identified the defendant with no hesitation. Likewise, Ms. Barthe identified the defendant at the trial positively although she showed some tentativeness in her identification at the police line-up.
+
+Even if we assume that the photographic and physical line-ups were improperly suggestive, we do not find that the in-court identification was tainted. The witnesses were present at the commission of the crime and had considerable exposure to the defendant. The defendant met Ms. Domingue in the church when he entered, pointing a gun at her. He walked her up the stairs and made her stand nearby while he had the church deacon open the safe. Ms. Domingue testified that she had learned to remain calm during robberies and to pay attention to the identification of robbers when she was trained as a bank teller at Pelican Homestead. She asserted that she employed this calmness in the face of this robbery. Ms. Barthe also had enough time with the defendant to make an adequate identification of him at the trial. She encountered the defendant in a bedroom in the church building and was taken by him to the safe, where she stood while he removed the money. Added to the foregoing factors, we find that the lighting in the church during the robbery was good.
+
+We conclude that the in-court identification, because of the extent and quality of the exposure that the witnesses had of the defendant, was independent of the out-of-court identifications. Since there was an independent and reliable basis for the in-court identification, we find that the evidence was admissible. State v. Siegel,
+354 So. 2d 525
+(La.1978); State v. Taylor,
+347 So. 2d 172
+(La.1977).
+
+This assignment is without merit.
+
+ASSIGNMENT OF ERROR NO. 3
+
+The defendant complains of the use of his two prior convictions to enhance his sentence. We find that the court properly considered the November 3, 1971 conviction, but improperly used the 1974 conviction.
+
+Under State v. Holden,
+375 So. 2d 1372
+(La.1979), a conviction by a guilty plea taken before December 8, 1971, is not governed by State v. Lewis,
+367 So. 2d 1155
+(La.1979) and State v. Jackson,
+255 So. 2d 85
+(La.1971). The defendant's conviction on November 3, 1971, therefore, falls within the category governed by this rule, according to Holden: the state need only show that the defendant entered his guilty plea while he was represented by counsel; following   this, the burden shifts to the defendant to show the plea was taken without a knowing and voluntary waiver of his constitutional rights. The minutes from the defendant's 1971 conviction indicate that he was represented by counsel when the judge accepted his guilty plea. Since he did not show that the plea was involuntary or made without a waiver of his rights, we affirm the trial judge's use of it in enhancing this sentence.
+
+The prosecution failed, however, to establish a predicate for use of the defendant's 1974 conviction to enhance his punishment, as it was required to do by defendant's timely objection. Since the conviction and underlying guilty plea occurred after December 8, 1971, State v. Holden mandates that, upon objection by defendant to the predicate, the state must produce a contemporaneous record of defendant's guilty plea affirmatively showing his waiver of his right to jury trial, his right to confront accusers, and his privilege against self-incrimination. The guilty plea record introduced by the prosecution affirmatively shows that he waived his right to "a trial," but does not show that he knowingly and voluntarily waived his right to a jury trial, his right to confront his accusers, and his privilege against self-incrimination.
+
+Accordingly, the defendant's conviction of the basic crime is affirmed, but his sentence and adjudication as an habitual offender are set aside; the case is remanded for further proceedings consistent herewith.
+
+CONVICTION AFFIRMED; HABITUAL OFFENDER DECREE AND SENTENCE REVERSED; REMANDED.
+
+SUMMERS, C. J., dissents and will assign reasons.
+
+DIXON, J., concurs.
+
+MARCUS, J., concurs in part and dissents in part and assigns reasons.
+
+BLANCHE, J., concurs in part and dissents in part for reasons assigned by MARCUS, J.
+
+WATSON, J., concurs in part and dissents in part for reasons assigned by MARCUS, J.
+
+MARCUS, Justice (concurring in part and dissenting in part).
+
+I concur in defendant's conviction but dissent from the setting aside of his sentence and adjudication as an habitual offender. I would overrule both State v. Lewis,
+367 So. 2d 1155
+(La.1979) and State v. Holden,
+375 So. 2d 1372
+(La.1979); however, if Lewis is not overruled outright, I would continue to concur in the limitation placed on it in Holden.
+
+SUMMERS, Chief Justice (dissenting).
+
+I would overrule State v. Lewis,
+367 So. 2d 1155
+(La.1979). In view of this Court's division on this case and the fact that it was partially overruled in State v. Holden,
+375 So. 2d 1372
+(La.1979), the case can no longer stand as sound authority. Moreover, Lewis goes far beyond the interpretation of Boykin v. Alabama, 395 U.S. 288, 89 S. Ct. 1709, 23 L. Ed. 2d 274 (1969) which the Federal Courts have adopted, pointing out by their decision the error to which this Court has fallen in its reading of Boykin. See McChesney v. Henderson, 482 F.2d 1101 (1973); cert. denied, 414 U.S. 1146, 94 S. Ct. 901, 39 L. Ed. 2d 102. See also my dissents in State v. Lewis,
+367 So. 2d 1155
+(La.1979) and in State v. Johnson, 260 La. 902,
+257 So. 2d 654
+(1972).
+
+I respectfully dissent.

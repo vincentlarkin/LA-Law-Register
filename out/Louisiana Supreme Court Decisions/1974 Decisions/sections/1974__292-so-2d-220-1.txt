@@ -1,0 +1,89 @@
+54098
+State v. Levy
+https://law.justia.com/cases/louisiana/supreme-court/1974/292-so-2d-220-1.html
+
+54098
+State v. Levy
+Court: Louisiana Supreme Court
+Release date: 1974-03-25
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1974/292-so-2d-220-1.html
+
+292 So. 2d 220 (1974)
+
+STATE of Louisiana, Appellee,
+v.
+Elizabeth LEVY, Appellant.
+
+No. 54098.
+
+Supreme Court of Louisiana.
+
+March 25, 1974.
+
+Wilson C. Krebs, Patterson, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara B. Rutledge, Asst. Atty. Gen., Knowles M. Tucker, Dist. Atty., Edward M. Leonard, Jr., Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant was convicted of manslaughter, La.R.S. 14:31, and sentenced to twelve years in prison. On her appeal, she relies upon two bills of exceptions.
+
+Both bills are based upon pre-arrest questioning of the defendant. She argues that such questioning of her was in violation of Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966). Miranda requires certain warnings by police, such as to inform a suspect of his right to remain silent, before questioning him.
+
+The context facts are these:
+
+The defendant had shot her common-law husband in a restaurant-bar. She then went outside and sat in her car, parked nearby across the street.
+
+The investigating police officer arrived about three minutes later. From bystander-witnesses he learned that the dying man's name was Willie Francois and that his wife, Elizabeth Francois, had shot him. The bystanders also informed him that she was sitting in her white Ford outside. As the officer walked across to a white car with a black lady sitting in it, one of the bystanders yelled, "That's his wife sitting in the car".
+
+The officer then asked the lady her name, "for identification purposes only", as he testifies. She informed him her name was Elizabeth Francois Levy. Having been informed that the victim Francois's wife had killed him, the officer stated that the reply identifying her as a Levy "kind of dampened my concept of it".
+
+Again, in order he says only to clearly identify her as the suspect, he asked her: "Is that your husband in there?" She replied, "Yes, that's my husband, and I shot   the son of a bitch. I shot him, because he slapped me".
+
+The officer asked her to get out of the car. When she did, he then asked her, "Where is the gun?" He stated that he asked for the gun only to protect his own safety. The defendant replied that it was in her purse and that she'd get it for him. The officer then asked, "Do you mind my getting it?" She replied, "Yeah, get it", and the officer retrieved the recently-fired gun from the purse.
+
+The officer questioned her no further but then placed her under arrest. At that time, he gave her the Miranda warnings. He himself did no further interrogation but brought her to the station.
+
+Two bills were taken by the defendant, based upon this brief pre-arrest interrogation: (1) to the admission into evidence of the questions and answers; (2) to the denial of a motion to suppress the gun as evidence, since allegedly it was the product of an illegal search and seizure because based upon illegal questioning.
+
+Counsel forcefully argues that, before the pre-arrest questioning of the accused, the Miranda warnings were required. He points out that, at the time, the investigation had focused upon her as the sole suspect and that, since she was the only black woman in a white car outside in the street, the "identifying" questions were unnecessary.
+
+Miranda prohibits the use of statements "stemming from custodial interrogation of the defendant", in the absence of the procedural safeguards required by this decision, such as informing the accused person of his right to remain silent. 384 U.S. 444, 86 S. Ct. 1612. Custodial interrogation means "questioning initiated by law enforcement officers after a person has been taken into custody or otherwise deprived of his freedom of action in any significant way." Id. "This is what we meant in Escobedo [cited below] when we spoke of an investigation which had focused on an accused." Id., at Footnote 4.
+
+On the other hand, the court in Miranda specifically noted: "Our decision is not intended to hamper the traditional function of police officers in investigating crime.. . . General on-the-scene questioning as to facts surrounding a crime or other general questioning of citizens in the fact-finding process is not affected by our holding.. . . In such situations the compelling atmosphere inherent in the process of in-custody interrogation is not necessarily present." 384 U.S. 477-478, 86 S. Ct. 1629-1630.
+
+Nevertheless, an earlier decision, Escobedo v. Illinois,
+378 U.S. 478
+, 84 S. Ct. 1758, 12 L. Ed. 2d 977 (1964), whose holdings were amplified by Miranda, had marked the area requiring constitutional safeguard as where "the investigation is no longer a general inquiry into an unsolved crime but has begun to focus on a particular suspect", 378 U.S. 490, 84 S. Ct. 1765. See State v. Tarrance, 252 La. 396,
+211 So. 2d 304
+, 309 (1968). See also Orozco v. Texas,
+394 U.S. 324
+, 89 S. Ct. 1095, 22 L. Ed. 2d 311 (1969).
+
+With regard to the present facts, the officer's first two questions ("What is your name?" and, then, on receiving a confusing reply, "Is that your husband in there?") were clearly of an investigatory natureto ascertain that this lady was indeed the suspect he sought to detain.[1]
+
+Under the same narrow circumstances of a limited threshold inquiry at the scene immediately after a violent crime was committed, the officer's third query, "Where is the gun?", motivated primarily to protect himself from harm, likewise did not require Miranda warnings.
+
+*222 We accept the substantial evidence that the officer's primary aim in securing the weapon was to protect himself from a real danger, rather than being to secure incriminating evidence. So premised, the inquiry was not so much custodial interrogation, as rather being in aid of a limited protective search by an investigating officer founded on substantial reason. Such sort of search itself is not constitutionally prohibited as unreasonable. Adams v. Williams,
+407 U.S. 143
+, 92 S. Ct. 1921, 32 L. Ed. 2d 612 (1972); Terry v. Ohio,
+392 U.S. 1
+, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968); State v. Jefferson,
+284 So. 2d 882
+(La. 1973). But cf. Orozco v. Texas,
+394 U.S. 324
+, 89 S. Ct. 1095, 22 L. Ed. 2d 311 (1969).
+
+We therefore find that, under the limited circumstances here presented, the three questions and their responses were admissible in evidence, as was the gun which was recovered from her purse as indicated by her response to one of the questions. Despite counsel's skillful argument, therefore, we find the bills to be without merit.
+
+Accordingly, the conviction and sentence are affirmed.
+
+[1]  Under the very narrow circumstance here presented (i. e., of a limited threshold inquiry to ascertain the identity of the person being questioned), the spontaneous additional non-responsive utterance by her that she had shot him is in the nature of a volunteered statement given without the compelling influence of custodial questioning, such as is expressly excluded by Miranda from its prior-warning requirements. 384 U.S. 478, 86 S. Ct. 1630. See: State v. Brewer, 263 La. 113,
+267 So. 2d 541
+(1972); State v. Hall, 257 La. 253,
+242 So. 2d 239
+(1970).

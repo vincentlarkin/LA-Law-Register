@@ -1,0 +1,99 @@
+80-KA-2500
+State v. Goodley
+https://law.justia.com/cases/louisiana/supreme-court/1981/80-ka-2500-1.html
+
+80-KA-2500
+State v. Goodley
+Court: Louisiana Supreme Court
+Release date: 1981-05-18
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1981/80-ka-2500-1.html
+
+398 So. 2d 1068 (1981)
+
+STATE of Louisiana
+v.
+Paul Mitchell GOODLEY.
+
+No. 80-KA-2500.
+
+Supreme Court of Louisiana.
+
+May 18, 1981.
+
+*1069 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Leonard K. Knapp, Jr., Dist. Atty., Evelyn Oubre and Abbott J. Reeves, Asst. Dist. Attys., for plaintiff-appellee.
+
+Steven Broussard, Lake Charles, for defendant-appellant.
+
+CALOGERO, Justice.
+
+Defendant Paul Goodley was charged by grand jury indictment on November 2, 1979 with the crime of first degree murder in violation of R.S. 14:30. After trial by jury beginning on June 23, 1980, he was found guilty of manslaughter (R.S. 14:31) with ten of the twelve jurors concurring in the verdict. On September 12, 1980, the trial court sentenced defendant to fifteen years imprisonment at hard labor. Defendant now appeals his conviction and sentence to this Court, urging a single assignment of error, a challenge to his sentence as excessive.
+
+In reviewing the record, we have discovered a possible error in the case which requires our consideration notwithstanding the absence of an assignment of error, that is, whether the verdict, concurred in by only ten of the twelve jurors, was valid. Because we hold that the verdict was not valid, requiring the reversal of defendant's conviction and sentence, we pretermit consideration of defendant's claim that his sentence is excessive.
+
+Article 920 of the Code of Criminal Procedure dictates the scope of our review in criminal appeals and provides in pertinent part as follows:
+
+Under this provision, the Court will consider any errors that are "discoverable by a mere inspection of the pleadings and proceedings," or patent errors.
+
+In the present case, defendant was charged with first degree murder, a capital offense, i. e., one in which a sentence of death may be imposed. The trial court instructed the jury that while twelve jurors had to concur in order to find defendant guilty as charged, only ten of the twelve had to agree on the responsive verdicts of second degree murder or manslaughter. This instruction also appeared on the verdict sheet handed by the jury.[1] The jury   returned a verdict finding defendant guilty of manslaughter by a ten to two vote.
+
+This Court has consistently held that while the jury charge does not constitute a patent error, that is, one discoverable by inspection of the pleadings and proceedings and reviewable without being assigned as error, the jury verdict does. State v. Cook,
+396 So. 2d 1258
+(La.1981); State v. Vincent,
+387 So. 2d 1097
+(La.1980); State v. Wrestle,
+360 So. 2d 831
+(La.1978); State v. Craddock,
+307 So. 2d 342
+(La.1975); and State v. Sanford, 248 La. 630,
+181 So. 2d 50
+(1965). Thus under the authority of C.Cr.P. art. 920 and the above jurisprudence, we must consider whether or not the ten to two verdict returned in this case was proper.
+
+Article 1, § 17 of the Louisiana Constitution of 1974 provides, as does its statutory counterpart, C.Cr.P. art. 782, that,
+
+In addition to these express provisions it has been determined that a conviction on a lesser included offense operates as an acquittal on the greater charged offense. C.Cr.P. art. 598; Green v. United States,
+355 U.S. 184
+, 78 S. Ct. 221, 2 L. Ed. 2d 199 (1957). Therefore, in view of the above, it is clear that the vote on the lesser included offense, which acts as an acquittal verdict on the capital charge, must conform to the requirements for a lawful verdict on the greater offense, a unanimous verdict. Any other conclusion would violate the constitutional mandate that "a verdict" in a capital case must be by a unanimous jury.[2]
+
+The issue in this case is complicated, however, by the fact that prior to trial, in response to a defense motion, the state stipulated that it "... has not and does not intend to seek the death penalty." Thus the question presented here is not simply whether a unanimous verdict is required to convict one charged with a capital offense of a lesser included offense, but rather, whether a unanimous verdict is required to convict of a lesser offense a person charged with a capital offense where the state has stipulated that it will not seek the death penalty. For the following reasons, we hold that a unanimous verdict is required.
+
+The Legislature, in enacting the controlling provision herein, relied on the severity of the punishment provided for a crime as the basis for its classification scheme in providing the number of jurors which must compose a jury and the number of jurors which must concur to render a verdict. As stated above, La.Const. of 1974 Art. I, § 17 and C.Cr.P. art. 782 provide in pertinent part:
+
+Thus, the Legislature determined that for crimes that were so serious as to validly carry the death penalty, certain special procedural rules were additionally required, among which was the requirement of a unanimous jury to render a verdict. This determination is not based on an after the fact examination of what crime the defendant   may eventually be convicted of, nor is it based on an after the fact examination of what sentence he receives. Rather, the scheme is based on a determination by the Legislature that certain crimes are so serious that they require more strict procedural safeguards than other less serious crimes. It was determined that in charged capital offenses a unanimous verdict for conviction, not just sentencing, is necessary and there is no attendant provision giving the state the authority to alter that scheme on its own motion by simply stipulating that the death penalty will not be sought in a certain case.
+
+The meaning of these provisions[3] has previously been considered by this Court in State v. Gilmore,
+332 So. 2d 789
+(La.1976), in a somewhat similar situation. In Gilmore, defendant had originally been charged with first degree murder. However, the state later amended the indictment and defendant went to trial on the charge of second degree murder. Defendant therein argued that since he had originally been charged with the crime of first degree murder, a capital crime, a unanimous jury would be required to convict him of the lesser offense of second degree murder. In holding for the state the Court, considering the above provisions, concluded that:
+
+More recently when faced with the identical question presented here, whether a unanimous verdict was required in a first degree murder case where the state had stipulated it would not seek the death penalty, this Court, in a per curiam writ denial in response to a pre-trial writ application ruled:
+
+In view of these court actions in Gilmore, supra, and Sermon, supra, and the constitutional and statutory provisions outlined above, we find that a unanimous jury is required in a case where the defendant is being prosecuted under an unamended charge of first degree murder, a capital offense, to render any verdict, notwithstanding the fact that the state may have stipulated that it would not seek the death penalty.[4]
+
+As was the result in Gilmore, supra, if the state does not want to meet the unanimous verdict requirement mandated in prosecutions of capital crimes, it can re-charge the defendant with a non-capital crime.
+
+In view of our holding that defendant's conviction was not valid because not returned by a unanimous jury and that his conviction and sentence must be set aside, we pretermit consideration of defendant's argument that his sentence was excessive.
+
+For the foregoing reasons, the conviction and sentence of defendant must be set aside and the case remanded to the trial court for a new trial.
+
+REVERSED AND REMANDED.
+
+LEMMON, J., dissents and will assign reasons.
+
+[1]  The verdict sheet provided the jury appeared as follows:
+
+"1. We, the jury, find the defendant guilty as charged. (All twelve of you must agree)
+
+2. We, the jury, find the defendant guilty of second degree murder. (Ten of you must agree)
+
+3. We, the jury, find the defendant guilty of manslaughter. (Ten of you must agree)
+
+4. We, the jury, find the defendant not guilty. (All twelve of you must agree)
+
+[2]  This conclusion is further supported by our holding in State v. Stanford, 204 La. 439, 15 So. 2d 817 (1943). In Stanford the question presented was how many jurors were needed to try a particular offense. Therein we held that "... the number of jurors to try a case is determined by the gravity or nature of the crime charged and not by the verdict returned of a lesser offense."
+
+[3]  The language of the provisions considered in Gilmore was identical to the language of the provisions considered here, but it was as found in Article 7, § 41 of the 1921 La. Constitution rather than Article 1, § 17 of the 1974 Constitution.
+
+[4]  This Court considered a similar issue in State v. Jones,
+385 So. 2d 786
+(La.1980) and in a brief per curiam writ grant in response to a pre-trial writ application recited that the "[c]rime of aggravated kidnapping is not capital, nor is it capital for procedural purposes." However, Jones is distinguishable from the case under consideration because Jones involved a situation where the death penalty provision had been declared unconstitutional, whereas here the death penalty provision is valid and enforceable, making first degree murder "a criminal case in which the punishment may be capital."

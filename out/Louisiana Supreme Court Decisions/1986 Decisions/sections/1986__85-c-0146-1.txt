@@ -1,0 +1,111 @@
+85-C-0146
+Picou v. Ferrara
+https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-0146-1.html
+
+85-C-0146
+Picou v. Ferrara
+Court: Louisiana Supreme Court
+Release date: 1986-02-24
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-0146-1.html
+
+483 So. 2d 915 (1986)
+
+Gary E. PICOU
+v.
+Brian FERRARA, et al.
+
+No. 85-C-0146.
+
+Supreme Court of Louisiana.
+
+February 24, 1986.
+
+Rehearing Denied March 20, 1986.
+
+*916 Paul A. Bonin, Henry P. Julien, Levenson & Bonin, Mack E. Barham, Robert E. Arceneaux, Barham & Churchill, New Orleans, for plaintiff-applicant.
+
+William A. Porteous, III, Porteous, Hainkel, Johnson & Sarpy, Dennis M. Ferrara, New Orleans, for defendant-respondent.
+
+LEMMON, Justice.
+
+This case involves a collision between a left-turning automobile driven by defendant and an overtaking motorcycle operated by plaintiff. The principal issues which prompted review by this court are (1) the proper standard of appellate review as to the jury's finding that both plaintiff and defendant were negligent when the jury had been improperly instructed regarding the plaintiff's negligence, and (2) the applicability of the constructive last clear chance doctrine of Jackson v. Cook, 189 La. 860, 181 So. 195 (1938).[1]
+
+The accident occurred on a clear dry day at the intersection of Elysian Fields Avenue and New York Street in the city of New Orleans. Elysian Fields Avenue was a divided thoroughfare with two lanes on each side of a very wide neutral ground. Defendant had entered Elysian Fields in the right northbound lane about 256 feet from this intersection with New York. The accident occurred when he attempted a left turn at the intersection and the left front fender of his car was struck by plaintiff's motorcycle which had been traveling in the left northbound lane of Elysian Fields. The point at which defendant entered the left lane was the principal fact in dispute at the trial.
+
+At trial, the judge gave the following instruction to the jury:
+
+*917 Answering special interrogatories, the jury found that defendant was negligent, that plaintiff was contributorily negligent, and that defendant had the last clear chance to avoid the accident. In conformity with the jury verdict, the trial judge rendered a judgment in favor of plaintiff and against defendant and his insurer (to the extent of its limits) in the amount of $283,500.00. A five-judge panel of the court of appeal reversed, holding that the jury's finding of last clear chance was manifestly erroneous. 459 So. 2d 1218. The majority concluded that plaintiff had failed to prove that he was in a position of peril from which he could not extricate himself. The two dissenters, relying on Jackson v. Cook, above, reasoned that defendant knew or should have known of plaintiff's passing maneuver and therefore had the last clear chance to avoid the accident. We granted certiorari. 468 So. 2d 1198.
+
+There were three eyewitnesses to the accident, the plaintiff, the defendant (who testified by deposition) and Mark Bihm.[2] Defendant testified that he backed onto Elysian Fields from the parking lot of a bank and then proceeded forward in the right lane for ten to fifteen feet before moving into the left lane which he occupied until he reached the intersection. He had signaled with his left turn indicator as soon as he left the bank, and the signal remained on when he changed lanes and traveled in the left lane, about twelve inches from the neutral ground. As he began his left turn, the motorcycle struck the front of his left fender near the bumper. Although he had looked, he did not see the motorcycle before it struck his car and did not hear the motorcycle through his open window. He stopped as soon as the collision occurred, with the "front wheel and a little part of the body extending into New York Street" and "the rest of the body was on Elysian Fields".
+
+Plaintiff testified that he was traveling north in the left lane of Elysian Fields at about thirty-five miles per hour on his way to a college class when he noticed that defendant backed out of the parking lot and began driving in the right lane about "a block or so" ahead of him at a speed of five to ten miles per hour. He then noticed that defendant's left turn signal began to flash, and he assumed that defendant intended to change lanes. Plaintiff reduced his speed and moved closer to the curb, but when defendant stayed in the right lane and looked directly at him through the open window as he was about twenty feet behind the car, plaintiff decided to pass the car. When plaintiff was "at the rear side of the car", defendant suddenly turned left into his path, and the collision occurred. Plaintiff asserted that defendant was never in the left lane in front of him.
+
+The parties thus related two irreconcilable versions of the accident. Under defendant's version, he was without fault because he was fully in the left lane for about 200 feet before beginning his left turn. Under plaintiff's version, he was without fault because he was passing defendant in the clear left lane when defendant suddenly executed his left turn onto New York Street from the right lane of Elysian Fields. The jury apparently rejected defendant's version and accepted plaintiff's version, because the only record basis on which the jury could have found defendant negligent was that he turned across the left lane when the overtaking motorcycle was too close for the turn to be made safely. There simply is no other explanation for the jury's finding defendant negligent. On the other hand, the jury's finding plaintiff negligent may be explained by the erroneous instruction which informed the jury that it was negligence for a motorist to attempt to pass a preceeding vehicle within 100 feet of an intersection.[3]
+
+*918 When a jury is erroneously instructed and the error probably contributed to the verdict, the verdict must be set aside on appeal. Smith v. Travelers Insurance Co.,
+430 So. 2d 55
+(La.1983). Then the reviewing court, under its constitutional authority to review facts, should make an independent determination of the facts from the record, if possible, without according any weight whatsoever to the factual findings of the erroneously instructed jury.[4]Gonzales v. Xerox Corp.,
+320 So. 2d 163
+(La.1975); Ragas v. Argonaut Insurance Co.,
+388 So. 2d 707
+(La.1980). This procedure in effect prohibits the reviewing court's use of the manifest error rule when the jury's factual findings favorable to the prevailing party have been tainted. This court, however, has never considered the Gonzales approach when the jury has made some factual findings favorable to each party and when the erroneous instruction affected only one of the findings. We therefore proceed to evaluate each jury finding pertinent to liability in order to determine the applicability of the manifest error rule to each.
+
+The jury's finding that defendant was negligent was necessarily based on resolution of the factual dispute whether he moved from the right lane to the left, without first ascertaining that the move could be made with safety, in violation of La.R.S. 32:79(1), and whether he turned left at the intersection other than from the extreme left-hand lane in violation of La. R.S. 32:101(3). This finding was not affected by the erroneous jury instruction, and there is no justification for disregarding the jury's answer to the interrogatory pertaining to defendant's negligence. The manifest error rule is therefore applicable to that portion of the jury's verdict. Furthermore, the record clearly provides support for the conclusion that this portion of the verdict was not manifestly erroneous.[5]Canter v. Koehring Co., above.
+
+We next determine the applicability of the manifest error rule to the jury's finding that plaintiff was negligent. Consistent with its finding that defendant moved from the right lane at a time when it was unsafe to do so, the jury could also have determined that plaintiff simply attempted to pass a vehicle in the clear left lane and that such conduct was negligent only because the passing occurred within 100 feet of the intersection. Under these circumstances, the erroneous jury instruction (that passing a preceeding vehicle within 100 feet of an intersection constituted negligence) probably contributed to the finding of plaintiff's negligence, and that finding is not entitled to review under the manifest error rule. We therefore proceed to determine plaintiff's contributory negligence, without regard to that finding by the jury which was tainted by the erroneous instruction on the issue, but with due regard to the untainted finding by the jury that defendant made a left turn from the   right lane at a time when it was unsafe to do so.
+
+Plaintiff's own version of the occurrence was entirely consistent with the jury's determination of defendant's negligence. The investigating officer's testimony (noted in footnote 5) that he found defendant's car twenty minutes after the accident at a 45-degree angle across both lanes of Elysian Fields also corroborated plaintiff's version. Other pertinent testimony was offered by Mark Bihm and by an accident reconstruction expert.
+
+Bihm, the eyewitness who was traveling directly behind defendant, contradicted plaintiff to some extent by testifying that defendant had moved completely into the left lane before the collision. However, he admitted stating in a deposition that he was anxious to pass defendant and that defendant started to change lanes at the same time that the motorcycle passed him (the witness) and "did not really give the guy on the motorcycle much time to react". He also described defendant's maneuver as a "very quick turn", although "not a very sharp turn".
+
+The accident reconstruction expert presented by defendant concluded from an examination of the damage to the car that there was a "soft impact" from a "glancing blow" at an angle of ten to twenty degrees. He then concluded that defendant had turned from the left lane, because a turn from the right lane would have caused a more abrupt angle of impact. However, that conclusion, which was based on the assumption that defendant's turn was a perfect circle, did not consider that plaintiff turned his wheel to the left just before impact in an attempt to avoid the collision.
+
+The expert also performed a time-distance calculation intended to demonstrate that plaintiff was "quite a distance away" when defendant left the bank's parking lot and that the accident could not have happened as plaintiff described it. We deem plaintiff's location at the time defendant left the bank's parking lot to be relatively unimportant. The critical fact was plaintiff's location when defendant entered the left lane, and the jury resolved that factual dispute against defendant.
+
+The expert's conclusion regarding the impossibility of plaintiff's version was based on plaintiff's estimate that his handlebars were even with the door of defendant's car when defendant turned across his path from the right lane. Using plaintiff's estimates of the speed of the car and the motorcycle, the expert calculated that defendant could not have traveled from the right lane across the width of the left lane at ten miles per hour and collided with plaintiff (who was overtaking at almost thirty-five miles per hour) at the point of impact. The expert therefore concluded that defendant must have turned from the left lane.
+
+We accept plaintiff's version of the incident which, as noted above, was consistent with the physical location of defendant's car after the accident and with the jury's finding that defendant was negligent. Bihm's vacillating testimony did not seriously conflict with plaintiff's version in material particulars as to the position of the vehicles when defendant moved from the right lane. The expert's opinion about the impossibility of plaintiff's version depends for its validity upon the exactitude of plaintiff's estimate of his position when defendant started his turn. Such exactitude is rare in this type of litigation, and plaintiff stressed the inexactness of his estimates throughout his testimony.[6]
+
+We therefore conclude from the record that plaintiff was not contributorily negligent. Plaintiff's conduct was entirely reasonable. He was traveling within the speed limit in the left of two northbound lanes. When he noticed that the left turn signal of a car a block ahead of him in the right lane began to flash, he slowed down slightly and moved toward the neutral   ground in anticipation of a possible change of lanes. However, when the car did not change lanes and the driver looked directly at him in a position about twenty feet to the rear of the car, plaintiff decided to pass the car, reasonably believing that the driver was waiting for him to pass before changing lanes or at worst was edging over gradually, leaving him plenty of room to pass in the lane he had occupied for many blocks. The driver then made a left turn from the right lane as plaintiff began to pull alongside the rear of the car. One can hardly say that plaintiff was unreasonable because he did not anticipate the motorist's turning left into his path after the motorist had looked directly at him through an open window on a loud motorcycle a short distance behind the car. The cause of this accident was defendant's intrusion into plaintiff's lane at an unsafe time, rather than plaintiff's attempting to overtake and pass a vehicle occupying the same lane in which he was traveling. See La.R.S. 32:191(B).
+
+The judgment of the court of appeal is reversed, and the judgment of the trial court is reinstated on the issue of liability. The case is remanded to the court of appeal for review of the issues pertaining to damages.
+
+BLANCHE, J., concurs and assigns reasons.
+
+MARCUS, J., concurs and assigns reasons.
+
+BLANCHE, Justice (concurring).
+
+While a review of the record would support a finding that the defendant was negligent and the plaintiff was not contributorily negligent, the opinion undermines this court's holding in Gonzales v. Xerox,
+320 So. 2d 163
+(La.1975). For that reason I do not join in the opinion. After finding that a jury is erroneously instructed and the error probably contributed to the verdict under Gonzales, we should conduct a complete and independent review of the record.
+
+MARCUS, Justice (concurring).
+
+Having concluded that there was an erroneous jury instruction, the appellate court should have decided the case on the merits. Gonzales v. Xerox Corporation,
+320 So. 2d 163
+(La.1975). A review of the record supports the finding that defendant was negligent and that plaintiff was not contributorily negligent. Accordingly, I concur in the result reached by the majority.
+
+[1]  The Jackson case held that last clear chance is applicable not only when the defendant actually discovered the plaintiff in a position of peril, but also when the defendant should have discovered the plaintiff's peril in the exercise of due diligence. The author of this opinion has expressed doubts about the correctness of the Jackson decision, at least when the plaintiff's negligence consists of inattention which continues up to the moment of the accident. See Nixon v. Southern Railway Co., 290 So. 2d 371 (La.App. 4th Cir.1974) (Lemmon, J., dissenting). There is authority, however, for distinguishing between an inattentive plaintiff and a helpless plaintiff for purposes of applying last clear chance. Restatement (Second) of Torts §§ 479 and 480 (1965).
+
+Because we rule in plaintiff's favor in this case on other grounds, we do not reach the issue of last clear chance. We therefore do not express an opinion about the continued viability, after the legislative adoption of comparative fault, of the doctrine of last clear chance which was designed to mitigate the harshness of an all-or-nothing contributory negligence system. The accident in the present case occurred before the effective date of the comparative fault legislation.
+
+[2]  Defendant died prior to trial of causes unrelated to the accident, and his deposition was read to the jury by stipulation.
+
+[3]  The instruction was based on La.R.S. 32:76 which by its terms does not apply to "a one-way roadway or a multiple lane highway". Indeed, multi-lane divided thoroughfares (such as Elysian Fields Avenue) are designed to facilitate the free flow of traffic and to permit passing in the parallel lanes of the favored roadway.
+
+[4]  The standard of appellate review stated in Canter v. Koehring Co.,
+283 So. 2d 716
+(La.1973) requires that great weight be accorded to the factual findings of the trier of fact (at least when the factfinder in a jury trial has been properly instructed and has not been exposed to improper and prejudicial evidence).
+
+The most significant effect of the constitutional authority to review facts is that a reviewing court, in a case in which the jury verdict must be set aside, is not required to remand for a new trial, but may make an independent determination of the facts from the record. See also Otto v. State Farm Mutual Automobile Insurance Co.,
+455 So. 2d 1175
+(La.1984) for the applicability of this rule to a bench trial.
+
+At least some of the members of this court are not entirely satisfied that the goal of judicial efficiency which underlies the Gonzales rule is being effectively served and may be willing to reconsider the Gonzales decision.
+
+[5]  Plaintiff's testimony, considered along with the physical evidence of the location of defendant's car after the accident, provides sufficient support. The investigating officer found defendant's car "straddling ... both driving lanes at a forty-five degree angle". In fact, if defendant's own testimony was correct that he stayed in the left lane within ten to twelve inches of the neutral ground for most of the distance from his point of entry onto Elysian Fields until the intersection, the motorcycle could not have maneuvered to his left (in the ten-foot wide left lane) and struck the extreme front of the fender of his left-turning vehicle.
+
+[6]  The jury, in finding defendant negligent, apparently rejected both the expert and Bihm, or perhaps gave more credit to Bihm's earlier statement made at a point in time closer to the accident.

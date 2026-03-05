@@ -1,0 +1,153 @@
+64409
+State v. Williams
+https://law.justia.com/cases/louisiana/supreme-court/1979/375-so-2d-1379-1.html
+
+64409
+State v. Williams
+Court: Louisiana Supreme Court
+Release date: 1979-10-08
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/375-so-2d-1379-1.html
+
+375 So. 2d 1379 (1979)
+
+STATE of Louisiana, Appellee,
+v.
+James WILLIAMS, Appellant.
+
+No. 64409.
+
+Supreme Court of Louisiana.
+
+October 8, 1979.
+
+*1380 Donald M. Garrett, James S. Gravel, Alexandria, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Edwin O. Ware, Dist. Atty., Edward E. Roberts, Jr., Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant Williams was convicted of armed robbery, La.R.S. 14:64, and sentenced   to fifty years imprisonment at hard labor. The chief issue and only defense raised at the trial concerned whether the accused should be found "not guilty by reason of insanity" under his plea to such effect, La.C.Cr.P. art. 552(3).
+
+On defendant's appeal, we reverse on his Assignment of Error Nos. 7, 8, 9, and 10. These relate to the trial judge's extensive cross-examination before the jury of a psychiatrist witness testifying on the defendant's behalf. For reasons to be stated, we find that, under the circumstances, this cross-examination constituted an evaluative comment on the facts by the trial judge, in violation of La.C.Cr.P. art. 772, as to the amount of alcoholic drink and marijuana the accused had consumed on the evening of the crime before the robbery at 11:30 p. m.
+
+Legal Principles Applicable
+
+Louisiana follows the rule accepted in the majority of American state jurisdictions that it is the duty of the trial judge to abstain from any expression of opinion or comment on the facts or evidence. 3 Wigmore on Evidence, Section 784 (Chadburn rev. 1970); 9 Wigmore on Evidence, Section 2551 (3d ed. 1940); McCormick on Evidence, Section 8 (2d ed. 1972). As these commentators note, the English common-law and the federal practice are to the contrary: They permit the judge to comment upon the general weight of the evidence, or of particular parts of it, in order to assist the jurors in reaching their conclusion.
+
+Article 772 of the Louisiana Code of Criminal Procedure (1966) incorporates the majority American state rule. It provides that: "The judge in the presence of the jury shall not comment upon the facts of the case, either by commenting upon or recapitulating the evidence, repeating the testimony of any witness, or giving an opinion as to what has been proved, not proved, or refuted." (Cf., La.C.Cr.P. art. 806, a prohibition of similar trial judge commentary in the jury charge.)
+
+The source of this provision in our 1966 code is Article 384 of the Louisiana Code of Criminal Procedure of 1928, La.R.S. 15:384 (1950). Joining Wigmore in his criticism of this restriction upon judge-comment on the evidence, Professor Dale Bennett, noted authority on Louisiana criminal law and procedure, had suggested in 1957 that it was unwise to deprive the jury of the aid of an impartial expert and that the federal practice of judge-comment should be adopted in Louisiana. Bennett, Criminal Law and Procedure, 18 La.L.Rev. 119, 135-36 (1957).
+
+Nevertheless, when the 1966 revision of our criminal procedure was adopted the former Louisiana rule was retained. The Official Revision Comment notes: "* * * The Advisory Committee unanimously adopted the article, favoring a strict rule against comment on the facts by trial judges. At the general meeting [of the membership of the Institute] also, there was strong opposition to allowing judges to comment on the facts." (Italics ours.)
+
+The no-judge-comment rule is designed to safeguard the role of the jury as the sole judge of the facts on the issue of guilt or innocence.[1]State v. Hodgeson,
+305 So. 2d 421
+(La.1974) and decisions there cited. Thus, if the effect of a question or comment is to permit a reasonable inference that it expresses or implies the judge's opinion as to the defendant's innocence or guilt, this constitutes a violation of the defendant's statutory right to no-comment and thus requires reversal. State v. Green, 231 La. 1058,
+93 So. 2d 657
+(1957). Likewise, any comment or question by the judge expressing or implying his opinion with regard to a material issue is reversible. State v. Hodgeson,
+305 So. 2d 421
+, 421 (La.1974) (summarizing decisions).
+
+*1382 The no-comment rule does not bar a trial judge from asking clarifying questions in the presence of the jury; nevertheless, in the exercise of this power, the judge's questioning must be cautiously guarded so as not to constitute an implied comment. State v. Nicholas,
+359 So. 2d 965
+(La.1978). The judge may even question a witness as to a material matter which has been omitted, providing he does so in an impartial manner and conducts his examination in such a way that he does not indicate his opinion on the merits or any doubt as to the credibility of the witness. State v. Groves,
+311 So. 2d 230
+(La.1975). See, generally, Joseph, Work of the Appellate Courts in 1974-75Criminal Trial Procedure, 36 La.L.Rev. 605, 624-26 (1976).
+
+However (whatever its wisdom), the legislative imposition of the no-comment rule represents a considered determination that the trial judge's role is essentially as an impartial umpire in an adversary trial, rather than as an active participant in the development or presentation of evidence. Therefore, as we warned in State v. Wagster,
+361 So. 2d 849
+, 856 (La.1978):
+
+"* * * [Q]uestioning of witnesses in a criminal jury trial by the judge is a practice to be avoided unless deemed indispensible to a fair and impartial trial. A judge should be constantly aware of the basic premise of a criminal trial which calls upon the State, not the judge, to prove the defendant's guilt beyond a reasonable doubt. It is enough for the judge to impartially and wisely regulate the conduct of the trial without participating in the interrogation of witnesses, a practice fraught with danger of prejudice to the defendant."
+
+Cross-Examination by Trial Judge of Sanity Commission Witness
+
+In the present case, the defense called witnesses only in support of its defense of not guilty by reason of insanity at the time of the offense.
+
+Two doctors who were members of the sanity commission were called. La.C. Cr.P. art. 653. As authorized by that article, the trial judge cross-examined these witnesses, after the questioning by the defense and prosecution.[2]
+
+The state seems to argue that, by virtue of that provision, the trial judge is authorized to ask hypothetical questions based upon any of the evidenceeven if the questions would otherwise constitute a comment upon the evidence, because indicating a belief by the trial court as to which of controverted facts are true.
+
+We find no legislative intent by this provision that the no-comment rule does not apply to the judge's cross-examination of sanity commission witnesses, just as it is applicable to all other witnesses before the jury. The fundamental reason for the no-comment rule is that, at a Louisiana criminal trial, the trial jury is the exclusive judge of the facts of guilt or innocence and of the weight and credibility of the evidence. La.C.Cr.P. art. 802; see also jurisprudence previously cited.
+
+No functional or other reason is suggested to us why, accepting this fundamental postulate, the trial judge's function should be less restrained in the jury determination of guilt or innocence of criminal liability by reason of insanity, State v. Rollins,
+351 So. 2d 470
+(La.1977), than in the determination of guilt or innocence on any other ground. Therefore, if the trial judge's cross-examination of the sanity commission member constitutes a comment upon the evidence, as contended by the objection to particular questions and the motions for mistrial at the time, reversal may be required under La.C.Cr.P. art. 772 and under jurisprudence previously cited.
+
+Context Facts of Present Issue
+
+The defendant, 28 years of age, had an IQ of about 60 (i. e., a mental age of 8-9   years). Both members of the two-member sanity commission testified that he was mentally retarded both because of this mental deficiency and because of organic brain disease. Both of these doctors testified that, by reason of this mental defect, the accused did not know the difference between right and wrong, nor could he appreciate the criminal consequences of his act in short, that he was legally insane within the meaning of La.R.S. 14:14.[3]
+
+One of the specialists, Dr. Hayes, testified that a factor in his reaching this opinion was the history given him by the defendant that he had been drinking and was under the influence of marijuana. This circumstance, in combination with its exaggerated effect because of the accused's childlike mental retardation and his brain damage, influenced the expert in his conclusion that the accused did not know right from wrong at the time of the robbery.
+
+The error occurred during the trial court's extensive cross-examination of this witness. The purpose of the cross-examination was to destroy the basis of the specialist's opinion by minimizing the prior drinking and marijuana use. This was done on the basis of hypothetical questions which assumed certain facts as to the limited extent of drinking to be proved, which (as we will show) were not.
+
+Prior to the appearance of the two specialists, the other two witnesses for the defendant had testified: his mother testified as to his institutionalization for mental defect and as to his mental inadequacies; his common-law wife also testified.
+
+The latter witness, the wife, testified that she had seen the accused at 5:30 p. m. on the day of the robbery. He had come to her home with his younger brother (a juvenile, also arrested for the present offense). She stated that "he was drinking beer and he was smoking marijuana." When asked if she knew how much beer he had drunk, she replied: I think he drank a couple of beers."
+
+The defendant left soon thereafter. The robbery was committed at 11:30 p. m. by the defendant, his brother, and two other confederates. Neither the defendant[4] nor his three confederates testified as to whether the defendant had continued to drink and to smoke marijuana in the six hours between the time (5:30 p. m.) he left his wife's house and the time (11:30 p. m.) the robbery was committed.
+
+Viewed most favorably to the defendant, the wife's testimony showed that he had already been drinking beer and smoking marijuana when he came to her house between 5:00 p. m. and 5:30 p. m., that he had drunk two beers there, and that he had then left. (She never saw him again.) The wife's testimony is silent as to how much alcohol and marijuana he had used before he came to her house, and during the interval after he left it and before he committed the robbery six hours later.
+
+Her testimony, of course, could properly be used by the prosecutor to indicate that the accused had proved only limited beer consumption and alcohol use, and thus to attempt to discredit the psychiatrist's opinion   of legal insanity under the right-wrong test, insofar as it was based on a history (obtained primarily from the defendant) that he had smoked "several joints of marijuana" and had drunk "some wine and some whiskey and some beer." See Tr. 329 (facts upon which the specialist's opinion was partially based, as developed by state cross-examination). The state could properly, as it did (Tr. 330), under cross-examination point out that the only evidence before the jury concerned two beers and some marijuana used at 5:30 p. m.
+
+The issue is, to what extent, if any, was it appropriate for the trial judge to discredit the psychiatrist's opinion testimony on this basis, and to what extent did this cross-examination by the strong, able, and conscientious trial judge constitute unwittingly a prohibited comment upon the evidence.
+
+Examination of Dr. Hayes
+
+The 42 pages of Dr. Hayes' opinion testimony consisted of 8 pages of direct examination by defense counsel, 22 pages of effective and thorough cross-examination by the prosecutor, and 4 pages of re-direct examination which (2 pages out) were interrupted by 8 pages of intensive and effective cross-examination by the trial judge.
+
+The trial judge questioned the doctor as to the effect of the use of alcohol and marijuana on the accused's mental defect and reasoning power. The trial judge developed that the specialist's opinion was based on a history that the accused had started drinking in the morning and had continued drinking and using alcohol through the day.
+
+The judge then questioned the specialist intensively as to the time element and secured the admission of the doctor that, if consumed six hours earlier, in terms of absorption the alcohol would play little role. The witness was then questioned, over defense objection, as to whether his opinion of legal (right-wrong) insanity would be the same if "the evidence were that there was a consumption of about two beers and smoking of some marijuana at 5:30 p. m. and an offense occurred at approximately 11:30 p. m. . . . a six hour span." Tr. 347.
+
+The doctor said that the two beers would have very little effect on a normal person, although it might have more on a person with brain damagebut that the effects of the marijuana smoking were incalculable on the basis of the information. The doctor then pointed out once again that in fact he had been told that the defendant had drunk wine, beer, and whiskey and had smoked several joints of marijuana.
+
+The trial judge then twice again required the doctor to express his opinion on whether consumption of two beers and some marijuana six hours earlier would have any effect on whether a person knew the difference between right and wrong. The doctor stated that, assuming the hypothet, it would not affect a "hypothetical person," Tr. 350, very much.[5]
+
+The trial judge concluded with three pages of cross-examination emphasizing again what the prosecutor had exhaustively developed during his 22 pages of cross-examination: that a hypothetical person's attempts to avoid identification and arrest might be construed to show his awareness of a difference between right and wrong in committing an armed robbery.
+
+Conclusion
+
+The extensive and pointed cross-examination by the trial court did more than ask clarifying questions and cure a hiatus in the   record. It implied quite distinctly the judge's view that the medical specialist's opinion of legal insanity was entitled to little weight.
+
+The reasons suggested by the trial court's cross-examination are more properly advanced by argument and cross-examination of adversary counsel than by the weight and prestige of the presiding judge. Under our statutory scheme of criminal trial, the judge instructs the jury as to matters of law rather than about interpretation of factual evidence.
+
+We point out, particularly, that the reiterated hypothetical questions based upon a person having consumed only two beers and "some" marijuana some six hours before the crime unmistakably conveyed to the jurors the judge's belief that this was the only credible evidence of alcohol and drug use (six hours before the crime) they could consider in connection with the doctor's opinion of legal insanityeven though (as we pointed out earlier) the trial testimony permits and does not exclude other inferences of more excessive and prolonged use.
+
+As the state's cross-examination brought out, the jury might give less or little weight to the doctor's opinion because of the absence of more direct opinion of more extended and excessive use of alcohol corroborating the history of such use upon which his opinion was partially based.
+
+However, it was up to the jury, not the judge, to decide the weight to be given to the opinion. Further, it was the factual function of the jury, not the judge, to decide whether the wife's testimony of some marijuana and two beers at 5:30 p. m. showed the entire extent of drug and alcohol use affecting the accused's mental retardation or whether, instead, it represented only an interlude during an extended period of the consumption of same.
+
+The trial judge's hypothetical questions, based on stating one interpretation of part of the facts, constituted a comment upon the facts of the case under La.C.Cr.P. art. 772"by commenting upon or recapitulating the evidence, repeating the testimony of any witness, or giving an opinion as to what has been proved, not proved, or refuted."
+
+The effect of this intensive and repeated questioning was to indicate strongly to the jury that the trial judge believed that the defendant had drunk only two beers and smoked some marijuana by 5:30 p. m. and that, consequently, the doctor's opinion was unfounded that the accused was legally insane (did not know the difference between right and wrong) at the robbery at 11:30 p. m. some six hours later.
+
+We must therefore reverse. We do so with deference to the sincere belief of the strong, able, and conscientious trial judge that La.C.Cr.P. art. 653 authorized him to cross-examine sanity commission members in the same manner as adversary counsela view we reject, but one upon which we had not had occasion to express our view until in this opinion.[6]
+
+For the reasons assigned, we reverse the conviction and sentence, and we remand this case for a new trial in accordance with law.
+
+REVERSED AND REMANDED FOR A NEW TRIAL.
+
+DIXON, J., concurs in result only.
+
+BLANCHE, J., dissents.
+
+[1]  Where the trial is to the judge alone, the rule that the court may not comment on the evidence is not applicable. In bench trials, the trial judge has the right to question witnesses to clarify evidence. State v. Layssard,
+310 So. 2d 107
+(La.1975). Unless the judge's participation in the bench trial is to such extent and of such nature that it deprives the defendant a fair trial, there is no error. Id.
+
+[2]  Article 653 provides in pertinent part: "Regardless of who calls them as witnesses, the members of the (sanity) commission are subject to cross-examination by the defense, by the district attorney, and by the court."
+
+[3]  La.R.S. 14:14 provides: "If the circumstances indicate that because of a mental disease or mental defect the offender was incapable of distinguishing between right and wrong with reference to the conduct in question, the offender shall be exempt from criminal responsibility."
+
+[4]  At the sanity commission hearing on present competency to assist the defense, it was convincingly shown by the testimony of the psychiatrists and a former attorney that the defendant had no present memory of the events of the robbery, due to the amount of alcohol and marijuana he had used. However, amnesia due solely to excessive use of alcohol at the time of the offense, is not a mental incapacity to proceed to trial, since it does not result from a mental defect. State v. Palmer, 232 La. 468,
+94 So. 2d 439
+(1957); Official Revision Comment (b), La.C.Cr.P. art. 641. An extremely close issue is presented as to whether the present amnesia is due to mental defect rather than to the excessive use of drugs or alcohol; but, ultimately, we are unable to say that the trial court erred in finding that, except for the excessive use, the defendant could have adequately assisted his defense, at least under the prevalent jurisprudential tests.
+
+[5]  The medical witness attempted to qualify the hypothet insofar as applicable to the present accused. He replied to the judge's question as to whether the hypothetical person knew the difference between right and wrong: "Well, when you talk about that person, you are taking out of the context of the defendant, in my opinion, because he has retardation or mental disease, brain damage as well, which renders him more susceptible to the effects of those concoctions you suggest. * * *"
+
+[6]  We also acknowledge that some legal reformers, including Professors Wigmore and Bennett, agree with the trial judge's concept that a trial judge is more than merely an umpire but in addition has an affirmative role to assure from his impartial expertise some perspective to the jury as to the evidence introduced. However, until the prohibition of Article 772 is amended or repealed by the legislature, or is otherwise invalidated, a Louisiana trial judge is barred by our Code of Criminal Procedure from performing this additional role in Louisiana criminal proceedings.

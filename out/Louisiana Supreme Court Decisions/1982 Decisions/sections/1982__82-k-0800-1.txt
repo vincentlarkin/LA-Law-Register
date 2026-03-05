@@ -1,0 +1,81 @@
+82-K-0800
+State v. Moore
+https://law.justia.com/cases/louisiana/supreme-court/1982/82-k-0800-1.html
+
+82-K-0800
+State v. Moore
+Court: Louisiana Supreme Court
+Release date: 1982-07-02
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1982/82-k-0800-1.html
+
+416 So. 2d 1298 (1982)
+
+STATE of Louisiana
+v.
+Peggy A. MOORE.
+
+No. 82-K-0800.
+
+Supreme Court of Louisiana.
+
+July 2, 1982.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick,   Dist. Atty., John H. Craft, Asst. Dist. Atty., for plaintiff-appellee.
+
+Joseph Meyer, Jr., New Orleans, for defendant-appellant.
+
+LEMMON, Justice.
+
+We granted certiorari to clarify, by means of an express holding by this court in a particular case, the cases to which this court will apply the requirements of the decision in State v. Jones,
+404 So. 2d 1192
+(La.1981).
+
+In the Jones case, this court held that a misdemeanor guilty plea cannot be used as a basis (1) for actual imprisonment for the currently charged offense, (2) for enhancement of actual imprisonment in a subsequent case, or (3) for conversion of a subsequent misdemeanor into a felony, unless defendant entered the guilty plea voluntarily after being informed of the basic constitutional rights given up by the plea.[1] The court further decided to give the newly adopted rule prospective application, in effect decreeing that all future misdemeanor guilty pleas must be entered in accordance with the specified requirements in order to be used for the enumerated purposes. However, this court made an exception for certain "pipeline" cases which were then pending in this court and which had been held for consideration until Jones was rendered.[2] The "pipeline" exception to the rule of prospective application was stated in Jones as follows:
+
+The Jones decision was rendered on September 10, 1981 and became final on September 24, 1981, when the delay for applying for rehearing expired without an application having been made. C.Cr.P. Art. 922 B.
+
+Some confusion has occurred as to the "cases" in which the requirements of Jones are to be applied. The confusion probably arises because the Jones issue is being mostly raised in "cases" involving both a currently charged offense and one or more predicate offenses, so that the court in the currently charged offense is being asked to determine the validity of pleas in the predicate offenses.
+
+It is the date of entry of the guilty plea in the predicate offense which usually determines the applicability of the Jones requirements. The requirements of Jones are clearly applicable when the guilty plea in the predicate offense was entered after September 24, 1981 (the date of finality of Jones). On the other hand, the requirements of Jones are usually inapplicable when the guilty plea in the predicate offense was entered on or before September 24, 1981, the only exception being when the "case" involving the currently charged offense had been filed and was pending in this court on September 10, 1981 when Jones was rendered.
+
+In State v. Moore,
+408 So. 2d 1220
+(La. 1982), this court applied the requirements of Jones retroactively to reverse a conviction of third offense driving while intoxicated (DWI-3). In Moore, defendant had entered   a guilty plea on January 12, 1981 to DWI-3, but had reserved his right to appeal the issue of the validity of the 1977 and 1979 misdemeanor guilty pleas which served as the predicate for the present charge. Although the pleas in the predicate offenses had been entered before the Jones decision became final, the "case" (the appeal from the 1981 DWI-3 conviction in the currently charged offense based on 1977 and 1979 pleas to the predicate offenses) had been filed in this court on February 18, 1981 and was "presently pending in this court" when the Jones decision was rendered on September 10, 1981. Thus, the Moore case qualified as a "pipeline" exception to the Jones rule of prospective application.
+
+The case of State v. Lee, 407 So. 2d 1192 (La.1981), presented another "pipeline" exception. After the trial court had sustained defendant's motion to quash the bill of information charging DWI-3 on the ground that the 1976 and 1977 predicate pleas were invalid, the state's application for certiorari was filed on November 21, 1980. Although the guilty pleas to the predicate offenses predated Jones, the "case" in the currently charged offense (although on writs, rather than on appeal) was "presently pending in this court" when Jones was decided on September 10, 1981, and we held that the "case" was a "pipeline" exception to which the requirements of Jones were applicable in determining the validity of the 1976 and 1977 pleas. See also State v. Stephenson,
+412 So. 2d 553
+(La.1982), which was pending in this court when Jones was decided and which was held to be an exception to the prospective application decreed by Jones.
+
+The present "case" was filed in this court on April 2, 1982, when the state applied for certiorari and complained that the trial court had quashed the indictment (charging defendant with second offense prostitution in violation of R.S. 14:82) because the 1979 guilty plea to the predicate offense did not meet the requirements of Jones. The state argued that the trial court should not have inquired into the issue of compliance with Jones, because Jones itself provided only for prospective application.
+
+Since the "case" involving the currently charged offense of second offense prostitution was not "presently pending in this court" when Jones was rendered on September 10, 1981, and since the guilty plea to the predicate offense of first offense prostitution was entered before the finality of Jones, the requirements of Jones are not applicable to the determination of the validity of the plea to the predicate offense. The conviction in the predicate offense, which was apparently entered with assistance of counsel in compliance with previously existing standards, although not in compliance with the subsequently announced requirements of Jones, can therefore be used to convert the status of a second conviction of the same offense into a felony, and the trial judge erred in quashing the indictment.
+
+For these reasons, the judgment of the trial court is reversed, and the motion to quash is overruled. The case is remanded for further proceedings.
+
+DIXON, C. J., concurs with reasons.
+
+WATSON, J., concurs and assigns reasons.
+
+DIXON, Chief Justice (concurring).
+
+I respectfully concur.
+
+This opinion represents a clear violation of Boykin v. Alabama, but follows State v. Jones,
+404 So. 2d 1192
+(La.1981). I reluctantly subscribed to State v. Jones in order to assure at least future compliance with Boykin in this state.
+
+WATSON, Justice, concurring.
+
+Although I dissented in State v. Jones,
+404 So. 2d 1192
+(La., 1981), it is now jurisprudential law and I agree that it should be applied only prospectively.
+
+Therefore, I respectfully concur.
+
+[1]  In the Jones case, defendant was charged with violation of R.S. 14:98 D, third offense of operating a vehicle while intoxicated. The felony charge depended upon the validity of two prior guilty pleas to misdemeanor charges of driving while intoxicated, because those prior convictions (from pleas) were being used to convert the currently charged offense into a felony.
+
+[2]  New procedural rules are normally given only prospective application when they do not affect the integrity of the factfinding process and when judges and prosecutors are entitled to rely in good faith on prior standards. See Johnson v. New Jersey,
+384 U.S. 719
+, 86 S. Ct. 1772, 16 L. Ed. 2d 882 (1966). Refusal to decree retroactive application is particularly logical in a situation, such as the present one, in which retroactive application would effectively grant "judicial amnesty" from multiple offender prosecution to those drunk drivers who previously entered voluntary guilty pleas on advice of counsel.

@@ -1,0 +1,74 @@
+62760
+West Baton Rouge Parish Sch. Bd. v. TR Ray, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1979/367-so-2d-332-1.html
+
+62760
+West Baton Rouge Parish Sch. Bd. v. TR Ray, Inc.
+Court: Louisiana Supreme Court
+Release date: 1979-01-29
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/367-so-2d-332-1.html
+
+367 So. 2d 332 (1979)
+
+WEST BATON ROUGE PARISH SCHOOL BOARD
+v.
+T. R. RAY, INC.
+
+No. 62760.
+
+Supreme Court of Louisiana.
+
+January 29, 1979.
+
+*333 William R. D'Armond, Sanders, Downing, Kean & Cazedessus, Baton Rouge, for defendant-respondent.
+
+Joseph W. Cole, Jr., Asst. Dist. Atty., 18th Judicial Dist., for plaintiff-applicant.
+
+Ben Louis Day, Dale, Owen, Richardson, Taylor & Mathews, Baton Rouge, for La. Architects Ass'n, amicus curiae of the American Institute of Architects.
+
+R. Gray Sexton, Wilson & Sexton, Baton Rouge, for La. Engineering Soc. amicus curiae.
+
+DENNIS, Justice.[*]
+
+In this case we are called upon to decide whether a corporation which is not licensed to practice architecture may demand arbitration of a fee dispute under a contract by which it has agreed to perform architectural services.
+
+T. R. Ray, Inc. contracted with the West Baton Rouge Parish School Board to perform architectural services in erecting a new high school building. After the plans and specifications were completed and construction had begun, the architect employed by T. R. Ray, Inc. who had been in charge of the project left the employ of the corporation. Because of the loss of the architect's services the school board notified the corporation that it wished to terminate the contract. Shortly thereafter the corporation instituted arbitration proceedings to recover a balance of $41,117.53 allegedly   due under the contract. The school board filed suit to enjoin the corporation from submitting the claim to arbitration.
+
+The district court determined that the contract was void because prohibited by law and rendered judgment for the school board preliminarily enjoining the corporation from submitting its claim to arbitration. The court of appeal reversed and recalled the injunction, holding that although a corporation may not practice architecture, there is no prohibition against its acting as a "supplier of architectural services . . . to be performed by a licensed architect." West Baton Rouge Parish School v. T. R. Ray, Inc., 361 So. 2d 300, 302 (La.App. 1st Cir. 1978). We granted certiorari to review the intermediate appellate court's interpretation of the law and the contract.
+
+The law governing this case is clear. Only a person who has been granted a certificate of registration and license by the State Board of Architectural Examiners may practice architecture in the State of Louisiana. La.R.S. 37:14s.[1] The practice of architecture is the performance of professional services embracing the safe, healthful, scientific and aesthetic planning, design, and specifications for and the overseeing of the construction of any public or private building or buildings. La.R.S. 37:141.
+
+In its contract with the school board for the design of a public building, the corporation agreed to perform "professional services" as an architect including the preparation of drawings and specifications setting forth in detail the requirements for the construction of the entire project; to act as representative of the owner during construction by advising and consulting with the owner and issuing the owner's instructions to the contractor; and to accept the authority and responsibility of rejecting work which did not conform to the design and specifications.[2] Thus the "professional services" which the corporation agreed to perform encompassed all of those set forth in the legal definition of "the practice of architecture." La.R.S. 37:141.
+
+It is undisputed that the corporation did not secure from the Board of Architectural Examiners a certificate of registration and license. Indeed, it was legally impossible for it to have done so because a licensee must pass an examination and possess certain moral, legal and educational qualifications. La.R.S. 37:146. Consequently, the agreement between the corporation and the board was a contract to perform architectural services unlawfully without a certificate of registration and license.
+
+It is self-evident, therefore, that the school board was entitled to have the contract declared void and to have execution of its arbitration clause enjoined.[3] Individuals can not by their conventions derogate from the force of laws made for the preservation of public order and good morals. La.C.C. art. 11. The laws regulating   the practice of architecture were enacted "to safeguard life, health and property and to promote the public welfare", La.R.S. 37:141(A), and thus were plainly made for the preservation of public order. The laws also prohibit the practice of architecture without a license, and whatever is done in contravention of a prohibitory law is void. La.C.C. art. 12. See, e. g., Jary v. Emmett, 234 So. 2d 530 (La.App. 3d Cir. 1970); Van Horn v. Vining, 133 So. 2d 901 (La.App. 2d Cir. 1961); Ronaldson v. Moss Watkins, Inc., 127 So. 467 (La.App. 1st Cir. 1930).
+
+Although the issue is not before us in this preliminary injunction review, because of the harsh consequences and unnecessary litigation which otherwise might follow, it should be noted that although the contract is unenforceable the corporation is not necessarily without a remedy. From the record before us it appears that both parties entered the contract in good faith and that the corporation may be entitled to compensation under the theory of unjustified enrichment or under the doctrine of culpa in contrahendo.[4]See, Coleman v. Bossier City,
+305 So. 2d 444
+(La.1975). See also, Oil Purchasers, Inc. v. Kuehling,
+334 So. 2d 420
+(La.1976); Tate, The Louisiana Action for Unjustified Enrichment: A Study in Judicial Process, 51 Tul.L.Rev. 446 (1977); Tate, The Louisiana Action for Unjustified Enrichment, 50 Tul.L.Rev. 883 (1976); Schwenk, Culpa In Contrahendo in German, French, and Louisiana Law, 15 Tul.L.Rev. 87 (1940).
+
+For the reasons assigned, the judgment of the court of appeal is reversed and the judgment of the district court, preliminarily enjoining the corporation from submitting its claim to arbitration, is reinstated at the cost of the corporation.
+
+REVERSED.
+
+[*]  Chief Judge James E. Bolin participated in this decision as Associate Justice Ad Hoc sitting in the place of Chief Justice Sanders, retired.
+
+[1]  We reject as specious the defendant's argument that the legislature intended to prohibit only natural persons from practicing architecture without a license. As the court of appeal and the district court, we think it clear that an architect must be a person who "is technically and legally qualified to practice architecture," La.R.S. 37:141, by virtue of successfully taking an examination and possessing certain legal, educational and moral qualifications. La.R.S. 37:146.
+
+[2]  In its opinion, the court of appeal stated that "T.R. Ray, Inc. did not hold itself out to be an architect but to be the supplier of architectural services, such services to be performed by a licensed architect." It is difficult to understand how the intermediate court could have reached this conclusion. The contract was prepared on an American Institute of Architects Standard Form of Agreement Between Owner and Architect. The contract designates T. R. Ray, Inc. as "the Architect" and provides that the Architect shall perform the "Architect's Services" described in the agreement. The contract does not require that the "Architect's Services" be performed by a licensed architect; it merely provides that they be performed by T. R. Ray, Inc.
+
+[3]  The issue of whether the contract is void ab initio is properly a question for the Court. See La.R.S. 9:4201; Standard Co. of New Orleans, Inc. v. Elliott Construction Co.,
+363 So. 2d 671
+(La.1978); George Engine Co. v. Southern Shipbuilding Corp.,
+350 So. 2d 881
+(La.1977); Stone v. Stone,
+292 So. 2d 686
+(La.1974).
+
+[4]  Jary v. Emmett, 234 So. 2d 530 (La.App. 3d Cir. 1970), is distinguishable as a suit in quantum meruit, which represents "an ill-considered importation from the common law," Oil Purchasers, Inc. v. Kuehling,
+334 So. 2d 420
+(La. 1976), and was not a proper remedy in that case. Additionally the facts in the instant case, in which the architectural services were actually performed by a licensed Louisiana architect, are distinguishable from those in Jary which involved the performance of services by a Tex as architect who was not licensed in Louisiana.

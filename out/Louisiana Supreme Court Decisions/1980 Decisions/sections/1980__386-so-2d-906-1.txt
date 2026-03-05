@@ -1,0 +1,74 @@
+65957
+State v. Robertson
+https://law.justia.com/cases/louisiana/supreme-court/1980/386-so-2d-906-1.html
+
+65957
+State v. Robertson
+Court: Louisiana Supreme Court
+Release date: 1980-03-03
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/386-so-2d-906-1.html
+
+386 So. 2d 906 (1980)
+
+STATE of Louisiana
+v.
+Michael A. ROBERTSON.
+
+No. 65957.
+
+Supreme Court of Louisiana.
+
+March 3, 1980.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise S. Korns, Asst. Dist. Atty., for plaintiff-respondent.
+
+Paul L. Katz, Orleans Indigent Defender Program, New Orleans, for defendant-relator.
+
+MARCUS, Justice.[*]
+
+Michael A. Robertson was charged in separate bills of information with armed robbery in violation of La.R.S. 14:64 (No. 271-816) and receiving stolen things in violation of La.R.S. 14:69 (No. 271-823). Defendant entered pleas of not guilty to both informations at the arraignment. After the trial judge denied certain pretrial motions, defendant withdrew his former plea of not guilty to the information charging him with armed robbery and entered a plea of guilty as charged (No. 271-816). The trial judge accepted the guilty plea and ordered a presentence investigation. Subsequently, defendant was sentenced to serve twenty years at hard labor.
+
+Defendant filed a motion to quash the information charging him with receiving stolen things (No. 271-823) claiming that the prosecution for this offense violated his right not to be twice placed in jeopardy for the same offence.[1] The trial judge   denied the motion. Upon defendant's application, we granted certiorari under our supervisory jurisdiction to review the correctness of this ruling.[2]
+
+The information charging defendant with receiving stolen things states in pertinent part that defendant did procure, receive and conceal a thing of value, to-wit: "A 1978 Ford T Bird of the value of Six Thousand ($6,000.00) Dollars . . . belonging to Patricia Rico ... which said thing of value had been theretofore the subject of a theft, under circumstances which indicate" that defendant "knew, and had good reason to believe, ... was the subject of a theft." The information charging defendant with armed robbery set forth in pertinent part that defendant "while armed with a dangerous weapon, to-wit: a pistol, robbed one Patricia Rico of Six Thousand and Twenty ($6,020.00) Dollars in property and lawful money." Hence, the 1978 Ford T Bird valued at six thousand dollars which is the subject of the charge of receiving stolen things was part of the same property allegedly taken by defendant during the armed robbery to which charge defendant had previously pleaded guilty and was sentenced.
+
+The issue before us is whether a defendant can be prosecuted for receiving stolen things, after having been convicted and sentenced for armed robbery, where the thing received and the object of the theft in the armed robbery are the same. We think not.
+
+Armed robbery, for which defendant was previously convicted, is defined as
+
+La.R.S. 14:64. Theft, one of the elements of armed robbery, is defined as
+
+La.R.S. 14:67. In the instant case, defendant is charged with receiving stolen things, which is defined as
+
+La.R.S. 14:69.
+
+Official Revision Comment (a) to the above article provides:
+
+*908 In State v. Williams,
+359 So. 2d 115
+(La. 1978), we held that in a prosecution under an indictment charging both theft and receiving stolen goods, the defendant may be convicted of either theft or receiving stolen things, but not both.
+
+In the instant case, defendant was not charged in the same indictment with both theft and receiving stolen things. Rather, defendant was convicted of armed robbery which includes theft as an essential element thereof and is now charged in a separate information with receiving stolen things; the object of the theft in the armed robbery conviction and the thing received in the receiving stolen things charge are the same.
+
+In enacting art. 482(A), the legislature was concerned about the dilemma faced by the prosecutor in cases where he could not be certain prior to trial whether defendant had stolen the goods or had merely received them. If the prosecutor elected to charge defendant with theft and at trial proved receiving stolen things but not theft, the defendant would be immune by virtue of his double jeopardy rights from prosecution for receiving stolen things. Conversely, had the prosecutor charged receiving stolen things and proved theft instead, the defendant could not subsequently be charged with theft. As the comment to art. 482 notes, the article "provides for a situation where the state is frequently in justifiable doubt as to which crime will be established by the evidence adduced at the trial." By allowing these two offenses to be joined in the same indictment, the comment further states that the "prosecuting officer shall not be required to elect between the two offenses charged." Rather, "[i]t is for the jury to determine which charge is supported by the evidence."
+
+For the same reasoning that caused the enactment of art. 482(A), we conclude that where a defendant is charged in separate indictments with theft, or a crime in which theft is an essential element thereof (e. g., armed robbery), and receiving stolen things, and the object of the theft and the thing received are the same, a defendant can be found guilty of either crime but not both. We are supported in this conclusion by the comment to art. 482 which states: "A receiver of stolen things (R.S. 14:69) will be guilty of theft (R.S. 14:67), rather than receiving, if it develops that he procured or in any way participated in the stealing of the goods." (Emphasis added.) In other words, both charges cannot be supported by the same facts.[3]
+
+In the instant case, since defendant has been convicted of armed robbery, which includes theft as an essential element thereof, he cannot be convicted of receiving stolen things as a matter of law. Hence, the trial judge erred in denying defendant's motion to quash the information. We must reverse.
+
+For the reasons assigned, the ruling of the trial court is reversed and set aside; defendant's motion to quash the information charging him with receiving stolen things is sustained.
+
+[*]  Chief Judge Paul B. Landry, retired, participated in this decision as an Associate Justice Ad Hoc.
+
+[1]  When the motion was filed, defendant had not yet been sentenced by the court on his plea of guilty to armed robbery (No. 271-816). La. Code Crim.P. art. 592 provides: "When a defendant pleads guilty, jeopardy begins when a valid sentence is imposed." Accordingly, defendant's claim of double jeopardy was premature as he had not been placed in jeopardy for the first time. However, defendant has since been sentenced on his plea of guilty to armed robbery; therefore, we will consider the claim of double jeopardy asserted in his motion to quash the information charging him with receiving stolen things.
+
+[2]  377 So. 2d 844 (La.1979).
+
+[3]  In the factual situation where a defendant steals goods that were previously stolen and he knew or had reason to believe that they were stolen, his conduct could violate both crimes. However, in such a situation a defendant could not be convicted of both theft, or a crime in which theft is an essential element thereof, and receiving stolen things because we have held that a defendant cannot be twice punished for the same conduct. City of Baton Rouge v. Jackson,
+310 So. 2d 596
+(La.1975); State v. Didier, 262 La. 364,
+263 So. 2d 322
+(1972); State v. Bonfanti, 262 La. 153,
+262 So. 2d 504
+(1972).

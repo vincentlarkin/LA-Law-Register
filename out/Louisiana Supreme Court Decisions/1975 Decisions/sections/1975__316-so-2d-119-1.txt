@@ -1,0 +1,99 @@
+55728
+City of Monroe v. Robinson
+https://law.justia.com/cases/louisiana/supreme-court/1975/316-so-2d-119-1.html
+
+55728
+City of Monroe v. Robinson
+Court: Louisiana Supreme Court
+Release date: 1975-04-24
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/316-so-2d-119-1.html
+
+316 So. 2d 119 (1975)
+
+CITY OF MONROE
+v.
+Charles W. ROBINSON.
+
+No. 55728.
+
+Supreme Court of Louisiana.
+
+April 24, 1975.
+
+On Rehearing June 25, 1975.
+
+*120 Stephen J. Katz, Kidd & Katz, Monroe, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John Larry Lolley, City Atty., for plaintiff-appellee.
+
+DIXON, Justice.
+
+Defendant appeals his conviction (on November 4, 1974) for operating a motor vehicle while intoxicated in violation of R. S. 14:98. After trial on the merits he was sentenced to pay a fine of $400.00.
+
+The defendant relies on one assigned error to seek reversal of his conviction. Three arguments are offered in support of this alleged error. Defendant contends that the results of a Photo-Electric Intoximeter (PEI) test, taken shortly after his arrest, after he was transported to the police station, were improperly admitted into evidence because the city failed to lay the proper foundation for the introduction of the results of the test.
+
+The first contention of the defendant is that the results of the test were improperly admitted because the city did not lay the proper foundation as required by R.S. 32:663. This statute provides:
+
+In brief defendant argues that the city did not show that the officer was certified nor that the test used in this case (the PEI) was approved by the department of health. The defense never raised the objection to the trial judge that the PEI test had not been approved by the board of health. Under the provisions of Article 841 of the Code of Criminal Procedure this issue is not properly presented to this court.
+
+The defense did object to the introduction of the evidence on the grounds that there was no testimony that the operator was properly certified under R.S. 32:663. This issue is properly before us. The city attorney asked the operator if he was certified but before the operator answered the defense counsel interposed an objection. The question was never reasked. However, a review of the testimony of the operator shows that before the results of the test were introduced into evidence, the operator testified that (1) he successfully completed the department of health training course on PEI operation and (2) that "my certificate is not as a   technician, it is as an operator." This uncontroverted evidence was sufficient for the trial judge to conclude that the operator was certified.
+
+The second argument presented by the defendant is that the city did not present evidence that the results of the test were reported in the form of "grams of alcohol per one hundred cubic centimeters of blood." Defendant contends that the results of the test must be presented in this form, citing R.S. 32:662, subd. A, par. 1 (b). This is incorrect. The witness testified that the machine results were reported in the form of per cent by weight of alcohol in the blood. This is in accordance with the presumptions established by R.S. 32:662, subd. A, par. 1(a).[1] Section B of   this statute is not a technical evidentiary requirement; rather, it is an explanation of the meaning of "percent by weight of alcohol in the blood." It was not error to allow the operator to testify that the results of the test were measured in per cent by weight of alcohol in the blood.
+
+The final argument advanced by the defendant is that the evidence was inadmissible because the operator-witness could not testify of his own personal knowledge: how the machine determined the amount of alcohol in the defendant's blood; the scientific principles involved in the determination of the percentage; and the accuracy of the chemical test ampoules used to collect the alcohol. In effect, defendant argues that the city must introduce the testimony of an expert to explain how the PEI (or other) test works, how the ampoules are cared for and randomly tested, and the scientific theory which shows that in fact the per cent of alcohol in the blood is directly related to impaired control and reflex.
+
+Defendant has referred to two Texas cases in which the evidence of a scientific test was held inadmissible because of the state's failure to offer evidence of:
+
+See: Reyna v. State,
+508 S.W.2d 632
+(Tex.Cr.App.1974). This rule was first announced in Texas in the case of Hill v. State, 158 Tex.Cr.R. 313,
+256 S.W.2d 93
+(1953). The court held that these facts must be shown by the state before the results of the chemical test would be admissible. A police officer was allowed to testify to these facts but it had to be shown that he was trained to understand and work with the chemicals and equipment used in the test and that he was properly supervised by an expert. However, there was no reliance on a statutory scheme by the state in these cases.
+
+A review of other jurisdictions with statutes similar to the present Louisiana statute supports the conclusion that we should not follow the Texas rule as argued by the defendant. Our statutory scheme, as quoted above, shows an intent on the part of the legislature to provide a substitute for the normal common law evidentiary foundation required for the introduction of the results of scientific tests. The requirement that the test be authorized by the state board of health and that the officer be certified by that board are statutory substitutes for the ordinary requirement that the test be shown to be accurate and valid. Other jurisdictions with similar statutes have held that if the requirements of the statute are complied with the results of the test are admissible, even though only the police officer-operator is available to testify about the test. See: State v. Paul,
+437 S.W.2d 98
+(Mo.App. 1969), holding   that statutory scheme is a substitute for common law predicate and that if statute is strictly followed other expert evidence as to the accuracy and reliability of the test is unnecessary; State v. Sinclair,
+474 S.W.2d 865
+(Mo.App.1971) and Otte v. State, 172 Neb. 110,
+108 N.W.2d 737
+(1961), holding that the state may introduce evidence of the test results only after meeting requirements of the statute; State v. Caviness, 7 N.C.App. 541,
+173 S.E.2d 12
+(1970), holding that it is error to allow the introduction of the evidence where state did not show that officer had a valid permit as required by the statute and where there was no showing that the test used was approved by the board of health as required by the statute; State v. Powell, 10 N.C.App. 726,
+179 S.E.2d 785
+(1971), allowing the proof of the test results by the testimony of the officer when the statutory requirements are met.
+
+Under our statute, if the State introduces evidence to show compliance with the statute, the certified police officer-operator may testify as to the result of the test. The defense may of course attack the accuracy and reliability of the test, but this evidence will only go to the weight to be given the test result not to the admissibility of an otherwise valid test.
+
+There is no merit to the assigned error presented by the defendant.
+
+Accordingly, the conviction and fine are affirmed.
+
+SUMMERS, J., concurs.
+
+We granted a rehearing in the instant matter to reconsider our decree affirming the defendant's conviction and sentence for driving while intoxicated rendered after a trial during which the State failed to physically produce the Photo-Electric Intoximeter operator's permit or certificate to establish his qualifications under La. R.S. 32:663. On first hearing we held that the uncontroverted evidence that the operator successfully completed the department of health training course on PEI operation and that the operator was certified as an operator was sufficient for the trial judge to conclude that the operator was certified. In his application for rehearing defendant argued that, contrary to our findings, there was no evidence that the operator successfully completed a department of health training course in PEI operation (rather the evidence, he suggested, established only that the operator completed a course given by the Department of Public Safety and in no way shows that the course was conducted or sponsored by the department of health); defendant requested that the Court verify this point by re-examination of the record.
+
+Upon re-examination of the record we note the correctness of defendant's position and our error. Nevertheless, it is not necessary for us to consider the impact of this error, in light of our holding in State v. Jones, La.,
+316 So. 2d 100
+, decided this date, that the best evidence rules and other enunciated weighty considerations require that the State physically produce the certification of the operator who administers the PEI test before admitting the test results into evidence. We determine that the State's failure to physically produce the best evidence of the operator's certification when the defendant insists upon this rule mandates a reversal of his conviction and sentence and a remand for a new trial.
+
+Reversed and remanded.
+
+[1]  In actuality the term "per cent by weight of alcohol in the blood" is the weight of alcohol in a given volume of blood. This is not truly a percentage at all because it compares weight to volume. This apparent hiatus was explained in an article which presents a complete analysis of the various scientific tests. The author stated:
+
+"For those expecting to delve into the technical literature concerning chemical testing, a note is in order concerning methods of expressing the amount of alcohol that is in the blood. The text of this article and most American statutes speak of `percentage' of alcohol in the blood, although this may mislead persons not familiar with laboratory terminology.
+
+"A laboratory practice widely followed in this country and elsewhere for expressing solution strengths when small quantities of a liquid or a solid are dissolved in a relatively large amount of a liquid is to express the solution strength on a weight/volume basis. The reason for this is that measurement by weighing is the only accurate way to quantify extremely small amounts of a substance. Expensive analytical balances in laboratories, kept free of dust in glass cases, are capable of precisely determining weight even down to the fraction of a milligram. For the liquid, however, the most convenient method of measurement is volumetric.
+
+"The most straightforward method of expressing solution strength is to put it simply in terms of the number of milligrams of the substance per milliliter of solutionor, if more convenient, per 100 milliliters of solution. (The metric system is almost universally used in the laboratory.) Expressing solution strengths repeatedly in such fashion as `mg./ml.' or `mg./100ml.' becomes a little cumbersome and several shorthand expressions have been developed.
+
+"One of these is directly based upon the fact that 100 milliliters of solution was the quantity often tested in laboratories before they developed more refined techniques for testing smaller quantities of liquids. The expression `milligram per cent' (mg. %) became common to express the number of milligrams per 100 milliliters. (`Per cent' literally means `per 100.') Thus 80 mg./100 ml. is exactly the same as 80 mg. %.
+
+"Another shorthand expression that developed is the use of a conventional weight/volume percentage figure in which the specific gravity both of the weighed substance and the solvent would be disregarded. In establishing this one-to-one hundred relationship, the metric system's point of conversion from weight to volume has been utilized. In the metric system one cubic centimeter (one milliliter, for all practical purposes) of water has a mass of one gram. Thus one gram of substance per 100 milliliters of solution would represent one weight part in enough solvent to make a volume of 100, which would be a 1% solution. On this basis a solution of the strength 80 mg./100 ml. would be an .08% solution.
+
+"The reason the above is in terms of `solution' instead of weight of alcohol in volume of blood is to point up that these conventional expressions developed in laboratory practice generally and are used with respect to various types of tests. And as the early blood-alcohol tests were reported by laboratories using these methods of expression, the early literature in this country concerning blood tests for alcohol also used the terminology. The Europeans add one more expression: the pro mille. The (sic) simply means parts per thousand (0/00) and is used in the same fashion as the per cent or parts per hundred (%). In pure mathematical situations, the pro-mille concept is used to refer to parts per thousand parts, with all parts being identical. The same is true, of course, of the percentage concept. But in laboratories where solution strengths are being expressed, the pro mille, just as the per cent, is used to express weight/volume relationshipsagain with a disregard of specific gravity.
+
+"Perhaps the best method of comparing the different expressions of quantification is to assume that blood has been tested and there is found in it 180 milligrams of alcohol (weight) per 100 milliliters of blood (volume). This amount of alcohol in the blood might be expressed in any of the following ways:
+
+"As the pioneering blood-alcohol laboratory reports and studies used the weight/volume quantification, it inevitably happened that the blood-alcohol `percentage' figures sized upon by the nonexpert lawyers, legislators, and traffic safety enthusiasts were in fact the weight/volume percentage figures. All the widely-used testing instruments that report in terms of `percentage' or `percentage by weight' of alcohol in the blood actually utilize the weight/volume percentage quantification. It can be safely assumed in the entire field of chemical testing that, unless the contrary is indicated, all blood-alcohol percentage figures express weight/volume relationships." Watts, Some Observations on Police Administered Tests for Intoxication, 45 N.C.Law Rev. 34, 50, footnote 53 (1966).

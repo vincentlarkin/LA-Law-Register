@@ -1,0 +1,92 @@
+92-C-2224
+Roger v. Dufrene
+https://law.justia.com/cases/louisiana/supreme-court/1993/92-c-2224-2.html
+
+92-C-2224
+Roger v. Dufrene
+Court: Louisiana Supreme Court
+Release date: 1993-02-22
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1993/92-c-2224-2.html
+
+613 So. 2d 947 (1993)
+
+Deborah ROGER, Wife of/and Robert Roger, Sr.
+v.
+Korey J. DUFRENE, State Farm Mutual Automobile Insurance Co. and Prudential Property & Casualty Insurance Co. et al.
+
+No. 92-C-2224.
+
+Supreme Court of Louisiana.
+
+February 22, 1993.
+
+James R. Carter, Porteous, Hainkel, Johnson & Sarpy, New Orleans, for applicant.
+
+G. Frederick Seemann, Dean, Lomenick & Seemann, Opelousas, Gregory J. Noto, Chalmette, for respondent.
+
+MARCUS, Justice.[*]
+
+The issue presented for our review is whether the action for damages brought by the tortfeasor's employer against its insurance agent for the alleged failure to procure the requested insurance coverage has prescribed.
+
+Mr. and Mrs. Rogers sustained injuries when their automobile was struck by a truck owned and operated by Korey Dufrene, an employee of Crewboats, Inc. Plaintiffs brought suit against Dufrene and several insurers, including State Farm Mutual Automobile Insurance Company (State Farm). Plaintiffs later added Crewboats, Inc. as a defendant alleging that Dufrene was in the course and scope of his employment with Crewboats, Inc. at the time of the accident and that State Farm provided automobile liability coverage to Crewboats, Inc.[1]
+
+State Farm filed a motion for summary judgment denying coverage on the ground that none of the four policies issued to Crewboats, Inc. provided "an employee non-ownership liability endorsement," that is, coverage for the corporation's employee while the employee is driving his own personal vehicle for company business. The   motion was denied. Crewboats, Inc. filed a third party petition against Robert L. Eisenbraun, State Farm's agent, for failure to provide the allegedly requested insurance coverage. Eisenbraun filed an exception of prescription arguing that the third party petition of Crewboats, Inc. was a suit in tort governed by the one year prescriptive period. Since Crewboats, Inc. did not file suit until over one year after it knew or should have known of Mr. Eisenbraun's alleged negligent act of failing to procure the requested coverage, the suit had prescribed.[2] Crewboats, Inc. argued that the alleged failure to provide coverage is a breach of contract action which is governed by a ten year prescriptive period. The trial judge maintained the exception of prescription finding that the third party petition was one in tort governed by the one year prescriptive period. The court of appeal reversed, finding a prescriptive period of ten years was applicable.[3] We granted certiorari to review the correctness of that decision.[4]
+
+An action in tort is governed by the prescriptive period of one year while an action on a contract is governed by the ten year prescriptive period for personal actions.[5] The proper prescriptive period to be applied in any action depends upon the nature of the cause of action. It is the nature of the duty breached that should determine whether the action is in tort or in contract. See Sciacca v. Polizzi,
+403 So. 2d 728
+, 730 (La.1981) (quoting Kozan v. Comstock, 270 F.2d 839, 844 (5th Cir.1959)).
+
+This court in Karam v. St. Paul Fire & Marine Insurance Co.,
+281 So. 2d 728
+(La. 1973), discussed the duty owed by an insurance agent to his client. In Karam, the insured had requested "as much property damage coverage as the agent could obtain." While the agent had intended to procure $100,000 of coverage, he in fact had only provided $10,000 of coverage. In determining the liability of the insurance agent to the insured this court stated:
+
+Id. at 730-31. In Karam, this court found the insurance agent negligently failed to procure property damage liability coverage in the amount requested by the plaintiff. Although prescription was not at issue in Karam, the court clearly characterized the action of an error or omission on the part of the insurance agent as delictual. See also Chandler v. Jones, 532 So. 2d 402 (La. App. 3d Cir.1988); Cambre v. Travelers Indemnity Co., 404 So. 2d 511 (La.App. 4th Cir.1981), writ denied,
+410 So. 2d 761
+(La. 1982).
+
+The applicable prescriptive period in an action by a patient against her physician was addressed in Sciacca v. Polizzi, 403 So. 2d  at 731. This court held that:
+
+In Elzy v. ABC Insurance Co., 472 So. 2d 205 (La.App. 4th Cir.), writ denied, 475 So. 2d 361 (La.1985), a one year prescriptive period was found applicable to a malpractice claim by a client against his former attorney. The court noted the distinction between nonfeasance and misfeasance of contractual obligations. Nonfeasance was exclusively a breach of contract; misfeasance could be a tort. Thus, the issue was whether the attorney's behavior was nonfeasance of his obligations and therefore a breach of contract governed by ten years, or misfeasance governed by the tort prescription of one year.[6] The court found that although the attorney's performance appeared not to have satisfied the duty of care, skill and diligence that he owed the client, the amount of activity shown on the client's behalf was misfeasance rather than nonfeasance of the attorney's undertaking to represent the client and was governed by the one year prescriptive period. Very recently, this court in Lima v. Schmidt,
+595 So. 2d 624
+, 628 (La.1992) affirmed the rule that an action for professional malpractice is a delictual action governed by the prescriptive period of one year except (1) when the attorney expressly warrants a specific result and fails to obtain that result, or (2) when the attorney agrees to perform certain work and does nothing whatsoever. See also Braud v. New England Insurance Co.,
+576 So. 2d 466
+(La. 1991). Thus, in the areas of medical and legal malpractice, the action to recover damages has been confined to one in tort unless a specific result is warranted or unless the physician or attorney does nothing at all. Relying upon both Sciacca and Elzy, supra, the court of appeal held in Carey v. Pannell, Kerr, Foster, Certified Public Accountants, 559 So. 2d 867 (La. App. 4th Cir.1990), that a misfeasance claim of a client against his accountant was delictual in nature subject to a one year prescriptive period.
+
+Considering the reasoning of the jurisprudence previously discussed, we see no reason why the duty imposed upon an insurance agent in an action by a client against his agent should be any different than that imposed upon attorneys, physicians and accountants. The nature of certain professions is such that the fact of employment does not imply a promise of success, but an agreement to employ ordinary skill and care in the exercise of the particular profession. Phelps v. Donaldson, 243 La. 1118,
+150 So. 2d 35
+, 37 (1963). The duty imposed upon the insurance agent as well as those others set forth above upon whose advice the client or patient depends is that of "reasonable diligence" a breach of which duty results in an action in negligence.
+
+Statutes have been recently enacted by the Louisiana Legislature to provide for one year prescriptive periods for actions for physician malpractice (La.R.S. 9:5628), for legal malpractice (La.R.S. 9:5605) and for professional accounting liability (La. R.S. 9:5604).[7] A similar statute for actions for "professional insurance agent liability" was enacted by La.Acts 1991, No. 764, § 1, in which a one year prescriptive period and a three year preemptive period is applied to   actions for damages against an insurance agent "whether based upon tort, or breach of contract, or otherwise...."[8] We will not apply the statute in this case since the cause of action arose before the effective date of this statute. See Lott v. Haley,
+370 So. 2d 521
+(La.1979). Instead, we will determine the applicable prescriptive period based upon the reasoning set forth in the prior jurisprudence.
+
+Applying the above precepts to the instant case, we find that the one year prescriptive period applies to the third party action of Crewboats, Inc. against its insurance agent, Mr. Eisenbraun. First, we note that Crewboats, Inc. alleged in its petition that Eisenbraun's failure to provide insurance coverage as requested was a negligent act on his part and he should be held responsible for the damages suffered by Crewboats, Inc. Second, the evidence before us, including parts of the deposition of Patrick Pescay, president of Crewboats, Inc., his affidavit and portions of the deposition of Mr. Eisenbraun, does not support a finding that the specific result of insurance coverage for non-owned vehicles driven by employees was warranted by Mr. Eisenbraun. In his affidavit, Mr. Pescay averred that he instructed Mr. Eisenbraun "to provide full coverage for Crewboats, Inc. under all circumstances." He further averred that he was "under the impression" that coverage was in effect for employees while using their private vehicles for company business. However, in his deposition he admitted that he did not "specifically" request that Mr. Eisenbraun provide coverage for employees of Crewboats, Inc. using their own vehicles on company business. Mr. Eisenbraun testified by deposition that he did not include an endorsement for employer's non-ownership automobile liability because he was informed by Mr. Pescay in their initial conversations that company employees would not be using their own private vehicles on company business. Last, we conclude that this is not a situation of nonfeasance, that is, where the agent has taken no action whatsoever, since the evidence clearly supports the finding that Mr. Pescay requested and Mr. Eisenbraun procured automobile liability insurance for the four vehicles owned by Crewboats, Inc. The actions taken by Eisenbraun on behalf of Crewboats, Inc. resulted in a misfeasance of a duty allegedly owed by Eisenbraun to Crewboats, Inc., a duty which we have determined is delictual in nature. Since we have concluded that Eisenbraun neither warranted the specific result of obtaining the requested coverage nor did nothing at all, then the alleged misfeasance of his duty sets forth a cause of action in tort and the one year prescriptive period applicable to actions in tort will apply to this cause of action by Crewboats, Inc. against Eisenbraun.
+
+Finally, we must determine whether the cause of action has prescribed in the instant case. Crewboats, Inc. was aware of Mr. Eisenbraun's alleged failure to provide coverage for the automobile owned and operated by the tortfeasor (Dufrene) in this case at least by February 2, 1989, when it filed a "Memorandum in Opposition to Motion for Summary Judgment" by State Farm and referred to the deposition testimony of Mr. Eisenbraun and the affidavit of Mr. Pescay. Crewboats, Inc. did not file its third party action against Mr. Eisenbraun until June, 6, 1990, a year and four months later. Thus, we find that the action has prescribed.
+
+For the reasons assigned, the judgment of the court of appeal is reversed. The judgment of the trial court maintaining the exception of prescription and dismissing the third party petition of Crewboats, Inc. against Robert L. Eisenbraun is reinstated.
+
+LEMMON, J., concurs and assigns reasons.
+
+[*]  Watson, J., not on panel.
+
+[1]  State Farm was the automobile liability insurer of Dufrene. State Farm had also issued automobile liability policies to Crewboats, Inc. Plaintiffs settled with Dufrene and State Farm in its capacity as liability insurer of Dufrene and dismissed Dufrene and State Farm in that capacity from the suit, reserving rights against State Farm as the automobile liability insurer of Crewboats, Inc.
+
+[2]  Eisenbraun argues that the "Memorandum in Opposition to Motion for Summary Judgment" filed by Crewboats, Inc. and the attached affidavit of Patrick S. Pescay, its president, as well as excerpts from Eisenbraun's deposition showed that Crewboats, Inc. knew or should have known about its claim against Eisenbraun prior to one year before the third party petition was filed.
+
+[3]  602 So. 2d 323 (La.App. 4th Cir.1992).
+
+[4]  607 So. 2d 547 (La.1992).
+
+[5]  La.Civ.Code art. 3492 provides in pertinent part that "delictual actions are subject to a liberative prescription of one year." La.Civ.Code art. 3499 provides in pertinent part that "a personal action is subject to a liberative prescription of ten years."
+
+[6]  The characterization of an action as misfeasance versus nonfeasance is discussed in Prosser, Law of Torts, Chap. 16, § 92 at 617 (4th ed.1983). Prosser states:
+
+[T]he American courts have extended the tort liability for misfeasance to virtually every type of contract where defective performance may injure the promisee. An attorney or an abstractor examining a title, a physician treating a patient, a surveyor, an agent collecting a note or lending money or settling a claim, or a liability insurer defending a suit all have been held liable in tort for their negligence.
+
+[7]  Interestingly, the statutes provide for one year prescriptive periods and three year preemptive periods for actions "whether based upon tort, or breach of contract, or otherwise...."
+
+[8]  The act has been codified as La.R.S. 9:5606. It is entitled "Actions for Professional Insurance Agent Liability" and provides in pertinent part:
+
+A. No action for damages against any insurance agent, broker, solicitor, or other similar licensee under this state, whether based upon tort, or breach of contract, or otherwise, arising out of an engagement to provide insurance services shall be brought unless filed in a court of competent jurisdiction and proper venue within one year from the date of the alleged act, omission, or neglect, or within one year from the date that the alleged act, omission, or neglect is discovered or should have been discovered. However, even as to actions filed within one year from the date of such discovery, in all events such actions shall be filed at the latest within three years from the date of the alleged act, omission, or neglect.

@@ -1,0 +1,113 @@
+85-C-1972
+Howard Trucking Co., Inc. v. Stassi
+https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-1972-1.html
+
+85-C-1972
+Howard Trucking Co., Inc. v. Stassi
+Court: Louisiana Supreme Court
+Release date: 1986-03-31
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-1972-1.html
+
+485 So. 2d 915 (1986)
+
+HOWARD TRUCKING COMPANY, INC.
+v.
+John A. STASSI II, Arnold M. Lupin, Alan N. Jacobs, Ernest E. Cherrie, Jr. and Kenneth N. Adatto.
+
+No. 85-C-1972.
+
+Supreme Court of Louisiana.
+
+March 31, 1986.
+
+Dissenting Opinion April 16, 1986.
+
+Rehearing Denied May 9, 1986.
+
+*916 Mack Barham, Robert Arceneaux, Ralph Hubbard, David Richardson, Barham & Churchill, New Orleans, for plaintiff-applicant.
+
+Lawrence Wiedemann, Wiedemann & Fransen, William R. Forrester, Jr., Roger A. Stetter, Lemle, Kelleher, Kohlmeyer, Dennery, Hunley, Moss & Frilot, New Orleans, for defendants-respondents.
+
+DIXON, Chief Justice.
+
+For forty-six monthly payments of $3489.42 plaintiff, Howard Trucking Company, Inc., agreed on October 5, 1981 to transfer certain vehicles and oil field hauling equipment to Orleans-Iberia, Inc. At Orleans-Iberia's insistence the agreement was styled a lease; it contains the ordinary clauses governing the parties' rights in the event of default.[1] The closing memorandum signed by the parties two days later provided for an additional cash down payment of $275,000 and a $100 option to purchase at the end of the term. Defendants, shareholders of Orleans-Iberia, each executed documents guaranteeing Orleans-Iberia's liabilities and obligations to Howard Trucking under this and six similar agreements.
+
+Several months after the agreements were entered Orleans-Iberia fell behind in monthly payments and on October 14, 1982 it filed a Chapter 11 petition in bankruptcy.[2] On Howard Trucking's motion the   contracts were ordered rejected by the bankruptcy judge. Howard Trucking regained possession of the equipment, advertised it nationally, and on March 2, 1983 sold it at nonjudicial sale without appraisement. After deducting expenses and commissions, Howard Trucking realized $491,841.12 from the sale.
+
+Claiming $950,000 in past due and accelerated rent, Howard Trucking sued the defendant guarantors. The trial judge found the contracts entered between Howard Trucking and Orleans-Iberia to constitute conditional sale agreements, found that Howard Trucking had failed to comply with the requirements of the Deficiency Judgment Act, R.S. 13:4106-07,[3] and granted defendants' motion for summary judgment. That judgment was affirmed on appeal, Howard Trucking Co., Inc. v. Stassi et al., 474 So. 2d 955 (La.App. 5th Cir.1985), and is now before this court on a writ of review. 478 So. 2d 1229 (La.1985). We affirm.
+
+At the outset the contention advanced by Howard Trucking that Act 592 of 1985[4] bears on this dispute must be rejected. While the act purports to apply retroactively, it would apply in any event only "to leases of movables in existence as of the effective date of this Act." Id., § 7. Act 592 took effect on July 13, 1985. The agreement between Howard Trucking and Orleans-Iberia terminated when Howard Trucking took possession of the subject equipment in January of 1983, if not before. Without question that agreement did not exist as of the effective date of this statutory reenactment.
+
+Howard Trucking argues that the district judge was constrained by the doctrines of res judicata and collateral estoppel to accept the federal bankruptcy judge's designation of the contracts as leases,[5] that the Deficiency Judgment Act does   not apply to leases, cf. Executive Car Leasing Co. of New Orleans, Inc. v. Alodex Corp.,
+279 So. 2d 169
+,
+172
+(La.1973), and that summary judgment was therefore improperly rendered against it. In our view these arguments are ill-founded. Invocation of res judicata requires (1) an identity of the parties, (2) an identity of "cause" and (3) an identity of the thing demanded. C.C. 2285-87; 3556(31). The absence of any of these identities is fatal to the plea. Welch v. Crown Zellerbach Corp.,
+359 So. 2d 154
+, 156 (La.1978). Because the guarantors were not parties to the bankruptcy proceedings and do not stand in the same quality as the debtor, the order of the bankruptcy judge does not have preclusive effect as to them. Reliance on the doctrine of collateral estoppel is likewise misplaced. Id. at 156-57.
+
+Howard Trucking contends in the alternative that the guarantors should be "equitably estopped" from recharacterizing the agreements as contracts of sale. "Estoppel" in its various forms seems to be a doctrine of last resort. In Louisiana, no statutory material and no body of jurisprudence justifies its use. In this court we have discussed it, in modern times, only to disallow a claim that the opponent ought not to be able to make a certain claim or defense. John Bailey Contractor, Inc. v. State,
+439 So. 2d 1055
+(La.1983); Welch v. Crown Zellerbach Corp., supra; State v. Mitchell,
+337 So. 2d 1186
+(La.1976); Wilkinson v. Wilkinson,
+323 So. 2d 120
+(La.1975). The court of appeal correctly noted that Howard Trucking knew all the factual circumstances underlying the transaction. Whether the contract was a lease or a sale does not depend on what defendants called it.
+
+Relying on C.C. 1853,[6] Howard Trucking argues that the defendants are bound by their "confession" in the bankruptcy court that the agreements are leases and not contracts of sale. A judicial admission or confession is the express acknowledgment of adverse fact. Crawford v. Deshotels,
+359 So. 2d 118
+, 122 (La.1982). Questions of law cannot be confessed or admitted; the characterization of the contracts in issue is preeminently of that nature. Article 1853 has no application to this case.
+
+Howard Trucking contends that because the parties intended the agreements to be leases they are leases in law. C.C. 2045.[7] It is true the intent of the parties to a contract should govern its interpretation. Pastorek v. Lanier Systems Co., 249 So. 2d 224 (La.App. 4th Cir.1971) (Lemmon, J.), on which the lower courts relied, is not to the contrary.
+
+The record shows that the parties treated the contracts in the present case as leases for some purposes and as sales for other purposes. That they were designated and treated as leases for federal tax purposes is insufficient to defeat the motion for summary judgment. Rather, the best evidence of the parties' intent is what the parties agreed to do. Orleans-Iberia agreed to make a down payment of $275,000 and to make forty-six monthly payments of $3489.42, at 16.7% interest. The total of the payments equals the value of the equipment. The parties agreed upon a $100 option to purchase at the end of the term. Orleans-Iberia was required to pay the full value of the equipment regardless   of whether it exercised that option. On these facts, the trial judge did not err in concluding as he did:
+
+Howard Trucking's final contention is that its efforts to advertise nationally and obtain the best possible price for the equipment absolves it from failure to comply with the Deficiency Judgment Act. Section 4106 embodies a firm public policy of this state and requires strict adherence. Appraisal cannot be waived, even by consent of the debtor. We decline to override the long and consistent line of jurisprudence finding appraisal an absolute prerequisite to a deficiency judgment.[8]
+
+The trial judge correctly entered summary judgment in favor of the defendants; the judgment is affirmed at plaintiff's cost.
+
+LEMMON, J., dissents and assigns reasons.
+
+DENNIS, J., dissents.
+
+LEMMON, Justice, dissenting.
+
+Defendant shareholders demanded that the agreement be styled a lease and accepted the tax benefits of that characterization. The corporation then declared in the bankruptcy petition that the property was leased.
+
+Howard Trucking, acting in reliance on these actions of the shareholders, treated the property as leased property by taking possession and selling the property at a private sale. Now, when it is to their benefit to change their position in order to defeat an attempt to collect the balance of the debt, the shareholders contend in this action that the agreement was really a sale and that the Deficiency Judgment Act applies. Certainly these circumstances call for the application of some form of estoppel.
+
+This case illustrates the problems created by the decision in Welch v. Crown Zellerbach Corp.,
+359 So. 2d 154
+(La.1978), which adopted the absolutely rigid position that narrowly defined res judicata is the only procedural device which can be used to preclude relitigation of issues which have already been judicially determined. By adhering to this inflexible attitude, this court now allows a party to a contract to change its position as the winds of benefit change, without regard to the detriment to the other contracting party who acted in reliance on the position originally adopted. This attitude disregards the fundamental concepts of balancing which are the very essence of the judicial process.
+
+[1]  Paragraph 19 provides: "The Lessor may, without notice, but shall not be obligated to, sell all or any portion of the leased Equipment, at public or private sale, upon such terms as it may deem advisable, and in the event of any such sale the Lessor shall, in addition to other rights and remedies hereunder, be entitled to retain as liquidated damages and not as penalty all proceeds of such sale, and to recover from the lessee as additional rents any deficiency with respect to the leased Equipment sold, determined as provided in paragraph 16...."
+
+Paragraph 16 provides: "If the net sales proceeds from the sale of any Equipment ... are less than the present value of rentals remaining unpaid for the lease term plus the Residual Value specified herein, and plus any other obligations of Lessee to Lessor hereunder, the Lessee shall promptly pay such amount to Lessor as additional rent...."
+
+[2]  Among assets listed were: "1Leasehold interests in various motor vehicles and related equipment reflected in schedule attached to equipment lease attached hereto...." It described its business as follows: "Debtor leases the motor trucks, trailers and related equipment from Howard Trucking Company, Inc. as per Schedule `A-1,' and leases said equipment back to Howard Trucking Company, Inc. by owner-operator agreements pursuant to which Howard operates the equipment in connection with its business as a common carrier for hire. Debtor derives the gross income from the hire of said equipment by Howard less expenses relative thereto and is obligated to pay Howard a fixed monthly rent out of the net operating profit. As of September 20, 1982, Debtor, due to lack of resources and an unwillingness of Howard to advance funds, was forced to curtail its business activities."
+
+[3]  Section 4106 provides: "If a mortgagee or other creditor takes advantage of a waiver of appraisement of his property, movable, immovable, or both, by a debtor, and the proceeds of the judicial sale thereof are insufficient to satisfy the debt for which the property was sold, the debt nevertheless shall stand fully satisfied and discharged insofar as it constitutes a personal obligation of the debtor. The mortgagee or other creditor shall not have a right thereafter to proceed against the debtor or any of his other property for such deficiency, except as provided in the next paragraph.
+
+If a mortgage or pledge affects two or more properties, movable, immovable, or both, the judicial sale of any property so affected without appraisement shall not prevent the enforcement of the mortgage or pledge in rem against any other property affected thereby."
+
+Section 4107 provides: "R.S. 13:4106 declares a public policy and the provisions thereof can not, and shall not be waived by a debtor, but it shall only apply to mortgages, contracts, debts or other obligations made, or arising on or after August 1, 1934."
+
+[4]  This act amends and reenacts the lease of movables statute, R.S. 9:3301 et seq. Section 3310(B) states: "Financed leases subject to this Chapter shall have the same legal effect as true leases for purposes of Louisiana law notwithstanding the fact that financed leases of movable property have been previously construed in Louisiana as completed credit sales or conditional sales transactions. The lessor under a financed lease subject to this Chapter shall retain full legal and equitable title and ownership in and to the leased equipment until such time as the lessee exercises his option or complies with his obligation to purchase the leased equipment from the lessor as provided under the lease agreement...."
+
+[5]  It is not so obvious to us as it was to the court of appeal that the trustee's decision to reject the agreement necessarily rests on its designation as a lease. 11 U.S.C. § 365 authorizes rejection of "executory contracts or unexpired leases." The Fifth Circuit Court of Appeals has adopted a definition of executory contract which might be read to include a conditional sale agreement: "... a contract is executory when something remains to be done by one or more of the parties. An executory contract is one in which a party binds himself to do or not do a particular thing, whereas an executed contract is one in which the object of the agreement is already performed...." In re American Magnesium Co., 488 F.2d 147, 152 (5th Cir.1974), rehearing en banc denied, 491 F.2d 1272 (1974).
+
+See also, In the Matter of Jackson Brewing Co., 567 F.2d 618, 623 (5th Cir.1978), where the court quotes from 6 Collier on Bankruptcy, § 2.11: `"All that the term implies is that the contract is not completely `executed', that something remains to be done.
+
+Contracts are executed or executory. A contract is executed where everything that has to be done is done, and nothing remains to be done... An executory contract is one where it is stipulated by agreement of minds, upon a sufficient consideration, that something is to be done or not to be done by one or both the parties ...'"
+
+[6]  Article 1853 provides: "A judicial confession is a declaration made by a party in a judicial proceeding. That confession constitutes full proof against the party who made it.
+
+A judicial confession is indivisible and it may be revoked only on the ground of error of fact."
+
+[7]  Article 2045 provides: "Interpretation of a contract is the determination of the common intent of the parties."
+
+[8]  Exchange National Bank of Chicago v. Spalitta,
+321 So. 2d 338
+, 341 (La.1975), cert. denied 425 U.S. 904, 96 S. Ct. 1494, 47 L. Ed. 2d 753 (1976), is not in point. It involved a Chapter 10 proceeding and 11 U.S.C. § 502, which exempts sales in such proceedings from the necessity of appraisal.

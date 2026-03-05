@@ -1,0 +1,89 @@
+55457
+State v. Carvin
+https://law.justia.com/cases/louisiana/supreme-court/1975/308-so-2d-757-1.html
+
+55457
+State v. Carvin
+Court: Louisiana Supreme Court
+Release date: 1975-02-24
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/308-so-2d-757-1.html
+
+308 So. 2d 757 (1975)
+
+STATE of Louisiana, Appellee,
+v.
+James CARVIN, Jr., Appellant.
+
+No. 55457.
+
+Supreme Court of Louisiana.
+
+February 24, 1975.
+
+*758 Sidney C. Sundbery, Duval, Arceneaux & Lewis, Houma, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Norval J. Rhodes, Dist. Atty., James L. Alcock, Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant Carvin was convicted of attempted murder, La.R.S. 14:30, 27, and sentenced to seven years at hard labor. In appealing, he relies upon four bills of exceptions. We find no merit in any of them and therefore affirm.
+
+Context Facts:
+
+The victim Champagne was carrying two thousand dollars in currency on his person. While driving his pickup home on a country highway, his passage was obstructed by a tan vehicle which slowed several times in front of him, apparently in efforts to make him stop. Later, the tan vehicle blocked the highway, but Champagne was able to pass around it.
+
+The occupants of the tan vehicle fired at and wounded him. However, Champagne continued down the highway at high speed, and the two young blacks in the other vehicle did not pursue him further.
+
+Earlier, Champagne had memorized the license number of the tan vehicle and had written it down. After he secured the assistance of the police after his wounding, they ascertained the location of the vehicle (at the defendant Carvin's house) through the license number. Later that evening, about three hours after the shooting, the law enforcement officers and Champagne went to Carvin's house, where Champagne identified the vehicle and the license number as those involved in his wounding.
+
+The four bills urged on this appeal do not present reversible error, for the following reasons:
+
+Bill No. 2:
+
+Champagne's written notation of the license number had been introduced in evidence in connection with his own testimony. When the document was handed to a deputy sheriff who was testifying, the defendant objected to this slip of paper being used to determine ownership, stating that the only legal evidence of ownership is a certificate of title. Tr. 108.
+
+The objection was properly overruled. The license number written down by the victim had previously been introduced as relevant evidence. The deputy's testimony that the license number had been radioed in to determine ownership was likewise relevant, as showing how the police had ascertained the location of the car previously described as used in the shooting.
+
+Bill Nos. 2 and 3:
+
+The assault occurred about 6:30 PM on a cold February evening. The defendant was arrested at about 9:30 PM, after the victim identified the tan vehicle and the license number as involved in his shooting. The vehicle was parked outside the defendant's home.
+
+Three deputies had come by the defendant's home earlier, about 7:30 to 8:30 PM. They had inspected the car and, with permission   of the defendant, had lifted the hood to see how hot the motor was.
+
+At the trial, the defendant's wife and his father were each asked if the deputies had made any comment to one another at the time they felt the hood. The prosecution objected, in order to keep this information from the jury as hearsay. The defense contended that, under the broad Louisiana res gestae exception to hearsay, the evidence was admissible as forming part of the circumstances immediately connected with the incident.
+
+The trial judge at first overruled the state's objection. Nevertheless, on determined re-urging by the state, he sustained the technical objection. As a result, these two bills were taken.
+
+The form of the question may have been too broad, and thus the objection may have been technically correct. The intent of the question, as later testimony revealed, was to permit these family members to testify that the deputies found the automobile motor cool (i. e., instead of hot. This tended to negative the sixty-mile round-trip from the accused's home to the scene of the incident shortly before the deputies touched the motor).
+
+The deputies' sense impression uttered at the timethat the motor was too coolshould be recognized as a res gestae (contemporaneous statement) exception to the hearsay rule. Pugh, Louisiana Evidence Law 509-512 (1974); McCormick on Evidence, Section 298 (2d 3d.1972); ALI Model Code of Evidence, Section 512 a (1942); cf. Proposed Federal Rules of Evidence, Rule 803(1) (51 F.R.D. 419, 422-24 (1971).[1] Thus, the deputies contemporaneous statements of sense impression made so shortly after the incident, an immediate concomitant of it, should have been ruled admissible.
+
+Further, arguably, even the deputies' expressed initial conclusion, that the coolness of the motor excluded the vehicle's use in the shooting, may have been an admission of a party's agent, admissible when introduced by an opposing party. McCormick, Section 267.
+
+However, the form of the questionto discover whatever conversation the deputies had with one anothermay have been too broad. The deputies, for instance, could have been discussing the accused's criminal record or their conclusory assumption of his guilt. The objection may have been well-founded on this technicality (although regrettably the state, knowing of the intent of the question, chose to try to keep this admissible information from the jury concerning the deputies' contemporaneous sense impression).
+
+Nevertheless, as will be shown, the trial judge permitted the jury to receive the evidence. The error, if any, of his rulings is therefore harmless to the defendant complaining of them:
+
+Before sustaining the state's objection to the father's testimony, the trial judge had permitted the father to answer fully, Tr. 176, and he did not caution the jury to disregard such testimony. Further, the defense called a deputy as its witness, who testified that he and the other deputies had discussed the unusual circumstance that the motor was normal (cool), after they had raised the hood to test if it was hot from having been driven so far so shortly before. Tr. 163-65. Even if the objection to the question was improperly sustained, the defendant was afforded other opportunity to present this issue fully to the jury.
+
+Bill No. 5:
+
+The defendant filed a motion for a directed verdict at the close of the state's rebuttal testimony. La.C.Cr.P. art. 778. This final bill was taken to the denial of this motion.
+
+The basis for it is that no evidence placed the defendant directly at the scene   of the shooting of the victim. His car was placed there, but not the defendant himself.
+
+However, before the motion was filed, other evidence educed shows that the defendant was driving his car before and after the shooting, although allegedly at or near his home some thirty miles away from the scene. We think that there is some evidence from which a jury might draw a reasonable inference that the defendant had beyond reasonable doubt committed the crime. The motion for a directed verdict was therefore properly denied. State v. Pryor,
+306 So. 2d 675
+(La.1974) (decided January 20, 1975).
+
+Decree
+
+Accordingly, we affirm the conviction and sentence.
+
+Affirmed.
+
+SUMMERS and BARHAM, JJ., concur.
+
+[1]  The federal rules of evidence were approved January 2, 1975.

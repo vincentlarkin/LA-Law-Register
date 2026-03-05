@@ -1,0 +1,143 @@
+89-C-0533
+National Tea Co. v. Richmond
+https://law.justia.com/cases/louisiana/supreme-court/1989/89-c-0533-2.html
+
+89-C-0533
+National Tea Co. v. Richmond
+Court: Louisiana Supreme Court
+Release date: 1989-09-12
+Author: WATSON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1989/89-c-0533-2.html
+
+548 So. 2d 930 (1989)
+
+NATIONAL TEA CO.
+v.
+R.R. RICHMOND.
+
+No. 89-C-0533.
+
+Supreme Court of Louisiana.
+
+September 12, 1989.
+
+Rehearing Denied October 12, 1989.
+
+*931 William M. Barnett, Guste, Barnett & Sushan, New Orleans, for applicant.
+
+Albert C. Miranda, Bernard, Cassisa, Saporito & Elliott, Metairie, for respondent.
+
+WATSON, Justice.
+
+After an arbitration panel had resolved this dispute over shopping center parking space provided under the terms of a lease, the lessor filed a successful motion to vacate the arbitrators' award on the grounds that they had exceeded their authority and that the award was not final and definitive.
+
+FACTS
+
+On October 15, 1954, Allied Investments Incorporated leased space in a shopping center to Capitol Stores, Inc. R.R. Richmond later became the owner and lessor of the premises. National Tea Co., the parent company of Capitol Stores, Inc., has been operating a supermarket on the leased premises under the trade name of National-Canal/Villere. The lease term will expire on January 31, 1992.
+
+In the lease, the lessor agreed to "maintain an area designated for customer parking that will measure two square feet of parking for one square foot of building area exclusive of walks and service alleys." In the event additional construction on the leased premises disrupted National Tea's business, the lessor agreed to pay liquidated damages of $100 per day commencing five days after notice and continuing during each day of the disruption.
+
+The parties agreed to submit any disagreement over the terms of the lease to arbitration.
+
+On May 26, 1987, National Tea filed a petition for injunctive relief or, alternatively, damages, alleging that Richmond had commenced the construction of a 7500 square foot Walgreen drugstore on an area used for customer parking, thereby breaching the lease guarantee of parking space and damaging National's business. The trial court sustained Richmond's exception of prematurity and ordered the parties to proceed to arbitration.
+
+Each party appointed one arbitrator. Since they failed to agree on the third arbitrator, he was named by Judge Frederick R. Heebe, the senior judge of the United States District Court for the Eastern District of Louisiana, all as provided by the lease.
+
+The arbitration panel heard witnesses and arguments, examined exhibits and looked at the leased premises. Experts testified about the parking, the lease and the appropriate damages for a breach. While the arbitration was pending, Richmond completed construction of the Walgreen drugstore. Two of the arbitrators, chairman A.N. Yiannopoulos and Steven M. Rittvo, agreed on an award.[1] The majority   decided that, under the most lenient measurement of the parking area, the lessor had violated his obligation to provide customer parking at a 2-to-1 ratio. Since National had been denied injunctive relief during construction of the Walgreen drugstore, the arbitration panel concluded that specific performance, i.e., destruction of the building, was not a practical remedy for Richmond's breach of contract.
+
+Because specific performance was not practical, the arbitrators awarded the $100-per-day damages provided in the lease for "disruption to Lessee's business" caused by construction. Although the construction specified was additional floors on the leased premises, the panel concluded that the provision could be construed to cover other disruptions.[2]
+
+The panel gave damages from the award's finality until the disruption is abated by additional parking space or the term of the lease expires. This was in accord with the lease which provides:
+
+Upon Richmond's motion to vacate the award, the trial court decided that the arbitration panel had exceeded its authority in the award of damages and had failed to make a mutual, final and definite award on the subject matter submitted. The trial court vacated the arbitration award. The court of appeal affirmed the trial court judgment and remanded the case to the trial court to decide whether there should be a rehearing by the arbitration panel.[3] A writ was granted to consider the judgment of the court of appeal.[4]
+
+LAW
+
+The Louisiana arbitration law is contained in LSA-C.C. arts. 3099-3132 and LSA-R.S. 9:4201-4217. The grounds for vacating an arbitration award are set out in LSA-R.S. 9:4210.[5] LSA-R.S. 9:4210 is modeled on 9 U.S.C.A. § 10.
+
+Because of the strong public policy favoring arbitration, arbitration awards are presumed to be valid. Errors of fact or law do not invalidate a fair and honest arbitration award. St. Tammany Manor v. Spartan Bldg. Corp.,
+509 So. 2d 424
+(La.   1987). Therefore, misinterpretation of a contract by an arbitration panel is not subject to judicial correction. See I/S Stavborg v. National Metal Converters, Inc., 500 F.2d 424 (2d Cir.1974) and Nat. R.R. Passenger Corp. v. Chesapeake & O. Ry., 551 F.2d 136 (7th Cir.1977). Judges are not entitled to substitute their judgment for that of the arbitrators chosen by the parties. Burchell v. Marsh,
+58 U.S. 344
+,
+17
+How. 344, 15 L. Ed. 96 (1854); Graf v. Friedlander, 33 La.Ann. 188 (1881); Hopkins v. Louisiana Western Rail Road Company, 33 La.Ann. 1138 (1881); Housing Authority v. Henry Ericsson Co., 197 La. 732, 2 So. 2d 195 (1941); Firmin v. Garber,
+353 So. 2d 975
+(La.1977).
+
+The scope of submission to arbitration is set forth in LSA-C.C. art. 3102 which states:
+
+After Richmond made National submit its lawsuit to arbitration, all questions raised in that suit, including an appropriate award for breach of the lease terms, were at issue in the arbitration proceedings. Jackson & Manson v. Hoffman, 31 La.Ann. 97 (1879). Under LSA-C.C. art. 3127[6], the arbitrators shall fix in their award the sum which one of the parties must pay the other.
+
+Arbitration is a substitute for litigation. Housing Authority v. Henry Ericsson Co., supra. The purpose of arbitration is settlement of differences in a fast, inexpensive manner before a tribunal chosen by the parties. That purpose is thwarted when parties seek judicial review of an arbitration award. Bartley, Inc. v. Jefferson Parish School Board,
+302 So. 2d 280
+(La.1974). See De Sapio v. Kohlmeyer, 35 N.Y.2d 402, 362 N.Y.S.2d 843, 321 N.E.2d 770 (1974).
+
+CONCLUSION
+
+The questions referred to this arbitration panel were whether Richmond had breached the lease by reducing the parking area and, if so, what relief should be afforded National for the breach. The trial court and the court of appeal erroneously concluded that the arbitration panel had exceeded its powers because: (1) the liquidated damages clause of the lease was not at issue; and (2) the award was not final or definitive because it did not have a predictable future date.
+
+Having determined that Richmond had breached the terms of the lease, this arbitration panel had to address the question of an appropriate award. If the arbitrators had not made an award after finding a breach of the lease, the matter referred to them would not have been final and would have required further adjudication.
+
+Even if this arbitration panel had misconstrued the contract of lease in fixing National's damages, that error would not invalidate the award. However, these arbitrators did not exceed their authority in the award of damages. They crafted a remedy within the guidelines set by the contract of lease. The fact that they awarded damages as provided in the lease for a different circumstance does not nullify the award.
+
+According to the terms of the lease, damages are due from the date that the arbitrators' award becomes final. That date can be calculated and is therefore certain. The arbitration panel correctly followed the provisions of the lease.
+
+The decision and award of the arbitration panel are made the judgment of this court and will become final under the provisions of LSA-C.C.P. art. 2167.[7]
+
+*934 After finality of this judgment, the damages of $100 per day fixed by the arbitrators are to be paid until expiration of the term of the lease or correction of the breach by Richmond.[8]
+
+All costs are assessed against respondent, R.R. Richmond.
+
+REVERSED AND RENDERED.
+
+LEMMON, J., concurs.
+
+[1]  Joe D. Lindsay, the arbitrator appointed by R.R. Richmond, stated in an affidavit that he was not consulted about the drafting of the award. He also asserted that arbitrator Rittvo admitted at their first meeting that his corporate employer had a business relationship with National. Lindsay's affidavit was countered by one from Rittvo which stated that Lindsay refused to consider or discuss any award against Richmond.
+
+An arbitration scheme such as the one in this lease generally contemplates two partisan arbitrators and a third who is neutral. The "evident partiality" proscribed by LSA-R.S. 9:4210 is a strong bias, prejudice or personal interest. Firmin v. Garber,
+353 So. 2d 975
+(La.1977). A disclosed business relationship between a partisan arbitrator and one of the parties does not disqualify the arbitrator.
+
+When there is an "umpire," the implication is that the award will be made by a majority of two. See, for example, R. King & Co. v. Grey, 31 Tex. 22 (1868); Fish v. Vermillion, 70 Kan. 348, 78 P. 811 (1904); Porter v. Dugat, 12 Mart. 245 (1922); Stout v. W.M. Garrard & Co., 128 Miss. 418, 91 So. 33 (1922); Sukonik v. Shapiro, 333 Pa. 289, 5 A.2d 108 (1939); Cassara v. Wofford,
+55 So. 2d 102
+(Fla.1951). It is not unusual for the third arbitrator, the neutral arbitrator, to draft the award.
+
+The trial court found no partiality on the part of the arbitrators, and Richmond no longer contests this issue.
+
+[2]  The Arbitration Award provides:
+
+The provision for liquidated damages in the first paragraph of Article 6 might be taken narrowly to apply only to disruptions of the business of the lessee caused by the addition of stores to the building leased to National. However, in the opinion of a majority of the arbitration panel, the same liquidated damages were considered applicable, and ought to govern, any disruption of the business of the lessee caused by the breach of the lessor's obligation to furnish customer parking in the two to one ratio. Tr. 139.
+
+[3]  537 So. 2d 401.
+
+[4]  541 So. 2d 861.
+
+[5]  LSA-R.S. 9:4210 provides:
+
+In any of the following cases the court in and for the parish wherein the award was made shall issue an order vacating the award upon the application of any party to the arbitration.
+
+A. Where the award was procured by corruption, fraud, or undue means.
+
+B. Where there was evident partiality or corruption on the part of the arbitrators or any of them.
+
+C. Where the arbitrators were guilty of misconduct in refusing to postpone the hearing, upon sufficient cause shown, or in refusing to hear evidence pertinent and material to the controversy, or of any other misbehavior by which the rights of any party have been prejudiced.
+
+D. Where the arbitrators exceeded their powers or so imperfectly executed them that a mutual, final, and definite award upon the subject matter submitted was not made.
+
+Where an award is vacated and the time within which the agreement required the award to be made has not expired, the court may, in its discretion, direct a rehearing by the arbitrators.
+
+[6]  LSA-C.C. art. 3127 provides:
+
+The arbitrators shall fix by their award the amount of the sum which they sentence one or several of the parties to pay to the other or others, though the omission of this does not annul the award.
+
+[7]  LSA-C.C.P. art. 2167 provides:
+
+Within fourteen days of the mailing of the notice of judgment in the supreme court, a party may apply to the court for a rehearing.
+
+A judgment of the supreme court becomes final and definitive when the delay for application for rehearing has expired and no timely application therefor has been made.
+
+When an application for rehearing has been applied for timely, a judgment of the supreme court becomes final and definitive when the application is denied. The supreme court may stay the execution of the judgment pending a timely application for certiorari or an appeal to the United States Supreme Court.
+
+[8]  In its brief, National asks that the award be calculated from "the date the appeal process is exhausted to the end of the lease, unless the guaranteed parking ratio is restored before then."

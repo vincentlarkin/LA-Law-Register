@@ -1,0 +1,73 @@
+64016
+State v. Patton
+https://law.justia.com/cases/louisiana/supreme-court/1979/374-so-2d-1211-1.html
+
+64016
+State v. Patton
+Court: Louisiana Supreme Court
+Release date: 1979-09-04
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/374-so-2d-1211-1.html
+
+374 So. 2d 1211 (1979)
+
+STATE of Louisiana
+v.
+S. J. PATTON.
+
+No. 64016.
+
+Supreme Court of Louisiana.
+
+September 4, 1979.
+
+*1212 Don M. Burkett, Many, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., James Lynn Davis, Dist. Atty., Herman L. Lawson, Asst. Dist. Atty., for plaintiff-respondent.
+
+DIXON, Justice.
+
+During the afternoon of September 29, 1978 Robert Davidson, an investigator for the DeSoto Parish district attorney's office, was driving south on U. S. Highway 171 en route to Many, Louisiana. Near the small town of Catuna, Davidson glanced in the rear view mirror and saw a car approaching at a high rate of speed. After passing Davidson, the driver of the speeding vehicle attempted to overtake three other vehicles as they were climbing a hill. When another car came over the hilltop, the speeding automobile swerved off the edge of the road and momentarily forced the three other cars off the road as well. As soon as all the automobiles returned to the highway, the driver of the speeding car pulled over to pass again. At this point, Davidson switched on the car's red lights and siren and signaled the other vehicle to stop. After a high-speed chase, the driver of the speeding car pulled over and approached Davidson's car where he handed his license to the investigator. Davidson jotted down the necessary information on a scratch pad and then told the driver, S. J. Patton, that he would have an arrest warrant issued for him as soon as he arrived in Many. Patton then drove away after his license was returned. A few days later Davidson swore out the appropriate complaints and the defendant was charged with improper passing, R.S. 32:77, reckless driving, R.S. 14:99, and speeding, R.S. 32:61.
+
+At trial defendant testified that he stopped only because he saw the flashing lights and heard the siren and that he surrendered his license only because he believed Davidson had the authority to demand it. At the close of the prosecution's case, the defense moved for a directed verdict of acquittal on the ground that Davidson did not have the requisite authority to arrest the defendant and that any evidence obtained as a result of the arrest was therefore inadmissible. The trial judge denied the motion and found the defendant guilty on all counts. The same day Patton was sentenced to forty-five days and a $150 fine on the reckless operation charge, to a $50 fine for improper passing, and to fifteen days and $75 for speeding. The trial judge imposed concurrent sentences, suspended all but five days of each prison sentence, and placed the defendant on inactive probation for one year.
+
+The defendant sought review to this court, contending that the trial judge was   incorrect not to suppress the investigator's in-court identification of the defendant as the fruit of an illegal arrest. We granted writs,
+369 So. 2d 465
+(La.1979), and now reverse.
+
+An initial consideration in this case is whether the investigator had the requisite authority to stop the defendant and to order him to produce his driver's license. The answer to this inquiry depends on the proper interpretation of R.S. 16:13.1 which provides:
+
+At trial the defense contended that Davidson had authority to arrest only for a felony, C.Cr.P. 214, and that he therefore could not arrest Patton for the instant offenses which are misdemeanors. The State, for its part, argued that the roadside detention was not an arrest but instead was analogous to a detention authorized by Article 215.1 of the Code of Criminal Procedure and was therefore within the authority delegated to investigators by R.S. 16:13.1.
+
+This court has recognized that "not every authorized detention may constitute an `arrest.'" State v. Breaux,
+329 So. 2d 696
+, 699 (La.1976). In the case of a traffic offense, the officer may issue a summons, State v. Breaux, supra, or decide not to charge at all, State v. Daigre,
+364 So. 2d 902
+, 904, n. 1 (La.1978). Nevertheless, distinguishing between an arrest and some less formal mode of detention is relevant to the instant case only if we conclude that the legislature intended to invest investigators with the authority to do one but not the other. However, nothing in the statute indicates that the legislature wished to create a body of quasi-law enforcement officials entitled to detain persons suspected of misdemeanors but permitted to arrest only when a felony has been committed. The legislature evidently considered district attorneys' investigators necessary, but viewed the power to arrest as irrelevant to that position. For this reason, Davidson's stop of the defendant was illegal, regardless of its status as an arrest or as some other form of detention.
+
+A second consideration is whether identification testimony must be suppressed if it is a fruit of an illegal arrest or detention. Several courts have held the identification of the defendant not to be the fruit of an illegal arrest. See United States v. Young, 512 F.2d 321 (4th Cir. 1975), cert. denied, 424 U.S. 956, 96 S. Ct. 1432, 47 L. Ed. 2d 362 (1976); State v. Finch, 293 N.C. 132,
+235 S.E.2d 819
+(1977); Metallo v. State, 10 Md.App. 76,
+267 A.2d 804
+(1970). Nevertheless, we consider any distinction drawn between testimonial and tangible evidence to be irrational and untenable, especially in light of the interpretation offered by the United States Supreme Court in Wong Sun v. United States,
+371 U.S. 471
+, 83 S. Ct. 407, 9 L. Ed. 2d 441 (1963):
+
+Recently the court reaffirmed its adherence to this position:
+
+Decisions rendered by this court also indicate that identification testimony is to be suppressed if tainted by illegality. In State v. Phillips,
+347 So. 2d 206
+(La.1977), we noted that "any evidence obtained as a result of an unconstitutional and unlawful arrest must be excluded at trial based on the theory that the evidence is the fruit of the poisonous tree." 347 So. 2d  at 207 (emphasis added). Moreover, in State v. Holmes,
+354 So. 2d 1282
+(La.1977), this court indicated that the taint of illegality could render a line-up identification inadmissible:
+
+For these reasons, we conclude that identification testimony can be suppressed if it is the tainted fruit of an illegal arrest.
+
+Nevertheless, evidence which results from an illegal governmental action is admissible if the causal connection between the two "becomes so attenuated as to dissipate the taint." Nardone v. United States,
+308 U.S. 338
+, 341, 60 S. Ct. 266, 268, 84 L. Ed. 307, 312 (1939); State v. Jenkins,
+340 So. 2d 157
+(La.1976); State v. Holmes, supra, 354 So. 2d  at 1285, 1286 (Dennis, Tate, JJ. concurring). In the instant case, however, the defendant's identification is inextricably tied to the arrest. Although Davidson suggested at trial that he could also have identified the driver through the car's license number, this information would have given him only the owner's name and would not necessarily have revealed the driver's identity. It is therefore clear that the identification testimony was tainted by the illegal arrest and should not have been admitted.
+
+For the reasons assigned, the convictions and sentences of defendant are reversed and the case is remanded to the district court for further proceedings consistent with these views.

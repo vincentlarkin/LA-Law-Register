@@ -1,0 +1,96 @@
+92-C-2957
+Washington v. Savoie
+https://law.justia.com/cases/louisiana/supreme-court/1994/92-c-2957-2.html
+
+92-C-2957
+Washington v. Savoie
+Court: Louisiana Supreme Court
+Release date: 1994-04-11
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1994/92-c-2957-2.html
+
+634 So. 2d 1176 (1994)
+
+Vergie WASHINGTON
+v.
+Mary Damion SAVOIE et al.
+Alice BROWN
+v.
+STATE FARM MUTUAL INSURANCE CO., et al.
+Julia ADAMS, Wife of/and Louis Adams, Jr.
+v.
+Tai Thanh LE et al.
+
+No. 92-C-2957.
+
+Supreme Court of Louisiana.
+
+April 11, 1994.
+
+*1177 Robert M. Hearin, Jr., Gerald J. Leydecker, Rene D. Lovelace, New Orleans, Miles Mark, Esq., Lobman, Carnahan & Batt, Lane A. Schaffer, Metairie, for applicant.
+
+Michael K. Springmann, Preston G. Sutherland, Turner, Young, Hebbler & Babin, New Orleans, Coleman T. Organ, Roger J. Larue, Jr., Nahum D. Laventhal, Kiefer, Augustin, & Laventhal, Metairie, for respondent.
+
+LEMMON, Justice.[*]
+
+The issue in this case is whether public policy prohibits an insurer and a named insured from reforming an insurance policy, because of mutual mistake, to change the effective date of the insured's written waiver of uninsured motorist (UM) coverage, when the change affects the rights of a tort victim who was an insured under the policy and who would have been entitled to recovery of damages under the policy before the reformation.
+
+First Horizon Insurance Company issued a comprehensive automobile insurance policy to the Orleans Parish School Board for a three-year period beginning November 15, 1984. The policy provided for limits of $1,000,000 on its liability coverage. At the policy's inception the Board did not execute the blank endorsement, furnished by First Horizon, to reject UM coverage or to select lower UM limits.
+
+On May 6, 1985, nearly six months later and in response to requests from First Horizon to submit its UM selections, the Board executed two endorsements: (1) Endorsement No. 16, which selected lower UM limits of $5,000 per person and $10,000 per accident for private passenger vehicles and specified an effective date of November 15, 1984, the date of the policy's inception, and (2) Endorsement No. 18, which rejected UM coverage as to all other vehicles and specified an effective date of November 15, 1985.[1] The   1985 date, allegedly a clerical error, is the central issue in the litigation.
+
+The plaintiffs in these three separate actions are employees of the Board who were injured in separate vehicular accidents caused by uninsured motorists while plaintiffs were occupying school buses covered by First Horizon's policy. The accidents occurred on September 12, 1985, October 3, 1985, and October 15, 1985 (after the May 6, 1985 execution of the UM endorsements, but before the November 15, 1985 effective date specified in Endorsement No. 18).[2] The actions were consolidated in the district court because of the common issue of the applicability of the UM coverage to accidents occurring between May 6, 1985 and November 15, 1985.
+
+After the suits were filed, First Horizon issued Endorsement No. 30 on August 20, 1987, changing the effective date of Endorsement No. 18 to November 15, 1984. First Horizon issued and signed Endorsement No. 30 without the insured's signature and, according to the Board's insurance administrator's deposition testimony, without the Board's prior knowledge.
+
+Both sides in each action filed motions for summary judgment on the issue of UM coverage. The trial court granted summary judgments in plaintiffs' favor, finding that the rejection was not valid as to these plaintiffs because the effective date on the endorsement rejecting coverage was November 15, 1985 and the policy could not be amended to correct a typographical error after a cause of action had arisen in favor of a "third party."
+
+The court of appeal reversed, concluding that the stated effective date of November 15, 1985 on Endorsement No. 18 was merely a typographical error and that the parties intended to reject UM coverage from November 15, 1984, the inception of the policy. 607 So. 2d 704. The intermediate court held that the Board's written waiver of UM coverage was valid and effective on May 6, 1985, the date on which Endorsement No. 18 was signed.[3]
+
+We granted certiorari to consider whether public policy prohibits reformation of an insurance policy to include a rejection of UM coverage, after the occurrence of accidents causing damages to persons insured under the policy who would have been entitled to UM coverage under the policy provisions existing prior to the reformation, even though both the insurer and the named insured agree that the waiver contained a typographical error as to the effective date. 610 So. 2d 807.
+
+During the relevant time period, La.Rev. Stat. 22:1406 D(1)(a) provided that all automobile liability insurance policies issued in this state were required to furnish UM coverage in an amount equal to or greater than the bodily injury liability limits, unless the named insured rejected UM coverage in writing or selected lower limits.[4] The statute   did not specifically provide for the manner in which the named insured could reject UM coverage other than to provide that a rejection must be in writing and signed by the named insured or his legal representative.
+
+In Roger v. Estate of Moulton,
+513 So. 2d 1126
+, 1132 (La.1987), this court articulated further requirements for a valid waiver of UM coverage, specifying that "the insured or his authorized representative must expressly set forth in a single document that UM coverage is rejected in the State of Louisiana as of a specific date in a particular policy issued or to be issued by the insurer." The court concluded that "a writing, regardless of the intention of the insured, of a less precise nature is insufficient to effect a valid rejection." Id.
+
+The purpose of this state's UM statute is to promote full recovery of damages by persons insured under the UM coverage who are innocent victims of automobile accidents involving uninsured or underinsured motorists. Tugwell v. State Farm Ins. Co.,
+609 So. 2d 195
+, 197 (La.1992); Roger v. Estate of Moulton, 513 So. 2d  at 1132; Hoefly v. Government Employees Ins. Co.,
+418 So. 2d 575
+, 578 (La.1982). Indeed, Section 22:1406 D(1)(a) states that UM coverage "is provided... for the protection of persons insured thereunder...." Therefore, the statute should be liberally construed in order to carry out its intended purpose, with any exceptions to coverage being narrowly read and strictly interpreted. Tugwell v. State Farm Ins. Co., 609 So. 2d  at 197; Roger v. Estate of Moulton, 513 So. 2d  at 1132. For that reason, any waiver of UM coverage must be clear and unmistakable. Tugwell v. State Farm Ins. Co., 609 So. 2d  at 197; Roger v. Estate of Moulton, 513 So. 2d  at 1130. In addition, the insurer bears the burden of establishing that the insured rejected UM coverage in writing pursuant to the requirements set forth by this court in Roger.
+
+The initial rejection of UM coverage contained in Endorsement No. 18 fully complied with the statutory requirements of Section 22:1406 D(1)(a) and the jurisprudential requirements set forth in Roger. The endorsement was in writing and was properly signed by the insured. The waiver was contained in a single writing and clearly provided that the insured rejected UM coverage as to the First Horizon policy. In addition, the rejection specified the effective date of the waiver of UM coverage, that is, November 15, 1985. The rejection was therefore valid and enforceable as written.
+
+However, First Horizon contends that the School Board intended for the waiver to take effect on November 15, 1984, and that the 1985 date was a clerical mistake which should be reformed to reflect the mutual intent of the insurer and the named insured. In its motion for summary judgment, First Horizon presented extrinsic evidence regarding intent.[5]
+
+Plaintiffs contend that UM provisions of the policy should be interpreted based upon the language contained within the four corners of the insurance document and that the district court should not have considered extrinsic evidence to determine the intent of the parties. In a case such as this, where extrinsic evidence of intent was introduced for the purpose of divesting persons qualifying as an insured of their rights under the express terms of the policy, we agree.
+
+*1180 At the time of plaintiffs' injuries, Endorsement No. 18 stated that the rejection of UM coverage was effective November 15, 1985. The intermediate court's allowing the insurer's after-the-fact correction of the waiver's effective date to reflect the parties' mutual intent is contrary to public policy and to this court's jurisprudence regarding strict construction of any exceptions to UM coverage.[6] While it appears clear that the parties in this case were in good faith when they attempted to correct a mutual mistake, a court's allowing the parties to change the effective date of the waiver by agreement, after the occurrence of plaintiffs' accidents and after the institution of lawsuits, would encourage bad faith "cooperation" between an insurer who seeks to avoid payment of claims and a named insured whose premiums are fixed on the basis of its loss experience. Although reformation of an insurance policy provision is valid between the parties when either party can prove a mistake in the policy which does not reflect their mutual intent, public policy precludes reformation of the effective date of a UM coverage rejection when the change adversely affects the rights of persons insured under the policy to recover damages under the UM coverage provisions before the change.
+
+Louisiana's public policy provides UM coverage to persons insured under the insurance contract "notwithstanding the language of the policy, the intentions of the parties, or the presence or absence of a premium charge or payment." Roger v. Estate of Moulton, 513 So. 2d  at 1131-1132. Permitting corrections of alleged typographical errors in UM coverage rejections to reflect the parties' intent, after the occurrence of injuries to persons insured under the policy, would be inconsistent with the strict requirements that this court previously has imposed upon rejections of UM coverage, as well as the purpose of UM coverage to provide for protection of persons insured under the policy. Such after-the-fact reformations would invite litigation regarding the parties' intentions concerning other aspects of UM coverage rejections, such as the amount of any lower limits selected by the named insured.
+
+In keeping with this court's strict requirements for rejections of UM coverage, we conclude that UM coverage for the Board's school buses remained in force under the First Horizon policy until November 15, 1985, in the amount of the policy's bodily injury liability provision, pursuant to statutory law. La.Rev.Stat. 22:1406 D(1)(a).
+
+Accordingly, the judgment of the court of appeal is reversed. The judgment of the district court, granting summary judgment in favor of the plaintiffs with regard to uninsured motorist coverage under the Orleans Parish School Board's policy with First Horizon Insurance Company, is reinstated. The matter is remanded to the district court for further proceedings.
+
+[*]  Pursuant to Rule IV, Part 2, § 3, Kimball, J. was not on the panel which heard and decided this case. See footnote in State v. Barras,
+615 So. 2d 285
+(La.1993).
+
+[1]  Typewritten insertions in Endorsement No. 18 stated that the insured selected UM limits of "$ NIL" and was applicable to "all vehicles except private passengers."
+
+[2]  Since all three of the accidents involved school buses, rather than private passenger vehicles, only Endorsement No. 18 was pertinent to these actions.
+
+[3]  First Horizon conceded in this court that Endorsement No. 18, signed on May 6, 1985, could not validly make the waiver effective on November 15, 1984 (as stated in Endorsement No. 30) so as to affect any rights that had risen because of accidents between November 15, 1984 and May 6, 1985. As stated earlier, the three accidents at issue in this case occurred after May 6, 1985.
+
+[4]  La.Rev.Stat. 22:1406 D(1)(a) provided:
+
+D. The following provisions shall govern the issuance of uninsured motorist coverage in this state:
+
+(1)(a) No automobile liability insurance covering liability arising out of the ownership, maintenance, or use of any motor vehicle shall be delivered or issued for delivery in this state with respect to any motor vehicle registered or principally garaged in this state unless coverage is provided therein or supplemental thereto, in not less than the limits of bodily injury liability provided by the policy, under provisions filed with and approved by the commissioner of insurance, for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of uninsured or underinsured motor vehicles because of bodily injury, sickness, or disease, including death, resulting therefrom; provided, however, that the coverage required under this Subsection shall not be applicable where any insured named in the policy shall reject in writing the coverage or selects lower limits. Such coverage need not be provided in or supplemental to a renewal or substitute policy where the named insured has rejected the coverage or selected lower limits in connection with a policy previously issued to him by the same insurer. Any document signed by the named insured or his legal representative which initially rejects such coverage or selects lower limits shall be conclusively presumed to become a part of the policy or contract when issued and delivered, irrespective of whether physically attached thereto. (emphasis added).
+
+[5]  Affidavits were submitted by the former chairman of the Board's insurance committee, by the underwriting manager and representative of First Horizon, by the Board's insurance administrator during the relevant time period, by the Board's writing agent for automobile insurance (who was also a member of the Board's insurance committee), and by the Board's casualty consultant pertaining to risk management programs, including insurance. The affiants uniformly stated that the Board intended to reject UM coverage from the inception of the First Horizon policy, that the waiver of UM coverage was in keeping with the Board's longstanding policy of rejecting UM coverage, and that First Horizon never intended to issue UM coverage to the Board. Copies of the Board's UM waivers under other automobile insurance policies were also provided.
+
+[6]  Endorsement No. 30 was simply evidence of intent, and was not determinative of the issue of law as to whether the insurer's refusal to pay plaintiffs' claims because of mutual mistake was valid. The same issue would have been involved if the insurer had never issued Endorsement No. 30.

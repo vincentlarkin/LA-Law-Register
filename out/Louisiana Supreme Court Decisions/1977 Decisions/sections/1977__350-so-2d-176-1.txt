@@ -1,0 +1,55 @@
+59448
+State v. Walker
+https://law.justia.com/cases/louisiana/supreme-court/1977/350-so-2d-176-1.html
+
+59448
+State v. Walker
+Court: Louisiana Supreme Court
+Release date: 1977-09-19
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/350-so-2d-176-1.html
+
+350 So. 2d 176 (1977)
+
+STATE of Louisiana
+v.
+Warren WALKER.
+
+No. 59448.
+
+Supreme Court of Louisiana.
+
+September 19, 1977.
+
+Frank J. Gremillion, Hynes & Gremillion, Baton Rouge, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie B. Brown,   Dist. Atty., Michael McDonald, Marilyn C. Castle, Asst. Dist. Attys., Baton Rouge, for plaintiff-respondent.
+
+DIXON, Justice.
+
+Warren Walker was charged with possession of marijuana, aggravated assault and receiving stolen things. The defendant was tried before a judge on February 8, 1977. He was acquitted on the marijuana and assault charges but the court found the defendant guilty of receiving stolen things. Defendant was sentenced to pay a $100 fine plus costs of court and was also sentenced to sixty days in the parish jail, which sentence was suspended and defendant was placed on one year unsupervised probation.
+
+At the close of the State's case-in-chief the defendant moved for a directed verdict (motion for acquittal) on all three counts. The judge granted the motion on the marijuana and assault counts but denied the motion on the receiving stolen things charge. Upon the defendant's application we granted writs on March 25, 1977. 343 So. 2d 204 (La.1977).
+
+The facts as adduced at trial are: a .38 caliber pistol was stolen from a house used by a lawyer, James Dendy, and his associates. Defendant was not shown to be connected with the burglary in any manner and, in fact, Dendy testified that the aperture of the window through which the burglar gained entry was too small to admit the defendant. Sometime after the commission of the burglary, Officer Daniel R. Altazan responded to an unrelated complaint by Mr. and Mrs. Alton James. The officer went to the James residence and ultimately arrested defendant for possession of marijuana (found in defendant's car), aggravated assault and receiving stolen things. This latter charge was based on the fact that when the officer questioned defendant about the whereabouts of the gun used in the assault, defendant responded "it [is] under the mattress in the back bedroom." Mrs. James took the officer to the bedroom to show him where the bed was. The officer ran a serial number check on the gun and determined that it was the gun taken in the Dendy burglary. The only other evidence related to the receiving stolen things charge was a statement made by Mrs. James in the presence of the defendant and testified to by Officer Altazan to the effect that defendant owned the gun. (The admissibility of this statement was the basis for Assignment of Error No. 1). Apparently the trial judge admitted this statement only for the fact of its utterance and not for its truthfulness.
+
+Thus, the crime consists of four elements, each of which the State has the burden of proving:
+
+(1) the intentional procuring, receiving, or concealing
+
+(2) of anything of value
+
+(3) which has been the subject of any robbery or theft
+
+(4) under circumstances which indicate that the offender knew or had good reason to believe that the thing was the subject of one of these offenses.
+
+Defendant argues that there was no evidence to support any elements of the offense other than element (3). Accordingly, he contends that his motion for acquittal should have been granted. We find merit to this assignment because the record provides no evidence that defendant knew or had good reason to believe that the gun was the subject of a theft.
+
+In support of its argument that there is at least some evidence of element (1), the State contends that the defendant's statement to the effect that the gun was under a mattress in the James' bedroom constitutes some evidence of "concealing." Be that as it may, the State then argues that the defendant's action in concealing   the gun indicates that he had good reason to believe that the gun was stolen. Even assuming that there is some evidence that defendant concealed the gun under the mattress, this fact alone does not constitute some evidence that defendant had good reason to believe the gun was stolen. The mere act of concealing property is subject to many competing inferences. In fact, since defendant was the subject of a complaint and arrest for aggravated assault, the most plausible reason for hiding the gun was to avoid a charge of carrying concealed weapons when the police arrived. It appears, however, that the State is contending that proof of receipt or concealment alone is some evidence that the offender had good reason to believe the property was stolen. This is made clear by the State's argument at trial that once it was proved that defendant had the stolen gun in his possession, it should be presumed that he had good reason to believe the gun was stolen. However, in State v. Rock, 162 La. 299, 110 So. 482 (1926), this court noted that mere possession of stolen property should not create a presumption that the person in possession of the property received it with knowledge that it was stolen by someone else. In addition, in State v. Henderson,
+296 So. 2d 805
+(La.1974), we held that R.S. 14:69 does not create any presumptions and the State "must prove that the accused actually knew or had good reason to believe that the property was stolen before a conviction under R.S. 14:69 can be obtained." 296 So. 2d  at 807.
+
+In this case the State merely proved that the defendant knew where the gun was located (under a mattress in the James' residence). The State did not show when it was hidden there, under what circumstances, nor, arguably, by whom. The State has the burden of proving each element of the offense and the fourth element, (good reason to believe that the gun was stolen), is separate and distinct from the first element, (receipt procurement, or concealment). Had the legislature intended for proof of possession, receipt or concealment alone to constitute the offense, they would not have required scienter. Thus, mere proof that defendant knew where the gun was, even if this is some evidence that he concealed the gun, does not constitute some evidence that defendant knew or had good reason to believe the gun was stolen. To hold to the contrary would eliminate the fourth element of the crime from the statute.
+
+For the foregoing reasons, the judge's ruling on the motion for acquittal is reversed and the motion is granted.

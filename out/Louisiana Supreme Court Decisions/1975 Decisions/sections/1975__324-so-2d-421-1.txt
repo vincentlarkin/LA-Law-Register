@@ -1,0 +1,91 @@
+56615
+State v. Hayes
+https://law.justia.com/cases/louisiana/supreme-court/1975/324-so-2d-421-1.html
+
+56615
+State v. Hayes
+Court: Louisiana Supreme Court
+Release date: 1975-12-08
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/324-so-2d-421-1.html
+
+324 So. 2d 421 (1975)
+
+STATE of Louisiana, Appellee,
+v.
+Charles HAYES, Appellant.
+
+No. 56615.
+
+Supreme Court of Louisiana.
+
+December 8, 1975.
+
+Rehearing Denied January 16, 1976.
+
+Arthur J. Boudreaux, III, Barnes & Barnes, Baton Rouge, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie Brown, Dist. Atty., Alton T. Moran, James E. Boren, Asst. Dist. Attys., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant was convicted of armed robbery, La.R.S 14:64, found to be a multiple offender, La.R.S. 15:529.1, and sentenced to sixty years at hard labor. The defendant appeals.   On appeal, the defendant argues eleven assignments of error. Assignments 2, 5, and 11 present the most arguable issues.
+
+Assignment 2:
+
+The most serious issue is presented by the denial of a mistrial sought under La.C.Cr.P. art. 775: "A mistrial may be ordered, and in a jury case the jury dismissed, when: * * * (6) False statements of a juror on voir dire prevent a fair trial."
+
+After intensive voir dire examination, a juror was accepted. On being asked his employment, he had stated that he was an investigator for a state agency. There is no indication of any intentional concealment during the examination; nevertheless, the juror neglected to mention that he also had part-time employment in a convenience store on weekends. (The present offense concerned robbery of another convenience store maintained by the same firm, but at another location.)
+
+This circumstance developed during a weekend recess, after the juror was sworn and the trial had commenced. At a conference in chambers attended by both counsel, the trial court satisfied itself of the impartiality of the juror, despite this circumstance and despite the juror having seen a trial witness at the store over the weekend (although no conversation about the trial occurred).
+
+With some reservations, we find no reversible error resulted from the trial court's denial of a mistrial under the circumstances shown.
+
+We principally base our finding on the lack of prejudice exhibited by the ruling. La.C.Cr.P. art. 921. The trial court's finding that the juror was unbiased and that his continued service did not militate against a fair trial seems to be corroborated by the subsequent circumstance that the juror in question was one of the two jurors voting against conviction. See supplemental transcript.
+
+Assignment 5:
+
+By information filed May 28, 1974, the defendant was charged with committing an armed robbery on March 19. The trial commenced November 13. In the course of the state's case, it was discovered that the robbery had actually occurred on March 9, ten days earlier then initially charged.
+
+As authorized by La.C.Cr.P. art. 488, the state moved for and was granted an amendment of the indictment to reflect the correct date of the offense. (The date of an armed robbery is not essential to the offense. State v. Pickett, 261 La. 237,
+259 So. 2d 307
+(1972). See also La.C.Cr.P. art. 468.)
+
+The defendant's counsel objected to the amendment, urging that, although no alibi defense was claimed for the date originally charged, he had investigated and prepared his defense against a charge of an offense committed then, not eleven days earlier.
+
+It was mid-afternoon. The trial court recessed the trial until 10:00 a.m. the following morning.
+
+When court opened the following morning (Thursday), the defense counsel moved for a mistrial and, when it was denied, for a continuance (recess). This motion was granted, with the state being first permitted to finish its case. The state rested in mid-afternoon, and the defendant was granted a recess to prepare and present its case until the following Monday morning.
+
+The defendant's counsel did not object at that time, Tr. 108, nor did he object or request more time when the trial resumed after the three-day recess, Tr. 160.
+
+Under the circumstances shown (pretermitting whether the defendant's lack of objection to the continuance (recess) granted precludes his present attack on it as insufficient remedy, La.C.Cr.P. art. 841), the continuances (recesses) granted   by the trial court were adequate to correct any prejudice (insofar as shown) which was sustained by the defendant due to the initially mistaken date of the charge.
+
+Despite counsel's persuasive argument to the contrary, we are not convinced that he has shown any prejudice resulting to his client from the ruling now complained of. No error is shown by this assignment.
+
+Assignment 11:
+
+After conviction, the state charged the defendant with being a second offender for purposes of securing an enhanced sentence. La.R.S. 15:529.1.
+
+The state proved that the defendant was the person charged with the first offense by fingerprint identification. To prove the first conviction (the plea of guilty by a person of the same name), state called the lawyer who had been appointed to represent the accused on that first charge. After objection was overruled, the lawyer-witness identified the present defendant as the same person whom he had represented on the first charge and who had pleaded guilty to it.
+
+The objection was raised as follows: When the attorney-witness was asked if he knew "Charles Hayes" (the defendant's name), he claimed the attorney-client privilege. The defendant also objected.
+
+The trial court ruled that the privilege protected any communication made to the attorney during his representation or information obtained as a result of it, La.R.S. 15:475[1] but that the privilege did not under the present facts extend to the fact that he had represented him, a matter of public record.
+
+We find no error in this ruling under the present circumstances. The weight of legal authority does not extend the lawyer-client privilege to the fact that an attorney represented a given client, except under limited circumstances not here present. McCormick on Evidence, Section 90 (2d ed., 1972). The defendant cites no contrary authority.
+
+Other Assignments:
+
+By reason of settled principles clearly unapplicable, the other assignments[2] do not present any substantial issue for review.
+
+Accordingly, we affirm the conviction and sentence.
+
+Affirmed.
+
+SUMMERS, J., concurs.
+
+[1]  La.R.S. 15:475 provides: "No legal adviser is permitted, whether during or after the termination of his employment as such, unless with his client's express consent, to disclose any communication made to him as such legal adviser by or on behalf of his client, or any advice given by him to his client, or any information that he may have gotten by reason of his being such legal adviser."
+
+[2]  E.g., that testimony of injuries were unduly inflammatory, that fingerprint testimony was inadmissible, that testimony was hearsay, or not relevant or introduced without proper foundation, etc.

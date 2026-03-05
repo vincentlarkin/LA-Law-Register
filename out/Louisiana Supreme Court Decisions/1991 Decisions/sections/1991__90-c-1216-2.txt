@@ -1,0 +1,111 @@
+90-C-1216
+Caraway v. Royale Airlines, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1991/90-c-1216-2.html
+
+90-C-1216
+Caraway v. Royale Airlines, Inc.
+Court: Louisiana Supreme Court
+Release date: 1991-05-06
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1991/90-c-1216-2.html
+
+579 So. 2d 424 (1991)
+
+Sandra CARAWAY, Individually and on Behalf of the Minor, Amanda Christine Spraggins
+v.
+ROYALE AIRLINES, INC., et al.
+
+No. 90-C-1216.
+
+Supreme Court of Louisiana.
+
+May 6, 1991.
+
+*425 Henry N. Brown, Jr., Shreveport and Roland V. McKneely, Jr., Bossier City, for Sandra Caraway and Amanda Christine Spraggins plaintiffs-applicants.
+
+Randy P. Zinna, Reynolds & Zinna, Baton Rouge, for Royale Airlines Ins. Employee Benefit Plan and Trust defendant-respondent.
+
+F. Drake Lee, Jr. and Kenneth Mascagni, Cook, Yancey, King & Galloway, Shreveport, for City of Bossier City defendant-respondent.
+
+MARCUS, Justice.
+
+Amanda Spraggins was born to plaintiff (Sandra Caraway) and her husband (Charles Spraggins) on July 24, 1980. She was subsequently diagnosed as having Crouzon's syndrome, a congenital deformity which results in a lack of normal growth in the cranio-facial region. On September 6, 1983, plaintiff and her husband divorced. They were granted joint custody of Amanda, with plaintiff designated as the primary residential custodian. The judgment further ordered that "both parties shall maintain in full force and effect hospitalization and major medical coverage on the minor child of the marriage...." Plaintiff was employed by Royale Airlines, Inc. on April 30, 1984, and both she and Amanda were covered by the Royale Airlines, Inc. Employee Benefit Plan and Trust (Royale plan). This plan was subject to the federal Employee Retirement Income Security Act (ERISA). Charles Spraggins had been employed by the City of Bossier City (CBC) since August, 1983, and both he and Amanda were covered by an employee benefit plan provided by the city.[1] During 1985 and 1986, Amanda received medical care for various congenital problems, and plaintiff presented a request for payment to the administrator of the CBC plan. The administrator of the CBC plan contacted the administrator of the Royale plan, who accepted primary coverage responsibilities and paid the relatively small claims amounts.[2]
+
+In February, 1986, it was determined Amanda would need craniofacial remodeling surgery. Plaintiff attempted to pre-clear the surgery with both insurers, but the Royale plan denied coverage, causing the surgery to be delayed. On July 14, 1986, the CBC plan agreed to extend coverage as a secondary plan. The surgery took place on July 30, 1986. During the course of the surgery, potentially life-threatening complications arose. Medical expenses from the surgery and treatment of the complications totalled $78,165.65. The Royale plan formally denied plaintiff's claim   for benefits on December 18, 1986, on the ground the plan's "cosmetic purpose" exclusion applied.[3] The CBC plan paid $1166 in benefits, the amount it alleged it was responsible for as secondary plan under its non-duplication of benefits provision.
+
+On February 20, 1987, plaintiff filed suit for health insurance benefits against Royale Airlines, Inc., CBC and Charles Spraggins.[4] She alleged both Royale and CBC had in effect policies of health and hospitalization insurance covering Amanda at the time of the surgery, that claims had been made with the administrators of both plans, that Royale had specifically denied any coverage and that CBC claimed only secondary liability and paid less than 5% of the charges. She further alleged the failure and refusal of these defendants to pay was "arbitrary, capricious and without probable cause" and requested they be cast with statutory penalties and reasonable attorney fees. On May 13, 1987, plaintiff filed a first amended and supplemental petition adding the "Royale Airlines Incorporated Employee Benefit Plan and Trust" as an additional defendant. CBC filed a cross claim against the Royale plan, alleging that the Royale plan provided primary coverage for Amanda's medical expenses, and that the CBC plan was secondary to the Royale plan. CBC requested full indemnification from the Royale plan for any claims it might be held answerable for beyond the secondary coverage amounts it had previously paid.[5] Prior to trial, Royale Airlines, Inc. filed for Chapter 11 relief in the United States Bankruptcy Court. That court issued a stay, thus removing Royale Airlines, Inc. from the proceedings.
+
+After a trial on the merits, the trial judge found the cosmetic exclusion relied upon by the Royale plan did not apply since Amanda's surgery was medically necessary, and that the Royale plan provided primary coverage. On the issue of CBC's liability, he found the CBC plan was primary and not secondary, noting there was no language in the CBC plan that referred to its providing only secondary coverage. The judge determined the failure of the Royale plan and the CBC plan to pay the claims of plaintiff for medical expenses was arbitrary, capricious and without reasonable grounds, and both insurers were liable for penalties and attorney fees under La.R.S. 22:657(A).[6] Accordingly, the trial judge rendered judgment in favor of plaintiff and against CBC and the Royale plan, as solidary obligors, for benefits in the sum of $77,965.65, penalties   in the sum of $77,965.65 and attorney fees in the sum of $10,000. The judge further ordered that CBC was entitled to judgment on its cross claim against the Royale plan for one half of the total amount it must pay to plaintiff.
+
+The Royale plan and CBC appealed. Plaintiff answered the appeal, seeking an increase in attorney fees. The court of appeal agreed with the trial judge's determination that both CBC and the Royale plan provided primary coverage, and affirmed the judgment in favor of plaintiff and against both insurers for the full amount of recoverable medical expenses. The court reversed the trial judge's imposition of penalties and attorney fees against CBC, concluding CBC was not arbitrary and capricious in refusing to pay benefits as the primary carrier based upon past interpretation of the plans and certain language in the Royale plan, both of which implied the Royale plan undertook primary coverage responsibility. The court found the trial judge erred in awarding statutory penalties against the Royale plan, since the provisions of La.R.S. 22:657(A) were preempted by ERISA.[7] The court affirmed the award of attorney fees against the Royale plan, finding these were discretionary under the civil enforcement provisions of the ERISA statute[8], and increased the attorney fee award by $500 to cover the services rendered on appeal. Finally, the court amended the judgment on CBC's cross claim to allow CBC to recover 100% of the benefits it paid (except for the $1166 it paid as secondary carrier) from the Royale plan. The court reasoned that, although both insurers owed a primary obligation to the insured, as between the insurers, the Royale plan had assumed responsibility for primary coverage.[9]
+
+On plaintiff's application, we granted certiorari.[10] The sole issue presented for our consideration is whether the court of appeal erred in reversing the trial judge's imposition of statutory penalties and attorney fees against CBC.
+
+Under the clear and unambiguous language of La.R.S. 22:657(A), whenever a claim is properly presented under a health and accident contract, it must be paid within thirty days, unless just and reasonable grounds, such as would put a reasonable and prudent businessman on his guard that the claim is unjust, exist. Lopez v. Blue Cross of Louisiana,
+397 So. 2d 1343
+(La. 1981). CBC contends its refusal to pay was reasonable, based on its reading of provisions in both plans and past history of payments, whereby it concluded the Royale plan had assumed primary liability, and it had only secondary liability.
+
+The "non-duplication of benefits" clause in the CBC plan provides:
+
+*428 We find nothing in this clause indicates the CBC plan is limited to secondary liability. Rather, this clause is intended to reduce the benefits paid by the CBC plan only when another insurer has already paid benefits on the same claim. Under such circumstances, the clause operates to avoid duplication of recovery and limit the claimant's recovery to 100% of his damages. Since no other insurer has paid, it is clear this clause has no application in the present case, and in no way limits CBC's primary liability for Amanda's medical expenses.
+
+CBC also relies on the "Double Coverage" provision in the Royale plan:
+
+CBC cites this language for the proposition that the Royale plan, as the plan of the custodial parent, had by its own terms assumed primary liability.[11] CBC further notes that the Royale plan had paid as primary plan on three small claims made earlier by plaintiff. Thus, CBC contends it had reasonable grounds to assume it had only secondary liability and was not liable until the Royale plan had paid.
+
+The fallacy of CBC's argument is that a finding of primary liability on the part of the Royale plan does not preclude a finding of primary liability on CBC's part vis-a-vis plaintiff.[12] The only provisions which can affect CBC's liability as to plaintiff are those provisions contained in its plan. Under the unambiguous terms of CBC's own plan, it is only entitled to reduce benefits when another insurer has already paid benefits on the same claim. The designations in the Royale plan cannot operate to reduce CBC's primary obligation to plaintiff under the clear terms of its own plan. Hence, under a fair reading of both clauses, CBC lacked any reasonable basis for claiming secondary liability only.
+
+Finally, CBC argues it was reasonable in withholding payment to plaintiff since it believed it would have no subrogation rights against the Royale plan. CBC   bases this argument on 29 U.S.C. § 1132, which indicates the only party entitled to recover against an ERISA plan is an enumerated party under the statute, such as a "participant" or "beneficiary." CBC contends that at the time plaintiff requested payment from it, the weight of authority indicated CBC would not be able to assert plaintiff's ERISA rights and its right of subrogation against the Royale plan would be meaningless.[13]
+
+We find no merit to this argument. As we have already stated, CBC owes a primary obligation to pay benefits to plaintiff, irrespective of whatever rights it may have as to other insurers. The fact that CBC may ultimately have rights against the Royale plan does not change its duty to pay plaintiff immediately upon her demand under the terms of its plan. Therefore, we do not find this constitutes a reasonable ground for withholding payment.
+
+We find the record supports the conclusion CBC was without just and reasonable grounds in failing to pay benefits to plaintiff under its plan. The trial judge was not clearly wrong in casting CBC for penalties and attorney fees under La.R.S. 22:657(A). The court of appeal erred in reversing the trial judge on this issue.
+
+For the reasons assigned, the judgment of the court of appeal is reversed insofar as it reversed the district court's assessment of statutory penalties and attorney fees against the City of Bossier City. The judgment of the district court assessing penalties in the sum of $77,965.65 against the City of Bossier City is reinstated. The judgment of the court of appeal assessing attorney fees of $10,500 solely against the Royale Airlines, Inc. Employee Benefit Plan and Trust is amended to assess these fees in solido against both the City of Bossier City and the Royale Airlines, Inc. Employee Benefit Plan and Trust. In all other respects, the judgment of the court of appeal is affirmed.
+
+[1]  Since the CBC plan was established by a political subdivision of the state, it did not fall under ERISA. 29 U.S.C. § 1003(b)(1).
+
+[2]  The expenses were $24.00 in 1985, and $37.50 and $20.00 in 1986.
+
+[3]  That exclusion provides:
+
+For, or in connection with, treatment or operations performed for cosmetic purposes will be considered Covered Medical Expenses only if the treatment or operations are for repair of disfigurement resulting from an accidental injury sustained by the patient while covered under the Plan and the treatment is begun within ninety (90) days after the accident in which the injury is sustained, or the treatment or operations are for correction of a congenital defect of a child born while its parent is covered under the Plan.
+
+(emphasis added).
+
+The Royale plan contended the last clause did not apply since neither parent was covered by the plan at the time Amanda was born.
+
+[4]  The petition alleged Spraggins should be held liable for all expenses not covered by insurance or alternatively one half of such expenses. Alternatively, the petition alleged Spraggins was an indispensable or necessary party who refused to join in the suit.
+
+[5]  CBC also filed a third party demand against the Life Insurance Company of the Southwest, as insurer of the Royale plan. The trial judge granted Southwest's motion to sever the third party demand; therefore, Southwest is not a party to the present case.
+
+[6]  At the time of the trial, La.R.S. 22:657(A) provided in pertinent part:
+
+All claims arising under the terms of health and accident contracts issued in this state, except as provided in Subsection B, shall be paid not more than thirty days from the date upon which written notice and proof of claim, in the form required by the terms of the policy, are furnished to the insurer unless just and reasonable grounds, such as would put a reasonable and prudent business man on his guard, exist. The insurer shall make payment at least every thirty days to the assured during that part of the period of his disability covered by the policy or contract of insurance during which the insured is entitled to such payments. Failure to comply with the provisions of this Section shall subject the insurer to a penalty payable to the insured of double the amount of health and accident benefits due under the terms of the policy or contract during the period of delay, together with attorney's fees to be determined by the court.
+
+[7]  At the time the court of appeal rendered its opinion, we had not yet handed down our decision in Cramer v. Association Life Insurance Co.,
+569 So. 2d 533
+(La.1990), which held La.R.S. 22:657, as applied to a claim under an employee welfare benefit plan subject to ERISA, is preempted by ERISA. We note the holding of the court of appeal comports with the Cramer decision.
+
+[8]  29 U.S.C. § 1132(g)(1) provides:
+
+(1) In any action under this subchapter (other than an action described in paragraph (2)) by a participant, beneficiary, or fiduciary, the court in its discretion may allow a reasonable attorney's fee and costs of action to either party.
+
+This court has found an award of attorney fees made under an inapplicable state statute may still be authorized under controlling federal law. Soniat v. Travelers Insurance Co.,
+538 So. 2d 210
+,
+216
+(La.1989).
+
+[9]  559 So. 2d 954 (La.App. 2d Cir.1990).
+
+[10]  572 So. 2d 79 (La.1991).
+
+[11]  The court of appeal found this provision ambiguous, since under the joint custody arrangement, both parents had custody of Amanda. Strictly construing the ambiguity against the insurer, the court found this necessitated the finding that the Royale plan was primary. Further, the court found a reasonable interpretation of this provision would lead to the conclusion that the Royale plan, as insurer of the primary residential custodial parent, was the primary insurer.
+
+[12]  Of course, a finding that both insurers were primary as to the plaintiff does not preclude the existence of a primary and secondary relationship as between the insurers for purposes of subrogation. The court of appeal recognized such a relation in the present case when it gave CBC judgment against the Royale plan on its cross claim.
+
+[13]  Certain federal cases have held a non-enumerated party, even as an assignee or subrogee of an enumerated party, had no standing to sue under ERISA. Northeast Department ILGWU Health and Welfare Fund v. Teamsters Local Union No. 229 Welfare Fund, 764 F.2d 147 (3rd Cir.1985); Pressroom Unions-Printers League Income Security Fund v. Continental Assurance Co., 700 F.2d 889 (2d Cir.1983), cert. denied, 464 U.S. 845, 104 S. Ct. 148, 78 L. Ed. 2d 138 (1983); Nationwide Mutual Insurance Co. v. Teamsters Health and Welfare Fund of Philadelphia and Vicinity,
+695 F. Supp. 181
+(E.D.Pa.1988). Other federal cases have found a non-enumerated party had standing to sue under ERISA. Misic v. Building Service Employees Health and Welfare Trust, 789 F.2d 1374 (9th Cir.1986); Fentron Industries v. National Shopmen Pension Fund, 674 F.2d 1300 (9th Cir.1982). CBC concedes the United States Fifth Circuit has recently adopted the latter view and held an assignee of a plan beneficiary has standing to sue under ERISA. Hermann Hospital v. MEBA Medical & Benefits Plan, 845 F.2d 1286 (5th Cir.1988).

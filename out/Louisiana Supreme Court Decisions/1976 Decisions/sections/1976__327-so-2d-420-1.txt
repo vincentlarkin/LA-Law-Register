@@ -1,0 +1,70 @@
+56679
+State v. Batiste
+https://law.justia.com/cases/louisiana/supreme-court/1976/327-so-2d-420-1.html
+
+56679
+State v. Batiste
+Court: Louisiana Supreme Court
+Release date: 1976-02-23
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/327-so-2d-420-1.html
+
+327 So. 2d 420 (1976)
+
+STATE of Louisiana, Respondent,
+v.
+Lawrence BATISTE, Relator.
+
+No. 56679.
+
+Supreme Court of Louisiana.
+
+February 23, 1976.
+
+*421 Charles W. Seaman, Kelly, Seaman & Ware, Natchitoches, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ronald C. Martin, Dist. Atty., Andrew S. Vallien, Asst. Dist. Atty., for plaintiff-respondent.
+
+*422 TATE, Justice.
+
+We granted certiorari, 319 So. 2d 450 (1975), primarily to review the contention that the defendant was convicted of driving while intoxicated, La.R.S. 14:98(B), on the basis of inadmissible evidence. The defendant also contends that a motion for directed verdict was erroneously denied.
+
+The objected to evidence consisted of the results of a Photo-Electric Intoximeter (PEI) test designed to measure the alcohol concentration in the accused's blood at the time of arrest. Such tests, if conducted in accordance with administratively approved methods by a validly licensed operator, may give rise to a presumption of the intoxication of the accused at the time of the test. La.R.S. 32:662, 663 (1968).
+
+The accused contends that, in the present case, the test was improperly received into evidence over his objection that legally sufficient evidence did not prove that the operator was licensed and qualified to conduct the test.
+
+Before introducing the test, the state by way of predicate attempted to establish that the witness was a qualified photoelectric intoximeter operator. On cross-examination during the predicate, the witness was asked if he had a valid and current permit and to produce it. The witness stated that he had a permit, but that he did not have it with him.
+
+The defendant thereupon objected to any testimony by the witness as to the result of the PEI test. He further objected to the introduction of the result until a proper foundation for its admission was laid by proving that the witness had a permit evidencing that he was qualified to conduct tests.
+
+The trial court overruled both objections. He further ordered that the test be filed. The witness testified as to the result of the test; it showed an alcoholic content of the blood which gave rise to the statutory presumption of intoxication.
+
+Under the statute, a chemical test giving rise to such a virtually indisputable presumption is not admissible unless "performed according to methods approved by the state department of health and by an individual possessing a valid permit issued by the state department for this person." La.R.S. 32:663. (Italics ours.) Upon timely objection to the qualification of the operator, a PEI test is not admissible in a criminal prosecution unless the operator physically produces the official certification showing that he possessed a valid permit qualifying him to administer the test at the time it was made. City of Monroe v. Robinson,
+316 So. 2d 119
+(La.1975); State v. Jones,
+316 So. 2d 100
+(La.1975). As these cases indicate, the valid permit itself, not the witness's oral claim he has one, is required as the best evidence, in accordance with the strict legislative requirements for the use of such a test.
+
+The trial court thus erred in admitting into evidence the PEI test, in the face of a timely objection by the defendant that the predicate of a valid permit by the operator had not been proved. La.R.S. 32:663; City of Monroe v. Robinson and State v. Jones, cited above (but reported subsequent to the trial court's decision below).
+
+We are unable to attach any weight to a minute entry, made after the trial and conviction, which states that, after the court had overruled the objection, "the state offered in evidence the results of the test, but it was not filed." The test may not physically have been filed in the trial record after the court ordered its admission and filing. Nevertheless, the operator testified to the results of the test. These results, indicating intoxication, were a substantial part of the evidence found admissible by the trial court upon which its verdict of guilty was based.
+
+*423 We must therefore reverse and remand for a new trial.
+
+The motion for directed verdict was properly denied.
+
+There was some evidence to sustain the conviction, even if improperly admitted. State v. Butler,
+322 So. 2d 189
+(La.1975) (syllabus 8). That is, although improperly admitted evidence may require a new trial, it does not require a directed verdict of acquittal (which would prevent a re-trial for the offense by reason of the former jeopardy resulting in the first trial).
+
+Further, insofar as the accused contends that the state did not bear its burden of proving venue in the parish, La.Const. art. 1, sec. 16 (1974), La.C.Cr.P. art. 611, 615 (1966), the arresting police officers testified as to the street locations of the offense. The officers did not specifically testify that these street locations were in the city of Natchitoches. Nevertheless, the trial court did not err in taking judicial notice of the geographic fact of the Natchitoches location of these streets, proving proper venue in Natchitoches parish. La.R.S. 15:422(6); State v. Jackson,
+308 So. 2d 265
+(La.1975); State v. Richard, 245 La. 465,
+158 So. 2d 828
+(1963); Poland v. Dreyfous, 48 La.Ann. 83, 18 So. 906 (1896).
+
+Accordingly, we set aside the conviction and sentence, and we remand this case to the district court for a new trial in accordance with law.
+
+Reversed and remanded.
+
+SANDERS, C. J., and SUMMERS, J., dissent.

@@ -1,0 +1,142 @@
+92-CC-3086
+Branch v. Willis-Knighton Medical Center
+https://law.justia.com/cases/louisiana/supreme-court/1994/92-cc-3086-2.html
+
+92-CC-3086
+Branch v. Willis-Knighton Medical Center
+Court: Louisiana Supreme Court
+Release date: 1994-04-28
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1994/92-cc-3086-2.html
+
+636 So. 2d 211 (1994)
+
+Jerry Wayne BRANCH, et ux.
+v.
+WILLIS-KNIGHTON MEDICAL CENTER.
+
+No. 92-CC-3086.
+
+Supreme Court of Louisiana.
+
+April 28, 1994.
+
+John L. Hammons, Nelson, Hammons & White, Shreveport, for applicant.
+
+Milton Caldwell Roberts, Jr., Mayer, Smith & Roberts, Shreveport, for respondent.
+
+DENNIS, Justice.[*]
+
+This is a suit by Jerry Wayne Branch and his wife seeking strict tort products liability recovery from Willis-Knighton Medical Center ("WKMC") for damage sustained by the couple because Branch contracted hepatitis from contaminated blood sold to him in 1976 by WKMC. The only question at this stage of the case is whether the suit was timely brought because it was filed less than one year after the Branches' discovery of the   cause of action in 1989. The answer depends on whether the strict tort products liability claim asserted by the Branches' petition is subject to (1) the special statute of limitations that bars actions for medical malpractice against physicians, hospitals and other health care providers not filed "within a period of three years from the date of the alleged act, omission, or neglect." La.R.S. 9:5628; or (2) the liberative prescription of one year generally applicable to all delictual actions, which does not commence to run until the victim knows or should know of the damage, the delict and the relationship between them. La.Civ.Code. arts. 3536 and 3537 (1870). See La.Civ.Code art. 3492 (1984), Revision Comments1983; Lott v. Haley,
+370 So. 2d 521
+(La.1979); R.J. Reynolds Tobacco Co. v. Hudson, 314 F.2d 776 (5th Cir.1963).
+
+We conclude that the plaintiffs' suit was filed timely because their strict tort products liability action is subject to the general one year prescription applicable to all delictual actions, not the special prescription rule applicable to medical malpractice actions. Accordingly, we reverse the court of appeal judgment applying the special rule and reinstate the judgment of the trial court overruling the defendant's exception of prescription.
+
+The facts alleged by the plaintiffs' petition are as follows. Jerry Wayne Branch underwent a surgical fusion of his lumbar spine at Willis-Knighton Medical Center ("WKMC") while he was hospitalized there from July 19, 1976 through August 4, 1976. Branch was transfused with one unit of blood sold by WKMC during his hospitalization. Branch has received no other blood transfusions. Over thirteen years later, on September 6, 1989, Branch submitted to a liver biopsy, and subsequently he went through other diagnostic studies. From the results of these tests, Branch discovered that he was infected with hepatitis C that he had contracted from the blood sold to him by WKMC in 1976.
+
+Branch and his wife filed this suit against WKMC on September 5, 1990 alleging that WKMC is liable for the damage caused them by the contaminated blood that WKMC sold to Branch in 1976. WKMC filed an exception of prescription. The trial court overruled the exception, concluding that, under the general rule of liberative prescription applicable to plaintiffs' products or strict tort liability action, the running of prescription was suspended under the doctrine of contra non valentem until the plaintiffs discovered the existence of their claim on September 6, 1989. Therefore, the trial court decided, the plaintiffs' suit was timely because one year did not elapse from the time of the plaintiffs' discovery of their claim and the filing of their petition on September 5, 1990.
+
+The court of appeal granted WKMC's application for a writ and reversed. Branch v. Willis-Knighton Medical Center, 607 So. 2d 883 (La.App. 2d Cir.1992). The court reasoned that the plaintiffs' strict tort products liability action was barred by the three year over-all limitation period of the special statute of limitations applicable to actions for medical malpractice. We granted certiorari to consider whether the plaintiffs' strict tort products liability action is subject to the general liberative prescription rule for delictual actions or the special statute of limitation applicable to actions for medical malpractice.
+
+The manufacturer's liability development in the United States has heavily influenced products liability law in Louisiana. American products liability is civil liability for damage caused by a dangerous or defective product. There are several theories upon which products liability may be based, including negligence, breach of warranty, misrepresentation or strict tort liability. The courts in Greenman v. Yuba Power Products, Inc.,
+59 Cal. 2d 57
+, 27 Cal. Rptr. 697, 377 P.2d 897 (Cal.1963) and following cases recognized and applied strict products liability in tort because of serious obstacles to a victim's recovery in product injury cases under the other theories. Jurists and scholars advanced a variety of policy justifications for strict tort products liability, including (1) shifting the loss from consumers to manufacturers, who through pricing and insurance are better able to bear the loss incurred by injury from defective products; (2) providing manufacturers with an incentive to market safer products; and (3) relieving the plaintiff of the burden of proving specific acts or omissions   of negligence. These policies led to the codification and acceptance of Section 402 A of the Restatement (Second) of Torts by the American Law Institute in 1964. That provision, in principal part, provides: "One who sells any product in a defective condition unreasonably dangerous to the user or consumer or to his property is subject to liability for physical harm thereby caused to the ultimate user or consumer, or to his property...." The Law Institute rejected negligence and the contract-warranty theory of recovery in favor of strict tort liability. Currently, some form of this type of strict products liability in tort has been adopted in nearly every state. Prosser & Keeton, Torts Fifth Ed. § 98 (Supp.1988); See, generally, 5 Harper, James & Gray, The Law of Torts, § 28.7 (2d ed. 1986); Robertson, Powers & Anderson, Cases and Materials on Torts, 624-632 (1989); Comment, Basic Principles of Manufacturer's Liability under the Civil Code of Quebec, Conférences sur le Nouveau Code Civil Du Québec, 403-406 (1991).
+
+This court embraced the strict products liability in tort theory reflected in Restatement (Second), § 402 A in Weber v. Fidelity & Casualty Ins. Co., 259 La. 599,
+250 So. 2d 754
+(1971). Although Justice Tate, the author of the opinion, did not cite the Restatement (Second) or directly acknowledge that the court was adopting that theory, the rule he announced was very similar:
+
+In fact, the rule may be traced almost verbatim to an earlier opinion by Justice Tate, written while a judge on an intermediate appellate court, in which he cited § 402 A as his principal source. Meche v. Farmers Drier & Storage Co., 193 So. 2d 807 (La.App. 3d Cir.1967). See generally, Comment, Basic Principles of Manufacturer's Liability under the Civil Code of Quebec, Conférences sur le Nouveau Code Civil Du Québec, 406-408 (1991).
+
+Subsequently, in DeBattista v. Argonaut-Southwest Ins. Co.,
+403 So. 2d 26
+(La.1981), this court held that under the strict tort product liability theory a hospital blood bank may be held strictly liable in tort when the blood it sells creates an unreasonable risk of harm to others, e.g., when that blood is contaminated with hepatitis virus, and, in fact, results in injury or disease to a human being. In doing so, the court expressly rejected the blood bank's defense based on the Civil Code Article 1764(A)(2) provision that the implied warranties of merchantability and fitness shall not be applicable to a contract for the sale of human blood. The court recognized that defenses specially designed for warranty cases may not be invoked to defeat a strict products liability in tort action. One of the main objects in the development of the strict tort liability theory and § 402 A was to overcome the barriers to recovery inherent in negligence, contract-warranty and other theories.
+
+In 1981, after the DeBattista decision, the legislature added Civil Code article 2322.1 and R.S. 9:2797 granting physicians, hospitals and blood banks immunity from strict tort products liability for screening, processing, transfusion or medical use of blood and blood components resulting in transmission of viral disease undetectable by appropriate medical and scientific laboratory tests. The claims of plaintiffs who sustained such injuries, infections or diseases prior to the effective dates of those statutes, however, are not barred by the new immunities or defenses provided by that legislation. Those plaintiffs have acquired causes of action in strict tort products liability as vested property rights protected by the guarantee of due process; the statutes enacted after the acquisition of such vested property rights cannot be retroactively applied so as to divest the plaintiffs of their vested rights in their causes of action. Faucheaux v. Alton Ochsner Medical Foundation Hosp.,
+470 So. 2d 878
+(La.1985) and authorities cited therein.
+
+*214 In the present case, plaintiffs alleged (a) that the blood which Branch received by transfusion was defective, i.e., unreasonably dangerous to normal use, (b) that it was a product which had been sold and supplied to Branch by WKMC, (c) that the damages done to the plaintiffs were caused by reason of the defect, and (d) that the injury to Branch occurred prior to the effective dates of Civil Code article 2322.1 and R.S. 9:2797. Accordingly, the trial and appellate courts were correct in concluding that the plaintiffs acquired a valid cause of action in strict tort products liability against WKMC arising from the sale of a product in a defective condition unreasonably dangerous to the user or consumer.
+
+The majority of the court of appeal erred, however, in applying the special medical malpractice statute of limitations to the plaintiffs' strict products liability action and therefore incorrectly reversed the trial court's judgment and sustained the exception of prescription. That statute was added by Act No. 808 of 1975, which, in pertinent part, provided:
+
+The law does not apply to strict tort products liability actions arising out of the sale of blood in a defective condition unreasonably dangerous to the user or consumer. In fact, R.S. 9:5628 does not contain any provision that expressly or implicitly refers to strict liability or products liability. Instead, the title, "§ 5628. Actions for medical malpractice," and all of the other earmarks of the statute indicate that the legislature intended to deal only with actions traditionally classified under the generally prevailing meaning of "medical malpractice", viz., suits based on negligence, breach of express agreement, abandonment, assault or lack of informed consent. See Comment, The Medical Malpractice Action in Louisiana, 33 La.L.Rev. 420 (1973); 1 Louisell & Williams, Medical Malpractice §§ 8.01, 8.13 (1990). See e.g. Theodore v. Ellis, 141 La. 709, 75 So. 655 (La.1917) (lack of informed consent); Rogers v. Lumbermens Mutual Casualty Co., 119 So. 2d 649, 651 (La.App.2d Cir.1960) (assault and battery); Brooks v. Robinson, 163 So. 2d 186 (La.App. 4th Cir.1964) (breach of express agreement); Stern v. Lanng, 106 La. 738, 31 So. 303 (1901) (negligence); Vidrine v. Mayes, 127 So. 2d 809 (La.App. 3d Cir.1961) (denying a claim of abandonment). The constellation of terms used to define the object of the statute refers only to such typical medical malpractice actions, i.e., "action[s] for damages for injury or death against any physician, dentist, or hospital ... whether based upon tort, or breach of contract, or otherwise, arising out of patient care ... [based on] the alleged act, omission or neglect" of the health care provider.
+
+Strict products liability actions, on the other hand, arise out of the sale of a product in a defective condition unreasonably dangerous to the user or consumer and the causation thereby of physical harm to such a person. See, e.g., Restatement (Second) Torts § 402 A. Furthermore, R.S. 9:5628 does not contain terms or concepts indispensable to the definition, classification and administration of strict tort products liability actions, such as "strict liability," "defective condition," "unreasonably dangerous," "normal use," or "user or consumer." Nor does it apply to the most common sellers of medical products, such as drug and medical supply companies.
+
+The background and history of R.S. 9:5628 also reflect that products liability actions do not fall within its ambit. The purpose of the statute is to check the increase in medical malpractice insurance premiums by restricting the volume and retrospective nature of medical malpractice litigation. There is no evidence that the legislature intended by R.S. 9:5628 to curb any type of litigation other than traditional medical malpractice actions.
+
+During the 1970's the rising costs of medical malpractice insurance and the decreasing availability of such coverage gave rise to the perception of a "medical malpractice crisis" in certain states. Note, Constitutional LawLouisiana Medical Malpractice Review Panel Upheld Under Equal Protection Scrutiny, 53 Tul.L.Rev. 640, 641 (1979). In 1975, the legislatures of many states, prompted by the lobby of the American Medical Association and the malpractice insurance companies (AMA lobby), enacted significant changes in substantive and procedural laws governing the adjudication of medical malpractice claims. Id., and sources cited therein. Legislation was adopted to limit the amount of awards, constrain attorneys' contingent fees, shorten and tighten statutes of limitations, redefine medical standards of care, and require pretrial screening or arbitration of claims. Id.
+
+Evidently, the AMA lobby considered the shortening and tightening of statutes of limitations affecting claims against physicians to be one of the most effective means of controlling the malpractice insurance crisis. Comment, Recent Medical Malpractice LegislationA First Checkup, 50 Tul.L.Rev. 655, 672 (1976). During 1975, eighteen states were persuaded to redefine their statutes of limitations to restrict the number of medical malpractice suits brought. Id. The legislation effected basically two kinds of changes in the statutes of limitations for discovering and bringing malpractice actions. In states that had adopted the "discovery rule," which delays the running of prescription until the victim discovers the injury, the new law typically imposed an over-all period of peremption or repose limiting the time during which the discovery rule could prevent the running of prescription. Id. at 673. In states where the discovery rule was not recognized, the new law simply shortened the statutory period for bringing malpractice suits. Id.
+
+In Louisiana, in response to or in anticipation of a malpractice insurance crisis, the legislature in its 1975 regular session, adopted a series of laws limiting the rights of medical malpractice claimants. Besides the special statute of limitations for medical malpractice claims, R.S. 9:5628, the legislation successfully promoted by the AMA lobby included the Uniform Consent Law, R.S. 40:1299.40; the Medical Malpractice Act, R.S. 40:1299.41 et seq; and the law strengthening the powers of the State Board of Medical Examiners, R.S. 37:1261 et seq. See Note, supra, 53 Tul.L.Rev. at 642 n. 10.
+
+R.S. 9:5628 follows an approach similar to that prompted by the AMA lobby in the other states that had adopted the discovery rule. Comment, supra, 50 Tul.L.Rev. at 673. A prescriptive period of one year begins to   run upon the discovery of the cause of action. Superimposed upon this, however, is an overall limitation upon the discovery rule's operation to a period of three years from the date of the alleged act, omission or neglect. Id. See e.g. Chaney v. State, through Dep't of Health & Human Resources,
+432 So. 2d 256
+(La.1983). But see Hillman v. Akins, 93-0631 (La. 1/14/94),
+631 So. 2d 1
+; Whitnell v. Silverman,
+598 So. 2d 345
+(La.1992); Rajnowski v. St. Patrick's Hosp.,
+564 So. 2d 671
+,
+682
+(La.1990) (concurring in denial of rehearing) ("The statute should be read to... leave intact our traditional rules of tolling or contra non valentem with respect to cases in which the doctor concealed or intentionally failed to disclose facts which would have given a patient notice of malpractice...."); Whitnell v. Menville,
+540 So. 2d 304
+(La.1989) (Lemmon, J., concurring); Gover v. Bridges,
+497 So. 2d 1364
+(La.1986); Harvey v. Davis, 432 So. 2d 1203 (La.App. 4th Cir.1983); Note, Gover v. Bridges: PrescriptionApplicability of Contra Non Valentem Doctrine to Medical Malpractice Actions, 61 Tul.L.Rev. 1541 (1987).
+
+The legislation took this path in Louisiana probably because, prior to the enactment of R.S. 9:5628, medical malpractice claims were subject to the one year prescription applicable to delictual actions, which did not commence to run until the date that the injured party discovered or should have discovered the delict, the damage and the relationship between them. La.Civ.Code arts. 3536 and 3537 (1870). See e.g., Lott v. Haley,
+370 So. 2d 521
+, 523 (La.1979) (citing Cartwright v. Chrysler Corp., 255 La. 597,
+232 So. 2d 285
+(1970)). See also, R.J. Reynolds Tobacco Co. v. Hudson, 314 F.2d 776 (5th Cir.1963). Moreover, there had been court decisions prior to 1975 that contained the germ of the fourth and more modern contra non valentem exception to the running of prescription that later was explicitly recognized by this court in Corsey v. State Dept. of Corrections,
+375 So. 2d 1319
+, 1322 (La.1979) (citing pre-1975 cases).
+
+In addition to the reasons noted above, the provision making R.S. 9:5628 applicable to malpractice claims based on tort, contract, or otherwise, may have been added in response to judicial activity that occurred just prior to the 1975 regular legislative session. In 1963, this court had rejected the argument that a medical malpractice action arises from an implied contract and is therefore subject to the ten year prescription governing contractual and other personal obligations. Phelps v. Donaldson, 243 La. 1118,
+150 So. 2d 35
+(1963) (interpreting La.Civ.Code art. 3544 (1870)). See La.Civ.Code art. 3499 (1984). In 1975, however, four members of this court signalled their willingness to reexamine this interpretation of the Code in the light of its harsh effects upon medical malpractice claimants. Steel v. Aetna Life & Casualty,
+315 So. 2d 144
+(La.1975). Although the court denied the writ, two justices dissented, one calling for reconsideration of Phelps v. Donaldson, and the other without assigning reasons; two justices concurred in the writ denial but suggested that Phelps v. Donaldson should be overruled if a proper case were presented.
+
+The conclusion that the special medical malpractice statute of limitation, R.S. 9:5628, does not apply to a strict tort products liability action arising out of the sale of blood in a diseased or defective condition is confirmed when the statute is interpreted in reference to other laws on the same subject matter. La.Civ.Code art. 13. During the legislative session in which R.S. 9:5628 was enacted, the lawmakers added the Medical Malpractice Act, R.S.40:1299.41 through 1299.49, by Act No. 817 of 1975, which, in pertinent parts, provided:
+
+The Medical Malpractice Act, like the special medical malpractice statute of limitations, does not mention strict liability or products liability and uses terms associated with the traditional medical malpractice action based primarily on professional negligence and implied contract concepts, viz., "legal wrong," "breach of duty," "negligent or unlawful act or omission," "standard of care," "professional services," "degree of skill ordinarily employed," "same community or locality," "reasonable care and diligence," "breach of contract" and "treatment performed or furnished." On the other hand, like the medical malpractice statute of limitations, the Medical Malpractice Act does not contain the terms and concepts indispensable to the definition, classification and administration of strict tort products liability actions. Interpreting the special statute of limitation for medical malpractice actions in reference to the Medical Malpractice Act, therefore, makes firmer our conclusion that it was not the legislative aim to subject any strict tort product liability action to the special statute of repose for malpractice suits.
+
+For the foregoing reasons we are convinced that R.S. 9:5628 was intended to apply only to medical malpractice actions and was not intended to apply to strict products liability actions in tort. Furthermore, because the statute grants immunities or advantages to a special class in derogation of the general rights available to tort victims, it must be strictly construed against limiting the tort claimants' rights against the wrongdoer. Kelty v. Brumfield,
+633 So. 2d 1210
+, 1216 (La.1994); Roberts v. Sewerage & Water Board, 92-2048, p. 8 (La. 3/21/94),
+634 So. 2d 341
+, 346; Touchard v. Williams,
+617 So. 2d 885
+(La.1993); Galloway v. Baton Rouge Gen. Hosp.,
+602 So. 2d 1003
+(La.1992); Monteville v. Terrebonne Parish Consol. Gov't,
+567 So. 2d 1097
+(La.1990) (and authorities cited therein); Keelen v. State Dept. of Culture and Recreation,
+463 So. 2d 1287
+(La. 1985); Head v. Erath Gen. Hosp., 458 So. 2d 579 (La.App. 3d Cir.1984); Williams v. St. Paul Ins. Co., 419 So. 2d 1302 (La.App. 4th Cir.1982).
+
+Because plaintiffs' strict tort product liability action is not subject to the special rule of prescription applicable to medical malpractice actions, R.S. 9:5628, it is therefore subject to the general one year prescription applicable to delictual actions. La.Civ. Code arts. 3536-37 (1870). See La.Civ.Code art. 3492 (1984). Because the general one year prescription did not commence until the plaintiffs discovered the damage, the delict and their relationship in 1989, their suit filed less than one year later was timely. The court of appeal decision is reversed and the trial court judgment is reinstated and the case remanded to the trial court for further proceedings.
+
+REVERSED AND REMANDED.
+
+LEMMON, J., dissents and assigns reasons.
+
+LEMMON, Justice, dissenting.
+
+I disagree that the sale of blood by a hospital to a patient for a transfusion during surgery was the sale of a product which was unreasonably dangerous to normal use, meaning that the blood was "dangerous to an extent beyond that which would be contemplated by an ordinary consumer." DeBattista v. Argonaut-Southwest Ins. Co.,
+403 So. 2d 26
+, 30 (La.1981). The danger of a patient's contracting hepatitis from a blood transfusion is a risk to which the patient agrees when he consents to the procedure after being informed of the risk by the surgeon or hospital representative. Id. (Blanche, J., dissenting).[1] A reasonable consumer of   blood in hospitals, when properly informed, weighs the risk of harm against the benefits to be derived from the transfusion, thereby contemplating the danger. The sale of blood to a properly informed patient, therefore, is not the sale of an unreasonably dangerous product.
+
+The cause of action for a patient who contracts hepatitis from blood sold by a hospital for transfusion is generally one based on lack of informed consent (or on negligence of hospital employees in obtaining or handling the blood). A cause of action based of lack of informed consent may be available in this case, but (as the majority points out) is subject to the three-year peremptive limitation of La.Rev.Stat. 9:5628. Unless that limitation is unconstitutional, it should be enforced in this case.
+
+[*]  Marcus, J., not on the panel. Rule IV, Part 2, § 3.
+
+[1]  I now agree with Justice Blanche's dissent in DeBattista, noting that my own reasons for dissent in that case improperly focused in part on La.Civ.Code art. 2317 and are to that extent inconsistent with my position in dissent in Simeon v. Doe,
+618 So. 2d 848
+(La.1993), as to the strict liability of a seller of contaminated products.

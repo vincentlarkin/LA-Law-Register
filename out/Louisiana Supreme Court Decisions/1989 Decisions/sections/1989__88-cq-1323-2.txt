@@ -1,0 +1,179 @@
+88-CQ-1323
+Deshotels v. SHRM Catering Services, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1989/88-cq-1323-2.html
+
+88-CQ-1323
+Deshotels v. SHRM Catering Services, Inc.
+Court: Louisiana Supreme Court
+Release date: 1989-01-30
+Author: WATSON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1989/88-cq-1323-2.html
+
+538 So. 2d 988 (1989)
+
+Joseph Mike DESHOTELS
+v.
+SHRM CATERING SERVICES, INC., et al.
+v.
+The LOUISIANA INSURANCE GUARANTY ASSOCIATION.
+
+No. 88-CQ-1323.
+
+Supreme Court of Louisiana.
+
+January 30, 1989.
+
+Rehearing Denied March 2, 1989.
+
+Robert B. Nolan, Thomas G. O'Brien, Edwin C. Laizer, Adams & Reese, New Orleans, for defendant-third party plaintiff-appellee.
+
+Judith R. Atkinson, Carey J. Guglielmo, Thomas E. Balhoff, Mathews, Atkinson, Guglielmo, Marks & Day, Baton Rouge, for third-party defendant-appellant.
+
+WATSON, Justice.
+
+This case involves a dispute between the Louisiana Insurance Guaranty Association (LIGA) and plaintiff's employer, S.H.R.M. Catering Services, Inc. (SHRM). LIGA contends that SHRM's standard workers' compensation and liability policy is not covered by its insurance fund because the policy's maritime endorsement makes it ocean marine insurance exempted from coverage under LSA-R.S. 22:1377.
+
+The parties stipulated the following facts:
+
+Joseph Mike Deshotels was employed by SHRM Catering Services, Inc. as a night cook aboard the MR. DEMP, a jack-up rig operating in the Gulf of Mexico. On September 26, 1984, while working on the vessel, Deshotels became ill with cellulitis and had to be transported by crewboat to a hospital on land. While he was in a personnel   basket being transferred to a crewboat, the crane operator lowering the basket dropped or slammed it to the deck of the crewboat from a height of about 10 feet. Deshotels suffered injuries to his cervical and lumbar regions that necessitated two surgeries.
+
+In May 1985, Deshotels sued SHRM and Magnum-Marine Drilling Corporation, which owned the jack-up rig and employed the crane operator, for negligence under both general maritime law and the Jones Act.[1] In addition to general negligence claims under the Jones Act, he asserted a claim for maintenance and cure against SHRM and a claim against Magnum-Marine for breach of its duty to maintain a seaworthy vessel.
+
+At the time of the accident, SHRM was insured by a "Standard Workmen's Compensation and Employer's Liability Policy" issued by Transit Casualty Company, a Missouri insurer. The policy included a maritime endorsement, which applied to "masters or members of the crews of vessels," noted that SHRM was engaged in offshore catering operations in Louisiana, and insured SHRM for its liability to provide transportation, wages, maintenance and cure to an employee who suffered bodily injury by accident or disease.
+
+In December 1985, Transit was declared insolvent, and all Transit policies were cancelled by order of the Missouri Courts. SHRM then filed a third-party demand against LIGA contending that the claims asserted against it were covered by the Louisiana Insurance Guaranty Association Law.[2] That law created LIGA as a non-profit, unincorporated entity to pay covered claims, up to statutory limits, in the event an insurer who was a member of the Association became insolvent.[3] LIGA coverage applies "to all kinds of direct insurance, except life, health and accident, title, disability, mortgage guaranty, and ocean marine insurance."[4]
+
+LIGA denied liability to SHRM contending that Deshotel's claim involved "ocean marine insurance" to the extent he sought recovery under maritime laws for maritime-related injuries, such claims being risks normally and traditionally covered by ocean marine insurance.
+
+Magnum-Marine filed for bankruptcy in Texas, and all proceedings against it were stayed. Prior to trial, Deshotels settled his claim with SHRM for $75,000.00, leaving only SHRM's third-party demand against LIGA. The parties submitted the matter to the trial court for decision on the basis of briefs, depositions, affidavits, stipulated facts and expert testimony in two other cases.[5]
+
+Since policies of this type had been included in calculating the assessments that Transit paid to LIGA,[6] Judge Duhe of the federal district court decided that it would be inconsistent to exclude them from LIGA's protection. Therefore, the court ruled that the policy was not one of "ocean marine insurance" and LIGA was obligated to pay the amount of Deshotels' claim, as well as the expenses SHRM had incurred in defending and prosecuting the action. SHRM was awarded $75,000.00, the amount it had paid Deshotels to settle his claim; $24,143.79 in maintenance and cure benefits paid between December 1985 and August 1987; and $26,606.84 in attorney's fees incurred through July 31, 1987. The court also ruled that SHRM would be entitled   to any attorney's fees, costs, and expenses incurred after July 31, 1987.
+
+The Louisiana Supreme Court has accepted the following certified question:
+
+"Does this claim for maritime-related injuries, brought on the Standard Workmen's Compensation and Employers' Liability policy with a marine endorsement, involve `ocean marine insurance' so as to be excluded, by virtue of La.R.S. 22:1377, from the coverage of the Insurance Guaranty Association Fund?"[7]
+
+The Louisiana Insurance Code does not define "ocean marine" insurance. However, LSA-R.S. 22:6(13)(b) and (e) classify and define "marine and transportation (inland marine)" insurance, in pertinent part, as follows:
+
+"(13) Marine and transportation (inland marine).
+
+By its terms, the Louisiana Insurance Guaranty Association Act is to be "liberally construed" to avoid financial loss to claimants and distribute the cost of protecting insurers against insolvencies.[8]
+
+According to the affidavit of the independent insurance broker which placed the coverage, SHRM's policies were not policies of "ocean marine insurance" and were not intended to be. They were compensation and general liability policies with an "admitted carrier", Transit.
+
+The Federal courts considering numerous Louisiana cases involving this question have reached disparate results.
+
+Sifers v. General Marine Catering Company[9] held that the ocean marine exclusion precluded LIGA liability for injuries or damages occurring during offshore marine activities with an admiralty setting. Coe v. L & L Sandblasting, Inc.[10] also held that a standard workers' compensation and employer's liability policy with a maritime endorsement was an ocean marine policy as to all maritime claims.
+
+In Blair v. Sealift, Inc.,[11] Judge Heebe declined to follow Sifers and concluded that ocean marine insurance is property insurance covering ships and their cargoes. Therefore, an insurance policy which includes coverage for seamen's injuries is not a policy of ocean marine insurance. Blair decided that the public policy mandating   liberal construction of the LIGA act is best served by considering the type of insurance policy in question rather than the particular claim being brought under the policy.
+
+In another case involving SHRM and Transit, Green v. SHRM Catering, Inc.,[12] Judge Shaw of the federal district court held that a standard employers' liability policy is not a policy of ocean marine insurance, making LIGA liable for claims asserted against Transit by a seaman working upon a vessel in the navigable waters of the United States. Green relied on Cole v. L & L Sandblasting, Inc.[13] and Blair, supra.
+
+Clinesmith v. Coil Tubing & Nitrogen Service Co.,
+673 F. Supp. 170
+(E.D.La.1986) decided that a comprehensive general liability insurance policy covering an accident on a vessel is not a policy of ocean marine insurance excluded from LIGA coverage. Clinesmith stated that the decisive issue is the nature of the insurance policy and not the nature of the claim being made.
+
+George v. Bailey Coke and Transport, Inc.[14] distinguished Clinesmith on the ground that the plaintiff there was a land-based salesman injured on a vessel while observing platform operations. George relied on Coe, supra, to hold that a policy's title or designation is not decisive on the issue of whether it includes ocean marine coverage. Because the George plaintiff was master of a vessel, the court decided that his employer's liability insurance policy, which included coverage for Jones Act liability, was maritime insurance and therefore "ocean marine". George focused on the particular risk for which a claim was being made.
+
+Under the same policy at issue in George, Medford v. Bailey Coke Transport, Inc.[15] followed Blair and gave summary judgment against LIGA in favor of an injured deckhand.
+
+Lovless v. Employers' Liability Assurance Corp., 218 F.2d 714 (5 Cir.1955) involved Jones Act and maintenance and cure claims. Following Cushing v. Maryland Casualty Co.,[16]Lovless decided that the Louisiana direct action statute[17] applies to claims classified as maritime or admiralty, despite the "ocean marine" exclusion in LSA-R.S. 22:611. Also see Coleman v. Jahncke Service, Inc., 341 F.2d 956 (5 Cir. 1965).[18]
+
+The issue has been considered in many Louisiana state court cases. Day v. Coastal Marine, Inc.[19] decided that it is the type of risk rather than the type of insurance policy which governs LIGA's exposure. Thus, seamen's Jones Act claims are excluded as "ocean marine" risks. The trial judge in another Louisiana state court case, Backhus v. Transit Casualty Company, 532 So. 2d 447 (La.App. 1 Cir.1988) held that maintenance and cure claims come within the definition of ocean marine insurance and are not covered by LIGA.
+
+In Kelone v. Cardinal Wireline Specialists, Inc.[20] the trial court relied on Clinesmith, supra, to hold that maritime risks insured under general liability policies are not excluded from LIGA coverage as ocean marine insurance.
+
+*992 Boudreaux v. LeBlanc Welding & Const.[21] affirmed a summary judgment against LIGA. Since the other exclusions from LIGA coverage in LSA-R.S. 22:1377 are types of indemnity insurance, Boudreaux applied the rule of ejusdem generis to conclude that the only ocean marine insurance excluded is indemnity insurance. Since policies of liability insurance with maritime endorsements are not excluded, LIGA was held responsible for the coverage afforded by the employer's insolvent liability insurer, Transit, even though the accident occurred on an offshore platform in the Gulf of Mexico. Although Boudreaux was vacated and remanded by the Louisiana Supreme Court, this was because a summary judgment had been granted when the extent of coverage had not been determined.
+
+According to expert witness Buglass, who testified in Sifers, supra, "ocean marine insurance" is synonymous with "marine insurance". Marine insurance: "covers several forms of risks arising out of a maritime or a marine adventure. The classic example would be on the hull of a ship or on the cargo it's carrying...."[22]
+
+Although marine insurance is a complex subject, contracts of marine insurance are generally contracts of indemnity. A contract of marine insurance: "is a contract whereby the insurer undertakes to indemnify the assured, in manner and to the extent thereby agreed, against marine losses, that is to say, the losses incident to a marine adventure."[23] There is a marine adventure when a ship, cargo, goods or other moveables are exposed to maritime perils, i.e., the perils of the sea. See the discussion of a standard marine hull policy and the perils of the sea in Northwestern Mutual Life Insurance Co. v. Linard, 498 F.2d 556 (2 Cir.1974). Another definition of marine insurance is:[24]
+
+As pointed out in Armada Supply Inc. v. Wright,[25] "[m]arine insurance typically insures against risk of loss of, or damage to, cargo. Under the standard marine policy, the underwriter and assured agree on an `insured value', or policy limit. See G. Gilmore & C. Black, The Law of Admiralty 86-90 (2d ed. 1975). * * *"[26]
+
+The Louisiana Insurance Code does not define "ocean marine" insurance. That insurance is not only excluded from LIGA coverage but also from the scope of Part XIV, which applies to "The Insurance Contract" and includes the Louisiana direct action statute. In context, the term "ocean marine" is used as a synonym for traditional marine insurance, that is, property insurance on hulls, freights and cargoes. Blair, supra. It contrasts with the definition of marine protection insurance in LSA-R.S. 22:6(13)(e), which is insurance against liability for death or personal injury resulting from use of a vessel "in ocean or inland waterways."[27]
+
+Sifers, Coe, George, Day and Backhus erred in equating all insurance covering   maritime claims with "ocean marine" insurance.
+
+LSA-R.S. 22:1377 states that Guaranty Association insurance applies "to all kinds of direct insurance, except life, health and accident, title, disability, mortgage guaranty, and ocean marine insurance." These categories enumerate different kinds of insurance policies, rather than different risks. It follows that the exclusion for ocean marine insurance does not apply to employers' liability policies which incidently cover risks associated with maritime activities.
+
+In view of the liberal construction given LIGA's protection to the insureds of insolvent companies, it would be anomalous to allow employees to walk in and out of LIGA protection as they board or disembark from a vessel. LIGA has accepted premiums for this covered claim and cannot now deny coverage. An insurance policy which insures an employer against liability to employees is not a policy of "ocean marine" insurance merely because it embraces some maritime risks.
+
+This claim for maritime-related injuries, brought on a Standard Workmen's Compensation and Employers' Liability policy with a marine endorsement, does not involve "ocean marine insurance" and is not excluded from the coverage of the Insurance Guaranty Association Fund by LSA-R.S. 22:1377.
+
+CERTIFIED QUESTION ANSWERED.
+
+LEMMON, J., concurs and assigns reasons.
+
+LEMMON, Justice, concurring.
+
+The evidence established that the insurance guaranty law was enacted to protect the Louisiana "citizen on the street" who, either as a claimant or a policy holder, might be injured by the insolvency of an insurance company. See La.R.S. 22:1376. The act excluded most forms of commercial insurance, since these are not generally written for the average citizen. Ocean marine insurance, a form of commercial insurance which insures ships, cargo and goods, is excluded.[1]
+
+The present case involves an employers' liability policy, with a maritime endorsement to provide coverage for damages under the general maritime law or the Jones Act and for maintenance and cure. Such insurance is for the protection and benefit of employees (whether the focus is on the type of policy or on the particular claim under the policy). This is the type of insurance for which the guaranty law was intended to apply.
+
+[1]  46 U.S.C.App. Sec. 688.
+
+[2]  LSA-R.S. 22:1375-1394.
+
+[3]  LSA-R.S. 22:1380, 1376.
+
+[4]  LSA-R.S. 22:1377.
+
+[5]  Sifers v. General Marine Catering Company, Docket No. 85-2374 (E.D.La.1986); appeal docketed, No. 86-3494 (5 Cir.1986); Blair v. Sealift, Inc., Docket No. 84-5367 (E.D.La.1986) [1986 WL 15859]; appeal docketed No. 86-3760 (5 Cir.1986).
+
+[6]  SHRM and LIGA stipulated that SHRM's insolvent insurer, Transit, submitted an annual statement to the Louisiana Insurance Commissioner's office, which included Transit's net direct written premiums. LIGA calculated Transit's assessment based upon that figure. Premiums received by Transit from the issuance of workers' compensation and employers' liability policies and comprehensive general liability policies were a portion of Transit's net direct written premiums.
+
+[7]  Deshotels v. SHRM Catering Services, Inc., 845 F.2d 582, 585 (5 Cir.1988).
+
+[8]  LSA-R.S. 22:1376 states:
+
+"The purpose of this Part is to provide a mechanism for the payment of covered claims under certain insurance policies to avoid excessive delay in payment and to avoid financial loss to claimants or policy-holders because of the insolvency of an insurer, to assist in the detection and prevention of insurer insolvencies, and to provide an association to assess the cost of such protection among insurers."
+
+LSA-R.S. 22:1378 provides:
+
+"This Part shall be liberally construed to effect the purpose under section R.S. 22:1376, which shall constitute an aid and guide to interpretation."
+
+[9]  Docket No. 85-2374 (E.D.La.1986); appeal docketed, No. 86-3494 (5 Cir.1986).
+
+[10]  Docket No. 85-1001 (W.D.La.1988).
+
+[11]  Docket No. 84-5367 (E.D.La.1986) [1986 WL 15859]; appeal docketed, No. 86-3760 (5 Cir. 1986).
+
+[12]  Docket No. 85-0820 (W.D.La.1987); appeal docketed, No. 87-4387 (5 Cir.1987).
+
+[13]  Docket No. 85-2293, 708 F. Supp. 142 (W.D.La.1987).
+
+[14]
+672 F. Supp. 926
+(E.D.La.1987).
+
+[15]  Docket No. 84-3713 (E.D.La.1986) [1986 WL 14185].
+
+[16]  198 F.2d 536 (5 Cir.1952), reh. den. 198 F.2d 1021, vacated and remanded on other grounds, Maryland Cas. Co. v. Cushing,
+347 U.S. 409
+, 74 S. Ct. 608, 98 L. Ed. 806 (1954).
+
+[17]  LSA-R.S. 22:655.
+
+[18]  Cert. denied 382 U.S. 974, 86 S. Ct. 538, 15 L. Ed. 2d 465 (1966), and cert. dismissed 382 U.S. 967, 86 S. Ct. 525, 15 L. Ed. 2d 463 (1966).
+
+[19]  Docket No. 76-920, 32nd Judicial District Court (May 8, 1987).
+
+[20]  Docket No. 58,355-G, 16th Judicial District Court (April 25, 1988); Docket No. 88-732 (La. App. 3 Cir.1988).
+
+[21]  515 So. 2d 809 (La.App. 1 Cir.1987), vacated and remanded per curiam 519 So. 2d 771, 772 (La.1988).
+
+[22]  Exhibit 2, Testimony of Leslie John Buglass, Transcript of trial on the merits held in Sifers v. General Marine Catering Co., et al, supra.
+
+[23]  Parks, The Law and Practice of Marine Insurance and Average, Vol. 1, p. 19 (Cornell Maritime Press, 1987).
+
+[24]  Black's Law Dictionary 723 (5th ed. 1979).
+
+[25]  858 F.2d 842 (2 Cir.1988).
+
+[26]  Armada, supra, at 849.
+
+[27]  Emphasis supplied.
+
+[1]  Life and health insurance were also excluded in the Model Guaranty Association Act because these were already covered by guaranty funds in most states.

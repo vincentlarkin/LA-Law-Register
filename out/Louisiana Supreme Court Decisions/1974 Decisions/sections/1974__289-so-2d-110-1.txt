@@ -1,0 +1,159 @@
+53450
+Jones v. Breaux
+https://law.justia.com/cases/louisiana/supreme-court/1974/289-so-2d-110-1.html
+
+53450
+Jones v. Breaux
+Court: Louisiana Supreme Court
+Release date: 1974-01-14
+Author: BARHAM, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1974/289-so-2d-110-1.html
+
+289 So. 2d 110 (1974)
+
+Albert JONES and Michael J. Francois
+v.
+Onelia BREAUX et al.
+
+No. 53450.
+
+Supreme Court of Louisiana.
+
+January 14, 1974.
+
+Rehearing Denied February 15, 1974.
+
+Sidney P. Landry, Jr., John G. Poteet, Jr., Lafayette, for plaintiffs-applicants.
+
+*111 William O. Bonin, Landry, Watkins, Cousin & Bonin, New Iberia, for defendants-respondents.
+
+BARHAM, Justice.
+
+We granted writs in this case to review the correctness of our decision in Normand v. Hertz Corporation, 254 La. 1075,
+229 So. 2d 104
+(1969), which considered the issue of the liability insurance coverage of a lessee in an automobile rental agreement.
+
+In the instant case, plaintiffs, Albert Jones and Michael Francois, while standing on a street in St. Martinville, were struck by an automobile driven by Onelia Breaux. The 1972 Mercury had been leased by Dwane A. Francis from the Auto-Mart, Inc., in New Iberia, and he was a passenger in the car at the time of the accident. When the accident occurred there was in effect an automobile liability insurance policy issued by Liberty Mutual Insurance Company to the lessor of the car.
+
+The trial court sustained a motion for summary judgment filed on behalf of Liberty Mutual dismissing the action with prejudice. The court said:
+
+The Third Circuit Court of Appeal affirmed the judgment of the trial court, concluding there was no coverage provided in the policy issued by Liberty Mutual under the circumstances.
+
+The rental agreement provides in its paragraph 5:
+
+In section 3 of paragraph 5, the rental agreement provides the policy shall not apply:
+
+Paragraph 1 provides, "In no event shall the vehicle be used, operated or driven" under six classifications. Number 6 provides it is not to be used "by any person except Lessee, or a qualified licensed driver 21 years of age or older named by Lessee on Page 2 and having Lessee's prior consent."
+
+In the middle of page 2 a place is provided for the naming of two persons over the age of 21 whom the Lessee may permit to drive the automobile.
+
+With regard to the term "insured", the insurance policy provides in the omnibus clause:
+
+Plaintiffs in the Court of Appeal, and in their writ application to this Court, concede that Onelia Breaux had no coverage under the Liberty Mutual policy. Because of this concession, we pretermit any consideration of that question. However, they contend that defendant Francis was protected against liability by the policy because at the time of the accident Francis was "using the automobile" and was "legally responsible for the use" of the automobile. As authority for their position plaintiffs cite 4 ALR 3d 10, Omnibus Clause Consent, p. 38 and the cases cited   therein, and 7 Am.Jur.2d, Section 117, Automobile Insurance at p. 435.
+
+Plaintiffs also allege that the rental agreement is violative of R.S. 22:624, 22:628 and 22:655. R.S. 22:624 provides:
+
+"(A) The written instrument, in which a contract of insurance is set forth, is the policy * * *" R.S. 22:628 states:
+
+Plaintiffs argue the omnibus clause must be interpreted with liberality in view of R. S. 22:655:
+
+The rental agreement has vitally and drastically changed the contract of insurance; it limits the application of the omnibus insured clause in derogation of R.S. 22:628. It modifies the contract of insurance, yet is not made a part of the policy. Four limitations of coverage are listed in the rental agreement which attempt to limit coverage to the Lessee, which is provided in the contract of insurance. For example, the fourth limitation placed in the rental agreement excludes coverage C, Division 1 of the Liberty Mutual Insurance Company's policy, the medical payments provision. The purpose of R. S. 22:628 is to furnish both parties with the entire contract between them at the time of the contract's formation to enable them to be informed of its terms. Its aim is to suppress the practice of making documents not annexed to the policy, and of which the insured usually knows nothing, a part of the contract of insurance by reference. In the instant case, defendant did not receive a copy of the insurance policy. He did not even receive a copy of the rental agreement until after he returned the car, which was after the accident complained of. The rental agreement violates R.S. 22:624 and R.S. 22:628.
+
+Moreover, the rental agreement itself is ambiguous. The agreement reads: "Licensee shall provide an automobile liability insurance policy for the benefit of Lessee and others of age 21 or older driving with his prior consent, * * *". This means to the Lessee that he is acquiring, within the liability quantum limitations of the policy, an insurance policy where he, as a named insured has acquired full liability coverage for himself and the usual omnibus insureds, i. e., operators who have his prior consent. The rental agency cannot thereafter propose to provide an insurance policy which covers primarily the rental agency, and then delegate restricted coverage under their policy of insurance to one who believes that he has, by agreement and for premium included within his rental arrangement, acquired a liability insurance policy in his own name, for his own protection and his "permittees".
+
+The ambiguity of the policy is further shown by the statements on page 2 of the rental agreement (the side where the blanks are filled in). The Lessee has a choice between two types of collision coverage protection with varying prices for each. In bold print, just above the place where the Lessee signs the agreement, is stated:
+
+We also take note of plaintiffs' argument that Francis was covered under the policy, since at the time of the accident he was using the automobile and was legally responsible for the use thereof. The policy in question provides the word "insured" includes, "* * * any person while using the automobile and any person or organization legally responsible for the use thereof, provided the actual use of the automobile is by the named insured or such spouse or with the permission of either." Francis was using the automobile and was legally responsible for its use at the time of the accident. He had the named insured's (lessor's) permission to use the automobile. He was covered under the omnibus clause of the policy. Plaintiffs' claims against him should have been allowed.
+
+Plaintiffs support this argument by reference to 4 ALR3d 10 at p. 38:
+
+Where the rule is invoked that a permittee may not allow a third party to "use" the named insured's car, it has generally been held not to preclude recovery under the omnibus clause where (1) the original permittee is riding in the car with the second permittee at the time of the accident, or (2) the second permittee, in using the vehicle, is serving some purpose of the original permittee. It is reasoned that the second permittee is "operating" the car for the "use" of the first permittee and that such "use" is within the coverage of the omnibus clause. It is generally held that operation by a third person under such circumstances falls within the protection of the omnibus clause even where such operation is specifically forbidden by the named insured. Hardware Mut. Casualty Co. v. Mitnick, 180 Md. 604, 26 A.2d 393 (1942); Boudreau v. Maryland Casualty Co., 287 Mass. 423, 192 N.E. 38 (1934); Brooks v. Delta Fire & Casualty Co., 82 So. 2d 55 (La.App.1st Cir. 1955); Harrison v. Carroll, 139 F.2d 427 (4th Cir. 1943); Loffler v. Boston Ins. Co.,
+120 A.2d 691
+(Mun.Ct. App.Dist.Col.1956); Lumbermens Mut. Casualty Co. v. Continental Casualty Co.,
+387 P.2d 104
+(Alaska 1963); are decisions which uphold coverage under the omnibus clause generally on the basis that the permittee was "using" the vehicle or was "legally responsible for its use."
+
+At the time of the accident Francis was "using" the automobile by riding in it as a passenger while Onelia Breaux drove. He was legally responsible for the car. He had rented the car; thus he had the lessor's permission to use it. All of the requirements of the omnibus clause of the insurance policy had been met and Francis was covered. Plaintiffs had a valid claim against him and his liability insurer, Liberty Mutual.
+
+The decision in Normand v. Hertz Corporation, 254 La. 1075,
+229 So. 2d 104
+(1969) is specifically overruled. The motion for summary judgment should have been denied. The case is remanded to the district court for proceedings on the merits and in conformance with this opinion. Casting of costs of all proceedings to await final determination.
+
+Reversed and remanded.
+
+*114 CULPEPPER, J., dissents.
+
+SANDERS, Chief Justice (dissenting).
+
+We granted certiorari in this matter to consider the issue of the liability insurance coverage of a lessee in an automobile rental agreement.
+
+This suit arose when the plaintiffs, Albert Jones and Michael Francois, sued to recover damages for personal injuries sustained by them, when they were struck by an automobile being driven by Mrs. Onelia Breaux. Those named as defendants in this suit are: Mrs. Breaux, the driver; Duane Francis, the lessee; and Liberty Mutual Insurance Company, which issued a policy of liability insurance to the automobile leasing agency.
+
+On September 8, 1972, the trial court sustained a motion for summary judgment filed on behalf of Liberty Mutual Insurance Co. dismissing the action with prejudice. The court held:
+
+Albert Jones and Michael Francois took a devolutive appeal to the Third Circuit Court of Appeal.
+
+The Court of Appeal affirmed the judgment of the trial court, concluding that there was no coverage provided in the policy issued by Liberty Mutual under the circumstances presented.
+
+The facts pertinent to the motion for summary judgment may be briefly stated. While standing on a street in St. Martinville, plaintiffs were struck by a 1972 Mercury automobile, driven by Onelia G. Breaux. Duane A. Francis, who had leased the automobile from Auto-Mart, Inc., was in the vehicle with the driver.
+
+When the accident occurred there was in effect an automobile insurance policy issued by Liberty Mutual to several insureds including Lincoln-Mercury Dealer Leasing Association. I assume that Auto-Mart, the owner and lessor of the car, was a named insured in the policy.
+
+The rental agreement form signed by the defendant, Francis, contained the following provision on page 1:
+
+"In no event shall the vehicle be used, operated or driven (1) for transportation of persons for hire, express or implied; (2) by any person who is less than 21 years of age, or who has given licensee a false or ficticious name, or age or address; (3) in any competitive event; (4) to push or tow any vehicle or trailer; (5) outside the continental United States, Canada, or Hawaii; or (6) by any person except Lessee or a qualified licensed driver 21 years of age or older named by Lessee on Page 2 and having Lessee's prior consent. These restrictions are cumulative, and each of them shall apply to every use, operation or driving of the vehicle." (Italics mine).
+
+On page 2, the rental contract contained the following provision, with no additional drivers listed:
+
+With regard to the term "insured", the insurance policy provides in the omnibus clause:
+
+The plaintiff, in the Court of Appeal and in his application to this Court for writ of review, concedes that Onelia Breaux, the driver, had no coverage under the Liberty Mutual policy.
+
+However, the plaintiff contends that defendant Francis was protected against liability by the policy because at the time of the accident Francis was "legally responsible for the use" of the automobile.
+
+The defendant contends that the case of Normand v. Hertz Corporation, 254 La. 1075,
+229 So. 2d 104
+(1969) is controlling in this matter. I agree. I find no adequate reason to overrule that decision.
+
+The facts of the Normand case parallel those presented in this case. In that case, Hertz Corporation rented a car to Hatcher under the condition that only certain designated persons could drive the vehicle. Due to the fact that he had consumed an excessive amount of alcohol, Hatcher entrusted the driving to his friend, who had also been drinking though not so heavily. With Hatcher's permission, the friend, with Hatcher as an occupant, drove the car and became involved in an accident.
+
+Royal Indemnity Company had issued a liability policy to Hertz wherein it was stipulated that only the following parties were to operate the vehicle:
+
+The policy included the same omnibus clause as that in the present policy.
+
+The argument of the plaintiff in that case, as in this, was that the lessee was covered under the liability policy because the car was being operated with his permission and he was legally responsible for its operation. We denied coverage, stating:
+
+The rental contract is the law between the parties. When that contract prohibits the person operating the car at the time of the accident from driving, there is no coverage under the policy, because the omnibus clause of the policy requires the driver to have the permission of the named insured. See Rogillio v. Cazedessus, 241 La. 186,
+127 So. 2d 734
+(1961).
+
+In the present case, the driver was not listed in the lease contract. Hence, by its terms, she was prohibited from driving the leased vehicle. See Colston v. Liberty Mutual Insurance Co., La.App., 210 So. 2d 152 (1968).
+
+It follows from the terms of the contract, that the lessee cannot be an "insured" covered by the policy. The coverage of the one "legally responsible for the use ..." of the vehicle was conditioned upon the actual use being with the permission of the named insured.
+
+*116 The next argument set forth by the plaintiff is that the clause in the lease agreement which limited the use, operation and driving of the rented vehicle violated LSA-R.S. 22:628-22:629. The contention is that the rental agreement may not modify the policy of insurance.
+
+LSA-R.S. 22:624, Subd. A provides:
+
+This provision is made more explicit when read in conjunction with LSA-R.S. 22:628, which stipulates:
+
+As we held in Normand v. Hertz Corporation, supra, the rental agreement does not "conflict with, modify or extend" the coverage of the insurance policy. It merely defines the permission to drive the automobile as between the lessor and lessee. In my opinion, the majority has erroneously classified the lease contract as an agreement modifying the coverage of the insurance contract.
+
+The final contention of plaintiff is that a material issue of fact is raised under the doctrine of equitable estoppel. According to plaintiff's deposition, attached to the motion for summary judgment, an employee of Auto-Mart, Inc., the lessor, informed plaintiff at the time of the lease that insurance coverage would be afforded any driver who was licensed and 21 years of age.
+
+The contention is without merit. Oral statements of the employee of the named insured cannot alter the terms of the written lease agreement. LSA-C.C. Art. 1901. Neither can his statements create an equitable estoppel against the liability insurer, for his alleged misrepresentations are not chargeable to the liability insurer. See American Bank & T. Co. v. Trinity Universal Ins. Co., 251 La. 445,
+205 So. 2d 35
+(1967).
+
+I conclude, contrary to the majority, that the judgment of the Court of Appeal is correct.
+
+For the reasons assigned, I respectfully dissent.
+
+SUMMERS, Justice (dissenting).
+
+I fully agree with the reasons assigned by the Chief Justice in his very cogent and lucid dissenting opinion. I also adhere to the reasons assigned in Normand v. Hertz Corporation, 254 La. 1075,
+229 So. 2d 104
+(1969).
+
+[1]  See 31 La.L.Rev. 289, commenting: "The opinion seems to be in harmony with the course of recent jurisprudence concerning second permittees."

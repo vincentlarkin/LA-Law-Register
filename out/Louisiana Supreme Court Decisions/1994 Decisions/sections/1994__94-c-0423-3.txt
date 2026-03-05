@@ -1,0 +1,142 @@
+94-C-0423
+Black v. First City Bank
+https://law.justia.com/cases/louisiana/supreme-court/1994/94-c-0423-3.html
+
+94-C-0423
+Black v. First City Bank
+Court: Louisiana Supreme Court
+Release date: 1994-09-06
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1994/94-c-0423-3.html
+
+642 So. 2d 151 (1994)
+
+Elliott B. BLACK III, M.D., a Professional Medical Corporation, and Elliott B. Black, III
+v.
+FIRST CITY BANK, et al.
+
+No. 94-C-0423.
+
+Supreme Court of Louisiana.
+
+September 6, 1994.
+
+*152 Frank M. Buck, Jr., Robert L. Manard, III, Lee A. Archer, New Orleans, for applicant.
+
+Michael E. Wanek, Hulse, Nelson & Wanek, New Orleans, for respondents.
+
+WATSON, Justice.[1]
+
+The issue is whether LSA-R.S. 22:655 allows plaintiff Black a direct action against the insurer of the insolvent defendant, First City Bank, on a forgery and conversion claim.
+
+Plaintiff is Elliott B. Black, III, individually and as a professional medical corporation. Plaintiff Black filed suit against First City Bank when he discovered that his former office manager, Elizabeth Barksdale Nix, had forged endorsements to various checks and deposited them to her credit at the Bank. Damages from the forgery and conversion allegedly exceeded $206,000.
+
+*153 Suit was filed in June, 1989. In July, 1991, the Federal Deposit Insurance Corporation was substituted as a party defendant for the insolvent Bank. The FDIC was dismissed from the suit and the Bank's insurer, Virginia Surety Company, Inc., was added as a party defendant.
+
+Virginia Surety's exception of no right of action was sustained by the trial court which concluded that a direct action was not available because the Bank's insurance policy was an indemnity policy. The court of appeal affirmed. Black v. First City Bank, 93-1401, (La.App. 4th Cir. 1/13/94), 630 So. 2d 8. A writ was granted to review the judgment of the court of appeal. 94-0423, (La. 4/7/94), 635 So. 2d 1141.
+
+Virginia Surety's policy has a no action clause which states:
+
+The policy defines "property" very broadly to include checks, drafts and deposit tickets. A "Securities" endorsement covers losses resulting from the insured giving forged signature value or credit. The policy agrees to indemnify the insured for covered losses, but there is no provision protecting against the insured's insolvency. The policy does not require that the insured's loss be fixed and paid for coverage to attach.
+
+No action clauses shield insurers from paying damage judgments against insolvent insureds. Since 1918, the Direct Action Statute has protected tort claimants against insolvent insureds by allowing direct actions against insurers. Grubbs v. Gulf Intern. Marine, Inc.,
+625 So. 2d 495
+(La.1993). Direct action statutes are remedial legislation which void no action clauses but do not otherwise alter insurers' liabilities. Morewitz v. West of England Ship Owners Mut., 896 F.2d 495 (11th Cir.1990).
+
+LSA-R.S. 22:655(A) states in pertinent part:
+
+LSA-R.S. 22:655(B)(1)(b) provides that a direct action may be brought against the insurer alone when the insured is insolvent.
+
+When an Article 2315 cause of action is alleged, a direct action has been available under LSA-R.S. 22:655. See, for example, Vessel v. St. Paul Fire & Marine Insurance Co., 276 So. 2d 874 (La.App. 1st Cir.1973), where a direct action was allowed against an attorney's malpractice insurer; Gray & Company, Inc. v. Ranger Insurance Company, 292 So. 2d 829 (La.App. 1st Cir.1974), where a direct action was allowed against an insurance agency's errors and omissions insurer; Champion v. Panel Era Mfg. Co., 410 So. 2d 1230 (La.App. 3d Cir.), writ denied, 414 So. 2d 389 (La.1982), where a direct action was allowed against an insulation manufacturer's products liability insurer; and Fidelity Nat. Bank of Baton Rouge v. Aetna Cas. and Sur. Co.,
+584 F. Supp. 1039
+(M.D.La.1984), where a direct action was allowed on a bankers' blanket bond.
+
+Forgery (LSA-R.S. 14:72) and conversion through bank fraud (LSA-R.S. 14:71.1) are crimes which may also constitute torts. See Oge v. Resolute Insurance Company, 217 So. 2d 738 (La.App. 3d Cir.1969), and Bryson v. Bates-Crumley Chevrolet Co., 171 So. 605 (La.App. 2d Cir.1937). Criminal statutes may provide guidelines for civil tort liability. Pierre v. Allstate Insurance Company, 257 La. 471,
+242 So. 2d 821
+(1970).
+
+The Louisiana Insurance Code defines the kinds of insurance in LSA-R.S. 22:6. Liability insurance is defined in subsection (4) as:
+
+There is no codal definition for indemnity insurance. In a broad sense, the term liability insurance "includes both contracts of indemnity against loss and contracts of insurance against liability." Quinlan v. Liberty Bank and Trust Co.,
+575 So. 2d 336
+, 348 (La.1990).
+
+Quinlan decided that LSA-R.S. 22:655 allows a direct action for personal injury and corporeal property damage. When the insurance contract is clearly one of indemnity, a direct action for incorporeal property damage is not available. Under Quinlan, a direct action for incorporeal property damage is available when there is ambiguity as to whether the policy is one of liability or indemnity. Justice Hall's concurrence points out that the Quinlan distinction is not in the statute, which does not distinguish between corporeal and incorporeal loss. We now conclude that the distinction is inconsistent with the remedial purpose of the Direct Action Statute.
+
+The no action clause in Virginia Surety's insurance policy conflicts with the Louisiana Direct Action Statute if the policy is liability insurance. Against what did the policy insure the Bank? Against liability for various and sundry negligent acts or omissions, including the giving of credit on forged instruments. The policy provided that if the Bank became liable to a third party for honoring a forgery, then the insurer would pay the Bank. No real difference exists between this provision and simply providing that the insurance company would be liable to the third party. Making the process two steps instead of one does not alter the fact that the insurance company provided insurance to the Bank against liability. In fact, the policy does not even require that the Bank's loss be fixed or paid before the insurer becomes liable.
+
+This policy which purports to allow an insurer to collect a premium and escape liability if the insured becomes bankrupt is one of the exact evils sought to be prohibited by the Direct Action Statute.
+
+There is no indication that the Louisiana Insurance Code uses the term liability insurance in a narrow sense. On the contrary, the absence of a definition for indemnity insurance indicates that the term is used in a broad sense. The Bank's insurance policy is a liability policy which covers Black's Article 2315 tort claim.
+
+Allowing a direct action here effects the remedial purpose of the Direct Action Statute. Because the insured is insolvent, the insurer is directly responsible for the "loss occasioned during the existence of the policy."
+
+For the foregoing reasons, Virginia Surety's exception of no right of action is dismissed. The judgment of the court of appeal is reversed, and the matter is remanded to the trial court for further proceedings.
+
+REVERSED AND REMANDED.
+
+SHORTESS, J., concurs.
+
+ORTIQUE, J., concurs in the result.
+
+MARCUS and KIMBALL, JJ., dissent and assign reasons.
+
+MARCUS, Justice (dissenting).
+
+I dissent for the reasons assigned by Justice Kimball in her dissenting opinion, finding the policy is not ambiguous.
+
+Moreover, even assuming that the policy was ambiguous, I still feel that the majority's reasoning is faulty. In Quinlan v. Liberty Bank and Trust Co.,
+575 So. 2d 336
+, 347 (La.1990) (on rehearing), we held that the direct action statute applies:
+
+If the policy in the instant case was ambiguous, I might agree with the majority's conclusion that the direct action statute applies.
+
+However, I disagree with the majority's statement that the distinction between corporeal and incorporeal loss is "inconsistent" with the purpose of the direct action statute. I would continue to adhere to this distinction, as set forth in Quinlan. In any event, since this case could be resolved by application of the Quinlan principles, I see no reason to modify that decision.
+
+Accordingly, I respectfully dissent.
+
+KIMBALL, Justice, dissenting.
+
+I write separately because I disagree with the majority's conclusion that the policy in the instant case is one of liability rather than indemnity.
+
+While the majority concludes that this policy, issued by Virginia Surety, Inc. (Virginia Surety) is a liability policy which insured First City Bank (the Bank) against "various and sundry negligent acts and omissions, including the giving of credit on forged instruments," my reading of the policy leads me to conclude that the policy in the instant case is one of indemnity rather than liability.
+
+The majority notes that there is no codal definition for indemnity insurance and maintains that, in a broad sense, the term "liability insurance" includes both contracts of indemnity against loss and contracts of insurance against liability. However, in recent years, this court has had the opportunity to distinguish contracts of liability insurance from contacts of indemnity. See Quinlan v. Liberty Bank and Trust Co.,
+575 So. 2d 336
+(La.1990) and Meloy v. Conoco, Inc.
+504 So. 2d 833
+(La.1987).
+
+In support of its proposition that in a broad sense the term liability insurance includes both contracts of indemnity against loss and contracts of insurance against liability, the majority cites Quinlan, supra, but in Quinlan, we concluded that in legal parlance, the term "liability insurance" is used in both a broad and a narrow sense, and when the term is used in a broad sense it includes both contracts of indemnity against loss and contracts of insurance against liability. On the other hand, when the term "liability insurance" is used in a narrow sense it refers only to contracts of insurance against liability as opposed to contracts of indemnity against loss. See Quinlan at 348. Similarly in Meloy v. Conoco, Inc.
+504 So. 2d 833
+(La. 1987), we noted:
+
+In general, the class into which a particular policy falls "depends upon the intention of the parties to the contract, as evinced by the phraseology of the agreement in such respect in the policy." Quinlan v. Liberty Bank and Trust Co.,
+575 So. 2d 336
+, 349 (La.1990) (on rehearing). If the policy is ambiguous, the ambiguity should be resolved by interpretation that the policy is one against liability rather than one of indemnity against loss actually paid by the insured. Quinlan, supra.
+
+My analysis of this policy's language indicates that the policy is not ambiguous and that the parties intended for this policy to be one of indemnity rather than liability. The agreement between Virginia Surety and the Bank begins, after the endorsements, with the clear and unambiguous statement that Virginia Surety:
+
+This language follows our statement in Quinlan, where we noted, following Meloy:
+
+See Quinlan at 348.
+
+Later in that section of the policy entitled "Notice-Proof-Legal Proceedings," which outlines conditions precedent to recovery, the policy provides:
+
+In my opinion, this language means that whenever the insured sustains loss as a result of its liability to a third party, the insured must bring suit within two years and that the intent of these parties upon entering into this contract was that Virginia Surety would "indemnify" the Bank if or when the bank sustained loss. The meaning of the phrase "sustained loss" therefore becomes critically important.
+
+In its brief, Plaintiff Black argues that this contract should be construed as one of liability because the contract does not contain language providing that all losses must be paid by the insured before the insured is covered by the policy. This contention is incorrect. In Meloy, we specifically stated that "an indemnity contract does not render the indemnitor liable until the indemnitee actually makes payment or sustains loss." See Meloy at 504 So. 2d 839 (emphasis added). In Quinlan, we followed our earlier analysis in Meloy, and added that in an indemnity contract, the insurer is only required to indemnify or make whole the insured "after he has sustained actual loss, meaning after the insured has paid or been compelled to make a payment." See Quinlan at 348 (emphasis added).
+
+Plaintiff Black also argues, relying on the dissent in Quinlan, that the policy is inconsistent with an indemnity policy because of the following language at Coverage 18 of the policy:
+
+While this provision allows Virginia Surety to intercede and protect its rights, Virginia Surety has not assumed a duty to defend the Bank. On the contrary, this provision merely allows Virginia Surety to associate its counsel, and fails to provide the exclusive control contemplated by the dissent in Quinlan.
+
+In this case, the bond begins with the clear statement that Virginia Surety will indemnify the Bank for "loss sustained," a phrase we   have previously defined to mean that the insured has paid or been compelled to make a payment.
+
+In light of the foregoing, I am of the opinion that the policy in this case is one of indemnity rather than liability, and accordingly, the Direct Action Statute, LSA-R.S. 22:655, does not allow Plaintiff Black a direct Action against Virginia Surety, the insurer of the insolvent defendant, First City Bank, on the forgery and conversion claim.
+
+I respectfully dissent.
+
+[1]  Pursuant to Rule IV, Part 2 § 3, Lemmon, J. was not on the panel which heard and decided this case. See the footnote in State v. Barras,
+615 So. 2d 285
+(La.1993); Judge Melvin A. Shortess, Court of Appeal, First Circuit, sitting in place of Justice James L. Dennis.

@@ -1,0 +1,63 @@
+55473
+South La. E. Coop. Ass'n v. Louisiana Pub. Serv. Com'n
+https://law.justia.com/cases/louisiana/supreme-court/1975/309-so-2d-287-1.html
+
+55473
+South La. E. Coop. Ass'n v. Louisiana Pub. Serv. Com'n
+Court: Louisiana Supreme Court
+Release date: 1975-02-24
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/309-so-2d-287-1.html
+
+309 So. 2d 287 (1975)
+
+SOUTH LOUISIANA ELECTRIC COOPERATIVE ASSOCIATION
+v.
+LOUISIANA PUBLIC SERVICE COMMISSION.
+
+No. 55473.
+
+Supreme Court of Louisiana.
+
+February 24, 1975.
+
+Rehearing Denied March 31, 1975.
+
+Stanwood R. Duval, Jr., James M. Funderburk, Duval, Arceneaux & Lewis, Houma, for plaintiff-appellant.
+
+Marshall B. Brinkley, Gen. Counsel, La. Public Service Com'n, Baton Rouge, for defendant-appellee.
+
+Andrew P. Carter, Eugene G. Taggart, Monroe & Lemann, New Orleans, for intervenor-appellee La. Power & Light Co.
+
+MARCUS, Justice.
+
+Louisiana Power & Light Company (LP&L) filed a complaint with the Louisiana Public Service Commission claiming that in 1973 South Louisiana Electric Cooperative Association (SLECA) constructed an electric distribution line to serve Crescent Place Subdivision, Terrebonne Parish, in violation of La.R.S. 45:123, as amended by Act No. 34 of 1970, there being an existing line of LP&L constructed in 1940 located less than 300 feet from the Crescent Place Subdivision. SLECA denied that the "point of connection" was within 300 feet of the LP&L line. After hearing, the Commission ordered SLECA to dismantle the plant constructed to serve the subdivision within sixty days of the order and further ordered that LP&L purchase the underground cable facilities already installed by SLECA in the Crescent Place Subdivision. SLECA appealed to the Nineteenth Judicial District Court,   Parish of East Baton Rouge, and, after affirmance by that court of the Commission's order, lodged an appeal in this court.
+
+The sole issue in this territorial dispute is the interpretation to be given "point of connection" as used in La.R.S. 45:123, as amended by Section 2 of Act No. 34 of 1970. This statute provides as follows:
+
+At the hearing before the Commission, it was established that in 1940 LP&L constructed an electric distribution line along Louisiana State Highway 311 which is still in service. This existing line is located at one point 291.4 feet from the property line of Crescent Place Subdivision. Only a small portion of one lot of the subdivision is located within 300 feet of the electric line on Highway 311. There is no evidence of a meter connection within this area. The lot is designated as park area on the plat of the subdivision. On or about July 16, 1973, SLECA commenced construction of an electric distribution line approximately two miles from Hollywood Road to Crescent Place Subdivision. The cost of this line was $28,032.87. Additionally, SLECA constructed underground facilities inside the subdivision at a cost of $21,914.77. The latter figure included the cost of ten street light standards of approximately $2,500.00.[1] The construction of these facilities   is claimed by LP&L to be an invasion of its service area and in violation of La.R.S. 45:123.
+
+SLECA contends here, as it did before the Commission and district court, that the evidence adduced shows that there is no "point of connection" within 300 feet of the existing LP&L line on Highway 311. It is admitted that a portion of one lot of Crescent Place Subdivision is located within 300 feet of this line, but it is SLECA's interpretation of this phrase that there must be actual connection to a house meter. It construes "point of connection" to mean the point where the service hooks up to the individual house meter.
+
+On the other hand, LP&L contends that "point of connection" in La.R.S. 45:123 refers to the subdivision as a whole, and it does not apply to each individual meter connection in the Crescent Place Subdivision.
+
+The Commission considered that "point of connection" in R.S. 45:123 meant "area" and the district court interpreted it to relate to "subdivision as a whole." We hold this to be erroneous, for it substitutes "area" or "subdivision as a whole" for the phrase "point of connection" which in itself is clear and unambiguous.
+
+It would be illogical to hold this phrase means anything other than actual meter connection. We cannot assume that the legislature meant something other than that stated with particular clarity. "Point of connection" are usual, ordinary words without technical meaning. They do not need definition. In layman's language, it is the point of actual connection of electric service by the utility to the customer. This is commonly known as a meter connection. Hence, we hold "point of connection" as used in R.S. 45:123 to mean meter connection.
+
+We are fortified in this conclusion by the fact that it lends itself to clear and certain application. The distance between the point of connection (meter connection) and the existing electric line can easily be ascertained by measurement. "Area" or "subdivision as a whole" would make this determination much more difficult. Obviously, the legislature intended, by the enactment of this statute, to make its application clear and easy. If it had intended otherwise, it would have been a simple matter to use "area" in its stead.
+
+Under the Commission's and district court's interpretation, the entire area of the subdivision, as in this instance, or that of an industrial complex (if such were the case), would be included in the exclusive right to serve under R.S. 45:123 if any portion of the area, no matter how small, was within 300 feet of an electric line constructed prior to April 1, 1970. It may well be that, under some circumstances, this area would extend for many miles. Furthermore, in many cases, it might prove difficult to ascertain the area involved. For example, in this case, would the exclusive right of LP&L to serve extend to the future development of other lots in the subdivision? Also, a portion of the extended area might well come within 300 feet of another existing electric line which would create a dispute as to which utility had exclusive right to serve. In our view, it was some of these problems that the legislature intended to eliminate by its enactment of the 1970 amendment which is much more restrictive in the grant of exclusive right to serve under given circumstances than the prior R.S. 45:123 (Section 2 of Act No. 254 of 1936).[2] The result of our interpretation will make certain the area of   exclusive jurisdiction and reduce the possibility of territorial disputes between electric utilities. Furthermore, it will be a simple matter to ascertain where an electric utilities facilities connect to facilities of its customers. We feel that our interpretation not only conforms to the letter of the law, but also reflects the spirit and intent of the law enacted in 1970.
+
+Thus, since there is no point of connection (meter connection) in that portion of Crescent Place Subdivision which is located within 300 feet of the existing line of LP&L on Highway 311, there is no violation of R.S. 45:123, and the demands of LP&L must be rejected.
+
+For the reasons assigned, the judgment of the district court is reversed and set aside; Order No. U-12435 of the Louisiana Public Service Commission is annulled; the claims of LP&L are rejected at its cost.
+
+BARHAM, J., dissents.
+
+[1]  The developer of Crescent Place Subdivision had initiated the development of about 100 lots. He had approximately 300 acres in all. He entered into negotiations with SLECA, as well as with LP&L, concerning electric service to the subdivision. SLECA made no charges for underground facilities and street light standards. Negotiations with LP&L resulted in an agreement not to make any additional charges for underground facilities. The first plan submitted by LP&L was rejected by the developer, as it contained submersible transformers. The developer also objected to paying for the cost of street lights ($2,500.00). The second plan submitted had pad-mounted transformers. Later, the developer rejected the service offered by LP&L and accepted the service offered by SLECA. Thereafter, SLECA constructed the electric distribution lien from Hollywood Road to the subdivision, as well as the underground facilities and street light standards. LP&L also constructed an additional line running almost parallel to the line of SLECA coming from the opposite direction.
+
+[2]  Formerly, La.R.S. 45:123 (Section 2 of Act No. 254 of 1936) read as follows:
+
+In order to encourage a further development of coordinated statewide electrification based upon a planned economy, an electric public utility shall not render or extend its electric services or facilities to customers already receiving electric service from another electric public utility without first obtaining a certificate of public convenience and necessity from the Louisiana Public Service Commission. The Commission shall grant such a certificate only in the event that the electric service already being rendered is inadequate, or that the rates for such electric service are unreasonable.

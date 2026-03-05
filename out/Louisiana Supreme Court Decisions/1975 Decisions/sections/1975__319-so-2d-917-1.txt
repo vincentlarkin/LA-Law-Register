@@ -1,0 +1,79 @@
+56435
+State v. Curry
+https://law.justia.com/cases/louisiana/supreme-court/1975/319-so-2d-917-1.html
+
+56435
+State v. Curry
+Court: Louisiana Supreme Court
+Release date: 1975-10-01
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/319-so-2d-917-1.html
+
+319 So. 2d 917 (1975)
+
+STATE of Louisiana, Appellee,
+v.
+Leon CURRY, Appellant.
+
+No. 56435.
+
+Supreme Court of Louisiana.
+
+October 1, 1975.
+
+Murphy W. Bell, Director, Fred Blanche, III, Trial Atty., Roland T. Huson, III, Appellate Counsel, Baton Rouge, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie Brown, Dist. Atty., Robert H. Hester, Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant was convicted of simple burglary, La.R.S. 14:62, and sentenced to nine years at hard labor. He appeals, arguing two errors as reversible. We find merit in neither contention.
+
+The defendant contends that it was improper for the prosecutor to read to prospective jurors the provisions of La.R.S. 15:432, especially: "A legal presumption relieves him in whose favor it exists from the necessity of any proof; but may none the less be destroyed by rebutting evidence; such is the presumption . . . that the person in unexplained possession of property recently stolen is the thief * * *."
+
+The sole basis of the argument is that the presumption unconstitutionally compels the defendant to take the stand to rebut the presumption of guilt thereby established. Assignment of Error No. 1. In brief, it is also argued that the presumption also infringes upon the presumption of innocence to which an accused is entitled under the Louisiana Constitution of 1974, Article 1, Section 16. See also Hargrave, The Declaration of Rights of the Louisiana Constitution of 1974, 35 La.L.Rev. 1, 53, 55 (1974).
+
+We rejected similar contentions in State v. Womack,
+283 So. 2d 708
+(La.1973). We pointed out that the presumption creates only prima facie evidence of guilt of the theft, but it does not compel the defendant to testify to it any more than does any other circumstantial evidence indicating guilt. See also State v. McQueen,
+278 So. 2d 114
+(La.1973).
+
+Thus, the defendant is free to testify or not, as he sees fit, or to produce evidence other than his own testimony which disproves his guilt of the theft. See also United States v. Gainey,
+380 U.S. 63
+, 85 S. Ct. 754, 13 L. Ed. 2d 658 (1965). The jury is permitted to, but not required to, find the presumed fact; for in Louisiana the jury or trier of fact has exclusive power to determine the facts as to guilt or innocence, La.C.CR.P. art. 802, and must acquit unless the accused's guilt is determined beyond a reasonable doubt, La.C.Cr. P. art. 803. See Turner v. United States,
+396 U.S. 398
+, 90 S. Ct. 642, 24 L. Ed. 2d 610 (1970).
+
+The defendant also contends that the State's use of peremptory challenges to exclude two blacks from service on the petit jury was an unconstitutional effort to exclude any black juror from the trial of the defendant, a black. Assignments of Error 2 and 4. We have held that the motive for exercise of a peremptory challenge in such instances is ordinarily not subject to judicial review, State v. Carter,
+301 So. 2d 612
+(La.1974), at least in the absence (as here) of evidence of systematic exclusion of black jurors from the justice system over a period of time, State v. Gray,
+285 So. 2d 199
+(1973).
+
+We therefore affirm the conviction and sentence.
+
+Affirmed.
+
+BARHAM, J., dissents with reasons.
+
+BARHAM, Justice (dissenting).
+
+I am constrained to disagree with the majority's disposition of defendant's assignment of error No. 1; I believe the trial court erred in permitting the prosecutor to read to prospective jurors the provisions of La.R.S. 15:432, insofar as they define "legal presumption" and delineate the presumption that a person in unexplained possession of property recently stolen is the thief. The majority states that the jury is permitted, but not required to, find the presumed fact. In my opinion, this statement by the majority ignores the plain meaning of the first sentence of La.R.S. 15:432, which states unequivocally that:
+
+*919 Since a juror is sworn to accept the law as given to him by the court, a charge on the basis of La.R.S. 15:432 would, in my opinion, mandate that the juror relieve the State of the burden of proving a defendant a thief in the face of a showing that the defendant possessed recently stolen property. In my opinion, the statutory definition of presumption, and the presumptions enumerated in La.R.S. 15:432, dictate certain jury findings which violate a defendant's constitutional rights.
+
+In his treatise on evidence, McCormick states:
+
+In the instant case, and under our statutory law as it now reads, the jurors have no such option. They must find the fact established by the application of the legal presumption, no other proof being necessary.
+
+Since this Court last approved the presumption we here consider in State v. Womack,
+283 So. 2d 708
+(La.1973), and State v. McQueen,
+278 So. 2d 114
+(La. 1973), the people of the State of Louisiana have adopted a new Constitution which for the first time raises to the dignity of an articulated constitutional right the presumption of innocence. La.Const. Art. I, § 16. This presumption of innocence, so fundamental to our system of criminal justice, has heretofore been derived by inference from the United States Constitution and earlier Louisiana constitutions. Never before, however, have the people of Louisiana seen fit to dignify this fundamental right by explicit inclusion in the highest law of the state. This articulated reaffirmation of the right to be presumed innocent until proven guilty beyond a reasonable doubt is very significant and clearly indicates to me the intent of the people of Louisiana to have this presumption override the statutory presumptions which effectively emasculate it.
+
+In dissents filed to the Court's opinions in the Gainey and Turner decisions, Mr. Justice Black expressed the view that the statutory inferences involved in those cases deprived the defendants of their constitutional rights to a trial by jury, to due process of law and to the Fifth Amendment right not to be compelled to be a witness against oneself. Mr. Justice Black further expressed his view that the effect of the use of the presumptions approved in those cases deprived the defendants of the benefit of the presumption of innocence. In this case, more than in those, the application of the presumption read to the prospective jurors would have those effects, in my opinion. The specific inclusion of the presumption of innocence in our new state Constitution, which presumption is effectively violated by the application of the presumption read to the prospective jurors in this case, clearly exhibits the error of which this defendant complains.
+
+I respectfully dissent.

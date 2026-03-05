@@ -1,0 +1,162 @@
+80-K-1814
+State v. Foy
+https://law.justia.com/cases/louisiana/supreme-court/1981/80-k-1814-1.html
+
+80-K-1814
+State v. Foy
+Court: Louisiana Supreme Court
+Release date: 1981-01-26
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1981/80-k-1814-1.html
+
+401 So. 2d 948 (1981)
+
+STATE of Louisiana
+v.
+Carl Ray FOY and Arthur Berry.
+
+No. 80-K-1814.
+
+Supreme Court of Louisiana.
+
+January 26, 1981.
+
+Dissenting Opinion January 30, 1981.
+
+On Rehearing July 2, 1981.
+
+Raymond L. Cannon, Indigent Defender Program, Tallulah, for defendants-relators.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., James D. Caldwell, Dist. Atty., Crawford A. Rose, Asst. Dist. Atty., for plaintiffs-respondents.
+
+*949 WATSON, Justice.
+
+Defendants' application for supervisory writs was granted to consider their contention that this prosecution by the State places them twice in jeopardy for the offense of simple burglary.
+
+Defendants, Carl Ray Foy and Arthur Berry, were arrested for breaking into the Tallulah High School. They pleaded guilty in the Tallulah Mayor's court to violation of three city ordinances including Section 12-71 of the City Code, burglary. Each was sentenced to a fine of $100 or thirty days in jail on the burglary charge. Defendants paid the fines.
+
+Subsequently, the State charged defendants with simple burglary of the Tallulah High School in violation of LSA-R.S. 14:62. The trial court denied a motion to quash the informations on the basis of double jeopardy, adopting the State's argument that the Mayor's court did not have jurisdiction over the felony offense of burglary. LSA-Const. 1974, Art. 6 § 9(A)(1) provides that "[n]o local governmental subdivision shall... define and provide for the punishment of a felony...". The trial court concluded that the Legislature's definition of simple burglary as a felony offense had preempted the authority of a local government to punish the same conduct.
+
+LSA-Const. 1974, Art. 1 § 15 provides that "[n]o person shall be twice placed in jeopardy for the same offense...". Multiple punishments for the same offense are prohibited. North Carolina v. Pearce,
+395 U.S. 711
+, 89 S. Ct. 2072, 23 L. Ed. 2d 656 (1969). When the same conduct violates two statutory provisions, the offenses are identical for double jeopardy purposes unless each requires proof of an additional fact that the other does not. Brown v. Ohio,
+432 U.S. 161
+, 97 S. Ct. 2221, 53 L. Ed. 2d 187 (1977); Blockburger v. United States,
+284 U.S. 299
+, 52 S. Ct. 180, 76 L. Ed. 306 (1932); State v. Doughty,
+379 So. 2d 1088
+(La.,1980).
+
+Section 12-71 of the City Code of Tallulah provides that burglary "... is the unauthorized entering of any vehicle, watercraft, dwelling or other structure, movable or immovable, with the intent to commit any forcible felony or any theft therein." The ordinance tracks the language of LSA-R.S. 14:62 and therefore defines the same offense as the state law. LSA-C.Cr.P. art. 596; State v. Doughty, supra. The fact that one provision is a city ordinance and the other a state statute does not defeat double jeopardy protection. Waller v. Florida,
+397 U.S. 387
+, 90 S. Ct. 1184, 25 L. Ed. 2d 435 (1970).
+
+The State contends that the Mayor's court in Tallulah had no jurisdiction over the offense of burglary, because of LSA-C. Cr.P. art. 595 which provides that "[a] person shall not be considered as having been in jeopardy in a trial in which ... [t]he court was illegally constituted or lacked jurisdiction...". The article embodies a fundamental principle of double jeopardy law. Grafton v. United States,
+206 U.S. 333
+, 27 S. Ct. 749, 51 L. Ed. 1084 (1907).
+
+LSA-R.S. 33:401, states that:
+
+LSA-R.S. 33:441 provides for the establishment of Mayor's courts in municipalities "with jurisdiction over all violations of municipal ordinances," and LSA-R.S. 33:401(A)(32) authorizes punishment for each such violation by a fine of up to $200 or 30 days in jail. "... Mayor's courts are courts which have jurisdiction to conduct trials, determine guilt, and impose sentences including fines and imprisonment for breach of municipal ordinances." Sledge v. McGlathery,
+324 So. 2d 354
+at 356 (La.,1975).
+
+LSA-R.S. 33:401(A)(6), supra, and municipal ordinances passed under its authority, and presumed valid. Cf., State v. Skinner,
+358 So. 2d 280
+(La.,1978); State v. Everfield,
+342 So. 2d 648
+(La.,1977). A defendant   in custody for violation of an ordinance enacted by authority of LSA-R.S. 33:401(A)(6) has standing to contest the constitutionality of that statute under LSA-Const. 1974, Art. 6 § 9(A)(1). LSA-C. Cr.P. art. 362. The State does not. State v. Suire,
+319 So. 2d 347
+(La.,1975).
+
+The Mayor's court of Tallulah exercised jurisdiction within its statutory limits. Defendants have paid their fines for violation of a municipal ordinance and they have been discharged from custody. Their prosecution in the Mayor's court has ended.[1] Double jeopardy protection prevents the State from litigating a collateral constitutional question, as a prelude for retrying them under a different statute and punishing them a second time for the same offense. Brown v. Ohio, supra; State v. Doughty, supra.
+
+Accordingly, the judgment of the trial court is reversed and the motion to quash is sustained; the charge of simple burglary in violation of LSA-R.S. 14:62 against defendants is dismissed.
+
+REVERSED AND RENDERED.
+
+MARCUS and LEMMON, JJ., dissent and assign reasons.
+
+BLANCHE, J., dissents.
+
+MARCUS, Justice (dissenting).
+
+Since La.Const. art. 6, § 9(A)(1) (1974) prohibits the City of Tallulah from enacting an ordinance defining and providing for the punishment of a felony, I do not consider that the mayor's court had jurisdiction to accept a guilty plea to a violation of the ordinance in question. Hence, defendants were not in jeopardy since the court lacked jurisdiction. La. Code Crim.P. art. 595. Accordingly, I respectfully dissent.
+
+LEMMON, Justice, dissenting.
+
+A reasonable interpretation of La.Const. art. 6, § 9 (1974) prohibits a municipality not only from imprisoning a person at hard labor, but also from prosecuting a person for conduct which the Legislature has determined to be serious enough to warrant imprisonment at hard labor. Thus, the state has preempted the field in prosecuting such conduct.
+
+The majority interpretation is dangerous. Carried to its extreme, that interpretation would allow a municipality to enact an ordinance prohibiting the specific intent killing of a human being and would thereafter permit a murderer, who is a political crony of the mayor, to rush to the mayor's court and plead guilty to a misdemeanor, thereby precluding prosecution in state court. Perhaps this extreme example poses no real threat, but between the black and white extremes are various shades of gray that offer abundant opportunities for abuse. The constitution prevents such abuse by denying to municipal governments the authority to enact ordinances such as the one that formed the basis for prosecution in the mayor's court in this case. I would hold that defendant has not previously been in jeopardy because the mayor's court lacked jurisdiction to prosecute him. C.Cr.P. art. 595.
+
+PER CURIAM.
+
+On rehearing, the original opinion of this court is reinstated.
+
+DENNIS, J., concurs with reasons.
+
+BLANCHE, J., dissents.
+
+LEMMON, J., dissents and assigns reasons.
+
+MARCUS, J., dissents for reasons assigned in his dissent on original hearing.
+
+DENNIS, Justice, concurring.
+
+I respectfully concur.
+
+The underlying question which caused us to grant a rehearing is the one noted but not answered by Justice Tate in his concurring   opinion in State v. Suire,
+319 So. 2d 347
+, 351 (La.1975):
+
+I voted to grant a rehearing because of the state's argument in its application for rehearing that we cannot continue as in the past to rely on co-ordinated law enforcement policies to avoid the possibility of abuse represented by offenders who rush to municipal courts to plead guilty and avoid more serious punishment in state court. However, after an extensive examination of the transcripts of the constitutional convention debates, I frankly cannot find any solid evidence that it was the intention of either the delegates or the voters to exempt from local regulation all conduct which the state legislation punishes as a felony. Instead, on the present record, I am forced to conclude that the constitutional intent was merely to limit the power of municipalities to the imposition of punishment without hard labor for a violation of a municipal regulation.
+
+I feel that it should be noted, however, that the abuses referred to in the state's application for rehearing and oral argument on rehearing indicate a possible need for legislative attention to the problem of concurrent state and local jurisdiction of criminal prosecutions based on felonious conduct.
+
+LEMMON, Justice, dissenting.
+
+La.Const. Art. VI, § 9 (1974) denies a local governing body the authority to "define and provide for the punishment of a felony". This case presents the issues of (1) whether Section 9 renders unconstitutional the ordinance under which defendants were convicted and (2) whether the proceedings in the Mayor's Court placed defendants in jeopardy, thereby precluding further prosecution for the burglary. The underlying question is whether a municipality can adopt an ordinance tracking the language of a state statute which defines a felony offense and thereby effectively preclude the state from prosecuting those whom the mayor prosecutes first.[1]
+
+In State v. Suire,
+319 So. 2d 347
+(La.1975) similar issues were presented in the context of the provision of the Louisiana Constitution of 1921. This court held that the municipal ordinance which defined and punished aggravated battery (a felony under R.S. 14:34) was validly enacted, so that defendant's conviction in the Mayor's Court for aggravated battery under the ordinance effectively barred his prosecution for aggravated battery under the state statute. This result was supported by well established principles of double jeopardy. See Waller v. Florida,
+397 U.S. 387
+, 90 S. Ct. 1184, 25 L. Ed. 2d 435 (1970); Grafton v. United States,
+206 U.S. 333
+, 27 S. Ct. 749, 51 L. Ed. 1084 (1907); C.Cr.P. arts. 591, 596, 597. In a special concurring opinion in the Suire case, Justice Tate (then a member of this court and a former member of the convention which framed the Louisiana Constitution of 1974) noted the differences between the applicable language of the 1921 Constitution and the 1974 Constitution.
+
+The language of the present constitutional provision which proscribes the municipal enactment of an ordinance "defining and   punishing a felony" was obviously designed to accomplish two related goals. The first, of course, was to prohibit a municipality from providing for imprisonment at hard labor as a punishment for conduct which is proscribed by municipal ordinance. Cities traditionally have enacted ordinances which prohibit various activities involving the control of domestic animals, the disposition of trash, the regulation of traffic, and the like. See R.S. 33:401, by which the Legislature has authorized municipal governments to enact "police regulations necessary for the preservation of good order and the peace". La.Const. Art. VI, § 9 (1974) assures that persons convicted of violating such ordinances will not be subject to imprisonment at hard labor or to the other attendant consequences of a felony conviction.[2]
+
+The constitutional provision also may be interpreted as intending to assure preemption by the state of prosecution for criminal conduct which the Legislature has determined to be serious enough to warrant imprisonment at hard labor. In light of the double jeopardy implications of municipal prosecutions for such crimes, if constitutionally valid, this is arguably the only reasonable construction of the provision. If the intention of the constitution is that only the Legislature may provide for imprisonment at hard labor as a punishment for specific conduct, then it is logical when the Legislature determines that certain conduct should expose a person to such imprisonment, the municipal government should be precluded from deciding that such conduct should be less severely penalized.[3]Waller v. Florida, above.
+
+The Code of Criminal Procedure formerly provided that prosecution under municipal ordinances did not preclude prosecution under a "law enacted by the Louisiana Legislature". See C.Cr.P. art. 597; former R.S. 15:275. It was not until after the United States Supreme Court's decision in Waller (which held that trial on a municipal ordinance violation, which resulted in imposition of a jail sentence, precluded prosecution on state felony charges based on the same act when the ordinance violation was an included offense of the felony charge) that C.Cr.P. art. 597 was amended to reflect Louisiana's present statutory position. See Act 1972, No. 648. Prior to the 1970 Waller decision there was no reason for the constitution to preclude such overlapping of criminal prosecutions. However, the Waller decision arguably provided the impetus for including in the 1974 Constitution a prohibition against a municipal government's defining as a misdemeanor any conduct defined as felonious by the Legislature.
+
+Moreover, it is logical to construe the provision in the present constitution as intended to prevent the possibility that a person, situated similarly to the defendants in the present case, can rush into a mayor's court, plead guilty, pay a fine, and effectively insulate himself from prosecution for a crime punishable by a substantial period of imprisonment at hard labor.
+
+The ordinance under which the defendants were charged before the Mayor's Court defines burglary in the same terms as those used by the Legislature in R.S. 14:62.[4] The   ordinance is therefore unconstitutional, because the municipality, by defining as a misdemeanor that conduct which the Legislature has already defined as a felony, has enacted an ordinance beyond its constitutional authority. To allow a municipality to enact such an ordinance would be to allow the municipality to confer upon a defendant the option to plead or to be tried for the same conduct either as a misdemeanor or as a felony.
+
+A mayor's court has jurisdiction to receive guilty pleas in cases of violations of valid municipal ordinances.[5] R.S. 33:441. However, since a municipality cannot constitutionally confer jurisdiction by enacting an ordinance which defines and punishes a felony, the Mayor's Court lacked jurisdiction to prosecute the defendants in this case. Under C.Cr.P. art. 595(1) and (3) double jeopardy does not preclude the state prosecution sought to be dismissed.
+
+The trial court properly denied the motion to quash.
+
+[1]  As in Suire, 319 So. 2d 349, n. 2, there is no evidence of a collusive effort to avoid State prosecution.
+
+[1]  The district attorney, under La.Const. Art. V, § 26 (1974), has "entire charge" of prosecutions by the state. He has no such control over the prosecutions by the municipality in the mayor's court under municipal ordinances. As will be amplified more fully, in cases involving conduct which the Legislature has branded as felonious, the district attorney is vested constitutionally with responsibility for the prosecution. See Guidry v. Roberts,
+335 So. 2d 438
+(La.1976). The majority's result in this case might tend to undermine what appears to have been the district attorney's intended power and responsibility.
+
+[2]  This is obviously a necessary measure. Otherwise, a local government could, for example, enact an ordinance defining criminal trespass or first offense driving under the influence of alcohol as a felony. Even though such cases may be prosecuted by the district attorney, La.Const. Art. V, § 26 (1974), in the district court, La.Const. Art. V, § 16 (1974), such a local ordinance would have the same effect as the enactment of a "local felony", something which the Legislature may not do under La. Const. Art. III, § 12(A)(10) (1974). The combined effect of the articles is to provide that conduct, which may be defined as an offense only in a particular municipality, may only be penalized as a misdemeanor.
+
+[3]  This proscription does not totally eliminate the problem. The municipality could define and prohibit a lesser included misdemeanor offense. Prosecution by municipal authorities for the lesser offense (in the absence of collusion) arguably bars prosecution by the district attorney for the greater felony offense. C.Cr.P. art. 596(1).
+
+[4]  The ordinance also provides for a relatively minor penalty when compared to the penalty provided by the Legislature for the same conduct. The maximum penalty of a municipal ordinance is set forth in R.S. 33:401(A)(32) which provides as follows:
+
+"To pass all ordinances and to enforce the same by fine not to exceed two hundred dollars or imprisonment not exceeding thirty days, or both, provided that ordinances prohibiting the operation of a motor vehicle by a person under the influence of intoxicating liquor or narcotic drugs may provide for a punishment not to exceed a fine of five hundred dollars or imprisonment not exceeding sixty days, or both."
+
+The penalty provided by R.S. 14:62 for simple burglary is imprisonment with or without hard labor for not more than twelve years.
+
+[5]  On original hearing, the majority treated the municipal conviction as "presumptively valid" and not subject to "collateral attack" by the state. If valid at all, the "collateral attack" argument is not persuasive in this case, since defendants (1) did not contest their guilt in an adversary trial and (2) received only a fine (which presumably may be refunded). Whether the "collateral attack" argument is valid in a case of a contested determination of guilt or of a sentence of imprisonment is not here presented. Some courts, however, have held that jeopardy has not attached, even if the defendant has actually been deprived of liberty or property, when the court was without jurisdiction. See Commonwealth v. Lovett, 374 Mass. 394,
+372 N.E.2d 782
+(1978); Parks v. State, 41 Md.App. 381,
+397 A.2d 212
+(Md.1979).

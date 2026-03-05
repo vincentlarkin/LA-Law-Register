@@ -1,0 +1,103 @@
+80-C-2577
+McCraine v. Hondo Boats, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-2577-1.html
+
+80-C-2577
+McCraine v. Hondo Boats, Inc.
+Court: Louisiana Supreme Court
+Release date: 1981-05-18
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-2577-1.html
+
+399 So. 2d 163 (1981)
+
+Mary McCRAINE
+v.
+HONDO BOATS, INC. and Anchor Marine, Inc.
+
+No. 80-C-2577.
+
+Supreme Court of Louisiana.
+
+May 18, 1981.
+
+Rehearing Denied June 22, 1981.
+
+*164 Charles R. Moore, of Moore & Walters, Charles A. O'Brien, III, of Franklin, Moore & Walsh, Baton Rouge, for plaintiff-applicant.
+
+Ralph Brewer, Baton Rouge, Vance R. Andrus, of Andrus & Preis, Lafayette, Stephen R. Wilson, of Keogh & Keogh, Lawrence R. Anderson, Jr., of Anderson, Anderson & Steffes, Baton Rouge, for defendant-respondent.
+
+MARCUS, Justice.
+
+Mary McCraine instituted this action on August 2, 1979, to recover damages for personal injuries sustained while a passenger in a pleasure boat. The claim was asserted to be within the admiralty and maritime jurisdiction of the United States and filed in the state court pursuant to the "saving to suitors" clause of 28 U.S.C. § 1333. Named defendants were Hondo Boats, Inc., manufacturer of the boat, Anchor Marine, Inc., seller of the boat, and Robert S. Richardson, owner and operator of the boat on the day of the accident.
+
+Plaintiff alleged in her petition that on May 21, 1978, she was a passenger in the boat traveling in the Amite River Diversion Canal, part of the intercoastal waterway and a navigable waterway of the United States. Plaintiff was seated facing the rear of the boat when it accelerated and struck the wake of another vessel causing plaintiff to be thrown to the deck and to slide against the exposed engine of the boat receiving serious burns. Plaintiff sought recovery against Hondo because its design of the boat made it unreasonably dangerous under normal use, Anchor Marine because it was negligent in selling a boat it knew or should have known was defective and dangerous in normal use, and Richardson because he was negligent in owning and maintaining a dangerous instrumentality.
+
+Anchor Marine answered, generally denying the allegations of plaintiff's petition and affirmatively asserting the negligence and/or assumption of risk of plaintiff as a bar to her recovery. It further asserted a third party demand against Hondo and Richardson. Hondo filed exceptions of improper citation and service of process and lack of jurisdiction. Hondo also filed an exception of prescription, asserting that since the alleged accident resulting in personal injuries to plaintiff occurred on May 21, 1978 but suit was not filed until August 2, 1979, the action had prescribed by the one-year prescriptive period (La.Civ.Code art. 3536) under state law. It denied that the present action arose under admiralty and maritime laws of the United States; therefore, the limitation period for filing suit was not controlled by the doctrine of laches. The other defendants joined with Hondo in its exception of prescription. The trial court overruled Hondo's exceptions of improper citation and service of process and lack of jurisdiction. However, finding that the cause of action was not properly within the admiralty and maritime jurisdiction, the trial court maintained the exception of prescription and dismissed plaintiff's suit as to all defendants. The third party demand of Anchor Marine against Hondo was likewise dismissed. Plaintiff appealed. The court of appeal affirmed.[1] On plaintiff's application, we granted certiorari to review the correctness of that decision.[2]
+
+The sole issue presented for our determination is whether plaintiff's claim constitutes a maritime tort under the admiralty jurisdiction. If so, under the doctrine of laches, suit may be brought within any reasonable period that does not prejudice the   defendants' ability to defend.[3] If the claim is not within the admiralty jurisdiction, the Louisiana prescriptive period of one year controls and plaintiff's suit would not be timely.
+
+The United States constitution provides that the judicial power of the United States extends to "all Cases of admiralty and maritime Jurisdiction." U.S.Const. Art. III, § 2. This constitutional grant of federal jurisdiction is codified in 28 U.S.C. § 1333 which provides in pertinent part:
+
+Hence, in the instant case, plaintiff had the option to bring suit either in federal court pursuant to its admiralty jurisdiction or, under the saving to suitors clause, in the appropriate non-maritime court, federal or state, by ordinary civil action. However, regardless of in which court the action is brought, the federal substantive admiralty or maritime law (including the doctrine of laches) applies if the claim is one cognizable in admiralty. Atlantic & Gulf Stevedores, Inc. v. Ellerman Lines,
+369 U.S. 355
+, 82 S. Ct. 780, 7 L. Ed. 2d 798 (1962); Pope & Talbot, Inc. v. Hawn,
+346 U.S. 406
+, 74 S. Ct. 202, 98 L. Ed. 143 (1953); Garrett v. Moore-McCormack Company,
+317 U.S. 239
+, 63 S. Ct. 246, 87 L. Ed. 239 (1942).
+
+For many years, the standard for determining whether a tort was "maritime" and thus within the admiralty jurisdiction was that established in The Plymouth, 70 U.S. (3 Wall.) 20, 18 L. Ed. 125 (1866), which only required that, in order for maritime law to govern an action, the wrong must have occurred on navigable waters. This "strict locality test" was repeatedly applied by the courts;[4] however, by 1972, several lower federal courts had deviated from this test. The Sixth Circuit Court of Appeals required that, in addition to sustaining injury in a maritime location, the tort must have a "maritime connection." Chapman v. City of Grosse Pointe Farms, 385 F.2d 962 (6th Cir. 1967). The Fifth Circuit Court of Appeals considered that the facts and circumstances of each claim must have a "substantial connection with maritime activities or interests" in order to invoke the admiralty jurisdiction. Peytavin v. Government Employees Insurance Company, 453 F.2d 1121 (5th Cir. 1972).
+
+The United States Supreme Court again addressed the requirements for admiralty jurisdiction in tort cases in Executive Jet Aviation, Inc. v. City of Cleveland, Ohio,
+409 U.S. 249
+, 93 S. Ct. 493, 34 L. Ed. 2d 454 (1972). In that case, plaintiff's airplane lost power while taking off from defendant's airport after ingesting seagulls into its engines and crashed and sank in Lake Erie, a navigable body of water. Plaintiff filed suit in federal court contending that there was admiralty jurisdiction under The Plymouth's locality rule. The Court concluded that the mere fact that the wrong occurred or was located on or over navigable waters was not of itself sufficient to turn an airplane negligence case into a maritime tort. Rather, the Court found it "far more consistent with the history and purpose of admiralty to require also that the wrong bear a significant relationship to traditional maritime activity." Under the facts of Executive Jet, the Court found no such relationship and thus no admiralty jurisdiction over aviation tort claims arising from flights of land-based aircraft between points within the continental United States.
+
+The federal circuit courts of appeal have differed in their interpretations of the effect of Executive Jet upon admiralty jurisdiction in tort cases. The principal problem area has been defining what constitutes "traditional maritime activity," especially in cases involving pleasure boats. In St. Hilaire   Moye v. Henderson, 496 F.2d 973 (8th Cir.), cert. denied, 419 U.S. 884, 95 S. Ct. 151, 42 L. Ed. 2d 125 (1974), the Eighth Circuit suggested that a close reading of the Executive Jet decision might support an interpretation limiting its holding to situations involving aircraft. Indeed, in only a slight divergence from the "locality test," that court held that the operation of a boat on navigable waters, no matter what its size or activity, is a traditional maritime activity to which admiralty jurisdiction may extend. In Oppen v. Aetna Insurance Co., 485 F.2d 252 (9th Cir. 1973), the Ninth Circuit required that in addition to the locality test the wrong have "a significant relationship to traditional maritime activity." The Fourth Circuit in Crosson v. Vance, 484 F.2d 840 (4th Cir. 1973), concluded in an action for personal injuries brought by a water skier against the operator of a towing boat that it need not speculate whether the Supreme Court's opinion in Executive Jet Aviation would foreclose resort to admiralty in any case involving the operation of small pleasure craft. The court stated that, in the case before it, it need only go so far as the Supreme Court's explicit direction to hold that admiralty jurisdiction did not reach a claim for personal injury by a water skier against the allegedly negligent operator of the towboat. However, in a later case, the Fourth Circuit, in a consolidated action to recover damages for injuries sustained by passengers on small pleasure crafts operated on navigable waters, concluded that since the pleasure boats were vessels in navigation and the controversy arose out of their navigation, there was a "maritime connection" not present in Executive Jet Aviation. Therefore, the court concluded that the operation of the boats was within the admiralty jurisdiction and the new rule as stated in Executive Jet. Richards v. Blake Builders Supply Inc., 528 F.2d 745 (4th Cir. 1975). The Fifth Circuit, in Kelly v. Smith, 485 F.2d 520 (5th Cir. 1973), cert. denied, 416 U.S. 969, 94 S. Ct. 1991, 40 L. Ed. 2d 558 (1974), considered that maritime locality alone was no longer sufficient to sustain maritime jurisdiction and that the wrong must bear a significant relationship to maritime activity. In that case, fleeing deer poachers aboard a 15-foot outboard motor boat were fired upon with hunting rifles by outraged defenders of a private hunting preserve ashore. Injuries were sustained by the persons aboard the boat. The issue was whether the tort claims of the plaintiffs, casualties aboard the boat, were within admiralty jurisdiction. The court concluded that, while the facts that plaintiffs' injuries were consummated on navigable waters while in a boat weigh towards maritime jurisdiction, it must look to all the circumstances for a "substantial maritime relationship," including the functions and roles of the parties, types of vehicles and instrumentalities involved, causation and the type of injury, and traditional concepts of the role of admiralty law. Applying this analysis to the facts of the case before it, the court concluded that the tort claims of the plaintiffs were within admiralty jurisdiction. In the recent case of Richardson v. Foremost Insurance Co., 641 F.2d 314 (5th Cir., 1981), involving a collision between two pleasure boats in the upper reaches of the Amite River, the Fifth Circuit followed the reasoning in Kelly v. Smith, supra, and concluded that admiralty jurisdiction had been invoked.
+
+Despite the uncertainty of the law in this area, it appears to us that the trend in the lower federal courts since Executive Jet is to require more than that the injury occurred on navigable waters while in a boat. While these facts weigh toward maritime jurisdiction, the courts must look to all the circumstances for a substantial maritime relationship in order to invoke admiralty jurisdiction. In the instant case, we have done so and conclude that plaintiff's tort claim is within the admiralty jurisdiction.
+
+It is not disputed that plaintiff's injuries were sustained as a result of an accident occurring in navigable waters while aboard a moving boat. In addition, plaintiff's petition alleges that her injuries were caused by the negligence of the manufacturer in the design of the vessel and by the   negligence of the distributor in selling and the owner in maintaining a vessel which was unreasonably dangerous in normal use. Certainly, the issue of whether a vessel was or was not properly designed and manufactured for safe use upon navigable waters has a substantial connection with traditional maritime activity. Even though the conduct complained of may have been negligence in construction or defective design which occurred ashore, the tort is still maritime in nature.[5] As recognized by the Supreme Court in Executive Jet, the law of admiralty "has evolved over many centuries, designed and molded to handle problems of vessels relegated to ply the waterways of the world." It cannot be argued that this special body of law is not particularly well-suited for determinations as to proper design and construction of vessels meant to operate on navigable waters. It is clear that the federal interest in protecting navigation and commerce on navigable waters extends to considerations of the safe design and construction of all vessels, including pleasure boats used only for recreational, and not commercial, purposes. The potential danger to navigation and commerce posed by improperly designed and manufactured vessels is apparent.
+
+Accordingly, we conclude that plaintiff's claim constitutes a maritime tort under the admiralty jurisdiction and the substantive law of admiralty, including the doctrine of laches, controls. Thus, the court of appeal erred in affirming the ruling of the trial court maintaining defendants' exception of prescription.
+
+For the reasons assigned, the judgment of the court of appeal is reversed and the case is remanded to the district court for further proceedings in accordance with the views expressed herein.
+
+BLANCHE, J., dissents and assigns reasons.
+
+BLANCHE, Justice (dissenting).
+
+I respectfully dissent. The court of appeal opinion notes the following:
+
+(1) The small pleasure boat in which plaintiff was injured was travelling on navigable waters, but was neither for commerce nor for hire.
+
+(2) Plaintiff was a passenger injured by an allegedly defectively designed engine without protective cover.
+
+(3) There was no causation external to the vessel.
+
+(4) There were no rules of the road or conditions of the canal involved.
+
+(5) The accident was no more than a pleasure boat accident where no traditional maritime concern, such as commerce, navigation or navigational hazards, was involved.
+
+Absent such traditional concerns, the court of appeal found that there was not a sufficient relationship to traditional maritime activities so as to make the claim one in admiralty.
+
+On the other hand, the majority relies solely on the plaintiff's allegation that the vessel was not properly designed and manufactured for safe use on navigable waters to justify its position that plaintiff's claim is "in admiralty".
+
+This sounds like a products liability case arising out of allegedly negligent conduct that occurred long before the vessel involved here ever hit the water.
+
+Being unable to find a so-called "maritime connection", this writer respectfully dissents.
+
+[1]  392 So. 2d 161 (La.App. 1st Cir. 1980).
+
+[2]  394 So. 2d 1244 (La. 1981).
+
+[3]  Czaplicki v. "S.S. Hoegh Silvercloud",
+351 U.S. 525
+, 76 S. Ct. 946, 100 L. Ed. 1387 (1956).
+
+[4]  See generally Victory Carriers v. Law,
+404 U.S. 202
+, 92 S. Ct. 418, 30 L. Ed. 2d 383 (1971) (footnote 2 of the opinion contains an exhaustive list of citations).
+
+[5]  See Jig the Third Corporation v. Puritan Marine Insurance Underwriters Corp., 519 F.2d 171 (5th Cir. 1975), cert. denied, 424 U.S. 954, 96 S. Ct. 1429, 47 L. Ed. 2d 360 (1976).

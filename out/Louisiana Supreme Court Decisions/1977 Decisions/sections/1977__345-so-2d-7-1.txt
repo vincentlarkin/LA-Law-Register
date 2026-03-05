@@ -1,0 +1,68 @@
+58405
+Louisiana Nat. Bank v. Triple R Contractors, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1977/345-so-2d-7-1.html
+
+58405
+Louisiana Nat. Bank v. Triple R Contractors, Inc.
+Court: Louisiana Supreme Court
+Release date: 1977-04-11
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/345-so-2d-7-1.html
+
+345 So. 2d 7 (1977)
+
+LOUISIANA NATIONAL BANK OF BATON ROUGE
+v.
+TRIPLE R. CONTRACTORS, INC., et al.
+
+No. 58405.
+
+Supreme Court of Louisiana.
+
+April 11, 1977.
+
+Rehearings Denied May 13, 1977.
+
+Robert M. Day, Day & Grand, Baton Rouge, for plaintiff-applicant.
+
+Charles W. Borde, Jr., Durbin, Durbin, Borde & Fogg, Denham Springs, Charles O. Simmons, Jr., E. Drew McKinnis, McKinnis & Juban, Baton Rouge, for defendants-respondents.
+
+Prentice L. G. Smith, Jr., Smith & Smith, Baker, for intervenor-respondent.
+
+*8 DENNIS, Justice.
+
+We are called upon to decide whether the developer of an apartment complex who divides its construction into two segments, by having the construction performed on separate but adjacent lots under two separate construction contracts, may give his lender a mortgage superior to materialmen's liens on the second segment although work commences on the first segment before the mortgage is filed. The case ultimately hinges upon whether the segments constitute two different "phases" of subdivision development under the Private Works Act, La. R.S. 9:4801, et seq.
+
+On October 17, 1972, Triple R Contractors mortgaged to Louisiana National Bank (LNB) 4.89 acres of its 6.6 acre tract on Essen Lane in East Baton Rouge Parish to secure a loan for the construction of a 94-unit apartment complex on the mortgaged property. LNB provided 10% of the funds for the project and Colwell Mortgage Trust supplied the remaining 90%; at the completion of construction, the mortgage and the note it secured were to be assigned to Colwell which would reimburse to LNB its 10% investment. The act of mortgage was recorded on the same day it was executed, together with a building contract between Triple R and Riddle Masonry Company, Inc., and an affidavit by a licensed civil engineer certifying that no work had begun and no materials had been placed on the building site. Construction began shortly thereafter.
+
+On March 1, 1973, Triple R purchased an additional 2.58 acres adjacent to its 6.6 acre tract, and on March 29, 1973, mortgaged the entire 9.18 acre tract to LNB, under the same arrangement with Colwell Mortgage Trust as the 1972 mortgage. This mortgage was given to secure a second loan to be used in the construction of a 97-unit apartment complex, specifically described and referred to as "Phase II" in the mortgage, on the 4.29 acres of the property not already devoted to the construction of Phase I. Recorded with the mortgage and a building contract for the Phase II construction, was a civil engineer's no-work affidavit relating only to the 4.29 acres comprising Phase II. At this time work on Phase I was well under way.
+
+Phase I was accepted as completed on January 2, 1974, and a clear lien certificate was issued by the Clerk of Court on February 4, 1974. The mortgage on Phase I was then assigned to Colwell Mortgage Trust.
+
+Prior to the completion of Phase II, Triple R defaulted under the terms of both the Phase I and Phase II mortgages and notes. As a result Colwell Mortgage Trust instituted foreclosure proceedings against the Phase I complex and LNB instituted foreclosure proceedings against the Phase II complex.
+
+A number of interventions claiming materialman's liens were filed against the Phase II property by persons who had furnished supplies and materials to that project. On February 12, 1975 the property was adjudicated to LNB by Sheriff's sale subject to any liens and encumbrances which primed the mortgage in favor of LNB. LNB then brought this rule to have its mortgage recognized as superior to the claims and liens of the intervenors and to have LNB declared to be entitled to the said property free and clear of all liens and other encumbrances.
+
+After a hearing on the rule, the trial judge concluded that the apartment complex was built as one project, albeit in "two interconnected phases," and that LNB's rights under the Phase II mortgage could not prime those of the lienholding materialmen because the mortgage was not recorded before work had begun on the project, which in his opinion included Phase I. The First Circuit Court of Appeal affirmed the judgment of the trial court.
+
+LNB argues that the lower courts erred in failing to recognize the Phase II job site as distinct from the Phase I construction; under this view, the Phase II mortgage would have a superior rank if recorded before work had begun or materials were supplied to the Phase II job site.
+
+La. R.S. 9:4801 grants a privilege upon immovables to persons furnishing materials   for use in construction or improvement of the property with the consent or at the request of the owner. Materialmen's liens, secured in compliance with the provisions of La. R.S. 9:4801, et seq., are superior to the claims of mortgagees unless the mortgages "exist and have been recorded before the work or labor has begun or any material has been furnished." La. R.S. 9:4801(B). The phrase, "before the work or labor is begun or any material [has been] furnished," is defined by La. R.S. 9:4819 (A)(1) and (3) as follows:
+
+The statute speaks of visible work or material on the "job site" but offers no guidance in delimiting the job site. The engineer's affidavit of March 29, 1973, certified that no work had begun and no materials had been furnished to the 4.29 acre tract which LNB envisioned as the building site. Great pains were taken by the owner and the mortgagee to create two job sites by expressly stating in the mortgage that it was confected solely for the purpose of construction on Phase II, identified as 4.29 acres and depicted by a plat delineating the two-phase division of the mortgaged property. The record is convincing that no contract was let or visible work done on Phase II before recordation of the mortgage. However, the lower courts found that the job site was coextensive with the entire property mortgaged (9.18 acres) and the LNB could not rely upon the affidavit because the engineer did not certify (as he could not have done) that no work had begun on the entire tract.
+
+We disagree, finding authority for division of the 9.18 acre tract into two separate job sites in La. R.S. 9:4816(A) which provides, in pertinent part:
+
+Under this provision, furnishing materials for one construction project would not give rise to a privilege upon buildings or the land on which they are situated, if the buildings were constructed on adjacent parcels of land, during a separate phase of development and pursuant to separate construction contracts. By the same token, work begun or materials furnished to one site could not be considered work begun or materials furnished to construction on adjacent parcels of land, during a separate phase of development and pursuant to separate construction contracts.
+
+Although the statute refers to "subdivision development," our courts had previously recognized its applicability to apartment complexes or other multi-building projects such as that involved in the instant case. McGill Corporation v. Dolese Concrete Company, 201 So. 2d 125 (La. App. 1st Cir. 1967); Bernard Lumber Co. v. John F. Cerise Co., 148 So. 2d 819 (La. App. 4th Cir. 1963). The addition to the statute in 1972 of the final sentence, relied upon here, was an apparent recognition that the increasing magnitude of housing developments, encompassing a much larger number of units and extending over a much longer time, required some limitation of the privilege granted therein. Acts 1972, No. 430, § 1. See, Dainow, Legislative Symposium: The 1958 Regular SessionCivil Code and Related Subjects: Part II (Security Devices), 19 La.L.Rev. 52, 69 (1958). We do not believe that the legislature intended by this amendment to restrict the statute's application to single family dwelling subdivision developments when, as the courts had already noted, other types of large-scale housing developments present the same problems and warrant the same treatment. Furthermore, our interpretation of the statute is consistent with the rule that lien statutes, being in derogation of the common rights of owners and mortgagees, must be strictly construed against the lienors and liberally interpreted in favor of persons whose common rights are thereby impinged upon. In re Lurgi-Knost, Inc., 380 F. Supp. 400 (M.D.La.1974); Courshon v. Mauroner-Craddock, Inc., 219 So. 2d 258 (La. App. 1st Cir. 1968), cert. den., 253 La. 761, 219 So. 2d 778 (1969); Pringle-Associated Mortgage Corporation v. Eanes, 208 So. 2d 346 (La. App. 1st Cir. 1968).
+
+We conclude that Phase II of the project was a separate job site, within the meaning of La. R.S. 9:4819 (A), as modified by La. R.S. 9:4816(A). Both lower courts acknowledged that there were separate phases of development and separate building contracts; construction on Phase II proceeded according to plans which were not drafted until after Phase I construction was under way; Phase II occupied a separate parcel of land clearly identified in the March 29, 1973 mortgage.[*] Therefore, work begun or materials furnished to the Phase I job site cannot afford the lienholders a superior ranking over the mortgagee, LNB.
+
+The lienors claim, however, that work had also begun on the Phase II site before   the Phase II mortgage was recorded. Frank Granada, a subcontractor employed to install a sewer line on Phase I, testified at the hearing that at least one week before the March 29, 1973 mortgage was executed and recorded, he replaced a broken sewer line running approximately sixty feet into Phase II and servicing a small preexisting house located on Phase II.
+
+Under La. R.S. 9:4819(A)(1), supra, and the cases interpreting it, "work begun" on a job site must be such that it would be visible upon inspection, so that a prospective lender might be warned that his mortgage would be subordinate to materialmen's liens. Pringle-Associated Mortgage Corporation v. Evans-Benck Construction Company, 209 So. 2d 606 (La. App. 1st Cir. 1967); Pringle-Associated Mortgage Corporation v. Eanes, supra. There is nothing in the record to indicate that this minor sewerage work was apparent; in fact, Granada's testimony suggests to the contrary that the four-inch submerged line would not have been visible upon inspection. This conclusion is strengthened by the testimony of David Huval, a licensed civil engineer, who stated that he inspected the Phase II property on March 29, 1973, and did not see any indication that work had been begun or materials furnished. Under the circumstances, we think the bank was entitled to rely upon his recorded affidavit to that effect. La. R.S. 9:4819(A)(3).
+
+Based upon our conclusion that no visible work had been begun or materials furnished to the Phase II job site prior to the recordation of LNB's March 29, 1973 mortgage, we find that the mortgage primes the claims of the intervenors. Accordingly, the judgment of the court of appeal is reversed, and judgment is rendered declaring LNB entitled to the property involved free and clear of all liens and other encumbrances. The costs of this appeal are to be borne by the appellees.
+
+[*]  2.58 acres of the Phase II building site were not acquired until March 1, 1973. If the lienors were permitted to prevail, ongoing work on a neighboring tract would give their claims priority over the mortgage which financed the purchase of this propertya bizarre result which we do not think was intended by the lawmakers.

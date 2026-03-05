@@ -1,0 +1,71 @@
+59736
+Firmin v. Garber
+https://law.justia.com/cases/louisiana/supreme-court/1977/353-so-2d-975-1.html
+
+59736
+Firmin v. Garber
+Court: Louisiana Supreme Court
+Release date: 1977-12-19
+Author: SANDERS, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/353-so-2d-975-1.html
+
+353 So. 2d 975 (1977)
+
+James L. FIRMIN
+v.
+Kenneth R. GARBER.
+
+No. 59736.
+
+Supreme Court of Louisiana.
+
+December 19, 1977.
+
+B. J. Rawls, Morgan City, for defendant-respondent.
+
+*976 Kenneth W. Ford, Morgan City, for plaintiff-applicant.
+
+SANDERS, Chief Justice.
+
+This case presents important questions concerning judicial review of arbitration awards.
+
+Kenneth Garber contacted architect James Firmin to prepare plans and specifications for the construction of a residence. A dispute arose and, in compliance with the contract, they submitted the dispute to arbitration. The arbitrator found in favor of Firmin, the architect, in the amount of $7,821.60, plus all administrative fees and expenses. Pursuant to LSA-R.S. 9:4209, the architect petitioned the district court to confirm the award. In response, the owner sought to vacate the award. The district court confirmed the award. Garber then appealed to the Court of Appeal, which vacated the arbitrator's award and remanded the matter for further arbitration. Firmin v. Garber, La.App., 343 So. 2d 245 (1977). We granted the architect's application for review. Firmin v. Garber, La., 345 So. 2d 905 (1977).
+
+On September 16, 1968, Garber contracted with Firmin, the architect, to prepare plans and specifications for the construction of a residence. The contract is on the standard form of the American Institute of Architects. It provides for the arbitration of disputes. The contract fixes the architect's fee at 10% of the construction cost, with 80% of the fee due upon the receipt of bids. For a building not constructed, Article 3 provides that the construction cost is "the lowest bona fide bid received from a qualified bidder."
+
+Both parties concede that the cost of construction was discussed during the negotiation of the contract. The architect testified that Garber suggested $60,000 as a goal but that no maximum was established. Instead, the owner suggested that he could reduce the costs, since he operated an electrical and air conditioning company. The owner, on the other hand, testified that the $60,000 amount discussed was a binding cost limitation. The testimony is conflicting as to whether the $60,000 referred to the entire cost or just the cost of the living area. The contract, however, contained no construction cost limitation. During the preparation of the plans and specifications, the architect informed the owner that the cost would exceed the cost range sought. The owner, however, made no request that the preparation of the plans be halted. Upon completion of the plans, the lowest qualified bid received was $105,320. The owner did not object to the plans, but requested that discussions be initiated to reduce the cost to the $60,000 range. After discussions, the architect prepared a second set of plans, which drew a low bid of $79,240, in 1971. This bid was within the range of $60,000, based on 1969 costs.
+
+The owner then informed the architect that he would postpone building for two years. He declined to pay the architect's bill of $3,800, based upon a construction cost of $60,000.
+
+Under the contract provision, the architect invoked arbitration. Following a hearing, the arbitrator awarded the architect $7,821, based on the low bid of $110,270 ($110,270 × 10% × 80% - $1,000 [already paid] = $7,821.60). The award was on the standard form and contained no reasons.
+
+The issue presented is whether the Court of Appeal correctly vacated the arbitrator's award under LSA-R.S. 9:4210, which provides as follows:
+
+The Court of Appeal held that "the award of the arbitrator is so grossly irrational as to be tantamount to `undue means' and `evident partiality'" under Subsections A and B of the statute. Thus, the court vacated the award. We disagree.
+
+Arbitration is a mode of resolving differences through the investigation and determination of one or more individuals appointed for that purpose. The object of arbitration is the speedy disposition of differences through informal procedures without resort to court action. Housing Authority v. Henry Ericsson Co., 197 La. 732, 2 So. 2d 195 (1941). In recent years, arbitration has experienced a phenomenal growth. 10 Vand.L.Rev. 649-651.
+
+Subsections A and B of the Louisiana statute are substantially the same as Section 12(a)(1) and (2) of the Uniform Arbitration Act. See 9 Uniform Acts Annot. pp. 78, 82. The Uniform Act has been adopted in nineteen states. Am.Jur.2d Desk Book Doc. No. 129. Many other states have similar statutory provisions restricting the judicial challenge of arbitration awards. Domke on Commercial Arbitration, § 33.02, p. 305 (1968). The Louisiana statute is almost identical to the federal statute, 9 U.S.C. § 10.
+
+It is well settled in both state and federal courts that an award may be challenged only on the grounds specified in the statute. The court cannot substitute its conclusion for that of the arbitrator. United States v. Gleason,
+175 U.S. 588
+, 20 S. Ct. 228, 44 L. Ed. 284 (1900); Housing Authority v. Henry Ericsson Co., supra; Greer v. Lowe, La.App., 94 So. 2d 560 (1957); Ogden v. Baile, 73 Fla. 1103, 75 So. 794 (1917); 5 Am.Jur.2d, Arbitration and Award, § 188, p. 659.
+
+In Housing Authority v. Henry Ericsson Co., supra, confirming an arbitration award, we stated:
+
+Under subsection A, the term undue means takes color from the words with which it is associated: corruption and fraud. Undue means denotes the use of misconduct or other gross deviation from normal arbitration to procure an award. It does not embrace a questionable conclusion   drawn from conflicting evidence. See International Ass'n of Mach. v. Bergen Ave. Bus O. Ass'n, 3 N.J.Super. 558, 67 A.2d 362 (1949); Domke on Commercial Arbitration, § 33.02, p. 306 (1968).
+
+Under Subsection B, the evident partiality of the arbitrator is a ground for vacating the award. To constitute evident partiality, it must clearly appear that the arbitrator was biased, prejudiced, or personally interested in the dispute. Giddens v. Board of Education of City of Chicago, 398 Ill. 157, 75 N.E.2d 286 (1947). Examples are a blood relationship with one of the parties or a pecuniary interest in the outcome of the dispute. See St. Paul Insurance Companies v. Lusis, 6 Wash. App. 205, 492 P.2d 575, 56 A.L.R.3d 687 (1971); Rothstein, Alan H., Vacation of Awards for Fraud, Bias, Misconduct and Partiality, 10 Vand.L.Rev. 813, 821; Annot., Setting Aside Arbitration Award on Ground of Interest or Bias of Arbitrators, 56 A.L.R.3d 697. The burden of proof rests upon the party attacking the award. Von Langendorff v. Riordan, 147 Conn. 524, 163 A.2d 100 (1960); 5 Am.Jur.2d, Arbitration and Award, § 186, p. 657.
+
+In the present case, the arbitration respondent offered no independent evidence to establish that the award was procured by undue means or that the arbitrator had a disqualifying relationship with either of the parties or the subject matter. He relies solely on the arbitration evidence and the award.
+
+It is true that the arbitrator's award is debatable. Unlike the Court of Appeal, however, we do not find it to be "grossly irrational." The applicable rule, we think, is that misconduct and partiality are not to be attributed to an arbitrator solely because a different award could be sustained. To hold otherwise would defeat the purpose of arbitration: the speedy resolution of disputes outside the court system.
+
+We conclude, as did the district court, that the award should be confirmed.
+
+For the reasons assigned, we reverse the judgment of the Court of Appeal and reinstate the judgment of the district court. All costs are assessed against respondent.
+
+SUMMERS, J., dissents for the reasons assigned by the Court of Appeal. See 343 So. 2d 245.
+
+DENNIS, J., dissents for the reasons assigned by the Court of Appeal.

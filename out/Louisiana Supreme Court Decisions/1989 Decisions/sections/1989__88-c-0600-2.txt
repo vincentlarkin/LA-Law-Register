@@ -1,0 +1,623 @@
+88-C-0600
+Hondroulis v. Schuhmacher
+https://law.justia.com/cases/louisiana/supreme-court/1989/88-c-0600-2.html
+
+88-C-0600
+Hondroulis v. Schuhmacher
+Court: Louisiana Supreme Court
+Release date: 1988-09-12
+Author: WATSON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1989/88-c-0600-2.html
+
+553 So. 2d 398 (1988)
+
+Viola K. HONDROULIS
+v.
+John SCHUHMACHER, M.D.[*]
+
+No. 88-C-0600.
+
+Supreme Court of Louisiana.
+
+September 12, 1988.
+
+Rehearing Granted December 1, 1988.
+
+Dissenting Opinion December 1, 1988.
+
+On Rehearing June 19, 1989.
+
+Rehearing Denied September 11, 1989.
+
+*400 Trevor G. Bryan, Jefferson, Bryan, Gray & Jupiter, New Orleans, for applicant.
+
+Edward Rice, Jr., Lisa D. Newman, Adams & Reese, New Orleans, for respondent.
+
+WATSON, Justice.
+
+Does a medical consent form, which tracks the language of LSA-R.S. 40:1299.40 A.,[1] have to specify all known risks of a particular surgical procedure? Absent misrepresentation of material facts, what proof is required to rebut the statutory presumption of consent which arises when a patient signs the form?
+
+In 1975, plaintiff, Viola K. Hondroulis, had a bilateral L-5/S-1 discectomy. In May of 1981, she consulted defendant, Dr. John Schuhmacher, because of pain in her   lower back radiating into her right hip and leg. On June 24, 1981, Schuhmacher performed bi-lateral laminectomies at L-5/S-1 to relieve pressure on the nerves.[2] As a result of the surgery, Hondroulis lost sphincter and bladder control and became numb in her left leg. She also has the pain in her lower back, right hip and right leg which had existed before the second surgery. Although plaintiff signed a statutory consent form, she contends that she would not have undergone the surgery if she had known of these possible consequences.
+
+According to patient Hondroulis' deposition, she was given no verbal advice about possible complications from the surgery.[3] Hondroulis consented to a lumbar laminectomy for removal of a ruptured disc and said, in deposition, that she knew death, paralysis and loss of other bodily functions can result from surgery. Defendants moved for summary judgment on the basis of the consent form, that excerpt from her deposition, and affidavits from three doctors that Dr. Schuhmacher's care was within the standard established for neurosurgeons.[4] In answering interrogatories, plaintiff's counsel said that a medical expert had not been retained.
+
+The medical records of Hondroulis contain the reports of three post-operative consultants. One consultant, Dr. Richard W. Levy, concluded that Viola Hondroulis has a "partially compromised urinary sphincter, and bowel sphincter secondary to the June, 1981, surgery." Dr. Levy hesitated to recommend additional surgery for fear of aggravating her condition. According to the report of another consulting doctor, Gary Glynn, Hondroulis has probably developed bilateral, multilevel radiculopathy, or disease of the nerve roots: Dr. Glynn did not give an opinion on what should be done. A third doctor, J. Gregory Kinnett, also thought the numbness and incontinence resulted from bilateral multilevel radiculopathy rather than spinal stenosis. Dr. Kinnett said Hondroulis deserves the option of surgical intervention.
+
+The trial court held that a doctor is not required to inform a patient of all conceivable risks inherent in a surgical procedure and that Hondroulis was bound by the consent form unless she signed it because material facts were misrepresented. Summary judgment was rendered on behalf of the defendant doctor.
+
+A five judge court of appeal panel affirmed the trial court because of jurisprudence[5] holding that a written consent tracking the language of the statute constitutes valid informed consent. Three judges on the panel concurred on the ground that the statutory language does not preclude patient evidence that he or she was not advised of known risks associated with a surgical procedure.[6] A writ was granted to review the judgment of the court of appeal.[7]
+
+The Louisiana Uniform Consent Law requires disclosure of the nature and purpose   of a medical or surgical procedure, together with the known risks, if any, of death, brain damage, quadriplegia, paraplegia, the loss or loss of function of any organ or limb, or disfiguring scars.[8] Thus, a competent person contemplating treatment must be advised of the known serious complications which might result. This enables the patient to make an informed decision.
+
+The Louisiana statute states that: "... consent shall be presumed to be valid and effective, in the absence of proof that execution of the consent was induced by misrepresentation of material facts." The statute provides an evidentiary presumption that a patient's written consent is valid. A statutory presumption, absent language establishing that it is conclusive, is rebuttable.[9] Hence, the presumption of valid consent can be rebutted by evidence that a patient was not told of "known risks" in the enumerated categories associated with his or her medical treatment.[10]
+
+LaCaze v. Collier,
+434 So. 2d 1039
+(La. 1983) considered an oral consent to treatment. LaCaze held that a doctor was not liable for failing to advise a patient about an easily corrected, remote, (one-half of a percent) complication (a vesico-vaginal fistula) which would not have been a determinative factor in the decision of an ordinary reasonable patient. Thus, LaCaze adopted an objective test for informed consent.[11]
+
+LaCaze states that "[t]he written consent to medical treatment defined in Subsection A of R.S. 40:1299.40 does not purport to be exclusive."[12] In dicta, LaCaze says "[u]nder the statutory rule, the consequences are listed, and the physician's requirement is to disclose all known risks of the listed consequences occurring, whether or not the probability of the occurrence is remote."[13]
+
+The most frequently cited case on informed consent is Canterbury v. Spence[14] which, coincidentally, involved urinary incontinence and bowel paralysis as a result of a laminectomy. In Canterbury, plaintiff and his mother testified that the treating defendant, Dr. Spence, did not reveal the risk of paralysis from a laminectomy, making out a prima facie case that the physician had violated his duty of disclosure.   The defendant doctor said that paralysis can be expected in one percent of laminectomies. Canterbury held that whether there was a duty to disclose that risk was a factual issue. In Canterbury there was no statutory presumption of adequate disclosure: therefore, the physician had the burden of rebutting the patient's evidence about a risk not disclosed.[15]
+
+The scientific nature of the risk, i.e., the probability of harm, is the first step in the analysis of informed consent.[16] This initial burden of proof can be established by the testimony of the defendant-physician, as in Canterbury, supra.[17] A high probability of harm indicates a significant risk. However, the probability of harm must be weighed against the consequences of rejecting treatment.
+
+Canterbury notes that there is no bright line separating a significant from an insignificant risk. Disclosure has been required when there was a three percent chance of death, paralysis or other injury,[18] and when there was a one percent chance of loss of hearing.[19] Nondisclosure has been justified when there was a 1.5% chance of loss of an eye[20] and a one in 100,000 chance of death.[21] In Hartke v. McKelway,[22] the physician was held liable for failing to disclose that there were one to three chances of pregnancy in a thousand laparoscopic cauterizations.
+
+When the probability of harm is sufficient to have influenced the treatment decision of a reasonable person in the patient's condition, the risk is a material one.[23] Material risks must be disclosed unless there is an emergency situation,[24] or complete candor would have a detrimental effect on the patient: the latter is described as the therapeutic exception. A doctor should avoid frightening a patient away from a medically necessary course of treatment.[25] Neither exception is pertinent here.
+
+Under the statute, a physician is required to advise a patient of any material consequences which would influence the decision of a reasonable person in the patient's condition. Although the statute seems to require that all known risks in the various categories be disclosed, this would be an impractical, unrealistic, and unwieldly interpretation. An amicus curiae brief on behalf of the Louisiana State Medical Society correctly contends that the statute could not reasonably require a listing of all the potential complications which might result from any medical procedure.[26] A fair reading of the statute indicates that its enumeration of risks is merely a listing of the possible results about which disclosure must be made.
+
+The uniform consent form signed by Hondroulis created a presumption that she had been advised of the risks connected with the proposed procedure and had given   an informed consent. Plaintiff alleges that her incontinence and numbness were reasonably foreseeable material risks of which she should have been advised; and that she would have refused the surgery if she had known the risks and had been presented with safer alternatives.[27]
+
+Despite the dicta in LaCaze, a reasonable limitation on the "known" risks which must be disclosed is implied in the statute. A rare or remote risk need not be disclosed.[28] Disclosure must be made only when a risk is medically known and of a magnitude that would be material in a reasonable patient's decision to undergo treatment.[29] Hondroulis knew that paralysis and loss of bodily functions could result from her surgery and was warned of those possible consequences on the consent form. It has not been shown that greater detail was required.[30]
+
+Under LaCaze, the test is not subjective but objective: given the patient's condition, would a reasonable person have undergone the procedure if advised of the material complications?[31] The duty of disclosure only applies to reasonably foreseeable material risks.[32]LaCaze held that a .5% possibility of a correctable complication would not be a determining factor to a reasonable patient. When an undisclosed risk would have induced a reasonable person in the patient's condition to refuse treatment, there is a causal connection between the physician's failure to inform and the patient's injury.[33]
+
+Plaintiff Hondroulis, in opposition to defendant's motion for summary judgment, could not rest on the allegations of her pleadings. Because of the presumption created by the uniform consent law, plaintiff was required to show that: (1) the adverse results of her surgery were known, significant, and material risks which should have been disclosed to her by Dr. Schuhmacher;[34] (2) those risks were not disclosed by Dr. Schuhmacher; (3) she was unaware of those risks; and (4) a reasonable person would have refused the surgery because of the risks.[35]
+
+According to her deposition, Hondroulis was not told of any risks accompanying her lumbar laminectomies. It seems obvious that the ordinary reasonable patient would associate some risks with that operation.[36] However, Hondroulis did not introduce any evidence that her condition, unquestionably the result of her surgery, is a known and significant risk of which she was unaware and about which she should have been warned. On the contrary, she knew that paralysis and loss of bodily functions were possible. It is the physician's superior knowledge of reasonably foreseeable adverse   consequences which creates the duty to give a specific warning.[37] When a doctor knows or should have known about a material risk of which a reasonable patient would be unaware, there is a duty of disclosure.[38]
+
+Here, in contrast to Canterbury, the uniform consent law establishes a presumption of informed consent. Plaintiff did not rebut that presumption by evidence that her condition is a material known risk of a laminectomy.[39] Because of the presumption created by the uniform consent law, plaintiff could not rest on the allegations of her petition and a statement that she was not informed of any risks.
+
+To overcome the statutory presumption of informed consent, a plaintiff must first prove that a material risk existed. An adverse result does not establish a material risk. Absent proof of a material risk, the factual question of whether the magnitude of the risk would have convinced a reasonably prudent person in plaintiff's situation to decline treatment does not arise.[40] A remote, minor, or insignificant risk does not create a jury question. LaCaze, supra; Pauscher, supra.[41] When a material risk which would have influenced a reasonable person is proven, it must then be shown that the treating physician breached a duty to disclose that risk.[42]
+
+While the trial court and the court of appeal[43] erred in holding that the presumption of the statute prevails in the absence of misrepresentation, their results were correct because plaintiff failed to go forward with her burden of proof at the hearing on the motion for summary judgment.[44]
+
+For the foregoing reasons, the judgment of the court of appeal is affirmed.
+
+AFFIRMED.
+
+CALOGERO, J., dissents.
+
+DENNIS, J., dissents with reasons.
+
+LEMMON, J., dissents and will assign reasons.
+
+DENNIS, Justice, dissenting.
+
+I respectfully dissent.
+
+I believe that the court has misinterpreted the informed consent statute so as to place limitations not legislatively intended upon a patient's right to determine what shall be done with her own body. First, the majority opinion telescopes the so called statutory "presumption" into a requirement that the plaintiff must prove her whole case prima facially at the motion for summary judgment stage, although the defendant has failed to contest most of the elements of her case in his motion and attachments. Second, the opinion of the court incorrectly interprets the statute so as to relieve a doctor of the duty to communicate specific information to a patient as to the particular nature and chances of material risk involved in the proposed surgery   when the exigencies of reasonable care call for it. Third, the court's opinion incorrectly assumes that the statute creates, upon the patient's execution of a consent form, a presumption that all risks, however abstractly or vaguely alluded to, have been adequately communicated and consented to, rather than a presumption that the patient merely has consented to the acceptance of whatever material risks have been adequately communicated to him by the information in the consent form.
+
+The doctrine of informed consent is far broader than the rights and duties encompassed by the statute pertinent to this case or brought into play by the facts of this litigation. The root premise of the doctrine is the concept, fundamental in American jurisprudence, that every human being of adult years and sound mind has a right to determine what shall be done with his own body. LaCaze v. Collier,
+434 So. 2d 1039
+(La.1983); e.g., Schloendorff v. Society of New York Hospital, 211 N.Y. 125, 105 N.E. 92 (1914). See also, W. Prosser, Torts § 18 at 102 (3rd ed. 1964). True consent to what happens to oneself is the informed exercise of a choice, and that entails an opportunity to evaluate knowledgeably the options available and the risks attendant upon each. The average patient has little or no understanding of the medical art, and ordinarily has only his physician to whom he can look for enlightenment with which to reach an intelligent decision. From these almost axiomatic considerations springs the need and in turn the requirement, of a reasonable divulgence by physicians to make such a decision possible. See Canterbury v. Spence, 464 F.2d 772 (D.C.Cir. 1972).
+
+Accordingly, this court has recognized that, as part of the physician's overall obligation to the patient, the doctor owes a similar duty of reasonable disclosure of the choices with respect to proposed medical or surgical treatment and the dangers inherently or potentially involved. LaCaze v. Collier, supra. Because it is prohibitive and unrealistic to expect physicians to discuss with their patients every risk of proposed treatmentno matter how small or remote, however, most courts have adopted a test of materiality, i.e., the test for determining whether a particular peril must be divulged as its materiality to the patient's decision: all risks potentially affecting the decision must be unmasked. In other words, in broad outline, "[a] risk is thus material when a reasonable person, in what the physician knows or should know to be the patient's position, would be likely to attach significance to the risk or cluster of risks in deciding whether or not to forego the proposed therapy." Canterbury v. Spence, supra, at 787.
+
+As in malpractice actions generally, there must be a causal relationship between the physician's failure to adequately divulge and damage to the patient. Following Canterbury and the national trend, this court has decided to resolve the causality issue on an objective rather than subjective basis: in terms of what a prudent person in the patient's position would have decided if suitably informed of all perils bearing significance. If adequate disclosure could reasonably be expected to have caused that person to decline the treatment because of the revelation of the kind of risk or danger that resulted in harm, causation is shown, but otherwise not. LaCaze v. Collier, supra; Canterbury v. Spence, supra.
+
+Although this court has not specifically addressed the issue, it is well settled elsewhere that, in the context of a trial on the merits of a suit claiming inadequate disclosure of risk information by a physician, the patient has the burden of going forward with evidence tending to establish prima facie the essential elements of the cause of action, and ultimately the burden of proofthe risk of non-persuasionon those elements. Canterbury v. Spence, supra, at 791; Harbeson v. Parke Davis, Inc., 746 F.2d 517 (9th Cir.1984); Woolley v. Henderson,
+418 A.2d 1123
+(Me.1980); Kohoutek v. Hafner,
+383 N.W.2d 295
+(Minn. 1986). The burden of going forward with evidence pertaining to a privilege not to disclose (e.g., because of an emergency or therapeutic reasons), however, rests properly upon the physician. Canterbury v. Spence, supra, at 791; Small v. Gifford Memorial Hospital, 133 Vt. 552, 349 A.2d   703 (1975); Trogun v. Fruchtman, 58 Wis.2d 569,
+207 N.W.2d 297
+(1973).
+
+Because this court has followed the modern trend of imposing a legal standard of reasonable care of disclosure upon physicians, rather than adopting the professional standard, recovery in non-disclosure lawsuits should not hinge solely upon the patient's ability to prove through expert testimony that the physician's performance departed from medical custom. Medical facts are for medical experts and other facts are for any experts having sufficient knowledge and capacity to testify to them. Many of the issues typically involved in nondisclosure cases do not reside peculiarly within the medical domain. Lay witness testimony can competently establish a physician's failure to disclose particular risk information, the patient's lack of knowledge of the risk, and the adverse consequences following the treatment. Experts are unnecessary to a showing of the materiality of a risk to a patient's expectable effect of risk disclosure on the decision. Canterbury v. Spence, supra, at 792; Small v. Gifford Memorial Hospital, supra; Trogun v. Fruchtman, supra.
+
+The informed consent statute, La.R.S. 40:1299.40, is similar to acts passed in at least eight other states and obviously was borrowed from the same common law sources. See Comment, Recent Medical Malpractice LegislationA First Checkup, 50 Tul.L.Rev. 655, 676 (1976). This type of statute is part of a substantial nationwide effort directed toward modifying tort doctrines in medical malpractice cases. Id. at 655, 666. Consequently, the Louisiana consent statute must be construed in light of the considerable informed consent doctrine both within the state and nationally. Further, since the statute is patterned after laws designed as correctives or limitations upon the common law doctrine, the statute, in keeping with the common law tradition, should be construed strictly and in pari materia with the informed consent jurisprudence.
+
+Construed in this manner, La.R.S. 40:1299.40, provides essentially that written consent to medical treatment must consist of a writing that sets forth (1) the nature and purpose of the medical procedure; (2) the material risks associated with the procedure within several designated areas of danger; (3) the patient's acknowledgement of the disclosure of the information contained in the form and an opportunity to ask questions and receive answers; and (4) the signature of the patient or one acting for him. In the absence of proof that execution of the consent form was induced by misrepresentation of material facts, the patient is presumed to have consented to the material risks communicated adequately to him within the consent form.
+
+Although some provisions of the statute are ambiguous, expansive interpretation of them would not be consistent with the legislative aim of modification and correction of the common law informed consent doctrine but, instead, would undermine and destroy the doctrine. Further, a liberal construction of the ambiguous provisions would be contrary to the common law tradition from which the statute was borrowed.
+
+For example, the statute cannot mean that the doctor may fulfill his duty to adequately inform the patient of a material risk involved in the proposed therapy by the rote of listing the broad areas of danger within which such a significant peril may occur. Such an interpretation would read out of the law the physician's obligation to communicate specific information to the patient when the exigencies of reasonable care call for it. This construction would relieve the doctor of any duty to inform the patient of the frequency or probability of material risk, even where reasonably determinable. Consequently, these interpretations would deprive the patient of the highly pertinent information as to the nature and frequency of the risk that he needs to make an intelligent decision. Ultimately, the patient would be deprived of the very thing the informed consent doctrine seeks to insure, an opportunity to evaluate knowledgeably the options available and the risks attendant upon each so as to intelligently exercise his right to determine what should be done with his body. See Schloendorff v. Soc. of N. Y. Hospital, 211 N.Y. 125, 105 N.E. 92 (1914);   W. Prosser, Torts § 18 at 102 (3d ed. 1964); Dunham v. Wright, 423 F.2d 940 (3d Cir. 1970).
+
+Such an interpretation has been rejected by the only court found to have been presented with a similar question of statutory interpretation. In Petty v. United States, 740 F.2d 1428 (8th Cir.1984), the court of appeals, in applying Iowa law to a swine flu inoculation case, held that a very similar statute did not merely require that risks be set forth only "in general terms" and that a reference to "death" does not satisfy the duty to give a specific warning detailing the concrete risk to be assumed. In explaining the strict construction given the statute, the court stated:
+
+Nor should the statute be interpreted to require that the physician disclose literally all "known risks" to the patient. It is obviously prohibitive and unrealistic to require doctors to discuss with patients every small and remote risk known to medicine. It is not only unnecessary from the patient's viewpoint, it may even be confusing and detrimental to the basic goal of providing him with pertinent information with which to make an intelligent choice. In fact, the courts have never required "full" disclosure, although some have spoken in   these terms. Most courts have required disclosure either of information as required by "good medical practice" or of information material to the patient's decision. See Canterbury v. Spence, supra, at 786. This court has, in fact, adopted a materiality-oriented standard for determining the scope of the disclosure the physician is obliged to make. LaCaze v. Collier, supra. Although the court ostensibly may have adopted a "known risk" instead of a "material risk" standard, effectively the court retained a materiality-oriented test when it adopted the objective test for determining causation. Such a test seeks to determine "whether a reasonable person in the patient's position would have consented to the operation" if disclosure had been made. Id., at 1048. See also Halligan, The Standard of Disclosure by Physicians to Patients: Competing Models of Informed Consent. 41 La.L.Rev. 9 at 29 (1980). Accordingly, in the light of the doctrine generally and our own previous interpretation, the most plausible interpretation of the statute is that the physician has a duty to disclose to the patient the information that is material to the patient's decision when that data is known to the medical profession.
+
+As for the statute's statement that, in the absence of misrepresentation of material facts, the patient is presumed to validly and effectively consent, the appropriate question is "consent to what"? Surely it must mean that the patient is held to consent to braving only the material risks that have been communicated adequately enough for him to understand and accept them. Any other interpretation of the statute would frustrate rather than promote intelligent self determination by patients and thereby stand the whole informed consent doctrine on its head. For example, a bland statement as to a risk of "loss of function of any organ," particularly when not accompanied with any estimation of the odds that it will happen, is not nearly so informative and helpful to an intelligent decision as a warning that "this operation carries with it a 5 or 10% chance that you will permanently lose the function and control of your bowels." This is because the average layman is vaguely aware that almost any operation involves a slight chance of death or serious injury which is of no greater magnitude than the risk he assumes daily as an automobile driver or passenger.
+
+A motion for summary judgment is properly granted only if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to material fact, and that mover is entitled to judgment as matter of law. La. C.C.P. art. 966. Because the mover has the burden of establishing that no material factual issue exists, inferences to be drawn from the underlying facts contained in the materials before the court must be viewed in the light most favorable to the party opposing the motion. Adickes v. S.H. Kress & Co.,
+398 U.S. 144
+, 90 S. Ct. 1598, 26 L. Ed. 2d 142 (1970); United States v. Diebold, Inc.,
+369 U.S. 654
+, 82 S. Ct. 993, 8 L. Ed. 2d 176 (1962); Vermilion Corp. v. Vaughn,
+397 So. 2d 490
+(La. 1981); Mashburn v. Collin,
+355 So. 2d 879
+(La. 1977). To satisfy his burden the mover must meet a strict standard by a showing that is quite clear what the truth is, and that excludes any real doubt as to the existence of any genuine issue of material fact. Adickes v. S.H. Kress & Sartor v. Arkansas Nat. Gas Corp.,
+321 U.S. 620
+, 64 S. Ct. 724, 88 L. Ed. 967 (1944). The papers supporting mover's position are closely scrutinized, while the opposing papers are indulgently treated, in determining whether the mover has satisfied his burden. Adickes v. S.H. Kress 6 Moore's Federal Practice, § 56.15[3].
+
+Applying these rules to the summary judgment materials in the present case, I believe that there is a genuine dispute whether Mrs. Hondroulis was informed of material risks associated with the surgical procedure. Reasonable minds could differ as to whether her loss of bladder function was a material risk foreseeable to the physician before the operation. A favorable inference can be drawn that the risk was substantial enough that a reasonable person, in what the doctor knew or should   have known to be the patient's position, would have been likely to attach significance to the risks in deciding whether or not to undertake the proposed therapy.
+
+At the summary judgment stage the burden is upon the defendant, as the moving party, not upon Mrs. Hondroulis, to show convincingly either that the loss of bladder function was not a material risk involved in the surgery or that, if it was a material risk, the patient was adequately informed of the nature and magnitude of the risk so as to be able to make an intelligent choice. The defendant failed to carry his burden because he did not attempt to show that the loss of bladder control was an insubstantial risk or that the nature and frequency of the risk were disclosed to the patient. Instead he concedes that the disclosure he made was merely a broad generic statement. Although defendant may prove differently at trial, it reasonably can be inferred that the alleged warning concealed the seriousness of a material risk at stake and did not apprise the patient of the existence of a significant peril involved in the surgery. Accordingly, Mrs. Hondroulis is entitled to her day in court.
+
+DENNIS, Justice.
+
+Plaintiff, Viola Hondroulis, filed suit against John Schuhmacher, M.D., alleging the following facts: Mrs. Hondroulis consulted Dr. Schuhmacher in May, 1981, when she began to experience the spontaneous onset of pain in the lower back radiating down into her right hip and right leg. Dr. Schuhmacher treated her conservatively until June 24, 1981 when he performed a myelogram and lumbar laminectomy upon her. Subsequent to the surgery, plaintiff continued to experience pain in the lower back radiating down into the right hip and right leg and began to experience incontinency, constipation and numbness in her entire left leg. Before surgery, the plaintiff signed a consent form but was not properly informed by the doctor of the risk of losing the function of her organs, nerves or muscles, particularly with respect to those that control the use of her bladder. This risk was material and the doctor should have advised her of it. The plaintiff, as a reasonable person, would have refused the surgery had she been advised of the risk. The doctor failed to advise the plaintiff of alternative methods of treatment presenting smaller risks. The plaintiff did not know that a material risk of the operation was the loss of sphincter and bladder control and numbness in the left leg.
+
+Defendant, Dr. Schuhmacher, filed a motion for summary judgment on the informed consent claim solely on the ground that the plaintiff signed a written consent to surgery stating that she understood all of the risks of the surgery and conforming with the statutory requirements of La.R.S. 40:1299.40. In the written consent form plaintiff Hondroulis consented to a lumbar laminectomy to remove a ruptured disc and acknowledged that "the following known risks are associated with this procedure including anesthesia; death; brain damage; disfiguring scars; paralysis; the loss of or loss of function of body organs; and the loss or loss of function of any arm or leg" and "further acknowledge[d] that all questions I have asked about the procedure have been answered in a satisfactory manner."
+
+In opposition to the motion the plaintiff filed her deposition and her affidavit. In her affidavit she stated that Dr. Schuhmacher did not inform her prior to the operation of the risk of urinary incontinence or loss of use of her good left leg or give her an opportunity to ask questions about the surgical procedure or the alternative methods of treatment. In her deposition she testified that she had been admitted to the hospital for testing and that a myelogram had been performed. Without informing her of the results of the myelogram Dr. Schuhmacher came in to her room and said surgery would be necessary and that he would schedule her for the following day. He did not give her an opportunity to ask any questions. The nurse came in later and presented a form for Mrs. Hondroulis to sign telling her that it was the routine and to just sign it. She   did not have an opportunity to ask questions at this time.
+
+After a hearing, the trial court rendered summary judgment in favor of the doctor and against the plaintiff patient reasoning that a doctor does not have to inform a patient of all conceivable risks, that the consent form complied with R.S. 40:1299.40 and that plaintiff did not allege that the execution of the form was induced by misrepresentation of material facts.
+
+Plaintiff appealed, and the court of appeal affirmed. 521 So. 2d 534 (4th Cir. 1988). The opinion of the court signed by two judges held that the doctor's disclosure of the risk of "loss or loss of function of any organ or limb" fulfilled the requirement of informed consent under La.R.S. 40:1299.40(A) because this statutory language, coupled with the patient's right to ask questions, is sufficient to indicate informed consent, citing that court's decisions in Madere v. Ochsner Foundation Hospital, 505 So. 2d 146 (La.App.4th Cir. 1987) and Leiva v. Nance, 506 So. 2d 131 (La.App.4th Cir.1987). Three judges of the court of appeal "reluctantly concur[red]", because the court of appeal, en banc, by a 6 to 6 deadlock, had refused to overturn the decisions relied upon by the two-judge lead opinion. In the absence of the precedent affirmed by deadlock, they would have held that the consent form's "loss of function of body organs" warning did not adequately disclose the material risk of "incontinence", and that to hold otherwise "leads to the absurd result that a physician [can] merely copy the language of the statute for every surgical procedure." 521 So. 2d  at 538.
+
+This court granted a writ to consider whether the trial and appellate courts correctly interpreted La.R.S. 40:1299.40 and its impact upon the informed consent doctrine as expressly and impliedly adopted by the courts of this state. 522 So. 2d 571 (La. 1988). The legislative enactment must, of course, be considered within the context of the jurisprudential development upon which its effect was intended to apply.
+
+The informed consent doctrine is based on the principle that every human being of adult years and sound mind has a right to determine what shall be done to his or her own body. LaCaze v. Collier,
+434 So. 2d 1039
+(La.1983); Canterbury v. Spence, 464 F.2d 772 (D.C.Cir.1972); Schloendorff v. Society of New York Hospital, 211 N.Y. 125, 105 N.E. 92 (1914). Surgeons and other doctors are thus required to provide their patients with sufficient information to permit the patient himself to make an informed and intelligent decision on whether to submit to a proposed course of treatment. Id. Prosser & Keeton on Torts § 32 P. 190 (5th ed. 1984) (citing authorities at n. 61); Halligan, The Standard of Disclosure by Physicians to Patients: Competing Models of Informed Consent, 41 La.L.Rev. 9 (1980). Where circumstances permit, the patient should be told the nature of the pertinent ailment or condition, the general nature of the proposed treatment or procedure, the risks involved in the proposed treatment or procedure, the prospects of success, the risks of failing to undergo any treatment or procedure at all, and the risks of any alternate methods of treatment. LaCaze v. Collier, 434 So. 2d  at 1043, 1045; Canterbury v. Spence, supra, at 789; Louiselle & Williams, Medical Malpractice, 1981, § 22.01 at 594.44; Prosser & Keeton, supra, p. 190; see Sard v. Hardy, 281 Md. 432, 379 A.2d 1014 (1977); Crain v. Allison,
+443 A.2d 558
+(D.C.App.1982); Miller v. Van Newkirk,
+628 P.2d 143
+(Colo.App. 1981); Truman v. Thomas,
+27 Cal. 3d 285
+, 165 Cal. Rptr. 308, 611 P.2d 902 (1980).
+
+The doctor's duty is to disclose all risks which are "material". LaCaze v. Collier, 434 So.2d at 1045-46; Wheeldon v. Madison,
+374 N.W.2d 367
+, 375 (S.D.1985) ("Materiality is the cornerstone upon which the physician's duty to disclose is based."); Canterbury v. Spence, supra; Crain v. Allison, supra; Kinikin v. Heupel,
+305 N.W.2d 589
+(Minn.1981); see Barclay v. Campbell,
+704 S.W.2d 8
+(Tex.1986); Prosser & Keeton, supra, p. 191. In broad   outline, a risk is material when a reasonable person in what the doctor knows or should know to be the patient's position, would be likely to attach significance to the risk or cluster of risks in deciding whether or not to forego the proposed therapy. Canterbury v. Spence, supra, at 787; La-Caze v. Collier, supra, at 1045-46; Harbeson v. Parke Davis, Inc., 746 F.2d 517 (9th Cir.1984); Prosser & Keeton, supra at p. 191.
+
+The factors contributing significance to a medical risk are the incidence of injury and the degree of the harm threatened. If the harm threatened is great, the risk may be significant even though the statistical possibility of its taking effect is very small. But if the chance of harm is slight enough, and the potential benefits of the therapy or the detriments of the existing malady great enough, the risk involved may not be significant even though the harm threatened is very great. Canterbury v. Spence, supra, at 788 and authorities cited therein; see Halligan, supra at. p. 28; see generally, Harper, James & Gray, § 16.9, p. 469 et seq.
+
+The determination of materiality is a two-step process. The first step is to define the existence and nature of the risk and the likelihood of its occurrence. "Some" expert testimony is necessary to establish this aspect of materiality because only a physician or other qualified expert is capable of judging what risk exists and the likelihood of occurrence. The second prong of the materiality test is for the trier of fact to decide whether the probability of that type harm is a risk which a reasonable patient would consider in deciding on treatment. The focus is on whether a reasonable person in the patient's position probably would attach significance to the specific risk. This determination of materiality does not require expert testimony. Harbeson v. Parke Davis, Inc., supra; Canterbury 464 F.2d  at 786; Adams v. Richland Clinic, Inc., P.S. 37 Wash. App. 650, 681 P.2d 1305 (1984); see Smith v. Shannon,
+100 Wash. 2d 26
+,
+666 P.2d 351
+, 356 (1983); Sagala v. Tavares, 367 Pa.Super. 573,
+533 A.2d 165
+(1987).
+
+There must be a causal relationship between the doctor's failure to disclose material information and material risk of damage to the patient. LaCaze v. Collier, supra, at 1048; Canterbury v. Spence, supra, at 790; see East v. United States,
+629 F. Supp. 682
+(E.D.Mo.1986); Sard v. Hardy, supra. Because of the likelihood of a patient's bias in testifying in hindsight on this hypothetical matter, this court and others have adopted an objective standard of causation: whether a reasonable patient in the plaintiff's position would have consented to the treatment or procedure had the material information and risks been disclosed. LaCaze v. Collier, supra, at 1048; Canterbury v. Spence, supra; Hook v. Rothstein, 281 S.C. 541,
+316 S.E.2d 690
+(1984); Adams v. El-Bash,
+338 S.E.2d 381
+(W.Va.1985); Reikes v. Martin,
+471 So. 2d 385
+(Miss.1985); Wheeldon v. Madison, supra; Barclay v. Campbell, supra; Cobbs v. Grant,
+8 Cal. 3d 229
+, 104 Cal. Rptr. 505, 502 P.2d 1 (1972); Hartke v. McKelway, 707 F.2d 1544 (D.C.Cir.1983).
+
+The doctor is not required to disclose material risks or information when a genuine emergency arises because the patient is unconscious or otherwise incapable of consenting, and harm from a failure to treat is imminent and outweighs harm threatened by the proposed treatment. Canterbury v. Spence, supra, at 788; see Prosser & Keeton, supra, at p. 192, n. 77 ("Compare Keogan v. Holy Family Hospital, 1980,
+95 Wash. 2d 306
+,
+622 P.2d 1246
+(true emergency), with Dewes v. Indian Health Service, D.S.D. 1980,
+504 F. Supp. 203
+(inadequate emergency)".) In situations of that kind the physician should, however, attempt to secure a relative's consent if possible. But if time is too short to accommodate discussion, the doctor should proceed with treatment. Canterbury v. Spence, supra, at 789 and authorities cited therein. See Allen v. Roark, 625 S.W.2d 411 (Tex.App.1981), modified, 633 S.W.2d   804; see generally Boland, The Doctrines of Lack of Consent and Lack of Informed Consent in Medical Procedures in Louisiana, 45 La.L.Rev. 1, 17 (1984); Meisel, The "Exceptions" to the Informed Consent Doctrine: Striking a Balance Between Competing Values in Medical Decision Making, 1979 Wis.L.Rev. 413 (1979).
+
+A doctor has a "therapeutic privilege" to withhold disclosure of a material risk when the physician reasonably foresees that disclosure will cause the patient to become ill or emotionally distraught so as to foreclose a rational decision, complicate or hinder treatment, or pose psychological damage to the patient. Canterbury v. Spence, supra, at 789; see Meisel, supra. This privilege must be carefully circumscribed, however, for otherwise it might devour the disclosure rule itself. Even in this kind of situation, the doctor should attempt to make disclosure to a close relative and obtain his consent. Canterbury v. Spence, supra, at 789 and authorities cited therein.
+
+The physician is not required to disclose risks that are not reasonably foreseeable, Hanks v. Drs. Ranson, Swan, and Burch, Ltd., 359 So. 2d 1089 (La.App.1978); Reiser v. Lohner,
+641 P.2d 93
+(Utah 1982); Kranda v. Houser-Norborg Medical Corp,
+419 N.E.2d 1024
+(Ind.App.1981), or not material, Precourt v. Frederick, 395 Mass. 689,
+481 N.E.2d 1144
+(1985); Masquat v. Maguire,
+638 P.2d 1105
+(Okl.1981); McKinney v. Nash,
+120 Cal. App. 3d 428
+,
+174 Cal. Rptr. 642
+(1981); Henderson v. Milobsky, 595 F.2d 654 (D.C.Cir.1978). Risks that are commonly understood, obvious, or already known to the patient need not be disclosed by the doctor. See Prosser & Keeton, supra, at 192 and authorities cited therein.
+
+In a trial on the merits of a suit claiming inadequate disclosure of risk information by a physician, the patient has the burden of going forward with evidence tending to establish prima facie the essential elements of the cause of action, and ultimately the burden of persuasion on those elements. Canterbury v. Spence, supra, at 791. See also McCormick on Evidence (3rd ed. 1984) sections 336-338. The burden of going forward with evidence pertaining to a privilege not to disclose, however, rests properly with the physician. This is not only because the patient has made out a prima facie case before an issue on privilege is reached, but also because any evidence bearing on the privilege is usually in the hands of the physician alone. Id. See 9 J. Wigmore, Evidence §§ 2486, 2488, 2489 (3rd ed. 1940).
+
+The statute whose construction is involved in this case is La.R.S. 40:1299.40. It provides in pertinent part:
+
+§ 1299.40. Consent to medical treatment; exception
+
+The United States Supreme Court's holdings regarding the right to privacy were succinctly set forth in Carey v. Population Services International,
+431 U.S. 678
+, 684-685, 97 S. Ct. 2010, 2017, 52 L. Ed. 2d 675 (1977). Although "[t]he Constitution does not explicitly mention any right of privacy," the Court has recognized that one aspect of the "liberty" protected by the Due Process Clause of the Fourteenth Amendment is "a right of personal privacy, or a guarantee of certain areas or zones of privacy." Roe v. Wade,
+410 U.S. 113
+, 152, 93 S. Ct. 705, 726, 35 L. Ed. 2d 147 (1973). This right of personal privacy includes "the interest in independence in making certain kinds of important decisions." Whalen v. Roe,
+429 U.S. 589
+, 599-600, 97 S. Ct. 869, 876, 51 L. Ed. 2d 64 (1977). While the outer limits of this aspect of privacy have not been marked by the Court, it is clear that among the decisions that an individual may make without unjustified government interference are personal decisions "relating to marriage, Loving v. Virginia,
+388 U.S. 1
+, 12[87] S.Ct. 1817, 1823, 18 L. Ed. 2d 1010 (1967); procreation, Skinner v. Oklahoma ex rel Williamson,
+316 U.S. 535
+, 541-42, 62 S. Ct. 1110, 1113-1114, 86 L. Ed. 1655 (1942); contraception, Eisenstadt v. Baird, 405 U.S. at 453-454, 92 S.Ct. at 1042, 1043-1044 [31 L. Ed. 2d 349 (1972)] (White, J, concurring in result); family relationships, Prince v. Massachusetts,
+321 U.S. 158
+, 166, 64 S. Ct. 438, 442, 88 L. Ed. 645 (1944); and child rearing and education, Pierce v. Society of Sisters,
+268 U.S. 510
+, 535, 45 S. Ct. 571, 573, 69 L. Ed. 1070 (1925); Meyer v. Nebraska [
+262 U.S. 390
+, 399, 43 S. Ct. 625, 626, 67 L. Ed. 1042 (1923) ]." Roe v. Wade, supra, 410 U.S.  at 152-153, 93 S. Ct.  at 726. See also Cleveland Board of Education v. LaFleur,
+414 U.S. 632
+, 639-640, 94 S. Ct. 791, 796-797, 39 L. Ed. 2d 52 (1974).
+
+The decision to obtain or reject medical treatment clearly should be recognized as falling within this cluster of constitutionally protected choices. Although the highest court has yet to so hold, one lower federal court and numerous state courts have reasoned from Supreme Court decisions that the right to privacy is broad enough to grant an individual the right to chart his or her own medical treatment plan. See, e.g. Rasmussen by Mitchell v. Fleming, 154 Ariz. 207,
+741 P.2d 674
+(1987); Bouvia v. Superior Court,
+179 Cal. App. 3d 1127
+,
+225 Cal. Rptr. 297
+(1986); Brophy v. New England Sinai Hospital, Inc., 398 Mass. 417,
+497 N.E.2d 626
+(1986); In Matter of Farrell, 212 N.J.Super. 294,
+514 A.2d 1342
+(1986); Foody v. Manchester Memorial Hospital, 40 Conn.Supp. 127, 482 A.2d 713 (1984); Matter of Welfare of Colyer,
+99 Wash. 2d 114
+,
+660 P.2d 738
+(1983); Severns v. Wilmington Medical Center, Inc.,
+421 A.2d 1334
+(Del.1980); Matter of Spring, 380 Mass. 629,
+405 N.E.2d 115
+(1980); Leach v. Akron General Medical Center, 68 Ohio Misc. 1, 426 N.E.2d 809 (1980); Satz v. Perlmutter, 362 So. 2d 160 (Fla. 1978); Superintendent of Belchertown State School v. Saikewicz, 373 Mass. 728,
+370 N.E.2d 417
+(1977); Matter of Quinlan, 70 N.J. 10,
+355 A.2d 647
+, cert. denied sub nom., Garger v. New Jersey, 429 U.S. 922, 97 S. Ct. 319, 50 L. Ed. 2d 289 (1976); Andrews v. Ballard,
+498 F. Supp. 1038
+(S.D. Tex.1980); cf. In Re P.V.W.,
+424 So. 2d 1015
+(La.1982).
+
+The choice of whether to undergo surgery or other medical treatment, no less   than the decision to continue or terminate pregnancy, is, to an extraordinary degree, an intrinsically personal decision. The patient alone must live with his disorder, encounter the risks of therapy or reap the consequences of treatment. By the same token, the choice will profoundly affect his or her development or life. It may mean the difference between life and death, pain and pleasure, poverty and economic stability. See Rasmussen by Mitchell v. Fleming, supra; Andrews v. Ballard, supra.
+
+Art. I, Section 5 of the 1974 Louisiana Constitution expressly guarantees that every person shall be secure in his person against unreasonable "invasions of privacy." This safeguard was intended to establish an affirmative right to privacy impacting non-criminal areas of law and establishing the principles of the Supreme Court decisions in explicit statement instead of depending on analogical development. See Hargrave, Declaration of Rights 35 La.L.Rev. 1, 21 (1974); see, e.g., Roshto v. Hebert,
+439 So. 2d 428
+(La.1983); Jaubert v. Crowley Post-Signal, Inc.,
+375 So. 2d 1386
+, 1387-88 fn. 2 (La.1979); Easter Seal Society v. Playboy Enterprises, 530 So. 2d 643, 646-647 (La.App.4th Cir.1988). Accordingly, we conclude that the Louisiana Constitution's right to privacy also provides for a right to decide whether to obtain or reject medical treatment.
+
+Several other states have held that the right to choose or reject medical treatment is both a federal and state constitutionally protected right. Rasmussen by Mitchell v. Fleming, supra (Arizona); Bouvia v. Superior Court, supra (California); In re Guardianship of Barry, 445 So. 2d 365 (Fla.D.C.App.1984); Matter of Quinlan, supra (New Jersey); Matter of Coyler, supra (Washington).
+
+That the constitutionally protected right to privacy extends to an individual's liberty to make medical treatment choices does not, however, automatically invalidate every state legislative regulation in this area. The practice of advising patients and obtaining their consent to treatment may be regulated in ways that do not infringe on protected individual choices. See Carey v. Population Services Intern., supra. And even a burdensome regulation may be validated by a sufficiently compelling state interest. In Roe v. Wade, for example, the Supreme Court cautioned that a woman's right to terminate her pregnancy is not absolute and that certain state interests may at some point "become sufficiently compelling to sustain regulation of the factors that govern the abortion decision." 410 U.S.  at 154, 93 S. Ct.  at 727. Thus, where a decision as fundamental as those included within the right of personal privacy is involved, regulations imposing a burden on it may be justified only by compelling state interests, and must be narrowly drawn to express only those interests, Carey v. Population Services Intern., 431 U.S.  at 685, 97 S. Ct.  at 2016; Roe v. Wade supra; cf. U.S. v. Robel,
+389 U.S. 258
+, 88 S. Ct. 419, 19 L. Ed. 2d 508 (1967).
+
+With these principles in mind we turn to the question whether the court of appeal was correct in its interpretation of La.R.S. 40:1299.40, the statute at issue in this case.
+
+The court of appeal interpreted the statute as a rule of law decreeing that when a patient signs a written form which tracks the statute's language describing broad categories of damages that may result from medical treatment generally, i.e., "death, brain damage, quadriplegia, paraplegia, the loss or loss of function of any organ or limb, or disfiguring scars", she thereby gives "informed consent" to encounter every particular material risk involved in the surgery or treatment proposed by her physician that could result in the generally described kinds of damages. Although the court of appeal did not say that the statute establishes a conclusive or irrebuttable presumption of informed consent flowing from a patient's signature upon such a form, the substance and impact of its interpretation is to this effect. See Comment, The Irrebuttable Presumption Doctrine In The Supreme Court, 87 Harv.L.Rev. 1534, 1545 (1974).
+
+*416 If the Court of Appeal's statutory construction is correct, there can be little doubt that the statute is unconstitutional.
+
+Under the Court of Appeal's view, the statute would impose a burden on or significantly interfere with the rights of patients to decide to obtain or reject medical treatment. Physicians would be encouraged by the law merely to present patients with a form copying the phraseology of the statute, rather than to fully inform each patient in layman's terms of the nature and severity of the particular material risks to be encountered in her case and the likelihood of their occurrence. Without pertinent case-specific information patients would lack the capacity to reason and make judgments on their own. They would therefore be deprived of the freedom to personally decide intelligently, voluntarily and without coercion whether to undergo the recommended treatment. The practical effect of the statute would be to deprive or burden an individual's right to decide to accept or forego medical treatment by substantially limiting access to information essential to a meaningful decision regarding the therapy proposed by the physician.
+
+There remains the inquiry whether the provision, as interpreted by the court of appeal, serves a compelling state interest and is narrowly drawn to express only the legitimate interests at stake. Clearly the state's interests in maintaining medical standards and in protecting health cannot be invoked to justify such a statute. Instead of furthering these legitimate purposes, the statute as construed by the lower courts would provide a disincentive for physicians to meet their own professional standards. A physician's standards require him to inform the patient of "everything pertinent both to his condition and to the probable course of his treatment which he is capable of understanding intellectually and able to accept emotionally," Laufman, Surgical Judgment, in Christopher's Textbook of Surgery 1459, 1461 (9th ed. L. Davis 1968), so as to afford the patient "a clear understanding of the risks and benefits of the proposed treatment alternatives or non-treatment, along with a full understanding of the nature of the disease and the prognosis." Wanzer et al, The Physician's Responsibility Toward Hopelessly 111 Patients, 310 New Eng.J.Med. 955, 957 (1984). Evidently, very few, if any, medical practitioners believe that good medical care and health will be promoted by eliminating the physician's duty to inform his patient of highly significant information regarding treatment risks.
+
+Although the text and environment of La.R.S. 40:1299.40 suggest that it furthers other state interests, none of these is comparable to those heretofore recognized as compelling. The state certainly has an interest in (1) decreasing the number of fraudulent medical claims by regulating the proof of informed consent, for the purpose of (2) reducing the cost of medical malpractice insurance and thereby (3) attracting and retaining medical talent and the delivery of adequate medical services within the state. Even if these purposes were deemed to be compelling, however, they would not justify the severe burden upon and interferences with patients' access to information necessary to the exercise of their rights to make informed choices with respect to medical treatment that would be imposed by the court of appeal's interpretation of La.R.S. 40:1299.40. The statute may be drawn or interpreted more narrowly to further the purposes of regulating proof of informed consent without causing physicians to withhold from patients all information except the phraseology of the statute.
+
+Because the court of appeal's interpretation of the statute would raise serious questions as to its constitutionality, we are called upon to determine whether there is another, equally reasonable and perhaps more appropriate, construction of the statute under which its validity may be clearly sustained. It is a basic rule of statutory interpretation that, if a statute is susceptible of two constructions, one of which will render it constitutional and the other of which will render it unconstitutional, or raise grave and doubtful constitutional questions, the court will adopt the interpretation of the statute which, without doing violence to its language, will maintain its   constitutionality. State v. Manuel,
+426 So. 2d 140
+(La. 1983) Pearce ex rel. Structural Pest Control Com. v. Sharbino, 254 La. 143,
+223 So. 2d 126
+(1969); Trahan v. Baudoin, 252 So. 2d 740 (La.App. 1st Cir. 1971); Buras v. Board of Trustees
+367 So. 2d 849
+(La.1979); State v. Newton,
+328 So. 2d 110
+(La.1976); Branton v. Parker, 233 So. 2d 278 (La.App. 1st Cir.1970); see also Dir. of La. Recovery Dist. v. Taxpayers,
+529 So. 2d 384
+(La. 1988); New Orleans Firefighters Association, et al. v. Civil Service Commission of the City of New Orleans,
+422 So. 2d 402
+(La. 1982).
+
+Although the interpretation of La. R.S. 40:1299.40 is problematic because of the statute's lack of clarity and precision, we conclude that the legislative aim was to establish a rebuttable, rather than a conclusive, presumption of consent to encounter risks adequately described in the consent form, subject to the patient's right to overcome the presumption by showing that consent was induced by misrepresentation. In our opinion, under the statute, (1) if it is proved that the patient signed a document purporting to warn him of a risk involved in the proposed surgery or treatment, (2) it is presumed that the patient understood and consented to encounter whatever risk a reasonable person, in what the doctor knew or should have known to be the patient's position, would have apprehended from the written consent form, and (3) the patient cannot disprove the presumed fact except by showing that his consent was induced by misrepresentation.
+
+The court of appeal's view that the statute, in effect, provides for a conclusive or irrebuttable presumption of informed consent is erroneous for several reasons. First, the court of appeal's interpretation would render the statute unconstitutional or raise grave doubts as to its validity, for the reasons previously expressed. Second, the statute does not provide that the presumption shall be "conclusive" or "irrebuttable" but specifically states that the presumption may not stand in the presence of proof of misrepresentation. Since a conclusive presumption is not a presumption in the true sense of the term but in reality is a rule of law, the simple term "presumption" should be interpreted to convey its generally prevailing meaning in the absence of clear contrary indication in the statute. In other contexts, the legislature has expressly designated presumptions as "conclusive" when it intended to establish a rule of this type. E.g., La.R.S. 40:1299.131. Third, the statute provides merely that a presumption of "consent", rather than of "informed consent", shall arise upon execution of the consent form. This is another indication that the legislative intent was not to impose the legal consequences of "informed consent" by rule of law upon every patient who signs a consent form but that the aim was to provide that the presumed fact (consent to encounter the risks adequately described in the consent form in layman's terms) arises from proof of the basic fact (execution of a consent form containing such adequate risk information).
+
+By the same token, we are also prompted to reevaluate portions of our own interpretation of the statute in LaCaze v. Collier,
+434 So. 2d 1039
+(La.1983). In retrospect, our statements in LaCaze that "R.S. 40:1299.40 has ...superseded ...the jurisprudential rules defining consent to medical treatment" and that "the physician [no longer is] required to discuss with the patient alternatives to the proposed treatment" are overly broad in view of the constitutional dimension of some aspects of the informed consent doctrine. Since a patient's right to choose her own medical treatment plan necessarily implies that she has a right to make considered and careful selections among the alternative medical options available in her case, a law which unjustifiably deprives or burdens this right by causing physicians to suppress or limit access to information essential to the patient's informed decision could hardly pass constitutional muster. Because the LaCaze interpretation of the statute in these respects cannot be justified by a compelling state interest and is not narrowly drawn to express only such an interest, we will adopt a more restricted yet equally reasonable interpretation of the statute that will render it constitutional without doing violence   to its language. Our institutional reluctance to modify a previous opinion is eased in this case by the fact that the statements could have been deleted from the LaCaze opinion without seriously impairing the analytical foundations of its holding.
+
+The statute may be interpreted reasonably as a modest amendment to the informed consent doctrine, rather than as a cryptic restatement of the whole body of law severely burdening or interfering with the rights of patients to make intelligent medical choices. Prior to this enactment our courts attached no particular legal significance to a medical consent merely because it happened to be in writing. (Apparently, only two American jurisdictions accorded any presumption of validity to a written consent by case law. See Zaretsky v. Jacobson 126 So. 2d 757 (Fla.App.1961); Luna v. Nering, 426 F.2d 95 (5th Cir. 1970) (Texas); see Meisel and Kabnick, Informed Consent To Medical Treatment: An Analysis of Recent Legislation, 41 U.Pitt.L.Rev. 407, 468 (1980) and authorities cited therein.) Consequently, a patient could introduce virtually any kind of relevant evidence to prove lack of consent or to rebut the doctor's evidence that the patient had consented to the therapy. Therefore, the statute may be viewed reasonably as having as its principal object a change in the law providing that, notwithstanding any other law to the contrary, a written consent to encounter the risks disclosed therein may not be rebutted except by a showing that consent was induced by misrepresentation.
+
+Since the statute does not expressly define or redefine the cause of action for failure to obtain informed consent, such an intention should not be read into its provisions. Its aim is simply to affect the burden borne by the plaintiff who would controvert the disclosure or consent set forth in the consent form. The statute is similar to provisions in ten other states dealing with either "consent forms," the need for a writing in obtaining informed consent, or the evidentiary value of a writing. See Meisel and Kabnick, supra at p. 467. These laws have not been construed to work any drastic changes in the informed consent right of action. See Pauscher v. Iowa Methodist Medical Center,
+408 N.W.2d 355
+(Iowa 1987); Petty v. United States, 740 F.2d 1428 (8th Cir.1984); Meisel & Kabnick, supra at 469. Instead, the significant aspect of the statutes that has been noted is that they all contain provisions clothing the writing with a presumption of validity. Even when viewed as presumption rules these provisions are ambiguous at best, leaving a great deal of uncertainty as to what practical significance they have and how, if at all, they change the common law of informed consent. See Meisel and Kabnick, supra at 469, 562-564.
+
+For these reasons, we conclude that, notwithstanding prior judicial expressions, the legislature by enacting La.R.S. 40:1299.40, did not intend to make substantive alterations in the informed consent doctrine. More particularly, the legislature did not intend to change the law with respect to major elements of the cause of action such as the doctor's duty to disclose material information (including reasonable alternative therapy) or the patient's burden to prove the materiality of any risk not disclosed. That the statute does not contain an express restatement of these principles is due simply to their being integral parts of the jurisprudential doctrine that the legislature tacitly accepted in accomplishing its limited purpose of regulating proof of lack of informed consent. Accordingly, we do not think the statute's reference to "known risks" indicates an intention to require physicians to inform patients of all known risks however slight or immaterial. It is more likely that the reference is to the general rule that the physician cannot be responsible for warning his patient of a hazard unless he either knew or, because of the state of knowledge in the medical profession, should have known of the particular risk. See Sard v. Hardy, 281 Md. 432, 379 A.2d 1014 (1977); Wilkinson v. Vesey, 110 R.I. 606,
+295 A.2d 676
+(1972); Revord v. Russell,
+401 N.E.2d 763
+(Ind. App. 1980); 2 Louisell and Williams, Medical Malpractice § 22.16 (1988); Waltz and Scheuneman, supra at 630-635. The "known risk" qualification is actually a limitation upon the kind of material risk   that the doctor must disclose; it does not expand his duty to require him to warn of nonmaterial risks. In a statute obviously designed to afford physicians some protection against frivolous claims and the susceptibility of claimants' testimony to modification based on hindsight it is highly unlikely that the legislature intended to enlarge doctors' potential liability so as to encompass responsibility for failure to warn of any known risk.
+
+Similarly, it is a reasonable and constitutional interpretation of the statute that a physician must disclose all known material risks to his patient, but only if the risk foreseeably may result in "death, brain damage, quadriplegia, paraplegia, the loss or loss of function of any organ or limb, [or] disfiguring scars", in order to qualify the written consent for the presumption of validity. See Hondroulis v. Schuhmacher, 521 So. 2d 534, 535-536 (4th Cir.1988) (Lobrano, J., concurring). These undoubtedly are the most serious types of damage which may result from medical treatment or surgery. If the risk is one that cannot foreseeably result in damage of this type it does not fall within the ambit of the statute. Accordingly, these damage categories serve to mark the limits of the legislated law and were not intended to deprive patients of the concrete case-specific material information that is essential to an informed and intelligent decision as to proposed treatment.
+
+In moving for summary judgment the defendant physician did not controvert the plaintiff's allegations that there was a risk of incontinence and loss of permanent bladder control associated with the surgery, that the risk was material, or that the risk materialized in her damage. The doctor moved exclusively on the ground that Mrs. Hondroulis was conclusively or irrebuttably presumed (or deemed by law) to have given informed consent to encounter every material risk associated with the surgery because she signed the consent form tracking the statutory language. We have concluded that the presumption created by the statute is not so broad, however, and that the patient is only presumed to consent to encounter whatever risks a reasonable person, in what the doctor knew or should have known to be the patient's position, would have apprehended from the written consent form. Consequently, the only issue presented by this case is whether the doctor carried his burden of showing there is no genuine issue that Mrs. Hondroulis, or a reasonable person in what the doctor should have known to be the plaintiff's position, was aware of the material risk of incontinence and loss of bladder control from the facts disclosed in the consent form so that her signature on the form was tantamount to informed consent.
+
+Mrs. Hondroulis signed a written form in which she consented to the proposed surgery and acknowledged that she was aware that a risk of "loss of function of body organs" was associated with the procedure. Accordingly, it is presumed that she understood and consented to encounter whatever risk a reasonable lay person, in what the doctor knew or should have known to be her position, would have apprehended from this language. Mrs. Hondroulis does not contend that she can disprove the presumed fact by showing that her consent was induced by misrepresentation. (Ambiguous statements, which are reasonably capable of both a true and false meaning, however, will amount to misrepresentation if the false meaning is accepted, and is intended or known to be accepted. Prosser & Keeton on Torts § 106 (5th ed. 1984); Harper, James & Gray § 7.14 (1986); and authorities cited therein. So will nondisclosure where the parties stand in some confidential or fiduciary relation to one another. Id.)
+
+On the other hand, in her papers opposing the motion for summary judgment, Mrs. Hondroulis averred and implied that the doctor knew that the surgery involved a risk that she would permanently lose control of her bladder and become incontinent, that this was a material risk because a reasonable person would have attached significance to it in deciding whether to undergo the surgery, that the doctor did not inform her of this risk, that the risk   materialized in her injury and disability, and that the doctor's failure to adequately disclose the risk caused her damage because a reasonable person properly informed would have decided against the surgery.
+
+A motion for summary judgment is properly granted only if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to material fact, and that mover is entitled to judgment as a matter of law. La.C.C.P. art. 966. Because the mover has the burden of establishing no material factual issue exists, inferences to be drawn from the underlying facts contained in the materials before the court must be viewed in the light most favorable to the party opposing the motion. Adickes v. S.H. Kress & Co.,
+398 U.S. 144
+, 90 S. Ct. 1598, 26 L. Ed. 2d 142 (1970); United States v. Diebold, Inc.,
+369 U.S. 654
+, 82 S. Ct. 993, 8 L. Ed. 2d 176 (1962); Vermilion Corp. v. Vaughn,
+397 So. 2d 490
+(La. 1981); Mashburn v. Collin,
+355 So. 2d 879
+(La. 1977). To satisfy his burden the mover must meet a strict standard by a showing that it is quite clear what the truth is, and that excludes any real doubt as to the existence of any genuine issue of material fact. Adickes v. S.H. Kress & Sartor v. Arkansas Nat. Gas Corp.,
+321 U.S. 620
+, 64 S. Ct. 724, 88 L. Ed. 967 (1944). The papers supporting mover's position are closely scrutinized, while the opposing papers are indulgently treated, in determining whether the mover has satisfied his burden. Adickes v. S.H. Kress Moore's Federal Practice, sect. 56.15[3].
+
+In order to apply these summary judgment precepts in an informed consent case it is essential to have a clear understanding of the two elements of the informed consent concept: information and consent.
+
+With respect to the information element the general rule is that the physician is obliged to disclose all material risks of the therapy to the patient. The cases addressing this issue are legion, if not always uniform, see Waltz and Scheuneman, supra at 635, and we have discussed the question in some detail earlier in this opinion.
+
+The cases have paid less attention to the consent element, id. at 643, but it is this component of the informed consent concept that is crucial to a correct resolution of the present case. Consent connotes the dual elements of awareness and assent. Restatement of Torts 2d § 892 (1979). To establish consent to a risk, it must be shown both that the patient was aware of the risk and that he assented to encounter it. Restatement of Torts 2d § 892A (1979). Therefore, it is obvious that a risk must have been understandably communicated before the element of awareness can be established. Waltz and Schueneman, supra at 643. It is for this reason that statements in standardized consent forms that the patient has been informed of "all" risks are unavailing; awareness requires that specific risks have been communicated in fact. See, e.g., Rogers v. Lumbermens Mut. Cas. Co., 119 So. 2d 649 (La.App.1960); Bowers v. Talmage, 159 So. 2d 888 (Fla. App.1963); Corn v. French, 71 Nev. 280,
+289 P.2d 173
+(1955); Gray v. Grunnagle, 423 Pa. 144, 223 A.2d 663 (1966).
+
+Communication involves the manner in which the physician must disclose risksthe vocabulary he must adopt and the degree of elaboration in which he must engage. Some courts have taken the approach that only the subjective state of mind of the patient should be considered in establishing the elements of awareness and consent. See DiFillippo v. Preston, 53 Del. 539,
+173 A.2d 333
+(1961); Natanson v. Kline, 186 Kan. 393,
+350 P.2d 1093
+(1961); Bang v. Chas. T. Miller Hosp., 251 Minn. 427, 88 N.W.2d 186 (1958); Gray v. Grunnagle, 423 Pa. 144, 223 A.2d 663 (1966). This view has been criticized, because to require the physician, absolutely, to use language which his patient will in fact understand calls for clairvoyance. Waltz and Schueneman, supra at 644. Further, the subjective standard subjects the physician to unfair risks of liability due to a claimant's testimony being modified by hindsight or to the physician's reasonably mistaken   belief that his patient understood and assented. Id. at 645.
+
+We believe that La.R.S. 40:1299.40 was adopted in response to problems of this kind and that an objective test of awareness is therefore more appropriate in interpreting and applying the statute. Accordingly, the physician is required to disclose material risks in such terms as a reasonable doctor would believe a reasonable patient in the plaintiff's position would understand. Technical language will not ordinarily suffice to disclose a risk to an untutored layperson; see, e.g., Corn v. French, supra, and abstract or blanket terms may not be adequate to communicate specific dangers. See, e.g., Petty v. United States, 740 F.2d 1428 (8th Cir.1984); Rogers v. Lumbermens Mut. Cas. Co., supra. In order for a reasonable patient to have awareness of a risk, she should be told in lay language the nature and severity of the risk and the likelihood of its occurrence. See Laufman, Surgical Judgment, in Christopher's Text Book of Surgery 1459, 1461 (9th ed. L. Davis 1968); Waltz and Scheuneman, supra at 644.
+
+Under the statute interpreted as adopting the objective test of consent, the patient is presumed to have been made aware of what a reasonable person should have apprehended from the doctor's disclosure, unless the physician should have known that something peculiar to the patient or her circumstances prevented her from having such an awareness. Professor Waltz and Mr. Scheuneman, supra at 645, succinctly explained the objective test as follows:
+
+Drawing inferences from the facts contained in the summary judgment materials in the light most favorable to Mrs. Hondroulis, we conclude that there are genuine issues as to material fact and that the mover physician is not entitled to judgment as a matter of law. Assuming, as we must for purposes of the motion, that the doctor failed to inform Mrs. Hondroulis of the material risk of her loss of bladder control and incontinence that was associated with the surgery, that Mrs. Hondroulis was not aware of this particular hazard, that the materialization of the risk caused her loss of bladder control and incontinence, and that a reasonable patient in the plaintiff's position would have withheld consent to the surgery had the material risk been disclosed, the doctor would not be entitled to judgment because Mrs. Hondroulis should be allowed to recover as a matter of law.
+
+An ordinary lay person would not gather from a warning that surgery involves a risk of "loss of function of body organs" that he or she is asked to assent to encounter the specific, material risk of being rendered permanently incontinent through loss of bladder control. The summary judgment materials do not show that Mrs. Hondroulis had any independent knowledge of this specific risk that was superior to that of an ordinary lay person. A bland statement as to a risk of "loss of function of body organs", particularly when not accompanied by any estimate of its frequency, does not amount to an understandable communication of any specific real risk. The average lay person is vaguely aware that any surgical operation involving anesthesia involves a slight chance of death and perhaps loss of body organ function that is no greater than the risk he or she assumes daily in driving an automobile, crossing a busy street or other activities causing non-material risks. Consequently, a notice of risk of "loss of function of body organs", without any description of the frequency of occurrence, the specific organ threatened or the cause of the damage involved, tends to deemphasize the severity and frequency of the hazard. See Petty v. United States, supra. By requiring the doctor to set forth the material risks "in general terms" the statute demands that he describe the   main elements of each risk rather than limited details, but it does not permit him to "generalize" in the sense of making vague or indefinite statements that do not understandably communicate the specific material risks to the patient. Any other interpretation of the statute would frustrate rather than promote intelligent self determination by patients and thereby undermine the informed consent doctrine and the patient's right to privacy.
+
+Accordingly, the judgments below granting and affirming the summary judgment are reversed and the case is remanded to the trial court for further proceedings.
+
+REVERSED AND REMANDED TO TRIAL COURT.
+
+MARCUS, J., concurs and assigns reasons.
+
+WATSON, J., dissents and assigns reasons.
+
+COLE, J., concurs in the result. Summary judgment is not appropriate on the facts.
+
+MARCUS, Justice (concurring).
+
+While not agreeing with the majority's interpretation of the presumption of informed consent created by the statute, I concur in the result.
+
+WATSON, Justice, dissenting:
+
+There is no evidence that plaintiff's incontinence and numbness were reasonably foreseeable material risks of her lumbar laminectomy. The majority erroneously assumes, without evidence, expert or otherwise, that the result of plaintiff's surgery was a material risk of which she should have been informed. There is also no evidence that a reasonable patient in plaintiff's position, that of a nurse with a prior laminectomy, would have refused to undergo the surgery if advised of the possible adverse consequences.
+
+The majority says that a reasonable person "... would have refused the surgery had she been advised of the risk." Why are there any laminectomies? Absent evidence that her present condition was a material risk of the surgery which would have persuaded a reasonable person to forego that surgery, plaintiff has failed to rebut the presumption of informed consent created by the statute.
+
+I respectfully dissent, adhering to the original opinion.[1]
+
+[*]  This case is republished in its entirety and replaces the original opinion of the court published at
+531 So. 2d 450
+; the dissenting opinion of Justice Dennis, published at 533 So. 2d 1221; and the opinion on rehearing, published at 546 So. 2d 466. The opinion on rehearing was heard by the entire court and not only by Justices Marcus, Dennis, Watson and Cole as erroneously printed at 546 So. 2d 466, 468.
+
+[1]  LSA-R.S. 40:1299.40 provides:
+
+"A. Notwithstanding any other law to the contrary, written consent to medical treatment means a consent in writing to any medical or surgical procedure or course of procedures which (a) sets forth in general terms the nature and purpose of the procedure or procedures, together with the known risks, if any, of death, brain damage, quadriplegia, paraplegia, the loss or loss of function of any organ or limb, of disfiguring scars associated with such procedure or procedures, (b) acknowledges that such disclosure of information has been made and that all questions asked about the procedure or procedures have been answered in a satisfactory manner, and (c) is signed by the patient for whom the procedure is to be performed, or if the patient for any reason lacks legal capacity to consent by a person who has legal authority to consent on behalf of such patient in such circumstances. Such consent shall be presumed to be valid and effective, in the absence of proof that execution of the consent was induced by misrepresentation of material facts.
+
+"B. Except as provided in Subsection A of this Section, no evidence shall be admissible to modify or limit the authorization for performance of the procedure or procedures set forth in such written consent.
+
+"C. Where consent to medical treatment from a patient, or from a person authorized by law to consent to medical treatment for such patient, is secured other than in accordance with Subsection A above, the explanation to the patient or to the person consenting for such patient shall include the matters set forth in Paragraph (a) of Subsection A above, and an opportunity shall be afforded for asking questions concerning the procedures to be performed which shall be answered in a satisfactory manner. Such consent shall be valid and effective and is subject to proof according to the rules of evidence in ordinary cases."
+
+[2]  The record does not disclose why bi-lateral laminectomies were performed for radial pain on the right side.
+
+[3]  "He came in late that evening and stated thatthis is the way he said it: `It looks like a recurrent disc. I'm going to scheduleyou know, we're going to have to do surgery. We're going to schedule you tomorrow.'
+
+"Q. Okay. Did you ask him what the result was from the myelogram?
+
+"A. No. No. I was so shocked the way he said it that I didn't ask him that.
+
+"Q. Was that the sum total of the conversation between you and Dr. Schuhmacher after the myelogram until the time of surgery?
+
+"A. I didn't see Dr. Schuhmacher until then." Exhibit 3, Plaintiff's Opposition to Defendant's Motion for Summary Judgment.
+
+[4]  Because these affidavits were uncontradicted, there is no inference of negligence under the doctrine of res ipsa loquitur. Compare ZeBarth v. Swedish Hospital Medical Center,
+81 Wash. 2d 12
+,
+499 P.2d 1
+(1972).
+
+[5]  Madere v. Ochsner Foundation Hospital, 505 So. 2d 146 (La.App. 4 Cir.1987) and Leiva v. Nance, 506 So. 2d 131 (La.App. 4 Cir.1987), writ den. 512 So. 2d 1176 (La. 1987).
+
+[6]  Hondroulis v. Schuhmacher, 521 So. 2d 534 (La.App. 4 Cir.1988).
+
+[7]  522 So. 2d 571 (La.1988).
+
+[8]  Since the operation was that named in the consent form, this is a negligence action, rather than the battery involved in Karl J. Pizzalotto, M.D., Ltd. v. Wilson,
+437 So. 2d 859
+(La. 1983). See the discussion in Cobbs v. Grant,
+8 Cal. 3d 229
+, 502 P.2d 1, 104 Cal. Rptr. 505 (1972), and Moser v. Stallings,
+387 N.W.2d 599
+(Iowa 1986).
+
+[9]  Osborn v. Johnston,
+322 So. 2d 112
+(La. 1975); Skipper v. Federal Insurance Company, 238 La. 779,
+116 So. 2d 520
+(1959).
+
+[10]  The Supreme Court of Idaho, considering a similar informed consent statute, held that a plaintiff is not required to establish that consent was secured maliciously or by fraud, but is only required to overcome a statutory presumption that there was consent. See Rook v. Trout, 113 Idaho 652, 747 P.2d 61 (1987) where a summary judgment in favor of the defendant doctor was reversed. Giving conclusive weight to a consent form was also held to be erroneous in Gordon v. Neviaser,
+478 A.2d 292
+(D.C.App.1984).
+
+[11]  An objective standard is found in many other jurisdictions. See, for example, Hartke v. McKelway, 707 F.2d 1544 (D.C.Cir.1983), cert. den. 464 U.S. 983, 104 S. Ct. 425, 78 L. Ed. 2d 360 (1983); Harbeson v. Parke Davis, Inc., 746 F.2d 517 (9 Cir.1984); Pauscher v. Iowa Methodist Medical Center,
+408 N.W.2d 355
+(Iowa 1987); Canterbury v. Spence, 464 F.2d 772 (D.C.Cir. 1972), cert. den. 409 U.S. 1064, 93 S. Ct. 560, 34 L. Ed. 2d 518 (1972); Crain v. Allison,
+443 A.2d 558
+(D.C.App.1982); and Sard v. Hardy, 281 Md. 432, 379 A.2d 1014 (1977). Another standard is subjective, based on what the particular injured patient would have decided if properly informed. See Petty v. United States, 740 F.2d 1428 (8 Cir.1984); Cobbs v. Grant,
+8 Cal. 3d 229
+, 502 P.2d 1, 104 Cal. Rptr. 505 (1972); Arena v. Gingrich, 305 Or. 1,
+748 P.2d 547
+(1988); Perin v. Hayne,
+210 N.W.2d 609
+(Iowa 1973) and Schultz, From Informed Consent to Patient Choice: A New Protected Interest, 95 Yale L.J. 219 (1985). Other courts have used a professional or physician-based standard, which only requires the disclosure customary in the medical community. See ZeBarth v. Swedish Hospital Medical Center,
+81 Wash. 2d 12
+,
+499 P.2d 1
+(1972); Carmichael v. Reitz,
+17 Cal. App. 3d 958
+, 95 Cal. Rptr. 381 (1971); Dunlap v. Marine,
+242 Cal. App. 2d 162
+, 51 Cal. Rptr. 158 (1966); Aiken v. Clary,
+396 S.W.2d 668
+(Mo.1965); Roberts v. Young, 369 Mich. 133,
+119 N.W.2d 627
+(1963); Di Filippo v. Preston, 53 Del. 539,
+173 A.2d 333
+(1961).
+
+[12]
+434 So. 2d 1039
+at 1046.
+
+[13]
+434 So. 2d 1039
+at 1046.
+
+[14]  464 F.2d 772 (D.C.Cir.1972), cert. den. 409 U.S. 1064, 93 S. Ct. 560, 34 L. Ed. 2d 518 (1972).
+
+[15]  See Cobbs v. Grant,
+8 Cal. 3d 229
+, 502 P.2d 1, 104 Cal. Rptr. 505 (1972).
+
+[16]  See Smith v. Shannon,
+100 Wash. 2d 26
+,
+666 P.2d 351
+(1983); Pauscher v. Iowa Methodist Medical Center,
+408 N.W.2d 355
+(Iowa 1987); and Harbeson v. Parke Davis, Inc., 746 F.2d 517 (9 Cir.1984).
+
+[17]  See Abbey v. Jackson,
+483 A.2d 330
+(D.C.Cir. 1984).
+
+[18]  Bowers v. Talmage, 159 So. 2d 888 (Fla.App. 1963).
+
+[19]  Scott v. Wilson, 396 S.W.2d 532 (Tex.Civ.App. 1965), aff'd,
+412 S.W.2d 299
+(Tex.1967).
+
+[20]  Yeates v. Harms, 193 Kan. 320,
+393 P.2d 982
+(1964).
+
+[21]  Pauscher, supra,
+408 N.W.2d 355
+(Iowa 1987).
+
+[22]  707 F.2d 1544 (D.C.Cir.1983), cert. den. 464 U.S. 983, 104 S. Ct. 425, 78 L. Ed. 2d 360 (1983).
+
+[23]  See Harbeson v. Parke Davis, Inc., 746 F.2d 517 (9 Cir.1984); Cowman v. Hornaday,
+329 N.W.2d 422
+(Iowa 1983); Petty v. United States, 740 F.2d 1428 (8 Cir.1984); Wilkinson v. Vesey, 110 R.I. 606,
+295 A.2d 676
+(1972); Pauscher, supra,
+408 N.W.2d 355
+(Iowa 1987).
+
+[24]  The emergency exception to informed consent discussed in Karl J. Pizzalotto, M.D., Ltd. v. Wilson,
+437 So. 2d 859
+(La.1983) is not applicable.
+
+[25]  ZeBarth v. Swedish Hospital Medical Center,
+81 Wash. 2d 12
+,
+499 P.2d 1
+(1972).
+
+[26]  In brief, the Society lists 156 known risks associated with a laminectomy.
+
+[27]  With the benefit of hindsight, most patients suffering adverse results undoubtedly believe this to be true. See Cobbs v. Grant,
+8 Cal. 3d 229
+, 502 P.2d 1, 104 Cal. Rptr. 505 (1972).
+
+[28]  See Kissinger v. Lofgren, 836 F.2d 678 (1 Cir. 1988); and Pauscher, supra,
+408 N.W.2d 355
+(Iowa 1987).
+
+[29]  See Kissinger, supra, note 28.
+
+[30]  See Mills v. United States, 764 F.2d 373 (5 Cir.1985), cert. den. 474 U.S. 1061, 106 S. Ct. 808, 88 L. Ed. 2d 783 (1986). Compare Petty v. United States, 740 F.2d 1428 (8 Cir.1984).
+
+[31]  Because the test is objective, plaintiff's status as a registered nurse is irrelevant.
+
+[32]  See Cowman, supra,
+329 N.W.2d 422
+(Iowa 1983); and Wilkinson v. Vesey, 110 R.I. 606,
+295 A.2d 676
+(1972).
+
+[33]  See Adams v. El-Bash,
+338 S.E.2d 381
+(W.Va. 1985) and Cobbs v. Grant,
+8 Cal. 3d 229
+, 502 P.2d 1, 104 Cal. Rptr. 505 (1972).
+
+[34]  Expert testimony is usually necessary to prove the magnitude of the risk. See, for example, Gordon v. Neviaser,
+478 A.2d 292
+(D.C.App. 1984) and Kissinger v. Lofgren, 836 F.2d 678 (1 Cir.1988).
+
+[35]  The patient's burden of proof has been described as follows:
+
+"(1) The existence of a material risk unknown to the patient;
+
+"(2) A failure to disclose that risk on the part of the physician;
+
+"(3) Disclosure of the risk would have led a reasonable patient in plaintiff's position to reject the medical procedure or choose a different course of treatment;
+
+"(4) Injury." Pauscher, supra,
+408 N.W.2d 355
+at 360.
+
+[36]  Disclosure of facts generally known by reasonable persons is not required. See Kissinger, supra, 836 F.2d 678 (1 Cir.1988).
+
+[37]  See Petty v. United States, 740 F.2d 1428 (8 Cir.1984).
+
+[38]  Kissinger, supra, 836 F.2d 678 (1 Cir.1988).
+
+[39]  In the absence of such evidence, directed verdicts were granted in Pauscher, supra,
+408 N.W.2d 355
+(Iowa 1987) and Grosjean v. Spencer, 258 Iowa 685,
+140 N.W.2d 139
+(1966).
+
+[40]  See Smith v. Shannon,
+100 Wash. 2d 26
+,
+666 P.2d 351
+(1983); Precourt v. Frederick, 395 Mass. 689,
+481 N.E.2d 1144
+(1985).
+
+[41]  Compare Halley v. Birbiglia, 390 Mass. 540,
+458 N.E.2d 710
+(1983) where an expert's affidavit stated that thrombosis was a known risk of an anteriogram.
+
+[42]  See Hartke v. McKelway, 707 F.2d 1544 (D.C. Cir.1983), cert. den. 464 U.S. 983, 104 S. Ct. 425, 78 L. Ed. 2d 360 (1983).
+
+[43]  While the opinion of the court of appeal found the presumption conclusive, the three concurring members of the court agreed that the presumption may be rebutted: the holding here.
+
+[44]  LSA-C.C.P. art. 967 provides in pertinent part that:
+
+"* * * When a motion for summary judgment is made and supported as provided above, an adverse party may not rest on the mere allegations or denials of his pleading, but his response, by affidavits or as otherwise provided above, must set forth specific facts showing that there is a genuine issue for trial. If he does not so respond, summary judgment, if appropriate, shall be rendered against him."
+
+[1]  553 So. 2d 398 (La.1988).

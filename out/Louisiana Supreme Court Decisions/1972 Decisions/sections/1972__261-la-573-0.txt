@@ -1,0 +1,221 @@
+260 So. 2d 628 (1972); 261 La. 573
+Thrift Funds Canal, Inc. v. Foy
+https://law.justia.com/cases/louisiana/supreme-court/1972/261-la-573-0.html
+
+260 So. 2d 628 (1972); 261 La. 573
+Thrift Funds Canal, Inc. v. Foy
+Court: Louisiana Supreme Court
+Release date: 1972-03-27
+Author: SANDERS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1972/261-la-573-0.html
+
+260 So. 2d 628 (1972)
+
+261 La. 573
+
+THRIFT FUNDS CANAL, INC.
+v.
+Leroy (LeRoy) Michael FOY.
+
+No. 51174.
+
+Supreme Court of Louisiana.
+
+March 27, 1972.
+
+Rehearing Denied May 1, 1972.
+
+*629 Normann & Normann, Frank S. Normann, New Orleans, for intervenor-applicant.
+
+Donald N. Memmer, New Orleans, for plaintiff-respondent.
+
+SANDERS, Justice.
+
+We granted certiorari in this mortgage foreclosure to review the judgment of the Court of Appeal, holding that the 1968 note and mortgage of Thrift Funds Canal, Inc., the foreclosing creditor, primed a 1966 note and mortgage of First National Life Insurance Company.[1] We affirm the judgment.
+
+On February 14, 1963, First National Life Insurance Company loaned Leroy M. Foy $10,000.00. Foy executed a mortgage note payable to First National in the amount of the loan, bearing 6% per annum interest from date and payable in monthly installments of $84.39. The note was paraphed for identification with a real estate mortgage describing the note and securing it. The mortgage was duly recorded on February 18, 1963. Foy made payments on the mortgage note and, by December 20, 1966, had reduced the principal to $8,227.83.[2]
+
+On that date, Foy obtained a second loan from First National. He gave a promissory note for $3,000.00, payable in 120 monthly amortized installments of $33.31 each. On its face, the note appears to be unsecured, but on the back is the following inscription signed by Foy and his wife:
+
+On December 19, 1968, Foy gave a second mortgage on the same property to Thrift Funds Canal, Inc. securing a note in excess of $16,000.00. This mortgage was recorded on December 27, 1968.
+
+*630 Thrift Funds brought foreclosure proceedings against Foy on its 1968 mortgage note. Thus, at the time of foreclosure, the court was required to evaluate three alleged incumbrances:
+
+The question presented is whether Thrift Funds' second mortgage primes First National's 1966 note as secured by the earlier mortgage. The resolution of this question has important implications for the law of security devices.
+
+In Louisiana, a conventional mortgage is an accessory security device. LSA-C.C. Art. 3284; Louis Werner Saw Mill Co. v. White, 205 La. 242, 17 So. 2d 264 (1944); Blappert v. Succession of Welsch, 192 La. 173, 187 So. 281 (1939). It is founded upon a principal debt, which it secures, and when the principal debt is extinguished, the mortgage disappears. LSA-C.C. Arts. 3285, 3411(4); Lacoste v. Hickey, 203 La. 794, 14 So. 2d 639 (1943); Rhys v. Moody, 163 La. 1039, 113 So. 367 (1927).
+
+Despite the accessory principle, however, Article 3292 of the Louisiana Civil Code authorizes a mortgage to secure a future debt. This provision enhances the commercial utility of the mortgage as a security device.
+
+For analysis, conventional mortgages may be divided into three classes: (1) a mortgage for a specific debt, (2) a mortgage for future advances, and (3) a collateral mortgage.
+
+A mortgage for a specific debt is a mortgage given to secure a particular, existing debt. See Lacoste v. Hickey, supra.
+
+A mortgage for future advances is a mortgage given to secure a debt not yet in existence. See LSA-C.C. Arts. 3292, 3293.
+
+A collateral mortgage is a mortgage designed, not to directly secure an existing debt, but to secure a mortgage note pledged as collateral security for a debt or a succession of debts. The mortgage is usually drawn in favor of future holders, represented by a nominal mortgagee. For convenience in pledging, the companion promissory note is usually payable to bearer on demand. The maker may reissue the note from time to time. See LSA-R.S. 7:9; Li Rocchi v. Keen, 242 La. 111,
+134 So. 2d 893
+(1961); Mente & Co. v. Levy, 160 La. 496, 107 So. 318 (1926); Odom v. Cherokee Homes, Inc., La.App., 165 So. 2d 855 (1964), cert. den. 246 La. 867,
+167 So. 2d 677
+; Woodward, Louisiana Notarial Manual, § 5.11, p. 132; § 5.25, pp. 151-156 (1953); 25 La.L.Rev. 789, 792-793 (1965).
+
+First National relies upon its 1963 first mortgage to secure the later note executed by LeRoy Michael Foy. The mortgage recites that Foy is indebted to First National in the sum of $10,000.00, which First National has "this day loaned" to mortgagor; that mortgagor has given a specially described $10,000.00 note to First National; and that to secure the payment of the "above described note," Foy mortgages certain property "in favor of First National Life Insurance Company, and to enure to the use and benefit of any and all future holders of said note." The mortgage is accepted by First National Life Insurance. The record reflects that First National advanced to the debtor the full amount stipulated contemporaneously with the execution of the mortgage.
+
+Clearly, the mortgage cannot be classified as a collateral mortgage. It evidences and directly secures an existing debt,   a money loan, and possesses none of the formal characteristics of a collateral mortgage.
+
+First National contends, however, that specific language in the mortgage broadens it into a mortgage for future advances, relying especially upon the following default clause:
+
+Specifically, First National argues that the clause provides for plural notes, indebtedness other than the $10,000.00 loan, and recognizes the rights of future holders.
+
+Although the argument seems plausible upon first impression, it lacks real substance. The language relied upon appears in that portion of the mortgage describing the rights of the mortgagee when default occurs. The alternative language, mortgage note, or notes, was designed to adapt this portion of the mortgage to plural notes executed with and described in the mortgage. This is evidenced by the specification, the said, that precedes the recital. It must be noted that all portions of the mortgage form have not been adapted to plural notes, but this circumstance does not bar the above construction.
+
+The phrase any future holder does no more than recognize that the mortgage note may be negotiated and held by someone other than the mortgagee at the time of default.
+
+The phrase other indebtedness secured hereby refers, not to future notes, but to the allowable expense items that may be incurred by the mortgagee in protecting its security: taxes, insurance premiums, and attorney fees. An earlier paragraph in the mortgage makes this construction quite clear. It provides that the mortgage secures "said Note and Attorney fees, taxes and premiums of insurance."
+
+It is true that, in order to secure a future debt, a mortgage need not express on its face that it is given for future advances. It may be phrased as security for an existing debt, when no debt in fact exists, and yet secure a later debt in accordance with the intention of the parties. Hortman-Salmen Co. v. White, 168 La. 1057, 123 So. 711 (1929); Collins v. His Creditors, 18 La.Ann. 235 (1866); Pickersgill & Co. v. Brown, 7 La.Ann. 297 (1852); 25 La.L.Rev. 789, 791 (1965).
+
+In Hortman-Salem Co. v. White, supra, this Court held:
+
+We find nothing in the present record, however, to show that, when the first mortgage was executed, the parties intended that it secure future advances. Quite to the contrary, the record reflects that it was designed only to secure an existing debt, a loan made contemporaneously with the execution of the mortgage.
+
+First National strongly relies upon Pickersgill & Co. v. Brown, supra. That case, however, is inapposite. There, though phrased altogether in terms of an existing debt, the mortgage was actually given partly for an existing debt and partly for later advances. The later advances were in fact made. Since the excess mortgage security had been reserved for future advances and those advances made, the court properly recognized the mortgage as one for future advances.
+
+We conclude that the present mortgage is one for a specific debt.
+
+When the present mortgage is thus construed, the case is reduced to a narrow question of law: After an installment note secured by a mortgage for a specific debt has been partially paid, can the mortgagor by inscription on a later note secure that note by the earlier mortgage to the prejudice of other mortgagees? We think not.
+
+After a mortgage note for a specific debt has been paid, the mortgage is extinguished. No later advance on the note can revive the mortgage. LSA-C.C. Arts. 3285, 3411(4); Baton Rouge Wood Products, Inc. v. Ezell, 251 La. 369, 204 So. 2d 395 (1967); Lacoste v. Hickey, supra; Mente & Co. v. Levy, 160 La. 496, 107 So. 318 (1926); Hibernia Nat. Bank v. Succession of Gragard, 109 La. 677, 33 So. 728 (1903).
+
+Article 3285 of the Louisiana Civil Code declares:
+
+When partial payment is made of a mortgage installment note for a specific debt, the payment of the installments extinguishes the note pro tanto. At the same time, the payment reduces the debt burden upon the mortgage. Thereafter, the debt burden cannot be increased to the prejudice of junior mortgages. See LSA-C.C. Art. 3377; Boagni v. Wartelle, 50 La.Ann. 128, 23 So. 206 (1897); Schinkel v. Hanewinkel, 19 La.Ann. 260 (1867); People's Bank v. Erwin, 5 Cir., 238 F. 791 (1917.)[4]
+
+In the present case, First National received the 1966 note after the balance on the original mortgage note had been reduced to about $8,000.00. The debtor continued his payments thereafter. Under the law, the debtor's inscription on the new note could effectuate no increase of the debt burden bearing upon the mortgage to the prejudice of other mortgagees. We hold, therefore, as did the Court of Appeal,   that the mortgage of Thrift Funds, the foreclosing creditor, primes the 1966 note of First National Life Insurance Company.
+
+For the reasons assigned, the judgment of the Court of Appeal is affirmed; all costs in this Court are taxed against First National Life Insurance Company.
+
+HAMLIN, J., dissents with written reasons.
+
+DIXON, J., dissents with reasons.
+
+SUMMERS, J., dissents.
+
+HAMLIN, Justice (dissenting):
+
+I dissent from the majority opinion insofar as it found that Note No. 3 primes No. 2. I do not believe that this is a case for all seasons; I find that it is a matter peculiar to its own facts and circumstances and should be decided among the parties according to their immediate actions and intentions.
+
+The issue raised herein concerns the ranking of Notes 2 and 3 of the following described three notes:
+
+Thrift Funds initiated executory process proceedings on May 15, 1969, against Leroy Michael Foy's property on which it held a second mortgage to satisfy its alleged claim of $13,516.00. It alleged that payments on its promissory note, Note No. 3, supra, were in arrears, and that Foy had failed to make a single payment on said note. It further alleged:
+
+The prayer of Thrift Funds' petition for executory process asked that the instant property be sold at a price to satisfy the $13,516.00, supra, together with interest and attorney fees, plus the sum of $470.80 and interest, plus interest on/and all sums it might have to pay the first mortgage holder.[1]
+
+First National Life Insurance Company intervened in the executory process proceedings, September 8, 1969. It alleged the making of the two notes and mortgage, supra, and showed that the notes, not having been paid according to their terms, were placed in the hands of an attorney on November 6, 1968, due demand having been made upon the mortgagor for payment thereof. Intervenor further showed that, "in the above entitled and captioned proceedings, Thrift Funds Canal, Inc., second mortgagee, is foreclosing upon its second mortgage note, and that petitioner desires to preserve its lien against the said property for the balance due on the principal amount of its original mortgage note, which together with interest amounts to $6,765.71, as of this date, and on the second mortgage note in the sum of $2,376.62, including interest, as of this date, together with $47.07 representing repairs to preserve the property by the installation of new windows which were broken by vandals, including $386.00 for insurance premiums, together with interest on said notes until same are paid, as well as 10% attorney fees, said notes having been placed with petitioner's counsel because of the default thereon."
+
+On September 24, 1969, Thrift Funds answered the intervention. It stated that on September 10, 1969, at Sheriff's Sale, it purchased the immovable property herein involved for $16,000.00 and is the lawful owner thereof. It urged that the balance due on the $3,000.00 note, supra, should not be subtracted from the proceeds of the judicial sale. It averred "that under information and belief that the alleged balance by intervenor of $6,765.71 on its `original mortgage note' as set forth in Paragraph 8 of intervenor's petition is in fact and in law greater than it should have been; that in truth and in fact payments made to intervenor should have been credited to said mortgage note which were in violation of law imputed improperly to the so-called `second mortgage note' referred to in intervenor's petition and more particularly but without limitation to Paragraph   4, thereof." (Paragraph 4 described the $3,000.00 note, reciting that there was a balance of $2,376.62 due on it, and that it was secured by the original $10,000.00 mortgage, supra.) Thrift Funds prayed for dismissal of First National's intervention and for delivery to it of a proces verbal deed free and clear of all liens, mortgages and privileges.
+
+On October 6, 1969, First National brought a rule to show cause, alleging that it was due the sum of $10,499.63[2] from the proceeds of the judicial sale. It prayed for deposit of the proceeds of the sale with the Sheriff, recognition of its intervention, and preferential payment of its claims.
+
+Thrift Funds answered the rule to show cause, October 16, 1969, and averred in part: "* * * while it did make various payments to Intervenor, it did so in accordance with a letter received by its supervisor, Mr. Alfred Middleton, which letter stated that the amount due for the delinquent months of February, March and April, was $117.70 each, and same did not state that payment was towards two different notes. Furthermore, Thrift Funds has not made a payment of any kind to Intervenor since Intervenor filed its petition of intervention. * * *"[3]
+
+The trial court rendered judgment on December 23, 1969, recognizing the intervention of First National Life Insurance Company and ordering that Intervenor be paid in preference to all other claims, privileges and liens in the sum of $10,499.63 with interest. It stated that the sum included the monies due on both promissory notes secured by the $10,000.00 mortgage and also monies due for repairs, insurance, etc.[4] The trial court reasoned:
+
+*636 "It should be pointed out:
+
+Thrift Funds appealed to the Court of Appeal, Fourth Circuit. That Court, relying on the case of Walmsley v. Resweber, 105 La. 522, 30 So. 5, reversed the judgment of the trial court so as to recognize the privilege of Thrift Funds Canal, Inc. in priority to any sums due on the 1966 note payable to First National Life Insurance Company. Insofar as the judgment of the trial court recognized the first privilege of First National as to all sums due on the 1963 note, the Court of Appeal affirmed the judgment.
+
+The application of First National Life for Certiorari was granted; the following three errors are assigned to the judgment and decision of the Court of Appeal:
+
+Thrift Funds urges that we confirm and approve the judgment of the Court of Appeal. It avers "that the legend or inscription on the reverse of the December 20, 1966 note did not `convert' the $10,000.00 1963 mortgage and note to a `collateral' mortgage and note to secure the December 20, 1966 note to the prejudice of respondent or any other third person, because: (a) the one note for $10,000.00 described in intervenor's mortgage is payable to the order of First National Life Insurance Company and not a nominal party. (Tr. 105) Scallan v. Simmesport State Bank, supra; (b) the $10,000.00 mortgage note was not given in pledge as a security for another or other obligations whether evidence by `hand notes' or otherwise. See Baton Rouge Wood Products, Inc. v. Ezell, 251 La. 369, 204 So. 2d 395 (1967); and (d) [c] intervenor's act of mortgage does not describe an acceptance   of the active mortgage. French v. The Mechanics and Traders Bank, 4 La.Ann. 152 (1899) and Woodward Louisiana Notarial Manual, 166 (2d ed. 1962)."
+
+The positions of counsel in this Court are diverse. They would like for us to lay down a hard and fast rule governing financial transactionsnote-mortgagesimilar to those herein involved. Counsel for First National Life prays for a broad interpretation of the instant mortgage, alleging that it is conventional but alternatively collateral; counsel for Thrift Funds prays for a narrow and strict "hew the line" construction.
+
+I have set forth the facts, supra, in detail because I find, as stated supra, that this case rests on its own peculiar facts and circumstances.
+
+The instant notes were not negotiated to third parties; they remained in the hands of the first holders; there were no innocent parties to the transactions, supra. Insofar as the record shows, the parties did not rely on the faith of the public records; no fraud was proved; there was communication between First National and Thrift Funds.
+
+I am fully aware of the technical banking, finance company, homestead, credit, insurance, etc., transactions of the 1970's. Conventional and collateral mortgages are given daily as security devices. It has been held that the transactions, in order to avoid litigation, should be specific.[5]
+
+The question at hand is whether the instant mortgage of 1963 qualifies as security for the 1966 note.
+
+Pertinent provisions of the mortgage recite:
+
+The mortgage described the 1963 note and recited that the note had been paraphed "Ne Varietur." The mortgage and note were recorded in Mortgage Book No. 409, Folio 994, Parish of Jefferson.
+
+The record reveals that no other indebtednesses with respect to the 1963 mortgage were incurred by Foy between the date of recordation of the 1963 mortgage and note, supra, and the execution of the 1966 note. Foy's original indebtedness to First National was $10,000.00, and he had reduced his 1963 note to approximately $7,000.00 when he executed the 1966 note for $3,000.00. The 1966 transaction indicated an intention on the part of the borrower to remain indebted to First National to the extent of $10,000.00 and an intent on the part of the lender to loan Foy an amount equal to the $10,000.00 limit of the 1963 mortgage.
+
+The 1966 note payable to First National Life Insurance Company was neither recorded nor paraphed. The following inscription, as stated supra, appears on the back of the note, "This note is secured by a mortgage executed under date of 2-14-63 together with the said mortgage note. It being understood that the mortgage and note shall remain in full force and effect as collateral security to this note."
+
+Without equivocation, I find that First National Life Insurance Company and Foy intended that the 1963 mortgage secure the 1966 indebtedness as well as the balance due on the 1963 note.
+
+I conclude that between Foy and First National a binding contract with respect to the securing of the 1966 note by the 1963 mortgage was executed. The mortgage sufficed in its provisions, quoted supra, to secure the 1966 debt at the time that it was incurred.
+
+The transactions detailed, supra, reflect that when Thrift Funds and Foy executed the 1968 note, no concealment took place. Subsequent transactions, such as the letter of April 25, 1969, written by First National to Thrift Funds, show an awareness on the part of Thrift Funds as to past negotiations between Foy and First National.
+
+As stated supra, Thrift Funds made payments on Foy's indebtedness to First National. It states that such payments were to be attributed only to the 1963 note, but First National's receipts issued to Thrift Funds stated otherwise, and Thrift Funds was cognizant of the receipts' recitations. Throughout the first half of 1969, there was communication between Thrift Funds and First National; both parties knew of   each other's actions. The property was finally sold on September 10, 1969, and purchased by Thrift Funds.
+
+I am constrained to conclude that under the facts and circumstances peculiar to this matter, First National's claim to priority of payment for the balance due on its 1966 note from Foy out of the proceeds of the instant Sheriff's Sale should be sustained. I also conclude that under the facts and circumstances herein presented, the 1963 mortgage secured the 1966 note given by Foy to First National. My findings and conclusions preclude the necessity of a discussion of the jurisprudence quoted and cited in the majority opinion.
+
+I respectfully dissent.
+
+DIXON, Justice (dissenting).
+
+I respectfully dissent.
+
+The majority opinion creates more problems than it solves. It makes the rank of competing mortgages depend on the mental state of the parties at the time the oldest mortgage is executed.
+
+Hortman-Salmen Company, Inc. v. White, 168 La. 1057, 123 So. 711, the latest expression of this court on the point, seems to be squarely contrary to the conclusion reached by the majority, yet the majority cites the case with apparent approval.
+
+Walmsley v. Resweber, 105 La. 522, 30 So. 5, supports the conclusion reached by the majority, was relied on by the Court of Appeal, and is contrary to Hortman-Salmen v. White. Our majority opinion refers to "dicta" in Walmsley v. Resweber, but the syllabus by the court on rehearing states that "the right of the mortgage creditors second in rank is recognized as priming the mortgage first in rank to the extent that it was without consideration at the date that the mortgage creditors second in rank acquired their right."
+
+The problems involved in this case are discussed in 32 Louisiana Law Review, 233. One problem is the large number of presently outstanding loans in Louisiana "secured by mortgages given and recorded long before such loans were made, where the mortgage instruments say absolutely nothing about the mortgagor's intent to secure future advances thereby." 32 Louisiana Law Review, 233, 238. Our holding implies that these loans are unsecured in the absence of parol evidence to establish the intent of the parties at the time the mortgage was executed.
+
+As Professor LeVan described the situation in 32 Louisiana Law Review, 233, affirming the Court of Appeal solves none of the problems that do exist in this field. In my view, we have unnecessarily created new problems.
+
+In my opinion, Walmsley v. Resweber should be specifically overruled, Hortman-Salmen v. White should be affirmed, and the Court of Appeal in the instant case should be reversed.
+
+[1]  242 So. 2d 253 (1971). Writ granted, 257 La. 980, 244 So. 2d 855 (1971).
+
+[2]  First National Life Insurance Company Exhibit No. 1, Tr. 93.
+
+[3]  In its decision, the Court of Appeal erroneously relied upon dicta in the earlier case of Walmsley v. Resweber, 105 La. 522, 30 So. 5, On Rehearing (1901). This dicta, that in order for a mortgage to secure a future debt it must be so stipulated in the mortgage, conflicts with the established jurisprudence and is unsound. In Walmsley, the basic question was one of priority as between a "collateral" mortgage and a third person's mortgage that attached while the collateral mortgage notes were in the hands of the maker. See Comment, Mortgages to Secure Future Advances, 34 Tul.L.Rev. 800, 809 (1960).
+
+[4]  No question of novation is presented in this case. See LSA-C.C. Arts. 2185, 2195; Levy v. Ford, 41 La.Ann. 873, 6 So. 671 (1889).
+
+[1]  Evidence of record discloses that on May 8, 1969, Thrift Funds paid First National Life Insurance Company $337.56-$140.95, interest, and $196.61 principal, on behalf of Foy. The receipt recited that there was a $6,887.52 balance due.
+
+The evidence of record also discloses that on May 8, 1969, Thrift Funds paid First National Life Insurance Company $133.24$50.01, interest, and $83.23, principalon behalf of Foy. The receipt recited that there was a balance due of $2,432.59.
+
+The above two payments of $337.56 and $133.24 amount to $470.80.
+
+The evidence also discloses that on June 16, 1969, Thrift Funds made similar payments to those above in the sums of $84.39-$34.44, interest, $49.94, principal, balance $6,837.57and $33.31-$12.16. interest, $21.15, principal, balance, $2,411.44.
+
+The evidence further discloses that on July 16, 1969, Thrift Funds made payments of $84.39-$34.19, interest, $50.20, principal, balance, $6,787.37 and $33.31-$12.06, interest, $21.25, principal, balance, $2,390.19.
+
+The evidence still further discloses that on August 19, 1969, two payments were made of $33.31$11.95, interest, $21.36, principal, balance $2,368.83and $84.39$33.94, interest, $50.45, principal, balance $6,736.92.
+
+[2]  The above amount includes the following:
+
+[3]  On April 25, 1969, Mrs. Aline Duelfer, Cashier Mortgage Loan Dept., First National Life Insurance Company, addressed a letter to Mr. Alfred Middleton, Thrift Funds Canal, Inc., with respect to Leroy M. Foy; the letter recited, in part:
+
+"Confirming our telephone conversation in regard to the above mentioned mortgage loan, it will be agreeable with our Company for you to pay the three delinquent payments on this account, February, March and April, in the amount of $117.70 each or a total of $353.10.
+
+"After these three payments are credited to the account, the unpaid principal balance will then be $9,390.85.
+
+"If it is your desire to file foreclosure proceedings on this party, our Company has no objections to this step. However, as far as you assuming our loan at that time, we prefer that you liquidate our loan as of that date."
+
+[4]  The record contains a statement, dated January 20, 1970, from the Deputy Sheriff, Parish of Jefferson, to the effect that the property herein involved was appraised at $24,000.00; it was sold to Donald N. Memmer, Attorney, acting as agent for Thrift Funds Canal, Inc., for $16,000.00. "The amount of $10,735.77 was paid to Normann & Normann, Attys., for First National Life Insurance Co., to satisfy the mortgage recorded M. O. B. 409/994. The amount of $4,898.79 was retained and applied to the mortgage held by the plaintiff, THRIFT FUNDS CANAL, INC., recorded in M. O. B. 523, folio 586."
+
+[5]  In Scallan v. Simmesport State Bank, La.App., 129 So. 2d 49, the Court stated: "The first argument of plaintiffs, which we deem it appropriate to consider, is that the mortgage notes issued in 1949 were for a specific debt, and were not for future use in favor of any future holders, and consequently that the mortgage was extinguished when Mr. Noah J. Scallan reacquired the notes. This argument is without merit. An examination of the 10 mortgage notes shows that they are made payable to a nominal party, that is, they were made payable to the maker and by him endorsed. The mortgage itself shows that it is drawn in favor of `any future holder or holders of the herein described notes'. The jurisprudence is well settled that such mortgage notes drawn for future use and in favor of any future holder may be reacquired by the maker and reissued as collateral security and the mortgage will not be extinguished. In the case of Mente & Co., Inc. v. Levy, 160 La. 496, 107 So. 318, 320, the court cited many authorities and held as follows:
+
+"`The rule is well settled, at least in the jurisprudence of this state, that, when a mortgage is given for a specific debt to a particular creditor, payment of that debt extinguishes the mortgage and a reissue of the note will not revive or reinstate the mortgage.
+
+"`Indeed that is the plain provision of the Code.
+
+"`Hence it happens that in all cases where the principal debt is extinguished the mortgage disappears.' C.C. Art. 3285.
+
+"`It is otherwise when the mortgage note is not for a specific debt, but for future use and in favor of any future holder. In such a case the note may be reissued and used as collateral and the accessory right of mortgage preserved intact." "See, Baton Rouge Wood Products, Inc. v. Ezell, 251 La. 369, 204 So. 2d 395; 25 La.L.Rev. 789.
+
+In the instant case, 242 So. 2d  at 254, the Court of Appeal said, "There is moreover no doubt that our law can and does provide for a mortgage to secure future advances."

@@ -1,0 +1,111 @@
+60408
+Rodriguez v. Northwestern Nat. Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1978/358-so-2d-1237-1.html
+
+60408
+Rodriguez v. Northwestern Nat. Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1978-05-22
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/358-so-2d-1237-1.html
+
+358 So. 2d 1237 (1978)
+
+Robert RODRIGUEZ
+v.
+NORTHWESTERN NATIONAL INSUANCE COMPANY et al.
+
+No. 60408.
+
+Supreme Court of Louisiana.
+
+May 22, 1978.
+
+*1238 Judith Atkinson Chevalier, Dale, Owen, Richardson, Taylor & Mathews, Baton Rouge, for appellants.
+
+Frank L. Koles, III, Ponder & Ponder, Amite, Warren L. Mengis, Mengis, Roberts, Durant & Carpenter, Baton Rouge, for appellee.
+
+DENNIS, Justice.
+
+Plaintiff Robert Rodriguez instituted suit against Northwestern National Insurance Company of Milwaukee, Wisconsin and against Interstate Surplus Underwriters, Inc., Northwestern's Louisiana agent, seeking to recover the sum of $25,000 together with 12% statutory penalties and $5,000 attorney's fees, as compensation for the loss of a Case log skidder which was destroyed by fire on November 29, 1973. The defendants' answer acknowledged the existence of a policy of insurance covering the log skidder, but denied coverage under the policy due to alleged violations of a warranty endorsement by the insured.
+
+Subsequent to the filing of defendants' answer, Crawler Supply Company, Inc., intervened in the litigation, alleging that it had sold the skidder to Rodriguez and that a balance of $13,374.06 was due under its financing agreement with plaintiff. After a judge trial, judgment was rendered in favor of Rodriguez and Crawler Supply in the amount of $25,000 together with legal interest and costs. The $13,374.06 owed to Crawler Supply was to have priority over the judgment rendered in favor of Rodriguez, who was to collect the balance of the $25,000 judgment after the payment to Crawler Supply.
+
+Both defendants appealed suspensively from the judgment; plaintiff answered the appeal, seeking statutory penalties and attorney's fees. A five-judge panel of the First Circuit Court of Appeal, with one judge concurring in the majority's legal conclusions and two judges dissenting, reversed the trial court and rendered judgment dismissing the plaintiff's suit. Rodriguez v. Northwestern National Insurance Company, et al., 347 So. 2d 1238 (La.App. 1st Cir. 1977). We granted certiorari to examine the effect of the alleged breach of warranty upon the insurance company's obligation under the contract.
+
+The policy issued to Rodriguez by Northwestern National was denoted a "Special Floater Policy" designed to insure against certain specified perils. Among the risks covered by the policy was damage to the equipment by fire; a special endorsement, purporting to regulate the fire coverage, was attached to and made part of the policy, and provided in pertinent part:
+
+"WARRANTY ENDORSEMENT
+
+"* * *
+
+On November 29, 1973, the skidder was being operated by Jack Lanier, an employee of Rodriguez, in a heavily wooded area some two and one-half miles from Springfield, Louisiana. Some time after noon, while engaged in normal operation of the equipment, Lanier noticed fire coming from beneath the floor of the skidder. He jumped from the machine and attempted to put out the fire using a fire extinguisher which had been provided with the skidder as standard equipment. Lanier could not get the fire extinguisher to work, so he drove to a telephone, called the Springfield fire department, and returned to the scene of the fire. The fire department eventually subdued the blaze, but the skidder by this time was virtually destroyed.
+
+Plaintiff conceded at trial that the fire extinguisher which came as standard equipment with the skidder was in fact rated 5BC as opposed to the 1A or 10BC rating specified as a minimum requirement in the warranty agreement. Further, the testimony of Lanier indicated that, while he did conduct a daily inspection and cleaning of the skidder, this procedure was customarily carried out in the morning rather than the afternoon. Lanier further stated that other inspections were not done on a regular schedule, but were performed as needed or whenever a lull in the work schedule permitted. Rodriguez testified that the fire extinguisher which was present on the skidder at the time of the fire had never been inspected or serviced. He further stated, however, that the extinguisher came new with the skidder, that it had never been used, and that he had no reason to believe that it was not in top working order. Rodriguez stated that he had never tested the extinguisher himself because to do so would render it inoperable in a subsequent fire.
+
+Immediately after the fire the insurer's adjuster took possession of the fire extinguisher. However, except for Lanier's testimony that he could not get the extinguisher to work, the record is silent as to its actual working condition. Although the extinguisher was introduced into evidence at trial, the insurer offered no evidence as to whether any tests or inspections were performed on the extinguisher and no expert testimony as to its operability.
+
+Legislative restrictions on warranty defenses are an outgrowth of the common law in insurance cases. Warranties in insurance contracts are divided into two classes. Affirmative warranties, sometimes referred to as representations, are "statements of supposedly existing facts, on the truth of which the insurer's duty depends." In contrast, promissory warranties, of the type involved in the instant contract, are defined as "agreements that the insurer's duty shall be conditional on the future existence or happening of certain facts."[2] At common law,   any breach of a warranty, however immaterial, was sufficient to avoid the contract.[3]
+
+Due to the increasing complexity of insurance policies and to the greater danger of overreaching by insurers "their gaining an unconscionable advantage by the use of complex policy provisions concerning facts that the untutored purchaser would be surprised to find relevant to his insurance coverage,"[4] many states, including Louisiana, enacted "anti-technical" statutes designed to preclude denial of coverage through the assertion of defenses not materially related to the risk.[5] The statutes, in general, are of two types: one requires that the violation of the warranty must increase the physical or moral risk protected by the policy; the other states that a violation, in order to constitute a defense, must contribute to the loss.[6]
+
+Prior to the time of the enactment of the anti-technical statutes, Louisiana courts followed the common-law rule of voiding an insurance policy upon a breach of warranty regardless of the materiality of the provision to the risk. Goicoechea v. Louisiana State Insurance Company, 6 Martin (N.S.) 51 (1827). Some insurance companies, however, included in the policy provisions further stating that the policy would be of no effect if the insured in any way increased the risk to the insured property during the tenure of the policy. Meyer v. Queen Ins. Co., 41 La.Ann. 1000, 6 So. 899 (1890). See, Dittmer v. Germania Insurance of New Orleans, 23 La.Ann. 458 (1871).
+
+By Act 222 of 1928, the Louisiana legislature enacted an "anti-technical" statute to limit defenses on fire insurance policies. The legislation, after amendment and reenactment as Louisiana Revised Statute 22:692, provides:
+
+The court of appeal analyzed La. R.S. 22:692 and correctly determined that it belongs to the class of anti-technical statutes which requires that, in order to provide the insurer with a defense, the violation of the warranty must increase the physical or moral risk protected by the policy. As the appeal court indicated, our jurisprudence has held that an insurer is not required by the statute to show a causal relation between a breach of a warranty and a loss to avail itself of a warranty defense under a fire insurance policy.[7] Thus, under the pertinent   provisions of the statute, in order for the fire insurer to defend successfully in the instant case on a warranty provision, there must have been (1) a breach of a warranty; (2) the breach must have increased the physical hazard under the policy; and (3) both the breach and the resulting increase in hazard must have existed at the time of the loss.
+
+We also agree with the court of appeal's conclusion that La.R.S. 22:692 is applicable to the warranties contained in the insurance policy in the instant case. The insurer contends that La.R.S. 22:692 is inapposite because the insurance contract is designated as a "special floater policy" and because the statute is applicable to a "policy of fire insurance issued by any insurer on property in this state." La.R.S. 22:692. A review of the insurance code, however, reveals that such a narrow construction of the statute is unjustified. La.R.S. 22:692 does not apply exclusively to contracts which insure solely against loss through fire. It applies as well to warranty conditions upon fire insurance coverage included in contracts of insurance which cover a variety of risks. This Court has previously applied the statute to a policy covering accident and theft in addition to fire losses. Lee v. Travelers Fire Ins. Company, 219 La. 587,
+53 So. 2d 692
+(1951).
+
+However, the court of appeal evidently did not follow well settled principles pertaining to the construction of ambiguous insurance contracts, the burden of proving the warranty defense and the appellate review of factual determinations by the trial court. If there is any ambiguity in the insurance contract, it must be resolved in favor of the insured. La.C.C. art. 1957; Schonberg v. New York Life Insurance Company, 235 La. 461,
+104 So. 2d 171
+(1958); J. K. Martin Pulpwood Company, Inc. v. Travelers Indemnity Company, 295 So. 2d 886 (La.App.2d Cir. 1974). Breach of warranty is a special defense which the insurer has the burden of proving by at least a preponderance of evidence. Brough v. Presidential Fire & Marine Ins. Co., 189 La. 880, 181 So. 432 (1938); Knowles v. Dixie Fire Ins. Co. of Greensboro, N. G., 177 La. 941, 149 So. 528 (1933). The findings of fact by the trier of fact are entitled to great weight and shall not be disturbed by the court of appeal unless they are manifestly erroneous. Canter v. Koehring Company,
+283 So. 2d 716
+(La.1973).
+
+The insurer's warranty defense was based upon four alleged violations of the policy's warranty endorsement: (1) failure to provide a fire extinguisher on the insured equipment "with a rating of at least 1A or 10BC;" (2) breach of the warranty that "such extinguisher will be maintained in good working condition and recharged when necessary;" (3) failure to shut down and inspect the skidder for accumulation of trash "at frequent intervals during the working day;" and (4) failure to remove trash from the skidder before discontinuing work for the day. Therefore, each of these four contentions must be considered in light of the applicable principles of law heretofore stated.
+
+At trial of the instant case, testimony elicited by both parties established that the fire extinguisher on the skidder had a rating of 5BC. The warranty provided that the extinguisher should have a rating of "at least 1A or 10BC." There is no evidence in the record that a 5BC rating does not equal or exceed the minimum rating warranted. Nothing in the record demonstrates that a 5BC extinguisher is any less useful or effective than the type of extinguisher expressly required as a minimum safeguard by the policy. Moreover, no testimony whatsoever was introduced by the defendant insurer to show that the substitution of the 5BC extinguisher in any way increased the risk   covered by the policy. Therefore, me trial court correctly rejected the insurer's claim that the warranty was materially violated by the use of the 5BC extinguisher. It is clear that the insurer failed to sustain its burden of proof on this issue.
+
+The warranty provides that "such extinguisher will be maintained in good working condition and recharged when necessary." The intermediate appellate majority interpreted these words as a promise by the insured "to have an operable extinguisher" of at least the rating described on the machine. The court of appeal's interpretation is a reasonable one. But the warranty is also susceptible to a rational interpretation that the insured promised merely to perform all maintenance reasonably required to keep the extinguisher in good working condition, including recharging it when necessary. Because the warranty is ambiguous, it must be presumed that the parties intended for its words to have the latter meaning, which is more favorable to the insured. The proper appellate inquiry, therefore, would have been whether the trial judge reasonably determined from the evidence that the insured had done all acts practicably within his power to maintain a workable fire extinguisher on the skidder.
+
+Mr. Rodriguez testified that he obtained the extinguisher as standard equipment with his new skidder some eighteen months before the trial and that the extinguisher had never been used. He stated that the extinguisher had not been tested because to do so would deplete the chemical contents and render it useless until recharged. The insurer did not introduce any evidence to show what proper maintenance of a fire extinguisher entails or to demonstrate that the insured was derelict in assuming that the extinguisher would remain fully charged for over eighteen months. Despite the fact that the extinguisher was in possession of the insurer for approximately eleven months following the fire, no expert evidence was introduced to show that a mechanical defect existed in the extinguisher which could be attributed to a lack of proper maintenance on plaintiff's part, or, for that matter, that the fire extinguisher was defective at all.[8] Under these circumstances the trial judge reasonably could have inferred that the insurer's unexplained failure to present evidence on this issue was due to the fact that it would have been harmful to its defense.[9]
+
+For all of these reasons a finding of fact that the insurer did not prove by at least a preponderance of evidence that the plaintiff failed to perform adequate maintenance or necessary recharging of the extinguisher was not manifestly erroneous.
+
+The warranty endorsement required that the skidder "be shut down and inspected at frequent intervals during the day to remove any accumulation of leaves, trash, or fuel from the engine compartment and specifically from the exhaust manifold and protection belly pan" and specifically that "such trash and accumulation shall be removed before discontinuing work for the day." Testimony adduced at trial indicated that Lanier, an employee of the insured, conducted the required inspections at morning rather than at night, and that the other inspections mentioned in the warranty were conducted on no particular schedule, but rather were performed as needed or whenever the schedule of work permitted.
+
+*1243 No evidence was introduced by the defendant which tended to demonstrate that daily inspections made in the morning rather than at the end of the work day tended to cause an increase in the risk of fire existing at the time the loss occurred. The end-of-the-day inspection undoubtedly was designed to reduce the hazard of fire after working hours and not the risk of fire occurring during work after a morning inspection on the following day as in the instant case. The insurer's failure to prove an increase of physical hazard existing at the time of the loss due to such a breach is evident.
+
+The warranty provision requiring inspections for trash accumulation "at frequent intervals during the day" is ambiguous in that it does not define "frequent" or otherwise stipulate the length of time which may elapse between inspections. The only evidence adduced at trial, which may reasonably be termed as expert testimony regarding the construction and use of skidders, indicated that it would have been impractical and unreasonable during logging operations to shut the skidder down for inspection more than a few times each day. The parties may have intended by the term "frequent interval" to recognize the fact that the number of inspections required to keep the machine reasonably free of trash would vary each work day depending on the terrain, the amount of undergrowth, and other factors which might affect the rate of trash accumulation.
+
+On the day of the fire Lanier inspected the skidder before starting to operate it at about 7:00 a. m. Lanier was not certain but testified that he thought the fire began shortly before noon. Under these circumstances, it is not at all clear that the insured's employee had failed to inspect the skidder "at frequent intervals during the day" when the fire occurred. Such ambiguous insurance contract provisions must be construed liberally in favor of the insured.[10] The trial judge reasonably could have found that the insurer did not prove a breach of the warranty because a reasonable construction in favor of the insured does not require a more rigorous inspection schedule than that followed on the day of the fire.
+
+Even if we assume that the warranty was breached, the evidence will support a factual finding that the insurer failed to carry its burden of proving a consequential increase in the physical hazard. It is not every slight and insubstantial increase in the risk or hazard which will enable the insurer to void the insurance coverage contracted. The increase must be material or substantial.[11] If we were to assume that Lanier failed to inspect with the frequency required, the evidence does not demonstrate that the risk of loss caused by the breach was materially or substantially greater than the physical hazard which would have existed had inspections been performed at shorter intervals. Accordingly, the trial judge would not have erred manifestly by concluding that the insurer failed to prove that the lack of more frequent inspections was such a breach as would materially increase the physical hazard under the policy.
+
+For the foregoing reasons, the judgment of the court of appeal is reversed and the judgment of the trial court is affirmed.
+
+[1]  Williston on Contracts, § 673 at 172 (3d ed. 1961).
+
+[2]  Id.
+
+[3]  Patterson, Warranties in Insurance Law, 34 Col.L.Rev. 595 (1934).
+
+[4]  Keeton, Insurance Law, § 6.5(b) at 373 (1971).
+
+[5]  Id.
+
+[6]  Id. at 382. See, Rodriguez v. Northwestern National Insurance Co., supra, at p. 1242.
+
+[7]  See, American Indemnity Co. v. Newson, 79 So. 2d 392 (La.App. 2d Cir. 1955); Terwilliger v. Union Fire, Accident & Gen. Ins. Co., 185 So. 43 (Orl.App.1938); Brough v. Presidential Fire & Marine Ins. Co., 189 La. 880, 181 So. 432 (1938); Knowles v. Dixie Fire Ins. Co. of Greensboro, N. C., 177 La. 941, 149 So. 528 (1933); Sigrest v. Federal Ins. Co., 14 La.App. 55, 129 So. 379 (1st Cir. 1930); cf. Fleet v. National Fire Ins. Co., 167 La. 74, 118 So. 697 (1928); Meyer v. Queen Ins. Co., 41 La.Ann. 1000, 6 So. 899 (1890); Dittmer & Pelle v. Germania Ins. Co., 23 La.Ann. 458 (1871). For examples of state statutes adopting the contribute-to-loss standard, see, Iowa Code § 515.101; Nebraska R.S. § 44-358; Texas Ins. Code Art. 6.14. See, Keeton, supra, at § 6.5(c). See also, Note, The Divisibility of Warranties in Insurance Policies, 18 Vanderbilt L.Rev. 719 (1965).
+
+[8]  The defense on this issue was based almost entirely on the undisputed evidence that Jack Lanier was unable to activate the extinguisher at the time of the fire. This evidence alone, arguably, is not conclusive proof of the extinguisher's defectiveness because of the possibility that failure of operation was due to Lanier's excitement or lack of skill rather than to a defect in the extinguisher.
+
+[9]  Jackson v. Jackson, 212 So. 2d 265 (La.App. 4th Cir. 1968); Martin v. Lehmann, 147 So. 2d 243 (La.App. 4th Cir. 1962); cf. Tubesales v. Champion Machine Works, Inc., 281 So. 2d 459 (La.App. 4th Cir. 1973). Although the inference ordinarily does not arise when the evidence is equally available to both parties (see Austin v. Perry, 325 So. 2d 722 (La.App. 4th Cir. 1976)), such is not the case here. The extinguisher was in the hands of the defendant's employee from the time of the fire for some six months. Therefore the opportunity to ascertain the condition of the fire extinguisher immediately after the fire was exclusively within the defendant's control.
+
+[10]  See, Schonberg v. New York Life Insurance Company and J. K. Martin Pulpwood, Inc. v. Travelers Indemnity Company, cited supra.
+
+[11]  Couch, supra, § 37:695. Cf. Knowles v. Dixie Fire Ins. Co. of Greensboro, N.C., supra.

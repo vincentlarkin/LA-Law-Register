@@ -1,0 +1,151 @@
+89-K-2676
+State v. West
+https://law.justia.com/cases/louisiana/supreme-court/1990/89-k-2676-2.html
+
+89-K-2676
+State v. West
+Court: Louisiana Supreme Court
+Release date: 1990-10-22
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1990/89-k-2676-2.html
+
+568 So. 2d 1019 (1990)
+
+STATE of Louisiana
+v.
+David WEST.
+
+No. 89-K-2676.
+
+Supreme Court of Louisiana.
+
+October 22, 1990.
+
+*1020 M. Craig Colwart, Orleans Indigent Defender Program, for David West defendant-applicant.
+
+Harry F. Connick, Dist. Atty., Janet Ahern, Jack Peebles, Pamela Sue Moran, Asst. Dist. Attys., for State of La., plaintiff-respondent.
+
+MARCUS, Justice.
+
+On May 9, 1985, the New Orleans Police Department received a report of a possible kidnapping of Curtis Hardy. Hardy was last seen near Donald Robertson's apartment, walking toward a blue Valiant with defendant and a man later identified as Gerald Gerrell. Gerrell was apparently restraining Hardy's hands behind his back and appeared to force Hardy into the car.
+
+After the officers responded, they saw the kidnapping suspects drive by. They stopped the car and found Gerrell in the driver's seat, Donald Robertson in the passenger seat, and defendant in the back seat. The three men were arrested for simple kidnapping. A search of the car revealed a .357 magnum gun on the front seat and a pair of bloodstained blue jeans on the rear floorboard. The blue jeans belonged to defendant.
+
+The next day, police discovered the bodies of Curtis Hardy and Clayton Jones in a brown Malibu. Each man was blindfolded, had his hands bound and had been shot once in the back of the head. The police crime lab determined the two bullets recovered from the victims' skulls were fired from the .357 magnum gun found in the arrestees' car. Later investigation also revealed both victims had Type B blood, the same type of blood on the jeans found in the arrestees' car. Defendant was questioned on that afternoon by police. When asked if he knew about a murder, he replied he knew "nothing about any murder and he didn't shoot anybody."
+
+All three men were charged with the first degree murder of Hardy and Jones, and were tried separately. Defendant testified at Robertson's trial, and this testimony was subsequently admitted at his own trial.[1]
+
+*1021 At the conclusion of the evidence, the trial judge instructed the jury on the applicable law, including the law of principals.[2] The jury was apparently troubled by this instruction, since it requested clarification on the issue of principals.[3] Several hours after this explanation, the jury again asked for clarification.[4]
+
+*1022 Thereafter, the jury unanimously found defendant guilty of first degree murder. After a sentencing hearing, the jury unanimously rendered a determination of a life imprisonment, without benefit of probation, parole or suspension of sentence. Defendant appealed, arguing the jury charge on the law of principals relieved the state of the duty to prove that defendant had the specific intent to kill or inflict great bodily harm required for a conviction of first degree murder. The court of appeal affirmed defendant's conviction and sentence.[5] Although the court concluded the instruction on the law of principals was erroneous, it found the error was harmless.
+
+On defendant's application, we granted certiorari to consider the jury instruction on principals.[6] The issues presented for our consideration are: (1) whether the trial judge's charge to the jury on the law of principals was erroneous; and (2) if so, whether that error was harmless.
+
+La. R.S. 14:24 defines principals:
+
+In State v. Holmes,
+388 So. 2d 722
+(La. 1980), this court made clear that the principal's mental state was an important consideration:
+
+At issue in Holmes was the use of a hypothetical by the prosecution during voir dire which suggested all that was necessary to establish the defendant's guilt of first degree murder was proof that he was knowingly involved in the armed robbery which resulted in the victim's death. The court found the prosecutor's hypothetical was erroneous. However, it held the prosecutor's misstatement of law was not reversible error, since the trial court's instruction to the jury properly stated the law of principals and the necessity for the proof of specific intent. The court cited this instruction with approval:
+
+388 So. 2d  at 727 (emphasis added).
+
+In Flowers v. Blackburn, 779 F.2d 1115 (5th Cir.1986), the United States Fifth Circuit found the trial court's jury instructions on the law of principals could have improperly allowed the jury to find Flowers guilty of first degree murder without finding he had specific intent to kill.[7] Considering the charge as a whole, the court found the erroneous instructions could have been interpreted as creating a mandatory presumption that if the jury found specific intent on the part of Flower's co-perpetrator, it need not find specific intent on the part of Flowers. By relieving the state of its burden of proof, the court held such a presumption was clearly unconstitutional. See Francis v. Franklin,
+471 U.S. 307
+, 105 S. Ct. 1965, 85 L. Ed. 2d 344 (1985); Sandstrom v. Montana,
+442 U.S. 510
+, 99 S. Ct. 2450, 61 L. Ed. 2d 39 (1979); In re Winship,
+397 U.S. 358
+, 90 S. Ct. 1068, 25 L. Ed. 2d 368 (1970).
+
+The court of appeal held the reasoning of Flowers applied to the present case:
+
+552 So. 2d  at 484.
+
+The state argues the court of appeal erred in this conclusion, since the trial judge's charge went beyond the charge in Flowers.
+
+In analyzing jury instructions, our cases caution against taking certain phrases out of context of the charge as a whole. State v. Cage,
+554 So. 2d 39
+, 41 (La.1989); State v. Taylor,
+410 So. 2d 224
+(La.1982). The test articulated is whether, taking the instruction as a whole, reasonable persons of ordinary intelligence would understand the charge. Our review of the record reveals the jury was properly instructed on specific intent in the context of the first degree murder statute. However, unlike the charge in Holmes, the charge in the present case on the law of principals   did not clearly point out to the jury that it had to find specific intent on the part of this defendant. By stating "all persons knowing the unlawful intent of the person committing the crime ... are principals and are equal offenders and are subject to the same punishment," the charge could have led a reasonable person of ordinary intelligence to believe he could imply specific intent from the mere fact defendant knew of his co-perpetrators' intent. Such an interpretation would relieve the state of its burden of proof on the critical question of state of mind. Flowers, 779 F.2d  at 1121 (citing Sandstrom v. Montana, 442 U.S.  at 521, 99 S.Ct. at 2458). Therefore, we conclude the court of appeal correctly found the instruction erroneous.
+
+Although it found the jury charge erroneous, the court of appeal found the error was harmless because there was ample evidence of specific intent on the part of defendant. Defendant argues the court of appeal applied an incorrect standard of harmless error.
+
+The well-settled standard of harmless error, as set forth in Chapman v. California,
+386 U.S. 18
+, 87 S. Ct. 824, 17 L. Ed. 2d 705 (1967), and adopted by this court in State v. Gibson,
+391 So. 2d 421
+(La.1980), focuses on "whether there is a reasonable possibility that the evidence complained of might have contributed to the conviction." Further, "the court must be able to declare a belief that [the error] was harmless beyond a reasonable doubt." Chapman, 386 U.S.  at 23, 87 S. Ct.  at 827; Gibson, 391 So. 2d  at 426.
+
+In Rose v. Clark,
+478 U.S. 570
+, 106 S. Ct. 3101, 92 L. Ed. 2d 460 (1986), the United States Supreme Court reversed a lower court finding that the harmless error rule could never apply to erroneous jury instructions involving Sandstrom presumptions. The Court began its analysis by stating that "while there are some errors to which Chapman does not apply, they are the exception rather than the rule." 478 U.S.  at 578, 106 S. Ct.  at 3106. The Court then reviewed the context of the erroneous instruction and found "the error at issue herean instruction that impermissibly shifted the burden of proof on maliceis not `so basic to a fair trial' that it can never be harmless." 478 U.S.  at 580, 106 S. Ct.  at 3107. Therefore, the Court held "Chapman's harmless-error standard applies in cases such as this one." Since the lower court had not yet applied Chapman to the facts of the case, the Court remanded for a finding of whether the error committed in this case was harmless beyond a reasonable doubt. Later cases of the Court have followed Rose. See Carella v. California,
+491 U.S. 263
+, 109 S. Ct. 2419, 105 L. Ed. 2d 218 (1989); Pope v. Illinois,
+481 U.S. 497
+, 107 S. Ct. 1918, 95 L. Ed. 2d 439 (1987). We agree with the reasoning of Rose, and believe the Chapman harmless error standard applies in the present case.
+
+In applying the Chapman rule, we are mandated to consider "the entire record prior to reversing a conviction for constitutional errors which may be harmless." United States v. Hastings,
+461 U.S. 499
+, 103 S. Ct. 1974, 76 L. Ed. 2d 96 (1982). Our review of the record shows an eyewitness identified defendant with one of the victims shortly before the shooting, although the witness stated Gerrell, not defendant, was restraining the victim. The victims' blood was found on defendant's blue jeans, but defendant explained he was splattered by blood when Gerrell shot the victim. Defendant's own testimony placed him at the scene, but refuted any specific intent on his part to kill the victims. It was stipulated before the jury that the two men defendant was with at the time of his arrest had been found guilty of the first degree murder of the victims. Clearly, the question of whether defendant had the requisite specific intent to kill the victims was a close one. This is confirmed by the fact that during deliberations the jury requested clarification on the issue of principals on two separate occasions. Obviously, the failure of the trial judge to instruct the jury on specific intent in connection with the charge on principals was an important factor. There is a reasonable possibility the erroneous jury charge might have contributed   to defendant's conviction, since it could have led a reasonable juror to believe that he could transfer the mental state of defendant's co-perpetrators to defendant, and thus satisfy the specific intent requirement needed to convict defendant of first degree murder. We are unable to say, based on our review of the whole record, that the erroneous instruction was harmless beyond a reasonable doubt. Therefore, defendant's conviction and sentence must be vacated, and the case remanded for a new trial.
+
+For the reasons assigned, the judgment of the court of appeal is reversed. Defendant's conviction and sentence are vacated, and the case is remanded to the district court for a new trial.
+
+[1]  According to defendant's testimony at Robertson's trial, Gerrell was responsible for kidnapping Hardy and Jones. At Gerrell's instruction, defendant drove the brown Malibu to a remote spot, while Gerrell followed in the blue Valiant. Defendant remained behind the wheel of the brown Malibu while Gerrell ordered Hardy and Jones into that car. Gerrell asked the men where some drugs were located, and the men indicated Robertson had them. At this point, a struggle began and Gerrell fired point blank into the men's heads. Jones' head fell onto defendant's lap, splattering blood on his arm and blue jeans. Defendant believed Gerrell intended to kill him also. Instead, Gerrell held the gun on him and told him to get in the blue Valiant. Gerrell stated he was going back for Robertson, a friend of defendant, and wanted defendant to help him "get close" to Robertson. Gerrell told defendant he would either cooperate or die. On the way to get Robertson, defendant changed from his blood-splattered blue jeans to a pair of slacks he had brought with him. Gerrell spotted Robertson at a liquor store and asked defendant to bring him over to the car. Robertson got in the passenger seat, defendant got in the back seat, and Gerrell drove off. During the drive, Robertson managed to disarm Gerrell. He threatened to kill Gerrell, and ordered defendant to lie on the back seat. At this time, the police pulled up and arrested the three. See State v. Robertson, 516 So. 2d 180, 182 (La.App. 4th Cir.1987).
+
+[2]  The trial judge instructed the jurors on the law of principals as follows:
+
+Next, ladies and gentlemen of the jury, the Court will charge you as to the law as it pertains to principals. All persons concerned in the commission of a crime, whether present or absent, and whether they directly commit the act constituting the offense, aid and abet in its commission, or directly or indirectly counsel or procure another to commit the crime, are principals. In other words, ladies and gentlemen, to be concerned in the commission of a crime, it must be shown that the person or persons charged did something knowingly and intentionally in furtherance of a common design; or to put it another way, that he or "they aided, abetted and assisted in the perpetration of the offense."
+
+All persons, knowing the unlawful intent of the person committing the crime, who were present, consenting thereto, and aiding and abetting, either by furnishing the weapons of attack, encouraging by words or gestures, or endeavoring at the time of the commission of the offense to secure the safety or concealment of the offender, are principals and are equal offenders and are subject to the same punishment.
+
+To render one guilty as a principal, he must have either committed the offense himself or in some way participated in the commission of the crime, or he must have aided, assisted or abetted the actual perpetrator of the deed before it might be said that he was concerned in the commission of the crime.
+
+Mere presence at the time the offense is committed, without any intention to participate or in any way to contribute to its commission, is not sufficient to make one a principal. The mental approval or sympathy with the perpetrator of the crime or with the act done or acquiescence in its commission or failure to maintain effort to prevent its commission or to apprehend the offender is not sufficient to make one a principal.
+
+Thus, one whom by accident is present when a crime is committed, but who does nothing to aid, encourage or abet in its commission, cannot be said to be a principal, unless he be present and acting in concert with the actual perpetrator of the offense for the purpose of assisting, if necessary, or of watching and preventing interference or detection or for the purposes of lending encouragement to the perpetrator or to the commission of the offense itself.
+
+Where a joint enterprise is sought to be shown or it's the theory of the state that parties jointly aided, assisted and abetted each other in the commission of the offense charged, it is not necessary that the state show the formal concert of action or that a conspiracy was entered into between the parties. It is only necessary that the jury be convinced beyond a reasonable doubt by all the evidence adduced that the parties did act in concert and together in the consummation of the criminal enterprise, and that their acts were knowingly and intentionally performed in the furtherance of a common purpose or design.
+
+[3]  After deliberating for approximately two hours, the jury returned to the courtroom and asked the judge "does the law of principals cover duringbefore, during and after the commission of a crime."
+
+The judge explained to the jury:
+
+Well, under our law, ladies and gentlemen, to be concerned in the commission of a crime or to be involved in a commission of a crime, one must either commit the crime themselves or aid and abet the commission.
+
+Now in our law in Louisiana, there are two characters of actors in crimes: The first is known as principals and the others are what are known as accessories or accessories after the fact. We are not concerned here today with accessories after the fact.
+
+In order to be a principal to the crime, one must either commit the act themselves or actively participate, aid and abet in the commission of the crime itself.
+
+Now if you want me to give the whole definition of principals again, I can, but that's generally it. Does that help you on that?
+
+[4]  The exchange between the jury and the trial judge was as follows:
+
+Juror: Would you read the laws again?
+
+The Foreperson: Particularly the law of principals.
+
+The Court: Sure. (At this point the judge read the law of principals again to the jury.)
+
+The Court: That's the law as it pertains to principals. Is that clear? Can I clear it up in any other way or does anybody have a question maybe more specifically? As I said I can't talk about the facts of the case; there's a prohibition against the judge talking about the facts of the case. But is that as clear as it can be to you now? Any other questions of law or any other problems concerning the law that you believe the court could help you with?
+
+The Foreperson: I do have a question. When you say someone is at the scene of a crime by accident, can you elaborate on that or can you read it again, that portion?
+
+Mr. Merritt [defense attorney]: No. That was one example, your Honor, I'd object to the example itself or any further examples; the jurors have to make those decisions.
+
+The Foreperson: We're asking him to read the law again; I don't want him to make an example.
+
+The Court: If there's an objection it's overruled. I think you know what accident means. I'll read you from the dictionary what accident means, and that is as Mr. Merritt says in the way of an example, because if one is present at the scene of a crime it doesn't necessarily have to be by accident by any means, but if someone is present at the scene of a crime but who does nothing to encourage or aid in its commission cannot be said to be a principal unless he be present and acting in concert with the actual perpetrator of the offense for the purpose of assisting if necessary or watching and preventing interference or detection or for the purpose of lending encouragement to the perpetrator or to the commission of the offense itself. That's really and I agree with Mr. Merritt to some extent, that is an example. But if someone is present at the scene of the crime either by accident or otherwise and who does nothing as I've just described to you to facilitate the crime or to participate in the crime, then he's not a principal. Frankly I don't think I have to tell you what accident means. I think everybody understands what that means. Does that answer your question, sir? I'm not saying it should resolve any decision for you but as long as you understand what the law is. Do you have any other concern in that regard? Okay, folks. See if you can go back. We're in recess.
+
+[5]  552 So. 2d 478 (La.App. 4th Cir.1989).
+
+[6]  560 So. 2d 33 (La.1990).
+
+[7]  The court summarized the relevant part of the instruction as follows:
+
+[W]e must consider the aspects of the instruction that "to be concerned in the commission of a crime, it must be shown that the person... aided, abetted and assisted in the perpetration of the offense," and "[a]ll persons knowing the unlawful intent of the person committing the crime who were present ... are principals, and equal offenders, and subject to the same punishment."
+
+779 F.2d  at 1119.

@@ -1,0 +1,92 @@
+92-C-1984
+Myles v. Turner
+https://law.justia.com/cases/louisiana/supreme-court/1993/92-c-1984-2.html
+
+92-C-1984
+Myles v. Turner
+Court: Louisiana Supreme Court
+Release date: 1993-01-19
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1993/92-c-1984-2.html
+
+612 So. 2d 32 (1993)
+
+Samuel MYLES, Plaintiff-Appellant,
+v.
+Robbie N. TURNER and Automotive Casualty Insurance Company, Defendant-Appellees.
+
+No. 92-C-1984.
+
+Supreme Court of Louisiana.
+
+January 19, 1993.
+
+*33 Anthony J. Bruscato, Juan Antonio Tramontana, Bruscato & Loomis, for applicant.
+
+Brian Paul Bowes, Hudson, Potts & Bernstein, Noel Cole Young, for respondent.
+
+SHORTESS, Justice ad hoc[*].
+
+The issue presented by this application for certiorari or review is whether the 10-day delay period for appealing a city court judgment commences from mailing of notice of judgment or from receipt of notice of judgment, in cases where such notice is necessary.
+
+This case arose out of an alleged automobile/pedestrian accident. Plaintiff, Samuel Myles, was allegedly struck from behind by a vehicle driven by Defendant, Robbie N. Turner. Automotive Casualty Insurance Company was named as a defendant, having issued an automobile liability insurance policy to the owner of the vehicle Turner was driving at the time of the accident.[1]
+
+Plaintiff filed suit in the Monroe City Court. Following a bench trial, on November 27, 1991 the city court judge took the matter under advisement. On January 6, 1992, the judge signed a judgment in favor of the defendants, and a Notice of Judgment was mailed to all parties. Although Plaintiff's counsel has no record of the date when he received this Notice, he stipulated it was received on the day following the mailing, or January 7, 1992.
+
+On January 17, 1992, Plaintiff filed a Motion and Order for Appeal which was granted by the City Court. The second circuit court of appeal, noticing ex proprio motu that Plaintiff's appeal was untimely, however, dismissed the appeal. Plaintiff's application for rehearing was denied.
+
+We granted Plaintiff's writ application[2] to resolve a split among the circuits regarding the commencement of appeal delays from city court judgments.[3]
+
+La.Code Civ.Proc. art. 5002 sets forth the delay period for appealing a city court judgment, providing in part: "An appeal from a judgment rendered by a city court... may be taken only within ten days from the date of the judgment or from the service of notice of judgment, when such notice is necessary." La.Code Civ.Proc. art. 4905(A)(2) describes one of the circumstances under which notice of judgment is "necessary," providing such notice "must be given" when "[t]he case has been taken under advisement."
+
+Subparagraphs (B) and (C) of Article 4905 indicate how notice of judgment may be given when it is necessary:
+
+Applying these provisions to the facts of this case, it is clear that notice of judgment was necessary as the judge took this case under advisement, and that this notice could be "given" by mail, as the parties were represented by counsel. It is also clear "service of the notice" would commence the appeal delay. The dispute concerns whether notice "given by mail" is effective as "service of notice" upon the mere mailing of the notice or upon receipt of the notice; that is, whether mailing the notice commences the appeal delay or whether receipt of that notice is required to trigger the delay.
+
+In interpreting Article 5002(A)'s "service of the notice" language, we note at the outset this language is different from that found in other provisions of the Code of Civil Procedure for commencing appeal delays. Specifically, Articles 2087(A) and 2123(A), addressing devolutive and suspensive appeals from district courts, each expressly provide that their respective delays commence on "[t]he date of the mailing of the court's refusal to grant a new trial, if the applicant is entitled to such notice...." (Emphasis added). Furthermore, La.Code Civ.Proc. art. 1974, addressing the delay for applying for a new trial in a district court, provides, "When notice of judgment is required ..., the delay for applying for a new trial commences to run on the day after the clerk has mailed, or the sheriff has served, the notice of judgment...." (Emphasis added). See also La.Code Civ.Proc. art. 1914 (interlocutory orders or judgments).
+
+As evidenced by the language of Articles 2087(A), 2123(A), 1974, and 1914, the legislature was clearly aware of the language necessary to commence an appeal delay upon mailing the notice of judgment. Indeed, La.Code Civ.Proc. art. 4907, which is found in the same Book and Title as Article 5002 (Book 8, Title 2), provides that new trial delays from city court judgments may commence "on the day after the clerk has mailed ... the notice of judgment." (Emphasis added).
+
+In stark contrast to the above cited articles which expressly declare mailing of notice as the commencement date of their respective delays, Article 5002(A)'s delay commences upon "the service of notice." The use of this different language suggests the legislature desired a different rule to apply to appeals from city court judgments. This difference in commencement dates could, perhaps, be explained by the much shorter appeal delay from city court judgments, 10 days in city courts versus 30 or 60 days in district courts.[4]
+
+*35 Based on these observations, we must conclude that the legislature intended the appeal delay from a city court judgment to commence upon receipt of notice of judgment rather than upon mere mailing of said notice in cases wherein such notice is necessary.
+
+Defendant argues this construction of Article 5002(A) cannot be that intended by the legislature, as Article 4905(C) does not require the notice to be mailed certified with return receipt requested and, hence, there may be no reliable way to know when the notice was received. In response we note that Article 4905, unlike the provision on notice of judgments from district courts (La.Code Civ.Proc. art. 1913), also does not require the clerk to file a certificate in the record showing the date on which, and the counsel and parties to whom, notice of the signing of a final judgment was mailed. Thus, even were we to adopt the construction advanced by Defendant, because there is presently no similar requirement that city court clerks file a mailing certificate, cases could arise presenting a lack of reliable proof of the date of mailing of notice and, hence, of the commencement of the appeal delay. At best, this argument illustrates a need for legislative attention to this area of the law. Our decision, however, promotes the policy of favoring appeals without straining to find an interpretation different from the common sense meaning of Article 5002(A)'s language.
+
+For the foregoing reasons, we hold that the 10-day appeal delay provided for in La.Code Civ.Proc. art. 5002 commences to run upon receipt of notice of judgment rather than upon the mere mailing of said notice. The decisions of the first, second, and third circuits to the contrary are hereby overruled.
+
+Finally, we must consider whether Plaintiff's appeal was timely filed. La. Code Civ.Proc. art. 5002(A) mandates that appeals be taken "within ten days ... from the service of notice of judgment," and we have today held that "service of notice" is the receipt of notice. In applying Article 5002(A), reference must be made to La. Code Civ.Proc. art. 5059, which provides in part, "In computing a period of time allowed or prescribed by law ..., the date of the act, event, or default after which the period begins to run is not to be included." Applying the clear and unambiguous terms of Article 5059, we conclude the day of receipt of the notice, "the date of the ... event ... after which the period begins to run," is not to be counted in the computation of the appeal delay. Thus, in this case, Plaintiff received notice of the judgment (as stipulated) on January 7, 1992; the first day to be counted in the computation of the delay was January 8, 1992; the 10th day of the delay period was January 17, 1992. Plaintiff's Motion and Order for appeal filed on January 17, 1992 was, therefore, timely.
+
+For the foregoing reasons, the judgment of the court of appeal is reversed insofar as it affected Defendant-Robbie N. Turner, individually, and this matter is remanded to the court of appeal for proceedings consistent with this opinion.
+
+REVERSED AND REMANDED.
+
+MARCUS, J., dissents and assigns reasons.
+
+LEMMON, J., subscribes and assigns reasons.
+
+LEMMON, Justice, Subscribes to the Opinion and Assigns Additional Reasons.
+
+The ambiguity of La.Code Civ.Proc. art. 5002, as pointed out in this decision, may give rise to swearing contests over the date of receipt of the notice of judgment.[1] Until Article 5002 is clarified by legislative action, clerks of city courts may avoid these swearing contests by sending notices of   judgment by registered mail, return receipt requested.
+
+MARCUS, Justice, dissenting.
+
+The majority reads "service" of notice of judgment when such notice is necessary under La.Code Civ.P. art. 5002 to mean "receipt" of notice of judgment. I disagree.
+
+Article 5002 provides that an appeal may be taken from a judgment of the city court within ten days from the service of notice of judgment, where notice is necessary. La.Code Civ.P. art. 4905(B) and (C) indicate how notice of judgment may be given when it is necessary. When a party does not have counsel of record, notice shall be "served" by the proper officer upon the party, either personally or at his domicile; whereas, if a party has counsel of record, notice shall be given "by mailing" or delivering a copy of the judgment to counsel of record. La.Code Civ.P. art. 4907(B) provides, in setting forth the delay in applying for a new trial in the city court, that where notice of judgment is required, this delay commences to run on the day after the clerk has mailed, or the sheriff has served, the notice of judgment.
+
+I would read art. 5002 and art. 4905(B) and (C) together to interpret "service" in art. 5002 to mean "served" by the proper officer upon the party, either personally or at his domicile, when a party does not have counsel of record and "by mailing" or delivering a copy of the judgment to counsel of record when necessary. Applying art. 4907(B) by analogy, the ten-day delay period for appealing a judgment of the city court commences the day after the clerk has mailed, or the sheriff has served, the notice of judgment.
+
+Accordingly, I respectfully dissent.
+
+[*]  Judge Melvin A. Shortess, of the First Circuit Court of Appeal, sitting in place of Cole, J.
+
+[1]  By Order dated December 1, 1992, a Plan of Rehabilitation/Partial Liquidation of Automotive Casualty Insurance Company was approved by the 19th Judicial District Court. As part of that Plan, a Stay Order was issued enjoining the institution or taking of further action in any suit or proceeding against Automotive Casualty. In compliance with that Stay Order, our treatment of this matter addresses only that portion of Plaintiff's suit which is against Robbie N. Turner, individually. See Ball v. Marquette Casualty Co., 184 So. 2d 60 (La.App. 4th Cir.1966).
+
+[2]  605 So. 2d 1133 (1992).
+
+[3]  Compare St. Amant v. Talley, 436 So. 2d 659 (La.App. 1st Cir.1983); Haywood v. Salter, 421 So. 2d 1190 (La.App. 2nd Cir.1982); Naquin v. Schexnaider, 405 So. 2d 1300 (La.App. 3rd Cir. 1981), holding the delay commences upon mailing of notice of judgment, with Harris v. Hamilton, 550 So. 2d 278 (La.App. 4th Cir. 1989); Traut v. Uniroyal, Inc., 548 So. 2d 1287 (La.App. 4th Cir.1989); Points v. Laird, 460 So. 2d 771 (La. App. 4th Cir.1984), holding the appeal delay commences upon receipt of notice of judgment.
+
+[4]  We are aware that the even shorter new trial delays in both city and district courts may commence upon mailing the notice of judgment. This does not detract from our reasoning insofar as a civil appeal is generally a right which litigants are entitled to, while a new trial, with the exception of some limited circumstances, falls largely within the discretion of the trial court. In short, the lapsing of the new trial delay without a party seeking a new trial is generally a less significant event in reaching an executory judgment than is the lapsing of the appeal delay without a party seeking an appeal.
+
+[1]  There was no problem in this case as to date of receipt because of the stipulation that notice was received the day after mailing.

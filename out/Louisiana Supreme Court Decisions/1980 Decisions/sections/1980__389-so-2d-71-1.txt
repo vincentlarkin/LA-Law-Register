@@ -1,0 +1,77 @@
+67668
+State v. Davis
+https://law.justia.com/cases/louisiana/supreme-court/1980/389-so-2d-71-1.html
+
+67668
+State v. Davis
+Court: Louisiana Supreme Court
+Release date: 1980-10-06
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/389-so-2d-71-1.html
+
+389 So. 2d 71 (1980)
+
+STATE of Louisiana
+v.
+Henry F. DAVIS.
+
+No. 67668.
+
+Supreme Court of Louisiana.
+
+October 6, 1980.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Joseph W. Browning, Asst. Dist. Atty., for plaintiff-relator.
+
+William Noland, New Orleans, for defendant-respondent.
+
+DIXON, Chief Justice.
+
+On application of the state, writs were granted to review the district judge's pretrial ruling denying the state's request to introduce evidence of other crimes to prove that the defendant committed the offense in this case. The trial judge seemed to base his ruling on the belief that evidence of other criminal acts is inadmissible except in prosecutions for crimes requiring proof of specific intent.
+
+This court has previously sanctioned the use of other crimes evidence to prove identity of the perpetrator through use of system. See State v. Moore,
+278 So. 2d 781
+(La. 1972). The threshold requirement for admissibility is that the instant crime and the other offenses constitute "signature crimes." This requirement is satisfied if the "modus operandi of the [other] offenses is so peculiarly distinctive that one must logically say that they are the work of the same person, i. e., they are `signature crimes.'" State v. Mitchell,
+356 So. 2d 974
+, 979 (La. 1978). See State v. Dickinson,
+370 So. 2d 557
+(La. 1979); State v. Lewis,
+358 So. 2d 1285
+(La. 1978); State v. Gaines,
+340 So. 2d 1294
+(La. 1976). The similarity of the instant crime to the other offenses sought to be introduced is not disputed.
+
+Defendant Henry Davis is charged with aggravated battery. He is alleged to have shot his victim in the right hip with a pellet gun as she and a friend were walking past his car in the vicinity of the girls' high school. The instant crime and the other offenses are alleged in the state's brief to have the following facts in common:
+
+Here, a finding that the crimes are "signature crimes" is not, by itself, determinative of admissibility, for it is also necessary that the other offenses be relevant to a real issue, such as identity.
+
+In oral argument before this court defense counsel has contended that identity will be an issue in every case except where defendant admits doing the act but denies the existence of the requisite criminal intent. This contention overlooks the fact that this court has required that "the `matter in issue' must be real and genuine, and not one which the prosecution conceives to be at issue merely because of the plea of not guilty." State v. Moore, supra, at, 785, on rehearing. In State v. Jackson, 367 So. 2d 353, 355 (La. 1979), this court disallowed the use of other crimes evidence to prove identity because the victim had identified the defendant "without reservation" and the defendant had "adduced no evidence seriously contesting this identification testimony." See also State v. Herman,
+358 So. 2d 1282
+(La. 1978); State v. Frentz,
+354 So. 2d 1007
+(La. 1978); State v. Clark,
+338 So. 2d 690
+(La. 1976).
+
+One of the guidelines enunciated by this court in State v. Prieur,
+277 So. 2d 126
+, 130 (La. 1973), is that:
+
+See State v. Showers,
+359 So. 2d 104
+(La. 1978); State v. Nelson,
+357 So. 2d 1100
+(La. 1978); State v. Ledet,
+345 So. 2d 474
+(La. 1977).
+
+If the identity of the perpetrator of the offense in this case is a real, issue, the evidence that this defendant committed the other "signature" offenses[1] would be relevant   to prove that he is the offender in this case.
+
+Because of the trial court's ruling at the hearing previously held in the instant case, the state was not allowed to demonstrate the admissibility of the other crimes evidence. For the foregoing reasons, the ruling of the trial court is vacated, and the case remanded for a new hearing not inconsistent with this opinion to determine: (1) Is identity of the offender a real issue? and (2) Is there clear and convincing evidence that defendant committed the other offenses?
+
+Reversed and remanded.
+
+[1]  Defense counsel argued before us that the other crimes evidence, if admitted, would be "too probative" and therefore "too prejudicial." In a sense, all relevant evidence is prejudicial, because, in order to be relevant, that evidence must either tend to show or to negative the commission of the crime. R.S. 15:441. See also McCormick on Evidence, § 185, at 439 n.31 (Cleary ed. 1972). The higher the probative value of the evidence, the more likely that that evidence will prejudice the jury against the defendant's presumed innocence. When other crimes evidence is admitted to prove identity, the jury will likely infer from defendant's involvement in the other crimes that he is the perpetrator in the instant case. This is the intended inference and the purpose for which the evidence is introduced. The probative value of the other crimes evidence is determined in part by the similarities of the offenses and in part by the strength of the identification evidence implicating defendant as the perpetrator of the other offenses. These factors, which bear upon weight, have been elevated to requirements of admissibility in order to safeguard the defendant's right to a fair trial. Thus, in order to be admissible, the other offenses must constitute "signature crimes" and the evidence of identity must be clear and convincing. The greater the similarities and the stronger the identification evidence, the higher the probative value of the other crimes evidence, and the more likely that the jury will draw the desired inference. This ordinarily means that the jury will be prejudiced against the defendant's presumption of innocence.
+
+Undue prejudice means that the jury's tendency to disbelieve defendant's innocence is based not on the probative value of the other crimes evidence, but on the heinous or inflammatory nature of the other crimes evidence. Exclusion of relevant evidence because of undue prejudice is a determination that "the emotions of the jury will be excited to irrational behavior, and that this risk is disproportionate to the probative value of the offered evidence." Trautman, Logical or Legal Relevancy A Conflict in Theory, 5 Vand.L.Rev. 385, 410 (1952). See generally Comment, Other Crimes Evidence at Trial: Of Balancing and Other Matters, 70 Yale L.J. 763 (1961). Evidence of other crimes by the defendant should not be admitted, even if probative, if the other crimes evidence would likely inflame or arouse the jurors, or create such an attitude in their minds, that they probably could not accord the defendant a fair determination of his guilt, believing that, if he had committed the other crimes, he should be punished (again) regardless of his guilt of the offense for which he is on trial.

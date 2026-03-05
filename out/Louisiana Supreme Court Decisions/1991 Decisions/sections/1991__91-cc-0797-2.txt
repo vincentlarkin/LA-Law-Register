@@ -1,0 +1,85 @@
+91-CC-0797
+Powell v. McDERMOTT INTERNATIONAL., INC.
+https://law.justia.com/cases/louisiana/supreme-court/1991/91-cc-0797-2.html
+
+91-CC-0797
+Powell v. McDERMOTT INTERNATIONAL., INC.
+Court: Louisiana Supreme Court
+Release date: 1991-10-21
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1991/91-cc-0797-2.html
+
+588 So. 2d 84 (1991)
+
+Clinton POWELL
+v.
+McDERMOTT INTERNATIONAL, INC.
+
+No. 91-CC-0797.
+
+Supreme Court of Louisiana.
+
+October 21, 1991.
+
+*85 William Rutledge, Domengeaux & Wright, Lafayette, for applicant.
+
+Vance E. Ellefson, Metairie, for respondent.
+
+Lawrence S. Kullman, New Orleans, for amicus curiae Louisiana Trial Lawyers.
+
+MARCUS, Justice.
+
+The issue in this case is whether foreign law or American law governs in a personal injury suit arising from an accident on the high seas.
+
+In August of 1982, Clinton Powell was injured while working aboard the Derrick Barge 14 ("D/B 14") on the high seas off the West African Coast. Powell is a citizen of the United States. He was hired by McDermott International, Inc. to serve as a barge foreman in the West Africa area pursuant to an employment contract executed at McDermott International's corporate offices in New Orleans, Louisiana. At the time of the accident, the D/B 14 was operated by McDermott International.[1] McDermott International is a foreign corporation chartered and based in Panama; however, at the time of the injury, it was a wholly-owned subsidiary of McDermott, Inc., a Delaware corporation.[2] The executive corporate offices of both McDermott International and McDermott, Inc. are located at 1010 Common Street in New Orleans. Additionally, the D/B 14 is registered in Panama and flies the Panamanian flag.
+
+Following the accident, McDermott International arranged for Powell to be transported to this country for treatment at Ochsner Hospital in Jefferson Parish, Louisiana. During his stay, McDermott International paid maintenance and cure pursuant to the laws of the United States. After treatment, he again signed on with McDermott International in September of 1983 for continued work in the West Africa area. He was re-injured in October of 1983 while working in a heavy machinery yard in Nigeria and again sent to Ochsner Hospital for treatment. Maintenance and cure payments were reinstated and continued until they were terminated in January, 1989, when McDermott International learned from Powell's treating doctor that Powell had reached maximum cure.
+
+Powell filed suit against McDermott International in the Civil District Court for the Parish of Orleans, alleging liability under   the Jones Act and the general maritime laws of the United States. McDermott International filed an exception of no cause of action, asserting that Panamanian law governed Powell's claims. The trial court sustained the exception, holding that Panamanian law governed the case, not the Jones Act or general maritime law. Subsequently, the trial court issued a "recall and amended order" stating it did not intend to dismiss the suit, but rather to try the case under the law of Panama. Powell sought writs from this amended judgment to the court of appeal, arguing that the Jones Act and general maritime law governed his claim. The court of appeal denied writs. Upon Powell's application to this court, we granted and remanded the case to the court of appeal for briefing, argument, and opinion.[3] On remand, the court of appeal affirmed the trial court's ruling and held that the law of Panama governed Powell's claim.[4] Upon Powell's application, we granted a writ of certiorari to review the correctness of that decision.[5]
+
+The sole issue for our determination is whether Powell's claim is governed by the laws of Panama or the laws of the United States.
+
+At the outset, we note that this court is governed by federal substantive admiralty or maritime law. McCraine v. Hondo Boats, Inc.,
+399 So. 2d 163
+(La.1981). At the time of Powell's accident, 46 U.S.C. § 688 (1915) provided that "any seaman who shall suffer personal injury in the course of his employment may, at his election, maintain an action for damages at law...."[6] Up until the Supreme Court decision of Lauritzen v. Larsen,
+345 U.S. 571
+, 73 S. Ct. 921, 97 L. Ed. 1254 (1953), it was unclear whether this act applied to any seaman, regardless of his nationality, injured in the course of his employment. In Lauritzen, a Danish seaman was injured while aboard a Danish vessel in Havana, Cuba. The vessel, registered in Denmark, was owned by a Danish citizen. The seaman filed suit in New York, asserting the Jones Act governed his claim. His only connection with the United States was that his employment contract was executed in New York. The Court held that the Jones Act did not apply.[7] The Supreme Court was concerned that "any seafaring men injured anywhere in the world in service of watercraft of every foreign nationa hand on a Chinese junk, never outside Chinese waters, would not be beyond its literal wording." Lauritzen, 345 U.S.  at 577, 73 S. Ct.  at 925. By relying on earlier decisions and the international rules of comity that require one foreign nation to respect the laws of another, the Supreme Court ultimately concluded that Congress did not intend for the Jones Act to apply in every case where a seaman, regardless of his nationality, was injured.
+
+The Court recognized several traditional choice of law factors that would determine whether American or foreign law would apply in a case where both the United States and a foreign nation could claim some connecting factor to a maritime tort suit. These factors include place of the wrongful act, law of the flag, allegiance or domicile of the injured party, allegiance or domicile of the defendant shipowner, place of contract, inaccessibility of the foreign forum, and law of the forum. Lauritzen, 345 U.S.  at 583, 73 S. Ct.  at 928. The Supreme Court in Hellenic Lines Limited v. Rhoditis,
+398 U.S. 306
+, 90 S. Ct. 1731, 26 L. Ed. 2d 252 (1970), added the base of operations of the shipowner as an additional factor.[8] In Rhoditis, the Court stated:
+
+The Lauritzen-Rhoditis test is not a mechanical one; moreover, the list of factors is not exhaustive. Rhoditis, 398 U.S.  at 308, 90 S. Ct.  at 1733. Not all of the factors are treated equally; some factors carry greater weight than others. The law of the flag (meaning the country where a vessel is registered) is perhaps the most important factor because it "is deemed to be a part of the territory of that sovereignty [whose flag it flies], and not to lose that character when in navigable waters within the territorial limits of another sovereignty." Lauritzen, 345 U.S.  at 585, 73 S. Ct.  at 929. However, Lauritzen does not stand for the proposition that the law of the flag controls in every instance. The flag overbears most other connecting events in determining applicable law "unless some heavy counterweight appears." Lauritzen, 345 U.S.  at 586, 73 S. Ct.  at 929.
+
+The allegiance or domicile of the injured plaintiff, especially if an American on a foreign-flagged vessel, has been considered an important "counterweight" to the law of the flag. Symonette Shipyards v. Clark, 365 F.2d 464 (5th Cir.1966). In the instant case, Powell was an American citizen who resided in Alabama. Furthermore, every member of the crew working the D/B 14 when Powell was injured was an American citizen. Powell was compensated with American currency; McDermott International deposited his paychecks in an American bank. His retirement plans were handled by McDermott, Inc., an American corporation. When Powell was injured, both times he was transported to the United States for medical treatment, and both times he was paid maintenance and cure under federal maritime law. Additionally, Powell's contract with McDermott International was executed in the United States in McDermott, Inc.'s and McDermott International's corporate offices in New Orleans.
+
+Another important factor is the allegiance (domicile) of the defendant shipowner. The Supreme Court in Lauritzen stated:
+
+The courts have often disregarded a nominal foreign registration or a "flag of convenience"   in maritime tort cases and applied American law, notwithstanding the existence of a foreign flag. See 60 ALR Fed. 360, §§ 18-26. Additionally, the courts are reluctant to recognize the importance of the flag when a shipowner inserts an additional nominal foreign corporation between the flag and the true beneficial ownership of the vessel. Bartholomew v. Universe Tankships, Inc., 263 F.2d 437 (2d Cir.1959); Southern Cross Steamship Co. v. Firipis, 285 F.2d 651 (4th Cir.1960). McDermott International is a foreign corporation, organized and chartered under the laws of Panama. The D/B 14 is a Panamanian vessel, flying the Panamanian flag, and registered under the laws of Panama. However, at the time of the accident, McDermott International was a whollyowned subsidiary of McDermott, Inc. Many of the corporate officers held identical roles in both corporations. The shareholders of McDermott, Inc. were primarily American citizens. The stockholder's meetings were regularly held in New Orleans. The principal executive offices of both McDermott, Inc. and McDermott International are located at 1010 Common Street in New Orleans; whereas McDermott International's office in Panama measured only one thousand square feet and employed about 3-5 employees. Moreover, the office in Panama did not exercise any control over the operations of the D/B 14; in fact, the D/B 14 has never worked the waters of Panama; the base of operations for this particular vessel was in Nigeria on the West African Coast. The D/B 14 was constructed in Amelia, Louisiana, presumably according to American standards. Following a brief stint in U.S. waters, the vessel was transported to the East Atlantic ocean off the coast of Africa where it has remained ever since. A McDermott office in New Orleans directed any major repairs to the D/B 14 that might have been necessary.
+
+We have evaluated those factors relevant to this case; namely, the allegiance of the injured plaintiff, the allegiance of the defendant shipowner, the place of contracting, and the law of the flag. The remaining factors need not be discussed in detail as they do not lend support for the application of either American or Panamanian law. The place of injury (on the High Seas off the West African Coast) and the base of operations in Nigeria do not support the application of either American or Panamanian law. The issue of the inaccessibility of a foreign forum is moot since the law of Panama (if it were applicable) would be applied by the trial court. Finally, the court in Lauritzen dismissed the law of the forum as inapplicable since the purpose of a conflict of laws doctrine is to insure that a case would be treated the same way regardless of the forum.
+
+While the D/B 14 was registered and flagged in Panama, and owned by a Panamanian corporation, we do not find that these facts are controlling here because of the substantial contacts with the United States. Powell was an American citizen who executed his employment contract with McDermott International in the United States. McDermott International, although a Panamanian corporation, was wholly owned by McDermott, Inc., an American corporation. The executive corporate offices of both McDermott, Inc. and McDermott International are located at 1010 Common Street in New Orleans. The D/B 14, an American-built vessel, was stationed off the coast of West Africa and had never been in Panamanian waters. Additionally, McDermott International's office in Panama, which only measured 1,000 square feet and employed 3-5 people, never exercised any control over the D/B 14. Clearly, these factors are strong counterweights to the law of the flag and the foreign ownership of the vessel. Therefore, we conclude that the law of the United States, not that of Panama, should govern in this case. The court of appeal erred in holding otherwise. We must reverse.
+
+For the reasons assigned, the judgment of the court of appeal is reversed; the case is remanded to the district court for further proceedings in accordance with law.
+
+*89 All costs are to be assessed against McDermott International, Inc.
+
+[1]  The D/B 14 was actually owned by Marine Contractors, Inc. The vessel was a bare boat charter to McDermott International; McDermott International was the owner pro hac vice of the D/B 14.
+
+[2]  Since that time, the corporate structure of the McDermott group has changed; McDermott, Inc. is now a wholly-owned subsidiary of McDermott International.
+
+[3]  560 So. 2d 2 (La.1990).
+
+[4]  575 So. 2d 852 (La.App. 4th Cir.1991).
+
+[5]  580 So. 2d 365 (La.1991).
+
+[6]  46 U.S.C. § 688 was subsequently amended to restrict the recovery of foreign seamen under the act.
+
+[7]  The Court however noted that while some American courts have applied the Jones Act whenever an American citizen was injured, it did not have to weigh the seaman's nationality against that of the ship in this case because they were the same (Danish). Lauritzen, 345 U.S.  at 586, 73 S. Ct.  at 930.
+
+[8]  In Rhoditis, the Supreme Court applied the Jones Act where a Greek citizen signed on in Greece. His contract of employment provided that Greek law would apply between the seaman and the employer and that all claims arising out of the employment contract would be adjudicated by a Greek court. The ship's flag was Greek. The shipowner was a Greek corporation, but had its largest offices in the United States. More than 95% of its stock was owned by a United States domiciliary who was a Greek citizen. The ship was regularly engaged in runs between various ports of the United States and foreign countries. Three justices dissented; however, they noted:
+
+The only justification that I can see for extending extraterritorially a remedial-type provision like § 688 is that the injured seaman is an individual whose well-being is a concern of this country. It was for this reason that Lauritzen recognized the residence of the plaintiff as a factor that should properly be considered in deciding who is a "seaman" as Congress employed the term in § 688. Rhoditis, 398 U.S.  at 313-14, 90 S. Ct.  at 1736-37.

@@ -1,0 +1,175 @@
+60630
+State v. Hamilton
+https://law.justia.com/cases/louisiana/supreme-court/1978/356-so-2d-1360-1.html
+
+60630
+State v. Hamilton
+Court: Louisiana Supreme Court
+Release date: 1978-03-06
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/356-so-2d-1360-1.html
+
+356 So. 2d 1360 (1978)
+
+STATE of Louisiana
+v.
+Bernard HAMILTON, a/k/a Larry Knight.
+
+No. 60630.
+
+Supreme Court of Louisiana.
+
+March 6, 1978.
+
+Rehearing Denied April 10, 1978.
+
+*1361 Frederic L. Miller, Peters, Ward & Miller, Shreveport, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John A. Richardson, Dist. Atty., Stephen A. Glassell, Asst. Dist. Atty., for plaintiff-appellee.
+
+DIXON, Justice.
+
+Bernard Hamilton was charged by bill of information with simple burglary in violation of R.S. 14:62. He was tried by jury and convicted by a ten-two verdict on March 28, 1977. Defendant was sentenced to serve eighteen years at hard labor as a third felony offender. He appeals his conviction and sentence, relying upon five assignments of error.
+
+Due to our finding reversible error in Assignment No. 3, we pretermit any comment on Assignments Nos. 1 and 2. However, should defendant be retried and convicted, the possibility may arise that the same problems raised in Assignments Nos. 4 and 5 (regarding a recidivist hearing for the purpose of enhanced sentencing) may be at issue. Therefore, those assignments are also discussed.
+
+In this assignment defendant contends that the trial court erred in refusing to sustain his objection to prejudicial remarks of the prosecutor which exceeded the proper scope of closing argument.
+
+Defendant based his defense on an attack on the credibility of three prosecution witnesses whose testimony was essential to establish defendant's involvement in the crime. Capitalizing on the fact that one witness stated at a preliminary examination that she could not remember certain details following the burglary, but at trial more fully testified on those details, and that the three witnesses' versions of the events subsequent to the burglary varied, the defense attorney on three occasions during closing argument accused the district attorney and detectives of coaching the witnesses. For example, near the end of his closing remarks he stated:
+
+Responding to these arguments on rebuttal the prosecutor stated:
+
+The prosecutor's remarks clearly went beyond the proper scope of closing argument which should be confined to "evidence admitted, to the lack of evidence, to conclusions of fact that the state or defendant may draw therefrom, and to the law applicable to the case." C.Cr.P. 774. His statements which emphasized to the jury that he would not prosecute if he did not think he had a case could be interpreted as the prosecutor's expression of his personal opinion of the guilt of defendant. The prosecutor in Louisiana is prohibited from making such statements partly based on the statutory   prohibition of C.Cr.P. 774, above, but also for reasons of fairness. State v. Kaufman,
+304 So. 2d 300
+(La.1974), and authorities cited therein.[2] In reviewing the policy reasons for the foregoing rule in State v. Kaufman, supra, we quoted the following from 5 Wharton's Criminal Law and Procedure, § 2083, at page 245 (Anderson ed., 1967):
+
+In the instant case the prosecutor not only expressed his personal opinion of defendant's guilt, but also implied that he was aware of facts outside of the evidence introduced at trial to bolster that opinion. The prosecutor's remarks were designed to influence the jury, and had the effect of adding undisclosed information in the prosecutor's file to the testimony laid before the jury. It was the last utterance the jury heard from either counsel before retiring for deliberations in a case in which the essential evidence against defendant was the testimony of these three witnesses. Such objectionable remarks prejudiced the rights of the accused and warrant a reversal of defendant's conviction. C.Cr.P. 921.
+
+The State argues that since the defendant did not request the court to admonish the jury or declare a mistrial, C.Cr.P. 770, 771, he is barred from asserting that error before this court. However, a timely objection was made by defense counsel wherein he properly stated the grounds for his objection, in accordance with C.Cr.P. 841. Defendant is not barred from asserting the error in the trial judge's ruling at this time by his failure to request an admonition or move for a mistrial. Once the objection has been made and overruled, clearly the court would additionally refuse any request for admonition or mistrial. As we stated in State v. Cascio, 219 La. 819,
+54 So. 2d 95
+(1951), to require defendant to make such a useless motion would:
+
+State v. Cascio, supra, preceded the enactment of the Code of Criminal Procedure by Louisiana Acts 1966, No. 310, with its new articles 770 and 771. We conclude that although defendant cannot allege error for the trial court's failure to admonish the jury or declare a mistrial when no motion for same has been made, failure to so move after the defense objection is overruled does not preclude review of the trial judge's failure to sustain a properly made objection. Admonition and mistrial, while providing more significant relief to a defendant for prejudicial remarks by a court official, are not the only   vehicles for obtaining relief. By properly objecting, defendant can cause the prosecutor to refrain from further improper argument. Had defendant's objection been sustained, he would have no cause for complaint, and the State could properly argue that we would have nothing to review unless defendant had moved for an admonition or mistrial.
+
+The State cites several opinions of this court to support its contention that both an objection and motion for admonition and/or mistrial must be lodged.
+
+In State v. Passman,
+345 So. 2d 874
+, 892 (La.1977), we held that the trial judge did not err in failing to admonish the jury to disregard an improper comment made by the State's attorney in rebuttal argument when defense counsel had not requested an admonition or a mistrial. The remark objected to was a reference to testimony of a State witness which had not been referred to in defense counsel's closing argument. Such a remark, though beyond the proper scope of rebuttal, C.Cr.P. 774, would not create the kind of prejudice to defendant as is present in the instant case. Furthermore, once defense counsel objected, the prosecutor dropped that line of argument which had the same effect as if the court had sustained the objection. Thus, defendant got all the relief to which he was entitled.
+
+In State v. Smith,
+339 So. 2d 829
+, 833-34 (La.1976), defendant objected to only one of several allegedly prejudicial remarks made by the prosecutor in closing argument. We held that where defense counsel failed to timely request an admonition or move for mistrial, he waived the alleged error. However, we reviewed the one error that was objected to and found that the court took proper corrective measures in instructing the prosecutor not to continue his comments on penalties. Since the State was prevented from completing its statement, we found that no admonition would have been required had it been requested.
+
+The defendant in State v. Clark,
+332 So. 2d 236
+, 237 (La.1976), had neither moved for an admonition or mistrial nor objected to the alleged improper statements, as was done in the instant case. Thus, we stated:
+
+And finally, in State v. Lee,
+340 So. 2d 180
+, 186 (La.1976), we held that an impermissible remark made by the prosecutor in rebuttal argument did not constitute reversible error when we found it would not have influenced the jury or contributed to their verdict. Concededly, a remark we made in that case may contribute to a misunderstanding that in all cases where a prejudicial statement is made by a court official, the defendant must not only object but must also move for an admonition and/or mistrial. That was not the intended holding in State v. Lee.
+
+The only objection to the rebuttal argument voiced in State v. Lee was: "This has nothing to do with rebuttalobjection." That objection, overruled by the trial judge, was made when the prosecution urged the jurors to think of their aged mothers or grandmothers before finding the accused rapist not guilty. The argument before this court was that the objectionable statement was an appeal to prejudice in violation of C.Cr.P. 774. In the case now before us, the court was made aware of the basis of the objection, and, when overruled, it is not required that defendant persist and move for a mistrial or admonition on the same grounds. As noted in State v. Accardo, supra, it might well further damage the defendant's chances before the jury to require counsel to press for an admonition which would further emphasize to the jury that the prosecutor vouched for his witnesses.
+
+State v. Lee comes close to being a "magic words" case, and, to the extent that it suggests that the defendant must request a mistrial or admonition before this court will consider any improper remark of the judge, district attorney or court official, it is disapproved.
+
+*1365 The State makes the further argument that the prosecutor's remarks were provoked by the defense counsel's closing argument, quoting the following language from State v. Lockett,
+332 So. 2d 443
+, 448 (La.1976):
+
+We, however, cannot agree that if defendant's counsel makes improper remarks in closing argument that the prosecutor is given free reign to make any statements in retaliation to the prejudice of the accused. The prosecutor could have vindicated himself before the jury by denying the charges of coaching the witnesses without expressing his personal opinion of defendant's guilt, and could have reemphasized the veracity of his witnesses by pointing out the facts which corroborated their stories. He went beyond what was necessary to respond to the defense attorney's argument.
+
+The remarks made in State v. Poe, supra, State v. Borde, supra, and State v. Cascio, supra, do not stand for the proposition that any remark made by the prosecutor is justified when provoked by opposing counsel, as intimated in the State's brief. In Poe, the district attorney's retaliatory statement was not considered prejudicial since the judge admonished the jury to disregard it, and in Borde, the prosecutor's statement that had he not believed defendant to be guilty he would not have brought him to trial was directly in response to defense counsel's statement that the prosecutor did not believe in his case. A similar statement by the prosecutor in Cascio was responsive to defense counsel's accusation that the assistant prosecutor enrolled in the prosecution to ensure a good civil suit against the defendant where he was representing the plaintiff.
+
+Hence, we hold that the prosecutor's remarks were improper closing argument expressing his personal opinion of defendant's guilt, indicating his knowledge of facts outside the evidence adduced at trial. Due to defendant's timely objection which was overruled, we may review the error on appeal. Further, we hold that the prosecutor was not justified in making the remarks even though provoked by defense counsel. Therefore, the failure of the trial judge to sustain the objection constituted reversible error.
+
+By these assignments, defendant alleges that the lower court erred in ruling that he is a third felony offender and in imposing an enhanced sentence commensurate with that ruling.
+
+At the habitual offender hearing, the State introduced evidence to show that the defendant had been previously convicted twice of crimes that, if committed in Louisiana, would have been felonies. See R.S. 15:529.1(A). The State's exhibits included: (1) S-1certified copies of penitentiary records from the Department of Corrections of the State of California showing that a Bernard Lee Hamilton had been convicted on April 18, 1973 of second degree burglary under California Penal Code, § 459 (a felony if committed in Louisiana) in Case No. 28167; contained therein were photographs and fingerprints of the convicted man; (2) S-2certified copies of records of the Superior Court of the State of California for the County of San Diego showing conviction for the above mentioned offense; and (3) S-3certified copies of the records of the Superior Court of the State of California for the County of San Diego showing that a Bernard Lee Hamilton had been convicted on July 25, 1972 of forgery in violation of California Penal Code, § 470 (a felony if committed in Louisiana) in Case No. 26357.
+
+In Assignment of Error No. 4, defendant argues that a determination by a California criminal court that he was not a habitual offender after defendant's second felony conviction is binding upon this court under the full faith and credit clause of the United States Constitution. Thus, he argues,   although the second degree burglary conviction may be relied upon as a prior conviction for finding the defendant to be a second felony offender, the 1972 forgery conviction cannot be used to enhance defendant's penalty as a third offender.
+
+Included in State Exhibits S-1 and S-2 were copies of an abstract of judgment of the second degree burglary conviction, signed by the California trial judge, which read:
+
+Section 644 of the California Penal Code differs from our habitual offender statute, R.S. 15:529.1, in that the former only allows enhanced penalties when offenders have been convicted more than once of offenses specifically enumerated in the statute. The latter, rather, applies to enhance punishment when there has been a prior conviction of any felony.[3] The crime of forgery does not appear in the enumerated list found in § 644. Therefore, it is reasonable to assume that the ruling in the California court's abstract of judgment, above, reflects a proper reading of § 644; under California law defendant could not have been considered a habitual criminal upon his conviction of second degree burglary based upon a prior conviction on a charge of forgery.
+
+We conclude that this court is not bound by the California court's prior adjudication that defendant was not a habitual criminal upon conviction of his second felony. R.S. 15:529.1(B) provides, in pertinent part:
+
+We rely not only upon the language of this section which outlines the legislature's express intention, but also on our State's strong interest in protecting the public from an individual who has shown, through repeated criminal behavior, that his adjustment outside an institution is highly improbable. Recidivism is an area of peculiar importance and traditional concern to the state which is charged with protection of the public and rehabilitation of the criminal who has committed an offense within its jurisdiction.
+
+Thus, the trial court correctly considered the two prior California convictions in spite of a California court's ruling that defendant was not a habitual offender after commission of his second offense.
+
+In Assignment of Error No. 5, defendant argues that, even if this court determines that the California court's adjudication that defendant was not a habitual offender is   not entitled to full faith and credit, there was insufficient proof to show that defendant was the same Bernard Lee Hamilton who was convicted in 1972 of forgery in California. Therefore, he contends, the forgery conviction cannot be relied upon to find defendant to be a third offender; at most, he argues, he can only be adjudged a second offender.
+
+Defendant points to the fact that S-3, the records of the forgery conviction, do not contain a photograph of the convicted person, fingerprints, or a statement by the convicting court of the date and time of sentencing, the length of time imprisoned, or the date of discharge.
+
+As we recently stated in City of Monroe v. French,
+345 So. 2d 23
+, 24 (La.1977):
+
+Although R.S. 15:529.1(F) provides that a prima facie showing of defendant's prior conviction may be made by certificates of the chief officer of the penitentiary where the person was imprisoned along with the imprisoned person's name, photograph, fingerprints, a statement of the convicting court, and the date and time of sentence, length of time imprisoned, and date of discharge, this is not the exclusive method of proving that defendant is a habitual offender. That may be established by other competent evidence. State v. Barrow,
+352 So. 2d 635
+(La.1977); State v. Jones,
+332 So. 2d 461
+(La.1976); State v. Montana,
+332 So. 2d 248
+(La.1976).
+
+Defendant does not contest the identification made of defendant as the Bernard Lee Hamilton who was convicted in California of second degree burglary in 1973. The records of that conviction contained photographs of the convicted man and fingerprints which were matched with those of defendant by a fingerprint sample taken in open court. State Exhibit S-2 included the bill of information on the second degree burglary charge which made reference to a prior conviction of the defendant for forgery in San Diego County, California on July 25, 1972. S-2 also included an order for a change of defendant's plea of not guilty on the burglary charge to guilty which, in explaining the plea bargaining arrangement made with the district attorney, stated that the "D.A. agrees that sentence in this case may run concurrent with any imposed in CR-26357 . . ." CR-26357 is the case number of the forgery conviction of a Bernard Lee Hamilton found in State Exhibit S-3.
+
+We find the foregoing references in S-2 to a prior felony conviction for forgery make a sufficient connection to the defendant to prove that he is the same Bernard Lee Hamilton who was convicted of forgery in 1972, as shown in State Exhibit S-3. Therefore, there was no error in the trial judge's reliance on two prior California felony convictions to adjudge defendant a third offender under R.S. 15:529.1.
+
+These assignments are without merit.
+
+For the reasons assigned, we reverse the conviction and sentence, and we remand this case for a new trial in accordance with law.
+
+SANDERS, C. J., dissents with written reasons.
+
+SUMMERS and MARCUS, JJ., dissent.
+
+SANDERS, Chief Justice (dissenting).
+
+The majority reverses the conviction, because the prosecutor in closing argument allegedly expressed "his personal view of defendant's guilt, indicating his knowledge of facts outside the evidence adduced at trial."
+
+I agree that the remarks of the prosecutor under other circumstances could constitute reversible error. In my opinion, however, there is no reversible error under the circumstances of this case.
+
+*1368 First, the defense objected only on the ground, "I believe he is testifying." In this Court, the argument is changed to a complaint that the prosecutor expressed a personal opinion that the defendant was guilty. It is well settled that this Court will not reverse on an objection not made in the trial court. See State v. Marks, La.,
+337 So. 2d 1177
+(1976); State v. Powell, La.,
+325 So. 2d 791
+(1976).
+
+Second, the defense requested neither an admonition nor mistrial in the lower court. See State v. Passman, La.,
+345 So. 2d 874
+(1977); State v. Lee, La.,
+340 So. 2d 180
+(1976).
+
+Finally, on the merits, the defense opened the door to such a response by argument that the account of the crime by the State's witnesses had been fabricated and resulted from the Assistant District Attorney's coaching them. For example, the defense charged that "you have been subjected to a story made up out of the whole cloth . ." (Tr. II, p. 165, line 10). He also charged repeatedly that the Assistant District Attorney had coached the witnesses, implying that he had induced false testimony. (Tr. II, p. 156, line 20; p. 160, line 6; p. 165, line 2). Defense counsel also alluded to the State's witnesses as "the second finger man," "the State's number one hired gun," the "second hired gun," and "the testimony of the three stooges."
+
+This argument, of course, justified a response by the prosecutor. In view of the serious charges in the defense argument, I am not prepared to say that the response exceeded its proper bounds.
+
+For the reasons assigned, I respectfully dissent.
+
+[1]  Compare these assurances by the prosecution with those of State v. Accardo, 129 La. 666, 669, 56 So. 631, 632 (1911):
+
+"`. . . I don't want any man convicted unless the evidence satisfied me that he is guilty. I don't have to try him unless I am satisfied he is guilty. When I examine into the facts of the case, and I am not satisfied from the evidence that the man is guilty, I don't have to try him. I only try cases, gentlemen of the jury, and it is only proper for me to try cases when I am satisfied from the evidence that the accused is guilty.'
+
+"The learned district attorney has here practically advised the jury that he has made a separate and independent investigation of the case in his official capacity, and found the accused guilty. Upon what evidence this ex parte investigation of the case was based, whether upon the same evidence as that produced before the jury, or also upon other evidence not produced, or, perhaps, not admissible, before the jury, the learned district attorney does not say. Manifestly, he could not have been allowed to go upon the witness stand and throw into the scale against the accused the fact of his having made this investigation and reached the said conclusion of guilthis own sense of justice would revolt at such a proceeding; and yet what practical difference is there between his testifying to such an investigation and of its result as a witness on the stand, and his bringing it to the attention of the jury by an unsworn statement made to them in his official capacity; especially in the impressive manner adopted in this casedriving the fact home to the breasts of the jurors by an elaborate protestation of impartiality and disinterestedness. The warning to the jurors not to regard, or be influenced by, the fact of such ex parte impartial investigation having been made, and having resulted in the conviction of the accused, very far from curing the situation, aggravates it, as being calculated to throw the jurors off their guard and expose them to be all the more easily influenced. If the learned district attorney did not expect this statement to be regarded and to influence the jury, why did he make it?"
+
+[2]  ". . . State v. Curry, 262 La. 280,
+263 So. 2d 36
+(1972); State v. Landry, 262 La. 32,
+262 So. 2d 360
+(1972); State v. Sercovich, 246 La. 503,
+165 So. 2d 301
+(1964); 2 Marr's Criminal Jurisprudence of Louisiana, Section 664 (1923); 5 Wharton's Criminal Law and Procedure, Section 2083 (Anderson ed., 1967); Annotation, 50 A.L.R.2d 766 (1968). . . ."
+
+[3]  In addition, our statute ensures that the punishment is made to fit the criminal in that the trial judge is given discretion to impose a sentence within a specified range. R.S. 15:529.1(A)(2) provides:
+
+"If the third felony is such that, upon a first conviction, the offender would be punishable by imprisonment for any term less than his natural life, then the person shall be sentenced to imprisonment for any term not less than one-half the longest term and not more than twice the longest term prescribed for a first conviction."
+
+Defendant was sentenced to the maximum possible sentence under this provision, eighteen years.
+
+This is to be compared with California's § 644 which mandates an enhanced penalty of life imprisonment (except where the crime for which the defendant was most recently convicted was punishable by death, § 644(d)) unless the court exercises the discretion it has in exceptional cases to rule that a defendant is not a habitual criminal and thus not subject to any enhanced punishment. § 644(c). (Section 644 of the California Penal Code has recently been repealed. California Stats. 1976, C. 1139, p. ___, § 261.5, effective July 1, 1977).

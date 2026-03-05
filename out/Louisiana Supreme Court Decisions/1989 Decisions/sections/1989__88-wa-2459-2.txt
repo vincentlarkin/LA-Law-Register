@@ -1,0 +1,109 @@
+88-WA-2459
+State v. Azar
+https://law.justia.com/cases/louisiana/supreme-court/1989/88-wa-2459-2.html
+
+88-WA-2459
+State v. Azar
+Court: Louisiana Supreme Court
+Release date: 1989-03-13
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1989/88-wa-2459-2.html
+
+539 So. 2d 1222 (1989)
+
+STATE of Louisiana
+v.
+Paul J. AZAR, Jr., M.D.
+
+No. 88-WA-2459.
+
+Supreme Court of Louisiana.
+
+March 13, 1989.
+
+Rehearing Denied April 20, 1989.
+
+*1223 William J. Guste, Jr., Atty. Gen., Glen R. Petersen, Cynthia Killingsworth, Asst. Attys. Gen., for plaintiff-appellant.
+
+John R. Martzell, Martzell & Thomas, New Orleans, John G. Torian, Onebane, Donohoe, Bernard, Torian, Diaz, McNamara & Abell, Bernard H. McLaughlin, Jr., Lafayette, Stockwell & Sievert, Lake Charles, for defendant-appellee.
+
+MARCUS, Justice.
+
+Paul J. Azar, Jr. was indicted by the grand jury for thirty-seven counts of computer fraud in violation of La.R.S. 14:73.5. Defendant filed a motion to quash on the ground that La.R.S. 14:73.5 was unconstitutionally vague and overbroad. After a hearing, the trial judge denied the motion to quash.[1] Upon application by defendant, the court of appeal granted a writ of certiorari, declared La.R.S. 14:73.5 unconstitutionally vague, reversed the ruling of the trial judge and granted the motion to quash the indictment.[2] We granted the state's   application and docketed the case as an appeal.[3]
+
+The sole issue presented for our consideration is whether La.R.S. 14:73.5 is unconstitutionally vague.[4]
+
+La.R.S. 14:73.5 provides in pertinent part:
+
+The term "access" is defined in La.R.S. 14:73.1(1):
+
+The court of appeal found the last phrase in La.R.S. 14:73.5(A)(2) and the definition of access in La.R.S. 14:73.1(1) to be unconstitutionally vague. Since the definition of access was applicable throughout La.R.S. 14:73.5, the court reasoned that the entire statute could not withstand constitutional scrutiny and must fall.
+
+The constitutional guarantee that an accused shall be informed of the nature and cause of the accusation against him requires that penal statutes describe unlawful conduct with sufficient particularity and clarity that ordinary persons of reasonable intelligence are capable of discerning its meaning and conforming their conduct thereto. U.S. Const.Amend. XIV, § 1; La. Const., Art. I, §§ 2, 13; Kolender v. Lawson,
+461 U.S. 352
+, 103 S. Ct. 1855, 75 L. Ed. 2d 903 (1983); State v. Powell,
+515 So. 2d 1085
+(La.1987); State v. Pierre,
+500 So. 2d 382
+(La.1987). In determining the meaning of a statute and hence its constitutionality, penal statutes must be "given a genuine construction, according to the fair import of their words, taken in their usual sense, in connection with the context, and with reference to the purpose of the provision." La.R.S. 14:3; State v. Pierre, supra.
+
+Applying these standards of statutory construction, the definition of access found in La.R.S. 14:73.1(1) offers a clear and definite standard of conduct. Dr. James R. Oliver, defendant's expert in computers, testified that he did not "necessarily have problems" with the definition, although he felt it was "extremely broad and people need to understand the implications in it quite clearly." However, Dr. Oliver never testified that an ordinary man of reasonable intelligence could not readily ascertain the definition of access from a reading of the statute. The definition chosen by the legislature, although perhaps broader than that used in the computer field, is not confusing or overly technical. The words of the statute when taken in their usual sense are readily understandable by an ordinary person of reasonable intelligence. Therefore, we find the definition of access is not unconstitutionally vague.[5]
+
+*1225 Defendant argues that although the definition of access in La.R.S. 14:73.1(1) may be clear on its face, the term is still vague when used in La.R.S. 14:73.5 since there is no requirement that the access be knowing. Defendant cites several hypothetical situations where a person might access a computer or cause it to be accessed without knowing it, such as telephoning a computerized time/temperature service. However, defendant's argument is misdirected. The crime in La.R.S. 14:73.5 is not merely accessing a computer or causing it to be accessed, but rather accessing a computer or causing it to be accessed with the intent to defraud.[6] Accessing a computer or causing it to be accessed is an element of the crime, but the mens rea required is the intent to defraud. The element of accessing a computer or causing it to be accessed is a fact that must be proven beyond a reasonable doubt by the state, but whether or not the defendant knows he accessed a computer or caused it to be accessed is irrelevant from a constitutional standpoint.[7]
+
+Knowledge of every element of a crime is not required as long as the statute provides a requisite mens rea.[8] Similarly, under federal law, a person's knowledge of the elements of the crime may be irrelevant if he has sufficient mens rea. In United States v. Feola,
+420 U.S. 671
+, 95 S. Ct. 1255, 43 L. Ed. 2d 541 (1975), the United States Supreme Court addressed the issue in the context of a statute prohibiting assaults on federal officers. The defendants argued that they should not fall under the statute because they did not know the person assaulted was a federal officer. The Supreme Court disagreed: "Although the perpetrator ... may be surprised that his intended victim is a federal officer in civilian apparel, he nonetheless knows from the very outset that his planned course of conduct is wrongful." In the same way, a person who intends to defraud and who accesses a computer or causes it to be accessed can fall under La.R.S. 14:73.5 even if he has no knowledge of the access. As a result, we find no merit in defendant's argument that the term access as used in La.R.S. 14:73.5 is vague. The court of appeal erred in so holding.
+
+Having found the definitions of access and computer constitutional, the next issue is whether the phrase "or through the alteration, deletion, or insertion of programs or data" used in La.R.S. 14:73.5(A)(2) is vague. Although the first part of La.R.S. 14:73.5(A)(2) refers to "false or fraudulent" types of conduct, no such requirement is given in the second phrase. The court of appeal found:
+
+We agree with the court of appeal and conclude that an ordinary person of reasonable intelligence would not be capable of discerning what type of conduct was prohibited under the last phrase of La.R.S. 14:73.5.[9] Accordingly, we hold the phrase to be unconstitutionally vague.
+
+The unconstitutionality of one portion of a statute does not necessarily render the entire statute unenforceable. If the remaining portion of the statute is severable from the offending portion, this court may strike only the offending portion and leave the remainder intact. State v. Williams,
+400 So. 2d 575
+(La.1981). The test for severability is whether the unconstitutional portions of the statute are so interrelated and connected with the constitutional parts that they cannot be separated without destroying the intention manifested by the legislature in passing the act. Cobb v. Louisiana Board of Institutions, 237 La. 315,
+111 So. 2d 126
+(1958). In the present case, it is clear that the last phrase adds little, if anything, to the statute. Removal of the phrase will not affect the legislative intent behind passing the computer fraud statute. We therefore find the remainder of the statute can stand.
+
+In sum, we conclude that the terms access and computer as defined in La.R.S. 14:73.1(1) & (2) and used in La.R.S. 14:73.5 are not unconstitutionally vague. We find that the phrase "or through the alteration, deletion, or insertion of programs or data" is unconstitutionally vague and must be striken. However, since the phrase can be severed, the rest of the statute remains constitutional. Accordingly, the court of appeal erred in finding the entire statute unconstitutionally vague and in granting the motion to quash.
+
+For the foregoing reasons, the judgment of the court of appeal is reversed, the ruling of the trial judge denying the motion to quash is reinstated and the case is remanded to the district court for further proceedings in accordance with law.
+
+WATSON, J., concurs in the holding that the statute is not unconstitutionally vague but notes serious doubts about the application of the law to the facts outlined by counsel in argument.
+
+Rehearing denied.
+
+PER CURIAM.
+
+Defendant is not precluded from raising a new motion to quash in the district court if any of the counts of the indictment are based solely on the stricken phrase "or through the alteration, deletion, or insertion of programs or data" in La.R.S. 14:73.5(A)(2).
+
+[1]  At the hearing defendant presented three witnesses: Allen Bradley, Jr. (the legislator who handled the bill that became La.R.S. 14:73.5), Dr. James R. Oliver (an expert in computers) and Dr. Mary Dichmann (an expert in English grammar and linguistics).
+
+[2]  535 So. 2d 441 (La.App. 3d Cir.1988).
+
+[3]  536 So. 2d 1199 (La.1988).
+
+[4]  In his brief to this court, defendant also argues the statute is overbroad. The court of appeal found defendant's overbreadth argument had no merit. We agree. The United States Supreme Court has noted "outside the limited First Amendment context, a criminal statute may not be attacked as overbroad." Schall v. Martin,
+467 U.S. 253
+, 104 S. Ct. 2403, 81 L. Ed. 2d 207 (1984). Even within the first amendment area, the Court has held that "the overbreadth of a statute must not only be real, but substantial as well, judged in relation to the statute's plainly legitimate sweep." Broadrick v. Oklahoma,
+413 U.S. 601
+, 93 S. Ct. 2908, 37 L. Ed. 2d 830 (1973). Nonetheless, since defendant's overbreadth arguments are similar to his vagueness arguments, we will treat them in that context.
+
+[5]  Defendant also argues that the definition of computer provided in La.R.S. 14:73.1(2) is unconstitutionally vague. La.R.S. 14:73.1(2) provides:
+
+"Computer" includes an electronic, magnetic, optical, or other high-speed data processing device or system performing logical, arithmetic, and storage functions, and includes any property, data storage facility, or communications facility directly related to or operating in conjunction with such device or system. "Computer" shall not include an automated typewriter or typesetter, a machine designed solely for word processing, or a portable hand-held calculator, nor shall "computer" include any other device which might contain components similar to those in computers but in which the components have the sole function of controlling the device for the single purpose for which the device is intended.
+
+Clearly, this definition taken in its usual sense is readily understandable by an ordinary person of reasonable intelligence. Hence, defendant's argument lacks merit.
+
+[6]  This situation should be distinguished from those instances where access itself is the crime. See, e.g., La.R.S. 14:73.2(A)(2):
+
+A. An offense against intellectual property is the intentional:
+
+(2) Disclosure, use, copying, taking, or accessing, without consent, of intellectual property. [Emphasis added.]
+
+[7]  Of the forty-two states that have computer crime statutes, nineteen require some form of "knowing access" for all forms of computer crime. The rest (like Louisiana) only require "knowing" or "intentional" access when the access itself is the crime. This is a matter of legislative discretion; the failure to do so does not make the statute unconstitutionally vague.
+
+[8]  For example, under La.R.S. 14:62.2 (simple burglary of an inhabited dwelling), knowledge that the dwelling was inhabited is not required since the statute provides for a mens rea. See also La.R.S. 14:62.1 (simple burglary of a pharmacy); La.R.S. 14:62.3 (unauthorized entry of an inhabited dwelling); La.R.S. 14:62.4 (unauthorized entry into a place of business).
+
+[9]  The legislature apparently reached a similar conclusion, since it amended La.R.S. 14:73.5(A)(2) to read "or through the fraudulent alteration, deletion, or insertion of programs or data." (Emphasis added.) 1988 La. Acts No. 184, § 1. Since the conduct here occurred between 1985 and 1986 and the amended statute was not effective until July 1, 1988, it is not applicable in this case.

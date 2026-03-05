@@ -1,0 +1,72 @@
+65626
+State Ex Rel. Bishop v. Blackburn
+https://law.justia.com/cases/louisiana/supreme-court/1980/384-so-2d-406-1.html
+
+65626
+State Ex Rel. Bishop v. Blackburn
+Court: Louisiana Supreme Court
+Release date: 1980-05-19
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/384-so-2d-406-1.html
+
+384 So. 2d 406 (1980)
+
+STATE ex rel. Ellender L. BISHOP
+v.
+Frank BLACKBURN, Warden, Louisiana State Penitentiary.
+
+No. 65626.
+
+Supreme Court of Louisiana.
+
+May 19, 1980.
+
+*407 Louis J. Cosenza, New Orleans, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. Carl Parkerson, Dist. Atty., for plaintiff-respondent.
+
+MARCUS, Justice.[*]
+
+Ellender L. Bishop was charged with operating a motor vehicle under the influence of alcoholic beverages, third offense, in violation of La.R.S. 14:98. Defendant withdrew his former plea of not guilty and entered a plea of guilty as charged and was sentenced to serve three years at hard labor. No appeal was taken. Thereafter, defendant applied to the district court for a writ of habeas corpus, alleging that his conviction was unlawful because it was based on two prior convictions resulting from guilty pleas which were invalid. The trial judge denied the application. We granted defendant's application to review that ruling.[1] Finding that one of the prior convictions was improperly used to convict defendant, we must reverse his conviction and sentence. Accordingly, we need not consider the other assigned error.
+
+At the outset, we must dispose of the state's motion to dismiss defendant's application, filed in this court on the day the matter was set for argument, because defendant had been discharged from custody two weeks earlier after having served in full the sentence of which he complained. Defendant filed an opposition to the state's motion to dismiss contending his release from custody did not moot the issues of the invalidity of the two prior convictions.
+
+*408 Our determination of the mootness issue is guided by the United States Supreme Court decision in Carafas v. LaVellee,
+391 U.S. 234
+, 237-38, 88 S. Ct. 1556, 1559, 20 L. Ed. 2d 554 (1968):
+
+Defendant's conviction for driving while intoxicated, third offense, also has substantial "collateral consequences" because a subsequent conviction for this same offense will subject him to the more severe penalty of ten to thirty years at hard labor. In addition, driving while intoxicated, third offense, is a felony since it may be punished by one to five years at hard labor, and thus triggers all restrictions imposed by law upon convicted felons. Accordingly, the motion to dismiss is denied.
+
+Defendant contends that one of his prior convictions was improperly used to find him guilty of the instant offense in that the records of said conviction do not show that he knowingly waived his right to court-appointed counsel. The conviction complained of was based on a plea of guilty entered on August 15, 1974, to the crime of operating a vehicle while intoxicated. As a result, defendant was sentenced to pay a fine of three hundred dollars and costs. The minute entry at the time his guilty plea was entered merely reflects that he "waived the presence of an attorney."
+
+La.Code Crim.P. art. 514 provides:
+
+Since defendant was not represented by counsel, the above statute requires that the minutes show that he was informed by the court of his right to court-appointed counsel. The minutes simply reflect that defendant waived the presence of "an attorney." We are unable to say that the waiver was knowingly and intelligently made since the record does not reveal that defendant was informed of his right to court-appointed counsel. Accordingly, this conviction was improperly used to find defendant guilty of the instant conviction of operating a vehicle while intoxicated, third offense, where a term of imprisonment was imposed. We must reverse.
+
+For the reasons assigned, defendant's conviction and sentence are reversed and the bill of information is dismissed.
+
+DIXON, C. J., concurs with reasons.
+
+DIXON, Chief Justice (concurring).
+
+I respectfully concur.
+
+The majority correctly holds that the 1974 conviction may not be used as a basis for defendant's conviction as a third offender. In addition, the 1976 conviction should not be used for that purpose. The transcript of the proceeding in which Bishop entered that plea shows that he was not given any of the information required by Boykin v. Alabama,
+395 U.S. 238
+, 89 S. Ct. 1709, 23 L. Ed. 2d 274 (1969). In State v. Lewis,
+367 So. 2d 1155
+, 1160 (La.1979), we made the following statement regarding the use of guilty pleas in the context of multiple offender proceedings:
+
+"... In a multiple offender hearing, only those previous pleas of guilty may be used to enhance a sentence which are supported by a contemporaneous record of a Boykin examination demonstrating the free and voluntary nature of a plea of guilty with an articulated waiver of the constitutional rights required by Boykin v. Alabama."
+
+While it is true that R.S. 14:98, Driving a Vehicle While Intoxicated, is structured so that each prior conviction increases the grade of the offense, instead of merely enhancing the punishment, the result is exactly   the same, and there is no reason why the rule enunciated in Lewis should not be applied to offenses under this statute.
+
+In Lewis, we were not called upon to decide whether this rule includes pleas of guilty to misdemeanor charges, but the answer to that question is strongly implied by a recent United States Supreme Court decision, Baldasar v. Illinois, ___ U.S. ___, 100 S. Ct. 1585, 64 L. Ed. 2d 169 (1980). In that case, the defendant entered an uncounseled plea of guilty, without waiver of right to counsel, to a charge of misdemeanor theft, and was fined and placed on probation. Evidence of that conviction was subsequently introduced to convert a later charge of misdemeanor theft into a felony punishable by one to three years imprisonment, as provided by an Illinois statute. In Scott v. Illinois,
+440 U.S. 367
+, 99 S. Ct. 1158, 59 L. Ed. 2d 383 (1979), the court had specifically held that the assistance of court appointed counsel is not constitutionally required in misdemeanor cases unless the defendant is actually sentenced to imprisonment. In Baldasar, the court reiterated that imprisonment is the factor which invokes the requirement of assistance of counsel and it observed that imprisonment for the second offense was premised upon the first, uncounseled conviction. The court rejected the state courts' finding that defendant was sentenced to imprisonment for the second offense only, and it reversed the conviction and sentence.
+
+The situation before us here is directly comparable. Bishop was sentenced to three years at hard labor for this third conviction, and the possibility of imprisonment at hard labor forms the "bright line" between felonies and misdemeanors in Louisiana. R.S. 14:2(4) and (6). Because a felony conviction based upon an un-Boykinized guilty plea is invalid, defendant's un-Boykinized plea of guilty to driving while intoxicated, second offense, may not be used to convict him of a third offense, punishable at hard labor.
+
+[*]  The Honorable EDWARD A. de la HOUSSAYE, III participated in this decision as Associate Justice Ad Hoc.
+
+[1]  377 So. 2d 844 (La.1979).

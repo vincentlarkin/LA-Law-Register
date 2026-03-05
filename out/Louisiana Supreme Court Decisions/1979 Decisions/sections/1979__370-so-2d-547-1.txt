@@ -1,0 +1,242 @@
+63025
+State v. Brown
+https://law.justia.com/cases/louisiana/supreme-court/1979/370-so-2d-547-1.html
+
+63025
+State v. Brown
+Court: Louisiana Supreme Court
+Release date: 1979-04-09
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/370-so-2d-547-1.html
+
+370 So. 2d 547 (1979)
+
+STATE of Louisiana, Appellee.
+v.
+Alphonse BROWN, Appellant.
+
+No. 63025.
+
+Supreme Court of Louisiana.
+
+April 9, 1979.
+
+*549 Bernard Jack Usprich, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John M. Mamoulides, Dist. Atty., G. Michael Grosz, Abbott J. Reeves, Asst. Dist. Attys., for plaintiff-appellee.
+
+TATE, Justice.[*]
+
+The defendant Brown was convicted of possession of heroin with intent to distribute, and sentenced to life imprisonment at hard labor.
+
+The principal issues raised upon his appeal relate to: I. Evidentiary rulings in the hearing on his motion to suppress the heroin as seized unconstitutionally, and the denial of this motion (Assignments of Error Nos. 1, 4, 5, 6, and 8); and II. The admission into evidence on the trial of the merits of irrelevant and prejudicial evidence relating to the "Detroit Profile" of suspected drug carriers (Assignment 7).
+
+We affirm the trial court's denial of the motion to suppress (Part I of the opinion below), but we reverse the conviction because of the admission of irrelevant and grossly prejudicial evidence (Part II below).
+
+I. The Motion to Suppress[1]
+
+The two issues involved in the review of the denial of the motion to suppress concern (a) an evidentiary ruling permitting evidence relating to the drug courier profile and (b) the claim that the motion to suppress was erroneously denied because the drug was seized from the accused as the result of an illegal investigatory stop.
+
+Assignments of Error Nos. 1, 4, & 5 (Motion to Suppress)
+
+Defendant contends the trial court erred in admitting evidence relating to the drug courier profile at the hearing on the motion to suppress.
+
+During cross-examination of one of the officers who arrested defendant at the New Orleans International Airport, the state asked the witness to explain the use of drug courier profiles, and to describe those characteristics of the profile which defendant exhibited while under surveillance at the airport. The witness fully complied without objection by defendant. On redirect, however, when the state indicated that it wanted to go into the profile again, defendant objected to any of the evidence relating to the profile being admitted into evidence (Assignment of Error No. 1). During cross-examination of another of the arresting officers, defendant twice objected to state questions involving the officers' use of the drug courier profile. The trial court overruled the objections both times (Assignments of Error Nos. 4 & 5).
+
+It is now well established that the mere fact that a defendant's behavior while under surveillance at the airport correlates with various elements of a drug courier profile does not by itself provide reasonable cause to stop and detain him for questioning. State v. Washington,
+364 So. 2d 958
+(La.1978); State v. Matthews,
+366 So. 2d 1348
+(La.1978). However, it does not follow that such factors are to be wholly disregarded in determining whether reasonable cause exists. Components of the profile, and defendant's conformance thereto, may be considered, along with other relevant information known to the officer, in evaluating whether he had reasonable cause to stop and detain a defendant. United States v. Smith, 574 F.2d 882 (6th Cir. 1978); United States v. Pope, 561 F.2d 663 (6th Cir.   1977). It was therefore admissible at the hearing on the motion to suppress, in order to show reasonable cause for the stop, in conjunction with the other more particularized information as to the accused's criminal conduct.
+
+Assignments of Error Nos. 6 & 8 (Motion to Suppress)
+
+Defendant contends the trial court erred in denying his motion to suppress physical evidence. He argues that the investigatory stop was illegal, thereby tainting his consent to the search and the evidence obtained as a result of that search. Alternatively, defendant argues that his consent to the stop search was ineffective since it was obtained as a result of an illegal arrest.
+
+The testimony at the hearing on the motion to suppress revealed the following facts:
+
+On May 5, 1977, Officer Richard Dennis of the Jefferson Parish Sheriff's Office received a tip from a confidential informant that a 24-27 year old black male by the name of Alphonse Brown would be flying into the New Orleans International Airport the next day from Los Angeles carrying a quantity of heroin. The informant described defendant as a full-bearded black male with a short bush haircut, about 6'1" in height, 200-240 pounds, wearing a three-piece tan or cream colored suit, and sporting a gold tooth in the front of his mouth.
+
+As a result of having received this information, Officer Dennis arrived at the airport designated at about 3:00 a. m. on May 6 in order to maintain a surveillance of all flights coming in from Los Angeles. At about 7:30 that morning, two federal drug enforcement agents joined him in the surveillance.
+
+At approximately 2:30 p. m. of that day, defendant was observed arriving on a non-stop flight from Los Angeles. The three officers noted that defendant, who fit the description provided by the informant, was the last passenger to disembark. Following defendant down the concourse to the baggage area, the agents further noted that defendant appeared nervous, repeatedly looking over his shoulder and from side to side. At the baggage area, the agents observed defendant retrieve one small suitcase.
+
+As defendant was leaving the area, the agents approached and stopped him. They identified themselves as police officers and asked defendant for his driver's license and airplane ticket. These were produced, the license in the name of Alphonse Brown, and the ticket in the name of Joseph Brown.
+
+Defendant was then asked to accompany the agents to an office on the third floor of the airport for further questioning. On the way to the office, defendant was told that he was suspected of carrying narcotics in his suitcase. Defendant replied that he did not have any narcotics, but only some "herbs" in the suitcase. Upon being asked whether he meant marijuana, defendant responded affirmatively.
+
+Subsequently, defendant gave his consent to a search of the suitcase, although there is a conflict in testimony as to when this consent was given. One officer testified that defendant's consent was given on the third floor en route from the elevator to the office; another officer stated that defendant consented to a search inside the office. In any event, the search of the suitcase disclosed a quantity of heroin concealed within a container of Johnson's Baby Powder.
+
+The Fourth Amendment to the Federal Constitution protects people against unreasonable searches and seizures. It is well established in this regard that a law enforcement officer has a right to temporarily detain and interrogate a person whom he suspects is committing, has committed, or is about to commit a crime. La.C.Cr.P. art. 215.1; Terry v. Ohio,
+392 U.S. 1
+, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968); State v. Robinson,
+342 So. 2d 183
+(La.1977); State v. Perique,
+340 So. 2d 1369
+(La.1976). We have held that reasonable cause for an investigatory stop is something less than probable cause. Nevertheless, it requires that the detaining officers have articulable knowledge of particular facts which, taken   together with rational inferences therefrom, provide reasonable grounds to suspect the detainee of criminal activity.
+
+We have recognized that an informant's tip can provide a police officer with reasonable cause to detain and question a suspect. State v. Wilson,
+366 So. 2d 1328
+(La.1978); State v. Sims,
+350 So. 2d 1189
+(La.1977); State v. Robinson,
+342 So. 2d 183
+(La.1977); State v. Perique, supra; State v. Dixon,
+337 So. 2d 1165
+(La.1976); State v. Mims,
+330 So. 2d 905
+(La.1976). Informants' tips vary greatly, however, in their value and reliability, rendering impossible one simple rule to cover every situation. Adams v. Williams,
+407 U.S. 143
+, 92 S. Ct. 1921, 32 L. Ed. 2d 612 (1972).
+
+In determining whether reasonable cause exists, we utilize "the same criteria of trustworthiness required for the showing of the greater degree of probability of criminal conduct necessary to justify an arrest." State v. Wilson, supra. Thus, in either situation, the reliability of both the informant and his information must be satisfactorily demonstrated, or, if the tip is inadequate under this standard, it may be deemed sufficiently trustworthy on the basis of corroboration by independent sources. Spinelli v. United States,
+393 U.S. 410
+, 89 S. Ct. 584, 21 L. Ed. 2d 637 (1969); State v. Richards,
+357 So. 2d 1128
+(La.1978); State v. Marks,
+337 So. 2d 1177
+(La.1976).
+
+In State v. Washington, supra, officers observed defendant disembark from a flight originating in Los Angeles, behave in a nervous manner, make a telephone call, and approach the baggage counter without claiming his luggage. We held that these actions, commonly cited as elements of a drug courier profile, did not furnish reasonable cause to detain a person for questioning.[2]
+
+In State v. Matthews, supra, officers observed that defendant fit three elements of the drug profile: he disembarked from a flight from Los Angeles, acted nervously, and had only one piece of luggage. Moreover, the agents had received an informant's tip describing generally a number of persons suspected of transporting heroin into New Orleans from the West Coast. The description of one of the suspected male couriers was of a thin black male about 5'8" tall. We held that the officers had no reasonable cause to stop defendant, noting especially that the tip was so vague and inclusive that it would describe virtually every young black person arriving from the West Coast.
+
+The instant case is distinguishable from our decision in Matthews. Rather than describing generally and vaguely a number of persons, the tip in the instant case involved solely a detailed and particularized description of a single individual. Defendant was described as a black male about 6'1" tall, 200-240 pounds, full-bearded, wearing a short bush hairstyle, a gold tooth in the front of his mouth, and a three-piece tan or cream colored suit. Additionally, his name was given as Alphonse Brown; furthermore, the informant indicated that defendant was to arrive in New Orleans on May 6.
+
+This information was fully corroborated by the agents at the airport. Moreover, while following defendant to the baggage area, the agents observed that he arrived on a non-stop flight from a drug source city, behaved nervously, and carried limited luggage. This information was sufficient to justify the temporary stop by the officers of defendant for questioning.[3]
+
+*552 Defendant further contends that even if this court holds the initial stop to be valid, the subsequent search of his suitcase based upon his consent was not valid. He argues that by escorting him to a private office the officers in effect arrested him without probable cause, thereby tainting his consent to the search.
+
+We do not agree. In the first place, we find that the officers' action in requesting defendant to accompany them to the office did not constitute an arrest. United States v. Oates, 560 F.2d 45 (2d Cir. 1977); United States v. Salter, 521 F.2d 1326 (2d Cir. 1975). Thus, defendant's consent given at this time was not tainted by an illegal arrest. In any event, defendant admitted prior to giving his consent to the search and en route to the third floor office, to having marijuana in his suitcase. This ripened the reasonable cause to detain and question into probable cause to arrest and search.
+
+For the foregoing reason, we hold that the judge did not err in denying defendant's motion to suppress the evidence. Accordingly, these assignments of error are without merit.
+
+II. Trial on the Merits
+
+Assignment of Error No. 7 presents reversible error. It relates to certain evidence admitted over objection at the trial on the merits. The evidence concerned the so-called "Detroit Profile" used by narcotics agents in arresting suspected drug traffickers arriving at airports.
+
+In the state's opening statement, the prosecutor referred to evidence to be submitted to the jury concerning a federal narcotics agent with the specific duty at the airport of "watching passengers arrive and depart on airplanes, looking at them to determine whether or not they fall into the category known as the `Detroit Profile'. . . [which] is composed of thirteen elements whereby they view passengers as they come off of planes to determine whether they meet any of the points in the profile, and if they determine that a passenger falls within that category, it's possible that that person will be stopped for questioning in order to ascertain if they are carrying any type of narcotics."
+
+The defense objected to this argument and reiterated its objection (first made at the motion to suppress heard outside the jury's presence) as to the admissibility of this type of evidence. The trial court overruled the objection and made it general as to evidence thereafter to be introduced.
+
+At the trial on the merits, two federal agents were called, apparently to testify specifically as to the use of the Detroit Profile in detaining persons suspected of being couriers in the drug traffic, as well as to their participation in the arrest.
+
+As we noted in Part I of this opinion, evidence as to the Detroit Profile may be relevant in determining whether, with additional particularized information, there is reasonable cause to stop a person to question him as to a possible drug offense. However, we are unable to see how such evidence is relevant to any issue of innocence or guilt at the trial on the merits.
+
+La.R.S. 15:441 provides: "Relevant evidence is that tending to show the commission of the offense and the intent, or tending to negative the commission of the offense and the intent. Facts necessary to be known to explain a relevant fact, or which support an inference raised by such fact, are admissible."
+
+At the trial on the merits, the legality of the stop resulting in seizure of the heroin is no longer at issue. On the denial of the motion to suppress, the evidence seized is admissible and the alleged illegality of the seizure is irrelevant for purpose of the trial of innocence or guilt.
+
+*553 As will be elaborated, the circumstance that the accused on arriving at the airport shared certain of the characteristics (nervousness, etc.) of other persons suspected of engaging in the drug traffic is completely irrelevant to the issues of the prosecution, i. e., whether he possessed the heroin, and did so with intent to distribute it.
+
+The federal Drug Enforcement Agency has developed a drug courier profile, commonly called the "Detroit" profile, to aid them in identifying suspects as drug couriers. The profile consists of thirteen characteristics, e. g., arrival from a source city,[4] nervousness, a limited amount of luggage, use of an alias, one-way tickets being used, relatively short period of time between departure and arrival, etc.[5]
+
+The essential irrelevance of this testimony to innocence or guilt is illustrated by the testimony of one of the two federal agents who testified. See also footnote 5, for the other agent's testimony.
+
+The testimony essentially concerned why the narcotics officers stopped the accused for questioning, whereas the issues on the merits were whether the accused possessed the heroin and did so with intent to distribute it. Nevertheless, Agent Fuller testified at length concerning the profile, see, e. g., Tr. 71-72:
+
+"A. My function is to work along with the Drug Enforcement Administration and the work is what is called the airport detail, using what is known as the Detroit Profile.
+
+A. Well, it deals with narcotic trafficking from various cities into this city, and we are out there to arrest people for narcotics from these source cities. * * *
+
+Q. Now, have you ever had to go to any particular school with regards to the Detroit Profile?
+
+A. I think there is a school for the Detroit Profile.
+
+A. Well, it's a one day deal and they explain the profile to you and how it came about.
+
+A. It is used to arrest heroin traffickers. * * *"
+
+Under cross-examination, Agent Fuller testified again as to his learning the characteristics of the Detroit Profile in his one day of schooling and attempted to tick off the thirteen points of the profile.[6] However, when asked what points he observed about Brown when he got off the plane, he admitted that he had identified him immediately on the basis of the informant's description, Tr. 77, and he failed otherwise to specify any relevance of the testimony to the stopeven assuming that the reason for the airport stop, at which time heroin was discovered in the defendant's baggage, was relevant under the circumstances to the issues tried on the merits.
+
+*554 In Part I of this opinion, we cited the uniform jurisprudence that the Detroit Profilean estimation on an unshown basis by narcotics agents that drug couriers (along with many innocent travelers) often exhibit certain characteristics of behavior in arrival at airportsdoes not by itself serve as a reasonable basis to believe that any particular traveler might be guilty of criminal conduct. For similar reasons, it is even less probative of or relevant to the determination of the innocence or guilt of the traveler of a criminal offense charged.
+
+The apparent reason of the state for introducing the profile at the trial on the merits illustrates the reversible prejudice caused by its admission: To prove possession of heroin with intent to distribute, the state (improperly) sought by evidence of the Detroit Profile to imply that the defendant was part of a national network of drug distributors.
+
+The circumstances of the accused's arrest at the airport may well be relevant for such purpose. However, the reasons for the airport stopthat drug couriers (along with many innocent people) often exhibit nervousness and carry little or no luggage on arrival (and have some ten other characteristics not shared by the accused)is irrelevant to and not probative of that issue.
+
+The record in this case doe not contain any showing, other than the agent's statement on an unsupported basis, that the "Detroit Profile" is reliable evidence that any considerable proportion of air travelers sharing its characteristics are drug couriers. Nor do we find the profile to have any more validity as proof of this defendant's criminal activity or criminal intent than, for instance, his race, dress habits, personal appearance, persons with whom he associates, or other personality traits or behavior characteristics which he might (or might not) share with drug couriers as well as innocent travelers.[7]
+
+We find that evidence as to the Detroit Profilethat drug couriers when they arrive at an airport often behave like the defendant is alleged to have behaved, insofar as nervousness, etc.simply does not tend to prove that this defendant is guilty of the offense charged, nor does it explain any relevant fact with regard to guilt or innocence. That others believe to be drug couriers arrived with little or no baggage, were nervous on arrival, etc. (see footnote 5) simply does not tend to prove that this defendant was a drug courier.
+
+Moreover, the evidence was impermissibly prejudicial. By the narcotic agents' emphasized and reiterated testimony on the subject, the state improperly suggested to the trial jury the agents' "expert" determination that the accused was indeed a drug courier (although their testimony was essentially based only on other persons who were drug couriers (along with innocent travelers, behaved similarly upon arrival at an airport).
+
+Accordingly, while we affirm the trial court's denial of the motion to suppress the drugs seized, we reverse the conviction and sentence, and we remand for a new trial in accordance with law.
+
+REVERSED AND REMANDED.
+
+DIXON, J., concurs with reasons.
+
+DENNIS, J., concurs with the decree but dissents from the approval of the denial of the motion to suppress.
+
+CUTRER, J., concurs in part and dissents in part and assigns reasons.
+
+SUMMERS, C. J., dissents in part and concurs in part for the reasons assigned by CUTRER, J.
+
+*555 DIXON, Justice (concurring).
+
+I respectfully concur, disagreeing with the discussion of Assignments of Error Nos. 6 and 8.
+
+The police have a right to speak to anyone. The First Amendment of the United States Constitution gives them that right. No one to whom the police speak is required to answer. The Constitution gives such person the right to remain silent.
+
+The Constitution does not permit a "temporary detention" by police (in the absence of life-endangering circumstances) without probable cause. Terry v. Ohio,
+392 U.S. 1
+, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968), concerned only with a pat-down for weapons while a policeman attempted to question a suspicious character, neither helps nor hurts any theory of this case:
+
+The record here, however, does not show that defendant was detained against his will until he admitted possessing marijuana. Defendant was not required to answer any questions of police, nor did the law require that he stop. He chose to answer, and he stopped without protest. When he admitted possession of marijuana, the police had cause to arrest. If defendant had attempted to avoid the police unsuccessfully, State v. Saia,
+302 So. 2d 869
+(La.1974), would have protected him from the fruits of such police-initiated confrontation. There is no evidence that defendant exhibited more than a mild reluctance to talk to the police.
+
+The police may question, and in life-threatening circumstances like those in Terry v. Ohio, supra, and Adams v. Williams,
+407 U.S. 143
+, 92 S. Ct. 1921, 32 L. Ed. 2d 612 (1972), they may pat-down for weapons for their protection, but nothing gives police at airports the right to "temporarily detain" a suspected courier of contraband and force him to go to a police office and subject himself to a search.
+
+Here, however, before the police could do more than explain their purpose, defendant admitted the possession of marijuana. Therefore, I agree that the motion to suppress was properly denied.
+
+DENNIS, Justice, concurring in part, dissenting in part.
+
+I join fully in the majority's reversal of the defendant's conviction and sentence and the reasons assigned therefore. However, I respectfully disagree with the majority's affirmance of the trial court's denial of the motion to suppress. The majority opinion is clearly correct in its conclusion "that the Detroit Profilean estimation on an unshown basis by narcotics agents that drug couriers (along with many innocent travelers) often exhibit certain characteristics of behavior in arrival at airportsdoes not by itself serve as a reasonable basis to believe that any particular traveler might be guilty of criminal conduct." But it is difficult to understand how the arrival from Los Angeles, in accordance with a "tip", of "a full-bearded black male [heroin courier named Alphonse Brown] with a short bush haircut, about 6'1" in height, 200-240 pounds, wearing a three-piece tan or cream colored suit, and sporting a gold tooth" supplies the deficiency. The only thing the confirmation of the tip shows is that the tipster knew what Brown looked like and knew that he boarded a plane for New Orleans. It seems clear that the tip by itself would not have furnished reasonable grounds to suspect a person of criminal activity. There is nothing to show how the tipster knew that Brown was carrying heroin.
+
+How then can combining the tip with an observation that Brown possessed a few of the drug courier profile characteristics produce a reasonable basis for suspicion or good cause to stop him for questioning? It would seem that the majority's holding now makes it possible for unreliable tipsters in the Los Angeles airport to provide officers in other cities reasonable cause to stop and   question large numbers of passengers by simply forwarding by telephone particularized descriptions of each passenger bearing some resemblance to the Detroit Profile.
+
+CUTRER, Justice ad hoc, dissenting.
+
+I respectfully dissent, although recognizing the persuasiveness of the majority opinion. I disagree with the holding that, while evidence as to the Detroit Profile is relevant, along with additional information, to establish reasonable cause to stop a person to question him as to a possible drug offense, such evidence is irrelevant as to the issue of guilt or innocence at the trial on the merits.
+
+LSA-R.S. 15:441 provides:
+
+The State has the duty to prove each element of the crime charged beyond a reasonable doubt. One of the essential elements of the crime charged herein is guilty knowledge.
+
+The exhibition, by the defendant, of Detroit Profile characteristics would be relevant for the purpose of establishing the element of guilty knowledge. Such evidence, considered by the jury along with the other facts, may assist the jury in making a decision on this issue. In the case of State v. Giles, 253 La. 533,
+218 So. 2d 585
+(1969), this court, in discussing the problem of relevancy, made the following observation:
+
+Even though evidence of Detroit Profile characteristics may be circumstantial and may not have strong, full, or superlative value, it is sufficiently relevant to be considered by the jury in making its determination of guilty knowledge.
+
+I therefore dissent from the majority opinion which holds that such evidence is not relevant.
+
+SUMMERS, Chief Justice (dissenting).
+
+While I agree that the trial judge properly denied defendant's motion to suppress, I cannot agree with the reversal of this conviction because the "Detroit Profile" testimony was irrelevant. In this latter respect, I join Justice ad hoc CUTRER in the reasons he assigns for dissent.
+
+[*]  Judge Cecil C. Cutrer of the Louisiana Court of Appeal, Third Circuit, participated in this decision as an Associate Justice ad hoc.
+
+[1]  Associate Justice ad hoc Cutrer is the author of this portion of the opinion (Part I).
+
+[2]  We did not hold, however, that elements of the profile could not be considered at all in evaluating reasonable cause. Although the characteristics of the profile may not alone be enough to provide reasonable grounds to stop, they may be considered, along with other relevant information known to the officers, in determining whether reasonable cause to stop exists. See Assignments of Error Nos. 1, 4, & 5, supra.
+
+[3]  Our holding in this regard is supported by the recent decision of State v. Ballard, 573 F.2d 913 (5th Cir. 1978), involving similar facts. In that case, as in this one, agents stopped defendant based upon a tip from a confidential informant which purported to describe defendant's physical appearance; and also based upon the fact that defendant exhibited four elements of the drug courier profile. The court declared that the stop was unconstitutional, but only because the tip as to a black male courier, even with the profile characteristics did "not in any significant way operate to distinguish [the defendant] Ballard from the general public," 573 F.2d 916. Here, however, the informant's tip as to a particularized description of an arriving courier was corroborated by the agents' observations of an arriving passenger meeting the detailed description furnished by the informant.
+
+[4]  Certain cities from which large amounts of narcotics are trafficked are referred to as source cities, e. g., Chicago and Los Angeles.
+
+[5]  For a complete list of elements in the Detroit profile, see United States v. Ballard, 573 F.2d 913 (5th Cir. 1978).
+
+In testifying that the accused Brown met three of the characteristics of the profile (he arrived on a non-stop flight from Los Angeles, he was nervously looking around when he arrived, and he had limited luggage, i. e., a small suitcase), federal drug agent Donald testified, Tr. 82-83:
+
+"The Detroit Profile consists of thirteen items, which our office in Detroit developed in order to help us spot narcotics couriers. One is a person that would be traveling from a source city, a narcotics source city; traveling under an alias; using light luggage or no luggage at all; usually a short trip, let's say, nothing longer than one day and then coming back the next day; use of a telephone when they first get off of the plane; a one way ticket as opposed to a round trip ticket; paying for the ticket in cash; buying a ticket with small billsand there are a couple of other ones, which slip my mind right now."
+
+[6]  See, Tr. 76:
+
+"I don't recall them allI didn't say. But, one is nervousness; a small amount of luggage; a one way ticket; the ticket paid for in small bills; a one way ticket paid for with cash; making a phone call after deplaning; use of an aliasI don't recall the rest."
+
+[7]  Even if we were convinced of the relevance of the profile as evidence of the fact sought to be proved by its admission into evidence (and consequently, of its relevance to the issue of guilt), the evidence should be inadmissible as unduly prejudicial, because any limited probative value it might have would be outweighed by the chance that the jury would be unduly influenced to convict the defendant based upon personality traits and behavior characteristics rather than actual proof of the crime charged.

@@ -33,9 +33,12 @@ from bs4 import BeautifulSoup, Tag
 
 
 BASE = "https://www.lasc.org"
+JUSTIA_BASE = "https://law.justia.com"
 CATEGORY_KEY = "louisiana-supreme-court-decisions"
 CATEGORY_NAME = "Louisiana Supreme Court Decisions"
-MIN_ARCHIVE_YEAR = 2000
+OFFICIAL_ARCHIVE_MIN_YEAR = 2000
+JUSTIA_EARLIEST_YEAR = 1950
+JUSTIA_EXTRA_YEARS = {1885}
 _REQUEST_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -112,6 +115,7 @@ class OpinionEntry:
     disposition: str
     parish: str
     notes: str
+    source_provider: str
 
 
 @dataclass(frozen=True)
@@ -181,15 +185,35 @@ def _new_session() -> requests.Session:
     return session
 
 
+def _supported_archive_years(current_year: int) -> list[int]:
+    years = set(JUSTIA_EXTRA_YEARS)
+    years.update(range(JUSTIA_EARLIEST_YEAR, current_year + 1))
+    return sorted(years)
+
+
+def _is_justia_year(year: int) -> bool:
+    return year in JUSTIA_EXTRA_YEARS or JUSTIA_EARLIEST_YEAR <= year < OFFICIAL_ARCHIVE_MIN_YEAR
+
+
+def _year_source(year: int) -> str:
+    return "justia" if _is_justia_year(year) else "lasc"
+
+
 def _year_release_url(year: int) -> str:
     return f"{BASE}/CourtActions/{year}"
+
+
+def _justia_year_url(year: int) -> str:
+    return f"{JUSTIA_BASE}/cases/louisiana/supreme-court/{year}/"
 
 
 def _parse_years(raw: str) -> list[int]:
     text = (raw or "").strip().lower()
     current_year = datetime.now().year
+    supported_years = _supported_archive_years(current_year)
+    supported_year_set = set(supported_years)
     if text in {"", "all"}:
-        return list(range(MIN_ARCHIVE_YEAR, current_year + 1))
+        return supported_years
 
     out: set[int] = set()
     for part in text.split(","):
@@ -206,10 +230,12 @@ def _parse_years(raw: str) -> list[int]:
         else:
             out.add(int(token))
 
-    years = sorted(y for y in out if MIN_ARCHIVE_YEAR <= y <= current_year)
+    years = sorted(y for y in out if y in supported_year_set)
     if not years:
+        available = f"{JUSTIA_EARLIEST_YEAR}-{OFFICIAL_ARCHIVE_MIN_YEAR - 1} plus {OFFICIAL_ARCHIVE_MIN_YEAR}-{current_year}"
+        extras = ", ".join(str(year) for year in sorted(JUSTIA_EXTRA_YEARS))
         raise SystemExit(
-            f"No valid years requested. Official archive coverage starts at {MIN_ARCHIVE_YEAR} and ends at {current_year}."
+            f"No valid years requested. Available Supreme Court years are {available}, with additional Justia coverage for {extras}."
         )
     return years
 
@@ -251,6 +277,55 @@ def _normalize_pdf_href(href: str) -> str:
     value = re.sub(r"^htto://", "https://", value, flags=re.IGNORECASE)
     value = re.sub(r"^http://", "https://", value, flags=re.IGNORECASE)
     return urljoin(BASE, value)
+
+
+def _new_justia_scraper():
+    try:
+        import cloudscraper
+    except ImportError as exc:
+        raise RuntimeError("Pre-2000 Justia downloads require the 'cloudscraper' package.") from exc
+
+    scraper = cloudscraper.create_scraper(
+        browser={"browser": "chrome", "platform": "windows", "desktop": True}
+    )
+    scraper.headers.update(_REQUEST_HEADERS)
+    return scraper
+
+
+_SCRAPER_LOCAL = threading.local()
+
+
+def _get_justia_scraper():
+    scraper = getattr(_SCRAPER_LOCAL, "justia", None)
+    if scraper is None:
+        scraper = _new_justia_scraper()
+        _SCRAPER_LOCAL.justia = scraper
+    return scraper
+
+
+def _reset_justia_scraper():
+    scraper = _new_justia_scraper()
+    _SCRAPER_LOCAL.justia = scraper
+    return scraper
+
+
+def _justia_get(url: str, *, timeout_s: float):
+    last_response = None
+    for attempt in range(3):
+        scraper = _get_justia_scraper() if attempt == 0 else _reset_justia_scraper()
+        response = scraper.get(url, timeout=timeout_s)
+        last_response = response
+        if response.status_code != 403:
+            return response
+        time.sleep(1.5 * (attempt + 1))
+    if last_response is not None:
+        last_response.raise_for_status()
+    raise RuntimeError(f"Justia request failed without a response: {url}")
+
+
+def _justia_case_doc_id(year: int, case_url: str) -> str:
+    stem = Path(urlparse(case_url).path).stem
+    return safe_name(f"{year}__{stem}", max_len=180)
 
 
 def _paragraph_text(tag: Tag) -> str:
@@ -352,7 +427,7 @@ def _parse_release_entries(
     return deduped
 
 
-def _crawl_year(
+def _crawl_year_lasc(
     session: requests.Session,
     *,
     year: int,
@@ -422,6 +497,7 @@ def _crawl_year(
             disposition=entry["disposition"],
             parish=entry["parish"],
             notes=entry["notes"],
+            source_provider="lasc",
         )
         for index, entry in enumerate(raw_entries, start=1)
     ]
@@ -433,6 +509,77 @@ def _crawl_year(
         source_toc_url=court_actions_url,
         entries=entries,
     )
+
+
+def _crawl_year_justia(
+    *,
+    year: int,
+    timeout_s: float,
+    logger: _Logger,
+    max_cases: Optional[int],
+) -> Bundle:
+    year_url = _justia_year_url(year)
+    logger.info(f"[crawl] {year}: {year_url}")
+    res = _justia_get(year_url, timeout_s=timeout_s)
+    res.raise_for_status()
+    soup = BeautifulSoup(res.text, "html.parser")
+
+    entries: list[OpinionEntry] = []
+    seen_urls: set[str] = set()
+    case_re = re.compile(rf"^/cases/louisiana/supreme-court/{year}/[^/]+\.html$")
+    for a in soup.find_all("a", href=True):
+        href = _normalize_ws(a["href"])
+        if not case_re.match(href):
+            continue
+        case_url = urljoin(JUSTIA_BASE, href)
+        if case_url in seen_urls:
+            continue
+        seen_urls.add(case_url)
+        title = _normalize_ws(a.get_text(" ", strip=True))
+        if not title:
+            continue
+        entries.append(
+            OpinionEntry(
+                order=len(entries) + 1,
+                doc_id=_justia_case_doc_id(year, case_url),
+                citation="",
+                title=title,
+                url=case_url,
+                release_url=case_url,
+                pdf_url="",
+                release_code="",
+                release_date="",
+                author="",
+                disposition="",
+                parish="",
+                notes="",
+                source_provider="justia",
+            )
+        )
+        if max_cases is not None and len(entries) >= max_cases:
+            break
+
+    logger.info(f"[crawl] {year}: cases={len(entries)}")
+    return Bundle(
+        category_key=CATEGORY_KEY,
+        category_name=CATEGORY_NAME,
+        bundle_name=f"{year} Decisions",
+        source_toc_url=year_url,
+        entries=entries,
+    )
+
+
+def _crawl_year(
+    session: requests.Session,
+    *,
+    year: int,
+    timeout_s: float,
+    logger: _Logger,
+    max_cases: Optional[int],
+) -> Bundle:
+    if _year_source(year) == "justia":
+        return _crawl_year_justia(year=year, timeout_s=timeout_s, logger=logger, max_cases=max_cases)
+    return _crawl_year_lasc(session, year=year, timeout_s=timeout_s, logger=logger, max_cases=max_cases)
 
 
 def _extract_text_pymupdf(pdf_path: Path) -> str:
@@ -707,7 +854,139 @@ def _text_to_html(text: str) -> str:
     return "\n".join(out)
 
 
-def _build_doc_text(entry: OpinionEntry, *, pdf_text: str, notes: str) -> str:
+_DATE_LINE_RE = re.compile(
+    r"^(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}\.?$",
+    re.IGNORECASE,
+)
+
+
+def _clean_justia_html_text(text: str) -> str:
+    cleaned = _sanitize_pdf_characters(html.unescape(text or ""))
+    cleaned = cleaned.replace("\u2019", "'")
+    cleaned = re.sub(r"(?<=\s)\*\d{1,4}(?=\s)", " ", cleaned)
+    cleaned = re.sub(r"\s+\[\d+\]", "", cleaned)
+    cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
+    return cleaned.strip()
+
+
+def _extract_justia_html_blocks(opinion: Tag) -> list[str]:
+    text_wrap = opinion.find(class_="text-soft-wrap")
+    container = text_wrap or opinion
+    blocks: list[str] = []
+    for node in container.find_all(["p", "blockquote", "h2", "h3", "h4"], recursive=True):
+        text = _clean_justia_html_text(node.get_text("\n", strip=True))
+        if text:
+            blocks.append(text)
+    if blocks:
+        return blocks
+
+    raw = _clean_justia_html_text(container.get_text("\n", strip=True))
+    return [part.strip() for part in raw.split("\n\n") if part.strip()]
+
+
+def _justia_pdf_url(opinion: Tag) -> str:
+    pdf_link = opinion.find("a", href=True, string=re.compile(r"download pdf", re.IGNORECASE))
+    if pdf_link is not None:
+        return urljoin("https:", _normalize_ws(pdf_link["href"]))
+    iframe = opinion.find("iframe", src=True)
+    if iframe is None:
+        return ""
+    query = parse_qs(urlparse(urljoin("https:", iframe["src"])).query)
+    files = query.get("file") or []
+    if not files:
+        return ""
+    return urljoin("https://cases.justia.com", files[0])
+
+
+def _justia_citation_from_blocks(blocks: list[str], case_url: str) -> str:
+    candidates = []
+    for block in blocks[:4]:
+        normalized = _normalize_ws(block)
+        if not normalized:
+            continue
+        if normalized.lower().startswith("download pdf"):
+            continue
+        if normalized.startswith("Supreme Court of Louisiana"):
+            continue
+        candidates.append(normalized)
+    if not candidates:
+        return ""
+
+    primary = candidates[0]
+    if re.match(r"^\d+\s+So\.", primary, re.IGNORECASE) and len(candidates) > 1:
+        secondary = candidates[1]
+        if re.match(r"^\d+\s+La\.\s+\d+", secondary, re.IGNORECASE):
+            return f"{primary}; {secondary}"
+    if re.match(r"^\d+\s+La\.\s+\d+", primary, re.IGNORECASE) and len(candidates) > 1:
+        secondary = candidates[1]
+        if re.match(r"^\d+\s+So\.", secondary, re.IGNORECASE):
+            return f"{secondary}; {primary}"
+
+    full_text = " ".join(blocks)
+    docket_match = re.search(r"\b([0-9]{2,4}-[A-Z]{1,6}-[0-9]{1,6})\b", full_text, re.IGNORECASE)
+    if docket_match:
+        return docket_match.group(1).upper()
+    docket_match = re.search(r"\bNo\.\s*([0-9A-Z-]{4,})\b", full_text, re.IGNORECASE)
+    if docket_match:
+        return docket_match.group(1).upper()
+    if re.match(r"^(No\.|[0-9]{2,4}-[A-Z]{1,6}-)", primary, re.IGNORECASE):
+        return primary
+    stem = Path(urlparse(case_url).path).stem
+    if re.match(r"^\d{2,4}[-a-z0-9]+$", stem, re.IGNORECASE):
+        return stem.upper()
+    return primary
+
+
+def _justia_release_date_from_blocks(blocks: list[str]) -> str:
+    for block in blocks[:10]:
+        normalized = _normalize_ws(block).rstrip(".")
+        if not _DATE_LINE_RE.match(normalized):
+            continue
+        try:
+            return datetime.strptime(normalized, "%B %d, %Y").strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    return ""
+
+
+def _justia_author_from_blocks(blocks: list[str]) -> str:
+    for block in blocks[:14]:
+        normalized = _normalize_ws(block)
+        if re.match(r"^[A-Z][A-Za-z .,'-]+,\s*(Justice|Judge|Chief Justice)\.?$", normalized):
+            return normalized
+    return ""
+
+
+def _fetch_justia_case_detail(
+    *,
+    entry: OpinionEntry,
+    timeout_s: float,
+) -> dict[str, str]:
+    res = _justia_get(entry.url, timeout_s=timeout_s)
+    res.raise_for_status()
+    soup = BeautifulSoup(res.text, "html.parser")
+    opinion = soup.find(id="opinion")
+    if opinion is None:
+        raise RuntimeError(f"Justia case page missing #opinion: {entry.url}")
+
+    title = _normalize_ws((soup.find("h1").get_text(" ", strip=True) if soup.find("h1") else entry.title))
+    pdf_url = _justia_pdf_url(opinion)
+    blocks = _extract_justia_html_blocks(opinion)
+    html_text = "\n\n".join(blocks).strip()
+    citation = _justia_citation_from_blocks(blocks, entry.url)
+    release_date = _justia_release_date_from_blocks(blocks)
+    author = _justia_author_from_blocks(blocks)
+    return {
+        "title": title,
+        "citation": citation,
+        "release_date": release_date,
+        "author": author,
+        "pdf_url": pdf_url,
+        "html_text": html_text,
+    }
+
+
+def _build_doc_text(entry: OpinionEntry, *, body_text: str, notes: str) -> str:
     header_lines = [
         entry.citation,
         entry.title,
@@ -725,10 +1004,16 @@ def _build_doc_text(entry: OpinionEntry, *, pdf_text: str, notes: str) -> str:
         header_lines.append(f"Disposition: {entry.disposition}")
     if notes:
         header_lines.append(f"Release notes: {notes}")
-    header_lines.append(f"Official release page: {entry.release_url}")
-    header_lines.append(f"Official PDF: {entry.pdf_url}")
+    if entry.source_provider == "justia":
+        header_lines.append("Source: Justia Louisiana Supreme Court archive")
+        header_lines.append(f"Source case page: {entry.release_url}")
+        if entry.pdf_url:
+            header_lines.append(f"Source PDF: {entry.pdf_url}")
+    else:
+        header_lines.append(f"Official release page: {entry.release_url}")
+        header_lines.append(f"Official PDF: {entry.pdf_url}")
     body = "\n".join(line for line in header_lines if line.strip())
-    return f"{body}\n\n{pdf_text.strip()}".strip()
+    return f"{body}\n\n{body_text.strip()}".strip()
 
 
 def _download_case(
@@ -746,42 +1031,78 @@ def _download_case(
     json_path = sections_dir / f"{entry.doc_id}.json"
     txt_path = sections_dir / f"{entry.doc_id}.txt"
 
-    if resume and pdf_path.exists() and json_path.exists() and txt_path.exists():
+    if entry.source_provider == "justia" and resume and json_path.exists() and txt_path.exists():
+        return "skipped", entry.doc_id
+    if entry.source_provider != "justia" and resume and pdf_path.exists() and json_path.exists() and txt_path.exists():
         return "skipped", entry.doc_id
 
-    if not pdf_path.exists() or pdf_path.stat().st_size <= 0:
-        res = requests.get(entry.pdf_url, timeout=timeout_s, headers=_REQUEST_HEADERS)
-        res.raise_for_status()
-        _atomic_write_bytes(pdf_path, res.content)
+    resolved_entry = entry
+    local_file_rel = ""
+    extraction_backend = ""
+    body_text = ""
 
-    pdf_text, extraction_backend = _extract_pdf_text(pdf_path, backend=backend, logger=logger)
-    notes = _normalize_ws(entry.notes)
-    doc_text = _build_doc_text(entry, pdf_text=pdf_text, notes=notes)
+    if entry.source_provider == "justia":
+        detail = _fetch_justia_case_detail(entry=entry, timeout_s=timeout_s)
+        resolved_entry = OpinionEntry(
+            order=entry.order,
+            doc_id=entry.doc_id,
+            citation=detail.get("citation", "") or entry.citation,
+            title=detail.get("title", "") or entry.title,
+            url=entry.url,
+            release_url=entry.release_url,
+            pdf_url=detail.get("pdf_url", "") or entry.pdf_url,
+            release_code=entry.release_code,
+            release_date=detail.get("release_date", "") or entry.release_date,
+            author=detail.get("author", "") or entry.author,
+            disposition=entry.disposition,
+            parish=entry.parish,
+            notes=entry.notes,
+            source_provider=entry.source_provider,
+        )
+        if resolved_entry.pdf_url:
+            if not pdf_path.exists() or pdf_path.stat().st_size <= 0:
+                res = _justia_get(resolved_entry.pdf_url, timeout_s=timeout_s)
+                res.raise_for_status()
+                _atomic_write_bytes(pdf_path, res.content)
+            body_text, extraction_backend = _extract_pdf_text(pdf_path, backend=backend, logger=logger)
+            local_file_rel = pdf_path.relative_to(out_dir).as_posix()
+        else:
+            body_text = detail.get("html_text", "")
+    else:
+        if not pdf_path.exists() or pdf_path.stat().st_size <= 0:
+            res = requests.get(entry.pdf_url, timeout=timeout_s, headers=_REQUEST_HEADERS)
+            res.raise_for_status()
+            _atomic_write_bytes(pdf_path, res.content)
+        body_text, extraction_backend = _extract_pdf_text(pdf_path, backend=backend, logger=logger)
+        local_file_rel = pdf_path.relative_to(out_dir).as_posix()
+
+    notes = _normalize_ws(resolved_entry.notes)
+    doc_text = _build_doc_text(resolved_entry, body_text=body_text, notes=notes)
     doc_html = _text_to_html(doc_text)
 
-    local_file_rel = pdf_path.relative_to(out_dir).as_posix()
     payload = {
-        "doc_id": entry.doc_id,
-        "url": entry.url,
-        "citation": entry.citation,
-        "title": entry.title,
+        "doc_id": resolved_entry.doc_id,
+        "url": resolved_entry.url,
+        "citation": resolved_entry.citation,
+        "title": resolved_entry.title,
         "downloaded_at_epoch": int(time.time()),
         "court": "Louisiana Supreme Court",
-        "release_url": entry.release_url,
-        "pdf_url": entry.pdf_url,
-        "release_code": entry.release_code,
-        "release_date": entry.release_date,
-        "author": entry.author,
-        "parish": entry.parish,
-        "disposition": entry.disposition,
+        "release_url": resolved_entry.release_url,
+        "pdf_url": resolved_entry.pdf_url,
+        "release_code": resolved_entry.release_code,
+        "release_date": resolved_entry.release_date,
+        "author": resolved_entry.author,
+        "parish": resolved_entry.parish,
+        "disposition": resolved_entry.disposition,
         "notes": notes,
+        "source_provider": resolved_entry.source_provider,
         "local_file": local_file_rel,
         "pdf_extract_backend": extraction_backend,
         "doc_html": doc_html,
         "doc_text": doc_text,
     }
     _write_json(json_path, payload)
-    wrapper = f"{entry.citation}\n{entry.title}\n{entry.url}\n\n{doc_text}\n"
+    wrapper = f"{resolved_entry.citation}\n{resolved_entry.title}\n{resolved_entry.url}\n\n{doc_text}\n"
     _atomic_write_text(txt_path, wrapper)
     return "ok", entry.doc_id
 

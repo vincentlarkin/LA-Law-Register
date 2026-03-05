@@ -1,0 +1,61 @@
+64487
+State v. Valasquez
+https://law.justia.com/cases/louisiana/supreme-court/1979/376-so-2d-129-1.html
+
+64487
+State v. Valasquez
+Court: Louisiana Supreme Court
+Release date: 1979-10-08
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/376-so-2d-129-1.html
+
+376 So. 2d 129 (1979)
+
+STATE of Louisiana, Appellee,
+v.
+Joaquin VALASQUEZ, Jr., Appellant.
+
+No. 64487.
+
+Supreme Court of Louisiana.
+
+October 8, 1979.
+
+*130 Frank J. Gremillion, Teddy W. Airhart, Baton Rouge, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Walter Smith, Patrick Quinlan, Asst. Attys. Gen., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant is a licensed pharmacist authorized to dispense controlled dangerous substances (drugs), La.R.S. 40:961 et seq., through physician's prescription. He sold some drugs pursuant to a prescription which he knew was forged.[1] The defendant was convicted as a distributor of an illegal drug.[2]
+
+The defendant appeals. He principally contends (Assignment Nos. 2 and 3) that a licensed pharmacist cannot under these circumstances be prosecuted for or held guilty of the felony illegal distribution of drugs, La.R.S. 40:967. He argues that the statute regulating controlled dangerous substances, La.R.S. 40:961 et seq., indicates that a person licensed to dispense drugs is subject only to misdemeanor prosecution for improper dispensation or distribution of the regulated drugs, La.R.S. 40:971.
+
+We find no merit to this contention.
+
+No statutory intent is manifest that a licensed pharmacist who knowingly distributes controlled drugs for illegal purposes (see footnote 1 above) is subject only to misdemeanor prosecution under La.R.S. 49:971. In fact, this cited provision, which regulates drug violations by licensed dispensers, specifically provides that a proceeding under it "shall be independent, and not in lieu of, other proceedings under this part or any other law of this state." La. R.S. 40:971 A (2).
+
+The statute thus provides for two generically different distribution offenses: one for "any person" who illegally distributes controlled drugs, La.R.S. 40:966-70; and another for persons "subject to the [licensing] requirements" of the statute, La.R.S. 40:971 A(1)(a). Conduct which is criminal as violation of two different statutory enactments may be prosecuted under either, at the discretion of the district attorney.[3] La.R.S. 14:4.
+
+The defendant cites State v. Brown,
+288 So. 2d 339
+(La.1974). There, we held that a member of the general public subject to the   harsh felony penalties for illegal distribution of drugs was not denied equal protection because licensed distributors might be subject only to a misdemeanor (six-months imprisonment) penalty for an illegal distribution.[4]
+
+This holding (that equal protection is not offended by the disparate penalties for the respective offenses) is not apposite to the present issue of whether the district attorney may prosecute a licensee for a felony violation. Brown does not imply nor require a holding that a licensed distributor may not be prosecuted for a felony distribution where his conduct constitutes the illegal sale for illegal purposes of controlled drugs simply because he might instead, La. R.S. 14:4, be prosecuted for a misdemeanor violation as a licensee violating the obligations imposed upon him by his license.
+
+The defendant additionally urges (Assignment No. 1) that the indictment should be quashed and the seizure suppressed as resulting from illegal conduct by state agents, which caused the accused to commit the crime (or at least entrapped him into doing so). The defendant relies upon evidence which shows that narcotics officers participated in the placing of the false signature of a doctor upon the forged prescription used by the informant in connection with her illegal purchase of drugs (see footnote 1 above).
+
+Whatever the merits of this argument if illegal conduct by the state had in fact taken place, no illegal conduct was here proved. The false signature was not a forgery, La.R.S. 14:72 as contended, because it was not made "with intent to defraud" as required by the cited statute in order that this felony be committed.
+
+Accordingly, we affirm the conviction and sentence.
+
+AFFIRMED.
+
+[1]  The defendant, a licensed pharmacist, La.R.S. 40:973, 974, sold to a police informant 60 preludin pills for $250. (Their retail value, when sold through valid prescription, was $20-$24.) The state's evidence shows that the police informant presented the defendant pharmacist with a forged prescription. The circumstances of the transaction (including preliminary negotiations relating to an earlier blank prescription form) convincingly show that the defendant knew that the doctor's signature on the prescription was forged and that the purpose of the transaction was to acquire drugs for illegal use or re-sale.
+
+[2]  The defendant was convicted of distribution, La.R.S. 40:967 B (2), of phenmatrize (commonly referred to by its trade name of preludin), a controlled dangerous substance, La.R.S. 40:964, Schedule II C ("Stimulants") (3). He was sentenced to three years imprisonment at hard labor, suspended.
+
+[3]  Double jeopardy prohibitions might well prevent conviction both under the misdemeanor (licensed pharmacist) distribution, La.R.S. 40:971, provision and also under one of the provisions of the statute providing heavy felony penalties for "any person" who illegally distributes a controlled drug, La.R.S. 40:966-970. This issue is not presented by the present case, however, for the state chose to prosecute the defendant for a violation only of a felony offense.
+
+[4]  In rejecting the argument that the classification was arbitrary and unreasonable, we stated, 288 So.2d 342: ". . . it is manifest that the state has a legitimate interest in the distribution of drugs. It is also plain that licensing is a legitimate means to that end. The providing of greater penalties for unlicensed distribution than for illegal but licensed distribution is rationally linked to the prevention of unlicensed distribution, a prime purpose of the statute."

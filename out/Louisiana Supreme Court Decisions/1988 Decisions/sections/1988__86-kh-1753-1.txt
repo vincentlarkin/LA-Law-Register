@@ -1,0 +1,125 @@
+86-KH-1753
+State Ex Rel. Nicholas v. State
+https://law.justia.com/cases/louisiana/supreme-court/1988/86-kh-1753-1.html
+
+86-KH-1753
+State Ex Rel. Nicholas v. State
+Court: Louisiana Supreme Court
+Release date: 1988-02-29
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1988/86-kh-1753-1.html
+
+520 So. 2d 377 (1988)
+
+STATE of Louisiana ex rel. Michael NICHOLAS
+v.
+STATE of Louisiana.
+
+No. 86-KH-1753.
+
+Supreme Court of Louisiana.
+
+February 29, 1988.
+
+*378 Francis Jones, Loyola Law Clinic, for applicant.
+
+William J. Guste, Jr., Atty. Gen., Harry F. Connick, Dist. Atty., Brian Treacy, Asst. Dist. Atty., for respondent.
+
+DENNIS, Justice.
+
+The issues presented by this case are (1) whether the evidence was sufficient to justify a finding beyond a reasonable doubt of forgery by false making, (2) whether the trial court unconstitutionally deprived the defendant of his right to confront and cross-examine the witnesses against him as to forgery by false issuing, and (3) whether the state, which did not petition for review, may urge in support of defendant's conviction of forgery the evidence of false issuing appearing in the record, although this may involve an attack on the reasoning of the court of appeal or an insistence on matter overlooked or ignored by it.
+
+Defendant, Michael Nicholas, was convicted by a jury of two counts of forgery, La.R.S. 14:72, adjudicated a quadruple offender, La.R.S. 15:529.1, and sentenced to serve forty years at hard labor. On appeal, the court of appeal reversed one forgery conviction because a defendant may not be convicted and punished twice cumulatively for the fabrication and transfer of a single false writing. State v. Smith,
+475 So. 2d 331
+(La.1985). Although the court of appeal affirmed the defendant's remaining conviction, it found the sentence to be excessive, vacated the sentence, and remanded the case for resentencing. The court of appeal rejected defendant's arguments that the trial court's rulings preventing his cross-examination of prosecution witnesses was reversible error. State v. Nicholas, 491 So. 2d 711 (La.App. 4th Cir.1986). This court granted certiorari in response to defendant's petition. The state did not apply.
+
+A number of checks were stolen from Clearview Dodge, an automobile dealership, between December 9, 1983 and December 12, 1983. The defendant, who was an employee of Clearview Dodge until December 15, 1983, cashed one of these checks at the Paris Avenue Bar and Lounge in New Orleans on December 12, 1983. The check was made payable to "Michael Nicholls" in the amount of $550.00 and signed by "James P. Goulld" and "Bobby Shaw." Nicholas, who was well known to the owner of the bar, Noland Biagas, endorsed the check in the owner's presence. After paying Nicholas for the check, Biagas deposited the check into his bank account. Shortly thereafter, he was notified by the bank that the check was "not cashable." He then informed Clearview Dodge of the problem with its check. Clearview Dodge's manager in turn contacted the forgery division of the New Orleans Police Department. During the investigation of the matter, Biagas identified the defendant from a photographic lineup as the person who cashed the check on December 12, 1983.
+
+*379 Kirk Tracy, the Vice-President and General Manager of Clearview Dodge, testified as to the theft of the dealership's checks and that the defendant was employed by the dealership until December 15, 1983. He also said that the amount of the check in question was not printed by the dealership check machine and that neither of the two signatures belonged to anyone associated with the dealership.
+
+Bobbie Lindsey, the Secretary and Treasurer of Clearview Dodge, testified that she was in charge of the payroll at the dealership, that the last check drawn for Michael Nicholas was on January 6, 1984 in the amount of $30.34 and that, except for the $30.34, there was no outstanding payment due the defendant on December 12, 1983. She additionally testified that the only persons authorized to sign the dealership checks were herself, Mr. Kirk Tracy, Mr. David Tracy and Mr. Stubbs. She also said that the two signatures on the check in question were not those of authorized signers and that she had never heard of a Mr. Goulld or Shaw.
+
+Officer James Dupuy, a handwriting expert with the New Orleans Police Department, testified that in his opinion the endorsement on the back of the check definitely matched the defendant's handwriting exemplar taken after his arrest, but that he could not express an opinion as to who had written the two signatures on the front of the check. On cross-examination, he additionally testified that the two signatures on the front of the check could have been made by someone other than Michael Nicholas.
+
+The evidence is constitutionally insufficient to support a conviction of forgery by false making. In order to prove the forgery ground of false making the state must demonstrate defendant's guilt of "false making or altering, with intent to defraud, of any signature to, or any part of, any writing purporting to have legal efficiacy." La.R.S. 14:72 (para. 1). There was no evidence that the defendant falsely made or altered any signature or part of the check in question. The defendant affixed his own signature as his endorsement of the instrument. While this might be part of a forgery by false issuing, it does not constitute a false making or altering of a signature or part of a writing.
+
+Although the evidence is constitutionally sufficient to support a conviction of forgery by false issuing, we conclude that the district court committed trial error by preventing the defendant from exercising his right to confront and cross-examine two of the prosecution witnesses, Kirk Tracy and Bobbie Lindsey, as to evidence tending to show whether defendant had intent to defraud or knowledge of forgery when he endorsed and issued the check. In order to prove forgery by false issuing, the state must show that defendant was guilty of "[i]ssuing or transferring, with intent to defraud, a forged writing, known by the offender to be a forged writing...." La. R.S. 14:72 (para. 2). The prosecution presented cogent evidence that the check in question was stolen from the automobile dealership while defendant was its employee, that the signatures of the makers did not belong to any employee of the dealership and that the dealership owed defendant only $30.34 at the time he endorsed and transferred the $550 check. In cross-examining the prosecution witnesses, defense counsel sought to overcome this evidence of defendant's intent to defraud and knowledge of forgery by asking such questions as whether the company ever paid its employees bonuses, whether defendant was owed a bonus, what were the company's methods and times of remunerating car salesmen, how many cars the defendant had sold in December, whether the company owed defendant any additional money, whether defendant had put up a deposit on a demonstrator which was due to be repaid to him, what were the company's procedures regarding employees' use of demonstrators, and what were the circumstances under which the dealership recovered the demonstrator automobile which had been assigned to defendant. In each instance the trial court sustained the prosecutor's objection to the question. With respect to   virtually every question, the prosecutor failed to state any grounds for his objection and the court failed to give any reason for its ruling. The trial court's rulings constituted error and misuse of discretion.
+
+For two centuries Anglo-American judges and lawyers have regarded the opportunity of cross-examination as an essential safeguard of the accuracy and completeness of testimony, and they have insisted that the opportunity is a right and not a mere privilege. McCormick, On Evidence, § 19, at 47 (3rd ed. 1984); 5 J. Wigmore, Evidence, § 1367, at 32 (Chadbourn rev. ed. 1974).
+
+The Sixth Amendment to the Constitution guarantees the right of an accused in a criminal prosecution "to be confronted with the witnesses against him." This right is secured for defendants in state as well as federal criminal proceedings. Pointer v. Texas,
+380 U.S. 400
+, 406, 85 S. Ct. 1065, 1069, 13 L. Ed. 2d 923, 928 (1965). The confrontation clause of our state constitution directly affords each accused the right "to confront and cross-examine the witness against him, ..." La. Const. art. 1, § 16.
+
+Confrontation means more than being allowed to confront the witnesses. Our state constitution expressly guarantees a defendant the right to cross-examine adverse witnesses. Id. The U.S. Supreme Court cases construing the Sixth Amendment's confrontation clause hold that a primary interest secured by it is the right of cross-examination. Davis v. Alaska,
+415 U.S. 308
+, 315, 94 S. Ct. 1105, 1110, 39 L. Ed. 2d 347, 353 (1974) (citing Douglas v. Alabama,
+380 U.S. 415
+, 418, 85 S. Ct. 1074, 1076, 13 L. Ed. 2d 934, 937 (1965)). Cross-examination is the principal means by which the believability of a witness and the truth of his testimony are tested. Subject to the discretion of a trial judge to preclude repetitive and unduly harassing interrogation, the cross-examiner is not only permitted to delve into the witness's story to test the witness's perceptions and memory, but the cross-examiner has traditionally been allowed to impeach, i.e., discredit, the witness. Davis v. Alaska, supra, 415 U.S.  at 316, 94 S. Ct.  at 1110, 39 L. Ed. 2d  at 353; State v. Nash,
+475 So. 2d 752
+, 754-755 (La.1985); State v. Hillard,
+398 So. 2d 1057
+, 1059-1060 (La. 1981); State v. Toledano,
+391 So. 2d 817
+, 820 (La.1980).
+
+The three main functions of cross-examination are: (1) to shed light on the credibility of the direct testimony; (2) to bring out additional facts related to those elicited on direct; and (3) to bring out additional facts which tend to elucidate any issue in the case. McCormick, supra, § 29, at 63; See La.R.S. 15:280; Proposed Louisiana Code of Evidence, art. 611(B) and the comments thereto. See also Davis v. Alaska, supra, 415 U.S.  at 415-417, 94 S. Ct.  at 1110-1111, 39 L.Ed.2d at 353-354; State v. Nash, supra.
+
+Defense counsel's questions were reasonably calculated to serve all of the main functions of cross-examination. First, the cross-examination was reasonably calculated to bring out additional facts related to those elicited on direct and to other issues in the case. Each question was designed to elicit relevant evidence, namely, evidence having a tendency to make the material fact of intent to defraud or knowledge of forgery more or less probable than it would have been without the evidence.
+
+Second, the cross-examination was reasonably designed to shed light on the credibility of the state's witnesses. Generally, a party, to attack the credibility of a witness, may examine him concerning any matter having a reasonable tendency to disprove the truthfulness or accuracy of his testimony. State v. McClinton,
+399 So. 2d 178
+, 181 (La.1981); State v. Weathers,
+320 So. 2d 895
+, 898 (La.1975); see, e.g., Proposed Louisiana Code of Evidence art. 607. One of the main lines of attack upon the credibility of a witness is an attack by showing a defect of capacity in the witness to observe, remember or recount the matters testified about. McCormick, supra, § 33, at 73. Here the test of relevancy is not whether the answer sought will elucidate any of the main issues, but whether it will to a useful extent aid the court or jury in appraising the credibility of the witness and assessing the probative value of the   direct testimony. McCormick, supra, § 29, at 63-64. One of the recognized approaches to questioning for this purpose is the exploratory line designed to test by experiment the ability of the witness to remember detailed facts of the nature of those he recited on direct, or his ability accurately to perceive such facts, or his willingness and capacity to tell the truth generally, without distortion or exaggeration. A rule limiting this line of questions to those relevant to the main issues would cripple the usefulness of this kind of examination. Id. Consequently, we believe that the defense counsel's cross-examination inquiry as to defendant's possible entitlement to bonuses, repayment of deposits, or other additional remuneration was proper examination on matter having a reasonable tendency to disprove the truth or accuracy of the testimony on direct examination.
+
+Although we recognize that the trial judge should have discretionary power to control the extent of examination, the court in the present case imposed much too tight a rein on the cross-examiner and unduly curbed the usefulness of the examination. From our examination of the record we see no threat of undue prejudice to a witness, waste of time from extended exploration, or substantial harm to the complaining party that would justify such a restraint. See Alford v. U.S.,
+282 U.S. 687
+,
+694
+, 51 S. Ct. 218, 220, 75 L. Ed. 624, 629 (1931); McCormick, supra, § 29, at 64-65. Indeed, on the basis of the limited cross-examination that was permitted, the jury might well have thought that defense counsel was engaged in an inquiry into totally irrelevant evidence or that the court held the particular witnesses in such high esteem that they were to be considered beyond question or reproach. Moreover, it is evident that to make any legitimate effort to bring out additional facts relevant to the case and to shed light on the witnesses' credibility, defense counsel should have been permitted to expose to the jury the facts from which the jurors, as sole triers of fact and credibility, could appropriately draw inferences relating to whether the defendant was due additional sums from the dealership or reasonably could have believed that he was. These facts were crucial to the jurors' fair and impartial determination of whether the defendant endorsed the check with intent to defraud and with knowledge of forgery.
+
+The defendant was thus denied the right of effective cross-examination which is a constitutional error of the first magnitude. State v. Nash, supra, 475 So. 2d  at 755; see Davis v. Alaska, supra, 415 U.S.  at 318, 94 S. Ct.  at 1111, 39 L. Ed. 2d  at 355; Smith v. Illinois,
+390 U.S. 129
+, 131, 88 S. Ct. 748, 749-750, 19 L. Ed. 2d 956, 958-959 (1968); Brookhart v. Janis,
+384 U.S. 1
+, 3, 86 S. Ct. 1245, 1246, 16 L. Ed. 2d 314, 316-317 (1966). It is well established that a substantial denial of the right to cross-examine for bias or interest cannot be regarded as harmless error, for it violates a right to confrontation fundamental to a fair trial. State v. Nash, supra, 475 So. 2d  at 755; State v. Senegal,
+316 So. 2d 124
+, 126-127 (La.1975); State v. Elias, 229 La. 929, 933-934, 87 So. 2d 132, 134 (1956). Further, we see no reason to believe that only cross-examination directed at bias is sufficiently important to require this constitutional protection. Cross-examination involves discrediting a witness's perceptions and memory as well as his veracity. See Davis v. Alaska, supra, 415 U.S.  at 316, 94 S. Ct. 1110, 39 L. Ed. 2d 353-354. Other impeachment techniques often provide more effective means of attacking credibility. For example, evidence of prior inconsistent statements is highly damaging to a witness's credibility and has been thought to produce at least as much impact on a jury as cross-examination directed at bias. McCormick, supra, § 33, at 72-73; Note, Constitutional Restraints on the Exclusion of Evidence in the Defendant's Favor: The Implications of Davis v. Alaska, 73 Mich.L. Rev. 1465, 1471 (1975). In the present case, a demonstration that the dealership owed the defendant more money, or that he reasonably could have thought it did, would have been highly effective in discrediting the direct testimony. The existence of a constitutional violation should depend not upon the category of impeachment but upon whether the defendant was prevented   from using any impeachment that would have been potentially effective in his case.
+
+Although the court of appeal found the evidence sufficient to support forgery convictions based on both false making and false issuing, that court affirmed "one count of defendant's forgery conviction and vacate[d] the second count of this conviction," because La.R.S. 14:72 authorizes dual prosecutions but not cumulative penalities for making and transferring a single false writing. State v. Smith,
+475 So. 2d 331
+(La.1985). The state did not apply for certiorari from this decision.
+
+Defendant argues that since his conviction for false issuing has been vacated by the court of appeal, and because he is entitled to have his conviction for false making set aside for lack of sufficient evidence, this court must not only reverse the court of appeal judgment but also order the defendant discharged and released. In essence, the defendant argues that the court of appeal vacated the wrong forgery conviction, affirming the conviction based on insufficient evidence and vacating the conviction flawed only by trial error, and that the state cannot urge this court to correct the error because that would call for a modification of the court of appeal judgment, a relief the state may not now request because it failed to apply for review.
+
+However, we believe that the defendant is mistaken as to the nature and content of the court of appeal judgment. As a general rule, the decisions, opinions or findings of a court, do not constitute a judgment or decree, but merely form the basis or reasoning upon which the judgment is rendered. Fisher v. Rollins, 231 La. 252, 260,
+91 So. 2d 28
+, 31 (1956); Delahoussaye v. D.M. Glazer & Co., Inc., 182 So. 146, 147 (La.App. 1st Cir.1938), modified on rehearing, 185 So. 644 (La.App. 1st Cir.1939); State v. Fleshman,
+399 S.W.2d 56
+,
+58
+(Mo.1966); 49 C.J.S., Judgments, § 4, at 28 (1947); Calvert, Appellate Court Judgments or Strange Things Happen on the Way to Judgment, 6 Texas Tech L.Rev. 915, 920-921 (1975). Consequently, whether the defendant's forgery conviction should rest on the ground of false making rather than false issuing was merely part of the court of appeal's reasoning or basis for its judgment. The decree or judgment of the court of appeal was simply that the defendant shall be convicted of one count or conviction of forgery.
+
+The state may properly argue in this court that we should take cognizance of the false issuing evidence in order to sustain the judgment of forgery conviction against total defeat under Jackson v. Virginia,
+443 U.S. 307
+, 99 S. Ct. 2781, 61 L. Ed. 2d 560 (1979). It is well accepted, that without filing a cross-appeal or cross-petition, an appellee or respondent may rely upon any matter appearing in the record in support of the judgment below. Hankerson v. North Carolina,
+432 U.S. 233
+, 240 n. 6, 97 S. Ct. 2339, 2344 n. 6, 53 L. Ed. 2d 306, 313-314 n. 6 (1977); Dayton Board of Education v. Brinkman,
+433 U.S. 406
+, 417-419, 97 S. Ct. 2766, 2774-2775, 53 L. Ed. 2d 851, 862-863 (1977); Massachusetts Mut. Life Ins. Co. v. Ludwig,
+426 U.S. 479
+, 480-481, 96 S. Ct. 2158, 2159, 48 L. Ed. 2d 784, 786-787 (1976); Roger v. Estate of Moulton,
+513 So. 2d 1126
+, 1135-1137 (La. 1987); R. Stern, E. Gressman & S. Shapiro, Supreme Court Practice, § 6.35, at pp. 382-387 (6th ed. 1986); 9 J. Moore & B. Ward, Moore's Federal Practice, § 204.11[2] (2d ed. 1987). Mr. Justice Brandeis made the classic statement of this principle in United States v. American Railway Express Co.,
+265 U.S. 425
+, 435-436, 44 S. Ct. 560, 563-564, 68 L. Ed. 1087, 1093 (1924):
+
+See also, Roger v. Estate of Moulton, supra. We think the contentions of the state that the court of appeal chose an incorrect premise for affirming the defendant's forgery conviction fall into this category. The state does not ask us to "modify" the court of appeal judgment simply because it urges us to sustain it against total invalidity under Jackson v. Virginia, supra, on a different basis than the court of appeal adopted. See Blum v. Bacon,
+457 U.S. 132
+, 137 n. 5, 102 S. Ct. 2355, 2359 n. 5, 72 L. Ed. 2d 728, 783 n. 5 (1982). We therefore reject the defendant's argument that the court of appeal's mistake as to the proper reason or basis for its judgment requires his complete discharge and release.
+
+For the reasons assigned, the court of appeal judgment is reversed, the defendant's conviction of forgery is reversed, and the case is remanded to the trial court for further proceedings consistent with this opinion.
+
+REVERSED AND REMANDED TO THE TRIAL COURT.

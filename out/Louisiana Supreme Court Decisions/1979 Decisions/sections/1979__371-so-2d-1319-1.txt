@@ -1,0 +1,113 @@
+63723
+State v. Kent
+https://law.justia.com/cases/louisiana/supreme-court/1979/371-so-2d-1319-1.html
+
+63723
+State v. Kent
+Court: Louisiana Supreme Court
+Release date: 1979-05-21
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/371-so-2d-1319-1.html
+
+371 So. 2d 1319 (1979)
+
+STATE of Louisiana
+v.
+John Norman KENT.[*]
+
+No. 63723.
+
+Supreme Court of Louisiana.
+
+May 21, 1979.
+
+Dissenting Opinion August 29, 1979.
+
+*1320 Charles R. Moore, Edward J. Walters, Jr., Moore & Walters, Baton Rouge, for defendant-respondent.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie B. Brown, Dist. Atty., Premila Burns Chumbley, Asst. Dist. Atty., for plaintiff-relator.
+
+CALOGERO, Justice.
+
+We granted the state's writ application seeking review of the trial court's determination that defendant's confessions are inadmissible for all purposes. 366 So. 2d 907 (La.1979). The statements were obtained in contravention of the Dino[1] requirement that makes consultation with an attorney or an adult, informed of the juvenile's rights, a prerequisite to a valid waiver of the juvenile's Miranda[2] rights. The state contended in its application that although the confessions are not admissible in chief because of Dino's applicability, they should be ruled admissible for impeachment purposes, for the same reasons and to the same extent that confessions obtained in contravention of the holding in Miranda but otherwise voluntarily given have been held admissible by the United States Supreme Court in Harris v. New York,
+401 U.S. 222
+, 91 S. Ct. 643, 28 L. Ed. 2d 1 (1971).
+
+In its present posture we are required in this case to resolve two issues. We must determine whether the confessions to murder given by this fifteen year old defendant without the prior consultation mandated by Dino were otherwise freely and voluntarily given. We must also decide whether the confessions rendered inadmissible for purposes of introduction in the state's case in chief by lack of adherence to the standards of Dino are nonetheless admissible for impeachment purposes.
+
+Initially a hearing was held on a motion to suppress the defendant's confessions wherein defendant urged that his confessions were coerced and that he had not made an intelligent waiver of his rights. The ruling on the motion, made prior to this Court's decision in Dino, determined that the statements were freely and voluntarily made. When Kent sought by writ application to this Court our review of that admissibility ruling, we did not review the voluntariness issue; in view of the fact that Kent had not been counselled by a parent or attorney we decided to remand for reconsideration of the admissibility determination in light of our holding in Dino. At the second hearing the trial judge demonstrated that he construed this Court's remand for further proceedings in the light of Dino as mandating suppression of the use of Kent's statements for any purpose, including impeachment. He ruled accordingly.
+
+We here review both of these rulings of the trial court. We first direct our attention to the determination that Kent's statements were freely and voluntarily given. As a prerequisite to admission of a confession or inculpatory statement, the state must discharge its burden of proving affirmatively and beyond a reasonable doubt that the statement was freely and voluntarily made and was not the result of threats, coercion or promises. C.Cr.P. art. 703; R.S. 15:451; State v. Jennings,
+367 So. 2d 357
+(La.1979). Apart from the additional requirements imposed by Dino, the voluntariness of a juvenile's confession or inculpatory statement, as in the case of an adult's statements, is to be judged by a totality of the circumstances test. See State v. Volk,
+369 So. 2d 128
+(La.1979). The court determining admissibility must consider whether the defendant "was . . . aware not only of his rights, but also of the consequences of foregoing them, . . . knew he was faced with a phase of the adversary system, and . . . was aware that he was not in the presence of persons acting solely in his interest." State in the Interest of Dino,
+359 So. 2d 586
+, 591 (La.1978); accord State v. Volk, supra.
+
+The statements at issue were taken from a fifteen year old with a tenth grade education who had previously had encounters with law enforcement and had received Miranda warnings at least two or three times before. The defendant was arrested by officers who informed him of his Miranda rights while transporting him to the police station but who otherwise did not communicate with him. Detectives to whom Kent was turned over by the arresting officers again apprised him of his Miranda rights   and informed him of the charges against him. Minutes thereafter, Kent signed a rights waiver form and made a statement, which the interrogating officers taped. Having procured the statement, the officers left the interrogation room. By this time, attempts to contact Kent's mother had been successful, and she appeared at the station house. According to the testimony of the officer who procured defendant's first statement and to whom defendant later asked to speak (then further incriminating himself in connection with the crimes charged), Kent spoke to his mother between the time of giving the first (taped) statement and the second (oral) statement, and then revealed his desire to tell the "whole truth", thereafter making a full confession. All officers testifying at the hearing on the motion to suppress affirmatively stated that no force was used to procure the statements and that Kent was neither physically nor mentally abused.
+
+Kent himself testified at the hearing and recounted that neither arresting officer apprised him of his Miranda rights. He averred that the arresting officers smashed his foot by grinding the high heel of the shoe of one of the officers into his foot and related that one of the officers struck him on the leg twice with a blackjack. The defendant testified that in contrast with the treatment of these two officers, Officer Breaux, to whom both statements were given, would enter the room when the arresting officers would leave it, would be nice to him and would assure him that he could leave if he would talk. Kent claimed that he was crying as he began to give the taped statement. However, he conceded on cross-examination that the tape played at the suppression hearing did not support this claim. The defendant admitted that when he spoke to his mother immediately after the mistreatment allegedly took place he did not show her any of the signs of the abuse he claims to have suffered.
+
+In determining at the conclusion of the initial hearing that the state had carried its burden of proof on the motion to suppress, the trial judge believed that the prosecution's witnesses established that the statements were free and voluntary, not made under the influence of fear, duress, intimidation, menaces, threats, inducements or promises. This credibility determination, though not controlling on appeal, is entitled to great weight, since the trial judge had the opportunity to view and listen to the various witnesses. State v. Siegel,
+366 So. 2d 1358
+(La.1978). After careful consideration and weighing of all of the testimony given at the suppression hearing, we cannot say that the trial judge erred in finding that the state had met its burden.
+
+Having found the statements, although given in contravention of the Dino requirements, otherwise free and voluntary, we now turn our attention to the issue raised in the application of the state which we granted, i.e., should the state be permitted to use for impeachment purposes these voluntary statements of a juvenile uncounseled by an adult informed of the juvenile's rights and interested in his welfare?
+
+In State v. Collum,
+365 So. 2d 1272
+(La. 1978), faced with the issue of whether the Dino requirements would be given retroactive effect, we applied the threshold question required by State v. King,
+347 So. 2d 1108
+(La.1977), testing whether the Dino rule goes to the very integrity of the fact-finding process (and thus renders prospective application insufficient). Determining that the Dino requirements merely assure a juvenile's intelligent understanding of his Fifth Amendment privilege against self-incrimination and the consequences of waiving it, and deciding that the voluntariness standard and Miranda rule previously applicable essentially served the same purpose, the Court decided against giving Dino retroactive effect. The Dino requirements were thus decreed to be applicable only to cases in which the trial commences after the date the Dino decision became final, June 15, 1978.[3]
+
+The Court's determination that a failure to meet the Dino requirements does not impair the integrity of the fact-finding process prompts the conclusion that a statement otherwise voluntarily given should be   available for the state's use as impeaching evidence in the event the defendant should testify. Cf. Harris v. New York, supra. Harris held that statements obtained in violation of Miranda's requirement that a suspect be apprised of his constitutional privilege against self-incrimination and his right to counsel could nonetheless be used to impeach the defendant's contradictory trial testimony. Opining that sufficient deterrence results when evidence obtained in violation of Miranda is rendered inadmissible to the state in its case in chief, the United States Supreme Court pronounced that the "shield provided by Miranda cannot be perverted into a license to use perjury by way of a defense, free from the risk of confrontation with prior inconsistent utterances." 401 U.S.  at 226, 91 S. Ct.  at 646.
+
+The reasoning behind the rule of Harris, supra, a rule thereafter approved by this Court (See e. g., State v. Williams,
+271 So. 2d 857
+[La.1973]), compels us to reach a harmonious result in the instant case. We therefore hold that in cases to which the Dino requirements are applicable, cases tried after June 15, 1978 (as the instant case will be), evidence of the defendant's statements will be available for use by the prosecution in impeaching a testifying defendant, provided that the statements, as in this case, are affirmatively shown to have been free and voluntary.
+
+The ruling of the trial court insofar as it decrees defendant's confessions inadmissible for impeachment purposes is reversed.
+
+REVERSED IN PART.
+
+TATE, J., concurs and assigns reasons.
+
+DENNIS, J., dissents and will assign reasons.
+
+TATE, Justice, concurring.
+
+The trial court correctly applied the rationale of Dino that the confession of a juvenile, in police custody and without the advice of parents or counsel, is inherently not a free and uncoerced (and therefore reliable) confession. In the subsequent Collum decision a majority of this court (over the dissent of three members, including myself) held that the Dino rule was not designed to insure the integrity of the fact-finding process. Therefore, although the trial judge in my view (and that of two other members of this court) correctly applied Dino, under the subsequently-decided Collum view, the present confession is not inherently unreliable and may be used for impeachment purposes.
+
+Feeling bound by Collum until it is overruled, I concur in the majority decree.
+
+DENNIS, Justice, dissenting.
+
+I respectfully dissent.
+
+The standards enunciated in State in the Interest of Dino,
+359 So. 2d 586
+(La.1978), to insure voluntariness and trustworthiness go to the integrity of the fact finding process and should be applied retroactively. See my dissenting opinion in State v. Collum,
+365 So. 2d 1272
+(La.1978). When so applied, it is clear that the statements made by defendant Kent in the present case were not shown to be the product of a rational intellect and a free will and therefore should have been inadmissible at trial for any purpose. Mincey v. Arizona,
+437 U.S. 385
+, 98 S. Ct. 2408, 57 L. Ed. 2d 290 (1978).
+
+[*]  Editor's Note: The opinion of the Supreme Court of Louisiana in State v. Martin published in the advance sheets at this citation (371 So.2d 1319) was withdrawn from the bound volume because rehearing is pending.
+
+[1]  State in the Interest of Dino,
+359 So. 2d 586
+(La.1978).
+
+[2]  Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966).
+
+[3]  In Johnson v. New Jersey,
+384 U.S. 719
+, 86 S. Ct. 1772, 16 L. Ed. 2d 882 (1966), the United States Supreme Court decreed that the landmark decisions of Escobedo v. Illinois,
+378 U.S. 478
+, 84 S. Ct. 1758, 12 L. Ed. 2d 977 (1964) and Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966) would affect only those cases in which the trial began after the effective dates of the decisions.

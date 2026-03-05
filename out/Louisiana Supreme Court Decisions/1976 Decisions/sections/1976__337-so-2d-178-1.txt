@@ -1,0 +1,117 @@
+56872
+State v. McNeal
+https://law.justia.com/cases/louisiana/supreme-court/1976/337-so-2d-178-1.html
+
+56872
+State v. McNeal
+Court: Louisiana Supreme Court
+Release date: 1976-02-23
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/337-so-2d-178-1.html
+
+337 So. 2d 178 (1976)
+
+STATE of Louisiana, Relator,
+v.
+Larry McNEAL, Respondent.
+
+No. 56872.
+
+Supreme Court of Louisiana.
+
+February 23, 1976.
+
+On Rehearing September 13, 1976.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. Eddie Knoll, Dist. Atty., Jeannette Theriot Knoll, Asst. Dist. Atty., for plaintiff-relator.
+
+W. Miguel Swanwick, Swanwick & Rivers, Alexandria, for defendant-respondent.
+
+TATE, Justice.
+
+The issue before us is whether Miranda rights may be intelligently waived by the accused's reading and signing a printed form, without any oral explanation of them by the interrogating officers to assure the accused's understanding of them.
+
+The defendant is charged with aggravated battery, La.R.S. 14:34, arising out of an incident when a brick was thrown at and hit a motorcyclist passing on the road. The trial court granted his motion to suppress a written confession made by him after he was arrested and brought to the courthouse.
+
+The trial court held that suppression of the statement was required by Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966). By this decision, the United States Supreme Court held that statements of an accused made under custodial interrogation will be regarded as involuntary and cannot be used against the accused unless he is informed of his right to remain silent and of his right to the assistance of a lawyer. Nevertheless, "The defendant may waive effectuation of these rights, provided the waiver is made voluntarily, knowingly and intelligently." Miranda, at 394 U.S. 444, 86 S. Ct. 1612, 16 L. Ed. 2d 707.
+
+We granted certiorari, 320 So. 2d 909 (1975), because we felt that the trial court was in error in its apparent ruling that an intelligent waiver cannot be made on the   basis of reading a written statement of the rights, unless by oral explanation at the time the interrogating officers ascertain the accused's understanding of them.
+
+We find no error in the trial court's factual finding that no oral Miranda warnings were given when the arresting officer picked up the accused at the scene of the offense. Further, if the arresting police officer then asked the accused about his participation in the crime, we do not find from the evidence that the accused made any statement, exculpatory or inculpatory, at that time (nor, apparently, does the State contend that any was made at that time).
+
+When the accused was brought to the courthouse, he was not orally explained his Miranda rights. However, he was handed a sheet which explained them, asked if he could read, then requested to read them, and then asked to check boxes ("Yes" or "No") which indicated whether he understood his rights and wished to waive them.
+
+The defendant took about two minutes to read the forms and, at the interrogating officers' request, checked the appropriate boxes. The defendant checked "Yes" that he understood the rights and "Yes" that he waived them.
+
+The defendant conceded that he signed the form and the confession. He contends, however, that due to his nervous state, he could neither read nor understand his rights, although he did tell the police officers that he read and understood them. (He also denied making any checkmarks on the rights waiver, but we accept as preponderating the testimony of the two officers to the contrary, seemingly corroborated by the similarity of the pen stroke of the checks and the defendant's signature.)
+
+All witnesses agreed that a deputy's wife wrote the confession from listening to the interrogation of the defendant, who was too nervous to write it himself. No evidence intimates that any coercion, threats, promises, or violence was used to obtain the confession. At the hearing, the defendant indicated understanding of the contents of the written explanation, but stated he was too nervous to do so at the time it was handed to him to read. He further contradicted both officers' testimony that he again read his rights, as printed on the form on which the confession was written, prior to signing the statement.
+
+Basically, the defendant's contention is that because the police officers never told him or explained to him his Miranda rights, due to his nervous state his waiver of these rights was not knowing and intelligent.
+
+We agree that an oral as well as written explanation of the Fifth Amendment privilege against self-incrimination and the Sixth Amendment right to counsel may be the most effective means of insuring that the defendant comprehends these rights. Nevertheless, we cannot agree with the trial court's determination that, in the absence of such oral explanation, the defendant in this case did not intelligently and knowingly waive these rights.
+
+In Miranda, the Supreme Court expressly notes freedom in the procedure to be adopted for the protection of the privilege against self-incrimination as long as it is fully effective. Miranda at 384 U.S. 490, 86 S. Ct. 1636, 16 L. Ed. 2d 732.
+
+In the present case, the preponderance of the evidence shows that the defendant knew his rights, intelligently waived them, and voluntarily confessed. Even if defendant was not orally informed of his rights, his present contentions are belied by (1) his signatures on the rights waiver and confession and (2) his admission that he informed the officers that he read and understood his rights, combined with (3) the officers' testimony that they saw him reading the forms and that he indicated a comprehension of his rights, and (4) the fact that he can read and write and has a twelfth grade education.
+
+*180 For these reasons, the trial judge erred in suppressing the written confession. We reverse this ruling, overrule the motion to suppress, and remand this case for further proceedings in accordance with law.
+
+Motion to suppress overruled; case remanded for trial.
+
+DENNIS, J., dissents and assigns reasons.
+
+DENNIS, Justice (dissenting).
+
+The State was required to prove the voluntariness of the defendant's confession beyond a reasonable doubt, not by a mere preponderance of the evidence. The record contains sufficient evidence to support the trial judge's finding of a reasonable doubt and his suppression of the confession. The record does not reflect, as the majority opinion assumes, that the trial judge's decision was based solely upon the State's failure to orally explain to the defendant his constitutional rights.
+
+I respectfully dissent.
+
+SANDERS, Chief Justice.
+
+On original hearing, we held that a defendant may intelligently waive his rights under Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966), by reading and signing a printed form without an oral explanation of those rights by the interrogating officers. We reversed the trial court's granting of the Motion to Suppress and remanded the case for trial.[1] On defendant's motion, we granted a rehearing to reconsider our holding and to determine whether the record was adequate to establish an intelligent waiver of Miranda rights. For the reasons set forth below, we adhere to our holding on original hearing.
+
+In Miranda, the United States Supreme Court held that an accused must be advised: of his right to remain silent; that, if an accused gives up the right to remain silent, anything he says may be used against him in a court of law; that the accused has a right to consult an attorney and to have an attorney present during questioning; and that if an accused desires an attorney and cannot afford one, an attorney will be appointed to represent the accused without charge. The Miranda Court fixed no ironclad procedure for advising an accused of his rights. There is no requirement that the rights be orally explained to a defendant; rather, the requirement is that the defendant understand his rights, and, if he chooses to waive them, that he do so intelligently and voluntarily.
+
+The Court placed a "heavy burden" on the State to prove that a waiver of the rights did, indeed, take place. Whether or not an accused understood his rights and intelligently waived them must be determined on the facts of each case. In Narro v. United States, 370 F.2d 329 (5th Cir.), cert. denied 387 U.S. 946, 87 S. Ct. 2081, 18 L. Ed. 2d 1334 (1967), the Court stated: "[T]he cases in which it is clear that the warnings have been given must be considered on their own facts in order to determine the question of waiver. The courts must do this on an ad hoc basis, since no per se rule has thus far been adopted dealing with this problem."
+
+Later, in United States v. Springer, 460 F.2d 1344 (7th Cir.), cert. denied 409 U.S.
+
+*181 873, 93 S. Ct. 205, 34 L. Ed. 2d 125 (1972), the court held that proof of giving the warnings, showing a signed waiver, and showing defendant's stated understanding of the warnings combined to raise a presumption of validity and to shift the burden of going forward with the evidence to the accused.
+
+The present defendant, Larry McNeal, is a 23-year-old adult with a twelfth grade education. Admittedly, he can read and write.
+
+We accept the trial judge's finding that the arresting officer gave the defendant no oral warnings at the scene of the crime. When defendant was brought to the courthouse, however, a law enforcement officer gave him a sheet of paper explaining his rights under Miranda v. Arizona, supra. The officer asked the defendant if he could read. When defendant responded that he could read, he was asked to read the explanation of his rights. The defendant took about two minutes to read the explanation of his rights. After he finished, the officer advised him that if he understood his rights, he could check the boxes to indicate that he desired to waive the rights and to make a statement about the case to the officers. He then checked "Yes" that he understood his rights and "Yes" that he waived them.
+
+The defendant admitted that he signed the forms and the confession. He alleges, however, that due to his nervous condition at the time, he could neither read nor understand the forms, despite the fact that he told the officers at the time that he had read and understood them. Defendant denied making any checkmarks on the rights waiver. However, we accept the testimony of the two officers to the contrary.
+
+All witnesses agree that a deputy's wife wrote out the confession for the defendant who stated that he was too nervous to write it out himself. There is no evidence that any coercion, promises, violence, or threats were used to induce the confession. At the hearing on the motion to suppress, the defendant indicated that he understood the contents of the written explanation but asserted that at the time of the interrogation he was too nervous to do so. He contradicted the officers' testimony that he again read his rights printed on the form on which the confession was written prior to signing the statement.
+
+Defendant's various arguments reduce to the contention that the failure to orally explain his rights is fatal because his nervous state impaired his comprehension of the written word.
+
+While we concede that an oral explanation, reinforcing the written explanation, is desirable even when the defendant can read, we disagree with the trial court's determination that the absence of such an oral explanation is fatal under the circumstances of the present case.
+
+The test stated in United States v. Springer, supra, and followed by many courts, has been met: (1) the defendant signed the rights form on the waiver and the confession; (2) he informed the officers that he read and understood his rights; (3) the officers testified that they saw him read the forms and that he indicated that he understood them; and (4) defendant can read and write and has a twelfth grade education.
+
+We conclude that defendant was effectively informed of his rights and intelligently waived them. Hence, the confession is admissible in evidence at the trial.
+
+For the reasons assigned, our original judgment reversing the ruling of the district court and remanding the case for trial is reinstated and made the final judgment of this Court.
+
+DIXON, J., dissents.
+
+DENNIS, J., dissents for the reasons originally assigned.
+
+[1]  In sustaining the Motion to Suppress, the trial court held:
+
+"PER CURIAM
+
+"The Court sustained the Motion to Suppress on the following grounds, to-wit:
+
+"1. It was the court's determination that the Trooper, Travis Wiley, did not verbally advise the defendant of his Miranda warnings at the scene of the crime.
+
+"2. The court was of the opinion that the reading by the defendant himself of his Miranda warnings prior to his giving of a statement to the investigating officer was insufficient."

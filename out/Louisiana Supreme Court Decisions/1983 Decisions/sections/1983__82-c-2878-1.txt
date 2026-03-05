@@ -1,0 +1,107 @@
+82-C-2878
+Beverly v. Action Marine Services, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1983/82-c-2878-1.html
+
+82-C-2878
+Beverly v. Action Marine Services, Inc.
+Court: Louisiana Supreme Court
+Release date: 1983-05-23
+Author: WATSON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1983/82-c-2878-1.html
+
+433 So. 2d 139 (1983)
+
+Einus BEVERLY and Lillie Mae Sinegal Beverly
+v.
+ACTION MARINE SERVICES, INC. and Insurance Company of North America.
+
+No. 82-C-2878.
+
+Supreme Court of Louisiana.
+
+May 23, 1983.
+
+Rehearing Denied June 23, 1983.
+
+*140 William B. Baggett, Jr., Baggett, McCall & Ranier, Lake Charles, for applicant.
+
+Douglas W. Truxillo, Onebane, Donohoe, Bernard, Torian, Diaz, McNamara & Abell; Lafayette, for respondents.
+
+WATSON, Justice.
+
+Plaintiffs, Einus and Lillie Mae Sinegal Beverly, brought this suit to recover benefits under the Louisiana Workers' Compensation Act for the death of their son, Robert Lee Beverly. Their petition alleged, in pertinent part, that: (1) Beverly was a land based employee of Action Marine Services, Inc., which is engaged in the business of repairing and cleaning vessels. (2) On or about April 10, 1981, motor vessel "Nicki Candies" was moored at the Exxon dock facility in Intracoastal City, Louisiana. (3) In the course of his employment, Beverly was assisting in cleaning out bromide tanks on the vessel and died after inhaling toxic fumes. (4) The deceased worker, twentyfive years of age, had "no legal dependents other than petitioners". (5) Defendant, Action Marine Services, Inc., is insured for workers' compensation by defendant, Insurance Company of North America.
+
+Defendants filed peremptory exceptions of no right of action, no cause of action and lack of jurisdiction, alleging that plaintiff's exclusive remedy was under the Longshoremen's and Harbor Workers' Compensation Act, (LHWCA) 33 U.S.C., § 901, et seq. The trial court sustained the exceptions, holding that plaintiffs' exclusive remedy was under the federal law because their deceased son was engaged in maritime activity and injured on navigable waters, citing Ellis v. Travelers Insurance Company, 241 La. 433,
+129 So. 2d 729
+(1961). The court of appeal affirmed. Relying on Southern P. Co. v. Jensen,
+244 U.S. 205
+, 37 S. Ct. 524, 61 L. Ed. 1086 (1917), it concluded that cleaning tanks aboard an "ocean going"[1] vessel is so clearly maritime in nature that application of a state compensation scheme is barred. Beverly v. Action Marine Services, Inc., 422 So. 2d 623 (La.App. 3 Cir. 1982). A writ was granted to review the judgment of the court of appeal. 427 So. 2d 865 (La.,1983).
+
+The issue is whether plaintiffs have a cause of action under the Louisiana Workers' Compensation Act.
+
+The parties agree that Beverly's parents were not, in fact, dependent on him. Therefore, they could not recover under the LHWCA because 33 U.S.C. § 909 requires proof of dependency, whereas LSA-R.S. 23:1231 provides in part:
+
+Jensen, supra, involved a freight truck driver who broke his neck on a berthed steamship and held that allowing recovery under New York state law would destroy necessary uniformity in maritime matters. The "Jensen line" of demarcation between injuries on land and water was modified by later jurisprudence which allowed state compensation to injured maritime workers when their employment was local in nature. See Western Fuel Co. v. Garcia, 257 U.S.   233, 42 S. Ct. 89, 66 L. Ed. 210 (1921) and Grant Smith-Porter Ship Co. v. Rohde,
+257 U.S. 469
+, 42 S. Ct. 157, 66 L. Ed. 321 (1922). In Rohde, a carpenter working on ship construction in navigable waters was allowed to recover compensation under Oregon state law. Garcia held that California law controlled the right to recover for the death of a stevedore working in the hold of a vessel anchored in San Francisco Bay. Because of the jurisdictional dilemma presented in determining what constituted maritime but local employment, Davis v. Department of Labor of Washington,
+317 U.S. 249
+, 63 S. Ct. 225, 87 L. Ed. 246 (1942) held that there is a twilight zone of concurrent jurisdiction and any doubt should be resolved in favor of the constitutionality of the state remedy. Calbeck v. Travelers Insurance Co.,
+370 U.S. 114
+, 82 S. Ct. 1196, 8 L. Ed. 2d 368 (1962) later stated that: "the Longshoremen's Act was designed to ensure that a compensation remedy existed for all injuries sustained by employees on navigable waters, and to avoid uncertainty as to the source, state or federal, of that remedy." 370 U.S.  at 124, 82 S. Ct.  at 1202, 8 L. Ed. 2d  at 375.
+
+After the 1972 amendment of the LHWCA extended federal jurisdiction landward, Sun Ship, Inc. v. Pennsylvania,
+447 U.S. 715
+, 100 S. Ct. 2432, 65 L. Ed. 2d 458 (1980) held that the enlarged jurisdiction supplemented rather than supplanted state compensation law. Sun Ship stated that concurrent jurisdiction continued, the amended LHWCA was not exclusive, and "state regulation of worker injuries is even more clearly appropriate ashore than it is upon navigable waters." 447 U.S.  at 720, 100 S. Ct.  at 2436, 65 L. Ed. 2d  at 463.
+
+Evolvement of the law and jurisprudence is reviewed in the recent case of Director, etc. v. Perini North River Associates, ___ U.S. ___, 103 S. Ct. 634, 74 L. Ed. 2d 465 (1983),[2] which cites Calbeck and Sun Ship with approval as authority. Perini says: "Congress removed from § 3(a) [of the LHWCA] the requirement that, as a prerequisite to federal coverage, there can be no valid recovery under state law". ___ U.S. at ___, 103 S. Ct.  at 649, 74 L. Ed. 2d  at 483. According to Perini, Congress intended the status requirement of maritime employment to define the scope of the extended LHWCA landward coverage. Inferentially, the maritime employment status requirement was not intended to preempt state compensation laws. Perini states that "the jurisdictional dilemma caused by two mutually exclusive spheres of jurisdiction over maritime injuries" has been eliminated. ___ U.S. at ___, 103 S. Ct.  at 651, 74 L. Ed. 2d  at 485.
+
+Perini represents the factual converse of this situation, the issue there being the availability of a federal remedy under the LHWCA. However, footnote 18 of Perini implies that a state remedy is available here:
+
+Further, footnote 19 of Perini makes it clear that Davis remains viable:
+
+Clearly, there is an area of concurrent federal and state jurisdiction. Although the exact boundaries of this zone are unclear, state law is limited to claims which are "local" in nature. The twilight zone does include "persons such as the decedent who are, as a matter of actual administration, in fact protected under the state compensation act." Davis, supra, 317 U.S.  at 256, 63 S. Ct.  at 229, 87 L. Ed.  at 250. Any doubt should be resolved in favor of the constitutionality of the state remedy. Davis, supra.
+
+Thompson v. Teledyne Movible Offshore, Inc.,
+419 So. 2d 822
+(La., 1982) held that Louisiana had jurisdiction over a claim for state compensation benefits resulting from a Louisiana worker's accident on a fixed offshore platform outside the territorial waters of Louisiana. The court of appeal here distinguished Thompson on the ground that he was essentially an oil worker, who was not engaged in maritime employment.
+
+Ellis v. Travelers Insurance Company, 241 La. 433,
+129 So. 2d 729
+(1961) held that a longshoreman working in a hatch of a vessel docked in New Orleans on the Mississippi River was not in the twilight zone because his work was not "local in character". 129 So. 2d  at 739. Noah v. Liberty Mutual Insurance Company, 267 F.2d 218 (5 Cir. 1959) also held, for unstated reasons, that a longshoreman is on the federal side of the twilight zone. Perhaps longshoremen should have "uniform treatment". Perini, supra, ___ U.S. at ___, 103 S. Ct.  at 647, 74 L. Ed. 2d  at 480. On the other hand, Garcia, supra, cited in Perini, stated that an action for the wrongful death of a stevedore was "local in character",[3] perhaps because of lack of a federal remedy.
+
+Beverly was not a longshoreman. It is true that he met the status and situs tests of the LHWCA. Northeast Marine Terminal Co. v. Caputo,
+432 U.S. 249
+, 97 S. Ct. 2348, 53 L. Ed. 2d 320 (1977). See Holcomb v. Robert W. Kirk & Associates, 655 F.2d 589 (5 Cir.1981). However, status for purposes of federal coverage does not bar recovery under state law.[4]Hahn v. Ross Island Sand & Gravel Co.,
+358 U.S. 272
+, 79 S. Ct. 266, 3 L. Ed. 2d 292 (1959).
+
+What constitutes "maritime but local"[5] is a difficult question. However, Sun Ship's claimants worked for a company engaged in ship building and ship repair and were injured while involved in those activities. State court compensation awards were affirmed. In Hahn, supra, a waterfront employee injured while working on a barge in navigable waters was allowed to elect a state remedy. Also see Moores' Case, 323 Mass. 162, 80 N.E.2d 478 (1948); affirmed in Bethlehem Steel Co. v. Moores, 335 U.S. 874, 69 S. Ct. 239, 93 L. Ed. 417 (1948) and Baskin v. Industrial Accident Commission,
+97 Cal. App. 2d 257
+, 217 P.2d 733 (1950); affirmed Kaiser Co. v. Baskin, 340 U.S. 886, 71 S. Ct. 208, 95 L. Ed. 643 (1950). Both allowed state compensation recovery for injuries on dry docked vessels under repair. Beverly's employer was in the business of repairing and cleaning vessels. No real distinction is apparent between this case and the foregoing authorities. Regardless, since there is no relief available here under the LHWCA, state compensation law can apply. Davis supra; Perini, footnote 18, supra. A state cannot defeat the uniformity of maritime law but can supplement it. Garcia, supra. When state law gives a right not available under the federal law, the state remedy can be pursued in preference to the federal statutory scheme. See Poche v. Avondale Shipyards, Inc.,
+339 So. 2d 1212
+(La., 1976); Garcia,   supra. Therefore, the parents of Robert Lee Beverly are entitled to pursue benefits provided by the Louisiana Act.
+
+For the foregoing reasons, the judgment of the court of appeal is reversed and the matter is remanded to the trial court for further proceedings consistent with this opinion.
+
+REVERSED AND REMANDED.
+
+BLANCHE, J., dissents and assigns reasons.
+
+BLANCHE, Justice (dissenting).
+
+The Court of Appeal correctly found that plaintiff's son was performing purely maritime duties when he met his untimely death. He was cleaning tanks aboard an ocean going vessel moored in navigable waters when he inhaled the toxic fumes which caused his death. He was not a worker in the "twilight zone". Davis v. Department of Labor,
+317 U.S. 249
+, 254, 63 S. Ct. 225, 228, 87 L. Ed. 246 (1942), and Southern Pacific Co. v. Jensen,
+244 U.S. 205
+, 37 S. Ct. 524, 61 L. Ed. 1086 (1917) still precludes application of state compensation law when the injury occurs in a purely maritime setting.
+
+[1]  422 So. 2d 624. The petition does not allege that the vessel was oceangoing.
+
+[2]  One Raymond Churchill was injured while directing operations on the deck of a cargo barge. After Churchill's claim for compensation under the LHWCA was denied on the ground that he was not engaged in maritime employment, the judgment was reversed and the matter remanded.
+
+[3]  257 U.S.  at 242, 42 S. Ct.  at 90, 66 L. Ed.  at 214.
+
+[4]  The Florida tribunal which dismissed Holcomb's state claim apparently erred. See Perini, supra, footnote 30; Sun Ship, supra.
+
+[5]  Sun Ship, supra, 447 U.S.  at 722, 100 S. Ct.  at 2437, 65 L. Ed. 2d  at 464.

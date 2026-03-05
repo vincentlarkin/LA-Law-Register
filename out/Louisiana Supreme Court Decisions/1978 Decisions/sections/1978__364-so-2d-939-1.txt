@@ -1,0 +1,116 @@
+62017
+DiGerolamo v. Liberty Mut. Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1978/364-so-2d-939-1.html
+
+62017
+DiGerolamo v. Liberty Mut. Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1978-11-13
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/364-so-2d-939-1.html
+
+364 So. 2d 939 (1978)
+
+Charles DiGEROLAMO et al.,
+v.
+LIBERTY MUTUAL INSURANCE COMPANY et al.
+
+No. 62017.
+
+Supreme Court of Louisiana.
+
+November 13, 1978.
+
+*940 Louis A. DiRosa and Brad G. Theard, New Orleans, for plaintiffs-applicants.
+
+George J. Richaud, Borrello & Huber, Metairie, for defendants-respondents.
+
+CALOGERO, Justice.
+
+We granted writs primarily to review the Court of Appeal's determination that the holder of a family automobile policy purporting to cover a vehicle actually owned by the holder's son lacked an insurable interest in the vehicle, thus rendering the uninsured motorists claims asserted against the insurer unenforceable. 357 So. 2d 1165 (La.1978).
+
+On August 15, 1967, a week before his twenty-first birthday, Nicholas DiGerolamo purchased a new car from a New Orleans dealership. The dealership accepted a $1,000 deposit and issued a receipt in Nicholas' name. Two days later, an application for certificate of title and passenger car registration was filed, bearing Nicholas' signature. Shortly after the date of the car's purchase, Charles DiGerolamo, Nicholas' father, applied for insurance on this and another car. The application indicated that "applicant" (Charles DiGerolamo) was the owner of both vehicles. By the time the policy of insurance for which Charles Di-Gerolamo applied was issued, on September 7, 1967, Nicholas had attained majority, having celebrated his twenty-first birthday on August 22, 1967.[1]
+
+The accident out of which the plaintiffs' claims arose occurred on October 8, 1967, when a stolen car being driven by a juvenile rear-ended the car being driven by Nicholas DiGerolamo, in which Nicholas' brother, Joseph DiGerolamo, and Cynthia Lamarque were passengers. The petition sought to recover damages for Nicholas and Joseph DiGerolamo, and Cynthia Lamarque.
+
+Liberty Mutual resisted the claims asserted in the suit filed against it, asserting the absence of an insurable interest in the involved vehicle on the part of insured, Charles DiGerolamo and claiming that in applying for insurance Charles DiGerolamo made misrepresentations material to the risk upon which Liberty Mutual relied. The trial court rendered judgment in favor of the plaintiffs and against Liberty Mutual on March 1, 1973, but granted a new trial on Liberty Mutual's motion and thereafter rendered judgment in the insurer's favor, dismissing the plaintiffs' claims. The Court of Appeal affirmed the trial court judgment, deciding adversely to the plaintiffs the issue of whether Charles DiGerolamo had the statutory insurable interest required by R.S. 22:614[2] in the automobile owned by his major son.
+
+We conclude that R.S. 22:614 (dealing with property insurance) is inapplicable in this case which involves automobile liability insurance[3] and reverse the judgments of the lower courts for the reasons stated hereinbelow.
+
+Considering Liberty Mutual's contentions in reverse order we note the claim that Charles DiGerolamo made willfully false statements material to the risk and upon which the insurer relied. Thus, the insurer argues it may avoid payment under the policy.
+
+*941 R.S. 22:619 sets forth the requirements for avoidance of an insurance contract and provides in subsection "A", the portion relevant to insurance other than life and health and accident insurance (automobile liability insurance is comprehended thereby), that ". . . no oral or written misrepresentation or warranty made in the negotiation of an insurance contract, by the insured or in his behalf, shall be deemed material or defeat or avoid the contract or prevent it attaching, unless the misrepresentation or warranty is made with the intent to deceive."
+
+According to the terms of subsection "B" of R.S. 22:619, material effect upon either the acceptance of the risk or the hazard assumed by the insurer stemming from a misrepresentation bars recovery only in the case of life or health and accident insurance. Thus, under the statute, only a finding of intent to deceive will defeat coverage in this instance.
+
+In a space on the application for setting forth the registered owner(s) and the relationship to applicant of the two cars sought to be insured, an entry of the abbreviation, "App", does indeed indicate that Charles DiGerolamo owned both vehicles for which insurance was sought. However, the application pertinently gives a negative answer to the question, "Is there any male operator under 25 who is neither owner nor principal operator?" and prominently indicates that a 20 year old son residing with the applicant-father, Nicholas, is to be a principal operator. In the absence of evidence to the contrary, we decide that the disclosure of Nicholas as a principal driver of the pertinent automobile for which insurance was sought belies the claim that the representation of ownership was made with the intent to deceive.
+
+The second contention advanced by Liberty Mutual, upon which it heavily relies, is that Charles DiGerolamo lacked an insurable interest in Nicholas' vehicle. At the outset we deem it necessary to discuss the concept of insurable interest. The Court of Appeal found applicable both R.S. 22:614 and the decision in Rube v. Pacific Insurance Company of New York, 131 So. 2d 240 (La.App. 1st Cir. 1961).
+
+In our view neither reliance is well placed. The insurable interest required by R.S. 22:614 relates only to property insurance, the type of insurance which was at issue in Rube, supra. R.S. 22:614 therefore has no relevance in the case at bar.
+
+To determine whether an insurable interest is a requirement in Louisiana we first consider the Louisiana Revised Statutes. The only two statutory provisions requiring an insurable interest are R.S. 22:613 and 22:614.[4] There is no statutory requirement of insurable interest with regard to liability insurance. The two statutes   expressly requiring insurable interest concern insurance contracts upon one's "life or body" or upon the "life or body" of another, (R.S. 22:613) and insurance contracts on "property or of an interest therein or arising therefrom." (R.S. 22:614). Subsection "B" of R.S. 22:614 defines insurable interest as ". . . any lawful and substantial economic interest in the safety or preservation of the subject of the insurance. . .." We thus conclude that the only two statutes concerned with insurable interest are not applicable to liability insurance.
+
+When we look to the Louisiana jurisprudence we find only one case, Churchman v. Ingram, 56 So. 2d 297 (La.App. 2nd Cir. 1952), where in obiter dictum the court, apparently assuming the need for an insurable interest, found such in consequence of the insured's vicarious liability for the torts of his minor son.
+
+There is therefore no controlling Louisiana jurisprudence and no applicable statute. While we are disposed to find that in Louisiana there is no requirement of insurable interest with respect to liability insurance, we find it unnecessary here to do so. Our restraint in this respect is prompted by our ability to resolve this case without reaching the issue, and by the prevalence of a contrary rule regarding insurable interest and liability insurance in the national jurisprudence. See Annot, 1 A.L.R.3d 1193 (1965). A multitude of cases are cited in this annotation in which appellate courts throughout the nation have either expressly found applicable the requirement of an insurable interest to liability insurance or assumed as much.[5] The few cases which the annotation cites for the contrary proposition do not decree inapplicability of the doctrine in unqualified terms.[6]
+
+While the cases seem to premise the requirement of insurable interest on the need to prevent wagering contracts, such a danger is simply not present in situations involving liability insurance. (In the liability insurance situation, there is no "thing" or object upon which can be focused an insured's economic interest in the item's safety and preservation.) The more plausible basis for an insurable interest requirement in cases of liability insurance is that there exists a reason for an insurable interest in the form of possible legal liability with respect to the use and maintenance of the property. As the annotation notes (and this of course is not necessarily irrefutable), possible liability may well be considered an insurable interest in the property itself. 1 A.L.R.3d at 1195.
+
+Nonetheless, as we have mentioned hereinabove we find it unnecessary to resolve at this time this question of whether in Louisiana a policyholder's insurable interest is required as it pertains to liability insurance on an automobile. Even if there were to be a requirement of an insurable interest for automobile liability insurance, in terms of possible (prospective) liability there is surely such an interest present in this case. Undeniably, when Charles DiGerolamo applied for the coverage which he subsequently obtained, he was exposed to liability which may have stemmed from Nicholas' operation and use of the purchased automobile by virtue of   Nicholas' minority.[7] This potential legal liability certainly would have invested the father with an insurable interest in the subject of the insurance. A second independently plausible basis for finding a continuing insurable interest, were there a requirement for such, exists by virtue of the fact that only by obtaining insurance on his son's car could Charles DiGerolamo secure coverage in the event his operation or use of the son's car led to imposition of liability for injury or damages. That such a situation could arise is far from improbable since the father and son lived together and it could reasonably be anticipated that the father would occasionally drive his son's car. In this case the father's insurance on his own vehicle would not cover liability arising out of his operation of the automobile of a son living at home. This same automobile policy, which presumably would have been issued to Charles DiGerolamo to cover the truly owned family automobile (the second car on this policy) reflects that coverage is for "bodily injury" and "property damage" ". . . arising out of the ownership, maintenance or use of the owned automobile or any non-owned automobile. . .," but provides that an automobile owned by a resident of the same household is not a "non-owned automobile" for which coverage is extended. Therefore, to insure himself against potential liability arising from his operation of the car owned by his son, a resident of the same household, Charles DiGerolamo had reason to secure insurance on his son's car.
+
+Our conclusion that the plaintiffs are entitled to recovery having revived the quantum issue connected with this litigation, we conform to the preferred policy in this type of case of declining to fix quantum and instead remand the case to the Court of Appeal for that purpose. See Smith v. Hartford Accident and Indemnity Company, 254 La. 341,
+223 So. 2d 826
+(1969). See also Dupas v. City of New Orleans,
+354 So. 2d 1311
+(La.1978) and Smolinski v. Taulli,
+276 So. 2d 286
+(La.1973).
+
+For the foregoing reasons, the judgments of the district court and the Court of Appeal dismissing plaintiffs' claims are reversed and the case is remanded to the Court of Appeal in order that it may fix the damages to which the plaintiffs are entitled and render judgment for such sums against the defendant.
+
+REVERSED AND REMANDED.
+
+MARCUS, J., concurs and assigns written reasons.
+
+MARCUS, Justice (concurring).
+While I agree that Charles DiGerolamo had an insurable interest for automobile liability insurance in this case, I am concerned over the fact that we are not dealing with a liability policy; rather, we are concerned here with coverage under the uninsured motorist provision of the policy. Either because uninsured motorist coverage might be considered an adjunct to liability coverage or because Charles DiGerolamo might have an insurable interest with regard to uninsured motorist coverage based upon his obligations as a father to his child, I concur in the result.
+
+[1]  Prior to the 1972 amendment of Civil Code art. 37 by Act 98 the age of majority was twenty-one, not eighteen, as it is at present.
+
+[2]  R.S. 22:614 provides:
+
+A. No contract of insurance on property or of any interest therein or arising therefrom shall be enforceable except for the benefit of persons having an insurable interest in the things insured.
+
+B. "Insurable interest" as used in this Section means any lawful and substantial economic interest in the safety or preservation of the subject of the insurance free from loss, destruction, or pecuniary damage.
+
+[3]  The policy at issue here is exclusively a liability policy. It does not include comprehensive and collision coverages.
+
+[4]  The provisions of R.S. 22:614 are quoted in footnote two.
+
+The provisions of R.S. 22:613 provides, in pertinent part:
+
+A. Any individual of competent legal capacity may procure or effect an insurance contract upon his own life or body for the benefit of any person. But no person shall procure or cause to be procured any insurance contract upon the life or body of another individual unless the benefits under such contract are payable to the individual insured or his personal representatives, or to a person having, at the time when such contract was made, an insurable interest in the individual insured.
+
+C. "Insurable interest" as used in this Section and in R.S. 22:616 includes only interest as follows:
+
+(1) In the case of individuals related closely by blood or by law, a substantial interest engendered by love and affection; and
+
+(2) In the case of other persons, a lawful and substantial economic interest in having the life, health or bodily safety of the individual insured continue, as distinguished from an interest which would arise only by, or would be enhanced in value by, the death, disablement or injury of the individual insured.
+
+(3) An individual heretofore or hereafter party to a contract or option for the purchase or sale of an interest in a business partnership or firm, or of shares of stock of a closed corporation or of an interest in such shares, has an insurable interest in the life of each individual party to such contract and for the purposes of such contract only, in addition to any insurable interest which may otherwise exist as to the life of such individual.
+
+[5]  The American Law Reports discussion includes four cases wherein the necessity for insurable interest in cases of liability insurance was expressly found. Farmers Butter and Dairy Cooperative v. Farm Bureau Mutual Insurance Company,
+196 N.W.2d 533
+(Iowa, 1972); Osborne v. Security Insurance Co.,
+155 Cal. App. 2d 201
+, 318 P.2d 94 (1957); Ocean Accident and Guarantee Corp. v. Bear, 220 Ala. 491, 125 So. 2d 676 (1929); and Standard Life and Accident Insurance Company v. Bambrick Bros. Construction Company, 163 Mo.App. 504, 143 S.W. 845 (1912). The annotation notes that an assumption of the applicability of the doctrine to liability cases is made in federal cases applying state law decided in Arkansas, Kentucky, Minnesota, Texas and Virginia and state cases decided in Kentucky, Louisiana, (Churchman v. Ingram, supra, discussed in this opinion's text) Maine, Maryland, Massachusetts, Minnesota, New Hampshire, New York, Tennessee and Washington. 1 A.L.R.3d at 1195-96.
+
+[6]  See cases cited in 1 A.L.R.3d 1193 at 1196-97 (Section 2[c]); see also The supplement thereto at 162-63.
+
+[7]  Civil Code article 2318 provides:
+
+Art. 2318. The father, or after his decease, the mother, are responsible for the damage occasioned by their minor or unemancipated children, residing with them, or placed by them under the care of other persons, reserving to them recourse against those persons.
+
+The same responsibility attaches to the tutors of minors.

@@ -1,0 +1,261 @@
+56673
+State Ex Rel. Guste v. Simoni, Heck & Associates
+https://law.justia.com/cases/louisiana/supreme-court/1976/331-so-2d-478-1.html
+
+56673
+State Ex Rel. Guste v. Simoni, Heck & Associates
+Court: Louisiana Supreme Court
+Release date: 1976-02-23
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/331-so-2d-478-1.html
+
+331 So. 2d 478 (1976)
+
+The STATE of Louisiana ex rel. William J. GUSTE, Jr., Attorney General, Plaintiff-Appellant-Relator,
+v.
+SIMONI, HECK & ASSOCIATES et al., Defendants-Appellees-Respondents.
+
+No. 56673.
+
+Supreme Court of Louisiana.
+
+February 23, 1976.
+
+Rehearing Denied March 26, 1976.
+
+Dissenting Opinion May 14, 1976.
+
+*480 William J. Guste, Jr., Atty. Gen., Warren E. Mouledoux, First Asst. Atty. Gen., Robert E. Redmann, Asst. Atty. Gen., for plaintiff-applicant.
+
+Carlos G. Spaht, Paul H. Spaht, Kantrow, Spaht, Weaver & Walter, Baton Rouge, for defendants-respondents.
+
+TATE, Justice.
+
+On application of the State of Louisiana, we granted certiorari, La.,
+320 So. 2d 547
+(1975), to review the dismissal of its claim against the defendants, an architectural firm ("Simoni") and a consulting engineer (Burkhalter). The state seeks damages from them for their defective performance in connection with construction of a state office building. The damages are alleged to result from defects in design and from improper approval of change orders from specifications which resulted in specified building defects. The cost to repair them is here sought.
+
+The court of appeal affirmed the district court's dismissal of the suit. 314 So. 2d 477 (La.App. 1st Cir. 1975). See also an earlier intermediate decision in the matter. 297 So. 2d 918 (La.App. 1st Cir. 1974).
+
+The issues before us concern:
+
+Facts
+
+In 1966, the Louisiana Office Building Corporation (LOBC), a state agency, entered into a written contract with a general contractor (Pittman) to construct for six million dollars a giant office building for the state department of education. On February 19, 1967, the LOBC filed a notice of acceptance of substantial completion of the building (which registry commences the three-year prescription for purposes of La.R.S. 38:2189).
+
+On November 7, 1973, more than three years later, the state and the LOBC filed this suit against Pittman, Simoni, Burkhalter, and several sub-contractors to recover for various later-discovered defects in the construction of the building. The only claim presently before us is that against Simoni and Burkhalter arising out of their defective design and improper approval of change orders, by reason of which it is alleged certain specified defects in the building resulted. Damages are   sought in the amount necessary to repair them.
+
+The LOBC contracted with Simoni, an architectural firm, to plan and design the building. Burkhalter was engaged by Simoni as a consulting engineer to design the plumbing, electrical, air conditioning, and heating systems in the building.
+
+The LOBC is a public corporation, cf. La.R.S. 44:8 (1966), organized and operating exclusively for the purpose of acquiring or operating public buildings for the state. All buildings constructed or otherwise acquired by the corporation are for the use and benefit of the state, with title to the land and building to vest automatically in the state upon the payment of all indebtedness incurred in connection with its acquisition and construction.
+
+In the present case, the state and LOBC originally brought suit jointly as plaintiffs, and both appealed from an adverse judgment. However, the state alone applied for certiorari to this court, which timely application was granted.
+
+(1) Exception Urging No Right and No Cause of Action
+
+In support of their exceptions pleading no right and no cause of action, the defendants contend (a) that the LOBC, not the state, has the only real and actual interest, La.C.Civ.P. art. 681, to bring this suit against the architects and engineer resulting from defective performance of the building construction contract between the LOBC and Pittman; and (b) in any event, the state has no cause of action against the engineer Burkhalter for his deficient performance of engineering work, because his contract was with Simoni, not with the LOBC or the state.
+
+Contention (1)(a):
+
+The state itself has no right or cause of action; only the LOBC can assert same
+
+The state building was constructed with the intention that the state be the ultimate owner of it. The objective of the contract was to build a building for the state through the intermediary agency of the LOBC. As ultimate owner, the state has a cause of action which it may enforce, and it has an interest (i. e. a right of action) in enforcing it under the facts stated above.
+
+In the first place, the state may be regarded as a third-party beneficiary in whose favor a stipulation pour autrui was made by a contract with the specified intention of so benefiting it. La.C.C. art. 1890.[1] Additionally, we see no reason why the state may not, even before the contemplated transfer of title of the building to it, assert causes of action relating to its defective construction of the building. See La.C.C. art. 2042.[2]
+
+When, as here, both the state agency and the state join as party plaintiffs in the suit, we do not reach issues of multiplicity of action or nonjoinder of necessary parties which might result had either alone brought suit.
+
+Further, the circumstance that the state agency did not itself apply for certiorari does not bar the state from continuing the action on its own behalf: Even if the state were a third party to the contract between the LOBC and Simoni (instead of a third-party beneficiary directly entitled to enforce it), its interests are so closely related to or connected with the object of the suit not only to entitle it to join it as a   party before judgment, La.C.Civ.P. art. 1091, but also, even after judgment, to appeal it as an interested third party, La.C.Civ.P. art. 2086 (provided that such is done timely, as now).
+
+We do not have before us a situation where issues of res judicata or estoppel might arise because a judgment rejecting the demands against the defendants became final as against the LOBC because no interested party timely sought review of it.
+
+The defendants rely on decisions which indicate that a state agency, not the state itself, is the proper party to sue upon a cause of action in favor of the state agency. State v. Doucet, 203 La. 743, 14 So. 2d 622 (1943); Saint v. Allen, 172 La. 350, 134 So. 246 (1931); State v. Standard Oil Co., 164 La. 334, 113 So. 867 (1927); State v. Tensas Delta Land Co., 126 La. 59, 52 So. 216 (1910). The present situation is distinguishable from those therein concerned, if only in that here, not only the state agency, but the state itself (as ultimate owner of the building), has a cause of action arising out of defective construction of a building for it by a state agency.
+
+With regard to the second contention, Burkhalter entered into his contractual agreement with Simoni to perform engineering services in connection with the construction of the building. While he did not contract directly with the LOBC or the state, his performance under his contract with Simoni was expressly intended to benefit the owner of the building to be constructed, i. e., the LOBC and the state. The owner is thus entitled to enforce the obligation intended for his advantage. La.Civ.C. arts. 1890[3] and 1763[4]; Aubry and Rau, Obligations, Section 343B (translated by Yiannopoulos at 1 Civil Law Translations 320 (1965)); Planiol Civil Law Treatise, Vol. 2, Nos. 1260, 1261 (LSLI Translation, 1959).
+
+The defendant Burkhalter relies on decisions to the effect that an action upon a contract cannot be maintained against a party to a contract by a person who is not privy thereto. Lumber Products, Inc. v. Hiriart, 255 So. 2d 783 (La.App. 4th Cir. 1971); Chemical Cleaning v. Brindell-Bruno, Inc., 186 So. 2d 389 (La.App. 4th Cir. 1966). The decisions involved an attempt to enforce an obligation against a party who did not himself owe itsuch as if Burkhalter had sought to collect his fee from the state rather than from the architect who had contracted to pay it.
+
+The present situation is to be distinguished from those involved in the cited cases. Here the engineer defendant owed an obligation concurrently both to the architects Simoni, with whom he had a contract, and also to the LOBC and the state, for whose benefit and advantage the contract between Simoni and himself had been made.
+
+The principle involved in the cited cases is that expressed by Article 65, page 270, of our Civil Code of 1808,[5] which   was taken from Article 1165[6] of the French Civil Code (1804), to the effect that agreements do not operate against those who are not parties thereto: but the principle expressly recognizes that such an agreement may operate in favor of third persons to it when a stipulation in the contract has been adopted for their intended advantage. Although the 1808 article was suppressed in our Civil Code of 1825, but expressly (see 1 Louisiana Archives, Project Civil Code of 1825, p. 263) only because its substance was believed to be incorporated in the provision now found as Article 1889 of our 1870 code. The principle is thus still incorporated in our civil code. Delaney v. A. Rochereau & Co., 34 La.Ann. 1123, 1130 (1882).
+
+Decisions of our jurisprudence hold that a third person not a party to a contract cannot sue for damages for its breach nor to recover contractual benefits. Police Jury v. Alexandria Gravel Co., 146 La. 1, 83 So. 316 (1919); McWilliams v. Hagan, 4 Rob. 374 (1843); Gales' Heirs v. Penny, 9 Mart. (O.S.) 212 (1821). The principle involved, however, merely expresses the Latin maxim: "Res inter alios acta, aliis neque nocere neque prodesse potest." (A thing done between some can neither harm nor profit others). Planiol Civil Law Treatise, Vol. 2, Section 1172, (LSLI Translation, 1959). Nevertheless, as stated in The N. O. St. Joseph's Association v. A. Magnier, 16 La.Ann. 338, 339 (1861): "To the general rule that parties to a contract cannot stipulate but for themselves, there is an exception when one makes, in his own name, some advantage for a third person the condition or consideration of a commutative contract, or onerous donation. C.C. 1884[8], 1896[9]. He, for whose benefit this advantage is stipulated, has an equitable action to enforce the stipulation, when he has signified his assent in the premises. * * *"
+
+Thus, even though there be no contractual relationship between the state and Burkhalter, nevertheless the state can enforce the obligation in the Simoni-Burkhalter contract which was intended for its benefit as the ultimate owner of the building.   This is especially so in the present instance, because no effect of multiplicity of actions or exposure to multiple liability or other potential prejudice arises against Burkhalter under the present circumstances.
+
+It is true that the contractual agreement for performance of the engineering services was only between Simoni, the architects, and the state through the LOBC. However, Simoni was entitled to make a third-party demand upon Burkhalter for the latter's deficient performance of his own sub-contract with Simoni to perform the engineering services due by Simoni under its own contract with the state. La.C.Civ.P. art. 1111.
+
+We see no reason why the state cannot also sue Burkhalter directly as a defendant for the damages arising out of his breach of his obligation owed concurrently to Simoni and to the owner (the state) of the building under construction. A direct action by the party suffering the ultimate loss against the party ultimately responsible for it avoids the multiplicity and circuity of action otherwise necessary to achieve the payment of the loss to the one who suffered it by the one who caused it.
+
+We see no prejudice here nor procedural and substantive reason which prevents this direct action. For similar reasons, we have recognized that the ultimate consumer may sue directly the manufacturer of a defective product, despite the lack of a contractual relationship between them. Media Production Consultants, Inc. v. Mercedes-Benz of North America, 262 La. 80,
+262 So. 2d 377
+. See also Marine Insurance Company v. Strecker, 234 La. 522,
+100 So. 2d 493
+(1958).
+
+The defendants' exceptions pleading no right of action (want of interest) and no cause of action must therefore be overruled.
+
+(2) Exception Urging Prescription of Three Years Provided by La.R.S. 38:2189
+
+The defendants further rely upon the prescription against certain claims arising out of the performance of public contracts which is provided by La.R.S. 38:2189:
+
+Prior to this 1962 enactment, the prescriptive period of ten years was applicable to contractors upon public works for badness of workmanship and for building defects. La.Civ.C. arts. 2762, 3545; see Orleans Parish School Board v. Pittman Construction Co., 261 La. 665,
+260 So. 2d 661
+(1972). These code articles provide for a ten-year prescription against all undertakers (contractors) and architects and are generally applicable to construction work, except where (as here) modified by a special statute.
+
+As earlier noted, the allegations of the petition show:
+
+The general contractor (Pittman) submitted the lowest responsible bid and consequently secured the general contract with the LOBC to construct the building. Aetna provided the surety performance bond to insure the liability of Pittman for construction of the building in accordance with the contract. In an entirely different agreement, Simoni contracted with the LOBC to plan and design the building. Simoni and Burkhalter contracted for the latter to perform the engineering services required of Simoni by its contract with the LOBC.
+
+Under the terms of La.R.S. 38:2189, the short three-year prescriptive period obviously applies to the liability of the general contractor and his surety on the public construction contract. The issue is whether an   architect who has a contract with the state to design the building is likewise a "contractor" for purposes of this prescriptive statute. We hold he is not.
+
+The 1962 enactment of La.R.S. 38:2189, above-quoted, provides a three year prescription against "the contractor on the contract or on the bond, or against the contractor or the surety on the bond furnished by the contractor", with the prescription to commence "from the registry of acceptance of such work or of notice of default of the contractor." It refers to contracts "let" by the state or a public agency "in connection with the construction, alteration, or repair of any public works."
+
+In its statutory context, the prescriptive statute has application to contractors with a public agency "for the construction, alteration, or repair of any public works"; such "contractor" is required to furnish a "bond, with good, solvent, and sufficient surety". La.R.S. 38:2241. These works "shall be advertised and let by contract to the lowest responsible bidder who had bid according to the contract, plans and specification, as advertised. * * *" La.R.S. 38:2211. (Italics ours.)
+
+With regard to such contractors, the public agency shall record a written acceptance of the work when it is substantially completed, but "* * * This acceptance shall not be executed except upon the recommendation of the architect or engineer of the governing authority * * *." La.R.S. 38:2241.1 (1964). Within forty-five days after recordation of the acceptance or "of notice of default of the contractor or subcontractor", any person to whom money is due for work, materials, or supplies for the construction of public works, "including any architect and any consulting engineer engaged by the contractor or subcontractor", may file a sworn statement to assure deduction of sums due him from disbursement to the contractor. La.R.S. 38:2242 (1966). The claimants are also given a right of action on the contractor's bond if he brings suit "within one year from the registry of acceptance of the work or of notice of default of the contract." La.R.S. 38:2247 (1962).
+
+All of these provisions apply to contractors to construct, repair, or alter public works, not to architects or engineers employed by the state to design them. The statutory provisions themselves, as noted, sometimes distinguish between the contractors who perform the public work for the state, and the architects or engineers employed by the state or by the contractor respectively.
+
+Architects and engineers are not required to give bond, nor are there statutory provisions relating to "letting" of contracts to them or to notices of acceptance of their work or of default by them. The provisions of Section 2189 refer to these indicia, which refer to statutory indicia which relate only to the contractor who contracts with the state to construct, alter, or repair a public work. In our opinion, the intent of Section 2189 is thus to apply to claims against such contractors and their sureties, not to those against architects or engineers. The latter thus are not "contractors" within this indicated meaning of the statute.
+
+We are re-enforced in our belief that architects and engineers are not considered "contractors" for purposes of public contracts, because of other statutory provisions to the same effect.
+
+For instance, in the licensing of contractors for construction, etc., of works, expressly exempted from the statutory definition of a contractor are architects and engineers in the performance of their usual services (although they are considered a contractor if they charge an additional fee   for the employment or direction of labor). La.R.S. 37:2157A (1968). Again, La.R.S. 38:2290-96 (1965), the chief statutory regulation of the performance of architects and engineers in connection with public works (regulating their use of closed specifications), recognizes the distinction between them and the contractors who bid upon or use the specifications prepared by the architects and engineers for public works.
+
+We therefore conclude that the legislative intent of Section 2189's provision of a short three-year prescription is limited to the contractors who perform the construction, alteration, or repair under contract with the state, not to the architects or engineers who by contract with the state plan or design the work which the contractor builds, alters, or repairs.[11] If there were doubt, however, ambiguous prescription statutes must be strictly construed against prescription and in favor of the obligation sought to be extinguished by it. United Carbon Company v. Mississippi River Fuel Corporation, 230 La. 709,
+89 So. 2d 209
+(1956).
+
+The defendants' exceptions pleading the three-year prescription of La.R.S. 38:2189 are therefore overruled.
+
+For the reasons assigned, we reverse the dismissal of the state's suit against the architects and the engineer for faulty design and improper change-orders in the construction of the department of education office building in Baton Rouge. We remand this case to the district court for further proceedings consistent with the views herein expressed. All costs of review by the court of appeal and by this court are assessed against these defendants-appellees; all other costs to await imposition until final termination of these proceedings.
+
+Reversed and remanded.
+
+SUMMERS, J., dissents and assigns reasons.
+
+SUMMERS, Justice (dissenting).
+
+The State of Louisiana on the relation of the Attorney General applied for certiorari to review a judgment of the First Circuit. We issued a writ,
+320 So. 2d 547
+(La.1975).
+
+Suit was instituted initially by the State of Louisiana on the relation of the Attorney General and the Louisiana Office Building Corporation against Simoni, Heck and Associates, an architectural and engineering firm. According to the allegations of the petition, Simoni "contracted" with the Louisiana Office Building Corporation to plan and design the Headquarters Office Building of the Louisiana Department of Education in the city of Baton Rouge.
+
+Also, D. F. Burkhalter, a consulting engineer who planned and designed the plumbing, electrical, air-conditioning and heating systems of the building, was joined as a defendant. No allegation of the petition asserts that Burkhalter has a contract with the State of Louisiana or the Louisiana Office Building Corporation.
+
+A number of other defendants were joined: the prime contractor in the construction project, and the subcontractors for installation of the air-conditioning, elevators, masonry and air handling units. Allegations of the petition set forth that they failed to comply with the plans and specifications. The surety company providing the surety performance bond to insure   the liability of the prime contractor was also made a party defendant.
+
+All defendants have been dismissed from this suit on exceptions of prescription or no cause of action except the architects, Simoni, and the engineer, Burkhalter. La.App., 297 So. 2d 918, decided June 28, 1974, and La.App., 314 So. 2d 477, decided May 19, 1975.
+
+In addition to setting forth claims against the other defendants, who are no longer parties, the petition alleges that Simoni and Burkhalter were liable for the cost of change orders issued because the engineer negligently specified materials, the use of which violated the City of Baton Rouge Fire Code; and that the architectural firm, employed to approve and oversee all construction, was negligent in permitting such materials to be installed. The State of Louisiana was allegedly damaged by this negligence in the amount of $15,644.88, the cost of removing and replacing the prohibited materials.
+
+The petition further alleges that Simoni and Burkhalter were liable for $25,000, the amount required to correct a design defect in the fresh air system of the building. The system is alleged to have been negligently designed by Burkhalter and negligently approved by Simoni without provisions for fresh air intakes, in violation of applicable codes.
+
+Simoni and Burkhalter filed various exceptions. Only exceptions of prescription and no right of cause of action, which were maintained by the trial court and affirmed by the Court of Appeal, are before this Court on this application for certiorari.
+
+The three-year prescription invoked is set forth in Section 2189 of Title 38 of the Revised Statutes:
+
+Facts relied upon by Simoni to sustain this exception are the allegations of the petition that Simoni "contracted" with the Louisiana Office Building Corporation; the fact that upon completion of the building a formal notice of acceptance of substantial completion was filed of record on February 19, 1969; and the further fact that thereafter this suit was instituted on November 7, 1973, approximately four and one-half years subsequent to the registry of the certificate of acceptance.
+
+The Court of Appeal interpreted the word "contractor" in the quoted statute to include architects. It held, therefore, that a suit by the state or a subdivision thereof against this architect on the contract between the architect and the owner would prescribe in three years from the date of registry of acceptance. The Court found that the suit against Burkhalter was in contract and that neither the State nor the Louisiana Office Building Corporation was able to maintain the suit against Burkhalter because there was no privity of contract between them. 314 So. 2d 477.
+
+The sense in which "contractor" is used in this statute on prescription contemplates architects who have contracted, as in this case, to "plan and design" and "to approve and oversee all construction." In a contract to perform such services an architect is a contractor.
+
+Section 2189 was enacted to limit the time during which suits could be instituted against "an architect or other workman" as these parties are referred to in Article 2762 of the Civil Code and "undertaker or architect" as referred to and contemplated   by Article 3545 of the Civil Code. These articles provide:
+
+This intention of the legislature is manifest from the law as it existed before the enactment of Section 2189 in 1962. At that time, if a building fell to ruin within ten years because of "badness of the workmanship", Article 2762 meant that a cause of action was created in the owner making the "architect or undertaker" responsible for the loss. This cause of action could be asserted under Article 3545 within ten years of the discovery of the defect or ruin.
+
+Thus, assume a situation where the defect or ruin on account of the "badness of workmanship" of the architect or undertaker is discovered nine years after completion of the work. The owner then has an action against the undertaker or architect for defect of construction of the building which, under Article 3545, prescribes in ten years from the date of the discovery of the defect or ruin. The expiration of nine of the ten years allowed by Article 2762 for the ruin or defect to manifest itself, together with the ten years allowed the owner to assert his right after discovery of the defect, creates a situation in which the architect, workman or undertaker could be called upon nineteen years after completion of the work to account for ruin or defects. Orleans Parish School Board v. Pittman Construction Co., 261 La. 665,
+260 So. 2d 661
+(1972).
+
+It is our view that the legislature found that this state of the law allowed an unduly long time for the State or any of its agencies, boards or subdivisions to institute an action "in connection with the construction, alteration or repair of any public works." Therefore, Section 2189 was enacted in 1962 to shorten the time by providing that such actions "shall prescribe three years from the registry of acceptance of such work or of notice of default of the contractor . . . ."
+
+As enacted, Section 2189 expressed the obvious intention of the legislature to amend Articles 2762 and 3545 where the State, its agencies, boards and subdivisions were concerned. Such an amendment necessarily extended the benefits of the shorter prescriptive period to "undertakers", "architects" or "other workmen", all of whom were mentioned in the articles of the Civil Code, who undertook public works for the State, its agencies, boards and subdivisions. Simoni, the architectural firm, is therefore entitled to invoke the prescription of three years fixed by Section 2189.
+
+Ordinarily it would appear that since Burkhalter denies any contractual relationship with the State or the Louisiana Office Building Corporation he cannot invoke a prescription designed to protect contractors against actions by the State or its agencies, boards or subdivisions. However, Burkhalter argues that the reference to "contractors" in Section 2189 also applies to subcontractors, architects, engineers, and any other person performing work on a public work. In this opinion I infer from the pleadings and this argument that the engineer, Burkhalter, is a subcontractor of Simoni. On this inference I am of the opinion the argument has merit.
+
+It is inconsistent to permit the prime contractor to invoke prescription against   claims arising out of a construction contract and not accord the same rights to his subcontractors who performed the work. Such a rule would permit the prime contractor to invoke prescriptions against claims of noncompliance with the contract, leaving his subcontractors to answer for the breaches. Since invoking the three-year prescription is predicated upon the requirement that it runs "from the registry of acceptance of such work or of notice of default of the contractor . . . ." the result I reach is indicated. That is to say, acceptance of the work should operate equally for the benefit of the contractor and his subcontractors who performed the work on his behalf.
+
+If Section 2189 is to be considered as a modification of the time prescribed in Articles 2762 and 3545 of the Civil Code, the broad reference in those articles to "architect or other workman" and to "undertaker or architect" would properly include subcontractors. This construction is consistent with other statutes. For example "contractor" is defined by Section 2162 of Title 37 of the Revised Statutes as ". . . a person who contracts directly with the owner, a primary contractor, or a sub-contractor as a sub-contractor." Unless the word "contractor" is given a meaning which includes subcontractors the intention of the legislature in limiting the time for bringing actions under Section 2189 would receive only partial recognition.
+
+Alternatively, the Attorney General argues that this is not a suit on a contract but is, instead, a suit in tort against both Simoni and Burkhalter. Prescription cannot run against the State in an action in tort, it is contended, because the constitution states that "Prescription shall not run against the State in any civil matter, unless otherwise provided in this Constitution or expressly by law." La.Const. art. XIX, § 16 (1921).
+
+Although alleging that Simoni "contracted with the Louisiana Office Building Corporation", the Attorney General points to other allegations of the petition to support the contention that this is a tort action against Simoni; such as, Simoni "negligently permitted" the installation of materials prohibited by the Baton Rouge Fire Code; "negligently permitted" installation of heating, ventilating and air-conditioning systems which did not have fresh air intakes; and "negligently and willfully" issued change orders which resulted in savings in cost of construction not credited to the State.
+
+My appreciation of the allegations of the petition leads me to the conclusion that there was privity of contract between Simoni and Louisiana Office Building Corporation. Simoni, under the contract, was obligated to plan, design, supervise and approve the construction. It is evident, also, that the complaints of the petition are directed to violations of Simoni's obligations under the contract. This contractual basis for the cause of action is not converted from a suit ex contractu to a suit ex delicto by allegations that violations of the contract were "negligently" committed. Nor is the suit converted into a suit in tort by the bare allegation of the supplemental and amending petition that "the facts stated [in the original petition] therein also constitute a cause of action `ex delicto' (in tort) . . . ."
+
+To determine whether an action springs ex delicto or ex contractu the entire petition, and not simply detached expressions should be considered. Kohn v. Mayor and Council of the Town of Carrollton, 10 La.Ann. 719 (1855). It is the nature of the duty breached that should determine whether the action is in tort or in contract. Kozan v. Comstock, 270 F.2d 839 (5th Cir. 1959). The allegation that the plaintiff has been damaged does not determine the question, for damages result as well from the violation of contracts, either express or implied, as from the commission of offenses and   quasi offenses. Kohn v. Mayor and Council of the Town of Carrollton, supra.
+
+Mr. Justice Spofford stated the test to be applied:
+
+Speaking of the distinction between delictual fault and contractual fault, Planiol wrote:
+
+Applying these authorities to the facts of the petition, I observe that Simoni contracted with the Louisiana Office Building Corporation to plan, design and supervise the construction. This was a special obligation which is alleged to have been violated. The action is, therefore, ex contractu and not ex delicto, and the contention that the action is one in tort and imprescriptible under Article XIX, Section 16, of the Constitution of 1921 is not wellfounded.
+
+Although there is no specific allegation that he "contracted" with the Louisiana Office Building Corporation, or was a subcontractor of Simoni, Burkhalter's status is established circumstantially and by inference. He is alleged to have planned and designed the plumbing, electrical, air-conditioning and heating systems, to have negligently specified removal of standpipes and to have executed certain design defects which caused damage to the Louisiana Office Building Corporation. This planning and designing must necessarily have taken place in the capacity of a subcontractor of the architect who contracted with the owner "to plan and design" the building.
+
+*491 I find, therefore, that the action against Burkhalter was also an action ex contractu based upon the nonexecution of an obligation he obviously agreed to perform in the subcontract with Simoni. His violation, therefore, was the violation of a special obligation as subcontractor of Simoni as opposed to a general duty owed to all persons. Recovery for his errors and omissions is to be based upon the terms of the obligations he undertook in this contract with Simoni.
+
+To assert a claim for breach of this obligation the Louisiana Office Building Corporation must have privity of contract with Burkhalter. The pleadings do not disclose any basis on which that privity can be founded. Louisiana Office Building Corporation's contract was with Simoni, not Burkhalter.
+
+The established rule is that, in the absence of a contrary statutory provision, an action ex contractu cannot be maintained against a party to a contract by a person who is not privy thereto. Keller Construction Corporation v. George W. McCoy & Co., 239 La. 522,
+119 So. 2d 450
+(1960); Lumber Products, Inc. v. Hiriart, 255 So. 2d 783 (La.App.1972). Louisiana Office Building Corporation is not a party to the contract between Simoni and its subcontractor Burkhalter, and it cannot assert the claim it seeks to assert against Burkhalter.
+
+The conclusions reached make it unnecessary to consider Simoni and Burkhalter's exception of no right or cause of action based upon the contention that the Attorney General on behalf of the State of Louisiana has no right to assert the claims of Louisiana Office Building Corporation against Simoni and Burkhalter.
+
+For the reasons assigned, I respectfully dissent.
+
+[1]  Article 1890 provides:
+
+"A person may also, in his own name, make some advantage for a third person the condition or consideration of a commutative contract, or onerous donation; and if such third person consents to avail himself of the advantage stipulated in his favor, the contract can not be revoked."
+
+[2]  Article 2042 provides:
+
+"The creditor may, before the fulfillment of the condition, perform all acts conservatory of his rights."
+
+[3]  Article 1890 provides:
+
+"A person may also, in his own name, make some advantage for a third person the condition or consideration of a commutative contract, or onerous donation; and if such third person consents to avail himself of the advantage stipulated in his favor, the contract can not be revoked."
+
+[4]  Article 1763 provides:
+
+"In any contract, for the breach of which damages could be recovered, or which could be specifically enforced between the original parties the obligation is incurred, and the right is vested in the representatives, although they are not specially named, unless the contrary intent is expressed, or unless it results from the nature of the agreement."
+
+[5]  Article 65 of the Civil Code of 1808 provides:
+
+"Agreements have effect only on the contracting parties; they do not operate against any other persons, neither do not operate in their favor, except in the case provided for by article the 21st of this title."
+
+The cited Article 21 of the Civil Code of 1808 provides:
+
+"A person may, in like manner, stipulate for the advantage of a third person, when such is the condition of a stipulation that he makes for himself, or of a donation that he makes to another.
+
+"He who has made such a stipulation, can no longer revoke it, if the third person has declared himself willing to avail himself of it."
+
+[6]  Article 1165 of the French Civil Code of 1804 provides:
+
+"Agreements have no effect but between the contracting parties; they do not work injury to a third person, nor can they profit him except in the case provided for by article 1121."
+
+Article 1121 of the French Civil Code (1804) provides:
+
+"A person may, in like manner, stipulate for the advantage of a third person, when such is the condition of a stipulation that he makes for himself, or of a donation that he makes to another.
+
+"He who has made such a stipulation, can no longer revoke it, if the third person has declared himself willing to avail himself of it."
+
+[7]  La.C.C. art. 1889 provides:
+
+"No one can, by a contract in his own name, bind any one but himself or his representatives; * * *"
+
+Article 1889 is modified by the succeeding Article 1890, quoted in footnote 3 above, which provides for the stipulation pour autrui. Article 1890 incorporates the substance, in similar wording, of Article 21 of our Civil Code of 1808, quoted in footnote 5, and of Article 1121 of the French Civil Code, quoted in footnote 6 above.
+
+[8]  Article 1884 of the Civil Code of 1825 is Article 1890 (providing for stipulations pour autrui) of the 1870 code.
+
+[9]  Article 1896 of the 1825 Code is Article 1902 of the 1870 Code: "But a contract, in which anything is stipulated for the benefit of a third person, who has signified his assent to accept it, cannot be revoked as to the advantage stipulated in his favor without his consent."
+
+[10]  See Black's Law Dictionary, verbo "Let" (4th ed. 1951): "To award to one of several persons who have submitted proposals therefor, the contract for erecting public works or doing some part of the work connected therewith, or rendering some other service to government for a stipulated compensation."
+
+[11]  Perhaps the legislature's provision of this short three-year prescription as against contractors, without modifying the longer ten-year prescription applicable to architects, La.Civ.C. arts. 2762, 3545, was based upon the presumed adequate design and supervision by those who receive state architectural contracts for large public works.

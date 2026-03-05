@@ -1,0 +1,101 @@
+60621
+State v. Lindinger
+https://law.justia.com/cases/louisiana/supreme-court/1978/357-so-2d-500-1.html
+
+60621
+State v. Lindinger
+Court: Louisiana Supreme Court
+Release date: 1978-04-10
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/357-so-2d-500-1.html
+
+357 So. 2d 500 (1978)
+
+STATE of Louisiana, Respondent,
+v.
+Lloyd LINDINGER, Relator.
+
+No. 60621.
+
+Supreme Court of Louisiana.
+
+April 10, 1978.
+
+*501 T. Gerald Henderson, Gravel, Roy & Burnes, Alexandria, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barabara Rutledge, Asst. Atty. Gen., J. Eddie Knoll, Dist. Atty., Darrel D. Ryland, Asst. Dist. Atty., for plaintiff-respondent.
+
+TATE, Justice.
+
+We granted certiorari,
+351 So. 2d 1208
+(1977), to review the trial court's denial of a motion to acquit. The defendant is charged with driving while intoxicated. By the motion, the defendant contends that no evidence whatsoever proved an essential element of the crime: that the defendant was "operating" a motor vehicle while intoxicated.
+
+The defendant was convicted of driving while intoxicated. La.R.S. 14:98. Pertinent to the present charge, the statute defines the crime as "the operating of any motor vehicle . . . while under the influence of alcoholic beverages."
+
+The defendant did not offer any evidence. At the close of the state's case, the defendant (who was tried before a judge without a jury) filed the motion for acquittal. La.C. Cr.P. art. 778. The trial court agreed with the state's contention that circumstantial evidence proves the defendant's intoxication while operating a vehicle.
+
+La.R.S. 15:438 provides: "The rule as to circumstantial evidence is: assuming every fact to be proved that the evidence tends to prove, in order to convict, it must exclude every reasonable hypothesis of innocence."
+
+For purposes of appellate review, the issue of whether there is total lack of circumstantial evidence to prove the crime (or an essential element of it) is decided by whether or not there is some evidence from which the trier of fact could reasonably conclude that beyond a reasonable doubt the accused had committed every element of the crime with which charged. Stated another way, the issue before us is: Did the evidence before the trier of fact exclude every other reasonable hypothesis than that the accused, admittedly found later to be intoxicated, had "operated" the motor vehicle while so intoxicated.
+
+See: State v. Elzie,
+343 So. 2d 712
+(La. 1977); State v. Willis,
+325 So. 2d 227
+(La. 1976); State v. Linkletter (and Soldani), 239 La. 1000,
+120 So. 2d 835
+(1960); State v. Nomey, 204 La. 667, 16 So. 2d 226 (1943).
+
+In the present instance, the state's case shows (it is the only evidence, since the defendant rested at its close):
+
+Acting upon a report, a city policeman went to a scene just outside the city limits. There, he found the defendant Lindinger resting against a pickup truck some 50 to 100 feet out in the field off the highway.
+
+The officer testified that Lindinger was hardly able to stand and appeared to be intoxicated. The officer found in the pickup truck a fifth of whiskey "three quarters gone, three quarters of it had been dranked or poured out." Lindinger seemed unable to respond to the officer's questions. The officer did not know how long Lindinger had been in the field before he arrived.
+
+A state trooper arrived fifteen minutes later. He found skidmarks which indicated that the vehicle had skidded off the highway into the field after its brakes had been applied. He found no damage to the vehicle. His observations concurred with the city policeman's that Lindinger appeared to be intoxicated and smelled of whiskey.
+
+The state's evidence thus might be said to show: (a) that Lindinger was intoxicated; and (b) that he was found standing by a pickup truck which had (at some undetermined time earlier) skidded off the highway into a field.
+
+The evidence does not show: (a) how long Lindinger or the pickup truck had been in   the field before the officers found him; (b) that Lindinger had been driving the pickup truck at the time it left the highway; or (c) most important, even if (b) could be inferred, that Lindinger was intoxicated at the time the vehicle left the highway.
+
+In view of the lack of proof as to how long Lindinger had been in the field, for instance, the hypothesis may have been just as reasonable that he consumed whiskey after the vehicle skidded off the highway instead of before it had done so.
+
+We conclude, therefore, that there was no evidence from which the trier of fact could reasonably conclude that beyond a reasonable doubt the accused had been intoxicated while (if) operating the vehicle on the highway, merely before he was found at some undetermined interval after the truck had left the highway.
+
+Under similar circumstances, the high courts of Maryland and Iowa reversed driving-while-intoxicated convictions. Thomas v. State, 277 Md. 314, 353 A.2d 256 (1976); State v. Creighton,
+201 N.W.2d 471
+(Iowa, 1972). The observations of these courts, in so reversing, are indicative of the reasons for our similar conclusion.
+
+In Creighton, the court stated, 201 N.W.2d 473: "The accident was a one-car event. There were no witnesses. We have no way of knowing when it occurred; how much later the highway patrolman arrived (he refused to say); or what transpired between the time of the accident and the time of arrest. This hardly meets the State's burden of proof . . . [T]he fact that a defendant was under the influence of an alcoholic beverage at the time of his arrest, without a showing of more, will not support a finding he was in that condition when driving a motor vehicle at some earlier time."
+
+And in Thomas the court stated, 353 A.2d 262: "All the evidence in this case proves is that Thomas was in a vehicle by the side of a road, possibly intoxicated, at an early hour in the morning. Left to conjecture is whether he drove the vehicle to that location after imbibing alcohol . . .. When the day arrives, however, when a person may be convicted on the basis of suspicion alone, liberty will have vanished from the land. Under our system of justice it was incumbent upon the State to prove the elements of the crime. In this instance it has utterly failed to prove . . . that Thomas drove the vehicle on a public highway while his driving ability was impaired by alcohol."
+
+For the reasons assigned, therefore, we reverse the conviction, and we order that the motion for acquittal be granted and the defendant be discharged.
+
+REVERSED AND RENDERED.
+
+SANDERS, C. J., concurs.
+
+SUMMERS, J., dissents with reasons.
+
+SUMMERS, Justice (dissenting).
+
+I suppose this Court would say that uncontradicted, reliable evidence of a man discovered standing over a bloody wounded corpse with a bloody knife in hand did not present "some evidence" that the man in possession of the knife was the assailant.
+
+On review of a conviction by this Court only questions of law are involved. La. Const. art. V, § 5(C). By its plain language the Constitution denies this Court the authority to consider the guilt or innocence of the accused. It is only when there is no evidence whatever of an essential element of a crime that a question of law is presented. In that instance it has been held as a matter of law that one cannot be convicted on no evidence. But where there is some evidence, no matter how little, this Court cannot judge its sufficiency. State v. Abney,
+347 So. 2d 498
+(1977); State v. Madison,
+345 So. 2d 485
+(1977); State v. de la Beckwith,
+344 So. 2d 360
+(1977); State v. Buckley,
+344 So. 2d 980
+(1977); State v. Williams,
+339 So. 2d 728
+(1976).
+
+In my view there was "some evidence" that the defendant was driving while intoxicated.
+
+I would affirm the conviction.

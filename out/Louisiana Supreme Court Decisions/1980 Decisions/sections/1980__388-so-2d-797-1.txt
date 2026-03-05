@@ -1,0 +1,79 @@
+67193
+State v. Guidry
+https://law.justia.com/cases/louisiana/supreme-court/1980/388-so-2d-797-1.html
+
+67193
+State v. Guidry
+Court: Louisiana Supreme Court
+Release date: 1980-09-03
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/388-so-2d-797-1.html
+
+388 So. 2d 797 (1980)
+
+STATE of Louisiana
+v.
+Edmond GUIDRY.
+
+No. 67193.
+
+Supreme Court of Louisiana.
+
+September 3, 1980.
+
+*798 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Paul G. Mayoral, New Orleans, for plaintiff-relator.
+
+William R. Ary, New Orleans, for defendant-respondent.
+
+LEMMON, Justice.
+
+We granted the state's application for a writ of certiorari in order to review a decision of the trial court granting defendant's motion to suppress approximately $1,000,000 worth of stolen property which had been found in a search of his residence conducted pursuant to a warrant. We reverse.
+
+The search and seizure at issue resulted from information received in connection with the arrest of Robert King for armed robbery. When King's confession implicated defendant as the person who received the property stolen in several robberies, a police officer on October 25, 1979 submitted an affidavit in support of a warrant for the search of defendant's residence, which provided in pertinent part as follows:
+
+Execution of the search warrant produced the stolen property which defendant moved to suppress. At the hearing on the motion defendant argued that the affidavit in support of the search warrant failed to show any relationship between illegal activity and defendant's residence and thus failed to establish probable cause to believe any stolen property was located at defendant's residence at the time. The trial court agreed and granted the motion to suppress.
+
+A search warrant may be issued only upon an affidavit reciting facts which establish to the satisfaction of the issuing magistrate that probable cause exists to search the place described in the warrant. State v. Paciera,
+290 So. 2d 681
+(La.1974). Probable cause exists when facts and circumstances, within the affiant's knowledge and of which he has reasonably trustworthy information, are sufficient to support a reasonable belief that an offense has been committed and that evidence or contraband may be found at the place to be searched. State v. Turnipseed,
+362 So. 2d 486
+(La. 1978).
+
+King's credibility is enhanced by the fact that he made declarations against his penal interest. State v. Mena,
+344 So. 2d 357
+(La.1976); State v. Welsh,
+371 So. 2d 1314
+(La.1979). As the Court stated in United States v. Harris,
+403 U.S. 573
+, 91 S. Ct. 2075, 2082, 29 L. Ed. 2d 723 (1971):
+
+Furthermore, the information provided by King was based on his first hand knowledge and can certainly be considered reliable from that standpoint. See State v. Paciera, above. However, since the affidavit did not state that King knew where defendant took the jewelry when he left King's residence, the principal issue concerns the validity of the magistrate's finding that it was reasonable to conclude defendant would have any of the stolen property at his residence.
+
+As to this issue defendant's reliance on State v. Daniel,
+373 So. 2d 149
+(La.1979), is misplaced. In Daniel the affidavit did not establish that the place to be searched was the defendant's residence. The court noted that the affidavit did not state defendant lived at the address which the officers sought to search in connection with an investigation regarding stolen drugs.
+
+*800 In the present case there is considerable information in the affidavit linking the place which officers sought to search to defendant. The telephone number which King called to contact defendant was listed in the city directory to defendant at that address, and police records revealed that the place sought to be searched was defendant's residence. Significantly, the affidavit established the fact that defendant was engaged in a continuing enterprise of receiving stolen property regularly over a period of several months, and that fact gives rise to the reasonable inference that some of the stolen property was probably located at defendant's residence.[1] Moreover, since defendant was regularly contacted at his residence in connection with the criminal activity, a relationship was shown between that place and the activity.
+
+We conclude that the issuing magistrate properly determined, from the facts stated in the affidavit, that stolen goods might reasonably be expected to be found at defendant's residence. When confronted with a similar situation, the Supreme Court of Minnesota in Rosillo v. State,
+278 N.W.2d 747
+, 748-749 (Minn.1979) reached a similar result, stating:
+
+See also United States v. Rahn, 511 F.2d 290 (10th Cir. 1975); United States v. Lucarz, 430 F.2d 105 (9th Cir. 1970).
+
+Affidavits supporting the issuance of search warrants must be read in a common sense manner. United States v. Harris, above. In evaluating the showing of probable cause necessary to support a search warrant, the court must heed the sound admonition in United States v. Ventresca,
+380 U.S. 102
+, 85 S. Ct. 741, 746, 13 L. Ed. 2d 684 (1965):
+
+Finally, the issue before us does not involve a particular individual's right to a fair determination of his guilt or innocence. The issue is the applicability of the exclusionary rule, which is totally unrelated to the guilt or innocence of this particular individual. The exclusionary rule involves a balancing between society's right to have its individual members live in privacy and freedom from police state tactics and society's right to have its individual members live in safety and freedom from crime. The federal and state constitutions only protect citizens from unreasonable searches and seizures. Since all police procedures in this case were conducted reasonably, there is no reason to interpret probable cause technically or to apply mechanically a rule intended to deter misconduct and bad faith law enforcement procedures.
+
+*801 We conclude that the intrusion into defendant's privacy in an area shown to be connected with significant and continuous illegal activity was justified under the information contained in the affidavit.
+
+Accordingly, the judgment of the trial court is reversed, the motion to suppress is denied, and the case is remanded for further proceedings.
+
+REVERSED AND REMANDED.
+
+DENNIS, J., dissents with reasons. [The dissenting opinion will be separately published.]
+
+[1]  Relevant considerations include the type of crime, the nature of the items sought, the opportunity for concealment, and the inference as to where a criminal would hide stolen property. Although the property in this case could have been stored elsewhere, it was reasonable to assume that the normal place a criminal dealing in stolen jewelry would keep such items at his house.

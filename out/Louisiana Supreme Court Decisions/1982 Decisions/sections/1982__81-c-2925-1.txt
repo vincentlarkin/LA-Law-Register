@@ -1,0 +1,99 @@
+81-C-2925
+Senac v. Sandefer
+https://law.justia.com/cases/louisiana/supreme-court/1982/81-c-2925-1.html
+
+81-C-2925
+Senac v. Sandefer
+Court: Louisiana Supreme Court
+Release date: 1982-06-21
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1982/81-c-2925-1.html
+
+418 So. 2d 543 (1982)
+
+Henry J. SENAC
+v.
+Ronald Davis SANDEFER, Manchester Insurance & Indemnity Company and the Louisiana Insurance Guaranty Association.
+
+No. 81-C-2925.
+
+Supreme Court of Louisiana.
+
+June 21, 1982.
+
+Rehearing Denied September 3, 1982.
+
+Dennis A. Pennington, Spedale, Sanders & Pennington, Baton Rouge, for applicant.
+
+*544 Richard Creed, Jr., Owen, Richardson, Taylor, Mathews & Atkinson, Baton Rouge, for respondents.
+
+DENNIS, Justice.
+
+The plaintiff, Henry J. Senac, filed suit against Ronald D. Sandefer and his automobile liability insurer, Manchester Insurance & Indemnity Company, seeking damages for personal injuries received in an automobile accident. Plaintiff was operating his employer's delivery truck when it was involved in an accident on December 3, 1971, with a vehicle owned by the defendant, Ronald Sandefer and insured by Manchester Insurance & Indemnity Company. Plaintiff sought recovery for medical expenses, pain and suffering, and loss of wages. Manchester Insurance & Indemnity Company became insolvent and its obligations were assumed by the Louisiana Insurance Guaranty Association (LIGA) pursuant to La.R.S. 22:1375 et seq.
+
+The parties entered into a joint stipulation which provides as follows:
+
+The legal issue stated in section 4 of the joint stipulation, supra, was resolved in favor of the plaintiff by the trial court. In written reasons for judgment, the trial court observed that the $4,900 in stipulated general damages to which the plaintiff was entitled did not include recovery for any loss of wages. The compensation benefits received by the plaintiff under the provisions of La.R.S. 23:1021, et seq. were payments made in lieu of salary. Citing Fontenot v. Hanover Insurance Company,
+385 So. 2d 238
+(La.1980), the trial court held that LIGA was not entitled to any credits for the $4,900 paid by the compensation insurer because there had not been a duplication of recovery as contemplated by La.R.S. 22:1386.
+
+The court of appeal reversed the trial court judgment finding that "compensation payments are in lieu of both wage loss and damages for pain and suffering, and that recovery of both compensation payments and damages for pain and suffering is double recovery under the workmen's compensation law." Senac v. Sandefer, 405 So. 2d 1128, 1131 (La.App. 1st Cir. 1981). This court granted writs to review the correctness of that decision. 407 So. 2d 747 (La. 1981).
+
+The Insurance Guaranty Association Law, La.R.S. 22:1375 et seq., was enacted by the legislature in 1970 as a response to the serious problem of insurer insolvencies. Ursin v. Insurance Guaranty Association,
+412 So. 2d 1285
+(La.1982) (on rehearing). The purpose of the Insurance Guaranty Association Law is stated in La.R.S. 22:1376 as follows:
+
+La.R.S. 22:1378 provides for a liberal construction of the act to effectuate the designated purpose "under section R.S. 22:1376, which shall constitute an aid and guide to interpretation."
+
+La.R.S. 22:1382(1)(b) provides that the Louisiana Insurance Guaranty Association shall:
+
+Accordingly, in the instant case, LIGA is to be treated as though it were the insurer that issued Mr. Sandefer's policy. Billeaudeau v. Lemoine,
+386 So. 2d 1359
+(La.1980); Hickerson v. Protective National Insurance Company,
+383 So. 2d 377
+(La.1980). LIGA contends, however, that it is entitled to a credit for the benefits which Senac has received from his employer's compensation insurer, by virtue of La.R.S. 22:1386, entitled "Nonduplication of recovery," which provides in relevant part as follows:
+
+The purpose of this provision is to prevent double recovery. Hickerson, supra, at 379. The issue before this court, therefore, is whether double recovery will result from a judgment against a third party tortfeasor awarding a claimant, who has already received workers' compensation disability benefits, general damages which do not include lost wages or medical expenses.
+
+The Workers' Compensation Act was described by this court in Atchison v. May, 201 La. 1003,10 So. 2d 785 (1942), as social legislation passed for the joint benefit of labor and management.
+
+It can thus be seen that as between the employee and his employer, the employee surrenders his former right to full damages and accepts, instead, compensation measured as a percentage of his wages. See W. Malone & H. Johnson, Workers' Compensation in 13 Louisiana Civil Law Treatise § 32 (1980); 1 A. Larson, The Law of Workmen's Compensation § 1.10 (1981).
+
+The same quid pro quo arrangement is not present in the relationship between the injured worker and a third party tortfeasor. La.R.S. 23:1101 authorizes the employee to proceed against any third party for damages even though he has been awarded compensation by his employer for the same injury. The third party is not entitled to a credit against the amount of damages awarded in the employee's suit for the amount of compensation paid the employee which would have been claimed by the employer or insurer if there had been an intervention pursuant to La.R.S. 23:1102.[1]Richoux v. Grain Dealers Mutual   Ins. Co., 175 So. 2d 883 (La.App. 3d Cir. 1965), certiorari denied 248 La. 366, 178 So. 2d 656; Nunez v. Modern Woodcraft Co., 197 So. 2d 339 (La.App. 4th Cir. 1967); Malone & Johnson, supra, at § 369. Professors Malone and Johnson observe that,
+
+We do not think that a different result should prevail merely because the third party's insurer is insolvent. We therefore hold that a double recovery, in the contemplation of La.R.S. 22:1386(1), does not result where, as in this case, the recipient of workers' compensation benefits receives a stipulated judgment for general damages which does not include lost wages or medical benefits. The provisions of the Insurance Guaranty Association Act must be interpreted to protect claimants and policyholders and to advance their interests rather than the interests of the association. La.R.S. 23:1376; Hickerson, supra; Arnone v. Murphy, 153 N.J.Super. 584,
+380 A.2d 734
+(1977).
+
+The judgment of the court of appeal is reversed and the trial court judgment is reinstated.
+
+CALOGERO, J., concurs and assigns reasons.
+
+MARCUS and BLANCHE, JJ., dissent and assign reasons.
+
+CALOGERO, Justice, concurring.
+
+I concur in the majority opinion because it has been stipulated, and is not disputed, that the $4,900.00 judgment against the tortfeasor and LIGA is for general damages and does not include recovery for lost wages. However, if that point was disputed or if the employer's compensation insurer had intervened,[1] a different result might be in order.
+
+MARCUS, Justice (dissenting).
+
+I agree with the court of appeal that "compensation payments are in lieu of both wage loss and damages for pain and suffering, and that recovery of both compensation payments and damages for pain and suffering is double recovery." Hence, I consider that LIGA is entitled to a credit for the benefits which Senac received from his employer's compensation insurer under La.R.S. 22:1386 (nonduplication of recovery). Accordingly, I respectfully dissent.
+
+BLANCHE, Justice (dissenting).
+
+In the instant case, plaintiff recovered workmen's compensation benefits from Employers Commercial Union Insurance Company. By allowing plaintiff to also recover against LIGA, the majority has ignored the express language of R.S. 22:1386, which provides in pertinent part:
+
+*547 § 1386. Nonduplication of recovery
+
+LIGA was entitled to receive a credit for the workmen's compensation benefits collected by plaintiff. Because the appellate court's opinion was correct, I respectfully dissent.
+
+[1]  The employer's compensation insurer failed to intervene in this action and is thus barred from claiming reimbursement of the benefits paid to the plaintiff. Roche v. Big Moose Oil Field Truck Service,
+381 So. 2d 396
+(La.1980); Todd-Johnson Dry Docks v. City of New Orleans, 55 So. 2d 650 (La.App. Orleans 1951). An intervention by the compensation insurer would be barred by La.R.S. 22:1379(3) which defines "covered claim" (those claims LIGA will be obligated to pay) and specifically excludes from that definition "any amount due any reinsurer, insurer, insurance pool, or underwriting association, as subrogation recoveries or otherwise." See, Ursin, supra. The result reached in this opinion will not, therefore, lead to a "shuffling of funds among insurance companies." Ferrari v. Toto, 9 Mass.App. 483,
+402 N.E.2d 107
+(Suffolk 1980).
+
+[1]  I think the majority is incorrect in its implication (in footnote 1) that an intervention by the compensation insurer would, in this litigation, be barred by La.R.S. 22:1379(3). While it is true that that provision would prevent the compensation insurer from recovering from LIGA, it would not prevent it from recovering from the tortfeasor. See Ursin v. Insurance Guaranty Association,
+412 So. 2d 1285
+(La.1982), On Rehearing.

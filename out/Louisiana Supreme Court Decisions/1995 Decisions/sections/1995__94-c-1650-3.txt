@@ -1,0 +1,122 @@
+94-C-1650
+Columbia Gulf Transmission Co. v. Broussard
+https://law.justia.com/cases/louisiana/supreme-court/1995/94-c-1650-3.html
+
+94-C-1650
+Columbia Gulf Transmission Co. v. Broussard
+Court: Louisiana Supreme Court
+Release date: 1995-04-10
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1995/94-c-1650-3.html
+
+653 So. 2d 522 (1995)
+
+COLUMBIA GULF TRANSMISSION COMPANY
+v.
+Arnold A. BROUSSARD, Secretary of the Department of Revenue and Taxation, State of Louisiana.
+
+No. 94-C-1650.
+
+Supreme Court of Louisiana.
+
+April 10, 1995.
+
+*523 Robert G. Pugh, Pugh, Pugh, & Pugh, Shreveport, for applicant.
+
+James A. Burton, Joseph T. Hamrick, Jr., Simon, Peragine, Smith & Redfearn, New Orleans, for respondent.
+
+Bruce J. Oreck, New Orleans, for Bruce J. Oreck amicus curiae.
+
+John H. Cheatham, III, Washington, DC, for Interstate Natural Gas Ass'n amicus curiae.
+
+WATSON, Justice.[1]
+
+The primary issue is whether LSA-R.S. 47:305E(1) or the United States Constitution's Commerce Clause prohibits a Louisiana use tax on "compressor fuel". Compressor fuel is natural gas which is diverted from an interstate pipeline to power the compressors which propel the natural gas through the pipeline.
+
+Columbia Gulf Transmission Company, a Delaware corporation doing business in Louisiana, transports natural gas from offshore Louisiana to its affiliate in Kentucky through underground interstate pipelines. The gas loses pressure during the journey and is recompressed at four Louisiana compressor stations. Some of the pipeline gas is diverted to the compressor stations, where it powers the engines which boost the interstate gas pressure. The Louisiana Department of Revenue and Taxation seeks to impose a use tax on the compressor fuel which is consumed within the state.
+
+In October of 1988, Columbia filed a petition to recover $10,717.77 in use taxes paid under protest. (Columbia agreed to escrow the use taxes for future months.) Columbia argued that a use tax on natural gas diverted from interstate gas and used solely to propel other interstate gas violates the Commerce Clause of the United States Constitution. Columbia also contended that the compressor fuel does not satisfy the requirements of R.S. 47:305E(1).
+
+The trial court granted Columbia's motion for summary judgment, and the court of appeal affirmed. Columbia Gulf Transmission v. Broussard, 93 1161 (La.App. 1st Cir. 5/20/94), 637 So. 2d 733. A writ was granted, 94-1650 (La. 10/7/94), 644 So. 2d 626, to consider a possible conflict with McNamara v. D.H. Holmes Co., 505 So. 2d 102 (La.App. 4th Cir.1987), writ denied,
+506 So. 2d 1224
+, aff'd,
+486 U.S. 24
+, 108 S. Ct. 1619, 100 L. Ed. 2d 21 (1988), and to otherwise determine whether the summary judgment was legally correct. McNamara held that Louisiana's use tax on department store catalogs mailed into the state by out-of-state printers was valid.
+
+LSA-R.S. 47:305E intends: "to levy a tax on the sale at retail, the use, the consumption, the distribution, and the storage to be used or consumed in this state, of tangible personal property after it has come to rest in this state and has become a part of the mass of property in this state."
+
+The statute clearly intends taxation of property consumed in the state. Columbia contends that the natural gas consumed as compressor fuel has not come to rest in the state and has not become a part of the mass of property in the state. One state has held   that compressor fuel does not come to rest and become a part of the state's mass of property merely because it is consumed. Texas Gas Transmission Corp. v. Benson, 223 Tenn. 279,
+444 S.W.2d 137
+(1969). We disagree.
+
+When the natural gas compressor fuel is consumed, it comes to rest and becomes a part of the state's property. Fuel must necessarily come to rest as it is consumed. It ceases to exist; it is terminated; it is used in Louisiana; it cannot be taxed in another state. Thus, the natural gas is subject to tax when it is consumed in the state under the language of the statute.
+
+The next question is whether this use taxation is permitted by the Commerce Clause of the United States Constitution. Helson v. Commonwealth of Kentucky,
+279 U.S. 245
+, 49 S. Ct. 279, 73 L. Ed. 683 (1929), decided that a use tax on fuel consumed by an interstate ferry boat was an unconstitutional burden on an instrumentality of interstate commerce. Midwestern Gas v. Wisconsin Dept. of Revenue, 84 Wis.2d 261,
+267 N.W.2d 253
+(1978), cert. denied 439 U.S. 997, 99 S. Ct. 598, 58 L. Ed. 2d 670 (1978), and Michigan Wisconsin Pipe Line v. State, 58 Mich.App. 318, 227 N.W.2d 334 (1975), two other compressor fuel cases, were decided on Commerce Clause grounds. Both followed Helson. However, Helson has been superseded by Complete Auto Transit, Inc. v. Brady,
+430 U.S. 274
+, 97 S. Ct. 1076, 51 L. Ed. 2d 326 (1977). Under Complete Auto Transit, Inc. v. Brady, a state tax statute which affects interstate commerce may survive a commerce clause challenge if the tax: (1) is applied to an activity having a substantial nexus with the taxing state; (2) is fairly apportioned; (3) does not discriminate against interstate commerce; and (4) is fairly related to the state's services.
+
+Questar Pipeline v. Tax Com'n,
+817 P.2d 316
+(Utah 1991), held that gas used by a pipeline company's Utah compressor stations was subject to the state's use tax. Questar decided that consumption of the compressor fuel came within the state's statute and met the Commerce Clause test of Complete Auto. Similarly, in Pledger v. Arkla, Inc., 309 Ark. 10, 827 S.W.2d 126 (1992), cert. denied ___ U.S. ___, 113 S. Ct. 203, 121 L. Ed. 2d 144 (1992), the Arkansas Supreme Court determined that compressor fuel consumed in the state was subject to the state sales tax. The Arkansas Court relied on Complete Auto and noted that the gas consumed in Arkansas would not be subject to taxation in any other state.
+
+Columbia's gas production has a substantial nexus with the State of Louisiana. Columbia's pipeline and four compressor stations carry natural gas from offshore Louisiana to the state's borders. Columbia pays Louisiana taxes on its employees and activity in the state.
+
+There is no discrimination against interstate commerce. The tax is applied equally to intrastate and interstate pipelines. Gas in interstate commerce is taxed equally with intrastate gas when both are consumed within the state.
+
+The tax is fairly apportioned because it is imposed only on gas actually consumed in Louisiana's compressor stations. The gas is measured as it is removed and consumed. No other state can tax the same gas. The tax is fairly related to benefits provided by Louisiana. Columbia's employees enjoy Louisiana's roads, schools, fire and police protection. Columbia has the right to expropriate Louisiana private property. LSA-R.S. 19:2(5). Columbia's compressor fuel is fairly taxed because of the company's "significant economic presence in Louisiana, its many connections with the State, and the direct benefits it receives from Louisiana in conducting its business." D.H. Holmes Co., Ltd. v. McNamara,
+486 U.S. 24
+, 33, 108 S. Ct. 1619, 1624, 100 L. Ed. 2d 21, 29 (1988).
+
+Mississippi imposes a tax on the natural gas used to fuel Mississippi compressors. Tennessee Gas Pipeline Co. v. Marx,
+594 So. 2d 615
+(Miss.1992). Marx held that use taxes on compressor fuel met the four prongs of the Complete Auto test and did not violate the Commerce Clause.
+
+Since the use tax on compressor fuel is valid under the Louisiana statute and the United States Constitution's Commerce Clause, a secondary issue arises and that is the Department of Revenue and Taxation's   right to attorney's fees under LSA-R.S. 47:1512. The statute provides:
+
+The collector employed private counsel to represent the state in the appeal of this case and a ten percent surcharge for attorney's fees may be due by the tax debtor.
+
+For the foregoing reasons, the summary judgment in favor of Columbia Gulf Transmission Company is reversed, and the case is remanded to the trial court for further proceedings.
+
+REVERSED AND REMANDED.
+
+LEMMON, J., concurs and assigns reasons.
+
+NORRIS, J., dissents and assigns reasons.
+
+NORRIS, Justice, dissenting.
+
+I respectfully dissent. Columbia has met its burden of proving its entitlement to summary judgment under La.R.S. 47:305 E.
+
+First, there is no genuine issue as to material fact. The majority ignores the record below; Columbia's Vice President of Operations, by sworn affidavit, stated that the fuel never comes to rest, but rather flows continuously without interruption from the interstate pipeline until it is consumed only seconds later in the compressor engines. Significantly, the State never contested this.
+
+Columbia is also entitled to summary judgment as a matter of law. As noted by the majority, R.S. 47:305 E intends taxation of property consumed in the state. More specifically, however, the statute intends to tax the consumption of the fuel only after it has come to rest in this state and formed a part of the mass of property in this state. In fact, this language defines the bounds of taxation as the legislature has clearly expressed its intent not to tax bona fide interstate commerce. We must construe this statute in light of the law as it existed at the time of its enactment. Tennessee Gas Transmission Co. v. Violet Trapping Co., 248 La. 49,
+176 So. 2d 425
+(1965). Notably, although the legislature has periodically amended other provisions under § 305, it has never changed this language.
+
+Though quick to reject Tennessee jurisprudence precisely on point, neither the State nor the majority has provided any legal authority for the proposition that compressor fuel under these facts comes to rest and forms a part of the mass of property in this state prior to its consumption. Moreover, in my opinion the majority misstates the holding in Benson. The court did not address whether the gas came to rest when it was consumed; rather the key issue was whether the fuel came to rest at any time between its separation from the mainline and its ultimate consumption in the compressor engine, and the court held it did not. The majority also omits any discussion of Michigan Wisconsin Pipe Line Co. v. State, 58 Mich.App. 318, 227 N.W.2d 334 (1975) and Midwestern Gas Transmission Co. v. Department of Revenue, 84 Wis.2d 261,
+267 N.W.2d 253
+(1978), cases from two other states which have favorably cited Benson and rejected a tax on compressor fuel under the same facts. In both cases, the courts determined that the compressor fuel never came to rest in the state and that its consumption was a necessary and integral part of interstate commerce. See Helson & Randolph v. Kentucky,
+279 U.S. 245
+, 49 S. Ct. 279, 73 L. Ed. 683 (1929). In relying on Helson, these courts applied the federal jurisprudence in effect at that time, imposing a per se ban on taxing interstate commerce; it was therefore necessary to establish whether the transaction at issue was interstate commerce, an integral part of interstate commerce or sufficiently removed from interstate commerce.
+
+Complete Auto Transit Inc. v. Brady,
+430 U.S. 274
+, 97 S. Ct. 1076, 51 L. Ed. 2d 326 (1977), has superseded Helson insofar as federal law now recognizes that interstate commerce may be subject to taxation in some instances; the court's decision, however, does   not require states to tax interstate commerce to the fullest extent allowed by federal law. Many other states' sales/use tax statutes are expressly coextensive with federal law; they prohibit the tax only when it is prohibited by the constitution or laws of the United States. See Kellogg Company v. Department of Treasury, 204 Mich.App. 489, 516 N.W.2d 108 (1994); Questar Pipeline Co. v. State Tax Commission,
+817 P.2d 316
+(Utah 1991); Midwestern Gas Transmission Co. v. Department of Revenue, supra. However, Louisiana has retained both the sales/use tax exclusion barring a tax on interstate commerce and the language narrowly defining the transactions deemed to be outside of interstate commerce. The rationale in Helson remains relevant to this inquiry. Moreover, the exclusion is to be construed liberally in favor of the taxpayer and against the taxing authority. Tarver v. World Ship Supply Inc., 615 So. 2d 423 (La.App. 4th Cir.), writ denied,
+616 So. 2d 672
+(1993), quoting Oreck, Louisiana Sales & Use Taxation, § 3.1.
+
+The exercise of the power of taxation is vested exclusively in the state legislature. Radiofone Inc. v. City of New Orleans, 93-0962 (La. 1/14/94),
+630 So. 2d 694
+. It is our duty to apply the law as written and give effect to the legislative intent as it exists today. The majority, with a mere wave of the hand, has effectively dismissed the "comes to rest" requirement under our law. The decision to remove the per se ban on taxing interstate commerce and its accompanying limitations properly lies with the legislature, not this court.
+
+Because Columbia has shown that the compressor fuel does not come to rest and form a part of the mass of property in this state, and Louisiana law expressly excludes the taxation of interstate commerce, I would affirm the lower courts' grant of summary judgment.
+
+[1]  Judge William Norris, III, Court of Appeal, Second Circuit, participating as Associate Justice Pro Tempore, in place of Associate Justice Pike Hall, Jr.
+
+Dennis, J., not on panel. Rule IV, § 3.

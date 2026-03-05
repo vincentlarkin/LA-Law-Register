@@ -1,0 +1,95 @@
+87-KK-0044
+State v. Matthieu
+https://law.justia.com/cases/louisiana/supreme-court/1987/87-kk-0044-1.html
+
+87-KK-0044
+State v. Matthieu
+Court: Louisiana Supreme Court
+Release date: 1987-05-18
+Author: COLE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/87-kk-0044-1.html
+
+506 So. 2d 1209 (1987)
+
+STATE of Louisiana
+v.
+Randolph MATTHIEU.
+
+No. 87-KK-0044.
+
+Supreme Court of Louisiana.
+
+May 18, 1987.
+
+*1210 William J. Guste, Jr., Atty. Gen., J. Nathan Stansbury, Dist. Atty., Carrol Spell, Jr., Asst. Dist. Atty., for applicant.
+
+Lee Gallaspy, Lafayette, for respondent.
+
+COLE, Justice.
+
+This is a second degree murder prosecution in which the defendant, Randolph Matthieu, moved to suppress evidence obtained during a search of his residence. The trial court granted defendant's motion, and the Court of Appeal denied writs finding no error in the ruling. The primary issue is whether or not the murder weapon seized at defendant's residence, pursuant to a search warrant, should be suppressed on grounds his residence is located outside the territorial jurisdiction of the court which issued the warrant.
+
+The victim, Norris Foreman, was last seen leaving the C'est La Guerre Lounge in Lafayette in the company of another man, on August 8, 1982. Two days later, Foreman's body was found floating face down in a drainage canal. He had been stabbed, shot several times with a .22 caliber weapon, and his throat had been cut.
+
+Nine months later, on May 14, 1983, Randolph Matthieu entered the C'est La Guerre Lounge and was recognized as the person who had left the lounge with Foreman on the night he was killed. The Lafayette City Police were notified and the defendant was questioned. However, because the defendant declined to answer any questions about the murder without consulting an attorney, questioning was terminated and the officers allowed him to leave. On May 16, 1983, Detective Robert Johnson obtained a warrant for defendant's arrest for the murder of Norris Foreman. On the same day, the detective also applied for and obtained a warrant to search defendant's home in Arnaudville, Louisiana. Both warrants were signed by a district court judge in Lafayette Parish, of the 15th Judicial District. This district is comprised of Acadia, Lafayette, and Vermillion Parishes. The warrants were executed the same day. In the search of defendant's residence a .22 caliber rifle was found, which testing later demonstrated to be the murder weapon. After defendant's arrest at his residence, he was booked first into the jail in St. Martinville, in St. Martin Parish, and was then transferred to the jail in the city of Lafayette. Defendant was subsequently indicted for second degree murder.
+
+Defendant sought exclusion of the seized evidence on two grounds. He argued the search warrant was facially defective because it purported to authorize a search at an address which did not lie within the territorial jurisdiction of the issuing court. Code Crim.P. art. 161. He also asserted the information relied on was too stale or remote in time to establish the requisite probable cause.
+
+The hearing on the motion to suppress was delayed approximately three years. During this time defendant was at large as a fugitive, after obtaining an ex parte order permitting him to leave the state. Following his apprehension and return to Louisiana, a hearing was held September 9, 1986. The trial court ultimately granted relief on the ground the police knowingly executed the warrant outside the jurisdiction of the issuing court. There was no specific ruling on defendant's second ground pertaining to the existence of probable cause, and we do not consider that issue.
+
+The State conceded at the hearing defendant's home was located in St. Martin Parish, and the trial court found as a matter of fact the property was located 100 to 150 yards outside of Lafayette Parish on a rural route. Thus, the search was conducted outside the jurisdiction of the issuing court and was violative of Code Crim.P. art. 161. However, the court was persuaded initially the officers were in good faith, honestly believing at the time of the   search they were still within the territorial jurisdiction of Lafayette Parish. The court stated it was not until the search was completed that the officers discovered they were in St. Martin Parish. Relying on the rationale of U.S. v. Leon,
+468 U.S. 897
+, 104 S. Ct. 3405, 82 L. Ed. 2d 677 (1984), and absent any misconduct or impropriety on the part of the police, the court did not agree the defendant was entitled to exclusion of the evidence seized under the warrant. Consequently, the motion to suppress was denied.
+
+The next day, however, on September 10, 1986, events occurred which caused the court to reassess its ruling. On this day the State advised the trial court of conflicting facts contained in the contemporaneous police reports, which indicated the testimony of the previous day was inaccurate. The court conducted an in camera examination of the police reports which, according to the court, showed defendant was arrested at 10:47 A.M. on May 16. The reports also showed he was booked into the St. Martin Parish jail at 12:05 that same day, and the search was conducted shortly after 3:00 P.M. Because the arresting officer, Detective Dale Broussard,[1] had testified defendant told him they were in St. Martin Parish as defendant was being handcuffed, the court apparently determined the arrest marked the last point in time at which police could reasonably possess a good faith belief they were still within the jurisdiction of the court which authorized the search. The court imputed the knowledge of Detective Broussard to Detective Johnson who was the primary officer on the case and who directed the search.[2] With such imputed knowledge, the objective good faith standard which was the touchstone of Leon was no longer applicable. As a result, the court changed its ruling of the previous day and granted the motion to suppress.
+
+The State in brief relies on three main arguments. It first contends the search warrant complied completely with Art. 1, Section 5 of the La. Constitution, and because there was nothing unconstitutional about the manner in which the warrant was obtained, suppression of the evidence is not appropriate under Code of Crim.P. art. 703 where there is no culpability or wrongdoing on the part of the police. Because there was neither a Fourth Amendment violation or Art. 1, § 5 violation, and thus no constitutional violation, the State asserts the exclusionary rule should not apply. Secondly, the State asserts under Leon, supra, the Fourth Amendment exclusionary rule should not be applied as a bar to the use of evidence obtained by officers acting in reasonable reliance on a search warrant issued by a detached and neutral magistrate, but ultimately found to be invalid. This is especially true it is argued, where there has been no misconduct or ill practice on the part of the officers. In the alternative, the State also urges the evidence seized should be admissible on the ground it would ultimately or inevitably have been discovered with or without a constitutional violation, under the inevitable discovery exception to the exclusionary rule adopted in Nix v. Williams,
+467 U.S. 431
+, 104 S. Ct. 2501, 81 L. Ed. 2d 377 (1984).
+
+We find no constitutional violation occurred as a result of the search taking place outside the territorial jurisdiction of the court issuing the warrant, and we find the police were not guilty of ill practices or misconduct. We therefore reverse the judgment of the lower court. It is unnecessary to address the State's final argument pertaining to the doctrine of inevitable discovery.
+
+A search warrant may issue only upon an affidavit containing sufficient facts to establish probable cause exists to search the premises named for the object sought. This must be established to the satisfaction of a neutral and detached magistrate. La.   Const. Art. 1, § 5 (1974); Code Crim.P. art. 162; State v. Klar,
+400 So. 2d 610
+(La.1981). The search warrant must describe particularly the place to be searched, the persons or things to be seized, and the lawful purpose or reason for the search. La. Const. Art. 1, § 5 (1974); Code Crim.P. art. 162. Pretermitting the issue of probable cause, we note the legal requirements for issuance of a valid search warrant have been fulfilled. Defendant does not claim the affidavit supporting it was false, that the issuing magistrate was insufficiently competent or neutral, or that the search was otherwise unreasonable.
+
+The Fourth Amendment to the U.S. Constitution does not prescribe a remedy for its violation. The exclusionary rule was adopted to effectuate the Fourth Amendment right of all citizens "to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures...." The primary purpose of the exclusionary rule is to deter future unlawful police conduct. It is designed not to redress the injury to the privacy of the victim of the search, but to deter unconstitutional methods of law enforcement. U.S. v. Calandra,
+414 U.S. 338
+, 94 S. Ct. 613, 38 L. Ed. 2d 561 (1974); State v. Davis,
+375 So. 2d 69
+(La.1979). The rule is thus not to be imposed in a vacuum or administered automatically or mechanically, but is to be applied with its deterrent effect in mind. Calandra, supra; Davis, supra. It does not purport to reach all illegal conduct of officers, and does not apply to deter wrongful or improper official conduct that does not violate a person's reasonable expectation of privacy under the Fourth Amendment. United States v. Butts, 729 F.2d 1514 (5th Cir.), cert. denied, 469 U.S. 855, 105 S. Ct. 181, 83 L. Ed. 2d 115 (1984).
+
+In Leon, the Supreme Court held evidence seized under a constitutionally defective warrant should not be suppressed where the officers acted in good faith, and in objectively reasonable reliance on the validity of the warrant. In Leon, the warrant was defective because it was not supported by the requisite probable cause. The Court in Leon noted early cases such as Mapp v. Ohio,
+367 U.S. 643
+, 81 S. Ct. 1684, 6 L. Ed. 2d 1081 (1961), had stated the exclusionary rule is a necessary corollary of the Fourth Amendment, but subsequent cases rejected this view. Leon went on to say whether the sanction of exclusion is appropriately imposed in a particular case is a question which "must be resolved by weighing the costs and benefits of preventing the use of ... inherently trustworthy tangible evidence...." Leon, 104 S. Ct.  at 3412.
+
+The Supreme Court in Leon required objective reasonableness to avoid suppression where the Fourth Amendment had been violated. No such violation occurred in the case under consideration. Consequently, we believe a less stringent standard is appropriate where we are not concerned with deterring unconstitutional conduct. Our law, both statutorily and jurisprudentially, stresses the importance of constitutional violations in cases involving the exclusionary rule. Code Crim.P. art. 703(A) provides a defendant adversely affected may move to suppress any evidence from use at trial on the ground it was unconstitutionally obtained. Similarly, in State v. Bienvenu, 260 La. 1023, 258 So. 2d 72 (La.1972), we stated in Footnote 1 the following:
+
+We are not persuaded the evidence here was obtained by an unconstitutional search. Rather, the search here was violative of a procedural rule, Art. 161 of the Code of Criminal Procedure, which provides, in pertinent part: "A judge may issue a warrant authorizing the search for and seizure of any thing within the territorial jurisdiction of the court...." (Emphasis added.) The testimony here established conclusively the search was conducted outside the territorial limits of the issuing court. However,   the record shows this technical error was due to confusion as regards the parish in which defendant's home was located, created because the three parishes of St. Landry, St. Martin, and Lafayette converge in this area. The testimony of one detective who was a life-long resident of the area shows clearly he believed he was in Lafayette Parish when the warrants were executed. Another detective, who lived about two miles from the defendant and like defendant was a resident of Arnaudville, confirmed it is not easy to determine precisely where parish boundary lines were located. Moreover, there is no evidence here of any misconduct on the part of the police such as "judge shopping." The warrant could just as easily have been obtained from a court within the proper judicial district.
+
+In United States v. Payner,
+447 U.S. 727
+, 100 S. Ct. 2439, 2446 n. 7, 65 L. Ed. 2d 468 (1980), the Court stated Federal courts have used their supervisory power in some situations to exclude evidence taken from the defendant by "willful disobedience of law." Similarly, Justice Marshall's dissenting opinion in Payner, joined in by Justices Brennan and Blackmun, observes:
+
+Here, by contrast, we are being asked to let "the criminal go free," not due to a knowing or intentional violation of law by the police, but merely because they "blundered" in the very sense spoken of above. The law enforcement officers in this case made an honest error of judgment when they executed the warrant outside the boundary lines of Lafayette Parish. Given the primary purpose behind the exclusionary rule, suppression is not a proper sanction under these circumstances.
+
+We find support for our holding in the recent case of U.S. v. Comstock, 805 F.2d 1194 (5th Cir.1986), where defendant contended the controlled substances seized must be suppressed because the state court search warrant was issued by a Texas justice of the peace, which is not a judge of "a state court of record" as required by Fed. R.Crim.P. 41(a). The court, applying the balancing approach set forth in Leon, evaluated the costs and benefits of suppressing the evidence. It held where there is no constitutional violation or prejudice in the sense that the search would likely not have occurred or been as abrasive or intrusive had Rule 41 been followed, suppression was not appropriate. The court explained Rule 41 was not knowingly and intentionally violated, and the officers did not act in "reckless disregard or conscious indifference" to whether it was complied with. The court added the officers' conduct did not have to be objectively reasonable as was required in Leon. It reasoned this lower standard was appropriate where there was no concern with deterrence of unconstitutional conduct.
+
+In evaluating the costs and benefits of suppressing the evidence obtained by the search, the Comstock court stated:
+
+*1214 In our balancing of the costs and benefits of excluding the highly reliable physical evidence seized during the challenged search of defendant's residence, we conclude the weapon should receive similar treatment, and hold the trial court erred in suppressing it because the search took place outside the territorial jurisdiction of the court issuing the warrant. The judgment below is reversed and the case is remanded for further proceedings in accordance with law.
+
+REVERSED AND REMANDED.
+
+DENNIS, J., concurs with reasons.
+
+DENNIS, Justice, concurring.
+
+I respectfully concur.
+
+Neither the Louisiana Constitution, Article I, § 5, nor the United States Constitution, Fourth Amendment, requires the suppression of evidence simply because the magistrate issuing the search warrant failed to observe territorial boundaries provided by the Code of Criminal Procedure, article 161. With respect to search warrant issuances, these boundaries serve primarily to distribute the workload in criminal investigations throughout the state. Because there has been no constitutional violation, there is no need for discussion of the so-called "good faith" exception to the exclusionary rule. The Leon and Comstock cases are inapposite.
+
+[1]  Detective Broussard, in addition to being a member of the Lafayette police department, held a State Police commission and was thus empowered to make the arrest in St. Martin Parish.
+
+[2]  Detective Johnson testified he was not informed defendant's residence was outside Lafayette parish or that the location was in question.

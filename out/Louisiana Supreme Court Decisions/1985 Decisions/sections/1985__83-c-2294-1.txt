@@ -1,0 +1,161 @@
+83-C-2294
+Fertitta v. Allstate Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1985/83-c-2294-1.html
+
+83-C-2294
+Fertitta v. Allstate Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1985-01-14
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1985/83-c-2294-1.html
+
+462 So. 2d 159 (1985)
+
+Andrea Clesi FERTITTA and Jack Gathian Fertitta
+v.
+ALLSTATE INSURANCE COMPANY, et al.
+
+Nos. 83-C-2294, 83-C-2616.
+
+Supreme Court of Louisiana.
+
+January 14, 1985.
+
+Rehearing Denied March 21, 1985.
+
+*161 Donald R. Smith, Ellison & Smith, Baton Rouge, for applicant in No. 83-C-2294 and for respondents in No. 83-C-2616.
+
+Stephen E. Broyles, Glusman, Moore, Wilkinson, Arbour, Broyles & Glusman, Baton Rouge, for respondents in No. 83-C-2294 and for applicant in No. 83-C-2616.
+
+Ben F. Day, Olds & Day, Baton Rouge, for respondents in both cases.
+
+LEMMON, Justice.
+
+This case presents the issue of whether the tort victim's judgment against the tortfeasor for the full amount of the victim's damages should be reduced by the amount of the victim's pretrial settlement with his underinsured motorist carrier, when the latter as part of the settlement has waived any right of reimbursement or subrogation.
+
+Plaintiff, Andrea Fertitta, while riding as a passenger in the family automobile driven by her husband, was injured in an accident caused by the negligence of Paula McCarron. In her suit against McCarron and McCarron's liability insurer, Allstate Insurance Company, plaintiff also joined State Farm Mutual Automobile Insurance Company as the uninsured motorist insurer of her vehicle. McCarron in turn filed a third-party demand against her liability insurer, Allstate, seeking recovery over against Allstate for any judgment in excess of the policy limits on the basis that Allstate did not act fairly and in good faith in settlement negotiations.
+
+On the morning of trial, plaintiff compromised her claim against her uninsured motorist carrier for $32,000 under a policy that had $50,000 limits of coverage. As part of the settlement, State Farm waived any right to subrogation or other reimbursement in the event plaintiff recovered by judgment or settlement against other parties liable for her damages.[1]
+
+After trial on the merits, the trial court fixed plaintiff's damages in the amount of $48,701.11 ($40,000 in general damages and $8,701.11 in special damages). The court (1) granted plaintiff judgment against McCarron in that amount and decreed Allstate solidarily liable with McCarron to plaintiff up to the $10,000 limits of its policy, and (2) granted McCarron judgment on her third-party demand against Allstate for the amount awarded to plaintiff in excess of the policy limits. The court further ruled that the $32,000 settlement by plaintiff with her uninsured motorist carrier had no effect on the amount of the judgment against McCarron and Allstate, since uninsured motorist coverage was designed to benefit the tort victim and not the tortfeasor.
+
+On appeal, McCarron and Allstate contended, among other things, that the judgment of $48,701.11, representing plaintiff's total damages, should be reduced by $32,000, the amount plaintiff received from her   uninsured motorist carrier as partial payment of her total damages. The court of appeal rejected this contention, reasoning that "Allstate's liability was extended to all amounts over its policy limits because of its improper handling of the claim" and that there was "no solidary obligation between Allstate and State Farm since State Farm's obligation does not come into effect until Allstate's obligations have been fulfilled". 439 So. 2d 531. We granted certiorari.[2] 442 So. 2d 475.
+
+Citing La.C.C. Art. 2091 and Hoefly v. Government Employees Insurance Co.,
+418 So. 2d 575
+(La.1982), McCarron and Allstate argue that the victim's uninsured motorist carrier is solidarily liable with the tortfeasor and that partial payment of the debt by one solidary obligor exonerates the other to that extent toward the creditor.
+
+In Hoefly, this court held that the uninsured motorist carrier is solidarily liable with the tortfeasor because both obligors are obliged to the same thing so that each obligor may be compelled for the whole. See La.C.C. Art. 2091. This court stated:
+
+A solidary obligation between the tortfeasor and the victim's uninsured motorist carrier may arise either when the tortfeasor is uninsured or when the tortfeasor's liability coverage is less than the amount of damages sustained by the tort victim.[3] The present case involves damages caused by an underinsured tortfeasor. Thus, both State Farm (the uninsured motorist carrier) and McCarron (the tortfeasor) were legally bound by separate provisions of law to repair plaintiff's damages in the amount that those damages exceeded the $10,000 limits of McCarron's liability policy, or $38,701.11.[4] McCarron and Allstate therefore contend that since the obligation between State Farm and McCarron was solidary, the payment of $32,000 by State Farm to plaintiff should have exonerated McCarron toward the plaintiff to that extent.
+
+The court of appeal reasoned that Allstate's improper handling of the claim extended its liability beyond its policy limits to the entire amount of the judgment and thus had the effect of destroying solidarity, since the uninsured motorist carrier's obligation does not begin until the tortfeasor's liability insurer's obligation is exhausted. We disagree. Although the judgment against Allstate did extend its liability to its insured beyond the $10,000 policy limits, the judgment did not increase Allstate's liability to plaintiff. Allstate was liable to plaintiff, by virtue of the insurance policy, only for $10,000 (although Allstate was liable to McCarron, by virtue of the judgment on McCarron's third party demand, for the amount of the judgment on the principal demand in excess of the policy limits). Because of its mishandling the claim, Allstate was liable to the insured   tortfeasor for the excess $38,701.11, but was not liable to plaintiff on that basis.
+
+We therefore conclude that the court of appeal erred in rejecting solidary liability on the basis of that reasoning.
+
+Plaintiff argues, however, that Hoefly should be reconsidered or, even if Hoefly is followed, that the purpose of uninsured motorist coverage is not served by reducing the obligation of the tortfeasor who has no rights of contribution or indemnity against the uninsured motorist carrier and who rightfully should bear the entire loss caused by her negligence.
+
+We reaffirm Hoefly. An obligor who, because of some provision of law, is liable to repair the damages caused by the tortfeasor is solidarily liable with the tortfeasor, despite the independent sources of liability and despite statutory and policy conditions limiting liability to some extent. Both are obliged to the same thing, because that which each is bound to doto repair the tort damageis essentially one and the same thing. This is the essential requirement for a determination of solidarity.[5]
+
+Because the two debtors are solidarily bound, the creditor can demand performance of the entire obligation from either obligor as if he were the sole debtor. Moreover, payment (or partial payment) to the creditor by one debtor exonerates the other debtor from having to make that payment to the creditor (although the debtor who pays may have resulting rights against the other debtor). Stated otherwise, when the liability is solidary, the creditor cannot collect more than the full amount of the debt for the single or combined payments of the debtors. Therefore, solidarity is not inconsistent with the purpose of providing full recovery to the tort victim.
+
+If State Farm had paid $32,000 to plaintiff without executing the waiver, undoubtedly State Farm could recover that amount from the proceeds of the judgment against McCarron. La.R.S. 22:1406D(4).[6] See also La.C.C. Art. 2106. Under those circumstances, plaintiff clearly would only be entitled   to the proceeds of the judgment in excess of $32,000.
+
+However, the uninsured motorist carrier in this case waived reimbursement and subrogation (presumably because the offer to save part of the policy limits was attractive and the prospect of recovery from the uninsured motorist was not). As a result, either plaintiff will recover more than her judicially determined damages or the tortfeasor will reap the benefits of the uninsured motorist carrier's having paid a substantial portion of the plaintiff's damages in excess of the tortfeasor's insurance coverage. Inasmuch as the plaintiff paid premiums for her underinsured motorist coverage, arguably she should receive any "windfall" in preference to the tortfeasor.[7] Nevertheless, the Civil Code expressly provides that payment by one solidary obligor exonerates the other toward the creditor to the extent of that payment, and the solidary obligor who makes the payment cannot by agreement with the creditor affect the right of the other solidary obligor to exoneration to the extent of the payment.[8]
+
+We therefore conclude that the $32,000 payment on the solidary obligation by State Farm must be imputed to the debt owed by McCarron, the other solidary obligor.
+
+This conclusion prevails, even if we accept plaintiff's argument that the uninsured motorist carrier should be regarded merely as a surety, because of La.C.C. Art. 2206, which at the time of this litigation provided:
+
+Thus, if two debtors are solidarily bound for a debt and "the affair for which the debt has been contracted in solido concern[s] only one of the coöbligors", that obligor [as between the two] is liable for the whole debt and the other is considered only as his surety. La.C.C. Art. 2106. Nevertheless, even if the law of suretyship is applied, La.C.C. Art. 2206 requires that a   payment to the creditor by a surety must be imputed to the debt.[9]
+
+Accordingly, the judgment of the trial court is amended so that the amount of the judgment against Paula McCarron, after all credits, is $6,071.11.[10] As amended, the judgment in No. 83-C-2294 is affirmed. The judgment of the court of appeal in No. 83-C-2616, denying a motion to dismiss Paula McCarron's appeal, is also affirmed.[11]
+
+MARCUS and BLANCHE, JJ., concur and assign reasons.
+
+DIXON, C.J., dissents with reasons.
+
+WATSON, J., dissents for the reasons assigned by DIXON, C.J.
+
+BLANCHE, Justice (concurring).
+
+See my dissent in Hoefly v. Government Employees Ins. Co.,
+418 So. 2d 575
+(La. 1982), and my concurrence in Carona v. State Farm Ins. Co.,
+458 So. 2d 1275
+(La. 1984). Nonetheless I would have reached the same result as the majority because plaintiff's claim against the tortfeasor for damages would have been reduced by the amount he had previously recovered from his U/M carrier.
+
+MARCUS, Justice (concurring).
+
+I do not consider that a tortfeasor and a U/M carrier are "obliged to the same thing" and thus are solidary obligors. (See my dissent in Hoefly v. Government Employees Insurance Co.,
+418 So. 2d 575
+(La. 1982), and my concurrent in Carona v. State Farm Insurance Co.,
+458 So. 2d 1275
+(La.1984)). I therefore disagree with the reasoning of the majority. However, since La.Civ.Code art. 2315 limits a plaintiff's recovery to repair of the tort damage incurred, plaintiff's award should be reduced by the amount received in settlement with her U/M carrier. Accordingly, I concur in the result reached by the majority.
+
+DIXON, Chief Justice (dissenting).
+
+I respectfully dissent.
+
+Contrary to C.C. 2094, the majority has granted the defendants' plea of division. C.C. 2094 prohibits this.
+
+See Hoefly v. Government Employees Insurance Co.,
+418 So. 2d 575
+, 578 (La.1982).
+
+C.C. 2206 does not apply to these solidary obligors. C.C. 2206 applies only to sureties.
+
+These defendants were not sureties in any sense, but were solidary obligors. See   Louisiana Bank & Trust Co. v. Boutte,
+309 So. 2d 274
+(La.1975).
+
+The court of appeal was correct.
+
+Nobody benefits from this decision except the guilty driver and the negligent insurer, all at the expense of the innocent victim.
+
+WATSON, J., concurs.
+
+[1]  The contract of compromise included the following provisions:
+
+"Notwithstanding anything herein or in the policy of insurance issued by State Farm Mutual Automobile Insurance Company to the contrary, appearer [plaintiff] specifically reserves all rights necessary to proceed against any and all other persons on causes of action arising from the accident aforementioned and recover the full amount of any judgment or settlement without any reimbursement or payment to State Farm Mutual Automobile Insurance Company out of the proceeds of any recovery.
+
+"Furthermore, it is agreed that the provisions of PART IVPROTECTION AGAINST UNINSURED MOTORISTS, `Trust Agreement', shall not apply to this payment and that, notwithstanding any provisions of the policy or the law of Louisiana to the contrary, no subrogation or other rights, legal or conventional, are granted to State Farm Mutual Automobile Insurance Company by appearer in connection herewith."
+
+[2]  The grant was limited to the issue of credit to the tortfeasor on account of partial payment of tort damages by the uninsured motorist carrier.
+
+[3]  La.R.S. 22:1406D(1)(a) requires liability insurers to provide uninsured and underinsured motorist coverage. The insurer who pays its insured under such coverage is entitled to be reimbursed from the proceeds of any settlement or judgment obtained by its insured against the tortfeasor. La.R.S. 22:1406D(4).
+
+[4]  McCarron and Allstate were solidarily liable for the first $10,000, as properly adjudicated by the trial court.
+
+[5]  Perhaps the most difficult problem in solidarity cases is separating conceptually the requirements of solidarity from the consequences of solidarity. Articles 2082 and 2091 set forth the requirement of solidarity that the debtors are obliged to the same thing in that each is separately bound to perform the whole of the obligation. As a consequence, each may be compelled for the whole, but payment by one exonerates the other as to the creditor, who cannot collect more than the whole amount of the debt. (Other consequences, of course, are involved as to the rights of the debtors among themselves.)
+
+In cases in which solidarity results from a contract between the parties, as in a promissory note, the determination of solidarity is relatively simple because the intention to be bound solidarily must be express. When two parties bind themselves in solido for the same debt in the same instrument, the requirements of solidarity are fulfilled, and the consequences are (1) that each may be compelled to pay the whole debt and (2) that payment by one debtor exonerates the other toward the creditor, who cannot collect the entire debt from each. The difficult cases are those in which solidarity is imposed by law on two parties with different sources of liability, and there is a tendency to determine the existence of solidarity by inquiring whether the consequences of solidarity should flow from the relationship between the parties. For example, one might inquire if the relationship among the creditor and the various debtors is such that the creditor ought not be allowed to collect the entire debt from each of the debtors and then reason from that inquiry that the debt is or is not solidary. While this may be a legitimate inquiry into whether the Legislature intended the consequences of solidarity, discussion of the consequences as part of the determination of the existence of solidarity has been confusing in judicial decisions.
+
+[6]  La.R.S. 22:1406D(4) provides:
+
+"D. The following provisions shall govern the issuance of uninsured motorist coverage in this state.
+
+* * * * * *
+
+"(4) In the event of payment to any person under the coverage required by this Section and subject to the terms and conditions of such coverage, the insurer making such payment shall, to the extent thereof, be entitled to the proceeds of any settlement or judgment resulting from the exercise of any rights of recovery of such person against any person or organization legally responsible for the bodily injury for which such payment is made, including the proceeds recoverable from the assets of the insolvent insurer."
+
+[7]  This is the collateral source argument submitted by plaintiff. We differentiate, however, between uninsured motorist coverage and other types of first party coverage. Louisiana law requires motorists to carry liability insurance, and the uninsured motorist law requires liability insurers to include uninsured motorist coverage (unless expressly rejected by the insured).
+
+Because liability for the damages caused by the tortfeasor is imposed by law on the uninsured motorist carrier, that insurer is solidarily liable with the tortfeasor to repair those damages. In the case of medical payments or collision coverage, because only the contract (and not the law) imposes the obligation on the insurer to repair some of the damages caused by the tortfeasor, there arguably is no solidary liability. (Moreover, the insured must specifically request that coverage, and medical payment and collision insurers are contractually liable for any medical expenses or collision damages, not just those expenses and damages caused by the tortfeasor.) Therefore, while the collateral source rule perhaps would apply to payments under medical payments or collision coverage (in the absence of a subrogation agreement), the rule does not apply to payments under uninsured motorist coverage. Compare Wheelahan v. Eller, 446 So. 2d 442 (La.App. 4th Cir.1984), cert. den.,
+447 So. 2d 1073
+.
+
+[8]  Plaintiff argues that La.R.S. 22:1406D(4) (quoted in footnote 6), under Niemann v. Travelers Ins. Co.,
+368 So. 2d 1003
+(La.1979), provides something less than subrogation for the uninsured motorist carrier who pays part of the tort victim's damages caused by the tortfeasor and accordingly that Section 1406D(4) overrides the provisions of La.C.C. Art. 2106, which accord the right of full indemnity to one solidary codebtor who pays the debt which is solely the affair of the other solidary codebtor. See Dusenbery v. McMoran Exploration Co.,
+441 So. 2d 213
+(La.1983). However, the Niemann decision merely held that when the tort victim settles with the under insured tortfeasor and his liability insurer, the consent-to-settle provision in the insurance contract is not enforceable to deprive the tort victim of the full recovery contemplated by the uninsured motorist law. This holding was further explained in Bond v. Commercial Union Assur. Co.,
+407 So. 2d 401
+(La.1981), which held that the uninsured motorist carrier who pays part of the victim's damages receives a partial, subordinate subrogation under La.C.C. Art. 2162, so that the victim has a preference over the insurer to collect the remainder of his damages and the insurer collects from the tortfeasor only after the victim has been fully compensated. The victim, of course, cannot receive more than full recovery.
+
+[9]  Plaintiff points out that the 1984 amendment to Article 2206 permits the obligee and the surety to agree that the remission of the surety's debt in return for an advantage will not be imputed to the debt. However, plaintiff cannot avail herself of this change in the law which did not become effective until January 1, 1985.
+
+[10]  Allstate deposited $10,000 into the registry of court early in the proceedings, and Allstate and McCarron are entitled to credit on the judgment for this payment. As to the remaining $6,071.11, McCarron is entitled to judgment over against Allstate on her third party demand.
+
+[11]  In No. 83-C-2616, granted after 83-C-2294 and consolidated for argument, plaintiff sought to dismiss McCarron's appeal in the intermediate court on the basis that the judgment rendered by the trial court against McCarron became definitive when she failed to furnish security timely for her suspensive appeal. As the court of appeal noted, her timely suspensive appeal without timely security was effective as a devolutive appeal. 441 So. 2d 1250. As to plaintiff's contention that McCarron abandoned her devolutive appeal by failing to brief the issue of the $32,000 credit, we decline to take such a technical approach. After McCarron timely perfected a devolutive appeal, her counsel actively participated in the appellate proceedings, in which her codefendant raised and argued the pertinent issue of common interest. We accordingly affirm the intermediate court's denial of the motion to dismiss the appeal.

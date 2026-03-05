@@ -1,0 +1,95 @@
+52361
+JM Brown Const. Co. v. D & M Mechanical Con., Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1973/275-so-2d-401-1.html
+
+52361
+JM Brown Const. Co. v. D & M Mechanical Con., Inc.
+Court: Louisiana Supreme Court
+Release date: 1973-03-26
+Author: BAILES, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1973/275-so-2d-401-1.html
+
+275 So. 2d 401 (1973)
+
+J. M. BROWN CONSTRUCTION COMPANY, INC., Plaintiff-Appellant-Relator,
+v.
+D & M MECHANICAL CONTRACTORS, INC., et al., Defendants-Appellees-Respondents.
+
+No. 52361.
+
+Supreme Court of Louisiana.
+
+March 26, 1973.
+
+Kantrow, Spaht, Weaver & Walter, Carlos G. Spaht, Carey J. Guglielmo, Baton Rouge, for plaintiff-appellant-relator.
+
+Macy & Kemp, Duncan S. Kemp, III, Hammond, for defendants-appellees-respondents.
+
+BAILES, Justice.
+
+This court, in the exercise of its supervisory jurisdiction on the application of J. M. Brown Construction Company, Inc. (plaintiff), issued a writ of review to the Court of Appeal, First Circuit (260 So.2d 315), to test the correctness of its judgment denying recovery to plaintiff under a surplus line insurance broker's bond issued to Delchamps Insurance Agency, Inc. (Delchamps), by The Phoenix Insurance Company (defendant). 258 So. 2d 594.
+
+The facts are that plaintiff was the general contractor in the construction of a   women's residence hall (dormitory) at Southeastern Louisiana College, Hammond, Louisiana. Plaintiff sublet the mechanical and plumbing work to a firm by the name of D & M Mechanical Contractors, Inc. (D & M) which furnished plaintiff a performance bond procured by Delchamps from Commonwealth Marine & General Assurance Company (Commonwealth).
+
+Because of financial difficulty, D & M defaulted in the performance of its subcontract. Upon being apprised of this circumstance, plaintiff sought D & M's surety, Commonwealth, for the purpose of calling on it to fulfill D & M's obligation under its sub-contract. As a result of this inquiry, plaintiff learned that Commonwealth was a defunct foreign company unable to respond to plaintiff's demand.
+
+In due course, plaintiff completed D & M's work at a substantial loss. Subsequently, plaintiff filed suit against D & M, Commonwealth, Delchamps (which was by this time bankrupt), Agrippina Versicherungs-Aktiengesellschaft (the errors and omissions insurer of Delchamps) and the defendant. Agrippina was dismissed from the suit on a motion for summary judgment which is now final.
+
+The trial court rendered judgment in favor of plaintiff and against Delchamps in the amount of $64,287.80, but denied recovery against defendant.
+
+On appeal, the Court of Appeal, First Circuit, affirmed the judgment of the trial court holding that the $20,000 bond written by defendant for Delchamps in order that Delchamps could qualify as a surplus line insurance broker and in conformity with the requirements of R.S. 22:1257 et seq., and particularly the provisions of R.S. 22:1260, as amended by Act No. 146 of 1960, which, in part, is quoted as follows:
+
+* * * * * *
+
+is not an obligation for the benefit of another, or a stipulation pour autrui for the benefit of third persons not named therein.
+
+First, to narrow the question to be considered herein, it should be understood there is no dispute between the parties hereto that Delchamps did violate the statutory duty placed on it to ascertain the financial condition of the unauthorized insurer before placing insurance therewith and that a surplus line broker shall not place surplus line insurance with insurers unsound financially, as well as breaches of other statutory duties, and that such conduct on the part of Delchamps violated the conditions of the bond issued by defendant as surety of Delchamps to the State of Louisiana. The question of Delchamps' violation and its responsibility therefor has been judicially determined and such finding is res judicata as no appeal has been taken by Delchamps from the judgment of the trial court.
+
+As provided by R.S. 22:1260(3), quoted supra, the statutory conditions of the bond are twofold, namely:
+
+Obviously, one of the purposes of the bond is to assure and secure to the State   of Louisiana the payment of the premium tax due under R.S. 22:1265.
+
+Therefore, the specific problem we must resolve is whether the plaintiff is also a beneficiary under this bond to the extent, and within its limits, of the loss suffered by it through the unlawful conduct of the surplus line broker, Delchamps, in obtaining performance bond coverage in an insolvent insurer.
+
+The plaintiff's argument is based on the contention that simply because the plaintiff was not specifically named as an obligee in the broker's bond does not provide the defendant-surety with a means to escape its obligation arising from the breach of one of the conditions of the bond by the principal, Delchamps.
+
+Conversely, the defendant's position is simply that as the plaintiff was not a named obligee of the bond, it is not a promisee nor a party to the contract. Therefore, any recovery to which the plaintiff may be entitled, if any, would depend upon the application of the doctrine of stipulation pour autrui. Further, defendant argues that a contract for the benefit of a third party must clearly so provide, and the third party can enforce the obligation only in cases where the contract shows that it was executed for his benefit, that under the provisions of Civil Code Article 3039 an obligation of surety is stricti juris and must be rigidly construed.
+
+The rationale of the holding of the Court of Appeal is that for the plaintiff to recover the subject bond must clearly express the intent to benefit third persons not named therein as the bond expressly recites it is given in favor of the State of Louisiana. While the condition of the bond is that Delchamps will perform all obligations imposed by the applicable statute, the only party expressly entitled to collect thereon is the State of Louisiana.
+
+In Andrepont v. Acadia Drilling Co., 255 La. 347,
+231 So. 2d 347
+, this court considered the question of whether a clause in an oil and gas lease which stated "The Lessee shall be responsible for all damages caused by Lessee's operations." was a stipulation pour autrui which would render the lessee under the mineral lease liable for damages to the growing crop of a surface lessee. Therein we held:
+
+"Article 1890 provides:
+
+"Article 1902 provides:
+
+Both plaintiff and defendant have cited a number of cases as supportive of their respective contentions. None of these cases is directly in point. For example, Kline v. Globe Automobile Finance Co., 100 So. 2d 517 (La.App., 1958) is factually quite similar but the court merely said:
+
+"As a result of these facts we have no doubt at all that Patterson (the broker), his surety, and Globe Automobile Finance Company should be held solidarily liable to Kline for the loss which he sustained."
+
+without discussing the reason for such holding.
+
+In Bordelon v. Herculean Risk, Inc., et al., 241 So. 2d 766 (La.App., 1970), the surety on the broker's bond was not a party to   the action and by way of dicta the court stated:
+
+None of the cases cited to us by the parties or that we have examined deal with the problem presented in the instant case.
+
+The solution is to be found in the intrepretation of the statute. It must be remembered that the insurers represented by the surplus line brokers are all located beyond the geographic boundary of this state and are beyond the process of the courts and are not subject to any qualifying requirements. It is a familiar rule of statutory construction that the general purpose and object of the law must be kept in mind and the statute given such fair and reasonable interpretation as will effect the purpose and object for which it was enacted. The requirements of the statute on the broker is the only protection the public has that the insurer is what the broker represents it to be, either tacitly or expressly. Stated another way, the bond required of the broker is the only protection the public has that the broker has performed the statutory duties placed on him prior to the commitment of the insured's risk to the protection of the surplus line insurer; it is the only assurance that the public has that the broker has not knowingly placed surplus line insurance with insurers unsound financially and that the broker has ascertained the financial condition of the unauthorized insurer before placing his coverage therewith. See R.S. 22:1263.
+
+It is true that the plaintiff was not expressly named either in the bond or in the statute as the person for whose benefit the bond was furnished. It is a reasonable interpretation to hold that a bond in the amount of $20,000 would be far in excess of the amount of guarantee necessary to secure the payment of a 21⁄2 per cent tax on surplus line insurance premiums. It should also be noted that prior to 1960 the bond requirement was $1500 and the premium tax was 5 per cent, and that in 1960 the bond requirement was raised to $20,000 and the tax reduced to 21⁄2 per cent.
+
+The only logical reason for the additional amount of bond is to assure the insuring public that uses the services of a surplus line broker that the broker would conduct his business in compliance with law. It is a reasonable conclusion that the purpose of the statutory requirement of the bond is for the protection of persons adversely affected by the failure of the brokers to conduct business in compliance with law as well as security for the remittance of the premium tax.
+
+As to the lack of identity of the third person (beneficiary) while he is not named either as a group or a class, the ascertainment of identity of the beneficiary is definite; it is that person who can show a causal relationship between the breach of duty imposed by PART XXVII of the insurance code on the surplus line broker and the loss incurred.
+
+It is noteworthy that R.S. 22:1021 requires of all foreign and alien insurers doing business in this state to deposit with the state treasurer $20,000 in approved bonds, or in lieu thereof such insurers may deliver to the commissioner of insurance a bond in the amount of $20,000 of an authorized surety company doing business in this state. Such bond is conditioned for the prompt payment of all claims arising and accruing to any person by virtue of any policy issued by any such insurer.
+
+Although the law fixing the condition of notaries bonds has been changed now, we find analogy to the instant case in what this court said in the case of Globe Indemnity Co. v. O'Connor, 147 La. 195, 84 So. 585, in discussing notaries bonds. This comment is apropos:
+
+For the foregoing reasons, the judgment of the Court of Appeal, First Circuit, is reversed, and there is now judgment rendered in favor of J. M. Brown Construction Company, Inc., plaintiff, and against The Phoenix Insurance Company, defendant, in the full sum of $20,000, together with five (5) per cent interest thereon from date of judicial demand until paid, and for all court costs.
+
+Reversed and rendered.
+
+HAMLIN, C. J., dissents, being of the view that the result reached by the Court of Appeal is correct.

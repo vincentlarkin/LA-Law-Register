@@ -1,0 +1,132 @@
+80-C-2440
+Dorry v. LaFleur
+https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-2440-1.html
+
+80-C-2440
+Dorry v. LaFleur
+Court: Louisiana Supreme Court
+Release date: 1981-05-18
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-2440-1.html
+
+399 So. 2d 559 (1981)
+
+James DORRY
+v.
+Goldman LAFLEUR.
+
+No. 80-C-2440.
+
+Supreme Court of Louisiana.
+
+May 18, 1981.
+
+Rehearing Denied July 2, 1981.
+
+*560 Steven Broussard, Lake Charles, for plaintiff-applicant.
+
+Jack Rogers, Lake Charles, for defendant-respondent.
+
+FEDOROFF, Justice Ad Hoc.
+
+This action for damages was brought by a patron of defendant's skating rink, for personal injury sustained in a fall caused by water leaking through a defective roof. The district court, finding plaintiff had assumed the risk and was contributorily negligent, dismissed the suit. The court of appeal affirmed (La.App., 387 So.2d 690), finding that plaintiff had assumed the risk of injury.
+
+If ordinary contributory negligence[1] is a viable defense to plaintiff's claim based on C.C. Art. 2322[2], we could not say the dismissal of plaintiff's action here was clearly wrong. If, on the other hand, contributory negligence is not a defense under the facts of this case, the plaintiff here must recover since the record does not support the conclusion that plaintiff voluntarily assumed the risk of injury. The threshold issue posed by this appeal, therefore, is whether the "victim fault" identified in Loescher v. Parr[3] as a defense in a strict liability case, may include ordinary contributory negligence.
+
+The facts of the case at hand are not in dispute. On the evening of the accident, plaintiff had taken his wife, his three sons, ages ten, nine and five, with some of their friends to defendant's roller skating rink, to celebrate the birthday of one of the sons. Soon after they arrived, it began to rain heavily and two large puddles developed on the south side of the rink opposite the entrance. Despite continuing efforts by the management to remove the water, the puddles spread and merged into an area of twenty or twenty-five feet by six feet. Plaintiff was aware of the wet areas and managed to skate around them safely for approximately one hour. However, there was a third leak at the northeast corner of the rink, which produced a small puddle about eighteen inches in diameter, which plaintiff did not notice until he fell in it.
+
+In Langlois v. Allied Chemical Corporation, 258 La. 1067,
+249 So. 2d 133
+(1971), we suggested that in no case of strict liability would ordinary contributory negligence be a defense. The rejection of contributory negligence as a defense to Langlois's claim based on Allied's ultrahazardous activity was undoubtedly correct, but our suggestion that contributory negligence may never be a defense to a strict liability case was overbroad.
+
+Where a plaintiff's negligence contributes to his own damage, there is no reason to ignore his fault in every case simply because the defendant's liability is based on some legal fault other than negligence. Quite to the contrary, the plaintiff's negligence should carry more, not less, consequence when the defendant is strictly liable, but less culpable than the plaintiff.
+
+The idea that contributory negligence is not a defense in a strict liability case was borrowed from the common law. Prosser,   Law of Torts, 4th, page 522 attempts a justification:
+
+Such is not the case in Louisiana. As we have interpreted the code, strict liability has been found in circumstances or conduct apparently innocuous. Buckley's[4] pet dog, Bucher's[5] bicycle riding child, and Parr's[6] magnolia tree were neither ultrahazardous nor unnatural to the locality, and produced no income to the defendant. There is no policy reason to deny to these strictly liable defendants the defense of contributory negligence.
+
+Under what circumstances a plaintiff's contributory negligence should bar his recovery in a strict liability case should be developed on a case by case basis. Because the "ruined" building here housed a commercial enterprise to which plaintiff had paid the price of admission, we hold that in this case plaintiff's contributory negligence is not a defense to his claim.
+
+If, however, plaintiff can be said to have voluntarily assumed the risk of injury, his claim must be denied. As used here, assumption of risk does not merely bar plaintiff from recovery; rather it says in effect that because of a relationship voluntarily engaged by plaintiff, as to him the defendant has done nothing wrong. Professor Stone explains:[7]
+
+While the court of appeal was correct in applying the defense of voluntary assumption of risk to the case, in so doing it erroneously incorporated in the defense an objective element foreign to the doctrine. The crux of the court of appeal's holding in this case and the error which compelled this writ is contained in this sentence:
+
+In finding that plaintiff "should have known there was a good possibility that (additional) water would be present......," the court of appeal imputed knowledge to plaintiff that he did not actually possess, and thereby expanded the risk that plaintiff had himself knowingly assumed. This was error. Plaintiff knowingly assumed only the risk of the large puddle he actually observed and successfully avoided. The courts below were not free to enlarge the scope of his volition by adding to that which he actually saw, that which he should have seen.
+
+The error was induced by language used by this court in the two cases cited by the court of appeal in the case at hand.
+
+*562 In Prestenbach v. Sentry Insurance Co.,
+340 So. 2d 1331
+(La.1976), we had said:
+
+Again in Bass v. Aetna Ins. Co.,
+370 So. 2d 511
+(La.1979), we repeated:
+
+To these should be added Chappuis v. Sears Roebuck & Co.,
+358 So. 2d 926
+(La. 1978), (a strict liability products case):
+
+As was noted in LeBouef v. Goodyear Tire & Rubber Co., 623 F.2d 985 (5th Circ. 1980), at page 991:
+
+The "should have known" phrase was indeed a departure from the usual formulation of the doctrine. The Restatement, Second, Torts, Section 496 D provides:
+
+Comment b explains:
+
+Also in 57 Am.Jur.2d "negligence" Sect. 281, we find:
+
+Chappuis, Prestenbach and Bass each held the plaintiff had not assumed the risk, even applying the objective notion inherent in the phrase "should have known." Since the imposition on plaintiff of an objective standard did not defeat his case, the imposition of the more onerous standard might be considered dicta. Furthermore, the variation from the usual expression of assumption of risk was unexplained, and probably unintentional. In any event, we now subscribe to the formulation expressed in the Restatement.
+
+This is not to say that the plaintiff's disclaimer of knowledge or appreciation must be taken at face value. This is a fact question. And there are some risks that every man must be held to appreciate, (see Restatement, supra, comment d). There is a plain difference, however, between what one must have known (a finding of actual knowledge) and what one should have known (the imposition of an objective standard of care).
+
+The trial court did not find that plaintiff must have been aware of the puddle which caused his fall. It found only that he should have been aware of it. But such a negligent failure to know is not a defense in a case where contributory negligence does not bar plaintiff's recovery.
+
+The question of damages was not addressed by the courts below and the case will be remanded to the court of appeal for an assessment of quantum. Chappuis v. Sears, Roebuck & Co., supra. Holland v. Buckley,
+305 So. 2d 113
+(La.1974).
+
+Reversed and remanded to the Court of Appeal, Third Circuit.
+
+DENNIS, J., concurs.
+
+DIXON, C. J., concurs in the result only.
+
+WATSON, J., concurs in the result.
+
+MARCUS, J., dissents and assigns reasons.
+
+MARCUS, Justice (dissenting).
+
+Whether or not contributory negligence is a valid defense to a claim of strict liability under La.Civ.Code art. 2322, I am unable to say that the trial judge was clearly wrong in finding that plaintiff assumed the risk of injury. It is fundamental that, in order to assume a risk, one must knowingly and voluntarily encounter a risk which caused him harm. Plaintiff must understand and appreciate the risk involved and must accept the risk as well as the inherent possibility of danger because of the risk. McInnis v. Fireman's Fund Insurance Co.,
+322 So. 2d 155
+(La.1975). Knowledge is the mainstay of this defense, and this court will impute knowledge to a plaintiff not because he was in a position to make certain observations, but only when the plaintiff actually made those observations and from those observations should reasonably have known that a risk was involved. Bass v. Aetna Insurance Company,
+370 So. 2d 511
+(La. 1979); Prestenbach v. Sentry Insurance Co.,
+340 So. 2d 1331
+(La.1976).
+
+In the instant case, plaintiff testified that he observed puddles of water which had been forming on the rink floor for approximately one hour before he fell and had been skating around them. I consider that from these observations, plaintiff should have known that the rink was dangerous due to puddles on the floor caused by a defective roof. Nevertheless, he voluntarily and knowingly exposed himself to any risks resulting from skating in the rink including skating and falling in the puddle which ultimately caused his injury. Accordingly, I respectfully dissent.
+
+[1]  "Contributory negligence is conduct on the part of the plaintiff which falls below the standard to which he should conform for his own protection..... The standard of conduct to which the plaintiff must conform for his own protection is that of a reasonable man under the circumstances." Smolinski v. Taulli,
+276 So. 2d 286
+, 290 (La. 1973).
+
+[2]  "The owner of a building is answerable for the damage occasioned by its ruin, when this is caused by neglect to repair it, or when it is the result of a vice in its original construction."
+
+[3]
+324 So. 2d 441
+(La. 1975).
+
+[4]  Holland v. Buckley,
+305 So. 2d 113
+(La. 1974)
+
+[5]  Turner v. Bucher,
+308 So. 2d 270
+(La. 1975)
+
+[6]  Loescher v. Parr,
+324 So. 2d 441
+(La. 1975)
+
+[7]  12 Louisiana Civil Law Treatise: Tort Doctrine, Sect. 51(A) Pg. 72.

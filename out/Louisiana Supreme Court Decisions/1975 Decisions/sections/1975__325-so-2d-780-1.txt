@@ -1,0 +1,169 @@
+56143
+State v. Price
+https://law.justia.com/cases/louisiana/supreme-court/1975/325-so-2d-780-1.html
+
+56143
+State v. Price
+Court: Louisiana Supreme Court
+Release date: 1975-09-05
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/325-so-2d-780-1.html
+
+325 So. 2d 780 (1975)
+
+STATE of Louisiana
+v.
+Larry PRICE.
+
+No. 56143.
+
+Supreme Court of Louisiana.
+
+September 5, 1975.
+
+On Rehearing Denied January 19, 1976.
+
+*781 William H. Byrnes, III, Elizabeth W. Cole, Orleans Indigent Defender Program, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise Korns, Asst. Dist. Atty., for plaintiff-appellee.
+
+CALOGERO, Justice.
+
+The pertinent issue in this case is whether the prosecutor's reference to a photograph of defendant as a "mug shot" was a direct or indirect reference to "another crime committed or alleged to have been committed by the defendant as to which evidence is inadmissible," thus mandating a mistrial under the provisions of Article 770 of the Code of Criminal Procedure.
+
+In the trial of this armed robbery case, the prosecutor, while questioning a state witness in the presence of the jury about a photographic lineup, referred to defendant's photograph as a "mug shot." The sequence of occurrences under discussion at the time made it evident that the photograph of defendant was one taken prior to the commission of the offense for which he was being tried.
+
+Defendant contends that the prosecutor's use of the term "mug shot" entitled him to a mistrial under Article 770, and that the trial judge's refusal to grant the requested mistrial constituted reversible error. Article 770 provides in pertinent part:
+
+Our law affords no discretion to the trial judge when a request for a mistrial is made under this provision of the   Code of Criminal Procedure. The sole area of our concern is thus whether use of the term "mug shot" before a jury is an indirect reference to other crimes committed by or allegedly committed by defendant. This question is res nova. In State v. Jones,
+283 So. 2d 476
+(La.1973), however, we noted that "mug shots" connote a criminal record and create a prejudicial effect upon the jury. Jones was concerned with the actual introduction into evidence of the "mug shot" photographs themselves,[1] but we believe that similar if not identical prejudice flows from the mere utterance of the term "mug shot," a term which to the layman means a police photograph taken of a person who has committed a crime or who is suspected of having committed a crime. Thus, we conclude that the use of the term "mug shot" before a jury is an indirect reference to another crime committed or alleged to have been committed by the defendant when it is used in circumstances which suggest that the photograph was made before the commission of the offense for which defendant is on trial.
+
+The state alleges that the prosecutor in this case had used the term "mug shot" on several occasions earlier in the trial without objection by the defense attorney. They argue that the defendant had therefore waived his objection to the use of the term "mug shot." Were this a case where a defense attorney had without arguable explanation or extenuating circumstances repeatedly neglected to move for a mistrial notwithstanding repetitious impermissible use of the term by the prosecutor, we would perhaps be required to answer the state's argument and determine whether in that case the defendant's earlier failures to move for a mistrial under Art. 770 precludes his doing so thereafter. In the case at hand, however, we are unable to charge defense counsel with either repetitious neglect or a studied choice to permit the prosecutor's repeated use of the prejudicial reference.
+
+The prosecutor's reference to "mug shot" appears in the transcript three times. The first time he used it was in his opening argument, a point in trial during which the state, to the knowledge of the jury, is presenting its contentions only. The second and third occasions which together prompted the defense attorney's motion for mistrial occurred in immediate succession.[2]
+
+Accordingly, defendant's conviction and sentence are reversed and the case is remanded for retrial.
+
+SANDERS, C. J., dissents and assigns written reasons.
+
+SUMMERS and MARCUS, JJ., dissent.
+
+SANDERS, Chief Justice (dissenting).
+
+The majority has reversed defendant's conviction of armed robbery, because the District Attorney in a question to the victim used the term "mug shots" in the following context:
+
+At this time, I would object to the   last question of the District Attorney and ask for a mistrial."
+
+The theory adopted by the majority is that the "mere utterance" of the term "mug shots" refers to "another crime committed. . . by the defendant," thus making a mistrial mandatory under Article 770 of the Louisiana Code of Criminal Procedure. I think not.
+
+The term "mug shot" means "a photograph of a person's face." Although it is often used to refer to official police photographs, this usage is not invariable. See Verbo mug shot, Webster's Third New International Dictionary. Moreover it is well known that there are many official police photographs of persons who have committed no crimes.
+
+An examination of the transcript in the present case shows that the District Attorney used the words "photographs," "photos," and "mug shots" interchangeably. On page 62 of the transcript alone, the District Attorney used "photographs" twice, "photos" twice, and "mug shots" once. He made no reference to the source of the photographs. It is evident from the context that the District Attorney was using the term in the sense of a photograph of a person's face. That it was so understood is evidenced by the circumstance that the defense made no objection to the term when it was used in the District Attorney's opening statement or during the initial stages of the interrogation of the victim. In fact, it is my opinion that defense counsel's failure to object to the term until at least the third time it was used constituted a waiver, since no additional prejudice could possibly have been suffered from the last use of the term.
+
+Assuming, arguendo, that the term "mug shot" connotes commission of a crime, nevertheless, the rule is well-recognized in Louisiana that, though an item of evidence suggests another crime, the evidence is nonetheless admissible if it is relevant to a genuine factual issue in the case. See State v. Kinchen, La.,
+290 So. 2d 860
+(1974); State v. Moore, La.,
+278 So. 2d 781
+(1972).
+
+Here, the identification of the defendant as the armed robber was a strongly contested issue. The purpose of this line of testimony was to identify the defendant by disclosing what actually transpired. It was designed to show that prior to the identification lineup, the victim picked out the defendant's photograph from a collection of eight face-shots of different persons. I view it as an important link in the chain of evidence. If it was prejudicial to the defendant, it was so only in the same sense as any other evidence of the commission of a crime.
+
+In State v. Childers, Mo.,
+313 S.W.2d 728
+(1958), the Supreme Court of Missouri upheld the actual admission of mug shots in evidence because they were relevant to the contested issue of identification. The court stated:
+
+In the present case, only word usage is at issue. If the holding is applied strictly, it may well destroy the evidentiary value of fingerprints found at the scene of a crime, which to be probative must be compared to a defendant's fingerprints already on file with the law enforcement system. Compare State v. Kinchen, supra.
+
+*784 For the reasons assigned, I respectfully dissent.
+
+MARCUS, Justice.
+
+Larry Price was charged by bill of information with the armed robbery of Kenny Henderson on November 24, 1972 in violation of La.R.S. 14:64. After trial by jury on June 26, 1973, he was found guilty as charged and was subsequently sentenced to serve thirty years at hard labor. Defendant appealed to this court, relying on five bills of exceptions for reversal of his conviction and sentence. Finding merit in Bill of Exceptions No. 4 on original hearing, we reversed his conviction and sentence and remanded for a new trial. Upon application of the state, we granted a rehearing to reconsider our original decree. After reconsideration, we find no merit in Bill of Exceptions No. 4. Likewise, we find no substance in the other bills of exceptions reserved during the trial of this matter. Accordingly, we vacate our original decree and affirm defendant's conviction and sentence.
+
+These bills, which defendant has consolidated for argument, were reserved when the trial judge overruled his objection to the use at trial of evidence of his commission of offenses similar to the one with which he was charged.
+
+In order to show intent, evidence is admissible of similar acts, independent of the act charged as a crime in the indictment. La.R.S. 15:445. Where the offense is one of a system, evidence is admissible of similar offenses for the purpose of showing guilty knowledge and intent, but not to prove the offense charged. La.R.S. 15:446. Within a reasonable time before trial, the state must furnish the defendant a statement in writing of the similar acts or offenses it intends to offer in evidence. State v. Prieur,
+277 So. 2d 126
+(La.1973). Even if otherwise admissible, however, evidence of other offenses must be excluded if its prejudicial effect outweighs its probative value. State v. Moore,
+278 So. 2d 781
+(La.1973).
+
+The facts in this case show that defendant perpetrated, within the short period of approximately three weeks, a series of armed robberies upon drivers of Zetz 7-Up beverage trucks that were en route making deliveries. While armed with a sawed-off shotgun, defendant robbed Kenny Henderson, a driver for the company, on November 24, 1972. That same day, only about a half hour later, defendant robbed Robert Kranz, another truck driver for the company. On December 11, 1972, defendant robbed John Machica, also a truck driver on his route at the time. Kenny Henderson was also robbed by defendant on December 5 and December 15, 1972 in the same circumstances.
+
+Defendant was charged only with the armed robbery of Kenny Henderson on November 24, 1972. Kranz and Machica, however, as well as Henderson, were called as witnesses at trial. Also testifying was Cephus Smith, Machica's assistant, who was with him when he was robbed. All of these witnesses recounted the events of the robberies and made positive identifications at trial of defendant as the person who had robbed them.
+
+Defendant employed the same method and plan of operation in all of these robberies. All the victims of the robberies were employees of the same beverage company, and they were robbed in almost identical circumstances. Our jurisprudence is uniform in holding that evidence of other armed robberies is admissible where almost identical tactics are used to show the system or modus operandi employed by the accused. See State v. Grant,
+295 So. 2d 168
+(La.1973) and cases cited therein. The robberies were therefore crimes of a system and evidence of these robberies was admissible to show guilty knowledge and   intent. State v. Spencer, 257 La. 672,
+243 So. 2d 793
+(1971). The state furnished defendant with a written notice of intention to use evidence of the other similar crimes, as required by State v. Prieur, supra, and the trial judge allowed its admission after contradictory hearing. Further, we are of the opinion that the probative value of evidence of these similar offenses outweighed any possible prejudicial effect. Accordingly, Bills of Exceptions Nos. 1, 2 and 5 are without merit.
+
+One of the state's witnesses, Cephus Smith, testified that he caught a glimpse of defendant in handcuffs at the police station before identifying him at the lineup. Defendant thereupon moved for a mistrial. He reserved this bill of exceptions to the trial judge's denial of his motion.
+
+The episode of which defendant complains occurred as follows. The witnesses, who were called to the police station for the purpose of identifying suspects, were stationed in the hall. One of the witnesses (called to identify a criminal defendant in another trial), attempting to ascertain where the lineups were to be conducted, opened a door. The witnesses viewed defendant in handcuffs for an instant in the adjoining room. One of the officers in that room immediately slammed the door shut. As Robert Kranz, one of the beverage truck drivers, testified:
+
+WITNESS: Right.
+
+......
+
+Even if we assume arguendo that the out-of-court identifications were tainted by this episode, it is settled that the witness' in-court identification does not violate the accused's due process rights where it has a source independent of the out-of-court identification. State v. Bland,
+310 So. 2d 622
+(La.1975) and cases cited therein. In State v. Newman,
+283 So. 2d 756
+(La.1973), we stated that a determination of whether the witness' in-court identification was based on an independent source involves three factors: (1) the prior acquaintance of the witness with the accused; (2) the length of time the witness observed the perpetrator before, during, and after the offense; and (3) the circumstances in which the observation was made, including illumination at the scene, the physical capacities of the witness, and the emotional state the witness was in at the time of the observation.
+
+*786 In the instant case, all of the robberies occurred in broad daylight at about noon. Defendant was not wearing a hood or mask at the time. On each occasion, defendant directly confronted his victims, spoke to them, brandished a weapon, and ordered that they turn over their money to him. All of the witnesses evidently had an appreciable length of time in which they could observe defendant's appearance. The victim of the crime charged, Kenny Henderson, whom defendant robbed on three occasions, testified that before defendant robbed him the third time he recognized him at once and attempted to retreat. At trial, Kenny Henderson and the other victims made positive identifications of defendant as the perpetrator of the robberies.
+
+We are satisfied that each in-court identification had a source independent of the out-of-court identifications. As a result, the in-court identifications did not violate defendant's due process rights. We therefore find no merit in this bill.
+
+After Robert Kranz gave an in-court identification of defendant as the man who had robbed him, the prosecutor asked him whether he had also identified him in the lineup. The witness replied that he had, and that he had also identified him from some photographs. Proceeding to question him about these photographs, the prosecutor twice referred to them as "mugshots." Defendant then moved for a mistrial. This bill was reserved when the motion was denied.
+
+Louisiana Code of Criminal Procedure article 770 provides in relevant part:
+
+......
+
+(Emphasis added.)
+
+Defendant contends that the prosecutorial reference to a "mugshot" alerted the jury to the fact that he had a prior criminal record. While the use of the word "mugshot,"[1] in circumstances different from those presented here, might violate the terms of article 770(2), we are convinced that its use in the instant case did not constitute such a violation.
+
+After carefully reviewing the record before us, we can find no instance in which the prosecutor made the slightest suggestion that defendant had been involved in criminal activities other than those that the jury was already apprised of through admissible evidence. The state did not inform the jury when defendant was arrested. Thus, when the jury was told that Robert Kranz had identified defendant from mugshots,[2] it would have been reasonable for the jury to assume that the police photographs had been taken in connection   with his prior arrest for the present charge of armed robbery. Furthermore, the jury was already well aware that defendant had been accused of committing other crimes through evidence that was admissible pursuant to La.R.S. 15:445 and La.R.S. 15:446. Article 770(2) prohibits only reference to other offenses as to which evidence is not admissible. The Official Revision Comment to the article states:
+
+......
+
+At no point did the prosecutor state that defendant had not been arrested for, or charged with, the other robberies committed upon Kenny Henderson and the beverage truck drivers. Consequently, the only other reasonable inference that the jury could draw from the word "mugshot," other than his arrest for the present offense, was an arrest resulting from his alleged commission of the similar crimes of which they were cognizant. From the use of the word "mugshot" in this context, it would have been unreasonable for them to conjecture that defendant had been involved in criminal activities besides those they knew of through admissible evidence. Hence, the use of the word "mugshot" was not a reference to another crime as to which evidence was not admissible. La. Code Crim.P. art. 770(2) (1966). There is no merit in this bill.
+
+For the reasons assigned, our original decree is vacated and set aside; and it is hereby ordered that defendant's conviction and sentence be affirmed.
+
+CALOGERO, J., dissents for the reasons assigned on original hearing.
+
+CALOGERO, Justice (dissenting).
+
+For the reasons expressed in our opinion upon the original hearing in this case, I respectfully dissent from the majority's affirmance of this conviction.
+
+[1]  For a discussion of that issue, see Annotation, Mug ShotsAdmissibilityPrejudice, 30 A.L.R.3d 908 (1970).
+
+[2]  The prosecutor's questioning of a state witness, during which the second and third references to "mug shot" were expressed by the district attorney, was as follows:
+
+Q. Were you shown mug shots of the defendant?
+
+A. Yes, sir.
+
+Q. How many of them?
+
+A. Six or eight. I can't tell you exactly. Six or eight.
+
+Q. And, you picked the defendant out of the mug shots?
+
+A. Yes, sir.
+
+Q. Prior to any lineup?
+
+A. Yes, sir."
+
+At this point the defense attorney asked that a mistrial be declared.
+
+[1]  Webster's New International Dictionary (3d ed. 1961) defines a "mug shot" as a "photograph of a person's faceusu. used of official police photographs."
+
+[2]  The record reveals that the prosecutor employed the word "mugshot" on a previous occasion. In his opening statement, he said that defendant had been identified through "photographs and mugshots." This reference to "mugshot" met with no objection from defense counsel.

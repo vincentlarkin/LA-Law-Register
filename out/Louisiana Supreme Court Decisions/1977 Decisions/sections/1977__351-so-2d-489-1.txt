@@ -1,0 +1,91 @@
+59580
+State v. Rey
+https://law.justia.com/cases/louisiana/supreme-court/1977/351-so-2d-489-1.html
+
+59580
+State v. Rey
+Court: Louisiana Supreme Court
+Release date: 1977-10-10
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/351-so-2d-489-1.html
+
+351 So. 2d 489 (1977)
+
+STATE of Louisiana
+v.
+Albert REY.
+
+No. 59580.
+
+Supreme Court of Louisiana.
+
+October 10, 1977.
+
+Rehearing Denied November 11, 1977.
+
+*490 George W. Reese, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise S. Korns, Asst. Dist. Atty., for plaintiff-appellee.
+
+DIXON, Justice.
+
+Defendant was convicted after trial by jury of possession of heroin with the intent to distribute. On appeal he relies on two assignments of error for reversal of his conviction.
+
+The record reflects the following facts. On March 14, 1975 a search conducted at the residence of Albert Rey pursuant to a warrant recovered the contraband upon which this prosecution is founded. The affidavit for the search warrant reads as follows:
+
+"THE FACTS AND REASONS FOR THE REQUEST OF THIS SEARCH WARRANT ARE:
+
+At the hearing on a motion to suppress the evidence obtained in the search, it developed that the affidavit incorrectly identified the suspect as "Edward Kenner aka Buggie Red;" in fact the person under surveillance was Albert Rey. The record reflects that there was an Edward Kenner, who, like the defendant, had a wife named Gail and who also lived in the same neighborhood as the defendant. Both Kenner and the defendant were nicknamed "Boogie Red" or "Boogie Rey." It was not until Officer Bethay arrested the defendant that he learned his name was not Edward Kenner; the informer had pointed him out as "Edward Kenner aka Buggie Red."
+
+Assignment of Error No. 1
+
+Defendant contends that the search warrant was invalid because of inaccurate statements intentionally made in the affidavit.
+
+Because the invasion of home and privacy cannot be justified by misrepresentations, and in order to insure that the magistrate, and not the affiant, determines probable cause, this court has recognized on numerous occasions the defendant's right to traverse the allegations made by the affiant. State v. Melson,
+284 So. 2d 873
+(La.1973); State v. Giordano,
+284 So. 2d 880
+(La.1973); State v. Cox,
+330 So. 2d 284
+(La.1975); State v. Tassin,
+343 So. 2d 681
+(La.1977). We have held that minor inaccuracies in the affidavit may not affect the validity of the search warrant (e. g. State v. Thomas,
+329 So. 2d 704
+(La.1976); State v. Chaffin,
+324 So. 2d 369
+(La.1976)).
+
+*492 The Fifth Circuit Court of Appeals was faced with this problem in U. S. v. Thomas, 489 F.2d 664 (5th Cir. 1973), cert. denied, 423 U.S. 844, 96 S. Ct. 79, 46 L. Ed. 2d 64 (1975). That court noted that when faced with an affidavit containing inaccurate statements the preferred approach is to excise the inaccurate statements and then examine the residue to determine if it supports a finding of probable cause. If, however, the misrepresentations were intentionally made, a different result is required. Because these distorted statements constitute a fraud upon the courts and represent impermissible overreaching by the government, a warrant based on an affidavit containing intentional misrepresentations must be quashed.
+
+We are in agreement with the approach described by the Fifth Circuit and adopt it as our own. The primary purpose of the exclusionary rule is the deterrence of such deliberate governmental wrongdoing, and this policy is best served by quashing the warrant.
+
+In the instant case, therefore, our inquiry becomes first, whether the inaccurate statements were intentionally made.[1] If the misrepresentations are found to be unintentional, it must then be decided whether a showing of probable cause is made by the warrant without reference to the incorrect facts.
+
+Testimony at the motion to suppress hearing clearly indicates that the error in identifying the suspect as "Edward Kenner" was not an intentional error. Both informants relied upon in the affidavit pointed out the defendant to Officer Bethay, naming him as Edward Kenner. The error, therefore, was in the name only, not in the identification of the suspect.
+
+Similarly, the reference to the 1965 Chevrolet registered to Edward Kenner does not indicate an attempt to deceive the magistrate. The car was not being driven by the person under surveillance, but rather by a black male known as "Pitiful Bob" with two unknown black male passengers. The identification of the car owner was not made in connection with an allegation of criminal activity.
+
+Finally, the inclusion of the arrest record of Edward Kenner does not constitute an intentional misrepresentation. Officer Bethay, believing at the time the affidavit was made that the suspect's name was Edward Kenner, simply included his police record in the affidavit. Defendant argues that Officer Bethay should have realized at that time that the suspect was not Edward Kenner because of the police practice of including a photograph of the individual in the police record. The testimony at the hearing, however, indicates that the picture is not always included and that Officer Bethay did not recall noticing one in Kenner's records. We cannot, on the basis of the record, conclude that Officer Bethay through these actions evidenced an intent to deceive the magistrate.
+
+Having determined that the misrepresentations were not intentional, we must now excise them from the warrant and examine the residue to determine whether probable cause was properly demonstrated. Considering the affidavit after the removal of the references to the name "Edward Kenner" and paragraph five in its entirety, we conclude that probable cause existed for the search of the residence described.
+
+This assignment is without merit.
+
+Assignment of Error No. 2
+
+In his second assignment defendant contends that it was error for the trial court to refuse to order the State to furnish him with the past voting records of the jury panel.
+
+The question of whether the defendant is entitled to the work product of the district attorney has not yet been squarely presented this court. In State v. Wright,
+344 So. 2d 1014
+(La.1977), we specifically withheld judgment on the issue. In State v. Holmes,
+347 So. 2d 221
+(La.1977),   the defendant's request was deemed premature because the voir dire had not yet been conducted. In both of those cases, however, we recognized that, absent a statutory right to privileged information or absent a showing of undue prejudice, hardship or injustice, the defendant does not have a right to the material. In the present case, the record indicates that the prosecutor assembled his information on the voting records of prospective jurors from the records in the office of the clerk of court and that the same records are available to any defense attorney. The defendant has failed to demonstrate the required prejudicial effect of the denial of access.
+
+At this time we should note that the legislature has codified the work product privilege in C.Cr.P. 723 (Act 515 of 1977). While this article was not in effect at the time of this trial, and therefore not determinative of the issue, it does, nevertheless, indicate the sentiment of the legislature.
+
+The assignment is without merit.
+
+Accordingly, defendant's conviction and sentence are affirmed.
+
+[1]  As noted by the court in Thomas, the term "intentionally" must be used here to mean deliberate act made for the purpose of deceiving the magistrate.

@@ -1,0 +1,173 @@
+80-C-1772
+DeBattista v. Argonaut-Southwest Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-1772-1.html
+
+80-C-1772
+DeBattista v. Argonaut-Southwest Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1981-06-22
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1981/80-c-1772-1.html
+
+403 So. 2d 26 (1981)
+
+Dolores Faciane, wife of/and Joseph C. DeBATTISTA
+v.
+ARGONAUT-SOUTHWEST INSURANCE COMPANY, et al.
+
+No. 80-C-1772.
+
+Supreme Court of Louisiana.
+
+June 22, 1981.
+
+Dissenting Opinion September 17, 1981.
+
+Rehearing Denied September 18, 1981.
+
+*28 Abbott J. Reeves, Gretna, for applicant.
+
+George E. Cain, Jr., William S. Penick, Lemle, Kelleher, Kohlmeyer & Matthews, New Orleans, for defendants-respondents.
+
+William J. Guste, Jr., Atty. Gen., Joseph W. Thomas, Staff Atty., New Orleans, for appellee.
+
+DENNIS, Justice.
+
+One of the plaintiffs, Mrs. Joseph C. DeBattista, contracted hepatitis following a blood transfusion. She and her husband sued among others the Southern Baptist Hospital Blood Bank, the processor and distributor of the blood transfused, and the blood bank's liability insurer.
+
+The court of appeal, 385 So. 2d 518, affirmed the district court's dismissal of the suit, finding that the plaintiffs failed to prove that the blood was unwholesome or that Mrs. DeBattista contracted hepatitis from this source. The district judge, however, either resolved these factual issues differently or never reached them. He dismissed the suit stating only that there could be no implied warranty in connection with the sale of the blood and that there was no proof of negligence in its preparation, storage or infusion. We granted certiorari to consider the correctness of the factual findings and the district court holding that a blood bank which distributes diseased blood without negligence cannot be held for damage caused to a person who contracts hepatitis after a transfusion because of its unwholesome condition.
+
+Mrs. DeBattista had surgery performed at Southern Baptist Hospital on February 14, 1973. Her treating physician ordered a transfusion of three units of blood in conjunction with the surgery and post-operative care. Each unit had been drawn and processed by the Southern Baptist Hospital Blood Bank and administered by Southern Baptist Hospital personnel. Roughly one month after the transfusions, Mrs. DeBattista began to experience symptoms of hepatitis. Her doctor diagnosed her condition as Type B serum hepatitis after hospitalizing her in mid-April.
+
+A donor of one of the units of blood which Mrs. DeBattista had received was subsequently rejected as a donor because of a positive reaction to a hepatitis test. Robert Watson, a paid donor, gave one of the units of blood which Mrs. DeBattista received at Southern Baptist on January 28, 1973, and his blood was tested the next day. The testing did not disclose the presence of hepatitis. Watson had a history of mental disease and syphilis. Had he answered the screening questionnaire regarding venereal disease correctly, his donation of blood would have been rejected. Two months later, however, Watson again sought to give blood and was rejected after hepatitis testing conducted March 27, 1973 revealed a positive reaction indicating that he had been exposed to hepatitis virus at some time. The blood bank notified Watson that he had been disqualified as a donor and that he should consult a physician for further testing. The blood he had given the day before was destroyed. Watson's physician retested him and found no reaction on the hepatitis test. Watson's doctor and the blood bank personnel did not notice that he had any visible symptoms of hepatitis.
+
+The other two units of the transfusion administered to Mrs. DeBattista in February had been obtained by the blood bank from voluntary donors. The same procedures were followed as were used to obtain Watson's blood. There is no evidence in the record that these donors were suspected of having hepatitis.
+
+The trial judge did not expressly determine whether Mrs. DeBattista contracted hepatitis from the transfusion. Since the court of appeal's judgment may constitute a reversal of the trial judge's implicit factual finding, however, we have carefully considered the pertinent evidence.
+
+In this civil case, the plaintiffs' burden is to prove causation by a preponderance of the evidence. This burden may be met either by direct or, as in this case, by circumstantial evidence. Jordan v. Travelers   Ins. Co., 257 La. 995,
+245 So. 2d 151
+(1971); Naquin v. Marquette Cas. Co., 244 La. 569,
+153 So. 2d 395
+(1963).
+
+Taken as a whole, circumstantial evidence must exclude other reasonable hypotheses with a fair amount of certainty. This does not mean, however, that it must negate all other possible causes. Otherwise, the mere identification by the record of another possibility, although not shown to be causally active, would break the chain of causation. Weber v. Fidelity & Cas. Ins. Co. of N.Y., 259 La. 599, 608-09,
+250 So. 2d 754
+, 757 (1971).
+
+The evidence shows that, approximately one month after receiving a transfusion of blood which came from defendant's blood bank, Mrs. DeBattista became ill with hepatitis. The medical evidence showed that this delay in manifestation of the disease is consistent with contagion through transfusion. The type hepatitis she had is most commonly contracted by blood transfusion. The risk of contracting hepatitis through a transfusion is significantly higher when the blood is accepted from paid, rather than voluntary, donors. At the time the blood bank accepted the blood ultimately given Mrs. DeBattista, the test for this type hepatitis was only 30% effective. It is possible for a person carrying hepatitis virus to display no visible symptoms of illness. It is possible, also, for blood from a person infected with hepatitis to test positive on one occasion and negative on another. Under these circumstances, the most reasonable hypothesis for the cause of Mrs. DeBattista's hepatitis is that it entered her body with the blood she received from the blood bank.
+
+The defendants have failed to produce any evidence which convinces us that the blood transfusion was not the most probable source of Mrs. DeBattista's hepatitis. The court of appeal stated Mrs. DeBattista might have contracted hepatitis from her sister. Her sister had contracted the disease one year earlier and was asymptomatic at the time Mrs. DeBattista entered the hospital in February. Expert testimony in the record establishes, however, that Type B hepatitis is generally transmitted parenterally, most commonly by a transfusion of hepatitis-infected blood. The timing of the onset of symptoms and the subsequent clinical diagnosis is also best explained by plaintiffs' theory that Mrs. DeBattista was exposed to hepatitis during her February hospitalization.
+
+However, after reviewing the evidence, we are convinced that the trial court correctly found that the blood bank was not negligent in any respect. Accordingly, we must consider whether it can be held liable without a finding of negligence.
+
+Articles 2315-24 of the Louisiana Civil Code comprise the code's entire chapter of legal principles regulating offenses and quasi-offenses.
+
+The underlying principle is provided by Article 2315: "Every act whatever of man that causes damage to another obliges him by whose fault it happened to repair it. * * *" The remaining articles constitute amplifications as to what constitutes "fault" and under what circumstances a defendant may be held liable for his act or that of a person or thing for which he is responsible. Loescher v. Parr,
+324 So. 2d 441
+(La.1975).
+
+Definitions of "fault" are actually indefinite generalities and usually not illuminating when applying the concept. Colin and Capitant have said that fault signifies that conduct which a man should not have engaged inthat is, that he has acted as he should not have acted. 2 Colin et Capitant, Cours elementaire de droit civil francais (8e Ed. 1935) § 190. Defining fault is a logomachy. Because of the difficulty in finding fault for all times and purposes and instead of defining fault by listing numerous activities which constitute fault (much as we enumerate the activities which constitute criminal conduct in our criminal code) our law has left this determination in the hands of the court. Langlois v. Allied Chemical Corp., 258 La. 1067, 1076,
+249 So. 2d 133
+, 137 (1971).
+
+*30 In defining "fault" for purposes of products liability in Weber v. Fidelity & Cas. Co. of N.Y., 259 La. 599,
+250 So. 2d 754
+(1971), this court held:
+
+Defendant blood bank contends that plaintiffs may not recover in tort under Weber because the blood was not defective, i. e., "unreasonably dangerous to normal use," for three reasons: (1) The judgment of whether the product is "unreasonably dangerous to normal use" must be based on the manufacturer's entire line or his total activity, rather than the single product used by plaintiff. (This is implicitly assumed by defendant, not expressly argued); (2) The social utility of the distribution of blood greatly outweighs the risk of its harm; and (3) Blood banks have no way of preventing distribution of the relatively small amounts of unwholesome blood that cause harm. In essence, defendant relies on an argument that the activity of distributing blood involves danger, but a reasonable danger which should be tolerated for its benefits, and that consumers must bear the cost of the inherent risks involved.
+
+Defendant's arguments, however, misconstrue the "unreasonably dangerous" limitation. These words were included within the definition of legal fault to prevent manufacturers from becoming insurers of their own products. "Unreasonably dangerous" means simply that the article which injured the plaintiff was dangerous to an extent beyond that which would be contemplated by an ordinary consumer.
+
+The history of strict liability in Louisiana indicates the requirement that a defective product must be "unreasonably dangerous" came into our jurisprudence due to the pervasive influence of section 402A of the Restatement (Second) of Torts after its publication in 1965. Louisiana's law in the products liability area has been described by commentators as closely approximating that of common law states following the Restatement (Second) of Torts § 402A. See Andrus, Strict Liability Under Civil Code Articles 2317, 2318 and 2321: An Initial Analysis, 25 La.Bar J. 105 (1977); Robertson, Manufacturers' Liability for Defective Products in Louisiana Law, 50 Tul.L.Rev. 50 (1975). This view has also been taken by federal courts interpreting Louisiana law. See Perez v. Ford Motor Co., 497 F.2d 82 (5th Cir.1974); Welch v. Outboard Marine Corp., 481 F.2d 252 (5th Cir.1973). After using the "unreasonably dangerous" limitation in Weber as a condition to legal fault under Article 2315, this court employed a similar requirement in summarizing the principles of legal fault under Articles 2317, 2318, 2320, 2321, 2322. We held that strict liability results from the conduct or defect of a person or thing which creates an "unreasonable risk" of harm to others. Loescher v. Parr, supra.
+
+Furthermore, this court in Loescher clearly expressed the underlying reason for the legal fault arising from these code provisions, sometimes referred to as strict liability:
+
+*31 According to the original comment to Section 402A, a "defective condition" is one "not contemplated by the ultimate consumer, which will be unreasonably dangerous to him." Restatement (Second) Torts, § 402A comment g. Comment i, defining "unreasonably dangerous," states: "The article must be dangerous to an extent beyond that which would be contemplated by the ordinary consumer who purchases it, with the ordinary knowledge common to the community as to its characteristics." See Welch v. Outboard Marine Corp., supra; Loyocano v. Continental Ins. Co., 283 So. 2d 302 (La.App. 4th Cir.1973). A consumer expectation approach is particularly appropriate in Louisiana which has aligned itself with those jurisdictions showing particular concern for consumer interests. Media Production Consultants, Inc. v. Mercedes-Benz of North America, Inc., 262 La. 80, 90,
+262 So. 2d 377
+, 381 (1972). Examples given in comment i make it clear that such innocuous products as sugar and butter, unless contaminated, would not give rise to a strict liability claim merely because the former may be harmful to a diabetic or the latter may aggravate the blood cholesterol level of a person with heart disease. Presumably such dangers are squarely within the contemplation of the ordinary consumer. Cronin v. J. B. E. Olson Corp.,
+8 Cal. 3d 121
+, 104 Cal. Rptr. 433, 441, 501 P.2d 1153, 1161 (1972). Prosser, the reporter for the Restatement, suggests that the "unreasonably dangerous" qualification was added to foreclose the possibility that the manufacturer of a product with inherent possibilities for harm (for example butter, drugs, whiskey and automobiles) would become "automatically responsible for all the harm that such things do in the world." Prosser, Strict Liability to the Consumer in California, 18 Hastings L.J. 9, 23 (1966).
+
+We recognize that the words "unreasonably dangerous" may serve the beneficial purpose of preventing the manufacturer from being treated as the insurer of its products. We conclude, however, that the term may be used only for this purpose, and certainly not to burden the injured plaintiff with proof of an element which rings of negligence. Otherwise, the formulation of strict liability in practice rarely would lead to a different conclusion than would have been reached under the laws of negligence. Cronin v. J. B. E. Olson Corp., supra, 104 Cal. Rptr.  at 442, 501 P.2d  at 1162. See, Comment, 40 La.L.Rev. 207 (1979). Yet the very purpose of strict liability is to relieve the plaintiff from problems of proof inherent in pursuing negligence and warranty remedies, and thereby to insure that the costs of injuries resulting from defective things are borne by those responsible for them. See Loescher v. Parr, supra, at 446.
+
+Courts in a number of jurisdictions abrogated the requirement that the defect be "unreasonably dangerous," concluding that requiring plaintiff only to prove the existence of a defect is more consistent with the policies giving rise to products liability initially and lessens the risk that negligence elements are injected into the plaintiff's case. E. g., Butand v. Suburban Marine & Sporting Goods, Inc.,
+543 P.2d 209
+(Alaska 1975); Cronin v. J. B. E. Olson Corp., supra; Glass v. Ford Motor Co., 123 N.J.Super. 599,
+304 A.2d 562
+(1973). In their view, the protective end of preventing the seller from becoming an insurer of his products is attained by the necessity of proving that there was a defect in the manufacture or design of the product and that such defect was a proximate cause of the injuries. We have determined, nevertheless, that the requirement of an unreasonable risk as a condition to strict liability should be retained. It must be carefully applied, however, with its true purpose in mind.
+
+Accordingly, we conclude that blood contaminated with hepatitis virus is defective, i. e., unreasonably dangerous to normal use. The risks involved in receiving a transfusion of blood in this condition are certainly greater than a reasonable consumer would expect. See, e. g., L. Frumer and M. Friedman, Products Liability § 16A[4][f][i] at pp. 3B-124, 126 (1980); 1 M. Dixon, Drug Product Liability § 9.08[4] at pp. 9-119 (1980); Boland, Strict Liability   in Tort for Transfusing Contaminated Blood, 23 Ark.L.Rev. 236 (1969); Verlander, Article 2317 Liability: An Analysis of Louisiana Jurisprudence Since Loescher v. Parr, 25 Loy.L.Rev. 263, 268 (1979); Note, 71 Colum.L.Rev. 487 (1971); Note, 46 N.Y.U.L. Rev. 703 (1971).
+
+In the present case, plaintiffs proved (a) that the blood which Mrs. DeBattista received by transfusion was defective, i. e., unreasonably dangerous to normal use, (b) that it was a product which had been processed and distributed by the defendant blood bank, (c) that Mrs. DeBattista's injury might reasonably have been anticipated by one having actual or constructive knowledge of the defect, and (d) that Mrs. DeBattista's injuries were caused by reason of the defect. The defendants did not present any proof that the damage was caused by the fault of the plaintiffs. The blood bank, therefore, is liable to the plaintiffs.
+
+Defendant blood bank contends it cannot be held liable for damages caused another by its distribution of unwholesome blood unless the damaged person proves the harm resulted from the blood bank's negligence. However, for this proposition the blood bank relies on Article 1764, one of the general provisions on conventional obligations, which clearly does not govern tort liability.
+
+Article 1764(A) sets forth general rules applicable to various classes of contracts. Among these, it provides that a warranty is implied in every sale but may be modified or renounced, without changing the character of the contract or destroying its effect. Art. 1764(A)(2). As an exception to this general rule, Article 1764(B)(1) provides that the implied warranties of merchantability and fitness shall not be applicable to a contract for the sale of human blood, blood plasma or other human tissue or organs from a blood bank, and that such sales shall be considered sales of services, not commodities. That section provides:
+
+To impose strict liability on the preparer and distributor of blood under the circumstances of this case, however, it was not necessary for plaintiffs to establish an implied warranty as defined by Article 1764. A distributor of blood is strictly liable in tort when blood he places on the market creates an unreasonable risk of harm to others and, in fact, results in injury or disease to a human being. Although strict liability can also be based on a theory of an implied warranty running from the manufacturer to the plaintiff, Philippe v. Browning Arms,
+395 So. 2d 310
+(La.1981), Media Production Consultants, Inc. v. Mercedes-Benz of North America, Inc., 262 La. 80,
+262 So. 2d 377
+(1972), for the reasons set forth in Weber and this opinion, we think it clear that the liability is not one governed by the law of contractual warranties but by the law of strict liability in tort. Accordingly, rules defining and governing warranties that were developed to meet the needs of commercial transactions cannot properly be invoked to supersede Civil Code Article 2315 which serves the much broader purpose of governing the liability of a manufacturer or processor to those injured by his defective products.
+
+Moreover, Article 1764(B) is clear and free from all ambiguity. It abrogates nothing more than the "warranty of merchantability and fitness" implied by sales of blood. It provides that "for the purposes of this Article" only that blood, plasma, tissue and organs shall be regarded as services not commodities. To read between the lines of Article 1764 an unspoken legislative intent to modify the strict tort liability of blood   banks under Article 2315, while curiously leaving intact blood banks' liability for their negligent acts under Articles 2315 and 2316, would disregard the letter of the law under the pretext of pursuing its spirit and violate our cardinal rule for the application and construction of laws. Article 13. Indeed, it would not even pursue the true spirit of our law which, as expressed by Articles 2315 and 2317, requires the person to whom society allots the supervision, care or guardianship of the risk-creating thing to bear the loss resulting from creation of the risk, rather than some innocent third person harmed as a consequence of his failure to prevent the risk. Loescher v. Parr, supra, at 446.
+
+The court of appeal opinions disregarding the positive codal provisions under the pretext of pursuing their spirit do not represent correct interpretations of our law. E. g., Martin v. Southern Baptist Hospital, 352 So. 2d 351 (La.App. 4th Cir.1977), writ denied, 354 So. 2d 210 (La.1978); Adams v. New Orleans Blood Bank, Inc., 343 So. 2d 363 (La.App. 4th Cir.1977); Juneau v. Interstate Blood Bank, Inc. of Louisiana, 333 So. 2d  at 354 (La.App.3d Cir.), writ denied,
+337 So. 2d 220
+(La.1976); Koppenol v. St. Tammany Parish Hospital, 341 So. 2d 1242 (La.App. 1st Cir.1976), writ denied, 343 So. 2d 1067 (La.1977). The refusal of writs by this court, which is usually based upon incomplete records and ex parte applications and without hearing, is not decisional law. Garlington v. Kingsley,
+289 So. 2d 88
+(La.1974). In a civilian jurisdiction such as ours, in which courts are bound to follow the positive law, case law should not supplant legislative or constitutional authority. Ardoin v. Hartford Accident & Indemnity Co.,
+360 So. 2d 1331
+(La.1978); Garlington v. Kingsley, supra.
+
+Because the defendants prevailed in both lower courts, no assessment of the plaintiffs' damages has been made. Therefore, the case will be remanded to the court of appeal for an assessment of quantum. Dorry v. Lafleur,
+399 So. 2d 559
+(La.1981); Chappuis v. Sears Roebuck & Co.,
+358 So. 2d 926
+(La.1978); Holland v. Buckley,
+305 So. 2d 113
+(La.1974).
+
+REVERSED AND REMANDED TO COURT OF APPEAL.
+
+* * * * * *
+
+MARCUS, LEMMON, and BLANCHE, JJ., dissent and assign reasons.
+
+MARCUS, Justice (dissenting).
+
+I agree with the majority that the blood bank was not negligent. I disagree with the majority's conclusion that La.Civ.Code art. 1764(B)(1) is inapplicable in the instant case. The relationship between the blood bank and plaintiff is that of seller and purchaser. The warranty implied in every contract of sale as set forth in art. 1764(A)(2) would apply to the contract of sale here but for paragraph (B)(1) which states:
+
+Where, as here, the legislature has limited the implied warranty of the thing sold, I do not think that the blood bank can be held liable in contract nor under principles of strict liability in tort. Hence, I agree with the holding of the district court, affirmed by the court of appeal, that a blood bank which distributed diseased blood without negligence cannot be held liable for damages caused by a person who contracts hepatitis after a transfusion because of its unwholesome condition.
+
+Accordingly, I respectfully dissent.
+
+BLANCHE, Justice (dissenting).
+
+I respectfully dissent. The majority states that the words "unreasonably dangerous"   were included within the definition of legal fault to prevent manufacturers from becoming insurers of their own products. Then it concludes that blood contaminated with undetected and undetectable hepatitis virus, notwithstanding the use of "state of the art" testing procedures, is unreasonably dangerous to normal use because the risk created when a person receives tainted blood is greater than the "reasonable consumer" would expect. The result of the holding is that health care providers must always provide wholesome blood regardless of their present scientific inability to do so, or pay damages for injuries caused by tainted blood. If this result does not make blood providers insurers of their product, this writer is hard pressed to discern how.
+
+The legislature, apparently concerned with the inherent dangers in blood transfusions, has clearly stated that warranties of merchantability and fitness shall not be applicable to contracts for the sale of blood. C.C. art. 1764(B)(1). This statement, made at a time prior to this Court's "divining" of non-negligent fault theories from Civil Code Articles 2315-24, was clearly intended to prevent liability on the part of blood suppliers merely because transfused blood caused sickness, and was addressed to the only theory then considered available (until today) for the pursuit of such a claim. To draw a distinction now between "fitness" in contract and "unreasonable danger" in non-negligent fault tort for purposes of this action destroys the very meaning which the legislature sought to impose in the passage of Article 1764(B)(1).
+
+Even assuming the inapplicability of Art. 1764(B)(1) to this case, plaintiff should not be entitled to recover on the basis of unreasonable danger in normal use.
+
+The majority interprets the term "unreasonably dangerous" to mean that "the [specific] article which injured the plaintiff was dangerous to an extent beyond that which would be contemplated by an ordinary consumer." Such an approach places blood transfusions in the same category as shampoos, deodorants, candy bars, toasters, automobiles, oil changes and other everyday commodities and services about which a reasonable consumer can be expected to know something. It compares apples and oranges. Blood is necessary to the sustenance of life. The normal use of a blood transfusion is to preserve life. Without the ability to transfuse blood, the medical profession would be effectively prevented from all but the most minor surgical procedures. Unfortunately, at present, there is just no way that science can detect hepatitis virus in all blood units at all times. Thus, some people who receive blood transfusions will become ill with hepatitis. The only way to absolutely insure against hepatitis infection from blood transfusions is to refrain from administering them. However, doctors, in light of their training and experience, must often recommend the performance of medical procedures which will require blood transfusions. Such decisions, made with the informed consent of patients, are based upon a balancing of the probability of reaching the desired medical effect and the possibility of harmful side effects. The risk of contracting hepatitis is but one chance a patient necessarily takes when he agrees to allow a blood transfusion. Thus, the expectations of a "reasonable consumer" concerning blood transfusions in general should be irrelevant.
+
+* * * * * *
+
+LEMMON, Justice, dissenting.
+
+While I agree that the supplying of defective blood may give rise to a tort action based on fault, I disagree that the decision should be based on liability without fault.
+
+The term "unreasonable risk of harm", as applied to the strict liability imposed by C.C. Art. 2317, is the key consideration in this case. The strict liability theory is that a person who has a thing under his control should be absolutely responsible for the damages caused by a defect in the thing, even though the person has no knowledge of the defect, when the defect creates an unreasonable risk of harm. In determining the reasonableness of the risk, a court must look to the benefits derived from the use of the thing and must weigh those benefits   against the probability and degree of harm associated with the use.
+
+In Jones v. City of Baton Rouge,
+388 So. 2d 737
+(La.1980) this court held that a municipality was absolutely liable for a broken grate on a drainage opening in the street when a person fell through the grate and received injuries. However, in Shipp v. City of Alexandria, 392 So. 2d 1078 (La.1980) the court held that the city was not liable for a defective minor variation in the surface of the street, although a person without fault on her own part suffered an injury because of that defect, because the defect did not create a risk of harm which was unreasonable when compared to the benefits derived by the public from the government's furnishing of streets.
+
+In the present case the hospital furnished blood to patients in need of a transfusion, and a certain percentage of that blood was contaminated with hepatitis, which at that time could only be detected with 20% accuracy. The degree of probability of hepatitis in the blood furnished to patients thus created a risk of harm to the patients, but that risk of harm must be weighed against the benefits to be derived from a blood transfusion. When all facts and circumstances are considered and properly weighed, I cannot conclude that the risk of harm is so unreasonable as to require imposition of absolute liability on the furnisher of blood.[1]
+
+It is entirely possible in this case that, as a question of fact, the supplier of blood was negligent in failing to warn plaintiff as soon as the supplier discovered that the blood donor's test for hepatitis was positive in his subsequent attempt to sell blood. But the supplier of blood should not be held strictly liable, as a matter of law, because the blood contained hepatitis when the supplier was unable to test effectively for this danger or to prevent its occurrence.
+
+[1]  Of course, this conclusion would not defeat a claim based on failure to obtain informed consent.

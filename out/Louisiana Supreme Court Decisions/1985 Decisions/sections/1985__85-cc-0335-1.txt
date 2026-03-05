@@ -1,0 +1,107 @@
+85-CC-0335
+Goldking Properties Co. v. Primeaux
+https://law.justia.com/cases/louisiana/supreme-court/1985/85-cc-0335-1.html
+
+85-CC-0335
+Goldking Properties Co. v. Primeaux
+Court: Louisiana Supreme Court
+Release date: 1985-10-21
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1985/85-cc-0335-1.html
+
+477 So. 2d 76 (1985)
+
+GOLDKING PROPERTIES COMPANY
+v.
+Roland U. PRIMEAUX, in his capacity as Clerk of Court and Ex Officio Recorder of Mortgages for the Parish of Cameron, and Florence Streater Taussig, et al.
+
+No. 85-CC-0335.
+
+Supreme Court of Louisiana.
+
+October 21, 1985.
+
+William E. Shaddock, Bernard H. McLaughlin, Jr., William B. Monk, Stockwell, Sievert, Viccellio, Clements & Shaddock, Lake Charles, for defendant-applicant.
+
+J.B. Jones, Jones, Jones, & Alexander, Cameron, John M. McCollam, Philip N. Asprodites, Andrew McCollam, III, Gordon, Arata, McCollam, Stuart & Duplanits, New Orleans, for respondents.
+
+MARCUS, Justice.
+
+On August 13, 1984, a money judgment was rendered in the district court, after a   trial on the merits, in favor of Florence Streater Taussig and others and against Goldking Properties Company.[1] The same day, plaintiffs in that action recorded the judgment in the mortgage records for the Parish of Cameron. Subsequently, Goldking perfected a suspensive appeal of the judgment. An appeal bond was provided in the amount of $1,500,000. Goldking, which engages in the exploration and development of oil and gas prospects, then sought to sell an interest in certain of its producing properties in this state. The purchasers withheld part of the purchase price pending resolution of the litigation, contending that the recorded judgment created a cloud on the title of the property. Goldking petitioned for a writ of mandamus directing the clerk of court to cancel the judgment from the mortgage records. The trial court denied Goldking's request. The court of appeal reversed and ordered that the recorded judgment be cancelled. On application of Taussig and others, we granted certiorari to review the correctness of that decision.[2]
+
+The sole issue presented for our consideration is whether a judgment recorded in the mortgage records can be cancelled after a suspensive appeal from that judgment has been perfected.
+
+The Code of Civil Procedure sets forth the provisions for suspensive appeals. It defines such an appeal as one that "suspends the effect or the execution of an appealable order or judgment." La.Code Civ.P. art. 2123. Neither the Code of Civil Procedure nor the Civil Code, however, defines what constitutes an "execution" or an "effect" of a judgment.[3]
+
+The word "effect" was added to the definition of a suspensive appeal in 1960 when the Code of Civil Procedure was enacted. The earlier Codes of Practice simply provided that a suspensive appeal "shall stay execution and all further proceedings" until a definitive judgment could be rendered on the appeal.[4] In a number of cases before 1960, this court sought to determine what constituted "an execution" of a judgment. A very early case held that the recordation of a judgment was not an execution of it.[5] Later, in a series of cases from 1903 until 1927, this court concluded that the recordation of a judgment, in fact, did constitute an execution of that judgment. A judgment debtor, therefore, could cancel the judgment from the mortgage records after a suspensive appeal from the judgment had been perfected.[6]
+
+*78 If we were to find that recordation of a judgment was an execution of it, as did the previous decisions of this court, then under La.Code Civ.P. art. 2252, a judgment could not be recorded during the delay for a suspensive appeal, even if no suspensive appeal were taken.[7] That article provides that the judgment creditor may proceed with the execution of a judgment only after the delay for a suspensive appeal has elapsed. This issue recently was addressed by the Louisiana Legislature which amended La.Code Civ.P. art. 2252 to provide:
+
+1985 La. Acts No. 523 (portion added in 1985 is underlined). Although the amendment postdates this case, and therefore does not apply to it, we find it unnecessary to decide whether the recordation of a judgment constituted an execution of that judgment prior to the amendment. If recordation were an execution of a judgment before the 1985 amendment, the recorded judgment would be suspended by the perfection of a suspensive appeal. Even if recordation did not constitute an execution of the judgment, it would still be suspended because recordation is an effect of a judgment. We find that when the definition of a suspensive appeal was changed in 1960,[8] the legislature intended the added word "effect" to have a meaning independent from the word "execution." While the 1985 amendment to article 2252 provides that recordation of a judgment is not an execution of it, the recordation still constitutes an effect of that judgment.[9] Since the effect of the judgment is suspended during the pendency of a suspensive appeal, the recorded judgment is null and void during that period. A judgment creditor can secure the cancellation of the judgment after he has perfected a suspensive appeal.
+
+*79 This result accords with the definition of a judicial mortgage in the Civil Code.
+
+According to these articles, a provisional, as well as a final, judgment can be recorded, and the resulting judicial mortgage has an effect from the date of recordation. The Code of Civil Procedure complements the definition of a judicial mortgage by providing that this effect of the judgment, its recordation, is suspended upon perfection of a suspensive appeal.
+
+Our holding also provides the most equitable result. The bond posted to perfect a suspensive appeal amply protects the judgment creditor. Although the judgment creditors in the instant case complain that the amount of the bond is inadequate, they have not sought to test the sufficiency of the bond in the trial court. If a judgment debtor who perfected a suspensive appeal from a recorded judgment was not allowed to obtain cancellation of the judicial mortgage, he would be placed in an intolerable position. Not only would he have to post a bond, but all of his immovable property in any parish where the judgment was recorded would be essentially taken out of commerce. Therefore, equity, as well as the Civil Code and the Code of Civil Procedure, mandates that a judgment debtor be allowed to cancel a judicial mortgage after a suspensive appeal from the judgment has been perfected.
+
+This holding, however, may seem in conflict with La.Civ.Code arts. 3323, 3324 and 3381.[10] These articles contemplate that a recorded judgment will remain on the mortgage records even after an appeal has been taken. The Civil Code provides for appeals in general; whereas, the Code of Civil Procedure provides specifically for suspensive appeals. This court repeatedly has held that if two statutes are in conflict, the one more specifically directed to the matter at issue prevails as an exception to the statute that is more general in character. La.Civ.Code arts. 17 and 18; Smith v. Cajun Insulation, Inc.,
+392 So. 2d 398
+(La. 1980); State ex rel. Bickman v. Dees,
+367 So. 2d 283
+(La.1978). In determining the effect of a suspensive appeal on a judicial mortgage, the Code of Civil Procedure controls.[11]
+
+For the reasons assigned, the judgment of the court of appeal is affirmed.
+
+LEMMON, J., concurs and assigns reasons.
+
+DIXON, C.J., dissents.
+
+CALOGERO, J., dissents and assigns reasons. See La., 478 So. 2d 1207.
+
+LEMMON, Justice, concurring.
+
+I agree with the reasoning of the majority, but believe that the pertinent "effect"   of a judgment is the judicial mortgage which is created when the judgment is recorded.
+
+I further point out that a judgment creditor is protected by the required security for a suspensive appeal, even when the judgment is not purely a money judgment, as in this case.[1] If the judgment is for a sum of money, the judgment creditor is protected by security which must be at least 150% of the amount of the judgment, and the solvency of the surety can be insured by simple procedures. If the judgment is other than for a sum of money, the judgment creditor is protected by security in an amount sufficient to assure satisfaction of the judgment and any damages which may be caused by the delay.[2] And if the judgment relates to immovable property, the judgment creditor can obtain protection by filing a lis pendens, which effectively removes the property in question from commerce, but does not affect any other immovable property owned by the judgment debtor.
+
+[1]  Suit was filed against several other defendants as well, but the only defendant of importance for purposes of this opinion is Goldking. Proceedings were entitled "Florence Streater Taussig, et al. v. Goldking Properties Company et al.," No. 100-8979, 38th Judicial District Court, Cameron Parish, Louisiana.
+
+[2]  465 So. 2d 726 (La.1985).
+
+[3]  A recent amendment to La.Code Civ.P. art. 2252 (1985 La. Acts No. 523) does declare what is not an execution of a judgment. See subsequent discussion in opinion.
+
+[4]  La.C.P. art. 575 (1870); La.C.P. art. 575 (1825). The present La.Code Civ.P. art. 2123 also is derived from La.C.P. art. 624 (1870) and the former La.R.S. 13:4212 (repealed by 1960 La. Acts No. 32 § 2). Neither of these provisions referred to the "effects" of a judgment.
+
+[5]  Chaffe v. Walker, 39 La.Ann. 35, 1 So. 290 (1887). In that case, no suspensive appeal had been taken. Rather, the issue presented involved the ranking of two judicial mortgages in view of La.C.P. art. 555, which provided that judgments "shall be considered as having effect only from the last day of the term" regardless of when they were signed. This court held that the judicial mortgages ranked chronologically from the date of inscription, though both were rendered during the same term, reasoning that "having effect" meant only that the judgment could not be executed until the last day of the term, and that recordation of the judgment did not constitute execution of it.
+
+[6]  In Dannenmann & Charlton v. Charlton, 113 La. 276, 36 So. 965 (1903), judgment was rendered in favor of the defendant on his reconventional demand against the plaintiffs. After the plaintiffs had perfected a suspensive appeal, the defendant recorded the judgment of the district court. This court held that a judgment which has been suspensively appealed from could not be executed pending the appeal, and, therefore, the judgment creditor could not record his judgment.
+
+In Cluseau v. Wagner, 126 La. 375, 52 So. 547 (1910), we expanded the decision in Dannenmann, and held that if a judgment is first inscribed and thereafter a suspensive appeal is perfected, persons in interest could have the inscription cancelled. This court found that inscription of the judgment was "in the nature of an execution," but that a judgment could be inscribed prior to suspensive appeal delays, and if no such appeal was taken, it should have effect from the date of inscription. See also Daly v. Brock, 133 La. 752, 63 So. 318 (1913). Later, in State ex rel. Macheca v. Dunn, 148 La. 460, 87 So. 236 (1921), we maintained that the recordation of a judgment in the mortgage records constituted an execution of the judgment. Dunn involved the cancellation of the inscription of an out-of-state judgment which a Louisiana court had not recognized or made executory. This court took the opportunity to state that a judgment could not be executed, even to the extent of recording it on the mortgage records, until the judgment had become final and executory.
+
+Finally, in Denny v. Jefferson Constr. Co., 164 La. 775, 114 So. 650 (1927), a creditor of the defendant had made an out-of-state judgment executory in Louisiana. The defendant obtained an injunction. When the injunction was dissolved, the plaintiff recorded the judgment in the mortgage records. On the day of recordation, the defendant suspensively appealed the judgment dissolving the injunction. Although the judgment was ultimately affirmed, liens and claims against the defendant were recorded during the pendency of the appeal. We held that even though the defendant had not sought to cancel the mortgage, recordation constituted an execution of the judgment in violation of the suspensive appeal, and, therefore, the judicial mortgage was null and void and had no effect against third parties during the pendency of the appeal. See also Ortiz v. Demarest, 455 So. 2d 1195 (La.App. 4th Cir.), writ denied, 457 So. 2d 1 (La.1984); D'Arbonne Sewerage, Inc. v. Sanders, 255 So. 2d 855 (La.App.2d Cir.1971); Choctaw Home Builders, Inc. v. Lena, Inc., 213 So. 2d 339 (La.App. 1st Cir.1968); Treigle v. Cole, 131 So. 2d 850 (La.App. 4th Cir.1961).
+
+[7]  See Ortiz v. Demarest, 455 So. 2d 1195 (La.App. 4th Cir.), writ denied, 457 So. 2d 1 (La.1984).
+
+[8]  This change resulted in article 2123 of the Code of Civil Procedure which provides that a suspensive appeal suspends both the effect and the execution of the judgment.
+
+[9]  After the 1985 amendment, recordation of a judgment after rendition but before the suspensive appeal delays have elapsed would be permitted. La.Code Civ.P. art. 2252 only prohibits the execution of a judgment during this delay (which according to the amendment is not recordation thereof). However, recordation does have an effect during this period.
+
+[10]  La.Civ.Code art. 3323 provides:
+
+If there be an appeal from the judgment and it is confirmed, the mortgage relates back to the day when the judgment was recorded.
+
+La.Civ.Code art. 3324 provides:
+
+When on the appeal the judgment has only been reversed in part, the mortgage still exists for that part which has not been altered or reversed.
+
+La.Civ.Code art. 3381 provides:
+
+When a person, who has obtained a judgment on which an appeal lies, has had it recorded, if this judgment is afterwards reversed or confirmed in part only, the party against whom the inscription had been made, may, on motion before the judge who rendered the judgment, after due notice to the other party, obtain an order for the erasure or reduction of the inscription, as the case may require; and if it be a case for erasure, it shall be made at the expense of the party making the inscription.
+
+[11]  Chaffe v. Walker, 39 La.Ann. 35, 1 So. 290 (1887), is overruled to the extent that it conflicts with this decision. See supra n. 5.
+
+[1]  The judgment in this case is for a sum of money and for cancellation of a mineral lease.
+
+[2]  The judgment creditor in this case complains that the amount of the security was inadequate, but did not seek an increase in the amount in the trial court or a review of the amount in a higher court.

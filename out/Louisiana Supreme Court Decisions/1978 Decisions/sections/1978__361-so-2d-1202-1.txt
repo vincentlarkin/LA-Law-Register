@@ -1,0 +1,65 @@
+61451
+State v. Pool
+https://law.justia.com/cases/louisiana/supreme-court/1978/361-so-2d-1202-1.html
+
+61451
+State v. Pool
+Court: Louisiana Supreme Court
+Release date: 1978-09-05
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/361-so-2d-1202-1.html
+
+361 So. 2d 1202 (1978)
+
+STATE of Louisiana
+v.
+Willie James POOL.
+
+No. 61451.
+
+Supreme Court of Louisiana.
+
+September 5, 1978.
+
+William L. Lowe, Shreveport, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John A. Richardson, Dist. Atty., Stephen A. Glassell, Asst. Dist. Atty., for plaintiff-appellee.
+
+CALOGERO, Justice.
+
+By bill of information filed September 13, 1977 Willie James Pool was charged with theft and receiving stolen things, violations of La.R.S. 14:67 and 14:69. After a jury trial he was convicted of receiving stolen things of a value of $700 and was sentenced to nine years in the custody of the Department of Corrections. Pool relies on three assignments of error for a reversal of his conviction and sentence, only one of which, Assignment No. 2, raises issues requiring discussion.[1]
+
+*1203 ASSIGNMENT OF ERROR NO. 2
+
+In its motion for discovery filed September 15, 1977, the defense, seeking to avail itself of the right of discovery granted by Louisiana Code of Criminal Procedure, article 719, sought an order permitting it to inspect and copy any results or reports of physical or mental examination, and of scientific tests or experiments made in connection with or material to the case of which the District Attorney had custody, control or knowledge and which was intended for use at trial. The State responded to this portion of the motion by stating that "[n]o scientific tests or experiments were made in connection with this investigation."
+
+During cross-examination of a Shreveport police officer testifying for the State, defense counsel, being apprised that customary processing of a stolen vehicle includes dusting it for fingerprints as well as photographing it, asked if the office dusted for fingerprints, and received an affirmative answer. Defense proceeded with another line of questioning, but when the State conducted redirect examination, it inquired whether the officer had found any fingerprints of the defendant in the vehicle and received an affirmative answer. The office ultimately revealed that he found the defendant's fingerprint on the car's inside rear view mirror.
+
+The defense protested the State's inquiries outside the jury's presence, basing its objection on the State's failure to apprise of the existence of the fingerprint evidence when it responded to the defense discovery motion. The State argued it had not intended to use the evidence and had resorted to its introduction only after the defense "opened the door" by its cross-examination. Rejecting a defense assertion that the State's misrepresentation prompted its inquiry on cross-examination, the court accepted the State's claim that it had not intended use of the fingerprint evidence and overruled the objection.
+
+The right to discover under certain circumstances the matter sought by the defense was granted in criminal cases by Act 515 of 1977. As previously noted, Article 719, one of the newly drafted articles of the Code of Criminal Procedure providing for expanded criminal discovery, entitles the defense to results or reports of scientific tests or experiments if ". . . made in connection with or material to the particular case, that are in the possession, custody, control, or knowledge of the district attorney and intended for use at trial" (Emphasis added). On appeal defendant argues that the fingerprint evidence was discoverable notwithstanding the prosecutor's trial assertion that he had not intended to use the fingerprint evidence at trial. Pool urges that the trial court erred in using a completely subjective standard to determine the "intended for use at trial" requirement of the statute, arguing that employment of such a subjective standard would allow the State to reserve evidence for rebuttal or cross-examination use, thus hampering full defense cross-examination by inducing fear that undisclosed evidence may unwittingly be uncovered.
+
+This argument contending for other than a literal interpretation of the statute's "intended for use at trial" requirement is without reversible merit. In the instant case, as noted at trial, the State's forbearance on direct examination, coupled with the trial judge's observation that there was no mention of fingerprint evidence in the State's opening statement,[2] adequately establishes that there was no intent to use the evidence at trial, a prerequisite for its discovery.
+
+Pool's complaint based on the State's misrepresentation in its response to his discovery motion presents a somewhat more difficult issue. The situation which arose is similar to those in which inaccurate or misleading answers in response to a motion for bill of particulars lull a defendant into a misapprehension about the strength of the   State's case and cause prejudice when evidence, the possession of which the State has denied, is subsequently introduced at trial. See State v. Boothe,
+310 So. 2d 826
+(La.1975); see also State v. Hatter,
+350 So. 2d 149
+(La.1977). In Boothe, the State had responded to a motion for a bill of particulars seeking the content of confessions, admissions and statements by asserting that it had none. At trial, the State gave timely notice of intention to use an oral inculpatory statement, to which the defendant objected on the basis of the representation in the bill of particulars that there was no such statement. The overruling of the objection and the subsequent introduction of the inculpatory statement were urged as error on appeal. We held that introduction of the statement under the circumstances related was error, amounting to judicial approval of patent misrepresentation, and reversed Boothe's conviction and sentence.
+
+In the instant case, even if the Court considered unavoidable a determination that introduction of the fingerprint evidence was error based on the rationale of Boothe, reversal of the defendant's conviction and sentence is not warranted. Not every error mandates the reversal of a conviction and sentence. La.Code Crim.Pro. art. 921; State v. O'Blanc,
+346 So. 2d 686
+(La.1977). In the same vein, we have held that not every violation of a statutory right must result in reversal of a conviction. State v. Ardoin,
+340 So. 2d 1362
+(La.1976). In the O'Blanc case, and in State v. Boothe, supra, the Court expressly considered the importance of the offending evidence as it related to the balance of the State's case. O'Blanc noted that the evidence of the defendant's guilt, including the testimony of a co-conspirator, was substantial. In Boothe, the Court emphasized that in light of the testimony of five officers concerning the statement, it could not be argued that the statement had negligible impact or was non-prejudicial.
+
+In the instant case evidence that the defendant's fingerprint was found in the stolen car did minimal damage considering the overwhelming eye-witness testimony of three police officers which established, without contradiction, Pool's presence inside the stolen car, which he was driving when he was arrested. While it is likely that the introduction of the fingerprint evidence was error, under the particular circumstances present reversal is not warranted. La.Code Crim.Pro. art. 921.
+
+For the reasons stated hereinabove, we affirm the conviction and sentence of the defendant.
+
+AFFIRMED.
+
+[1]  Assignments Nos. 1 and 3 complain that questions asked by the trial judge of a State's witness regarding features of the stolen car involved in this case were comments on the evidence and that the ruling qualifying a State's witness as an expert in the field of valuation of used cars over defense objection was error. Our careful examination and consideration of these assignments disclosed that they do not present arguably reversible error.
+
+[2]  La.C.Cr.P. art. 766 requires that "[t]he opening statement of the state shall . . . set forth, in general terms, the nature of the evidence by which the state expects to prove the charge." (Emphasis added.)

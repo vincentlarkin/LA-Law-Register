@@ -1,0 +1,91 @@
+62550
+State v. Lawrence
+https://law.justia.com/cases/louisiana/supreme-court/1978/365-so-2d-1356-1.html
+
+62550
+State v. Lawrence
+Court: Louisiana Supreme Court
+Release date: 1978-12-15
+Author: SANDERS, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/365-so-2d-1356-1.html
+
+365 So. 2d 1356 (1978)
+
+STATE of Louisiana
+v.
+David Hill LAWRENCE.
+
+No. 62550.
+
+Supreme Court of Louisiana.
+
+December 15, 1978.
+
+Rehearing Denied January 26, 1979.
+
+Henry H. Lemoine, Jr., Wilbert J. Saucier, Jr., Lemoine & Saucier, Pineville, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., William C. Pegues, III, Dist. Atty., William E. Tilley, First Asst. Dist. Atty., Edwin L. Cabra, Asst. Dist. Atty., for plaintiff-appellee.
+
+SANDERS, Chief Justice.
+
+The Grand Jury of Vernon Parish indicted the defendant, David Hill Lawrence, for second degree murder, a violation of LSA-R.S. 14:30.1. He was tried by jury and found guilty as charged. The trial judge sentenced him to life imprisonment, without parole, probation, or suspension of sentence for forty years. The defense preserved twelve assignments of error, eight of which defendant relies upon for reversal of his conviction and sentence.
+
+The State's theory of the case is that Lawrence and his wife were involved in an   altercation at their residence. During the altercation, he repeatedly struck his wife's head against the floor. The wife died of the injuries received.
+
+In these assignments of error, the defendant argues that the trial court erred in denying his motion to quash the indictment. This Court granted supervisory writs to review the trial court's ruling on the motion to quash. State v. Lawrence, La., 345 So. 2d 54 (1977). After reviewing the issues, we affirmed the trial court's ruling. Hence, these assignments are without merit. State v. Lawrence, La.,
+351 So. 2d 493
+(1977).
+
+During the direct examination of Detective James Hagan, the prosecutor questioned the witness concerning the defendant's refusal to give any statement to the police without the presence of his attorney and defendant's refusal to sign a waiver of rights form. At trial, defense did object to these questions. He argued that the question relating to the defendant's refusal to give a statement without the presence of his attorney called for hearsay. When the prosecutor asked questions concerning the waiver of rights form, the defense requested the trial judge to give an admonition to the jury. The trial judge granted the request.[1]
+
+The defense never objected at trial that the questions constituted prejudicial remarks concerning the exercise of defendant's right to remain silent. Nor did the defense request a mistrial. The only action requested by defendant was granted.
+
+These assignments are without merit.
+
+In this assignment of error, the defendant complains of the admission by the trial judge of a telephone conversation between the defendant and Sergeant John Mahoney. Sergeant Mahoney had been to defendant's residence, where he found defendant's wife injured.
+
+Sergeant Mahoney testified, over objection, that the following morning the defendant telephoned him and told him that he thought his wife was dead. The trial judge admitted the testimony, ruling that conversation was part of the res gestae. Because of the lapse of time and the absence of a showing that the statement was uttered "under the immediate pressure of the occurrence," we agree with defense counsel that it was not part of the res gestae. See LSA-R.S. 15:447, 448. As the prosecutor contended in the trial court, however, we are of the view that the statement was admissible as a declaration against penal interest. See State v. Gilmore, La.,
+332 So. 2d 789
+(1976) and the authorities cited.
+
+On this basis, we conclude that the assignment of error is without merit.
+
+The defendant contends that the trial court erroneously overruled his objection to the prosecutor's questions concerning the defendant's failure to make statements to law enforcement officers and to testify before the Grand Jury. An examination of the record fails to disclose an overruled objection on these grounds.
+
+Initially, during the State's cross-examination of the defendant, the defense raised this objection:
+
+After clarification, the defense acquiesced in this line of questioning.[2] Subsequently, the defense objected to a question posed by the prosecutor. The trial court sustained the objection, and the defense requested no further action.
+
+We conclude that there is no merit in this assignment of error.
+
+The defendant argues that the trial court erred in allowing Detective James Hagan to testify on the State's rebuttal. During the State's presentation of its case, Hagan inadvertently violated the court's sequestration rule. He was present in the trial judge's chambers when the testimony of a witness, John Mahoney, was allegedly discussed. The trial court ruled that the State could not recall Hagan during the State's presentation of its case.
+
+During the rebuttal, Hagan was called as a witness. The defense objected, contending that Hagan had violated the sequestration order and thus was precluded from testifying. The trial court noted that the violation of the order was not the witness's fault. Exercising its discretion under Louisiana Code of Criminal Procedure Article 764, the court allowed Hagan to testify but ruled he could not testify to anything related to Mahoney's testimony.
+
+Sequestration is designed to prevent the influencing of witnesses by the testimony of prior witnesses and to strengthen the role of cross-examination in developing the facts. State v. Jackson, La.,
+362 So. 2d 1082
+(1978); State v. Mullins, La.,
+353 So. 2d 243
+(1977). Article 764 permits the trial court to modify its sequestration order in the interest of justice, granting discretion in the trial judge. A review of the record establishes that no undue influence resulted from the inadvertent violation of the sequestration order. The limitation on the witness's rebuttal testimony adequately protected the defendant's rights.
+
+This assignment of error is without merit.
+
+During the State's rebuttal, the prosecutor questioned Detective Hagan about the location of the dining table and chairs in the defendant's kitchen. After Hagan testified as to the location of these items, the prosecutor elicited testimony concerning a sketch made by this witness. Apparently, Hagan had made a crime-scene sketch on the day he investigated Mrs. Lawrence's death. The State attempted to introduce this sketch into evidence. The defense objected, arguing that Hagan was not a skilled draftsman and that the sketch was inaccurate. The witness was traversed by the defense, and he testified that the drawing was not to scale and that the sketch was an approximation.
+
+The trial court correctly allowed the State to introduce the drawing. It corroborated the testimony of the witness and was drawn by him on the day he investigated the crime scene. The defense was allowed to elicit testimony which pointed out the inaccuracies of the drawing and the fact that if there were discrepancies between the sketch and the photographs taken of defendant's home, the photographs would show the correct scene. The lack of skill as a draftsman and the inaccuracies of the drawing go to the weight to be accorded to the sketch but do not defeat its admissibility.
+
+We conclude that the assignment of error is without merit.
+
+For the reasons assigned, the conviction and sentence are affirmed.
+
+DENNIS, J., dissents, finding that the defense attorney's objection sufficiently apprised the trial judge of the violation of defendant's privilege against self-incrimination.
+
+[1]  The trial court gave the following admonition:
+
+"The Constitution of the United States guarantees every accused person the right to remain silent; it places an encumbent duty upon the law enforcement officers to go through this business of informing him of his constitutional rights. You're to draw no conclusions whatsoever if the accused did not agree to sign or agree to say anything, because he was told he didn't have to."
+
+[2]  Defense counsel stated:
+
+"Then we'll let him answer." [Tr. 462.]

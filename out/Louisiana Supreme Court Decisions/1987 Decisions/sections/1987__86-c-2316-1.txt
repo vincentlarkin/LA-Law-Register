@@ -1,0 +1,101 @@
+86-C-2316
+Tate v. Charles Aguillard Ins. & Real Est.
+https://law.justia.com/cases/louisiana/supreme-court/1987/86-c-2316-1.html
+
+86-C-2316
+Tate v. Charles Aguillard Ins. & Real Est.
+Court: Louisiana Supreme Court
+Release date: 1987-06-22
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/86-c-2316-1.html
+
+508 So. 2d 1371 (1987)
+
+Richard TATE, M.D.
+v.
+CHARLES AGUILLARD INSURANCE & REAL ESTATE, INC., et al.
+
+No. 86-C-2316.
+
+Supreme Court of Louisiana.
+
+June 22, 1987.
+
+*1372 Jeffery M. Bassett, Morrow & Morrow, Opelousas, for appellant-plaintiff.
+
+James C. Lopez, H. Douglas Hunter, Guglielmo, Lopez & Tuttle, Jerry J. Falgoust, Brinkhaus, Dauzat & Falgoust, Opelousas, John Nickerson Chappuis, John P. Wolff, III, Voorhies & Labbe, Lafayette, for appellee-defendant.
+
+DENNIS, Justice.
+
+We granted certiorari to consider whether the insurer of an animal under a livestock mortality insurance policy may tacitly waive a condition precedent that the animal must be in sound health at the inception of the policy. After a trial by jury, verdicts were rendered in favor of the owner of a deceased thoroughbred stallion against a livestock mortality insurer, as well as the owner's local insurance agent and foreign broker. On appeal, the court of appeal reversed, concluding that the policy never came into effect due to the failure of the horse to meet the condition precedent of sound health and that the plaintiff was not entitled to recover under the theory of estoppel, reformation or ratification. 494 So. 2d 1240 (La.App. 3d Cir.1986). We affirm. The doctrine of waiver is available to an insured in proving that the insurer waived a condition precedent to coverage under the policy. However, In this case we cannot give deference to the jury verdict as constituting a finding of waiver because no instruction or interrogatory regarding waiver was submitted to the jury, and we find from our independent review that the evidence preponderates against a waiver of the sound health condition precedent by the insurer. The court of appeal's failure to consider the waiver issue, therefore, did not prevent it from reaching a correct result, and its decision was sound in all other respects.
+
+Dr. Richard Tate owned a thoroughbred stallion named British Colonial. Acting through his local agent and a London broker, Dr. Tate paid a premium of $4,500 and obtained a binding agreement on October 19, 1981 from a group of underwriters, known as the Milligan Syndicate, at Lloyd's of London, to insure the life of British Colonial in the amount of $100,000 for a term of one year commencing on October 30, 1981. The binder, or cover-debit note, was subject to a condition precedent to liability under Lloyd's standard livestock policy that the insured animal be in sound health at the commencement of insurance. British Colonial became ill with a neurological   disease on October 26, 1981 and was put to death on December 25, 1981. Therefore, it is undisputed that the horse was not in sound health on October 30, 1981, the date insurance was due to commence, as required by the condition precedent.
+
+Nevertheless, Dr. Tate brought suit against the Milligan Syndicate, the London broker and his local agent, and contended that he should be permitted to recover from them under theories of equitable estoppel, ratification and reformation. He argued that the defendants purposefully or negligently retained his premium during the animal's illness and failed to notify him promptly of the denial of coverage, thereby effectively preventing him from obtaining other insurance or consigning the horse to euthanasia in November, which would have been covered under a previous policy. After a trial by jury, verdicts were rendered against the defendants and in Dr. Tate's favor.
+
+On appeal, however, the court of appeal reversed the judgments against the defendants, concluding essentially that: (1) The Milligan Syndicate was not liable to Dr. Tate under the standard Lloyd's mortality livestock policy because the insured animal failed to meet the condition precedent of sound health at the commencement of insurance; (2) Dr. Tate could not recover under the doctrine of equitable estoppel because he failed to show that he had been induced to change his position to his detriment, as once the horse became ill Dr. Tate would not have been able to insure the horse with another carrier against death caused by the existing illness and Dr. Tate would not have been able to obtain approval from his previous underwriter to euthanize the horse during that policy's coverage because the animal's case did not become hopeless until late December; (3) the contract of insurance could not be reformed to delete the condition precedent because the original agreement had not been induced by error or fraud; and (4) the theory of ratification was unavailable because Dr. Tate had not proved either that an unauthorized agent of the insurer agreed to cover the risk or that the insurer had ratified such an agreement.
+
+We find no fault with these conclusions by the court of appeal. We granted certiorari to consider argument made by Dr. Tate but not dealt with in the appellate opinion. Dr. Tate contended that the Milligan Syndicate "played the risk", i.e., that the syndicate, with knowledge of the potential claim, purposefully delayed denial of coverage in the hope that the horse's recovery would enable the syndicate to retain the $4,500 premium. In other words, Dr. Tate claimed, in unorthodox terms, that the Milligan Syndicate waived the condition precedent of sound health with respect to the illness which befell British Colonial on October 26, 1981. Consequently, the issues of fact and law bypassed by the court of appeal were whether the condition precedent can be waived tacitly, and if so, whether the record supports Dr. Tate's allegations that the Milligan Syndicate waived the sound health condition precedent in this case. Because the legal issue raised is significant and because it appeared Dr. Tate may have proved his case factually, we granted his application for further review.
+
+After considering the evidence and the arguments of counsel, we conclude however, that we should affirm the court of appeal judgment. Although upon proper proof an insurer may be held to have tacitly waived such a condition precedent, we find that the evidence does not prove the facts necessary to support the theory of waiver.
+
+Waiver is usually defined as the intentional relinquishment of a known power or privilege. Ledoux v. Old Republic Life Ins. Co., 233 So. 2d 731 (La.App. 3d Cir. 1970) cert. den. 256 La. 372,
+236 So. 2d 501
+(1970); Comment, "Waiver and Estoppel in Louisiana Insurance Law", 22 La.L.Rev. 202 (1961); Couch on Insurance 2d § 35:249 (Rev. ed. 1985); Appleman, Insurance Law and Practice § 9081 (1981); see also Highlands Ins. Co. v. Allstate Ins. Co., 688 F.2d 398 (5th Cir.1982); Mardirosian v. Lincoln Nat. Life Ins. Co., 739 F.2d 474   (9th Cir.1984). Waiver occurs when there is an existing right, a knowledge of its existence and an actual intention to relinquish it, or conduct so inconsistent with the intent to enforce the right as to induce a reasonable belief that it has been relinquished. Id.
+
+Waiver has been extensively applied by the common law courts in the field of insurance law. However, these courts have disagreed over whether waiver is available to broaden the coverage of a policy so as to protect the insured against risks not included or expressly excluded. A majority agree that waiver cannot be invoked for this purpose. Allstate Ins. Co. v. Walsh, 115 Misc.2d 907, 454 N.Y.S.2d 774 (Sup.Ct. 1982); State Farm Mut. Auto. Ins. Co. v. Hartford Acci. & Indem. Co.,
+646 S.W.2d 379
+(Mo.App.1983); Allstate Ins. Co. v. Moore,
+429 So. 2d 1087
+(Ala.App.1983); State Compensation Fund v. Industrial Com. of Arizona, 136 Ariz. 442, 666 P.2d 542 (App.1983); Van Wyck Associates v. St. Paul Fire & Marine Ins. Co., 115 Misc.2d 447, 454 N.Y.S.2d 266 (1982), affd. 95 App.Div.2d 989, 464 N.Y.S.2d 617 (2d Dept.1983); Annot., 1 A.L.R.3d 1139 (1965). A substantial number, however, hold that an insurer may waive a policy provision even though the effect may be to bring within coverage risks originally excluded or not covered. Ivey v. United Nat. Indem. Co., 259 F.2d 205 (9th Cir.1958); Pierson v. John Hancock Mut. Life Ins. Co.,
+262 Cal. App. 2d 86
+, 68 Cal. Rptr. 487 (2d Dist.1968); Allstate Ins. Co. v. Golden,
+187 Cal. App. 2d 506
+, 9 Cal. Rptr. 754 (2d Dist.1960); Annot., 1 A.L.R.3d 1139 (1965). A third group of courts purportedly adopt the majority rule against coverage expansion by waiver, but often evade its application by "construing" the policy clause in question to be one which does not relate to the coverage of the policy but merely states a condition the breach of which will result in a waivable forfeiture. Highlands Ins. Co. v. Allstate Ins. Co., 688 F.2d 398 (5th Cir.1982); McGee v. Guardian Life Ins. Co.,
+472 So. 2d 993
+(Ala.1985); Unijax, Inc. v. Factory Ins. Asso., 328 So. 2d 448 (Fla.App.Div. 1, 1976), cert. den. 341 So. 2d 1086 (Fla. 1976); Republic Ins. Co. v. Silverton Elevators, Inc.,
+493 S.W.2d 748
+, 91 A.L.R.3d 500 (Tex.1973); Tadday v. National Aviation Underwriters,
+660 P.2d 1148
+(Wyo. 1983); 1 A.L.R.3d 1139, supra.
+
+Louisiana courts have adopted the third approach in applying the common law doctrine of waiver in insurance cases, stating that conditions going to the coverage or scope of a policy of insurance, as distinguished from those furnishing a ground for forfeiture, may not be waived by implication from conduct or action. H.D. Foote Lumber Co. v. Svea Fire & Life Ins. Co., 179 La. 779, 155 So. 22 (1934); Jacobs v. Metropolitan Life Ins. Co., 39 So. 2d 346 (La.App.Orl.Cir.1949); C.E. Carries & Co. v. Employers' Liability Assur. Corp., 101 F.2d 739 (5th Cir.1939); Accord, Steers v. Home Ins. Co., 38 La.Ann. 952 (1886); Comment, "Waiver and Estoppel in Louisiana Insurance Law", 22 La.L.Rev. 202, 203 (1961) ("Only powers or privileges relating to conditions of a contract can be waived; thus waiver cannot be used to extend insurance coverage to a risk not properly within the limits of a policy as written.") (footnotes omitted).
+
+Our examination of these authorities and a number of common law decisions espousing this viewpoint, however, convinces us that there is no fundamental difference between conditions which have been classified as going to coverage and those classed as furnishing a ground for forfeiture. See, e.g., Highlands Ins. Co. v. Allstate Ins. Co., supra; McGee v. Guardian Life Ins. Co., supra; Unijax, Inc. v. Factory Ins. Asso., supra; Republic Ins. Co. v. Silverton Elevators, Inc., supra; Tadday v. National Aviation Underwriters, supra; A. Windt, Insurance Claims and Disputes, §§ 2.28, 6.31 (1982); 1 A.L.R.3d, supra. Generally, the difference between the two classes of conditions seems to be not in their nature but in the degree to which their waiver would modify the original insurance contracts. Thus, classification of a condition as subject to waiver appears to depend more upon whether the resulting expansion in coverage can be reasonably attributed to the insurer's intention under   the circumstances rather than upon the intrinsic nature of the condition alone.
+
+Consequently, we conclude that the best view is that waiver may apply to any provision of an insurance contract under which the insurer knowingly and voluntarily elects to relinquish his right, power or privilege to avoid liability, even though the effect may bring within coverage risks originally excluded or not covered. Of course, reliable proof of such a knowing and voluntary waiver is necessary and the burden of producing it, as in the proof of obligations generally, falls on the party who demands performance. La. Civil Code art. 1831 (1985); art. 2232 (1870).
+
+After reviewing the evidence, we find that Dr. Tate failed to carry his burden of producing persuasive evidence that the Milligan Syndicate waived the sound health condition precedent to liability with respect to British Colonial's illness. On the contrary, the evidence shows that the syndicate never intended to waive the condition and that it was the London broker which failed to promptly return the premium and to inform Dr. Tate unequivocally that the policy had been voided.
+
+Steve Parrott, the Milligan Syndicate's deputy underwriter, testified without definite contradiction that when he was first informed of British Colonial's illness on November 14, 1981 by David Wild, a director of the London broker, he told Wild that there was no coverage under the policy. Both Parrott and Wild testified that under Lloyd's regulations and customs it was the duty and function of the broker to represent the insured in dealings with the underwriters. Consequently, it was reasonable and proper for Parrott to rely on the broker to inform Dr. Tate of the syndicate's denial of coverage. More important, in view of the broker's role as the insured's representative, the conduct of the underwriter in relying on the broker to relay the denial of coverage does not imply any intention to waive the condition precedent. Furthermore, the witnesses for the syndicate and the broker both testified that when an animal's illness prior to commencement of insurance voids a policy, it is customary at Lloyd's for the broker to protect his client by proposing an alternative, modified policy excepting the risk created by the current illness. This was the procedure followed in the present case. After being informed there was no coverage under the original policy, the broker obtained a proposal for a second policy from the Milligan Syndicate to insure British Colonial, this time for the lesser sum of $50,000 and excluding the risk created by his illness. The broker forwarded the policy through the local agent to Dr. Tate, who rejected it. Indeed, the written proposal makes it reasonably clear that coverage had been denied under the original policy, although hind-sight teaches that greater specificity may have been desirable.[1]
+
+Initially we were troubled by the Milligan Syndicate's failure to take upon itself the responsibility of returning the premium to Dr. Tate when it was first informed of the animal's illness. However, Parrott testified, without contradiction, that under Lloyd's regulations and customs, it is the broker's exclusive duty and function to communicate with and disburse money to insureds. Further, he stated that the premium could only be refunded through Lloyd's Central Signing Office, and then,   only when the disbursement is presented by the broker. Parrott stated that when it came to his attention in January, 1982, that the premium had not been refunded, he sent a note to the broker advising him that restitution should be made. Deplorably, the premium was not tendered until almost two years after the death of the horse. It is not our purpose in this review, however, to pass judgment on the efficiency of Lloyd's regulations and customs or to fix the blame for lack of promptness. In the absence of anything in the record contradicting the consistent evidence as to the functions and duties of underwriters and brokers at Lloyd's, we cannot infer from the circumstances an intention by the Milligan Syndicate to waive the condition precedent of sound health. Moreover, Dr. Tate has been compensated with interest for the delay in the premium reimbursement and it was determined correctly by the court of appeal that he suffered no other detriment.[2]
+
+Plaintiff makes one final argument requiring discussion, pertaining to an isolated statement made by David Wild, the broker's representative, during his pretrial deposition which was introduced at trial. When asked "Do you know why Milligan did not cancel the policy when he knew the horse was ill?", Wild said "Initially it was not considered to be a serious condition, I think that only became apparent at a later date". A review of his pretrial deposition in its entirety, however, indicates no foundation for this statement and plaintiff's counsel did not ask additional follow-up questions to determine the factual basis for this conclusion. Furthermore, the remark appears incongruous in view of Wild's repeated acknowledgments that it was the duty of the broker, rather than the underwriter, to communicate with the insured. Indeed, in response to later questions about why he had not informed Dr. Tate of the denial of coverage, Wild did not deny that it was his dut to do so as the broker's representative but merely stated that he could not recollect the course of events without the brokerage firm's claims file, which evidently was not available during his deposition. Accordingly, we cannot attribute much weight to Wild's solitary conclusion for which there appears no basis, not even in his own testimony.
+
+In reviewing the evidence with regard to waiver, we have not adverted to the jury's findings because the trial court did not give instructions or submit interrogatories on the doctrine of waiver. The principal verdict of the jury was simply that coverage was afforded to Dr. Tate under the Milligan Syndicate's original contract of insurance. The remaining verdicts dealt with apportionment of fault among the defendants and findings with respect to agency relationships. Consequently, we cannot determine whether the jury found any facts relevent to waiver and we have disregarded its verdicts in making our own findings in this regard.
+
+In summary, we conclude that the doctrine of waiver is available to the purchaser of livestock mortality insurance to show that the insurer waived the condition precedent of the insured animal's sound health at the commencement of insurance, but in applying the doctrine to this case we find that the plaintiff animal owner failed to carry his burden of proving that the insurer intentionally relinquished its right to deny coverage.
+
+Decree
+
+The court of appeal judgment is affirmed.
+
+AFFIRMED.
+
+[1]  By letter from the local agent dated December 18, 1981, Dr. Tate was informed:
+
+* * * * * *
+
+"As per our discussion on my recent visit to your office, the Underwriters would like confirmation of your acceptance or denial of the terms set forth below:
+
+The Underwriters are prepared to coverage [sic] British Colonial for $50,000, however, this policy will exclude any losses which may arise directly or indirectly as a result of the Neuritis condition of the cranial nerves.
+
+However, please note as soon as the Underwriters receive a veterinary certificate confirming that the animal has fully recovered from the Neuritis condition, the exclusion can be taken out and the amount of insurance increased to the original figure of $100,000.
+
+We look forward to hearing from you regarding the above."
+
+* * * * * *
+
+[2]  By letter dated October 27, 1983, Dr. Tate received a check in the amount of $5,490, which included the premium refund of $4,500, plus interest from October 1, 1981 to October 24, 1983 in the amount of $990.

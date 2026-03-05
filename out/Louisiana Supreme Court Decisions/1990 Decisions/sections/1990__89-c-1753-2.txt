@@ -1,0 +1,211 @@
+89-C-1753
+Wilkin v. Dev Con Builders, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1990/89-c-1753-2.html
+
+89-C-1753
+Wilkin v. Dev Con Builders, Inc.
+Court: Louisiana Supreme Court
+Release date: 1990-04-30
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1990/89-c-1753-2.html
+
+561 So. 2d 66 (1990)
+
+Charles R. WILKIN
+v.
+DEV CON BUILDERS, INC., et al. Consolidated with
+In re PONCHATOULA HOUSING AUTHORITY.
+
+No. 89-C-1753.
+
+Supreme Court of Louisiana.
+
+April 30, 1990.
+
+*67 Mark C. Landry, Newman, Drolla, Mathis, Brady & Wakefield, Metairie, for applicant.
+
+Robert Tillery, Thomas E. Balhoff, Mathews, Atkinson, Guglielmo, Marks & Day, Baton Rouge, for respondents.
+
+CALOGERO, Chief Justice.[*]
+
+Charles Wilkin filed suit against a contractor, Dev Con Builders, Inc., the contractor's surety, Eastern Indemnity Company, and the contractor's principal, the Ponchatoula Housing Authority. Having paid certain Dev Con suppliers and taken subrogation from them, Wilkin sought to recover the amounts of those claims. The trial court denied his claim finding that he was not in the class of claimants to which the public contract statutes refer.[1] The court of appeal affirmed on other grounds finding that Wilkin loaned money not to Dev Con but to Watkins personally and was therefore not properly subrogated to the suppliers' rights. We granted writs to determine whether there was a proper and legal subrogation, and whether, assuming he is properly a subrogee, Wilkin could assert the suppliers' subrogated rights under La.R.S. 38:2241 et seq. We answer both questions in the affirmative.
+
+In 1983 Charles R. Wilkin became interested in developing a construction business. As a result of Wilkin's inquiries, Charles A. Watkins learned of that interest and called Wilkin. The two men met on or about October 25, 1983, to discuss the possibility of a future partnership in the construction business. When they met Watkins was already president, chief executive officer, and 20% shareholder of Dev Con Builders, Inc. Dev Con was under contract at the time with the Ponchatoula Housing Authority to construct low income housing, and was also involved in a different construction project in Belle Chasse, Louisiana. Watkins and Wilkin met several times to discuss possible business ventures, whereupon Wilkin learned of Dev Con's ongoing projects and of the cash flow problems associated with those projects; because of Dev Con's inability to pay certain suppliers, those suppliers were refusing to continue to supply needed materials.
+
+Wilkin reviewed Dev Con's financial records and decided to extend cash to help Dev Con over its "cash flow hump" and allow it to successfully complete those projects. To protect his cash outlay Wilkin drew up five documents, the legal significance   of which are now in question. One was labeled "Promissory Note," dated December 5, 1983, and signed by Charles A. Watkins and two witnesses.[2] The other four documents were labeled "Subrogation of Rights."[3] These latter four documents were dated between December 6 and December 9, 1983, and filled in to reflect amounts owed to different suppliers.[4] As Wilkin paid each supplier directly, that supplier signed the "subrogation of rights, acknowledgment by creditor" and Watkins signed the "acknowledgment by debtor" as the President of Dev Con.
+
+Despite Wilkin's cash infusion, Dev Con defaulted on the Ponchatoula project on December 23, 1983, when the December draw was withheld and Dev Con found itself without funds to proceed. Thereafter, on January 27, 1984, Wilkin filed in the Tangipahoa Parish mortgage records an "Affidavit of Lien," which was a sworn statement of amounts due him as a result of money he paid to suppliers of materials for the Ponchatoula building project.[5] On January 4, 1985, Wilkin filed suit against Dev Con, Eastern Indemnity Company of Maryland which issued the payment and performance bond on the project, and the Ponchatoula Housing Authority, to enforce his claim. When the State of Maryland issued orders of liquidation and insolvency against Eastern Indemnity Company, Wilkin amended his petition to add the Louisiana Insurance Guaranty Association as defendant.[6]
+
+The district court ruled in favor of defendants, finding that the suppliers could not   validly subrogate their rights to one not expressly designated as a claimant under La.R.S. 38:2241 et seq., and Wilkin appealed. The court of appeal affirmed, but for different reasons. The court of appeal determined that Wilkin was never properly subrogated to the rights of the suppliers. Wilkin v. Dev Con Builders, Inc., 546 So. 2d 254 (La.App. 1st Cir.1989). The dissenting judge argued that Wilkin was properly subrogated to the suppliers' rights, but declined to express an opinion as to the validity of the lien filed by Wilkin as subrogee. 546 So. 2d  at 259. We granted writs to determine whether the court of appeal was correct in finding that the subrogation was invalid, whether the district court might have been correct in finding that no proper and legal statutory claim under the act could be secured by a supplier's subrogee, and/or whether both the court of appeal and the district court were wrong and Wilkin was properly subrogated and has a valid statutory claim which should be respected.
+
+The court of appeal concluded that subrogation did not take effect because the promissory note signed before the subrogations were executed indicated that Wilkin had loaned money to Watkins, which money was then used to pay suppliers, so that Wilkin had not paid suppliers with his own money but rather with Watkins' money, and for Watkins. Furthermore, according to the court of appeal, the note evidencing the loan showed that the money was loaned to Watkins personally since the note did not contain express language binding Dev Con for the debt. Therefore the court of appeal concluded that Wilkin was not properly subrogated. We find otherwise.
+
+Because Wilkin's agreements were made before the 1984 Civil Code revisions, we look to the articles on subrogation in the Civil Code of 1870, in force in 1983, to determine the legal effect of these agreements. The Code defines subrogation as "the right of a creditor in favor of a third person who pays him." La.C.C. art. 2159 (1870). It delineates two types of conventional subrogation:
+
+La.C.C. art. 2160 (1870).
+
+It is clear that had Wilkin only utilized the four "subrogation" documents when paying the suppliers, subrogation would have taken place according to article 2160(1) because the creditors (suppliers) received payment from a third person (Wilkin) and expressly subrogated him to their rights at the same time that payment was made. Only the presence of the prior executed "promissory note" creates some doubt. If, in fact, Wilkin had loaned funds to Watkins, or to Dev Con, Wilkin could not be validly subrogated to Dev Con's claim against the Housing Authority according to article 2160(2) because the act was not executed in the presence of a notary (although it was before two witnesses). Furthermore, the "promissory note" raises questions as to the intent of the parties and the nature of their overall transaction. Was money loaned to Dev Con, or to Watkins personally, to help complete the construction project? Or was money paid by Wilkin to suppliers with the knowledge and consent of Dev Con, the debtor, with the intention, or anticipation, of Wilkin's stepping into the suppliers' shoes?
+
+When the language of a contract is unclear, it must be interpreted so as to ascertain the common intent of the parties rather than to adhere to the literal sense of the terms, and it should be interpreted in the way most congruous to the object of the contract. La.C.C. arts. 1950, 1952 (1870); Emile M. Babst Co., Inc. v. United States Fidelity & Guaranty Co.,
+497 So. 2d 1358
+, 1360 (La.1986). Furthermore, doubtful   provisions may be interpreted by reference to other agreements made by the same parties on the same subject either before or after the agreement in question. La.C.C. art. 1949 (1870); Emile M. Babst, 497 So. 2d  at 1360.
+
+When applying these principles to the "promissory note," we are convinced that the object of the agreement, as with the "subrogations," was for Wilkin to pay off Dev Con's creditors/suppliers and become subrogated to their rights. Language in the "promissory note" refers directly to the acts of subrogation, to funds paid directly to suppliers, and to articles 2160, 2161, and 2162 of the Louisiana Civil Code.[7] Furthermore, money was paid by Wilkin directly to the suppliers rather than to Watkins or some other representative of Dev Con. Finally, both Wilkin and Watkins testified that Dev Con, rather than Watkins personally, was to be the debtor, and that Wilkin's purpose was to infuse needed funds without his own "risk of capital." Therefore, we find that the intent of the parties was to subrogate Wilkin to the rights of the creditors/suppliers and that the documents which they executed were sufficient in form to achieve this purpose.
+
+Next we must determine the effect of the subrogation agreement and of Wilkin's attendant claim filed in the mortgage records. The trial court determined that public contract law did not recognize liens (or claims) filed by parties not specifically defined in the statute as claimants. Upon applying the principles of subrogation and the statutes pertaining to public contract law, we conclude that the claim filed by Wilkin as subrogee of the suppliers has binding legal effect under La.R.S. 38:2241 et seq.
+
+Louisiana has long evidenced an intent to protect those who perform work and supply materials for the construction and repair of buildings and other works. The earliest Louisiana Civil Code granted a privilege on immovables to workmen employed in constructing and repairing buildings or works. La.C.C. art. 75 (1808). Later Codes included suppliers of materials for buildings or improvements in the class of those who were entitled to the rights, and granted them a lien and a privilege on the building or improvement as well as on the lot of ground on which the building or improvement stood. See La.C.C. art. 3216 (1825); La.C.C. art. 3249 (1870); La.C.C. art. 3249 (1984); Daggett, Louisiana Privileges & Chattel Mortgage 218-19 (1942).
+
+However, workmen and suppliers engaged by agencies of the state for construction and improvement of public property were not entitled to take advantage of these provisions, or of provisions of later enacted private building contract statutes[8] because liens were not enforceable against public property. Porter v. Town of Ville Platte, 158 La. 342, 348, 104 So. 67, 69 (1925). Because of the need to protect those performing labor and furnishing materials for public works, the Legislature in 1918 passed Act 224, the precursor to current public works statutes, La.R.S. 38:2241 et seq., granting rights to laborers and materialmen involved in public works. Porter, 104 So.  at 70; York Corp. v. Louisiana Plumbing Co., 151 So. 2d 520 (La. App. 2d Cir.), writ denied, 244 La. 400, 152 So. 2d 213 (1963). The public contract law did not grant its beneficiaries a lien on the public work itself, but gave them, in effect, a "privilege against the unexpended fund in the possession of the authorities with whom the original contract ha[d] been entered into." Pigeon-Thomas Iron Co. v. Drew Bros., 162 La. 836, 839, 111 So. 182, 183 (1926).[9] Act 224 stated as its purpose the protection of "persons doing work, performing labor or furnishing material for the construction ... of public buildings...." La.Legis.Acts, 1918, No. 224.
+
+*71 Public contract law provides that when the representative of a governing authority enters into a contract for construction of a public work, a bond must be provided.[10] The law further establishes the means for asserting a claim:
+
+La.R.S. 38:2242 (1979). The effect of these provisions is to give certain certain classes of persons not enjoying privity of contract with the general contractor or with the governing authority a claim nevertheless against the general contractor and his surety and in some instances a claim against the governing authority itself.[11] The provisions also protect the public authority complying with the requirements of the statutes from expenses caused by failure of the contractor to faithfully perform the contract. Town of Winnsboro v. Barnard & Burk, Inc., 294 So. 2d 867 (La.App. 2d Cir.), writ denied,
+295 So. 2d 445
+(1974).
+
+These provisions have been interpreted by this court to limit claims to those who have a contractual relationship with either the contractor or subcontractor. T.M. Thurman v. Star Electric Supply, Inc.,
+307 So. 2d 283
+(La.1975); American Creosote Works, Inc. v. City of Monroe, 175 La. 905, 144 So. 612 (1932); J. Watts Kearny & Sons v. Perry, 174 La. 411, 141 So. 13 (1932). Thus, one who supplies materials to another supplier of materials is not entitled to make a claim under these provisions even though the materials are used in a public work. T.M. Thurman, 307 So. 2d  at 286.
+
+Defendants argue, as did the trial court, that Wilkin was not entitled to file a claim on this public works project because Wilkin is not included in the category of claimants entitled to do so by law. Defendants note that public contract laws are to be strictly construed such that the privileges granted are not extended beyond the statutes. Rester v. Moody & Stewart, 172 La. 510, 134 So. 690 (1931); Coating Specialists, Inc. v. Pat Caffey Contractor, Inc., 194 So. 2d 380 (La.App. 4th Cir.), writ denied, 250 La. 633, 197 So. 2d 652 (1967). Defendants also argue that allowing Wilkin into the class of claimants would expand the existing statutory scheme so that sureties would be exposed to potential double liability.
+
+Similar arguments have been made in cases decided under the Miller Act[12] and its predecessor, the Heard Act, federal equivalents to our own public contract law. In Clifford F. MacEvoy Co. v. United States,
+322 U.S. 102
+, 108-09, 64 S. Ct. 890, 894-95, 88 L. Ed. 1163 (1944), the U.S. Supreme Court decided, as did our own court applying state law in T.M. Thurman,
+307 So. 2d 283
+, that the Miller Act only gave the right to bring suit on a payment bond to those who had a direct contractual relationship with the prime contractor or a subcontractor on a public work, and that to allow those in more remote relationships to recover on the bond would be contrary to provisions of the Act. Despite this strict   construction denying those in more remote relationships the right to bring suit on a payment bond on public works contracts under the Miller Act, the U.S. Supreme Court has not limited the class of claimants to only those who actually furnish labor or material. In United States v. Carter,
+353 U.S. 210
+, 77 S. Ct. 793, 1 L. Ed. 2d 776 (1957), the Court found that trustees of a health and welfare fund for construction workers were entitled to recover under the Act. That Court noted that earlier cases arising under the Heard Act had firmly established that "assignees of the claims of persons furnishing labor or material came within the protection of the statutory bond." Id. at 219, 77 S. Ct.  at 798 (citations omitted).[13] Since the health and welfare trustees stood in the shoes of the construction laborers, they were entitled to enforce the laborers' rights. Carter, 353 U.S.  at 220, 77 S. Ct.  at 798.
+
+So too in this case, we find that Wilkin, by means of the subrogation agreements, stands in the shoes of Dev Con's suppliers and is entitled to enforce the suppliers' subrogated rights.[14] When a third party pays the debt of another and becomes subrogated to the creditor's rights, that debt is extinguished as to the original creditor but not extinguished as to the debtor; instead the debt continues to subsist in favor of the third party. Great Southwest Fire Ins. Co. v. CNA Ins. Co.,
+557 So. 2d 966
+, 967 (La.1990); Cox v. W.M. Heroman & Co., Inc.,
+298 So. 2d 848
+, 853 (La.1974); Planiol, Civil Law Treatise, Vol. 2, § 473 (LSLI trans.1959). The third party who becomes subrogated to the rights of a creditor may exercise the original action which the creditor had against the debtor and also acquires all the accessory guaranties, rights, privileges, and mortgages. La.C.C. art. 2160(1) (1860); Planiol, §§ 475, 506, 509. Therefore, in the instant case, allowing Wilkin, the subrogee, to enforce rights held originally by the suppliers, does not expand to additional parties the privilege granted by public contract law, but rather transfers the privilege from the original creditors to their subrogee. The subrogation does not create an additional right but merely transfers the original right to a different party. Planiol, § 476. This type of subrogation takes place in the interest of the creditors who in this case are the suppliers, the very persons who are the main beneficiaries of public contract law. Cox v. W.M. Heroman & Co., Inc., 298 So. 2d  at 855. In the instant case the suppliers benefited from the transaction in that they were paid in a timely manner by Wilkin who then became subrogated to their claim for payment.
+
+In State v. Miller, 169 La. 914, 126 So. 422 (1930), a strong precedent in Wilkin's favor, this court recognized that a subrogee to claims for wages of laborers on a public works project was entitled to enforce the laborers'"liens." In that decision this court rejected the argument that a laborer or materialman who had not yet preserved his lien could not assign his right to preserve the lien to a third party. The Miller court reasoned that the Civil Code allows any kind of right, debt, or incorporeal thing to be the subject of an assignment or sale, and defines a conventional subrogation in terms of the rights and privileges which pass from the original creditor to the subrogee. The court pointed out that privileges "are not created by recording the evidence of the debt, but result from the nature of the debt, or the consideration from which it arose." Miller, 126 So.  at 427. The court further noted that there were no contrary provisions pertaining to the privileges accorded to suppliers and laborers under public contract law. Miller, 126 So.  at 427.[15] Although the Legislature   has revised public contract law several times since the Miller decision,[16] it has not enacted any provisions which overrule that decision.
+
+In the instant case, we agree with the trial court that statutes which create privileges are not to be extended by implication. Subdivision Planning Engineers v. Manor Development Corp.,
+349 So. 2d 247
+(La. 1977); American Creosote Works v. City of Natchitoches, 182 La. 641, 162 So. 206 (1935); Dainow, Security Devices, 22 La.L. Rev. 322 (1962). However, we do not extend the privilege in this instance when we permit a subrogee of a supplier to assert the privilege. Permitting a subrogee to assert a supplier's privilege merely respects the rights established in our codal articles on subrogation. Therefore, we find that as a subrogee of suppliers covered by the public contract law, and having timely filed his claim under R.S. 38:2241 et seq., Wilkin is entitled to the same rights to which the suppliers would have been entitled had they timely filed claims under R.S. 38:2241 et seq.[17]
+
+Inasmuch as neither the district court nor the court of appeal found need to examine Wilkin's evidence regarding proof in support of his claims, and considering that the case was fully tried on the merits, this case will be remanded to the court of appeal for further proceedings addressing Wilkin's entitlement to a judgment and the amount thereof.
+
+For the foregoing reasons the decisions of the trial court and court of appeal are reversed. The case is remanded to the court of appeal for further proceedings in accordance with this opinion.
+
+REVERSED, REMANDED TO COURT OF APPEAL
+
+MARCUS, J., concurs in part and dissents in part for reasons assigned by COLE, J.
+
+COLE, J., concurs in part and dissents in part for reasons assigned.
+
+COLE, Justice (concurring in part, dissenting in part).
+
+The first issue addressed by the majority is whether the Civil Code requirements for a valid subrogation were met by virtue of the agreements executed between Wilkin, Watkins, and four of Dev Con's suppliers. The second issue is whether the Public Works Act[1] may be interpreted to allow subrogation of suppliers' rights to a third party not involved in the project. I concur in the majority's finding that the Civil Code requirements for a valid subrogation were met. However, I respectfully dissent from this court's holding that the privilege afforded to claimants under the Public Works Act is transferable to third parties not involved in the project.
+
+A. Subrogation
+
+Subrogation can result from the performance of the obligation of another (Dev Con) by a third party (Wilkin), or from a loan by the third party (Wilkin) in order for the original obligor (Dev Con) to perform the obligation himself. LSA-C.C. arts. 1826, 1827 and 1828, formerly C.C. arts. 2159-2162, C.C. art. 2160(1) and C.C. art. 2160(2) (1870), respectively. In the case of a loan from a third party to the obligor, the subrogation must be express and in writing. At the time the subrogation agreements in this case were confected, an authentic act   was required for subrogation to result from a loan. LSA-C.C. art. 2160(2) (1870).
+
+The requirements of LSA-C.C. art. 2160(1) (1870) were met when the four subrogation agreements were executed. These agreements, as well as the promissory note, indicate the suppliers (creditors) received payment from Wilkin, a third party, as required by article 2160(1) (1870). As evidenced by the note's recitation, "In each case the funds have been paid directly to suppliers ..." Similarly, the subrogation agreements provide: "I acknowledge receipt from Charles R. Wilkin, of.... and any other legal rights to enforce collection are subrogated to Charles R. Wilkin, from whom payment is received." (emphasis added).
+
+Furthermore, the subrogation was expressed and made at the same time as the payment, as required by article 2160(1) (1870). Whether the note was executed before or after the subrogation agreements or before or after the receipt of payment by the suppliers is irrelevant, and does not affect the subrogation which resulted under LSA-C.C. art. 2160(1) (1870) from the subrogation agreements. The promissory note executed between Wilkin (subrogee) and Watkins (debtor) in addition to and prior to the subrogation agreements does not render the subrogation invalid under article 2160(1) (1870).
+
+Although subrogation under article 2160(1) (1870) could have been accomplished without the consent of the debtor, it was a prudent and reasonable measure to obtain the debtor's consent. Implicit in the debtor's consent is a promise to repay the subrogee or new creditor the amount of funds paid to the old creditors. That Watkins' promise was made expressly, and in writing, does not affect the validity of the subrogation which resulted from the third party's (Wilkin's) payment to the creditors (suppliers) and their express, contemporaneous agreement to subrogate him to their rights. The note is merely an acknowledgement of the debt owed to Wilkin by virtue of his performance of the obligation.
+
+The transactions evidenced by the subrogation agreements and the promissory note could be construed as a loan by Wilkin to Watkins as found by the court of appeal. Since the note agreement is not an authentic act, however, subrogation could not have resulted from the loan. LSA-C.C. art. 2160(2) (1870). Nonetheless, the failure of the note agreement to satisfy the authentication requirements of article 2160(2) does not preclude a finding that a subrogation was effected under article 2160(1).
+
+I therefore concur in the majority's finding that a subrogation was properly and validly effected. I dissent, however, from the holding that a supplier's privilege under the Public Works Act is transferable to third parties not involved in the project.
+
+B. The Public Works Act
+
+The Public Works Act provides protection to "claimants" who have been hired by a general contractor for the construction, alteration, or repair of public works. Those persons who qualify as "claimants" are specifically defined in LSA-R.S. 38:2242(A), which, at the time Wilkin filed the lien, provided:
+
+Under the Act, the general contractor must obtain a bond which secures its obligation   to pay "claimants." Within forty-five days after the recordation of acceptance of the work by the governing authority or of notice of default of the contractor or subcontractor, a claimant may file a sworn statement with the governing authority of any amount due him by the general contractor, and record it in the mortgage records for the parish in which the work was done. LSA-R.S. 38:2242(B). The filing of this claim preserves the claimant's statutory privilege whereby he is entitled to payment from the governing authority in preference to any payment due by the authority to the general contractor. A governing authority's failure to pay claimants with outstanding claims in preference to the general contractor, renders the governing authority liable for the amount of the outstanding claims. LSA-R.S. 38:2242(D).
+
+The Public Works Act, as a whole, evidences an intent to protect those who directly aid in the construction of a public project.[2] Generally, materialmen and laborers have contractual privity with the general contractor, but not with the governing authority. The Public Works Act provides a method for claimants to obtain payment from the primary source of funds for the project (i.e., the governing authority), rather than from the secondary source of funds (i.e., the general contractor who receives from the governing authority funds which are to be used to pay the materialmen and laborers). This privilege provides a measure of protection to those who have no contractual relationship with the governing authority, and no control over the funds advanced by the authority to the general contractor during construction of the project. In the event the general contractor does not use the funds advanced by the authority to pay the laborers and materialmen, as contemplated by the authority, but uses them instead for his own personal benefit, or to pay a debt he owes to another, the claimants are protected.
+
+The provisions of the Public Works Act must be strictly construed. American Creosote Works, Inc. v. City of Natchitoches, 182 La. 641, 162 So. 206 (1935); Rester v. Moody & Stewart, 172 La. 510, 134 So. 690, 692 (1931); Javeler Construction Company, Inc. v. Federal Insurance Company, 472 So. 2d 258, 263 (La.App. 1st Cir.1985); Adams v. Magnolia Construction Co., 431 So. 2d 38, 39 (La.App. 1st Cir.1983); Construction Materials, Inc. v. American Fidelity Insurance Co., 383 So. 2d 1291 (La.App. 1st Cir.1980); Coating Specialists, Inc. v. Pat Caffey Contractor, Inc., 194 So. 2d 380, 384 (La.App. 4th Cir. 1967); and Jesse F. Heard & Sons v. Southwest Steel Products, 124 So. 2d 211, 219 (La.App. 2d Cir.1960). The privilege created by the Public Works Act is afforded only to claimants as defined in the Act. LSA-R.S. 38:2242(A). See, Subdivision Planning Engineers v. Manor, etc.,
+349 So. 2d 247
+, 249 (La.1977) ["statutes creating civil penalties and privileges are not to be extended by implication"]. The definition of claimants cannot be extended to provide protection to third parties like Wilkin. He is not one to whom the legislature intended to afford the protection provided by this privilege.
+
+Plaintiff argued, and the majority apparently agreed, that our decision in Subdivision Planning Engineers v. Manor, etc., supra, supports his contention that the privilege afforded claimants under the Public Works Act may be transferred by subrogation. See note 15 of majority opinion. In Manor, two partners performed work on a project which was governed by the Private Works Act, LSA-R.S. 9:4801 et seq.   They subsequently incorporated their business and the corporation performed the remainder of the work. The partners assigned their claim to the corporation, which filed the lien. This court found the rights resulting from the work done by the incorporators prior to incorporation were assigned by them to the corporation, and the transfer of the right included the transfer of the accessory lien. While recognizing "statutes creating civil penalties and privileges are not to be extended by implication," this court found there was no extension of the Private Works Act in its holding because part of the work was done by the corporation. We also noted the corporation's contract was directly with the owner. Thus, the defendant owner's obligation to the plaintiff corporation would exist without the lien statute. We note there is no contractual privity between Wilkin and the Ponchatoula Housing Authority. Manor is therefore inapposite.
+
+While State v. Miller, 169 La. 914, 126 So. 422 (1930), seems to conflict with my analysis, it was decided at a time when financial maneuvers available to contractors and investors were not as sophisticated as they are today. Also, it was decided in a different context and without our pivotal issue being raised. In the instant case, allowing subrogation of rights granted by the Public Works Act provides a method whereby Wilkin and Watkins may establish a business relationship for future purposes and projects, while using the present project as security for the loan from Wilkin to Dev Con. Although Wilkin could sue Watkins for collection of his debt by virtue of the promissory note, the majority's holding allows him to look to the surety on the project for collection of his debt.[3] Thus, Wilkin was able to "loan" money to Dev Con to benefit his friend and future partner, Watkins, and Watkins and Dev Con are completely absolved of repayment of the debt. By making Dev Con the debtor, Wilkin and Watkins have collaborated on a venture to enhance their business relationship and Watkins' reputation, and have obtained the benefit of security which is intended only for claimants. Additionally, under the majority's holding, more opportunistic methods for profit, such as speculation in claimants' claims by virtue of purchase of such claims at a discount, becomes potential method of investment.
+
+Finally, I am not persuaded by the treatment afforded the federal equivalent to our own public contract law, which the majority uses by analogy to bolster its result. The source provision varies from our own statute and we should adhere to our oft repeated admonition that our Public Works Act must be strictly construed.
+
+[*]  Retired Chief Justice John A. Dixon, Jr. participated in this case having been Chief Justice of this court when the case was orally argued and taken under advisement.
+
+[1]  Louisiana public contract law, La.R.S. 38:2241 et seq, entitled "Claims of Subcontractors, Materialmen, and Laborers on Public Works," and sometimes referred to as the Public Works Act, creates a counterpart to the Private Works Act, La.R.S. 9:4801 et seq. which grants certain laborers and suppliers a lien on the private construction work. Although the rights granted to laborers and suppliers under public contract law are sometimes referred to as "liens," these claimants are not really entitled to a lien on the public works themselves. In lieu of a lien, the public contract law grants certain claimants a privilege against the unexpended funds in the hands of the public authority. A discussion of these provisions appears later in this opinion.
+
+[2]  Promissory Note
+
+I, Charles A. Watkins, promise to repay Charles R. Wilkin or order within Sixty (60) days after date at Slidell, Louisiana, the principal amount advanced to me, as his interest may appear, plus interest at the rate of 14.5% simple.
+
+These funds are advanced to complete the Ponchatoula Housing Authority Project LA 48-P075-005. In each case the funds have been paid directly to suppliers, material men, mechanics, or sub-contractors whose services or materials were essential in my judgment to complete the project.
+
+It is the intent, as covered by acknowledgments of subrogation signed by each recipient when funds were paid for the account of Devcon Builders, Inc., that all rights of the parties paid as pertains to means of collection, placing liens, etc., be subrogated to Charles R. Wilkin under Articles 2160, 2161, and 2162 of the Louisiana Civil Code.
+
+I also agree that these funds will be repaid when construction draws are received for these items. Should legal expense become necessary to file liens or to pursue collection through court action, all legal expense plus attorney fees not to exceed 25 percent will be paid by Dev Con Builders, Inc.
+
+Lender reserves the right to waive formalities voluntarily or involuntarily without impairing his rights to collection in full.
+
+[3]             Subrogain of Rights
+
+Acknowledgement by Creditor
+
+I acknowledge receipt from Charles R. Wilkin, of______ in full payment for________ to be performed and/or installed on the Pontchatoula Housing Authority Project, LA48-P075-005 for the General Contractor, DEVCON BUILDERS, INC. of Mandeville, Louisiana, as per plans and specifications.
+
+All my rights as a supplier of material or labor or as a sub-contractor on the above item(s) related to collection of funds due, including the rights to file liens under the laws of the State of Louisiana and any other legal rights to enforce collection are subrogated to Charles R. Wilkin, from whom payment is received.
+
+ACKNOWLEDGEMENT BY DEBTOR
+
+I accept payment on the account of Devcon Builders, Inc. for the specific Item(s) specified above and acknowledge that all rights to collect said funds advanced from Devcon Builders, Inc. or its surety are transferred to Charles R. Wilkin.
+
+[4]  Gabriel Building Supply Co., Inc.$4578.53, Campbell Building Material Co., Inc.$4022.19, Kentwood Brick Co.$2675.00, and Louisiana Power and Light$9075.65.
+
+[5]  The affidavit included a charge of $58.73 for materials which Wilkin supplied Dev Con for the Ponchatoula project as well as the sums advanced the four suppliers for a total of $29,419.10.
+
+[6]  La.R.S. 22:1380-22:1382 establishes the Louisiana Insurance Guaranty Association as a legal entity which is obligated for covered claims of certain insolvent insurers.
+
+[7]  Wilkin, though an accountant and not an attorney, owned a copy of the Louisiana Civil Code which he had "picked up in a thrift shop" and used to prepare the documents. Wilkin testified that he "believe[d] in ... God and the Louisiana Civil Code."
+
+[8]  Statutes pertaining to private works are now codified in La.R.S. 9:4801 et seq.
+
+[9]  See also Decatur Cornice & Roofing Co. v. Caldwell Bros., 173 La. 694, 138 So. 511 (1931); York at 523; Daggett at 337.
+
+[10]  As in existence in 1983, La.R.S. 38:2241(A) provided: He shall require of the contractor a bond, with good, solvent, and sufficient surety... for the faithful performance of the contract with an additional obligation for the payment by the contractor or subcontractor for all work done, labor performed, or material or supplies furnished for the construction ... of any public works. The bond shall be executed by the contractor with surety or sureties approved by the officials representing the state ... and shall be recorded with the contract in the office of the recorder of mortgages in the parish where the work is to be done not later than thirty days after the work has begun.
+
+[11]  For example, La.R.S. 38:2244(B) provides in part: Whenever it is found that the surety is not solvent or sufficient to cover the amount of the bond or that the governing authority has failed to exact the bond or record the bond within the time allowed, the governing authority shall be in default and shall be liable to the same extent as the surety would have been.
+
+[12]  40 U.S.C. § 270a et seq.
+
+[13]  For examples of cases in which assignees of persons furnishing labor or material to public works projects were allowed to file claims on payment bonds under the Heard or Miller Acts, see U.S. Fidelity & Guaranty Co. v. United States ex rel. Bartlett,
+231 U.S. 237
+, 34 S. Ct. 88, 58 L. Ed. 200 (1913); Title Guaranty & Trust Co. v. Crane Co.,
+219 U.S. 24
+, 31 S. Ct. 140, 55 L. Ed. 72 (1910); Nickell v. United States, 355 F.2d 73 (10th Cir.1966); United States v. New Hampshire Fire Ins. Co.,
+173 F. Supp. 529
+(E.D.N.Y.1959).
+
+[14]  "To subrogate means `to put in place of.'" Planiol, Civil Law Treatise Vol. 2, §§ 475 n. 24; 506.
+
+[15]  See also Subdivision Planning Engineers, Inc. v. Manor Development Corp.,
+349 So. 2d 247
+(La. 1977) (Assignment of rights from partnership to corporation included transfer of accessory lies under the Private Works Act.)
+
+[16]  La.R.S. 38:2242 (1950), amended by Acts 1960, No. 59, § 1; Acts 1966, No. 537, § 1; Acts 1977, No. 253, § 1; Acts 1979, No. 406, § 2; Acts 1985, No. 703, § 1; Acts 1985, No. 244, § 1; Acts 1986, No. 158, § 1; Acts 1986, No. 195, § 1; Acts 1989, No. 305, § 1.
+
+[17]  We have addressed in this opinion the specific legal questions regarding the adequacy of the subrogation and the availability of statutory claim rights in the subrogee. The question of whether Wilkin's recordation conforms with statutory requirements and whether he proved with adequate evidence his claim, and his consequent entitlement to judgment, and the amount thereof, are matters to be addressed by the court of appeal upon remand.
+
+[1]  LSA-R.S. 38:2241, et seq.
+
+[2]  In its earliest form, the Public Works Act provided in part:
+
+AN ACT
+
+Relating to contracts for public works; to protect persons doing work, performing labor or furnishing material for the construction, erection, alteration or repair of public buildings, public roads or public works of any character; requiring the State, Parish, city, town, village, public board or body having the work done to exact a bond, with good and solvent surety, for the protection of itself, for the faithful performance of the contract and the payment of all persons doing work, performing labor or furnishing material therefor.... Louisiana Legislative Acts, 1918, No. 224. (emphasis added).
+
+[3]  We note the surety [now LIGA] may look to the provision of LSA-R.S. 38:2241 which mandates its performance bond to be "a statutory bond" and the surety "shall be immune from liability for or payment of any claims not required by this Part."

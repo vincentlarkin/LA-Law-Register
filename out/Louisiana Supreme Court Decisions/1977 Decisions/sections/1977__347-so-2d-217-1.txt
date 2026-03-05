@@ -1,0 +1,99 @@
+59167
+State v. Wesley
+https://law.justia.com/cases/louisiana/supreme-court/1977/347-so-2d-217-1.html
+
+59167
+State v. Wesley
+Court: Louisiana Supreme Court
+Release date: 1977-06-20
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/347-so-2d-217-1.html
+
+347 So. 2d 217 (1977)
+
+STATE of Louisiana, Appellee,
+v.
+Midas WESLEY, Appellant.
+
+No. 59167.
+
+Supreme Court of Louisiana.
+
+June 20, 1977.
+
+*218 Joseph G. Kopfler, Student Practitioner, Arthur A. Lemann, III, Supervising Atty., New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise Korns, Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant was convicted of simple burglary La.R.S. 14:62, and sentenced to three years imprisonment at hard labor. Upon his appeal, he relies upon two principal alleged errors.
+
+(I) The prosecution should be dismissed, because the present (or fourth) trial for the offense offends the Double Jeopardy Clause of the Fifth Amendment to the United States Constitution (Assignment 1); and
+
+(II) The trial court incorrectly denied a mistrial sought because of prosecutorial overreaching in the closing arguments (Assignments 6 and 7).
+
+The present is the fourth trial of the defendant on the present charge. It was held within a year of the offense charged.
+
+Previously, three earlier trials had resulted in mistrials the first because of a prejudicial remark by the prosecutor in the closing argument, the second because of a hung jury, and the third because of a prejudicial remark by the prosecutor in the opening statement.
+
+*219 It is conceded that the (second) mistrial because of a hung jury does not prevent a re-trial. It is likewise conceded that ordinarily the first and third mistrials, granted upon the motion of the defendant, likewise do not prevent a re-trial:
+
+"* * * [W]here circumstances develop not attributable to prosecutorial or judicial overreaching, a motion by the defendant for mistrial is ordinarily assumed to remove any barrier to reprosecution, even if the defendant's motion is necessitated by prosecutorial or judicial error." United States v. Jorn,
+400 U.S. 470
+, 486, 91 S. Ct. 547, 557, 27 L. Ed. 2d 543 (1971) (Italics ours). See also Note, 32 La.L.Rev. 145 (1971).
+
+The defendant relies, however, upon the "bad-faith" exception to the general rule, which is implied by the clause above italicized: "The Double Jeopardy Clause does protect a defendant against governmental actions intended to provoke mistrial requests and thereby subject defendants to the substantial burdens imposed by multiple prosecutions. It bars retrials where `badfaith conduct by the judge or prosecutor' threatens the `[h]arassment of an accused by successive prosecutions or declaration of a mistrial so as to afford the prosecution a more favorable opportunity to convict' the defendant. [Citations omitted.]" United States v. Dinitz,
+424 U.S. 600
+, 611, 96 S. Ct. 1075, 1081-82, 47 L. Ed. 2d 267 (1976) (Italics ours).
+
+We do not find merit to this contention, because no prosecutorial bad faith is instanced by the circumstances in which the (first and third) mistrials were granted at the defendant's motion.
+
+In the first (April 10, 1975) mistrial, the prosecutor in closing statement indicated that the accused's companions, who had pleaded guilty, had received jail sentences of six months. The record showed that the three confederates had pleaded guilty, but it did not show the sentences they had received.
+
+Because of this allusion to evidence not before the jury, the trial court sustained the defendant's motion for a mistrial; it felt that the defendant might be prejudiced if the jury believed that he was subject only to a sentence of six months. The record indicates that the assistant district attorney had inadvertently mentioned the sentences, being of the mistaken impression that the minutes involving the co-defendants were in the record and showed the six-month sentences they had received.
+
+The other mistrial on motion of the defendant (June 19, 1975) resulted because the prosecutor, in opening statement in violation of La.C.Cr.P. art. 917, had referred to an inculpatory statement by the defendant. (By it, he had admitted to the police that the truck used in the alleged burglary belonged to him.)
+
+Again, the error of the assistant district attorney seems to have been an inadvertent reference and not a bad-faith attempt to abort a trial. The defendant himself took the stand in both the April and the present (September) trials and admitted that the truck belonged to him. (His defense was primarily that, although he was trespassing in what he thought to be an abandoned house, he was not in the house for any other criminal purpose.)
+
+We must reject the defendant's argument that these two earlier mistrials were precipitated by bad-faith prosecutorial conduct intended to abort the trials in question.
+
+Nevertheless, pointing out that the present is the fourth instance in which the state has tried him for the same offense, the accused further contends that in these circumstances the Fifth Amendment's Double Jeopardy Clause prevents him from being subject to repeated mistrials, whether or not the earlier trials were aborted due to prosecutorial bad faith.
+
+The defendant contends that Double Jeopardy prevents continued harassment of a defendant by re-trials when the state is repeatedly unable to secure a guilty verdict in earlier trials. He relies upon Preston v. Blackledge,
+332 F. Supp. 681
+(E.D., N.C., 1971), interpreting Downum v. United States,
+372 U.S. 734
+, 83 S. Ct. 1033, 10 L. Ed. 2d 100 (1963) and Green v. United   States,
+355 U.S. 184
+, 78 S. Ct. 221, 2 L. Ed. 2d 199 (1957). But cf., United States v. Castellanos, 478 F.2d 749 (CA 2, 1973).
+
+Whatever validity there may be to the contention that at some point Double Jeopardy prevents continued governmental harassment by retrial after multiple failures to convict because of jury deadlocks, such a principle would not apply to the present facts. Two of the three earlier mistrials resulted not from hung juries but instead from technical prosecutorial error prior to jury verdict. The trial court on the accused's motions had therefore granted mistrials to avoid subjecting the accused to a prejudice-tainted adverse jury verdict.
+
+Accordingly, we find no merit to this assignment of error.
+
+The defendant also contends that the trial court incorrectly denied the defendant's motions for a mistrial and for a new trial because of improper prejudicial comments by the prosecutor in her closing statement.
+
+When the accused, age 47, took the stand he admitted to three prior convictions. Two of his companions (who had pleaded guilty) testified in support of the defendant's position that they had not entered the abandoned building with any intent to take objects of value from it. These two individuals were much younger than the accused, the age of one being shown as 22.
+
+In the course of her rebuttal argument, the assistant district attorney commented that if the accused was found not guilty, "the state believes that he is just going to go out, Ladies and Gentlemen, and recruit some more young kids and have another crew." The court immediately sustained a defense objection and then asked the prosecutor, "Have you completed your argument?", in implied rebuke.
+
+When the prosecutor immediately rested, in response to this implied suggestion by the trial court, the defendant immediately moved for a mistrial because of the improper comment. (No evidence of any past digression permitted the inference argued by the prosecutor.)
+
+We are unable to say that the trial court abused its discretion by denying a mistrial under the circumstances. The defendant's immediate objection was immediately sustained, and the prosecution requested to close her argument by way of implied rebuke. The drastic remedy of a mistrial is not warranted if, within the sound discretion of the trial court, an admonition is sufficient to preserve the defendant's right to a fair trial. La.C.Cr.P. art. 771.
+
+The defendant also complains of the prosecutor's additional statement in rebuttal.[1] The prosecutor explained that the state had permitted the other defendants to plead guilty, since they were "young kids" and "had no other record." The prosecutor then stated that the accused had "been around. He knows what's going on. Maybe somebody else somewhere gave him a chance, but I believe, Ladies and Gentlemen, he should be tried today for that crime and he should be before you on that particular charge."
+
+The prosecutor came dangerously close to reversible error by way of expressing a personal opinion of the truthfulness of the state's case against the accused as reenforced by the knowledge and influence of her official position. See State v. Kaufman,
+304 So. 2d 300
+, 307-08 (La. 1974).
+
+Nevertheless, we ultimately deem the comment to be non-reversible under the present circumstances, because it was offered by way of reasonable explanation in   countering an earlier defense argument. The defense had strongly argued that the state's case against the defendant must be weak, since the state had permitted the two co-defendants to plead guilty to misdemeanor theft rather than trying them upon the felony burglary charge for which the defendant was on trial.
+
+For the reasons assigned, we affirm the conviction and sentence.
+
+AFFIRMED.
+
+[1]  Actually, in the motion for mistrial made at the close of the prosecutor's rebuttal, the defendant did not urge this second comment as a basis for the mistrial. The state contends that, by not specifying this basis for a mistrial at the close of the prosecutor's rebuttal, the defendant waived his right to complain of it by his motion for new trial after the verdict. La.C. Cr.P. art. 841. Since we do not find merit to the accused's complaint, we do not find it necessary to rest our holding upon this at least equally proper basis for appellate decision of the issues raised.

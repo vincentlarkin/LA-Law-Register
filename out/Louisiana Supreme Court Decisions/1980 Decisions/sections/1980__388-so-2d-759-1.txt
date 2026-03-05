@@ -1,0 +1,151 @@
+66816
+State v. Daranda
+https://law.justia.com/cases/louisiana/supreme-court/1980/388-so-2d-759-1.html
+
+66816
+State v. Daranda
+Court: Louisiana Supreme Court
+Release date: 1980-09-03
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/388-so-2d-759-1.html
+
+388 So. 2d 759 (1980)
+
+STATE of Louisiana
+v.
+Stanley J. DARANDA.
+
+No. 66816.
+
+Supreme Court of Louisiana.
+
+September 3, 1980.
+
+*760 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Eddie Knoll, Dist. Atty., Jeannette Theriot Knoll, Cliff E. Laborde, III, Asst. Dist. Attys., for plaintiff-appellee.
+
+Gravel, Robertson & Brady, Dee D. Drell, Alexandria, for defendant-appellant.
+
+MARCUS, Justice.
+
+Stanley J. Daranda was charged by bill of information with negligent homicide in violation of La.R.S. 14:32. After trial by jury, defendant was found guilty and sentenced to serve five years at hard labor. On appeal, defendant relies on eight assignments of error for reversal of his conviction and sentence.
+
+On the night of January 19, 1979, defendant was driving his automobile north on La. Highway 1 in Avoyelles Parish. At the same time, Ms. Hazel Bordelon was traveling south on the same highway in her automobile. The road was wide, straight and level, with no obscurements. The Bordelon vehicle contained two passengers, Mrs. Nester Deshotel, who occupied the front passenger seat, and Mr. John Juneau, who was seated in the rear of the vehicle. As the vehicles were about to pass, going in the opposite direction, defendant's vehicle suddenly went into a spin, crossed into the southbound lane of traffic and collided headon with the Bordelon vehicle. It was raining at the time. All occupants of the two vehicles, including defendant, were hospitalized with serious injuries. At the hospital approximately two hours after the accident, defendant consented to a blood test to determine the alcohol content of his blood. The results of that test were introduced in evidence at trial. Mrs. Deshotel died on February 6, 1979, from a streptococcus infection in fluid which accumulated on her brain as a result of injuries sustained in the accident.
+
+Defendant contends the trial judge erred in denying his motion to quash grounded on a claim that the presumption of criminal negligence set forth in La.R.S. 14:32 is unconstitutional (Assignment of Error No. 1) and in instructing the jury as to the presumption of intoxication provided for in La.R.S. 32:662 in that this presumption is likewise unconstitutional (Assignment of   Error No. 5). He argues that the use of each of these presumptions allows the state to secure a conviction without proving beyond a reasonable doubt every element of the crime charged.
+
+La.R.S. 14:32 provides:
+
+La.R.S. 32:662 provides:
+
+This section has no application to a civil action or proceeding. (Emphasis added.)
+
+In State v. Hammontree,
+363 So. 2d 1364
+, 1372 (La.1978), we upheld the constitutionality of La.R.S. 14:32, stating that while the phrase "presumptive evidence" creates no legal presumption, it means that the "violation of a statute related to the cause of the accident will justify the inference that defendant committed a criminally negligent act." Subsequently, in County Court of Ulster County v. Allen,
+442 U.S. 140
+, 99 S. Ct. 2213, 60 L. Ed. 2d 777 (1979), the Supreme Court considered the use of statutory presumptions in criminal cases. As defined in Ulster, the presumption of criminal negligence would be considered a "permissive statutory presumption" as it leaves the trier of fact free to credit or reject the inference and under the facts of this case there was a "rational connection" between the basic facts that the prosecutor proved and the fact presumed, and the latter was more likely than not to flow from the former. Since the record further reflects that the state proved beyond a reasonable doubt that defendant's criminal negligence was the cause of the victim's death, it is clear that the presumption was not the sole basis for a finding of guilt. Hence, the prosecutor would have been entitled to use the presumption of criminal negligence in this case. See also Hammontree v. Phelps, 605 F.2d 1371 (5th Cir. 1979).
+
+Ulster defined a mandatory presumption as one that tells the trier that he or they must find the elemental fact upon proof of the basic fact, at least unless the defendant has come forward with some evidence to refute the presumed connection   between the two. Generally, the presumption is examined on its face to determine the extent to which the basic and elemental facts coincide. In order to sustain the use of a mandatory presumption to prove an essential element of an offense, the fact proved must be sufficient to support the inference beyond a reasonable doubt.
+
+In the instant case, the presumption of intoxication while driving provided by La.R.S. 32:662 is a mandatory presumption which could be used by the prosecutor, that is, the fact proved (a test reading of 0.19 per cent by weight of alcohol in defendant's blood) sufficiently supports the presumption of intoxication (presumed fact) beyond a reasonable doubt. However, Ulster related to a situation where the presumed fact was an elemental fact. Here, the presumed fact of intoxication is not an elemental fact; rather, the element of the offense is criminal negligence. Thus, it is obvious that, if the presumption of intoxication could be used by the prosecutor if intoxication was an element of the offense under Ulster, a fortiori, it could be used by the prosecutor merely to prove a fact to be considered in proving criminal negligence, an element of the offense.
+
+However, in State v. Williams,
+375 So. 2d 931
+(La.1979), we held that it would be improper for the prosecutor to "link or piggy-back" in a negligent-homicide prosecution the presumptions provided by La.R.S. 32:662 and 14:32. By requiring the jury to conclusively presume the motorist's intoxication arising from the blood test result and thereby supplying a statutory violation which is presumptive of criminal negligence, the state would be able to prove guilt in a negligent-homicide prosecution without meeting the constitutionally-required "beyond a reasonable doubt" standard of proof.
+
+In the instant case, after the reading of the information and defendant's plea on arraignment, the trial judge read the offense charged, La.R.S. 14:32, to the jury in its entirety. Defendant objected to a reading of that portion of the statute which referred to the presumption of criminal negligence. At that point, the state and defendant agreed to omit any reference in the presence of the jury to that portion of the statute objected to by defendant. The trial judge then re-read La.R.S. 14:32 to the jury, omitting that portion of the statute dealing with the presumption. Thereafter, the portion of the statute referring to a statutory violation as presumptive evidence of criminal negligence was not mentioned in the presence of the jury. In charging the jury, the trial judge stated:
+
+Clearly, there was no "linking or piggy-backing" in this negligent-homicide prosecution of the presumptions provided by La. R.S. 32:662 and 14:32. The initial reference to the presumption of criminal negligence was harmless.
+
+In sum, the trial judge did not err in denying defendant's motion to quash and in instructing the jury as he did.
+
+Assignments of Error Nos. 1 and 5 are without merit.
+
+Defendant contends the state presented no evidence of criminal negligence, an essential element of the crime charged.[1]
+
+*763 The evidence adduced at the trial reveals that the accident occurred on a rainy night on a stretch of the highway described as wide, straight and level, with no obscurements. Trooper Travis R. Wiley, who investigated the accident, testified that the evidence indicated that defendant was headed in a northbound direction on La. Highway 1 when he lost control of his vehicle and traveled into the southbound lane, striking the vehicle in that lane headon. After impact, defendant's vehicle went into a ditch on the side of the highway and the other vehicle made a forced spin in its lane. Both vehicles were totally demolished. Trooper Wiley stated that the vehicle traveling in the southbound lane, driven by Ms. Hazel Bordelon, had not been out of control, that he found no traffic violations to have been committed by Ms. Bordelon, and that the accident occurred entirely in her lane. Trooper Wiley further testified that defendant appeared intoxicated at the time and admitted at the hospital some two hours later that he had drunk "three quarts of beer and four or five small beers." The state also introduced the blood analysis result of the test conducted by the State Police Crime Laboratory which showed that defendant's blood contained .19 per cent alcohol by weight, a percentage sufficient to give rise to the presumption pursuant to La.R.S. 32:662(A)(1)(c) that defendant was under the influence of alcohol.
+
+Ms. Bordelon testified that she was driving with her headlights illuminated but did not have them set on "bright" as defendant's vehicle approached her, crossed into her lane, began to spin and collided with her vehicle. She testified that she heard a loud noise as defendant's car approached as if it were traveling at a high speed.
+
+Defendant testified that he was blinded by the bright headlights of Ms. Bordelon's oncoming vehicle and that he applied his brakes and signalled several times for her to dim her lights but she failed to do so. Defendant stated that, as he was applying his brakes, his car turned and he hit the other vehicle. Defendant estimated his speed at 30 miles per hour.
+
+The three occupants of the Bordelon vehicle and defendant, who was alone in his vehicle, were treated at a local hospital. Mrs. Nester Deshotel, a passenger in the Bordelon vehicle, was seen at the hospital by Dr. S. R. Abramson who testified that she was comatose at the time. He stated that her condition indicated some brain injury which caused him to refer her to a neurosurgeon, Dr. Chester Babson Fresh. Dr. Fresh testified that Mrs. Deshotel was transferred to his care on the night of the accident and that she died eighteen days later as a result of a streptococcus infection in an accumulation of fluid on her brain which was a delayed reaction to the injury to the brain. Dr. Fresh opined that Mrs. Deshotel died as a direct result of the injuries she received in the automobile accident.
+
+This court has previously held that our review of an allegation of no evidence is limited to a determination of whether there is "some evidence" to support a verdict. State v. Banks,
+362 So. 2d 540
+(La.1978); State v. Sheppard,
+350 So. 2d 615
+(La.1977). Whether we apply that traditional standard of review or the standard of Jackson v. Virginia,
+443 U.S. 307
+, 99 S. Ct. 2781, 61 L. Ed. 2d 560 (1979), that a rational trier of fact, viewing the evidence in the light most favorable to the prosecution, could have found the essential elements of the crime beyond a reasonable doubt, we find substantial evidence from which a jury could have found defendant guilty of the crime charged.
+
+Assignment of Error No. 7 is without merit.
+
+Defendant contends the trial judge erred in imposing an excessive sentence.[2]
+
+*764 At the sentencing hearing, the trial judge sentenced defendant to serve five years at hard labor, the maximum penalty. When asked by defendant to state specifically the considerations taken into account in imposing the sentence, pursuant to La.Code Crim.P. art. 894.1,[3] the trial judge stated only: "Well, I took into consideration the record of the defendant, and I took into consideration the fact that I could give a lesser sentencemight not serve the proper return to others; I took into consideration the age and the background of the defendant." We conclude that the trial judge's comment did not constitute sufficient compliance with La.Code Crim.P. art. 894.1(C), which requires that the trial judge state for the record the considerations taken into account and the factual basis therefor in imposing sentence.
+
+In State v. Sepulvado,
+367 So. 2d 762
+(La. 1979), we stated that the statutory criteria legislatively provided by La.Code Crim.P. art. 894.1 provide appropriate criteria by which to measure whether a sentence within statutory limits is nevertheless excessive, either by reason of its length or because it specifies confinement rather than less onerous sentence alternatives. We further noted that the trial judge's reasons in imposing sentence, as required by this statute, are an important aid to this court when called upon to exercise its constitutional function to review a sentence complained of as excessive. Absent compliance with La.Code Crim.P. art. 894.1, as in the instant case, we lack appropriate criteria by which to measure whether the sentence imposed is excessive. Accordingly, we must vacate defendant's sentence and remand the case to the trial court with instructions to properly consider the sentencing guidelines in the statute before imposing sentence.
+
+Having reviewed the remaining assignments of error asserted by defendant, we find that they present no reversible merit and do not require published explanation because they do not present any question of unsettled law. Therefore, these assignments of error are discussed in an unpublished but publicly-recorded appendix to this opinion.
+
+For the reasons assigned, defendant's conviction is affirmed but the sentence imposed   is vacated and set aside, and the case is remanded to the district court with instructions to the trial judge to sentence defendant in accordance with law.
+
+CALOGERO, J., dissents and assigns reasons.
+
+CALOGERO, Justice, dissenting.
+
+The trial court's first reading of R.S. 14:32 coupled with the later reading of R.S. 32:662 allowed the jury to consider the presumption of the former statute, dealing with criminal negligence, in conjunction with the presumption of the latter, dealing with intoxication. This situation was not cured by the second reading of R.S. 14:32, which omitted the statutory language concerning the presumption, because of the court's failure to deliver an admonition correcting the mistake.
+
+There was therefore a "linking or piggy-backing" of presumptions, as was proscribed in State v. Williams,
+375 So. 2d 931
+(La.1979), with the result that the jury was free to find the defendant guilty of negligent homicide simply upon a showing of DWI. The effect is to relieve the state of its constitutional burden of proving beyond a reasonable doubt the fact of defendant's negligence, a necessary element of the crime charged. Therefore, I believe defendant's assignments of error numbers 1 and 5 to be meritorious to the extent that they state that the conjunctive use of these two presumptions is unconstitutional. The judgment of the trial court should be reversed and a new trial granted.
+
+[1]  Formerly, this court had held that in a jury trial the proper procedural vehicle for preserving a no evidence issue for appellate review was in a motion for a new trial. No such motion was filed here. However, in State v. Peoples,
+383 So. 2d 1006
+(La.1980), we held that, whether or not a defendant raises a claim of no evidence in a motion for a new trial, upon formal assignment of error, we will review whether the defendant's claim of no evidence has merit.
+
+[2]  Defendant did not object on this ground at the time of sentencing. However, we have held that no objection is required as to excessiveness at the time of sentencing to preserve the issue for appellate review when raised by assignment of error to this court. State v. Gist,
+369 So. 2d 1339
+(La.1979); State v. Cox,
+369 So. 2d 118
+(La.1979).
+
+[3]  La.Code Crim.P. art. 894.1 provides:
+
+A. When a defendant has been convicted of a felony or misdemeanor, the court should impose a sentence of imprisonment if:
+
+(1) There is an undue risk that during the period of a suspended sentence or probation the defendant will commit another crime;
+
+(2) The defendant is in need of correctional treatment or a custodial environment that can be provided most effectively by his commitment to an institution; or
+
+(3) A lesser sentence will deprecate the seriousness of the defendant's crime.
+
+B. The following grounds, while not controlling the discretion of the court, shall be accorded weight in its determination of suspension of sentence or probation:
+
+(1) The defendant's criminal conduct neither caused nor threatened serious harm;
+
+(2) The defendant did not contemplate that his criminal conduct would cause or threaten serious harm;
+
+(3) The defendant acted under strong provocation;
+
+(4) There was substantial grounds tending to excuse or justify the defendant's criminal conduct, though failing to establish a defense;
+
+(5) The victim of the defendant's criminal conduct induced or facilitated its commission;
+
+(6) The defendant has compensated or will compensate the victim of his criminal conduct for the damage or injury that he sustained;
+
+(7) The defendant has no history of prior delinquency or criminal activity or has led a law-abiding life for a substantial period of time before the commission of the instant crime;
+
+(8) The defendant's criminal conduct was the result of circumstances unlikely to recur;
+
+(9) The character and attitudes of the defendant indicate that he is unlikely to commit another crime;
+
+(10) The defendant is particularly likely to respond affirmatively to probationary treatment; and
+
+(11) The imprisonment of the defendant would entail excessive hardship to himself or his dependents.
+
+C. The court shall state for the record the considerations taken into account and the factual basis therefor in imposing sentence.

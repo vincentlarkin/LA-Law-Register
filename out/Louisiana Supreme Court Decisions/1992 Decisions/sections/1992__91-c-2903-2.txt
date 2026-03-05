@@ -1,0 +1,103 @@
+91-C-2903
+Albritton v. Albritton
+https://law.justia.com/cases/louisiana/supreme-court/1992/91-c-2903-2.html
+
+91-C-2903
+Albritton v. Albritton
+Court: Louisiana Supreme Court
+Release date: 1992-05-26
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1992/91-c-2903-2.html
+
+600 So. 2d 1328 (1992)
+
+Alvin H. ALBRITTON
+v.
+A. Stirling ALBRITTON, et al.
+
+No. 91-C-2903.
+
+Supreme Court of Louisiana.
+
+May 26, 1992.
+
+Rehearing Denied June 26, 1992.
+
+*1329 John Dale Powers, Neil H. Mixon, Jr., Powers, Vaughn & Clegg, Baton Rouge, for plaintiff-applicant.
+
+Claude Favrot Reynaud, Jr., Robert Troxel Bowsher, Jude Christopher Bursavich, Christine Lipsey, Breazeale, Sachse & Wilson, Baton Rouge, for defendants-respondents.
+
+MARCUS, Justice.
+
+Plaintiff, Alvin H. Albritton, is the son of Dr. A. Stirling Albritton and the grandson of Alvin R. Albritton, and was born on January 23, 1952. On December 3, 1957, plaintiff's grandfather died, leaving a will that bequeathed to plaintiff an undivided one-fourth interest in the naked ownership of his residuary estate. This interest was subject to a life usufruct in favor of his father and was further subject to an irrevocable testamentary spendthrift trust, with   plaintiff's father and uncle (William Louis Albritton) acting as trustees.[1] The trust was set to terminate in two stages: one-half of the trust would terminate on plaintiff's twenty-first birthday (January 23, 1973); the other half would terminate on plaintiff's twenty-sixth birthday (January 23, 1978). On September 21, 1972, approximately four months prior to the termination of the first part of the trust, plaintiff, at the request of his father, signed as settlor and beneficiary a document entitled "Extension of Trust." That document provided in pertinent part:
+
+In addition to plaintiff's signature, the document was signed by plaintiff's father and uncle as co-trustees and by a notary and two witnesses.[2] On January 29, 1973, the trial judge signed an ex parte order upon petition of the trustees, which purported to validate the extension.
+
+On January 12, 1988, sixteen years after the 1972 document was executed, plaintiff filed suit against the trustees,[3] seeking a declaration that the agreement executed by him on September 21, 1972 was of no force and effect, or alternatively, that any trust created in connection therewith be terminated and annulled. The essence of plaintiff's petition was that he was misled by the trustees and that he signed the agreement in error, believing it applied only to a part of the trust property known as Stoney Point. Subsequently, the trustees filed a peremptory exception of prescription. After a hearing, the trial judge sustained the exception of prescription and dismissed plaintiff's claims. In his oral reasons, the trial judge stated that even if the extension of trust agreement violated the trust code, such a violation only gave rise to a relative nullity, which prescribed in five years. He reasoned that plaintiff had five years to bring suit after learning he signed the agreement in error. The trial judge found plaintiff learned at least by 1980, if not sooner, that more property than Stoney Point was involved in the agreement; therefore, his 1988 suit was outside of the five year prescriptive period. Plaintiff appealed. The court of appeal affirmed.[4] Upon plaintiff's application, we granted certiorari to consider the correctness of   that decision.[5]
+
+The sole issue before us is whether plaintiff's right to raise the nullity of the 1972 extension of trust agreement has prescribed.
+
+The articles of the civil code pertaining to nullity are as follows:
+
+The trial judge assumed that any modification of the existing trust would be null, since it would violate the provisions of the trust code. Nonetheless, he went on to find that if plaintiff entered into such an agreement in error, the agreement would be a relative, rather than absolute, nullity, reasoning that the trust code set forth rules intended for the protection of private parties and did not set forth rules of public order. We disagree.
+
+We believe there is a strong public policy in effectuating and protecting the settlor's intent as set forth in the trust document. In Richards v. Richards,
+408 So. 2d 1209
+(La.1981), we stated:
+
+The trial judge mistakenly focused on plaintiff's intent in entering into the agreement, rather than on the settlor's intent. In doing so, he implicitly held that in the absence of any vices of consent, plaintiff could enter into an agreement affecting the trust, even if the agreement was contrary to the settlor's intent. This cannot be so. The trust would hardly be a stable device for the transmission of property if the beneficiaries and trustees could make agreements that could modify the settlor's fundamental intent in setting up the trust. We believe such modifications are contrary to the rules expressed in the trust code in La.R.S. 9:2021 and 9:2025:
+
+Thus, under the scheme of the trust code, even the settlor has no power to modify the   trust he has created unless he expressly reserves the power to do so. More importantly for our purposes, the trust code prohibits the delegation of the power to modify provisions of the trust other than the administrative provisions. Oppenheim & Ingram, 11 Louisiana Civil Law TreatiseTrusts § 294 (1977). Likewise, La. R.S. 9:2028 sets forth a concept of trust indestructibility:
+
+We have held this concept of trust indestructibility is "inherent in our Louisiana trust law." Richards, 408 So. 2d  at 1210. Taken as a whole, we believe these rules set forth a public policy of protecting the trust instrument from any modification or termination contrary to the settlor's clearly expressed intent. These are imperative rules of public order, and any violation of these rules is an absolute nullity. See Badon's Employment, Inc. v. Smith,
+359 So. 2d 1284
+(La.1978); E.L. Burns Co. v. Cashio,
+302 So. 2d 297
+(La.1974).
+
+Turning to the facts of the present case, we find the settlor's intent was that the trust should terminate as to plaintiff upon his twenty-first and twenty-sixth birthdays. The extension of trust purports to extend the trust for plaintiff's lifetime. Clearly, this extension is contrary to the settlor's intent and acts to modify the trust. Accordingly, the extension of trust agreement is an absolute nullity, which is imprescriptible, and we find the trial judge erred in sustaining the exception of prescription.
+
+Nonetheless, a finding that the extension of trust is an absolute nullity will not end the case. In the event that the extension is invalid, the agreement alternatively purports to create a new trust with plaintiff as settlor. The trustees in brief to this court have argued that the agreement created a valid irrevocable inter vivos trust, which was funded when plaintiff obtained the right to the distribution of the corpus of his grandfather's trust in 1973 and in 1978. By contrast, plaintiff argues that at the time the alleged new trust agreement was executed in 1972, he had not yet reached the age of twenty-one and therefore had no property to place in trust. He further argues there is no evidence that he ever placed property in the alleged new trust.
+
+We believe that the alleged new trust, like the extension of trust, must be considered an absolute nullity. The clear language of the agreement leads to the inescapable conclusion that it attempted to create a new trust on the date it was executed (September 21, 1972), which was during the existence of the prior trust: "Settlor declares that Settlor's interest in the Trust described above shall be held and is hereby placed irrevocably in trust...." (emphasis added). Since we have found the settlor of the prior trust did not intend for that trust to be extended beyond the termination dates expressed in the trust, it follows that the settlor would not have intended for the same result to be achieved by a different means. Whether the agreement attempts to extend the existing trust, or whether it attempts to create a new trust prior to the termination of the existing trust, the effect is the same: the settlor's intent that the trust be terminated at age twenty-one and age twenty-six is frustrated.[6] Further, the settlor also intended that this trust be a spendthrift trust. La.R.S. 9:2007 provides:
+
+Restraining alienation means the beneficiary cannot transfer, assign or encumber his interest in the trust. Comment, Spendthrift Trusts In Louisiana, 33 La.L.Rev. 391 (1973). We believe that by attempting to create a new trust during the existence of the prior trust, the beneficiary was attempting to alienate his interest in violation of the concept of the spendthrift trust and in violation of the settlor's intent that the interest in trust not be alienated while in trust. Therefore, under the facts of this case, we find the attempt to create the new trust is an absolute nullity.
+
+In sum, we find the trial judge erred in sustaining the exception of prescription. We hold that the agreement which purports to extend the existing trust or alternatively create a new trust is an absolute nullity and is imprescriptible. We remand the case to the trial court to grant the relief to which plaintiff is entitled.
+
+For the reasons assigned, the judgment of the court of appeal is reversed. The exception of prescription is overruled. The case is remanded to the district court for further proceedings. All costs are assessed to defendants.
+
+DENNIS, J., concurs with reasons.
+
+DENNIS, Justice, concurring.
+
+I respectfully concur.
+
+I disagree, however, with the majority's view that La.R.S. 9:2028 is a "law[ ] enacted for the protection of the public interest [or that] [a]ny act in derogation of [La.R.S. 9:2028] is an absolute nullity." La.C.C. art. 7 (1988). As eminent scholars have observed, La.R.S. 9:2028 was probably enacted to protect the interests of trust companies and not the public.
+
+La.R.S. 9:2028 provides that a trust is not terminable at the will of all the parties at interestsettlors, beneficiaries, and trusteesunless the trust instrument reserved a power of revocation. This stringent provision against terminability is contrary to the laws of most other states, which permit the settlor and all the beneficiaries to terminate the trust, even in the face of active opposition by the trustee, proceeding on the theory that a trustee has no such interest in the trust as to entitle him to oppose termination. It has been strongly urged that, as a general rule, a trust should be terminable by the will of all the beneficiaries. If prohibiting termination by the beneficiaries is undesirable, then by definition a provision prohibiting termination by all the parties at interest is entitled to strenuous criticism. D. Robertson, Some Interesting Features of the Proposed Trust Code, 24 La.L.Rev. 712 (1964).
+
+As stated by Professor Nabors:
+
+Nabors, The Shortcomings of the Louisiana Trust Act and Some Problems of Drafting Trust Instruments Thereunder, 13 Tul.L.Rev. 179, 199 (1939) (Emphasis added).
+
+Professor Pascal observed:
+
+Consequently, I cannot agree that La. R.S. 9:2028 was enacted to preserve good morals or to protect the public interest. Therefore, I do not believe that a juridical act in derogation of that law should be declared absolutely null.
+
+Nevertheless, I concur in the conclusion that the juridical act is absolutely null because it derogated from other laws that were enacted for the protection of the public interest. In fact, the act sought to accomplish an end far less innocuous than to terminate a non-spendthrift trust by the will of all interested persons for the immediate advantage of the beneficiary. Indeed, because the trust which the trustee sought to either extend or to convert into a new trust to the disadvantage of the beneficiary was a spendthrift trust, the juridical act was in derogation of laws providing that the interest of a beneficiary of such a trust shall not be subject to voluntary alienation by a beneficiary. La.R.S. 9:2002, 9:2007. By inducing the beneficiary to alienate his interest so as to put it beyond his reach for the rest of his life, the trustee entered a juridical act also in derogation of laws imposing a duty upon the trustee to uphold the provisions of the trust unless permitted to deviate therefrom by court order. La.R.S. 9:2061, et seq.
+
+"Spendthrift trust" is the term commonly applied to those trusts that are created with a view to providing a fund for the maintenance of another, and at the same time securing it against his own improvidence or incapacity for self-protection. G. Bogert, Trusts § 40, at 149 (6th ed. 1987). Although there has been much debate as to whether spendthrift clauses should be enforceable, Id., at 150, when the legislature has sanctioned them because it deems them necessary to the protection of inexperienced and incompetent persons, an act by which a trustee violates his legal duty to uphold the trust provisions and causes a beneficiary to alienate his interest contrary to the trust and the trust code plainly derogates from laws enacted for the protection of the public interest.
+
+[1]  The will also created identical trusts in favor of Alvin R. Albritton's other three grandchildren, Michael Stirling Albritton, Mary Louise Albritton and Carol Stewart Albritton.
+
+[2]  Extensions of trust were also executed by two other grandchildren who were beneficiaries under the Alvin R. Albritton testamentary trust. Plaintiff's brother, Michael Stirling Albritton, executed an extension identical to that executed by plaintiff. Plaintiff's cousin, Mary Louise Albritton (daughter of William Louis Albritton), executed an extension purporting to terminate her trust in one stage, at her twenty-sixth birthday. There is no evidence that Carol Stewart Albritton (the other daughter of William Louis Albritton) executed an extension of trust. Apparently, the extensions executed by Michael and Mary Louise were never challenged.
+
+[3]  In 1982, William Louis Albritton resigned as co-trustee. Hallie H. Box was appointed as successor co-trustee in his place. In 1988, plaintiff filed a rule to have his father and Ms. Box removed as trustees. That action is not presently before us.
+
+[4]  591 So. 2d 357 (La.App. 1st Cir.1991).
+
+[5]  592 So. 2d 1326 (La.1992).
+
+[6]  Of course, we do not mean to foreclose a former beneficiary from setting up a new trust with a former trust's assets after the former trust has terminated by its own provisions. At this point, the intent of the settlor of the former trust becomes irrelevant and does not bar the former beneficiary from setting up a new trust. Although the trustees have argued the former trust in the present case has terminated prior to the beginning of the alleged new trust, we believe this argument runs counter to the clear language of the agreement itself.

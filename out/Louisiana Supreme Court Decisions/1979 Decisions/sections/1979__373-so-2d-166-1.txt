@@ -1,0 +1,79 @@
+63796
+Ray v. Associated Indem. Corp.
+https://law.justia.com/cases/louisiana/supreme-court/1979/373-so-2d-166-1.html
+
+63796
+Ray v. Associated Indem. Corp.
+Court: Louisiana Supreme Court
+Release date: 1979-06-25
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/373-so-2d-166-1.html
+
+373 So. 2d 166 (1979)
+
+Charles RAY
+v.
+ASSOCIATED INDEMNITY CORPORATION and Rose LaCour.
+
+No. 63796.
+
+Supreme Court of Louisiana.
+
+June 25, 1979.
+
+*167 Franklin D. Beahm, Manard, Schoenberger & Ryan, New Orleans, for plaintiff-applicant.
+
+David M. Cambre, Dillon & Cambre, New Orleans, for defendant-respondent.
+
+DIXON, Justice.
+
+On December 5, 1975 an automobile accident involving Charles Ray and Rose LaCour occurred at the intersection of Freret and Valence Streets in New Orleans. Five months later Ray filed a suit for damages against Rose LaCour and Associated Indemnity Corporation, the liability insurer for her automobile. Associated Indemnity moved for summary judgment seeking dismissal as a party defendant on the ground that its policy with Rose LaCour had expired at the time of the accident. The district court granted the motion, and this ruling was affirmed by the Court of Appeal. Ray v. Associated Indemnity Corp. and Rose LaCour, 365 So. 2d 5 (La.App. 1978). The plaintiff sought a writ of review which this court granted on February 16, 1979. 367 So. 2d 868 (La. 1979).
+
+On January 3, 1974 Associated Indemnity issued policy # Z-3372898 to Rose LaCour to provide six months coverage on her 1972 Chevrolet. The policy section concerning continued coverage provided:
+
+A notice of cancellation was mailed to Ms. LaCour on March 1, 1974, but the policy was reinstated by the company on March 16, 1974. The policy was later extended on two separate occasions by payment of the renewal premium. On both occasions a notice was sent to Ms. LaCour at her home advising her that the policy would be continued only if she paid the premium on time. However, no premium was paid by July 3, 1975 to extend coverage until January 3, 1976. The insurance company's records indicate that a premium notice was mailed to Ms. LaCour at her residence on May 28, 1975, but she specifically denied having received it.
+
+Associated Indemnity filed for summary judgment to be dismissed as a party defendant because it was not the insurer of Ms. LaCour's automobile on December 5, 1975. In response the plaintiff contended that the insurance company's failure to comply with the terms of R.S. 22:636.1 E had renewed the policy and that the cancellation procedure provided in R.S. 22:636.1 B, which the insurer admits it did not follow, had to be invoked to terminate coverage.
+
+*168 R.S. 22:636.1 E provides:
+
+The defense argues that the provisions of § E do not apply in this case because the insured failed to pay the continuation premium when it was due, or, in the alternative, because it manifested its willingness to renew the policy either through its past practice of mailing premium notices or by the notice allegedly mailed on May 28, 1975 which Ms. LaCour denies having received. At issue, therefore, is whether this notice was required, and, if it was, whether Ms. LaCour's denial of its receipt is sufficient to raise a genuine issue of material fact such that summary judgment on the issue of coverage was inappropriate.
+
+The district court granted the motion for summary judgment, noting in written reasons for judgment that no notice was required since the insurer was willing to renew the policy which, therefore, merely expired when the premium went unpaid. The Court of Appeal affirmed the district court and explained why § E did not apply: "... Section E. deals only with a situation in which the insurer does not wish to renew. The insurer was willing to renew the policy, in this case, but no continuation payment was forthcoming from the insured. Section E. then has no bearing on a 6 month policy which expired by its own terms due to non-payment of the renewal premium." 365 So. 2d  at 7.
+
+We first must take exception to the interpretation given to § E by the lower courts. Section E requires an insurer to renew a policy unless it mails or delivers timely notice of its intention not to renew. However, the insurer is not required to renew the policy or to give notice of its intention not to renew if it "has manifested its willingness to renew." Once the company demonstrates its willingness to renew, § E no longer applies. This result obtains because the insurance company, by stating its willingness to renew the policy, gives the insured the option of continuing or terminating coverage. If the insured is silent or indicates his aversion to continued coverage, the insurance company is no longer obligated to renew the policy. For this reason, it is clear that the insurer's willingness to renew the policy is ineffective unless it is communicated to the insured, because he will be aware that the choice of continuing coverage rests solely with him only if he knows that the company is willing to renew the policy. The lower courts were incorrect to focus on the insurer's willingness to renew the policy, since the pertinent inquiry was whether this intention had been communicated to Ms. LaCour. Section E therefore applies unless the insurer manifested its willingness to renew Ms. LaCour's policy or "in case of nonpayment of premium." The insurance company contends, however, that it is excused from compliance with § E under either exception.
+
+Associated Indemnity first contends that it was not required to abide by the terms of § E because Ms. LaCour failed to pay her continuation premium. However, R.S. 22:636.1 A(6) defines "nonpayment of premium" as the "failure of the named insured to discharge when due any of his obligations in connection with the payment of premiums on a policy, or any installments of such premium ..." (Emphasis added). The policy language concerning the due date of the continuation premium provided that it was payable "on or before the effective date of each successive policy period." At the time that Associated Indemnity   was required to renew the policy or to give advance notice of its intention not to renew it, the continuation premium was not yet due. The defense has relied on the decisions in Arceneaux v. Broussard, 319 So. 2d 846 (La.App.1975); Morton v. Myers, 276 So. 2d 378 (La.App.1973) and Vidrine v. Southern Farm Bureau Casualty Ins. Co., 247 So. 2d 660 (La.App.1971), for the proposition that a policy expires if the renewal premium is not paid on time. However, in those cases the insured admitted that he had received notice of a continuation premium which he failed to pay in full (in Vidrine, the insured made a partial payment). Therefore, the insurer, having manifested its willingness to renew the policy, was relieved of its statutory duty to renew and could allow the policy to expire when the insured failed to pay the premium.[1] Therefore, because § E applies despite Ms. LaCour's failure to pay the renewal premium, it is clear that the insurer was required to manifest its intention to renew the policy in order to avoid the operation of § E and the resulting automatic renewal of the policy.
+
+Associated Indemnity has also argued that § E does not apply to the instant case because it manifested its willingness to renew the policy, either through its past actions of mailing premium notices or through the notice which it mailed to Ms. LaCour on May 28, 1975. However, it is clear that premium notices sent twice in the past do not constitute a manifestation of the company's present willingness to renew the policy. The statute obviously contemplates a fresh manifestation of this willingness to renew for each new policy period. Logic, alone, dictates this interpretation an insurance company which is willing to renew a policy at one time may have different feelings at a later date. Although the company may be correct to contend that written notice is not required, it suggests nothing except past experience which could have alerted Ms. LaCour to its intentions. Therefore, it was necessary that the company's willingness to renew the policy for this particular period be communicated to Ms. LaCour.
+
+The company's records indicate that a premium notice was sent to Ms. LaCour on May 28, 1975. However, Ms. LaCour specifically denied having received this notice. The insurance company therefore contends that compliance with the terms of R.S. 22:636.1 F[2] constitutes sufficient proof of notice and that no genuine issue of material fact is raised by Ms. LaCour's assertion that she did not receive the premium notice.
+
+It is well settled in our jurisprudence that a motion for summary judgment should be granted if, and only if, the pleadings and related filings show that there is no genuine issue of material fact and that the mover is entitled to judgment as a matter of law. C.C.P. 966; Employers' Surplus Line Ins. Co. v. City of Baton Rouge,
+362 So. 2d 561
+(La.1978); Andrew Development Corp. v. West Esplanade Corp.,
+347 So. 2d 210
+(La.1977); Morgan v. Matlack, Inc.,
+342 So. 2d 167
+(La.1977). The burden of showing that there is not a genuine issue of material fact in dispute is upon the mover for summary judgment, and any doubt is resolved against granting the motion in favor of a trial on the merits. Employers' Surplus Line Ins. Co. v. City of Baton Rouge, supra; Kay v. Carter, 243 La. 1095,
+150 So. 2d 27
+(1963).
+
+In arguing for the propriety of summary judgment on this issue, Associated Indemnity relies on the case of Cuccia v. Allstate Ins. Co., 250 So. 2d 60 (La.App.1971), in which the Fourth Circuit held a summary judgment proper even though the insured denied having received a cancellation notice.[3]*170 However, the insurance company failed to note that this court reversed the Fourth Circuit's decision, Cuccia v. Allstate Ins. Co., 262 La. 545,
+263 So. 2d 884
+(1972). In that case we agreed that the insurance company presented prima facie evidence that the notice was mailed according to the statute's requirements, but concluded that the presumption raised was rebuttable by the insured who adamantly contended that he had not received the notice. Therefore, the court decided that Cuccia was entitled to his day in court.
+
+Although the instant case does not involve a cancellation notice, the rationale of Cuccia, that disputed facts should not be decided by summary judgment, is equally applicable to the case at hand. Ms. LaCour may not persuade the trier of fact that she indeed did not receive a premium notice, but the law affords her an opportunity to do so.
+
+For the reasons assigned, the ruling of the district court granting the motion for summary judgment is reversed, and the case is remanded to the district court for further proceedings consistent with the views expressed herein; the defendant, Associated Indemnity Corporation, is cast for costs.
+
+[1]  The defense also relies on Borne v. Dillon, 201 So. 2d 115 (La.App.1967), but this case was decided before R.S. 22:636.1 was enacted as Act 632 of 1968.
+
+[2]  R.S. 22:636.1 F provides:
+
+"Proof of mailing of notice of cancellation, or of intention not to renew or of reasons for cancellation, to the named insured at the address shown in the policy, shall be sufficient proof of notice."
+
+We assume only for the purpose of argument that a notice mailed to the insured as a manifestation of the insurer's willingness to renew the policy comes within the scope of § F.
+
+[3]  The company also relies on Sutton v. Langley, 330 So. 2d 321 (La.App.1976), but there the issue was presented at trial on the merits and not in the context of a motion for summary judgment.

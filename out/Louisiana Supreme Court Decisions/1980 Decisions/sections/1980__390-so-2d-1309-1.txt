@@ -1,0 +1,131 @@
+67565
+State v. Wade
+https://law.justia.com/cases/louisiana/supreme-court/1980/390-so-2d-1309-1.html
+
+67565
+State v. Wade
+Court: Louisiana Supreme Court
+Release date: 1980-11-10
+Author: BLANCHE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/390-so-2d-1309-1.html
+
+390 So. 2d 1309 (1980)
+
+STATE of Louisiana
+v.
+Robert L. WADE.
+
+No. 67565.
+
+Supreme Court of Louisiana.
+
+November 10, 1980.
+
+Rehearing Denied December 15, 1980.
+
+*1310 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise Korns, Cornelius Regan, Asst. Dist. Attys., for plaintiff-appellee.
+
+Orleans Indigent Defender Program, Howard McCurdy, Dwight Doskey, New Orleans, for defendant-appellant.
+
+BLANCHE, Justice.
+
+This case is an appeal from a conviction for armed robbery. La.R.S. 14:64. The single assignment of error challenges the trial court's denial of a motion to suppress physical evidence, a statement given to the police and a one-on-one identification made by the victim.
+
+On January 24, 1979 at approximately 8:10 p. m., two plainclothes police officers were patrolling the New Orleans French Quarter in a blue and white "unmarked typical Ford LTD, the type police use". The officers observed the defendant, Robert Wade, walking in a hurried manner and continually turning his head "as if looking for someone". The officers decided to keep Wade under surveillance for a few minutes as they approached him from the rear in their vehicle. As the car drew nearer to Wade, he caught sight of it and immediately began to run. The officers felt that Wade's actions indicated that he had just perpetrated a crime, so they decided to question him. The officers raced their vehicle until they had pulled alongside Wade. At that time, they stopped and jumped out of their vehicle, identified themselves as police officers, and blocked Wade's path, thereby stopping him.
+
+Officer Oris Buckner explained that they did not draw their pistols when they began walking toward Wade because they could see Wade's hands and he made no sudden move to reach for anything on his person. Buckner testified that because of the nature of Wade's conduct and his presence in a high crime area, he felt that his own safety was in jeopardy and, for this reason, Wade was frisked. The frisk resulted in   the seizure of a .38 special chrome-plated revolver from a shoulder holster type bag concealed under Wade's jacket. Wade was immediately arrested for carrying a concealed weapon. The officers also recovered $68.
+
+Their curiosity aroused, the officers radioed their dispatcher and asked if there had been any recent reports of robberies or other crimes involving guns in the area. A reply came back that there had just been a robbery perpetrated at Makin's Grocery, approximately 5 to 7 blocks from the scene of Wade's arrest. The officers, after informing Wade of his Miranda rights, told him that he was under suspicion for the crime of armed robbery. En route to Makin's Grocery, Wade allegedly stated that he committed the robbery at Makin's.
+
+When the officers arrived at the robbery scene, they stood outside the picture window of the grocery with Wade. Craig LeBlanc, the victim of the robbery, was standing inside the store. He glanced through the window and immediately identified Wade as the perpetrator. Wade fit the same description as the man described to the police by Mr. LeBlanc before the one-on-one confrontation occurred.
+
+Defendant contends that the actions of the police in stopping and frisking him were illegal and that, therefore, all evidence obtained as a result of the initial confrontation was inadmissible.
+
+The landmark case of Terry v. Ohio,
+392 U.S. 1
+, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968), established that the constitution permits a police officer to investigate possible felonious criminal behavior by temporarily stopping and questioning a suspect where there is reasonable cause to believe that a crime has been or is about to be committed. This "stop" can be effected even though there is not sufficient probable cause to subject the suspect to a full custodial arrest. Further, a police officer has the right to conduct a limited "frisk" for weapons after making the investigatory stop when he has drawn a specific reasonable inference from facts and experience that he is dealing with an armed and dangerous individual. The principles embodied in Terry and its progeny provide the constitutional basis for C.Cr.P. art. 215.1, the Louisiana "stop and frisk" statute.[1]
+
+In defining reasonable cause sufficient to justify an investigatory stop, this Court stated in State v. Chopin,
+372 So. 2d 1222
+, 1224 (La. 1979);
+
+At the time the officers decided to stop defendant, they had no knowledge that a crime had been recently committed, nor had they observed the defendant committing any crime. In the past, this Court stated that startled looks, State v. Truss,
+317 So. 2d 177
+(La. 1975), or nervousness, State v. Chopin, supra, at the approach of the authorities do not provide reasonable grounds for an investigatory stop. On the other hand, the officers had not only defendant's nervousness ("looking around") but also his apparent sudden flight through a "high crime" area. In State v. Cook,
+332 So. 2d 760
+, 763 (La. 1976), this Court held that a defendant's actions "... in an area of nighttime robberies and purse snatchings... consistent with an intention to commit   this type of crime ..." sufficient to justify an investigatory stop. In State v. Taylor
+363 So. 2d 699
+, 703 (La. 1979), this Court also observed (albeit in dicta) that defendant's sudden reaction to the presence of the police (in that case, from a fast walk to slow), coupled with his presence at night "in an area where robberies, rapes and purse-snatchings are common", supported a stop and frisk.
+
+The Taylor case is factually distinguishable from the present case in that the defendant fled after viewing the police officer riding in a marked vehicle rather than an unmarked one. However, this distinction does not compel a different result so long as the police officers reasonably believed that Wade knew their identity and reasonably believed that his actions were indicia of criminality.
+
+The testimony of Officer Buckner at the suppression hearing and the trial[2] established that the officers were riding in the same type of vehicle that the marked patrol utilized. He stated that the car was blue and white, although it was not the same blue and white "as a regular police car". Officer Buckner also pointed out that it is common knowledge that this particular type of vehicle is utilized for unmarked patrol.[3] This knowledge gained from experience as a police officer when coupled with the defendant's immediate flight through a high crime area upon seeing the vehicle in which Officer Buckner was riding, was more than enough for him to reasonably suspect that he had been recognized as a police officer, and that some criminality was underway. Thus, the investigatory stop was lawful.
+
+In State v. Hunter,
+375 So. 2d 99
+(La. 1979), this Court pointed out that merely because there are reasonable grounds to justify a lawful investigatory stop, such grounds do not automatically justify a frisk for weapons. The basis for that statement was the implicit realization that criminality and weaponry are neither synonymous nor mutually inclusive. However, because there often is an overlap between the two, in many situations the circumstances that justify the stop also warrant the frisk. See State v. Taylor, supra.
+
+The purpose of allowing a limited weapons search is to prevent harm to police officers by allowing action prior to a crisis stage. Terry, supra. Police officers are not required to stand by and give a suspect the first move before taking action. "The officer need not be absolutely certain that the individual is armed; the issue is whether a reasonably prudent man in the circumstances would be warranted in the belief that his safety or that of others was in danger." Terry, 392 U.S.  at 27, 88 S. Ct.  at 1883. Equally important is the protection of the suspect, presumed innocent by law, from the harm that could result to him should he naively do an act interpretable as reaching for a weapon at a time when a police officer may reasonably suspect the   presence of a weapon. Within this class of actions could be such innocent acts as reaching into the back pocket to produce a wallet or thrusting a hand into a jacket for a pack of cigarettes.
+
+The frisk of the defendant was supported by reasonable cause. The officers knew they were riding in a high crime area where violent crimes were numerous. They observed the defendant walking nervously. This alone would not lead a reasonable person to believe that the defendant was armed. But when the defendant appeared to "make" the officers as policemen and began to flee, the very same action which gave the officers reasonable cause to make the investigatory stop also appeared to indicate that the defendant was worried about apprehension for more than just a minor crime. The presence of a weapon on the defendant was certainly something the officers could rightly fear when they halted his flight by "cornering" him and identifying themselves as police officers. Further, the defendant was wearing a leather jacket, thereby rendering a visual search for a suspicious "bulge" in his clothing inadequate to insure their safety.
+
+The defendant contends that an opposite result is required by the decision of the United States Supreme Court in Ybarra v. Illinois,
+444 U.S. 85
+, 100 S. Ct. 338, 62 L. Ed. 2d 238 (1979). In Ybarra, the police had obtained a warrant to search a bartender and the area behind his bar counter for heroin. The warrant was served during business hours, and several customers, including Ybarra, were frisked and then searched. Ybarra's conviction for possession of heroin (resulting from the search) was reversed because although the bar and its owner appeared connected with heroin traffic, there was no specific reason to suspect that Ybarra was armed and dangerous and, consequently, no legal justification for a frisk.
+
+The instant case is clearly distinguishable from Ybarra. Ybarra was searched simply because he was present in a place for which a search warrant had been issued. The warrant did not extend to patrons and Ybarra did nothing to indicate either that he was somehow associated with a crime or that he was armed. In the present case, the defendant, through his own actions, indicated to the police officers that he possessed guilty knowledge, Terry, 392 U.S.  at 66, 67, 88 S. Ct.  at 1904, by his act of fleeing at the sight of the officers, and this, coupled with the other facts previously mentioned, justified the stop and frisk of Wade.
+
+After the frisk, the officers had probable cause to place the defendant under custodial arrest for carrying a concealed weapon and to seize the weapon. Further, other evidence pursuant to a full search following arrest is equally admissible.
+
+In light of our holding that the defendant was lawfully stopped[4] and frisked, the defendant's contention that the statement given by the defendant and the one-on-one confrontation made by the victim were inadmissible products of an illegal arrest is, a fortiori, without merit.
+
+Accordingly, the defendant's conviction and sentence are affirmed.
+
+AFFIRMED.
+
+DIXON, C. J., dissents.
+
+CALOGERO, J., concurs.
+
+DENNIS, J., dissents being of the opinion there was not reasonable cause for the stop.
+
+[1]  La.C.Cr.P. art. 215.1 reads as follows:
+
+"A. A law enforcement officer may stop any person in a public place whom he reasonably suspects is committing, has committed or is about to commit a felony or a misdemeanor and may demand of him his name, address and an explanation of his actions.
+
+"B. When a law enforcement officer has stopped a person for questioning pursuant to this Article, and reasonably suspects that he is in danger of life or limb, he may search the outer clothing of such person for a dangerous weapon or for any other thing the possession of which may constitute a crime.
+
+"C. If the law enforcement officer finds a dangerous weapon or any other thing the possession of which may constitute a crime, he may take and keep it until the completion of the questioning, at which time he shall either return it, if lawfully possessed, or arrest such person."
+
+[2]  "In determining whether the ruling on defendant's motion to suppress was correct, we are not limited to the evidence adduced at the hearing on the motion. We may consider all pertinent evidence given at the trial of the case [citations omitted]." State v. Fisher,
+380 So. 2d 1340
+, 1342, note 1 (La. 1980).
+
+[3]  The exchange between defense counsel and Officer Buckner was as follows (Tr. pp. 65, 66):
+
+"Q. Now there is no way he [defendant] could tell that was a police vehicle, is there?
+
+A. Yes, sir. We drive through the project every day and kids five years old know we are policemen.
+
+* * * * * *
+
+Q. It's a non-descript car, isn't it?
+
+A. It's an unmarked typical Ford LTD, the type police use.
+
+Q. Isn't the purpose of it so people won't know it's a police car? The same reason you all were wearing plain clothes instead of uniforms.
+
+A. Yes, sir. That was their initial intentions (sic).
+
+Q. So this man saw two men in a car that wasn't a police car, so there is no reason he could know that you all were policemen, is there?
+
+A. Yes, sir. Usually these types of cars are known on the street from doing police work, such as stopping people or going on calls and the public will see them and know that they are police cars.
+
+Q. If everybody knows that you all are policemen, why don't you go out in regular police cars and wear uniforms?
+
+A. I can't answer that. You would have to take that up with the police administration."
+
+[4]  It is important to note that the record is devoid of any testimony which would indicate that the police officers actively created the grounds for the street encounter by somehow forcing the defendant to run. See State v. Saia,
+302 So. 2d 869
+(La. 1974).

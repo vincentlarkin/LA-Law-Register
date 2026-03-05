@@ -1,0 +1,110 @@
+87-C-0358
+St. Tammany Manor v. Spartan Bldg. Corp.
+https://law.justia.com/cases/louisiana/supreme-court/1987/87-c-0358-1.html
+
+87-C-0358
+St. Tammany Manor v. Spartan Bldg. Corp.
+Court: Louisiana Supreme Court
+Release date: 1987-06-22
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/87-c-0358-1.html
+
+509 So. 2d 424 (1987)
+
+ST. TAMMANY MANOR, INC.
+v.
+SPARTAN BUILDING CORPORATION.
+SPARTAN BUILDING CORPORATION
+v.
+ST. TAMMANY MANOR, INC. and the American Arbitration Association.
+
+No. 87-C-0358.
+
+Supreme Court of Louisiana.
+
+June 22, 1987.
+
+*425 Richard L. Muller, Muller & Lehman, Mandeville, for defendant-appellant.
+
+Thomas A. Rayer, Denechaud & Denechaud, New Orleans, for plaintiff-appellee.
+
+CALOGERO, Justice.
+
+In this construction contract dispute, the issue is whether grounds exist for modifying or correcting an arbitration award.
+
+The Louisiana Arbitration Law[1] requires that a challenged arbitration award be modified or corrected in any of the following cases:
+
+Utilizing the provisions of La.Rev.Stat. Ann. 9:4209 (West 1983), Spartan Building Corp. filed suit to confirm an arbitration award. St. Tammany Manor, Inc. filed an independent lawsuit requesting that interest commence from the date of the arbitration award instead of the date of substantial completion of the work, as had been awarded by the panel of arbitrators. The trial court consolidated the cases and later rendered a summary judgment modifying the award, effectively granting St. Tammany Manor the relief it had sought. The Fourth Circuit Court of Appeal affirmed, choosing to follow its decision in City Stores Co. v. Gervais F. Favrot Co., 359 So. 2d 1031 (La.App.1978). St. Tammany Manor, Inc. v. Spartan Building Corp., 499 So. 2d 616 (La.App.1986). Spartan applied for a writ of review, which this Court granted. 502 So. 2d 1092 (La.1987).
+
+We reverse. For the reasons discussed below, we determine that there exist here none of the grounds specified in La.Rev. Stat.Ann. 9:4211, the exclusive authority for a court to modify an arbitration award.
+
+On September 16, 1980, Spartan Building contracted to construct a lodge for St. Tammany Manor, the work to be completed by September 26, 1981. The facility was substantially completed on or about September 23, 1981, when the architect reviewed the project and submitted a punch list to Spartan Building. At that time St. Tammany Manor chose to retain $172,986.75 of the moneys which should otherwise have been paid to Spartan, for items it claimed the contractor still had to correct, or complete. Spartan contended that all of the work had been properly completed and that it was owed the $172,986.75 balance. The dispute was submitted to an arbitration panel, as required by the contract. On January 17, 1984, the arbitrators awarded Spartan Building a net sum of $145,642.75[3] with interest at the rate of twelve percent per annum[4] from September 30, 1981 until paid.
+
+The trial court modified the arbitration award to provide that the interest should run only from January 18, 1984, the date the last of the three arbitrators[5] signed the award. As modified, the trial court confirmed the award. The court of   appeal affirmed the district court judgment, over a vigorous dissent by the Chief Judge. The court majority quoted La.Civ. Code Ann. art. 1938, that "[a]ll debts shall bear interest ... from the time they become due, unless otherwise stipulated."[6] Then they adopted the reasoning of City Stores Co. v. Gervais F. Favrot Co., 359 So. 2d 1031 (La.App.1978) that a definite figure had not been ascertainable and therefore was not due until the date of the arbitration award (January 18, 1984), notwithstanding that the job had been substantially completed some twenty-eight months earlier (September 23, 1981). Therefore, it held that interest could not, and did not, begin to run until January 18, 1984. The dissent examined section 4211 and this Court's decision in Firmin v. Garber,
+353 So. 2d 975
+(La.1977) and suggested that the trial court "had no business to look into any part of the award, including the correctness of the date from which interest was allowed, in the absence of any statutory ground for modification." 499 So. 2d  at 616.
+
+"Arbitration is a mode of resolving differences through the investigation and determination of one or more individuals appointed for that purpose. The object of arbitration is the speedy disposition of differences through informal procedures without resort to court action." Firmin v. Garber,
+353 So. 2d 975
+, 977 (La.1977) (citing Housing Authority v. Henry Ericsson Co., 197 La. 732, 2 So. 2d 195 (1941)). "It is important to the effectiveness of the arbitration process that the award be promptly performed." Pirsig, Some Comments on Arbitration Legislation, 10 Vand.L.Rev. 685, 707 (1957).
+
+La.Rev.Stat.Ann. 9:4209 requires a court to confirm the arbitration award upon application of any party to the arbitration. The only exceptions are that a court may vacate, as prescribed in section 4210[7] (not applicable here), modify or correct, as prescribed in section 4211. The only grounds listed in section 4211 for modification or correction are (1) a material miscalculation of figures or material mistake in a description (of any person, thing, or property), (2) an award upon a matter not submitted to the arbitrators, or (3) an award imperfect in matter of form not affecting the merits of the controversy.
+
+The arbitrators' determination on the merits will not be reviewed by the court since the parties have in advance, by contract, agreed that their decision on issues of fact and law should be final and binding. The award is conclusive unless an error charged to the arbitrators fits one of the statutorily described deficiencies. Wilner, Domke on Commercial Arbitration § 3400, at 475 (1984). "The court cannot substitute its conclusion for that of the arbitrator. United States v. Gleason,
+175 U.S. 588
+, 20 S. Ct. 228, 44 L. Ed. 284 (1900); Housing Authority v. Henry Ericsson Co., 197 La. 732, 2 So. 2d 195 (1941); Greer v. Lowe, 94 So. 2d 560 (La.App.1957); Ogden v. Baile, 73 Fla. 1103, 75 So. 794 (1917); 5 Am. Jur.2d, Arbitration and Award, § 188, p. 659." Firmin v. Garber, 353 So. 2d  at 977.
+
+St. Tammany Manor argues that the court of appeal was correct in awarding interest only from the date of the arbitration award. The court of appeal found its decision in City Stores Co. v. Gervais F. Favrot Co., 359 So. 2d 1031 (La.App. 4th   Cir.1978) to be dispositive of the issue in this case. City Stores involved three different "cost plus" construction contracts between the two parties. The arbitration award included pre-award interest on the amount found to be due the contractor. The trial court, differing with the arbitrator, made its own finding concerning La. Civ.Code Ann. art. 1938, the interest provided therein, and the article's applicability. It reasoned that because of the differing demands for various amounts there was no certain or easily ascertainable amount until the arbitration panel rendered its award. The court of appeal affirmed, adopting the reasoning of the trial court. We do not find that reasoning persuasive. Section 4209 requires a court, upon application by any party, to confirm an arbitration award unless the grounds prescribed in sections 4210 and 4211 for vacating, modifying, or correcting the award are present. The court in City Stores was incorrect, for reasons discussed in this opinion, in modifying the award on the basis of its independent application of article 1938. To the extent that it conflicts with this opinion, City Stores Co. v. Gervais F. Favrot Co. is overruled.
+
+In support of its contention that the trial court had the authority to modify the award regarding the amount of interest to which the contractor was entitled and the date of commencement of that interest, St. Tammany Manor first argues that the arbitrators did not make a specific finding of fact that the contract was substantially complete on the date the arbitrators decided interest should commence, i.e., September 30, 1981. Instead, it argues, the award merely itemized the sums respectively due the parties and then simply awarded interest on the net amount due Spartan Building, from an arbitrary date, September 30, 1981.[8] Therefore, according to St. Tammany Manor, the trial court did not interfere with any factual finding of the arbitrators; it only modified the award to have it legally conform to its interpretation of La.Civ. Code Ann. art. 1938, as was done by the court of appeal in City Stores.
+
+This argument ignores the plain language of the statute. An award may be challenged only on grounds specified in sections 4210 and 4211. Firmin, 353 So. 2d  at 977. Those grounds do not include errors of law or fact. Assuming that the arbitrators incorrectly applied article 1938 (the Civil Code article providing for interest from the time they become due on all debts, unless otherwise stipulated), a conclusion that is not at all evident, errors of law, or fact, are insufficient to invalidate an award fairly and honestly made. Carolina Virginia Fashion Exhibitors, Inc. v. Gunter, 41 N.C.App. 407,
+255 S.E.2d 414
+, 418-19 (1979); see Firmin v. Garber,
+353 So. 2d 975
+, 976. Pertinent to this case it is only "an evident material miscalculation of figures or an evident material mistake in the description of any person, thing or property referred to in the award" which the courts are at liberty to change by means of modification or correction of the award.
+
+Respondent argues that the trial court merely corrected a miscalculation regarding interest. We disagree. The trial court's changing the commencing date of the interest to which Spartan Building is entitled is not the correction of "an evident material miscalculation of figures."[9] The type of "evident material miscalculation" of figures contemplated by the statute would be one akin to an arithmetical error, or such as that. Here the trial court examined the legal dispute underlying the award. (Was the amount due certain? Must the sum due and the date from which it was due be ascertainable? Did the arbitrators make a precise finding that the job   was completed, and on what date?) The trial court then provided a monetary remedy different from that of the arbitrators.[10] That is not one of the statutorily permitted reasons for modification of the award.
+
+St. Tammany Manor argues that this court has previously given approval to the judicial review of the inclusion of interest in an arbitration award, citing Mt. Airy Refining Co. v. Clark Acquisition, Inc., 470 So. 2d 890 (La.App. 4th Cir.), writ denied,
+476 So. 2d 351
+(La.1985). A writ denial by this Court has no precedential value. Coco v. Winston Industries,
+341 So. 2d 332
+, 335 n. 1 (La.1976) (citing Barham, The Importance of Writ Denials, 21 Loy.L.Rev. 835 (1975)). Furthermore, Mt. Airy Refining does not support respondent's argument. The court of appeal in that case actually respected the principle that an arbitration award may be challenged only for grounds specified in the statute. In Mt. Airy Refining, the arbitrator found pre-award interest due by a party, at the rate provided in the pertinent promissory note. However, he gave post-award interest at a greater rate, "Whitney prime plus one percent." The court of appeal approved this ad hoc post-award interest determination by the arbitrators. Id. at 893. Because the award of post judgment interest did not violate any of the provisions of sections 4210 or 4211, the court of appeal affirmed the judgment of the district court confirming the award, refusing to examine the underlying controversy and adjudicate the propriety of the interest award.
+
+St. Tammany Manor also argues that the awarding of interest on arbitration awards is inherently a judicial function, quoting State v. Blair, 445 So. 2d 133 (La. App. 3d Cir.1984). The Blair court said that "the trial court had the authority to award judicial interest from the date of judicial demand." Id. at 137. It is of course true that courts award judicial interest. That judicial power, however, does not make the arbitrators' award of interest any less proper. In fact, in Blair, the court of appeal did not have to decide if the arbitrators could give post-award interest, because the interest in that arbitration award (twelve percent), and the date of commencement, happened to coincide with the rate of interest and the date interest otherwise commenced from judicial demand (from date suit was filed). Id. n. 1. Assessing that legal question now, however, we can discern no reason why an arbitration award cannot assess post-award interest, absent a prohibition in the contract. In this case, the arbitrators awarded interest at twelve percent from the date of substantial completion until paid. Interest will accrue at that rate in accordance with the award until the amount due is paid, notwithstanding the date of legal demand or judgment, or any change to La.Civ.Code Ann. art. 2924 that may be forthcoming.[11]
+
+None of the grounds specified in section 4211, the exclusive authority for a court to modify an arbitration award, exist here. The trial court should have granted an order confirming the award, pursuant to section 4209.
+
+For the foregoing reasons, the judgments of the district court and the court of appeal are reversed. The award of the Commercial Arbitration Tribunal of the American Arbitration Association in Case No. 71-110-0382-82-W is confirmed; and, accordingly, judgment is rendered herein in favor of Spartan Building Corporation and against St. Tammany Manor, Inc. in the sum of $145,642.75, together with interest on this amount at the rate of twelve percent per annum from September 30, 1981, until paid, with administrative fees and expenses   of the American Arbitration Association and the remuneration of the arbitrators being borne twenty-five percent by Spartan Building Corp. and seventy-five percent by St. Tammany Manor, Inc. and paid as directed by the American Arbitration Association.[12]
+
+REVERSED AND REMANDED.
+
+[1]  La.Rev.Stat.Ann. 9:4201-4217 (West 1983).
+
+[2]  Id. 9:4211. This section is substantially the same as Uniform Arbitration Act § 13, 7 U.L.A. 201 (1985) and the federal statute, 9 U.S.C. § 11 (1982).
+
+[3]  The arbitrators found that the owner was entitled to retain $27,344.00 from the balance due the contractor for remedial work to repair or properly complete the project. That amount was deducted from the $172,986.75 due Spartan Building, leaving a net due Spartan of $145,642.75.
+
+[4]  The contract provided that "[p]ayments due and unpaid under the contract documents shall bear interest from the date payment is due at such rate as the parties may agree upon in writing, or, in the absence thereof, at the legal rate prevailing at the place of the project." La. Civ.Code Ann. art. 2924 (West Supp.1987) set the legal rate of interest on and after September 11, 1981 at twelve percent per annum.
+
+[5]  The arbitration panel was composed of a lawyer, an architect, and a contractor.
+
+[6]  La.Civ.Code Ann. art. 1938 (West 1977), repealed by, Act of July 2, 1984, 1984 La.Acts 331 (recodified as amended at La.Civ.Code Ann. art. 2038 (West 1987)).
+
+[7]  Section 4210 requires the court to vacate the award
+
+[w]here the award was procured by corruption, fraud, or undue means, [w]here there was evident partiality or corruption on the part of the arbitrators or any of them, [w]here the arbitrators were guilty of misconduct in refusing to postpone the hearing, upon sufficient cause shown, or in refusing to hear evidence pertinent and material to the controversy, or of any misbehavior by which the rights of any party have been prejudiced, [w]here the arbitrators exceeded their powers or so imperfectly executed them that a mutual, final, and definite award upon the subject matter submitted was not made.
+
+In this case, the trial court did not vacate the award under section 4210. It modified the award under section 4211. Accordingly, the pertinent and controlling statutory provisions are to be found in the latter section of this statute.
+
+[8]  The arbitrators probably tried to find a date around when construction was substantially completed. They apparently fixed September 30, 1981 because the contract provided for completion by September 26, 1981 and on September 23, 1981 the architect reviewed the project and submitted a punch list to Spartan Building.
+
+[9]  La.Rev.Stat.Ann. 9:4211(A). Nor was this change the mere correction of a formal error, Albert v. Denito, 336 Pa.Super. 284, 485 A.2d 806, 808 (1984), McDaniel v. Berhalter, 405 So. 2d 1027, 1030 (Fla.Dist.Ct.App.1981); nor did the arbitrators award upon a matter not submitted to them, La.Rev.Stat.Ann. 9:4211(B).
+
+[10]  The difference amounted to almost precisely $40,000. At the time of the trial court judgment, December 12, 1985, interest on the award, accrued from September 30, 1981, amounted to approximately $73,500. Accrued from January 18, 1984, interest amounted to approximately $33,500.
+
+[11]  There is currently pending in the Legislature a bill which would amend La.Civ.Code Ann. art. 2924 (West Supp.1987) and change the current twelve percent legal interest. It would set legal interest after January 1, 1988 at one percent above the average prime rate as annually set by the commissioner of financial institutions.
+
+[12]  This same assessment of costs of the arbitration was made by the arbitrators and confirmed by the trial court.

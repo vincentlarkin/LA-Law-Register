@@ -1,0 +1,109 @@
+56507
+State v. Washington
+https://law.justia.com/cases/louisiana/supreme-court/1975/322-so-2d-185-1.html
+
+56507
+State v. Washington
+Court: Louisiana Supreme Court
+Release date: 1975-11-03
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/322-so-2d-185-1.html
+
+322 So. 2d 185 (1975)
+
+STATE of Louisiana
+v.
+Philip WASHINGTON.
+
+No. 56507.
+
+Supreme Court of Louisiana.
+
+November 3, 1975.
+
+Dissenting Opinion November 24, 1975.
+
+*186 Robert Glass, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise Korns, Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant Washington was convicted of armed robbery, La.R.S. 14:64, and sentenced as a multiple-offender, La.R.S. 15:529.1, to sixty-six years at hard labor. On his appeal, he replies upon two assignments of error.
+
+Assignment One
+
+The first assignment relates to the comments made by the trial court and by a bailiff in the presence of a jury, at a time when the defendant (continuing a previous pattern of obstreperous conduct) stood up and interrupted the victim-witness's testimony, exclaiming, "It's a damn lie." The bailiff told the defendant to sit down.
+
+The defendant's trial attorney moved for a mistrial.
+
+The trial court denied the motion for the reason that the defendant's conduct had been "continuously disrespectful." The   trial judge continued: "I will have to order his removal from the courtroom. I want to tell all of you sheriffs if he feels like he . . . whenever he feels like he can come in the court without disrupting the proceeding, I want him back in the courtroom."
+
+The bailiff then interjected, "Judge, the only way you're going to do it is to tape his mouth and put a straight jacket on him." The trial judge replied, "No, I don't want to do that. We will proceed in his absence in view of the defendant's conduct . . . if he feels like he can settle down and come into the court, I will permit him to return."
+
+The defendant's trial counsel then reurged his motion for a mistrial. At this point, the trial recessed for lunch. When trial resumed, the defendant was permitted to be present with his counsel, and the trial proceeded through the next (and final) six witnesses without any other disruption by him.
+
+Appellate counsel for the defendant concedes (as he must) that the trial judge was entitled to take adequate measures against the accused's disruptions to assure courtroom decorum and the orderly progress of the trial. Illinois v. Allen,
+397 U.S. 337
+, 90 S. Ct. 1057, 25 L. Ed. 2d 353 (1970); State v. Brewer,
+301 So. 2d 630
+(La.1974). However, counsel contends with some force that it was error to deny a mistrial without emphatic cautionary instructions to the jury that the measures ordered had no bearing on the guilt or innocence of the accused but were merely to maintain orderly procedure in the courtroom. See State v. Brewer, cited above; State v. Boudoin, 257 La. 583,
+243 So. 2d 265
+(1971). See, e. g., State v. Roberts, 86 N.J.Super. 159, 168,
+206 A.2d 200
+, 205 (1965).
+
+The defendant is correct in his contention that cautionary instructions of this nature should be given to the jury whenever restraint or other order-preserving measure is necessitated by the disruptive conduct of the accused. As American Bar Association Standards of Criminal Justice Relating to Trial by Jury, Standard 4.1(c) (1968) provides: "Defendants and witnesses should not be subjected to physical restraint while in court unless the trial judge has found such restraint reasonably necessary to maintain order. If the trial judge orders such restraint, he should enter into the record of the case the reasons therefor. Whenever physical restraint of a defendant or witness occurs in the presence of jurors trying the case, the judge should instruct those jurors that such restraint is not to be considered in assessing the proof and determining guilt."
+
+However, the oversight of the trial court in failing to afford the cautionary instructions, affirmatively required on his part, did not constitute reversible error. If trial counsel felt that the oversight seriously prejudiced a fair trial for the accused, his failure to request instructions at the time (or object to the denial of the mistrial without them) had the effect, at least under the circumstances shown, of waiving the irregularity or error now complained of. La.C.Cr.P. art. 841.
+
+Assignment Two
+
+By his second assignment, the defendant contends that the competent evidence before the trial court was insufficient for finding him to be a second offender, La.R. S. 15:529.1 (1958), and, therefore, for imposing upon him a heavier sentence in accordance with this finding.
+
+The proof educed was: certified copies of the bills of information, pleas of guilty (the same date), and concurrent sentences on the prior offense(s); an exhibit from the state penitentiary containing the prison record there of a Philip Washington and copies of his fingerprints; and testimony of a witness qualified as a fingerprint expert that the present defendant Washington's fingerprints were identical to those reflected by the prison record.
+
+*188 The proof required for a multiple-offender conviction (that there was a prior felony committed and that the defendant is the person who committed it, State v. Dugas, 170 La. 5, 127 So. 345 (1930)) is prima facie established where the state presents (a) documents from the state penitentiary, properly authenticated, together with a photograph and fingerprints of the person imprisoned on the prior offense, La.R.S. 15:529.1, subd. F (1958), State v. Morris, 222 La. 480,
+62 So. 2d 649
+(1953), and (b) evidence establishing that the defendant is the same person.
+
+We reject the defendant's contention that the trial court abused its discretion in finding the witness qualifed as a fingerprint identification expert for the purposes offered. La.R.S. 15:464, 465.
+
+However, the defendant correctly points out that the documents from the state penitentiary were not properly authenticated, as required by statute. (Except for this inadequacy, the proof is otherwise sufficient to support the trial court's holding that the defendant is a second offender.)
+
+The documents from the penitentiary, including the fingerprints, were transmitted by a letter from an individual identifying himself as "I.D. Officer, La. State Penitentiary."
+
+The records were not shown to be "certified by the officer who is the legal custodian" of the document offered and thus admissible as an officially certified copy of a document. La.R.S. 15:457. Neither did the informal letter of transmittal meet the statutory standard provided for prima facie evidence of the imprisonment and discharge of the defendant on a prior conviction. La.R.S. 15:529.1, subd. F. The last-cited statute provides that, for the penitentiary document to have such effect, it should be established by the certificate of the warden under his seal, if any.[1]
+
+Thus, the objection to the admission of the penitentiary documents as uncertified should have been sustained. Therefore, we must sustain the defendant's assignment of error that the proof educed was incompetent to convict him as as second offender. The case must be remanded for re-sentencing in accordance with law.
+
+Accordingly, we affirm the defendant's conviction of armed robbery; but we remand the case to the trial court for re-sentencing in accordance with law as a second offender, La.R.S. 15:529.1, subject to any defense available to the defendant.
+
+Conviction affirmed; case remanded for re-sentencing in accordance with law.
+
+SUMMERS, J., dissents and will assign reasons.
+
+BOLIN, J., dissents on disposition of assignment Two.
+
+SUMMERS, Justice (dissenting).
+
+In brief to this Court appellant argues that the trial judge erred in finding that the accused was a second offender on the evidence offered by the State at the multiple offender hearing. This question cannot be   considered by this Court because no written assignment of error on this point was ever submitted to the trial judge for his per curiam comment as required by Article 844 of the Code of Criminal Procedure:
+
+These are the assignments of error in the trial court:
+
+In this connection, it may be well to remind this Court that
+
+"(1) An error designated in the assignment of errors; and
+
+It is upon the "evidence" that this reversal turns, and without any assignment of errors on the issue presented by the "evidence". The reversal is not based upon the pleadings and proceedings.
+
+This absence of an assignment of error on the issue upon which this reversal turns was emphatically stressed by the State in its brief. Actually, assignment of error number two in the trial court was considered by the trial judge in his per curiam to be related to the amendment of the bill of information, not the issue this Court considers as assignment of error number two. In any event the trial judge wrote no per curiam on the issue this Court considered in overturning this conviction.
+
+Notwithstanding these facts, this Court states: "Therefore, we must sustain the defendant's assignment of error that the proof educed was incompetent to convict him as a second offender." Thus, this decision, on the erroneous impression that an assignment of errors had been made as required by Article 844, compels the trial judge to set aside the enhanced penalty of this recidivist offender, previously convicted of simple burglary.
+
+I would affirm the conviction.
+
+[1]  La.R.S. 15:529.1, subd. F provides:
+
+"The certificates of the warden or other chief officer of any state prison, or of the superintendent or other chief officer of any penitentiary of this state or any other state of the United States, or of any foreign country, under the seal of his office, if he has a seal, containing the name of the person imprisoned, the photograph, and the fingerprints of the person as they appear in the records of his office, a statement of the court in which a conviction was had, the date and time of sentence, length of time imprisoned, and date of discharge from prison or penitentiary, shall be prima facie evidence on the trial of any person for a second and subsequent offense of the imprisonment and of the discharge of the person, either by a pardon or expiration of his sentence as the case may be under the conviction stated and set forth in the certificate."

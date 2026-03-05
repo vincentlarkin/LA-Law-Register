@@ -1,0 +1,152 @@
+56385
+State v. Butler
+https://law.justia.com/cases/louisiana/supreme-court/1975/322-so-2d-189-1.html
+
+56385
+State v. Butler
+Court: Louisiana Supreme Court
+Release date: 1975-11-03
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/322-so-2d-189-1.html
+
+322 So. 2d 189 (1975)
+
+STATE of Louisiana, Appellee,
+v.
+Robert Emmitt BUTLER, Appellant.
+
+No. 56385.
+
+Supreme Court of Louisiana.
+
+November 3, 1975.
+
+Dissenting Opinion November 24, 1975.
+
+*190 Murphy W. Bell, Director, R. Judge Eames, Trial Atty., Roland T. Huson, III, Appellate Counsel, Baton Rouge, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Ossie B. Brown, Dist. Atty., David M. Miller, Asst. Dist. Atty., for plaintiff-appellee.
+
+*191 TATE, Justice.
+
+Based on a 1972 offense, the defendant was convicted of attempted murder, La.R. S. 14:27, La.R.S. 14:30(1) (1950), and sentenced to ten years imprisonment at hard labor. On his appeal, he makes twentythree assignments of error. For reasons to be assigned, we find three of them have merit and, accordingly, reverse.
+
+The context facts show:
+
+The defendant Butler and the female victim had been living together for about two years, but they broke up. About two months later, they met in the early hours of the morning and went together to a motel room.
+
+In the motel room, Butler immediately taxed her with going with another man. He then cut her numerous times on the face, eyes, arms, and back, and kicked her in the stomach. He told her to crawl to the bathroom to look at herself and that "if she did not want him, he was going to see who wanted her." She was subsequently taken to the hospital in a critical condition, where her injuries were diagnosed as a ruptured spleen and liver and a mutilated face.
+
+The Offense Charged
+
+The defendant was charged with attempted murder. La.R.S. 14:30(1) (1950) and La.R.S. 14:27. These statutory enactments provide:
+
+La.R.S. 14:30(1): "Murder is the killing of a human being: (1) When the offender has a specific intent to kill or to inflict great bodily harm. * * *."
+
+La.R.S. 14:27: "Any person who, having a specific intent to commit a crime, does or omits an act for the purpose of and tending directly toward the accomplishing of his object is guilty of an attempt to commit the offense intended; and it shall be immaterial whether, under the circumstances, he would have actually accomplished his purpose. * * *." (Italics ours)
+
+The crime of attempted murder was at the time of the offense punishable by imprisonment at hard labor for not more than twenty years. La.R.S. 14:27, subd. D(1) (1950).
+
+The theory of the defense was that the defendant was not guilty of attempted murder because he had no specific intent to kill the victim. Thus, the defendant's theory was that, at the most, the evidence shows that he was guilty of an aggravated battery, namely, the intentional use of force upon another person with a dangerous weapon, (a crime punishable by imprisonment with or without hard labor for not more than ten years). La.R.S. 14:34.
+
+The accused was not permitted to argue or to submit this defense to the jury by reason of a series of rulings by the trial court which accepted the state's clearly erroneous contention that attempted murder could be committed by an overt act committed with a specific intent to inflict great bodily harm on the victim, although without any specific intent to kill her.
+
+The Assignments Presenting Reversible Error
+
+The specific assignments of error relied upon are:
+
+Assignment 21, which complains of the trial court's charge to the jury that, to find the accused guilty of attempted murder, it need find the accused guilty of either a specific intent to kill or of a specific intent to inflict great bodily harm.
+
+Assignment 22, which complains of the trial court's failure to give the jury a special charge instructing it that there can be no attempt to commit murder unless the attempt was made with the specific intent to kill.
+
+Assignment 15, which complains of the trial court's failure to correct the erroneous statement of the prosecutor that attempted murder could be committed if the assault was made only "with intent to do   great bodily harm to someone, even though there is no intent to kill."
+
+Additionally, the trial court sustained the state's objection, made during the course of the defendant's final argument to the jury, and prevented him from arguing to the jury that a specific intent to kill was required, stating to counsel, Tr. II, 217: "* * * I will not permit you to mislead a jury by saying in attempted murder there must be an intent to kill, because I think that's a misstatement of the law, and I so instruct you."
+
+The Applicable Law
+
+La.R.S. 14:27 provides that to attempt a crime an accused must do an act tending directly towards accomplishing his object, "having a specific intent" to commit the crime. The crime of murder is "the killing of a human being," under certain circumstances. Thus, as this court held in State v. Roberts, 213 La. 559, 35 So. 2d 216, 217 (1948), "the elements of the crime of attempted murder are specific intent to kill a human being (Article 30, Criminal Code) and an overt act in furtherance of the object."[1] It has therefore universally and without exception been held in American jurisdictions that a specific intent to kill is an essential element of the crime of attempted murder.
+
+See: Perkins, Criminal Law, P. 574, (2d ed. 1969); Clark & Marshall, A Treatise on the Law of Crimes, Section 4.08 (7th ed. 1967); LaFave and Scott, Handbook on Criminal Law, 428-429 (1972); 1 Wharton's Criminal Law & Procedure, Section 73 (Anderson ed., 1957); Annotation, What Constitutes Attempted Murder, 54 ALR 3d 612, Section 3 (1973); 40 Am. Jur.2d Homicide, Section 566 (1968); 40 C.J.S. Homicide § 68 (1944).
+
+Professor Dale Bennett, noted authority on Louisiana criminal law, has described the relationship between the crime of murder, which requires a killing with a specific intent to kill or to inflict great bodily harm, and the crime of attempted murder, which requires a specific intent to kill. He notes, 34 La.L.Rev. 340 (1974):
+
+Murder requires "`a specific intent to kill or to inflict great bodily harm.' Such an intent will be implied from the use of a deadly weaponas by stabbing or shooting the victim. [State v. Jordan,
+276 So. 2d 277
+(La.1973)]. A more difficult burden of proof is imposed for a conviction of attempted murder which requires a specific intent to kill. In State v. Lee  [
+275 So. 2d 757
+(La.1973)] a conviction of attempted murder was supported by evidence showing that the defendant had `fired at least one shot at the alleged victim.' It is conceivable, however, that a deadly weapon may be used with a specific intent to maim or seriously injure, rather than to kill. In such a situation the defendant would be guilty of murder if the victim died, but would not be guilty of attempted murder if the shot or blow did not kill the victim. By the nature of the attempt definition a specific intent to commit the crime, which may be more demanding than the intent required for the completed offense, is an essential element of that offense."
+
+The state does not cite any authority contrary to this well-settled principle.
+
+The state's reliance upon State v. Lee and State v. Jordan, cited in the above excerpt from Dr. Bennett's discussion of recent jurisprudence, is misplaced. The Lee   case in effect simply held that evidence that the defendant had fired a shot aimed at the victim was some evidence by which a properly instructed jury could infer a specific intent on the part of the accused to kill the victim; therefore, the motion for new trial after conviction of attempted murder was properly denied. In Jordan, where the accused was convicted of murder, the court simply pointed out that specific intent for murder may statutorily include specific intent to commit great bodily harm, for there is a presumption that one intends the consequences of his act, La.C. Cr.P. art. 432.
+
+Thus, these cases may be authority for a holding that the jury may infer, as a matter of fact, a specific intent to kill by reason of a specific intent to inflict great bodily harm. They are not authority, however, for any holding that, as a matter of law, attempted murder may be committed by an act without a specific intent to kill.
+
+To adopt the state's argument would be to permit the state to charge with attempted murder any accused guilty of a battery, with or without a dangerous weapon, whenever that battery involved the possibility of great bodily harm, whether or not the accused acted with intent to kill. To do so would be to ignore the legislatively different definitions of the crimes of attempted murder, simple battery, and aggravated battery, with the legislatively provided distinction in the penalties to be applicable upon conviction of the different offenses.
+
+Because of these erroneous rulings by the trial court, we are required to reverse and to remand for a new trial in accordance with law. The defendant was by them denied a defense permitted him by law.
+
+Harmless Error?
+
+The state raises what initially appears to be an attractive argument: Since the evidence the jury found credible undoubtedly proves an aggravated battery, La.R.S. 14:34, and since the sentence of ten years received by him does not exceed the maximum (ten years) punishment provided for that crime, then the technical insufficiency of the instructions received by the jury should be overlooked as harmless. Translated into what occurred here, the suggestion is thus made that the present conviction of attempted murder should be affirmed, since the evidence proves that the defendant was guilty of another crime, an aggravated battery.
+
+The difficulty with this suggestion is that it is contrary to fundamental theory in America of criminal prosecution and of judicial review. It suggests that, if an accused's conduct constitutes any crime, he cannot complain even if he was tried and convicted for a crime which, as defined by the legislature, did not punish the conduct of which he is found guilty, provided only that the actual sentence does not exceed the maximum allowable for the actual crime committed.
+
+Fundamental to American law are the principles here applicable. The state through its legislature has defined the conduct constituting particular offenses, with particular consequences (sentences). To secure conviction for any such offenses, the state through its prosecutors must charge the accused with a particular crime or crimes and prove the accused's guilt of the legislatively-defined crime(s) beyond a reasonable doubt. The jury with proper instructions of law is the exclusive arbiter of the innocence or guilt of the crime charged. The courts are constitutionally bound to assure that those accused before our courts are tried in accordance with law and to reverse, where substantial error of law is committed.
+
+To suggest that no substantial error of law occurs, where the jury was in effect instructed that a person guilty of aggravated battery can be convicted of attempted murder although he has no specific   intent to kill by the battery, is to suggest an untrammelled discretion of prosecutor, jury, and court to punish an accused for offensive conduct. To the contrary, the legislature has authorized prosecutions for particular crimes. In a government of law and of constitutionally and legislatively limited powers, neither prosecutor, jury, nor court are empowered to sustain a conviction for conduct not punishable by the crime for which the accused stands charged.
+
+Other Assignments of Error
+
+For the most part, the other assignments of error concern contentions that will probably not arise on the re-trial. However, the following assignments relate to substantial issues that may arise:
+
+Assignments 14 and 23: These urge as error the trial court's denial of a directed verdict and of a new trial. Both are based on the contention that the state failed to prove a specific intent to kill, based on the victim's testimony that the accused told her he was trying to disfigure her so that no other man would have her.
+
+However, the evidence also indicates that the accused inflicted with a knife serious injuries upon the victim, of which she nearly died. A properly instructed jury might reasonably infer, as a fact, the specific intent to kill: Under all the circumstances shown, an intent to kill might be reasonably implied from the intentional use of a deadly weapon to produce injuries involving serious risk of death. State v. Jordan,
+276 So. 2d 277
+(La.1973); State v. Lee,
+275 So. 2d 757
+(La.1973); Bennett, 34 La.L.Rev. 340 (1974).
+
+In the jurisprudence of other states, the specific intent to kill may be inferred from the accused's entire conduct, but not merely from the overt act itself which constitutes (along with the specific intent to kill) an essential element of an attempt to murder. Annotation, What Constitutes Attempted Murder, 54 ALR 3d 612, Section 2(a) at p. 618, Section 12 (1973). Cf. also State v. Daniels, 236 La. 998,
+109 So. 2d 896
+(1959).
+
+Thus, since in the present case there was some evidence from which a properly instructed trial jury could infer a specific intent to kill, the motions were correctly denied.
+
+Assignment 1: We find no error in the denial of a change of venue. The extensive publicity some two years before the trial and the minor publicity about the large bail set at the time of the accused's arrest are not shown to have affected the accused's right to obtain a fair and impartial trial when it occurred some time later. The defendant was not denied the right to present any evidence on the issue. La.C. Cr.P. art. 622; State v. Bell,
+315 So. 2d 307
+(La.1975).
+
+Assignments 9 and 11: This concerns objection to introduction of gruesome photographs as unnecessarily repetitive and with a grossly prejudicial effect outweighing their probative value. We are unable to rule on this assignment: Slides 16 and 18-21 are not in the record, although supposedly incorporated therein; and inquiry through the office of our clerk of court to the office of the clerk of the district court have been unable to locate them.
+
+Assignments 17, 18, and 19: These concern objections made to the prosecutor's rebuttal argument, which the trial court overruled without correcting.
+
+The remarks appear to constitute irrelevantly prejudicial appeals to emotion (referring to the victim's hospitalization "at the expense of public taxpayers"), prejudicially incorrect statements of law ("Counsel will come up here and try to hoodwink youto tell you that this was some other crime, and that, you know, let him go on this crime, so we can try him on the other crime, but that is not true. I mean, if this   man is found not guilty, he cannot be tried. . .",)[2] and inflammatory arguments going beyond the facts of the present case ("Can you imagine if a fellow could go around raping[3] and maiming . . .").
+
+In view of the reversal on other grounds, we need not rule whether these remarks constituted reversible error, for we deem it unlikely they will reoccur on the retrial.
+
+Because of the errors presented by Assignments 15, 21, and 22, which denied the defendant a defense to which he is entitled by law and which contrary to statute improperly relaxed the burden of proof by the state, we reverse; and we remand for a new trial in accordance with law.
+
+Reversed and remanded for a new trial in accordance with law.
+
+SANDERS, C. J., dissents.
+
+SUMMERS, J., dissents and assigns reasons.
+
+SUMMERS, Justice (dissenting).
+
+As the Court's opinion recognizes the
+
+Under these circumstances:
+
+In my view this conviction did not result in a miscarriage of justice, nor was the accused denied any substantial rights.
+
+I would affirm.
+
+[1]  This was an essential holding of the decision. In holding that a verdict of aggravated battery was not responsive to the charge of attempted murder (although the same conduct might often violate both statutes), the court through Mr. Justice McCaleb set forth the different essential elements of each crime. It may be noteworthy that, as amended by Act 528 of 1975, Article 493 of the Code of Criminal Procedure now permits the joiner in the same indictment of two or more offenses which "are based on the same act or transaction."
+
+[2]  At the time of trial in November, 1974, the four years for institution of a prosecution for an aggravated battery of July, 1972 had not run. La.C.Cr.P. art. 572(2).
+
+[3]  There is not the slighest intimation that rape was involved in the present crime.

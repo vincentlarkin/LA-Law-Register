@@ -1,0 +1,63 @@
+62664
+Ugulano v. Allstate Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1978/367-so-2d-6-1.html
+
+62664
+Ugulano v. Allstate Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1978-12-15
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/367-so-2d-6-1.html
+
+367 So. 2d 6 (1978)
+
+Raymond UGULANO
+v.
+ALLSTATE INSURANCE COMPANY.
+
+No. 62664.
+
+Supreme Court of Louisiana.
+
+December 15, 1978.
+
+David T. Bowman, Murphy & Simon, New Orleans, for defendant-respondent.
+
+F. L. Morris, Metairie, for plaintiff-appellant.
+
+DIXON, Justice.
+
+This writ was granted to examine a Court of Appeal holding that a suit was barred by "judicial estoppel." Ugulano v. Allstate Insurance Co., 359 So. 2d 318 (La. App.1978). In the same month the Court of Appeal decided this case, this court decided Welch v. Crown Zellerbach Corp.,
+359 So. 2d 154
+(La.1978); we held that none of the variations of the common law doctrines of   res judicata, including collateral estoppel, applied in Louisiana. The Welch case referred to Mitchell v. Bertolla,
+340 So. 2d 287
+(La.1976), where we examined in detail the "judicial estoppel" of California Co. v. Price, 234 La. 338,
+99 So. 2d 743
+(1957), judicial confession and the common law doctrine of "collateral estoppel." It was not necessary to decide, in Mitchell v. Bertolla, whether collateral estoppel would apply in Louisiana (in view of the doctrinal differences between the civil and the common law) because we found plaintiff's suit was not barred by either collateral estoppel or res judicata. Welch v. Crown Zellerbach Corp., supra, decided against using the "judicial estoppel" or collateral estoppel recognized in California Co. v. Price, supra; insofar as California Co. v. Price recognized collateral estoppel, it is overruled (as is Quarles v. Lewis, 226 La. 76,
+75 So. 2d 14
+(1954); Buillard v. Davis, 185 La. 255, 169 So. 78 (1936); Heroman v. Louisiana Institute of Deaf and Dumb, 34 La.Ann. 805 (1882)).
+
+The case before us arises from an accident in which Ugulano and Jackson collided and were injured. Jackson sued Allstate, Ugulano's liability insurer, but did not join Ugulano. Ugulano testified that the accident was caused by a yellow automobile which shot out in front of him. There was a judgment for Jackson, against Allstate, which became final. Ugulano brought a timely suit against Allstate, his liability insurer, as the uninsured motorist liability insurer of Jackson and the unknown yellow automobile's driver. The trial judge dismissed Ugulano's suit because of res judicata.[1]
+
+The Court of Appeal did not agree that res judicata barred the second suit, perceiving a difference in either the cause or capacity, since Allstate was a defendant in the first suit as the liability insurer of Ugulano, and in the second suit as the liability insurer of Jackson and the driver of the unknown yellow car (as Ugulano's uninsured motorist insurer). Before us Allstate does not now argue that res judicata is applicable, but urges us to re-examine Welch v. Crown Zellerbach Corp., supra.
+
+There would be no profit in a re-examination. There is an incompatibility in common law res judicata (aided by collateral estoppel) and civil law res judicata that would cause only confusion if the two doctrines were employed in the same jurisdiction. That incompatibility has been fully explored. Mitchell v. Bertolla, supra; Welch v. Crown Zellerbach Corp., supra; Hope v. Madison, 194 La. 337, 193 So. 666 (1940); 51 Tul.L.Rev. 611 (1977); 2 La.L. Rev. 347 (1940); 2 La.L.Rev. 491 (1940).[2]
+
+The judgment of the Court of Appeal is reversed, the judgment of the district court dismissing plaintiff's suit is reversed, and the case is remanded to the district court; the defendant is cast for all costs to date.
+
+DENNIS, J., concurs.
+
+MARCUS, J., dissents and assigns reasons.
+
+MARCUS, Justice (dissenting).
+
+I agree with the court of appeal that the issue of the negligence of the driver of the unidentified yellow automobile was fully explored and considered by the trial judge in the prior trial; therefore, relitigation of this issue in a second suit is barred by the doctrine of judicial estoppel. I do not believe that this doctrine is incompatible with our civil law res judicata. Hence, I feel   that we should reconsider our decisions in Mitchell v. Bertolla,
+340 So. 2d 287
+(La.1976) and Welch v. Crown-Zellerbach Corporation,
+359 So. 2d 154
+(La.1978). Accordingly, I respectfully dissent.
+
+[1]  Allstate filed a motion for summary judgment based on the fact that Ugulano's vehicle never came in contact with the unidentified yellow vehicle and exceptions of res judicata and no right of action based on the final judgment in the earlier suit of Jackson v. Allstate Insurance Co., No. 171,206. In granting the motion for summary judgment, the district court reasoned that the issue of negligence of Ugulano had been judicially determined and, because of that final determination, Ugulano could not recover under his uninsured motorist coverage in the instant case. The Court of Appeal interpreted the district court's judgment as a finding of res judicata.
+
+[2]  The weakness of the strongest argument for the expansion of res judicatajudicial economyis demonstrated in this case. If Ugulano had been permitted to try his lawsuit, it would surely have been ended by now.

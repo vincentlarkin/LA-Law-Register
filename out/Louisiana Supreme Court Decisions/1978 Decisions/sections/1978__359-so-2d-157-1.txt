@@ -1,0 +1,81 @@
+61248
+State v. Smith
+https://law.justia.com/cases/louisiana/supreme-court/1978/359-so-2d-157-1.html
+
+61248
+State v. Smith
+Court: Louisiana Supreme Court
+Release date: 1978-05-22
+Author: SANDERS, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/359-so-2d-157-1.html
+
+359 So. 2d 157 (1978)
+
+STATE of Louisiana
+v.
+Joseph V. SMITH.
+
+No. 61248.
+
+Supreme Court of Louisiana.
+
+May 22, 1978.
+
+*158 Ralph L. Barnett, Gretna, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John M. Mamoulides, Dist. Atty., Gordon K. Konrad, Abbott J. Reeves, Asst. Dist. Attys., Research and Appeals, for plaintiff-appellee.
+
+SANDERS, Chief Justice.
+
+The Grand Jury of Jefferson Parish indicted defendant with negligent homicide, a violation of LSA-R.S. 14:32. Defendant was convicted by a unanimous verdict on April 12, 1973. The court sentenced defendant to serve twenty-four months in the Parish Prison. Defendant was then released on his appeal bond pending the disposition of his appeal in this Court. Because of a series of delays, defendant's appeal was not lodged in this Court until December 20, 1977.
+
+On appeal, defendant relies upon six assignments of error for reversal of his conviction and sentence. Assignments of Error Nos. 1, 2, 3 and 4 are specifically abandoned by defendant.
+
+The negligent homicide charge against the defendant arose from the following circumstances: Defendant, while driving his automobile on April 1, 1972, struck and killed a fifteen-year-old boy about 9 p. m. Both the person called to the scene of the accident by defendant and the investigating police officer observed that defendant appeared to be drunk and each smelled a strong odor of alcohol on defendant's breath. Defendant also performed poorly on field sobriety tests. Subsequent to his arrest, defendant refused to take a Photo-Electric Intoximeter test (PEI) to determine the amount of alcohol in his blood. At trial, the State introduced as evidence the fact that defendant refused to submit to the PEI test. The introduction of this evidence of defendant's refusal to submit to the PEI test forms the basis of defendant's assignments of error in this appeal.
+
+Defendant argues that the basis of the State's case of negligent homicide is that defendant was driving while intoxicated and that an important part of the State's case was that he refused to take the PEI test.[1]
+
+*159 Defendant contends that reference to his refusal to take the PEI test was prejudicial to him and constituted reversible error on several grounds.
+
+He first asserts that the trial judge erred in ruling that the law in effect at the time of the accident was LSA-R.S. 32:661 as it existed prior to the 1972 amendment to the statute.
+
+Prior to its amendment in 1972, LSA-R.S. 32:661 provided:
+
+In 1972, Subsection C was added to LSA-R.S. 32:661:
+
+The accident in question occurred on April 1, 1972. Section C, supra, was added to LSA-R.S. 32:661 by Act No. 534, § 2 of 1972, which became effective on July 26, 1972. Hence the trial court correctly determined that the 1968 statute controlled. State v. Austin, La.,
+282 So. 2d 711
+(1973).
+
+Second, defendant alleges that the 1968 statute was unconstitutional. This argument is without merit. The Fifth Amendment to the United States Constitution providing the privilege against self-incrimination applies only to "evidence of a testimonial or communicative nature." Schmerber v. State of California,
+384 U.S. 757
+, 86 S. Ct. 1826, 16 L. Ed. 2d 908. Since testing of bodily evidence, i. e., blood, urine, breath, violates no privilege against self-incrimination,   neither does testimony of a refusal to give such evidence violate the constitutional privilege. State v. Dugas, 252 La. 345,
+211 So. 2d 285
+(1968), cert, denied,
+393 U.S. 1048
+, 89 S. Ct. 679, 21 L. Ed. 2d 691. See State v. Tillett, La.,
+351 So. 2d 1153
+(1977); State v. O'Conner, La.,
+320 So. 2d 188
+(1975).
+
+Third, defendant states that: "The trial judge allowed admission into the general jury charge a specific reference to Revised Statute 14:98 relative to DWI [driving while intoxicated] and Revised Statute 32:661 relative to refusal to submit to an intoximeter test." Since defendant was charged with negligent homicide, whether or not he was under the influence of intoxicating beverages at the time of the automobile accident was a factual issue at trial. See, State v. Dugas, supra. Hence, the reference to LSA-R.S. 14:98, defining driving while intoxicated, and to LSA-R.S. 32:661, stating a driver's implied consent to chemical tests, were appropriate.
+
+Defendant's Assignments of Error Nos. 5, 6, 7, 8, 9, and 10 are without merit.
+
+For the reasons assigned, the conviction and sentence are affirmed.
+
+CALOGERO, J., dissents and assigns reasons.
+
+DENNIS, J., dissents for reasons assigned by CALOGERO, J.
+
+CALOGERO, Justice, dissenting.
+
+By analogy to the rule concerning the compulsory extraction of bodily evidence the majority holds in this decision that defendant's communication of a refusal to submit to a photoelectric intoximeter test (P.E.I, test, for intoxication), notwithstanding the absence of Miranda warnings does not violate the defendant's privilege against self-incrimination. It thereby implies that a refusal to take a P.E.I, test is not evidence of a testimonial or communicative nature. I disagree. I believe that evidence concerning a defendant's refusal to take a P.E.I, test is the type of evidence protected by the privilege against self-incrimination and would, therefore, reverse defendant's conviction and sentence. Accordingly, I dissent.
+
+[1]  LSA-R.S. 32:666 specifically provides that refusal to submit to chemical test is admissible into evidence:
+
+"If a person under arrest refuses to submit to a chemical test under the provisions of this Part, evidence of refusal shall be admissible in any criminal action or proceeding arising out of acts alleged to have been committed while the person was driving or in actual physical control of a motor vehicle upon the public highways of this state while under the influence of alcoholic beverages.
+
+"This section has no application to a civil action or proceeding."

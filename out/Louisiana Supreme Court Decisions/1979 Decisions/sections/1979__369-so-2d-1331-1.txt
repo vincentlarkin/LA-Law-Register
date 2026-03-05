@@ -1,0 +1,103 @@
+63301
+State v. Huguet
+https://law.justia.com/cases/louisiana/supreme-court/1979/369-so-2d-1331-1.html
+
+63301
+State v. Huguet
+Court: Louisiana Supreme Court
+Release date: 1979-04-09
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/369-so-2d-1331-1.html
+
+369 So. 2d 1331 (1979)
+
+STATE of Louisiana
+v.
+Mark HUGUET et al.
+
+No. 63301.
+
+Supreme Court of Louisiana.
+
+April 9, 1979.
+
+*1332 Mike J. Balen, Covington, for defendantsrelators.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Marion B. Farmer, Dist. Atty., Kurt F. Sins, Asst. Dist. Atty., Abbott J. Reeves, Director, Research and Appeals Division, Asst. Dist. Atty., for plaintiff-respondent.
+
+DIXON, Justice.
+
+Eight defendants were charged in one bill of information (No. 65025) with resisting an officer in violation of R.S. 14:108(d).[1] After the September 5 hearing on defense application for particulars and based on the state's responses to several requests in the bill of particulars, the defense filed two motions to quash (C.Cr.P. 532(5)) alleging that "the offense charged in the indictment was not committed . . . "(C.Cr.P. 485); that R.S. 14:108(d) was unconstitutionally vague and overbroad; and that the state had failed to amend its answers to the particulars question 4 within five days of a court order to do so (C.Cr.P. 485). After the September 26 hearing on these motions, the trial court denied them and the defendants sought review of that denial asserting three assignments of error. We granted writs.
+
+The state's answers to the bill of particulars gives the following facts: on the evening of June 4, 1978, defendants were standing outside the Mason Nez Liquor Store in Covington, Louisiana when Officers Edwards and Johnson, who were patrolling the area, observed the large number of individuals drinking out in the street. With no intention of arresting anyone, the officers asked the group to take their beer into the bar or elsewhere and move out of the street. At some point, Officer Pechon arrived and was the target of a beer bottle thrown by one of the defendants, Sterling Wayne Smith. Smith was arrested for disturbing the peace. All the others were told to move on, but failed to obey. The defendants were then booked on various charges.
+
+The defense contends by this assignment that the trial court erred in denying the motion to quash because the information failed to allege the offense of resisting an officer, R.S. 14:108. The information charges that the eight defendants:
+
+The state and defense hold different views of the conduct which R.S. 14:108 proscribes. The state repeatedly emphasized in both hearings that R.S. 14:108 means that the officer merely has to be authorized to act in his official capacity and that he does not have to be involved in arresting, seizing property, or serving process before R.S. 14:108 applies. Apparently, the state reads R.S. 14:108(d) as making the refusal to move on when ordered by police a criminal act. The defense repeatedly emphasized that R.S. 14:108 requires not only that the officer be authorized to arrest, seize property, or serve process, but also the officer must be acting in his official capacityarresting, seizing property, or serving processbefore there is criminal "obstruction of" an officer.[2]
+
+In Cox v. Louisiana,
+379 U.S. 536
+, 85 S. Ct. 453, 13 L. Ed. 2d 471 (1965), the United States Supreme Court held unconstitutionally broad R.S. 14:103.1 which provided:
+
+R.S. 14:108(d) cannot be substituted for R.S. 14:103.1, which was declared unconstitutional by the United States Supreme Court and repealed later by the Louisiana legislature. R.S. 14:108(d) does not make the refusal to move when ordered by police a crime unless it obstructs police in their official duties in making a lawful arrest, seizure, or service of process. The statute further defines "obstruction of" in its "common meaning, signification and connotation" which, according to Merriam Webster, Webster's Third New International Dictionary, 1971, means "something that obstructs or impedes: IMPEDIMENT, HINDRANCE." R.S. 14:108 additionally provides some specific factual illustrations of obstruction: the offender obstructs when he intentionally impedes his own arrest by   his flight, R.S. 14:108(a), by his acts of physical violence toward the arresting officer, R.S. 14:108(b), by his refusal to identify himself, R.S. 14:108(c), or when he intentionally impedes the arrest of another (or the seizure of property or service of process) by congregating with others and refusing to move on when ordered by the officer, R.S. 14:108(d). However, the gravamen of the offense remains the intentional obstruction of an officer acting in his official capacity, as defined and illustrated. As we interpret R.S. 14:108, the statute does not suffer from the overbreadth of former R.S. 14:103.1.[3]
+
+In passing on a motion to quash, the trial court must determine whether the facts set forth in the bill of particulars, taken in connection with the indictment, are sufficient to constitute a crime; the state, of course, is limited in its proof to the facts recited in the bill of particulars. State v. Heymann, 256 La. 18,
+235 So. 2d 78
+(1970). As this court explained in State v. Legendre,
+362 So. 2d 570
+, 571 (La.1978):
+
+In the instant case, the state's responses to the bill of particulars indicate that the officers were not attempting to serve process or seize property and that "[t]he officers had no intention of arresting anyone (before the circumstances giving rise to the charge of resisting an officer). They merely requested the group to take their beer into the bars or elsewhere and to move out of the street."[4] Further, the defense asked in request 8 of the bill of particulars, "What actions on the part of the officers Edwards and Johnson were opposed or obstructed by defendants?" The state's written response was, "The fact that the defendants failed to obey a lawful order of the police officers, opposed and obstructed the officers," and in open court its amended answer[5] explained that the lawful order was "to disburse [sic] and go back inside with their beer bottles." The final amended answer accepted by the trial court was:
+
+The state set out facts in the responses to the bill of particulars to show that the defendants were arrested for disobeying the general order to move on, but the state did not attempt to set out facts to show that the defendants' disobedience to this order obstructed the officers, acting in their official capacity, while attempting to seize property serve process, or arrest Smith for throwing the beer bottle. The motion to quash the information charging a violation of R.S. 14:108(d) should have been granted, because the charge was insufficient as explained in the bill of particulars. C.Cr.P. 532(5); 485.
+
+Therefore, the district court's denial of the motion to quash the bill of information charging the eight defendants with violating R.S. 14:108(d) is reversed, and the bill of information (No. 65025) is quashed.
+
+Huguet also complains that he was charged in another bill, No. 65037, with violating R.S. 14:108(b) (resisting arrest), because he was resisting an unlawful arrest (for failing to move on, R.S. 14:108(d)). There is no bill of particulars before us (in No. 65025 or No. 65037) establishing that fact. Therefore, the ruling denying motion to quash bill number 65037 is affirmed.
+
+SUMMERS, C. J., dissents from the decree quashing bill of information No. 65025 and concurs in the denial of the motion to quash bill of information No. 65037.
+
+[1]  In addition the defendants were also charged by bill of information with the following:
+
+Mark HuguetR.S. 14:108(d) (65025) and R.S. 14:108(b) (65037)
+
+Glenn LavigneR.S. 14:108(d) (65025) and R.S. 14:35 (65031)
+
+David LondonR.S. 14:108(d) (65025)
+
+Edward SharpR.S. 14:108(d) (65025) and R.S. 14:35 (three counts) (65026, 65030, 65034)
+
+Michael SmithR.S. 14:108(d) (65025) and R.S. 14:35 (65026)
+
+Richard SmithR.S. 14:108(d) (65025) and R.S. 14:35 (65026)
+
+Sterling Wayne SmithR.S. 14:108(d) (65025) R.S. 14:35 (three counts) (65028, 65029, 65033) and R.S. 14:37 (65036)
+
+Wallace SmithR.S. 14:108(d) (65025) and R.S. 14:35 (65034)
+
+State v. Wallace Smith, 65027, State v. Michael Smith, 65032, and State v. Richard Smith, 65035 were nolle prossed.
+
+[2]  The defense argues:
+
+"You go back to 14:108, the very last part of the preamble to that, it uses this languageafter it sets these three circumstances forward, it says, `When the offender knows or has reason to know that the person arresting, seizing property, or serving process is acting in his official capacity.' It re-emphasizes those three categories. It doesn't allow an officer to just because he has his uniform on and his badge to do anything that he wishes and let it fall under the heading of `official capacity.' It tells you right here what his official capacity has to be . . ."
+
+[3]  In Cox, supra, the United States Supreme Court struck down R.S. 14:103.1 for the vagueness of its first element: that the offender congregate with others" with intent to provoke a breach of the peace, or under circumstances such that a breach of the peace may be occasioned thereby." This court had defined that term as an effort "to agitate, to arouse from a state of repose, to molest, to interrupt, to hinder, to disquiet." State v. Cox, 244 La. 1087, 1106,
+156 So. 2d 448
+, 455 (1963). The United States Supreme Court found the statute "unconstitutionally vague in its overly broad scope." Cox v. Louisiana, supra, 85 S. Ct.  at 462, as authoritatively construed by this court.
+
+[4]  Concerning arrest, the defense had specifically asked in request 4 of the bill of particulars whether the officers intended to arrest any of the defendants before the circumstances giving rise to the charge of resisting an officer to which the state responded that the officers had no intention of arresting anyone. Request 4 B asked whether any defendants were actually arrested before the circumstances giving rise to the charge of resisting an officer and if so, give the ordinance number and any subsection which may apply. The state's original response to 4 B was that Sterling Wayne Smith was the first person actually arrested for disturbing the peace.
+
+[5]  The defense was dissatisfied with the state's written response:
+
+"BY THE COURT:
+
+You mean how they opposed and obstructed?
+
+DEFENSE:
+
+Well, what constituted the violation. What facts constituted it.
+
+STATE:
+
+Your Honor, I think it's also stated in some of these, the initial people were requested, ordered, whatever, to go inside with their beer bottles or to disburse [sic], and that would be acting in their official capacity and they were in uniform, I believe, at the time." (Emphasis added).

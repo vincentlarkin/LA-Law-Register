@@ -1,0 +1,127 @@
+87-CC-2599
+Rivet v. First Financial Bank, FSB.
+https://law.justia.com/cases/louisiana/supreme-court/1989/87-cc-2599-2.html
+
+87-CC-2599
+Rivet v. First Financial Bank, FSB.
+Court: Louisiana Supreme Court
+Release date: 1989-01-30
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1989/87-cc-2599-2.html
+
+538 So. 2d 216 (1989)
+
+Mary Anna RIVET and Minna Ree Winer
+v.
+FIRST FINANCIAL BANK, FSB., and First Federal Savings and Loan Association.
+
+No. 87-CC-2599.
+
+Supreme Court of Louisiana.
+
+January 30, 1989.
+
+*217 Betty Mullin, New Orleans, for applicants.
+
+Edmond Miranne, Jr., Metairie, for respondents.
+
+LEMMON, Justice.
+
+The issue in this case is whether plaintiffs, who are the wives of Edmond G. Miranne, Sr. and Edmond G. Miranne, Jr., are barred by res judicata principles from asserting a claim to an interest in certain assets pledged by them and their husbands to defendant bank on the basis that a bankruptcy court has already adjudicated a similar claim by plaintiffs in the same assets and ruled that plaintiffs "have no right, title or interest in or to" the assets. We hold that the judgment of the bankruptcy court on plaintiffs' claim to the assets (which were subsequently applied by the bank, pursuant to the judgment of the bankruptcy court, in partial payment of plaintiffs' husbands' debt guaranteeing a partnership loan) precludes relitigation of their claim to the assets in the present litigation.
+
+On September 15, 1983, Tulane Hotel Investors Limited Partnership obtained a $10,000,000 loan from defendant bank for the purchase and renovation of the Bayou Plaza Hotel. Plaintiffs' husbands, who were partners in the partnership, guaranteed the loan. The loan was secured by a first mortgage on the hotel and by certain assets pledged by plaintiffs and their husbands against the loan. Included in the pledged assets were (1) certain certificates of deposit in the names of plaintiffs' husbands   and (2) all future installments on a promissory note, which was executed by a third party and payable to Miranne, Sr. The collateral pledge agreement was signed by plaintiffs and their husbands.[1]
+
+The partnership thereafter defaulted on the loan. On October 5, 1984, plaintiffs' husbands, as well as the partnership, filed voluntary petitions for bankruptcy. The filing vested the bankruptcy court with jurisdiction to determine all claims by creditors and owners against the debtors' assets. The filing also automatically stayed any proceedings against the debtors' assets under 11 U.S.C. § 362.
+
+On December 17, 1984, the bank filed a motion in bankruptcy court to modify the automatic stay. As a secured creditor, the bank sought recognition of its right under the collateral pledge agreement to apply the certificates of deposit in partial payment of the indebtedness.
+
+On January 2, 1985, plaintiffs filed the present action, claiming an interest in the assets pledged to the bank. They alleged that the certificates had expired and that they had not executed any renewal or substitution of the collateral agreement. Plaintiffs further sought an injunction to prohibit the bank from transferring the pledged assets and a judgment ordering the bank to return the assets. The trial judge issued a temporary restraining order on January 4, 1985.
+
+On January 9, 1985, the bank obtained an order from the bankruptcy court enjoining plaintiffs from proceeding with this state court action on the basis that this litigation was prohibited by the 11 U.S.C. § 362's automatic stay of proceedings against the debtors' property. On January 18, 1985, the bank filed an exception in the present action, asserting the lack of jurisdiction over the subject matter.
+
+On January 25, 1985, plaintiffs filed a "Motion by Parties for Interest in Collateral" in the pending bankruptcy proceeding. As in the state court petition, plaintiffs alleged that the assets were pledged only for the specific time periods stated in the certificates of deposit and that they had neither entered into any other hypothecation agreement nor extended or renewed the 1983 collateral pledge agreement. They also alleged that the bank made ultra vires payments to third parties, allowed insurance loss funds to be diverted to a third party, and committed acts designed to injure the debtors commercially and to take over the debtors' business. Plaintiffs requested the bankruptcy court to declare the certificates of deposit and the proceeds of the payment of the promissory note to be free and clear of hypothecation to the bank.
+
+The bankruptcy court conducted a two-day hearing on three motions filed by various parties. Plaintiffs participated in the hearing and were represented by counsel separate from their husbands. On March 21, 1985, the bankruptcy court rendered judgment denying plaintiffs' motion.[2] In its conclusions of law the court stated:
+
+Plaintiff did not appeal from the March 21, 1985 judgment which rejected the relief they had requested.[3]
+
+In accordance with the judgment and with the rights specified in the pledge agreement, the bank applied the amount of the principal of the certificates of deposit to the debt owed by the partnership and plaintiffs' husbands. The bank further deposited the amount of the accumulated interest on the certificates of deposit into the registry of the bankruptcy court.
+
+On February 13, 1986, plaintiffs' husbands obtained a voluntary dismissal of their bankruptcy proceedings, but the bankruptcy court retained jurisdiction to determine disposition of the proceeds of the promissory note which had been deposited into the registry of the bankruptcy court and which were claimed by the bank and by another creditor.
+
+On September 24, 1986, eighteen months after the bankruptcy court ruled that they had no interest in the certificates of deposit or the proceeds of the promissory note, plaintiffs filed a "Rule to Show Cause on the Disposition of Cash Collateral" in the present proceeding.[4] Plaintiffs requested the state court to order the bank to account for the safety or disposition of the collateral and to reissue all certificates of deposit, savings accounts and/or letters of credit. Plaintiffs alleged that the injunction entered in the foreclosure proceeding involving the Bayou Plaza Hotel should have retroactive application to the certificates of deposit because the bank had been prohibited "from proceeding with any sale, alienation or application of any and/or all collateral, movable or immovable, held by First Financial Bank under any security instruments".[5]
+
+The bank filed an opposition to the rule, asserting exceptions to the trial court's lack of subject matter jurisdiction and to relitigation of the issues which had been adjudicated to final judgment in the bankruptcy court.
+
+The trial court rendered judgment overruling the exceptions of res judicata and collateral estoppel filed by the bank.[6] In reasons for judgment the trial judge cited numerous federal cases which held that a secured creditor's application for relief from the automatic stay was not the appropriate forum for the debtor to raise claims such as fraud, breach of contract, or validity of the security interest. The court concluded that plaintiffs' claims of "invalid mortgage, fraud and breach of contract" were not barred by res judicata or collateral estoppel.
+
+After the court of appeal denied the bank's application for supervisory writs under La.C.C.P. art. 2201, this court granted certiorari to review the ruling of the trial court. 516 So. 2d 362.
+
+La.R.S. 13:4231 provides:
+
+Thus, in order for res judicata to apply, the thing demanded in the second action must be the same as the thing demanded in the first action which has been concluded by a definitive judgment; the demand must be founded on the same cause of action; and the demand must be between the same parties, formed by them against each other in the same quality.[7]
+
+Plaintiffs first contend that the thing demanded in this action is different from the thing demanded in bankruptcy court.
+
+The thing demanded by plaintiff's motion filed in bankruptcy court was a declaration that the pledged assets were owned in indivision by plaintiffs and were not subject to the collateral pledge agreement. The bankruptcy court, a court with jurisdictional power and authority to determine the rights of creditors and ownership claimants to assets of bankrupt estates, rejected this demand and authorized the bank to apply the assets to the indebtedness of plaintiffs' husbands.
+
+In the present action plaintiffs demanded (in their original petition filed before their motion in bankruptcy court) that the bank be prohibited from transferring to itself the ownership of the pledged assets and be ordered to cancel the collateral pledge agreement and return the assets, based on plaintiffs' "undivided unencumbered ownership" in the assets.[8]
+
+Therefore, it is evident that the thing demandedthe recognition of plaintiffs' undivided ownership interest in the pledged assets and the declaration that the assets were not subject to the pledge agreement was the same in both actions.[9]
+
+Plaintiffs next contend that the demand in the bankruptcy court was between different parties than are involved in this action. Pointing out that they were never debtors in the bankruptcy court and that their motion in bankruptcy court to declare the assets free of the collateral pledge agreement was asserted against the debtors (their husbands) and not against the bank, they argue that issue was never joined between them and the bank.
+
+The thrust of plaintiffs' pleading in bankruptcy court was to demand that the assets be declared free of the collateral pledge agreement in favor of the bank, which had filed a pleading in the same proceeding demanding recognition of its right under the same agreement to apply the same assets in partial payment of the indebtedness of plaintiffs' husbands. Plaintiffs and the bank were clearly adverse parties in the two-day hearing which led to a judgment deciding that plaintiffs, because of the collateral pledge agreement, had no ownership interest in the pledged assets claimed by the bank as creditor. Thus, the demand was between the same parties in both actions.
+
+As to the third of the three identities required for res judicata, the demand was founded on the same cause of action. This court has recognized that the phrase   "cause of action" resulted from a mistranslation of the French "cause". Mitchell v. Bertolla,
+340 So. 2d 287
+(La.1976). "Cause" is the juridical or material fact which is the basis of the right claimed or the defense pleaded. Ryan v. Grandison Trust,
+504 So. 2d 844
+(La.1987).
+
+Here, the fact which formed the basis of plaintiffs' demand in both cases was plaintiffs' asserted undivided ownership interest in the assets which had been included in a collateral pledge agreement executed by plaintiffs. Thus, the demand was founded in both cases on the cause of action arising from the facts pertaining to the rights of the bank and the plaintiffs in the pledged assets under the collateral pledge agreement. In both actions plaintiffs asserted as their legal basis for relief the fact that the certificates had expired without an extension or renewal of the pledge agreement or a new agreement, a theory obviously rejected by the bankruptcy court.[10]
+
+Although the triple identities are present in this case so as to warrant the application of res judicata, several other contentions by plaintiffs warrant comment.
+
+In their motion in the bankruptcy court plaintiffs alleged ultra vires payments by the bank to third parties, diversion of insurance funds by the bank to third parties, and injurious acts by the bank designed to take over the debtors' business. These allegations, while vague and unspecific, presumably could have formed the basis for claims that would have been inappropriate for adjudication at the hearing on the bank's motion to modify the automatic stay order. Indeed, the bankruptcy court did not mention these claims in the March 21, 1983 judgment or the attached findings and conclusions.[11] Perhaps the state trial judge in the present case had these claims in mind when he cited federal cases relating to the scope of hearings on motions to modify an automatic stay under 11 U.S.C. § 362 and held that plaintiffs' claims of "invalid mortgage, fraud and breach of contract" were not barred by the bankruptcy court judgment.[12] However, plaintiffs have never asserted any such claims in the record on appeal in this state court proceeding.[13]
+
+Plaintiffs finally contend that the March 21, 1985 judgment of the bankruptcy court was not a final judgment, since it was necessary for the bank to file an executory proceeding thereafter in the state court to foreclose on the hotel. The hotel was in the name of the partnership, and the bankruptcy court (which had jurisdiction to determine all claims by creditors and owners against the debtors' property) merely authorized the bank to proceed with the *222-228 foreclosure on the mortgage necessary to transfer title to the asset and collect the proceeds of the foreclosure sale. The pledged assets were in the names of plaintiffs' husbands, and the bankruptcy court judgment recognized the bank's claim to these assets under the collateral pledge agreement. The bank thereafter simply exercised its contractual rights to accomplish transfer of title to the assets.
+
+For the foregoing reasons, the judgment of the district court is reversed, and judgment is rendered maintaining the exception of res judicata and dismissing the action. All costs are assessed to plaintiffs.
+
+[1]  The collateral pledge agreement contained the following provision:
+
+"Insofar as Mary Anna Rivet Miranne and Mina Ree Miranne are concerned, they join in the execution of this collateral pledge agreement for the purpose of pledging any right, title or interest that they have or may have in and to the collateral described on the reverse hereto and it is agreed that they will not be personally liable for the debt except to the extent of their interest in and to the said pledged collateral."
+
+[2]  The judgment also adjudicated the bank's "Motion to Modify Stay" and the "Joint Motion to Determine Collateral" filed by the bank and by plaintiffs' husbands. The judgment on the bank's "Motion to Modify Stay" removed the prohibitions on the bank's foreclosing on the Bayou Plaza Hotel and on the bank's exercising its rights under the pledge of the certificates of deposit, thereby recognizing the collateral pledge agreement. The judgment further ruled that the undistributed cumulated interest on the certificates of deposit belonged to the estates of the debtors.
+
+[3]  Neither did the bank appeal from that portion of the judgment which decreed that the interest on the certificates of deposit belonged to the estates of the debtors and were not subject to the pledge agreement.
+
+[4]  Plaintiffs obtained an order from the bankruptcy court on May 29, 1986, lifting the automatic stay under 11 U.S.C. § 362 to allow litigation of the present state court proceeding. Counsel for the bank was not present at the hearing in which the order was issued, not having received notice of the motion or hearing.
+
+After the present matter was argued in this court, the bank obtained an order from the bankruptcy court vacating the May 29, 1986 order which had lifted the automatic stay. The judge stated that the bank had not been notified and that the request for lifting the stay had not informed the court that the purpose was to relitigate in state court the issues already decided by the bankruptcy court.
+
+[5]  Plaintiffs also alleged that the collateral was in jeopardy because it was underinsured and because the bank was not financially sound, being involved in federal litigation and having engaged in unsound banking practices.
+
+[6]  The trial court did not expressly rule on the declinatory exception of lack of subject matter jurisdiction.
+
+[7]  La.C.C.P. art. 1842 defines a definitive judgment as one which has "acquired the authority of the thing adjudged". La.C.C. art. 3556(31) defines a thing adjudged as:
+
+"Thing adjudged is said of that which has been decided by a final judgment, from which there can be no appeal, either because the appeal did not lie, or because the time fixed by law for appealing is elapsed, or because it has been confirmed on the appeal."
+
+[8]  In their rule filed in this action in September, 1986 (long after the assets had been transferred), plaintiffs again claimed an interest in the pledged assets and demanded that the bank account for the disposition of the assets and reissue the certificates of deposit.
+
+[9]  Plaintiffs original petition in the present action was entitled "Petition for Breach of Contract and Injunctive Relief". Nevertheless, no breach of contract or grounds therefor was mentioned in the petition. The prayer sought, in addition to injunctive relief, only a judgment ordering the return of the pledged assets and cancellation of the pledge agreement.
+
+Plaintiffs also demanded the interest on the assets. Because the bankruptcy court ruled that the bank has no right to the interest, the bank deposited the interest into the registry of the bankruptcy court.
+
+[10]  If "cause" is viewed as the equivalent of "grounds", as discussed in the Mitchell case, the grounds for reliefthe expiration of the certificates of deposit without an extension or renewal of the pledge agreement or a new agreement were the same in both cases.
+
+[11]  In its recent order vacating the May 29, 1986 lifting of the automatic stay, the bankruptcy court noted that plaintiffs had made several additional allegations against the bank in the motion which led to the March 21, 1985 judgment, but that the court had ruled only on the parties' interests in the pledged assets under the collateral pledge agreement. The court also stated that plaintiffs' motion had been ruled on individually and not as a defense to the bank's motion to modify the automatic stay.
+
+[12]  The litigation in bankruptcy court involved more than the simple motion of the bank to modify the automatic stay in order to permit the bank's exercise of its rights under the collateral pledge agreement. Plaintiffs, after being enjoined by the bankruptcy court from doing so in the state court, affirmatively placed at issue their interest in the assets free of the pledge agreement, an issue which the bankruptcy court has jurisdiction to decide and in fact decided.
+
+[13]  After the present matter was argued in this court and submitted for decision, plaintiffs filed a supplemental and amending petition in the district court, setting forth 122 paragraphs of additional and detailed allegations of misconduct by the bank. Plaintiffs then filed a motion to dismiss the present proceeding before this court as moot. This court referred the motion to the merits.
+
+The present decision is based on the record compiled in the district court prior to the granting of certiorari and submission of the case after oral argument. The pleading subsequently filed in district court has not been considered by this court, and the motion to dismiss is denied. Any further action on the supplemental and amending petition in this or any subsequent proceeding is up to the parties and to the trial court.

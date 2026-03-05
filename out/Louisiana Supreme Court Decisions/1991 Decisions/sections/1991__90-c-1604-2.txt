@@ -1,0 +1,95 @@
+90-C-1604
+First Acadiana Bank v. Bieber
+https://law.justia.com/cases/louisiana/supreme-court/1991/90-c-1604-2.html
+
+90-C-1604
+First Acadiana Bank v. Bieber
+Court: Louisiana Supreme Court
+Release date: 1991-06-21
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1991/90-c-1604-2.html
+
+582 So. 2d 1293 (1991)
+
+FIRST ACADIANA BANK
+v.
+Larry BIEBER, et al.
+
+No. 90-C-1604.
+
+Supreme Court of Louisiana.
+
+June 21, 1991.
+
+Darryl J. Hebert, for plaintiff-applicant.
+
+Donald Soileau, for defendants-respondents.
+
+LEMMON, Justice.
+
+This is an action against Larry Bieber, the maker of several promissory notes held by plaintiff bank, to recover the balances due on the notes, cumulated with an action against Rheinhard Bieber, the father of the debtor, who executed three separate continuing guaranties which guarantied payment of his son's indebtedness up to the amount of the guaranties. We granted certiorari primarily to determine the correctness of the judgment of the court of appeal 562 So. 2d 1025 which extended the protection of the Deficiency Judgment Act beyond the mortgage debtor to the guarantor of the debt.
+
+Between 1983 and 1986 plaintiff bank made or refinanced numerous loans to Larry Bieber. The principal balance on these loans when suit was filed on May 29, 1986 was over $350,000. These loans were secured   by mortgages on the debtor's property, as well as other collateral.
+
+During the period that the bank was extending credit to the debtor, Rheinhard Bieber executed the following contracts of continuing guaranty which guarantied the indebtedness of his son:
+
+Each of the contracts of continuing guaranty contained the following pertinent language:
+
+After the bank filed this action, Larry Bieber declared bankruptcy. The bank then filed a separate executory proceeding in which the property mortgaged by the debtor and disclaimed by the bankruptcy court was seized and sold, after appraisal, for $124,600. The bank applied the proceeds of the sale to the total indebtedness and then proceeded against Rheinhard Bieber in the present suit on the continuing guaranties.
+
+After trial on the merits, the district court dismissed the bank's action on the three continuing guaranties. The court noted that when the bank returned notes to Larry Bieber as the notes were paid or refinanced, photocopies of the guaranties were attached to the notes. The court reasoned that the bank's attaching the guaranties to the "notes they were intended to secure" resulted in the extinguishment of the guaranties.
+
+The court of appeal affirmed the dismissal of the action, but for different reasons. 562 So. 2d 1025. On the extinguishment issue, the intermediate court stated that the district court had ignored the unambiguous language of the guaranties in which the guarantor undertook responsibility for any of the debtor's debts to the bank, up to the amount of each guaranty, and in which the parties agreed that revocation of the guaranty would be effective only upon written notice to the bank's executive officers. The court further observed, citing Guaranty Bank of Mamou v. Community Rice Mill,
+502 So. 2d 1067
+(La.1987), that the guaranty did not limit the guarantor's liability to any particular debt instrument.
+
+Nevertheless, the intermediate court held that the bank could not recover from the guarantor. Reasoning that this action was one for a deficiency judgment governed by La.Rev.Stat. 13:1406, the court concluded that the bank's failure to establish, either in the executory proceeding or in the present action, the variable interest rate of the notes sued upon constituted a defect in the executory proceeding which forfeited the bank's right to obtain a deficiency judgment against either the debtor or the debtor's guarantor.
+
+*1295 We granted certiorari primarily to determine whether a creditor, after obtaining the seizure and sale of the debtor's property in an executory proceeding, may pursue further recovery against the debtor's guarantor in an ordinary proceeding, although a defect in the executory proceeding would prevent further recovery against the debtor in a deficiency judgment action. 568 So. 2d 1067.
+
+The bank first contends that this action is not one against a debtor for a deficiency judgment, but is a suit against a guarantor based on a continuing guaranty. The bank argues that this action is not to recover the amount of the deficiency, but to recover the amount of the guaranty. The bank points out that it could have proceeded against the guarantor under the contract without ever pursuing recovery against the debtor.
+
+When a creditor seeks recovery from a debtor in an ordinary proceeding, the creditor must first obtain a judgment. After the judgment becomes executory, the creditor may proceed to execute on the judgment against the debtor's property. If one item of property is seized and sold for an amount insufficient to satisfy the judgment, the creditor may proceed against other property of the debtor to recover the remainder due after application of the proceeds of the sale by executing on the same judgment.
+
+However, when a creditor seeks recovery from a debtor in an executory proceeding, the creditor may, without obtaining a judgment, obtain a seizure and sale of any of the debtor's property which is subject to the mortgage importing a confession of judgment. If the proceeds of the sale are insufficient to satisfy the debt, the creditor must first obtain a judgment for the balance of the debt before seizing any of the debtor's other property. Such a judgment, which has come to be known as a deficiency judgment, is governed by La. Code Civ. Proc. arts. 2771-72 and La.Rev.Stat. 13:4106, and may be obtained against the debtor only if the property was sold under the executory proceeding after appraisal.
+
+Whether the present action which sought to recover the balance of the debtor's debt against the debtor's guarantor (up to the amount of the guaranty) is a deficiency judgment action under the strict definition of that term is of little moment. The critical issue is whether the creditor, if precluded from obtaining any further recovery against the debtor after foreclosure on the debtor's property under an executory proceeding, is likewise precluded from any further recover against the debtor's guarantor (whose obligation is an accessory obligation to that of the debtor). The ultimate issue (whether the guarantor's obligation to pay the debtor's debt up to the limits of the guaranty continues to exist after the debtor's obligation has been extinguished because of a defect in the executory proceeding) is presented, whether the action against the guarantor is characterized as a deficiency judgment action or some other type of action. The bank's contention that this is not a deficiency judgment action is not dispositive of the issue of the guarantor's obligation.
+
+The bank next contends that its failure to prove a specific interest rate on the notes in the executory proceeding or in the present proceeding does not affect its right to obtain a judgment against the guarantor for the amount of the guaranty.
+
+In the First Guaranty Bank, Hammond, Louisiana v. Baton Rouge Petroleum Center, Inc.,
+529 So. 2d 834
+(La.1987), the creditor in an executory proceeding failed to attach to its petition authentic evidence of a corporate resolution authorizing the corporation to grant a mortgage. This court held that while the creditor's failure may have been a defect in an essential link of proof which could defeat the creditor's right to use an executory proceeding, the debtor did not assert the defect in the authentic evidence in the executory proceeding by seeking to enjoin the judicial sale or by filing a suspensive appeal from the order of seizure and sale, and the creditor who had fully complied with the codal and statutory appraisal requirements in the executory proceeding was not barred from obtaining a deficiency judgment   against the debtor in a subsequent ordinary proceeding.
+
+After a judicial sale under an executory proceeding, the creditor who seeks a deficiency judgment must plead and prove that the property was sold after appraisal in accordance with the codal and statutory laws and that the proceeds of the judicial sale were insufficient to satisfy the debt. First Guaranty Bank, Hammond, Louisiana v. Baton Rouge Petroleum Center, Inc., 529 So. 2d  at 842. This proof is necessary to establish that the creditor has not been barred from pursuing a deficiency judgment against the debtor by operation of La.Code Civ.Proc. art. 2771 and La.Rev.Stat. 13:4106 A.[2] Even if the creditor is entitled to pursue a deficiency judgment, however, the debtor still has all of the rights and defenses available to a defendant in an ordinary proceeding, because the creditor has not yet obtained a judgment against the debtor. Therefore, the creditor must additionally plead and prove the existence of the obligation giving rise to the debt and the grounds of non-performance on which the creditor bases the action. First Guaranty Bank, Hammond, Louisiana v. Baton Rouge Petroleum Center, Inc., 529 So. 2d  at 842.
+
+Here, the court of appeal, after examining the evidence in the executory proceeding and in the present proceeding, stated:
+
+562 So. 2d  at 1029 (citation omitted, emphasis added). Thus, the court of appeal barred the bank from any recovery whatsoever, not because the bank failed to comply with the appraisal requirements in the executory proceeding, but because the bank failed to prove the amount of interest due as part of its order of evidence at the trial on the merits.
+
+The court of appeal apparently confused the evidence requisite to a creditor's entitlement to pursue any further recovery against a debtor after a judicial sale under executory proceeding (full compliance in the executory proceeding with the codal and statutory requirements for appraisal) with the evidence necessary to prove the existence and the amount of the debtor's obligation and the default thereon at the trial on the merits of the action seeking recovery of the remaining debt. Stated otherwise, the court of appeal erred in completely barring the bank from pursuing further recovery on the debt when the bank had fully complied with the appraisal requirements in the executory proceeding. It is a defect in the proof of compliance with the appraisal requirements in the executory proceeding, and not a defect in the proof of the obligation at the trial on the merits, which triggers La.Rev.Stat. 13:4106 A's prohibition against obtaining further any recovery against the debtor.
+
+The creditor's failure to prove the variable interest rate at the trial on the   merits at most would preclude the creditor from collecting any interest, just as any other failure to prove a particular element of the debtor's obligation would preclude that part of the recovery. Such a failure does not affect the creditor's recovery of the principal due on the notes. Because the principal balance of the notes far exceeded the guarantor's obligation, the failure of proof relating to the amount of interest due has no effect on the creditor's recovery in this case. The decision by the court of appeal denying any recovery because of the creditor's failure to prove the variable interest rate must therefore be reversed.[3]
+
+As an alternative reason for upholding the judgment of the court of appeal, Rheinhard Bieber argues that the trial court was correct in holding the guaranties extinguished.[4] He points to evidence that the bank prepared a new $100,000 guaranty on April 8, 1985 to replace the three sued upon, but that he refused to sign.
+
+The court of appeal correctly ruled that the guaranties by their terms are extinguished only by written notice to the bank, which did not occur in the present case. Arguably, the parties by their conduct could have demonstrated in some other manner an intention to discontinue the guaranties. However, even if the bank's seeking a new guaranty and Bieber's refusal to sign one could be construed as evidence of an intent to discontinue the existing guaranties, the discontinuance would not affect Bieber's liability for his son's debts which were already existing. The discontinuance would have relieved Bieber only of liability for future loans. Inasmuch as Larry Bieber's debt sued upon in this case preexisted the presentation of the new guaranty to his father, this argument is unavailing to the guarantor.
+
+For the reasons assigned, the judgments of the lower courts are reversed, and judgment is rendered in favor of First Acadiana Bank and against Rheinhard Bieber on the continuing guaranties. All costs are assessed to Rheinhard Bieber.
+
+WATSON, J., dissents.
+
+[1]  Rheinhard Bieber, along with another guarantor, also furnished the bank with another continuing guaranty dated December 13, 1985 in the amount of $25,000. That guaranty has been paid and is no longer at issue.
+
+[2]  La.Code Civ.Proc. art. 2771 provides:
+
+Unless otherwise provided by law, the creditor may obtain a judgment against the debtor for any deficiency due on the debt after the distribution of the proceeds of the judicial sale only if the property has been soled under the executory proceeding after appraisal in accordance with the provisions of Article 2723.
+
+La.Rev.Stat. 13:4106 A provides:
+
+Unless otherwise provided by law, if a mortgagee or other creditor takes advantage of a waiver of appraisement of his property, movable, immovable, or both, by a debtor, and the proceeds of the judicial sale thereof are insufficient to satisfy the debt for which the property was sold, the debt nevertheless shall stand fully satisfied and discharged insofar as it constitutes a personal obligation of the debtor. The mortgagee or other creditor shall not have a right thereafter to proceed against the debtor or any of his other property for such deficiency, except as otherwise provided by law or as provided in the next subsection.
+
+[3]  La.Rev.Stat. 13:4106 A would not have barred the creditor's recovery in a deficiency judgment action against the debtor in the present case. Therefore, we expressly do not reach the issue of whether the protection accorded to the debtor by the Deficiency Judgment Act may also be extended to the debtor's guarantor.
+
+[4]  A party may assert in support of the judgment any argument which is supported by the record, even though the party did not seek review of the judgment. La.Code Civ.Proc. art. 2133 B. Here, Rheinhard Bieber won a total victory when the court of appeal dismissed the action against him, and it was not necessary for him to seek certiorari from that favorable judgment in order to assert in this court an argument which would support the judgment, regardless of the fact that the argument was rejected by the court of appeal.

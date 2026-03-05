@@ -1,0 +1,307 @@
+52870
+Canter v. Koehring Company
+https://law.justia.com/cases/louisiana/supreme-court/1973/283-so-2d-716-1.html
+
+52870
+Canter v. Koehring Company
+Court: Louisiana Supreme Court
+Release date: 1973-09-24
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1973/283-so-2d-716-1.html
+
+283 So. 2d 716 (1973)
+
+Mrs. Evelyn CANTER, Individually and as Tutrix, etc., et al., Plaintiffs-Appellees-Relators,
+v.
+KOEHRING COMPANY et al., Defendants-Appellants-Respondents.
+
+No. 52870.
+
+Supreme Court of Louisiana.
+
+September 24, 1973.
+
+Rehearing Denied October 26, 1973.
+
+*718 William B. Baggett, Baggett & Hawsey, McClain & Morgan, Lake Charles, for plaintiffs-appellees-relators.
+
+Edmund E. Woodley, Holt & Woodley, Lake Charles, for defendants-appellants-respondents.
+
+TATE, Justice.
+
+This is a wrongful death action. The court of appeal, one judge dissenting, reversed a judgment in favor of the plaintiff widow and children and against certain corporate employees and their insurer. 267 So. 2d 270 (La.App. 3d Cir. 1972). We granted certiorari, 263 La. 233, 267 So. 2d 726 (1972), primarily to resolve a conflict between the circuits and to speak authoritatively on the following issue:
+
+When and under what circumstances is the officer, agent, or employee of an employer or principal liable to a third person (including a co-employee), when injuries caused to such third person result from the breach of a duty imposed by his employer or principal upon the officer, agent or employee?
+
+In essence, the conflict between the circuits is:
+
+(a) When a duty is imposed on an officer, agent, or employee solely by reason   of the employment or agency relationship, is this duty owed exclusively to the principal-employer; so that a third person has no cause of action in tort against the officer, agent or employee individually, even if the latter's breach in the performance of the duty causes reasonably foreseeable harm to the third person? Maxey v. Aetna Casualty & Surety Co., 255 So. 2d 120 (La. App. 3d Cir. 1971), and its progeny in the Second and Third Circuits.
+
+Or, instead, (b) may such breach of the employment-agency duty give rise to a cause of action against such individuals by a third person injured as a result of the breach? Adams v. Fidelity & Casualty Co. of New York, 107 So. 2d 496 (La.App. 1st Cir. 1958) and its progeny in the First, Third, and Fourth Circuits, including Johnson v. Schneider, 271 So. 2d 579 (La.App. 1st Cir. 1972).
+
+We shall resolve this conflict between the circuits before addressing ourselves to the facts of the present case.
+
+The conflicts between the circuits arose in the following jurisprudential context:
+
+The early decision of Delaney v. A. Rochereau & Co., 34 La.Ann. 1123 (1882) held that, where a third person is injured due to an agent's breach of a duty owed to his principal, the agent could not be held individually liable in tort when such breach was "non-feasance", i. e., not doing something he should have done or "mere neglect in the performance of duty" (p. 1128). The agent could be held individually liable only when the breach constituted doing something he should not have done, i. e., a malfeasance or a misfeasance.
+
+Louisiana's great tort scholars have criticized Delaney as artificially and unrealistically basing liability of the agent to the injured person upon whether his negligence was an affirmative commission, as contrasted with an omission to do what he ought to have done. Seavy[1], Liability of an Agent in Tort, 1 So.L.Q. (Tul.L. Rev.) 16 (1916); Malone, 26 La.L.Rev. 526-527 (1966). As Seavey corrected noted, after reviewing the jurisprudence, "Wherever the courts have protected interests against neglectful acts, the liability of the agent should depend upon whether he saw or should have foreseen that by his negligent failure to perform his duties he would cause the general kind of damage which in fact followed his fault, to the class of persons of whom the plaintiff was one." 1 So.L.Q. (Tul.L.Rev.) 43-44.
+
+Although lip-service was sometimes paid the Delaney dichotomy of omission-commission as the basis of the agent's liability or not[2], the jurisprudence of recent decades with virtual unanimity has implicitly or explicitly abandoned it, and is in accord with the majority American view as enunciated above by Seavey. Malone, 26 La. L.Rev. 526-27 (1966); Cummings, Adams Revisited 20 La.Bar J. 139 (1972); 33 La. L.Rev. 325 (1973); Comment, 19 Loyola L. Rev. 473 (1973); Note, 46 Tul.L.Rev. 352 (1971). See the excellent summary in Johnson v. Schneider, 271 So. 2d 579 (La. App. 1st Cir. 1972).
+
+Perhaps the fullest discussion of the intervening jurisprudence and the most explicit rejection of the omission-commission dichotomy are set forth in Adams v. Fidelity and Casualty Co. of New York, 107 So. 2d 496 (La.App. 1st Cir. 1958), certiorari   denied, with the late and distinguished Judge Robert Ellis as organ of the court.[3]
+
+There the court held that corporate officers and supervisors could be held individually liable for the death of a co-employee caused by their personal fault in failing to correct a dangerous condition of the work-premises personally known to them and within the ambit of their work responsibilities.[4]
+
+In doing so, the court correctly held that "an injury suffered by a third party which is due to the breach of a legal obligation which the corporate officer or officers owed to a third party, whether it also involved the breach of a duty due to the corporation, would give rise to a cause of action against the corporate officers for the breach of such legal obligation. It would matter not whether the breach of a legal obligation due and owing by a corporate officer to a third party (which would include a co-employee) was the result of misfeasance, malfeasance or nonfeasance." 107 So. 2d 501-502.
+
+As Professor Malone noted, in commenting favorably upon the Adams decision, it incorporates the principle enunciated by Article 354 of the Restatement of Agency Second[5]: the agent or employee has a duty of care towards third persons, whenever his failure to act in accordance with his agency or employment duty would serve to deprive the third person of a protection owed him by the principal or employer. 26 La. L.Rev. 526. This court inferentially, if not explicitly, applied this principle in Day v. National U. S. Radiator Corp., 241 La. 288,
+128 So. 2d 660
+(1961). There, architects were sought to be held liable for the death of a construction employee due to a boiler explosion in the course of a construction project. Other workmen on the job had installed the boiler without a safety valve, the lack of which caused its subsequent explosion.
+
+This court noted that the architects would have been liable if there had been defective specifications for the boiler, or negligent inspection and approval by them of the installation without the safety valve, or actual personal failure to observe the lack of a proper safety device on the boiler. 128 So. 2d 666. We noted that, under such circumstances, "we should not hesitate to say they [the architects] breached a duty [i. e., to the construction employee who was killed, as well as to their employer-principal] and that they reasonably should have foreseen that this breach would cause damage." 128 So. 2d 666.
+
+However, the architects were exculpated under our factual finding that the principal-employer had not delegated to the architects any duty to supervise the installation of the boiler during the performance of the construction contract. We further, factually, found no personal fault of the architects by way of misleading or insufficient instruction as to specifications for installation of the boiler.
+
+*721 Likewise, in Eschmann v. Moyer, 258 La. 818, 220 So. 2d 86 (1969), we accepted without discussion that a corporate officer could be held individually liable to a third person (a co-employee) injured through a premise defect. We, however, absolved the corporate officer from liability upon our finding that he had properly discharged his own corporate duties with regard to maintaining safe premises and was not guilty of any personal negligence which contributed to the injury.
+
+It is in this jurisprudential context that the conflict between the circuits arose which we are to resolve. Most of the decisions concern situations where the employer's duty to furnish a safe place to work, La.R.S. 23:13, is alleged to have been breached, and an employee seeks to hold individually liable for damages thereby sustained some corporate officer, agent, supervisor, or co-employee alleged to be at fault. The generic issue is the same, however, as to the breach of any duty imposed by the employer upon its officer, agent, or employee:
+
+Under what circumstances is the latter individually liable to a third person damaged solely by reason of the individual's breach of the employment-imposed duty?
+
+Adams and its progeny have established the following criteria for imposing individual liability, which are generally applied by the First and Fourth Circuits and by some panels of the Second and Third:
+
+1. The principal or employer owes a duty of care to the third person (which in this sense includes a co-employee), breach of which has caused the damage for which recovery is sought.
+
+2. This duty is delegated by the principal or employer to the defendant.
+
+3. The defendant officer, agent, or employee has breached this duty through personal (as contrasted with technical or vicarious) fault. The breach occurs when the defendant has failed to discharge the obligation with the degree of care required by ordinary prudence under the same or similar circumstanceswhether such failure be due to malfeasance, misfeasance, or nonfeasance, including when the failure results from not acting upon actual knowledge of the risk to others as well as from a lack of ordinary care in discovering and avoiding such risk of harm which has resulted from the breach of the duty.
+
+4. With regard to the personal (as contrasted with technical or vicarious) fault, personal liability cannot be imposed upon the officer, agent, or employee simply because of his general administrative responsibility for performance of some function of the employment. He must have a personal duty towards the injured plaintiff, breach of which specifically has caused the plaintiff's damages. If the defendant's general responsibility has been delegated with due care to some responsible subordinate or subordinates, he is not himself personally at fault and liable for the negligent performance of this responsibility unless he personally knows or personally should know of its non-performance or mal-performance and has nevertheless failed to cure the risk of harm.[6]
+
+See: Harris v. Patent Scaffolding Co., 277 So. 2d 483 (La.App. 1st Cir. 1973), cert. den., 281 So. 2d 736 (1973); Johnson v. Schneider, 271 So. 2d 579 (La.App. 1st Cir. 1972); Spillers v. Northern Assurance Co. of America, 254 So. 2d 125 (La.App. 3d Cir. 1971), cert. den., 260 La. 288, 255 So. 2d 772 (1971); Chabina v. Travelers Ins. Co., 251   So. 2d 414 (La.App. 1st Cir. 1971), cert. den., 259 La. 902, 253 So. 2d 223 (1971); Chaney v. Brupbacher, 242 So. 2d 627 (La. App. 4th Cir. 1970); Berry v. Aetna Casualty & Surety Co., 240 So. 2d 243 (La.App. 2d Cir. 1970), cert. den., 256 La. 914, 240 So. 2d 374 (1970); Adams v. Fidelity & Casualty Co. of New York, 107 So. 2d 496 (La.App. 1st Cir. 1958); Washington v. T. Smith & Son, 68 So. 2d 337 (La.App. Or.1953).[7]
+
+We specifically approve the rationale of these decisions. We think they are in accord with the basic principles of tort law and of our jurisprudence.
+
+We disapprove the conflicting Maxey line of decisions, insofar as they appear to hold that the duties imposed under an employment or agency relationship are exclusively owed to the employer or principal and are irrelevant in determining whether a legal duty is owed to a third person by the officer, agent, or employee. These decisions include: Shelton v. Planet Insurance Co., 280 So. 2d 380 (La.App. 2d Cir. 1973), cert. den., 281 So. 2d 758 (1973); Sanders v. Nugent Steel & Supply Co., Inc., 273 So. 2d 889 (La.App. 1st Cir. 1973); LeJeune v. Liberty Mutual Ins. Co., 261 So. 2d 280 (La.App. 3d Cir. 1972); Dulaney v. Fruge, 257 So. 2d 827 (La.App. 3d Cir. 1972), cert. den., 261 La. 482,
+259 So. 2d 921
+(1972); Maxey v. Aetna Casualty & Surety Co., 255 So. 2d 120 (La.App. 3d Cir. 1971), cert. den., 260 La. 123, 255 So. 2d 351 (1971).[8]
+
+The decisions may have reached the correct results under the particular facts. In general, however, they express agreement with the erroneous principle enunciated in Maxey v. Aetna Casualty & Surety Co., 255 So. 2d 120 (La.App. 3d Cir. 1971) that:
+
+"... an officer or director of a corporation owes a duty to the corporation which is separate and independent of any duty which he may owe to an employee or to a third person... The breach of a legal duty which a corporate officer owes exclusively to the corporation ... is of no concern to a third person and does not give rise to any cause of action in tort by the latter against the corporate officer individually... The only duty which an executive officer of a corporation owes to a third person, whether he be an employee of the corporation or a complete stranger, is the same duty to exercise due care not to injure him which any person owes to another." 255 So. 2d 122.
+
+To the contrary, as noted in part I above, the duty may be imposed upon the defendant solely because of the employment or agency relationship, but its breach may nevertheless make him individually liable for harm thereby sustained by a third person (including a co-employee):
+
+The failure to act as required by the employment duty may deprive the third person of a protection owed him by the principal or employer, and such risk of harm because of the breach may have been reasonably foreseeable. Thus, the breach of the duty imposed by the employment or agency relationship may, under general tort principles, be actionable negligence because of the creation or maintenance thereby of an undue risk of harm to others. Smolinski v. Taulli,
+276 So. 2d 286
+(La.Sup.Ct.1973);   Hill v. Lundin & Associates, Inc., 260 La. 542,
+256 So. 2d 620
+(1972); Pierre v. Allstate Insurance Co., 257 La. 471,
+242 So. 2d 821
+(1971); Turner v. Caddo Parish School Board, 252 La. 810,
+214 So. 2d 153
+(1968). See also Restatement of Torts, Second, Sections 282, 284, 343 (1965).
+
+We therefore expressly adopt the reasoning of Adams and its progeny and expressly disapprove, to the extent noted, the Maxey line of decisions.
+
+Turning now to the facts of the present litigation, they show:
+
+Jesse Canter was killed at work. A link on the boom of a large lifting crane broke while lifting a heavy tower, causing the boom to collapse and strike Canter. His widow and children sue in tort for his wrongful death.
+
+At the time of the accident Canter was employed on a construction contract. His employer, the Industrial Construction Company, had contracted with the Pittsburgh Plate Glass Company to build a chemical plant.
+
+Generally, Industrial had agreed to provide all labor and equipment necessary, and Pittsburgh had agreed to furnish the materials, in particular the four "vessels" or towers to be erected together with catwalks and other appurtenances to be affixed to them. Further, Pittsburgh had agreed to furnish all engineering services, specifications, and instructions "necessary for the proper execution of the work."
+
+The pendent arm link broke and the crane collapsed because it was overloaded. At the time, the crane was lifting one end of a long (108') "vessel" or chemical still. The vessel as manufactured weighed 92,500 pounds, a little over 46 tons. However, about seven tons (14,000 pounds) of appurtenances (insulation, ladders, piping, catwalks, etc.) had been affixed to it.
+
+Although the defendants dispute this, the evidence substantially supports the finding that the crane would not have been overloaded nor have collapsed had the vessel weighed only 46 tons.[9] The additional seven tons thus caused the pendent arm link to break and the boom of the crane to collapse.
+
+The claim of Canter's widow and children was tried against five individual defendants, all engineers employed by Pittsburgh, and their insurer. (The claims against other defendants had been dismissed or compromised.) The trial jury awarded judgment in the total sum of $234,000 against four of these individuals and their insurer.
+
+The evidence reflects without substantial dispute that Pittsburgh had delegated to these engineers whatever responsibilities it had for furnishing engineering specifications, services, and instructions under its contract with Industrial. The threshold issue, and one decided against the plaintiffs by the court of appeal in its reversal of the trial court, is whether Pittsburgh had the duty of furnishing the correct weight of the vessel-plus-appurtenances to be lifted, in the absence of a request from Industrial for such information.
+
+In a lifting job of this extraordinary magnitude, the choice of cranes and of methods of utilizing them necessarily had to be made in the light of whether the vessel-plus-appurtenances approached the maximum lifting capacity of the cranes involved. To cause or to contribute to an overload which resulted in a collapse of the crane is a substantial factor and a legal cause of injuries resulting from such collapse by reason of a breach of any duty to   avoid overloading the crane and constitutes actionable negligence. See, e. g., Larned v. Wallace, 146 So. 2d 434 (La.App. 3d Cir. 1962), cert. den.
+
+In determining the threshold issue adversely to the plaintiffs, the majority of the intermediate court relied upon testimony from McGraw and Frenzel, Industrial's vice-president and its job superintendent, and of a Pittsburgh engineer, as well as upon its finding that Pittsburgh's engineers had no supervisory control over the lifting operation.
+
+However, as the dissenting opinion in the court of appeal points out, there is substantial factual evidence in the record upon which the trial jury could reasonably base a finding that correct information as to the weight of the extraordinarily large object to be lifted was included within the specifications, instructions, and engineering services which the engineers (as delegated by Pittsburgh, their employer) were obligated to furnish Industrial. For reasons to be detailed, we agree with the dissenting judge in his appreciation of the facts.
+
+Preliminarily, however, we address ourselves to an error of appellate review of fact exhibited by the majority opinion:
+
+When there is evidence before the trier of fact which, upon its reasonable evaluation of credibility, furnishes a reasonable factual basis for the trial court's finding, on review the appellate court should not disturb this factual finding in the absence of manifest error. Stated another way, the reviewing court must give great weight to factual conclusions of the trier of fact; where there is conflict in the testimony, reasonable evaluations of credibility and reasonable inferences of fact should not be disturbed upon review, even though the appellate court may feel that its own evaluations and inferences are as reasonable. The reason for this well-settled principle of review is based not only upon the trial court's better capacity to evaluate live witnesses (as compared with the appellate court's access only to a cold record), but also upon the proper allocation of trial and appellate functions between the respective courts.
+
+See: Andrews v. Williams,
+281 So. 2d 120
+(La.Sup.Ct.1973); Town of Slidell v. Temple, 246 La. 137,
+164 So. 2d 276
+(1964); Schlesinger v. Fontenot, 235 La. 47,
+102 So. 2d 488
+(1958); Holmes Co. v. Foret, 229 La. 360,
+86 So. 2d 66
+(1956); Rosenthal v. Gauthier, 224 La. 341,
+69 So. 2d 367
+(1953); Rhodes v. Sinclair, 195 La. 842, 197 So. 575 (1940); and many other decisions cited at West's Louisiana Digest "Appeal and Error", Nos. 1008 and 1011. See also: Robertson, Appellate Review of Facts in Louisiana, 21 La.L.Rev. 402 (1961).
+
+Our review of the record convinces us that our intermediate brethren erred in failing to apply in the instant case this principle of appellate review of facts.
+
+With regard to the threshold issue, the duty (if any) of Pittsburgh (delegated to the defendant engineers) to furnish information as to the correct weight of the heavy vessel to be moved, the facts show:
+
+Under the contract, Pittsburgh was obligated to furnish Industrial the drawings and specifications "and such detailed drawings and instructions ... necessary for the proper execution of the work." Tr. 212. See also Tr. 213. Pittsburgh's engineering department, in particular, was obligated to furnish this information. Tr. 235-37.
+
+Pittsburgh was to act by and through its construction engineer in its relationship to the contractor. Tr. 214. This company employee was responsible for approving Industrial's work schedule and co-ordinating it with other construction activities, Tr. 237-38, as well as for co-operating with Industrial in the scheduling of special construction machinery (such as cranes) to obtain   the maximum utilization thereof, Tr. 222. Pittsburgh was also to maintain field engineers to work with Industrial under the supervision of the construction engineer. Tr. 245.
+
+The duties of the construction and field engineers included furnishing the drawings and specifications to the contractor, assuring compliance with these documents in the performance of the job, seeing that all safety rules are enforced, and assuring thorough discussion of the planning of the work. Tr. 245-47. Pittsburgh also entered into an obligation that its field engineers "have authority to carry out their responsibilities and are instructed in methods to be used when decisions must be made quickly." Tr. 248.
+
+There is no express contractual agreement that Pittsburgh furnish the correct weight of the 46-ton-plus vessel which was to be lifted and erected as a major portion of the construction contract. The court of appeal majority relied upon the testimony of two Industrial officials and of some of the defendant engineers that such weight was not customarily furnished, at least in the absence of request.
+
+In evaluating the testimony of these hostile witnesses, we must take into consideration the testimony as a whole, as well as certain admissions made, as undoubtedly did the trier of fact.
+
+The evidence as a whole shows that Industrial was not equipped to, and did not in fact, perform any engineering services in connection with its performance of the contract. See, e. g., Tr. 624-25, testimony of Industrial's vice-president. In fact, under the contract Pittsburgh was obligated to furnish all engineering services.
+
+Pittsburgh's superintendent of engineering, a defendant, acknowledged that it is an engineering function to furnish the contractor the weight of the equipment. Tr. 866-68. He frankly admitted that "we would normally furnish it because it's on the certified print". Tr. 867. (Here, as will be noted, the weight on the specifications shows 92,500 pounds, the empty weight of the vessel, instead of the 106,000 pounds, the actual weight after the appurtenances were added before lifting.)
+
+This witness also testified that, if Pittsburgh itself were doing the lifting, the duty of the engineering department would be to give the lifting crew the weight of the vessel and the print of the vessel showing same, as well as to discuss the method and equipment with which it was to be moved. Tr. 859-60.
+
+Likewise, Pittsburgh's plant construction engineer admitted that calculating weight was an engineering function. Tr. 1204. He also conceded that contractors rely upon the weight shown on the equipment list and drawings furnished by Pittsburgh in planning their lifting operations. Tr. 1204.
+
+An engineer for the crane manufacturer testified in a deposition which was introduced by the defendants. He noted that, any time the 50-ton crane was being used to lift a vessel between 90,000 and 100,000 pounds, engineering calculations should be made to determine the weight load. This is because such a lift is so close to the maximum capability of the crane. Tr. 581-82.
+
+Industrial's vice-president testified: The 92,500 pound figure shown on the equipment list was the only weight for the vessel furnished Industrial by Pittsburgh, Tr. 639-40; only Pittsburgh could furnish weights, Tr. 642-43; Pittsburgh's engineers never objected to the size of the crane,[10] Tr. 644.
+
+Most pertinently, Pittsburgh did furnish the weight of the vessel to Industrial, but it was incorrect because it did not include the seven tons (14,000 pounds) added by the appurtenances. The weight of the vessel shown by the equipment list was 92,500   pounds. P-6, Tr. 504. No attempt was made to calculate the correct weight of vessel-plus-appurtenances until after the accident, Tr. 1027-28, even though Pittsburgh's engineers testified that they were aware that the only weight furnished Industrial was 92,500 pounds, that extra weight had been added by the appurtenances, and that contractors rely upon the weight furnished them by the owner in a construction contract. Tr. 923, 940-41, 1040, 1138, 1201.
+
+Despite denials (which the trial jury might well disbelieve), the evidence in our opinion preponderately proves: Among the specifications and additional instructions, Pittsburgh was obligated to furnish the correct weight of the vessel to be lifted; an obvious reason for this was to permit the contractor to obtain and utilize lifting cranes of sufficient capacity to accomplish movement without danger to life and property; Pittsburgh furnished the contractor Industrial a weight of only 92,500 pounds, whereas to Pittsburgh's knowledge substantial additional weight had been added; Pittsburgh never calculated this weight, despite its importance to the lifting operation.
+
+Although the issue is closer, the evidence also supports the finding that the crane collapsed because the lifted vessel weighed 53 tons (106,000 pounds), and that it would not have collapsed had the weight been only 46 tons (92,500 pounds). See footnote 9 above.
+
+Some after-the-fact testimony is to the effect that Industrial's job superintendent knew that extra weight had been added, as did the engineers, but nevertheless proceeded because of an eyeball estimate that it was safe to do so. However, Frenzel, the job superintendent, himself admitted that if he had known the vessel with appurtenances had weighed 106,000 pounds he would have stopped and verified the lifting capacity more closely. Tr. 757-58. He in fact thought the equipment weighed 92,500 pounds, Tr. 710-711, based on the prints furnished by Pittsburgh, Tr. 718.
+
+The standard of care due by the job superintendent and by the Pittsburgh engineers must be viewed in its factual context. They were involved in a lifting operation of unusual magnitude. The particular crane employed was, at best, operating near capacity. Frenzel and the construction engineers were all aware of these facts, as well as of the importance of generally accurate weight estimate in utilizing the crane involved.
+
+Despite this, the engineers and Frenzel proceeded on the basis of the 92,500 pound weight shown by the equipment list, even though they knew some weight had been added by the appurtenancesseven tons' worth, it turned out, or more than the crane involved could safely lift.
+
+To the five engineer defendants had been delegated Pittsburgh's engineering responsibility to furnish adequate weight information for the lift to be accomplished safely. The trial jury correctly found four of them guilty of personal negligence contributing to the accident in view of the following actions by them with knowledge that only the 92,500 pound weight had been furnished to Industrial:
+
+Baker, the superintendent of engineering, because he personally ordered the vessel lifted into position immediately upon finding the project was behind schedule, thus depriving those involved of an opportunity to use a shorter boom and for more reflection as to the move; Smith, the construction engineer, because he attended a conference with the Industrial field supervisor an hour before the fatal lift and, although aware of the equipment and of the weight information, permitted it to go ahead, despite his responsibility to insure the safety of the lift; Sachs, a project or field engineer, because he violated his duty to furnish the correct weight to Industrial in supplying the 92,500 pound weight, although he knew of the greater weight and in fact had access to an earlier Pittsburgh estimate made for the purpose of designing the foundation upon which the vessel was to be   placed; and Stacy, the field engineer assigned to this particular job, because he violated his responsibility of having the correct weight information determined, since he should have known additional weight to that shown by the equipment list had been added; and also because, although at the scene of the accident, he permitted the lifting to go ahead upon his incorrect assumption that such was the weight of the vessel-with-appurtenances.
+
+On the other hand, the trial jury correctly absolved Spalding, Pittsburgh's plant construction engineer, of personal negligence contributing to the accident. Spalding, who had general supervision over the 12-15 contractors at the plant, is not shown to have had day to day knowledge of the operators of Industrial. Unlike Baker, his superior, who contributed to the accident by his forceful expedition of the lifting operation, Spalding is shown to have committed no affirmative act contributing to the accident. There is no showing, for instance, that Spalding delegated his responsibility to an incompetent subordinate, so as to share personal fault for the subordinate's act, nor that he should by the exercise of reasonable care have known of the breach of duty by the subordinate Pittsburgh engineers and had nevertheless failed to act within a reasonable time under the circumstances.
+
+We thus find no error in the trial jury's holding individually liable the four engineers and their insurer, and in its exculpating the fifth under the circumstances. We further find no abuse of discretion in its award of $234,000 damages to the widow and eight children of Canter. Civil Code Article 1934(3); Miller v. Thomas, 258 La. 285,
+246 So. 2d 16
+(1971).
+
+In our discussion thus far we have treated all of the plaintiffs' assignments of errors except number five, which states:
+
+Frenzel had been made a defendant, along with his alleged liability insurer, in plaintiffs' second supplemental and amended petition. Shortly before trial, plaintiffs reached a compromise settlement with Frenzel and his alleged liability insurer. They released these defendants, who were then dismissed from the suit.
+
+The trial judge was then faced with the alternatives of letting the issue of Frenzel's negligence go to the jury, with the possibility of prejudice to one or both parties should the jury learn of the compromise, Broussard v. State Farm Mut. Auto. Ins. Co., 188 So. 2d 111 (La.App. 3d Cir. 1966), or of deciding the issue of Frenzel's negligence himself, on the basis of the evidence introduced at the jury trial, striking all reference to Frenzel from the pleadings.
+
+The able trial judge chose the latter course and so informed all counsel.
+
+We find no error in this sensible procedure adopted by the trial judge. We further find supported by the evidence his finding that Frenzel was a joint tortfeasor and thus solidarily obligated with the four defendants. Frenzel failed in his duty, as delegated by his employer Industrial, to exercise due care in his supervision over the lift. We find that he was under such notice as to the possible inaccuracy of the weight furnished as to have required him in ordinary prudence to have checked further before undertaking a lift of the magnitude involved.
+
+Thus, Frenzel was one of the five joint tortfeasors solidarily obligated to the plaintiffs. The release of the claim against him had the effect of reducing by one-fifth the amount recoverable against the others. The release of one joint tortfeasor reduces the amount recoverable against any remaining joint tortfeasors to the extent of   the part or virile portion of the one released. Civil Code Articles 2100, 2103; Harvey v. Travelers Insurance Co., 163 So. 2d 915 (La.App. 3d Cir. 1964) and the succeeding jurisprudence.
+
+The trial judge correctly reduced by one-fifth the liability of each of four individual defendants cast as joint tortfeasors.
+
+Before concluding, we should note that we find no abuse of discretion in the trial court in its refusal to permit an amendment during trial of the judicial admission in the defendant's answer that the weight of the vessel with appurtenances added to it was 106,000 pounds. See dissenting opinion in the court of appeal. (The defendant wanted to amend to allege that the weight was 100,000 pounds still four tons in excess of the weight furnished by Pittsburgh to Industrial.)
+
+We further find no error in the trial jury's rejection of the contention that the decedent Canter was contributorily negligent. He was a rigger foreman entrusted with supervising the lift. Although the operation in question was extraordinary, Canter was entitled to rely on the engineering expertise of those in charge that they would not order him to perform the work if the cranes were of insufficient capacity to perform the job. He was not contributorily negligent in failing to anticipate that his employer and the engineering supervisors would subject him to an unreasonable risk of injury, as they did. See, e. g., Allien v. Louisiana Power & Light Co., 202 So. 2d 704 (La.App. 3d Cir. 1967), cert. den., 251 La. 392,
+204 So. 2d 574
+(1967).
+
+For the foregoing reasons, we reverse the judgment of the court of appeal and reinstate and affirm the judgment of the district court.
+
+Court of Appeal judgment reversed; District Court judgment reinstated and affirmed.
+
+SUMMERS, J., dissents and assigns reasons.
+
+SUMMERS, Justice (dissenting).
+
+While the courts of appeal of this state have held that a fellow employee is a "third person", and as such amenable to suit in tort by a coemployee he has negligently injured, this Court has never expressly approved these decisions until today. Seemingly there has been a studied effort to avoid a commitment on this issue until now. Previously the Court entertained grave doubts on the question. As presently constituted, however, the Court apparently has no doubts; I do, and I feel impelled to express these doubts in the hope that the matter will address itself to legislative consideration. The vague and indefinite formula the majority attempts to articulate for the solution of these suits against coemployees can only lead to confusion and harsh injustices to coemployees in the future. The diverse attempts made to bring about a just solution by the courts of appeal illustrates the dilemma the courts have found themselves in in the past. The future in this field must remain uncertain with the consequent disrupting influence uncertainty fosters unless there is clarifying legislation. Pflieger v. Haws, My comments when certiorari was denied. 248 La. 908, 182 So. 2d 661 (1966).
+
+Rights and remedies of an employee or his dependents on account of personal injury for which he is entitled to compensation under Louisiana's Workmen's Compensation Act (La.R.S. 23:1021-1351) are stated in Section 1032 to be "exclusive of all other rights and remedies of such employee, his personal representatives, dependents or relations."
+
+Rights of an employee to sue under the tort law for personal injuries incurred while in the employ of an employer responsible for those injuries under the Workmen's Compensation Act are set forth in Section 1101, as follows:
+
+The section further provides that any employer paying compensation may bring an independent suit against the third person tort feasor to recover any amount paid to an injured employee. And when recovery is had by either employer or employee the damages recovered shall be apportioned to first reimburse the employer for compensation paid; the overplus, if any, to be paid to the employee. La.R.S. 23:1103.
+
+Clearly, the answer to the question whether an injured employee can sue a coemployee depends upon the meaning of "third persons" as used in the quoted Section 1101 of the Act.
+
+Kimbro v. Holliday, 154 So. 369 (La.App. 1934), is the court of appeal opinion which first held a coemployee to be a "third person" under Section 1101 and as such amenable to suit in tort. See also Vidrine v. Soileau, 38 So. 2d 77 (La.App.1948). The decision rests upon the theory that the compensation act immunizes the employer from suit in tort for injuries incurred by his employee because of the negligence of a coemployee, making the employer liable for compensation instead. A coemployee, however, under the theory of the Kimbro Case, though not liable for compensation, is subject to tort liability under Article 2315. And, since there is no contractual relation between coemployees altering their rights under general tort laws, as is the case with the employer-employee relation under the Compensation Act, La.R.S. 23:1039, there is no reason for exempting one employee from tort liability for injuries caused to another employee. In addition, the Court of Appeal was of the opinion that to immunize a coemployee from a suit for damages for his negligent acts would remove the restraint personal responsibility imposes upon the actions of employees. See also Vidrine v. Soileau, 38 So. 2d 77 (La.App.1948), and Lee v. Griffith, 140 So. 142 (La.App.1932).
+
+Actually, no court in this state has ever carefully analyzed the Act and the right of an injured employee to sue in tort a coemployee whose negligence contributed to his injury.
+
+In my view both the results reached and the reasons assigned in the Kimbro Case are erroneous. Policy considerations underlying the Compensation Act convince me that the legislature did not contemplate or intend the result reached there. The Act does not expressly state whether employees may or may not be sued in tort by their coemployees injured by their negligence. It is appropriate, therefore, to consider the reason and spirit prompting the law's enactment in our search for its true meaning. La.Civil Code art. 18.
+
+It is necessary in considering this problem to accept as a fact that the injured employee, his employer, and all of the defendant coemployees were subject to the Compensation Act at the time of the negligent injury or death. La.R.S. 23:1039. It is necessary, also, that decedent and defendants be considered as coemployees of the same employer. Malone, Workmen's Compensation Law and Practice § 366 (1951); 2 Larson's Workmen's Compensation Law § 72.10. Thus, it follows under general principles that the employer is answerable for the damage occasioned by its employees in the exercise of the functions in which they are employed. La.Civil Code art. 2320. This being so, the negligence of all employee defendants is chargeable to their   employer, who was also the employer of the decedent. The alleged negligence of the defendant employees, therefore, did create a legal liability against their employer. This being so, no "circumstances creating in some person . . . other than the employer a legal liability" are present here. And, since these particular circumstances do create a legal liability in the employer, no liability is created in persons "other than the employer." The conditions required to constitute coemployees as "third persons" under Section 1101 do not therefore exist.
+
+Because of the benefits and limitations imposed by compensation laws on industrial accidents, the recourse allowed to employees coming under its provisions are exclusive. Thus the clause "some person other than" refers to a third party not coming within the contemplation or coverage of the Act, a person whose negligence was wholly disconnected with the injured employee's employer that is, the right to sue in tort does not apply to coemployees working under the same employer. Miller v. Scott,
+339 S.W.2d 941
+(Ky.1960).
+
+By adopting an interpretation permitting an employee to bring a tort suit against a coemployee, and by casting the coemployee in damages, we are now bound to hold that an employer or his compensation insurer who has paid workmen's compensation benefits to the injured employee or his dependents in the event of his death can, under the subrogation provisions of Section 1101, recover from the coemployee who has been cast in damages all sums paid. Majors v. Moneymaker, 196 Tenn. 698,
+270 S.W.2d 328
+(1954); cf. McEvilly v. L. E. Meyers Co., 211 Ky. 31, 276 S.W. 1068 (1925).
+
+One purpose of the Compensation Act was to sweep within its provisions all claims for compensation flowing from personal injuries arising out of and in the course of employment by a common employer, and not to preserve for the benefit of the employer, his insurer, or employees injured by other employees, liabilities between those engaged in the common employment which but for the Act would exist under the general tort law. Bresnahan v. Barre, 286 Mass. 593, 190 N.E. 815 (1934); Connolly v. Miron, 353 Mass. 654,
+233 N.E.2d 753
+(1968); Murphy v. Miettinen, 317 Mass. 633, 59 N.E.2d 252 (1945).
+
+The broad purpose of Louisiana's Compensation Act, like workmen's compensation acts generally, rests upon the sound economic principle that those persons who enjoy the product of a business whether it be in the form of goods or services should ultimately bear the cost of the injuries or death incident to the manufacture, preparation and distribution of the product. Under this system, the loss incurred as a result of the employee's injury is charged to the industry rather than the individual employer, and in turn liquidated in steps ending in consumption. The burden is thereby shifted to the consumer, the public generally. Puchner v. Employers Liability Assurance Corporation, 198 La. 921, 5 So. 2d 288 (1941); Dyer v. Rapides Lumber Co., 154 La. 1091, 98 So. 677 (1924); Kroncke v. Caddo Parish School Board, 183 So. 86 (La.App. 1938); Malone, Louisiana Workmen's Compensation Law and Practice, § 32 (1951).
+
+These policies demonstrate that Louisiana's Workmen's Compensation Act has its foundation in enterprise liability for injury to its employees, paid directly by the employer in the first instance and ultimately passed on to the public in the price of its product. To permit an injured employee to collect compensation for injury from his employer under the Act and additionally sue a negligent coemployee of the same enterprise for the same injury, with the employer recouping his compensation payments, destroys the purpose and structure of the entire act by diverting the cost of the industrial injury from the consuming public to the coemployee a result I cannot agree that the legislature intended. Madison v. Pierce,
+478 P.2d 860
+(Mont. 1970). See also Baird v. Remoir,
+480 P.2d 186
+(Mont. 1971).
+
+*731 It is not reasonable to conclude that the legislature intended to permit the ultimate costs of employee injury to be borne by fellow employees, whether negligent or not. It would be a said spectacle, indeed, for a workman to find his home taken and his future earnings subjected to payment of a judgment in such a suit. Madison v. Pierce, ibid. The point is dramatically articulated by Malone:
+
+Another impelling reason behind the enactment of compensation laws is the high incidence of accidents in the industrial setting. No doubt it was intended that all those coming within its provisions were to be immunized from suits by others embraced by the compensation act their exclusive remedies being provided by the Act itself. The Act is, in effect, a compromise the law has effectuated between employers, industry generally, employees of industry and the consuming public. Sacrifices are called for by all involved, the burden of the injured employee being dispersed among consumers in increased costs of the manufactured goods. The employer is denied the defenses formerly available against injured employees such as, assumption of risk, fellow servant doctrine, contributory negligence and Act of God. The employee recovers under the Act's scale by the mere fact of his injury on the job. On the other hand, the employee is deprived by the Act of his right to sue in tort with the unlimited quantum that approach provides. Atchison v. May, 201 La. 1003, 10 So. 2d 785 (1942); Mayer, Workmen's Compensation Law in Louisiana, p. 1 (1937).
+
+In the industrial setting, the range of the responsibilities of the executives, supervisors and others in the corporate hierarchy is so broad that it becomes virtually impossible to define the degree of his direct responsibility in injury causing circumstances that should fairly give rise to personal liability. Furthermore, the acts and omissions of more highly placed executives and officers performing the corporations functions are inseparably those of their employer. The exposure to which high officers or other employees of a large industrial complex will be subject by suits of injured coemployees will be greater than the exposure to which their employer is subject. The officers' responsibility for tort is based on actual damage under general tort law, whereas the compensation scale assures the employer of the limits of his responsibility an ascertainable factor of production costs.
+
+This situation, of course, makes it necessary for the corporate officers and other employees to require that liability insurance be provided for them by the employer, a substantial additional cost factor to be passed on to the consumer, not contemplated by the Act, destroying at the same time the theory of ascertainable responsibility implicit in the Compensation Act as a result of the employer being deprived of the defenses the law previously afforded. The purpose of the compromise the Act   brought about was to substitute an adjustment between industry, employer, employee and the consuming public the "hope of gaining, balanced by the danger of losing" being the essence of the Act or any compromise. La.Civil Code art. 3071. When, however, suit is permitted by coemployees the injured workman's "hope of gaining" is restored without affecting in any wise the advantage he received in the compromise of no longer being subject to the "danger of losing", again a situation the legislature did not intend.
+
+No person gaining employment in a large manufacturing complex expects to be bankrupted by tort suits in an organization where control is so diversified.
+
+Problems posed by permitting suits in tort between coemployees are now problems for future legislative solution expressly defining and clarifying the meaning of "third persons". These problems also make clear the error of the majority decision and the fact that the legislative intent and the policy underlying enactment of the Compensation Law cannot be carried out if coemployees are allowed to sue one another in tort. La.Civil Code art. 18.
+
+A liberal construction of the Act is mandated and has been consistently observed by this Court in order to accord the injured workman and his dependents the benefit of being brought within the Act. Here the construction adopted brings the injured coemployee within the Act but at the same time permits him to evade its limitations; a proper construction would accord the coemployee sued in tort the benefit of the "exclusive remedy" provision of the Act, denying suit in tort by a coemployee. The tragedy of an employee's death cannot be assuaged by bankrupting his coemployee. Spanja v. Thibodaux Boiler Works, 2 So. 2d 668 (La.App.1941).
+
+The command of the law for a liberal construction of the Act does not require us to reject the basic principles and policies underlying the Act, which, among other factors already mentioned, envisages that the employer will shoulder the full cost of the injury to his employees without reimbursement from coemployees. The coemployee sued in tort (a party to the enterprise the Act regulates) has a right to expect that this policy will be observed. Since the acts of the employee sued in tort are also the acts of his employer in determining the employer's responsibility, they are equally so in determining the responsibility of the employee. All employees are integral parts of the entire concept which seeks to shift the cost of industrial accidents to the consuming public, not to a negligent coemployee engaged in manufacturing or other hazardous activities in a complex industrial setting. The negligent coemployee is no stranger to the Act. He too requires its protection. Madison v. Pierce, supra.
+
+Article 2315 cannot stand against the Compensation Act in the context of this problem. Insofar as its provisions have been invoked by the majority in derogation of the policies and provisions of the Act, it should be considered to have been repealed by implication.
+
+Finally, the remaining basis for holding a coemployee to be a "third person" under Section 1101 is that to immunize him from responsibility for his negligence to a coemployee will remove the restraint to his actions the responsibility imposes. The postulation is unimpressive. Nothing supports that finding in the cases. It is speculative and conjectural and not a proper basis for adjudicating these important rights. It might just as well be said that the limitation the Compensation Act places upon the employer's responsibility leaves him free to neglect and endangers his employees.
+
+This holding of the Court, that an employee is not immune from suit by a coemployee who has been injured by his negligence in the course and scope of their employment, places Louisiana in the minority of American jurisdiction. A substantial majority of the states have, by judicial   interpretation or legislation, immunized employees from suit in tort by coemployees.
+
+I respectfully dissent.
+
+[1]  Warren A. Seavey was then a professor of law at Tulane University.
+
+[2]  See, e. g., Tyler v. Walt, 184 La. 659, 167 So. 182 (1936), where the observance is made by way of dicta, since the manager-agent was held liable for an "actual commission" of a wrong, and Wirth v. Albert, 174 La. 373, 141 So. 1, 4 (1932), where the apparent true basis of the holding is that the defendant officers and directors of a corporation were not guilty of any personal fault and thus could not be held individually liable to a third person damaged by corporate fault merely because of their ex officio responsibility to manage the affairs of the corporation.
+
+[3]  The decision also relies upon the perceptive analysis of the issue in Washington v. T. Smith & Sons, 68 So. 2d 337 (La.App.Orl. Cir. 1953), certiorari denied, with the distinguished Judge Richard McBride as organ of the court. This decision held the servant agent of a corporation liable, whether his breach was a commission or an omission.
+
+[4]  Colley, a superintendent, and Stoneman, the president and general manager were exculpated from liability, in the absence of any attempted showing of personal responsibility for the danger or for curing it or of actual knowledge of it.
+
+[5]  The article provides:
+
+"An agent who, by promise or otherwise, undertakes to act for his principal under such circumstances that some action is necessary for the protection of the person or tangible things of another, is subject to liability to the other for physical harm to him or to his things caused by the reliance of the principal or of the other upon his undertaking and his subsequent unexcused failure to act, if such failure creates an unreasonable risk of harm to him and the agent should so realize."
+
+[6]  Thus, in Eschmann v. Moyer, 258 La. 818, 220 So. 2d 86 (1969), we held that the corporate officer was not individually liable to an employee injured through an alleged premise defect upon our factual finding that there was "no personal negligence",
+220 So. 2d 94
+, on the officer's part because in fact no premise defect existed and because he had ordered reasonable maintenance and had checked to see these orders were carried out and had no personal, actual or constructive, knowledge of the alleged defect at the time of the accident.
+
+[7]  Of course, the officer, agent, or employee may also be liable for injury resulting from his fault independent of any obligation imposed upon him by virtue of his employment duties, even though the fault occurs during the course of his employment. See, e. g.: Tyler v. Walt, 184 La. 659, 167 So. 182 (1936); Vidrine v. Soileau, 38 So. 2d 77 (La.App. 1st Cir. 1948); Kimbro v. Holladay, 154 So. 369 (La.App. 2d Cir. 1934). The criteria cited in the opinion apply only where the sole basis of the duty breached is that it is imposed by virtue of the employment or agency relationship.
+
+[8]  Daigle v. Cobb, 175 So. 2d 392 (La.App. 4th Cir. 1965), cert. den., 248 La. 363, 178 So. 2d 655 (1965), is also disapproved insofar as it indicates that the officer, agent, or employee is not liable to a third person except for acts of malfeasance. However, the reasoning and result is otherwise in accord with the criteria indicated in the preceding paragraphs. See also 26 La.L.Rev. 527-28 (1966).
+
+[9]  See finding of trial judge in disposing of post-trial motion after review of evidence. Tr. 485. That the crane was loaded just over its 50-ton maximum capacity (or 24-ton capacity when its boom was extended to 90 feet as here) is evidence, for instance, by the circumstance that the crane had lifted and held the full load for approximately ten minutes before the link broke due to the overweight stress.
+
+[10]  Industrial and Pittsburgh held pre-job and pre-lifting conferences to discuss and plan the lifting operations and equipment to be used in them.

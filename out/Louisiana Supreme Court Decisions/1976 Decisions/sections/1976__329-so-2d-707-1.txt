@@ -1,0 +1,146 @@
+56598
+State Ex Rel. Miller v. Henderson
+https://law.justia.com/cases/louisiana/supreme-court/1976/329-so-2d-707-1.html
+
+56598
+State Ex Rel. Miller v. Henderson
+Court: Louisiana Supreme Court
+Release date: 1976-03-29
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/329-so-2d-707-1.html
+
+329 So. 2d 707 (1976)
+
+STATE of Louisiana ex rel. Robert J. MILLER, Relator,
+v.
+C. Murray HENDERSON, Warden, Louisiana State Penitentiary, Respondent.
+STATE of Louisiana, Appellee,
+v.
+Robert J. MILLER, Appellant.
+
+Nos. 56598, 57099.
+
+Supreme Court of Louisiana.
+
+March 29, 1976.
+
+*709 Wilson R. Ramshur, Willis & Ramshur, St. Francisville, for plaintiff-relator in No. 56598 and for defendant-appellant in No. 57099.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Leon A. Picou, Jr., Dist. Atty., Cynthia Picou Branton, Asst. Dist. Atty., for plaintiff-appellee in No. 57099 and for defendant-respondent in No. 56598.
+
+TATE, Justice.
+
+The defendant, an inmate at the state penitentiary, was charged with simple escape as defined by La.R.S. 14:110.2 (as enacted by Act 174 of 1969), which penalizes the intentional departure of a person while imprisoned at the penitentiary from the custody of any officer or employee of the institution. The jury returned a verdict of "Guilty of Attempted Escape." Accordingly, as authorized by the attempt statute, La.R.S. 14:27, subd. D(3), the district court sentenced the defendant to five years at hard labor, that being one-half of the maximum penalty provided for violation of the intended crime (i. e., the ten years provided for escape from the penitentiary, La.R.S. 14:110.2 (1969).)
+
+On defendant's appeal, he relies upon two assignments of error made to the trial court.
+
+Additionally, we granted supervisory writs, 318 So. 2d 45 (La.1975), in order to consider at the time of the appeal contentions made that the trial of the accused offended due process requirements of a fair trial and that the statute under which he was convicted is unconstitutional.
+
+The Appeal
+
+The two assignments argued are based upon the jury's verdict, "Guilty of Attempted Escape." Since the charge was escape from the penitentiary, La.R.S. 14:110.2, the defendant argues that "attempted escape" would be responsive to La.R.S. 14:110 (1970), simple escape, a different offense (with the lesser maximum penalty of five years).
+
+So construing the verdict, the defendant first argues that it is a nullity, since not responsive to the crime charged. The defendant essentially contends that the verdict is verbally deficient in that it did not specify that the jury found him guilty of attempted simple escape from the penitentiary.
+
+In that regard, however, "There shall be no formal requirement as to the language of the verdict except that it shall clearly convey the intention of the jury." La.C.Cr.P. art. 810. In determining the intent of the jury, if ambiguous, reference may be had to the pleadings, the evidence, the admissions of the parties, the instructions, or the forms of the verdict submitted. State v. Broadnax, 216 La. 1003,
+45 So. 2d 604
+(1950).
+
+Here, the bill of information specifically charged the defendant with simple escape from the penitentiary, La.R.S. 14:110.2. In instructing the jury, the trial judge informed the jury that the defendant was accused of violating this specific statute, which he read to the jury, including its penalty.
+
+The trial judge also instructed the jury that it could find one of the following verdicts: guilty, guilty of attempted escape from Louisiana State penitentiary, not guilty. The list of responsive verdicts furnished the jury included only these three possible verdicts.
+
+Under these circumstances, the jury's verdict of "Guilty of Attempted Escape"   could have been intended only to mean guilty of attempted violation of the only statute involved in the indictment or the judge's charge, namely, escape from the Louisiana State penitentiary (La.R.S. 14:110.2).
+
+The verdict was thus responsive to the charge, and the sentence imposed was thus within the statutory limits allowable for the violation held proved by the verdict.
+
+Alternatively, the defendant contends that the verdict proved the defendant guilty of attempted violation, La.R.S. 14:27, of La.R.S. 14:110 (1970). (For this violation, the maximum sentence was two and one-half years at hard labor; so therefore, the five year sentence imposed exceeds the statutory maximum.)
+
+The basis for this alternative argument is that 110.2 (1969) was repealed by 110 (1970). We rejected this contention in State v. Coney, 258 La. 369,
+246 So. 2d 793
+(1971). We are unwilling to overrule that decision.
+
+We find no merit in the assignments of error urged on the appeal.
+
+Subsequent to his conviction, the defendant filed a petition under La.C.Cr.P. art. 362 by which he contended (1) that the statute under which he was convicted is unconstitutional and (2) that his trial did not meet due-process requirements of a fair trial. An evidentiary hearing was held on these issues.
+
+In ordering that an appeal be granted him, we also ordered that these other contentions of his writ be consolidated with the appeal for hearing in this court. 318 So. 2d 45 (La.1975).
+
+We have previously rejected most of the contentions made by the defendant. See: State v. Pebworth, 260 La. 647, 257 So. 2d 136 (1972); State v. Coney, 258 La. 369,
+246 So. 2d 793
+(1971). Additional to the contentions there rejected, however, the defendant also contends that La.R.S. 14:110.2 (1969) is a "local" or a "special" law and for that reason invalidly enacted under the state constitutional provision in effect at the time of its enactment.
+
+A "local" law is one that operates only in a particular locality without the possibility of extending its coverage to other areas should the requisite criteria of its statutory classification exist there. A statute is "special" if it affects only a certain number of persons within a class and not all persons possessing the characteristics of the class. See: Teacher's Retirement System of Louisiana v. Vial,
+317 So. 2d 179
+(La.1975); Comment, General and Special Laws in Louisiana, 16 La.L.Rev. 768 (1956).
+
+*711 Under these criteria, the statute is neither a local nor a special law.
+
+The statute is not a local law. It affects the state penitentiary, wherever situated. Also (see statute, footnote 1), it affects those imprisoned at the penitentiary if they escape from any place where lawfully detained, whether at the penitentiary or not.
+
+The statute is not a special law. It affects all persons equally within what in Pebworth we found to be a reasonable classification. There, we held that there was a reasonable basis to classify inmates imprisoned at the state penitentiary for purposes of a penal statute punishing their escape after imprisonment.
+
+As held by Pebworth, the classification was neither arbitrary nor unreasonable, and it operated equally upon all persons within it. Therefore, we held, the statute did not violate the constitutional prohibitions at issue in Pebworth. For somewhat similar reasons, neither does it offend the constitutional prohibition against local and special laws.
+
+(2) Due-Process Fair-trial Issues
+
+The due-process fair-trial issues urged by the defendant's post-conviction writ are two-fold: (a) the jury venire from which the present jury was drawn was prejudicially tainted by its exposure to an earlier trial of the defendant for another offense; and (b) the jury which tried the accused was unfairly prejudiced by his being shackled and in handcuffs during his trial before us.
+
+(a) Jury venire
+
+On the afternoon of January 20, 1972, the defendant was tried and convicted for two entirely different escape charges: (a) Docket No. 8995-A, involving an escape of January 8, 1969, of which the defendant was found guilty by the jury at 3:00 p. m., after twelve minutes' deliberation; and the present case, Docket No. 9926-A, in which the jury returned a verdict of attempted escape at 5:17 p. m., after fifteen minutes' deliberation.
+
+In the evidentiary hearing on the post-conviction hearing, the defendant produced proof, before the trial court terminated the evidence on the issue, that all members of a venire remain at the courthouse during the entire day, unless excused, for all the trials held that day. The defendant thus raises an extremely serious issue by his allegation that he was deprived of an impartial jury, in that members of the venire from which his jury was chosen allegedly sat through his first trial and conviction before being chosen to serve in a trial of him for an entirely different offense within minutes of his first conviction.
+
+Nevertheless, without approving the practice which involves such great risk of prejudice, we are unable to say that the present defendant's second trial was so tainted as alleged. Examination of the transcript of the first trial, Docket No. 52425 of this court, indicates that the prospective jurors not selected for the first trial had been sequestered outside the courtroom. Tr. 21. The trial judge also instructed the jurors who served at the first trial not to mention their verdict to those prospective jurors waiting elsewhere, for the reason that the defendant was going to be tried for another offense.
+
+The voir dire examination of the jurors at the present trial likewise indicates that the examining attorney first ascertained that none of the prospective jurors knew or had ever seen the defendant. (When one stated that he had seen him in the courtroom shortly before, the trial court immediately excused him, without permitting   any further inquiry into the circumstances.)
+
+Under this showing, we do not believe that the defendant's conviction should be set aside upon post-conviction attack. The defendant did not meet his heavy burden of proving the unfairness of the first trial by reason of circumstances to which he did not object at the time they occurred. The potential unfairness of the procedures used is not cause to annul the conviction, in view of the showing that the jury venire for the second trial was insulated from attendance at the first trial and from knowing that the accused was the defendant in it.
+
+(b) Handcuffing and shackling of the defendant
+
+The minutes of the first trial show that the defendant was handcuffed and shackled during it. At the evidentiary hearing on the post-conviction attack upon the second conviction, the defendant testified that he was similarly handcuffed and shackled during the second trial. No objection was made during the trial, however, to this shackling.
+
+Ordinarily, a defendant before our courts should not be shackled or handcuffed or garbed in any manner destructive of the presumption of his innocence and of the dignity and impartiality of judicial proceedings. Illinois v. Allen,
+397 U.S. 337
+, 90 S. Ct. 1057, 25 L. Ed. 2d 353 (1970); State v. Smith,
+322 So. 2d 197
+(La.1975); State v. Tennant, 262 La. 941,
+265 So. 2d 230
+(1972): see also State v. Brewer,
+301 So. 2d 630
+(La.1974). However, as these decisions note, exceptional situations may require, within the reasonable discretion of the trial court, the restraint of the prisoner for reasons of courtroom security or order or, see State v. Daniel,
+297 So. 2d 417
+(La.1974), where the prisoner's past conduct reasonably justifies apprehension that he may attempt to escape.
+
+Even if the occurrence is objected to at the time of trial, for it to be reversible error on appeal, the record must clearly show that it was prejudicial to the rights of the accused, State v. Clark,
+325 So. 2d 802
+(La.1976), and not an abuse of the trial court's reasonable discretion in the matter, State v. Tennant, 262 La. 941,
+265 So. 2d 230
+(1972).
+
+However, when the issue is raised for the first time after conviction, the mere fact that the defendant was handcuffed in the presence of the jury does not afford a ground for relief; it must additionally be shown to have seriously affected the fairness of the trial. Gregory v. United States, 365 F.2d 203 (CA 8, 1966). It must be shown that the trial judge abused his discretion to the point where a fair trial was not possible under the circumstances. McCloskey v. Boslow, 349 F.2d 19 (CA 4, 1965); Odell v. Hudspeth, 189 F.2d 300 (CA 10, 1951).
+
+The defendant did not meet this heavy burden. First of all, in a post-conviction proceeding, the mere showing that the accused was handcuffed in the presence of the jury does not justify a conclusion that this circumstance was so prejudicial that the accused was denied a fair trial, where he did not object to the occurrence at the time of the trial. Additionally, the trial court's discretion is not here shown to have been abused, based as it was on the accused's past escape record and also on the relatively little prejudice to result before a jury trying him on a charge which involved his conduct at the penitentiary, which necessarily involved their knowing him to be a penitentiary inmate.
+
+For the reasons assigned, therefore, we affirm the defendant's conviction and sentence, and we dismiss his claim for post-conviction relief.
+
+CONVICTION AND SENTENCE AFFIRMED; POST-CONVICTION PETITION DISMISSED.
+
+[1]  La.R.S. 14:110.2 (1969) provided:
+
+"Notwithstanding the provisions of any other law to the contrary, including the provisions of R.S. 14:110, simple escape from the Louisiana State Penitentiary is the intentional departure of a person while imprisoned at said penitentiary, and under circumstances wherein human life is not endangered, from the custody of any official, officer or employee of said penitentiary or any other law enforcement officer of the state of Louisiana or a political subdivision thereof or from any place where such person is lawfully detained.
+
+"Whoever commits the crime of simple escape from the Louisiana State Penitentiary shall be imprisoned at hard labor for not less than five years nor more than ten years, provided that such sentence shall not run concurrently with any other sentence."
+
+[2]  Art. 4, § 4 of the Louisiana Constitution of 1921 provides, inter alia:
+
+"The Legislature shall not pass any local or special law on the following specified subjects:
+
+* * * * *
+
+"Concerning any civil or criminal actions. * * *"
+
+[3]  On appeal, the conviction and ten-year sentence were reversed because the defendant was not tried within two years of institution of the prosecution, as required by La.C.Cr.P. art. 578. State v. Miller, 263 La. 138, 267 So. 2d 550 (1972).

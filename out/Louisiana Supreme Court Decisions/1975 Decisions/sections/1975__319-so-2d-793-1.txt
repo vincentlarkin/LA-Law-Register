@@ -1,0 +1,77 @@
+56245
+State v. Cloud
+https://law.justia.com/cases/louisiana/supreme-court/1975/319-so-2d-793-1.html
+
+56245
+State v. Cloud
+Court: Louisiana Supreme Court
+Release date: 1975-10-01
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/319-so-2d-793-1.html
+
+319 So. 2d 793 (1975)
+
+STATE of Louisiana, Appellee,
+v.
+Wallace J. CLOUD et al., Appellants.
+
+No. 56245.
+
+Supreme Court of Louisiana.
+
+October 1, 1975.
+
+*795 J. Daniel Rivette, Orleans Indigent Defender Program, New Orleans, for defendants-appellants.
+
+Salvadore T. Mule, New Orleans, for Alpha Omega Cedan.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise Korns, Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The three defendants were convicted of attempted armed robbery, La.R.S. 14:27, 64, and sentenced respectively to terms of eighteen years (Cloud and Blakes) and twelve years (Cedan) at hard labor. They appeal, relying upon five assignments of error.
+
+The assignments of error do not require reversal, for the following reasons:
+
+1. Motion to suppress identification (Bill of Exceptions No. 1): We find no error in the trial court's conclusion that the victim's on-the-scene identification of the three would-be robbers did not constitute or result in an impermissibly suggestive identification.
+
+The incident took place at a pressing shop. The hearing shows that, based on information supplied by the victim, the police picked up the three suspects within the immediate vicinity and returned them for her identification (or not) within thirty minutes of the incident. At the time of the attempted robbery, the victim had a rather extended observation of them during several minutes of threatening conversation, including when she let one of the accused speak by telephone to a co-worker in his alleged attempt to locate some missing clothes.
+
+The totality of circumstances can properly be held to show that the victim's identification of the defendants was based entirely upon her observation at the time of the attempted robbery and not at all induced by the on-scene identification shortly thereafterwards. Neil v. Biggers,
+409 U.S. 188
+, 93 S. Ct. 375, 381-82, 34 L. Ed. 2d 401 (1975). An on-the-scene identification by a victim of one suspected of the offense may in some instances be suggestive, but it is not cause to suppress the victim's identification unless the totality of circumstances indicate a substantial likelihood of irreparable misidentification. Neil v. Biggers, cited above; State v. Bland, 260 La. 153,
+255 So. 2d 723
+(1971).
+
+2. Motion to suppress evidence (Bill of Exceptions No. 2): Shortly after the robbery incident, the investigating police officers saw two of the accused in a crowd of twenty men outside a bar. The two fit the description by the victim of two of the men who had tried to rob her at the nearby pressing shop. When the officers saw them, the two immediately ran into the bar, with the policemen close behind. One of the two (Cloud) threw a pistol under a beer cooler. In a search incident to the consequent arrest, ten bullets were found in the pocket of the sweatshirt of the other (Blakes).
+
+Thus, the officers had probable cause to arrest the two, and, incident to the lawful arrest, to search those areas within the immediate control of the defendants in which weapons or contraband might be secreted. Warden v. Hayden,
+387 U.S. 294
+, 87 S. Ct. 1642, 18 L. Ed. 2d 782 (1967); Chimel v. California,
+395 U.S. 752
+, 89 S. Ct. 2034, 23 L. Ed. 2d 484 (1971). This principle justifies the denial of suppression as to the bullets.
+
+The gun was abandoned by the defendant as the police drew within five feet of him. It was properly admitted, since the initial assertion of authority by   the police was based upon probable cause, and since the initial entry into the bar in hot pursuit was likewise justified. See State v. Winesberry, 256 La. 523,
+237 So. 2d 364
+(1970) and Fletcher v. Wainwright, 399 F.2d 62 (CA 5, 1968).
+
+3. Chain of custody of evidence admitted (Bill of Exceptions Nos. 6 and 7): Clothing worn by one of the robbers, the pistol, and the ten rounds of ammunition were introduced into evidence over objection that the proper chain of custody had not been proved.
+
+After initially securing the evidence from or near the respective defendants, the police officers had placed it into envelopes, sealed these envelopes, and signed their names on them. The envelopes were then entered in the evidence book and brought by a desk sergeant to the clerk of the criminal district court until introduced into evidence at the trial.
+
+Despite the objection that evidence should also have been introduced of custody from date of sealing into the signed envelope until the date the envelope was opened at the trial, we are unwilling to hold that evidence does not reasonably show the unbroken custody from the time of seizure until its introduction, nor that the evidence does not preponderantly show the requisite connexity between the defendants and the objects introduced. State v. Senegal, 312 So. 2d 280 (La.1975); State v. Franks,
+284 So. 2d 584
+(La.1973). This is especially so since, aside from the technical objection, no circumstance casts doubt on the identity of the evidence introduced with that seized from or near the defendants.
+
+3. Motion for mistrial (Bill of Exceptions No. 5): We likewise find no merit in the contention that a belated motion for mistrial should have been granted because of a very indirect reference by a non-police witness as to one of the defendant's whereabouts as "in the Parish", in explanation of why he had not picked up a suit from the cleaning shop. The reference by the State witness was contained within a reply to a defense cross-examination question.
+
+Upon defense objection, the trial court immediately instructed the jurors to disregard the referencewhich, if they understood it, referred to that defendant's being held in parish prison for a few months. The belated motion for mistrial was made at the conclusion of the witness' testimony, some time after the sustained objection. Assuming the motion was timely, we cannot say that the trial court abused its discretion by denying it on the basis that this unsolicited response by a non-police witness was insufficiently prejudicial (if the jury understood the reference) to warrant a mistrial. La.C.Cr.P. art. 771(2).
+
+5. Denial of motion for directed verdict (Bill of Exceptions No. 8): The motion, La.C.Cr.P. art. 778 (1966), was properly denied. It does not lie unless the State introduces no evidence at all from which the trial jury could reasonably conclude that the defendant was guilty of the offense charged. State v. Douglas,
+278 So. 2d 485
+(La.1973).
+
+Accordingly we affirm the convictions and sentences.
+
+Affirmed.

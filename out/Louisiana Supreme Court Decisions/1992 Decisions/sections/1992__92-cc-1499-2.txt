@@ -1,0 +1,34 @@
+92-CC-1499
+Smith v. Lincoln General Hosp.
+https://law.justia.com/cases/louisiana/supreme-court/1992/92-cc-1499-2.html
+
+92-CC-1499
+Smith v. Lincoln General Hosp.
+Court: Louisiana Supreme Court
+Release date: 1992-10-02
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1992/92-cc-1499-2.html
+
+605 So. 2d 1347 (1992)
+
+Bobby Neal SMITH
+v.
+LINCOLN GENERAL HOSPITAL et al.
+
+No. 92-CC-1499.
+
+Supreme Court of Louisiana.
+
+October 2, 1992.
+
+PER CURIAM.
+
+The court of appeal erred when it reversed the trial court's ruling ordering production of studies done by the defendant regarding the percentage of nosocomial infections per admission. In reversing the trial court's ruling, the court of appeal determined that La.R.S. 13:3715.3(A) and 44:7(D) make the information the plaintiff seeks confidential and thus barred from   discovery. Plaintiff brought suit to recover, inter alia, for injuries he sustained as the result of a nosocomial infection he contracted while admitted to defendant's facility, North Louisiana Rehabilitation Center. Plaintiff contends that the infection was due to an act or omission on the part of that defendant in failing to protect the plaintiff from such infections. During the discovery phase of the proceedings, the plaintiff filed a motion for production of documents seeking studies done by the hospital regarding the percentage of nosocomial infection rates per patients admitted. Defendant objected to this request and plaintiff obtained an order to compel the defendant to produce these documents. The defendant sought supervisory review from the court of appeal, which reversed the ruling of the trial court, holding that such information was confidential. We grant plaintiff's application for review, reverse the decision of the court of appeal in part, affirm in part, and remand the case to the trial court for further proceedings consistent with this opinion.
+
+The reliance of the court of appeal upon La.R.S. 13:3715.3(A) and 44:7(D) is partially misplaced. These provisions are intended to provide confidentiality to the records and proceedings of hospital committees, not to insulate from discovery certain facts merely because they have come under the review of any particular committee. Such an interpretation could cause any fact which a hospital chooses to unilaterally characterize as involving information relied upon by one of the sundry committees formed to regulate and operate the hospital to be barred from an opposing litigant's discovery regardless of the nature of that information. Such could not have been the intent of the legislature, especially in light of broad scope given to discovery in general. La.C.C.P. art. 1422. Further, privileges, which are in derogation of such broad exchange of facts, are to be strictly interpreted.
+
+In the present case, the plaintiff seeks facts relating to nosocomial infection rates in the defendant's hospital. A nosocomial infection is the same malady which gave rise to the plaintiff's injuries. Such facts would be highly relevant to the plaintiff's case or highly likely to lead to such evidence. The defendant asserts that these studies are part of the proceedings of the defendant hospital's Infection Control Committee. He asserts by affidavit that the Infection Control Committee is a policy making body. This court has already questioned to what extent hospital committee records are protected by the pertinent statutes and considered that policy making and personnel areas are within the protected scope. Smith v. Louisiana Health and Human Resources Admin., 477 So. 2d 1118 (La.1985). Nevertheless, when a plaintiff seeks information relevant to his case that is not information regarding the action taken by a committee or its exchange of honest self-critical study but merely factual accountings of otherwise discoverable facts, such information is not protected by any privilege as it does not come within the scope of information entitled to that privilege.
+
+This does not mean that the plaintiff is entitled to the entire study, as such study may contain evidence of policy making, remedial action, proposed courses of conduct, and self-critical analysis which the privilege seeks to protect in order to foster the ability of hospitals to regulate themselves unhindered by outside scrutiny and unconcerned about the possible liability ramifications their discussions might bring about. As such, the trial court must make an in camera inspection of such records and determine to what extent they may be discoverable. Therefore, we reverse the court of appeal's decision that these reports are wholly protected by the statute, affirm their decision in the sense that it recognizes that some records of this committee may be protected, and remand this action to the trial court for further proceedings consistent with this opinion.
+
+REVERSED IN PART, AFFIRMED IN PART AND REMANDED.

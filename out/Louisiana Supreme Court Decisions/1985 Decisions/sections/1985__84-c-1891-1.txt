@@ -1,0 +1,110 @@
+84-C-1891
+Sibley v. Gifford Hill and Co., Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1985/84-c-1891-1.html
+
+84-C-1891
+Sibley v. Gifford Hill and Co., Inc.
+Court: Louisiana Supreme Court
+Release date: 1985-09-10
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1985/84-c-1891-1.html
+
+475 So. 2d 315 (1985)
+
+Marilyn June Sturrock SIBLEY, et al.
+v.
+GIFFORD HILL AND COMPANY, INC., et al.
+Charles M. GILL, Sr.
+v.
+Pearly SIBLEY.
+
+No. 84-C-1891.
+
+Supreme Court of Louisiana.
+
+September 10, 1985.
+
+Rehearing Denied October 10, 1985.
+
+*316 Paul Due', Charles William Roberts, Baton Rouge, Calvin Fayard, Denham Springs, Due', Dodson, deGravelle & Robinson, Charles Moore, Edward Walters, Moore & Walters, Baton Rouge, Joseph Simpson, Amite, for plaintiff-applicant.
+
+Peter Dazzio, Watson, Blanche, Wilson & Posner, Baton Rouge, Andrew P. Carter, George F. Riess, Monroe & Lemann, New Orleans, Arthur Macy, Hammond, for defendant-respondent.
+
+LEMMON, Justice.
+
+This litigation involves an accident in which two people were injured, one fatally, when the boom of a crane, which was moving a steel structural frame to a construction site, came close enough to an overhead electrical transmission line that arcing occurred between the line and the boom. The question before this court is whether the public utility company that supplied electricity to the line, which was owned and maintained by a sand and gravel producer on its private property, was liable to the injured parties.
+
+At the time of the accident, Gifford Hill and Company, Inc. was in the process of moving its sand and gravel operation to a new plant site. Louisiana Power and Light Company (LP & L) had provided electrical service across its own transmission line to Gifford Hill at its former location. However, an independent contractor employed by Gifford Hill constructed a transmission line to serve the new plant. The line was built according to specifications provided by Gifford Hill.
+
+Gifford Hill owned, controlled and maintained the new transmission line, which was about 8,800 feet in length. Although LP & L did not construct or maintain the line, the company did provide electrical service by means of that line to Gifford Hill's new plant. LP & L delivered the electricity to Gifford Hill's new line at Gifford Hill's property line adjacent to the public highway, which was the beginning point of the line.
+
+The new transmission line consisted of three lower energized wires and one upper neutral wire. A short distance from the plant site, the line crossed a gravel road. At that point, the lower wires were approximately thirty-eight feet above the ground.
+
+The two men injured in the accident were Pearly Sibley and Charles Gill. Sibley was an independent contractor who was performing welding and fabrication work for Gifford Hill in the construction of the new plant. Sibley used Gifford Hill's employees, including Gill, to assist in the work.
+
+Sibley had fabricated a large steel Aframe which was to be part of the structure of the sand plant. The A-frame, which was twenty-six feet high and ten feet wide at the base, was to be fastened to steel footings embedded in a concrete slab. The frame had been fabricated at a point about 200 feet from the slab, and it was   necessary to travel beneath the transmission line in order to move the frame to the slab.
+
+On the day of the accident, Sibley and Gifford Hill's plant manager discussed the movement of the frame beneath the transmission line. They decided to use a mobile crane with a 60-foot telescoping boom to lift and move the frame. Approximately two days before the accident, the transmission line had been deenergized at Sibley's suggestion in order to move a portion of the sand plant equipment safely beneath the line. However, neither Sibley nor anyone else took any steps to deenergize the line in connection with the movement of the frame. The only switch available to deenergize the line was located at the public highway, which was approximately seven miles by road from the point where the road ran beneath the transmission line.
+
+After waiting for fog to clear, Sibley, Gill and others loaded the frame onto the crane. The crane operator then moved the crane forward, with Sibley and Gill holding a leg of the frame to prevent swinging. After the boom of the crane passed safely beneath the first wire of the line, Sibley instructed the crane operator to "boom left". A buzzing sound occurred when the boom passed beneath the second wire, and an electrical shock caused death to Sibley and serious injury to Gill. This action ensued.
+
+After plaintiffs compromised their claims against all other defendants, the matter proceeded to trial against LP & L only. Plaintiffs relied on two theories of liability: (1) LP & L's equipment created a voltage surge across the lines at the exact time that the boom of the crane was approximately four inches from the line, causing arcing that would not have occurred at that distance except for the sudden surge, and (2) LP & L sold electricity which was transmitted across a line that LP & L knew or should have known was unsafe under the existing conditions, in that the line at a height of thirty-eight feet was unreasonably dangerous during the construction of the plant when cranes were being used to move material and equipment.
+
+There was no direct evidence of actual contact between the boom of the crane and the overhead line. The crane operator could not see the wires from the cab and relied on Sibley's directions in moving the crane. Gill testified that he was holding the A-frame and did not look up, because he did not think the boom would touch the wires. The plant foreman, who was about fifty feet away, saw the boom "within four inches" of the wire after the crane had stopped, and he heard a buzzing sound. He did not see any sparks, but the buzzing sound stopped when the boom was lowered.[1] He asserted that the boom passed closer to the second wire than to the first wire, but that there was no scorching on the wire after the incident.
+
+An electrical engineering expert presented by plaintiff theorized four possible explanations for the boom's passing without incident under the first wire, but not the second. Because of contradictory evidence, he discounted the theories that the ground was uneven, that the crane bounced, or that the wires were at different heights. He therefore settled on the fourth theory that there was a voltage surge at the time of the boom's passing under the second wire.[2] Without a voltage surge, the boom would have had to come within less than an inch of the wire for arcing to occur, but if there was a voltage surge on the line, arcing was possible over a distance of four inches.
+
+*318 The expert also opined that the accident involved a violation of the National Electric Safety Code's prohibition against operation of equipment within ten feet of a transmission line unless the line is deenergized. He pointed out that the design of the line was defective because of the impractical placement of the only switch which deenergized the line. He also suggested that the line could have been constructed on the perimeter of the property rather than across the gravel road. On cross-examination, he conceded that the line far exceeded the Code's minimum height requirement of twenty feet, but noted that a line should be higher than the minimum requirement when special activity is anticipated.
+
+The trial judge ruled that the accident was caused by the combined fault of Gifford Hill and LP & L.[3] The judge found as a fact that the boom of the crane neither made contact with the electrical wire nor came close enough to the wire for ordinary arcing to occur, but that LP & L's equipment created a surge of electricity which occurred at the time that the frame was approximately four inches from the wire, causing arcing which would not otherwise have occurred. He noted that the boom would have cleared without difficulty if the arcing caused by the surge had not occurred.
+
+The court of appeal reversed on the basis that plaintiffs failed to prove by a preponderance of the evidence that a voltage surge caused the arcing. 456 So. 2d 684. The court reasoned that the accident could only have been caused (1) by actual contact between the boom and the wire, (2) by ordinary arcing caused when the boom came within less than one inch of the wire, or (3) by arcing caused when the boom came within several inches of the wire at the exact time that there was a voltage surge on the line. The court concluded that the record supported the trial judge's finding that the boom did not make contact with the wire. The court further concluded on the basis of the overall evidence that it was at least equally probable that arcing occurred because the boom passed within one inch of the wire, a phenomenum for which LP & L was not responsible. Finally, the court held that while Gifford Hill (who had settled with plaintiffs) may have been liable for a dangerous condition at the point where the line crossed over the road without a quick means of deenergizing the line, LP & L was not, because LP & L had no knowledge of or control over Gifford Hill's on-site operations. We granted certiorari. 461 So. 2d 321.
+
+In order to hold LP & L liable on the surge theory, it was necessary for plaintiffs to prove by a preponderance of the evidence that there was a voltage surge which caused arcing when the frame was not less than one inch or more than four inches from the second wire. There was no direct evidence of any voltage surge.[4] The intermediate court correctly observed that the circumstantial evidence did not raise an inference of arcing caused by a voltage surge while the frame was within four inches of the wire which preponderated over any inference of close proximity arcing.[5] On the basis of the overall evidence, direct and circumstantial, viewed in the light most favorable to the prevailing party in the trial court, a rational factfinder could not conclude that arcing which occurred because of a voltage surge when the frame was one to four inches from the wire was more of a probability than arcing which   occurred because the A-frame came near enough to the wire to arc without a voltage surge. Boudreaux v. American Insurance Co., 262 La. 721,
+264 So. 2d 621
+(1972).
+
+Furthermore, even if the evidence preponderated in favor of a conclusion that the accident would not have occurred but for a voltage surge created by LP & L's equipment, such a conclusion simply determines that the voltage surge was a cause in fact of the accident. The determination of causation in fact is merely the first step in determining liability under the duty-risk analysis. The court must also determine what duty was imposed on the defendant under the particular circumstances, whether there was a breach of that duty that resulted in damages, and whether the risk which resulted in the damages was encompassed within the scope of the protection extended by the imposition of that duty. Pierre v. Allstate Insurance Co., 257 La. 471,
+242 So. 2d 821
+(1970).
+
+While the causal relation issue involves an analysis of the defendant's conduct as a contributing factor in the injury, the duty issue is a policy inquiry into whether the defendant's duty to the victim included protection against the particular injury. Green, The Causal Relation Issue in Negligence Law, 60 Mich.L.Rev. 543 (1962). LP & L arguably owed a duty to its customers to prevent surging because the customer's plant or equipment might be damaged by a sudden voltage surge. However, this duty did not reasonably encompass the risk that a grounded person on the customer's premises might place a metal object close enough to the transmission line for arcing to occur contemporaneously with the surging, yet far enough away to avoid close proximity arcing. Moreover, there is no ease of association between the duty breached and the damages sustained. Hill v. Lundin & Associates, Inc., 260 La. 542,
+256 So. 2d 620
+(1972).
+
+We conclude that any voltage surge created by LP & L's equipment was not a legal cause of the injuries at issue in these consolidated cases.
+
+As to the unreasonably dangerous design theory of liability expounded by plaintiffs' expert, the transmission line was designed and constructed by Gifford Hill on its own property and was maintained by the owner.[6] Of course, LP & L, as a public utility company engaged in the distribution of electricity, had a duty not to supply power across a private transmission line which it knew or should have known was unreasonably dangerous.
+
+Plaintiffs' expert asserted that the line was unreasonably dangerous because of the placement across the gravel road and because of the absence of a readily available cutoff switch. LP & L's representative had been on the premises on several occasions prior to the accident. However, there was no apparent reason for the representative to believe that the placement of the line over the gravel road at a height almost double the minimum requirement presented an unreasonably dangerous situation. Nor was there any apparent reason for him to anticipate that the boom of a crane would be extended close to the height of the line for a particular movement of special equipment without a measurement of the height of the boom and without the deenergizing of the line. While plaintiff's expert asserted that LP & L was responsible for the violation of the required tenfoot clearance between the operating equipment and the line because "they are the experts with regard to the transmission and distribution of the power", that assertion was solely his opinion and had no basis in the Code or in the evidence presented at trial.[7]
+
+We conclude that there is no support in this record for a conclusion that LP & L supplied electricity over a private transmission   line which it knew or should have known was unreasonably dangerous.
+
+Accordingly, the judgment of the court of appeal is affirmed.
+
+CALOGERO and DENNIS, JJ., dissent.
+
+WATSON, J., dissents and assigns reasons.
+
+WATSON, Justice, dissenting.
+
+The majority errs in finding no liability on the part of LP & L. The accident investigation report conducted by the Mine Safety & Health Administration (MSHA) of the United States Department of Labor noted that Gifford-Hill's transmission line could only be de-energized by switches located approximately six and a half miles away. According to the report, a contributing factor in the accident was a lack of facilities for de-energizing the power lines near the construction site. The report recommended that a nearby means of de-energizing the high voltage lines be provided. After the accident, the recommended change was made. There was also expert testimony that the accident would have been avoided if disconnect switches had been placed near the plant site where it would have been convenient for the employees to de-energize the lines.
+
+The switches to de-energize Gifford-Hill's lines were located on a take-off pole at LP & L's point of delivery. LP & L had erected the take-off pole. (Tr. 375) LP & L had also inspected the Gifford-Hill premises and was aware that the distance between Gifford-Hill's construction site and the switches created a foreseeable risk of injury. The necessity of de-energizing the lines was clearly anticipated. Convenience in performing this chore should have been afforded. LP & L's service agreement provided: "The Company may refuse or discontinue service to any Customer's installation it deems unsafe...." In this instance, LP & L's safety standards were inadequate. The design defect in the location of the switches was known to LP & L, which must share responsibility for the accident.
+
+I respectfully dissent.
+
+[1]  The evidence established that buzzing indicates arcing, while a booming sound would likely occur when there is contact. Marks on the wire or on the boom would also be expected if contact had occurred.
+
+[2]  A voltage surge is an electrical phenomenon which occurs when the voltage is too great for the capacity of the line. Surging creates a potential for arcing to a greater degree than normal. Arcing will not usually occur unless the object comes within less than an inch of the line, but the presence of an object in the vicinity of the line at the time of a surge can result in arcing over a greater distance, as far as several inches.
+
+[3]  Gifford Hill was determined to be at fault (1) in designing the line so that "it was located in such a manner as to cross the main roadway of the Gifford Hill plant and which could be dangerous to construction machinery, including booms of cranes, which would be used in the construction of the plant and which could only enter the construction area by means of that roadway", and (2) in failing to provide a shutoff switch near the construction site.
+
+[4]  LP & L's records, while not necessarily negating a surge, did not show one.
+
+[5]  The crane was moving when the arcing occurred, and the four-inch distance estimated by one witness, whatever its accuracy, was the distance between the boom and the wire after the crane had come to a stop. There was no direct evidence to establish or negate the fact that the boom came closer than four inches to the line.
+
+[6]  Since the claim against Gifford Hill was compromised prior to trial, the issue of its liability is not before this court.
+
+[7]  The trial judge did not make any rulings or factual findings regarding LP & L's liability for supplying electricity over a transmission line which it knew or should have known was unreasonably dangerous.

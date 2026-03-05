@@ -360,6 +360,8 @@ def _is_header_like_paragraph(paragraph: str) -> bool:
         return True
     if lowered.startswith("court: ") or lowered.startswith("release date: ") or lowered.startswith("release: "):
         return True
+    if lowered.startswith("source: ") or lowered.startswith("source case page: ") or lowered.startswith("source pdf: "):
+        return True
     if lowered.startswith("official release page:") or lowered.startswith("official pdf:"):
         return True
     if lowered.startswith("author: ") or lowered.startswith("parish: ") or lowered.startswith("disposition: "):

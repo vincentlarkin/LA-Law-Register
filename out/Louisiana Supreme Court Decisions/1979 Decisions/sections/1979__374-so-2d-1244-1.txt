@@ -1,0 +1,72 @@
+64152
+State v. Perniciaro
+https://law.justia.com/cases/louisiana/supreme-court/1979/374-so-2d-1244-1.html
+
+64152
+State v. Perniciaro
+Court: Louisiana Supreme Court
+Release date: 1979-09-04
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/374-so-2d-1244-1.html
+
+374 So. 2d 1244 (1979)
+
+STATE of Louisiana
+v.
+Margie H. PERNICIARO, a/k/a Mrs. Peter Perniciaro.
+
+No. 64152.
+
+Supreme Court of Louisiana.
+
+September 4, 1979.
+
+Robert Glass, John Wilson Reed, Glass & Reed, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John F. Rowley, Dist. Atty., Abbott J. Reeves, Asst. Dist. Atty., for plaintiff-appellee.
+
+*1245 DENNIS, Justice.
+
+In this appeal from a conviction of attempted public payroll fraud defendant correctly contends the district court erred in admitting into evidence, under the business records exception, a job description entered on her payroll record. We therefore reverse. The job description was hearsay because it was a statement made out of court offered for the truth of the matter asserted therein. It was inadmissible under the business records exception because the haphazardly kept job description entries probably were not trustworthy evidence.
+
+Defendant, Margie H. Perniciaro, was charged with public payroll fraud. La.R.S. 14:138. After a jury trial, the defendant was found guilty of attempted payroll fraud. She was sentenced to serve one year in the parish prison and to pay a fine of $500.00. Her sentence of imprisonment was suspended on the condition that she pay the fine within thirty days and make restitution of $15,712.24 to the St. Bernard Parish Police Jury.
+
+At trial, it was undisputed that Mrs. Perniciaro, the wife of a St. Bernard Parish police juror who was on the police jury payroll for over seven years, received and cashed monthly police jury checks ranging from $350.00 to $406.00. The purpose for which Mrs. Perniciaro was paid, however, was a sharply contested issue.
+
+The theory of the prosecution was that the defendant received paychecks from the police jury as courthouse custodian, without performing any services in that capacity. In his opening statement, the prosecuting attorney informed the jury that the state would introduce police jury payroll ledger cards
+
+The defendant conceded that she had performed no services as courthouse custodian but contended that secretarial or administrative services she had performed for her husband as police juror were adequate for the compensation received.
+
+During the trial the prosecution offered police jury payroll ledger cards bearing Mrs. Perniciaro's name, payroll information and an entry showing her job title as "custodian of St. Bernard Courthouse Building." It attempted to lay a foundation for the introduction of this evidence outside the presence of the jury. The state was unable, however, to produce as a witness the employee who made the entry, the person who gave the employee the information, or any person who knew for what purpose Mrs. Perniciaro was paid by the police jury. Furthermore, the prosecution was unable to show that the police jury had kept a regular or accurate record of each employee's job status on his payroll ledger card. The employees who kept the payroll records had not been instructed to record and check each worker's job description or to place it on his paychecks. Consequently, over one-half of the ledger cards contained no job title entry, and some contained inaccurate information, e. g., a handicapped concessionaire was erroneously classified as an elevator operator; a mechanic, as a dog catcher; an athletic coordinator, as a secretary; and a special counsel in charge of juvenile matters, as a research assistant.
+
+The defendant objected to the introduction of the job title entry on her payroll ledger cards. The trial judge, nevertheless, allowed the entry on each card to be introduced. The issues raised by defendant's objection are: (1) whether the job title entry was hearsay evidence, and, if so, (2)   whether the entry was admissible under the business records exception to the rule excluding hearsay.
+
+The job title entry was hearsay evidence because it came within the definition of hearsay adopted by this Court. Hearsay evidence is testimony in court, or written evidence, of a statement made out of court, the statement being offered as an assertion to show the truth of matters asserted therein, and thus resting for its value on the credibility of the out-of-court asserter. State v. Martin,
+356 So. 2d 1370
+(La.1978). In view of the prosecuting attorney's opening statement, it is clear that each job title entry was offered as an assertion, by either the recorder of the information or someone reporting to him, that Mrs. Perniciaro was to be paid for services as courthouse custodian. In either case the entry was offered as an assertion to show the truth of the matter asserted, viz., either that she was to be paid as custodian or that someone told the recorder she was to be paid for performing that job. Consequently, the matter asserted rested for its value on the credibility of an out-of-court asserter and constituted hearsay evidence.
+
+The job title entry was not admissible as an exception to the hearsay rule because the entries in this case did not fall within the formulation of the common law business records exception adopted by this Court.
+
+The common law exception had four elements: (a) the entries must be original entries made in the routine of the business; (b) the entries must have been made upon the personal knowledge of the recorder or of someone reporting to him; (c) the entries must have been made at or near the time of the transaction recorded; and (d) the recorder and his informants must be shown to be unavailable. McCormick, Evidence, § 306, at 720 (1972 ed.); see also Weinstein's Evidence, § 803(6)[01]; V Wigmore on Evidence, § 1522 at 442 (Chadbourne ed. 1974).
+
+The reasons justifying the admission of this class of statements, although not as clearly defined by the judges as those for other hearsay exceptions, are fairly clear. According to Wigmore, in the typical case of entries made systematically and habitually to record a course of business dealings, experience of human nature indicates three distinct though related motives which, in the long run, make the statements fairly trustworthy:
+
+In response to scholarly skepticism toward a broad regular course of business exception in criminal cases, which might violate a defendant's constitutional right to confrontation, see Pugh, The Work of the Louisiana Appellate Courts for the 1971-1972 Term, Evidence, 33 La.L.Rev. 306, 318-19 (1973), this Court recognized and applied a restrictive formulation of the common law business records exception in criminal cases. In State v. Monroe,
+345 So. 2d 1185
+(La.1977), we stated:
+
+*1247 "* * * Before the exception may be invoked by the State against the defendant, allowing introduction of a permanent record made in the ordinary course of business from personal knowledge of the facts recorded, or from information furnished by one having a business duty to observe and report the facts, it must be shown that the person who made the record is genuinely unavailable for testimony, that he had no strong motive to misrepresent, and that in all probability the evidence is trustworthy. * *" 345 So. 2d  at 1190.
+
+In view of the constitutional right of an accused to confront and cross-examine the witnesses against him, U.S.Const. Amend. VI; La.Const.1974, art. I, § 16, and the statutory prohibition against hearsay evidence, except as provided by law, La.R.S. 15:434, a broader business records exception for the admission of hearsay against a defendant in a criminal prosecution is unwarranted.
+
+In this case, the hearsay evidence offered did not conform to the elements of the business records exception. The police jury records of job descriptions were not kept and checked with a degree of habit, system, regularity and continuity which would prevent casual inaccuracies and counteract the possible temptation to misstatements. It was not shown that the entry of defendant's job description was made upon the personal knowledge of the recorder or from information furnished by one having a business duty to observe and report the facts. Consequently, the party offering the business record evidence did not provide a foundation therefore sufficient to warrant a finding that in all probability the evidence is trustworthy.
+
+The state argues in the alternative that the introduction of the inadmissible hearsay business records evidence was harmless error. To so hold, however, would totally disregard the manner in which the trial unfolded. The prosecuting attorney bent every effort to convince the jury that Mrs. Perniciaro was paid for the purpose of performing services as courthouse custodian and that she had failed to perform any services of this type whatsoever. His objective was announced in the opening statement; he elicited testimony from courthouse janitorial workers conclusively proving that Mrs. Perniciaro never served as the courthouse custodian; and in his closing argument he made this statement:
+
+In this setting, the wrongful introduction of an untrustworthy business record labeling Mrs. Perniciaro as courthouse custodian was error prejudicial to the substantial rights of the accused, requiring reversal of her conviction. La.C.Cr.P. art. 921. Since we are prohibited from reviewing or retrying the facts in a criminal case, La. Const.1974, art. 5, § 5(C), we cannot, as urged by the prosecution, make a factual finding that the defendant was proven guilty beyond a reasonable doubt despite the prejudicial error. Instead, we may only remand the case for a new trial without the inadmissible evidence.
+
+Since the defendant's assignment of error number one requires reversal of her conviction   and sentence, her remaining assignments will not be considered in this opinion.
+
+REVERSED AND REMANDED.
+
+SUMMERS, C. J., dissents.

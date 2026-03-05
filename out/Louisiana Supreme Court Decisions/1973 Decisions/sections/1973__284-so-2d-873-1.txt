@@ -1,0 +1,173 @@
+53610
+State v. Melson
+https://law.justia.com/cases/louisiana/supreme-court/1973/284-so-2d-873-1.html
+
+53610
+State v. Melson
+Court: Louisiana Supreme Court
+Release date: 1973-10-29
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1973/284-so-2d-873-1.html
+
+284 So. 2d 873 (1973)
+
+STATE of Louisiana
+v.
+Byron Bernel MELSON.
+
+No. 53610.
+
+Supreme Court of Louisiana.
+
+October 29, 1973.
+
+Rehearing Denied November 30, 1973.
+
+Robert Glass, New Orleans, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., LeRoy A. Hartley, Asst. Atty. Gen., Jim Garrison, Dist. Atty., Frank Klein, Louise Korns, Asst. Dist. Attys., for plaintiff-respondent.
+
+DIXON, Justice.
+
+Writs were granted in this case to determine whether, on a motion to suppress, a defendant could traverse the accuracy of the factual statements in the affidavit upon which a search warrant was issued.
+
+Two search warrants had been issued for two separate apartments in the investigation of a murder. Both warrants issued upon the identical affidavits by Detective Egan, who recited to the magistrate:
+
+*874 The amended motion to suppress referred to this statement and alleged that it was false, as follows:
+
+This amendment was filed May 10, 1973, and contained a further allegation that the State had stipulated at a prior hearing in the case that no identification of the defendant had been made by any witness.
+
+At the hearing on the amended motion to suppress, the district judge denied the request of defendant to take evidence on the allegations of the motion, relying on State v. Anselmo, 260 La. 306,
+256 So. 2d 98
+(1971) and State v. George,
+273 So. 2d 34
+(La., 1973), to which ruling defendant excepted.
+
+As noted in the concurring opinion in State v. George,
+273 So. 2d 34
+, 37, the majority of this court placed a "restrictive interpretation" on State v. Anselmo. The only essential question in Anselmo was whether the veracity of the informer of the peace officer who executed the affidavit upon which the search warrant issued was subject to attack in a motion to suppress. We held that it was not. The language of the opinion in Anselmo was much broader than necessary for that decision,[1] indicating that the only permissible review of the magistrate's finding of probable cause was to determine whether the allegations of facts and circumstances in the affidavit, as a matter of law, supported the magistrate's finding of probable cause.
+
+State v. George departed from the implications of Anselmo, but approved its holding that "the truthfulness of the facts which were supplied to an affiant by a confidential informer and which were then recited by the affiant in his application for a search warrant could not later be attacked at a hearing on a motion to suppress." State v. George,
+273 So. 2d 34
+, 36. Then we tacitly approved the right of the defendant to attack the veracity of the affiant, himself. Nevertheless, we affirmed the decision of the trial judge, finding no falsification by the affiant in the affidavit.
+
+Aguilar v. Texas,
+378 U.S. 108
+, 84 S. Ct. 1509, 12 L. Ed. 2d 723 (1964) prohibits the issuance of a search warrant upon the conclusion of the affiant, and requires that the affidavit itself disclose the factual basis for the finding of probable cause. In Spinelli v. United States,
+393 U.S. 410
+, 89 S. Ct. 584, 21 L. Ed. 2d 637 (1964), the obligation of the magistrate to judge the information according to the Aguilar standards was referred to as the "long standing principle" that probable cause must be determined by the magistrate, and not by the police officer.
+
+These reasons support the conclusion that there is a right on the part of a defendant to traverse the allegations of the affiant in the affidavit upon which a search warrant is issued:[2]
+
+1. To permit the affiant to execute an affidavit, either intentionally or unintentionally inaccurate, is to allow the affiant himself, and not the magistrate, to make the determination of probable cause, contrary to the holding of Aguilar v. Texas, supra.
+
+*875 2. To protect the right of privacy (not for the defendant whose privacy has already been invaded, but for law-abiding citizens in the State) is and should be of primary importance to the courts. To this end, untrue allegations of the affiant must be subject to judicial examination. No other method of deterring unwarranted police conduct has been developed.
+
+3. The integrity of the judicial process must be protected. It can only be weakened if we permit the abrogation of the right of privacy by protecting untrue allegations from judicial examination.
+
+4. When a search warrant is issued, it is issued on an ex parte request, frequently presented to a magistrate at times and places not conducive to considerered determination by the magistrate. Such an ex parte determination to issue a search warrant is not such a "judicial determination" as to place this initial finding of probable cause beyond the pale of review of a district judge. There is specific statutory provision for judicial review of finding of probable cause in the district court. C.Cr.P. 703. We need only delineate the extent of that inquiry.
+
+5. Finally, since the question of probable cause for the issuance of a search warrant is a question involving rights under the United States Constitution and the Louisiana State Constitution, if probable cause does not exist, there would be a constitutional infirmity in the search warrant. It matters not whether the infirmity arise because of the faulty legal conclusions of the issuing magistrate, or the false allegations of the affiant.
+
+All the reasons which support a conclusion to allow a defendant to test the veracity of the affiant would also permit testing the accuracy of the information given by the affiant's informer. There are, however, factors which justify treating the veracity of the affiant and the veracity of his informer differently. There is sometimes a need to protect the identity of informers. But see Roviaro v. United States,
+353 U.S. 53
+, 77 S. Ct. 623, 1 L. Ed. 2d 639 (1957). Criminal activity in today's society seems to demand speed and efficiency in police work, consistent with constitutional standards; the constitutional prohibition against the issuance of search warrants is relaxed when there is probable cause for a magistrate to act, a finding reached with much less reliable evidence than real and actual cause. Therefore, balancing the interests involved we adhere to the "restrictive interpretation" of the opinion in State v. Anselmo, supra.
+
+For these reasons, the judgment of the district court is reversed and an evidentiary hearing is ordered to allow the defendant an opportunity to prove the well pleaded allegations of affiant's misrepresentation in the applications for the search warrants involved in this case.
+
+SUMMERS, J., concurs in part and dissents in part and assigns written reasons. The result is correct.
+
+SANDERS, C. J., dissents and assigns written reasons.
+
+MARCUS, J., dissents.
+
+SUMMERS, Justice (dissenting).
+
+Although I agree with this new majority's partial approval of our decision in State v. Anselmo, 260 La. 306,
+256 So. 2d 98
+(1972), I dissent from this restrictive holding limiting the effect of that decision. For the reasons fully stated in State v. Anselmo and in my concurring opinion in State v. George,
+273 So. 2d 34
+(1973), as well as for the following reasons, I dissent from this reversal and this mandate for an evidentiary hearing. This about-face of the court in less than two years is not supported by the reasons it assigns.
+
+The affidavits supporting the search warrants dated August 24, 1972 pertinently state that on the night of August 23, 1972, Detective Robert J. Egan of the New Orleans   Police Department, the affiant, and fellow officers
+
+In due time Melson was indicted by the Orleans Parish Grand Jury for the murder of Robert D. Dressler. Thereafter on April 13, 1973, Melson's attorney filed a motion to suppress identification in which motion it was alleged that the "identification made by witnesses in this case, Harold Collier, Ozy Noel and Oliver Brock, on August 24, 1972, at, and subsequent to a lineup" was prejudicial to the right of the accused to a fair lineup and that the subsequent identifications made by the witnesses were illegal as one man showups.
+
+At the time the hearing of this motion to suppress was scheduled to be held on March 16, 1973, the prosecuting attorney stipulated in open court that no identification had been made at the police lineup or the photographic lineup and that the only other identification that had been made by a Mr. Brock in the Detective Bureau concerned other matters and would not be used at the trial in the instant case. On this stipulation the trial judge ruled the motion to suppress had become moot.
+
+Subsequently, on May 10, 1973, defense counsel filed an amended motion to suppress evidence in which he alleged:
+
+This amended motion to suppress evidence concluded by contending that the accused was entitled to an evidentiary hearing "since the attack here is on the truthfulness of the affiant." By no stretch of the imagination can the stipulation of the prosecuting attorney at the motion to suppress identification hearing on March 16, 1973 be construed as a concession, or intimation, that the two eyewitnesses to the shooting on August 23, 1972 did not identify the murderer to the detectives who signed the warrant affidavit.
+
+The assumption in which the defense indulges is that the eyewitnesses to the shooting, who identified Melson to the police on the day of the crime, would be required to appear the next day at a police lineup or to look at photographs in an attempt   to identify the accused. They had already made the identification several hours before and it was not necessary to again do so at the lineup held on August 24, 1972. As the alleged "evidence of record to support the allegations of misrepresentation" relied upon by the defense in its application for writs does not exist, this writ should not have been granted. Defendant has not supported his allegation of perjury with one scintilla of evidence and he is clearly engaged in a fishing expedition. The only way the affiants can prove the truthfulness of their affidavit is to disclose the identity of the two "eyewitnesses".
+
+I am reassured that our decision in State v. Anselmo was correct by the decision in State v. Petillo, 61 N.J. 165,
+293 A.2d 649
+(1972), cert. denied, 410 U.S. 945, 93 S. Ct. 1393, 35 L. Ed. 2d 611. There a unanimous court decided that an attack could not be made on an affidavit supporting a search warrant on the grounds that parts of the affidavit were perjurious, saying:
+
+"The Fourth Amendment of the United States Constitution, and Article I, ¶ 7 of the New Jersey Constitution authorize issuance of a search warrant by a proper judicial officer upon a showing supported by `oath or affirmation' of probable cause to believe that a crime has been, is about to be, or is being committed at the place described. As this Court said in State v. Burnett, 42 N.J. 377, 388,
+201 A.2d 39
+(1964), with the subsequent express approval of the United States Supreme Court in McCray v. Illinois,
+386 U.S. 300
+, 306-308, 87 S. Ct. 1056, 18 L. Ed. 2d 62, 68-69, reh. den. 386 U.S. 1042, 87 S. Ct. 1474, 18 L. Ed. 2d 616 (1967), the Constitutions are satisfied if a judicial mind decides that the sworn factual allegations set out in the affidavit or testimony sworn to before him show the required probable cause. When such proof is presented the judge is trusted to evaluate the legal sufficiency of the sworn facts to support such a determination, and the credibility of the affiant in asserting them. Undoubtedly, if the judge has any doubts or suspicion on the matter of credibility, he may require additional proof or subject the affiant to further examination. But if he is satisfied on both scores, and the facts do make a sufficient showing of probable cause, then the legal propriety of the issuance of the warrant ought to be beyond further question.
+
+"The standard provided in the Constitutions as the basis for intrusion into the home of a citizen because of alleged gambling activities is not proof of his guilt of the criminal offense. The requirement is sworn statements of fact of sufficient legal quality to persuade an impartial judge that probable cause exists to believe that the crime described is being committed at the place. Once that test is met to the satisfaction of the judge, relitigation of the truth of the factual basis for issuance of the warrant should not be permitted. The ultimate truth of the criminal charge against the accused is not involved on a suppression motion. On the contrary his effort is to avoid the evidence of that truth which provides corroboration of the basic truthfulness of the affidavit. State v. Burnett, supra, 42 N.J. at 386,
+201 A.2d 39
+, and Cf. People v. Mack,
+12 Ill. 2d 151
+,
+145 N.E.2d 609
+, 615-616 (1957).
+
+"In our view the constitutional safeguards are met when the impartial judge finds the affidavit for the warrant credible and legally sufficient. Compliance with the requirement for an oath by the officer must be regarded as a procedurally adequate manifestation of his veracity. That oath followed by the judge's determination that the facts vouched for show probable cause are all the Constitutions demand and guarantee to our citizens. If the police officers lie, the truth of the accused's alleged criminal activities as revealed by the evidence seized under the warrant will not be diluted. In that event, as the Chief Justice noted in State v. Burnett, supra, the accused will have to meet nothing more nor worse than the `truth' at plenary trial. 42 N.J. at 386,
+201 A.2d 39
+. Further, so far as the untruthful officers are concerned,   they expose themselves to the sanctions of indictment for perjury or false swearing, a charge of criminal contempt, and assessment of monetary damages in a civil action. See, People v. Bak, 42 Ill. 2d 140,
+258 N.E.2d 341
+, 343, cert. den. 400 U.S. 882, 91 S. Ct. 117, 27 L. Ed. 2d 121 (1970); People v. McGrain,
+38 Ill. 2d 189
+,
+230 N.E.2d 699
+(1967); State v. Anselmo, 260 La. 306,
+256 So. 2d 98
+, 103 (1971), cert. den. 407 U.S. 911, 92 S. Ct. 2438, 32 L. Ed. 2d 685 (6-12-72); Dawson v. State, 11 Md.App. 694,
+276 A.2d 680
+, 691 (1971); Burrell v. State, 207 Md. 278, 113 A.2d 884 (1955); Compare, N.J.S.A. 2A:156A-24.
+
+"There is some conflict among the authorities as to whether after a search warrant has been executed and has produced evidence of the crime charged, a defendant should be permitted to attack the truthfulness of the affidavit submitted to the issuing judge and which was accepted by him as credibly supporting issuance of the warrant. The Supreme Court of Illinois in People v. Bak, supra, adopted the majority and, we think, the better and more practical rule, and we accept it for New Jersey. It expressed the view that the Federal and State Constitutions
+
+"See, also, People v. Mitchell,
+45 Ill. 2d 148
+,
+258 N.E.2d 345
+, cert. den. 400 U.S. 882, 91 S. Ct. 117, 27 L. Ed. 2d 120 (1970); People v. Marro, 4 Ill.App.3d 197, 280 N.E.2d 560 (App.Ct.1972); People v. Healy, 126 Ill. App.2d 189, 261 N.E.2d 468 (1970), cert. den. 402 U.S. 905, 91 S. Ct. 1365, 28 L. Ed. 2d 645 (1971); State v. Rulli, 116 N.J.Super. 120,
+281 A.2d 209
+(App.Div.1971); State v. Gillman, 113 N.J.Super. 302, 273 A.2d 617 (App.Div.1971); United States v. Mihileas, 333 F. Supp. 231 (S.D.N.Y.1971); Kenney v. United States, 81 U.S.App.D. C. 259, 157 F.2d 442 (1946); United States v. Brunett,
+53 F.2d 219
+(W.D.Mo.1931); State v. Anselmo, supra, 256 So. 2d  at 101-102, and cases cited therein; Dawson v. State, supra, 276 A.2d at 690-691; Tucker v. State, 244 Md. 488, 224 A.2d 111 (1966), cert. den. 386 U.S. 1024, 87 S. Ct. 1381, 18 L. Ed. 2d 463 (1967); Burrell v. State, supra, 113 A.2d  at 885; Smith v. State, 191 Md. 329, 62 A.2d 287, 289 (1948), cert. den. 336 U.S. 925, 69 S. Ct. 656, 93 L. Ed. 1087 (1949); Johnson v. State, 163 Tex.Crim. App. 101,
+289 S.W.2d 249
+(1956); Owens v. State, 217 Tenn. 544,
+399 S.W.2d 507
+, 511 (1965); Annot. 5 A.L.R.2d 394 (1949).
+
+"Some Federal courts and the New York Court of Appeals have indicated that a defendant may be granted a hearing with respect to the truth of a legally sufficient affidavit for a search warrant, but `only when there has been an initial showing of falsehood or other imposition on the   [judge]' who issued the warrant. United States v. Dunnings, 425 F.2d 836, 839-840; (2 Cir. 1969), cert. den. 397 U.S. 1002, 90 S. Ct. 1149, 25 L. Ed. 2d 412 (1970); United States v. Thornton, 147 U.S.App.D.C. 114, 454 F.2d 957, 966-970 (1971); United States v. Halsey,
+257 F. Supp. 1002
+(S.D. N.Y.1966); People v. Alfinito, 16 N.Y.2d 181, 264 N.Y.S.2d 243, 211 N.E.2d 644 (1965). Even these cases reject the idea that in every case on a routine demand a hearing may be granted as to the truth of the affidavit. They explain that if the judgment of the independent issuing judge is to be respected and given the weight the Fourth Amendment obviously intended it should have, that factor alone provides substantial ground for another judge to refuse to grant a de novo trial of the original determination of probable cause, or to grant a general exploratory inquiry into the truth of the affidavit for the warrant. It may be noted also that the United States Supreme Court has refrained thus far from deciding the issue (Rugendorf v. United States,
+376 U.S. 528
+, 531-532, 84 S. Ct. 825, 11 L. Ed. 2d 887, 891, reh. den. 377 U.S. 940, 84 S. Ct. 1330, 12 L. Ed. 2d 303 (1964)), and that certiorari was denied in the two leading Illinois cases, Bak and Mitchell, in the Maryland case of Tucker, and in the Louisiana case of Anselmo, all cited above, for the principle that when affidavits show probable cause for the granting of a search warrant, and they are accepted as credible by the issuing judge, their truthfulness cannot be relitigated.
+
+"When applications are made for search warrants the court is not called upon to decide whether the offense charged has in fact been committed. It is concerned only with whether the apparent facts set out in the affidavit are sufficient to lead a reasonably discreet and prudent judge to the belief that the offense charged has been or is being committed. If so probable cause exists for issuance of a warrant. Dumbra v. United States,
+268 U.S. 435
+, 45 S. Ct. 546, 69 L. Ed. 1032 (1925). If upon execution of the warrant, evidence of the crime described in the affidavit is seized, it cannot be gainsaid that some measure of corroboration of the truthfulness of the factual allegations of the affidavit arises. This does not mean that the result is being used to establish probable cause for the making of the search. Existence of such cause depends entirely upon the sufficiency of the affidavit presented. But if in spite of the corroboration furnished by the seizure a motion to suppress the evidence because of alleged falsity of the affidavit is to be sanctioned, the hearing thereon will be tantamount to a trial of the merits of the criminal charge, without actually resulting in a determination of the ultimate issue of guilt or innocence.
+
+"Recognition of a right in an accused to go behind the adequate showing of probable cause would add a further heavy burden to an already over-burdened criminal trial calendar. It would seriously retard the expeditious disposition of criminal cases without significantly aiding in determination of the ultimate truth of crime charged against the defendant. It is common knowledge that a great number of motions to suppress search warrants are made routinely at the present time on the ground that the supporting affidavit does not sufficiently demonstrate probable cause. The hearings thereon are time-consuming and the results indicate that the motivation is very frequently pursuit of discovery rather than to show lack of compliance with the Fourth Amendment. In our judgment the inevitably increased burden on trial judges that would be added if defendant's suggested attack on the veracity of statements were sanctioned, is not justified by the speculative risk of a rare warrant issued on a false statement."
+
+I dissent.
+
+SANDERS, Chief Justice (dissenting).
+
+I dissent from the reversal of the judgment of the trial court for the reasons assigned by Mr. Justice Summers.
+
+[1]  Probable Cause: Veracity of Underlying Facts, 33 La.L.Rev. 339.
+
+[2]  The Outwardly Sufficient Search Warrant Affidavit: What If It's False? 19 U.C.L.A. L.Rev. 96.

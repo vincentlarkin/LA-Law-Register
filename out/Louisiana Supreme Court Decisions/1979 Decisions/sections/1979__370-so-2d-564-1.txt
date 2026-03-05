@@ -1,0 +1,123 @@
+63311
+State v. Heads
+https://law.justia.com/cases/louisiana/supreme-court/1979/370-so-2d-564-1.html
+
+63311
+State v. Heads
+Court: Louisiana Supreme Court
+Release date: 1979-04-10
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/370-so-2d-564-1.html
+
+370 So. 2d 564 (1979)
+
+STATE of Louisiana
+v.
+Charles Gene HEADS.
+
+No. 63311.
+
+Supreme Court of Louisiana.
+
+April 10, 1979.
+
+Rehearing Denied May 21, 1979.
+
+*565 Wellborn Jack, Jr., Jack & Jack, Shreveport, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Paul J. Carmouche, Dist. Atty., B. Woodrow Nesbitt, Jr., Asst. Dist. Atty., for plaintiff-appellee.
+
+CALOGERO, Justice.
+
+Defendant Charles Gene Heads was charged by grand jury indictment with first degree murder. Upon trial by jury, he was found guilty as charged. After a sentencing hearing, the jury recommended life imprisonment without benefit of probation, parole or suspension of sentence. That sentence was subsequently imposed by the trial court. Defendant has appealed his conviction and sentence relying on twenty-three   assignments of error which are presented in fourteen arguments.
+
+Defendant, a resident of Houston, Texas, traveled to Shreveport in search of his wife and children who had left their home in Houston to stay with the wife's sister in Shreveport. After unsuccessfully attempting to communicate with his wife by telephone, defendant went to his sister-in-law's home. When he was refused entrance, he kicked open a carport door, entered, and found his sister-in-law's husband, the victim, in the hall armed with a pistol. After being ordered to leave the premises, the defendant opened fire with a .22 caliber pistol. When that gun was empty, he went out to his car, obtained an automatic rifle, re-entered the house, and resumed firing. One of the shots from the rifle hit the victim, killing him.
+
+By this assignment defendant contends that the trial court erred in denying his motion for a mistrial in which he argued that certain remarks made by the prosecutor during his closing argument were so prejudicial that they denied defendant a fair trial.
+
+This assignment arose when the prosecutor stated to the jury that the evidence presented of defendant's good character could not rebut conclusive evidence of guilt of first degree murder. The prosecutor then went on to review the character testimony that defendant had presented in his defense. When he discussed the testimony of one witness who had stated that he had never heard defendant's reputation discussed, the prosecutor stated that the fact that this witness had never heard negative remarks about defendant did not constitute an affirmative statement of good reputation. In an attempt to illustrate that point he gave the following example:
+
+Defense counsel objected to the remark and moved for a mistrial. It was denied.
+
+In brief defendant argues that the reference to the "Son of Sam" killer was an improper response to the evidence of defendant's good character and that the implied similarities between that killer and defendant inflamed the jury. Additionally he argues that the prosecutor by that statement referred to alleged facts not in the record but of which he implied that he had personal knowledge.
+
+The scope of closing argument in Louisiana is governed by La.Code Crim.Pro. article 774 which provides:
+
+The argument shall not appeal to prejudice.
+
+Although the prosecutor's statements were comments on the probative value of the character evidence presented by defendant and the conclusions that should be drawn from this testimony, it is questionable whether these statements fall within the permissible scope of Article 774. But even if these comments were impermissible, their use does not necessarily constitute reversible error. Before this Court will reverse a conviction on the basis of improper argument, it must be convinced that the jury was influenced by the remarks and that they contributed to the verdict. State v. Collins,
+359 So. 2d 174
+(La.1978); State v. Lee,
+340 So. 2d 180
+(La.1976).
+
+*567 In the instant case the remarks were neither detailed nor extensive. The reference was made during a clearly permissible argument concerning the value of and the weight to be given the character testimony presented by the defense. Moreover, the prosecutor preceded the illustration of his argument with the admonition that "[t]his does not relate to this case. But as an example. . . ." Nor did the prosecutor's statements express his personal belief that defendant was guilty based on facts not in evidence. The prosecutor did not imply that he knew certain facts relating to the instant case which were not in the record and which demonstrated defendant's guilt. Rather, he referred only to the facts of that highly publicized case in an attempt to illustrate his argument on character evidence. And, under the circumstances we do not find that the jury was influenced by the statements and that the comments contributed to its verdict. This argument therefore does not present reversible error.
+
+These assignments arose when defense counsel requested that the trial court charge the jury that it could not return a verdict of first degree murder unless the state proved beyond a reasonable doubt that a manslaughter was not committed. The trial court, although allowing defendant to include such a statement in his closing argument, refused to give the requested charge stating that the general charge included a correct statement of the law on this issue.[1]
+
+Defendant in brief argues that the failure of the trial court to give the special instruction resulted in a shift in the burden of proof to defendant, which relieved the state of its asserted burden of proving beyond a reasonable doubt that a manslaughter was not committed. He argues that under Mullaney v. Wilbur,
+421 U.S. 684
+, 95 S. Ct. 1881, 44 L. Ed. 2d 508 (1975), the Due Process Clause requires that the special charge be given. In that case, the U. S. Supreme Court struck down a Maine statute which was interpreted by state courts to require a defendant to establish by a preponderance of the evidence that he acted in the heat of passion in order to reduce murder to manslaughter.
+
+Unlike the Maine statute struck down in Mullaney, Louisiana's statutory scheme for homicide does not shift the burden of proving passion to the defendant. See e. g. State v. Peterson,
+290 So. 2d 307
+, 311 (La.1974) in which this Court stated that "`passion' may be inferred by the jury from the evidence adduced upon trial by the State, there being no requirement in our law that these factors be affirmatively established by the defendant."
+
+By refusing to give the requested special charge, the trial judge did not as defendant argues, shift the burden of proof to the defendant. The general charge contained a definition of first degree murder and its possible responsive verdicts, including manslaughter. The trial judge carefully instructed the jurors that the state had the burden to prove each essential element of the crime charged and that the presumption of innocence relieved the defendant from the necessity of any proof whatever. Additionally the trial judge correctly stated the law on reasonable doubt. We find that the trial court's refusal to give the special charge was not error. This assignment therefore lacks merit.
+
+By this assignment defendant contends that the trial court erred in overruling his objection to a portion of the court's general charge to the jury. Defendant contends that by reference to a presumption that a defendant intends the natural and probable   consequences of his acts, the trial court relieved the state of its burden to prove an essential element of the crime, i. e. specific intent.
+
+The disputed portion of the instruction was included in the trial court's general charge in regard to criminal intent. The trial judge stated: "A man is presumed to intend the natural and probable consequences of his acts." This statement was taken from R.S. 15:432 which provides:
+
+To determine whether his instruction was erroneously included we must consider the judge's charge as a whole. The ruling of a trial judge on an objection to a portion of his charge will not be disturbed unless the disputed portion when considered in connection with the remainder of the charge is shown to be erroneous and prejudicial. State v. George,
+346 So. 2d 694
+(La.1977). More particularly, we have held that where a general intent charge was given in a case requiring proof of specific intent, the erroneous inclusion of that instruction was harmless error where specific intent was also charged and the full general charge fairly informed the jury of the requisite intent to be proved by the state. See State v. Anderson on rehearing,
+343 So. 2d 135
+(La.1977).
+
+The defendant in this case was charged with first degree murder which requires as an essential element the "specific intent to kill or inflict great bodily harm." The trial judge read to the jury the first degree murder statute as a part of his general charge and carefully instructed the jury relative to the state's burden in proving each essential element of the crime beyond a reasonable doubt. In addition he instructed the jury relative to specific intent, its formation, and its proof by surrounding circumstances. Because the disputed portion of the charge was general in nature and was preceded and followed by accurate instruction relative to specific intent, we can not find that the instruction taken as a whole created any confusion in the minds of the jurors as to the requirement that the state prove specific intent. This assignment lacks merit.
+
+During the prosecutor's closing argument the victim's daughter who was seated in the courtroom began crying. Defense counsel moved for a mistrial and after the jury was excused explained that his motion was based on the fact that the young girl after being escorted from the courtroom cried out "Oh my daddy! Oh my daddy!" Defendant argued that because the girl had testified earlier in the trial, the jurors knew she was the victim's daughter and that her emotional outburst created an atmosphere which precluded a fair trial. The trial court denied the motion but admonished the jurors after they returned as follows:
+
+Defendant in brief contends that even if this incident did not prejudice defendant, it, combined with other assignments, prevented his having a fair trial.
+
+Although defendant does not base his motion for a mistrial on any specific code provision, it seems to fall within La.Code Crim.Pro. article 775 which provides:
+
+This Court has consistently held that when conduct does not fall within the mandatory mistrial provisions of La.Code Crim.Pro. article 770, the trial judge has the discretion to determine whether the activity or comments complained of so prejudiced the defendant that he could not receive a fair trial. State v. Domangue,
+350 So. 2d 599
+(La.1977). In denying the motion for a mistrial, the trial judge stated that he did not observe the young girl crying and that when she did leave the courtroom only her back was visible from where the jurors sat. He further stated that although he heard the girl's cries after she left the room, there was no loud disturbance within the courtroom itself. When the jurors returned, the judge admonished them that they were to disregard any sounds that they had heard either in or out of the courtroom and that they were to decide the case only on the evidence received in the trial.
+
+Mistrial is a drastic remedy and, except in instances in which the mistrial is mandatory, is warranted only when a trial error results in substantial prejudice to the defendant depriving him of a fair trial. State v. Overton,
+337 So. 2d 1058
+(La.1976). The trial judge fully admonished the jurors that they were not to consider the incident. Further, he was satisfied that the defendant was not prejudiced by it. Therefore we can not find that the trial judge abused his discretion in denying the motion for a mistrial. This assignment lacks merit.
+
+We have reviewed these assignments and conclude that none present reversible error.
+
+For the foregoing reasons the sentence and conviction of defendant are affirmed.
+
+AFFIRMED.
+
+[1]  The trial court need not give a requested special charge if it is included within the general charge. La.Code Crim.Pro. art. 807.
+
+[2]  These assignments are as follows:
+
+17. The court erred in overruling defendant's objection to jury instructions concerning the definition of reasonable doubt.
+
+18. The court erred in instructing the jury on the law of self-defense.
+
+19. The court erred in instructing the jury that intent need not be proved as a fact.
+
+21. The court erred in instructing the jury that its decision must be unanimous.
+
+3. The court erred in overruling defendant's motion for a mistrial made in response to a prejudicial remark made by the court in the presence of the jurors.
+
+4. The court erred in overruling defendant's motion for a mistrial made in response to the court's reprimanding defense counsel.
+
+9. The court erred in overruling defendant's motion for a mistrial which complained of the cumulative effect of the prejudicial conduct of the court.
+
+10. The court erred in overruling defendant's objection to the introduction of gruesome photographs into evidence.
+
+2(B) The court erred in sustaining the state's challenge for cause of fifteen jurors on the grounds that they would not vote for the death penalty.
+
+1. The court erred in overruling defendant's motion to quash the petit jury venire and in excusing numerous jurors from jury duty. 23. Not argued.

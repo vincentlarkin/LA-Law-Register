@@ -1,0 +1,76 @@
+66091
+State v. Peoples
+https://law.justia.com/cases/louisiana/supreme-court/1980/383-so-2d-1006-1.html
+
+66091
+State v. Peoples
+Court: Louisiana Supreme Court
+Release date: 1980-04-07
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/383-so-2d-1006-1.html
+
+383 So. 2d 1006 (1980)
+
+STATE of Louisiana
+v.
+Richard J. PEOPLES.
+
+No. 66091.
+
+Supreme Court of Louisiana.
+
+April 7, 1980.
+
+*1007 Jeanette G. Garrett, Caddo Parish Indigent Defender, New Orleans, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Paul J. Carmouche, Dist. Atty., Dale G. Cox, Asst. Dist. Atty., for plaintiff-appellee.
+
+MARCUS, Justice.[*]
+
+Richard J. Peoples was charged by bill of information with having committed the crimes of theft and receiving stolen things in excess of five hundred dollars on June 18, 1974, in violation of La.R.S. 14:67 and 14:69. After trial by jury on June 21-22, 1976, defendant was found guilty of receiving stolen things in excess of five hundred dollars in value. Subsequently, defendant was sentenced as a second offender to serve seven and one-half years at hard labor. On appeal, defendant relies on nine assignments of error for reversal of his conviction and sentence. Finding reversible error in one of the assigned errors, we need not consider the others.
+
+Defendant contends in Assignment of Error No. 9 that the state presented no evidence of an essential element of the crime charged. This court has consistently held that in a jury trial the proper procedural vehicle for preserving such an issue for appellate review is a motion for a new trial. State v. Spencer,
+374 So. 2d 1195
+(La.1979); State v. Williams,
+354 So. 2d 152
+(La.1977); State v. Cobbs,
+350 So. 2d 168
+(La.1977); State v. Blackstone,
+347 So. 2d 193
+(La.1977). The instant case was tried before a jury and the record does not reveal that defendant filed a motion for a new trial. Hence, in accordance with our previous jurisprudence, the claim that the state presented no evidence of an essential element of the crime charged would not be properly before this court for review.
+
+However, on further consideration, we conclude that it would be patently unfair and a substantial denial of due process to deny a defendant the right to obtain review by this court of a conviction where it is claimed that the state failed to present any evidence of the crime charged or an essential element thereof simply because he did not file a motion for a new trial or filed such a motion and neglected to assert this contention therein. Hence, whether or not a defendant raises a claim of no evidence in a motion for a new trial, upon formal assignment of error, we will review whether the defendant's claim of no evidence has merit.
+
+Defendant contends the state presented no evidence that the stolen items had a value in excess of five hundred dollars that would support the jury's finding that defendant was guilty of receiving stolen things valued in excess of five hundred dollars. La.R.S. 14:69 provides:
+
+This contention is significant because the above statute provides increased penalties for receiving stolen things at more than certain amounts. The state must prove the value of the stolen things received because upon this proof depends the determination of the severity of the offense and the punishment for the convicted offender.
+
+The record reveals that the stolen property which defendant was found guilty of receiving consisted of a copying machine purchased in 1967 for $85, two adding machines purchased in 1972 for $316.80 and an electric typewriter purchased in 1968 for $160. The total cost of these items, ranging in age from two to seven years at the time of the crime, was $561.80. In addition to evidence of the original cost of these items, an employee from the office in which the theft took place testified that it would cost $969 to replace the stolen items with similar new equipment. The same witness admitted that he had no knowledge of the value of the equipment at the time of the theft. The state did not introduce in evidence the stolen items or photographs thereof. Rather, the state produced only a receipt signed by the police and the property owner detailing the items of stolen property. Hence, the jury had no opportunity to view the condition of the office machines, ordinarily depreciable assets, in determining their value. On the other hand, defendant offered the testimony of a witness who was accepted by the court as an expert in the field of selling, reconditioning and repairing used office equipment. He stated that the stolen items could be valued at anywhere from $220 to $400.
+
+After reviewing the record, we conclude that, while the state offered evidence of the original purchase price of the stolen items, ranging in age from two to seven years at the time of the crime, and the replacement cost of similar new equipment, it offered no evidence tending to prove that the items had a value of more than $500 at the time of the offense. On the contrary, the only evidence in the record as to the value of the items at the time of the offense was between $220 and $400. Hence, we find no evidence to support defendant's conviction of receiving stolen things valued in excess of five hundred dollars. We must reverse.
+
+The United States Supreme Court in Burks v. United States,
+437 U.S. 1
+, 98 S. Ct. 2141, 57 L. Ed. 2d 1 (1978), held that the double jeopardy clause of the fifth amendment precludes a second trial once a reviewing court has found no evidence of the crime charged or an essential element thereof. In addition, the Court stated that the only just remedy for the reviewing court is the direction of a judgment of acquittal. Because we find no evidence in the record of the crime charged, we must enter a judgment of acquittal. State v. Bowen,
+376 So. 2d 147
+(La.1979); State v. Thompson,
+366 So. 2d 1291
+(La.1978); State v. Liggett,
+363 So. 2d 1184
+(La.1978).
+
+For the reasons assigned, defendant's conviction and sentence are annulled and set aside and a judgment of acquittal is entered.
+
+DENNIS, J., concurs with reasons.
+
+DENNIS, Justice, concurring.
+
+I agree that a defendant's failure to move for a new trial should not prevent our review of his assignment of error contending that there was no evidence of the crime charged or an essential element thereof. It should be noted, however, that our holding today does not establish a new rule. This Court has repeatedly held that although insufficiency of evidence is not a question of law and may not be reviewed, a total lack of evidence is a question of law and may be considered by us, provided that an assignment of error (formerly a bill of exception) properly perfected presents all the evidence so that we may determine whether there is a total lack of evidence to prove a   crime or an essential element thereof. State v. Douglas,
+278 So. 2d 485
+(La.1973); State v. Hochenedel, 253 La. 263,
+217 So. 2d 392
+(1968); State v. McLean, 216 La. 670,
+44 So. 2d 698
+(1950); State v. Drew, 202 La. 8, 11 So. 2d 12 (1942); State v. Singley, 195 La. 519, 197 So. 218 (1940). Even though imperfect expressions of the rule have appeared in some of our opinions, in actual practice this Court has not departed from this rationale.
+
+[*]  The Honorable Edward A. de la Houssaye III participated in this decision as an Associate Justice Ad Hoc.

@@ -1,0 +1,76 @@
+66549
+State v. Crater
+https://law.justia.com/cases/louisiana/supreme-court/1980/388-so-2d-802-1.html
+
+66549
+State v. Crater
+Court: Louisiana Supreme Court
+Release date: 1980-09-03
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/388-so-2d-802-1.html
+
+388 So. 2d 802 (1980)
+
+STATE of Louisiana
+v.
+Jake CRATER, Sr.
+
+No. 66549.
+
+Supreme Court of Louisiana.
+
+September 3, 1980.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Leonard K. Knapp, Jr., Dist. Atty., Lester A. Robertson, Abbott J. Reeves, Asst. Dist. Attys., Director, Research & Appeals Div., for plaintiff-appellant.
+
+*803 James Miguez, Miguez & Leckband, Lake Charles, for defendant-appellee.
+
+PER CURIAM.
+
+The State charged defendant, Jake Crater, with "maintaining a place of public entertainment ... in which lewd dancing is permitted, in violation of LSA-R.S. 14:281." (Tr. 5)
+
+The trial court granted a motion to quash the charge, holding that LSA-R.S. 14:281 is unconstitutionally vague. The court stated that today's moral climate has rendered the words "lewd dancing" subject to many conflicting interpretations.
+
+A statute must "convey a sufficiently definite warning of the proscribed conduct that the public and law enforcement officials will be put on notice as to its meaning." State v. Baker,
+359 So. 2d 110
+, 113 (1978).
+
+The prohibition of "lewd dancing" in LSA-R.S. 14:281 is not sufficiently specific to meet the requirements of Miller v. California,
+413 U.S. 15
+, 93 S. Ct. 2607, 37 L. Ed. 2d 419 (1973). Miller provides two examples of permissible definitions of "obscene":
+
+Both definitions go beyond simply rephrasing the word "obscene"; the definitions present specific examples of proscribable conduct. State v. Defrances,
+351 So. 2d 133
+(La., 1977) applied the Miller test in Louisiana obscenity cases. Here, the statute defines "obscene only by means of its synonym: "lewd".[1] Webster's Third International Dictionary (1976) notes that "obscene" is a synonymous cross-reference of "lewd".
+
+In the only Louisiana interpretation of the words "lewd dancing",[2] the Supreme   Court reviewed the 1912 ancestor to the present LSA-R.S. 14:281. That statute contained a practically identical prohibition of "lewd dancing" to that in LSA-R.S. 14:281.[3] "Lewd dancing" was found to have had a commonly accepted meaning: Dancing was lewd if it was "lascivious, lecherous, [and] tending to excite lustful thoughts." State v. Rose, 147 La. 243, 84 So. 643 at 646 (1920).
+
+Today, however, the word "lewd" does not have a consensual meaning. The quality of lewdness, in the absence of specific legislative definition, is in the mind of the beholder. Some might consider a modern dance like the "bump" to be lewd. See State v. Defrances, 351 So. 2d  at 136. Many dances that were once thought to be lewd-such as the waltz and the tango-are today considered tame. Under LSA-R.S. 14:281, the owners of most nightclubs and discotheques might be in danger of random prosecution. Legitimate forms of expression might be impaired under the vague interpretation of "lewd" provided in the Rose opinion.[4]
+
+Therefore, State v. Rose, supra, is overruled insofar as it conflicts with this opinion. The general wording of LSA-R.S. 14:281 does not place the public on notice of the type of dancing that the statute seeks to prohibit. Simply calling a type of generic conduct "obscene" does not meet the constitutional requirement of a specific statutory definition; neither does the use of "lewd", which is merely a synonym for "obscene" meet that constitutional requirement.
+
+For the foregoing reasons, the decision of the trial court is affirmed.
+
+AFFIRMED.
+
+[1]  Even the statute struck down in Miller attempted to establish a reasonable definition of "obscene":
+
+"`Obscene' means that to the average person, applying contemporary standards, the predominate appeal of the matter, taken as a whole, is to prurient interest, i. e., a shameful or morbid interest in nudity, sex, or excretion, which goes beyond customary limits of candor in description or representation of such matters and is matter which is utterly without redeeming social importance." Miller, 413 U.S.  at 17, 93 S. Ct.  at 2611."
+
+[2]  Although the precise language scrutinized in State v. Defrances,
+351 So. 2d 133
+, differs from the words under analysis in this case, the rationale of the Defrances opinion applies to the fact situation now under review. In Defrances, LSA-R.S. 14:104 was under attack for vagueness. LSA-R.S. 14:104, in part reads:
+
+"Keeping a disorderly place is the intentional maintaining of a place to be used habitually for any illegal purpose or any immoral sexual purpose."
+
+The language "immoral sexual purpose" was found to have been unconstitutionally vague under the Miller test. The Defrances court noted that:
+
+"The danger lies in the potential of this language encompassing certain activity that most would agree is generally not considered to constitute criminal activity. For example, the owners of certain establishments are not informed by 14:104's language as to whether the following activity is prohibited: (1) owners of `swinging singles' apartment complexes; (2) owners of places where sparsely-clad `go go dancers' perform; (3) apartment building owners who rent to unmarried couples who cohabit; (4) owners of bars and lounges that provide comfortable surroundings to accommodate patrons `making out'; (5) owners of bars and lounges where customers engage in the current dance crazes such as `the bump' which is suggestive of sexual intercourse. The foregoing activity, which might annoy some and shock others, could hardly have been what the legislature had in mind when it was aiming to control the proliferation of bawdy houses. Nevertheless, some law enforcement personnel could construe this conduct as `sexually immoral' and subject otherwise innocent individuals to criminal prosecution. Leaving the definition function to the courts tends to promote the kind of arbitrary and discriminatory enforcement the due process clause sought to protect against. A person of ordinary intelligence must be better informed than he is at present under R.S. 14:104 of conduct which crosses the line from non-criminal to criminal; it is a legislative function to draw the line distinctly." 351 So. 2d  at 136 [emphasis added].
+
+[3]  The relevant part of Act 199 of 1912 reads:
+
+"... a disorderly house is hereby defined as any house of public entertainment, or a public resort, or open to the public, conducted in such a manner as to disturb the public peace and quiet of the neighborhood, also any place in which lewd dancing is permitted ...". State v. Rose, 84 So.  at 644.
+
+[4]  In California v. LaRue,
+409 U.S. 109
+, 93 S. Ct. 390, 34 L. Ed. 2d 390 (1972) the United States Supreme Court tacitly held that serious communicative dance is a constitutionally protected type of First Amendment "speech".

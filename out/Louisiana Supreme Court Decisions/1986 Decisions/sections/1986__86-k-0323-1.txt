@@ -1,0 +1,91 @@
+86-K-0323
+State v. Green
+https://law.justia.com/cases/louisiana/supreme-court/1986/86-k-0323-1.html
+
+86-K-0323
+State v. Green
+Court: Louisiana Supreme Court
+Release date: 1986-09-08
+Author: DENNIS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/86-k-0323-1.html
+
+493 So. 2d 588 (1986)
+
+STATE of Louisiana
+v.
+Charles E. GREEN aka "Carlo" Green.
+
+No. 86-K-0323.
+
+Supreme Court of Louisiana.
+
+September 8, 1986.
+
+*589 Ricky Sooter, Andrew Schaffer, Provosty, Sadler & Delaunay, Alexandria, for applicant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Charles Wagner, Dist. Atty., Thomas R. Wilson, Walter Smith, Asst. Dist. Attys., for respondent.
+
+DENNIS, Justice.
+
+Defendant, Charles E. Green, was convicted by a jury of third offense theft, La.R.S. 14:67, and sentenced to 18 months in jail. He appealed and the court of appeal affirmed his conviction and sentence. 482 So. 2d 1095 (La.App. 3d Cir.1986). We granted certiorari to review defendant's argument that the Due Process Clause of the Fourteenth Amendment requires the trial judge, when evidence of a defendant's prior conviction is to be introduced for purposes of sentence enhancement at the guilt-determination stage of trial, to give a limiting instruction requiring the jury to consider defendant's prior conviction only for purposes of sentence enhancement; and that the trial judge must give such instruction despite defense counsel's failure to request the instruction or to object to its omission.
+
+R.S. 14:67, which defines theft, also contains a habitual-criminal or recidivist provision:
+
+The effect of the statute is to enhance the range of punishment for a defendant found guilty of theft of less than $100 who has also been convicted of two or more thefts previously. Thus, the statute calls for the jury to be fully informed of a defendant's prior convictions through the reading of the allegations in the indictment and the introduction of evidence of the past convictions. The statute fails, however, to require the trial judge to charge the jury that the prior convictions are not to be taken into account in assessing the defendant's guilt or innocence under the current indictment.
+
+Defendant, Green, was charged by indictment with theft of a video cassette worth less than $100 from K & B Drugs on September 15, 1984. Additionally, the indictment alleged two previous convictions of theft, one on June 26, 1984 in district court and another in city court on November 9, 1982.
+
+At trial the defense counsel objected to the reading of the allegations of previous crimes in the indictment to the jury on the ground that evidence of the past crimes "is only admissible in the event Mr. Green is   convicted, and it is merely a sentencing guideline and not an essential element of the offense." The trial court overruled the objection for the reason that the allegations of the prior offenses were necessary to fully charge the basic offense and were therefore properly contained in the indictment. Reserving the right to maintain the objection on appeal, defense counsel stipulated that defendant was convicted of the previous crimes as alleged in the indictment. The stipulation was later repeated before the jury. Defense counsel did not request a limiting instruction or object to the trial court's failure to give one. Defendant did not take the stand.
+
+After being convicted of third offense theft and sentenced to 18 months in jail, defendant appealed. On appeal, the court of appeal affirmed after reviewing several assignments of error. We granted certiorari to review only relator's assignment of error relating to the court's failure to give a limiting instruction.
+
+Considering the defendant's attack upon the third offense theft recidivist procedure solely as a complaint about the trial court's failure to give a limiting jury instruction under state law, the court of appeal found defendant's assignment of error to have no merit. The appeals court reasoned that because defendant did not object to the failure to give a limiting instruction in the trial court, La.C.Cr.P. Art. 801 expressly prevented him from raising the omission of the jury instruction on appeal.
+
+Defendant's assignment of error in the court of appeal and in this court, however, involves much more than a simple failure to give a jury instruction required by state law. He contends that La.R.S. 14:67 violates the Due Process Clause of the Fourteenth Amendment because it authorizes the use of his past convictions as evidence of present guilt without the requirement of a limiting jury instruction that the prior convictions are relevant only to the question of enhanced punishment. The court of appeal may have disregarded defendant's constitutional argument as not having been properly raised below. But, if this is the case, our court of appeal Brethren fell into error. The facial unconstitutionality of a statute on which a conviction is based is an error discoverable by the mere inspection of pleadings and proceedings, without inspection of the evidence, which an appellate court is entitled to review, even though the defendant did not comply with the assignment of error procedure. State v. Wrestle, Inc.,
+360 So. 2d 831
+(La.1978); State v. Jones,
+347 So. 2d 200
+(La.1977); State v. Stewart,
+325 So. 2d 828
+(La.1976), U.S. cert. denied 425 U.S. 997, 96 S. Ct. 2213, 48 L. Ed. 2d 822; State v. McKeel, 443 So. 2d 753 (La.App. 4th Cir.1983), aff'd in part, amended in part
+452 So. 2d 1171
+(La.1984). Furthermore, defense counsel's objection to the introduction of defendant's past convictions during his trial on the primary charge may be construed as an objection to the lack of fairness and due process in the procedure.
+
+The question raised by defendant's due process attack is whether a state statute may constitutionally authorize the prosecutor, in a single proceeding, to offer both evidence of the defendant's guilt of the primary charge and evidence of his prior criminal record of crimes of a similar nature to enhance his punishment, without also requiring a limiting jury instruction that the defendant's past convictions are not to be taken into account in assessing his guilt or innocence of the primary offense charged.
+
+The United States Supreme Court in Spencer v. Texas,
+385 U.S. 554
+, 87 S. Ct. 648, 17 L. Ed. 2d 606 (1967), upheld the constitutionality of a Texas recidivist statute which permitted the state to fully inform a jury, during a defendant's trial on the pending criminal charge, of the defendant's past convictions when the jury was also charged that such matters were to be considered only for the limited purpose of enhancement of punishment and not for deciding guilt or innocence. It follows from the high court's rationale that a recidivist procedure is unconstitutional, when it allows evidence of defendant's past crimes to be admitted for punishment enhancement   during the guilt determination trial, unless the procedure requires a jury instruction as to the limited purpose of the prior crime evidence.
+
+The United States Supreme Court recognized that prior crime evidence has a potentiality for prejudice and is usually excluded except when it is particularly probative in showing such things as intent, a system of criminal activity, or when the defendant has raised the issue of his character, or when the defendant has testified and the state seeks to impeach his credibility. 385 U.S.  at 560-62, 87 S. Ct.  at 651-53. But, the court noted that, in all these situations, the conceded possibility of prejudice is believed to be outweighed by the validity of the state's purpose in permitting introduction of the evidence, and that the defendant's interests are believed to be protected by limiting instructions and by the trial judge's discretion to limit or forbid the admission of particularly prejudicial evidence even though admissible under an accepted rule of evidence. Id. at 561, 87 S. Ct.  at 652. The court acknowledged that the use of prior crime evidence in a one-stage recidivist trial may represent a less cogent state interest than does its use for other purposes, in that other procedures for applying enhancement-of-sentence statutes are available to the State, such as bifurcated proceedings, which are not feasible in the other situations in which such evidence is introduced. Id. at 563, 87 S. Ct.  at 653. Nonetheless, the court concluded that the use of prior crime evidence in a one-stage recidivist trial is justified, despite the prejudicial effect which is acknowledged to inhere in this practice, because (1) the admonitory instruction is given which the jury is expected to follow in limiting the evidence to its proper function, and (2) a valid state purpose is served by its introduction, viz., the enforcement of recidivist laws. Id. at 562-63, 87 S. Ct.  at 652-53.
+
+The Supreme Court expressly affirmed Spencer in Marshall v. Lonberger,
+459 U.S. 422
+, 438, 103 S. Ct. 843, 853, 74 L. Ed. 2d 646 (1983), and two United States Courts of Appeal have extended Spencer by holding that the prejudice to the defendant which results from a failure to give limiting jury instructions with regard to prior crime evidence in one-stage recidivist trials is so great that it constitutes plain error of constitutional magnitude, requiring relief even where the defendant did not request the limiting jury instructions. Dawson v. Cowan, 531 F.2d 1374 (6th Cir.1976); Evans v. Cowan, 506 F.2d 1248, 1249 (5th Cir.1974).
+
+Applying these precepts to the present case, we conclude that a one-stage recidivist trial procedure would, in the absence of a mandatory limiting jury instruction, "fall below the minimum level the Fourteenth Amendment will tolerate." Spencer v. Texas, 385 U.S.  at 569, 87 S. Ct.  at 656 (Stewart, J. concurring). Spencer took a balancing approach to interpreting the requirements of the Fourteenth Amendment's Due Process Clause and held that under the Texas recidivist statute the conceded potentiality for prejudice from admitting a prior conviction did not outweigh the benefits the state might derive from the procedure that required admitting the evidence of the prior convictionbecause the Texas procedure required that the jury be given proper limiting instructions. On the other hand, a one-stage recidivist procedure which does not require a limiting instruction to reduce the substantial possibility that the jury will take past crimes into account in deciding present guilt or innocence, falls short of the delicate balance struck by Spencer as the minimum safeguard required, and therefore, violates the Due Process Clause.
+
+In isolation from other statutes, La.R.S. 14:67 would deny due process because it alone does not require that a limiting instruction be given to the jury regarding the recidivist evidence. However, we have accepted the principle that statutory language broad enough to be applied both validly and invalidly may be restricted to those applications within the legislative authority, when such a result conforms to what the legislature intended and does not destroy the fundamental purpose of the act. New Orleans Firefighters Assoc. v. Civil Service Commission,
+422 So. 2d 402
+  (La.1982); State v. Johnson,
+343 So. 2d 705
+(La.1977); Roy v. Edwards,
+294 So. 2d 507
+(La.1974); Mims v. West Baton Rouge Parish School Board, 315 So. 2d 349 (La. App. 1st Cir.1975); See also City of Lake Charles v. Chaney,
+468 So. 2d 1191
+(La. 1985); State v. Union Tank Car Co.,
+439 So. 2d 377
+(La.1983); State v. Manuel,
+426 So. 2d 140
+(La.1983); Sutherland Stat Const § 44.17 (4th Ed).
+
+Following this principle, we conclude that La.R.S. 14:67 is not unconstitutional on its face. Although La.R.S. 14:67 does not require a limiting jury instruction, neither does it prohibit one. On the other hand, La.Code of Criminal Procedure article 802, may be construed to require such an instruction in a third offense theft trial. Article 802 provides that "[t]he court shall charge the jury ... [a]s to the law applicable to the case." La.C.Cr.P. art. 802(1). Spencer and the subsequent federal cases make it clear that the limiting jury instruction is essential to the constitutionality of a one-stage recidivist proceeding and is therefore part of "the law applicable to the case." Since it is clear that the Legislature intended to establish a valid third offense theft recidivist procedure, we adopt the application of La.C.Cr.P. art. 802 to La.R.S. 14:67 in order to uphold the fundamental purpose of the act and to construe La.R.S. 14:67 within the requirements of the Due Process Clause which we believe mandates a limiting jury instruction in the third offense theft recidivist trials. Therefore, we conclude that when R.S. 14:67 is read in pari materia with Article 802 of the Code of Criminal Procedure, the third offense theft procedure does not deny due process because our law requires that a limiting instruction be given to the jury as to the prior crime evidence.
+
+Although we granted certiorari in this case primarily because of the alleged facial unconstitutionality of La.R.S. 14:67, relator's application also fairly raises the question of whether the statute was administered unconstitutionally in his case. The jurisdiction of this court to issue supervisory writs set forth in Art. 5 § 5(A) of the 1974 Louisiana Constitution is plenary and unfettered. Once a writ is granted, we will entertain a relator's complaint that he was denied due process of law in a criminal proceeding, particularly if the alleged deprivation is included within or closely related to the alleged error which caused this court to grant the writ.
+
+Applying the foregoing precepts, we conclude that defendant's conviction and sentence were obtained through a procedure which falls below the minimum level that the Due Process Clause will tolerate and therefore must be set aside. The jury which was to decide defendant's guilt or innocence on the primary charge was informed of the allegations of defendant's two prior convictions in the indictment and given evidence of these convictions during the guilt-determination phase trial. The jury was not instructed to refrain from taking this information into account in deciding defendant's guilt or innocence. This presented a substantial and constitutionally intolerable potential for prejudice. Accordingly, the defendant's conviction and sentence are reversed and the case is remanded to the trial court for further proceedings.
+
+REVERSED AND REMANDED.
+
+LEMMON, J., concurs and assigns reasons.

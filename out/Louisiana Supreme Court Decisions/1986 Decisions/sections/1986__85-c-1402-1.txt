@@ -1,0 +1,85 @@
+85-C-1402
+Baesler v. State Farm Mut. Auto. Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-1402-1.html
+
+85-C-1402
+Baesler v. State Farm Mut. Auto. Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1986-01-13
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/85-c-1402-1.html
+
+481 So. 2d 131 (1986)
+
+Reu BAESLER
+v.
+STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY et al.
+
+No. 85-C-1402.
+
+Supreme Court of Louisiana.
+
+January 13, 1986.
+
+William P. Rutledge, Domengeaux & Wright, New Orleans, for plaintiff-applicant.
+
+Richard L. Edrington, Accardo, Edrington, LeBlanc & Golden, LaPlace, for defendants-respondents.
+
+DIXON, Chief Justice.
+
+Reu Baesler brought this action to recover for injuries sustained when the company car he was driving was hit from behind. Allstate Insurance Company, his uninsured motorist carrier, was made a party defendant. Claiming the benefit of an exclusion in the policy which denies coverage when its insured is driving a vehicle "furnished for the regular use of the named insured," Allstate moved for summary judgment. The trial judge granted the motion and dismissed Allstate from the suit.
+
+Baesler appealed devolutively to the court of appeal, arguing that the vehicle had not been furnished for his "regular use," and that summary judgment was therefore inappropriate. After the case had been submitted, Baesler for the first time realized that the exclusion pertained only to liability coverage, and not to a named insured's protection against uninsured motorists.[1] Leave to supplement argument   was denied and the judgment of the trial court affirmed, 469 So. 2d 999. On application for rehearing in the court of appeal, Baesler again sought to have the appeal decided on a proper interpretation of the policy. Rehearing was denied. We issued writs to correct an obvious error. 475 So. 2d 347 (La.1985); see C.C.P. 2164.
+
+On the basis of the affidavits submitted,[2] this court would find it difficult to agree that Baesler's car had been furnished for his regular use, cf. Nevels v. Hendrix, 367 So. 2d 33 (La.App. 4th Cir.1978), or that such an exclusion could stand against the mandate of the uninsured motorist statute. See R.S. 22:1406(D)(1)(a). Because Baesler so clearly must prevail on the wording of the policy, however, it is unnecessary to consider either question.
+
+Summary judgment is appropriate only when there is no genuine issue of material fact and when movant is entitled to judgment as a matter of law. C.C.P. 966. Under the Allstate policy, whether Baesler was assigned the vehicle for his regular use is immaterial. He is covered as against uninsured motorists while driving any vehicle, while occupying any vehicle, or while walking down the road. Allstate, upon showing assignment for regular use would not be entitled to judgment as a matter of law.
+
+The opinion of the court of appeal is accordingly vacated. The motion for summary judgment is denied, and the case is remanded to the trial court for further proceedings consistent with this opinion. Costs shall be divided equally between the parties to this appeal.
+
+[1]  In pertinent part the policy reads as follows:
+
+"SECTION II
+
+PROTECTION AGAINST BODILY INJURY BY UNINSURED AUTOMOBILES COVERAGE SSUninsured Motorists Insurance
+
+Allstate will pay all sums which the insured or his legal representative shall be legally entitled to recover as damages from the owner or operator of an uninsured automobile because of bodily injury, sickness or disease, including death resulting therefrom, hereinafter called `bodily injury,' sustained by the insured, caused by accident and arising out of the ownership, maintenance or use of such uninsured automobile; provided, for the purposes of this coverage, determination as to whether the insured or such representative is legally entitled to recover such damages, and if so, the amount thereof, shall be made by agreement between the insured or such representative and Allstate or, if they fail to agree may be made by arbitration.
+
+. . . . .
+
+1. `insured' means:
+
+(a) the named insured as stated in the policy, the spouse of any such named insured and relatives of either, while residents of the same household;
+
+(b) any other person while occupying an insured automobile; and
+
+(c) any person, with respect to damages he is entitled to recover because of bodily injury to which this coverage applies sustained by an insured under (a) or (b) above.
+
+The insurance applies separately with respect to each insured, but the application of the insurance to more than one insured shall not operate to increase the limits of Allstate's liability.
+
+2. `insured automobile' means an automobile:
+
+(a) described in the declarations as an insured automobile to which the bodily injury liability coverage of the policy applies; (b) while temporarily used as a substitute for an insured automobile as described in subparagraph (a) above, when withdrawn from normal use because of its breakdown, repair, servicing, loss or destruction;
+
+(c) while being operated by a named insured or by his spouse if a resident of the same household;
+
+but the term `insured automobile' shall not include:
+
+(i) an automobile while used as a public or livery conveyance;
+
+(ii) an automobile while being used without the permission of the owner;
+
+(iii) under subparagraphs (b) and (c) above, an automobile owned by the named insured or any resident of the same household as such insured; or
+
+(iv) under subparagraphs (b) and (c) above, an automobile furnished for the regular use of the named insured or any resident of the same household."
+
+[2]  The motion for summary judgment was based on the following deposition testimony of the plaintiff:
+
+"Q. Was that a vehicle that was provided to you as a company car?
+
+A. That is correct.
+
+Q. In having that car as a company vehicle, would you take it home, or would you leave it at the plant?
+
+A. They assign it to you."

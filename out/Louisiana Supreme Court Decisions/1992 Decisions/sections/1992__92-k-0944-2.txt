@@ -1,0 +1,159 @@
+92-K-0944
+State v. Bennett
+https://law.justia.com/cases/louisiana/supreme-court/1992/92-k-0944-2.html
+
+92-K-0944
+State v. Bennett
+Court: Louisiana Supreme Court
+Release date: 1992-11-30
+Author: COLE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1992/92-k-0944-2.html
+
+610 So. 2d 120 (1992)
+
+STATE of Louisiana
+v.
+Roy BENNETT.
+
+No. 92-K-0944.
+
+Supreme Court of Louisiana.
+
+November 30, 1992.
+
+Concurring Opinion December 2, 1992.
+
+Concurring Opinion December 8, 1992.
+
+Rehearing Denied February 4, 1993.
+
+Richard P. Ieyoub, Atty. Gen., William E. Tilley, Dist. Atty., Barbara B. Rutlege, Edwin L. Cabra, Asa A. Skinner, Leesville, for applicant.
+
+Richard V. Burnes, Glenn G. Cortello, Alexandria, for respondent.
+
+Concurring Opinion by Justice Dennis December 2, 1992.
+
+Concurring Opinion by Justice Calogero December 8, 1992.
+
+COLE, Justice.
+
+The issue presented in this case involves the finality of a court of appeal judgment in a criminal proceeding when a party has timely filed a writ application with the supreme court. Is the court of appeal judgment considered final when the court of appeal denies rehearing or when the supreme court later denies the writ application? Although a seemingly simple issue, such a determination has important ramifications. When a court of appeal has granted a criminal defendant a new trial, the State has one year from the finality of that judgment in which to retry the defendant. In this case the trial court denied the defendant's Motion to Quash, holding that the court of appeal's judgment granting new trial was final when this court denied the State's writ application. The court of appeal reversed the trial court, finding the judgment was final when it had denied the rehearing application. We now reverse and hold the court of appeal judgment was not final until this court denied the State's writ application. Thus, the State timely retried the defendant.
+
+On January 15, 1988, defendant was convicted by a unanimous jury of solicitation to commit murder under LA.REV.STAT. § 14:28.1 and sentenced to five years at hard labor. On July 5, 1989, the third circuit reversed because of an unconstitutional, prejudicial limitation on defendant's right to cross-examine a witness against him and remanded for further proceedings.[1] The State's application for a rehearing was denied on September 18, 1989. The State then applied to the Louisiana Supreme Court on October 18, 1989 for a writ of certiorari which was denied on January 12, 1990.[2]
+
+The State later retried defendant, trial having been set to commence on November 12, 1990. That day, defendant filed a Motion   to Quash Urging Plea of Prescription. The defendant maintained the state had one year from the granting of the new trial in which to retry him, and the one year began either on July 5, 1989 when his conviction was reversed, or on September 18, 1989 when the court of appeal denied rehearing. Both of these dates would result in the one year having expired by November of 1990. The State argued the one year did not begin until the Louisiana Supreme Court denied the writ application on January 12, 1990, and therefore, the retrial beginning on November 12, 1990 was timely.
+
+The trial court agreed with the State and denied the defendant's motion. Defendant was again convicted by a unanimous jury of solicitation to commit murder and again sentenced to five years at hard labor. Defendant appealed the conviction to the court of appeal which reversed, concluding the one year prescription on retrial commenced when the rehearing was denied by the court of appeal.[3] The court of appeal denied rehearing, and the State timely applied to this court for relief. We granted the writ application[4] and now reverse.
+
+Conflict Between the Codes
+
+La.Code Crim.Proc. art. 582 provides "[w]hen a defendant obtains a new trial ... the state must commence the second trial within one year from the date the new trial is granted."[5] If the time limitation expires, the court shall dismiss the indictment upon motion of defendant, and there shall be no further prosecution against the defendant for that criminal conduct. La.Code Crim.Proc. art. 581. In State v. Brown,
+451 So. 2d 1074
+, 1080 (La.1984), this court interpreted Article 582 to mean that the one year begins to run from the date when the order for a new trial "becomes final."[6] A determination of when the court of appeal judgment granting a new trial in this case became final is not easy because of a clear conflict between the criminal and civil procedural articles on finality of judgment.
+
+Louisiana Code of Criminal Procedure article 922 (hereinafter La.C.Cr.P. art. 922 or Article 922) presently provides in full:
+
+Note that the article does not provide for the finality of a court of appeal judgment when a writ application has been filed with and denied by the supreme court. This omission is rendered obvious by the fact that the civil procedure article on finality of judgment provides for such a situation. Louisiana Code of Civil Procedure article 2166 (hereinafter La.C.C.P. art. 2166 or Article 2166) states in full:
+
+A. Within fourteen days of the mailing of the notice of the judgment and opinion of the court of appeal, a party may apply to the court of appeal for a rehearing. Within thirty days of the mailing of the notice of the judgment and opinion of the court of appeal, a party may apply to the supreme court for a writ of certiorari. The judgment of a court of appeal becomes final and definitive   if neither an application to the court of appeal for rehearing nor an application to the supreme court for a writ of certiorari is timely filed.
+
+Both articles provide for the finality of a court of appeal judgment when there has been no application for rehearing and when there has been a denial of an application for rehearing. However, only Article 2166 specifically provides for the finality of a court of appeal judgment when a timely filed writ application has been denied by the supreme court. Paragraph (C) of Article 922 obliquely applies to the same situation, and then only by default. Thus, the significance of Article 922's silence must be considered in resolving the issue in this case.
+
+Statutory Interpretation
+
+We note at the outset that the Civil Code places restrictions on this court regarding our approach to statutory interpretation. Civil Code art. 9 states:
+
+(emphasis added).
+
+It is true there is no ambiguity in the actual language used in La.C.Cr.P. art. 922. However, the application of the words is uncertain in that it is only because there is no more specific provision dealing with the denial of writs under that article that we fall by default to the section on denial of rehearing in the court of appeal.[8] This ambiguity is exacerbated by the presence in La.C.C.P. art. 2166 of a provision that deals specifically with this issue. Civil Code art. 13 states that "[l]aws on the same subject matter must be interpreted in reference to each other." By comparing La.C.Cr.P. art. 922 and La.C.C.P. art. 2166, two articles that deal with the same subject matter of finality of judgments, it is clear Article 922 is ambiguous in its application. Further, as will be explained later, the court of appeal's literal application of that article leads to absurd consequences.
+
+As a result, this court can look to legislative history and the intent of the legislature in seeking to interpret the meaning of and assess the significance of Article 922's silence. ("When the literal construction of a statute produces absurd or unreasonable results `the letter must give way to the spirit of the law and the statute construed so as to produce a reasonable result.'" Green v. Louisiana Underwriters Insurance Co.,
+571 So. 2d 610
+, 613 (La.1990) (citation omitted)). If it appears from the legislative   history, however, that the omission in Article 922 is intentional and paragraph (C) of that article is meant to apply even in situations where writ applications have been filed with and subsequently denied by this court, then we would not be free to reverse the court of appeal in this case. ("While this court can consider the reason and spirit of a law that brought about its enactment, it is not free to rewrite the law to effect a purpose that is not otherwise expressed." Backhus v. Transit Casualty Co.,
+549 So. 2d 283
+, 291 (La.1989) (citation omitted)). However, because we find the silence in Article 922 is unintentional, La. C.Cr.P. art. 3 allows us to "proceed in a manner consistent with the spirit of the provisions of this Code and other applicable statutory and constitutional provisions."
+
+Legislative History
+
+The court of appeal placed great emphasis on the fact that La.C.Cr.P. art. 922 and La.C.C.P. art. 2166 were amended in the same act in 1983, implying that the Louisiana Legislature noticed the omission in Article 922 and intended that it remain. However, after reviewing the legislative history, we conclude the omission in Article 922 of a provision dealing with writ applications to the supreme court was inadvertent and resulted from the fact that the supreme court previously had exclusive jurisdiction over criminal appeals.
+
+When La.C.C.P. art. 2166 and La.C.Cr.P. art. 922 were both originally enacted, the 1921 Louisiana Constitution was in effect. Under the 1921 constitution, the courts of appeal had jurisdiction over appeals in civil cases. 1921 La. Const. Art. 7, § 29. Consequently, it was necessary for the legislature to provide a procedure for the litigant who lost at the court of appeal level to apply to the state supreme court for review. Because such a procedure was provided for, the legislature had to consider it in determining when court of appeal judgments should be considered final. This was accomplished with two articles, La. C.C.P. art. 2166 and art. 2167. As they existed in 1966 (when La.C.Cr.P. art. 922 was first enacted), the articles provided:
+
+Art. 2166. Rehearing
+
+Art. 2167. Finality of judgment
+
+Criminal appeals were treated differently under the 1921 constitution. The Louisiana Supreme Court had exclusive appellate jurisdiction over all criminal felony cases while the courts of appeal had appellate jurisdiction in the criminal area only over juvenile delinquency proceedings. 1921 La. Const. Art. 7, § 10(5) and § 29. As a result, virtually all criminal appeals went directly from the trial court to the state supreme court, and there was no need to create a procedure for seeking a writ from the supreme court to review a court of appeal's actions. The legislature was consequently not concerned with the finality of a court of appeal judgment in a criminal proceeding since there were no such judgments. In 1966, the Louisiana Legislature enacted La.C.Cr.P. art. 922. As enacted, Article 922 read:
+
+*124 Art. 922. Finality of judgment on appeal
+
+It is very important to note that La. C.C.P. arts. 2166 and 2167 were cited as the sources of Article 922. Further, at the time Article 922 was created, the Official Revision Comment explained the legislative intent of creating that article. It states in part:
+
+It is clear from the Comment and from the fact that Articles 2166 and 2167 are the sources of Article 922 that the legislature intended for the rules governing finality of judgment to be as similar as possible for criminal and civil cases. The only reason that Article 922 did not provide for the finality of a court of appeal judgment when a writ application had been filed in the supreme court, as did Article 2167 at the time, is because there was no reason to do so. Such a procedure did not exist in criminal proceedings at that time as a result of the supreme court's having exclusive jurisdiction over criminal appeals. This is reflected in the Revision Comment to Article 922 where it states that "provisions dealing only with civil matters are omitted." Those provisions from Articles 2166 and 2167 which were omitted from Article 922 and which dealt "only with civil matters" were those provisions concerning judgments of the courts of appeal and applications for certiorari to the supreme court seeking to review those court of appeal judgments. Had the constitution in effect in 1966 provided for criminal appeals to the courts of appeal instead of direct appeals to the supreme court, there is no doubt that Article 922 would have included a provision similar to the one found in old Article 2167, that a judgment of the court of appeal became final when the supreme court denied a timely filed writ application. The omission in Article 922 was not in any way a rejection of the provision found in Article 2167. Rather, it was simply an acknowledgement of that provision since the courts of appeal, at that time, had no appellate jurisdiction in criminal matters.
+
+In July 1982, the Louisiana Constitution of 1974 was amended to provide for appellate criminal jurisdiction in the courts of appeal.[9] The supreme court retained exclusive appellate criminal jurisdiction only in capital cases where the death penalty was actually imposed. La. Const. Art. 5, Section 5(D). The courts of appeal were vested with criminal appellate jurisdiction over essentially all other felony convictions. La. Const. Art. 5, Section 10(A).
+
+In 1983, the legislature in Acts 1983, No. 451, amended both La.C.Cr.P. art. 922 and La.C.C.P. art. 2166. The only change to Article 2166 was to reduce the time period for applying for rehearing from thirty to fourteen days. Changes to Article 922 included adding the words "or any appellate court" to paragraphs (A) and (B), deleting   paragraph (C), and renaming paragraph (D) as paragraph (C). Clearly, the legislature in its amendment to Article 922 was attempting to address the fact that the courts of appeal after 1982 had appellate jurisdiction in criminal cases. From this, the court of appeal concluded in this case that the legislature must have noticed the omission and intended it to remain. On the contrary, we believe that if the legislature had noticed the omission as alleged by the court of appeal and the defendant, it would have gone out of its way to specifically provide in Article 922 that the finality of a court of appeal decision in a criminal case is not affected by an application for writs to the supreme court. This is especially so in light of the Revision Comment that the finality of judgments in criminal and civil cases should be the same. A far more likely explanation, in light of the legislative history of these articles, is that the legislature simply overlooked the issue.
+
+Analysis[10]
+
+We recognize that the purpose of a statutory time limitation is to enforce the right of the accused to a speedy trial. State v. Walgamotte,
+415 So. 2d 205
+(La.1982), cert. denied, 459 U.S. 970, 103 S. Ct. 299, 74 L. Ed. 2d 281 (1982). Keeping this in mind, we feel compelled, however, to hold that where a writ application has been timely filed with the supreme court, a judgment of the court of appeal in a criminal proceeding is not final until that writ application is denied. The legislative history of Article 922, supra, and the absurd consequences that otherwise result under the court of appeal's approach mandate this result.
+
+If we were to hold that the court of appeal's judgment was final when it denied rehearing, the State would have one year from that day to retry defendant. What if, in the meantime, the State filed a writ application with this court and we granted the application? First, the state will be constrained to retry the defendant within the one year, possibly at great taxpayer expense, before it even hears from the supreme court whether or not the court of appeal was incorrect in ordering a new trial. The defendant asserted in oral argument before this court that the State could set the trial within the year and then seek a stay from the trial court or this court. This would not help the State for two reasons. First, granting a stay is a totally discretionary act by the courts. The State's right to retry the defendant within one year should not be predicated on the discretion of a court. Second, La.C.Cr.P. art. 579 says that the one year for retrial under Article 582 can be suspended by a "cause beyond the control of the state." But, where the state itself has requested the stay, the "cause" of the delay is the State, and there is an argument that the one year would continue to toll in spite of the stay.
+
+An additional reason why the court of appeal's interpretation of Article 922 cannot stand is revealed in the connexity of the provisions of that article and by the following hypothetical. If the one year for retrial begins to run when the court of appeal denies rehearing, despite the filing of a writ application with the supreme court, what then is the effect of paragraph (B) of Article 922 if the supreme court   grants the writ and later issues a judgment affirming the court of appeal? Paragraph (B) provides for the finality of a supreme court judgment. Article 582 and State v. Brown, 451 So. 2d  at 1080, state that the one year for retrial runs from the finality of the judgment granting defendant a new trial. No one would say that the judgment granting a new trial in the above hypothetical is final when the court of appeal denied rehearing. Rather, every rational legal mind would find the judgment to be final when the supreme court affirmed the court of appeal and no application for rehearing was filed with this court. Clearly, the one year for retrial runs from the finality of the supreme court judgment in that case. But, if it took over one year from the court of appeal's denial of rehearing for the supreme court to issue its judgment, which is highly likely, then the court of appeal and the defendant would say that the State has forfeited its rights to retry the defendant. This was obviously not the intention of the legislature. Our reading into Article 922 a provision that the court of appeal judgment is final when the supreme court denies a writ application is necessary for the remaining sections of the article to make sense.
+
+There are no unduly prejudicial consequences for the defendant resulting from our holding today. When a court of appeal reverses the lower court and orders a new trial, defendant could possibly be released. La.C.Cr.P. art. 913 states that an appeal by the state does not suspend the judgment from which the appeal was taken where that judgment requires the release of the defendant. So, our providing that the judgment is not final until the State's timely filed application for writs is denied would not affect any potential release of the defendant and would only hurt the defendant in that the one year period for retrial starts to run a few months later. Our holding today would also not harm the defendant where the court of appeal affirms the conviction, and it is the defendant who files the writ application with this court. La.C.Cr.P. art. 913 states that an appeal by the defendant shall not suspend the execution of the sentence unless the defendant is admitted to postconviction bail. Thus, a holding that the court of appeal judgment is not final until the supreme court denies the defendant's writ does not affect the defendant who is previously in custody under Article 913.
+
+For the foregoing reasons, the judgment of the court of appeal vacating the conviction is reversed, the court of appeal's order releasing the defendant is vacated, and the case is remanded to the court of appeal to address the remaining assignments of error raised by the defendant in his appeal to that court.
+
+REVERSED, AND REMANDED.
+
+HALL, J., dissents for the reasons assigned by the Court of Appeal.
+
+DENNIS, J., concurs with reasons.
+
+CALOGERO, C.J., concurs and assigns reasons.
+
+DENNIS, Justice, concurring with reasons.
+
+I respectfully concur. Although I do not totally agree with the majority's statutory interpretation methodology, I agree with the result it reaches. An assertion of legislative power that defeats or thwarts this court's performance of its role either as supervisor of the court system or final arbiter of state law would be unconstitutional as a violation of the separation of powers, our supervisory jurisdiction, or this court's inherent judicial authority. A statute should always be given a reasonable vindicating interpretation rather than an invalidating one.
+
+CALOGERO, Chief Justice, concurring.
+
+I agree that the most rational rule is that the court of appeal judgment on direct appeal of the defendant's conviction and sentence becomes final when this Court denies a timely filed writ application for review. However, La.C.Cr.P. art. 913 does not protect the defendant from the possible adverse effects of this rule of finality, because art. 913 applies only to appeals to the court of appeal from the district court, and   not to applications for writs of review filed with this court.
+
+Today's ruling will have the result that when the State applies for writs, and this Court denies the application, defendants who have been ordered released by the court of appeal will have remained in custody until this Court denies the State's writ. Likewise, when the court of appeal has granted the defendant a new trial and the state appeals this ruling, the defendant will not be entitled to release on bail because the court of appeal's judgment is not yet final. The lack of finality means that the bail the defendant might be granted for his new trial cannot be granted because the district court does not yet have jurisdiction, while the bail granted for his first trial is of course no longer effective after his initial conviction. In addition, as the majority points out, defendants who were granted a new trial at the court of appeal are also adversely affected by today's ruling in that the one-year period during which a new trial must begin will only start to run after this Court has denied the State's writ.
+
+I concur in the result the Court reaches simply in order to point out this impact on defendants who are later found to have been entitled to release or a new trial.
+
+[1]  State v. Bennett, 550 So. 2d 201 (La.App. 3d Cir.1989).
+
+[2]  554 So. 2d 1236 (La.1990).
+
+[3]  592 So. 2d 467 (La.App. 3d Cir.1991). One judge dissented, arguing the one year began when the supreme court denied writs.
+
+[4]
+600 So. 2d 653
+(La.1992).
+
+[5]  An alternative under the statute is that the state must commence the second trial within the period established by La.Code Crim.Proc. art. 578 if that period is longer than one year. In this case, that alternative is inapplicable.
+
+[6]  We recognize that the one year prescriptive period may be interrupted under La.Code Crim. Proc. art. 579 and suspended under La.Code Crim.Proc. art. 580; however, none of those causes are at issue in this case.
+
+[7]  See also Crescionne v. La. State Police Retirement Bd.,
+455 So. 2d 1362
+,
+1364
+(La.1984) wherein this court stated that "when a statute is clear and unambiguous, this court is bound to apply it as it is written and it is for the legislature to amend the statute if it is inequitable."
+
+[8]  In Green v. La. Underwriters Ins. Co.,
+571 So. 2d 610
+, 613 (La.1990), we noted: "[I]t is the duty of this court to restrict broad statutory language if we are convinced the legislature did not intend such an effect." We are convinced in this case that the legislature did not intend for paragraph (C) of Article 922 to be interpreted so broadly as to include the finality of a court of appeal judgment where there has been a denial of a writ application to the supreme court.
+
+[9]  The 1974 constitution, as originally adopted, did not change the appellate jurisdiction of criminal cases. The supreme court continued to have exclusive appellate jurisdiction over any case where the defendant had been convicted of a felony and over any case where a fine exceeding $500.00 or imprisonment exceeding 6 months had been imposed. The courts of appeal had no appellate jurisdiction in those areas, but continued to have appellate jurisdiction in civil cases. La. Const. Art. 5, § 5(A) and (D) and § 10.
+
+[10]  The defendant asserts that State v. Chapman, 495 So. 2d 1001 (La.App. 3d Cir.), writ denied, 498 So. 2d 756 (1986), should control our decision. Chapman is not on point. In that case, the trial court granted defendant's motion for new trial, and the State filed various writ applications with the court of appeal. Because the defendant was later retried over a year from the trial court's granting of the retrial, the State tried to argue that the filing of its writ applications with the court of appeal interrupted or suspended the running of the year under La. C.Cr.P. art. 582. The court, looking solely at the causes for interruption or suspension under Articles 579, 580, 581, and 583, found that the "filing of a writ application by the state to overturn a trial court's grant of a new trial is not a statutory cause of interruption or suspension of the trial time limitation." Id., 495 So. 2d  at 1005. Chapman did not involve Article 922 at all. The State is not here arguing that the filing of the writ with this court interrupted the running of the one year. Rather, the state is arguing that the judgment granting new trial simply was not final until this court denied writs. Such is the rule under the Code of Civil Procedure and by analogy so should be the rule under the Code of Criminal Procedure since it is otherwise silent.

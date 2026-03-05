@@ -1,0 +1,211 @@
+87-C-1122
+First Guar. Bk. v. Baton Rouge Petroleum Center, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1988/87-c-1122-1.html
+
+87-C-1122
+First Guar. Bk. v. Baton Rouge Petroleum Center, Inc.
+Court: Louisiana Supreme Court
+Release date: 1987-11-30
+Author: COLE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1988/87-c-1122-1.html
+
+529 So. 2d 834 (1987)
+
+FIRST GUARANTY BANK, HAMMOND, LOUISIANA
+v.
+BATON ROUGE PETROLEUM CENTER, INC.
+
+No. 87-C-1122.
+
+Supreme Court of Louisiana.
+
+November 30, 1987.
+
+On Rehearing May 23, 1988.
+
+On Limited Rehearing September 8, 1988.
+
+*835 Alton B. Lewis, Jr., Hammond, for plaintiff-applicant.
+
+Mary C. Cali, E. Wade Shows, William Morvant, Shows, Clegg & Cohn, Baton Rouge, for defendant-respondent.
+
+COLE, Justice.
+
+This is a suit for deficiency judgment. The question presented is whether a creditor is precluded from obtaining a deficiency judgment when the creditor forecloses by executory process against a corporate debtor without submitting authentic evidence of a resolution authorizing execution of the mortgage.
+
+The trial court held the corporate resolution is a required link in the chain of evidence which must be presented in a petition seeking executory process and failure to do so constitutes a valid defense to a subsequent suit for deficiency judgment. The court of appeal affirmed, adopting the trial court's reasons for judgment, 507 So. 2d 22. We affirm.
+
+First Guaranty Bank, Hammond, Louisiana, filed a petition for executory process and obtained a writ of seizure and sale on March 28, 1985. The property was then sold at a sheriff's sale to First Guaranty for the required minimum of two-thirds the appraised property value on July 3, 1985. The debtor did not oppose the sale by seeking an injunction or filing a suspensive appeal. On September 17, 1985, First Guaranty filed a petition for deficiency judgment to obtain the remaining balance plus interest and attorney's fees.
+
+In its answer Baton Rouge Petroleum Center, Inc. alleged the executory process, basis for the deficiency judgment, was defective because First Guaranty had failed to attach to its petition therefor a certified copy of a resolution of the board of directors authorizing the execution of the mortgage. The parties have stipulated the resolution was filed in the public records of Livingston Parish at the time the property was mortgaged and there is no question the agent of the corporation had actual authority to execute the mortgage.
+
+We have previously stated the general rule that if improper authentic evidence is filed which would render the executory proceedings null, then any action based upon the executory proceedings, such as a suit for deficiency judgment, is likewise null. League Central Credit Union v. Montgomery, 251 La. 971, 979-80,
+207 So. 2d 762
+, 765 (1968). First Guaranty has two basic arguments against applying the rule in this case. First, there is no longer a statutory requirement for filing a corporate resolution as part of the petition for executory process. Second, failure of the debtor to raise this defect prior to the seizure and sale constitutes a waiver of the defense.
+
+The practice of submitting authentic evidence of the corporate resolution authorizing the mortgage of the debtor's property is merely a specific application of the well-established rule that when a mortgagor acts through an agent in executing a mortgage and note, authentic evidence of the agent's authority to act must be presented in order to take advantage of executory process. Bank of Leesville v. Wingate, 123 La. 386, 48 So. 1005 (1909); Crescent-City Bank v. Blanque, 32 La.Ann. 264 (1880), Chambliss v. Atchison, 2 La.Ann. 488 (1847); Dosson v. Sanders, 12 Rob. 238 (La.1845). For example, in Bank of Leesville v. Wingate, supra, this court dismissed the executory proceedings when the receiver of the corporate debtor appealed from the order of seizure and sale on this basis.
+
+In 1910 the legislature passed Act 148, which specifically required a properly certified corporate resolution to be attached to the original act of mortgage in all applications for executory process against property mortgaged by a corporation. 1910 La. Acts 148, § 1. This act was eventually codified as La.R.S. 13:4103. Under this provision, failure to attach a properly certified resolution constituted sufficient grounds for dismissing an order for executory process when objected to by the debtor before the sale. Snell v. Amite Oil Co.,   178 La. 176, 151 So. 70 (1933); American Trust Co. v. Crescent Ice Co., 133 La. 247, 62 So. 664 (1913).
+
+In 1960, Code of Civil Procedure article 2635, which specified the authentic evidence necessary to use executory process, and article 2636, which specified which documents were deemed authentic for purposes of executory process, were enacted. Article 2636(4) incorporated by reference R.S. 13:4103 in specifying the manner in which a copy of a resolution was to be certified in order to constitute authentic evidence. At that time, R.S. 13:4103 was revised and the word "attached" was deleted. However, this deletion appears not to have reflected any intent to change the law since the contemporaneous official revision comments to article 2635 state the purpose of that article was not to change the law, but simply to recognize "well-settled jurisprudential rules." La.Code Civ.P.Ann. art. 2635, comment (a) (West 1961). The comments further indicate one of the rules to be preserved was the requirement that where a mortgagor acts through an agent, a certified copy of the authentic act authorizing the agent to execute the mortgage must be attached to the petition for executory process. La.Code Civ.P.Ann. art. 2635, comment (d) (West 1961). Without noting the change in R.S. 13:4103, courts continued to recognize the corporate resolution as a required link in the chain of authentic evidence necessary for executory process. Bank of St. Charles and Trust Co. v. Great Southern Coach Corp., 424 So. 2d 462, 463 (La.App. 5th Cir.1982); Fabacher v. Hammond Dairy Co., Inc., 389 So. 2d 87 (La.App. 4th Cir.1980); Progressive Bank & Trust Co., v. Dieco Specialty, Inc., 378 So. 2d 139, 141 (La.App. 1st Cir. 1979); White Motor Co. v. Piggy Bak Cartage Corp., 202 So. 2d 294, 296 (La.App. 4th Cir.1967).
+
+Article 2635 was amended in a manner which, it is argued, affects the resolution of this issue. When enacted, the last sentence of article 2635 originally read: "This requirement of authentic evidence is relaxed only in those cases, and to the extent, provided by law." (emphasis added). In 1982, Act 259 amended this sentence to read: "This requirement of authentic evidence is necessary only in those cases, and to the extent, provided by law." (emphasis added). 1982 La.Acts 259, § 1. First Guaranty asserts the 1982 amendment to article 2635 changing "relaxed" to "necessary" evidences legislative intent to reduce the number of "hypertechnical loopholes" available to debtors. The contention is that it was not required to submit the corporate resolution since article 2635 does not specifically require it, and article 2636 is merely definitional.
+
+In light of the above discussion, we cannot agree. After considering the long line of jurisprudence requiring the submission of the corporate resolution and the legislative intent as evidenced by the comments to article 2635, we conclude the corporate resolution is an integral part of a mortgage executed by a corporate debtor. See also, La.Civ.Code arts. 2996, 2997.
+
+First Guaranty also contends that in the event it was required to submit the resolution with its petition for executory process, the debtor waived the right to raise this defect as a defense by failing to object prior to the sale. The defendant, it is argued, should have sought an injunction or should have taken a suspensive appeal in accordance with article 2642 of the Code of Civil Procedure. Cited as authority for this proposition is First Guaranty Bank v. Wells, 509 So. 2d 122, 124 (La.App. 1st Cir. 1987); Gibsland Bank & Trust Co. v. Boddie, 480 So. 2d 906, 909 (La.App. 2d Cir. 1985); and, Plumbing Supply House, Inc. v. Century National Bank, 440 So. 2d 173, 177 (La.App. 4th Cir.1983), cert. denied,
+444 So. 2d 1226
+(La.1984). We find these cases to be distinguishable from the case at bar since none of these cases involved an attempt by the debtor to avoid a deficiency judgment by raising a defect in the original executory proceedings.
+
+This court has held the debtor may be estopped from complaining of certain defects in the original executory proceedings but this theory is only applied when the debtor seeks to annul the sale of the property, not when he asserts the defect as a defense to a subsequent action for a deficiency   judgment. League Central Credit Union v. Montgomery, 251 La. 971, 979-80,
+207 So. 2d 762
+, 765 (1968). See also, Reed v. Meaux,
+292 So. 2d 557
+, 574 (La. 1974) (Tate, J., concurring); and, Ford Motor Credit Company v. Herron, 234 So. 2d 517, 522 (La.App. 3d Cir.1970) (Tate, J., concurring). Since Baton Rouge Petroleum Center does not seek to annul the sale we find First Guaranty's contention meritless.
+
+There are two cases from the courts of appeal, which reach opposite results, squarely addressing this issue. They are Bank of St. Charles and Trust Co. v. Great Southern Coach Corp., 424 So. 2d 462 (La.App. 5th Cir.1982), relied upon by the courts below in this case, and White Motor Co. v. Piggy Bak Cartage Corp., 202 So. 2d 294 (La.App. 4th Cir.1967).
+
+In White Motor the creditor failed to produce authentic evidence of the debtor corporation's authorization to its agent to execute the chattel mortgage foreclosed upon. The debtor failed to seek an injunction or suspensively appeal, allowing the property to be sold. In that case the court of appeal allowed the creditor's deficiency judgment to stand, noting it was not unreasonable to require the debtor to assert the defect before the sale. Id. at 296. White Motor has been criticized by this court in League Central, supra, 251 La. at 978, 207 So. 2d  at 764, wherein we noted the White Motor court "apparently lost sight of the fact that the seizure and sale were not under attack."
+
+The court of appeal in Bank of St. Charles, supra, held the creditor was precluded from obtaining a deficiency judgment under like circumstances, reading article 2635 in pari materia with article 2636 and R.S. 13:4103 to require submission of the resolution. That court, we find, properly followed the rule of League Central in holding the failure to attach a properly certified copy of the corporate resolution authorizing the mortgage a fundamental defect precluding a subsequent suit for a deficiency judgment. As we have previously stated in this opinion, the resolution is an integral part of a mortgage of corporate property as far as executory proceedings are concerned. As such, it is a link in the chain of evidence required by article 2635 of the Code of Civil Procedure. If the debtor in this case had raised this defect prior to sale, the executory proceedings would have been declared null. Therefore, the subsequent suit for a deficiency judgment based on the executory proceedings is also null.
+
+We have noted the corporate resolution in question was on file in the public records of Livingston Parish. This fact is of no consequence. The authentic evidence supporting a petition for executory process is incomplete without the resolution. Executory process is a unique and harsh remedy. Accordingly, the rules which allow a creditor to proceed must be strictly construed in the debtor's favor. Bank of Leesville v. Wingate, 123 La. 386, 48 So. 1005 (1909); Crescent-City Bank v. Blanque, 32 La.Ann. 264 (1880).
+
+Finally, we reject the applicability of La. R.S. 13:4108.1 to this case. This provision was enacted by Act 489 of 1986, effective August 30, 1986, and makes drastic changes in our deficiency judgment law in those instances where a mortgage secures an obligation "in a commercial transaction." Plaintiff cannot rely on this recent legislation because it does not have retrospective operation. Clearly, this law is substantive in nature and retrospective application would operate to disturb the vested rights of the defendant. See, Graham v. Sequoya Corporation,
+478 So. 2d 1223
+, 1225-26 (La.1985).
+
+For the reasons stated above, we affirm the judgment of the court of appeal.
+
+AFFIRMED.
+
+DIXON, C.J., dissents.
+
+DENNIS, J., concurs with reasons.
+
+LEMMON and MARCUS, JJ., dissents and assigns reasons.
+
+DENNIS, Justice, concurring.
+
+I respectfully concur.
+
+This is one of those areas of the law in which the legislature has acquiesced in so   much judicial gloss that it is probably no longer feasible for the courts to think of returning to the code.
+
+MARCUS, Justice (dissenting).
+
+The Deficiency Judgment Act, La.R.S. 13:4106, takes away the creditor's right to collect any deficiency from the debtor if the seized property is sold without an appraisal. The discharge of the debtor's obligation to pay a valid debt, however, should be strictly construed. Therefore, I believe this court erred in League Central Credit Union v. Montgomery, 251 La. 971,
+207 So. 2d 762
+(1968), when it held that the debtor could also defend a deficiency judgment by asserting the nullity of the executory proceeding. Accordingly, I would overrule League Central because it was an improper judicial extension of the Deficiency Judgment Act.
+
+DENNIS, Justice.
+
+On original hearing this court held (1) that authentic evidence of a corporate resolution authorizing a corporation to give a mortgage is an essential link of proof in an executory proceeding, and (2) that a mortgagee who causes a corporate mortgagor's property to be sold via executory proceeding without submitting such authentic evidence is precluded from obtaining a deficiency judgment against the mortgagor in a subsequent proceeding.
+
+After considering the arguments of counsel we are satisfied that authentic evidence of a corporate resolution should be classified as an essential link of proof in an executory proceeding for the reasons stated in the original opinion. However, we are impressed with relator's argument that under legislated law the creditor's failure to submit such authentic evidence in the executory proceeding does not constitute a defense to the creditor's separate ordinary action for a deficiency judgment. Relator concedes that its argument is contrary to League Central Credit Union v. Montgomery, 251 La. 971,
+207 So. 2d 762
+(1968), upon which this court's original opinion relied. Nevertheless, relator contends that League Central was an unwarranted departure from the Code of Civil Procedure and statutes that should be overruled. This argument calls for careful reexamination of League Central within the context of our law dealing with executory proceedings, annulment of sales, and deficiency judgments.
+
+In League Central Credit Union v. Montgomery, supra, the credit union mortgagee obtained a deficiency judgment following a sale by executory process against an automobile mortgaged as security for a loan. However, the chattel mortgage by private act submitted in support of the executory proceeding was not in proper authentic form. It was not a private act which had been properly acknowledged by an attesting witness, but one which had been improperly acknowledged by a person who signed the mortgage as an agent for the mortgagee for the sole purpose of showing acceptance. This court held that because the acknowledgment of the act under private signature was improper, the authentic evidence submitted in order to make executory proceedings was therefore illegal; that all steps taken subsequent to the issuance of the order for executory process were also null; and that the deficiency judgment was null and void:
+
+League Central, supra, at 765.
+
+League Central and its progeny in effect have created an affirmative defense to a deficiency judgment action which has nothing to do with whether the property was sold after valid appraisal or whether a just deficiency is due, but rather with whether the mortgagee complied with every jot and tittle as to the form of authentic evidence required in the executory proceeding. See, e.g., United Mercantile Bank v. Schwartz, 513 So. 2d 518 (La.App.2d Cir.1987) (variance between date of mortgage and date on paraphed mortgage note); Mellon Financial Services Corp. # 7 v. Cassreino, 499 So. 2d 1160 (La.App. 5th Cir.1986) (failure to prove name change by authentic evidence, legislatively overruled by La.C.Civ.P. art. 2637(7)); Chrysler Credit Corp. v. Walker, 488 So. 2d 209 (La.App. 4th Cir.1986) (failure to duly acknowledge act of chattel mortgage under private signature); Bank of St. Charles v. Great Southern Coach Co., 424 So. 2d 462 (La.App. 5th Cir.1982) (failure to produce resolution authorizing granting of mortgage in executory proceeding).
+
+Relator contends that the affirmative defense should be abrogated because it was fashioned purely by common law methodology rather than having been authorized or permitted by the statutory framework. Before discussing the merits of this argument, it is advisable that we describe the legal context in which it arises, i.e. the area of law occupied by the related but separate actions of executory proceedings, annulment of judicial sales and deficiency judgments.
+
+An executory proceeding in Louisiana is an in rem action derived from the civil law; it provides a simple, expeditious, and inexpensive procedure by which creditors may seize and sell property upon which they enjoy a mortgage or privilege. Hood Motor Co., Inc. v. Lawrence,
+320 So. 2d 111
+(La.1975); Buckner v. Carmack,
+272 So. 2d 326
+(La.1973), appeal dismissed, 417 U.S. 901, 94 S. Ct. 2594, 41 L. Ed. 2d 207 (1974); McMahon, The Historical Development of Executory Procedure in Louisiana, 32 Tul. L.Rev. 555 (1958). By an executory proceeding, a creditor may effect ex parte "the seizure and sale of property, without previous citation and judgment, to enforce a mortgage or privilege thereon evidenced by an authentic act importing a confession of judgment ...". La.C.Civ.P. Art. 2631.
+
+To exercise his right to obtain this ex parte order from the court, La.C.Civ.P. art. 2638, the creditor must submit with his petition authentic evidence or its statutory equivalent "necessary to prove his right to use executory process". La.C.Civ.P. art. 2635. This requirement includes not only the instruments evidencing (1) the obligation secured by the mortgage or privilege and (2) the mortgage or privilege importing a confession of judgment, but also (3) all evidence "necessary to complete the proof of plaintiff's right to use executory process." La.C.Civ.P. art. 2635.
+
+Article 2635 concludes: "This requirement of authentic evidence is necessary only in those cases, and to the extent, provided by law." The succeeding two articles list some of the instances where the authentic proof requirement is relaxed and a statutory equivalent is permitted. Article 2636 lists certain documentary evidence "deemed to be authentic", such as certified copies of judgments and authentic acts. Article 2637 then lists the evidence which need not be authentic, but which may be proved by a verified petition or by affidavit instead of by authentic acts.
+
+Article 2636's listing of documentary evidence deemed to be authentic for purposes of executory process includes "a copy of a resolution of the board of directors, or other governing board of a corporation, authorizing or ratifying the execution of a mortgage on its property, certified in accordance with the provisions of R.S. 13:4103." La.C.Civ.P. art. 2636(4). In the instant case, the creditor failed to submit with its petition any documentary evidence of a corporate   board resolution authorizing the mortgage to be enforced.
+
+The defendant may raise defenses and procedural objections to an executory proceeding either by suspensive appeal or by injunction. La.C.Civ.P. art. 2642. He may enjoin the sale, "if the procedure required by law for an executory proceeding has not been followed", La.C.Civ.P. art. 2751, among other reasons.
+
+Executory process, entitling a creditor to seize the debtor's property without citation or the usual delays or formal judgment, is regarded as a harsh remedy, requiring for its use a strict compliance by the creditor with the letter of the law. Myrtle Grove Packing Co. v. Mones, 226 La. 287,
+76 So. 2d 305
+(1954) and the many decisions cited therein. It has long been settled that every muniment of title to the note and mortgage, and every link of evidence necessary to permit the creditor to exercise this remedy against the debtor, must be in authentic evidence or its statutory equivalent. Hood Motor Co., Inc. v. Lawrence, supra; Miller, Lyon & Co. v. Cappell, 36 La.Ann. 264 (1884) and succeeding jurisprudence. See, e.g., Snell v. Amite Oil Co., 178 La. 176, 151 So. 70 (1933); Progressive Bank & Trust Co. v. Dieco Specialty, Inc., 378 So. 2d 139 (La. App. 1st Cir.1979); Margolis v. Allen Mortgage & Loan Corp., 268 So. 2d 714 (La.App. 4th Cir.1972).
+
+When the debtor successfully asserts a defense to the executory proceeding either through an injunction or a suspensive appeal, the creditor may convert the proceedings into an ordinary proceeding and enforce his claim thereunder in the absence of a valid defense to the ordinary action. La.C.Civ.P. art. 2644. See Richard v. Bird, 4 La. 305 (1832).
+
+When the creditor improperly causes the debtor's property to be sold without complying with all requirements for executory proceedings, the debtor may, under certain circumstances, have the sale annulled even though he has failed to prevent it by injunction or suspensive appeal.
+
+The debtor may not annul the sale if the property is in the hands of an innocent third person. Under long-settled jurisprudence, in such circumstances the general rule is that, once the property has been sold to one other than the mortgagee, the mortgagor cannot annul the sale and recover the property because of defects which he might have urged prior to the sale. Continental Securities Corp. v. Wetherbee, 187 La. 773, 175 So. 571 (1937); Cullotta v. Grosz, 173 La. 83, 136 So. 95 (1931); Huber v. Jennings-Heywood Oil Syndicate, 111 La. 747, 35 So. 889 (1904).[1]
+
+Thus, as between them, the mortgagor-defendant must bear the consequences of his failure to prevent the sale, despite irregularities in proof, rather than an innocent purchaser. Reed v. Meaux,
+292 So. 2d 557
+, 560 (La.1974) (Tate, J., on original hearing).
+
+Nevertheless, the jurisprudence recognizes that, even if he fails to appeal or enjoin the sale, the mortgagor-defendant in an executory proceeding may bring a subsequent direct action to annul the sale, if the mortgagee is the adjudicatee at the sale and is still in possession of the property sold at it. Reid v. Federal Land Bank of New Orleans, 193 La. 1017, 192 So. 688 (1939); Viley v. Wall, 154 La. 221, 97 So. 409 (1923); Cross on Pleading, Sections 305-310 (esp. 310) (1885); Note, 24 La.L. Rev. 894, 897 (1964). Since an order of sale is not a judgment in the strict legal sense, Harrod v. Voorhies' Administratrix, 16 La. 254 (1840), an action to annul it is not governed by the jurisdiction or prescription rules applicable to actions of nullity of judgments. Pons v. Yazoo & M.V.R.R., 122 La. 156, 47 So. 449 (1908); Stapleton v. Butterfield, 34 La.Ann. 822 (1882).
+
+This court in Reed v. Meaux,
+292 So. 2d 557
+(La.1973), recognized that defects of form in an executory proceeding that go to   the fundamental nature of the obligation or its acquisition, as opposed to "minor defects of form", may be used to invalidate a sale to which the creditor is entitled. See Reed v. Meaux, supra, at 574-575 (Tate, J., concurring). Further, a suit to annul a sale based on a fundamental defect can be brought at any time, providing the property is still in the hands of the mortgagee-adjudicatee and the action to annul a sheriff's sale has not prescribed. See Peyrefitte v. Harvey, 312 So. 2d 159 (La.App. 1st Cir.), writ denied
+314 So. 2d 736
+(La.1975); Comment, Executory and Special Proceedings, 22 Loy.L.Rev. 190, 201 (1976).
+
+In 1975, the legislature added La. R.S. 13:4112 prohibiting actions to annul completed judicial sales of immovable property by executory process by reason of any objection to form or procedure or lack of authentic evidence in the executory proceeding.[2] In view of the previous jurisprudence, the language of the statute is susceptible of different meanings. However, comprehensive interpretation of the statute is beyond the purview of the issues presented by the instant case. It is sufficient, for our purposes, to observe that the legislation provides, at least, that objections as to the lack of authentic evidence or as to minor defects of form or procedure may not be used as grounds for an action to annul a judicial sale of immovable property by executory process. See France v. American Bank, 505 So. 2d 1175 (La.App. 5th Cir.) cert. den. 512 So. 2d 439 (La.1987); Brown v. Everding, 357 So. 2d 1243 (La. App. 2d Cir.1978).[3]
+
+When the property has been sold under the executory proceedings after appraisal and in accordance with statutory provisions governing appraisal, the creditor may obtain a personal judgment against the mortgagor for any deficiency remaining after the application of the net proceeds of sale to the secured debt. La.C.Civ.P. art. 2771. However, the creditor can do so only by converting the executory proceeding into an ordinary one, or by instituting a new suit against the mortgagor. La.C.Civ.P. arts. 2644, 2772. Under either method, the new proceeding is a personal action, in which the defendant has all of the rights of a defendant in an ordinary proceeding, e.g. he must be subjected personally to the jurisdiction of the court and process must be served on him. The confession of judgment, having served its purpose in the executory proceeding, has become functus officio, and the mortgagee must prove the indebtedness asserted by the usual modes of proof. La.C.Civ.P. art. 2772; New Orleans Canal & Banking Co. v. Hagan, 1 La.Ann. 62, 66 (1846); Liquidators of Prudential Savings & Homestead Society v.   Nassans, 8 La.App. 712 (1928); McMahon, supra, at 571.
+
+To obtain a deficiency judgment, the creditor first must affirmatively plead and prove the existence of the obligation giving rise to the debt, La.C.C. art. 1831, and the grounds of non-performance entitling him to maintain his judicial action. La.C.C. art. 1994. Further, he must aver and establish by evidence that the property was sold under the executory proceeding after appraisal in accordance with the provisions of article 2723 of the Code of Civil Procedure; Gordon Finance Co. v. Chambliss, 236 So. 2d 533 (La.App. 2d Cir. 1970), writ denied, 256 La. 869,
+239 So. 2d 364
+(1970); Pickering v. Kinney, 205 So. 2d 199 (La.App. 2d Cir. 1968); and that the proceeds received were insufficient to satisfy the balance of the performance then due. La.C.Civ.P. art. 2771[4]; La.R.S. 13:4106; 4107.[5] The appraisal procedures of article 2723 require that prior to the sale, the property seized must be appraised in accordance with law, and the order directing the issuance of the writ of seizure and sale must have directed that the property be sold as prayed for. Other statutory law sets forth the procedures for written notices to the debtor and seizing creditor, the appointment of appraisers, the sheriff's appointment of an appraiser if a party neglects to do so, delivery of appraisals, oaths of appraisers, and the form of the appraisals. La.R.S. 13:4363-4365.
+
+The debtor, on the other hand, may assert both negative and affirmative defenses against the deficiency judgment action. He may defend by demonstrating the creditor's failure to prove one of the aforementioned elements of his case or by rebutting the existence of such an element. Additionally, the debtor may assert that an obligation is null, or that it has been modified or extinguished, but in such a case the debtor must prove the facts or acts giving rise to the nullity, modification, or extinction. La.C.C. art. 1831; La.C.Civ.P. art. 1005.
+
+This court concluded in League Central that the deficiency judgment was void because the executory proceeding which preceded the deficiency action was based on inauthentic evidence, i.e., an improperly acknowledged chattel mortgage by private signature. The court's twofold rationale was that (1) the requirement of proper authentic evidence in executory proceedings is a prohibitory law; and whatever is done in contravention of a prohibitory law is void, although the nullity be not formally directed; and (2) if improper authentic evidence was filed so as to render the executory proceedings null, any action based upon the executory proceedings is likewise null. League Central Credit Union v. Montgomery, supra, at 979. After reviewing the pertinent statutes and their legislative history, we realize that the reasoning underlying the League Central decision was erroneous and that it must be overruled.
+
+The Code of Civil Procedure provisions requiring the use of authentic evidence or its statutory equivalent in executory proceedings are not prohibitory laws. The term "prohibitory law" in article 12 of the Louisiana Civil Code of 1870 meant rules of public order. La. Civil Code art. 7 (1988); Comments. Rules of public order are those which an individual is expressly or impliedly prohibited from renouncing because they have been enacted for the protection of the public interest. Id.; see articles   11 and 12 of the Louisiana Civil Code of 1870. The executory proceeding rules do not expressly or impliedly prohibit the debtor from renouncing the evidentiary requirements. Instead, they provide that he may assert defenses and objections because of an infraction of the rules through an injunction proceeding to arrest the seizure and sale or a suspensive appeal from the order directing the issuance of the writ of seizure and sale, or both. Thus, the Code contemplates that the debtor may invoke the defenses or renounce them as he chooses, leaving the clear implication that an unobjected to defect in the formal requirement of authenticity will not render the proceeding absolutely null.
+
+The second, more complex prong of the League Central rationale is susceptible of two different interpretations, neither of which has any basis in law. First, if the court meant only that the filing of improper authentic evidence absolutely nullifies the executory proceeding and thereby nullifies the following deficiency judgment action, this is incorrect for the reasons stated in the foregoing paragraph. The laws requiring authentic evidence are not prohibitory laws and their violation does not produce absolute nullity. Second, if the assertion is that any defense which could have been raised in the executory proceeding may be urged in the deficiency action because the deficiency action is based upon, a part of, or a continuation of the executory proceeding, this reasoning is also fallacious. The deficiency judgment action, although related to the executory proceeding, is established by the legislated law as a separate and independent proceeding, different in concept and purpose, involving different kinds of procedure, evidence and defenses.
+
+The Code of Civil Procedure and statutes require a creditor seeking to obtain a deficiency judgment to prove only that there is a deficiency due on the debt after the distribution of the proceeds of the judicial sale and that the property was sold under executory proceeding after appraisal in accordance with La.C.Civ.P. art. 2723. La.C. Civ.P. art. 2771. The legislated law does not require a creditor to prove that he presented flawless authentic evidence in the executory proceeding in order to obtain a deficiency judgment or grant the debtor a defense to a deficiency judgment based upon the creditor's failure to do so.
+
+On the other hand, the creditor may not rely on the executory proceeding to prove his right to a deficiency judgment. The creditor must prove by ordinarily admissible evidence the existence of the obligation, the deficiency due, and the judicial sale under executory proceeding after appraisal. Further, the creditor must prove his case in an independent ordinary proceeding, affording the debtor all of the rights of a defendant in an ordinary proceeding, including the requirement of personal jurisdiction and service of process. La.C.Civ.P. arts. 2644, 2772.
+
+The anomaly caused by the transformation of the executory process authentic evidence objection into a defense on the merits in a deficiency judgment action under League Central further indicates that the jurisprudence has developed contrary to the legislative intent. If the debtor diligently and successfully asserts such a defense in the executory proceeding, he usually cannot defeat the creditor's rights. The creditor is expressly authorized to convert the executory proceeding into an ordinary proceeding wherein he may obtain a judgment for the full amount due and enforce his mortgage on the property. La.C. Civ.P. art. 2644; see, e.g., Richard v. Bird, supra. On the other hand, under League Central the debtor who neglects to raise an authentic evidence defense in the executory proceeding may use it in the deficiency action to completely defeat the creditor's right to the balance of the debt due. There does not appear to be any reason in law or logic that the diligent debtor should be penalized for exercising the defenses in the manner specifically provided by law, i.e., by appeal or injunction. See Note, Civil Procedure-Annulment of Executory Proceedings After Sale, 24 La.L.Rev. 894, 900-901 (1964).
+
+Moreover, the legislative history of the deficiency judgment act indicates no intention to include within its safeguards a defense   based upon improper authentic evidence filed in the executory proceeding. Prior to the first deficiency judgment act in 1934, in any period of economic recession a mortgagee could buy in a mortgagor's property for a small fraction of the indebtedness, obtain a personal judgment for the deficiency, and under execution of the judgment have other property of the mortgagor sold. This evil was effectively curbed by the Deficiency Judgment Action of 1934, which requires as a condition precedent to a deficiency judgment that the property must have been appraised before its sale, thus affording a measure of protection against an unjust sacrifice of the debtor's property. See McMahon, The Historical Development of Executory Procedure in Louisiana, 32 Tul.L.Rev. 555, 567 (1958). The deficiency judgment act declares a statement of public policy that when a creditor takes advantage of a waiver of appraisement by a debtor, and the proceeds of the judicial sale are insufficient to satisfy the debt, the debt is discharged and the creditor shall not have an unqualified right to proceed against the debtor or any of his other property for such deficiency. La.R.S. 13:4106-4107. Although this policy is broad and strong, there is nothing in its history or expressions that indicates an intention to bar a creditor who fully complies with appraisal requirements from obtaining a deficiency judgment simply because of a lack of authentic evidence in the executory proceeding.
+
+For these reasons, the decision of this court in League Central Credit Union v. Montgomery is overruled, and we will proceed to apply the codal and statutory principles of law to the facts of this case.
+
+As indicated in the original opinion, the facts in this case are undisputed. First Guaranty Bank, located in Hammond, Louisiana, filed a petition for executory process on March 28, 1985. On April 2, 1985, the trial judge issued a writ of seizure and sale. Pursuant to the writ, the property was properly appraised for $296,000 and sold at Sheriff's sale to First Guaranty, for the required minimum price of two-thirds of the appraised property value, $197,333.34. The debtor did not oppose the sale by seeking an injunction or filing a suspensive appeal. On September 17, 1985, First Guaranty filed a petition for deficiency judgment, to obtain the remaining balance of the promissory note, plus interest and attorney's fees.
+
+First Guaranty successfully established the deficiency due on the debt after the distribution of the proceeds of the judicial sale and that the property had been sold under the executory proceeding after appraisal in accordance with the provisions of article 2723 of the Code of Civil Procedure. Baton Rouge Petroleum Center, Inc. alleged as its only defense a lack of authentic evidence in the executory proceedings. The parties stipulated that the creditor failed to file a copy of the corporate resolution authorizing the debtor corporation to execute the mortgage in the executory proceedings although such a resolution had been passed and filed in the public records when the mortgage was executed and the agent named in the resolution had authority to execute the mortgage.
+
+Applying the precepts of law to the facts in the present case we conclude that First Guaranty has proven its case for a deficiency judgment and that the sole defense urged by Baton Rouge Petroleum Center based on lack of authentic evidence in the executory proceeding is without merit. Accordingly, First Guaranty is entitled to a deficiency judgment as prayed for in the petition subject to a credit in the amount of the net proceeds of the judicial sale.
+
+For the reasons assigned, it is ordered, adjudged, and decreed that there shall be judgment herein in favor of First Guaranty Bank of Hammond, Louisiana and against Baton Rouge Petroleum Center, Inc. for $264,620.00 with interest at the rate of 13% per annum from November 11, 1984, until paid, plus attorney's fees in the amount of 25% of the principal and interest due and all costs of these proceedings subject to a credit on July 3, 1985 of $190,915.78.
+
+REVERSED AND RENDERED.
+
+PER CURIAM.
+
+A limited rehearing is granted. In order to avoid the possibility of judicial approval of an excessive attorney's fee, and to permit a court to consider all of the relevant circumstances, the provision relating to attorney's fee is deleted from our decree, and the case is remanded to the trial court which is directed to fix the attorney's fee. Otherwise, the decree of this court is reaffirmed.
+
+REAFFIRMED AS AMENDED.
+
+[1]  There are exceptions, however, relating to the adjudicatee at the sale purchasing with notice of a patent substantial defect, see Note, 22 La.L. Rev. 845, 847 (footnote 7), (1962), or by participating in a conspiracy to defraud the mortgagor, Viley v. Wall, 154 La. 221, 97 So. 409 (1923).
+
+[2]  The text of the statute reads as follows:
+
+No action may be instituted to set aside or annul the judicial sale of immovable property by executory process by reason of any objection to form or procedure in the executory proceedings, or by reason of the lack of authentic evidence to support the order and seizure, where the sheriff executing the foreclosure has either filed the proces verbal of the sale or filed the sale for recordation in the conveyance records of the parish. Any party seeking to annul or set aside a judicial sale of immovable property through executory proceedings filed for record before the adoption of this Section must do so within six months of September 12, 1975. Nothing herein shall be construed to affect legal defenses otherwise available to any person against whom a deficiency judgment is sought after the public sale of immovable property through executory proceedings.
+
+Respondent urges in oral argument that the final clause of La.R.S. 13:4112 legislatively enshrines this court's holding in League Central. However, this clause merely expresses a legislative intention that nothing in R.S. 13:4112 should alter any of the defenses available in a deficiency judgment action, whether legislatively or jurisprudentially created. Thus, the clause is carefully worded so as to permit jurisprudentially created defenses to be overruled or modified by the courts and to be affected by other statutes.
+
+[3]  Nevertheless, U.S. Const. amend. XIV § 1 and La. Const. Art. I § 2 will require our courts to allow actions to annul based upon the seizing party's failure to comply with procedural safeguards necessary for procedural due process to inhere. See Magee v. Amiss,
+502 So. 2d 568
+(La.1987); M. Rubin & E. Carter, Notice of Seizure in Mortgage Foreclosures and Tax Sale Proceedings: The Ramifications of Mennonite, 48 La.L.Rev. 535 (1988).
+
+[4]  The provisions of La.C.Civ.P. art. 2771 are based in part upon La.R.S. 13:4106 and 4107. The Comments to article 2771 indicate that these source provisions are somewhat broader than the rule adopted in article 2771, but that the source provisions are to remain in force, as no change in the law was intended or effected. Article 2771, Comments (a), (b).
+
+[5]  R.S. 13:1408, added by Acts 1986, No. 489, § 2, provides that certain transactions without appraisal will not prevent a deficiency judgment.
+
+R.S. 13:4108.1, added by the same act, authorizes a deficiency judgment despite the lack of appraisal with respect to obligations based on commercial transactions. However, the present case does not involve one of the types of transactions contemplated by R.S. 13:4108, and R.S. 13:4108.1 may not be applied retroactively to affect the parties' vested rights in this case for reasons explained in this court's original opinion.

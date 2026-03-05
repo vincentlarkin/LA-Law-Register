@@ -1,0 +1,171 @@
+66727
+State v. Toledano
+https://law.justia.com/cases/louisiana/supreme-court/1980/391-so-2d-817-1.html
+
+66727
+State v. Toledano
+Court: Louisiana Supreme Court
+Release date: 1980-09-03
+Author: WATSON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/391-so-2d-817-1.html
+
+391 So. 2d 817 (1980)
+
+STATE of Louisiana
+v.
+Terry A. TOLEDANO.
+
+No. 66727.
+
+Supreme Court of Louisiana.
+
+September 3, 1980.
+
+Concurring Opinion September 24, 1980.
+
+On Rehearing December 15, 1980.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Louise S. Korns, Asst. Dist. Atty., for plaintiff-appellee.
+
+Robert F. Barnard, Dwight Doskey, Orleans Indigent Defender Program, New Orleans, for defendant-appellant.
+
+WATSON, Justice.
+
+During Toledano's trial for first degree murder, counsel for defendant, while cross-examining juvenile witness Reginald Yawls, moved for production of a "rap sheet" on the juvenile. The only argument urged on the appeal of Toledano's conviction of manslaughter[1] is that the trial court committed reversible error in denying the motion.
+
+Yawls was the principal, but not the only, witness connecting Toledano with the killing of Moses Green at the victim's apartment in New Orleans East. Yawls testified that he met Toledano on the street, that they smoked some "weed" and that Toledano talked Yawls into accompanying him to Green's apartment. Yawls had been led to believe that the two of them would be paid by Green in return for sexual favors. Upon arrival at Green's apartment, according to Yawls, he went into the bathroom and then heard two shots. Returning to the living area, he found Toledano with a pistol in his hand and Green lying dead with wounds in the arm and in the head. Other witnesses connected Yawls with a pistol which was established later by ballistic tests to have fired the bullets.
+
+It was revealed during Yawls' testimony that the prosecution had allowed him to plead guilty to manslaughter in return for testifying against Toledano. This evidence was adduced prior to the defense motion for production of a rap sheet on Yawls. Since the witness was only seventeen at the time of trial, a rap sheet could have contained only a record of juvenile offenses, if any.
+
+No particular reason was assigned by defense counsel for the requested information except by allusion to a claim that it would be exculpatory under Brady v. Maryland,
+373 U.S. 83
+, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963). The record does not indicate whether   the prosecution had a rap sheet on Yawls.
+
+The issue on appeal is whether the defendant is entitled to obtain the criminal record of a juvenile witness, when the apparent object is to cast doubt on the witness' general character.
+
+As previously held by this court:
+
+Also, the Louisiana Juvenile Code, enacted in 1978 and amended in 1979, provides in part as follows:
+
+The defendant relies heavily on Davis v. Alaska,
+415 U.S. 308
+, 94 S. Ct. 1105, 39 L. Ed. 2d 347 (1974). In Davis, juvenile witness Green, who identified the defendant as having a crowbar in his hand where a safe was found broken open, was not implicated in the crime. The witness was on juvenile probation. Counsel for defendant attempted to question him concerning his probationary status, particularly whether he feared being accused of the theft of the safe and having his probation revoked. The trial judge sustained the State's objection to the cross-examination. On review by the United States Supreme Court, it was noted that the cross-examination sought to show Green's possible bias and prejudice because of his vulnerable status as a probationer. Davis held that the State's interest in protecting the anonymity of juvenile offenders is outweighed by the need for cross-examination to establish any bias and prejudice.
+
+Davis is distinguishable from the present case on more than one ground. The request for the production of the rap sheet apparently was an attempt to discover past involvements by Yawls with the law, a subject on which he had been cross-examined. Also, the participation by Yawls in the homicide had been fully explored, as well as his plea bargain with the State. The jury was aware that Yawls had made a deal with the State and had pleaded guilty to the crime of manslaughter. The situation differs from Davis where a specific purpose was shown for the cross-examination, the importance of which outweighed the policy of confidentiality. Therefore, in the present case, there was established no need or requirement for production of a rap sheet which would outweigh the statutory policy of the State of Louisiana protecting the confidentiality of juvenile proceedings.
+
+The assignment of error is without merit and the conviction and sentence of defendant are affirmed.
+
+AFFIRMED.
+
+LEMMON, J., dissents and assigns reasons.
+
+DIXON, C. J., dissents with reasons.
+
+DENNIS, J., concurs with reasons.
+
+CALOGERO, J., dissents.
+
+LEMMON, Justice, dissenting.
+
+The trial judge erred in denying the motion to produce the juvenile's "rap sheet". The juvenile participated in the crime and pleaded guilty to manslaughter pursuant to a plea bargain. He then became the chief witness for the prosecution in defendant's trial.
+
+When the defense counsel moved for production of the rap sheet for purposes of cross-examining the chief witness against defendant, the trial judge was faced with a choice between protecting the confidentiality   of any prior juvenile proceedings against this witness (who was a self-acknowledged participant in the crime at issue) and protecting defendant's right to confront the witnesses against him. The extreme importance and constitutional status of the right to confrontation requires that any right to confidentiality of juvenile proceedings under these circumstances must yield.
+
+This constitutional problem was resolved by statute in the federal system when the Congress adopted Rule 609(d) of the Federal Rules of Evidence, which provides:
+
+See also the Advisory Committee's Note, which observes that the strategic importance of a particular witness may be so great as to require the overriding of general policy in the interest of justice. Giles v. Maryland,
+386 U.S. 66
+, 87 S. Ct. 793, 17 L. Ed. 2d 737 (1967).
+
+Under the circumstances of the present case I believe that when defense counsel made a request for specific exculpatory evidence, the trial court should have either ordered production of the evidence to the defense or submission of the evidence to the judge for an in camera inspection to determine its materiality. Brady v. Maryland,
+373 U.S. 83
+, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963) and United States v. Agurs,
+427 U.S. 97
+, 96 S. Ct. 2392, 49 L. Ed. 2d 342 (1976).
+
+It is not clear from the record whether the prosecution had the juvenile's rap sheet in its possession, but if so the defense was clearly entitled to use it for cross-examination and impeachment, if it represented materially favorable evidence. I would therefore set aside the conviction and remand the case for production of the rap sheet for inspection by the trial judge and for determination of whether the suppressed evidence might have affected the verdict. Brady v. Maryland, above.
+
+DIXON, Chief Justice (dissenting).
+
+I respectfully dissent.
+
+The case should be remanded for a hearing to determine whether there is a "rap sheet," and whether it would impeach the witness.
+
+DENNIS, Justice, concurring.
+
+I respectfully concur.
+
+Although I must disagree with the majority opinion's statement that Davis v. Alaska,
+415 U.S. 308
+, 94 S. Ct. 1105, 39 L. Ed. 2d 347 (1974), can be meaningfully distinguished, I ultimately conclude that the conviction should be affirmed because it does not appear at this time that the introduction of Yawls' juvenile record would create a reasonable doubt about guilt when evaluated in the context of the entire record. See United States v. Agurs,
+427 U.S. 97
+, 96 S. Ct. 2392, 49 L. Ed. 2d 342 (1976); State v. Harvey,
+358 So. 2d 1224
+(La.1978); State v. Falkins,
+356 So. 2d 415
+(La.1978); State v. May,
+339 So. 2d 764
+(La.1976).
+
+LEMMON, Justice.
+
+The sole argument urged in this appeal of defendant's conviction of manslaughter is that the trial court committed reversible error in denying defense counsel's motion for production of a "rap sheet" on the state's witness, Reginald Yawls.
+
+Yawls, a juvenile, was the principal witness connecting defendant with the killing of Moses Green. Other witnesses connected Yawls with the pistol that was shown by ballistic tests to have fired the fatal bullets. Both defendant and Yawls were initially charged with first degree murder.
+
+Yawls subsequently pleaded guilty to manslaughter and agreed to testify against defendant. At defendant's trial Yawls testified: He met defendant on the street, and after they smoked some "weed", defendant   talked him into going to Green's apartment, indicating that Green was a homosexual who paid for sexual favors. After they arrived at Green's apartment, he went into the bathroom and then heard two shots. Returning to the living area, he found defendant with a pistol in his hand and Green lying dead on the sofa.
+
+During cross-examination of Yawls, defense counsel moved for production of the witness' Bureau of Identification rap sheet. The prosecution argued the defense was not entitled to production, and the trial court denied the motion. Thereafter, the witness stated he had never been convicted of any crime, but the trial court sustained objections to inquiries about specific convictions or court appearances.
+
+On original hearing we held that the trial judge under the circumstances correctly applied the state's statutory policy of protecting the confidentiality of juvenile proceedings. We now hold that the trial judge erred in denying the motion to produce Yawls' "rap sheet" without first determining the content of that document.
+
+When defense counsel moved for production of the rap sheet for purposes of cross-examining the prosecution's chief witness, a juvenile who had been charged with murder and had been allowed to plead guilty to a lesser offense, the trial judge was faced with a choice between protecting the confidentiality of any prior juvenile proceedings against this witness and protecting defendant's right to confront the witnesses against him.[1] The extreme importance and constitutional status of the right to confrontation (which includes the reasonable opportunity to impeach the witness' credibility) requires that any statutory right to confidentiality of juvenile proceedings under these circumstances must yield if the discrediting value of a prior juvenile adjudication is such that its disclosure is essential to a fair trial.[2]
+
+Under circumstances such as those presented in this case, the trial court, upon request by defense counsel for specific relevant evidence with possible impeachment value, must order submission of the witness' record of juvenile adjudications for an in camera inspection to determine its materiality. Brady v. Maryland,
+373 U.S. 83
+, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963); United States v. Agurs,
+427 U.S. 97
+, 96 S. Ct. 2392, 49 L. Ed. 2d 342 (1976);[3]State v. Babin,
+319 So. 2d 367
+(La.1975); Tate, J., concurring; State v. Sylvester,
+388 So. 2d 1155
+(La.1980). The question in each case, in which such a request is made, is whether the witness' juvenile adjudication has such discrediting value that there is reasonable likelihood it would have affected the verdict and thus, under Agurs and La.Const. art. 1, § 16 (1974), must be viewed as evidence favorable to the accused.[4]State v. Sylvester,   above; State v. Falkins,
+356 So. 2d 415
+(La. 1978).
+
+In the present case, the trial court, in understandable reliance upon the statutory confidentiality and the past decisions of this court [C.J.P. art. 122 A; State v. Roberts,
+331 So. 2d 11
+(La.1977)] did not determine whether the co-participant witness had a record of prior adjudications and whether the impeachment value of those adjudications outweighed the witness' statutory interest in the confidentiality of those records. In such a determination a balance must always be struck based upon the facts and circumstances of an individual case. Obviously, not all juvenile adjudications of all state witnesses have a discrediting value which is sufficient to require disclosure and admissibility for impeachment purposes. On the other hand, a prior adjudication of a co-participant who has become a state witness may be sufficiently probative of the witness' veracity to necessitate disclosure. See Luck v. United States, 348 F.2d 763 (D.C.Cir.1965).
+
+Thus, this matter must be remanded for submission of Reginald Yawls' record of juvenile adjudications. If the trial court finds, under the principles discussed above, that the circumstances require a new trial, judgment shall be entered accordingly. On the other hand, if the trial court decides that the conviction should stand, then the defendant may seek review by this court of that ruling.
+
+Accordingly, this matter is remanded for further proceedings.
+
+MARCUS, J., dissents and assigns reasons.
+
+WATSON, J., dissents, being of the opinion that the original decision was correct.
+
+MARCUS, Justice (dissenting).
+
+I do not believe that introduction of Yawls' juvenile record would create a reasonable doubt about guilt when evaluated in the context of the entire record. United States v. Agurs,
+427 U.S. 97
+, 96 S. Ct. 2392, 49 L. Ed. 2d 342 (1976). Accordingly, I dissent from the remand. I would affirm the conviction and sentence.
+
+[1]  Toledano was sentenced to 21 years.
+
+[1]  Records in juvenile cases are privileged and are not subject to public inspection. R.S. 13:1586; C.J.P. art. 122. Therefore, the trial court's denial of defense counsel's request effectively precluded the defense from discovering Yawls' juvenile record.
+
+[2]  This constitutional problem was resolved by statute in the federal system when the Congress adopted Rule 609(d) of the Federal Rules of Evidence, which provides:
+
+"Evidence of juvenile adjudications is generally not admissible under this rule. The court may, however, in a criminal case allow evidence of a juvenile adjudication of a witness other than the accused if conviction of the offense would be admissible to attack the credibility of an adult and the court is satisfied that admission in evidence is necessary for a fair determination of the issue of guilt or innocence."
+
+See also the Advisory Committee's Note, which observes that the strategic importance of a particular witness may be so great as to require the overriding of general policy in the interest of justice. Giles v. Maryland,
+386 U.S. 66
+, 86 S. Ct. 1194, 16 L. Ed. 2d 205 (1967).
+
+[3]  In the Agurs case the Supreme Court stated:
+
+"Although there is, of course, no duty to provide defense counsel with unlimited discovery of everything known by the prosecutor, if the subject matter of such a request is material, or indeed if a substantial basis for claiming materiality exists, it is reasonable to require the prosecutor to respond either by furnishing the information or by submitting the problem to the trial judge. When the prosecutor receives a specific and relevant request, the failure to make any response is seldom, if ever, excusable."
+
+[4]  This decision does not conflict with C.J.P. art. 123 B, which authorizes the trial court to disclose juvenile records to any person upon a particular showing of good cause to believe that the records are "relevant to a specific ... proceedings". This decision simply construes that statutory authorization in confirmity with the constitutional rights of the accused.

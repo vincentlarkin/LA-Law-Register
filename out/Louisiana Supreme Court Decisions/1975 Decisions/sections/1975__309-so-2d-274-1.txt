@@ -1,0 +1,159 @@
+55332
+Louisiana Bank and Trust Co., Crowley v. Boutte
+https://law.justia.com/cases/louisiana/supreme-court/1975/309-so-2d-274-1.html
+
+55332
+Louisiana Bank and Trust Co., Crowley v. Boutte
+Court: Louisiana Supreme Court
+Release date: 1975-02-24
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1975/309-so-2d-274-1.html
+
+309 So. 2d 274 (1975)
+
+LOUISIANA BANK AND TRUST COMPANY, CROWLEY, Louisiana
+v.
+Mrs. Jewel B. BOUTTE et al.
+
+No. 55332.
+
+Supreme Court of Louisiana.
+
+February 24, 1975.
+
+Rehearing Denied March 31, 1975.
+
+*275 Donald J. Tate, Tate & Tate, Mamou, for defendant-applicant.
+
+Oscar W. Boswell, Reggie, Harrington & Boswell, Homer Ed Barousse, Jr., Edwards, Stefanski & Barousse, Crowley, for plaintiff-respondent.
+
+DIXON, Justice.
+
+Louisiana Bank and Trust Company of Crowley sued Rex Rice Company, Inc. and Lake Rice Mill, Inc., claiming a balance due on promissory notes in the amount of over $600,000, and joined in the same suit defendant Matthew L. Hanagriff and three other persons under "continuing guaranty" agreements, alleging that the defendants were liable for the debts of Rex Rice Company, Inc., the principal debtor.
+
+While the case was pending, a compromise agreement released the parties defendant with the exception of Hanagriff, who did not join the compromise agreement, and against whom the plaintiff bank reserved its rights.
+
+There was judgment in the trial court in favor of plaintiff and against defendant, which judgment was amended and affirmed in the Court of Appeal. Louisiana Bank & Trust Co. v. Boutte et al., La.App. 298 So. 2d 884 (1974).
+
+We granted writs on the application of defendant Hanagriff to determine the effect of the "continuing guaranty" agreement. Before us the defendant argues that his obligation under the contract of guaranty had prescribed; that the release of the principal debtor released the defendant, who was a surety; that the plaintiff creditor received immovable and other property in the payment of the principal debt, resulting in the full discharge of the surety under C.C. 3062; and, finally, that defendant's property had been illegally subjected to attachment.
+
+The record reveals that Rex Rice Company, Inc. was indebted to the plaintiff bank in 1962. On May 18 of that year the "continuing guaranty" agreement was executed and signed by the four shareholders and directors of the Rex Rice Company, Inc., including the defendant Hanagriff. The complete agreement is reproduced in footnote[1]. This suit was filed March 25,   1969, and a writ of attachment was issued, seizing Hanagriff's home.
+
+In the interval between the filing and the trial of the suit, three compromise agreements had been executed, the effect of which was to convey property from Rex Rice Company, Inc., Jack R. Smith, Mrs. Louie F. (Hattie F.) Broussard and Mrs. Jewel B. Boutte, the other three shareholders and directors of Rex Rice Company, Inc., to the plaintiff bank. Those parties were released from further liability. The bank reserved its rights against Hanagriff. Numerous other parties were involved in the compromise agreements, including another bank and other creditors of Rex Rice Company, Inc. Judgment was rendered against Hanagriff alone on June 7, 1973, following a trial on the merits on April 10, 1973. At the trial, it was shown that the balance due on Rex Rice Company, Inc. indebtedness to the plaintiff bank was $477,021.46, all of which had accrued following the execution of the "continuing guaranty" agreement. Since the "continuing guaranty" was for a sum of $200,000, the trial court rendered judgment against Hanagriff for one-fourth of that amount, because he was one of four signers. The Court of Appeal reduced the amount of the judgment against Hanagriff to $40,000 because Rex Rice Company, Inc. was also a solidary obligor, making Hanagriff's virile share one-fifth of the total, under C.C. 2103.[2]
+
+Defendant's argument that the release of the principal operated to discharge his, the surety's, liability depends upon classifying the instrument of "continuing guaranty" as a contract of suretyship. Defendant relies   on the following cases for the proposition that a surety bound in solido is a surety nevertheless: Jones v. Fleming, 15 La. Ann. 522 (1860); Lee v. City of Baton Rouge, 243 La. 850,
+147 So. 2d 868
+(1963); Keller v. General Motors Acceptance Corp., 233 La. 320, 96 So. 2d 598 (1957); Elmer Candy Co. v. Baumann, 150 So. 427 (La.App.1933); Brock v. First State Bank & Trust Co., 187 La. 766, 175 So. 569 (1937).
+
+Jones v. Fleming supports the position of the defendant; the court there disregarded the surety's liability in solido and released him under C.C. 3063 when the principal debtor was granted a prolongation of term for payment. The substance of the holding in Jones v. Fleming, however, was disapproved in dicta in Bonart v. Rabito, 141 La. 970, 76 So. 166 (1917), and was criticized in a comment at 39 Tul.L.Rev. 85 (1964-65), where the cases on solidary suretyship are collected and analyzed.
+
+The other cases cited in defendant's brief do not support his position. Lee v. City of Baton Rouge involved the compromise of a tort claim, and held that the release of joint tort feasor with reservation of rights against the tort feasor who was primarily liable did not release the tort feasor who was primarily liable. The case has no application.
+
+Keller v. GMAC, is not applicable. This was an action by a guarantor to recover the amount paid by an endorser and guarantor for negligently marking the note paid and returning it to the maker.
+
+The Elmer Candy Co. case is not applicable. It merely held that the release of one solidary surety, or guarantor, without reservation released the other solidary guarantors.
+
+Brock v. First State Bank, although containing language that "a contract of guaranty in this state is equivalent to a contract of surety," (175 So. 569, 570) held that guarantors, bound unconditionally and in solido for the payment of a note could be sued at the same time as the principal, and that the creditor could not be required to exhaust his remedies against the principal before suing the surety.
+
+Like so many legal classifications, those of surety and solidary obligor are not mutually exclusive. Provisions for solidary sureties are found in the Civil Code, and can be traced to Roman law. Planiol, Traite Elementaire De Droit Civil, translated by Louisiana State Law Institute, Vol. 2, No. 2351.[3]
+
+Civil Code 3045[4] provides that the obligation of the surety toward the creditor, when the surety is bound in solido with the   debtor, is "regulated by the same principles which have been established for debtors in solido."
+
+Civil Code 2106,[5] with reference to the case in which there is a principal debtor, for whose benefit the principal obligation was incurred, provides that with regard to the principal debtor, the solidary codebtors "are considered only as his securities." As Planiol explains in Vol. 2, No. 768:
+
+The effect of the application of these articles is that, as between the creditor and the solidary surety, the obligations of the surety are governed by the rules of solidary obligors.
+
+The solidary surety waives the pleas of discussion and division. C.C. 3045; Brock v. First State Bank, supra, Hibernia Bank & Trust Co. v. Succession of Cancienne, 140 La. 969, 74 So. 267 (1917); Home Ins. Co. v. Voorhies Co., 168 So. 724 (La.App.1936); 2 Planiol, No. 2352. A remission to a simple surety does not discharge his co-sureties. C.C. 2205. As to solidary sureties, a remission by the creditor was held, in Elmer Candy Co. v. Baumann, supra, to have discharged the solidary co-sureties because the creditor failed to reserve his rights against the remaining sureties; otherwise, C.C. 2203[6] provides that a discharge of one solidary co-debtor discharges the others.
+
+Among the co-obligors, however, bound in solido, the legal relationships may be governed by the rules of suretyship. Both the simple surety and the solidary surety who pay the debt have a right of recourse against the principal debtor.[7] C.   C. 2106; Marfese v. Nelson, 10 Orl.App. 288 (1913); 2 Planiol, No. 768, No. 2352.
+
+There are exceptions, and sometimes the relationships among solidary sureties are not governed by the rules of suretyship. A simple surety who pays the whole debt can enforce contribution against the other sureties, but only when he has paid "in consequence of a lawsuit instituted against him." C.C. 3058. But a solidary surety need not await suit before paying, in order to preserve his right of contribution. There is no reason to require such a delay, since pleas of discussion and division are not available to him. Ferriday v. Purnell, 2 La.Ann. 334 (1847); Bond v. Bishop, 18 La.Ann. 549 (1866).
+
+We hold, therefore, that the compromise[8] and release of the principal debtor, Rex Rice Company, Inc., did not operate to release the solidary surety, Hanagriff.
+
+Nor is defendant aided by his reliance upon C.C. 3540, which provided the five year prescriptive period for bills and notes. Defendant argues that this contract of guaranty falls within "all effects negotiable or transferable by indorsement or delivery..." referred to in C.C. 3540.
+
+C.C. 3540 provides that prescription begins to run "reckoning from the day when the engagements were payable." The record discloses a course of business between Rex Rice Company, Inc. and the plaintiff bank from 1962 until August, 1964. There were substantial advances during that period, and nine brief intervals during which Rex owed the bank nothing, reflecting payment of the accounts. From May 18, 1962 until this suit was filed on March 25, 1969 Rex was indebted to the bank in substantial sums. The instrument of continuing guaranty by its terms contemplated future advances. It had not prescribed, under any theory, in August of 1964, after which arose all the indebtedness sued on in this case. The earliest day from which the five year prescriptive period, if applicable, can be reckoned, under C.C. 3540, is "the day when the engagements were payable." The earliest possible day would have been in August of 1964, if there had been demand instruments due then. Since suit was filed in March, 1969, five years did not elapse from the due date of the oldest possible obligation guaranteed by Hanagriff and his co-obligors. "Liberative prescription does not entail anything but the prolonged inaction of the creditor." 2 Planiol, No. 632. There was no "inaction" on the part of the bank, and prescription did not run.
+
+C.C. 3062 provides that: "The voluntary acceptance on the part of the creditor, of an immovable or any other property, in payment of the principal debt, is a full discharge of the surety, even in case the creditor should be afterwards evicted from the property so accepted." Defendant contends that the acceptance by the creditor of property in the compromise agreement from Rex and the other co-obligors should discharge him.
+
+We need not decide whether this right of the simple surety is available to a solidary surety who does not specifically waive it, although it would seem that C.C. 3062 is designed to protect a simple surety only, in the exercise of his rights of discussion, division or subrogation. When Hanagriff executed the continuing guaranty instrument, he agreed that the bank might, without notice, accept securities and   grant releases and discharges, apply money and securities as it saw fit, without in any way affecting or lessening the liability of the guarantors. This was an effective waiver of any rights defendant might hope to find in C.C. 3062.
+
+"... we look to the essence rather than the form." Gasquet v. Thorn, 14 La. 506, 509 (1840). "It is the essence rather than the form of a contract which must determine its character." Alter v. Zunts, 27 La.Ann. 317, 318 (1875).
+
+Finally, defendant Hanagriff contends that his property was wrongfully attached by the plaintiff, and that he is entitled to have the attachment dissolved and to recover damages.
+
+Plaintiff based its demand for the writ of attachment on the contention that the defendants were about to dispose of their property, or give an unfair preference to other creditors, to the detriment of the plaintiff bank. C.C.P. 3541.
+
+Although the issue was contested at trial, the testimony to support the issuance of the writ of attachment was sparse. The attorney for the bank testified that "the principal had made a certain arrangement with a creditor" that would result in that creditor's obtaining a preference over the plaintiff of "certain assets." The record is silent as to the source of the information, and as to the "certain arrangement."
+
+As to the defendant Hanagriff, the substance of the testimony was that seven years before the filing of the suit, people at the bank had information that Hanagriff had purchased his stock with "old cash money" and the attorney had "information that he would have converted the property to defeat us." The property was Mr. Hanagriff's home. The witness could not give the source of such information, and had no information that Hanagriff had committed any act which would lead anyone to believe he was about to sell or mortgage his home.
+
+There was no evidence adduced at the trial to indicate that Hanagriff participated in the daily operations of Rex Rice Company, or knew of or participated in any way in any effort of Rex Rice Company to place its assets beyond the reach of the plaintiff.
+
+The evidence is entirely insufficient to support the issuance of a writ of attachment, and it should have been dissolved. The defendant put on no evidence concerning damages from the attachment. Hanagriff was called on cross-examination by plaintiff, but did not testify concerning the attachment. The only effort by defendant's attorney toward dissolution of the writ was the inclusion of the demand for dissolution in Hanagriff's answer and the cross-examination of the bank's lawyer. We will award nominal damages for dissolution in the amount of $100.00.
+
+The judgment of the Court of Appeal is therefore affirmed and amended, awarding plaintiff, Louisiana Bank and Trust Company, Crowley, Louisiana, judgment against defendant, Matthew L. Hanagriff, in the sum of $40,000, and there is further judgment in favor of Matthew L. Hanagriff, plaintiff in reconvention, and against Louisiana Bank and Trust Company, Crowley, Louisiana, defendant in reconvention, dissolving the writ of attachment and awarding plaintiff in reconvention damages in the sum of $100.00, all at the cost of defendant, Matthew L. Hanagriff.
+
+SANDERS, C. J., concurs with written reasons.
+
+BARHAM, J., concurs with reasons.
+
+SANDERS, Chief Justice (concurring).
+
+In the present case, the plaintiff compromised its suit against Rex Rice Company, Inc., and others, reserving its rights   against the present defendant, Hanagriff, who had executed a continuing guaranty. The main question is whether the release of Rex Rice Company discharged the defendant. I think not.
+
+Article 2203 of the Louisiana Civil Code provides:
+
+Since the compromise contained an express reservation of rights against the present defendant, he was not discharged in accordance with the exception set forth in the above article.
+
+For the reasons assigned, I respectfully concur in the decree.
+
+BARHAM, Justice (concurring).
+
+I concur in the majority opinion under the simple finding that as between the plaintiff-creditor and all of the original defendants, Rex Rice Company, Inc., and the four individuals who signed the continuing guaranty (including the present defendant, Hanagriff), all the defendants were principal co-obligors.
+
+I differ from the majority in my opinion that having been presented only with the question of the relationship between the plaintiff and the single defendant, Hanagriff, we are obliged to confine ourselves to a discussion of the law pertinent to resolving the legal rights and obligations between them. Significantly, we do not have before us the proper parties for determining the legal relationship between the rice company and the four continuing guarantors. That must be resolved in another lawsuit in the absence of agreement among those parties. We cannot here decide whether the five original defendants are solidary obligors as between themselves to the extent that each is responsible for a virile portion of the debt or whether one of the five is a principal obligor who must indemnify the other four under a surety agreement. We should not even decide in this lawsuit whether, in relation to each other, the four continuing guarantors are solidary obligors or solidary sureties with a right of virile contribution among themselves.
+
+The majority opinion quotes doctrinal authority which in fact is a correct analysis of the position I have stated above. The difficulty is that the majority opinion does not clearly set forth the result which should be obtained in this suit under that doctrinal statement. The quote from 2 M. Planiol, Traité élé mentaire de droit civil No. 768 (La.St.L.Inst. trans. (1959) is a correct statement of the law applicable to the issue between the parties to this lawsuit. However, the following translation of 7 M. Planiol and M. Ripert, Traite pratique de droit civil francais 466-67 (2me éd. Esmein, 1954) may more clearly state the position of the French in interpreting their Code Napolé on Article 1216 (our Civil Code Article 2106):
+
+See also 1 C. Aubry & C. Rau, Droit civil francais 33 (La.St.L.Inst. transl.1965). See also 3 C. Toullier, Le droit civil francais 588 (1833).
+
+The point to be made is that the majority is wrong to conclude in this limited action we consider between the plaintiff-creditor and one continuing guarantor, Hanagriff, that Rex Rice Company, Inc., one of the defendants, is the principal debtor and that Hanagriff is a solidary surety with the three other guarantors. That relationship is to be determined between those parties and has no bearing upon the decision we make; it is actually an intrusion by this Court into another legal relationship not yet litigated. The majority concedes from the law it cites that there may be solidary sureties who, as to third parties, may also be solidary obligors with a principal debtor. However, this occurs only when, as between the solidary sureties and the creditor, the sureties become principal debtors along with someone else.
+
+A. Weill, Droit civil, les obligations, No. 920 at 879, 880 (1971) states that "[w]hen one of the co-debtors has paid the debt, * * *" the law establishes a presumption that co-debtors distribute their responsibility among themselves according to their virile shares, or if it be so agreed, "according to the interest which each has had in the business." Weill then says that, "[i]n an exceptional case it can happen that there is no such contribution to be made to a co-debtor who has paid the debt, as when one of the co-debtors who has paid, alone, was directly concerned in the business [was the principal obligor] and the others are engaged only under the title of solidary sureties. Art. 1216 [La.C.C. art. 2106] anticipates this hypothesis."
+
+It is my feeling that we should make very apparent that the instrument we interpret here (footnote 1 in the majority opinion), insofar as the creditor and one of the guarantors are concerned, is an agreement of co-obligationa solidary obligation by each of the signing parties to that creditor for the full indebtedness. Their distribution of that debt among themselves depends upon their agreement as to the interest of each in the business, even to the extent that only one of them may be concerned directly while the others are engaged only as solidary sureties who are entitled to indemnification from the one who is the principal obligor. We cannot, and we should not, address ourselves to that issue. The continuing guaranty instrument alone on its face does not, without extrinsic evidence, permit us to make such a determination, even if it were properly before us. That act of guaranty does not unambiguously set forth a suretyship, although this is not to say that it was not intended as a suretyship by the parties.
+
+I respectfully concur.
+
+[1]  "CONTINUING GUARANTY
+
+"In consideration of the LOUISIANA BANK AND TRUST COMPANY, CROWLEY, LOUISIANA, at our request, giving or extending terms of credit to REX RICE COMPANY, INC. hereinafter called debtor, we hereby give this continuing guaranty to the said LOUISIANA BANK AND TRUST COMPANY, CROWLEY, LOUISIANA, its transferees or assigns, for the payment in full, together with all interest, fees and charges of whatsoever nature and kind, of any indebtedness, direct or contingent, of said debtor to said LOUISIANA BANK AND TRUST COMPANY, CROWLEY, LOUISIANA, up to the amount of TWO HUNDRED THOUSAND DOLLARS Dollars, whether due or to become due, now existing or hereafter arising. The Bank may, in its judgment, grant extensions, take and give securities, accent compositions, grant releases and discharges, make changes of any sort whatever in the terms of its contract or manner of doing business with the debtor and with other parties and securities in relation thereto. The Bank may also apply all moneys received from the debtor and others or from securities as it may think best, without in any way altering, affecting, limiting or lessening the liability of the undersigned under this Guaranty; the whole without any notice to or consent from us. The Bank shall not be bound to exhaust its recourse against the debtor or other persons or upon the securities it may hold before being entitled to payment from the undersigned of the amount hereby guaranteed. We do furthermore bind and obligate ourselves, our heirs and assigns, in solido with said debtor, for the payment of the said indebtedness precisely as if the same had been contracted and was due or owing by us in person hereby agreeing to and binding ourselves, our heirs and assigns, by all terms and conditions contained in any note or notes signed or to be signed by said debtor, making ourselves a party thereto; hereby waiving notice of any such indebtedness and of demand, presentment, protest or notice of any act to establish the liability of any party or any commercial or other paper, indebtedness or obligation covered by this guaranty; we do further waive all notice and all pleas of discussion and division and we agree to pay upon demand at any time to said Bank, its transferees or assigns, the full amount of said indebtedness up to the amount of this guaranty, together with interest, fees and charges, as above set forth, becoming subrogated in the event of payment in full by us to the claim of said Bank, its transferees or assigns, together with whatever security if any they may hold against said indebtedness.
+
+"It is expressly agreed that this continuing guaranty is absolute and complete, and that acceptance and notice of acceptance thereof by the Bank, are therefore unnecessary and they are hereby expressly waived, and the same shall continue in force until written notice or its discontinuance shall be served upon one of the executive officers of the said Bank, but such discontinuance shall not affect our liability on any debts and/or obligations of the debtor then existing nor the liability of any other party liable in the premises.
+
+"In faith whereof we have hereunto signed our name on this the 18th day of May, 1962.
+
+[2]  Plaintiff has not complained of this ruling, and the question is not before us whether the contractual terms of the "continuing guaranty" would have permitted a judgment against Hanagriff for the entire $200,000.
+
+[3]  "Sureties resemble solidary co-debtors, in their relations with the principal debtor, and in their relations between themselves: there is no division between them, and each one of them can be sued before the debtor. However this is not true solidarity, since the law accords to them the benefits of discussion and of division, benefits which are the negation of solidarity and which are refused to real solidary co-debtors.
+
+"This contradictory explanation is explained by the historic development of suretyship. Under the Roman fidejussio, the surety was originally a debtor as firmly bound as the principal obligor: then there was a reaction in favor of debtors, and various benefits were accorded which provisionally improved the position of the surety. But they went too far. By relaxing the liability of the surety they injured borrowers whose credit was destroyed. Capitalists demand serious security; if not, they do not loan; and in fact, although our laws have retained the favors accumulated by the Roman law for the benefit of sureties, the practice has regulated itself otherwise and has passed them by. It employs the very simple method of requiring the sureties to renounce, by a special clause, all their benefits which has the effect of re-establishing the ancient solidarity affaced by the Roman legislation. In our day simple suretyship tends to become more and more rare; almost always the sureties engage themselves solidarily with the principal debtor or between themselves. There has been a return thus, to the primitive rigor of the law." (Emphasis added).
+
+[4]  "The obligation of the surety towards the creditor is to pay him in case the debtor should not himself satisfy the debt; and the property of such debtor is to be previously discussed or seized, unless the security should have renounced the plea of discussion, or should be bound in solido jointly with the debtor, in which case the effects of his engagement are to be regulated by the same principles which have been established for debtors in solido."
+
+[5]  "If the affair for which the debt has been contracted in solido, concern only one of the coobligors in solido, that one is liable for the whole debt towards the other codebtors, who, with regard to him, are considered only as his securities."
+
+[6]  "The remission or conventional discharge in favor of one of the codebtors in solido, discharges all the others, unless the creditor has expressly reserved his right against the latter.
+
+"In the latter case, he can not claim the debt without making a deduction of the part of him to whom he has made the remission."
+
+[7]  The right of subrogation of the surety who pays the creditor is not the only source of the solidary obligor's action against the principal debtor when he pays the creditor. A compromise and discharge of the principal debtor by the creditor might leave the simple surety, if he were forced to pay the creditor any balance, without any subrogation rights against the principal debtor because of the accessory nature of the suretyship obligation. C.C. 3035. If the principal creditor could discharge the debtor and proceed against the surety, the creditor's rights against the principal debtor having been extinguished, there would be nothing left to which the surety might become subrogated, should be become forced to pay the creditor.
+
+The other source of the solidary surety's right of recourse against the principal debtor is "one which is personal to him arising from the contract of suretyship ..." 1 Planiol, No. 2354, No. 2355. It is this remedy, says Planiol, which is referred to in C.N. 2028 and C. N. 2030, the sources of our C.C. 3052 and 3053. C.C. 3053 refers to the right of subrogation granted to co-debtors in solido, a different source of the paying solidary surety's right of recourse against the principal debtor.
+
+Therefore, when, under a contract a solidary suretyship, one is forced to pay the creditor a debt of the principal obligor, even after the creditor has discharged the principal obligor, the surety does not lose this right of recourse against the principal debtor, which has arisen from the nature of the contract of suretyship.
+
+[8]  Compare 2 Planiol, No. 761: "If one only of the co-debtors compromises with the creditor, the compromise does not bind the others and cannot be opposed by them to the creditor. (Art. 2051)." Our C.C. 3077 differs in phraseology from C.N. 2051, its source.

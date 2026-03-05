@@ -1,0 +1,160 @@
+65748
+State v. Barnett
+https://law.justia.com/cases/louisiana/supreme-court/1980/389-so-2d-352-1.html
+
+65748
+State v. Barnett
+Court: Louisiana Supreme Court
+Release date: 1980-05-19
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/389-so-2d-352-1.html
+
+389 So. 2d 352 (1980)
+
+STATE of Louisiana
+v.
+Terry D. BARNETT.
+
+No. 65748.
+
+Supreme Court of Louisiana.
+
+May 19, 1980.
+
+Garon, Brener & McNeely, Jacques F. Bezou, New Orleans, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Leon A. Cannizzaro, Jr., Louise S. Korns, David J. L'Hoste, Asst. Dist. Attys., for plaintiff-respondent.
+
+MARCUS, Justice.[*]
+
+Terry D. Barnett was charged by bill of information with receiving stolen things in violation of La.R.S. 14:69. Defendant filed a pretrial motion to suppress certain records seized from his place of business pursuant to a search warrant. After a hearing, the trial judge denied the motion. We granted defendant's application under our supervisory jurisdiction to review the correctness of this ruling.[1]
+
+Evidence adduced at the suppression hearing reveals that on April 19, 1979, two New Orleans police officers entered defendant's place of business, Gulf States Coin Exchange, Inc., 126 Royal Street, New Orleans, Louisiana, during business hours to execute a search warrant authorizing them to search for certain listed pieces of silverware. After searching the premises without finding the listed items, the officers were told that the pieces may have been melted down. They then requested to see defendant's records. Defendant and the officers searched the records and found a cash voucher that indicated defendant had purchased the listed silverware. The officers seized the voucher.
+
+Defendant contends the trial judge erred in denying his motion to suppress. He argues the search that led to seizure of the evidence sought to be suppressed exceeded the authority of the search warrant. The state argues to the contrary but alternatively argues that, even if the search did exceed the authority of the warrant, defendant consented to the search. Finally, the state contends that defendant's rights were not violated by the search and seizure of his business records because defendant had no reasonable expectation of privacy   therein. Finding merit in the state's latter argument, we pretermit discussion of the other issues.
+
+In Louisiana, dealers in used or second hand property are subject to certain licensing and record-keeping requirements.[2]
+
+*354 One of these statutes, La.R.S. 37:1865, provides:
+
+In United States v. Biswell,
+406 U.S. 311
+, 92 S. Ct. 1593, 32 L. Ed. 2d 87 (1972), the United States Supreme Court discussed the constitutionality of a similar federal statute allowing warrantless inspection of the premises of any firearms or ammunition dealer for records or documents required to be kept and any firearms or ammunition kept at such premises. The Supreme Court stated:
+
+The same considerations are present in the instant case. The search was not accompanied by any unauthorized force. When the officers requested to see defendant's records, they were merely asserting their statutory right.[3] The lawfulness of   the search does not depend upon consent. Rather, it depends on the authority of a valid statute.
+
+The present case involves an inspection system aimed at state-licensed dealers in secondhand goods. State regulation of secondhand dealers has been in effect since 1926.[4] Close scrutiny of traffic in secondhand goods is undeniably of central importance to state efforts in discouraging burglaries, thefts, and robberies, serious crimes that can be violent. Large interests are at stake, and inspection directly furthers those interests since it tends to limit access to channels through which thieves may safely convert stolen property into cash.
+
+Also, as in Biswell, it is apparent that, if inspection is to be effective as a credible deterrent of the practice of buying used goods from unidentified strangers, inspections without warrants must be deemed reasonable under the fourth amendment. Unannounced, even frequent, inspections are essential. The prerequisite of a warrant could easily frustrate inspection. In any case, the protection afforded by a warrant would be negligible.
+
+Furthermore, inspections under La.R.S. 37:1865 pose only limited threats to the dealer's justifiable expectations of privacy. When a dealer chooses to engage in this regulated business and seeks a state license, he does so with the knowledge that his business records and the goods he purchases will be subject to effective inspection.
+
+We have little difficulty in concluding that where, as here, regulatory inspections further urgent state interest, and the possibilities of abuse and the threat to privacy are not of important dimensions, the inspection may proceed without a warrant where specifically authorized by statute.[5] Accordingly, the trial judge did not err in denying defendant's motion to suppress.
+
+For the reasons assigned, the judgment of the district court is affirmed and the case is remanded to the district court for further proceedings in accordance with law.
+
+DIXON, C. J., concurs.
+
+CALOGERO, J., dissents and assigns reasons.
+
+DENNIS, J., dissents for reasons assigned by Calogero.
+
+CALOGERO, Justice, dissenting.
+
+I respectfully dissent from the majority opinion because I do not believe that the requirements of R.S. 37:1865 were properly complied with nor do I believe that the present case is analogous to United States v. Biswell,
+406 U.S. 311
+, 92 S. Ct. 1593, 32 L. Ed. 2d 87 (1972).
+
+*357 The specific regulatory provisions in Louisiana relative to required records of secondhand dealers do not provide that a policeman looking for described contraband, armed with a warrant authorizing its seizure, can, after not finding the contraband, search the dealer's business records, which were not specifically described in the warrant. Nor does the statute provide that any policeman on the force may, at any time, go into a dealer's store and demand to inspect his records. Rather, the statute merely states that the records "shall at all times be open to the inspection of the superintendent of police or sheriff of the parish or anyone designated by them ..." There has been no showing in this case that the inspecting officers had been designated by the superintendent of police to go and search or inspect this dealer's records.
+
+The fact is that, in this case, the officers made an unsuccessful warrant search for certain pieces of silver. Displeased with the lack of results, the officers took it upon themselves, not under the color of R.S. 37:1865, to demand the defendant's business records. The officers at the time of the search, for all the record reveals, were not authorized by the superintendent to look at the records, did not assert any right under R.S. 37:1865 and did not rely thereon at the time of the search. The prosecutor, charged with the burden of proving the legality of the search and seizure did not assert, at the hearing on the motion to suppress, that the officers were making the search under R.S. 37:1865 and did not present any evidence in reliance thereon. Therefore, I believe that the statute was not properly complied with and the search and seizure can not be validated by reference to it now.
+
+Furthermore, even assuming for purposes of argument that the statute was complied with, I am of the opinion that the present case is distinguishable from Biswell, supra, because I do not believe that the secondhand dealer business is subject to as pervasive governmental regulation as is the firearm industry or the liquor industry. Nor do I believe that the secondhand dealer business as a whole necessitates unannounced and frequent inspections for effective regulation of the business. This statute simply does not contain the time, scope and frequency limitations required by Biswell, supra.
+
+Finding no merit in this argument by the state, I believe that the defendant's other two contentions should have been considered: that the seizure of his business records exceeded the authority of the warrant; and that he did not consent to the search.
+
+The warrant only authorized the seizure of specifically described items of silver and did not authorize the seizure of defendant's business records. There being no valid warrant for the seizure of these records, the confiscation by the officers was made without a warrant, and was thus per se unreasonable. Coolidge v. New Hampshire,
+403 U.S. 443
+, 91 S. Ct. 2022, 29 L. Ed. 2d 564 (1971); and State v. Colvin,
+358 So. 2d 1250
+(La.1978). Therefore, the seizure of private papers not specifically described in the search warrant is unlawful, and as such the evidence so obtained should be suppressed. Chimel v. California,
+395 U.S. 752
+, 89 S. Ct. 2034, 23 L. Ed. 2d 685 (1969).
+
+The state alternatively argues that the defendant consented to the search of his business records and thus the search was permissible because a search after consent is an exception to the prohibition against warrantless searches. I do not agree with this contention. Although defendant was advised of his rights when the officers first entered the store, in the face of two "upset" police officers demanding production of defendant's business records, with the presumed authority of a valid search warrant, it can not be said that defendant's conduct in complying with this apparent official request could be construed as freely and voluntarily given consent. Consent given in the face of colorably lawful coercion cannot be used to validate otherwise illegal acts. Bumpers v. North Carolina,
+391 U.S. 543
+, 88 S. Ct. 1788, 20 L. Ed. 2d 797 (1968); and Schneckloth v. Bustamonte,
+412 U.S. 218
+, 93 S. Ct. 2041, 36 L. Ed. 2d 854 (1973).
+
+*358 For the foregoing reasons, I believe that the warrant did not cover the search of defendant's business records, that the defendant did not freely and voluntarily consent to the search and that the search and seizure were not authorized by R.S. 37:1865. Therefore, I dissent from the majority opinion upholding the seizure of defendant's business records and affirming the trial court's denial of defendant's motion to suppress.
+
+[*]  The Honorable Edward A. de la Houssaye 111 participated in this decision as Associate Justice Ad Hoc.
+
+[1]  377 So. 2d 120 (La.1979).
+
+[2]  La.R.S. 37:1861-:1870 provide:
+
+§ 1861. "Second-hand dealer" defined
+
+Every person in this state engaged in the business of buying, selling, trading in, or otherwise acquiring or disposing of used or second-hand property such as jewelry, silverware, diamonds, pictures, objects of art, clothing, mechanic's tools, carpenter's tools, automobile accessories and supplies, and other such property, is a second-hand dealer. The provisions of this Part shall not apply to the retail jewelry, automobile, furniture, and antique business.
+
+§ 1861.1 Secondhand dealer defined in parishes with a population over four hundred fifty thousand
+
+A. Notwithstanding any provisions of this Part to the contrary, every person in a parish with a population in excess of four hundred fifty thousand who is engaged in the business of buying, selling, trading in, or otherwise acquiring or disposing of used or secondhand property is a secondhand dealer subject to the provisions of this Part unless otherwise defined by law. This definition shall apply to but not be limited to owners of secondhand stores, flea markets, and antique shops. In such a parish, this Section shall not be construed as applying to dealers in motor vehicles, dealers in used parts or used accessories of motor vehicles or wreckers or dismantlers of motor vehicles who are licensed under the provisions of R.S. 32:718 et seq.
+
+§ 1862. License required; application; bond
+
+No person shall do business as a second hand dealer in this state without having first obtained the license required by law. Any person desiring a license as second hand dealer shall make application in writing, specifying the street number and house number of the building where the business is to be carried on. This application shall be signed by at least three property tax payers of the city or parish where the business is to be established, certifying that the applicant is of good moral character. He shall also submit with his application, a bond in favor of the city or parish, as the case may be, where the business is to be established, in the sum of three hundred dollars with security, conditioned for the due observance of all provisions of this Part.
+
+§ 1863. Change in location to be noted on license
+
+If after issuance and delivery of a license under the provisions of this Part any change is made in the location of the place of business designated therein, the business shall not be conducted at the new location or under such license, until the official issuing the license notes the change on the license, and the superintendent of police of the city or the sheriff of the parish in which the second hand dealer is doing business is notified in writing of the change.
+
+§ 1864. Record of secondhand goods or objects purchased required
+
+Every secondhand dealer as defined in this Part shall be required to maintain a book or ledger setting forth each purchase of secondhand or used merchandise when the value of any single piece of merchandise or article received shall be twenty-five dollars or more, for each single transaction. The price at which a piece of merchandise is offered for sale by a secondhand dealer shall be considered prima facie evidence of the value of the piece of merchandise. Each ledger entry shall be entered at the time of each transaction and shall contain an accurate description in the English language of the merchandise or article received including serial numbers of said objects, if distinguishable, along with the amount paid therefor.
+
+The name, address, sex, race, height, weight, and driver's license number of the person or persons selling or delivering said merchandise or articles to the dealer shall be obtained and included with each ledger entry. Records of each purchase shall be preserved for a period of at least three years.
+
+§ 1865. Book to be open for inspection
+
+The book containing the record of purchase as provided for in R.S. 37:1864 and the various articles purchased and referred to therein shall at all times be open to the inspection of the superintendent of police or sheriff of the parish or anyone designated by them of the city, town, or parish in which the second hand dealer does business.
+
+§ 1866. Daily report of entries
+
+Every person, licensed under the provisions of this Part shall make out and deliver to the superintendent of police of the city or town or to the sheriff of the parish in which he is doing business, every day before the hour of twelve o'clock noon, a legible and correct copy of the entries in the book mentioned in R.S. 37:1864 during the previous day. The name given by the person making a sale shall be furnished the superintendent of police or sheriff when they specially request it.
+
+§ 1867. Disposal or changing identity prohibited during ten day period
+
+No second-hand dealer shall sell or dispose of or change or destroy the identity of any goods, articles or things, purchased by him before an interval of ten days from date of purchase has elapsed.
+
+§ 1868. Hours of business
+
+A second-hand dealer shall neither open his place of business before the hour of 7 o'clock a. m. nor keep it open after the hour of 7 o'clock p. m. except on Saturdays and during the month of December, during which time the hour of 7 o'clock p. m. shall be extended to 10 o'clock p. m.
+
+§ 1869. Violations; penalty
+
+Any secondhand dealer who violates, neglects, or refuses, to comply with any provisions of this Part, shall, for the first offense, be fined not less than twenty-five dollars, nor more than one hundred dollars or be imprisoned for not less than ten days nor more than thirty days, or both. For the second and subsequent offenses he shall be fined five hundred dollars, or be imprisoned for not less than thirty days, nor more than sixty days, or both. If convicted three times his license shall be revoked and he shall not thereafter be permitted to engage in the business of secondhand dealer in the state of Louisiana.
+
+§ 1870. Failure to comply; penalty
+
+Anyone acting as a second-hand dealer without complying with the provisions of this Part shall be fined not less than two hundred and fifty dollars or be imprisoned not less than thirty days nor more than sixty days, or both.
+
+[3]  The question has been raised whether La.R.S. 37:1865, which provides that the records must be open to the inspection of the superintendent of police or sheriff of the parish or anyone designated by them requires an express designation of authority to be made before the inspection can proceed. In United States v. Biswell,
+406 U.S. 311
+, 92 S. Ct. 1593, 32 L. Ed. 2d 87 (1972), the inspection statute stated: "The Secretary may enter ..." The actual entry was made by a federal treasury agent who showed no express authorization by the Secretary of the Treasury. The Supreme Court held the inspection valid. Therefore, we do not consider whether La.R.S. 37:1865 requires an express designation of authority before an officer can inspect the records of a secondhand dealer.
+
+[4]  The present regulations were first enacted as 1926 La.Acts, No. 309.
+
+[5]  We are mindful that in Marshall v. Barlow's, Inc.,
+436 U.S. 307
+, 98 S. Ct. 1816, 56 L. Ed. 2d 305 (1978), See v. City of Seattle,
+387 U.S. 541
+, 87 S. Ct. 1737, 18 L. Ed. 2d 943 (1967), and Camara v. Municipal Court,
+387 U.S. 523
+, 87 S. Ct. 1727, 18 L. Ed. 2d 930 (1967), the Supreme Court invalidated searches made without warrants pursuant to inspection statutes. These cases, however, are clearly distinguishable, as they involve inspections for compliance with safety codes, fire codes, and housing codes, none of which require frequent, unannounced inspections to maintain their effectiveness. The United States Supreme Court itself distinguished See in Biswell. stating:
+
+The mission of the inspection system [in See] was to discover and correct violations of the building code, conditions that were relatively difficult to conceal or to correct in a short time. Periodic inspections sufficed, and inspection warrants could be required and privacy given a measure of protection with little if any threat to the effectiveness of the inspection system there at issue.
+
+Furthermore, in Barlow's, See, and Camara, the Supreme Court was not faced with inspection statutes enacted as part of a licensing scheme.

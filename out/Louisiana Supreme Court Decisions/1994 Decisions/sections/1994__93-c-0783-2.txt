@@ -1,0 +1,128 @@
+93-C-0783
+Moak v. Illinois Cent. R. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1994/93-c-0783-2.html
+
+93-C-0783
+Moak v. Illinois Cent. R. Co.
+Court: Louisiana Supreme Court
+Release date: 1994-01-14
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1994/93-c-0783-2.html
+
+631 So. 2d 401 (1994)
+
+Woody Raymond MOAK
+v.
+ILLINOIS CENTRAL RAILROAD COMPANY.
+
+No. 93-C-0783.
+
+Supreme Court of Louisiana.
+
+January 14, 1994.
+
+Rehearing Denied February 10, 1994.
+
+Douglas K. Williams, Breazeale, Sachse & Wilson, Baton Rouge, for applicant.
+
+J.J. McKernan, Freidman, McKernan & Gold, Baton Rouge, for respondent.
+
+Harry A. Johnson, III, for Louisiana Ass'n of Defense Counsel (amicus curiae).
+
+*402 Lawrence S. Kullman, for Louisiana Trial Lawyers Ass'n (amicus curiae).
+
+CALOGERO, Chief Justice.[1]
+
+Regarding plaintiff's effort to discover surveillance films taken of him by or under the direction of defendant in this injury case, two discreet questions are presented: (1) May the district court judge deny the plaintiff's request for production of the surveillance films unless and until it becomes evident to the court that the film will be used at trial; and (2) Assuming the trial judge may not deny production, is he bound to delay it until plaintiff's deposition is taken.
+
+For the reasons which follow, we conclude, relative to the first question, that the district court judge may not deny production of the surveillance films, and, relative to the second question, that he is not bound to permit defendant to take plaintiff's deposition before ordering defendant to produce the surveillance films, although he is at liberty to do so in the exercise of his discretion. Because it is not clear whether this judge felt legally compelled to rule as he did regarding the timing of production (i.e., deposition first, production possibly later) or, conversely, whether he understood that he had the discretion to order production followed by deposition, we will remand the case for the trial judge to rule anew.
+
+On August 21, 1992, plaintiff, Woody Raymond Moak, filed a Petition for Damages against the Illinois Central Railroad Company, his former employer, pursuant to the Federal Employers' Liability Act, 45 U.S.C. § 51.[2] He alleged that he injured his back while working as a carman. He was manually transporting an "F-type knuckle" to its final destination from a bin at the Baton Rouge, Louisiana Rip Track. He contends that he was later discharged because of physical limitations resulting from the injury.
+
+In a pre-trial discovery request for production filed with the petition, plaintiff sought "[a]ll photographs, movies or videotapes made after September 2, 1989, showing or depicting Woody Moak." [The alleged injury occurred on September 26, 1989.] Illinois Central's response to this discovery request was to object for the reason that plaintiff was seeking information which was attorney work product prepared in anticipation of litigation.
+
+When the defendant attempted to schedule his deposition, Moak refused to appear until Illinois Central produced all discoverable material, including any surveillance tapes. Illinois Central filed a Motion To Compel Moak to appear for his deposition, whereupon he filed both a Motion For Protective Order for the postponement of the scheduling of the mover's deposition and a Motion To Compel Discovery with regard to one of his interrogatories and regarding certain items on his Request for Production. At a hearing on the motions, the trial judge ordered that Illinois Central's Motion To Compel plaintiff's deposition be granted, that plaintiff's Motion for a Protective Order be denied, and that Illinois Central respond to the Interrogatory and to certain of the Requests for Production, but not the request for movies or videotapes. In his oral reasons, the trial judge stated that he would reconsider the production of the surveillance film at the pre-trial conference, which was to be scheduled after the deposition. Should it appear at that time that the surveillance films would be used as exhibits at trial, production would then be required, he said.
+
+Citing Collins v. The Crosby Group, Inc., 551 So. 2d 42 (La.App. 1st Cir.1989), cert. denied,
+556 So. 2d 39
+and 42 (La.1990), the court of appeal denied plaintiff's application   for supervisory writs.[3] This Court, however, granted his application and issued a peremptory order, staying plaintiff's deposition until after defendant produces the surveillance film. On defendant's application, we granted a rehearing to reconsider that action. Moak v. Illinois Central Railroad, 618 So. 2d 398 (La.1993).
+
+This Court, in Hodges v. Southern Farm Bureau Casualty Insurance Co.,
+433 So. 2d 125
+, 129 (La.1983), has said that:
+
+To achieve these objectives, the courts are to construe the discovery statutes liberally and broadly. Id. (citing Hickman v. Taylor,
+329 U.S. 495
+, 67 S. Ct. 385, 91 L. Ed. 451 (1947); Burns v. Thiokol Chemical Corp., 483 F.2d 300 (5th Cir.1973); 8 Wright & Miller, Federal Practice and Procedure, § 2001, p. 17 (1970 ed.)).
+
+The objectives of discovery may be accomplished by several methods. According to La.Code Civ.Proc.Ann. art 1421 (West 1984), parties may obtain discovery through depositions, written interrogatories, production of documents or things or permission to enter upon land or other property, physical and mental examinations, and requests for admission. Article 1461 allows any party to request the production, inspection, and duplication of designated documents including writings, drawings, graphs, charts, photographs, phonorecords, and other data compilations and to inspect and copy, test, or sample any tangible things which constitute matters within the scope of discovery.
+
+The scope of discovery in Louisiana is addressed in Articles 1422-1425 of the Code of Civil Procedure. According to Article 1422, "[p]arties may obtain discovery regarding any matter, not privileged, which is relevant to the subject matter involved in the pending action, whether it relates to the claim or defense of the party seeking discovery or to the claim or defense of any other party," and even if "the information sought will be inadmissible at the trial if the information sought appears reasonably calculated to lead to the discovery of admissible evidence." (emphasis added)
+
+On the other hand, "a writing" may be immune from discovery under La.Code Civ. Proc. art. 1424 (West 1984)[4] if it has been "obtained or prepared by the adverse party, his attorney, surety, indemnitor, expert, or agent in anticipation of litigation or in preparation for trial." For such writings, an exception to this immunity is made by Article 1424, however, if the trial court is "satisfied that denial of production or inspection will unfairly prejudice the party seeking the production   or inspection in preparing his claim or defense or will cause him undue hardship or injustice." Nevertheless, Article 1424 prohibits the production "of any part of the writing that reflects the mental impressions, conclusions, opinions, or theories of an attorney or an expert."
+
+Thus, even if Article 1424's qualified immunity for trial preparation writings were to be applicable to tangible things such as film, it is worth noting that the absolute protection traditionally afforded attorney work product has eroded in recent years. Jenkins v. Rainner, 69 N.J. 50,
+350 A.2d 473
+, 475 (1976). Other than an attorney's mental impressions, conclusions, opinions, or legal theories concerning litigation, it is difficult to conceive of any non-privileged, relevant material which is so protected against discovery. Id.
+
+More to the point, however, and obviating any need to focus on the exception to immunity based upon unfair prejudice, undue hardship or injustice, is the fact that Article 1424 specifically excludes from discovery only "any writing obtained or prepared ... in anticipation of litigation or in preparation for trial."[5] Thus, Louisiana's "work product" exclusion applies only to a "writing" and does not include tangible things such as videotapes, films or photographs.[6] In contrast, Fed.R.Civ.P. 26(b)(3) permits the discovery of "documents and tangible things ... prepared in anticipation of litigation or for trial" ["... only upon a showing that the party seeking discovery has substantial need of the materials in the preparation of the party's case and that the party is unable without undue hardship to obtain the substantial equivalent of the materials by other means."] (emphasis added) Although Louisiana discovery rules are based in large part on the Federal Rules of Civil Procedure, we note that our codal provision, (La.Code Civ.Proc. art. 1424) which limits the "work product" immunity to writings, pre-dates the federal rule by eighteen years, and that, throughout its history, other Louisiana discovery provisions (but not Article 1424) have specified that both documents and "tangible things" are subject to discovery through a request for production of documents. Therefore, it can hardly be argued that the use of the term "writing" was routinely employed by our Legislature to encompass both writings and tangible things. Furthermore, despite the Legislature's 1976 comprehensive amendments to the Louisiana discovery provisions, which amendments followed the enactment of Fed.R.Civ.P. 26(b)(3), with its reference to tangible things as well as documents, Louisiana's "work product" rule at Article 1424 was not changed.
+
+It is also clear that the objectives of pretrial discovery are enhanced by production of the films. When a plaintiff is claiming personal injury, a film, videotape or photograph taken surreptitiously of his activities by or at the direction of the adverse party is highly   relevant with regard to the nature and extent of that injury and is likely to have a dramatic impact in court. The rationale for liberal pre-trial disclosure is "to make trial `less a game of blindman's bluff and more a fair contest with the basic issues and facts disclosed to the fullest practical extent.'" Daniels v. National Railroad Passenger Corp., 110 F.R.D. 160, 161 (S.D.N.Y.1986) (quoting United States v. Procter & Gamble Co.,
+356 U.S. 677
+, 682, 78 S. Ct. 983, 986, 2 L. Ed. 2d 1077 (1958)). Discovery serves to eliminate prejudice from the surprise disclosure of evidence. While it has been suggested that surprise may have "a healthy prophylactic effect against possible perjury," it is more likely that the adversarial process will function efficiently and cases will be decided fairly on the merits if the parties are aware of all of the evidence. Furthermore, discovery of surveillance materials permits the kind of stipulations and admissions required for effective pre-trial procedures. Martin v. Long Island Rail Road Co., 63 F.R.D. 53, 54 (E.D.N.Y.1974). It also encourages settlement or abandonment of less than meritorious claims. Even where surveillance materials ("tangible things") are within the "work product" exclusion from discovery (unless substantial need is shown) in accordance with the Federal Rules of Civil Procedure's counterpart to Article 1424, it has been held that permitting their discovery is consistent with the modern trend which permits full disclosure and narrowly construes limitations, particularly where no prejudice is shown. Marte v. W.O. Hickok Mfg. Co., Inc., 154 A.D.2d 173, 552 N.Y.S.2d 297, 299 (1990). "Our court system has long been committed to the view that essential justice is better achieved when there has been full disclosure so that the parties are conversant with all the available facts." Jenkins v. Rainner, 350 A.2d  at 476.
+
+Since surveillance films, videotapes, or photographs are not included in Louisiana's limited "work product" exclusion from discovery and since broad discovery is encouraged to promote the objectives of the procedure, we find that these materials are discoverable prior to trial. Furthermore, in view of our broad discovery laws, which permit the discovery of information that is not admissible at trial as long as it appears reasonably calculated to lead to the discovery of admissible evidence, we conclude that surveillance film is discoverable whether or not it is going to be used at trial.[7]
+
+An additional, more pertinent and narrow question specifically presented in this case concerns the timing of the production or inspection. At issue is whether the trial judge has the discretion to order production of surveillance film before deposition or, to the contrary, to order production of the film only after plaintiff's deposition is taken. What is clear is that, in this case, the trial judge did the latter. He ordered that the deposition be taken, and he denied plaintiff's request for a protective order which would have stopped the deposition until after production. What is not clear is whether he believed he had a choice or, on the other hand, believed he was required to rule as he did. His oral expressions when he ruled indicated that he may have believed that the law prevented him from allowing discovery before the deposition.[8]
+
+As with the earlier question of whether surveillance films are susceptible of discovery at all, our Court has not addressed the matter of the timing of the discovery of this material. One Louisiana court of appeal decision, Collins v. The Crosby Group, Inc., 551 So. 2d 42, while holding that surveillance film is discoverable before trial, made mention of national jurisprudence which suggested that inconsistencies between plaintiffs' allegations and surveillance films could be preserved by   taking the deposition of the plaintiffs prior to the production of the films. Id. at 44. But the Collins court of appeal panel did not have before it the narrow question regarding the timing of production, which is presented here.
+
+It is generally conceded that if the adversarial process is to function efficiently, the discovery of surveillance materials should be timed to permit plaintiff the opportunity to test at least the manner and means by which the surveillance was conducted. Boyle v. CSX Transp., Inc., 142 F.R.D. 435, 437 (S.D.W.Va.1992). However, in applying the exception to the "work product" doctrine found in the Federal Rules of Civil Procedure, the majority of the federal district courts surveyed have agreed that surveillance films are discoverable only after the taking of the plaintiff's deposition or after a reasonable period of time within which the deposition should have occurred. Snead v. American Export-Isbrandtsen Lines, Inc., 59 F.R.D. 148, 151 (E.D.Pa.1973); Blyther v. Northern Lines, Inc., 61 F.R.D. 610, 611-2 (E.D.Pa.1973); Martin v. Long Island R.R. Co., 63 F.R.D. 53 (E.D.N.Y.1974); Daniels v. National R.R. Passenger Corp., 110 F.R.D. 160, 161 (S.D.N.Y.1986); Forbes v. Hawaiian Tug & Barge Corp., 125 F.R.D. 505 (D.Haw. 1989); Boyle v. CSX Transp., Inc., 142 F.R.D. 435 (S.D.W.Va.1992). Furthermore, as a general proposition, some state appellate courts have found that considerations of simple fairness and full discovery for both sides permits the disclosure of surveillance materials to be delayed until the surveilling party has had the opportunity to depose the adversary fully. Dodson v. Persell,
+390 So. 2d 704
+(Fla.1980); Jenkins v. Rainner,
+350 A.2d 473
+; Marte v. W.O. Hickok Mfg. Co., Inc., 154 A.D.2d 173, 552 N.Y.S.2d 297 (1990). These cases, however, speak in terms of the trial court's discretion rather than duty to allow the discovery deposition before disclosure.
+
+Furthermore, we have uncovered no case nationally, particularly none in Louisiana, where the district court has exercised discretion to require pre-deposition disclosure, and the appellate court has found legal error in that ruling. Consequently, there is no jurisprudence at all, much less persuasive jurisprudence, to instruct us in this situation. We focus, therefore, on the explicit Louisiana discovery provisions.
+
+As earlier recited in the opinion, the basic objectives of the Louisiana discovery process are to allow parties to obtain pertinent facts, to discover true facts and to compel their disclosure, to assist in trial preparation, to narrow and clarify the issues, and to encourage settlement or abandonment of claims lacking merit. Among the methods employed to reach these objectives is the request by one party for the production and inspection of documents and tangible things within the scope of discovery and in the possession of the party upon whom the request is served. Since courts are to construe liberally and broadly the discovery statutes, including those provisions addressing the scope of discovery, any relevant information, not privileged, whether or not admissible at trial, whether documents or tangible things, is discoverable.
+
+It is well established that trial courts in Louisiana have broad discretion when regulating pre-trial discovery, which discretion will not be disturbed on appeal absent a clear showing of abuse. Folds v. Red Arrow Towbar Sales, 378 So. 2d 1054, 1057 (La.App.2d Cir.1979) (citing Madison v. Travelers Insurance Co.,
+308 So. 2d 784
+(La.1975)). As for the discovery of surveillance materials, we can discern no difference between this and the discovery of any other evidence, and we reaffirm that rule.
+
+Accordingly, the trial judge has the discretion to determine the appropriate timing for the pre-trial discovery of surveillance materials. Mindful of the parties' competing considerations and the objectives of discovery, the trial court may determine in any particular factual situation when the production of surveillance films, tapes or photographs will most likely assist the search for truth.
+
+In this case, it appears that the trial judge believed that surveillance materials were not discoverable unless they were to be used at trial. Since we here interpret for the first time the relevant Louisiana provisions concerning   discovery, we remand the case to the trial court to rule anew in accordance with the principles discussed in this opinion.
+
+For the foregoing reasons, we vacate and set aside our original writ grant with peremptory order; reverse the judgment of the district court; and remand to the district court to rule anew on defendant's Motion To Compel plaintiff to appear for his deposition and on plaintiff's Motion For Protective Order, guided by this opinion and the reasons expressed herein.
+
+ORIGINAL JUDGMENT VACATED; JUDGMENT OF THE DISTRICT COURT REVERSED; REMANDED.
+
+MARCUS and LEMMON, JJ., concur in part, dissent in part and assign reasons.
+
+[1]  Kimball, J., not on panel. Rule IV, Part 2, § 3.
+
+[2]  This federal statute provides in relevant part that "[e]very common carrier by railroad while engaging in commerce ... shall be liable in damages to any person suffering injury while he is employed by such carrier in such commerce ... for such injury or death resulting in whole or in part from the negligence of the officers, agents, or employees of such carrier, or by reason of any defect or insufficiency, due to its negligence, in its cars, engines, appliances, machinery, ... or other equipment." (emphasis added)
+
+[3]  After reviewing the Louisiana discovery rules and national jurisprudence, the First Circuit Court of Appeal in Collins concluded that the plaintiff was entitled to discover, prior to trial, impeachment evidence in the form of surveillance videotape taken by the defendant's investigator. This is the only holding in Collins, although the court did cite cases in other jurisdictions which had concluded that any inconsistency between plaintiff's allegations and the film might be preserved by taking the deposition of the plaintiff prior to the production of the film. Id. at 44.
+
+[4]  Based on an amendment suggested by the Federal Committee on Rules of Civil Procedure but not adopted by the Supreme Court of the United States, Article 1424 was originally enacted in 1952 as part of La.Rev.Stat. § 13:3762, "Orders for the protection of parties and deponents." Known as the "Hickman Amendment," this Louisiana statute clarified and broadened the scope and effect of Hickman v. Taylor,
+329 U.S. 495
+, 67 S. Ct. 385, 91 L. Ed. 451 (1947), which held that the work product of an attorney was not discoverable without a showing of good cause. The federal "work product" rule, Rule 26(b)(3), was added to the Federal Rules of Civil Procedure in 1970. According to the "Notes of Advisory Committee on 1970 amendments to Rules," the Supreme Court appeared to have expressed a preference in the 1947 Hickman case to handle the problem of trial preparation materials by judicial decision rather than by rule, but reconsidered that position in view of difficulties by the lower courts in applying the Hickman decision.
+
+[5]  We acknowledge the existence of a Rhode Island Supreme Court decision which is at variance with the position we take here. Cabral v. Arruda,
+556 A.2d 47
+(R.I.1989). The Rhode Island statute closely resembles our own. In defining what items may be classified as work product, the Rhode Island rule provides in pertinent part that "[a] party shall not require a deponent to produce or submit for inspection any writing obtained or prepared by the adverse party, his attorney ... in anticipation of litigation... unless ... a denial of production will result in an injustice or undue hardship." In order to make the scope of its "workproduct" rule comport with its federal counterpart, the Rhode Island Supreme Court determined it should be interpreted expansively. We are not compelled to, and do not, adopt such a position.
+
+[6]  Proponents argue that surveillance film is the functional equivalent of an investigator's written report and thus qualifies as work product. Assuming, contrary to our holding here, that surveillance film qualifies as a "writing," it would still not be exempt from discovery if the party under surveillance will be unfairly prejudiced or suffer undue hardship or injustice. A review of the arguments advanced by the surveilled parties seeking discovery supports their claims of inherent injustice and prejudice if the surveillance materials are not made available to them. The films are unique as to the actual events of the occasion when they were made, since the plaintiffs may well not recall the particular events, and such are obtainable only from the defendants. In order to dispute distortion or misidentification in the films, the plaintiffs also have a substantial need to view the film. Furthermore, films may be misleading if the action is slowed down or speeded up, and if editing and splicing change the chronology of events. Therefore, plaintiffs should have the opportunity to have an expert determine the accuracy of the depiction of the events filmed, some time before trial.
+
+[7]  Thus, the district court's ruling that discovery of surveillance film is permissible only if the defendant indicates at the pre-trial conference that he intends to use the material at trial must be reversed.
+
+[8]  In his oral reasons the judge stated:
+
+Until that time [when, in the pre-trial order, the defendant indicates its intent to use the surveillance film], I don't think it is discoverable. You follow?
+
+. . . . .
+
+In other words, if he is not going to use it, it ain't discoverable. (emphasis added) Record at 72 E.

@@ -1,0 +1,69 @@
+57903
+City of New Orleans v. Mark C. Smith & Sons, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1976/339-so-2d-321-1.html
+
+57903
+City of New Orleans v. Mark C. Smith & Sons, Inc.
+Court: Louisiana Supreme Court
+Release date: 1976-11-08
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/339-so-2d-321-1.html
+
+339 So. 2d 321 (1976)
+
+CITY OF NEW ORLEANS, Plaintiff-Appellee,
+v.
+MARK C. SMITH AND SONS, INC. and American Employers Insurance Company, Defendants-Appellants.
+
+No. 57903.
+
+Supreme Court of Louisiana.
+
+November 8, 1976.
+
+John I. Hulse, IV, Hammett, Leake, Hammett, Hulse & Nelson, New Orleans, for defendants-appellants.
+
+William J. Guste, Jr., Atty. Gen., Warren E. Mouledoux, First Asst. Atty. Gen., Stephen J. Caire, R. Louis Carruth, Asst. Attys. Gen., Philip S. Brooks, City Atty., Joseph E. Berrigan, Jr., Asst. City Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The City of New Orleans recovered judgment against a building contractor ("Smith") and its surety. The defendants' chief defense was that the City's claim had prescribed by reason of the three-year prescription against claims on public works construction contracts. The prescription is provided by La.R.S. 38:2189 (as enacted by Act 15 of 1962).
+
+In overruling the defendant's exception pleading this statutory prescription, the trial court held the cited act unconstitutional. Consequently, because a statute was declared unconstitutional, the defendants were entitled to the direct appeal to this court. See La.Const., Article 5, Section 5(D)(1) (1974).
+
+We do not reach the issue of the constitutionality of the statute because, upon the showing made, the prescriptive statute relied upon does not apply to the type of construction agreement here at issue.
+
+The City of New Orleans sues Smith and its surety upon a performance bond. The City alleges that Smith failed to install certain sidewalks which, by the bond, the contractor had agreed to complete. The bond, attached to the petition, shows that the obligation to construct the sidewalks arose because Smith "is required by the city's subdivision regulations to install concrete sidewalks."
+
+The case was tried upon stipulations. With respect to the nature of the agreement by which Smith was obligated to construct the sidewalks, the stipulation simply states that Smith "entered into a contract with the City of New Orleans to perform sidewalk and street paving" in a named subdivision. There was no stipulation with respect to the nature or terms of this contract, other than that the work was to be performed within two years.
+
+During oral arguments before this court, it was suggested for the first time that there may have been no construction contract within the meaning of La.R.S. 38:2189. In a supplemental brief, the City   of New Orleans now argues that there was in fact no contract for the sidewalk construction; that, instead, Smith was obligated to construct the sidewalks, not by contract, but by subdivision regulations of the New Orleans City Planning Commission.
+
+In supplemental brief, the City points out that the subdivision regulation (referred to in the performance bond in the record) was adopted by the city planning commission as authorized by La.R.S. 33:101, 102, 112. The latter provision specifically authorizes a city planning commission to adopt regulations requiring grading and improving of streets and other ways as a prerequisite condition before approving a subdivision of land within the city.
+
+Attached to the brief (but not in evidence) is the governmental regulation requiring a subdivider to post a performance bond to cover cost of the improvements to a subdivided tract, required under the subdivision regulation, as a prerequisite to commission approval of the subdivision plat. The improvements so required include certain street and sidewalk specifications.
+
+The special prescriptive period provided by La.R.S. 38:2189 (1962), alone relied upon by the defendants, is not applicable if the obligation to construct the sidewalks arose from a requirement imposed by regulation pursuant to statute. As will be seen, the special prescription provided by La.R.S. 38:2189 (1962) applies only to obligations resulting from public construction contracts let to the lowest bidder under La.R.S. 38:2211-60.
+
+The statutory prescription provision relied upon provides:
+
+As we explained in State ex rel. Guste v. Simoni, Heck & Associates,
+331 So. 2d 478
+(La.1976), this prescription of La.R.S. 38:2189 applies, in its statutory context, only to construction contracts "let" for public works in accordance with the provisions in the chapter (Chapter 10. "Public Contracts") in which this prescriptive provision is found. These contracts, for example, must be "let" to the lowest bidder, 38:2211, must be secured by statutory bond, 38:2213, 2241, and require registry of an acceptance, 38:2241.1, or permit registry of notice of default of the contractor, 38:2242. See reference to these statutory indicia in the prescriptive statute above quoted.
+
+Under the performance bond here sued upon, Smith's obligation to construct the sidewalks arose because, as the bond states, he was "required by the city's subdivision regulations" to do so.
+
+Smith's agreement to install the sidewalks, as required by the subdivision regulation before this developer's subdivision was approved, is of course a "contract" to do so. See La.Civil Code art. 1761: "A contract is an agreement, by which one person obligates himself to another, to give, to do or permit, or not to do something, expressed or implied by such agreement." It is not, however, a public works construction contract within the meaning of La.R.S. 38:2189 (1962), which provides the short three-year prescriptive period applicable to claims for default in the performance of only such contracts.
+
+The sole defense to the suit was the prescriptive period relied upon, which we hold to be inapplicable under the present record. Nevertheless, rather than affirm, we believe it more appropriate to set aside the judgment and to remand:
+
+The stipulation on which the case was tried is silent as to whether Smith's contract   to install the sidewalks was indeed a public works construction contract. While we may infer from the performance bond sued upon that Smith's agreement was not such a contract, the record contains neither the "contract" stipulated nor the planning commission regulation (which the performance bond indicates to be the actual basis of Smith's contractual obligation to install the sidewalks). The case was tried in district court upon the mistaken assumption of both parties that the prescriptive period provided by La.R.S. 38:2189 applied (if valid) to the contractual agreement in question.
+
+Under the circumstances noted, we deem it to be appropriate to remand this case for further proof of the nature of the contractual obligation secured by the performance bond, as well as to permit the defendants to raise other defenses available, if any, to this suit upon the performance bond. See La.C.Civ.P. art. 2164; see also Official Revision Comment (c).
+
+Accordingly, the judgment in favor of the City is set aside, and the case is remanded to the district court for further proceedings consistent with the views above expressed. All costs to be imposed upon final termination of these proceedings.
+
+JUDGMENT SET ASIDE, AND CASE REMANDED.
+
+[1]  The language quoted was in effect at the time the purported contract was signed on November 2, 1966. The provision has subsequently been amended to increase the prescriptive period from three to five years and to make other changes. See Act 250 of 1975.

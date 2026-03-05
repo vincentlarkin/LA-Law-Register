@@ -1,0 +1,262 @@
+92-C-2353
+Simeon v. Doe
+https://law.justia.com/cases/louisiana/supreme-court/1993/92-c-2353-2.html
+
+92-C-2353
+Simeon v. Doe
+Court: Louisiana Supreme Court
+Release date: 1993-05-24
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1993/92-c-2353-2.html
+
+618 So. 2d 848 (1993)
+
+Teresa M. SIMEON, et al.
+v.
+John DOE, d/b/a The Sweet Pepper Grill, et al.
+
+No. 92-C-2353.
+
+Supreme Court of Louisiana.
+
+May 24, 1993.
+
+Rehearings Denied, June 24, 1993.
+
+*849 Thomas P. Breslin, Jr., Chehardy, Sherman, Ellis & Breslin, Charles S. LaBarre, Wendell H. Gauthier, Gauthier & Murphy, Metairie, for applicant.
+
+Gustave A. Fritchie, III, Montgomery, Barnett, Brown, Reed & Hammond, H.F. Foster, III, Bienvenu, Foster, Ryan & O'Bannon, Craig R. Nelson, Christina Papastavros, Sarah Ann Lowman, Hulse, Nelson & Wanek, New Orleans, for respondent.
+
+Lawrence S. Kullman, New Orleans, Daniel C. Palmintier, Lafayette, Michael C. Palmintier, Baton Rouge, for Louisiana Trial Lawyers Ass'n, amicus curiae.
+
+MARCUS, Justice.[*]
+
+On September 6, 1986, Floyd Simeon, Sr., age 63, and his son, Edward Simeon, age 38, went to the Sweet Pepper Grill, a restaurant at the River Walk shopping center in New Orleans. They ordered a dozen and a half raw oysters. The oysters were taken from a refrigerated area, shucked in front of them, and were placed on a single tray. Mr. Simeon ate approximately six oysters; his son ate nine or ten. His son testified the oysters smelled and looked "okay" and tasted "good." He testified he and his father had eaten raw oysters together for many years, and his father had never gotten sick from eating them.
+
+Two days later, Mr. Simeon began running a fever and complained of pain in his ankle. The next day, his wife brought him to the hospital. His family doctor, Dr. Charles Magee, called in Dr. James D. Conway, a specialist in infectious diseases. Dr. Conway diagnosed Mr. Simeon as suffering from vibrio vulnificus septicemia, an infection resulting from ingestion of raw oysters containing the vibrio vulnificus bacteria. As the disease progressed, Mr. Simeon developed severe blisters on his legs and began to lose subcutaneous tissue. Dr. John Church, a plastic surgeon, was called in. Dr. Church applied antibiotic dressings and began debridement of the skin in an effort to stop the spread of the infection. When this was unsuccessful, he was forced to amputate both of Mr. Simeon's legs. However, the doctors were unable to stop the spread of the infection and Mr. Simeon died on September 23, 1986.
+
+On March 23, 1987, plaintiffs filed a petition for damages for the wrongful death of Mr. Simeon. Named as defendants were John Doe, d/b/a The Sweet Pepper Grill (Sweet Pepper)[1] and United States Fidelity and Guaranty Co. (USF & G), as insurer of Sweet Pepper. On September 15, 1987, plaintiffs filed a second supplemental and amended petition naming as an additional defendant M.J. Bilich Oyster Co. (Bilich), the supplier of oysters to Sweet Pepper. On November 17, 1987, plaintiffs filed a third supplemental and amended petition naming as defendant the Louisiana Department of Health and Human Resources (DHHR).
+
+Evidence at trial indicated that vibrio vulnificus bacteria is not a pollutant and occurs naturally in the Gulf of Mexico. The oyster, because it feeds by filtering hundreds of gallons of seawater per day, concentrates the bacteria inside of itself. Studies suggested that under the appropriate   conditions 55-60% of all oysters may contain the vibrio vulnificus bacteria in different doses. Proper cooking will kill the bacteria. Vibrio vulnificus bacteria is microscopic and in order to test for it, the oyster must be destroyed. Currently, there is no feasible way to prevent oysters containing vibrio vulnificus bacteria from reaching the consuming public.
+
+The evidence indicated that vibrio vulnificus bacteria is not toxic to all people and can be killed by stomach acids or by the liver or kidneys. Those persons with gastric disorders, liver diseases (such as cirrhosis or hepatitis) and hemochromatosis (high iron content in the blood) are at risk; diabetics, people with suppressed immune systems (such as people on cancer chemotherapy), and people with renal disorders may possibly be at risk. Statistics indicated that between 1977-1982, the incidence of vibrio vulnificus infection in southern Louisiana was .6 to 1.9 cases per 100,000 population. Between 1977-1985, there were fourteen cases of primary septicemia related to the eating of raw oysters;[2] of those fourteen people, ten died. Once the bacteria gets into a person's bloodstream and septicemia develops, the mortality rate is 50-70%. In August 1982, the DHHR issued to physicians and hospitals a "Monthly Morbidity Report" dealing with vibrio vulnificus infections. The report stated, "[b]ecause of the severity and high case fatality rate for the septicemia cases, physicians should warn patients with chronic underlying liver and kidney diseases and other conditions causing, or capable of causing, impaired immune responses, to avoid eating raw oysters."
+
+Dr. Magee, Mr. Simeon's family doctor since 1970, testified that he diagnosed Mr. Simeon as having cirrhosis of the liver in 1983 and also operated on him that year for a malignancy in his lower colon. He also treated him in July 1986 for a duodenum ulcer. After he found the liver cirrhosis, he advised Mr. Simeon not to consume alcoholic beverages and to watch the amount of sodium he consumed, but did not remember telling him not to eat raw shellfish. He testified that his office received the monthly morbidity reports from DHHR, but could not recall seeing the August 1982 report.
+
+At the conclusion of the plaintiffs' case, the trial judge granted a motion for involuntary dismissal in favor of Sweet Pepper and Bilich finding neither party strictly liable. The judge denied DHHR's motion for involuntary dismissal based on La.R.S. 9:2798.1 (the policy-making or discretionary acts doctrine). At the conclusion of the trial, the judge rendered judgment in favor of plaintiffs and against DHHR, finding DHHR had a non-discretionary duty to warn the general public of the dangers of eating raw oysters. Plaintiffs appealed that portion of the judgment which held neither Sweet Pepper nor Bilich liable. DHHR appealed that portion of the judgment holding it liable. A five judge panel of the court of appeal affirmed the portion of the judgment finding no liability on the part of Sweet Pepper and Bilich and reversed that portion of the judgment holding DHHR liable.[3] We granted certiorari to review the correctness of that decision.[4]
+
+The issue before us is whether Sweet Pepper, Bilich and/or DHHR are liable to plaintiffs.
+
+Plaintiffs argue that the principles of strict liability should apply to Sweet Pepper and Bilich for the sale of the oysters containing the vibrio vulnificus bacteria.
+
+The principle of legal fault or strict liability underlies articles 2317-22 of the civil code.[5] When harm results from the   conduct of a person or defect of a thing which creates an unreasonable risk of harm to others, a person legally responsible under these code articles for the supervision, care, or guardianship of the person or thing may be held liable for the damage thus caused, despite the fact that no personal negligent act or inattention on the former's part is proved. The injured person must prove the vice (i.e., unreasonable risk of injury to another) in the person or thing whose act causes the damage, and the damage resulted from this vice. Once this is proved the owner or guardian responsible for the person or thing can escape liability only if he shows the harm was caused by the fault of the victim, by the fault of a third person, or by an irresistible force. Halphen v. Johns-Manville Sales Corp.,
+484 So. 2d 110
+, 116 (La.1986); Loescher v. Parr,
+324 So. 2d 441
+(La.1975).
+
+The concept of unreasonable risk of harm is analogous to the concept of "unreasonably dangerous" developed in products liability. "Unreasonably dangerous" has been defined as meaning "the article which injured the plaintiff was dangerous to an extent beyond that which would be contemplated by an ordinary consumer." DeBattista v. Argonaut-Southwest Ins. Co.,
+403 So. 2d 26
+, 30 (La.1981). DeBattista points out that the "unreasonably dangerous" requirement came into our jurisprudence as a result of section 402A of the Restatement (Second) of Torts, which itself developed from common law statutes applying to persons supplying food and drink. Comment i of that section makes it clear that a product is not unreasonably dangerous simply because it cannot be made "entirely safe for all consumption." Examples given in the comment show that while ordinary sugar is a "deadly poison" for diabetics and whiskey is "especially dangerous" to alcoholics, neither product is considered unreasonably dangerous.
+
+Based on the record, we are unable to say that raw oysters containing the vibrio vulnificus bacteria are unreasonably dangerous to the ordinary consumer. The evidence is uncontroverted that vibrio vulnificus bacteria in raw oysters poses little, if any, threat to a healthy person. The bacteria is only harmful to those persons with specific underlying disorders such as liver or kidney disease. Seen is this light, the "defect" is really found in the person rather than the product, much in the same way that sugar is harmful only when used by someone with diabetes. Therefore, we find no error in the trial judge's conclusion that Sweet Pepper and Bilich are not strictly liable.[6]
+
+However, a finding that Sweet Pepper and Bilich are not strictly liable does not necessarily mean they are entitled to be dismissed from the suit. As we stated in Halphen, 484 So.2d at 117:
+
+The duty to warn applies to "any danger inherent in the normal use of the product which is not within the knowledge of an ordinary user." Winterrowd v. Travelers Indem. Co.,
+462 So. 2d 639
+, 642 (La.1985); Hebert v. Brazzel,
+403 So. 2d 1242
+(La. 1981). However, for such a duty to apply, the plaintiff must prove that the seller knew or should have known of the defect. Chappuis v. Sears, Roebuck & Co.,
+358 So. 2d 926
+, 930 (La.1978). In the context of products liability cases, we have held that "[i]n performing this duty a manufacturer is held to the knowledge and skill of an expert. It must keep abreast of scientific knowledge, discoveries, and advances and is presumed to know what is imparted thereby." Halphen, 484 So. 2d  at 115. Under this failure to warn theory, "evidence as to the knowledge and skill of an expert may be admissible in determining whether the manufacturer breached its duty." Id.
+
+Turning to the facts of the present case, it is clear that there was a danger inherent in the normal use of the product not within the knowledge of an ordinary user, i.e., that people with certain specific underlying conditions may become seriously ill or die as a result of eating raw oysters. Given the magnitude of the possible harm, we believe a warning is particularly necessary.[7] However, we find it unclear from the record whether a reasonable retailer or wholesaler of oysters on September 6, 1986 would have known or should have known, when held to the standard of an expert, of the potential danger to certain people from eating raw oysters. Since we now apply a different theory of recovery than that presented by plaintiffs at trial, we find it is appropriate to remand the case to the trial court to take further evidence on this issue.
+
+DHHR argues that it should be exempt from liability, on the basis of the policy-making or discretionary acts doctrine, La.R.S. 9:2798.1, which provides in pertinent part:
+
+In Fowler v. Roberts,
+556 So. 2d 1
+(La.1989) (on rehearing), we set out a two step inquiry, derived from Berkovitz v. United States,
+486 U.S. 531
+, 108 S. Ct. 1954, 100 L. Ed. 2d 531 (1988), to determine whether the policy-making or discretionary acts doctrine applied in a specific fact situation. First, a court must determine whether a   statute, regulation or policy specifically prescribes the course of action for the employee or agency to follow. If so, there is no discretion on the part of the employee or agency and therefore no immunity. If a court determines discretion is involved, the court must then determine whether that discretion "is the kind which is shielded by the exception, that is, one grounded in social, economic or political policy." Fowler, 556 So. 2d  at 15. If it is, then the doctrine applies and the employee or agency is insulated from liability; if it is not, the employee or agency is liable for any negligence.
+
+Applying this test to the facts of the present case, we find no statute, regulation or policy mandating DHHR to issue warnings on potentially dangerous diseases.[8] Since there is no statute, regulation or policy, we must decide whether DHHR's decision to warn physicians rather than the general public was a discretionary decision grounded in social, economic or political policy. We find that it is. The record clearly shows that DHHR made a discretionary policy decision that it was preferable to warn physicians (through the August 1982 Monthly Morbidity Report) rather than issue a warning to the general public. Dr. Henry Bradford, Director of Division Laboratories for the Department of Public Health, testified:
+
+Likewise, the testimony of Dr. Louise McFarland, Chief Epidemiologist for the Office of Public Health, reveals that a policy decision to warn physicians was made:
+
+Therefore, we find DHHR's decision to issue warnings only to physicians is a discretionary act under La.R.S. 9:2798.1(B) and DHHR is immune from liability arising out of this act. Further, we find DHHR's action was reasonable under the circumstances, and does not constitute criminal, fraudulent, malicious, intentional, willful, outrageous, reckless, or flagrant misconduct under La.R.S. 9:2798.1(C)(2). The court of appeal correctly found that DHHR was not liable to plaintiffs.[9]
+
+For the reasons assigned, the judgment of the court of appeal is affirmed insofar as it dismisses plaintiffs' suit against the Louisiana Department of Health and Human Resources. The judgment is vacated and set aside insofar as it dismisses plaintiffs' suit against the Sweet Pepper Grill and M.J. Bilich Oyster Co. The case is remanded to the district court to take evidence and render a decision on the issue of whether a reasonable retailer or wholesaler of oysters on September 6, 1986 would have known or should have known of the potential danger to certain people from eating raw oysters, and thereafter to render a judgment as to the liability of the Sweet Pepper Grill and/or M.J. Bilich Oyster Co. In the event liability is imposed, the previous damage awards should be reinstated. The rights of all parties to appeal the issues of liability and damages to the court of appeal are reserved. All costs will await the final outcome of the case.
+
+WATSON, J., dissents and assigns reasons.
+
+LEMMON, J., dissents and will assign reasons.
+
+WATSON, Justice, dissenting.
+
+The trial court correctly concluded that the Louisiana Department of Health and Human Resources (DHHR) was liable for its failure to give adequate warnings of the danger involved in eating raw oysters. There was abundant evidence that the DHHR was aware of the Vibrio vulnificus risk.
+
+In April of 1982, Dr. Floyd G. Wickboldt presented a paper on Vibrio vulnificus (Plaintiffs' Exhibit 124), which was circulated at the Department of Health and Human Resources in an interoffice memo. The paper states:
+
+Dr. Henry B. Bradford, an employee of the Louisiana Department of Public Health and an associate editor of Vibrios in the Environment, directs the division of laboratories. In 1982, the Department of Public Health decided that people at risk should be warned and a decision was made to warn those people through their physicians.
+
+Louisiana's Vibrio vulnificus statistics (Plaintiffs' Exhibit 5) show two deaths in 1980; six in 1981; two in 1982; one in 1983; two in 1984; two in 1985; and five in 1986. Of the twenty deaths, ten had eaten raw oysters; one had eaten raw crabs; one had shucked oysters; and the other eight had unknown seafood contacts. In Dr. Bradford's opinion, those statistics are probably not accurate. Only the most severe cases are recognized.
+
+An August, 1982 morbidity report regarding Vibrio vulnificus, circulated to approximately 7,000 Louisiana physicians, (Plaintiffs' Exhibit 6) stated:
+
+The report recommended:
+
+In 1982, Louisiana had a Vibrio cholera problem and there was public notification. Everyone is at risk for Vibrio cholera, but it can be successfully treated. Vibrio vulnificus affects fewer people but has a high mortality rate.
+
+Dr. James D. Conway, an internist with a subspecialty in infectious diseases, had seen 10 to 12 people with Vibrio vulnificus infections. He was consulted in Floyd Simeon's case. In Dr. Conway's opinion, the bacterium is foreign to the oyster but natural to seawater. It is commonly found in oysters but is not part of the oyster. Dr. Conway did not recall seeing the August, 1982 morbidity report. Because his office location had changed, he may not have received it. Dr. Conway testified that many doctors are unfamiliar with Vibrio vulnificus infections.
+
+An April, 1984 article in the Journal of Infectious Diseases, using data from the Centers for Disease Control (CDC) in Atlanta, Georgia, (Plaintiffs' Exhibit 13h) concluded:
+
+Dr. Louise McFarland, chief of the epidemiology section, Office of Public Health, Department of Health and Hospitals, testified that she gathers information which is the basis for state health warnings. She occasionally recommends a warning, and higher officials suggest additional study. Health notices and warnings are a duty of the Department of Health, which decided that the best way to inform about Vibrio vulnificus was through notice to physicians. Dr. McFarland believed in a general warning about Vibrio vulnificus. In 1982, prior to the morbidity report, she publicly declared that Vibrio vulnificus infections may be more common than typhoid. Prior to 1986, Dr. McFarland knew of 50 Vibrio vulnificus cases.
+
+Dr. McFarland co-authored an article on Vibrio vulnificus in the Journal of the American Medical Association on May 17, 1985. (Plaintiffs' Exhibit 13n.) She gave an interview to Diane Mack on Channel 6 television and also fielded calls from several newspapers and radio stations. No follow-up to the August, 1982 morbidity report was ever made.
+
+The oyster industry is regulated by the Louisiana Department of Public Health. Prior to the end of 1986, no effort was made to warn lay people about the risk of Vibrio vulnificus. The state health department checks the bacteria in all oyster-producing waters by legislative mandate. Each sack of oysters is tagged to identify: the bay; the lease number, if any; the date; the name of the vessel; and the operator. The oysters consumed by Floyd J. Simeon came from oyster grounds owned by the State of Louisiana.
+
+The Louisiana Constitution provides in article 12, section 10(A):
+
+The authority granted by the statute is discretionary.
+
+There is a two-step test to determine whether the exception applies. Berkovitz v. United States,
+486 U.S. 531
+, 108 S. Ct. 1954, 100 L. Ed. 2d 531 (1988). If there is a statute, regulation or policy which prescribes a course of action, there is no choice or discretion involved and the exception does not apply. No statute, regulation or policy mandates a public warning of infectious diseases by the DHHR: the pertinent statute, supra, gives discretionary authority. When acts of government employees involve an element of choice, they are protected by the exception if the choices are based on public policy considerations. United States v. Gaubert, ___ U.S. ___, 111 S. Ct. 1267, 113 L. Ed. 2d 335 (1991). Although decisions at an operational level can be discretionary, a choice must be grounded in social, economic or political policy to be shielded by the exception. Berkovitz; Gaubert. See Lundstrum v. Lyng, 954 F.2d 1142 (6th Cir.1991).
+
+There is no evidence that the DHHR's decision not to warn the general public about the dangers of Vibrio vulnificus was based on public policy considerations. This was clearly not a policy decision because Dr. McFarland talked to the news media about the problem on a random basis. The DHHR decided to warn the public through a one-time 1982 notice to physicians. The decision to warn physicians instead of the general public was not based on public policy. The DHHR merely concluded, erroneously, that warning physicians once in August of 1982 was the best way to communicate the danger to those at risk.
+
+When a failure to warn is a negligent omission not involving policy considerations, it is not protected by the exception. See Andrulonis v. United States, 924 F.2d 1210 (2d Cir.1991), vacated and remanded, ___ U.S.___, 112 S. Ct. 39, 116 L. Ed. 2d 18; reinstated, 952 F.2d 652 (2d Cir.1991); cert. den. ___ U.S.___, 112 S. Ct. 2992, 120 L. Ed. 2d 869 (1992). Andrulonis involved a rare form of infection from aerosol exposure to a potent virus. The fact that the type of infection was rare, statistically insignificant, did not prevent government liability for failing to warn Andrulonis of the disastrous consequences from aerosol exposure. See also Mandel v. United States, 793 F.2d 964 (8th Cir.1986).
+
+The DHHR had a policy of warning the public when consumption of raw oysters created a hazard. There was public warning of the 1978 Vibrio cholera problem. The DHHR undertook a duty to warn by warning physicians about Vibrio vulnificus. By failing to make an effective warning about Vibrio vulnificus, a much more serious hazard than Vibrio cholera because of its fatal consequences, the DHHR breached its own safety policy. See Summers v. United States, 905 F.2d 1212 (9th Cir.1990); Boyd v. United States, 881 F.2d 895 (10th Cir.1989); and Smith v. United States, 546 F.2d 872 (10th Cir.1976). Oyster vendors relied on the DHHR for information about raw oysters, but the DHHR warned in an ineffective and careless manner. Although the danger of Vibrio vulnificus was not reduced between 1982 and 1986, no warning was issued after 1982.
+
+Where the government undertakes a duty to warn and there is detrimental reliance on that public duty, the government is   liable for negligent performance. Indian Towing v. United States,
+350 U.S. 61
+, 76 S. Ct. 122, 100 L. Ed. 48 (1955). A government entity can be liable to an individual for breach of a duty owed to the general public. Stewart v. Schmieder,
+386 So. 2d 1351
+(La.1980); Fowler v. Roberts,
+556 So. 2d 1
+(La.1989).
+
+The DHHR could have reasonably anticipated further deaths in 1986 because of the abundant available data about the deadly Vibrio vulnificus bacteria. Thus, the risk of death from Vibrio vulnificus was within the scope of the DHHR's duty. See Hill v. Lundin & Associates, Inc., 260 La.542,
+256 So. 2d 620
+(La.1972), and Socorro v. City of New Orleans, 579 So. 2d 931 (La. 1991).
+
+It is unnecessary to reach the trial court's conclusion that the DHHR's omissions constitute intentional and reckless misconduct under LSA-R.S. 9:2798.1.C(2) because the state produced no evidence that the DHHR's decisions in regard to the Vibrio vulnificus bacteria were grounded in public policy. Thus, the statutory discretionary function exception to the state's liability does not apply. There was detrimental reliance by the oyster industry on warnings by the state DHHR, and the DHHR undertook a duty to warn, which was negligently performed.
+
+The DHHR recognized a need to warn in 1982, but negligently performed that duty by a one-time notice issued only to physicians. In subsequent years, it was apparent that the fatal danger of Vibrio vulnificus remained, but no further warning was made. The duty to warn was increased by the magnitude of the risk. That risk was disproportionate to the expense of a warning. See Socorro v. City of New Orleans, 579 So. 2d 931 (La.1991). The DHHR must have anticipated further deaths from Vibrio vulnificus: Simeon's death was a foreseeable result of the DHHR's failure to warn. See Pitre v. Opelousas General Hosp.,
+530 So. 2d 1151
+(La.1988).
+
+Balancing the grave danger to those at risk against the minimal cost of a public warning, it is clear that a warning was required. Conceding, arguendo, that the 1982 warning was sufficient at the time, it did not suffice for all time in the face of a continuing danger. The law imposes liability for failure to protect against remote risks if the cost of the protection is relatively low. Levi v. S.W. La.Elec. Membership Co-op.,
+542 So. 2d 1081
+(La.1989).
+
+The trial court's conclusion that the DHHR breached its duty to warn the public of Vibrio vulnificus' fatal impact was not manifestly erroneous. If Floyd Simeon had been warned that eating raw oysters could kill him, there is a presumption that he would have heeded that warning. Compare Bloxom v. Bloxom,
+512 So. 2d 839
+(La.1987), where the presumption was rebutted by evidence that a warning would not have been heeded. In Winstead v. Ed's Live Catfish & Seafood, Inc.,
+554 So. 2d 1237
+(La.App. 1st Cir.1989), writ denied, 558 So. 2d 570 (La.1990), a similar oyster case, plaintiff was unaware he had a preexisting liver disfunction and would not have realized he was at risk if there had been a warning. Here, the DHHR's failure to warn was a cause in fact of Floyd Simeon's death.
+
+Simeon was predisposed to injury from Vibrio vulnificus, a susceptible victim. However, neither he nor his doctor were aware of the danger. The DHHR, which had superior knowledge, had a duty to warn Simeon and those similarly situated of the hazard posed by raw oysters. The fact that there was no danger to most people did not eliminate a duty to those under a disability.
+
+The Sweet Pepper Grill was a professional vendor in the business of selling food. "The responsibility of a professional vendor or distributor is the same as that of a manufacturer." Shortess v. Touro Infirmary,
+520 So. 2d 389
+at 391 (La.1988).
+
+Strict liability was applied to food vendors before its extension into other areas of the law.
+
+See Prosser & Keeton, The Law of Torts, (5th ed. 1984), § 97, p. 690.
+
+Selling food which has a fatal impact is an act causing damage under LSA-C.C. art. 2315. Strict liability results from a defect in a thing which creates an unreasonable risk of harm to others. Loescher v. Parr,
+324 So. 2d 441
+(La.1975); DeBattista v. Argonaut-Southwest Ins. Co.,
+403 So. 2d 26
+(La.1981). A food vendor is conclusively presumed to know the condition of the food sold and to represent that it is wholesome. Doyle v. Fuerst & Kraemer, 129 La.838, 56 So. 906 (1911). Although the Doyle vendor also prepared the food, those selling food to the public, either raw or cooked, warrant its wholesomeness. A warranty of wholesomeness extends between food vendors and consumers. LeBlanc v. Louisiana Coca Cola Bottling Co., 221 La.919,
+60 So. 2d 873
+(1952).
+
+Judge, now Justice, Lemmon correctly noted in a concurring opinion that strict liability is the law of Louisiana in cases involving food consumption injury. Loyacano v. Continental Insurance Company, 283 So. 2d 302 at 306 (La.App. 4th Cir.1973).
+
+Louisiana follows the rule in Restatement, Second, Torts, § 402A, which states:
+
+Special Liability of Seller of Product for Physical Harm to User or Consumer
+
+(2) The rule stated in Subsection (1) applies although
+
+Louisiana's jurisprudence has some intermediate appellate support for the foreign/natural test, under which sellers of food are liable for foreign adulteration but not natural bones, pearls or toxins. See Title v. Pontchartrain Hotel, 449 So. 2d 677 (La.App. 4th Cir.1984), writ denied, 450 So. 2d 967 (La.1984). For criticism of the test, see Jackson v. Nestle-Beich, Inc.,
+147 Ill. 2d 408
+, 168 Ill.Dec. 147,
+589 N.E.2d 547
+(1992), and the dissent in Mexicali Rose v. Superior Court (Clark),
+1 Cal. 4th 617
+,
+4 Cal. Rptr. 2d 145
+,
+822 P.2d 1292
+(1992). The trial court concluded that Vibrio vulnificus bacteria are foreign to oysters. That factual finding has ample support in the record, and the court of appeal erred in deciding that the bacteria are natural. Vibrio vulnificus bacteria are natural to seawater but foreign to raw oysters. However, the foreign/natural test is a jurisprudential anachronism unsupported by Louisiana's codal law. Title and other intermediate appellate cases applying the foreign/natural test should be disapproved.
+
+Raw oysters contaminated with Vibrio vulnificus are unreasonably dangerous, frequently fatal to persons with underlying physical problems. Since raw oysters cannot be made safe for those who are vulnerable,   a warning of the danger should have been given.
+
+As a matter of public policy, a medically handicapped consumer, who does not reasonably anticipate a deadly food defect, may recover against a seller who has failed to warn of that defect. See Halphen v. Johns-Manville Sales Corp.,
+484 So. 2d 110
+(La.1986). The inability of the seller to know or prevent the risk is not a defense to strict liability but may reduce the seller's fault. See Hunt v. City Stores, Inc.,
+387 So. 2d 585
+(La.1980), and Halphen.
+
+M.J. Bilich Oyster Co., a broker of oysters, bought unopened oysters from harvesters and sold them to restaurants. There is no evidence of negligence or improper handling. Strict liability applies to those selling food to the public. It does not extend to nonmanufacturers that sell to retailers without altering or opening the product. Bilich was ignorant of any vice in the oysters. LSA-C.C. art. 2545. Since Bilich did not sell oysters to the public, the company was not in a position to warn those at risk. Bilich should not be liable for Floyd Simeon's death.
+
+The alternative ground for the court of appeal's opinion was that any cause of action against the DHHR had prescribed. However, both the trial court and the court of appeal erred in finding no liability on the part of The Sweet Pepper Grill. The Sweet Pepper Grill should be strictly liable for selling lethal food with its liability diminished by the DHHR's failure to give adequate warnings to restaurants selling oysters or the general public. The obligation of The Sweet Pepper Grill and the DHHR should be solidary. LSA-C.C. art. 1793.
+
+The principle of comparative fault may apply in strict liability cases. Bell v. Jet Wheel Blast, Div. of Ervin Ind.,
+462 So. 2d 166
+(La.1985). The Sweet Pepper Grill should be strictly liable as a vendor of lethal food. Its fault should be diminished by its ignorance that the fatal bacteria existed. The DHHR was aware of the deadly danger. Because of the DHHR's failure to warn, not only the general public, but even those selling raw oysters, the overwhelming share of fault should attach to the DHHR. Watson v. State Farm Fire and Cas. Ins. Co.,
+469 So. 2d 967
+(La. 1985). The fault of The Sweet Pepper Grill should be fixed at 25 percent, and the fault of the DHHR should be fixed at 75 percent. Because Floyd Simeon was ignorant of the risk he encountered in eating raw oysters, no blame or fault should attach to him. The majority errs in dismissing plaintiffs' suit against the Louisiana Department of Health and Human Resources and remanding the case as to The Sweet Pepper Grill and M.J. Bilich Oyster Co.
+
+I respectfully dissent.
+
+[*]  Pursuant to Rule IV, Part 2, § 3, Ortique, J. (recused) was not on the panel which heard and decided this case. See the footnote in State v. Barras,
+615 So. 2d 285
+(La.1993).
+
+[1]  On May 4, 1987, plaintiffs filed a first supplemental and amended petition substituting "Big Easy, Inc. d/b/a The Sweet Pepper Grill" for "John Doe d/b/a The Sweet Pepper Grill."
+
+[2]  Vibrio vulnificus infections can also be acquired through wounds.
+
+[3]  602 So. 2d 77 (La.App. 4th Cir.1992). Two judges concurred in the part of the majority opinion exonerating Sweet Pepper and Bilich from liability, but dissented from the part of the opinion exonerating DHHR from liability.
+
+[4]  608 So. 2d 155 (La.1992).
+
+[5]  Strict liability under the civil code closely resembles the principle of strict products liability developed in Weber v. Fidelity & Casualty Ins. Co., 259 La.599,
+250 So. 2d 754
+(1971). La.R.S. 9:2800.52(6) of the 1988 Louisiana Products Liability Act specifically exempts "harvesters and other producers of ... oysters ... in their natural state" from the scope of the act; however, that act has been held to be non-retroactive and would not apply to the present case. See Gilboy v. American Tobacco Co.,
+582 So. 2d 1263
+(La. 1991).
+
+[6]  Both the trial judge and court of appeal applied the so-called "foreign-natural" test. See Title v. Pontchartrain Hotel, 449 So. 2d 677 (La. App. 4th Cir.1984), writ denied, 450 So. 2d 967 (La.1984); Loyocano v. Continental Ins. Co., 283 So. 2d 302 (La.App. 4th Cir.1973); Musso v. Picadilly Cafeterias, Inc., 178 So. 2d 421 (La.App. 1st Cir.1965), writ denied, 248 La.468,
+179 So. 2d 641
+(1965); see also Mexicali Rose v. Superior Court,
+1 Cal. 4th 617
+,
+4 Cal. Rptr. 2d 145
+,
+822 P.2d 1292
+(1992) (citing Title, Loyocano and Musso.) We recognize that this test has long been applied by our courts and the courts of other states in cases dealing with food, and has recently been applied by the California court of appeal to a case involving raw oysters containing vibrio cholera bacteria in Kilpatrick v. Superior Court, 8 Cal. App. 4th 1717, 11 Cal. Rptr. 2d 323 (1st Dist.1992). Nonetheless, we do not believe the foreign-natural test is the correct test to apply in present case. The foreign-natural test has traditionally been applied to cases where the substance (such as bone in ground meat) presented a potential danger to all persons. By contrast, vibrio vulnificus bacteria affects only a very small number of persons those persons in a specific risk group. Because of this difference, the foreign-natural distinction is not useful in the present context.
+
+[7]  Although not applicable to the present case, we note that in 1991, DHHR amended Chapter IX, § 9:045 of the State Sanitary Code to read:
+
+All establishments that sell or serve raw oysters must display signs, menu warnings, table tents, or other clearly visible warnings at point of sale with the following words:
+
+"WARNING: CONSUMPTION OF RAW OYSTERS CAN CAUSE SERIOUS ILLNESS IN PERSONS WITH LIVER, STOMACH, BLOOD, OR IMMUNE SYSTEM DISORDERS. FOR MORE INFORMATION, READ THE INFORMATIONAL BROCHURE OR CONSULT YOUR PHYSICIAN."
+
+The warning must also be placed on containers of pre-packaged raw oysters and sacks or other containers of unshucked raw oysters.
+
+[8]  La.R.S. 40:4(A)(13) empowers and authorizes the DHHR to issue "emergency rules and orders," but does not specifically mandate that it do so:
+
+The state health officer, through the office of health services and environmental quality, shall be expressly empowered and authorized to issue emergency rules and orders when necessary and for the purpose of controlling nuisances dangerous to the public health and communicable, contagious, and infectious diseases, and any other danger to the public life and health and health-safety.
+
+[9]  In addition to its holding that DHHR was immune under the policy-making or discretionary acts doctrine, the court of appeal also found that plaintiffs' action against DHHR was prescribed, as it was not brought within one year of the occurrence and there was no timely filed suit against a solidary obligor to interrupt prescription. Since we are remanding the case to the trial court to determine the liability of Sweet Pepper and Bilich, there is a possibility that they could be held liable, and the suit against DHHR (as a solidary obligor) would therefore be timely. However, as we find DHHR is immune from liability under La.R.S. 9:2798.1, it is unnecessary to consider the question of prescription, and DHHR is entitled to be dismissed from the suit at this time.

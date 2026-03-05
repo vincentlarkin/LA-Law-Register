@@ -1,0 +1,99 @@
+85-K-2110
+State v. Vanderpool
+https://law.justia.com/cases/louisiana/supreme-court/1986/85-k-2110-1.html
+
+85-K-2110
+State v. Vanderpool
+Court: Louisiana Supreme Court
+Release date: 1986-09-08
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/85-k-2110-1.html
+
+493 So. 2d 574 (1986)
+
+STATE of Louisiana
+v.
+David R. VANDERPOOL.
+
+No. 85-K-2110.
+
+Supreme Court of Louisiana.
+
+September 8, 1986.
+
+Ronald Dewhirst, Martin E. Regan, Jr., New Orleans, for applicant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Francis Dugas, Dist. Atty., Louis Thad Toups, Asst. Dist. Atty., for respondent.
+
+DIXON, Chief Justice.
+
+Vanderpool was charged by bill of information with armed robbery and requested trial by jury. During voir dire he sought to have a deputy sheriff excused from the venire for cause. The trial judge denied the motion, stating, "A deputy sheriff is not a challenge for cause." After further questioning Vanderpool again moved to excuse the deputy:
+
+Again, the motion was denied:
+
+At this point the defendant exercised his fifth of eight peremptory challenges to excuse the deputy. When the jury was empaneled he had two peremptory challenges remaining.
+
+Vanderpool was convicted and appealed the trial court's ruling. The court of appeal affirmed, 476 So. 2d 546 (La.App. 1st Cir.1985), finding that Vanderpool failed to object during voir dire or to state the reasons for his objection. C.Cr.P. 800.[1] Certiorari was granted. 481 So. 2d 619 (La. 1986).
+
+In Louisiana "an actively employed criminal deputy sheriff is not a competent criminal juror." State v. Simmons,
+390 So. 2d 1317
+,
+1318
+(La.1980); La. Const. Art. 1, § 16; C.Cr.P. 797. Simmons expressly overruled contrary jurisprudence and left no doubt of the rule. The trial judge plainly erred in refusing to excuse the deputy.
+
+Our law is also settled that an objection need not be raised by incantation. "It is sufficient that a party, at the time the ruling or order of the court is made or sought, makes known to the court the action which he desires the court to take, or of his objections to the action of the court, and the grounds therefor." C.Cr.P. 841; State v. Boutte,
+384 So. 2d 773
+(La.1980). The requirement that objection be raised contemporaneously is not meant to be inflexible, but is designed "to promote judicial efficiency and to insure fair play." State v. Lee,
+346 So. 2d 682
+, 684 (La.1977). Article 800 should not be read to differ in this respect from Article 841. From the trial court's response to defendant's motion, it is clear enough that Vanderpool made it known he wanted the deputy excused and voiced the reasons why. This is sufficient to preserve the issue for appeal.
+
+Act 181 of 1983 gives no reason, however, to disregard "the sacramental language" of C.Cr.P. 921;[2] we interpret this amendment to Article 800 only to eliminate a procedural prerequisite to appeal. Without suggesting that exhaustion of peremptory challenges is necessary, in every case, to defeat application of the harmless error rule, the conviction under consideration must be affirmed because Vanderpool has failed to establish prejudice from the trial court's ruling. The deputy did not serve on the jury. Ten jurors had been selected when he was excused. No other objectionable juror was seated for want of peremptory challenges; nor did Vanderpool accept a questionable juror in hoarding remaining challenges. Under these circumstances, a new trial will not be required.
+
+The conviction is affirmed.
+
+CALOGERO, J., concurs and assigns reasons.
+
+LEMON, J., subscribes to the opinion and assigns additional reasons.
+
+*576 CALOGERO, Justice, concurring.
+
+I would affirm defendant's conviction for the reasons assigned by the Court of Appeal.
+
+La.C.Cr.P. art. 800 as presently written requires the defendant to object specifically in order to assign as error a ruling of a trial judge refusing to sustain the challenge of a juror for cause.
+
+Before the 1983 amendment, Article 800 consisted of two paragraphs, both of them favorable to the state. The first paragraph said that a defendant's challenge for cause which is denied by the trial court erroneously cannot be complained of unless the defendant has exhausted his peremptory challenges.
+
+The second paragraph (before the '83 amendment) said that an erroneous allowance to the state of a challenge for cause (and presumably irrespective of whether the defendant objected) does not afford the defendant a ground for complaint unless the effect of such ruling is the exercise by the state of more peremptory challenges than it is entitled to by law. Thus, before 1983, the defendant who had been erroneously denied a valid challenge for cause could not complain unless he went on in the case to exercise all his peremptory challenges. And the defendant was similarly not entitled to complain of a court ruling erroneously allowing a state challenge for cause unless the state exercised all its peremptory challenges (so that effectively the state got free the erroneously allowed juror).
+
+In 1983 the legislature amended La.C. Cr.P. art. 800. Favorably to the defendant, the first paragraph of the former Article 800 was deleted so that a defendant is permitted now to complain of a ruling refusing to sustain his challenge for cause, even if he has not thereafter in the case exercised all of his peremptory challenges. The second paragraph about the state's erroneously allowed challenge is unchanged.
+
+Unfavorably to the defendant, however, the first paragraph substituted in the 1983 Act now says that the defendant may not assign as error a ruling refusing to sustain a challenge for cause made by him unless an objection thereto is made at the time of the ruling. The language is quite clear. It pre-supposes that the defendant has challenged for cause, and presumably it presupposes that he has also given his reason. And yet the article goes on to say that he can not assign that ruling as error unless he objects thereto at the time of the ruling, that is, that he makes a contemporaneous objection to the ruling which has denied his challenge.
+
+The change, therefore, to Article 800 had in it something for both the defendant and the state. Defendant can now complain of an erroneous ruling denying him a challenge for cause even if he has not exhausted all of his peremptory challenges (since the first paragraph of the former Article 800 has been removed from the article). Correspondingly, however, and this change is favorable to the state, before he can complain of that ruling, a defendant must make an objection to the ruling.
+
+The article should therefore be interpreted as it plainly reads. The defendant must object after a court ruling refusing to sustain his challenge for cause even when his challenge was accompanied by clearly stated reasons.
+
+LEMMON, Justice, subscribing and assigning additional reasons.
+
+It should be emphasized that this court is holding for the first time that the amended La.C.Cr.P. Art. 800 permits application of the harmless error rule when the defendant sustains no prejudice from the erroneous denial of a challenge for cause. Former Article 800's requirement that a defendant exhaust his peremptory challenges before complaining on appeal of an erroneous denial of a challenge for cause had in the past virtually eliminated any opportunity for the applicability of Article 921's harmless error rule.
+
+A defendant may be prejudiced in two ways by the erroneous denial of a challenge for cause. First, an undesirable juror   may wind up serving on the jury despite his bias (or other grounds for the challenge). That clearly did not happen in this case. Second, the defense may be required to use a peremptory challenge which would otherwise have been available to eliminate other undesirable jurors. That also clearly did not happen in this case.[1] Therefore, defendant suffered no prejudice from the erroneous ruling, and the error was harmless beyond a reasonable doubt. La.C.Cr.P. Art. 921; State v. Gibson,
+391 So. 2d 421
+(La.1980).
+
+[1]  As amended by Act 181 of 1983, C.Cr.P. 800 provides in pertinent part:
+
+"A. A defendant may not assign as error a ruling refusing to sustain a challenge for cause made by him unless an objection thereto is made at the time of the ruling. The nature of the objection and grounds therefor shall be stated at the time of objection."
+
+Prior to the 1983 amendment, this paragraph read:
+
+"A defendant cannot complain of a ruling refusing to sustain a challenge for cause made by him, unless his peremptory challenges shall have been exhausted before the completion of the panel."
+
+[2]  See C.Cr.P. 921, Comment (a), which states: "This article retains the sacramental language of former R.S. 15:557 ... This article sets forth the basic concept of appellate review and is the primary legislative mandate governing appeals...."
+
+Article 921 provides:
+
+"A judgment or ruling shall not be reversed by an appellate court because of any error, defect, irregularity, or variance which does not affect substantial rights of the accused."
+
+[1]  Harmless error in ruling on challenges for cause is not always this clear, and a claim of harmless error for such rulings may often be rejected as too speculative or doubtful. In this case, however, when the deputy sheriff was challenged peremptorily, the defense had exercised only four of its eight peremptory challenges and ten of the twelve jurors had already been selected. Defense counsel subsequently exercised one more peremptory challenge and had two remaining when the jury was empaneled.

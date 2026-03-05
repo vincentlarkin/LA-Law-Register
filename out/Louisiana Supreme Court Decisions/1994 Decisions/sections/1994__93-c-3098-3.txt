@@ -1,0 +1,168 @@
+93-C-3098
+Descant v. Adm'rs of Tulane Educ. Fund
+https://law.justia.com/cases/louisiana/supreme-court/1994/93-c-3098-3.html
+
+93-C-3098
+Descant v. Adm'rs of Tulane Educ. Fund
+Court: Louisiana Supreme Court
+Release date: 1994-07-05
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1994/93-c-3098-3.html
+
+639 So. 2d 246 (1994)
+
+Deborah Descant, Wife of/and Leon J. DESCANT, Jr., Individually and as the Parents and Administrators of the Estate of Their Minor Child, Edith Marie Descant
+v.
+The ADMINISTRATORS OF the TULANE EDUCATIONAL FUND, d/b/a Tulane Medical Center Hospital and Clinic, Dr. Eduardo Herrera and Lexington Insurance Company.
+
+No. 93-C-3098.
+
+Supreme Court of Louisiana.
+
+July 5, 1994.
+
+Rehearing Denied September 15, 1994.
+
+*247 Lawrence S. Kullman, Victoria Vinturella Olson, Lewis & Kullman, New Orleans, for applicants.
+
+*248 Stewart Earl Niles, Jr., Michelle A. Bourque, Jones, Walker, Waechter, Poitevent, Carrere & Denegre, Michael D. Carbo, Denise Angele Bostick, Didriksen & Carbo, James D. Carriere, Habans, Bologna & Carriere, New Orleans, for respondents.
+
+Robert Gahagan Pugh, Jr., Shreveport, for LA Medical Mut. Ins. Co., amicus curiae.
+
+William S. Pennick, Deborah Inchaustegu Schroeder, David Mark Whitaker, New Orleans, for Ins. Corp. of America and American Continental Ins., amicus curiae.
+
+Robert John Conrad, New Orleans, for Louisiana State Medical Soc., amicus curiae.
+
+Charles Fenner Gay, Jr., Cristina Romig Wheat, New Orleans, for Alton Ochsner Clinic, amicus curiae.
+
+MARCUS, Justice.[*]
+
+Deborah and Leon J. Descant, Jr. filed suit against Dr. Eduardo Herrera, The Administrators of the Tulane Educational Fund, d/b/a Tulane Medical Center Hospital and Clinic (Tulane), and Lexington Insurance Company (Lexington), Tulane's liability insurer, to recover damages for injuries sustained by their daughter during her birth on November 3, 1989. Tulane is a self-insured qualified health care provider under the Medical Malpractice Act, thus its liability is limited to $100,000 per claim.[1] The Lexington policy insured Tulane against hospital professional liability incurred in excess of $1,000,000. Lexington filed exceptions of no cause of action and no right of action, which the trial court granted. The court of appeal affirmed.[2] Upon plaintiffs' application, we granted certiorari to determine the correctness of that decision.[3]
+
+The narrow issue presented for our review is whether plaintiffs have a cause and/or right of action against a qualified health care provider's insurer for damages above the statutory limit, despite the fact that the health care provider is not liable for damages in excess of $100,000.
+
+In 1975, the Louisiana Legislature enacted the Medical Malpractice Act[4] in an effort to combat the rising costs of health care in this state. In part, the Act was designed to increase the likelihood that health care providers would carry malpractice insurance by regulating the total damage recovery of malpractice victims, thereby reducing insurance premiums. Butler v. Flint Goodrich Hospital,
+607 So. 2d 517
+(La.1992), cert. denied sub nom., Butler v. Medley, ___ U.S. ___, 113 S. Ct. 2338, 124 L. Ed. 2d 249 (1993); Williams v. Kushner,
+549 So. 2d 294
+, 307-308 (La.1989) (Dixon, C.J., dissenting); Everett v. Goldman,
+359 So. 2d 1256
+, 1263 (La.1978). With this purpose in mind, we must determine if the regulatory scheme provided in the Act applies to the excess insurer of a qualified health care provider.
+
+The Medical Malpractice Act limits the liability of each individual health care provider to $100,000.[5] Further, the Act provides that as long as the health care provider remains qualified, the provider "and his insurer" are liable for malpractice only to the extent provided by the Act. La.R.S. 40:1299.45 A(1); Sewell v. Doctors Hospital,
+600 So. 2d 577
+, 578 (La.1992). In addition,   La.R.S. 40:1299.42 B(1) limits the plaintiff's total recovery:
+
+The Act further provides that all amounts due plaintiff from a judgment or settlement which exceed the limitation of liability of the health care providers shall be paid by the Patient's Compensation Fund, however the "total amounts paid" shall not exceed $500,000. La.R.S. 40:1299.42 B(3)(a) and (b). We find that the language limiting the plaintiff's recovery, and not just the health care provider's liability, supports a conclusion that the Act's liability limitation is available to the insurer.[6]
+
+Lexington was joined as a party in this lawsuit pursuant to the Louisiana Direct Action statute, which provides:
+
+La.R.S. 22:655 B(1). The statute further provides that it benefits "all injured persons... to whom the insured is liable" and declares that "it is the purpose of all liability policies to give protection and coverage to all insureds ... for any legal liability said insured may have...." La.R.S. 22:655 D (emphasis added). The direct action statute does not create an independent cause of action against the insurer, it merely grants a procedural right of action against the insurer where the plaintiff has a substantive cause of action against the insured. Dumas v. United States Fidelity & Guaranty Co., 241 La. 1096, 1117,
+134 So. 2d 45
+, 52 (1961); Ruiz v. Clancy, 182 La. 935, 950, 162 So. 734, 738 (1935). Thus, there must be legal liability on the part of Tulane in order for Lexington to be liable. See Ruiz, 162 So.  at 738.
+
+We reject plaintiffs' contention that a health care provider remains legally liable for claims beyond the statutory limit of $100,000. The Medical Malpractice Act declares that a qualified health care provider "is not liable" for amounts in excess of $100,000. La.R.S. 40:1299.42 B(2). This language is explicit and does more than merely limit the plaintiff's procedural right to sue the provider.[7] There is a clear distinction between an immunity from liability and an immunity from suit. See Duree v. Maryland Casualty Co., 238 La. 166,
+114 So. 2d 594
+(1959) (distinguishing between the state's immunity from liability and immunity from suit).[8] An immunity from liability destroys the plaintiff's substantive cause of action against the immune party, whereas an immunity from suit merely restricts the plaintiff's right to sue the defendant. Therefore, because the Medical Malpractice Act restricts the health care provider's liability, there is no cause of action against Tulane beyond the statutory limit. Consequently, there is no cause of action against Lexington and the exceptions must be sustained.
+
+However, even assuming that a cause of action does exist for a claim in excess of $100,000, we find that the statutory limitation of liability is a defense available to Lexington. The direct action statute provides that the insurer is solidarily liable with its insured. La.R.S. 22:655 B(1). Thus, Louisiana Civil Code article 1801 determines which defenses are available to the insurer:
+
+In determining which defenses are personal and thus cannot be raised by the insurer, Louisiana courts distinguish a cause of action from a right of action. Personal defenses bar "a right of action where a cause of action would otherwise have existed." Liberty Mutual Ins. Co. v. State Farm Mutual Automobile Ins. Co., 579 So. 2d 1090, 1093 (La.App. 4th Cir.) (emphasis in original), writ denied, 586 So. 2d 563 (La.1991). Personal defenses are granted to all members of a specific class and do not depend upon the nature of the accident.[9]Edwards v. Royal Indemnity Co., 182 La. 171, 181, 161 So. 191, 195 (1935). For example, interspousal immunity applies to all married persons and prohibits all tort litigation between spouses during marriage. See La.R.S. 9:291.
+
+The limitation of liability found in the Medical Malpractice Act differs from the traditional immunities which have been deemed personal defenses. First, the limitation does not automatically apply to all health care providers. A provider must first "qualify" for the benefit by showing proof of financial responsibility and by paying a surcharge. La.R.S. 40:1299.42 A. Second, the Act does not protect the provider from all acts of misconduct between the provider and his patients. It is only triggered by the negligent care and treatment of the patient. Were the provider to commit an intentional tort against his patient or negligently injure his patient in a manner unrelated to medical treatment, the limitation of liability would not be available. See Sewell, 600 So. 2d  at 577 (defects in hospital bed which resulted in injury to patient were not included in "malpractice" under the Medical Malpractice Act). Finally, as stated above, one of the purposes behind the liability limitation was the reduction in malpractice insurance rates. Thus, unlike many other immunities[10], the legislature contemplated that this Act would affect insurers. Consequently, we find that the limitation provided in the Medical Malpractice Act is not a personal defense, but rather one that arises from the nature of the obligation and can be raised by the insurer.
+
+In sum, we find that the legislature intended the Medical Malpractice Act to benefit the insurers of qualified health care providers in light of its general purpose to reduce insurance rates. Further, we hold that since the Act eliminates the cause of action against Tulane for amounts in excess of $100,000, there is no remaining cause of action against Lexington and thus the direct action statute is unavailable to plaintiffs. Finally, even assuming that there is a cause of action against Tulane for claims above $100,000, and therefore against its insurer, Lexington can assert the limitation of liability of the Medical Malpractice Act as a defense to defeat plaintiff's right of action against it.[11]
+
+For the reasons assigned, the judgment of the court of appeal is affirmed. All costs are assessed against the plaintiffs.
+
+CALOGERO, C.J., concurs, disagreeing only with the majority's alternate reasons in support of the result i.e. that the statutory limitation of liability is a defense available to Lexington.
+
+LEMMON and ORTIQUE, JJ., dissent and assign reasons.
+
+*251 ORTIQUE, Justice, dissenting.
+
+The majority affirms the judgment of the court of appeal, finding that "the legislature intended the Medical Malpractice Act to benefit the insurers of qualified health care providers in light of its general purpose to reduce insurance rates." Furthermore, the majority finds that the insurers of qualified health care providers can assert the limitation of liability of the Medical Malpractice Act as a defense to defeat plaintiff's right of action against it. I must respectfully dissent.
+
+The majority fails to appreciate that the statutory limitation placed on medical providers was not designed to benefit insurance companies. Lexington's limit of liability is fixed by the policy of insurance, and not by the Medical Malpractice Act. It is well settled that the Medical Malpractice Act constitutes special legislation in derogation of the general rights available to tort victims and the Act thus, must be strictly construed. Williams v. St. Paul Ins. Companies, 419 So. 2d 1302 (La.App. 4 Cir.1982), writ den.,
+423 So. 2d 1182
+(La.1982). The effect of the majority opinion is to derogate the right of tort victims, such as plaintiffs who suffer severe and permanent injuries, to obtain relief from insurers of tortfeasors.
+
+The Descants filed suit against The Administrators of the Tulane Educational Fund, d/b/a Tulane Medical Center Hospital and Clinic ("Tulane"), Dr. Eduardo Herrera, Lexington Insurance Company ("Lexington"), and numerous other liability insurers of Tulane to recover damages for injuries sustained by their daughter Edith Marie Descant ("Edith") during her birth on November 3, 1989.[1] The policy issued by Lexington provides excess coverage for professional liability in excess of Tulane's retained limit of $1,000,000.00. The retained amount increases to $2,000,000.00 in the event the limitation of liability established by the Medical Malpractice Act is modified or abrogated.
+
+The trial court found that plaintiffs have no cause of action nor a right of action against Lexington because Tulane's liability is limited under the Medical Malpractice Act to $100,000.00. Furthermore, the trial court found that the "limitation of liability defense" can be asserted by Lexington, and is not purely personal to Tulane.
+
+The court of appeal affirmed the decision of the trial court finding that the trial court properly sustained Lexington's exceptions of no cause of action and no right of action in dismissing plaintiffs' claim.
+
+The Descants assert that the negligence of the defendants caused Edith to be severely brain damaged. Furthermore, they assert that Edith's brain damage resulted in her being permanently disabled and handicapped. They seek damages for pain and suffering, permanent disability, loss of earning capacity for Edith, as well as, for their loss of consortium, loss of earnings, and medical and other costs associated with the care of Edith.[2]
+
+A "liability policy" is written for the benefit of third parties, who suffer injury or damage because of actions of the insured. Lou-Con, Inc. v. Gulf Bldg. Services, Inc., 287 So. 2d 192 (La.App. 4 Cir.1973), writ den.
+290 So. 2d 899
+and 290 So. 2d 901 (La.1974). This Court is bound to give legal effect to the insurance policy according to the intent of Lexington and Tulane, which is determined by the words of the policy that are clear and explicit and lead to no absurd consequences. Oil Well Supply Co. v. New York Life Ins. Co., 38 So. 2d 777, 214 La. 772 (1949). The insurance policy clearly and explicitly provided hospital professional liability coverage in excess of $1,000,000.00.
+
+Furthermore, Lexington clearly and explicitly agreed to pay on behalf of Tulane all sums in excess of $1,000,000.00 which Tulane shall become legally obligated to pay as damages because of personal injury to any person. Lexington asserts that because the   Medical Malpractice Act limits the liability of Tulane to $100,000.00, plaintiffs have no cause of action and no right of action against Tulane for any amount in excess of this amount. Until the Descants are able to put their evidence before the court, and the extent of damages is known, the liability of Lexington under the "excess provisions of the policy" will not have been judicially determined.
+
+The Direct Action Statute has been a mechanism by which the tort victim can reach the assets of an insurance company without suing the tortfeasor. The purpose of the Direct Action Statute is to provide liability coverage for the benefit of injured parties where there exists a contract of liability coverage between an insured and an insurance company. Dixon v. Shockley, 356 So. 2d 96 (La.App. 1 Cir.1978), writ den. 358 So. 2d 642 (La.1978). Thus, a prerequisite for a direct action against an insurer is that the insured is liable for an injury or damage. In the instant case, the liability of the insured will be determined by ascertaining whether Dr. Eduardo was negligent, and if so, was his negligence a legal cause of Edith Descant's injuries? The legal question, i.e. liability, has no relationship to the fact that the amount of recovery from Tulane is statutorily limited to $100,000.00.
+
+While it is true that the insurance company is only liable to the extent of the damages caused by the tortfeasor, the limitation on the tortfeasor's assets or the ability to satisfy a judgment should not affect the obligation of the insurance company insuring the tortfeasor. The limitation on recovery under the Medical Malpractice Act serves a different and very specific other purpose.
+
+If the Louisiana Legislature intended to reduce the obligation of insurers to be responsible for injuries/damages caused by their insured that august body could have ordained it. The redactors of the Medical Malpractice Act obviously contemplated certain acts or omissions which would not fall within the purview of the Act, as amended. LSA-R.S. 40:1299.41 A(7) and (9) distinguishes between "tort" and "health care," and recognizes the difference, which this Court has made mention of.[3]
+
+Our Legislature changed its position relative to "intentional torts" and "negligence". An insurer may be held responsible for intentional acts of the medical care provider without any limitations except the limitation of coverage. Additionally injuries unrelated to medical treatment, but within the premises of the health care provider are not covered by the limitation of liability afforded the medical provider under the Medical Malpractice Act.
+
+Clearly the trial court erred as a matter of law in maintaining the exceptions of no cause of action and right of action filed herein by the defendant insurer, Lexington. Neither of these exceptions can be supported at the commencement of trial. The exception of no right of action will depend upon the proof of plaintiffs' claims. Even a cursory examination of plaintiffs' pleadings indicate that a cause of action has been stated. I would overrule both lower courts, and remand the cause for further proceedings.
+
+TO THIS EXTENT I MUST DISSENT WITH THE MAJORITY OPINION.
+
+LEMMON, Justice, dissenting.
+
+The insurer contemplated by the scheme of the Medical Malpractice Act is the professional   liability insurer who furnishes the health care provider with $100,000 of malpractice coverage. The Act did not contemplate excess insurance for the health care provider and did not place any limitation on the malpractice victim's recovery against an excess insurer.[1] Because Lexington is Tulane's professional liability insurer for amounts in excess of Tulane's retained limit of $1,000,000, and because the Act limits the malpractice victim's recovery against Tulane to $100,000, the issue is whether the limitation is personal to the insured or whether the excess insurer may assert the limitation as a defense in an action by the malpractice victim.
+
+A defense is personal between the insured and the claimant when the defense is wholly unrelated to the provisions of the policy or to the tortious act of the insured. Edwards v. Royal Indem. Co., 182 La. 171, 161 So. 191 (1935). The limitation on recovery against a health care provider is a defense based on the benefits to the public from the greater likelihood of the health care provider's carrying malpractice insurance, the greater assurance of collection from a solvent fund, and the provision for payment of all medical expenses without regard to the total limitation. Butler v. Flint Goodrich Hosp.,
+607 So. 2d 517
+(La.1992). These considerations are wholly unrelated to the provisions of the excess insurance policy or to the tortious act of the insured health care provider, and are therefore personal between the insured and the claimant. No purpose of the Act would be furthered by extending the limitation on recovery to the health care provider's excess insurer, who merely covers any possibility of professional liability above the Act's limits and who after all received a premium for providing the coverage.
+
+I therefore dissent.
+
+[*]  Pursuant to Rule IV, Part 2, § 3, Shortess, J., Court of Appeal, First Circuit, sitting in place of Justice James L. Dennis, was not on the panel which heard and decided this case.
+
+[1]  The Medical Malpractice Act provides a limitation of liability for health care providers who qualify under the Act. In order to qualify, La. R.S. 40:1299.42 A requires that a health care provider:
+
+(1) Cause to be filed with the board proof of financial responsibility as provided by Subsection E of this Section.
+
+(2) Pay the surcharge assessed by this Part on all health care providers according to R.S. 40:1299.44.
+
+(3) For self-insureds, qualification shall be effective upon acceptance of proof of financial responsibility by and payment of the surcharge to the board....
+
+[2]  627 So. 2d 214 (La.App. 4th Cir.1993).
+
+[3]  93-3098 (La. 3/18/94); 634 So. 2d 843.
+
+[4]  La.R.S. 40:1299.41 et seq.
+
+[5]  La.R.S. 40:1299.42 B(2) provides:
+
+A health care provider qualified under this Part is not liable for an amount in excess of one hundred thousand dollars plus interest thereon accruing after April 1, 1991, for all malpractice claims because of injuries to or death of any one patient.
+
+[6]  In addition, we note that La.R.S. 9:2793, which was passed the same year as the Medical Malpractice Act and provides immunity for "good Samaritans," specifically excludes insurers from its liability limitation. Thus, if the Legislature had intended to restrict the applicability of this statute to health care providers alone, it could have explicitly stated so.
+
+[7]  Louisiana courts have declared similarly worded statutes immunities from liability. See e.g., Castille v. Chaisson, 544 So. 2d 670, 674 (La.App. 3d Cir.1989) (recreational use statutes). Cf. La. R.S. 9:291 (statute restricting spouses' ability "to sue" each other).
+
+[8]  The Louisiana Constitution of 1974 abrogated the state's immunity from liability and suit. See La. Const. art. XII, § 10.
+
+[9]  Louisiana courts have held the following immunities to be personal to the insured and therefore unavailable to the insurer: interspousal immunity, parental immunity, governmental immunity, charitable immunity, minority, bankruptcy and insanity. See Danzy v. United States Fidelity & Guaranty Co.,
+380 So. 2d 1356
+, 1359 n. 5 (La.1980).
+
+[10]  For example, interspousal and parental immunities were designed to prevent discord among family members. Therefore, the concerns at issue in these immunities are not implicated when an insurance company is involved, and thus the courts have refused to find these defenses available to the insurer. See Edwards, 161 So.  at 193-94.
+
+[11]  In addition, plaintiffs argue that Tulane purchased this excess insurance policy for the benefit of its patients; therefore, public policy dictates that we find Lexington liable. However, Tulane sufficiently counters this assertion by advancing alternative reasons for obtaining the insurance policy in question, including: to shield itself from unlimited liability in the event the limitation was declared unconstitutional; to cover tort liabilities not included under the Act; and to guard against malpractice which may result in the injury of multiple persons.
+
+[1]  The other liability insurers made defendants in this suit are Anglo American Insurance Company; Walbrook Insurance Company, Ltd.; Turegum Insurance Company; The Dominion Insurance Company Limited; Assicurazioni Generali S.p.A.; Terrestres; Sovereign Marine and General Insurance Company Limited.
+
+[2]  The record indicates that in the two years subsequent to Edith's birth, the Descants incurred medical expenses in excess of $500,000.00. It is not mere speculation to conclude that these expenses will exceed $1,000,000.00.
+
+[3]  Sewell v. Doctors Hosp.,
+600 So. 2d 577
+(La. 1992).
+
+[1]  La.Rev.Stat. 40:1299.42 B(1) limits the recovery of damages against the health care provider, his insurer who furnished the $100,000 coverage required by the Act, and the Patient's Compensation Fund.

@@ -1,0 +1,110 @@
+81-KA-0222
+State v. Williams
+https://law.justia.com/cases/louisiana/supreme-court/1981/81-ka-0222-1.html
+
+81-KA-0222
+State v. Williams
+Court: Louisiana Supreme Court
+Release date: 1981-06-22
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1981/81-ka-0222-1.html
+
+400 So. 2d 575 (1981)
+
+STATE of Louisiana
+v.
+Joyce M. WILLIAMS.
+
+No. 81-KA-0222.
+
+Supreme Court of Louisiana.
+
+June 22, 1981.
+
+*576 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Mark H. Kaplinsky, Louise Korns, Asst. Dist. Attys., for plaintiff-appellant.
+
+Clay Calhoun, Jr., New Orleans, for defendant-appellee.
+
+BLANCHE, Justice.[*]
+
+Defendant Joyce M. Williams was charged by bill of information with unauthorized use of a revoked access card, in violation of La.R.S. 14:67.3. The defendant responded to the charge by filing a motion to quash the bill of information alleging that the statutory language defining the crime was flawed by an unconstitutional presumption. The trial judge agreed by granting the defendant's motion and the state appealed. La.Const. Art. 5, § 5(D) (1974).
+
+In pertinent part, R.S. 14:67.3 defines unauthorized use of a credit card as follows:
+
+The term "access card" is defined in Paragraph (A)(1) of R.S. 14:67.3 as follows:
+
+A revoked access card is one that has been cancelled or terminated by the issuer.
+
+*577 The sole issue before the Court is whether the portion of the second sentence of Section C, authorizing a finding of fraudulent intent upon mere proof that the accused used an access card more than five days after written notice of said card's cancellation had been sent by certified mail to the accused, infringes upon the accused's constitutional rights to remain silent and to require the state to prove all elements of the offense necessary to establish his guilt beyond a reasonable doubt.[1] La.Const. Art. 1, § 16 (1974); U.S.Const. Amend. 14; Sandstrom v. Montana,
+442 U.S. 510
+, 99 S. Ct. 2450, 61 L. Ed. 2d 39 (1979); County Court of Ulster County v. Allen,
+442 U.S. 140
+, 99 S. Ct. 2213, 60 L. Ed. 2d 777 (1979); In re Winship,
+397 U.S. 358
+, 90 S. Ct. 1068, 25 L. Ed. 2d 368 (1970).
+
+Two of the most fundamental features of our criminal justice system are the presumption of innocence and the requirement that the state prove each element of a crime beyond a reasonable doubt. When it is sought to prove an element of the crime (the elemental fact) beyond a reasonable doubt with "evidentiary" or "basic" facts, the trier of fact is sometimes called upon to make an inferential leap from the fact or facts presented to it and the element of the crime that must be proven. Therefore, in order to facilitate this inferential leap (from the facts presented and the elements of the crime that must be proved), the legislature has, on occasion, enacted laws which provide that proof of an evidentiary fact can or must be construed as proof of an element of the crime. The effect of such legislation is the creation of a presumption that flows from proof of the established evidentiary fact. See County Court of Ulster County v. Allen, supra; State v. Taylor,
+396 So. 2d 1278
+(La.1981).
+
+When such a presumption is utilized so as to afford proof of an elemental fact, its constitutionality is dependent "on the strength of the connection between the particular basic and elemental facts involved and on the degree to which the device curtails the factfinder's freedom to assess the evidence independently." Ulster County, supra, 99 S. Ct.  at 2224.
+
+For purposes of due process analysis, such presumptions may be divided into two categories, permissive and mandatory. However, whatever the type of presumption involved, the ultimate test of validity remains constant:
+
+A permissive presumption "allowsbut does not requirethe trier of fact to infer the elemental fact from proof by the prosecutor of the basic one and ... places no burden of any kind on the defendant .... When reviewing this type of device, the Court has required the party challenging it to demonstrate its invalidity as applied to him." Ulster County, supra, 99 S. Ct.  at 2224. Because such permissive presumption leaves the trier of fact free to credit or reject the inference and does not shift the burden of persuasion, it affects the reasonable doubt standard of proof only if, under the facts of the particular case, there is no rational way the trier could make the connection permitted by the inference. Id., at 2224. Thus, a permissive presumption need not meet the beyond a reasonable doubt standard because the prosecution may rely on all of the evidence presented to meet its burden of proving the issue of guilt. A reviewing court need only determine if   there is a "rational connection" between the basic facts proved at trial and the ultimate fact presumed, and whether the latter is "more likely than not" to flow from the former. Ulster County, supra, at 2224, 2228; State v. Daranda,
+388 So. 2d 759
+, 761 (La.1980). Of course, if a permissive presumption is the only evidence introduced of an element of the offense or on some other issue where the prosecution must satisfy the beyond a reasonable doubt standard, the basic fact must prove the ultimate fact beyond a reasonable doubt.
+
+On the other hand, where a statute requires that proof of an evidentiary fact necessarily constitutes proof of an element of a crime, the statute creates a mandatory presumption that proof of the former is proof of the latter. Such a presumption "may affect not only the strength of the `no reasonable doubt' burden, but also the placement of that burden; it tells the trier that he or they must find the elemental fact upon proof of the basic fact, at least unless the defendant has come forward with some evidence to rebut the presumed connection between the two facts." Ulster County, supra, 99 S. Ct.  at 2224-25.
+
+A mandatory presumption violates due process "unless the fact proved is sufficient to support the inference of guilt beyond a reasonable doubt." Id., 99 S. Ct.  at 2229. This standard is appropriate because the trier of fact must abide by the presumption and cannot make an independent evaluation of the evidence supporting the ultimate fact presumed; "the analysis of the presumption's constitutional validity is logically divorced from those facts and based on the presumption's accuracy in the run of cases." Id., 99 S. Ct.  at 2226. Whether other evidence in the record supports the ultimate finding is irrelevant. The presumption is judged on its face.
+
+Since the mode of judicial scrutiny depends largely upon the characterization of a statutory presumption as permissive or mandatory, the first step that must be taken in analyzing the instant presumption is the deduction of the degree of conclusiveness that a fact-finder must give to proof of the evidentiary facts of certified mailing, passage of 5 days, and use of an Access Card in relation to the elemental facts of use with intent to defraud.
+
+The portion of the statute in question literally provides that "... it shall be presumptive evidence that a person used a revoked Access Card with intent to defraud... if said person, directly or indirectly, by agent or otherwise, uses the said Access Card at a time period more than five days after written notice of the termination or cancellation of said Access Card has been deposited by registered or certified mail in the United States mail system." The word "shall" is mandatory. R.S. 1:3. Thus, the statute commands the person(s) to whom it is addressed to consider proof of three evidentiary facts as presumptive evidence of use of an Access Card with intent to defraud. The term "presumptive evidence", either alone or in context with other words, however, has not been expressly defined by the legislature.
+
+In the past, this Court and two federal courts have had the opportunity to rule on the interpretation and validity of the following statutory language.[2]
+
+This language was enacted to overrule a decision of this Court which had effectively held that the violation of a statute or ordinance was conclusive, irrebuttable proof of criminal negligence. State v. Nix, 211 La. 865, 31 So. 2d 1 (1947), U.S. cert. den. 332 U.S. 791, 68 S. Ct. 100, 92 L. Ed. 373 (1947). Eventually, the intention of the legislature in passing the presumption was held to be the alerting of fact-finders that they could consider for themselves whether the evidence   created an inference of criminal negligence. State v. Felix Hammontree,
+363 So. 2d 1364
+(La.1978). See also State v. Lollar,
+389 So. 2d 1315
+(Lemmon, J. concurring) (La.1980). Ultimately, the United States Court of Appeals, Fifth Circuit, considering Felix Hammontree's subsequent federal habeas petition, concluded that the legislature's choice of words supported the conclusion of this Court that the "presumption" created only a permissive inference, assuming the fact-finder was properly charged. Hammontree v. Phelps, 605 F.2d 1371 (5th Cir. 1979). The court stated, at 1379:
+
+More recently, this Court had the opportunity to pass judgment upon a similar statute which provided that proof that a person benefited from a device, attached to property over which the person had control and which prevented utility meters from accurately measuring utility services, "shall constitute prima facie evidence" of knowledge of the presence of the device and of specific intent to defraud the utility supplier, and shall bring such person "prima facie" within the scope of the statute. State v. McCoy,
+395 So. 2d 319
+(La.1980). In McCoy, this Court felt that the authoritative manner in which the statute was worded and the generally accepted legal meaning of the term "prima facie evidence" made it obvious that the statute was designed to shift the burden of proof to the defendant once the state proved mere tampering with a utility meter which resulted in benefit to the person exercising dominion over the premises. Thus, the statute was held to create a mandatory presumption, one which was ultimately struck down for failure to meet the "beyond a reasonable doubt" standard.
+
+In the instant case, unlike those interpreting the negligent homicide and negligent injuring statutes, there is no history of the intention of the legislature which indicates that the legislature did not expect this Court to interpret the statute literally. Thus, this Court is required to view the phrase "shall be presumptive evidence" in light of the fair import of the words, taken in their usual sense, in connection with the context of the statute. R.S. 14:3.
+
+The term "presumptive evidence" is literally synonymous with the term "prima facie evidence". Each is defined as evidence sufficient to establish a given fact and which, if not rebutted or contradicted, will remain sufficient. See State v. McCoy, supra, n.5; Black's Law Dictionary (5th Ed. 1979). When the words "shall be" immediately precede each term, it becomes quite clear that proof of the facts which constitute the subjects of the verb must be construed as proof of the elemental facts constituting the objects, at least unless the defendant comes forward with evidence sufficient to create a reasonable doubt. This effect is the same where, as here, the term "shall be presumptive evidence" is used to equate certain evidentiary and elemental facts.
+
+Viewed in this light, the presumption at issue here is mandatory. Thus, it can only stand if proof of the evidentiary facts of certified mailing of a cancellation notice, the passage of five days and the use of the revoked Access Card, would, on its face, constitute proof beyond a reasonable doubt of the elemental facts of use of an Access Card with the specific intention to defraud. We hold that it cannot.
+
+Since unauthorized use of an Access Card is a specific intent crime, the mailing requirement and five-day waiting period indicate an apparent legislative attempt to impute knowledge of revocation to a cardholder so that a future use of the card can be construed as use with intent to defraud. Although mailing, the passage of five days and use of an Access Card would be relevant evidence to show that a person received notice of revocation but nevertheless   used the card with the intent to defraud, this Court is not prepared to say that they are indicative of notice and fraudulent use beyond a reasonable doubt. There are simply too many other reasonable explanations, State v. McCoy, supra: the card issuee may no longer reside at the address to which the notice was sent; the issuee may not be present at the address when the notice arrives; the notice may have been lost, destroyed, delayed or misrouted either by the postal authorities or by some third person present at the address to which the notice was sent; and even the issuee may have actually received the notice but was unable to notify a third party authorized possessor of the Access Card.
+
+For the above reasons, we find that the discussed presumption contained in the second sentence of R.S. 14:67.3(C) is unconstitutional. And since that portion is unconstitutional, the sentence following the presumption which refers to the method of mailing the notice must also fall, as it would have no meaning without reference to the presumption that flows from mailing.
+
+The unconstitutionality of one portion of the statute, however, does not necessarily render the entire statute unenforceable. If the remaining portion of the statute is severable from the offending portion, this Court often strikes only the offending portion and leaves the remainder intact. State v. Taylor, supra; State v. McCoy, supra; State v. Brown,
+389 So. 2d 48
+(La.1980). We find in the present case that the remainder of the statute can stand.
+
+In the first place, the legislature provided a severability clause in the most recent enactment of the statute in question which provides that the invalidity of any portion of the act shall not affect the validity of the other portions. Acts 1979, No. 167 § 2. Additionally, it is clear that the legislative goal of punishing unauthorized credit card use can be effectuated even after deletion of any constitutionally deficient language. Accordingly, we declare unconstitutional the following portion of R.S. 14:67.3(C):
+
+Since the remainder of the statute is valid and since defendant was charged with a crime punishable under a valid statute, the trial court's ruling on the motion to quash must be reversed and the case remanded for further proceedings in accordance with this opinion.
+
+REVERSED AND REMANDED.
+
+[*]  Judges Pike Hall, Jr., Charles A. Marvin and Jasper E. Jones of the Court of Appeal, Second Circuit, participated in this decision as Associate Justices Ad Hoc joined by Associate Justices Calogero, Dennis, Blanche and Lemmon.
+
+[1]  The defendant also appears to assert in brief that the portion of Section C, which makes it presumptive evidence of use of a revoked Access Card with intent to defraud if the person uses the card after actually receiving oral or written notice of cancellation or termination of the card, is also unconstitutional. However, the transcript of the hearing on the motion to quash indicates that defense counsel informed the judge that he had no objection to that portion of the statute. Therefore, the judge did not address his ruling to that portion of the statute and it is not before this Court for review. See La.Const. Art. V, § 5(D).
+
+[2]  State v. Lollar,
+389 So. 2d 1315
+(La.1980); State v. Daranda,
+388 So. 2d 759
+(La.1980); Hammontree v. Phelps, 605 F.2d 1371 (5th Cir. 1979); Hammontree v. Phelps,
+462 F. Supp. 366
+(W.D.La.1978); State v. Hammontree,
+363 So. 2d 1364
+(La.1978); State v. Nix, 211 La. 865, 31 So. 2d 1 (1947), U. S. cert. den. 332 U.S. 791, 68 S. Ct. 100, 92 L. Ed. 373 (1947).

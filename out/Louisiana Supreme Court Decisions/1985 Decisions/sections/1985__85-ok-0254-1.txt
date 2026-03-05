@@ -1,0 +1,97 @@
+85-OK-0254
+State v. Counterman
+https://law.justia.com/cases/louisiana/supreme-court/1985/85-ok-0254-1.html
+
+85-OK-0254
+State v. Counterman
+Court: Louisiana Supreme Court
+Release date: 1985-09-10
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1985/85-ok-0254-1.html
+
+475 So. 2d 336 (1985)
+
+STATE of Louisiana
+v.
+Marion COUNTERMAN.
+
+No. 85-OK-0254.
+
+Supreme Court of Louisiana.
+
+September 10, 1985.
+
+*337 Robert J. Roux, Lake Charles, for defendant-applicant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Bryan Bush, Dist. Atty., Kay Kirkpatrick, Asst. Dist. Atty., for plaintiff-respondent.
+
+LEMMON, Justice.
+
+We granted certiorari primarily to determine the appropriate procedure for applications for out-of-time or delayed appeals.
+
+Defendant was convicted of aggravated rape and aggravated burglary. He was sentenced on February 10, 1983 to consecutive terms of imprisonment at hard labor. At sentencing, the trial judge advised defendant of his right to appeal. Both at trial and at sentencing, defendant was represented by an attorney from the office of the public defender. No appeal was filed   within the five-day period provided by La. C.Cr.P. Art. 914.
+
+On April 10, 1984, defendant, through a different attorney from the office of the public defender, filed a motion for an out-of-time appeal in the trial court. The motion alleged that "[d]efendant recently informed this office on April 4, 1984, that he now desires to appeal". The trial judge granted the motion two days after filing, without a hearing and without affording the district attorney an opportunity to respond to the motion.
+
+The court of appeal dismissed the appeal on the basis that the trial court was without authority or jurisdiction to grant an out-of-time appeal on an ex parte motion. 461 So. 2d 664. Citing State v. Davis, 457 So. 2d 848 (La.App. 1st Cir.1984), the intermediate court held that a trial court can only consider a request for an out-of-time appeal that is presented by application for post-conviction relief pursuant to La.C. Cr.P. Art. 924-930.7. The court further noted that the allegations of the motion did not indicate a constitutional deprivation of the right to appeal, but that defendant was not precluded from seeking relief by a proper application in the district court.
+
+After the court of appeal dismissed his appeal, defendant filed a motion for out-of-time appeal in the court of appeal. The court denied the motion. Defendant then filed an application in this court entitled "Motion and Order for Out of Time Appeal".[1] We treated the application as one for certiorari and issued a writ of review. 467 So. 2d 1122.
+
+La.C.Cr.P. Art. 914 provides:
+
+La.C.Cr.P. Art. 915 requires the court to order an appeal when a motion for appeal is made in conformity with Articles 912, 914 and 914.1. However, when a defendant fails to make a motion for appeal within the time provided in Article 914, he loses the right to obtain an appeal by simply filing a motion for appeal in the trial court. This is not because the trial court has been divested of jurisdiction, as was held in State v. Braxton, 428 So. 2d 1153 (La.App. 3rd Cir.1983), but because the conviction and sentence became final when the defendant failed to appeal timely.[2] After the time for appealing has elapsed, the conviction and sentence are no longer subject to review under the ordinary appellate process, unless the defendant obtains the reinstatement of his right to appeal.
+
+There is no codal or statutory authority or procedure in Louisiana for applying for an out-of-time or delayed appeal. Compare Fed.R.App.P. 4(b), which provides a thirty-day period (after the ten-day period for appealing) for applying for a delayed appeal if the applicant can show excusable neglect. Fed.R.Crim.P. 32(a)(2) also requires notification to the defendant at sentencing (at least in cases which have gone to trial on a plea of not guilty) of the right to appeal and requires the clerk, upon defendant's request, to file a notice of appeal on defendant's behalf. If the court fails to provide this notice at sentencing, the appellate court may vacate the sentence and remand for resentencing. 3 C. Wright, Federal Practice and Procedure § 528 (2d ed. 1982). In Louisiana, however, there is no codal or statutory requirement for notifying the defendant at sentencing of his right to appeal and of the time limitations within which he must exercise that right.   Nevertheless, this court has ordered the trial court to grant an out-of-time appeal when the defendant has established that he was not advised of his right to appeal.[3]State v. Moore, 260 La. 299,
+256 So. 2d 96
+(1971); State ex rel. LaFleur v. Henderson, 316 So. 2d 392 (La.1975).
+
+The central issue, therefore, is whether a defendant who seeks an appeal after the time for appealing has elapsed is relegated to post conviction relief or whether he may file a motion for an out-of-time appeal in either the district court or the court of appeal.
+
+The defendant who has failed to appeal timely should seek reinstatement of his right to appeal in the district court in which the conviction was obtained. State v. Holmes, 440 So. 2d 1384 (La.App. 2nd Cir.1983). The district court is clearly in the best position, after notice to the district attorney and after a hearing (if necessary), to determine whether the applicant is entitled to relief. Any contrary holding in State v. Braxton, above, is overruled.
+
+We further conclude that the appropriate procedural vehicle for a defendant to seek the exercise of his right to appeal, after the delay provided in Article 914 has expired, is an application for post conviction relief pursuant to Articles 924-930.7.[4] There are several advantages to this procedure. The district attorney is allowed an opportunity to oppose the request (or to concur, if appropriate), and the defendant is afforded an evidentiary hearing to prove his allegations (if the application and supporting documents allege a claim which would entitle the applicant to relief).
+
+The possible disadvantage to this procedure is that La.C.Cr.P. Art. 930.3 purports to limit the grounds for post conviction relief to serious statutory violations (such as failure to institute prosecution within the applicable time limit) and deprivations of constitutional rights.[5] Nevertheless, this court has granted relief in the form of reinstatement of the right to appeal when the defendant established by post conviction proceedings that he was deprived of his constitutional right to appeal by his attorney's failure to present his timely request for an appeal. State v. Simmons,
+390 So. 2d 504
+(La.1980). The Supreme Court of the United States in Evitts v. Lucey, ___ U.S. ___, 105 S. Ct. 830, 83 L. Ed. 2d 821 (1985), has also recognized that a defense attorney's fault in failing to perfect a timely appeal constitutes ineffective assistance of counsel which is a denial of defendant's constitutional right of due process.
+
+There is a constitutional right to appeal (or to other review on the record) in criminal cases in Louisiana when the defendant is to be subjected to imprisonment or fine.[6] La. Const. Art. I § 19 (1974);   State v. Simmons, above. While La.C. Cr.P. Art. 930.3 does not expressly provide for the specific form of relief to be granted when the defendant loses his constitutional right to appeal without fault on his part, the court arguably has the inherent authority to grant the limited relief of an out-of-time appeal (as opposed to the usual relief of a new trial in successful post conviction applications). Moreover, the spirit of Article 930.3(1), which entitles the applicant to relief when the conviction was obtained in violation of the constitution, also entitles the applicant to the more limited relief of reinstatement of his right to appeal when he was deprived of that right by a constitutional violation. We therefore conclude that the trial court may grant post conviction relief reinstating defendant's constitutional right to appeal after the time for appealing has elapsed, after due consideration of such factors as the length of the delay in defendant's attempt to exercise the right and the adverse effect upon the state caused by the delay, in cases such as those in which the defendant was not substantially notified at sentencing of his right to appeal or those in which the defense attorney was at fault in failing to file or perfect a timely appeal.
+
+Defendant's motion for out-of-time appeal in the trial court in this case should have been treated as an application for post conviction relief. We therefore remand the matter for such proceedings. Because defendant has made subsequent allegations which may affect his request for reinstatement of his right to appeal, he should be allowed to amend his application to include any additional relevant allegations.
+
+For these reasons, defendant's motion for an out-of-time appeal is remanded to the trial court to be considered as an application for post conviction relief, after defendant has been afforded an opportunity to amend the application.
+
+MARCUS, J., concurs.
+
+WATSON, J., concurs with a statement.
+
+WATSON, Justice, concurring.
+
+I concur, but suggest that there is no value in extensive proceedings in the trial court where there has been only a failure to appeal within the statutory delay; this court has routinely ordered out of time appeals in such cases.
+
+[1]  The application alleged that defendant had written a letter to the trial judge about four months after sentencing, stating his desire to appeal.
+
+[2]  There is a difference between the period of time in which the right to appeal must be exercised and the point in time at which the trial court is divested of jurisdiction. The jurisdiction of the trial court is divested upon the entering of an order of appeal. La.C.Cr.P. Art. 916. When no order of appeal has been entered, there is no divesting of jurisdiction. State v. Creel, 450 So. 2d 651 (La.1984).
+
+[3]  Perhaps the Legislature can alleviate the problem of delayed appeals by requiring notification to the defendant on the record at sentencing of the right to appeal and of the time limitation within which the right must be exercised.
+
+[4]  When the defendant has an appeal pending or may still appeal, the court cannot entertain an application for post conviction relief. La.C. Cr.P. Art. 924.1. However, when the time for appealing has elapsed without the filing of an appeal, defendant may seek reinstatement of his right to appeal by application for post conviction relief in the trial court.
+
+[5]  La.C.Cr.P. 930.3 provides:
+
+"If the petitioner is in custody after sentence for conviction for an offense, relief shall be granted only on the following grounds:
+
+"(1) The conviction was obtained in violation of the constitution of the United States or the state of Louisiana;
+
+"(2) The court exceeded its jurisdiction;
+
+"(3) The conviction or sentence subjected him to double jeopardy;
+
+"(4) The limitations on the institution of prosecution had expired;
+
+"(5) The statute creating the offense for which he was convicted and sentenced is unconstitutional; or
+
+"(6) The conviction or sentence constitute the ex post facto application of law in violation of the constitution of the United States or the state of Louisiana."
+
+[6]  This right was not changed by the constitutional amendment which transferred general jurisdiction over criminal appeals to the court of appeal. Although Article V, § 5(D), as amended, does not contain the "shall be appealable" language of former Article V, § 10, there is no other suggestion of any intent to make such a drastic change in the substantive law in criminal appeals.

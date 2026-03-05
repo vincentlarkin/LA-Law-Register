@@ -1,0 +1,147 @@
+57348
+State v. Smith
+https://law.justia.com/cases/louisiana/supreme-court/1976/336-so-2d-867-1.html
+
+57348
+State v. Smith
+Court: Louisiana Supreme Court
+Release date: 1976-06-21
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1976/336-so-2d-867-1.html
+
+336 So. 2d 867 (1976)
+
+STATE of Louisiana, Appellee,
+v.
+Prince SMITH, Appellant.
+
+No. 57348.
+
+Supreme Court of Louisiana.
+
+June 21, 1976.
+
+Rehearing Denied September 10, 1976.
+
+Charles J. Yeager, Alexandria, for defendant-appellant.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Edwin O. Ware, Dist. Atty., Edward E. Roberts, Jr., Asst. Dist. Atty., for plaintiff-appellee.
+
+TATE, Justice.
+
+The defendant Smith was convicted of simple burglary, La.R.S. 14:62, and sentenced as a multiple offender, La.R.S. 15:529.1, to eighteen years imprisonment at hard labor.
+
+The defendant's single assignment of error is taken as to the trial court's denial of his motion for a mistrial. The defendant argues that he was entitled to a mandatory mistrial based upon an alleged comment by the arresting officer and the prosecutor upon "* * * the failure of the defendant to testify in his own defense * * *", La.C.Cr.P. art. 770(3).
+
+The alleged comment was upon the defendant's election to remain silent and to refrain from giving a statement to the police officers immediately after his arrest. The comment did not concern the failure of the defendant to testify at the trial, which under Article 770 requires a mandatory mistrial when made by the prosecutor in the presence of the jury. State v. Hall,
+297 So. 2d 413
+(La.1974).
+
+In denying the defendant's motion for a mistrial, the trial judge correctly concluded that Article 770 (requiring a mandatory mistrial) was inapplicable. Article 770 applies only to statements referring to the defendant's failure to testify.
+
+The defendant argues that the questions and answers, which included a reference to the defendant's refusing to make a statement after his arrest, are prohibited by that article as a reference to his failure to testify. However, as used in Article 770, the word "testify" means to give testimony under oath at the trial.
+
+The article was designed to protect a defendant against a comment by a judge, district attorney, or court official upon the defendant's failure to take the stand at his trial. The right protected by Article 770's remedy of automatic mistrial is the right to refrain from giving sworn testimony at the trial. Cf.: State v. Reed, La.,
+284 So. 2d 574
+(1973); State v. Howard, 262 La. 270,
+263 So. 2d 32
+(1972); State v. Antoine, 189 La. 619, 180 So. 465 (1938).
+
+The article does not mandatorily require mistrial because of any reference whatsoever to a pre-trial claim of the privilege against self-incrimination, although (see II) such may constitute error necessitating mistrial or admonition.
+
+Nevertheless, it is error for the prosecutor to comment upon the defendant's exercise of his privilege against self-incrimination, or to elicit testimony thereasto.
+
+The defendant has a constitutional right to remain silent when under custodial arrest or interrogation (La.Constitution of 1974, Article 1, Section 13; United States Constitution, Fifth Amendment; Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966)), and no adverse inference may be drawn from an accused's exercise of his constitutional right to do so.
+
+In federal prosecutions, evidence of the accused's silence at the time of arrest constitutes reversible error due to its prejudicial impact and lack of probative value. U. S. v. Hale,
+422 U.S. 171
+, 95 S. Ct. 2133, 45 L. Ed. 2d 99 (1975). The Hale decision, it is true, enunciated an evidentiary rule and expressly did not reach the issue of constitutional principle of whether self-incrimination rights were violated by such evidence of comment.[1]
+
+For similar reasons, however, the same evidentiary rule should apply in Louisiana courts where evidence and prosecutorial comment is made as to an accused's pre-trial exercise against self-incrimination. We have long held that no adverse admission may be drawn from the defendant's silence when held in custody under a criminal charge. State v. Hayden, 243 La. 793,
+147 So. 2d 392
+(1962); 2 Marrs Criminal Jurisprudence of Louisiana, Section 551, p. 846 (1923).
+
+As we long ago held in State v. Diskin, 34 La.Ann. 919, 921 (1882), reversing a conviction for somewhat similar error: "Mere silence, while a party is held in   custody under a criminal charge, affords no inference whatever of acquiescene in statements of others made in his presence. He has the undoubted right to keep silence as to the crime with which he is charged, and is not called upon to reply to or contradict such statements."
+
+In the present instance, the testimony and alleged comment upon the defendant's exercise of his constitutional privilege occurred during the direct examination of the arresting officer by the prosecuting attorney. The arresting officer testified as to his interrogation of defendant Smith after he had been arrested and advised of his constitutional rights. In summarizing the immediately preceding testimony, the prosecutor's question included a reference to the officer's testimony that the accused "refused to give a statement."[2]
+
+The defendant immediately objected. The sole ground of his objection was that a mandatory mistrial was required under La.C.Cr.P. art. 770. As we have held, the trial court was correct in overruling the motion for mistrial on this ground.
+
+Nevertheless, as urged, the objection correctly noted that the effect of the testimony and question was nevertheless an improper comment upon the defendant's exercise of his privilege against self-incrimination. If the testimony and comment had the effect of depriving the defendant of a fair trial, he was therefore entitled to a mistrial under La.C.Cr.P. art. 771.[3] At the least, the defendant was entitled to an admonition and cautionary instructions to the jury to disregard the evidence and comment, if he requested it. La.C.Cr.P. art. 771.
+
+After the objection was overruled, no other evidence or comment of the prosecutor in the record refers to the defendant's pre-trial silence. The trial as a whole was fairly conducted, the proof of guilt is strong, and the State made no use for impeachment of the defendant's custodial silence.
+
+We are therefore unwilling to hold that a mistrial is required because of the incidental and almost inadvertent (although improper) reference to the accused's custodial   silence in two lines of a 101-page trial transcript, especially in the absence of any indication of the deliberate intent of the State to inject or exploit the issue (and also considering the uncertainty (until this opinion) of the Louisiana jurisprudence as to this precise issue).
+
+Although the issue is close, we thus for the reasons stated find no abuse of the trial court's discretion in its denial of a mistrial.
+
+For the reasons assigned, therefore, we affirm the conviction and sentence.
+
+AFFIRMED.
+
+SUMMERS, J., concurs.
+
+CALOGERO, J., dissents with reasons.
+
+DENNIS, J., dissents.
+
+CALOGERO, Justice (dissenting).
+
+During the presentation of the state's case-in-chief, both the arresting officer and the prosecutor commented upon Smith's election to remain silent after he was arrested. No doubt exists that defendant had the right, guaranteed by the fifth amendment, to refuse to make a statement to the police at that time. Miranda v. Arizona,
+384 U.S. 436
+, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1964). When a prosecutor brings before the jury the fact that an accused chose to exercise that right by remaining silent when questioned by police, the conviction must be reversed. United States v. Hale,
+422 U.S. 171
+, 95 S. Ct. 2133, 45 L. Ed. 2d 99 (1975); United States v. Bridges, 499 F.2d 179 (7th Cir. 1974); United States v. Kroslack, 426 F.2d 1129 (7th Cir. 1970); Baker v. United States, 357 F.2d 11 (5th Cir. 1966). As the court stated in United States v. Kroslack, supra:
+
+See also Malloy v. Hogan,
+378 U.S. 1
+, 84 S. Ct. 1489, 12 L. Ed. 2d 653 (1964).
+
+There can be no question that the prosecutor's use of Smith's pre-trial silence infringed upon his fifth amendment privilege and rendered his conviction constitutionally infirm.
+
+I respectfully dissent.
+
+PER CURIAM.
+
+In his motion for rehearing, defendant calls our attention to the decision of the United States Supreme Court in Doyle v. Wood, U.S., 96 S. Ct. 2240, 49 L. Ed. 2d 91, handed down on June 17, 1976. There, the Court held that the use for impeachment purposes of petitioners' silence, at the time of arrest and after receiving Miranda warnings, violated the Due Process Clause of the Fourteenth Amendment.
+
+We have reviewed the decision, and it does not alter our view that, under the circumstances of this case, no mistrial was required. In our opinion, the error was harmless beyond a reasonable doubt.
+
+The motion for rehearing is denied.
+
+CALOGERO, J., would grant a rehearing in this case.
+
+DIXON, J., dissents from this per curiam. The record in this case is convincing beyond a doubt that the error complained of, now held by the U. S. Supreme Court to be of constitutional proportions, was damaging to the defense.
+
+DENNIS, J., dissents. The references to defendant's choice to remain silent during police interrogation violated his rights under both the federal and state constitution.
+
+[1]  However, lower federal courts have concluded that the mistrial should be based, not upon an evidentiary rule, but instead upon the violation of the accused's Fifth Amendment right against self-incrimination. U.S. v. Bridges, 499 F.2d 179 (C.A.7, 1974); Kroslack v. U. S., 426 F.2d 1129 (C.A.7, 1970); Baker v. U.S., 357 F.2d 11 (C.A.5, 1966).
+
+[2]  See Tr. 65 of trial record:
+
+"Q. Now, what did you do when you got back to Alexandria with Mr. Smith?
+
+"A. Well, we attempted totalk to Mr. Smith. We advised him of his rights, we signed himgot his rights waivers and all this stuff. We attempted to talk to him forI would say probably (10) minutes. We didn't get anywhere, so we booked him into City Jail.
+
+"Q. In other words, you were trying to interview him after you read him his rights and he refused to give a statement, is that (Interrupted)
+
+"A. That's correct.
+
+"Q. The gist of it, sir____Now you then did what?
+
+"A. Uhwelike I say, we booked him into the City Jail. Again, he was advised of his rights and then hean attempt to make his phone call.
+
+"By Mr. Yeager [defense attorney]: Objection, Your Honor. May the jury be removed?" (Italics ours.)
+
+[3]  La.C.Cr.P. art. 771 provides:
+
+"In the following cases, upon the request of the defendant or the state, the court shall promptly admonish the jury to disregard a remark or comment made during the trial, or in argument within the hearing of the jury, when the remark is irrelevant or immaterial and of such nature that it might create prejudice against the defendant, or the state, in the mind of the jury:
+
+"(1) When the remark or comment is made by the judge, the district attorney, or a court official, and the remark is not within the scope of Article 770; or
+
+"(2) When the remark or comment is made by a witness or person other than the judge, district attorney, or a court official, regardless of whether the remark or comment is within the scope of Article 770.
+
+"In such cases, on motion of the defendant, the court may grant a mistrial if it is satisfied that an admonition is not sufficient to assure the defendant a fair trial."

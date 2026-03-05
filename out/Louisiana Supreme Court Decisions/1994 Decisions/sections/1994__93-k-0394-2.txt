@@ -1,0 +1,72 @@
+93-K-0394
+State v. Johnson
+https://law.justia.com/cases/louisiana/supreme-court/1994/93-k-0394-2.html
+
+93-K-0394
+State v. Johnson
+Court: Louisiana Supreme Court
+Release date: 1994-06-03
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1994/93-k-0394-2.html
+
+637 So. 2d 1033 (1994)
+
+STATE of Louisiana
+v.
+Lyndon JOHNSON.
+
+No. 93-K-0394.
+
+Supreme Court of Louisiana.
+
+June 3, 1994.
+
+*1034 Richard P. Ieyoub, Atty. Gen., New Orleans, John M. Mamoulides, Dist. Atty., Dorothy A. Pendergast, Gaynell Williams, Terry M. Boudreaux, Gretna, for applicant.
+
+Bruce G. Whittaker, New Orleans, for respondent.
+
+PER CURIAM:
+
+Charged by bill of information with possession of cocaine with the intent to distribute in violation of La.R.S. 40:967 A, the defendant was found guilty after a jury trial of simple possession of cocaine and thereafter sentenced by the trial court to five years at hard labor. On appeal, the Fifth Circuit affirmed the defendant's conviction and sentence in an unpublished opinion. Among other arguments, the court of appeal rejected the defendant's claim that the trial judge's general charge permitted the jury to convict the defendant for a crime not charged in the bill of information by informing jurors that they could return a verdict of guilty as charged if they found that the defendant had also violated La.R.S. 40:967(A)(2), possession of a counterfeit controlled dangerous substance with the intent to distribute. We granted certiorari to review the correctness of that ruling by the court of appeal and reverse. The trial court's charge to the jury not only allowed it to convict the defendant for a new crime not charged in the original bill of information but it also invited jurors to convict the defendant under an improper definition of that offense.
+
+The bill of information filed by the state charged the defendant with a violation of La.R.S. 40:967 A "in that he did knowingly and intentionally possess with intent to distribute a controlled dangerous substance, to wit: cocaine." The charge stemmed from the retrieval of sixteen rock-like objects by Jefferson Parish Sheriff's officer James Wright on the night of October 16, 1990, in front of the defendant's home in Westwego, Louisiana. According to Wright's testimony at trial, he observed the defendant drop three of the rocks to the street as he walked away from two other individuals and in between two cars, apparently after he spotted the police cruiser in the neighborhood. Wright picked up the three rocks and noticed a small plastic fuse box under one of the vehicles. The box contained thirteen other rocks. Wright put all of the rocks together in the plastic box and sent them to the crime lab for identification. Three of the rocks contained cocaine; thirteen rocks tested negative for any controlled substance. Although he had placed all of the evidence together on the scene, Wright claimed at trial that he could identify the three rocks of cocaine by their slightly darker, tannish color. That testimony, together with evidence from a state expert witness that crack dealers often maintain a stash of bunk cocaine to sell to unwary or intimidated purchasers, became the linchpin of the state's case against the defendant.
+
+In his closing argument, counsel argued that Officer Wright could not in fact distinguish the three rocks of cocaine from the thirteen rocks of "bunk" and that jurors therefore had no basis for concluding beyond a reasonable doubt that the defendant had possessed cocaine on the date alleged in the bill of information. In rebuttal, the state argued that even if the jurors "accept[ed] [defense counsel's] argument that what he threw down was bunk and that the real stuff was somewhere mixed in the other box, if you accept his argument that the three rocks were bunk, he's still guilty of possession with intent to distribute cocaine. The Judge will read the law to you."
+
+At the close of the case, the trial court instructed jurors that to return a verdict of guilty as charged, they had to find that the defendant "knowingly and intentionally possessed a substance which was cocaine or a counterfeit controlled dangerous substance classified in Schedule II...." The trial court gave a similar instruction as to the responsive verdict of attempted possession of cocaine with the intent to distribute. For the lesser verdict of simple possession of cocaine, the court charged jurors that "you must find that the Defendant knowingly or intentionally possessed cocaine, a controlled dangerous substance." The jury returned the lesser verdict of simple possession.
+
+La. Const.1974, Art. I, § 13 provides that "[i]n a criminal prosecution, an accused shall be informed of the nature and   cause of the accusation against him." This requirement protects the accused's right to prepare a defense and exercise fully his rights of confrontation and cross-examination. State v. Germain,
+433 So. 2d 110
+(La. 1983). The bill of information must therefore inform the defendant of the nature and cause of the accusation against him in sufficient detail to allow him to prepare for trial, as well as to allow the court to determine the admissibility of the evidence. State v. Marcal,
+388 So. 2d 656
+(La.1980); State v. Meunier,
+354 So. 2d 535
+(La.1978). Accordingly, the state may not substantively amend a bill of information to charge a new offense once trial has begun. La.C.Cr.P. art. 487; Cf., State v. Roberts,
+319 So. 2d 317
+, 320 (La. 1975), rev'd on other grounds,
+428 U.S. 325
+, 96 S. Ct. 3001, 49 L. Ed. 2d 974 (1976), on remand,
+340 So. 2d 263
+; State v. Bluain,
+315 So. 2d 749
+(La.1975),
+
+At a bench conference conducted just after the state's opening remarks to the jury, defense counsel protested that the defendant was "being tried for possession with intent to distribute cocaine, not bunk. And if the State wants to prosecute him for that, they better prosecute him under the proper statute." As a general rule, "a prosecutor's misstatements of the law during voir dire examination, or in his opening and closing remarks, do not require reversal of a defendant's conviction if the court properly charges the jury at the close of the case." State v. Cavazos,
+610 So. 2d 127
+, 128 (La.1992). In this case, however, the trial judge charged jurors in accord with his belief that R.S. 40:967 A "also encompasses the bunk." The state did not formally amended the bill of information but the trial court's charge broadened the possible basis of conviction beyond that originally charged by adding a new and separate crime for the jury to consider without adequate notice to the defense and over its objection.
+
+The jury's return of the lesser verdict of simple possession of cocaine did not cure the error. The separate offense defined by La.R.S. 40:967 A(2) is not a general "bunk" statute. As defined by R.S. 40:961(8), "counterfeit substance" means a drug, substance or immediate precursor listed in Schedule I through V of La.R.S. 40:964, which, without authorization, bears the identifying mark of one manufacturer or distributor when it has been produced by another manufacturer, and which "thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser."
+
+According to the state's forensic chemist called at trial to identify the three cocaine rocks, the thirteen other rocks in the fuse box contained caffeine, aspirin, and a byproduct of Tylenol, all non-controlled substances and none of them misbranded or mislabelled. The trial court's instructions thereby invited jurors to convict the defendant of conduct which was not criminal under the charged statute. See State v. Brooks, 633 So. 2d 659 (La.App.1st Cir.1993) (distribution of an uncontrolled substance falsely represented to be cocaine did not constitute distribution of a counterfeit controlled substance for purposes of La.R.S. 40:967 A(2)).
+
+This Court has held that "[a] substantial probability that jurors may have convicted the defendant under an incorrect definition of the crime justifies setting aside a conviction on due process grounds even in the absence of a contemporaneous objection." State v. Cavazos, 610 So. 2d  at 128 [citing State v. Williamson,
+389 So. 2d 1328
+(La.1980)]. In this case, the return of a lesser verdict of possession of cocaine may have meant that jurors found beyond reasonable doubt that Officer Wright could distinguish between the three rocks of cocaine and the thirteen other rocks in the fuse box. The trial court and the prosecutor had, however, told jurors that cocaine and a "counterfeit controlled substance" were interchangeable terms for purposes of the charged offense and its first responsive verdict. Jurors were therefore instructed that they could return a verdict of "Guilty of possession of cocaine with intent to distribute" or "Guilty of attempted possession of cocaine with intent to distribute" even if they found that the defendant had possessed only the "counterfeit" rocks of cocaine. The trial court properly instructed jurors with regard to the third responsive verdict of simple possession of cocaine, but on this record we cannot say with any assurance that jurors did not apply their understanding   of the first two responsive verdicts to all of the verdicts before them. We therefore cannot discount the possibility that jurors may have returned their verdict not because they found beyond reasonable doubt that the defendant had possessed three rocks of cocaine but because in the end it mattered only that he possessed three rocks and that they may as well have been the "counterfeit" ones.
+
+Accordingly, the defendant's conviction and sentence are reversed and this case is remanded to the district court for all proceedings not inconsistent with this opinion.
+
+CONVICTION AND SENTENCE REVERSED; CASE REMANDED.
+
+MELVIN A. SHORTESS, J., First Circuit Court of Appeal, sitting for DENNIS, J.
+
+LEMMON, J., not on panel.

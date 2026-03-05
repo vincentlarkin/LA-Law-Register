@@ -1,0 +1,334 @@
+86-C-0132
+La. Power & Light Co. v. United Gas Pipe Line Co.
+https://law.justia.com/cases/louisiana/supreme-court/1986/86-c-0132-1.html
+
+86-C-0132
+La. Power & Light Co. v. United Gas Pipe Line Co.
+Court: Louisiana Supreme Court
+Release date: 1986-09-08
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1986/86-c-0132-1.html
+
+493 So. 2d 1149 (1986)
+
+LOUISIANA POWER AND LIGHT COMPANY
+v.
+UNITED GAS PIPE LINE COMPANY and
+Pennzoil Company.
+
+No. 86-C-0132.
+
+Supreme Court of Louisiana.
+
+September 8, 1986.
+
+On Application for Rehearing November 6, 1986.
+
+*1150 Andrew P. Carter, Kenneth P. Carter, Terrence G. O'Brian, Monroe & Lemann, W.T. Tete, Mars, Medo & Tete, for applicant.
+
+C. Murphy Moss, Jr., James Petersen, Lemle, Kelleher, et al., David J. Hill, Scott P. Klurfeld, Timothy S. Buehrer, Pierson, Semmes & Finley, Gene Lafitte, Frederick Bradley, Liskow & Lewis, Stephen M. Hackerman, B. Baryl Bristow, Baker & Botts, Michael R. Fontham, Wayne J. Lee, Stephen G. Bullock, Stone, Pigman, et al., Marshall B. Brinkley, for respondent.
+
+CALOGERO, Justice.
+
+Louisiana Power and Light Company asserts that United Gas Pipe Line Company and Pennzoil Company violated the antitrust laws of Louisiana during the period 1965 to 1974, a time when Pennzoil owned an interest in United Gas Pipe Line Company (hereinafter sometimes referred to as UGPL).[1] Specifically, LP & L alleges that Pennzoil and United engaged in a course of conduct which amounted to a combination or conspiracy in restraint of trade in violation of La.Rev.Stat.Ann. § 51:122, and that such conduct also constituted monopolization, or an attempt or conspiracy to monopolize, in violation of La.Rev.Stat.Ann. § 51:123. As discussed hereinafter, the Court of Appeal concluded that a conspiracy between these subsidiary and parent corporations (UGPL and Pennzoil, respectively) was legally impossible, and thus found no violation of La.Rev.Stat.Ann. § 51:122. The Court of Appeal also considered and rejected claims of a violation of   § 51:123's monopoly prohibition. Our writ grant was prompted chiefly by relator's contention that the Court of Appeal erred in finding that § 51:122 does not prohibit a conspiracy in restraint of trade between parent and subsidiary corporations. Relative to this case, however, we address both sections of Title 51, Section 122's prohibition of conspiracy in restraint of trade and Section 123's monopoly prohibition.
+
+Until the mid-1960's, UGPL was a wholly owned subsidiary of United Gas Corporation, a publicly traded enterprise engaged in mineral and energy-related pursuits. UGPL, formed in 1937, was the corporate branch which transported and sold gas in the Gulf South area, including that used at LP & L's generating stations in both north Louisiana (Sterlington) and south Louisiana (Ninemile Point). In late 1965, Pennzoil Company, which engaged in oil and gas exploration and production, as well as processing, refining and marketing, made a tender offer for the stock of United Gas Corporation. Despite the recommendation of United Gas Corporation's management that shares not be tendered, Pennzoil acquired 42% of the common stock of United Gas Corporation in December 1965. Then, in April 1968, Pennzoil and United Gas Corporation merged to form Pennzoil-United, Inc. Thus, Pennzoil, as the 42% owner of United Gas Corporation, was by virtue of that stock ownership the corporate "parent" of United Gas Corporation's wholly owned subsidiary UGPL as of December, 1965, and Pennzoil wholly owned the subsidiary after the April 1968 merger with United Gas Corporation (Pennzoil-United, later changed simply to Pennzoil), until March 14, 1974, when it "spun-off" United Gas Pipe Line by distributing as a dividend to Pennzoil shareholders the shares in United Gas Pipe Line.
+
+Without elaboration, the trial judge concluded that LP & L failed to prove the elements necessary to support an antitrust action under Louisiana law. The Court of Appeal, relying on the recent United States Supreme Court decision of Copperweld Corp. v. Independence Tube Corp.,
+467 U.S. 752
+, 104 S. Ct. 2731, 81 L. Ed. 2d 628 (1984), with regard to the conspiracy in restraint of trade claim, agreed. La. Power & Light Co. v. United Gas Pipe Line Co. and Pennzoil Co., 478 So. 2d 1240 (La. App. 4th Cir.1985). The Copperweld majority held that a parent corporation and its wholly owned subsidiary are not legally capable of conspiring with each other under § 1 of the Sherman Act, a provision almost identical to our own La.Rev.Stat. Ann. § 51:122. The Court of Appeal here expanded that holding to conclude that the Copperweld reasoning was also applicable to a partially owned subsidiary. Upon reviewing the record and finding the element of control, the significant factor regarding whether a parent and a wholly owned subsidiary constitute a "single entity," the Court of Appeal found that Pennzoil and its subsidiary, UGPL, lacked conspiratorial capacity. Although pointing out that LP & L's allegations were based on conspiracy, the court nevertheless addressed "the [additional] issue of whether the Pennzoil-United enterprise, viewed as a single economic unit, either monopolized or attempted to monopolize trade" under § 51:123. In this latter respect the court concluded that monopoly, or attempted monopoly, had not been proven.
+
+In reviewing the decision of the Court of Appeal, it is therefore incumbent upon us first to consider the conspiratorial capacity of both the wholly owned and partially owned subsidiary with a parent company; and whether the latter difference, wholly owned versus partially owned, distinguishes this case, in part, from Copperweld; and independently of the foregoing whether this Court will embrace the Copperweld reasoning and apply it in interpreting Louisiana's antitrust statute.
+
+History of Antitrust Legislation
+
+This country's system of laws against combinations and restraints of trade in commerce and industry, and its history of enforcement, is considered unique in terms of thoroughness. Nonetheless, its precedents date back to medieval times in English   history.[2] Here in this country, state (or colonial) prohibitions against monopolies began as early as 1641 in the Massachusetts Bay Colony, and, in the nineteenth century, American courts enforced the common law rule against trade conspiracies. However, it was after the Civil War that the course of American industrialization created significant public opposition to monopolies. During this period, larger business units were formed, affecting virtually every aspect of American life. A system of railroads and telephone and telegraph networks crossed the nation. In 1879, Standard Oil Company of Ohio adopted the legal trust form, whereby shareholders surrendered their shares and voting power to managing trustees in return for dividend paying trust certificates. Subsequently, sugar, whiskey and other combinations imitated this business form, and the name "trusts" was applied to all of the giant business forms. Even after the trust device as such was abandoned as a means of operating large corporations, the name stuck.[3] Organizations like the National Grange and the National Farmers' Alliance demanded some governmental control of the monopolies in general, with particular emphasis on the railroads. In fact, by 1888, both major political parties had anti-monopoly planks in their presidential platforms, and the 1890 enactment of the Sherman Antitrust Act was aimed primarily at meeting the public demand for action against trusts.[4]
+
+Although "allocative efficiency" has been viewed by one school of economic thought as the sole concern of Congress in enacting the Sherman Act, the courts have traditionally taken a much broader view of the underlying objectives.[5] Thus, the United States Supreme Court has endorsed the view that
+
+and has suggested that these considerations inspired the Act.[6] Therefore, it is argued persuasively that antitrust legislation is founded on basic American conservatism, which seeks ways to divide, limit,   and diffuse power, whether it be governmental or not.[7]
+
+Louisiana Antitrust Legislation
+
+At precisely the same time, furthermore, the Louisiana Legislature acted to prohibit trusts and conspiracies which restrain trade or commerce, and to prohibit monopolies.[8] In 1892, the Legislature passed another antitrust statute. This one specifically enumerated prohibited trade practices,[9] and excluded agricultural products and organizations of laborers from its provisions. 1892 La. Acts No. 90. 1890 La. Acts No. 86 was superceded by the provisions of 1915 La. Acts No. 11, which likewise purported to protect trade and commerce against unlawful restraints, but which made the crime a relative felony as opposed to a misdemeanor. State v. McClellan, 155 La. 37, 98 So. 748 (1924). Section 8 of the 1892 enactment, excluding agricultural products and labor organizations from the provisions of the Act, was retained in the statutes as § 51:142, since no similar provision appeared in the 1915 statute,[10] according to the Reporter's Notes which precede the present statutory provisions entitled Monopolies, La.Rev.Stat.Ann. § 51:121 et seq.
+
+1915 La. Acts No. 11 was re-arranged and incorporated into Part IV, Monopolies, of Title 51, Trade and Commerce, of the Louisiana Revised Statutes of 1950. These provisions of the Revised Statutes today form the basis of this state's antitrust laws.[11] The prohibitions against combinations in restraint of trade and monopolies in trade and commerce are treated respectively in La.Rev.Stat.Ann. § 51:122 and 123. These sections provide:
+
+§§ 51:122 and 123 are virtually identical, in relevant part, to the analogous provisions of federal antitrust statutes, sections 1 and 2 of 15 U.S.C., which provide as follows:
+
+As is noted by the Reporter referred to in the preceding paragraph, "our state statutes have been fashioned [on federal antitrust legislation.]"
+
+Statutory Interpretation of § 51:122
+
+An appropriate statutory analysis should begin with an examination of the language of the statute under consideration. According to La.Rev.Stat.Ann. § 1:3, "[w]ords and phrases shall be read with their context and shall be construed according to the common and approved usage of the language." In the case of La.Rev.Stat. Ann. § 51:122, two things are apparent. First, the statute was intended to be sweeping in its breadth. "Every contract, combination... or conspiracy," which restrains trade or commerce, is included in the prohibition.[12] And, the prohibited combinations   can be "in the form of trust[13] or otherwise."
+
+Second, the plain language of § 122 requires a plurality of actors. A "contract," a "combination," and a "conspiracy" each suggests the participation of more than one person or entity. And, at least since 1919, the United States Supreme Court has contrued § 1 of the Sherman Act to require multiple actors. United States v. Colgate & Co.,
+250 U.S. 300
+, 39 S. Ct. 465, 63 L. Ed. 992 (1919). Since it is well-settled that each corporation is a distinct and separate legal entity, a conspiracy or combination between two corporations is certainly within the purview of § 51:122's prohibition. The separate corporate forms of a subsidiary and a parent should surely provide the necessary plurality of actors unless some compelling policy consideration were to persuade us to disregard the plain language of § 51:122 and the broad scope of the prohibition enacted (and no doubt intended) by the Legislature.
+
+"Intra-Enterprise Conspiracy" Doctrine in the Federal Jurisprudence
+
+In 1947, the United States Supreme Court considered whether members of a "vertically integrated enterprise" might comprise the plurality of actors necessary for a violation of § 1 of the Sherman Antitrust Act, upon which La.Rev.Stat.Ann. § 51:122 is patterned. United States v. Yellow Cab,
+332 U.S. 218
+, 67 S. Ct. 1560, 91 L. Ed. 2010 (1947). That enterprise consisted of "the more important cab operating companies in Chicago, New York and other cities," which the government alleged combined and conspired to monopolize the sale of taxicab type motor vehicles to the principal cab companies in Chicago, Pittsburgh, New York City, and Minneapolis and to furnish cab services for hire in the Chicago area. The Court concluded that
+
+It was additionally noted that:
+
+With this language, the United States Supreme Court in 1946, in United States v. Yellow Cab, introduced what has become known as the intra-enterprise conspiracy doctrine, whereby the fact of affiliation between parent and subsidiary corporations will not immunize defendants from Section 1 Sherman antitrust liability if a restraint of trade has occurred.[14]
+
+Although a parent and subsidiary are capable of conspiring and violating § 1 of the Sherman Act under the intra-enterprise conspiracy doctrine, most courts have subjected such alleged conspiracies to a "rule of reason" before permitting a finding of liability.[15] Thus, only those restraints which were unreasonable were found to violate the Sherman Act, and that determination was influenced by the purpose and effect of the challenged restraint, i.e., what was the intent and impact on competitive   conditions.[16] Although courts confronted with the application of the doctrine devised a variety of tests to evaluate conduct allegedly in violation of § 1 (which often produced inconsistent results[17]), they were consistent in providing a case by case analysis of the multitude of economic, political, and social factors which governed whether a particular action effected an unreasonable restraint of trade.
+
+The decision in United States v. Yellow Cab was followed in later Supreme Court cases: Kiefer-Stewart Co. v. Joseph E. Seagram & Sons, Inc.,
+340 U.S. 211
+, 71 S. Ct. 259, 95 L. Ed. 219 (1951); Timken Roller Bearing Co. v. United States,
+341 U.S. 593
+, 71 S. Ct. 971, 95 L. Ed. 1199 (1951); and Perma Life Mufflers, Inc. v. International Parts Corp.,
+392 U.S. 134
+, 88 S. Ct. 1981, 20 L. Ed. 2d 982 (1968). The doctrine it engendered, that a parent and subsidiary are capable of conspiring in violation of the Sherman Act, however, was criticized as a source of complication and confusion, the basis of unsuccessful suits that would not otherwise occur, and an unjustified condemnation of some unilateral behavior. Areeda, Intraenterprise Conspiracy in Decline, 97 Harv.L.Rev. 451 (1983). According to the majority opinion in Copperweld,
+
+On the other hand, it is suggested by proponents that the doctrine is necessary to address a gap in antitrust enforcement. "[S]ignificant anticompetitive behavior ... otherwise would fall into the interstices of the Sherman, Clayton, and Federal Trade Commission Acts."[18] Even the Copperweld majority concedes that a single firm's anticompetitive conduct "may be indistinguishable in economic effect from the conduct of two firms subject to § 1 liability." 104 S. Ct.  at 2744. Although opponents of the intra-enterprise conspiracy doctrine contend that "[a]ny putative legal gap is... a consequence of legal design,"[19] that proposition lacks force when we consider the longstanding congressional inaction in response to the courts' interpretation of the legislation. In the four decades since United States v. Yellow Cab, Congress has not acted to change the jurisprudential rule that a "restraint [of trade] may result as readily from a conspiracy among those who are affiliated ... as from a conspiracy among those who are otherwise independent."
+
+In 1984, the United States Supreme Court, however, decided to repudiate the intra-enterprise conspiracy doctrine to which it had previously "acquiesce[d]," with regard to "the coordinated activity of a parent and its wholly owned subsidiary." Copperweld Corp. v. Independence Tube Corp.,
+467 U.S. 752
+, 104 S. Ct. 2731, 81 L. Ed. 2d 628 (1984). The majority emphasized the requirement of concerted action   for a violation of § 1, as opposed to § 2 of the Sherman Act, and expressed the belief that the distinction and the stricter treatment imposed by the Sherman Act on concerted activity was justified, noting that concerted behavior "is fraught with anticompetitive risk." In this regard, the Court pointed out that the anticompetitive potential of suddenly increasing the economic power moving in one particular direction was sufficient to warrant scrutiny even in the absence of incipient monopoly.
+
+However, where there is either an internal agreement among officers or employees of the same company, or the internally coordinated conduct of a corporation and one of its unincorporated divisions, the Court restated the prevailing jurisprudence and general agreement that a § 1 violation does not occur. Such activity does not "represent a sudden joining of two independent sources of economic power previously pursuing separate interests."
+
+The Court reasoned that the coordinated activity of a parent and its wholly owned subsidiary corporation should be viewed in a similar fashion, for purposes of § 1 consideration, as conduct of a single enterprise. The majority noted that "[a] parent and its wholly owned subsidiary have a complete unity of interest. Their objectives are common, not disparate; their general corporate actions are guided or determined not by two separate corporate consciousnesses, but one." 104 S. Ct.  at 2742. Furthermore, even where the parent fails to keep a tight rein over the subsidiary, the Court was impressed by the potential exercise of full control.
+
+Thus, the Copperweld majority concluded that Congress determined (presumably in 1890 when the Sherman Antitrust Act was passed) to exclude unilateral conduct from § 1 scrutiny, and that the coordinated behavior of a parent and its wholly owned subsidiary corporation is just such unilateral conduct and thus beyond the reach of that provision.[20] Instead, the Court suggested that, in addition to § 1 Sherman Act scrutiny of a parent corporation's initial acquisition of control of a subsidiary, any anticompetitive activities which merit antitrust remedies can be monitored adequately by § 2 of the Sherman Act (which prohibits monopolization of any part of the trade or commerce among the several states), § 7 of the Clayton Act (which makes illegal the acquisition of competing companies when the effect is to substantially lessen competition), and § 5 of the Federal Trade Commission Act (which declares illegal, unfair methods of competition and unfair or deceptive practices in commerce).[21] The Court said, "[t]hat these statutes are adequate to control dangerous anticompetitive conduct is suggested by the fact that not a single holding of antitrust liability by this Court would today be different in the absence of the intra-enterprise conspiracy doctrine."[22]
+
+*1158 "Intra-Enterprise Conspiracy" Doctrine and Louisiana Jurisprudence
+
+Because La.Rev.Stat.Ann. § 51:122 is a counterpart to § 1 of the Sherman Antitrust Act, the United States Supreme Court's interpretation of the Sherman Act should be a persuasive influence on the interpretation of our own state enactment. However, the federal analysis is not controlling. Parish National Bank v. Lane,
+397 So. 2d 1282
+, 1285 (La.1981) (citing Madison v. Travelers Insurance Co.,
+308 So. 2d 784
+(La.1975); Kay v. Carter, 243 La. 1095,
+150 So. 2d 27
+(1963)). That proposition is especially appropriate in this case where the relevant ruling of the federal high court is a departure from their own well-established rule, and from a prevailing decision of this Court.
+
+In 1931, sixteen years before the announcement of the intra-enterprise conspiracy doctrine by the United States Supreme Court, the Louisiana Supreme Court ruled that a cause of action had been asserted under § 1 of 1915 La. Acts No. 11 (La.Rev. Stat.Ann. § 51:122) when the plaintiff alleged in its petition that the defendant corporation, its officers and directors, and other concerns under the same management had attempted to restrain, and monopolize, the manufacture and sale of ice in the town of Bastrop. Tooke & Reynolds v. Bastrop Ice & Storage Co., Inc., 172 La. 781, 135 So. 239 (1931). In that case, the petition alleged that corporate officers managed and controlled Bastrop Ice & Storage Co., Inc., as well as five other ice plants in northeast Louisiana, all of which were owned by essentially the same stockholders. According to the opinion, these ice plants were "subsidiaries of the Louisiana Ice & Coal Company, the parent corporation, which control[ed] them." The petition alleged that Bastrop Ice & Storage Co., Inc. conspired to restrain and to monopolize trade by reducing the price of ice in the face of competition to a level where its manufacture and sale at the same price would be destructive to any new enterprise, and that a large sum ($250,000) had been set aside by the "ice trust" to fight any ice plants that opened in this territory.
+
+Although the named defendants were only Bastrop Ice & Storage Co., Inc. and two managing directors of Bastrop Ice, the alleged conspiracy involved the "other concerns under the same management." In finding that a cause of action had been asserted under the predecessor statute to § 51:122, the Court specifically "read and construed [the petition] as a whole." The Court first recited how the petition alleged that the parent company Louisiana Ice & Coal Company of Monroe conspired in restraint of trade with its subsidiary corporation Bastrop Ice and Storage Co. and other subsidiary corporations which operated ice plants in four towns in Northeast Louisiana, then added that Bastrop Ice also formed an illegal combination with its individual members, shareholders and managers.[23] Thus, this Court in 1931 found that a parent corporation has conspiratorial capacity with a subsidiary which it controls.   That holding of this Court has not been overturned in the ensuing fifty-five years.
+
+The Court in Tooke & Reynolds v. Bastrop Ice Co., Inc. did not, of course, conclude that Bastrop Ice Co. had conspired with its parent company, Louisiana Ice & Coal Company. It held only that conspiracy between affiliated corporations as alleged in the petition charged a violation of Louisiana's antitrust statute, and it allowed the plaintiff an opportunity to prove at trial that the alleged combinations had occurred, and had stifled competition or discouraged enterprise and industry.
+
+Under this rule, that parent corporations have conspiratorial capacity with subsidiaries, the remaining determination of the existence of an unreasonable restraint of trade may well lead to varying results, as is apparent from the federal jurisprudence.[24] However, this Court does not choose to substitute for a case by case approach which may produce varying results, an inflexible approach which adopts a per se rule of nonliability for parent and subsidiary corporations.[25] Such a choice would run counter to the Legislature's intent in enacting the antitrust legislation and divest our courts of the authority which reposes in them by virtue of this legislation.
+
+As the Court in Yellow Cab first pointed out, and as the Copperweld majority recently re-affirmed, anticompetitive conduct which is "indistinguishable in economic effect" may arise from the conduct of a single firm, of affiliated firms, or of two independent firms acting in concert. But because § 1 of the Sherman Antitrust Act and La.Rev.Stat.Ann. § 51:122 condemn combinations or conspiracies in restraint of trade only if by two parties (the latter requirement of multiple actors implied from the language of the statute), it may be appropriate to preclude § 1 prosecution for conspiratorial conduct between divisions or among officers of a single corporation. It is not appropriate, in our view, to extend that preclusion to two or more separate corporations, a parent corporation and either a partially owned subsidiary or a wholly owned subsidiary. (Note that between 1965 and 1968 Pennzoil, owning 42% of United Gas Company, effectively only partially owned United Gas Company's wholly owned subsidiary and Pennzoil's codefendant in this case, United Gas Pipe Line Company.)
+
+With respect to the partially owned subsidiary, in fact, not even Copperweld commands a contrary result. The United States Supreme Court majority at 104 S. Ct. 2740, specifically recited that they did not "consider [in that opinion] under what circumstances, if any, a parent may be liable for conspiring with an affiliated corporation it does not completely own." And, even giving credence to the rationale underlying Copperweld, their reasoning is not necessarily applicable in the partially owned situation. A parent and its partially owned subsidiary need not be a single economic entity. The parent may not have   control,[26] and a parent and its partially owned subsidiary may not have a complete unity of interest.[27]
+
+Even with regard to combinations between a corporate parent and its wholly owned subsidiary, furthermore, reasons exist for treating a separate corporate entity for what it is, a separate "person" capable of conspiring with another corporation, irrespective of whether the two corporations might be perceived as constituting a single "economic entity." There are goals served by antitrust legislation other than best allocation of resources, low prices and high quality, which are not necessarily furthered by the efficient corporate operations that we recognize may sometimes follow "conspiratorial" or coordinated conduct between affiliated corporations. These goals are more political in nature and were addressed in Northern Pacific Railway Co. v. U.S. 356 U.S. at page 4, 78 S.Ct. at page 517. The Court there stated that "free and unfettered competition as a rule of trade" should both secure the advantages of an efficient operation and "provid[e] an environment conducive to the preservation of our democratic political and social institutions." Id.
+
+We believe that achievement of both goals is best served by a flexible approach which permits antitrust scrutiny of affiliated corporations as well as of independent firms acting in concert. Our conclusion is in accord with Louisiana jurisprudence which dates to 1931, and with the longstanding Federal jurisprudence prior to the 1984 decision in Copperweld. And in all events, independent of the philosophical, economic, or political considerations which support or oppose the application of La. Rev.Stat.Ann. § 51:122 to combinations between parent and subsidiary corporations, the unqualified statutory language ("Every contract, combination in the form of trust or otherwise or conspiracy, in restraint of trade or commerce in this state is illegal") in our view, commands such an application.
+
+For the foregoing reasons, we conclude that La.Rev.Stat.Ann. § 51:122, Louisiana's prohibition against contracts, combinations and conspiracies in restraint of trade, does not except from its provisions unreasonable restraints of trade committed by a parent corporation and its partially or wholly owned subsidiary corporation. In so holding, we affirm this Court's earlier decision in Tooke & Reynolds v. Bastrop Ice & Storage Co., Inc., and so interpret § 51:122, unpersuaded by the United States Supreme Court's recent interpretation of its counterpart antitrust statute in Copperweld.
+
+Concerning the second issue, whether defendants violated La.Rev.Stat.Ann. § 51:123 by monopolizing trade or commerce, the trial judge concluded that LP & L failed to prove its case. The Court of Appeal affirmed the decision of the trial court after examining the evidence for proof of monopolization.
+
+Generally, the facts relevant to the monopolization claim in this case, and relied upon by LP & L are as follows.
+
+In 1952, United Gas Pipe Line Company (UGPL), then unaffiliated with Pennzoil Company, contracted with LP & L to provide   natural gas for all of LP & L's fuel requirements[28] at its Ninemile Point Steam Electric Generating Station, which was then under construction, as well as for any additions or enlargements to that station. The contract was to extend through 1975, but, in 1968,[29] the parties renegotiated the terms in view of the planned construction of additional generating facilities at Ninemile Point. At that time, UGPL agreed in a Gas Sales Agreement to provide 331/3% of LP & L's total fuel requirements at Ninemile Point, not to exceed 80,000,000 cubic feet of gas in one day, after the additional unit was to be placed into conventional commercial operation. Although the volume of UGPL's maximum contracted for gas sales was apparently slightly lower than provided in the 1952 agreement, which had not yet expired, the pipeline company did receive an extension until 1992 of a sales agreement involving still significant amounts of natural gas. Texaco contracted with LP & L to supply the remaining 662/3% of Ninemile Point's natural gas needs.
+
+LP & L's argument, which seems to us not entirely clear, is this. They maintain that the relevant competition occurred prior to the execution of the long term fuel supply contract. They allege that Texaco was, in fact, willing and able to provide the entire natural gas needs of this generating station at that time. They contend that UGPL's machinations, which made that company appear to possess abundant gas supplies when in fact they knew their supplies were inadequate to meet the needs of this contract,[30] prevented Texaco from competing with regard to this portion of the generator's fuel requirements (presumably in 1968 and thereafter). In so doing, it is argued that UGPL and its corporate parent Pennzoil sought to monopolize the sale of natural gas.
+
+The Court of Appeal's discussion of the elements of monopoly, (1) the possession of monopoly power in the relevant market and (2) the willful acquisition or maintenance of that power, is based on established federal jurisprudence. United States v. Grinnell Corp.,
+384 U.S. 563
+, 570-71, 86 S. Ct. 1698, 1703-04, 16 L. Ed. 2d 778 (1966). Essentially, the appellate court concluded that plaintiff did not establish by a preponderance of the evidence that the defendants possessed monopoly power[31] in the relevant market, as defined by the plaintiff.[32] Having so   determined, it was not necessary for the Court of Appeal to discuss the second requirement, which concerns defendants' purpose and intent. On this same legal basis, we affirm the lower courts.
+
+However, we point out that the framework for legal analysis provided by the federal courts and relied upon by the Court of Appeal, is also found in the Louisiana jurisprudence, in Tooke & Reynolds v. Bastrop Ice & Storage Co., the leading case of this Court which concerns both monopolization and conspiracy in restraint of trade. In concluding that the purpose and method of the defendant Bastrop Ice & Storage Company as described in plaintiff's petition would clearly result in a monopoly of the ice trade in that section of the state, the Tooke & Reynolds court provided specific indications for detecting monopolies, which accord with the federal guidelines. That petition alleged
+
+The significant factors in the above scenario are the ability to control prices[33] and the exclusion of competition from the market, which are the two essential components of "monopoly power."
+
+The chief disputation of UGPL's monopoly power is the presence of Texaco, a thriving competitor in the relevant market defined by the plaintiffs. Despite the natural monopoly[34] that UGPL had enjoyed at the Ninemile Point generator since 1952, in the pertinent 1968 gas sales contracts, LP & L awarded a contract for 662/3% of its natural gas needs to Texaco. In this regard, it is not as much a comparison of the relative shares of the market which we find persuasive as the necessary conclusion drawn from this data that UGPL did not exclude a competitor from the power plant site and was apparently powerless to do so.
+
+Of course, the ability to control price, as well as the ability to exclude competition from the market, is part of the traditional definition of monopoly power. In this regard, UGPL actually lowered its price for natural gas to the Ninemile Point power plant in order to maintain at least a 331/3%   of the market.[35] According to LP & L, such action was simply a prelude to the price increase UGPL "manipulated" once it secured a long term supply contract. That increase beyond the contracted for price was proposed after UGPL revealed the interstate gas flows in the Baton Rouge -New Orleans industrial corridor, including to LP & L's Ninemile Point station, and obtained Federal Power Commission regulation. Under this FPC, later FERC, jurisdiction, and in conjunction with gas shortages it created, according to LP & L,[36] UGPL proposed to allocate the insufficient supply among its customers with priority being given to contracts carrying a higher price, thus subjecting direct industrial customers such as LP & L to first curtailment since their contract price was lower than that paid by other jurisdictional customers.
+
+Considerable testimony elicited from the Louisiana Public Service Commission's expert, Bruce Louiselle, on the basis of a financial analysis of UGPL, indicated that the company's earnings increased dramatically during the period 1971-81. He concluded that a significant portion of the increase in earnings resulted from UGPL's "not providing the gas to these plaintiffs at the contracted quantities at contracted for prices." Louiselle also testified that the level of profit was high on an absolute basis, that is, compared to seven other major pipeline companies that he studied.
+
+Thus, we do have evidence of an alteration in price for natural gas which was advantageous to UGPL. That, however, was not because of monopoly power, or UGPL's "power" over price. The ultimate increase was dependent on both a nationwide shortage and the actions of the FPC, neither of which could have been fully controlled by UGPL. And, as pointed out in United States v. E.I. DuPont DeNemours & Co., 351 U.S.  at 392, 76 S.Ct. at 1005:
+
+We therefore conclude, as did the trial court and the Court of Appeal before us, that LP & L has failed to establish by a preponderance of the evidence that UGPL and/or Pennzoil possessed monopoly power in the relevant submarket as argued by plaintiff, the Baton Rouge-New Orleans industrial corridor within a 50 mile radius of LP & L's Ninemile Point station. Without proof of this essential element of monopoly, monopoly power in a relevant market, we cannot conclude that UGPL and Pennzoil monopolized trade or commerce in violation of La.Rev.Stat.Ann. § 51:123.
+
+La.Rev.Stat.Ann. § 51:123 specifically prohibits an "attempt to monopolize" in addition to successful monopolization, as does the analogous federal antitrust statute, 15 U.S.C. § 2. Unlike our criminal attempt statute, La.Rev.Stat.Ann. § 14:27, which only requires proof of specific intent and an act tending directly toward the accomplishment of the crime, however, the jurisprudence has developed a further requirement of proof for an attempt to monopolize "the dangerous probability that it will happen." Swift & Co. v. United States,
+196 U.S. 375
+, 396, 25 S. Ct. 276, 279, 49 L. Ed. 518 (1905).[37] Our state law has followed similar development in accentuating "the natural tendency or probable effect" of actions before concluding that an attempted monopoly is "detrimental to the public welfare and falls within the teeth of the law." Tooke & Reynolds v. Bastrop Ice & Storage Co., Inc., 135 So.  at 243.
+
+*1164 Thus, the "dangerous probability" or "probable effect" of an allegedly monopolistic plan is critical. In this case, the alleged monopolistic scheme was allegedly carried out, and we concluded in the preceding section of this opinion that a monopoly did not result. We further conclude that the improper actions allegedly taken by UGPL to secure 331/3% of the natural gas supply to the Ninemile Point generating station could not have resulted in a monopoly that is, a situation in which UGPL had monopoly power (the ability to control prices and to exclude competition from the area of the power plant, which LP & L designated as the relevant market) and had willfully acquired or maintained that power. See United States v. Grinnell Corp.,
+384 U.S. 563
+, 570-71, 86 S. Ct. 1698, 1703-04, 16 L. Ed. 2d 778 (1966).
+
+Having concluded that LP & L failed to prove that defendants' alleged monopolistic plan would more than likely be effective, we need not address the additional element of proof, that is, that the defendants possessed the specific intent to monopolize natural gas sales in the area of LP & L's Ninemile Point generating station.
+
+For the above reasons, we find that LP & L failed to prove that United Gas Pipe Line Company and Pennzoil acted to monopolize the sale of natural gas in the relevant market or attempted to do so. The judgments of the trial court and the Court of Appeal in dismissing these claims will therefore be affirmed.
+
+We have determined that La.Rev.Stat. Ann. § 51:122, Louisiana's prohibition against contracts, combinations, and conspiracies in restraint of trade, does not except from its provisions conspiracies in restraint of trade by a parent corporation and its partially or wholly owned subsidiary corporation. The Court of Appeal judgment to the contrary, based upon a legal interpretation concerning the scope of La.Rev.Stat.Ann. § 51:122 and an incidental review of the record examining facts bearing only upon the exercise of control by Pennzoil over its subsidiary corporation UGPL, was not based upon an examination of the record concerning whether LP & L proved a conspiracy in restraint of trade by the defendants Pennzoil and UGPL. We will therefore remand the case to the Court of Appeal for that purpose.[38]
+
+We have also decided in this opinion that both the district court and the Court of Appeal were correct in rejecting LP & L's claim that Pennzoil and UGPL violated La. Rev.Stat.Ann. § 51:123's monopoly and attempt monopoly prohibitions.
+
+For these reasons, therefore, we affirm the judgments of the Court of Appeal and the district court insofar as they dismissed LP & L's claim that defendant, or defendants, monopolized trade and/or attempted to do so; we reverse the judgments of the district court and the Court of Appeal insofar as they dismissed LP & L's claim of a violation of La.Rev.Stat.Ann. § 51:122, conspiracy in restraint of trade, and remand to the Court of Appeal to determine whether at the close of plaintiff's case, upon the facts and law, LP & L has shown a right to relief so as to avoid an involuntary dismissal under the provisions of La.Code Civ. Pro. art. 1672 B.[39]
+
+JUDGMENT AFFIRMED IN PART, REVERSED IN PART, AND REMANDED.
+
+WATSON, J., concurs.
+
+DIXON, C.J., dissents with reasons.
+
+MARCUS, J., dissents and assigns reasons.
+
+DIXON, Chief Justice (dissenting).
+
+I respectfully dissent, believing that there was no conspiracy, no attempt at   combination in restraint of trade nor monopoly, and that we should decide the case on the record before us, following the law as decided by the Supreme Court of the United States.
+
+MARCUS, Justice (dissenting).
+
+I am of the opinion that the courts below correctly dismissed LP & L's claim based on a violation of La.R.S. 51:122, conspiracy in restraint of trade. See Copperweld Corp. v. Independence Tube Corp.,
+467 U.S. 752
+, 104 S. Ct. 2731, 81 L. Ed. 2d 628 (1984). Accordingly, I respectfully dissent.
+
+PER CURIAM
+
+Defendants' applications for rehearing are denied in part and granted in part.
+
+Their contention that "the majority opinion erred in reversing the trial court's judgment" has merit.
+
+The trial court's judgment on motion for involuntary dismissal stated that dismissal was based upon LP & L's failure "to prove by a preponderance of the evidence the elements necessary to support an anti-trust action under Louisiana law." We should therefore not have vacated the trial court judgment and ordered the court of appeal on remand to decide whether plaintiff's evidence establishes a prima facie case of violation of § 51:122 (footnote 38, page 30 of slip opinion).
+
+Instead we should have, and herewith do, reverse and vacate only the judgment of the court of appeal insofar as that court dismissed LP & L's claim of a violation of R.S. 51:122, conspiracy in restraint of trade, and remand the case to the court of appeal to consider anew the judgment of the district court. Such renewed consideration is to be based upon an examination of the record concerning whether LP & L provided by a preponderance of the evidence a conspiracy in restraint of trade by defendants Pennzoil and UGPL; and whether, according the trial court judgment its appropriate deference, that judgment should be affirmed or reversed on appeal.
+
+Otherwise the rehearing applications are denied.
+
+[1]  LP & L was joined by other power plant plaintiffs, New Orleans Public Service, Inc. (including the City of New Orleans and a class of NOPSI electric ratepayers) and Gulf States Utilities Company, in a consolidated action which alleged breach of contract by United. These latter plaintiffs, however, made no antitrust claim, rather, only contract claims. The Gulf States Utilities Company case was settled during the trial, and, on August 24, 1984, the trial court found in favor of LP & L, and of NOPSI, on their contract claims against United. Damages were awarded in the LP & L case in the amount of $40,403,106 and in the NOPSI case in the amount of $44,403,106, both plus interest from the date of judicial demand. United has appealed the breach of contract findings and the amount of the damages, and the matter is currently pending before the Fourth Circuit Court of Appeal.
+
+[2]  To prevent acts considered monopolistic ("forestalling," "regrating," "engrossing"), medieval lawmakers established regulations. And, as early as the fifteenth century, English courts enforced the rule that a person who sold his business with a non-competitive agreement was not bound by the contract. Royal monopolies were attacked in the Case of the Monopolies in 1602 and the Statute of Monopolies in 1623, and a common law rule emerged in the eighteenth century which allowed injured parties to claim damages if sellers agreed to limit output, divide markets or fix prices. S. Whitney, Antitrust Policies: American Experience in Twenty Industries 4 (1958).
+
+[3]  G. Brady, Antitrust Fundamentals 11 (1974); S. Whitney, supra at 4.
+
+[4]  A.D. Neale, the Antitrust Laws of the United States of America 24 (1960). The mere passage of the Act must have seemed sufficient action at the time. Funds for its enforcement were not allocated to the Department of Justice until 1903, and the government initiated very few cases in the early years. Id. at 28.
+
+[5]  Sullivan, Economics and More Humanistic Disciplines: What are the Sources of Wisdom for Antitrust? 125 U.Pa.L.Rev, 1214, 1218 (1977).
+
+[6]  Amer. Tobacco Co. v. United States,
+328 U.S. 781
+, 813, 66 S. Ct. 1125, 1140-41, 90 L. Ed. 1575 (1945) (quoting United States v. Aluminum Co. of Amer., 148 F.2d 416, 427 (2nd Cir.1945)).
+
+[7]  Sullivan, supra at 1219 (citing R. Hofstadter, What Happened to the Antitrust Movement? in the Paranoid Style in American Politics and Other Essays 233 (1965)).
+
+[8]  1890 La.Acts No. 86 provided as follows:
+
+SECTION 1. Be it enacted by the General Assembly of the State of Louisiana, That every contract, combination in the form of trust, or conspiracy, in restraint of trade or commerce or to fix or limit the amount or quantity of any article, commodity or merchandise to be manufactured, mined, produced or sold in this State is hereby declared illegal.
+
+SECTION 2. Be it further enacted, etc., That every person who shall make any such contract, or engage in any such combination, or conspiracy, shall be deemed guilty of a misdemeanor, and on conviction thereof, shall be punished by fine not exceeding five thousand dollars, or by imprisonment not exceeding one year, or by both of said punishment, in the discretion of the court.
+
+SECTION 3. Be it further enacted, etc., That every person who shall monopolize, or attempt to monopolize, or combine, or conspire with any other person or persons, to monopolize any part of the trade or commerce within the limits of this State, shall be deemed guilty of a misdemeanor, and, on conviction thereof, shall be punished by fine not exceeding five thousand dollars, or by imprisonment not exceeding one year, or by both said punishments in the discretion of the court.
+
+[9]  1892 La.Acts No. 90 prohibited combinations that resulted in:
+
+(a) restrictions in trade;
+
+(b) reduction in production and either the reduction or increase in the price of merchandise, produce, or commodities;
+
+(c) prevention of competition in manufacture, transportation, or sale;
+
+(d) price control;
+
+(e) agreements to maintain a minimum price.
+
+[10]  This exclusionary provision has a counterpart in the Clayton Act, 15 U.S.C. § 17.
+
+[11]  From 1913 until the enactment of the 1974 Constitution, the prohibition against "all combinations, trusts, or conspiracies in restraint of trade or commerce, and all monopolies or combinations to monopolize trade or commerce" was given constitutional stature as well. La. Const. of 1913, art. 190 and La. Const. of 1921, art. XIX § 14.
+
+[12]  In fact, §§ 1 and 2 of the Sherman Act, upon which their Louisiana counterparts were patterned, were said to be "broad enough to embrace every conceivable contract or combination which could be made concerning commerce." Standard Oil Co. v. United States,
+221 U.S. 1
+, 58-62, 31 S. Ct. 502, 515-16, 55 L. Ed. 619 (1911).
+
+[13]  Quoting Senator Sherman's remarks prior to the enactment of the federal antitrust legislation from the Congressional Record, the dissent in Copperweld points out that trusts were defined as combinations of corporations, partnerships and individuals engaged in the same business with the goal of eliminating competition. And, according to the dissent, the corporate device most similar to the original trusts is the corporate subsidiary. 104 S. Ct.  at 2751.
+
+[14]  However, it was in 1941 that a federal court first accepted the concept that corporate affiliates can conspire. United States v. General Motors Corp., 121 F.2d 376 (7th Cir.), cert. denied, 314 U.S. 618, 62 S. Ct. 105, 86 L. Ed. 2d 497 (1941).
+
+[15]  Areeda, Intraenterprise Conspiracy in Decline, 97 Harv.L.Rev. 451, 471 (1983).
+
+[16]  D. Hjelmfelt, Antitrust and Regulated Industries 56-57 (1985).
+
+[17]  Ownership and control of separate corporations by one person, who made decisions as to both, was found to prevent the capacity to conspire in some courts. Other courts limited the reach of the intraenterprise conspiracy doctrine if the concerted action was aimed at subsidiaries or affiliates themselves as opposed to outsiders. Another judicial limitation on the doctrine occurred where the affiliated corporations had not held themselves out as competitors. Finally, applying an "all the facts and circumstances" test to determine whether a parent and its affiliated corporations were a single economic entity, some lower courts concluded, despite the doctrine, that a particular parent and its subsidiary were not independent entities capable of conspiring. Handler and Smart, The Present Status of the Intracorporate Conspiracy Doctrine, 3 Cardozo L.Rev. 23, 46-61 (1981).
+
+[18]  Areeda, supra at 453. In dissent to Copperweld, Justice Stevens points to an economic justification for the rule of Yellow Cab. He notes that it permits anticompetitive agreements between affiliated corporations to be reached by § 1 in the case where the corporations have sufficient market power to restrain marketwide competition but not sufficient power to be considered monopolists in violation of § 2 of the Sherman Act. 104 S. Ct.  at 2752.
+
+[19]  Areeda, supra at 455.
+
+[20]  The Court did acknowledge, however, that initial acquisition of control of a subsidiary by a corporation would continue to be subject to scrutiny under § 1 of the Sherman Act.
+
+[21]  It has been suggested that the alternative statutory provisions proposed by the Court are not adequate. Since the required proof of § 2 monopoly power is based on a particular concentration-ratio within an industry and the "attempt" provision requires a showing of specific intent and a dangerous probability of success, § 2 of the Sherman Act does not reach restraints of trade by single firms which possess a lesser degree of monopoly power. Furthermore, the FTC Act (15 U.S.C. 41 et seq.) lacks the deterrent power of § 1 since private actions and treble damage awards are not permitted under that statute. And, entire industries are exempt from this Act, which is further said to be subject to political manipulation. Finally, the Clayton Act, 15 U.S.C. § 15 (1973), is much more specialized than the more comprehensive Sherman Act. Note, The Demise of the Intra-Enterprise Conspiracy Doctrine: Flexible Antitrust Enforcement Policy Abandoned in a Maze of Economic Certainty, 60 Wash.L.Rev. 757, 764-65 n. 46 (1985).
+
+[22]  This conclusion has been questioned. In addition to the difficulties in prosecuting and proving violations under the alternative theories, it was pointed out that in one case, Kiefer-Stewart v. Joseph E. Seagram & Sons, Inc.,
+340 U.S. 211
+, 71 S. Ct. 259, 95 L. Ed. 219 (1951), the alternative conspiracy theory suggested was not available at the time. Note, the Demise of the Intra-Enterprise Conspiracy Doctrine: Flexible Antitrust Enforcement Policy Abandoned in a Maze of Economic CertaintyCopperweld Corp. v. Independence Tube Corp.,
+467 U.S. 752
+, 104 S. Ct. 2731, 81 L. Ed. 2d 628 (1984), 60 Wash.L. Rev. 757, 765 (1985).
+
+It was also pointed out by the dissent in Copperweld that while the majority attempted to explain the result in Yellow Cab as required by an unlawful acquisition of subsidiaries, the acquisitions were an additional consideration in that case. The majority's analogous treatment of United States v. Crescent Amusement Co.,
+323 U.S. 173
+, 65 S. Ct. 254, 89 L. Ed. 160 (1944), furthermore, could not be squared with that decision's statement that such unlawful conduct was in addition to the acquisition of subsidiaries. Thus, the dissenting opinion noted that
+
+[t]he majority's observation that in these cases there were alternative grounds that could have been used to reach the same result ... disguises neither the fact that the holding that actually appears in these opinions rests on conspiracy between affiliated entities, nor that today's holding is inconsistent with what was actually held in these cases.
+
+[23]  In concluding that Tooke & Reynolds v. Bastrop Ice Co., Inc. was not relevant to the case at hand, the court of appeal asserted, erroneously in our view, that it "stands only for the proposition that Louisiana law recognizes a cause of action based on allegations of conspiracy between a corporation and its shareholders, members, and managers to violate antitrust law." 478 So. 2d  at 1247.
+
+[24]  See footnote 15 supra and accompanying text.
+
+[25]  We note, however, that the application of a duty-risk analysis to antitrust litigation could be helpful in both minimizing inconsistent results and revealing the policies upon which the duty is based for legislative review. Flynn, Rethinking Sherman Act Section 1 Analysis: Three Proposals for Reducing the Chaos, 49 Antitrust L.J. 1593, 1619-33 (1980). As suggested by Flynn, the following analytical framework could be applied to antitrust litigation:
+
+1Is there a factual connection between the plaintiff's injury and the defendant?
+
+2Do the policies of the antitrust laws and their system of protection extend to the interest that the plaintiff seeks to vindicate; and if some protection is afforded what standard of care does the legal system impose on the defendant?
+
+3Was that standard of care breached by the defendant?
+
+4What are the damages?
+
+Although the factual connection issue is seldom litigated and the damage issue is simply one of proof, a specific judicial determination of the duty imposed by the antitrust laws (and the standard of proof of its breach), based on legislative purposes, precedents, insights from relevant disciplines such as economics, as well as circumstances of the case and fairness to the parties, would expose the antitrust issues involved to debate and add a greater predictability to a flexible approach, according to Flynn.
+
+[26]  A parent's control over its partially owned subsidiaries is in some measure limited by its fiduciary duty to other stockholders, since a parent, even when a majority stockholder, is obligated to operate the subsidiary for the benefit of all subsidiary stockholders. Comment, The Intra-Enterprise Conspiracy Doctrine After Copperweld Corp. v. Independence Tube Corp., 86 Colum.L.Rev. 198, 204 (1986). Furthermore, the parent with potential control may not exercise it legally if doing so would disadvantage its co-owners. Likewise, a parent's control may be limited by articles of incorporation and by-laws as well as by externally imposed restraints such as contracts, consent decrees, regulations, laws, and foreign governments. Id. at 205.
+
+[27]  "The unity of interest in Copperweld depended entirely upon the parent's ownership of all the subsidiary stock. When a party other than the parent partially owns a subsidiary, that other owner may favor corporate activities at odds with the interests of the parent." 86 Colum.L. Rev. at 206.
+
+[28]  The contract did, however, limit UGPL's obligation to provide natural gas to a maximum of 125,000,000 cubic feet in any one day unless UGPL first consented in writing to the additional delivery.
+
+[29]  United Gas Corporation and Pennzoil merged in April of 1968, and this contract was signed on May 6, 1968.
+
+[30]  Plaintiffs allege that defendants misled customers concerning the abundance of their supplies of gas through advertisements and otherwise; that defendants misled the Federal Power Commission through the use of false or deceptive statistics on Form 15 reports; that defendants failed to inform regulators or customers of the illegal injection of interstate gas into the Louisiana intrastate system; and that the defendants continued to engage new sales obligations in the absence of a reliable gas supply.
+
+[31]  Monopoly power is defined as the ability to control prices or to exclude competition from the market. United States v. E.I. DuPont DeNemours & Co.,
+351 U.S. 377
+, 391-92, 76 S. Ct. 994, 1005-06, 100 L. Ed. 1264 (1956). It is strong evidence that monopoly power exists if prices are raised above competitive levels or if competitors are excluded from the market. Hjelmfelt, supra at 102. However, the jurisprudence has developed a shortcut formula. When the evidence is less than clear, control over the predominant share of the market has been found to infer the existence of monopoly power. United States v. Grinnell Corp., 384 U.S.  at 571, 86 S. Ct.  at 1704.
+
+[32]  A relevant market is the "area of effective competition," and it encompasses a product market as well as a geographic market. Brown Shoe Co. v. United States,
+370 U.S. 294
+, 324, 82 S. Ct. 1502, 1523, 8 L. Ed. 2d 510 (1962). The geographic market is a section of the country, the area in which sellers of a particular product or service operate and to which buyers turn to purchase the product or service. Tampa Elec. v. Nashville Coal Co.,
+365 U.S. 320
+, 81 S. Ct. 623, 5 L. Ed. 2d 580 (1961). The product market component of the relevant market, however, does not as readily lend itself to precise boundaries. Since cross-elasticity of demand, a measure of the willingness of purchasers to substitute one product for another is critical to a determination of the parameters of a product market, it is necessary, to consider the differences among various commodities and the willingness of buyers to substitute one product for another. Hjelmfelt, supra at 108; United States v. E.I. DuPont DeNemours & Co., 351 U.S.  at 394, 76 S. Ct.  at 1006-07.
+
+With regard to their monopoly claim, LP & L defined a general geographic market as well as a geographic submarket. (The product market component of the relevant market was not specifically addressed by the plaintiff, no doubt because product substitution was not a viable alternative.) It was asserted that the general geographic market targeted by defendants' scheme was the entire State of Louisiana and that the submarket was the Baton Rouge-New Orleans industrial corridor where LP & L's Ninemile Point station is situated. LP & L's focus then is at and near the power plant site, and the statistics gathered by Mr. C.E. Collins, LP & L's engineering expert, involved natural gas sales in a 50 mile radius of the Ninemile Point station.
+
+The defendants dispute the appropriateness of LP & L's choice of the relevant market. Although there may be merit to some of their contentions, which would warrant our attention if the plaintiff had proved monopoly power in an inappropriate market, such is not the case here. Thus, in accord with the determination of the Court of Appeal, we need not address the correctness of LP & L's choice of relevant market.
+
+[33]  In the usual situation, the ability to control prices indicates an ability to raise prices above a competitive level. In Tooke & Reynolds, the alleged monopolists lowered prices, but their control over price was used to drive a competitor out of the ice business, so that, without competition, they would then possess the power to raise prices above competitive levels.
+
+[34]  There exist significant barriers to entry in the natural gas industry: the existence of long term contracts that must expire, large capital expenditures, the acquisition of long term gas supplies, and even regulatory approval. And, from 1952 until 1968, UGPL was the only pipe line serving the generator at Ninemile Point.
+
+[35]  Donald Aswell, LP & L's vice-president for power production, testified that he was aware that in 1965 LP&L had threatened not to locate the proposed additional generation station at Ninemile Point unless United lowered its rates.
+
+[36]  During the 1960's, primarily before the Pennzoil takeover, UGPL released gas reserves, which had been secured earlier, while simultaneously expanding sales. When the nationwide gas shortage occurred, UGPL was not able to secure adequate supplies to meet its commitments. Defendants, United Gas and Pennzoil, point out, however, that they embarked on a major effort to acquire gas in the offshore Gulf of Mexico area (the Sea Robin Pipeline project) in 1967.
+
+[37]  As stated by Justice Holmes in the federal jurisprudence,
+
+Where acts are not sufficient in themselves to produce a result which the law seeks to prevent,for instance, the monopoly,but require further acts in addition to the mere forces of nature to bring that result to pass, an intent to bring it to pass is necessary in order to produce a dangerous probability that it will happen. Swift & Co. v. United States,
+196 U.S. 375
+, 396 [25 S. Ct. 276, 279, 49 L. Ed. 518] (1905).
+
+[38]  It was at the close of LP & L's case that the trial judge, on defendants' motions for dismissal, dismissed plaintiff's causes of action insofar as violations of Louisiana's antitrust laws were alleged. Accordingly, upon reconsideration, if the Court of Appeal decides that plaintiff's evidence establishes a prima facie case of a violation of § 51:122, it will be necessary that the Court of Appeal remand the case to the district case for resumption of trial, with defendants being allowed to present their evidence.
+
+[39]  In accordance with 1983 La.Acts. No. 534 § 8, La.Code Civ.Pro. Art. 1810, directed verdicts, was amended to remove that portion of the article which did not deal with jury trials. Thus, it is Code Civ.Pro. art. 1672 which now governs involuntary dismissals in an action tried by a court without a jury, such as occurred in this case.

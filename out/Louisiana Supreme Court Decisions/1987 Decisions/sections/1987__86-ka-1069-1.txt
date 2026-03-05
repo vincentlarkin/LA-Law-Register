@@ -1,0 +1,103 @@
+86-KA-1069
+State v. Pierre
+https://law.justia.com/cases/louisiana/supreme-court/1987/86-ka-1069-1.html
+
+86-KA-1069
+State v. Pierre
+Court: Louisiana Supreme Court
+Release date: 1987-01-12
+Author: DIXON, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1987/86-ka-1069-1.html
+
+500 So. 2d 382 (1987)
+
+STATE of Louisiana
+v.
+Marcus M. PIERRE.
+
+No. 86-KA-1069.
+
+Supreme Court of Louisiana.
+
+January 12, 1987.
+
+*383 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Michael McMahon, John Baus, Asst. Dist. Attys., for plaintiff-appellant.
+
+Frank Larre, for defendant-appellee.
+
+DIXON, Chief Justice.
+
+The state appeals from a trial court judgment declaring R.S. 40:971.1 unconstitutional. This statute states in part: "It shall be unlawful for any person to produce, manufacture, distribute or dispense any substance which is falsely represented to be a controlled dangerous substance or which is falsely represented to be a counterfeit controlled dangerous substance...." Defendant Pierre was charged by bill of information with violating R.S. 40:971.1 in that he "did attempt to distribute a substance falsely represented to be a controlled and dangerous substance to wit: COCAINE." Pierre filed a motion to quash the bill of information, challenging the constitutional validity of the statute on grounds that it is vague and overly broad as it lacks the requisite intent element, thus criminalizing inherently lawful conduct. R.S. 40:971.1 also allegedly results in a shifting of the burden of proof to the defendant, and prescribes cruel, unusual and disproportionate punishment. The trial judge granted the motion on the briefs without reasons.
+
+Through R.S. 40:971.1, the state legislature continued its efforts to combat illegal drug activity and the crime and violence associated with it. Before R.S. 40:971.1   was promulgated, no statute prohibited producing or transferring a benign substance and representing to the recipient that it was an illegal narcotic, when it in fact was not a controlled dangerous substance. Such conduct falls short of actual trafficking in controlled dangerous substances, and is the object of R.S. 40:971.1. The legislature proscribed the "activity" rather than the "substance" by the omission of "possession" as a violation. Traffic in counterfeit drugs involves most of the danger to society as does the traffic in real drugs. The statute does not criminalize innocent or constitutionally protected conduct.
+
+The Louisiana legislature followed the lead of other states in passing the false representation statute. Delaware and California courts upheld this exercise of police power as bearing a rational relation to the public health, safety, morals or general welfare:
+
+Statutes similar to R.S. 40:971.1 have withstood constitutional attacks in California, Colorado, Delaware, Georgia, Illinois, Ohio, Oregon and Washington.[1]
+
+A criminal statute is unconstitutionally vague if it does not give individuals adequate notice that certain conduct is proscribed and punishable by law, and if it does not provide adequate standards for those charged with determining the accused's guilt or innocence. State v. Union Tank Car Co.,
+439 So. 2d 377
+(La.1983); State v. Dousay,
+378 So. 2d 414
+(La.1979). A penal statute must describe unlawful conduct with sufficient particularity and clarity that ordinary men of reasonable intelligence are capable of discerning its meaning and conforming their conduct thereto. State v. Davis,
+448 So. 2d 645
+(La.1984); State v. Union Tank Car Co., supra; State v. Dousay, supra; State v. Pugh,
+369 So. 2d 1308
+(La.1979). In determining the meaning of a statute and hence its constitutionality, penal statutes must be "given a genuine construction, according to the fair import of their words, taken in their usual sense, in connection with the context, and with reference to the purpose of the provision." R.S. 14:3; State v. Peacock,
+461 So. 2d 1040
+(La.1984).
+
+Applying these standards of statutory construction, R.S. 40:971.1 is not unconstitutional, and neither vague nor overly broad. The right to sell legal goods while representing them to be illegal products is not protected by the Constitution, and it is within the state's power to criminalize such activity. This statute is reasonably and substantially related to the state's purpose, and thus is not overly broad.
+
+R.S. 40:971.1 is also not vague because an ordinary man of reasonable intelligence can readily ascertain from a reading of the statute that it is a crime to produce or distribute a substance falsely represented to be a controlled dangerous drug. Intent is an indispensable element of a criminal offense. State v. Brown,
+389 So. 2d 48
+(La.1980). The culpable mental element in R.S. 40:971.1 is the representation underlying the nature of the substance. It is impossible for one to unknowingly represent that a substance is an illegal   drug or narcotic. When one "represents," he acts with intent. Thus, the criminal intent required by the statute is implicit in the word "represented." The state bears the burden of proving the offender's criminal intent by showing that the offender produced, manufactured, distributed or dispensed a substance which he represented to be a controlled dangerous substance. A manufacturer of a legal product that is subsequently represented to be a controlled dangerous substance by someone other than the manufacturer lacks the requisite intent element, and thus his act of manufacture is not culpable under a proper construction of the statute. The offender's actual knowledge of the nature of the substance is irrelevant.
+
+Defendant Pierre also attacks the statute at issue on grounds of cruel and excessive punishment because it punishes lawful conduct involving legal substances as severely as distribution of actual controlled substances. Article 1, § 20 of the Louisiana Constitution of 1974 prohibits imposition by law of excessive punishment. A sentence within statutory limits may still violate defendant's constitutional right against excessive punishment. State v. Guajardo,
+428 So. 2d 468
+(La.1983); State v. Bing,
+410 So. 2d 227
+(La.1982); State v. Sepulvado,
+367 So. 2d 762
+(La.1979). To determine excessiveness, the range of sentences authorized must be considered in light of the nature of the offense, the statutory range of sentences for other offenses, the range of sentences provided by the statutes of other jurisdictions for the same or similar crimes, and the legislative purpose behind the punishment. State v. Ludwig,
+468 So. 2d 1151
+(La.1985); State v. Telsee,
+425 So. 2d 1251
+(La.1983).
+
+Defendant Pierre is charged with attempting to distribute a substance falsely represented to be cocaine. R.S. 40:971.1 provides that violators "shall be imprisoned with or without hard labor for not more than five years, and in addition may be fined not more than five thousand dollars." These penalty provisions are less severe than those for the manufacture, distribution, dispensing, etc. of the controlled dangerous substances listed in Schedules I, II, III, IV and V in R.S. 40:964. Examples from other jurisdictions show comparable sentences. In Georgia, violators of the "bunk" statute are punished with one to ten years and/or a fine up to twenty-five thousand dollars.[2] Violators of the California provision face imprisonment for not more than one year.[3] In Washington, RCW 69.50.401(c) provides that conviction results in imprisonment for not more than five years, a fine of not more than ten thousand dollars, or both.
+
+The range of penalties provided by R.S. 40:971.1 is not unconstitutionally excessive. The penalties contribute to acceptable goals of punishment and are not grossly disproportionate to the severity of the offense in general. State v. Ludwig, supra. (This conclusion does not preclude a decision that a specific sentence under R.S. 40:971.1 might be unconstitutionally excessive).
+
+The judgment of the trial court declaring R.S. 40:971.1 unconstitutional and granting the motion to quash is reversed. The case is remanded for further proceedings.
+
+[1]  See People v. Medina,
+27 Cal. App. 3d 473
+, 103 Cal. Rptr. 721 (Cal.Ct.App.1972), People v. Hicks,
+222 Cal. App. 2d 265
+, 35 Cal. Rptr. 149 (Cal.Ct. App.1963); People v. Pharr,
+696 P.2d 235
+(Colo. 1984); Glendon v. State of Delaware,
+461 A.2d 1004
+(Del.1983); Thompson v. State, 254 Ga. 393,
+330 S.E.2d 348
+(1985); People v. Matkovick,
+101 Ill. 2d 268
+, 78 Ill.Dec. 130,
+461 N.E.2d 964
+(1984); State of Ohio v. Mosley, 55 Ohio App.2d 178, 380 N.E.2d 731 (1977); State of Oregon v. Irving, 268 Or. 204,
+520 P.2d 354
+(1974); and State of Washington v. Wilson,
+95 Wash. 2d 828
+,
+631 P.2d 362
+(1981).
+
+[2]  See Georgia Controlled Substances Act, O.C. G.A. § 16-13-30.1 cited in Thompson v. State, 254 Ga. 393,
+330 S.E.2d 348
+, 349 (1985).
+
+[3]  See Health and Safety Code § 11355 cited in People v. McDaniel,
+24 Cal. 3d 661
+, 156 Cal. Rptr. 865, 597 P.2d 124 (1979).

@@ -1,0 +1,162 @@
+92-C-3134
+Younger v. Marshall Industries, Inc.
+https://law.justia.com/cases/louisiana/supreme-court/1993/92-c-3134-2.html
+
+92-C-3134
+Younger v. Marshall Industries, Inc.
+Court: Louisiana Supreme Court
+Release date: 1993-05-24
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1993/92-c-3134-2.html
+
+618 So. 2d 866 (1993)
+
+John Paul YOUNGER and Susan Younger
+v.
+MARSHALL INDUSTRIES, INC., M/V MR. JEFFERY, Chevron U.S.A., Inc., Hamilton Medical Center Hospital, Bruce Industries.
+
+No. 92-C-3134.
+
+Supreme Court of Louisiana.
+
+May 24, 1993.
+
+*867 Lawrence B. Jones, Pamela J. Brookey, Scheuermann & Jones, New Orleans, for applicant.
+
+John W.L. Swanner, Seal, Smith, Zuber & Barnette, Baton Rouge, Craig W. Marks,
+
+*868 Jeansonne & Briney, Edward O. Taulbee IV, Martin, Taulbee, Rowe, Bares & Oliver, Susan A. Daigle, Broussard, David & Daigle, Lafayette, for respondent.
+
+KIMBALL, Justice.[*]
+
+The issue presented herein is whether an original tortfeasor is solidarily liable for subsequent injuries to plaintiff caused by the collapse of a shower seat during plaintiff's hospital stay for the original injury, such that a suit timely filed against the original tortfeasor interrupts prescription against the hospital.
+
+On April 25, 1989, John Paul Younger, while employed by Marshall Industries, was injured offshore on the M/V MR. JEFFERY. As a result of the injury he was taken to the Hamilton Medical Center Hospital in Lafayette, where he was hospitalized for several days. On April 27, 1989, Younger was taking a shower in the hospital room bathroom. While he was sitting on a fold-out shower seat connected to the wall, the seat collapsed under him, causing subsequent injury.
+
+On October 16, 1989, Younger and his wife filed a Petition for Damages, naming Marshall Industries and the M/V MR. JEFFERY as defendants. On May 17, 1990, Marshall Industries (MI) filed a Third Party Demand against Hamilton Medical Center Hospital (HMCH), alleging it was entitled to indemnity or contribution in the event it was found liable to plaintiff. On May 25, 1990, over one year from the date of the accident with the shower chair, plaintiffs filed a Second Supplemental and Amending Petition, seeking to add HMCH as a defendant in the suit. HMCH filed an Exception of Prescription, asserting that because plaintiffs had not sought to add HMCH until May 25, 1990, over one year from the alleged shower accident which had occurred on April 27, 1989, plaintiffs' cause of action against HMCH had prescribed. In response, the plaintiffs argued that MI and HMCH are solidary obligors for the injuries occurring at the hospital, and suit timely filed against MI interrupts prescription running against HMCH. The trial judge sustained the exception of prescription, dismissing the action against HMCH. Plaintiffs appealed and the court of appeal affirmed.[1] We granted plaintiffs' writ application to resolve the issue.[2]
+
+Prescription
+
+Suit against one solidary obligor interrupts prescription as to other solidary obligors. Lee v. Missouri Pacific Railroad Co.,
+540 So. 2d 287
+,
+294
+(La.1989); Burton v. Foret,
+498 So. 2d 706
+, 712 (La. 1986); La.Civ.Code arts. 1799 and 3503.[3] Therefore, if MI is liable for the injuries caused by the collapsing shower chair, and if HMCH is also liable in negligence or strict liability for those same injuries, MI and HMCH are solidarily liable for those damages, and a timely filed suit against MI interrupts prescription as to HMCH.[4]*869 Vicknair v. Hibernia Building Corp.,
+479 So. 2d 904
+, 910 (La.1985).
+
+The burden of proof is normally on the party pleading prescription; however, if on the face of the petition it appears that prescription has run, as in this case, the burden shifts to the plaintiff to prove a suspension or interruption of the prescriptive period. Williams, supra n. 4, 611 So. 2d  at 1386. Furthermore, if the plaintiff's basis for claiming interruption of prescription is solidary liability between two or more parties, then the plaintiff bears the burden of proving that solidary relationship. Arabie v. Northwest Mining Corp., 567 So. 2d 783, 785 (La.App. 3d Cir.), writ denied, 571 So. 2d 656 (La.1990); Lowe v. Rivers, 448 So. 2d 848, 851 (La.App.2d Cir. 1984). However, even if the plaintiff sustains this burden of proving solidary liability at a pre-trial hearing on prescription, if, after trial on the merits, it turns out that under the facts proven by plaintiff there is no solidary liability because the timely filed defendant is not found liable to plaintiff at all, then the exception should be maintained at that time. Pearson v. Hartford Accident & Indemnity Co.,
+281 So. 2d 724
+, 726 (La.1973); Provident Life & Accident Insurance Co. v. Turner, 582 So. 2d 250, 254 (La.App. 1st Cir.1991).
+
+Weber and Medical Treatment
+
+Plaintiffs argue that under Weber v. Charity Hospital of Louisiana,
+475 So. 2d 1047
+(La.1985), MI is liable not only for the injuries its fault may have directly and immediately caused but also for any additional injuries to plaintiff resulting from the collapse of the shower chair. Therefore, plaintiffs assert, MI and HMCH are solidarily liable, and the timely filed suit against MI interrupts prescription as to HMCH. The hospital argues it is not solidarily liable with MI because any damages resulting from the collapse of the shower chair are not related to improper treatment as encompassed under Weber. In Weber, we held the duty of an original tortfeasor not to injure a victim may include the risk that subsequent injury would result from treatment by medical professionals of the original injury. The instant case turns on whether or not Younger's injuries caused by the collapse of the shower chair resulted from treatment of the original injury.
+
+In Weber, the plaintiff contracted hepatitis from a blood transfusion during treatment at Charity Hospital for injuries received in an automobile accident. In discussing the extent of liability of the original tortfeasor, this court stated:
+
+Here, Gaynell Weber sustained a collapsed lung (among other injuries) in the automobile accident. When she underwent surgery to reinflate her lungs, she received several blood transfusions. She contracted hepatitis from contaminated blood used in the transfusions.
+
+The question is essentially one of legal causation which should be viewed under a duty-risk analysis. The host driver's negligence was a cause in fact of Gaynell's contracting of hepatitis, since the blood transfusion would not have been necessary but for the original injury caused by the negligence. Once causation in fact is established, the next step in determining liability is to determine what duty was imposed under the circumstances   and whether this particular risk was within the scope of the protection extended by the imposition of that duty. The duty on the host driver to refrain from causing injury to another by the negligent operation of her vehicle encompassed the risk that the tort victim's injuries might be worsened by the treatment for those injuries. Moreover, there is an ease of association between the injury and the rule of law which gave rise to the duty. We therefore conclude that the host driver was liable for any damages resulting from the blood transfusion, along with any other parties whose fault caused Gaynell Weber to contract hepatitis.
+
+Using the above analysis, this court in Weber found (1) the blood transfusion would not have been necessary but for the original injury; and (2) the duty of the original tortfeasor to refrain from causing injury to the victim includes the risk that the victim will receive a blood transfusion with contaminated blood during treatment of the original injury. As such, the original tortfeasor was found liable for the damages resulting from the blood transfusion.
+
+For plaintiffs in this case to even avail themselves of the Weber rationale, they would have to prove that the subsequent injury to plaintiff occurred during, was directly related to or resulted from "treatment for the original injury". This is so because, under Weber's theory extending the liability of the original tortfeasor beyond the immediate and direct consequences of his act, an injury to plaintiff during the hospital stay which is unrelated to treatment for the original injury is not a risk encompassed within the original tortfeasor's duty. Plaintiffs basically argue the entire hospital stay is itself the treatment of the original injury, and therefore, anything which occurs to the tort victim while in the hospital has occurred during "treatment". It is apparent, however, that the word "treatment," as used in Weber, was meant to have a narrower definition. For example, therein we stated the original tortfeasor may be liable for "additional suffering caused by inappropriate treatment" or for injuries which are "worsened by the treatment" by the doctor, nurse, or hospital staff member "who treats the injuries directly caused by the tortfeasor." Consequently, the word "treatment" as used in Weber connotes some specific, active intervention or participation by the medical professional for the purpose of curing the original injuries and cannot be interpreted to equate the entire convalescent period in the hospital with "treatment".
+
+Plaintiffs alternatively argue bathing in general is "treatment of the original injury" because it occurs in the "treatment context". While it is true bathing occurs during plaintiff's stay in the hospital for treatment of the original injury, the bathing itself is rarely a form of treatment of the original injury.[6] As explained earlier, treatment requires some specific intervention by a medical professional which is   lacking under the available facts. There is no indication a member of the hospital staff told plaintiff he had to take a bath or stay clean as part of the treatment of his injuries. Nor does bathing in this case have anything to do with the original injuries such that one could find the bathing occurred during, was directly related to or resulted from the treatment of the original injury. On the facts of this case, we are unable to say bathing in general is treatment of the original injury.
+
+When no evidence is presented at the hearing on the exception, the objection of prescription must be decided upon the facts alleged in the petition and the second supplemental petition, and all the allegations therein are accepted as true. Tranum v. Hebert, 581 So. 2d 1023, 1026 (La.App. 1st Cir.), writ denied,
+584 So. 2d 1169
+(1991). Where the allegations in the petition have not been controverted in the hearing on the exception, a court must look to see whether the alleged facts, if accepted as true, are sufficient on their face to establish that the timely sued defendant and the untimely sued defendants are solidarily liable. If so, then plaintiff has met his burden of proving an interruption of prescription based on solidary liability. Pearson v. Hartford Accident & Indemnity Co.,
+281 So. 2d 724
+(La.1973). Plaintiffs failed to put on any evidence at the hearing on the exception. Looking to the petitions, neither the original nor the supplemental petitions allege sufficient facts from which a court could conclude that the accident occurred during or resulted from "treatment" of the original injury. Notwithstanding the undefined parameters of "treatment" in Weber, no evidence was presented at the hearing on the exception and no facts were alleged in plaintiffs' petition that would allow the trier of fact to ascertain whether the circumstances surrounding the shower accident "occurred during", "resulted from" or "were directly related to" treatment of the original injury.[8] Therefore, on the record before us we are unable to find error in the lower courts' determination that plaintiffs failed to meet their burden of proving an interruption of prescription based on Weber.
+
+Weakened Condition
+
+Having found that plaintiffs failed to prove the use of the shower chair was "treatment" of the original injury, we note that the Weber rationale may not be the only concept applicable to this case. There is an additional tort theory applicable in some of our sister states that is recognized in the Restatement (Second) of Torts and in   the treatises and that is consistent with our concept of duty-risk analysis. This theory of liability has no relation to whether or not a subsequent injury resulted from treatment of the original injury but is a logical supplement to that theory. The theory is premised upon the rationale that if the victim, as a result of a weakened condition due to the original injury, suffers a new accident and injury, the original tortfeasor is accountable for the subsequent injury.[9] This approach is in addition to the one used in Weber, and, the other states which have adopted it discuss it in common law terms of proximate cause and foreseeability. In Shahan v. Hilker, 241 Neb. 482,
+488 N.W.2d 577
+, 580 (1992), the supreme court of Nebraska held the tortfeasor in a motorcycle accident may be liable for injuries occurring to plaintiff when he later fell down a flight of stairs because of dizziness brought on by pain medication prescribed for the original injury. The court stated:
+
+See also Gibo v. City and County of Honolulu, 51 Haw. 299,
+459 P.2d 198
+, 200 (1969) where the supreme court of Hawaii recognized that:
+
+Louisiana's tort law no longer utilizes terms like proximate cause, foreseeability, and intervening act. Rather, we have chosen to apply a duty-risk analysis in determining the extent of a party's liability.   Pierre v. Allstate Insurance Co., 257 La.471,
+242 So. 2d 821
+, 830 n. 2 (1970). Under this approach, there must be a finding of causation-in-fact and a determination of whether the law imposes a duty under the circumstances and, if so, whether the particular risk which occurred is within the scope of the protection extended by the imposition of the duty. We conclude the duty of a tortfeasor not to injure a victim includes the risk that due to his weakened physical condition, the victim would require the assistance of a medical device or appliance to accomplish his daily tasks, and that such device might be defective, further injuring the victim. Without deciding this particular case, we believe it possible to find an ease of association between a defendant's duty not to injure a plaintiff and the risk that a plaintiff's weakened condition will necessitate his use of a shower chair in order for him to be able to take a shower and that the shower chair might be defective somehow and collapse.[11]
+
+Therefore, even though we have earlier determined that the lower courts correctly applied the law under Weber to the facts presented them in this case, we nevertheless remand to the trial court for further proceedings consistent with this opinion. Since we have not previously recognized the integration of this established "weakened condition" tort theory into Louisiana's scheme of liability, a remand is necessary to an adequate determination of the respective rights of the parties in light of this development. The case should be remanded for an evidentiary hearing on the exception of prescription or referral of the exception to the merits, to be ruled on after the evidence is in.
+
+VACATED AND REMANDED.
+
+MARCUS, J., concurs and assigns reasons.
+
+WATSON, J., concurs in the referral of the exception to the merits only; otherwise he dissents.
+
+HALL, J., concurs and assigns reasons.
+
+MARCUS, Justice, concurring.
+
+I concur, being of the opinion that the "weakened condition theory" espoused by the majority as an "additional theory or approach" to tort liability not previously utilized by our courts is merely a factual determination, under the circumstances, of whether the particular risk which occurred was within the scope of the duty owed by the original tortfeasor.
+
+HALL, Justice, concurring.
+
+The issue of whether the initial tortfeasor is liable for the injuries plaintiff sustained when the shower chair broke, and is therefore a solidary obligor or joint tortfeasor with the hospital which provided the shower chair, should be determined under the duty/risk analysis and the holding of this court in Weber v. Charity Hospital of Louisiana,
+475 So. 2d 1047
+(La.1985). As is often the case, the prescription issue cannot be decided without evidence and fact finding. The record is inadequate to make this determination, and the trial court erred in sustaining the exception of prescription. I agree that the case should be remanded for an evidentiary hearing on the exception of prescription, or referral of the exception to the merits, to be ruled on after the evidence is in.
+
+[*]  Pursuant to Rule IV, Part 2, § 3, Dennis, J., was not on the panel which heard and decided this case. See the footnote in State v. Barras,
+615 So. 2d 285
+(La.1993).
+
+[1]  607 So. 2d 1003 (La.App.3d Cir.1992).
+
+[2]  612 So. 2d 44 (La.1993).
+
+[3]  Civil Code Article 1799 states:
+
+The interruption of prescription against one solidary obligor is effective against all solidary obligors and their heirs.
+
+Civil Code Article 3503 states in part:
+
+When prescription is interrupted against a solidary obligor, the interruption is effective against all solidary obligors and their successors.
+
+[4]  For purposes of solidary liability, it does not matter that MI's alleged liability may be for all damages and HMCH's alleged liability is only for the damages resulting from the collapsing chair, nor is it relevant that one party may be liable in negligence and one under strict liability. As we stated in Weber v. Charity Hasp. of La.,
+475 So. 2d 1047
+, 1050-51 (La.1985), "two defendants may be solidarily liable for those damages for which plaintiff can compel either to pay, even though other elements of damages may be recoverable only against one of the defendants. It is the coextensiveness of the obligations for the same debt, and not the source of liability, which determines the solidarity of the obligation." See also Williams v. Sewerage & Water Bd. of New Orleans,
+611 So. 2d 1383
+, 1388 (La.1993) and cases cited therein.
+
+[5]  The court remanded for a determination of whether or not the hospital and blood supplier were liable at all, under theories of negligence or strict liability, for the damages resulting from the blood transfusion. 475 So. 2d  at 1052 n. 5. The court noted, however, that even if the treatment had not been performed in such a manner as to render the hospital or blood supplier liable, the original tortfeasor may nevertheless be assessed with the damages resulting from the medical treatment of the injuries caused by his fault. 475 So. 2d  at 1050 n. 2. Thus, as this court stated, while "[n]egligence in treatment ... may be pertinent to the liability of the party rendering the medical services," and to a finding of solidary liability between the medical service provider and the original tortfeasor, it is irrelevant to a finding that the original tortfeasor is liable for damages resulting from the medical treatment.
+
+[6]  Plaintiffs assert that bathing is treatment because patients must remain clean in order to preserve a sterile atmosphere. While cleanliness of all patients might help a hospital pursue some other goals, like meeting health codes or preserving the sterility of an operating room, Weber would require that the cleanliness be required to treat this particular patient's original injuries. In this case, staying clean has nothing to do with John Paul's original internal, soft-tissue type injuries. On the other hand, bathing might be considered medical treatment for a burn victim.
+
+[7]  See Restatement (Second) of Torts § 457, comment b, (1965) ("[T]here is a risk involved in the human fallibility of physicians, surgeons, nurses, and hospital staffs which is inherent in the necessity of seeking their services.").
+
+[8]  We note this court responded affirmatively to the parties' joint offer to submit various depositions and medical records to this court. These documents, however, do not contain any information which would allow this court to make a definitive ruling in this case.
+
+[9]  See, e.g., Restatement (Second) of Torts, § 460 (1965) ("If the negligent actor is liable for an injury which impairs the physical condition of another's body, the actor is also liable for harm sustained in a subsequent accident which would not have occurred had the other's condition not been impaired, and which is a normal consequence of such impairment."); McCormick on Damages, § 76 (1935) ("It happens frequently, especially in cases of leg injuries, that the victim, due to his weakened condition, suffers a fall and a new injury. When this happens in the exercise of due care, and is actually caused by the crippled condition resulting from the original injury, liability for the new disability is undoubted."); 22 AmJur 2d § 291.
+
+These sources recognize that when determining the extent of liability and damages for which the original tortfeasor will be responsible, there are several theories, of which the Weber and weakened condition approaches are only two, which extend the tortfeasor's liability beyond the immediate and direct consequences of his act. See Restatement, §§ 454-61; McCormick, § 76; and 22 AmJur §§ 284-90. The various theories include the following as stated in McCormick:
+
+It is usually held that
+
+(a) ....
+
+(b) If the injury brings on a new ailment such as blood poisoning, infection, or pneumonia, the wrongdoer is accountable.
+
+(c) If injury induces a weakened condition which renders the victim especially susceptible to disease, which he would otherwise have been able to resist, and he is actually attacked and succumbs, the wrongdoer is by the better view accountable.
+
+(d) If the injury causes the victim to become insane or delirious, and he injures or kills himself, the wrongdoer is liable for the death or injury only provided the victim did not at the time realize the nature of his act.
+
+(e) The wrongdoer is liable for the consequences of negligent or unskillful treatment by the physician of the injured person, provided that he used reasonable care to select a reputable physician.
+
+(f) If, as a result of a crippled or weakened condition due to the injury, the victim suffers a new accident and injury, the original wrongdoer is accountable if the new injury was not due to the victim's own carelessness.
+
+[10]  See also Schnabel v. Waters, 37 Colo.App. 498, 549 P.2d 795, 799 (Colo.App.Div. Ill 1976) ("That a party injured in an automobile accident might later fall and suffer further injuries while attempting to recuperate is fully within the ambit of foreseeable consequences likely to flow as a natural result of the original injury."); Nikisher v. Benninger, 377 Pa. 564, 105 A.2d 281, 284 (1954); City of Port Arthur v. Wallace, 171 S.W.2d 480, 483 (Tx.1943); and Squires v. V.F. Reynolds, 125 Conn. 366, 5 A.2d 877, 880 (1939).
+
+[11]  Regarding cause-in-fact, a plaintiff would not need to use such a special, medical device but for the existence of his weakened physical condition. Thus, the original tortfeasor would not be liable for the injuries a plaintiff would sustain if due to his physical condition he sat in a recliner chair at home, and the chair fell over. One cannot say that but for his weakened physical condition, plaintiff would not have sat in the chair.

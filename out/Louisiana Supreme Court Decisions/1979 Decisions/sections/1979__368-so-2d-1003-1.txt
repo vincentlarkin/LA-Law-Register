@@ -1,0 +1,122 @@
+62946
+Niemann v. Travelers Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1979/368-so-2d-1003-1.html
+
+62946
+Niemann v. Travelers Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1979-03-05
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/368-so-2d-1003-1.html
+
+368 So. 2d 1003 (1979)
+
+Clarence NIEMANN
+v.
+TRAVELERS INSURANCE COMPANY.
+
+No. 62946.
+
+Supreme Court of Louisiana.
+
+March 5, 1979.
+
+Rehearing Denied April 9, 1979.
+
+*1004 Gregory W. Roniger, Dalton, Gillen & Roniger, Jefferson, for plaintiff-applicant.
+
+Grayson H. Brown, New Orleans, for defendant-respondent.
+
+CALOGERO, Justice.[*]
+
+The issue presented in this litigation is whether a "consent to settle clause" in an uninsured motorist policy is valid and operative, and whether a plaintiff who without his UM carrier's consent settles and releases an Underinsured[1] tortfeasor and that tortfeasor's liability insurance carrier has defeated his cause of action against the UM carrier.
+
+Plaintiff Clarence Niemann, a guest passenger in a vehicle with UM coverage with Travelers Insurance Company, was injured in a two-car accident caused by the driver of the other vehicle. That other driver, James L. Warmack, carried a liability insurance policy with State Farm Insurance Company with $10,000 per person liability limits.
+
+Thereafter plaintiff compromised his claim against Warmack and State Farm for $9,750, $250 less than State Farm's $10,000 policy limits, and executed releases in favor of Warmack and State Farm.
+
+Plaintiff then brought the present suit against Travelers based on the underinsured motorist coverage afforded by the policy of his host driver. He contends that his damages exceeded State Farm's $10,000 policy limits and that Warmack was thus underinsured, and as such, uninsured within the provisions of R.S. 22:1406 D. Travelers' third party action against State Farm was dismissed after State Farm filed exceptions based upon the releases of State Farm and Warmack executed by plaintiff.
+
+Travelers then filed a motion for summary judgment claiming that plaintiff's settlement with and release of Warmack and State Farm were executed without its consent in violation of the policy's consent to   settle clause and that the release substantially impaired Travelers' claimed right of subrogation against the underinsured motorist Warmack. Travelers' motion for summary judgment was granted. Plaintiff then appealed to the Fourth Circuit Court of Appeal which affirmed the district court's ruling.[2] We granted writs upon application of plaintiff.[3]
+
+Defendant relies upon R.S. 22:1406 D(4) to be recited in full hereinafter and two provisions of the policy to support the argument that plaintiff's settlement with and release of Warmack and State Farm defeated his cause of action.
+
+The two policy provisions are as follows:
+
+"Conditions
+
+"30. Subrogation Parts I, II, III* and V In the event of any payment under this policy, the company shall be subrogated to all the insured's rights of recovery therefor against any person or organization and, with respect to Part II, all the rights of recovery therefor which the injured person or any one receiving such payment may have against any person or organization. The insured, or with respect to Part II such person, shall execute and deliver instruments and papers, do whatever else is necessary to secure such rights and shall do nothing after loss to prejudice such rights.
+
+*[Protection Against Uninsured Motorists]
+
+"Part III Protection Against Uninsured Motorists
+
+"Exclusions
+
+This policy does not apply under Part III:
+
+Plaintiff concedes that he settled with and released the underinsured motorist Warmack and the liability insurer, State Farm, without the consent of his UM carrier (the defendant), and that by such releases he adversely affected defendant's opportunity to recover from Warmack any part of the money defendant owes plaintiff under the policy. He seeks to convince us, however, that the consent to settle clause is invalid, that Travelers in any event is entitled to no subrogation right against Warmack, and that his right to collect under the policy is unaffected by the settlement and releases.
+
+In support of his argument that the consent to settle clause in Travelers' policy is invalid, plaintiff relies upon Hebert v. Green, 311 So. 2d 223 (La.1975) in which this Court refused to uphold a similar consent to settle clause. In Hebert, the plaintiff was injured when the vehicle in which he was a passenger was struck by one or the other, or both, of two vehicles. The driver of one vehicle was insured by Allstate, the other uninsured. Plaintiff filed suit naming as defendants the insured driver, that driver's liability insurer, the uninsured driver, and State Farm as the UM carrier for the vehicle in which he was a passenger. While suit was pending, plaintiff settled with the insured driver and Allstate and reserved his rights against State Farm and the uninsured driver. When State Farm moved for summary judgment claiming that plaintiff's settlement with the insured driver without its consent violated the consent to settle clause and thus triggered the exclusion in the policy, summary judgment was granted.
+
+As we indicated in footnote number three in the Hebert opinion, we considered there the validity of a consent to settle clause only as it related to a settlement with an insured tortfeasor, not with the uninsured tortfeasor; and we were not concerned with validity of the clause as it relates to a settlement with an insured tortfeasor who   under the 1972 and 1974 amendments to the UM statute may be uninsured by virtue of being underinsured.
+
+Unlike the present case, there was no need in Hebert to determine whether the policy's subrogation and consent to settle clauses conflicted with the UM statute, for even assuming a subrogation right in the carrier, we found that the UM carrier could not have been prejudiced by the settlement of the case.[4] We thus concluded that the consent to settle clause was invalid because it served no purpose other than to abrogate the UM coverage mandated by R.S. 22:1406 D.
+
+The present case presents a different situation. The very person (the underinsured) against whom the UM carrier claims subrogation rights has been released by plaintiff. If defendant does have subrogation rights, he cannot be otherwise than prejudiced. If defendant has subrogation rights which may be affected by plaintiff's release of an underinsured motorist, the consent to settle clause serves a purpose to protect those rights.
+
+The question in this case then, the one in effect pretermitted in Hebert v. Green, is whether defendant has any rights which have been impaired by plaintiff's settlement with and release of Warmack and State Farm.
+
+Our UM statute, R.S. 22:1406 D, mandates uninsured motorist coverage: "No automobile liability insurance covering liability . . . shall be delivered or issued for delivery in this state . . . unless coverage is provided therein . . . for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of uninsured or underinsured motor vehicles because of bodily injury, sickness or disease, including death, resulting therefrom . . . ." (R.S. 22:1406, subd. D(1)(a)).
+
+Furthermore no provision of our statute grants the UM insurer a right to subrogation,[5] that is, the right to exercise the legal rights and actions of its insured. Rather R.S. 22:1406 D(4) affords only certain reimbursement rights in the following language:
+
+Defendant's claim to subrogation is based on a provision which it has written into the policy. And it is this subrogation policy provision which creates the need for the other policy clause at issue here, consent to settle. It is our ultimate conclusion that the statute neither explicitly nor implicitly sanctions a clause such as consent to settle, which in operation serves to block the statutorily mandated UM coverage.
+
+*1007 Just what are defendant's rights under R.S. 22:1406 D(4)? As we read the literal language of the statute, it is to receive ("be entitled to") the proceeds of any settlement or judgment which has resulted or might result ("resulting") from the exercise of the insured's rights against the uninsured tortfeasor (and by implication the underinsured tortfeasor).[6]
+
+In the instant case, defendant's right under R.S. 22:1406 D(4) is worthless. Because the liability insurer is obligated under the liability insurance policy to defend its insured and will not as a practical matter settle without securing a release of the insured, plaintiff is compelled by a legitimate and non-fraudulent need to release the tortfeasor and his insurer. As a result of this release, defendant will be unable to secure reimbursement. No settlement or judgment has or will "result from the exercise of the insured's rights against" the underinsured tortfeasor with respect to that portion of plaintiff's damages concerning which defendant would otherwise have reimbursement rights.
+
+If we presuppose that by the statute it was intended that defendant have subrogation rights, or rights greater than afforded by R.S. 22:1406 D our result in this case seems harsh. On the other hand there are equally compelling reasons of public policy to resist a broad interpretation of R.S. 22:1406 D(4) which would allow the insurer to incorporate in his policy subrogation and consent to settle clauses. Why should the insurer, mandated by statute to afford UM coverage and receiving a premium for exposure over liability limits of the underinsured motorist, have the right to interfere with its insured's settlement with a liability carrier within policy limits, and that carrier's insured?
+
+Whatever the respective arguments of the parties along these lines, we find it inadvisable and unnecessary to decide this case on considerations of public policy.[7]
+
+On the basis alone of statutory interpretation, we find that the UM insurer has no right under R.S. 22:1406 D(4) other than the right to reimbursement from such proceeds, if any, that the insured in fact recovers from the underinsured tortfeasor.
+
+The policy's subrogation clause, and the consent to settle clause which protects that purported right of subrogation, serve no legally authorized purpose. They simply impede the insured's assertion of that part of his damage claim (against the tortfeasor's liability insurer) which the carrier in writing underinsured motorist coverage   effectively acknowledged would be an independent or supplemental right of recovery of its insured. And assuming the insured is compelled, in the interest of securing sure and early settlement with the tortfeasor's liability insurer, to settle without the UM carrier's consent (a consent which may be arbitrarily withheld if full import is afforded the clause), the consent to settle clause serves as a bar to the UM coverage mandated by statute.
+
+The apparent conflict between the UM carrier's right to reimbursement of sums paid its insured from proceeds to be derived from the underinsured tortfeasor, and the insured's unfettered right to settle with the underinsured and his liability insurance carrier seems to have been caused inadvertently by the Legislature's passing the 1972 and 1974 amendments to the UM statute without, at the same time, amending R.S. 22:1406 D(4), the reimbursement provision. As originally enacted by Act 187 of 1962, R.S. 22:1406 D, including subsection four's reimbursement provision, applied only to uninsured motorist coverage. In the event of payment to its insured the UM carrier retained a right to be reimbursed from any recovery by the insured from the uninsured tortfeasor. Absent fraud or other improper motive, the insured had no reason to release the uninsured tortfeasor without payment.
+
+In 1972, however, when the UM statute was extended to cover underinsured motorists, the situation changed. The UM carrier with larger limits than the tortfeasor's liability policy was then obligated to pay a portion of the insured's damages, that which exceeded the underinsured tortfeasor's liability coverage (but not more than the UM limits). And the 1974 amendment further extended the underinsured motorist coverage to have the UM coverage apply (somewhat as "excess" insurance, as held in Whitten, supra irrespective of whether UM limits exceeded tortfeasor liability limits provided damages exceeded the tortfeasor's liability limits. (See footnote 1). Because of the 1972 and 1974 amendments the insured now has a legitimate motive for releasing the underinsured tortfeasor and his insurer to collect by settlement the underinsured's policy limits or an acceptable portion thereof, proceeds which the UM statute and the UM insurer contemplate will be available to the insured in addition to the UM proceeds.
+
+Subsection four's provision for reimbursement of such proceeds as result from the exercise of rights of recovery of the insured, an adequate reimbursement provision for the insurer when the insured had no legitimate incentive to release the uninsured motorist, falls short of affording the carrier meaningful recovery rights in the situation where the insured has legitimate reason to release the underinsured motorist from liability exposure in excess of liability insurance limits. If the UM carrier is to be afforded a right to subrogation or any other right more meaningful than that granted by R.S. 22:1406 D(4), the statute will have to be amended by the Legislature.
+
+It is for these reasons that we find the subrogation clause of the policy illegal, and the consent to settle clause without binding effect upon the insured and invalid. Although this issue is res nova in Louisiana other courts have considered the issue and have similarly concluded that a consent to settle clause in situations rather similar to this is invalid. See Gulf American Fire & Casualty Co. v. McNeal, 115 Ga.App. 286,
+154 S.E.2d 411
+(1967) and Guthrie v. State Farm Mutual Automobile Insurance Co.,
+279 F. Supp. 837
+(D.S.C.1968).
+
+For these reasons the judgments of the district court and the Court of Appeal maintaining defendant Travelers' motion for summary judgment are reversed. The case is remanded to the district court for further proceedings.
+
+JUDGMENT OF COURT OF APPEAL REVERSED; REMANDED.
+
+SUMMERS, C. J., and CULPEPPER and MARCUS, JJ., dissent.
+
+[*]  Chief Judge William A. Culpepper participated in this decision as Associate Justice Ad Hoc sitting in the place of Chief Justice Sanders, retired.
+
+[1]  Prior to Act 137 of 1972 and Act 154 of 1974, coverage under R.S. 22:1406 D extended only with respect to vehicles not covered by liability insurance, (i. e. uninsured motorist). Act 137 of 1972 provided that uninsured motorist coverage would be applicable when the liability limits of an insured tortfeasor are less than the limits of an insured claimant's uninsured motorist coverage. Act 154 of 1974 extended this underinsured motorist coverage to the situation in which the liability limits applicable to the insured tortfeasor's vehicle are exceeded by the damages suffered by the insured and/or the passengers in the insured's vehicle, irrespective of whether UM limits exceeded tortfeasor's liability limits.
+
+[2]  Niemann v. Travelers Insurance Company, 360 So. 2d 564 (La.App. 4th Cir. 1978).
+
+[3]  Niemann v. Travelers Insurance Company, 362 So. 2d 1388 (La.1978).
+
+[4]  We so concluded for the reason that the UM carrier's liability to the insured and corresponding entitlement to recover would not exceed the uninsured motorist's reduced liability to plaintiff (a reduction to one-half prompted by plaintiff's releasing one of two joint tortfeasors. See Harvey v. Travelers, 163 So. 2d 915 (La. App. 3rd Cir. 1964)).
+
+[5]  Articles 2159, 2160 and 2161 of the Louisiana Civil Code provide for conventional and legal subrogation. Through subrogation, an obligation which is extinguished with regard to the subrogor is continued to the benefit of the subrogee who is authorized to the extent that he has paid to avail himself of the rights and actions of the original subrogor. See 4 Aubry et Rau, Cours de Droit Civil Francais, no. 321 (6th ed. 1946). A subrogee is "figuratively put in the shoes of the creditor which means that all laws applicable to the latter, in the enforcement of rights and remedies, apply with equal force to the former." International Paper Co. v. Arkansas & Louisiana M. R. Co., 35 So. 2d 769, 771 (La.App. 1948).
+
+[6]  The UM carrier has no right to reimbursement from the underinsured tortfeasor's liability insurer once plaintiff has negotiated a settlement as to that insurer's liability within the policy limits. The 1974 amendment to R.S. 22:1406 D in effect makes UM coverage "excess" coverage. Whitten v. Empire Fire and Marine Insurance, 353 So. 2d 1071 (La.App. 2d Cir. 1977). The UM carrier has no obligation to pay that portion of plaintiff's damages within the underinsured tortfeasor's liability policy limits but only those damages which exceed the policy limits and which are within the UM policy limits. Thus, the UM carrier's only right to reimbursement in the event of payment is with respect to recovery of that part of plaintiff's claim which exceeds the tortfeasor's liability limits, a sum as to which only the tortfeasor is exposed.
+
+[7]  Nonetheless we point out here what we stated in Hebert v. Green:
+
+"It is not in the best legal interest of the public to require that legal representatives of parties to these actions first receive consent from their client's own uninsured motorist carrier before settling actions with other parties who may or may not be found ultimately liable for plaintiff's injuries. A well recognized principle of our law is that compromises are to be favored. If a client's interests are to be most favorably promoted through the device of settlement and compromise, the attorney involved cannot afford to operate at the whim, or subject to the direction and consent, of an insurance company's claims representative. This is especially so when the consent (required by the exclusion clause at issue) can be withheld in regard to plaintiff's claims against other parties whose possible liability could only be determined by trial and a consequential adjudication. A just weighing of the factors involved requires that the best interests of the public be protected by assuring that the plaintiffs-insureds be given a fair opportunity to recover by means of litigation, if necessary, the fruits of the coverage for which they have readily paid premiums." 298 So. 2d  at 913.

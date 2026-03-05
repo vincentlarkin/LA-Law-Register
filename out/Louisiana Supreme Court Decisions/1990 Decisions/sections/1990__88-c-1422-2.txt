@@ -1,0 +1,375 @@
+88-C-1422
+Fowler v. Roberts
+https://law.justia.com/cases/louisiana/supreme-court/1990/88-c-1422-2.html
+
+88-C-1422
+Fowler v. Roberts
+Court: Louisiana Supreme Court
+Release date: 1989-09-12
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1990/88-c-1422-2.html
+
+556 So. 2d 1 (1989)
+
+Marvin F. FOWLER, et al.
+v.
+Bobby R. ROBERTS, et al.
+
+No. 88-C-1422.
+
+Supreme Court of Louisiana.
+
+September 12, 1989.
+
+Rehearing Granted October 12, 1989.
+
+On Rehearing February 5, 1990.
+
+Dissenting Opinion February 9, 1990.
+
+*2 Robert L. Roshto, Baton Rouge, for applicant.
+
+R. Wayne Smith, Ruston, Robert P. Hogan, Raleigh Newman, Lake Charles, Charles H. Heck, Theus, Grisham, Davis & Leigh, Monroe, for respondent.
+
+LEMMON, Justice.
+
+The principal issue in this case is whether the State Department of Public Safety (DPS) is liable for damages sustained by plaintiffs in a three-car collision caused by defendant Bobby R. Roberts while Roberts was undergoing the effects of a seizure. The basis of plaintiffs' claim against DPS was that DPS issued a virtually unrestricted driver's license to Roberts with full knowledge that he was prone to seizures and without requiring any monitoring or subsequent evaluation of the known condition, and that DPS later automatically renewed the license of the seizure-prone driver at a time when Roberts   was regularly experiencing seizures which could no longer be controlled by medication. We hold that a driver's licensing agency which issued a license to an applicant known to be subject to a condition that produced seizures in the past and was likely to do so in the future, which failed to institute reasonable procedures for monitoring the condition of the driver, and which automatically reissued the license three years later without inquiry into the driver's current condition, may be held liable to motorists injured in an accident caused by the driver's operation of a vehicle while under the effects of a seizure.
+
+Facts
+
+The October, 1983 accident occurred when Roberts' car, traveling at an excessive speed, struck the rear of a car driven by Evelyn Fowler, causing the Fowler vehicle to collide with an oncoming car driven by Hugh Winfree. Mrs. Fowler and an occupant of the Winfree vehicle were killed, and Winfree, his wife and another occupant were seriously injured. At the time of the collision Roberts was suffering the effects of a seizure.
+
+Roberts' seizure disorder resulted from a severe head injury in 1966 at age twenty-three. The injury left him with permanent brain damage, partial paralysis of his left side, and some memory impairment. He later developed seizure disorders which grew progressively worse. Because of his medical condition, he was unemployable.
+
+When Roberts moved to Louisiana from Texas in 1968, he did not have a Texas driver's license. In 1975 he attempted to obtain a Louisiana driver's license, voluntarily disclosing his seizure disorder. He was given a medical report form to be completed by his doctor verifying that he had been seizure-free for a period of one year. He did not return to DPS until 1977 when he applied for a license as a "new driver", indicating on his application the fact of the prior denial. He submitted a completed medical report form on which a doctor recited that Roberts had been seizure-free for one year, was under regular medical care, and was taking medication to control the disorder.[1] The report further contained a positive answer to a request for the doctor's opinion whether the applicant was capable from a medical standpoint of safely operating a motor vehicle.
+
+On the basis of the medical report DPS issued Roberts a standard driver's license, but did not instruct him to notify DPS if he had further seizures or require him to update the medical report periodically as to his current condition. Further, while Roberts' license contained an "05" restriction limiting him to driving an automatic transmission vehicle because of his partially paralyzed arm and leg, the license contained no indication of his seizure disorder which would alert future licensing officers to that condition and to his need for regular medical care and medication.[2]
+
+In 1980 Roberts' license was automatically renewed for four years at the same DPS office, without any inquiry as to recent seizures. At that time Roberts' seizures could no longer be controlled by medication, and he was experiencing seizures regularly.
+
+On the day of the accident Roberts failed to take the medication prescribed for his condition. While preaching as a lay Pentacostal minister to a group of prison inmates, he became dizzy and asked for their prayers. When he left the prison, he drove his car off the road into a ditch. He refused help and drove toward the highway, insisting he was able to continue on his way.
+
+At various points along the highway witnesses saw Roberts driving very erratically with his head slumped over the steering wheel, driving alternately very slow and   fast, stopping briefly in the road, weaving on and off the road, and forcing several vehicles off the road. The inevitable collision occurred about fifteen miles from the prison. Roberts did not remember anything that occurred after the preaching services.
+
+After the ensuing bench trial judgment was rendered holding Roberts and DPS solidarily liable for plaintiffs' damages, with fault allocated equally between them. As to DPS, the judge reasoned that it had the duty, under its responsibility for licensing drivers on state highways, to formulate and implement rules and regulations reasonably designed to insure that drivers with seizure disorders would be properly evaluated and screened before original or renewal licenses were issued. According to the judge, the absence of a statutory requirement for such an evaluation did not render DPS immune from liability for a breach of this duty. The judge concluded that DPS breached this duty at least in connection with the issuance of the renewal license to Roberts, inasmuch as there was no procedural safeguard at the issuance of the initial license to protect against automatic renewal without required inquiry into the current condition of the known seizure-prone driver.[3] The judge further concluded that Roberts more probably than not would have refrained from driving if his license had not been renewed. Finally, citing Pierre v. Allstate Insurance Co., 257 La. 471,
+242 So. 2d 821
+(1970), the court determined that the risk encountered by plaintiffs was within the scope of protection afforded by the duty imposed on DPS.
+
+The court of appeal affirmed. 526 So. 2d 266. The court determined the source of DPS's duty by examining the highway regulatory statutes in Title 32 of the Revised Statutes and DPS's Policy/Procedure Statements in effect for the issuance and renewal of driver's licenses during the pertinent period. The court then determined DPS's liability by using the duty-risk analysis, essentially paralleling the analysis used by the trial court. Citing Stewart v. Schmieder,
+386 So. 2d 1351
+(La.1980), the court first pointed out that a public agency may be held liable for a breach of duty owed to the general public. As to the policy analysis regarding imposition of liability on a driver's licensing agency which breaches its duty to establish adequate procedures in monitoring handicapped drivers, the court noted the significant difference between licensing a handicapped driver whose condition does not require periodic monitoring (such as a driver with a paralyzed leg) and licensing one whose condition does require such monitoring (such as a seizure-prone driver under medication to control that condition). The court concluded that DPS should be held liable because it failed to provide any safeguards whatsoever after the initial licensing of a known seizure-prone driver.
+
+We granted certiorari because of the important public policy questions involving the liability of a governmental agency in performing a governmental function.[4] 531 So. 2d 257.
+
+Duty-Risk Analysis
+
+The determination of liability in a negligence case usually requires proof of five separate elements: (1) proof that the defendant had a duty to conform his conduct to a specific standard (the duty element); (2) proof that the defendant's conduct failed to conform to the appropriate standard (the breach element); (3) proof that the defendant's substandard conduct was a cause-in-fact of the plaintiff's injuries (the cause-in-fact element); (4) proof that the defendant's substandard conduct was a legal cause of the plaintiff's injuries (the scope of liability or scope of protection element); and (5) proof of actual damages (the damages element). The first element is usually a judge question, and the other   four are usually jury questions unless reasonable minds could not differ. D. Robertson, W. Powers, Jr. & D. Anderson, Cases and Materials on Torts 83-84 (1989).[5]
+
+Prior to this court's decision in Dixie Drive It Yourself System v. American Beverage Co., 242 La. 471,
+137 So. 2d 298
+(1962), Louisiana courts generally determined liability by using the proximate cause approach, wherein the third and fourth elements were effectively combined into a jury question whether the defendant's substandard conduct was a proximate cause of the plaintiff's injuries. This approach was easy to explain to the jury. Proximate was a relatively familiar word, meaning, "very near" or "next immediately preceding or following". Webster's Third New International Dictionary (1971). But while the proximate cause approach was simple, it had a false simplicity that ignored complicating factors, particularly in the case of multiple defendants. It appealed to reactions that were ultimately visceral in nature. Robertson, Reason versus Rule in Louisiana Tort Law: Dialogues on Hill v. Lundin & Associates, Inc., 34 La.L.Rev. 1 (1973).
+
+Determination of causation by first determining whether the defendant breached a standard of care imposed on him and then testing for proximate cause also tended to exclude from liability all but the defendant whose negligence occurred latest in point of time. Because the proximate cause approach often included distinctions between active and passive negligence, there was a tendancy to place further undue emphasis on the chronology of acts or omissions. As a consequence, many tort cases determined by the proximate cause approach resulted in holding only one defendant liable, even though two or more parties were guilty of substantial contributing misconduct. Another important weakness of the proximate cause approach was that it failed to determine factual causation in relationship with the other issues in the case which affect liability, rendering the approach relatively devoid of flexibility and of opportunity for analytical examination.
+
+The duty-risk approach to determining liability in negligence cases was adopted in Dixie and subsequently refined in Pierre v. Allstate, 257 La. 471,
+242 So. 2d 821
+(1970). The decision in Pierre employed the method of determining causation first by inquiring into cause-in-fact, and then determining whether there is a duty imposed under the law, whether the risk is within the scope of protection contemplated by imposition of that duty, and whether there is a breach of that duty which calls for a response in damages. Id. 242 So. 2d  at 830 n. 2. In most cases the result from applying either approach will be the same. However, the duty-risk approach is more policy orientated and offers a better opportunity for use of logic and reasoning, particularly when the critical issue in the case involves the scope of protection contemplated by the statute or rule of law which imposed the duty that was breached.
+
+Cause-in-Fact Element
+
+Cause-in-fact is usually a "but for" inquiry which tests whether the injuries would not have occurred but for the defendant's substandard conduct.[6]
+
+In the present case DPS contends that its conduct was not a cause-in-fact of this accident, arguing first that the cause-in-fact was Roberts' failure to take his medication. The medical evidence credited by the trier of fact established that Roberts' seizure disorder could not be controlled by medication at the time of the accident. Furthermore, there can be more than one cause-in-fact of an accident, and Roberts' failure to take the medication was a cause-in-fact inquiry pertinent only to his liability. The inquiry as to DPS's liability   is not whether DPS's failure to monitor the licensed driver's taking of medication was a cause-in-fact of this catastrophe, but rather whether a cause-in-fact was DPS's failure to establish reasonable procedures for monitoring the known seizure disorder that was likely to become dangerous.
+
+DPS further argues that Roberts would have driven his car that day even if he had not been licensed. Therefore, according to DPS, one cannot reasonably conclude that, but for its action in issuing and renewing the license, the accident would not have occurred.
+
+Roberts, although licensed, essentially limited his driving to his Sunday preaching trips. The trial judge, observing that Roberts exhibited a "great sense of right and wrong", accepted the testimony of Roberts and his wife that he would not have driven his car at all without a valid license.[7] We cannot say that the judge manifestly erred in this regard.
+
+Duty Element
+
+The most critical issue in the present case is whether there was a duty imposed by statute or rule of law on DPS, when the applicant being licensed was known to have a seizure disorder which forseeably might worsen and make his driving a hazard on the highway, to adopt procedures to monitor the continuation of the licensed status of the driver by requiring periodic examinations, by restricting the license, or by some other means.
+
+The duty issue in the determination of liability in negligence cases is often confused with the scope of liability or scope of protection issue. The former usually questions the existence of a duty, while the latter (which assumes that a duty exists) usually questions whether the plaintiff's injury was one of the risks encompassed by the statute or rule of law which imposed the duty.
+
+The following method has been suggested for distinguishing between the duty element and the scope of protection element in negligence cases:
+
+D. Robertson, W. Powers, Jr. & D. Anderson, Cases and Materials on Torts 161 (1989). The authors therefore submit that the duty element normally comes into question when there is a categorical rule excluding liability as to whole categories of claimants or of claims. See Donaca v. Curry County, 303 Or. 30,
+734 P.2d 1339
+(1987). On the other hand, the scope of protection element comes in question when there is a fact-sensitive case that may require limitation of the "but for" consequences of the defendant's substandard conduct. Determination of the scope of protection issue is not based on a categorical rule, but on a case-by-case decision whether liability should be imposed under the particular circumstances. D. Robertson, supra, at 163.
+
+Implicit in DPS's "no duty" defense in this case is the proposition that DPS had no duty under any circumstances to monitor a handicapped driver who was licensed after a doctor attested to the fact that he was then medically capable of operating a vehicle   safely. This argument is similar to the public duty doctrine rejected by this court as a categorical rule in Stewart v. Schmieder,
+386 So. 2d 1351
+(La. 1980). In the Stewart case this court held that a parish building inspector, whose duties under the Building Code included the examination of engineering plans and specifications for building the structure and the inspection of construction for compliance with safety ordinances, may be held liable, based on the negligent performance of these duties, to persons injured by the collapse of the improperly designed or constructed building.
+
+The public duty doctrine involves the intellectually questionable concept that when a governmental body owes a duty to everyone, the result is a duty to no one. See Stone & Rinker, Governmental Liability for Negligent Inspections, 57 Tul.L. Rev. 328 (1982). The immunity for governmental bodies conferred by this doctrine was properly rejected by this court as a categorical rule in Stewart. On the other hand, the Stewart decision did not hold (and we do not here hold) that a governmental body will be liable any time a person's injury could have been prevented by a public official's proper performance of an inspection or similar function. The existence of a duty and the scope of liability resulting from a breach of that duty must be decided according to the facts and circumstances of the particular case. We therefore conclude that governmental agencies in the performance of governmental functions may be subjected to the imposition of certain duties, the breach of which may result in liability for damages to those injured by a risk contemplated by that duty.
+
+The determination whether a particular duty should be imposed on a particular governmental agency is a policy question. A duty may be imposed by legislation or by a rule of law. As to DPS's duty here, the statutory scheme for licensing drivers generally authorizes DPS to investigate drivers and to refuse, suspend or revoke licenses. La.R.S. 32:414. In cases of handicapped persons DPS is further authorized to issue restricted licenses, La.R.S. 32:423, and to compel a licensee to submit to an examination, La.R.S. 32:424. These statutes are couched in terms of grants of authority, but do not contain any specific requirements governing the issuance or denial of licenses to handicapped persons. Nevertheless, rules of reason require DPS, which is charged with the responsibility for issuing or denying licenses, to adopt reasonable procedures to prevent issuance or automatic renewal of the license of a driver whose known physical condition poses a present danger or probable future danger to the motoring public.[8] Moreover, the authority to impose suitable restrictions on handicapped drivers arguably implies a responsibility not to issue a license to a handicapped driver without imposing suitable restrictions when the known probability of significant future danger reasonably dictates such a procedure.[9]
+
+DPS contends that there are other medical conditions which are as hazardous to driving as seizure disorders and that the magnitude of the licensing operation makes it impossible to monitor the physical condition of licensed drivers. Certainly no licensing agency can be expected to monitor the physical condition of all drivers within its jurisdiction. However, while knowledge of many handicaps does not warrant subsequent monitoring, knowledge of an applicant's seizure disorder should raise a "red flag" for licensing agencies, as was admitted by DPS's field office manager. A licensing agency simply cannot be allowed, when presented with an applicant who has had seizures in the past, who is taking   medication to control this condition and whose condition is likely to worsen and become dangerous, to license such an unfortuante person without restrictions and with automatic right of renewal, thereby turning him loose as a danger to the motoring public forever.
+
+We conclude that DPS has the duty, when it knows that an applicant for a driver's license has a seizure disorder that may be dangerous either at present or in the future, to adopt reasonable procedures designed to ensure safety on the highways not only in the initial issuance of a license, but also in the continuation of the authority to drive. We further decline to adopt a categorical rule excluding DPS from liability for failure to adopt such procedures.[10]
+
+Breach Element
+
+A handicapped driver whose condition may foreseeably become dangerous can only be licensed safely if adequate provisions are made for subsequent review of the condition. The procedures employed by DPS in licensing handicapped drivers did not provide reasonable safeguards for protecting motorists from the dangers that might result from a foreseeable worsening of the condition. While DPS did demand from initial applicants the medical report required by La.R.S. 32:403.2, the form report did not request the information necessary to determine whether the applicant should be monitored after initial issuance of the license.[11] Also missing from the procedure was a notation on the license of restrictions either requiring periodic reevaluation of a condition which was likely to become dangerous or preventing reissuance of the license without further review.[12] There was not even a procedure by which handicapped persons were instructed upon receiving a license to report any worsening of the condition. By not implementing any safeguard to alert future licensing officers about nonapparent handicaps, DPS effectively rendered the waiver provisions of La.R.S. 32:403.2 meaningless.
+
+We therefore conclude that DPS breached its duty to adopt reasonable safeguards in licensing drivers with known seizure disorders that foreseeably might worsen so as to cause future dangers to motorists on the highways.
+
+Scope of Protection Element
+
+The final issue is whether the injuries sustained in this case were within the contemplation of the duty discussed above.[13] The question is whether the risk of injury caused by a licensed driver while under the effects of a seizure is within the scope of protection of a rule of law which requires driver's licensing agencies to establish procedures in licensing handicapped drivers to monitor that condition which foreseeably may worsen.[14]
+
+*9 This court has suggested the following approach in cases with more than one cause-in-fact:
+
+Pierre v. Allstate Insurance Co., 257 La. at 499, 242 So. 2d  at 831.
+
+One cause-in-fact of this accident was the licensing agency's breach of its duty, when issuing a license to a handicapped person with a known seizure disorder which foreseeably may worsen and make his driving a hazard on the highway, to adopt reasonable procedures for monitoring the continuation of the driver's licensed status. Once this duty has been carefully delineated, it is evident that the principal purpose for imposing such a duty is the protection of other motorists using the highway from injuries caused by a handicapped person while driving under the effect of his worsened condition. The risk that the handicapped driver might harm other motorists while undergoing the effects of his condition was therefore clearly within the scope of protection contemplated by imposition of that duty.
+
+Decree
+
+The judgments of the lower courts are affirmed.
+
+COLE, J., respectfully dissents for reasons assigned.
+
+MARCUS, J., dissents and assigns reasons.
+
+DENNIS, J., dissents with reasons.
+
+COLE, Justice, dissenting.
+
+I respectfully dissent. This court should not impose upon DPS a duty to adopt and utilize monitoring procedures for drivers who, under the legislative scheme, have obtained valid licenses. In this instance, the driver involved was afflicted with a seizure disorder. I agree with DPS there are other persons whose medical conditions are as hazardous to driving as seizure disorders and the magnitude of the licensing operation makes it impossible to monitor all such persons.
+
+It is not possible to limit the scope of the duty imposed to the specific fact situation before us, as the majority seeks to do. Obviously, the new duty to monitor must be performed in all instances where DPS has knowledge of a handicap or medical condition that renders the driver a special risk to the motoring public. Perhaps such is a worthwhile goal but it should be a legislative goal, one to be balanced against practicality and the availability of public funds to achieve the result. I suggest we are remiss in judicially intruding into this area of governmental responsibility. Judicial restraint is appropriate.
+
+MARCUS, Justice (dissenting).
+
+I do not consider that the Department of Public Safety has a duty to monitor a handicapped driver who was licensed after a doctor attested to the fact that he was medically capable of operating a vehicle safely. To hold otherwise, as did the majority, places an undue burden on the department. Accordingly, I respectfully dissent.
+
+DENNIS, Justice, dissenting.
+
+I respectfully dissent. As the majority opinion notes, we granted certiorari in this case "because of the important public policy questions involving the liability of a governmental agency in performing a governmental   function." Unfortunately, the Court pays little attention to these questions in its opinion, but treats the case as if it presents nothing more than a typical "duty" or "legal cause" problem to be resolved according to foreseeability principles.
+
+This case raises the very important question of where courts should draw the line in recognizing governmental immunity from suit or liability. Although sovereign immunity has been largely abolished in our state and others, most authorities recognize that judicial review of executive action in tort suits or otherwise presents some degree of threat to the independence of the executive and the separation of powers, and for this reason even where governmental immunity is generally abolished, there remain substantial areas of executive action that cannot be supervised in tort litigation. See Prosser & Keeton on Torts, § 131 at 1033, 1039 (5th ed. 1984).
+
+A legislative immunity and a judicial immunity are generally recognized to protect against the liability for legislation and for judicial decisions, even when the sovereign immunity of the state has been abolished. Prosser & Keeton, supra at 1046; Restatement (Second) of Torts, § 895B, comment c. By analogy, the state and its agencies are also protected from liability for the decisions of executive-branch employees and officers when those decisions involve the kind of basic policy issues typically involved in legislation. Prosser & Keeton, supra. The immunity is recoginized everywhere, under one name or another, and is essentially the same immunity known in federal law as the immunity for governmental conduct involving "discretionary functions or duties". 28 U.S.C.A. § 2680(a) (Federal Tort Claims Act). See Restatement (Second) of Torts, § 895B; K. Davis, Administrative Law Treatise § 27:11 (1984).
+
+Professor Kenneth Culp Davis' discussion of the rationale and the underlying theory of the "discretionary function" immunity is enlighteningly helpful. Although his observations relate mainly to discretionary immunity under the Federal Tort Claims Act, his exposition of fundamental principles is also applicable to state governmental immunity and deserves extensive quotation:
+
+Professor Davis discusses several important decisions from which he draws his conclusions as to the underlying theory of the discretionary function exception to governmental liability: Indian Towing Co. v. United States,
+350 U.S. 61
+, 76 S. Ct. 122, 100 L. Ed. 48 (1955); Dalehite v. United States,
+346 U.S. 15
+, 73 S. Ct. 956, 97 L. Ed. 1427 (1953); Beins v. United States, 695 F.2d 591 (D.C.Cir.1982); Payton v. United States, 679 F.2d 475 (5th Cir.1982); Blessing v. United States,
+447 F. Supp. 1160
+(E.D.Pa.1978). Davis, supra §§ 27:12-27:15. Significant authority also exists to support the proposition that the governmental immunity recognized by state courts is similar to or essentially the same as the discretionary immunity in federal law. See Prosser & Keeton, supra, at 1046 n. 51-55.
+
+Applying the foregoing precepts, it is clear that governmental or discretionary immunity should be invoked to protect the DPS from tort liability because the DPS's only fault in this case consisted of its negligence in making law or governmental policy. That the DPS is being held responsible for negligent policy making, rather than for any act or omission by its officers or employees in carrying out law or policy previously established by the Legislature or the DPS, is made plain by the majority opinion:
+
+Hence, this Court acknowledges that the Legislature has delegated authority to the DPS to adopt rules and procedures for the issuance and renewal of licenses; yet the majority substitutes its judgment for that of the DPS in this sphere simply because those justices believe that the agency has failed to follow a wise or reasonable policy. Consequently, under the basic principles of governmental immunity, as implied by the separation of powers, the Court has exceeded its proper role and has invaded the province of the executive and legislative branches by supervising their decisions through tort law.
+
+The majority overlooks the deeper implications of governmental immunity in the contentions of the the DPS and rejects its argument as being merely a version of the public duty doctrine rejected by this court in Stewart v. Schmieder,
+386 So. 2d 1351
+(La. 1980). The public duty doctrine, however, as the majority correctly observes, was based solely on the now discredited concept that when a governmental body owes a duty to everyone, the result is a duty to no one. The governmental or discretionary immunity, on the other hand, has a far more formidable basis  respect for the authority of coordinate branches of government under the separation of powers, doubt as to a court's competence to substitute its judgment for that of an administrative agency on questions of law or policy upon which the agency has been delegated authority to act by the Legislature, and the possibility of a "chilling" effect on effective executive action, i.e., the fear of liability may impair free exercise of the function. See Davis, supra at § 27:11; Prosser & Keeton, supra. Moreover, governmental immunity was not placed at issue or properly applicable in Stewart v. Schmieder, because the tortious conduct in that case involved a parish building inspector's   negligent acts or ommissions in reading plans and inspecting construction pursuant to adopted rules, regulations or policy and not negligence in law or policy making by a state agency.
+
+La.R.S. 9:2798.1, which was added by Act No. 453 of 1985, in pertinent part, provides:
+
+This statute recognizes the governmental or discretionary immunity in terms similar to the language of the Federal Torts Claims Act, other state statutes and numerous judicial decisions. 28 U.S.C. § 2680(a); Davis, supra; Prosser & Keeton, supra; Restatement (Second) of Torts, supra. Although the statute was enacted after the cause of action in the present case had arisen, it should not prevent this court from recognizing and applying the immunity here. Invoking governmental or discretionary immunity is properly a part of a court's duty to interpret the separation of powers clause of the Constitution, rather than a matter of mere statutory construction or jurisprudential creation in the absence of legislated law. The Legislature acknowledged as much in La.R.S. 9:2728.1(D) wherein it stated that the purpose of the statute is to "assist in the implementation of Article II of the Constitution of Louisiana" and in the interpretation of codes and laws rather than to reestablish sovereign immunity.
+
+Implementation of rules and procedures for the issuance and renewal of drivers' licenses for the protection of the public is plainly a discretionary or policy making activity. Judicial intervention in such decision making through private tort suits would require the courts to "second guess" the political, social and economic judgments of an agency exercising its regulatory function. It is precisely this sort of judicial intervention in policy making that the discretionary function immunity is designed to prevent. See United States v. S.A. Empresa de Viacao Aerea Rio Grandense (Varig Airlines),
+467 U.S. 797
+, 104 S. Ct. 2755, 81 L. Ed. 2d 660 (1984). Consequently, this Court should invoke the governmental or discretionary immunity to protect the DPS from tort liability in the present case.
+
+WATSON, Justice.
+
+In this suit for damages caused by an epileptic automobile driver who was undergoing a brain seizure, a rehearing was granted to consider whether the discretionary function exception to governmental liability[1] immunizes the Department of Public Safety for any negligence in renewing the epileptic's license to drive.
+
+Defendant, Bobby R. Roberts, had a seizure disorder which resulted from a severe head injury he received in connection with a 1965 automobile accident. In 1977, Roberts applied for a Louisiana driver's license. The application stated that Roberts suffered from seizures as a result of an automobile accident, was under medication for those seizures, and had poor use of his left arm and left leg.[2] With the 1977 application, Roberts submitted a medical report from Dr. Henry Roane to the effect that he had been seizure free for one year, was under regular medical care and was taking medication to control his disorder. The form stated that, in Dr. Roane's opinion, Roberts was medically capable of safely operating a motor vehicle. Roberts was issued a driver's license. Because of his weakness on the left side, Roberts' license had an 05 restriction to automatic transmission, but the license was not restricted to indicate his seizure disorder.
+
+In April of 1980, the license was automatically renewed at the same Department of Public Safety office. In the interim, Roberts had been suffering from seizures. At the time of the 1980 renewal, Roberts' seizures were occurring regularly and could no longer be controlled by medication. Dr. Michael Edward Boykin, who started treating Roberts in August of 1980, said that Roberts was an uncontrolled epileptic who should not have been driving or licensed to drive at that time.
+
+Rolane Clement, an employee of the Office of Motor Vehicles of the Louisiana Department of Public Safety, is responsible for all record keeping in connection with drivers' licenses and supervises approximately 250 employees. In 1980, although there was no written policy, the Department waived all medical reports for physically handicapped persons renewing their drivers' licenses.[3] Ms. Clement testified: "The statute says that we may do it and, therefore, we choose to waive all of them since we cannot require them in all cases."[4] "On any medical condition we automatically renew it without requiring a further medical report."[5] If renewal medical reports had been required, they would, like the initial medical reports, have been paid for and provided by the handicapped drivers. However, licenses issued to the physically handicapped were automatically renewed every four years just like other drivers' licenses.
+
+Roberts was a minister in the Pentecostal Church. On October 2, 1983, while giving a sermon at the Lincoln Parish Prison Farm, Roberts started suffering the effects of a seizure. He brought his sermon to a close with prayer, ran his car into a ditch outside the prison and then commenced driving north on U.S. Highway 167. His erratic driving forced several vehicles off the road. In Dubach, Louisiana, Roberts drove his car into the rear of a car driven by Evelyn Fowler. Roberts' car was traveling over 65 miles per hour, and the severe impact caused the Fowler vehicle to collide head-on with a car driven by Hugh Winfree. Evelyn Fowler and one of Winfree's passengers, Achsah Lynn Beltz, were killed. Hugh Winfree and his wife Daisy were seriously injured. Following the accident, Roberts' driver's license was officially suspended for "medical reasons,"[6] but he had already surrendered it.
+
+The purpose of requiring drivers' licenses is to insure a minimum level of competence and skill and to protect the public from improper operation of vehicles by incompetent drivers.[7] A physically handicapped   person applying for a driver's license must comply with the provisions of LSA-R.S. 32:403.2.[8] The statute requires a detailed medical report indicating the effect of the disability on operation of a motor vehicle. When such a license is renewed, the statute allows the Department of Public Safety to waive a current medical report.
+
+The Department of Public Safety argues that it has discretionary power in issuing driver's licenses under LSA-R.S. 32:419;[9] that it complied with LSA-R.S. 32:403.2 in issuing Roberts' initial license; and that it had statutory authority to waive a medical report when the license was renewed.
+
+Under LSA-R.S. 9:2798.1, public entities, such as the Department of Public Safety, are not liable for their officers' or employees' discretionary acts. The discretionary function exception to state governmental liability established by the statute is essentially the same as the exception in the Federal Tort Claims Act.[10] The FTCA exception has been read into other federal statutes as a requirement of the separation of powers' principle. See, for example, United States Fire Ins. Co. v. United States, 806 F.2d 1529 (11th Cir.1986).
+
+Discretion exists only when a policy judgment has been made. Dalehite v. United States,
+346 U.S. 15
+, 73 S. Ct. 956, 97 L. Ed. 1427 (1953). Judicial interference in executive actions involving public policy is restrained by the exception. See United State Fire Ins. Co. v. United States, supra. Thus, the exception protects the government from liability only at the policy making or ministerial level, not at the operational level. See Pendergrass v. State of Oregon,
+675 P.2d 505
+(Or.App.1984).
+
+Berkovitz v. United States,
+486 U.S. 531
+, 108 S. Ct. 1954, 100 L. Ed. 2d 531 (1988), held that there is a two step inquiry for determining whether the discretionary function exception applies in specific fact situations. A court must first consider whether the government employee had an element of choice. "[T]he discretionary function exception will not apply when a federal statute, regulation, or policy specifically prescribes a course of action for an employee to follow. In this event, the employee has no rightful option but to adhere to the directive." Berkovitz, 486 U.S.  at 536, 108 S. Ct.  at 1958-59, 100 L. Ed. 2d  at 540-41. If the employee had no discretion or choice as to appropriate conduct, there is no immunity. When discretion is involved, the court must then determine whether that discretion is the kind which is shielded by the exception, that is, one grounded in social, economic or political policy. If the action is not based on public policy, the government is liable for any negligence, because the exception insulates the government from liability only if the challenged action involves the permissible exercise of a policy judgment.
+
+If there is no room for an official to exercise a policy judgment, the discretionary function exception does not bar a claim that an act was negligent. See Arizona Maintenance Co. v. United States, 864 F.2d 1497 (9th Cir.1989). When the government acts negligently for reasons unrelated to public policy considerations, it   is liable to those it injures. See Hitchcock v. United States, 665 F.2d 354 (D.C.Cir. 1981).
+
+"Judicial review must operate to ensure that the administrative process itself will confine and control the exercise of discretion. Courts should require administrative officers to articulate the standards and principles that govern their discretionary decisions in as much detail as possible." Environmental Defense Fund v. Ruckelshaus, 439 F.2d 584, 598 (D.C.Cir.1971).
+
+Implicit in LSA-R.S. 32:403.2 is a requirement that the Department formulate policy and make rules to govern license renewals by handicapped persons without either waiving all renewal medical reports or making arbitrary decisions on an ad hoc basis. See Morton v. Ruiz,
+415 U.S. 199
+, 94 S. Ct. 1055, 39 L. Ed. 2d 270 (1974) and the discussion in Beins v. United States, 695 F.2d 591 (D.C.Cir.1982).
+
+LSA-R.S. 32:403.2 is intended to protect the public by limiting licensing of physically handicapped persons to those who have medical reports indicating that they are capable of safe driving. As to renewal licenses, the statutory intent could not have been a blanket waiver of medical reports from all physically handicapped persons. Some conditions are stable (for example, that of an amputee) and of such a nature that repeated medical examinations would be unnecessary. Others, such as Roberts' neurological condition, are progressive. The medical report waiver authority given the Department for license renewals recognizes this distinction. The legislature could not have intended that handicapped individuals would automatically have their licenses renewed without regard to their current state of disability.
+
+According to the state's admissions, all medical reports on handicapped drivers were waived for renewal applications. The Department interpreted the authority granted by R.S. 32:403.2 as allowing a blanket waiver of all medical reports on physically handicapped persons applying for renewal licenses. Granted statutory discretion, the Department of Public Safety chose not to exercise any discretion. By waiving medical examinations for all handicapped drivers applying for renewal licenses, the Department of Public Safety did not act in accord with its statutory mandate. Failure to enact guidelines for deciding when such reports could be safely waived was a breach of the Department's duty to the public.
+
+The Department of Public Safety is in the anomalous position of claiming that its failure to exercise any discretion is protected by the discretionary function exception to governmental liability. Rather than exercising discretion, the Department abdicated responsibility. There is no evidence that waiving all renewal medical reports was necessitated by policy considerations.
+
+The decision not to ask for a medical report was not a matter of choice by the state employee who renewed Roberts' license. There was no element of choice in the renewal because the Department routinely did this without inquiry. The discretionary function exception only covers the exercise of discretion or choice. If an employee has no choice, there is no immunity. When there are no standards and renewals are granted to all applicants, the operational decision to issue a renewal is not a discretionary act. Thus, the state's argument falls on the first step of the Berkovitz analysis. Assuming, arguendo, that the employee renewing Roberts' license had a choice, that choice must have been rooted in social, economic or political policy for the discretionary function exception to apply.
+
+While failure to adopt any policy might be regarded as a policy decision, the Department has advanced no rationale to justify its lack of policy. The court of appeal correctly noted: "The DPS system employed in this case provided absolutely no safeguards after the initial license was issued.... The `excuses' offered by DPS... do not rise to excuses of policy which limit the imposition of a statutory duty."[11]
+
+*17 The Department has not shown that its blanket waiver of medical reports on license renewals for handicapped drivers was motivated by any public policy considerations. If any guidelines had governed Roberts' renewal, Dr. Boykin's medical opinion would have prevented the license from being renewed. The trial court made a factual finding that Roberts would more probably than not have refrained from driving if his license had not been renewed.
+
+Since the discretionary function exception to governmental liability does not apply to immunize the Department of Public Safety for its negligence, the original opinion, as supplemented by this opinion, is reinstated.[12] The judgment of the Court of Appeal is affirmed.
+
+AFFIRMED.
+
+LEMMON, J., concurs.
+
+DENNIS, J., concurs with reasons.
+
+CALOGERO, J., dissents and will assign reasons.
+
+MARCUS, J., dissents and assigns reasons.
+
+COLE, J., dissents with reasons.
+
+DENNIS, Justice, concurring.
+
+I concur in the decision of the majority on rehearing but not for the reasons it assigns.
+
+In my opinion, the DPS should be held liable for the negligent acts and omissions of its employee, not for its failure to properly exercise its policy or rule making powers. On October 31, 1977, Mr. Bobby R. Roberts submitted an application for a license to operate a motor vehicle in this state. Contained in the application was the following pertinent information: Mr. Roberts stated that he had previously been denied a Louisiana driver's license in 1975, that his Texas driver's license had been previously revoked for "wreck/seizures," and more importantly, that his last seizure occurred in October of 1976. Because of the seizure disability, Mr. Roberts submitted a medical report along with the application. The medical report, mostly containing "Yes" and "No" answers, stated that Roberts was on medication (Dilantin and meberal, commonly used by those suffering from epilepsy), and that his seizure disorder was under control by such medication.
+
+The regulations (Policy/Procedure statements) of the DPS imposed on driver's license examiners the following requirement with respect to medical reports filed with initial license applications: "When the medical report is returned to the officer, the following consideration should be taken: 1. The report should be complete and cover in detail the disability noted. If not, it should be returned for completion...." Considering the information contained in the application regarding prior denials and revocations of Mr. Roberts' driver's licenses, and that he had his last seizure a little more than a year prior to the 1977 application, viewed in light of the fact that in most cases where the applicant has had a seizure within a year of the application, the application is automatically denied,[1] a reasonable license examiner would have proceeded with caution with respect to Roberts' application. Furthermore, a reasonable examiner would have scrutinized the medical report, and would have required, pursuant to the DPS regulations, a more detailed or complete medical report.
+
+*18 The medical report did not state whether Mr. Roberts' condition was subject to deterioration and, if so, the anticipated nature and rate of its progression. The medical report, therefore, was not complete and should have been returned for completion. If this had been done, a more complete report probably would have resulted in either a refusal to issue the license or an issuance of the license with an "09" restriction requiring a reevaluation of Roberts' epilepsy when he asked for renewal of his license. Furthermore, even if the doctor's second medical report indicated that Roberts should have been issued a license, the DPS regulations provided that if the applicant had submitted a medical report which was unsatisfactory and later presented a satisfactory report, both reports would be sent to Headquarters and to the Medical Advisory Board for recommendations. Thus, had the examiner sent the first medical report back for a more complete report this would have automatically resulted in greater scrutiny of Roberts' epilepsy and its effects upon his capacity to drive safely.
+
+The examiner certainly must be charged with the knowledge of these rules and other regulations calling attention to the necessity of heightened scrutiny of applicants with a history of epilepsy or other neurological disorders. Furthermore, the knowledge that epilepsy is a progressive disease that could drastically effect a person's ability to drive safely in the future even though the disorder might be under control presently must be attributed to any reasonably competent and knowledgeable driver's license examiner. Consequently, the examiner's failure to return the first doctor's report for complete details relating to Roberts' epilepsy, particularly as to the nature and rate of its progression, constituted negligence on the part of the examiner that caused a license to be issued to Roberts without any restrictions as to his epilepsy. The examiner's negligence set in motion the chain of events that allowed Roberts to have his license renewed automatically and to continue driving while his epilepsy deteriorated and eventually resulted in the accident in this case.
+
+I respectfully disagree with the analysis of the present majority opinion. Just as the original majority opinion, it second-guesses the law making or policy making of the DPS, rather than holding the DPS vicariously liable for the negligent act or omission of its driver's license examiner. Although the present majority adverts to the governmental immunity doctrine, it nevertheless holds the DPS liable for its failure to "formulate policy and make rules to govern license renewals without either waiving all renewal medical reports or making arbitrary decisions on an ad hoc basis." These are standards that obviously have been made up and read into the statute after the fact by the majority.[2] The statute says no such thing; it simply provides that "[t]he Department may waive the furnishing of said report by any person applying for a renewal license...." This overt judicial intrusion into the law or policy making function is not necessary in this case for the reasons expressed in the first part of this opinion. The precedent set by the majority opinion's analysis may lead this court to second-guess the wisdom of law and policy adopted (or not adopted) by administrative agencies, the executive branch and the legislative branch in a multitude of future cases. This is not the proper role of the courts under the Constitutional separation of powers and the doctrine of governmental immunity which serves to protect that separation. Accordingly, for the reasons assigned here and in my dissenting opinion on original hearing, I respectfully disagree with the reasoning of the majority.
+
+MARCUS, Justice (dissenting).
+
+The legislature has provided in La.R.S. 32:403.2 that the "department may waive the furnishing of said report [medical report required for initial license] by any person applying for a renewal license under the provisions of this Chapter." The   department reasonably interpreted this statute to allow a blanket waiver of all medical reports for physically handicapped persons renewing their drivers' licenses, and acted according to this interpretation. La.R.S. 9:2798.1 provides that liability shall not be imposed on a public entity or its officers or employees based upon the "exercise or performance or the failure to exercise or perform their policy-making" acts when such acts are within the course and scope of its lawful powers and duties. The department's policy of issuing blanket renewals of handicapped persons' licenses, without adopting guidelines requiring further review of medical reports, was authorized by statute and should not form the basis for imposing liability on the department. Courts should not interfere with the policy-making process of administrative agencies authorized by the legislature. Accordingly, I respectfully dissent.
+
+COLE, Justice (dissenting).
+
+I respectfully dissent.
+
+The majority errs, in my opinion, when it labels the Department of Public Safety's lack of rules on license renewals under LSA-R.S. 32:403.2, as an operational level decision to issue license renewals routinely to physically handicapped drivers without inquiry as to their current medical condition. It errs further in concluding LSA-R.S. 9:2798.1[1] immunity is inapplicable because "the discretionary function exception only covers the exercise of discretion or choice" and the element of choice is not involved when licenses are routinely renewed without pertinent inquiries.
+
+The fault described in the majority opinion consists of the Department of Public Safety's failure, i.e., the ministerial level's failure, to promulgate adequate rules and procedures for the renewal of licenses for the physically handicapped. The decision to promulgate rules or not is a discretionary, policy-making activity. The absence of rules instructing handicapped persons, such as Roberts, to notify the Office of Motor Vehicles if their condition worsens or to update their medical reports on a periodic basis, or conditioning license renewals under LSA-R.S. 32:403.2 upon the basis of current medical reports, if a breach of duty, is that of the ministerial level. The routine practice of clerical, operational level employees to issue license renewals without requesting current medical reports is only an operational level symptom of the Department of Public Safety's ministerial failure to promulgate adequate rules.
+
+Under LSA-R.S. 9:2798.1.(B):
+
+Consequently, under the facts of this case, governmental immunity should be invoked to protect the Department of Public Safety from tort liability.
+
+CALOGERO, Justice (dissenting).
+
+I now disagree with the original majority opinion which found the Department of Public Safety (the "Department") liable on the basis of La.C.C. art. 2315. I also dissent from this plurality opinion reinstating the original decree, because of the plurality's effort to ignore the dictates of the discretionary function statute. LSA-R.S. 9:2798.1(B).[1]
+
+The Legislature determined that the Department would be permitted to waive medical reports for "any person applying   for a renewal license."[2] LSA-R.S. 32:403.2. That provision does not mandate the Department's establishing policies for allowing waivers. Rather it gives Department officials liberty in their capacity as policy makers to either waive the reports or to require them in the case of renewals. That liberty would encompass a decision by the department to waive all medical reports for all renewals by physically disabled persons. LSA-R.S. 9:2798.1(B) protects the exercise of such discretion by providing immunity to policy-makers when performing "their policy-making or discretionary acts when such acts are within the course and scope of their lawful powers and duties." Thus, the Department of Public Safety cannot be held liable for what in this instance was the exercise of a discretionary function.
+
+Nor do I find tortious conduct on the part of the examiner in the issuance of the initial license in 1977.
+
+[1]  The questions on the form did not include any inquiry of the physician whether follow-up examinations were recommended or whether the applicant had been reliable in taking his medication.
+
+[2]  If the license had contained an "09" restriction, an inquiry to Roberts and his physician as to his condition at the time of renewal presumably would have been made. At the time of renewal Roberts' current medical condition would have precluded issuance of a renewal license.
+
+[3]  Roberts had suffered additional seizures and a worsening of his condition after issuance of the initial license. The doctor who undertook to treat Roberts about the time of the license renewal asserted that he would never have recommended licensing Roberts to drive in 1980.
+
+[4]  As DPS points out, this is the first Louisiana case which has held the state responsible for the actions of a driver licensed by the state. DPS's contentions in this court stress the dramatic effect of this decision on the administration of licensing drivers.
+
+[5]  The authors use the term "proximate cause", rather than "legal cause" for the fourth element. Because of the confusion between proximate cause and cause-in-fact, the term "legal cause" is used in this opinion. Terminology of legal cause in relation to duty is used in Restatement (Second) of Torts §§ 4, 9, 431 (1965).
+
+[6]  Another technique for determining cause-in-fact is the "substantial factor" inquiry, which is useful when the combined active conduct of two separate parties operates to cause harm. Malone, Ruminations on Cause-In-Fact, 9 Stan.L. Rev. 60, 88-90 (1956).
+
+[7]  This finding distinguished the present case from Guillot v. Sandoz, 497 So. 2d 753 (La.App. 3rd Cir.1986), in which the trial court found on the basis of the defendant's dismal driving record that, more probably than not, he would have been driving even if his license had been suspended. Because of this finding the court concluded in Guillot that DPS's failure to suspend the license was not a cause-in-fact of the accident.
+
+[8]  Although DPS emphasizes that many physical conditions develop after the initial issuance of licenses, the present case does not present that factual situation. Whether DPS has the responsibility to inquire of renewal applicants about substantial changes in their physical condition since the issuance of their last license is a question left for another case.
+
+[9]  According to Policy/Procedure Statement # 10.0, a licensing officer may place an appropriate restriction on a license when reexamination may be needed during the duration of the license.
+
+[10]  Other courts have refused to apply a categorical rule to exclude governmental agencies from liability for negligent issuance or renewal of driver's licenses. Oleszczuk v. Arizona, 124 Ariz. 373,
+604 P.2d 637
+(1979); Trewin v. California,
+198 Cal. Rptr. 263
+,
+150 Cal. App. 3d 975
+(1984); Pendergrass v. Oregon, Motor Vehicles Division, 74 Or.App. 209, 702 P.2d 444 (1985); Annot., State's Liability to One Injured by Improperly Licensed Driver, 41 ALR 4th 112 (1985).
+
+[11]  La.R.S. 32:403.2 requires a physically handicapped person applying for a license for the first time to attach a medical report by a physician "indicating the severity of his disability and the limitations imposed thereby which might impair the applicant's ability to exercise ordinary and reasonable control in the operation of a motor vehicle". The statute further permits DPS to waive the furnishing of such a report when the handicapped person applies for a renewal license.
+
+[12]  DPS argues that it relies on medical reports in issuing licenses to handicapped drivers and does not follow up unless the medical report recommends such action. However, the medical report form does not request such a recommendation and is seriously deficient in this regard.
+
+[13]  DPS does not dispute that plaintiffs sustained the damages found by the trial court.
+
+[14]  An example of the use of the scope of protection element to limit the "but for" consequences of a defendant's negligent conduct was Lewis v. Kehoe Academy, 346 So. 2d 289 (La.App. 4th Cir.1977). Plaintiffs' small child, while at a day care center, ingested rat poison which exaggerated the appearance of some minor bruises. The juvenile authorities, upon seeing the bruises, sought to remove the child from plaintiffs' custody. The court held that the defendant's duty to prevent young campers from ingesting rat poison did not encompass the risk that, if the poison causes accentuation of subsequently incurred bruises, the juvenile court will reach the erroneous conclusion that the child was neglected.
+
+[1]  The exception was incorporated into Louisiana's statutory law by an Act effective September 6, 1985, after the date of this accident. LSA-R.S. 9:2798.1 now states:
+
+A. As used in this Section, "public entity" means and includes the state and any of its branches, departments, offices, agencies, boards, commissions, instrumentalities, officers, officials, employees and political subdivisions and the departments, offices, agencies, boards, commissions, instrumentalities, officers, officials, and employees of such political subdivisions.
+
+B. Liability shall not be imposed on public entities or their officers or employees based upon the exercise or performance or the failure to exercise or perform their policy-making or discretionary acts when such acts are within the course and scope of their lawful powers and duties.
+
+C. The provisions of Subsection B of this Section are not applicable:
+
+(1) To acts or omissions which are not reasonably related to the legitimate governmental objective for which the policy-making or discretionary power exists; or
+
+(2) To acts or omissions which constitute criminal, fraudulent, malicious, intentional, willful, outrageous, reckless, or flagrant misconduct.
+
+D. The legislature finds and states that the purpose of this Section is not to reestablish any immunity based on the status of sovereignty but rather to clarify the substantive content and parameters of application of such legislatively created codal articles and laws and also to assist in the implementation of Article II of the Constitution of Louisiana.
+
+[2]  Roberts' 1977 application also indicated that he had applied for a license in 1975 but a license was not issued because he had not produced a medical report.
+
+[3]  The Department admitted in brief that "all such reports have been waived on renewal applications." Tr. 102.
+
+[4]  Tr. 422.
+
+[5]  Tr. 423.
+
+[6]  Tr. 432.
+
+[7]  LSA-R.S. 36:401 B(1) states:
+
+The Department of Public Safety and Corrections, through its offices and officers, shall have authority generally for the security and physical safety of the citizens and property of Louisiana, the enforcement of laws and regulations pertaining to criminal conduct, automobile and highway safety, motor vehicles and drivers, alcoholic beverage control, charitable gaming control, fire protection, and the administration of emergency preparedness.
+
+[8]  LSA-R.S. 32:403.2 states:
+
+Every physically handicapped person applying for a license under the provisions of this Chapter for the first time shall attach to his application a detailed medical report, or a report from an optometrist if it is a visual defect, from a physician indicating the severity of his disability and the limitations imposed thereby which might impair the applicant's ability to exercise ordinary and reasonable control in the operation of a motor vehicle. The department may waive the furnishing of said report by any person applying for a renewal license under the provisions of this Chapter.
+
+[9]  LSA-R.S. 32:419 states:
+
+The department is hereby authorized to refuse to issue a license under this Chapter to any person for any cause satisfactory to said department, but the applicant for said license in such case shall have a right of action in the same manner as is provided for in R.S. 32:414 of this Chapter.
+
+[10]  28 U.S.C. § 2680(a).
+
+[11]  Fowler v. Roberts, 526 So. 2d  at 266, 278 (La. App. 2d Cir.1988).
+
+[12]  Since the discretionary function exception is not applicable here, the following issues are pretermitted:
+
+(1) Is the exception a separation of powers principle implicit in the 1974 Louisiana Constitution?
+
+(2) If so, can this constitutional issue be raised for the first time on application for rehearing in this court?
+
+(3) If not, does the statutory adoption of the principle in LSA-R.S. 9:2798.1 violate the 1974 Louisiana Constitution's abolition of sovereign immunity?
+
+(4) If constitutional, does the statute operate retroactively to bar claims prior to its effective date of September 6, 1985?
+
+[1]  Part of the DPS regulations suggest certain criteria to be used in evaluating a medical report. A special section devoted to neurological disorders provides: "If a history of epilepsy is indicated and the date of the last seizure is not over one (1) year, this is an automatic suspension or denial of the operator's license."
+
+[2]  Moreover, the federal cases cited by the majority as precedent for this pronouncement do not appear to support it.
+
+[1]  The majority opinion sets forth the legal precept that "[u]nder LSA-R.S. 9:2798.1, public entities, such as the Department of Public Safety, are not liable for their officers' and employees' discretionary acts." Elucidating further, the majority declares the exception protects the government from liability only at the policy making-ministerial level, but not at the operational level.
+
+[1]  La.R.S. 9:2798.1(B) provides: "Liability shall not be imposed on public entities or their officers or employees based upon the exercise or performance or the failure to exercise or perform their policy-making or discretionary acts when such acts are within the course and scope of their lawful powers and duties."
+
+[2]  "Every physically handicapped person applying for a license under the provisions of this Chapter for the first time shall attach to his application a detailed medical report,.... The department may waive the furnishing of said report by any person applying for a renewal license under the provisions of this Chapter." LSA-R.S. 32:403.2 (Emphasis provided.)

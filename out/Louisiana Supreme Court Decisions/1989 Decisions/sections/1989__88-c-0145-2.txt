@@ -1,0 +1,72 @@
+88-C-0145
+GIBBS CONST. CO. v. State, Dept. of Labor
+https://law.justia.com/cases/louisiana/supreme-court/1989/88-c-0145-2.html
+
+88-C-0145
+GIBBS CONST. CO. v. State, Dept. of Labor
+Court: Louisiana Supreme Court
+Release date: 1989-03-13
+Author: COLE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1989/88-c-0145-2.html
+
+540 So. 2d 268 (1989)
+
+GIBBS CONSTRUCTION COMPANY, INC.
+v.
+STATE of Louisiana, DEPARTMENT OF LABOR.
+INTERIOR SYSTEMS OF LOUISIANA, INC.
+v.
+COMMISSIONER OF LABOR, STATE OF LOUISIANA.
+
+No. 88-C-0145.
+
+Supreme Court of Louisiana.
+
+March 13, 1989.
+
+Joanna B. Wilson, Baton Rouge, for applicant.
+
+G. Phillip Shuler, III, Dona J. Dew, Chaffe, McCall, Phillips, Toler & Sarpy, New Orleans, Thomas E. Gibbs, Baton Rouge, for respondents.
+
+Davis B. Allgood, Gary, Field, Landry & Dornier, Baton Rouge, amicus curiae for Milton J. Womack, Inc.
+
+COLE, Justice.
+
+We granted rehearing in this matter to consider two related questions: 1) whether the Louisiana Prevailing Wage Statute (PWS)[1] must be strictly construed as a penal statute; and 2) if so, whether a strict reading supports our previous conclusion that the Louisiana Department of Labor (DOL) is empowered to render and enforce a money judgment against a contractor when there has been no retainage of contract funds. We conclude a strict reading is proper and that the statute, if narrowly construed, does not grant the DOL the power it erroneously exercised in this case. Accordingly, we vacate our earlier decision[2] and affirm the judgment of the Court of Appeal. 518 So. 2d 598.
+
+1. The Penal Nature of the PWS.
+
+The purpose of the PWS is clear. La. R.S. 38:2301(A) states the statute is designed to require contractors on state projects to pay workers the wage prevailing in the local area for similar work. The enforcement "teeth" of the statute are found in subsections (E), (F), (G) and (H). R.S. 38:2301(E) requires that contracts subject to the PWS contain a provision allowing the state to withhold accrued payments due the contractor to the extent necessary to make good any wage deficiencies. R.S. 38:2301(F) provides that in the event a contractor pays a worker less than the required wage, "the State of Louisiana or its department, agency or board letting the contract" may require the contractor to pay the worker "the amount by which he has been underpaid plus, as a penalty, twice that amount." This section provides only for written notice to the contractor, "requiring" him to make good the deficiency together with the penalty. Id.
+
+R.S. 38:2301(G) authorizes and directs the state or the contracting state entity to pay the workers the past due wages plus the penalty from accrued payments due the contractor and retained as provided in 38:2301(E). This direct payment to the worker occurs if the contractor does not appeal the payment order. Finally, R.S. 38:2301(H) authorizes a one-year "blacklisting" of contractors who fail to pay the wages and penalties due within the 10 day period set out in R.S. 38:2301(F). During the one year period, the offender may not be awarded any state contract.
+
+When viewed as a whole, R.S. 38:2301 consists of both penal and non-penal elements. In this case, however, we are not called upon to construe the non-penal sections of the PWS. Rather, our attention is focused upon the damages and penalties authorized by R.S. 38:2301(F) and the means of enforcing them provided by the statute. The action by the DOL complained of here was an effort to enforce the penal provisions of the statute. Therefore, we conclude, at least in light of the questions presented in this case, the enforcement provisions of the PWS are penal in nature and we must construe them in that light.
+
+2. Statutory Construction
+
+As we recently observed in International Harvester Credit Corp. v. Seale,
+518 So. 2d 1039
+(La.1988), statutes which authorize the imposition of a penalty are to be strictly construed. We will not construe penal statutes as extending powers not authorized by the letter of the law even if such powers would be arguably within its spirit. We have specifically applied this rule in the area of administrative law. See Benson & Gold Chevrolet, Inc. v. Louisiana Motor Vehicle Commission,
+403 So. 2d 13
+(La.1981) (regulatory agency cannot stray from the letter of the law on grounds it is furthering the spirit).
+
+A strict construction of R.S. 38:2301 compels the conclusion the DOL had no authority to proceed against Gibbs and Interior Systems in an administrative, adjudicatory hearing that resulted in an order of payment. The statute provides three express remedies for a violation of the wage provisions and the collection of the penalty: 1) written demand; 2) deduction from retainage; and 3) blacklisting. These provisions form a complete regulatory scheme.[4] No provision authorizes the DOL to seek or impose a money judgment on the contractor. Under the rules of strict construction we are not free to find such a remedy by implication. Nor is any implied remedy necessary to implement the broader policy goals of the PWS. R.S. 38:2301(G) provides that payments of wages due and penalties   are to be made from accrued but withheld sums due under the contract. Where, as here, there is no retained fund of accrued payments, the DOL cannot take steps to compel payment through an administrative proceeding.[5]
+
+Two other factors also militate against a finding that the DOL had implied authority to order a money judgment against the contractors. First, in other labor contexts, the Legislature has specifically provided for a procedure like the one the DOL sought to employ here. Under the unemployment compensation statute (R.S. 23:1471 et seq.) for example, suits by the DOL are specifically authorized. See, e.g., R.S. 23:1544 and 1721 et seq. Second, a restrictive reading of the PWS does not deprive the workers of a legal remedy despite the absence of retained funds. In R.S. 38:2242, the Legislature gave workers a right of action for wage claims on public contracts. We are unpersuaded by the DOL's contention the process it employed in this case was essential to effectuate the purposes of the statute. The presence of other enforcement mechanisms and the absence of explicit legislative authority convinces us otherwise.
+
+Our re-examination of the PWS persuades us that its penal provisions require that it be strictly construed. Under this strict reading, we may not imply a regulatory power or a right of action not given by the letter of the law. Simply put, the PWS does not authorize the DOL to assess and collect damages from contractors when there are no retained contract funds in the State's possession. The DOL is given no blanket authority to render or collect general money judgments. Accordingly, we vacate our prior opinion and affirm the judgment of the Court of Appeal. Additional costs in this court are taxed to the Department of Labor.
+
+PRIOR RULING VACATED; JUDGMENT OF COURT OF APPEAL AFFIRMED.
+
+DIXON, C.J., dissents.
+
+[1]  La.R.S. 38:2301. Since our initial decision, the statute has been repealed by the Legislature. 1988 La. Acts 18 and 90.
+
+[2]  525 So. 2d 1039 (La.1988). A dissenting opinion by Dennis, J. was printed at 530 So. 2d 68 (La.1988).
+
+[3]  The pertinent facts of the case are set out in our initial opinion.
+
+[4]  We agree with the U.S. Fifth Circuit which, in construing a similar federal statute, observed: "When a statute limits the thing to be done in a particular mode, it includes the negative of any other mode.... In view of these express procedures it is highly improbably that Congress absentmindedly forgot to mention an intended private action." United States v. Capeletti Bros. Inc., 621 F.2d 1309, 1315 (1980) (citations omitted).
+
+[5]  A very strict reading of the statute also raises questions about the DOL's standing to bring suit. In R.S. 38:2301(F), only the State or the contracting agency may "require" the contractor to pay the amount due and the penalty. The DOL is arguably limited to a fact-finding role by the terms of the PWS.

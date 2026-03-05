@@ -1,0 +1,91 @@
+60725
+Chappuis v. Sears Roebuck & Co.
+https://law.justia.com/cases/louisiana/supreme-court/1978/358-so-2d-926-1.html
+
+60725
+Chappuis v. Sears Roebuck & Co.
+Court: Louisiana Supreme Court
+Release date: 1978-04-10
+Author: DIXON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/358-so-2d-926-1.html
+
+358 So. 2d 926 (1978)
+
+Robert Daniel CHAPPUIS
+v.
+SEARS ROEBUCK AND COMPANY et al.
+
+No. 60725.
+
+Supreme Court of Louisiana.
+
+April 10, 1978.
+
+Rehearing Denied May 19, 1978.
+
+*928 Arthur Cobb, Arthur Cobb, Ltd., Baton Rouge, for plaintiff-applicant.
+
+Ben Louis Day, Dale, Owen, Richardson, Taylor & Mathews, Baton Rouge, for intervenor.
+
+H. Evans Scobee, Durrett, Hardin, Hunter, Dameron & Fritchie, Boris F. Navratil, Breazeale, Sachse & Wilson, Baton Rouge, for defendants-respondents.
+
+DIXON, Justice.
+
+Robert Daniel Chappuis was injured at work when a fragment of steel from a hammer he was using hit him in an eye. He brought suit against the retailer and the manufacturer of the hammer and an insurer.[1] A jury returned a verdict in favor of the defendants. The Court of Appeal affirmed the trial court judgment, 349 So. 2d 963 (1st Cir. 1977), and we granted writs.
+351 So. 2d 1208
+(La.1977).
+
+Chappuis was a twenty-two year old fine arts graduate of Louisiana State University, married, who took a summer's job as a sheet metal worker's helper in June of 1974. His employer was a small corporation operated by Tucker, who was home recuperating from surgery when Chappuis was hired. Chappuis worked exclusively with the sheet metal man, Smith, installing cooling and heating systems in houses under construction.
+
+Chappuis was nailing two pine boards together with common nails when injured. He had worked only about three weeks, and had obtained the hammer from the employer's truck. Neither Chappuis nor Smith nor Tucker was aware that the hammer had been damaged before the accident. Tucker's wife had bought this hammer and two others from Sears in December of 1972 for $9.51.
+
+All the relevant evidence is undisputed. The hammer was an ordinary claw hammer with curved claws and a fiberglass handle, of the kind commonly used by carpenters for driving nails. It and about two million other such hammers a year were manufactured by Vaughan and Bushnell, from whom Sears ordered hammers to their specifications, with Sears' name and their "Craftsman" trademark and a warning label on the handle. The witness from Sears said the warnings had been on the hammers since about 1972; Vaughan and Bushnell had added the warning labels to hammers since 1966. The label was mutilated when Chappuis used the hammer, but, when new, was of this size and content:
+
+The surgeon removed a steel chip about two and one-half mm long and one mm wide from the eye of Chappuis. The chip was later fitted in a larger chipped place from the edge of the hammer; experts located seven chipped places in the edge of the face of the hammer.
+
+The evidence established careful manufacture and quality control of hammers by the manufacturer. Traditional and good quality steel was used, hardened to a depth of about three-sixteenth inches to a satisfactory hardness for the intended use of the hammer. The face of the hammer was called both the "ball" and "crown," denoting   its rounded, convex surface. There was a 45° chamfer, or beveled edge, about oneeighth inch deep around the face.
+
+The manufacturer had never seen a chipped face on any of the thousands of damaged hammers which had been returned to it, but chipped edges were relatively common. A hammer in good condition could not be chipped when striking common nails. Chipping could occur when metal or tools as hard or harder than the hammer were struck a "foul blow," or struck with the edge of the hammer.
+
+However, once chipped, the hammer became unsafe, since it would likely chip again. Even striking a common nail with a chipped hammer might cause it to chip again. Once chipped, a hammer should be discarded. The manufacturer knew this, and all the experts agreed.
+
+A trade association to which the manufacturer belonged had printed and distributed a few thousand booklets containing this information in 1973, after the manufacturer of the hammer here involved, but the warning was not on the warning label on the hammer, nor was it disseminated at the store where the hammer was bought.
+
+The Court of Appeal held that "[T]here is ample evidence in this case from which the jury could have concluded that there was no defect in the design or manufacture of the hammer, and that it had been misused prior to the accident." 349 So. 2d  at 965. Indeed, the jury answered "no" to the special interrogatory: "Do you find any defect in the design or manufacture of the hammer or do you find the defendants otherwise at fault which caused plaintiff's injury?"
+
+What the Court of Appeal overlooked (and the interrogatory to the jury omitted) was that, to recover, plaintiff need not prove defective design or manufacture, if he proves he was injured by a product "unreasonably dangerous to normal use." Weber v. Fidelity & Casualty Ins. Co. of N. Y., 259 La. 599,
+250 So. 2d 754
+, 756.
+
+The evidence is uncontradicted that Chappuis did not abuse the hammer, and that he was using the hammer "for driving and pulling common nails," as stated in the warning, a remnant of which was still on the hammer when the accident happened. Chappuis' use of the hammer was "normal use." When all the experts and all the officers and employees of the manufacturer who testified agreed that a chipped hammer is so dangerous that it should be discarded, we can only conclude that such a hammer, placed in commerce without a warning that it must be discarded when chipped, is unreasonably dangerous to normal use. (See C.C. 2474: "The seller is bound to explain himself clearly respecting the extent of his obligations: any obscure or ambiguous clause is construed against him.").
+
+We find, therefore, that the knowledge which seems to have been peculiarly with the manufacturer and the experts that a chipped hammer is dangerously likely to chip again in normal useand the failure to inform the user of the danger is "fault" referred to in C.C. 2315.[2] The failure   to warn falls below the reasonable standard of care, established by statute: "The seller, who knows the vice of the thing he sells and omits to declare it, . . . is answerable to the buyer in damages." C.C. 2545. The standard of care is fixed in Title VII, Of Sale; the liability to Chappuis is fixed by C.C. 2315, if he shows the failure to act "causes damage" to him.
+
+The responsibility of Sears is the same as that of the manufacturer. First, it held the product out to the public as its own. Penn v. Inferno Manufacturing Corp., 199 So. 2d 210 (La.App. 1st Cir. 1967). Second, the size, volume and merchandising practices of Sears, unlike those of Reliable Motors in Spillers v. Montgomery Ward et al., 282 So. 2d 546 (La.App.2d Cir. 1973), bring Sears within the class of "professional venders," who are presumed to know of the defects in their wares. See Morrow, Warranty of Quality, 14 Tul.L.Rev. 529, 539 (1940). Reliable Motors, Inc. was a relatively small truck retailer. The relationship between a retailer like Sears and its manufacturers on the other hand, with its capabilities for controlling the quality of its merchandise, justifies the imputation to Sears of knowledge of its defects.
+
+The causal relationship between the injury to plaintiff and the absence of a warning about a danger known to the manufacturer is adequately demonstrated. It would be an unjustified assumption to say that store clerks, builders, tradesmen and hammer users of all kinds would be ignorant of the fact that a chipped hammer should be discarded if that warning were disseminated with each sale (at the rate of two million a year from one manufacturer alone). If Chappuis knew, or should have known of the danger, and chose, nevertheless, to use the dangerous instrument, he would have shared the fault of the manufacturer, and could not recover. Since he did not know, and could not reasonably have been expected to know, he did not share the fault for the accident.
+
+Absolute liability upon a manufacturer whose product is useful, traditional, but which might become dangerous in some circumstances must be distinguished from the obligation here involved. There may be many tools or other products which become dangerous for normal use in certain conditions. But when the danger is known to the manufacturer and cannot justifiably be expected to be within the knowledge of users generally, the manufacturer must take reasonable steps to warn the user. It would have been reasonable, in this case, for the manufacturer to add to the warning label the words "discard this hammer if it becomes chipped." This record makes it difficult to understand why the warning was not made. It might be expected that some warnings might bring a reduction in sales, but that could not have been a factor in this case. Sears accepted the return of damaged hammers, even if they had been subject to abusive use; and, apparently, the manufacturer accepted the returned tools from its customers. In view of this policy, the warning could have stated, "if this hammer chips, return to seller." Such warning would be expected (to a great extent) to remove dangerous hammers from use.
+
+Defendants' third party demand contended that in the event defendants   should be held liable, they, as third party plaintiffs, are entitled to indemnification from Huey G. Tucker, president of the company employing plaintiff, and the company's liability insurer, Sentry Insurance Company. They allege that Tucker, in his position as president, knew or should have known of the defective and unsuitable nature of the hammer furnished to plaintiff and was negligent in failing to inspect the hammer, in failing to warn plaintiff about its dangers, and in failing to supply plaintiff safety glasses or instruct him about safe methods for the hammer's use. The jury, in determining that defendants were not liable, did not reach the third party demand. We conclude, however, from the record, that Tucker did not know of the danger and had no duty to know, absent a proper warning on the handle of the hammer.
+
+For the foregoing reasons, the decisions of the Court of Appeal and trial court in favor of the defendants are reversed. Because the courts below did not reach the question of quantum, the case is remanded to the Court of Appeal for further proceedings not inconsistent with this opinion.[3] Intervenor, Sentry Insurance Company, is entitled to reimbursement for workman's compensation benefits and medical expenses paid by it to plaintiff. All costs of these proceedings are to be borne by defendants, Sears Roebuck and Company, Vaughan and Bushnell Manufacturing Company, Continental Insurance Company and Lumbermens Mutual Casualty Company.
+
+SUMMERS, J., dissents, agreeing with the trial court and court of appeal on this fact question.
+
+[1]  Cited as defendants were Sears Roebuck and Company, the seller of the hammer, Vaughan and Bushnell Manufacturing Company, the manufacturer of the hammer, and its insurers, Continental Insurance Company and Lumbermens Mutual Casualty Company. Sentry Insurance Company, the workmen's compensation insurer of plaintiff's employer, intervened for recovery of benefits and medical expenses paid out. Sears, Vaughan and Bushnell and Continental third partied the president of the company that employed plaintiff, Huey G. Tucker, and Sentry, as liability insurer.
+
+[2]  "What are the guides to the court in Louisiana in making a determination of fault, i.e., offenses against the generally accepted standards of conduct? First is the Civil Code itself, which lays down, not only in the section devoted to `Offenses and Quasi-Offenses,' but also elsewhere, rules and standards of conduct, which are binding on the individual citizen as civil obligations. Examples of these obligations are numerous. We have discussed in another place the role of Article 667 of the Civil Code respecting adjoining land owners and the making of new works. Reference may also be made to the duties placed upon owners of buildings to keep them in repair, the duties of vendors of goods to warn of known defects, the of suppliers of goods either gratuitously or for hire. These codal articles are directions to the court as to the generally accepted standards of conduct which are required in these transactions. If the operative facts of the codal article are shown to be present, fault exists and the obligation to repair arises unless by another article the obligation is dissolved or made inoperative. This latter qualification is simply the well-known maxim that a code is to be construed as a whole fabric and not as a set of isolated propositions."Stone, Tort Doctrine in Louisiana: The Concept of Fault, 27 Tul.L.Rev. 1, 2-3 (1952).
+
+'. . . Under the Langlois conceptual breakthrough, `fault' within articles 2315 and 2316 embraces more than intentional and negligent dereliction. In applying those articles, Louisiana courts are to go `to the many other articles in our Code . . . which deal with the responsibility of certain persons, the responsibility in certain relationships, and the responsibility which arises due to certain types of activities.286 . . .'
+
+286 Id. at 1077, 249 So. 2d  at 137. In Langlois the specific Code article read into the article 2315 `fault' category was article 669, governing the responsibility for smoke and nauseous smell to neighboring, houses. The fact that article 669 is by its terms restricted to `neighboring houses' did not preclude its application via 2315 to other categories of plaintiffs. As the court in Ross [Ross v. John's Bargain Stores Corporation, 5 Cir., 464 F.2d 111 (1972)] put it: `In essence the [Langlois] court was saying that a defendant may not take refuge behind an apparently applicable code section just because it does not specifically include the injured plaintiff's class.' 464 F.2d  at 113." Robertson, Manufacturers' Liability for Defective Products in Louisiana Law, 50 Tul.L.Rev. 50, 102-03 (1975). Langlois v. Allied Chemical Corp., 258 La. 1067,
+249 So. 2d 133
+(1971).
+
+[3]  The author of this opinion believes the case should be remanded to the trial court, since there has been no jury determination of the question of damages; however, this court has firmly decided otherwise Temple v. Liberty Mutual Ins. Co.,
+330 So. 2d 891
+(La.1976); Gonzales v. The Xerox Corp.,
+320 So. 2d 163
+(La. 1975).

@@ -1,0 +1,329 @@
+92-KK-1000
+State v. Jackson
+https://law.justia.com/cases/louisiana/supreme-court/1992/92-kk-1000-2.html
+
+92-KK-1000
+State v. Jackson
+Court: Louisiana Supreme Court
+Release date: 1992-11-12
+Author: LEMMON, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1992/92-kk-1000-2.html
+
+608 So. 2d 949 (1992)
+
+STATE of Louisiana
+v.
+Warren Keith JACKSON.
+
+No. 92-KK-1000.
+
+Supreme Court of Louisiana.
+
+November 12, 1992.
+
+*951 Marilyn M. Fournet, Anthony M. Bertucci, Richard A. Curry, Rubin, Curry, Colvin & Joseph, Baton Rouge, for applicant.
+
+Richard P. Ieyoub, Atty. Gen., Doug Moreau, Dist. Atty., Thomas C. Walsh, Lori L. Nunn, Asst. Dist. Attys., for respondent.
+
+Ernest L. Caulfield, New Orleans, for Louis Martinet Soc., amicus curiae.
+
+Robert S. Glass, New Orleans, for Louisiana Ass'n of Crim. Defense Attys., amicus curiae.
+
+Nicholas J. Trenticosta, John Holdridge, New Orleans, pro hac vice, for Loyola Death Penalty Research Center, amicus curiae.
+
+Helen G. Berrigan, New Orleans, for Jefferson Parish Indigent Defender Bd., amicus curiae.
+
+LEMMON, Justice.
+
+This is a death penalty case which is in the pretrial stage. The principal issue is whether and under what circumstances the prosecutor, in the penalty phase of the bifurcated trial, may present evidence of unrelated criminal conduct by defendant.[1] Specifically at issue is the admissibility of   some twenty-four alleged acts committed by defendant while a juvenile as well as while an adult, some of which resulted in delinquency adjudications in juvenile court or convictions in district court and some of which remain unadjudicated.
+
+Defendant was indicted for the first degree murder of a seventy-four year old woman who was stabbed several times with a knife outside her Baton Rouge home during the course of an aggravated burglary and/or armed robbery. Pretrial proceedings have focused on defendant's mental condition, both as to the affirmative defense of insanity in the guilt phase and as to the mitigating circumstance of mental disease or defect in the penalty phase.
+
+During the pretrial proceedings the prosecutor notified the defense, as required by State v. Hamilton,
+478 So. 2d 123
+(La.1985), that he intended to introduce evidence at the penalty hearing of the following crimes allegedly committed by defendant:
+
+Unadjudicated Juvenile Conduct
+
+Defense counsel moved to exclude or to limit the evidence of the other crimes. Counsel also filed related motions, including motions to require a hearing on the admissibility of other crimes evidence either prior to trial or outside the presence of the jury and to obtain the police reports of the other crimes and the names and addresses of the witnesses to those crimes.
+
+The trial judge denied all defense motions and ruled that all of the other crimes evidence was admissible. The court of appeal denied defendant's application to review the rulings. This court granted certiorari. 596 So. 2d 542.
+
+In Gregg v. Georgia,
+428 U.S. 153
+, 189, 96 S. Ct. 2909, 2932, 49 L. Ed. 2d 859 (1976) the Court held that, under the Eighth and Fourteenth Amendments, a jury's discretion to impose a death sentence must be "suitably directed and limited so as to minimize the risk of wholly arbitrary and capricious action." The Louisiana Legislature thereafter enacted a capital sentencing scheme which requires a separate sentencing hearing after an accused has been found guilty beyond a reasonable doubt of a specific intent homicide in the guilt phase of the trial. La.Code Crim.Proc. art. 905 and 905.1. Article 905.3 further requires that the jury in the sentencing hearing find beyond a reasonable doubt the existence of at least one of the aggravating circumstances listed in Article 905.4 in order to recommend a death sentence, a recommendation which can only be made after consideration of any mitigating circumstances. As to evidence and procedure in the sentencing   hearing, Article 905.2 provides as follows:
+
+The case of State v. Sawyer,
+422 So. 2d 95
+(La.1982), presented the issue whether the prosecutor in the case-in-chief in a capital sentencing hearing may introduce evidence of a defendant's unrelated convictions for crimes other than those specifically enumerated as aggravating circumstances in Article 905.4(c).[3] The prosecutor in the case-in-chief had introduced evidence of defendant's prior conviction in Arkansas of involuntary manslaughter. Objecting on the basis that the involuntary manslaughter conviction did not qualify as a prior conviction of "an unrelated murder" under Article 905.4(c), the defense argued that the aggravating circumstances specified in Article 905.4(c) constituted an exclusive listing of those aspects of the character of the accused on which evidence may be introduced during the prosecutor's case-in-chief in a capital sentencing hearing. Otherwise, according to the defense, evidence of the defendant's character may be introduced only if the defendant places his character at issue.
+
+This court rejected that argument, holding that because the sentencing statute creates a penalty phase of the bifurcated trial in which the focus is on the character and propensities of the defendant (as well as the circumstances of the crime), "the defendant's character is at issue and indeed is one of the principal issues." 422 So. 2d  at 104 (emphasis in original). The decision reasoned that "the usual prohibition against the prosecution's initiation of the inquiry into defendant's character is simply not applicable in the penalty phase, where the focus on character is one of the statutory means of channeling the jury's sentencing discretion." Id. at n. 18.
+
+The Sawyer decision was criticized in George W. Pugh & James R. McClelland, Developments in the Law, 1982-83-Evidence, 44 La.L.Rev. 335 (1983), which predicted that a logical extension would authorize an inquiry into many unrelated aspects of the past life of the accused. Defense counsel in the present case argues that the worst case scenario looms here with the possible introduction of twenty-four prior criminal acts ranging back to 1969 when defendant was nine years old.
+
+We reaffirm our basic holding in Sawyer that a conviction of first degree murder puts the defendant's character at issue in the sentencing hearing. See also State v. Jordan,
+440 So. 2d 716
+(La.1983). The purpose of the enumerated aggravating circumstances in the original sentencing statute was not to control admissibility of evidence; rather, the purpose was to impose a required jury finding in the penalty phase so that only those first degree murderers against whom a statutory aggravating circumstance could be proved beyond a reasonable doubt were even eligible for consideration   for capital punishment.[4] As long as one statutory aggravating circumstance is proved, the prosecutor can introduce other evidence relevant to and probative of the circumstances of the murder and the character and propensities of the murderer.[5] The linchpin for admissibility is relevance.
+
+Evidence of convictions of serious unrelated crimes is extremely probative of and relevant to the character and propensities of the defendant and may be useful for the jury to evaluate in performing its awesome task of deciding whether or not to recommend execution. Nevertheless, because evidence of every conviction, no matter how minor the crime, may tend to inject an arbitrary factor into the hearing, some limitations are necessary. Since this court in Sawyer has interpreted the capital sentencing statute expansively to allow evidence of convictions of crimes other than those enumerated in Article 905.4 A(3) and since the statute contains no defined limitations, it is appropriate for this court to set limitations. We recognize that trial courts need more specific guidance in these highly charged cases in order to avoid reversals that become necessary when the imposition of a death sentence is influenced by arbitrary factors.
+
+Focusing on the seriousness of the crime, we limit the convictions on which the prosecutor may introduce evidence during the case-in-chief to crimes classified as felonies.[6] The classification reflects a legislative determination that the conduct was serious enough to warrant imprisonment at hard labor.
+
+Further, we limit the evidence supporting the conviction to the document certifying the fact of conviction and to the testimony of the victim or of any eyewitness to the crime, and we specifically prohibit evidence of the original charge when the conviction is for a lesser offense.
+
+The case of State v. Ward,
+483 So. 2d 578
+(La.1986), presented the issue whether the prosecutor in the case-in-chief in a capital sentencing hearing may introduce evidence of defendant's unrelated criminal conduct on which no conviction has been obtained. The defendant had shot his wife's mother and stepfather, killing one and seriously wounding the other. During the sentencing hearing the prosecutor introduced evidence in the case-in-chief of the defendant's convictions of attempted burglary, misdemeanor rape, third degree assault, unlawful sexual intercourse with a minor (his sister-in-law), and cruelty to a juvenile (his daughter). Many of these convictions resulted from guilty pleas to reduced charges involving sexual misconduct and violence with family members, and the original charges were also introduced. Further, defendant's wife and sister-in-law testified about various sexual encounters between defendant and the wife's relatives, and the wife and her brother testified that each had been violently beaten by defendant.
+
+Relying on Sawyer and Jordan, this court unanimously refused to set aside the death sentence because of the introduction of evidence both of the convictions and charges and of the conduct for which defendant   was neither charged nor convicted (the latter being crimes of sex and violence identical to those charges resulting in plea bargains). The court concluded that the overall evidence relating to convictions and unadjudicated conduct portrayed an entire family that was either physically or sexually abused by the defendant, so that there was no surprise, undue prejudice or arbitrary factor injected into the jury's deliberations. The concurring opinion suggested that admission of the evidence of charged but unadjudicated crimes (bills of information) was harmless error and the admission of the uncharged and unadjudicated criminal conduct was admissible under proper safeguards similar to those used for other crimes evidence in non-capital trials.
+
+In State v. Brooks,
+541 So. 2d 801
+(La. 1989), the defendant had been indicted for eight unrelated murders. In the trial on the first four counts the jury was unable to reach an unanimous verdict, and the court imposed a sentence of life imprisonment without parole. In the trial on two of the remaining counts the defense sought to exclude the evidence both of the four murder convictions and the two other charged but unadjudicated murders. As to the charged but unadjudicated criminal conduct, this court held that evidence of unadjudicated crimes by defendant may be relevant and helpful to the jury in determining the appropriate sentence.[7] Such evidence is admissible once the trial judge determines: (1) the evidence of defendant's connection with commission of the unrelated crimes is clear and convincing, (2) the proffered evidence is otherwise competent and reliable, and (3) the unrelated crimes have relevance and substantial probative value as to the defendant's character and propensities, which is focus of the sentencing hearing under Article 905.2.[8]
+
+In the present case we reaffirm our holding in Brooks, but again deem it necessary to place a limitation on this type of evidence in order to insure that due process is not violated by the injection of arbitrary factors into the jury's deliberations and to prevent a confusing or unmanageable series of mini-trials of unrelated and unadjudicated conduct during the sentencing hearing.
+
+As to the seriousness of the crime, we limit the criminal conduct on which the prosecutor may introduce evidence in the case-in-chief in the capital sentencing hearing to that which involves violence against the person of the victim. The propensity to commit first degree murder is the focus of the capital sentencing hearing. While crimes of violence against the person indicate moral qualities and character traits pertinent to the propensity to commit first degree murder, other types of crimes are not necessarily probative of that propensity and are less relevant in a capital sentencing hearing.[9]
+
+Recognizing that remoteness of the conduct may also bear on relevance, we further limit the criminal conduct on which the prosecutor may introduce evidence to that conduct for which the period of limitation for instituting prosecution had not run at the time of the indictment of the accused for the first degree murder for which he is being tried. This limitation prevents a capital defendant from having to defend criminal charges that the prosecutor would not otherwise have been able to bring, while also achieving efficiency by allowing the prosecutor in the sentencing hearing to use evidence of recent criminal conduct without   burdening the system by a requirement that the prosecutor obtain a conviction for that conduct prior to using evidence of that conduct in the penalty phase of the first degree murder trial.
+
+Citing Thompson v. Oklahoma,
+487 U.S. 815
+, 108 S. Ct. 2687, 101 L. Ed. 2d 702 (1988), and In the Interest of Dino,
+359 So. 2d 586
+(La.1978), the defense argues that delinquency adjudications while the defendant was a juvenile should be excluded from a capital sentencing hearing on a policy basis, since the law does not hold a minor fully responsible for the consequences of his immaturity.[10] However, criminal conduct by the defendant while he was a juvenile may be relevant to the character and moral quality issues in a capital sentencing hearing if the time of the conduct is not too remote from the first degree murder and if the nature of the conduct bears significantly on the accused's propensity to commit serious crimes.
+
+Since In Re Gault,
+387 U.S. 1
+, 87 S. Ct. 1428, 18 L. Ed. 2d 527 (1967) and In Re Winship,
+397 U.S. 358
+, 90 S. Ct. 1068, 25 L. Ed. 2d 368 (1970), the fundamental due process rights of a criminal defendant, such as the right to counsel and the right to proof of guilt beyond a reasonable doubt, have been required in juvenile delinquency proceedings.[11] The integrity of the finding of guilt in a juvenile delinquency proceeding is therefore no longer subject to serious attack. Nevertheless, there are still policy reasons for not equating an adjudication of delinquency in juvenile court to a conviction of crime in district court. However, just as a defendant's juvenile record may be considered in non-capital sentencing hearings, a capital defendant's juvenile record of recent or repeated serious crimes may be probative in the jury's evaluation of the defendant's true character and propensities.
+
+We conclude that the limitation on the nature of the offense that has been imposed by this opinion on the use of district court convictions in capital sentencing hearings is adequate to safeguard against the injection of an arbitrary factor into the jury's sentencing deliberations by the use of delinquency adjudications. We therefore hold that delinquency adjudications in juvenile court are not per se inadmissible, but that the admissibility of such adjudications is limited to adjudications based on an offense that would be a felony if committed by an adult.
+
+Evidence of unadjudicated conduct as a juvenile, although sometimes arguably probative as to the character and propensities of the defendant, presents a greater risk of injecting arbitrary factors into a capital sentencing hearing. We therefore place a more stringent limitation on the prosecutor's use in the case-in-chief of a capital sentencing hearing of evidence of unadjudicated conduct as a juvenile. In addition to limiting the use of evidence of unadjudicated conduct as a juvenile to evidence of those crimes for which the statutory limitation for instituting proceedings against adults has not run and those crimes which would be a felony if committed by an adult, we further limit the use to evidence of those crimes enumerated in La. Ch. Code. arts. 305 and 857.[12]
+
+While evidence of some juvenile adjudications may be admissible, as discussed above, a juvenile adjudication based   on armed robbery does not qualify as an aggravating circumstance under Article 905.4 A(3). Only prior convictions can be used to prove this aggravating circumstance. Therefore, the prosecutor cannot use defendant's juvenile adjudication of delinquency based on an armed robbery to fulfill Article 905.3's requirement of proving at least one statutory aggravating circumstance beyond a reasonable doubt in the capital sentencing hearing, but may introduce evidence of this adjudication in his case-in-chief to show defendant's character and propensities, subject to the limitations hereinabove set forth.[13]
+
+The foregoing discussion centered on the admissibility of evidence during the prosecutor's case-in-chief in a capital sentencing hearing. The admissibility of evidence of defendant's unrelated criminal conduct as rebuttal evidence may also be a significant issue in this case.[14] If the defense offers evidence in the sentencing hearing which warrants the prosecutor's rebuttal with evidence of bad character, the trial judge must determine the relevance of the rebuttal evidence according to the nature of the evidence brought by the defense.
+
+Fundamental fairness requires that when a prosecutor intends to use evidence of unrelated conduct to prove the guilt of the accused for the charged crime or to increase the punishment for the charged crime, the accused must be notified in order that he may prepare to rebut or defend against the evidence which he would not otherwise know he must defend. State v. Prieur,
+277 So. 2d 126
+(La.1973) (at the defendant's trial for armed robbery, evidence of a subsequent armed robbery is only admissible if adequate notice is provided by the prosecutor); State v. Hamilton,
+478 So. 2d 123
+(La.1985) (failure to notify the defendant that evidence of an unrelated armed robbery for which the defendant had been charged but not convicted would be introduced during the penalty phase of the first degree murder trial constituted reversible error); State v. Jackson,
+480 So. 2d 263
+(La.1985) (enhanced penalties for firearm use in the commission of a crime could not be imposed without pretrial written notice to the defendant). We reiterate the due process requirement of notice when the prosecutor intends to use evidence of unrelated criminal conduct in the case-in-chief of a capital sentencing hearing. Adequate notice, sufficiently detailed to allow the defendant to know the exact unrelated conduct he must be prepared to meet in the sentencing hearing and sufficiently in advance of trial to allow reasonable preparation of a defense, is essential to provide meaning to the defendant's corresponding due process right of a reasonable opportunity to be heard at the capital sentencing hearing.
+
+The prosecutor has provided notice in the present case. The defense moved for production of police reports and witness lists relating to evidence of other crimes on which the prosecutor intends to introduce evidence. Initial police reports are public records and subject to discovery. La.Rev.Stat. 44:3(A)(1) and (4); State v. Shropshire,
+471 So. 2d 707
+(La.1985). The prosecutor's witness list generally is not discoverable in the absence of extraordinary circumstances. State v. Walters,
+408 So. 2d 1337
+(La.1982).
+
+Defense counsel filed several motions in the trial court relating to alleged   prosecutorial misconduct. The only one warranting intervention by this court at this time is the motion for in camera inspection by the trial court of the prosecutor's file for mitigating evidence of defendant's mental illness or defect.
+
+The prosecutor, upon request, must furnish to the defense any evidence favorable to the accused that is material to guilt or punishment. Brady v. Maryland,
+373 U.S. 83
+, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963). The prosecutor has not denied the existence of favorable information regarding defendant's mental illness, but has not disclosed the information considered not to be exculpatory. Moreover, defense counsel asserts that she fortuitously discovered a clinical psychologist consulted by the prosecutor who stated he could not testify as a prosecution witness because he believed defendant suffered from mental problems. Under these circumstances the trial court should conduct an in camera inspection of the prosecutor's file and should order disclosure of any information favorable to the accused that is material to the plea of insanity in the guilt phase or to the mitigating circumstance of mental illness or defect in the sentencing hearing.
+
+The trial court denied defendant's motion to keep under seal the certificates required by La.Code Crim.Proc. art. 741 concerning a subpoena for witnesses outside the state. There was no abuse of discretion in ruling that the work product privilege did not apply to these documents.
+
+The rulings of the district court on defendant's motion to limit other crimes evidence and related motions are set aside, and the case is remanded to the district court for reopened hearings on defendant's motions in accordance with the principles expressed in this opinion.
+
+CALOGERO, C.J., concurs in part, dissents in part and assigns reasons.
+
+WATSON, J., concurs in part and dissents in part.
+
+COLE, J., concurs in part and dissents in part, with reasons assigned.
+
+DENNIS, J., dissents with reasons.
+
+CALOGERO, Chief Justice, concurring in part; dissenting in part.
+
+In State v. Sawyer,
+422 So. 2d 95
+(La. 1982), I expressed the view that in the sentencing phase of prosecution, evidence concerning a criminal defendant's character and propensities should only be permitted "according to the rules of evidence." La. Code Cr.Proc. art. 905.2 (West 1976). That view did not prevail. The court majority concluded that evidence of convictions for unrelated crimes, other than those specifically enumerated as aggravating circumstances in Louisiana Code of Criminal Procedure art. 905.4(c), was admissible at a capital sentencing hearing.
+
+Then, in State v. Ward,
+483 So. 2d 578
+(La.1986), the majority expanded the category of admissible evidence in the capital sentencing phase to include evidence of crimes with which the defendant had been charged but of which he had not convicted. The majority reasoned that such evidence of other offenses was "relevant, competent evidence of the defendant's character in the penalty phase of trial." Ward, 483 So. 2d  at 588-89.
+
+Further, the majority in State v. Brooks,
+541 So. 2d 801
+(La.1989) reiterated that evidence of unadjudicated crimes was admissible at the sentencing phase of the trial. In this regard, however, the majority adopted a three-pronged analysis, which was first proposed in State v. Ward, 483 So. 2d  at 591-92 (Lemmon, J. concurring) for determining whether evidence of unadjudicated crimes are admissible at a criminal defendant's sentencing hearing.
+
+These decisions resulted in an unsettling prospect concerning the jury's autonomy in determining whether a given defendant should be executed. The decisions permitted the jury to consider many aspects of an accused's past life which were unrelated to the present charge. In the present case, this possibility came to pass in the extreme when the trial judge allowed the introduction   at the sentencing hearing of twenty-four prior criminal acts irrespective of convictions, both adult and juvenile, commencing when the defendant was nine years old.
+
+Considering the trend established by this Court's line of cases addressing the introduction of other conduct evidence at the sentencing phase, I reluctantly acquiesce in the majority's present line-drawing exercise of establishing some restraints on the type of conduct to be admissible in the second phase of a bifurcated trial.
+
+Nevertheless, I would not go as far as the majority. I dissent from the majority's opinion concerning the treatment of delinquency adjudications in juvenile courts and unadjudicated conduct as a juvenile. I would not permit juvenile conduct of any kind to qualify as the kind of character and propensity evidence that a jury should consider in making the momentous determination of whether the defendant will be sentenced to death or life imprisonment.
+
+WATSON, Justice, concurring in part and dissenting in part:
+
+The majority has made a commendable effort to guide the trial courts in the sentencing phase of capital proceedings. However, in attempting to fine tune the rules, I fear the Court is inviting easy error. Even the most capable of judges, prosecutors and defense attorneys will have difficulty in applying the rules to cases involving one or more episodes of prior criminal behavior. In my opinion, a simpler, more direct approach would be better.
+
+Any felony conviction when the defendant was an adult should be admissible. Any juvenile conduct, whether adjudicated or not, should not be admissible.
+
+Any unadjudicated adult conduct should not be admissible unless it bears a strong relationship to the charged crime, such as being close in time to the offense at issue, or unless it is otherwise admissible under the Evidence Code.
+
+The rules concerning rebuttal evidence and notice seem to be fair and reasonable, as well as easy to follow.
+
+Insofar as our previous decisions conflict, they should be overruled.
+
+I respectfully concur in part and dissent in part.
+
+COLE, Justice, concurring in part; dissenting in part.
+
+I agree with the majority that once a statutory aggravating circumstance is proven, the prosecutor can then introduce evidence of other criminal conduct relevant to the character and propensities of the murderer. I therefore concur in the majority's position that evidence of adult adjudicated, adult unadjudicated, juvenile adjudicated, and juvenile unadjudicated criminal conduct is admissible in the sentencing hearing if relevant. In its effort to delineate for the trial courts what criminal conduct is relevant, the majority adopts certain limitations on admissibility respecting each category of conduct. However, because I believe that all prior criminal conduct is relevant to character and propensity, I would go much further than the majority goes in this case and hold that there should be no jurisprudential limitations on the admissibility of this type of evidence. And, to the extent the majority imposes limitations on the admissibility of character and propensity evidence, I respectfully dissent.
+
+There are no specific "limitations" proscribed by Article 905.2. It states only that the focus of the sentencing hearing shall be on "the circumstances of the offense" and "the character and propensities of the offender." The majority has usurped the function of the legislature by reading into that article the requirement that certain crimes be recent and of a serious nature. The majority has also improperly taken from the trial court the power to determine case-by-case what evidence is relevant to defendant's character. See State of Louisiana v. Langlois, 573 So. 2d 1110 (La.1991) ("The trial court retains the discretion to exclude or limit the evidence at the sentencing phase if the court finds that the testimony will confuse or mislead the jury...."); and Citizens Bank & Trust v. Consolidated Terminal, 460 So. 2d 663, 670 (La.App. 1st Cir.1984) ("Whether   evidence is relevant or not is within the discretion of the trial court and its ruling will not be disturbed absent a clear abuse of discretion.").
+
+It is true that Gregg v. Georgia,
+428 U.S. 153
+, 189, 96 S. Ct. 2909, 2932, 49 L. Ed. 2d 859 (1976), reh'g denied, 429 U.S. 875, 97 S. Ct. 197, 50 L. Ed. 2d 158 (1976) requires that a jury's decision to impose the death sentence not be arbitrary. However, the Court stated:
+
+Gregg, 428 U.S.  at 195, 96 S. Ct.  at 2935. Thus, Louisiana's creation of the bifurcated trial and the statutory requirements that a jury find an aggravating circumstance, consider mitigating circumstances, and focus on the character and propensities of the defendant, are more than sufficient to ensure that a jury does not arbitrarily impose the death penalty. See Zant v. Stephens,
+462 U.S. 862
+, 879, 103 S. Ct. 2733, 2743-44, 77 L. Ed. 2d 235 (1983) ("What is important at the selection stage is an individualized determination on the basis of the character of the individual and the circumstances of the crime."); State v. Sawyer,
+422 So. 2d 95
+, 104 n. 18 (La.1982) ("[T]he focus on character is one of the statutory means of channeling the jury's sentencing discretion."); and State v. Jordan,
+440 So. 2d 716
+, 721 (La.1983) (Lemmon, J., concurring) ("[T]he introduction of additional evidence relating to the character and propensities of the defendant ... will enable the jury to determine which murderers should receive the death penalty and which should not."). The statute is designed so that a jury avoids arbitrariness in applying the death penalty by focusing on the character and propensities of a defendant. It seems to me that the risk of an arbitrary decision is increased where any evidence of past criminal conduct, which by its very nature is relevant to a determination of a defendant's character, is withheld from the jury.
+
+The majority believes that the admission of evidence of past adult unadjudicated criminal conduct that is not recent and does not involve "violent crimes against the person" and of past adult and juvenile adjudicated conduct that cannot be classified as felonies will lead to arbitrary decisions. This conclusion reveals that the majority has confused the different purposes of the two stages of the bifurcated trial. As Justice Lemmon noted in Jordan, 440 So. 2d  at 722 (Lemmon, J., concurring) (emphasis added), evidence of unrelated criminal conduct is normally not admissible at the guilt stage in order to "prevent the jury from determining guilt on the basis of character, rather than on the basis of evidence of the particular crime." However, in the penalty phase, "the character of the defendant is perhaps the most relevant issue for which evidence ... should be introduced". Justice Lemmon continued:
+
+Id. at 722.
+
+Because of the high probative value of character evidence in the sentencing phase of a trial, this court should not jurisprudentially create limitations that are not explicit or implicit in the statute. In its effort to avoid arbitrary sentencing, the majority has itself placed arbitrary limitations on what qualifies as relevant evidence of character.
+
+The statute requires only that the evidence be relevant to the character and propensity of the defendant. Yet, the majority would limit evidence of past adult and juvenile adjudicated criminal conduct to those crimes classified as felonies in order to avoid an arbitrary decision by a jury. Any criminal conduct, whether it be classified as a felony or a misdemeanor, is indicative of character. It is up to the jury to decide what weight to give to the various types of criminal conduct; and, for a jury to avoid an arbitrary decision, it should have as much information before it as possible.
+
+The majority also limits evidence of past adult unadjudicated criminal conduct to those acts which involve "violence against the person of the victim" because it believes other types of crimes are not probative of the propensity to commit first degree murder and thus not as relevant in a capital sentencing hearing. The statute in no way requires that the character evidence only be relevant to the defendant's propensity to commit first degree murder. Rather, the evidence need only reveal the defendant's character. For one charged with first degree murder arising out of circumstances involving the stabbing[2] of a seventy-four year old woman outside her home during the course of an aggravated burglary and/or armed robbery, it challenges credulity to find other offenses which would not relate to that person's character and propensity to commit other crimes. The majority's limitation would in practice exclude evidence of, for example, aggravated arson, aggravated criminal damage to property, aggravated burglary, theft, pornography involving juveniles, and molestation of a juvenile. Conduct such as the above is absolutely relevant to the character of a defendant.[3]
+
+I respectfully submit that admitting evidence of crimes indicative of a generally bad moral character does not inject an arbitrary factor into the jury's decision. It is a factor fundamental in determining the severity of the sentence society imposes for its own protection from repetitious crimes by the same individual.
+
+The majority places a timeliness restriction on unadjudicated adult and juvenile criminal conduct by limiting the conduct on which the prosecutor may introduce evidence to that conduct for which the period of limitation for instituting prosecution had not run at the time of the indictment of the accused for the first degree murder. The majority states that this "prevents a capital defendant from having to defend criminal charges that the prosecutor would not otherwise   have been able to bring." But, where the trial court finds that the evidence of defendant's commission of the crimes is clear and convincing, competent, and reliable, it should make no difference, in terms of relevancy to defendant's character, that defendant can no longer be prosecuted for those crimes. The "clear and convincing" burden of proof protects the defendant sufficiently such that the introduction of these acts does not inject an arbitrary element into the jury's decision.
+
+The majority also states that to be admissible, juvenile adjudicated conduct should not be "too remote" from the first degree murder. However, I believe it would be most relevant and beneficial to look at the crimes for which the defendant has been convicted, occurring over his entire lifetime. The determination of any patterns or pockets of criminal conduct in the defendant's record can only help the jury in avoiding an arbitrary decision.
+
+In Gregg, the U.S. Supreme Court rejected defendant's argument that the scope of evidence allowed at the sentencing hearing was too broad. It stated:
+
+This court should not create restrictions where the U.S. Supreme Court recommends against it. Whether evidence of prior unrelated criminal conduct is relevant to the defendant's character properly falls under the discretion of the trial court. I reiterate that I agree with the basic premise behind the majority's opinion but would go much further and allow the admission of any incident of prior criminal conduct without limitation.
+
+I concur also in the majority's sections on Juvenile Adjudication as an Aggravating Circumstance, Rebuttal Evidence, Notice, Exculpatory Evidence and Prosecutorial Misconduct, and Sealing of Names of Subpoenaed Witnesses.
+
+Dennis, Justice, dissenting.
+
+I respectfully dissent.
+
+This Court's interpretation of La.C.Cr.P. art. 905.2 in State v. Sawyer,
+422 So. 2d 95
+(La.1982) was erroneous, and the majority opinion in the present case compounds that error exponentially. The rules of evidence that the majority has minted are based on their own unarticulated policy as to which humans should live or die, rather than on the constitution, the legislated law or the common law of evidence. Judges, regardless of how talented or fairminded, are ill equipped to assume the primary responsibility for choosing between competing moral, social and political pressures in making such fundamental policy decisions.
+
+This case presents anew in bold relief the question of the proper interpretation of La.C.Cr.P. Art. 905.2 which provides, in pertinent part, "The sentencing hearing [in capital cases] shall focus on the circumstances of the offense and the character and propensities of the offender. The hearing shall be conducted according to the rules of evidence." Beginning with State v. Sawyer,
+422 So. 2d 95
+(La.1982), a majority of this court has taken the position that the first sentence of art. 905.2 authorizes the introduction of any evidence relevant to the offender's character without regard to the admissibility of that evidence under the rules of evidence. This position has caused the majority to disregard the second sentence as virtually meaningless. This erroneous interpretation has had the effect, as scholars foresaw, of seeming "to authorize inquiry into myriad, unrelated aspects of the defendant's past life, raising grave problems as to notice and hearing, confusion of the issues, and so forth." Pugh and McClelland, Developments In The Law, 1982-1983, 44 La.L.Rev. 335, 337-339   (1983). Consequently, the majority, as fairminded judges, have undertaken the task of drafting a judge-made code of evidence to govern sentencing hearings for fear that the introduction of any and all evidence relevant to character would lead to arbitrary, capricious and discriminatory results. In my opinion, my colleagues' interpretation of 905.2 was incorrect and their judicial rulemaking is unwarranted and unnecessary.
+
+The first sentence of 905.2 was intended to be a prefatory statement of the purpose of a capital sentencing hearing in order to distinguish its object from that of the guilt phase; and the second sentence of 905.2 means exactly what it says: As a general rule, the sentencing hearing shall be governed by and "conducted according to the rules of evidence." See State v. Sawyer,
+422 So. 2d 95
+, 106 (La.1982) (Dixon, C.J. and Calogero, J., concurring) (Dennis, J., concurring). The determination of the defendant's character per se is not one of the ultimate objects of the sentence hearing. The law does not purport to have the jury compile an unexpurgated biography of the defendant's life. Consequently, the statutory scheme clearly contemplates that the aggravating circumstances specified in the statute constitute an exclusive listing of those aspects of the defendant's character that might be the subject of inquiry in the prosecutor's case-in-chief at the sentence hearing. Pugh and McClelland, supra. However, the defendant (but not the prosecution), at his option, is sometimes permitted to open the door. Id. L.C.E. art. 404. Furthermore, the legislature in 1988 clarified any ambiguity that may have existed by providing that the provisions of the Louisiana Code of Evidence shall apply to capital sentence hearings. L.C.E. art. 1101(A), (C)(4) (Act 515 of 1988, eff. Jan. 1, 1989).
+
+However, I now see that I failed in my separate opinion in Sawyer to point out even more important reasons for this conclusion: First, when a jury is the sentencer it is crucially important to channel its discretion in order to avoid the undue possibility of caprice, arbitrariness and racial discrimination by requiring that its decision be made with reference to statutorily prescribed aggravating circumstances. Second, this principle was recognized in Furman, expounded in Gregg, and incorporated by the cruel, excessive and unusual punishment clause of our state constitution. State v. Stetson,
+317 So. 2d 172
+, 176 (La. 1975). Third, the function of the jury in a capital sentencing hearing is to determine the existence of one or more aggravating circumstance, weigh aggravating factor[s] with mitigating circumstances, and determine whether the offender should be sentenced to death or life imprisonment; it is not the jury's function or the goal of the proceeding to make an exhaustive, definitive determination of the offender's character. Fourth, by taking the position that Art. 905.2 allows introduction of any evidence relevant to the offender's character, the majority misinterprets the statute, skews the function of the jury and the purpose of the proceeding, and undermines the channelization of the jury's discretion that is essential to the avoidance of caprice, arbitrariness and racial or invidious discrimination and hence to the constitutionality of the death penalty. Fifth, massive judicial rulemaking is unnecessary because the Louisiana Code of Evidence, subject to the exceptions of Art. 905.2, provides a workable basic framework to govern the introduction of evidence in capital sentencing hearings.
+
+In 1972, the United States Supreme Court held in Furman v. Georgia,
+408 U.S. 238
+, 92 S. Ct. 2726, 33 L. Ed. 2d 346 (1972) that the Eighth and Fourteenth Amendments forbid the arbitrary, capricious, or discriminatory imposition of the death penalty by a state. Each of the five justices in the majority wrote a separate opinion. The consensus among three was that due process and the Eighth Amendment required a state to restrain and guide the discretion of the sentencer. Two other members of the majority concluded that the death penalty per se is unconstitutional.
+
+In 1974, Louisiana adopted a new constitution containing an updated clause prohibiting cruel, excessive or unusual punishment. Art I, Section 20, La. Const.1974. This court has considered the United States   Supreme Court opinions and other jurisprudence preexisting the adoption of the 1974 state constitution as the threshold, but not the determinant, of the right to humane treatment declared by Art. I, Section 20. See State v. Sepulvado,
+367 So. 2d 762
+(La. 1979); State v. Stetson,
+317 So. 2d 172
+(La. 1975). In State v. Stetson, supra, this court reviewed the concurring opinions of the Justices in Furman v. Georgia, supra, and other jurisprudence and derived four principles or generalized criteria for assessing the constitutional validity of punishments under Art. I, Section 20: the punishment must not be (1) degrading to the dignity of human beings; (2) arbitrarily inflicted; (3) unacceptable to contemporary society; or (4) excessive, i.e., disproportionate to the crime or failing to serve a penal purpose more effectively than a less severe punishment. Id. at 177.
+
+In Gregg v. Georgia,
+428 U.S. 153
+, 96 S. Ct. 2909, 49 L. Ed. 2d 859 (1976), the high court upheld Georgia's newly enacted death penalty statute designed to comply with the principles of Furman. In essence, the court concluded that the Georgia Legislature had devised a new system that would overcome the dangers of caprice, arbitrariness and racial discrimination inherent in the previous scheme allowing untrammeled jury discretion in imposing or withholding the death penalty. The Georgia model, which has become the most common statutory approach to capital sentencing, employs a bifurcated sentencing hearing in which the jury is required, before it may impose the death penalty, to find that the particular homicide involved one or more of the statutorily prescribed aggravating circumstances and weigh them with any mitigating factors. Although Gregg was decided after the adoption of Art. I, Section 20 of our state constitution, the lead opinion relied on principles implicit in Furman and therefore may be considered as an indication of the minimum level of protection adopted in 1974 by the state constitutional right to humane treatment.
+
+In Gregg the Supreme Court made it clear that the use of statutorily prescribed aggravating circumstances to serve both as a limiting threshold and as benchmarks of comparison to channel the jury's discretion was absolutely essential to the constitutionality of the death penalty scheme. "[T]he provision of relevant information under fair procedural rules is not alone sufficient to guarantee that the information will be properly used in the imposition of punishment, especially if sentencing is performed by a jury." 428 U.S.  at 192, 96 S. Ct.  at 2934. The aggravating circumstances must channel the sentencer's discretion by clear and objective standards that provide specific and detailed guidance, and that make rationally reviewable the process for imposing a sentence of death. 428 U.S.  at 198, 96 S. Ct.  at 2937; Woodson v. North Carolina,
+428 U.S. 280
+, 303, 96 S. Ct. 2978, 2990, 49 L. Ed. 2d 944 (1976); Proffitt v. Florida,
+428 U.S. 242
+, 96 S. Ct. 2960, 49 L. Ed. 2d 913 (1976). In summary, the court concluded that the concerns expressed in Furman "are best met by a system that provides for a bifurcated proceeding at which the sentencing authority is apprised of the information relevant to the imposition of sentence and provided with standards to guide its use of the information." 428 U.S.  at 194-195, 96 S. Ct.  at 2935.
+
+In 1976, Louisiana adopted a bifurcated capital sentencing procedure similar to the Georgia model. La.C.Cr.P. Art. 905 et seq (Added Acts 1976, No 694) Art. 905.2 of that statute provides:
+
+*965 The Legislature was aware of the concerns of Furman and the need that they be addressed in order to enact a valid death penalty statute under the state and federal constitutions as interpreted by Furman, Gregg and Stetson. Therefore, it is highly probable that the legislature intended to adopt a capital punishment system complying fully with those precepts by requiring that the aggravating circumstances be used both to narrow the class of those subjected to the death penalty and to channel the jury's discretion in deciding whether the offender should be put to death or sentenced to life imprisonment. See Note, 28 Idaho L.Rev. 421, 426 (1991-92). Because the introduction of any and all evidence of the defendant's character during the state's case in chief would undermine and in some instances obliterate the aggravating circumstances as a means of channeling or guiding the jury's discretion in choosing between life and death sentences in individual cases an interpretation of Art. 905.2 allowing in such evidence except in accordance with the rules of evidence or as relative to aggravating or mitigating circumstances is clearly unwarranted. Considering the context of the state and federal constitutional decisions at the time of the enactment of the statute in 1976, it is much more likely that the Legislature intended the law to be applied as written. As a preface, in order to distinguish the capital sentencing hearing from the guilt phase, Art 905.2 provides that the sentencing hearing shall focus on the circumstances of the offense and the propensities of the offender. But the primary rules laid down for actually governing the proceedings are (1) "The hearing shall be conducted according to the rules of evidence" and (2) "Insofar as applicable, the procedure shall be the same as that provided for trial in the Code of Criminal Procedure." La.C.Cr.P. Art 905.2
+
+In my opinion the statute was clear when it was originally enacted. However, if there was any doubt, the Legislature cleared it up in 1988. In 1988, the Legislature enacted the Louisiana Evidence Code, which provides generally that the Code is applicable to the determination of questions of fact in all contradictory judicial proceedings, except as otherwise provided by legislation. L.C.E. Art. 1101(A) (Act 515 of 1988, effective January 1, 1989). Additionally, Article 1101(C)(4) states that the provisions of the Code shall not apply to sentencing hearings "except as provided in Code of Criminal Procedure Article 905.2 in capital cases." Id. Consequently, it is the clear, express intent of the Legislature that the provisions of the Louisiana Code of Evidence shall be applicable to capital sentencing hearings.
+
+I realize that the Louisiana Code of Evidence does not perfectly mesh with capital sentence proceedings. But the legislature evidently thought that the rules of evidence developed over centuries in Anglo-American criminal trials provided a solid framework within which fair penalty trials also should be conducted. I think the lawmakers were right. It would be far wiser, as well as legal and more judicial, for this court to start with the rules of evidence enacted by the legislature and make interstitial adjustments rather than draft a sentencing code of our own on a case by case basis. Although I do not doubt the great learning and talents of my colleagues in the majority, the expenditure of their precious judicial resources in this manner is unnecessary when we already have the works of Pugh, Force, Rault, Wigmore, McCormick, Weinstein, other scholars and great Anglo-American judges to build on. Moreover, the Louisiana Code of Evidence has been submitted to the crucibles of the legislature, the Law Institute and the Judicial Council, and many of the policy balances with which the majority now struggles have been struck after receiving the input of district attorneys, criminal defense attorneys and other interests.
+
+For the reasons assigned, I conclude that evidence of the character of the victim or the impact of the crime on the victim's family and "other crimes" evidence may be introduced by the state in its case in chief in a capital sentence proceeding only according to the rules of evidence of the Louisiana Code of Evidence and when it is   relevant to prove one of the statutorily prescribed aggravating circumstances.
+
+[1]  The admissibility of victim impact evidence, also a major issue in this case, has been treated in State v. Bernard,
+608 So. 2d 966
+(La.1992), also decided this day.
+
+[2]  The emphasized language was taken virtually verbatim from the Gregg decision's discussion of channeling jury discretion.
+
+[3]  Article 905.4(c), as originally enacted, provided:
+
+The following shall be considered aggravating circumstances:
+
+. . . .
+
+(c) the offender was previously convicted of an unrelated murder, aggravated rape, or aggravated kidnapping;
+
+After the 1979 murder in Sawyer, Paragraph (c) was redesignated as Subparagraph A(3), and aggravated burglary, aggravated arson, aggravated escape and armed robbery were added as unrelated crimes which constitute aggravating circumstances.
+
+[4]  La.Rev.Stat. 14:30, defining first degree murder, was amended after the original enactment of La.Code Crim.Proc. art. 905-905.9 to add as an essential element of the crime the existence of one of several of the most significant aggravating circumstances listed in Article 905.4. Therefore, the present law narrows in the guilt phase the category of murderers eligible for consideration of capital punishment, since any murder committed without the existence of at least one aggravating element of the crime is now second degree murder.
+
+[5]  The aggravating circumstances enumerated in Article 905.4 relate both to the circumstances of the offense and the character and propensities of the offender. While the existence of at least one of the aggravating circumstances must be proved to support a recommendation of death, nothing in the statute expressly excludes other evidence relevant to circumstances, character and propensities.
+
+[6]  Of course, if the accused introduces evidence in the penalty hearing relating to his good character or lack of criminal history or other evidence which puts his criminal history at issue, the prosecutor may introduce appropriate and relevant rebuttal evidence.
+
+[7]  This court further held that the convictions, although not final, may be introduced as evidence of the aggravating circumstance listed in Article 905.4 A(3).
+
+[8]  At a subsequent hearing in the present case the prosecutor will be required to establish the other fundamental requirements for admissibility set out in Brooks. The trial judge within his sound discretion may schedule the hearing either prior to trial or outside the presence of the jury during the course of the trial.
+
+[9]  The propensity to commit first degree murder is significant, not only in identifying the worst murderers for consideration of capital punishment (which is the basic function of the capital sentencing hearing), but also in showing "moral qualities" or character traits pertinent to the crime with which the accused is charged. Compare La.Code Evid. art. 404 A(1).
+
+[10]  The defense points to former La.Rev.Stat. 13:1580(5), which specifically stated that a juvenile shall not be deemed a criminal by reason of the adjudication and that the adjudication shall not be deemed a conviction. The defense notes that a juvenile cannot be held in custody on the basis of delinquency adjudications beyond his twenty-first birthday and that the same policy underlies the statutory confidentiality of juvenile proceedings.
+
+[11]  The right to trial by jury is the significant exception.
+
+[12]  These articles list the crimes the Legislature considered so serious that the prosecutor should be permitted to institute prosecution against juveniles in district court.
+
+[13]  Because first degree murder, as presently defined, requires the finding of at least one of the more serious statutory aggravating circumstances as an essential element of the crime, the jury in the penalty phase almost always finds the same aggravating circumstances in completing the recommendation form set out in Article 905.7. At least once, however, the jury did not list on the form one of the aggravating circumstances that it necessarily found in order to return a verdict of first degree murder in the guilt phase. See State v. David,
+468 So. 2d 1126
+(La.1984), cert. denied, 476 U.S. 1130, 106 S. Ct. 1998, 90 L. Ed. 2d 678 (1986).
+
+[14]  The prosecutor asserts that the defense will attempt to prove defendant is a paranoid schizophrenic in order to imply that this murder was an uncharacteristic incident. If so, the prosecutor wants to rebut with evidence that defendant is a sociopath who has a consistent pattern of criminal behavior since childhood.
+
+[1]  See also Justice Watson's concurrence in Jordan, 440 So. 2d  at 721.
+
+In sentencing, a jury must have before it all relevant information "regarding the individual characteristics of the defendant and his offense, including the nature and circumstances of the crime and the defendant's character, background, history, mental condition, and physical condition."
+
+... Nothing is more factually or legally relevant to a defendant's sentence than his criminal record.
+
+Id. at 721, (quoting California v. Ramos,
+463 U.S. 992
+, 1006, 103 S. Ct. 3446, 3456, 77 L. Ed. 2d 1171 (1983)) (citation omitted).
+
+[2]  The victim was stabbed repeatedly around the face, neck, and shoulders.
+
+[3]  Note also that some of the crimes the majority would exclude have the great potential for violence against a person and normally would have such a result but for preventive action taken by the victim or other outside factors.
+
+For example, aggravated arson is the "intentional damaging by any explosive substance or the setting fire to any structure, ... whereby it is foreseeable that human life might be endangered." LA.REV.STAT. § 14:51.
+
+Aggravated burglary is the "unauthorized entering of any inhabited dwelling, ..., or movable where a person is present, with the intent to commit a felony or any theft therein, if the offender,
+
+(1) Is armed with a dangerous weapon; or
+
+(2) After entering arms himself with a dangerous weapon; or
+
+(3) Commits a battery upon any person...." LA.REV.STAT. § 14:60

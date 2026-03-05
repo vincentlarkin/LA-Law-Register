@@ -1,0 +1,261 @@
+61095
+Boyer v. Johnson
+https://law.justia.com/cases/louisiana/supreme-court/1978/360-so-2d-1164-1.html
+
+61095
+Boyer v. Johnson
+Court: Louisiana Supreme Court
+Release date: 1978-06-19
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/360-so-2d-1164-1.html
+
+360 So. 2d 1164 (1978)
+
+J. C. BOYER, Plaintiff-Appellant-Relator,
+v.
+Joe E. JOHNSON, Defendant-Appellee-Respondent.
+
+No. 61095.
+
+Supreme Court of Louisiana.
+
+June 19, 1978.
+
+Rehearing Denied July 26, 1978.
+
+*1165 Bobby L. Culpepper, Baker, Culpepper & Brunson, Jonesboro, for plaintiff-appellant-relator.
+
+Willie H. Barfoot, West Monroe, for defendant-appellee-respondent.
+
+TATE, Justice.
+
+The primary issue concerns the liability of an employer for injury sustained by a minor who was employed in violation of child labor laws prohibiting the employment of children as drivers of commercial motor vehicles or for work in connection with power-driven machinery.
+
+Affirming the district court, the intermediate court dismissed this suit by the parent of a 15-year-old boy for his wrongful death when he lost control of a commercial motor vehicle, which he had been employed to drive. 350 So. 2d 961 (La.App. 2d Cir. 1977). We granted certiorari, 353 So. 2d 1038 (La. 1977), to review the court of appeal's conclusion that the employment of the boy in violation of the statutory prohibition was neither the cause-in-fact nor actionable fault so as to impose liability upon the employer.
+
+The plaintiff Boyer sues for damages suffered on account of his son's death. The   boy, Johnny C. Boyer, Jr., age 15, was employed to drive a Volkswagen panel truck to various cities in Louisiana and Mississippi.
+
+The defendant Johnson employed[1] young Boyer after ascertaining that he had a driver's license. He rode with the boy in the delivery truck for two days to supervise him and observe his ability to drive. In the remaining three days of employment, young Boyer drove the Volkswagen truck to deliver fireworks along Johnson's sales route, with Johnson preceding him in another delivery vehicle.
+
+On December 2, 1968, the fifth day of his employment, Johnny was driving the van, loaded with fireworks, to make deliveries in several places between Monroe and Jonesboro. He apparently lost control of the vehicle, which skidded along the left shoulder and into a ditch, then struck a tree, killing him. The defendant Johnson at that time had been driving the other vehicle a mile or two ahead and was waiting for Johnny at a store, and the boy was apparently trying to catch up with him.
+
+Basis of Liability
+
+The bases for delictual liability alleged by the plaintiff father are the defendant Johnson's fault in hiring his son in violation of several child labor laws:
+
+La. R.S. 23:161(10), prohibiting the employment of a minor under eighteen years of age as driver of a motor vehicle used for commercial purposes; La. R.S. 23:163, prohibiting the employment of a minor under sixteen to work in connection with powerdriven machinery; La. R.S. 23:161(4), prohibiting the employment of a minor under eighteen to transport explosives; and La. R.S. 23:166, 211.1, prohibiting the employment of a minor between the ages of fourteen and sixteen during school hours without a work certificate evidencing participation in an approved vocational program.
+
+The plaintiff, who is granted a right of action for his son's wrongful death by Civil Code article 2315, may recover if he can prove that defendant had a duty to observe a certain standard of care toward the boy; that defendant breached his duty by falling below that standard; that the defendant's breach of duty was a cause-in-fact of the boy's death; and that the harm which actually occurredthe fatal highway accidentwas the sort of harm that the defendant's legal duty was designed to prevent. Dixie Drive It Yourself System New Orleans, Inc. v. American Beverage Co., 242 La. 471,
+137 So. 2d 298
+(1962); Laird v. Travelers Insurance Company, 263 La. 199,
+267 So. 2d 714
+(1972).
+
+Statutory Intent to Protect Against Risk and Harm Encountered
+
+In enacting the child labor statutes, the legislature imposed on employers certain duties, in order to protect children from their own youth and inexperience and from other risks of employment.
+
+It is not disputed that Johnson had a legal duty not to hire Johnny C. Boyer, Jr., to deliver fireworks in a commercial vehicle. Nor is there any doubt that defendant's violations of the law, or at least some of them, were causes-in-fact of the fatal accident: Johnny happened to be on the road on this particular day because he had been   employed to drive this particular truck to carry fireworks to Jonesboro. That he might have died in some other way, even in some other traffic accident or carrying some other cargo, is irrelevant to the determination of causation of his death as it in fact occurred. Of the four statutory duties violated by the defendant, only the requirement that Johnny not be hired during school hours without a work permit may not have been a necessary antecedent to the accident.
+
+A mere finding of causation in fact, however, does not establish defendant's liability. Plaintiff can prevail only if the risk of the harm that actually occurred fell within the scope of the duty breached. See Dixie and Laird, cited above.
+
+The court of appeal held correctly that the violations of the fireworks and work permit statutes do not create civil liability for Johnny's death. The court treated both issues in terms of causation, stating that the work-permit violations "are too remote from the proper sphere of causation," and that transportation of fireworks "has no direct or indirect relation to the cause of the accident." 350 So. 2d  at 963. It would have been enough, however, to conclude that neither statute was intended to guard against the risk of this traffic accident: The work permit provisions are to protect the academic and vocational needs of school-age children, and the fireworks transportation law is to protect them from explosions. This resolution of the duty/risk analysis renders moot the resolution of nice questions of causation. See Laird v. Travelers Indemnity Co., cited above, 267 So. 2d  at 720.
+
+The court of appeal erred, however, in concluding that defendant's hiring of Johnny to drive the panel truck, in violation of the laws against employing minors to drive commercial vehicles and to operate power-driven machinery, did not impose civil liability for Johnny's resulting death. The court seemed to acknowledge that "if the deceased had not been driving the van, he would not have been killed" (350 So.2d at 964), but stated that "causation must be more direct and not so remote." Id.
+
+Despite the adoption by this court of the duty/risk approach to resolution of negligence questions in the 1962 case of Dixie Drive It Yourself System v. American Beverage Company, cited above, one distinguished commentator has noted that intermediate courts "continue to employ causation language to refer to issues other than cause-in-fact, occasionally to the complete detriment of clarity of analysis and correctness of outcome." Robertson, Reason Versus Rule in Louisiana Tort Law: Dialogues on Hill v. Lundin & Associates, Inc., 34 La.L.Rev. 1, 17-19 (1973).
+
+It is the substance, of course, and not the form in which an analysis is cast, which produces a sound result. It does no harm, for instance, to say that an act is the "legal cause" of a harm if the act falls below a standard of conduct designed to prevent the harm. Yet in this case the excursus into "direct," "indirect," and "remote" causation may have diverted the court of appeal from the fundamental inquiry: Did defendant break laws designed to prevent this type of risk and harm?
+
+In finding "that the defendant was void of any actionable substandard conduct," the court of appeal pointed out that the trial court found Johnny himself negligent in causing the accident; that Johnny had a driver's license; and that Johnson rode with Johnny for the first two days to observe and supervise his driving.
+
+These observations cannot erase the fact that defendant's substandard conduct was a cause-in-fact of the accident. They do, however, have their place in the analysis of whether the risk was within the ambit of defendant's duty: If it could be shown that the standard of care was imposed on defendant only to protect non-negligent children, or those without driver's licenses, or who drove unobserved and unsupervised, then defendant would prevail. The statutes violated by defendant, however, contained no such express or implied limitations.
+
+What was the purpose of the laws prohibiting Johnson from hiring Johnny to   drive a commercial vehicle, or any powerdriven machinery? To protect Johnny from accidents which might befall him while operating such machinery, as is most clearly held in the early jurisprudence interpreting and applying these enactments.
+
+Justice Provosty, writing for this court on rehearing in Alexander v. Standard Oil Co. of Louisiana, 140 La. 54, 72 So. 806 (1916), well before the advent of the duty/risk analysis, seemed to anticipate such an approach when he held an employer who violated a child labor statute liable for injuries sustained by his young employee, without a showing of any further negligence on the employer's part: "The violation of the child labor law, was, however, negligence on the part of the defendant [employer] . . . . This law is positive in its prohibition of the employment of children; it is absolute in its terms; allows of no exceptions or excuses.. . . The duty imposed by said statute upon the defendant not to employ a child in a dangerous occupation is thus imposed for the protection of the child . . . ." Id. at 67, 69, 72 So.  at 811.
+
+The court of appeal in this case noted the Alexander decision, but relied instead on Jones v. Insurance Company of North America, 303 So. 2d 902 (La.App. 1st Cir. 1974), in which a minor was injured while operating a tractor. His employer had hired him in violation of La.R.S. 23:163, the power-driven machinery statute involved in this case.
+
+The Jones court relied solely on Flores v. Steeg Printing & Publishing Co., 142 La. 1068, 78 So. 119 (1918), to derive a set of rules governing minors injured in the course of employment. The first of these rules was that "[p]ersons who employ children in work in or about dangerous machinery, especially where such employment is proscribed by law, must anticipate that children will exercise only such judgment and discretion as will ordinarily be exercised by children of like age under similar circumstances.. . . "but that the employer may avoid liability by "instructing and informing the child about and against the dangers incident to the employment . .." 303 So. 2d  at 909 (emphasis added).
+
+The Jones court erred in inferring such a rule from this court's decision in Flores. The rule seems accurate enough where there is no statute, or perhaps to supplement an employer's statutory duty; but "instructing and informing" is no substitute for compliance with the law.
+
+In Flores this court found that the only statute violated by the employer was a statute requiring a work-permit before employment of a minor of fifteen years and older. The statute also prohibited any employment whatsoever of children under fourteen years of age.
+
+The court stated that the enactment had as its object "to guard against the employment of a child under fourteen. It may be presumed that the Legislature felt that children over fourteen were capable of taking care of themselves in ordinary occupations. . . ." 142 La. at 1073, 78 So.  at 121.
+
+The statutory duty breached was not intended to protect against the risk of harm to (the death of) the 15-year-old decedent in that case in an industrial accident. Therefore, it was left for the court to examine whether defendant had discharged his nonstatutory duty to exercise due care in instructing and warning the decedent.
+
+The Flores case does not stand for the proposition that a court will substitute its own idea of the proper standard of care for a standard set by the legislature. In Flores, for example, the court's analysis would have imposed liability upon the employer if the injured minor had been fourteen years of age and thus employed in violation of a statute prohibiting such employment and designed to protect fourteen year olds from the risk of harm through industrial injury. To the extent Jones conveys a contrary impression, it is overruled.
+
+"Negligence Per Se"
+
+In holding the defendant civilly liable for his breach of a duty created by a criminal statute, we do not intend to revive the doctrine of "negligence per se." A violation   of a criminal statute does not automatically create liability in a particular civil case, because the statute may have been designed to protect someone other than the plaintiff, or to protect the plaintiff from some evil other than the injury for which recovery is sought. Laird v. Travelers Insurance Company, cited above; Weber v. Phoenix Assurance Co. of New York,
+273 So. 2d 30
+(La.1973).
+
+In this sense, criminal statutes can be said to be mere guidelines for the court. Similarly, a criminal law designed to protect one person from one harm may be thus used by the court as a starting-point toward fashioning an analogical standard of conduct of due care to protect other persons subjected to generically similar risks.
+
+Yet, where a criminal statute imposes a duty designed to protect a particular person from a particular type of injury, one who has so injured such a person by a breach of the prescribed duty cannot evade civil liability by persuading the court to disregard the clear legislative prohibition as if it were a mere discretionary "guideline."
+
+A Minor's Contributory Negligence
+
+Another of the rules stated in Jones to be derived from Flores was that "[i]n the absence of a statutory provision expressly or impliedly depriving an employer of the right to plead contributory negligence or assumption of the risk against a minor seeking damages for injuries sustained in the course of the employment, an employer may assert such defenses . . . ." 303 So. 2d  at 909. Since in the Jones case the court found the employer not to be negligent, it did not reach the question of contributory negligence.
+
+The rule, as stated, may be accurate where the risk of harm encountered by the minor is not the risk of harm the statute was designed to prevent. Nevertheless, where the purpose of a statute is to protect the minor against the risk of his own negligence (as here, where the statute absolutely prohibits the employment of a minor below a certain age in work connected with power-driven machinery or in driving a commercial vehicle), the general rule is that the minor's contributory negligence or assumption of risk will not defeat recovery for his injury or death, the very risk and harm the statute was designed to prevent. Restatement of Torts, 2d, Section 483, Comments e and f (1965); Prosser on Torts 425-26, 528 (1971); Note, 20 La.L.Rev. 796 (1960).[2]
+
+The defendant in this case, who violated laws which sought precisely to protect Johnny from his own youth, inexperience, and relative lack of judgment, cannot be heard to assert that these very defects in Johnny's character caused the accident. His death, while driving a loaded delivery truck on a long-distance journey, apparently from his own inability to handle the vehicle, was one of the evils the legislature was trying to avoid by forbidding Johnson to hire the boy.[3]
+
+Our decision today is not inconsistent with the prior jurisprudence of this court. In Darsam v. Kohlmann, 123 La. 164, 48 So.   781 (1909), the most nearly contrary decision, we applied the law of contributory negligence only after finding the employer's violation of the child labor laws not to be the "proximate cause" of his employee's injuries.[4] The Darsam court drew a distinction between employees who were injured "in the actual discharge of the duties for which they were employed in violation of prohibitory statutes, and hence sustained their injuries by reason of such employment" (without reference to any contributory negligence), and those whose negligence was in performing acts outside the scope of their employment (where contributory negligence might bar recovery). 123 La. at 172, 48 So.  at 784.
+
+In the Alexander case, cited above, Justice Provosty noted that Darsam had not dealt with the question whether an employer violating a child labor law may plead his employee's contributory negligence which occurred in the scope of his assigned duties, and said the question was "an open one in our jurisprudence." 140 La. at 68, 72 So.  at 811. And in the Flores case, cited above, this court recognized that where a law absolutely prohibits the employment of certain minors in certain occupations, "[t]he reason for the prohibition is presumed to be that . . . [they] are incapable of taking care of themselves, and it might be illogical to hold them responsible for their negligence in the event of an accident." 142 La. at 1073, 78 So. 2d  at 121.
+
+Other Defense Contentions
+
+Johnny's possession of a valid driver's license does not excuse defendant's breach of duty. That Johnny could have died in some other automobile accident is, as we have shown, irrelevant to causation in fact; and it is relevant to the duty/risk analysis only insofar as it might illuminate legislative intent in prohibiting the boy's employment to drive a commercial vehicle.
+
+The legislature might have decided to permit a fifteen-year-old to drive a private car for private purposes, but not to be employed to drive a commercial vehicle, for any number of sensible reasons. A professional driver might be required to drive longer distances, for greater periods of time, in larger and more unwieldy vehicles, under conditions dictated by the terms of his employment rather than by his own desires or capabilities.
+
+In this case, Johnny was driving a Volkswagen panel truck on a state highway, some fifty miles from home, and had apparently driven several hundred miles in the five days he worked for Johnson. Even if the facts were not so strong, however, we would be forced to conclude that the legislature is free to set one standard for parents and for the state, another for employers, provided, at least, there is (as here) a rational basis for the difference.
+
+Likewise, the defendant's own supervision of Johnny, and his determination that the boy was a competent driver, are irrelevant in the face of the statutory prohibition against the boy's employment.
+
+In the absence of a law prohibiting the youth's employment to drive under any circumstances, it would be proper for the court to look to such actions as evidence of the employer's due care. But where the legislature has indicated that no amount of supervision, instruction, and observation is sufficient to avoid the prohibition, we will not substitute our own opinionsor allow the defendant to substitute his own estimates of the child's competence and maturityfor those of the legislature.
+
+This is particularly true where the purpose of the legislative rule is to protect children. The legislature may prefer to err on the safe side. Here the legislature, proceeding from generalized facts about fifteen-year-old boys, assessed Johnny's qualifications   as a professional truck driver more accurately than Mr. Johnson did in his two days of observation; and tragically so.
+
+Finally, the defendant argues that while his statutory duty may have been for the protection of the child, it was not for the protection of the child's father. The defendant cites the Alexander case, cited above, for this proposition.
+
+Alexander, however, rejected only a mother's claim for her own expenses and mental anguish, where her son did not die from his injuries, and where she had consented to his illegal employment (unlike the present father).
+
+The wrongful death provisions of Civil Code article 2315 give parents a right to claim damages for the death of their children. Where a statute is designed to protect a child from the risk of a certain injury, it should be read with article 2315 to protect his parents from the risk that their child will die from the same injury.
+
+The judgments of the district court and the court of appeal in favor of defendant Joe E. Johnson and against plaintiff J. C. Boyer are reversed. The case is remanded to the Court of Appeal, Second Circuit, in order that it may fix the damages to which plaintiff is entitled and render judgment for such sums against the defendant. All costs are taxed against the defendant.
+
+REVERSED AND REMANDED.
+
+SANDERS, C. J., dissents and assigns reasons.
+
+SUMMERS, J., dissents and assigns reasons.
+
+MARCUS, J., dissents and assigns reasons.
+
+SANDERS, Chief Justice (dissenting).
+
+In this scholarly opinion, the majority imposes liability upon the employer for the death of a young motor vehicle operator. Although I agree with the legal approach used to resolve the issues, I disagree with the result.
+
+The plaintiff, Boyer, is the father of a young boy killed in a motor vehicle accident. Plaintiff and the mother were divorced, and both had remarried. The mother had custody of the son.
+
+In November, 1968, the boy's stepfather, with the mother's approval, arranged for his employment by the defendant, Joe E. Johnson, who had a small toy and novelty business in the City of Monroe and needed temporary help during the Christmas season. At the time of his employment, young Boyer was almost sixteen years of age. He had a driver's license, which he exhibited to Johnson, and Johnson was informed that the boy had a work permit issued in connection with previous employment. The boy was no longer attending school.
+
+The first two days he worked, young Boyer drove a new Volkswagen van used in the business. He was accompanied on those occasions by his employer who observed and supervised his driving. On these trips, Johnson cautioned him to drive carefully. Johnson was satisfied that he was a good and careful driver. The next two days young Boyer drove the van, either preceding or following his employer's vehicle.
+
+On the morning of December 2, 1968, the fifth day of his employment, young Boyer was following Johnson on a trip from Monroe to Jonesboro. Near Jonesboro, young Boyer lost control of the van, crossed over to the opposite side of the highway, ran along the shoulder of the road, plunged off of the highway through a ditch and crashed into a tree. No other vehicles were involved; there were no eyewitnesses to the accident. No mechanical defects in the vehicle were proved. As a result of the collision young Boyer was fatally injured.
+
+Since his death, the boy's mother has been receiving workmen's compensation benefits from his employer. In this suit, the father seeks damages, based on a violation of the child labor laws.
+
+The majority identifies four such statutes: LSA-R.S. 23:161(10), prohibiting the employment of a minor under eighteen years of age as a driver of a motor vehicle   used for commercial purposes; LSA-R.S. 23:163, prohibiting the employment of a minor under sixteen to work in connection with power-driven machinery; LSA-R.S. 23:161(4), prohibiting the employment of a minor under eighteen to transport explosives; LSA-R.S. 23:166 and 23:211.1, prohibiting the employment of a minor between the ages of fourteen and sixteen without a work certificate evidencing participation in an approved vocational program.
+
+Two of these statutes can be quickly eliminated as a basis of liability. LSA-R.S. 23:166 and 23:211.1, prohibiting employment during school hours without a proper work certificate were obviously designed to prevent interference with a child's education and not to promote safety. Picou v. J. B. Luke's Sons, 204 La. 881, 16 So. 2d 466 (1943); 6 La.L.Rev. 209.
+
+LSA-R.S. 23:161(4), prohibiting the employment of a minor to transport explosives, was obviously designed to restrict employment creating a risk of explosion. Since no explosion occurred here, it has no relevance to the instant case.
+
+LSA-R.S. 23:163, prohibiting the employment of a minor "In, about, or in connection with power-driven machinery" is of doubtful relevance.
+
+The remaining statute, LSA-R.S. 23:161(10), prohibits the employment of any minor under the age of eighteen as a driver of a motor vehicle used for commercial purposes. This statute raises the serious issue in the case.
+
+There can be no doubt that the conduct of defendant in employing the minor to drive the delivery truck was a factual cause of his death. The "but for" test is appropriate here. But for his employment he would not have been injured. Dixie Drive It Yourself Sys. v. American Beverage Co., 242 La. 471,
+137 So. 2d 298
+(1962), and the authorities cited.
+
+The existence of factual causation, however, does not of itself produce liability. Before liability can be imposed, it must appear that the statutory duty of LSA-R.S. 23:161(10) is one that the Court should adopt as a basis of civil liability in favor of a parent.
+
+The statute, itself, does not provide for civil liability. Criminal penalties are provided. See LSA-R.S. 23:231. In LSA-R.S. 23:152, the statute deals specifically with enforcement. It provides:
+
+By restricting action to the commissioner and the district attorney, this language can be reasonably construed to exclude civil liability. If so, this provision alone is a bar to recovery in this case. See Restatement of Torts 2d, § 287. Assuming, however, that the language was not intended to exclude civil liability, the Court is not compelled to accept the statute as a standard of conduct for civil liability in favor of the parents. Pierre v. Allstate Insurance Company, 257 La. 471,
+242 So. 2d 821
+(1970); Restatement of Torts 2d, § 286, Comment d.
+
+In Pierre v. Allstate Insurance Company, supra, this Court stated:
+
+In considering the discretionary use of the statute here, the key question is whether or not it was enacted to protect parents, as a class, from the loss of their children by accidental injury. I think not.
+
+*1173 There is nothing in the content or history of the statute to suggest that such protection was contemplated. The early decision of this Court in Alexander v. Standard Oil Co. of Louisiana, 140 La. 54, 72 So. 806 (1916) dealt with this question. There the Court held:
+
+See also Bagesse v. Thistlewaite Lumber Co. Limited, 12 La.App. 453, 125 So. 322 (1929).
+
+The language of the Court in Alexander v. Standard Oil Company of Louisiana, supra, is imprecise. The thrust of the holding, however, is that the statute should not be used as a basis of civil liability in favor of parents. Parents do not constitute a class of persons protected by the statute. In effect, this preclusion applies to all damages for which the parents may sue, even the pain and suffering of the deceased child. See Bagesse v. Thistlewaite Lumber Co. Limited, supra.
+
+I have been unable to find any decision in Louisiana allowing parents to recover for the death of a child based on a child labor law violation since the Alexander decision. I agree with the holding that the child labor statute is not a proper basis for civil liability to the parents.
+
+It can be argued, of course, that it is inconsistent to allow a living child to recover for injuries, as the Court did in Alexander, and not allow the parents to recover for accidental death. The question of liability to a living child, however, is not before us at this time. I express no opinion as to this question.[1]
+
+In conclusion, I note that, though the Court speaks in terms of negligence, the effect of the holding is to impose strict liability. The employer is liable solely because of the statutory violation. Good faith, lack of knowledge, and due care are immaterial. Contributory negligence is not a defense. This harsh result should be reached only if there is an overriding objective, such as the enforcement of the statute. I find no higher objective to justify the result.
+
+For the reasons assigned, I respectfully dissent.
+
+SUMMERS, Justice (dissenting).
+
+Plaintiff J. C. Boyer instituted this suit claiming damages for the wrongful death of his minor son J. C. Boyer, Jr. Plaintiff and the boy's mother had been divorced and both remarried. The mother had custody of the young boy at the time of his death.
+
+In late November 1968 the boy's stepfather, with the mother's knowledge and acquiescence, arranged for his employment by the defendant Joe E. Johnson, who had a small toy and novelty business in the city of Monroe and needed temporary help during the Christmas season. At the time of his employment young Boyer was almost sixteen years old. He had a driver's license, which he exhibited to Johnson, and Johnson was told that the boy had a work permit which had been issued to him in connection with previous employment. The boy was no longer attending school, having been told that he could learn more by working.
+
+The first two days he worked young Boyer drove a new Volkswagen van used in the business. He was accompanied on those occasions by his employer who observed and supervised his driving. On these trips he was admonished to drive carefully. Johnson was satisfied that he was a good and careful driver. The next two days young Boyer drove the van and either followed or preceded Johnson, who drove another vehicle.
+
+*1174 On the morning of December 2, 1968, the fifth day of his employment, young Boyer was following Johnson on a trip from Monroe to Jonesboro. At a point 6.9 miles from the city of Jonesboro young Boyer lost control of the van, crossed over to the opposite side of the highway, ran along the shoulder of the road for 55 feet, plunged off of the highway through a ditch and crashed into a tree. No other vehicles were involved and there were no eyewitnesses to the accident. There were no indications of road or obvious mechanical defects. As a result of the collision young Boyer was fatally injured. One hour later he was pronounced dead upon arrival at the Jackson Parish Hospital.
+
+Since his death, the boy's mother has been receiving workmen's compensation benefits from his employer. This tort suit by the father resulted in a judgment in favor of the defendant, dismissing plaintiff's suit at his cost. On appeal to the Second Circuit, the judgment was affirmed. 350 So. 2d 961. Certiorari was granted on plaintiff's application. 353 So. 2d 1038.
+
+In this Court plaintiff relies upon Sections 161(10) and 163 of Title 23 of the Revised Statutes. As it read at the time of this accident Section 161(10) provided in pertinent part that "No minor under the age of eighteen years . . . shall be employed, permitted or suffered to work. . . [a]s driver or helper of any motor vehicle used for commercial or industrial purposes . . . ." Section 163 pertinently provided at that time that "No minor under the age of sixteen years shall be employed, permitted or suffered to work. . . [i]n, about, or in connection with power-driven machinery . . . ." Fines and imprisonments are prescribed for violations of these statutes.
+
+It is the plaintiff's contention that when a minor suffers an injury in the course of his employment when he has been employed in direct contravention of these statutory prohibitions, the employer is liable for the damages resulting from injury to the minor.
+
+This Court decided in 1909 that the violation by an employer of the provisions of a statute regulating the employment of minors is negligence per se, and actionable, if injuries are sustained by the minor in consequence thereof.
+
+Employing a child in violation of such statutes was recognized to be evidence of negligence in case the child is injured in the course of his employment, because enactment of such a statute indicates a legislative decision that children are unfit to be so employed by reason of their immaturity and indiscretion. It is the detriment to the child that such a statute aims to avoid. It does not purport to impose civil liability upon the employer. These enactments are promulgated in the interest of the child and society in general, not in the interest of the parent of the child.
+
+In so deciding, the Court recognized that statutes regulating the employment of minors were not to be so construed as to abrogate the ordinary rules relating to contributory negligence. Contributory negligence was held to be available as a defense, notwithstanding the statute, unless the statute is so worded as to leave no doubt that such a defense is to be excluded. The rationale of this pronouncement is that an employer's breach of a duty imposed by statute does not relieve the minor of the obligation to exercise due care. Darsam v. Kohlmann, 123 La. 164, 48 So. 781 (1909). See also Flores v. Steeg Printing & Publishing Co., 142 La. 1068, 78 So. 119 (1918); Jones v. Insurance Company of North America, 303 So. 2d 902 (La.App.1974).
+
+To these propositions was added still another factor to be considered in determining the employer's liability. In Alexander v. Standard Oil Co. of Louisiana, 140 La. 54, 72 So. 806 (1916), the Court approved the doctrine that injury to the child in these cases is actionable only when it has been the natural, probable, or proximate consequence of the employment. Alexander also stands for the proposition that a mother who consents to the employment of a minor child contrary to law, is also at fault and cannot recover damages due to her because of the child's injury in the course of his employment. Her disregard of the statutory   prohibition against employing minors is the basis of her fault. As custodian of the child, her consent would affect any claim she might assert. The effect of her consent upon the father's claim is real. She, as custodian, was vested with the right to grant permission for the son to work. When the father lost custody his right to control his son's activity was abrogated and transferred to the custodian. He was thereafter bound by the consent the custodian gave to the son's employment. This result not only follows from the law, but it is a result dictated by justice. According to the mother, the plaintiff's father never visited the child, and by his own admission the father made no contribution to the son's maintenance and support.
+
+Significantly, the statute under consideration does not contain a single expression permitting the inference that the legislature intended to make the employer an insurer of the child against accidents caused by his own negligence.
+
+Legislation in this State permits a child to obtain a driver's license and drive on the streets and highways of this State at the age of fifteen. A course of instruction and a knowledge of fundamental safety precautions and driving skills are required. La. Rev.Stat. 32:408. From this it may be inferred that children over fifteen were deemed capable of taking care of themselves while driving under ordinary circumstances. A further extension of this logic would hold them responsible for the exercise of due care, failing in which they would be charged with contributory negligence.
+
+On the basis of the foregoing principles the judgment of the District Court and Court of Appeal should be affirmed.
+
+Other than the negligence imputed to him by employing the minor, the employer Johnson was guilty of no fault. He ascertained that the minor had a driver's license and employed him with the consent of the child's mother, the boy's custodian, having been told that a work permit had been issued to the boy. When he began work, the boy was personally supervised by Johnson who observed his ability to drive, at the same time cautioning him to drive carefully. Johnson considered him to be a "good driver". Thereafter young Boyer drove only in the company of Johnson, either following or preceding him to and from their destination. A new Volkswagen van, free of defects, was furnished to young Boyer to operate. It had been driven only 500 miles. On the day of the trip to Jonesboro, Johnson was preceding young Boyer and was unaware of the accident until the Volkswagen failed to reach Jonesboro timely.
+
+A highway patrolman appeared at the scene immediately after the fatal accident and conducted an investigation. His report was introduced in evidence by stipulation of both parties. The investigating officer was of the opinion "that this accident occurred because the operator lost control of his vehicle." He was further of the opinion that "[r]oad defects did not contribute to this accident." Physical facts referred to in the report fully substantiate this conclusion. As already noted there was no evidence of mechanical defects in the new van. Thus it is evident from the circumstances and reasonable inferences that young Boyer was inattentive and careless in the operation of the van. His failure to exercise due care was contributory negligence which bars recovery for his injury and death. Nothing in this record indicates that Johnson's employment of young Boyer was the proximate cause of the accident.
+
+I would uphold the District Court and the Court of Appeal.
+
+MARCUS, Justice (dissenting).
+
+Under the facts of this case, I do not consider that the violation of the criminal statute pertinent to this case imposes civil liability on defendant in favor of a parent of the deceased boy for his wrongful death. Accordingly, I respectfully dissent.
+
+[1]  The defendant Johnson was the president, manager, and sole-salaried employee of a small family corporation, Johnson's Toy & Novelty Co., Johnny's nominal employer. Johnson personally hired and supervised Johnny and knew that he was a 15-year-old minor.
+
+Neither pleadings nor briefs raise any issue that the corporation's liability for workmen's compensation excludes not only its tort liability, La. R.S. 23:1101, but also the tort liability of its president-manager for his personal fault.
+
+Prior to Act 147 of 1976, an officer or agent of the employer corporation could be held liable in tort for his own personal fault, notwithstanding the employer's immunity. La. R.S. 23:1101 (prior to 1976 amendment); Canter v. Koehring Co.,
+283 So. 2d 716
+(La.1973). Johnson is being sued for his own personal fault in disregarding the child labor statutes, not for imputed or vicarious negligence; whatever his relationship to the employer corporation, he is a distinct person and may be sued as such for his own fault, which occurred prior to the effective date of Act 147 of 1976.
+
+[2]  Although the precise point before us is a matter of first impression in this court, the overwhelming majority of courts in other states which have ruled on the question have rejected the employer's plea of contributory negligence, since to do otherwise would undermine the purpose of the child labor laws. See, e. g., Boyles v. Hamilton,
+235 Cal. App. 2d 492
+, 45 Cal. Rptr. 399 (1965); Dusha v. Virginia & Rainy Lake Co., 145 Minn. 171, 176 N.W. 482 (1920); Vincent v. Riggi & Sons, Inc.,
+30 N.Y.2d 406
+, 334 N.Y.S.2d 380, 285 N.E.2d 689 (1972); Lenahan v. Pittston Coal Mining Co., 218 Pa. 311, 67 A. 642 (1907); Schilly v. Baker, 184 Tenn. 654, 202 S.W.2d 348 (1947); Smith v. Uffelman, 509 S.W.2d 229 (Tenn.App.1974); Pitzer v. M. D. Tomkies & Sons, 136 W.Va. 268,
+67 S.E.2d 437
+(1951). See also Terry Dairy Co. v. Nalley, 146 Ark. 448, 225 S.W. 887 (1920) (dictum); Frazey v. Hoar, 208 Kan. 519,
+492 P.2d 1316
+(1972) (dictum).
+
+[3]  If an accident was not caused by the minor's negligence, but entirely by the independent act of a third party, a defendant would presumably disclaim liability on the ground that the harm which occurred was not one the child labor statute was designed to prevent, since drivers of any age are equally vulnerable to such external forces. Whatever the merits of such an argument, the issue is not before us under the present facts.
+
+[4]  The minor was employed to work at a safe place on moss gin premises, separated by a partition from moving machinery. In violation of instructions and of his employment duties, he went beyond the partition and was injured. We might disagree with the Darsam court that the additional risk was not within the statutory protection; however, as noted in the text above, the decision does not disagree with the principle that the employer would be liable if the minor was injured by the risk prohibited by the statute, as here.
+
+[1]  But see Jones v. Insurance Company of North America, La.App., 303 So. 2d 902 (1974) cert. denied Feb. 7, 1975.

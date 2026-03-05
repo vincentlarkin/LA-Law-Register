@@ -1,0 +1,177 @@
+58177
+Karmgard v. SOUTHLAND MORTG. & TITLE CO.
+https://law.justia.com/cases/louisiana/supreme-court/1977/341-so-2d-1109-1.html
+
+58177
+Karmgard v. SOUTHLAND MORTG. & TITLE CO.
+Court: Louisiana Supreme Court
+Release date: 1977-01-24
+Author: CALOGERO, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1977/341-so-2d-1109-1.html
+
+341 So. 2d 1109 (1977)
+
+Mrs. Virginia West KARMGARD
+v.
+SOUTHLAND MORTGAGE AND TITLE COMPANY.
+
+No. 58177.
+
+Supreme Court of Louisiana.
+
+January 24, 1977.
+
+*1110 C. Ellis Henican, Jr., Joseph P. Henican, III, Henican, James & Cleveland, New Orleans, for plaintiff-applicant.
+
+Franklin V. Endom, Jr., Polack, Rosenberg, Rittenberg & Endom, New Orleans, for defendant-respondent.
+
+CALOGERO, Justice.
+
+Plaintiff Mrs. Virginia West Karmgard has been unsuccessful so far in her suit for the recovery of interest collected by the defendant lender, Southland Mortgage and Title Company, on the ground that the interest was subject to forfeiture because of usury. 331 So. 2d 118 (La.App. 4th Cir. 1976). We granted writs to review the judgment of the Court of Appeal which affirmed the trial court's dismissal of plaintiff's suit. 334 So. 2d 220 (La.1976).
+
+Defendant, Southland Mortgage and Title Company, advanced plaintiff Mrs. Karmgard $35,000 on October 31, 1972. She signed a promissory note, and, as security executed a collateral (second) mortgage on certain improved real property (a motel in New Orleans) and its movable contents. Her negotiable hand note provided for the payment of a principal sum of $41,300 with interest at the rate of eight percent per annum payable only after maturity and the following schedule of twelve consecutive monthly payments:
+
+The first installment came due on November 31, 1972.
+
+Departing temporarily from the historical chronology, we note that the discounted or capitalized interest on the face of the note was exactly two percent per month on the anticipated unpaid principal balance. Two percent of $35,000 equals $700, and $700 was payable each of the first six months, with half of the principal ($17,500) due at month six along with the $700 interest payment for that month (the month six payment was an $18,200 balloon). For the seventh through twelfth months it was anticipated that a second $17,500 portion of the principal would remain outstanding, so the note provided for six $350 monthly payments (each exactly two percent of $17,500), for months seven through twelve, the twelfth being coupled with the $17,500 remaining principal (that twelfth payment was an $18,200 balloon). A "Federal Disclosure Statement"[1] relative to plaintiff's loan reflects an annual percentage interest rate of 25.75%. The obvious reason why two percent per month on the unpaid principal balance is equivalent to a 25.75% annual percentage rate, rather than 24%, is the compounding effect of commencing payment one month after date of execution, rather than having the full principal and interest fall due at the end of the year.
+
+Although she received no additional cash advance (or loan), plaintiff signed a second note dated October 31, 1973 for a principal sum of $43,400 with interest from maturity at eight percent per annum. This note provided for twelve consecutive monthly payments: eleven payments of $700 each and a final balloon payment of $43,400.[2]*1111 From date of execution of the first note until a final payout of the second note, Mrs. Karmgard made payments totaling $50,400. She brought this suit for the recovery of all interest paid, a total of $15,400, the sum she paid in excess of the $35,000 principal amount borrowed, alleging that because usurious interest was charged and collected, in violation of Louisiana Civil Code Article 2924, she is entitled to the recovery of all interest as provided in La.R.S. 9:3501.[3]
+
+The legal issues in this case revolve around the amount of interest charged and collected on the two notes (a total of $15,400), whether all such interest was capitalized in the respective notes, and if not, whether interest collected, in addition to the capitalized interest, exceeded permissible nonusurious interest of eight percent per annum. Louisiana law permits recovery of discounted or capitalized interest, regardless of amount, included within the face amount of the note, provided such obligation shall not bear interest at more than eight percent per annum from maturity until paid. La.C.C. art. 2924; Thrift Funds of Baton Rouge, Inc. v. Jones,
+274 So. 2d 150
+(La.1973).
+
+The capitalized interest in note number one is simple to determine. It was $6,300, i. e., face amount of $41,300 less $35,000 advanced. The capitalized interest in note number two is not so simple to ascertain. The computation of that amount depends upon what principal amount was due at execution of the second note. If all payments prior to execution of the second note were credited to the face amount of the first note and the remaining balance (on that first face amount) constituted the consideration or fictional advance incident to the second note's execution, then there would be no usury charged or collected incident to either note, regardless of what portion of the second note's face amount may have constituted newly capitalized interest, and even, for instance, should that sum have exceeded the 25.75% per annum (or two percent per month) which was charged on the first note. On the other hand, if one or more of the payments prior to execution of the second note were credited to non-capitalized interest, it is likely that such interest charges were usurious.
+
+Thus, determination of the capitalized interest (and, correspondingly, the balance due on the first note's face amount) upon execution of the second note is important to the resolution of the case.
+
+The Court of Appeal found that the trial court had erred in excluding evidence as to an oral modification at month six during the term of the first note. It had been alleged that defendant agreed not to call the note due upon non-payment of the first balloon, but agreed instead to accept increased payments of interest during months seven through eleven, interest which had not been capitalized in the face amount of the note, and which, because it exceeded eight percent per annum, was purportedly usurious.
+
+While we are able, in part at least, to resolve the case without relying upon parole evidence (as will be shown hereinafter) we do note that whether the evidence is properly directed toward an oral agreement relative to supplemental interest charges incident to payment extension (an agreement entered after signing of the note), or simply toward proof, absent agreement, tending to establish actual interest charges collected, parole evidence is admissible. It is, of course, true that conventional interest which cannot exceed eight percent must be fixed in writing, and that testimonial proof of the agreed-upon conventional   interest at variance with that written expression is not admissible. La. C.C. art. 2924.[4] However, this proscription does not bar proof, of whatever, character, tending to show historically just what occurred as to interest charge and collection.
+
+Before recounting plaintiff's parole evidence, which incidentally the Court of Appeal found "unrealistic and impractical" and thus not borne out, we will recite herein the payment history relative to the payment of the two notes in question.
+
+There is no essential inconsistency between plaintiff's exhibit number five, a payment history statement obtained from defendant's collection agent Mr. Plaia before the litigation was instituted, and defendant's answer to interrogatories. Taken together, these documents[5] reveal the following:
+
+A study of the foregoing schedule of payments and due dates indicates that over a twenty-two month period plaintiff had paid in full the principal sum she had borrowed, $35,000, as well as $15,400, an amount precisely equal to $700 (or two percent of $35,000) for each of the twenty-two months she held defendant's $35,000. She was, of course, late on each of twenty-one $700 payments (anywhere from one to twenty-seven days on twenty of them, thirty-nine days on one of them) and two months, three days early on the $35,000 principal portion of the twenty-second and concluding payment.
+
+What we are called upon to determine is whether the full $15,400 which she paid over and above the $35,000 borrowed (less any properly charged eight percent per annum interest from maturity incident to the twenty-one late payments)[7] was capitalized or discounted interest in the face amounts of the two notes.
+
+Since we know that only $6,300 of capitalized interest was included in note number one, for defendant's position to prevail we would have to find that $9,100 of capitalized interest was included in note number two. This would be possible only if at execution of the second note (face amount $43,400) the first note's face amount balance would have been $34,300. According to the payment history reflected above, however, no less than eleven $700 payments had been made prior to October 31, 1974 (the date of the second note) which would have left a balance due of only $33,600. Thus, at least $700 of the $7700 paid by plaintiff prior to October 31, 1974 would have had to be noncapitalized interest, of which no more than $27.44 (see footnote 7) could possibly have been charged plaintiff   as eight percent per annum interest on late payments.
+
+It is thus evident, without relying on plaintiff's testimony, that defendant collected usurious interest of not less than $672.56.
+
+More realistic, however, and consistent with plaintiff's testimony, is the fact that defendant simply charged plaintiff two percent per month on the unpaid principal for the full twenty-two months,[8] a total of $15,400 as earlier shown hereinabove. And this included two percent per month during months seven through twelve of the first note on the $17,500 first balloon which plaintiff was unable to pay at month six. This $2,100 of interest was not capitalized in note number one, yet it was collected and is usurious.
+
+As we view the evidence, what happened was this. After making the first four payments and being late on payment number five, plaintiff told defendant's agent of her difficulty and the likelihood of her being unable to meet the $17,500 balloon due at month six. Defendant agreed to accept full interest payments of $700 for months seven through twelve.[9] Plaintiff thereupon (on May 9, 1973) made two $700 payments due respectively March 31 and April 30, 1973 (months five and six), and then made $700 interest payments each a few days late for months seven through eleven, the eleventh payment on October 18, 1973. The final payment, interest and $17,500 but as restructured $35,000) was due October 31, 1973. Her late payment on each of the eleven earlier payments had been tolerated, so it was apparently not unexpected that she would go beyond October 31st, particularly inasmuch as her eleventh monthly payment, due September 30, had just been paid on October 18, 1973. She then negotiated execution of the second $35,000 note, made her twelfth $700 payment on note number one on the same date that she signed the new note, November 20, 1973. The note was prepared for October 31, 1973, the anniversary of, and due date of twelfth payment on, the first note.[10]
+
+Full $700 interest payments (two percent per month on $35,000) having been made over twelve months (on note number one), the new note face amount was for $43,400, comprising $35,000 principal and $8,400 interest (which covers the two percent per month, $700, for the twelve months during which the $35,000 on the second note was to remain unpaid). Defendant thereupon made nine $700 payments beginning December 18, 1973, as required by the second note, each less than a month late, and on August 28, 1974 paid $35,700 representing the $35,000 principal and the month ten $700 interest payment, due August 31, 1974. Her payments on that second note come to $42,000 rather than $43,400, the $1,400 difference   attributable to a two-month early payout of the $35,000.[11]
+
+We conclude that defendant collected usurious interest. We believe that it amounted to $2,100 and that it was two percent per month on the first note's first $17,500 balloon during months seven through twelve, an interest sum which was not capitalized in the face amount of note number one.[12]
+
+With respect to the second note, at the time of its execution there was due and owing by plaintiff the full $35,000, all principal, which she had borrowed initially. She signed a note for $43,400 which we conclude incorporated the $35,000 principal due and $8,400 of capitalized interest (again two percent per month, $700, for each of twelve consecutive months). As we stated earlier, our law permits recovery of discounted or capitalized interest, regardless of amount, included within the face amount of the note. On that second note defendant collected only that which was legally due, and in fact properly afforded plaintiff a $1,400 interest rebate because the note was paid in full two months early.
+
+Plaintiff's contention that this second note itself reflects usurious interest because the schedule of payments, in sum (eleven payments at $700 plus one at $43,400), exceeds the face amount ($43,400) was properly found nonmeritorious by both lower courts. Those two courts reformed the amount of final payment from $43,400 to $35,700 on the basis of testimony from defendant's agent that the final $43,400 payment was a stenographic error, in view of defendant's having marked the account paid in full when plaintiff paid the final installment of $35,700, and in light of testimony of plaintiff herself that she believed the last payment was intended to be the amount which defendant in fact accepted when she tendered it, $35,700.
+
+We agree with the findings below that there was no usurious interest charged or collected relative to note number two.
+
+We have found that defendant collected $8,400 of interest on note number one, $2,100 of it usurious (because not capitalized and in excess of eight percent per annum), and $7,000 of interest on note number two, none of it usurious (because fully capitalized).
+
+Defendant seeks recovery of the entire $15,400 on the strength of R.S. 9:3501. See note three. She is due recovery of the full $8,400 interest she paid on note number one, not simply the usurious portion of it. Thrift Funds of Baton Rouge, Inc. v. Jones, supra.
+
+However, the interest as to note number two does not in our view arise from the same contract. See language in R.S. 9:3501, quoted in footnote three. While the second note immediately succeeded the first, and while the consideration for execution of the second note was a novation of the principal outstanding at conclusion of the first note, we believe that there were here separate and distinct contracts, certainly at least with respect to the capitalized interest charges on the second being untainted by the usurious interest charges collected on the first.
+
+For the foregoing reasons the judgment of the Court of Appeal dismissing plaintiff's suit is reversed and set aside, and there is rendered judgment herein in favor of plaintiff, Mrs. Virginia Karmgard and against   defendant Southland Mortgage and Title Company, in the full sum of $8,400. Additionally, defendant must pay legal interest on each of the twelve $700 payments on the October 31, 1972 promissory note from the date of each payment until paid, and for all costs of these proceedings.
+
+DIXON, J., assigns additional concurring reasons.
+
+SUMMERS and MARCUS, JJ., dissent.
+
+SANDERS, C.J., dissents with written reasons.
+
+DIXON, Justice (concurring).
+
+While I do not disagree with the majority's treatment of the parol evidence, for reasons expounded by the majority and supported in the record, even without relying on plaintiff's parol evidence, defendant was shown to have collected usurious interest.
+
+SANDERS, Chief Justice (dissenting).
+
+The defendant, Southland Mortgage and Title Company, advanced the plaintiff, Mrs. Karmgard, $35,000 on October 31, 1972. As security, Mrs. Karmgard executed a collateral mortgage on certain real estate. Her negotiable hand note provided for the repayment of a principal sum of $41,300 with interest at a rate of 8% per annum from maturity until paid, and the following schedule of twelve consecutive monthly principal and interest payments:
+
+The first installment became due on November 31, 1972.
+
+Mrs. Karmgard paid the first four installments. However, she was unable to meet payments five and six. (Southland did not exercise its rights under the note's acceleration clause.) The parties then re-negotiated and entered into an oral agreement which modified the terms of the original hand note.
+
+Pursuant to this subsequent agreement, Mrs. Karmgard remitted $7,700 toward the installments, but at maturity was unable to pay the balance due. The note was refinanced. On October 31, 1973, Southland cancelled the 1972 promissory note, and Mrs. Karmgard executed a second note for the principal sum of $43,400 with interest from maturity until paid at 8% per annum. This note provided for twelve consecutive monthly interest and principal payments: eleven payments of $700 each and a final balloon payment of $43,400. Mrs. Karmgard paid ten installments totaling $7,000 and a final payment of $35,700 prior to maturity. The defendant marked the note paid in full, thereby giving the plaintiff a $700 credit for early payment.
+
+Mrs. Karmgard brought this suit for the recovery of usurious interest in the amount of $15,400, the sum paid in excess of $35,000, the principal amount borrowed. She contends that both notes are usurious, in violation of Louisiana Civil Code Article 2924, and therefore, she is entitled to the recovery of the interest as provided in LSA-R.S. 9:3501.
+
+Mrs. Karmgard offered evidence of a subsequent oral agreement which modified the original promissory note to support her allegation of usury. The trial court disallowed this evidence, but the Court of Appeal held it admissible.
+
+Louisiana Civil Code Article 2924 states in pertinent part:
+
+This article prohibits the admission of parole evidence to prove the amount of conventional interest. The exception in the article applies only when a defendant attempts to prove usury as a defense to a suit on a promissory note or other contract. Hence, the plaintiff here is subject to the general prohibition against parole evidence.
+
+Moreover, under Article 2276 of the Louisiana Civil Code, this Court has held that parole evidence is inadmissible to prove a subsequent oral agreement modifying a written contract when the original contract is required to be in writing. Di Cristina v. Weiser, 215 La. 1115, 42 So. 2d 868 (1949); Davidson v. Midstates Oil Corporation, 211 La. 882, 31 So. 2d 7 (1947); Conklin v. Caffall, 189 La. 301, 179 So. 434 (1938); Salley v. Louviere, 183 La. 92, 162 So. 811 (1935). The 1972 promissory note is a negotiable instrument. Louisiana law requires all negotiable instruments to be in writing. See former LSA-R.S. 7:1; LSA-R.S. 10:3-104. Therefore the trial court properly excluded the parole evidence.
+
+The Court of Appeal relied primarily on this Court's decision in Converse v. Dicks, 173 La. 707, 138 So. 515 (1931), as authority for admitting the parole evidence.
+
+There the holder sued the maker on two promissory notes, one for $6,500 and the other for $3,000. The $6,500 note was given in settlement of the balance due on six prior notes. The defendant pleaded lack of consideration as to the $6,500 note, payment in full as to the $3,000 note, and filed a reconventional demand alleging overpayment. The defendant introduced several checks into evidence to prove that he had not only paid the principal and interest on the six notes, but had also overpaid any money due. The plaintiff attempted to then prove by parole evidence that the payments made were only for interest, and therefore, the principal of the six notes served as consideration for the $6,500 note.
+
+The Court allowed the evidence, stating that "he [the plaintiff] had a right to establish the circumstances surrounding the payments." At no time was the use of parole evidence to substantiate a claim of usury on the note sued upon at issue. Thus, the case is distinguishable.
+
+In my opinion, this Court is restricted to a consideration of the original note, as written, to determine if the plaintiff's usury claim has merit. The 1972 note provided for capitalized interest, or discount, in the amount of $6,300 and interest at the rate of 8% per annum from maturity until paid. Such a note is free of usurious interest. LSA-C.C. Art. 2924; Thrift Funds of Baton Rouge, Inc. v. Jones, La.,
+274 So. 2d 150
+(1973), U.S. cert, denied, 414 U.S. 820, 94 S. Ct. 115, 38 L. Ed. 2d 53 (1973); International Harvester Credit Corp. v. McGill, La. App., 297 So. 2d 272 (1974), writ denied, La., 300 So. 2d 841 (1974).
+
+The majority does not squarely confront the parole evidence rule. Instead, after making an ambiguous reference to Article 2924 of the Louisiana Civil Code, the majority proceeds to consider parole evidence. In so doing, the holding does violence to well-established principles of law.
+
+The second promissory note provides in pertinent part:
+
+By 12 consecutive monthly payments
+
+The first installment to begin one month after date as follows:
+
+11 monthly payments of $700.00
+
+12th monthly payment $43,400.00   interest and principal are payable at the place designated by the holder or holders hereof in lawful money of the United States of America."
+
+Mrs. Karmgard asserts that this note is usurious on its face.
+
+A court may reform a contract to reflect the true intent of the parties when it contains a mutual error. Weber v. H. G. Hill Stores, Inc., 210 La. 977, 29 So. 2d 33 (1946); Rougeau v. State Farm Mutual Automobile Insurance Co., La.App., 262 So. 2d 803 (1972); Humble Oil and Refining Co. v. Chappuis, La.App., 239 So. 2d 400 (1970).
+
+I find that the lower courts properly reformed the amount of the final payment from $43,400 to $35,700. The last and final installment should not equal the entire face amount of the note. Obviously, it represents the balance due after subtracting the amount remitted ($7,000) and the amount rebated for early payment ($700) from the face value of the note ($43,400). The correct figure is $35,700. Further, an officer of the defendant corporation testified that the amount in the note was a stenographic error. The defendant's ledger card indicated $35,700 as the balance and also reveals that the defendant marked the account paid in full when Mrs. Karmgard paid $35,700. The Notary Public who handled the cancellation of the note testified that an officer of Southland told him that $37,500 was the amount of the final installment. Moreover, Mrs. Karmgard testified that she believed the last payment to be $37,500. Thus the evidence fully supports the reformation of the promissory note to reflect the true intent of the parties.
+
+As reformed, the 1973 note provided for $8,400 in capitalized interest and interest after maturity until paid, at the rate of 8% per annum. As Louisiana Civil Code Article 2924 authorizes such charges, the interest contained in this note is not usurious. Thrift Funds of Baton Rouge, Inc., v. Jones, supra; International Harvester Credit Corp. v. McGill, supra; Clasen v. Excel Finance Causeway, Inc., La.App., 170 So. 2d 924 (1965), cert, denied, 247 La. 619, 172 So. 2d 702 (1965).
+
+For the reasons assigned, I respectfully dissent.
+
+[1]  This statement was signed by Mrs. Karmgard and a copy was furnished her coincident with the execution of the original loan on October 31, 1972.
+
+[2]  The disparity in this note between the face amount, $43,400, and the payment schedule, which, of course, exceeds $43,400, was made the subject of an allegation by plaintiff that this second note was usurious on its face. This allegation is considered later in this opinion.
+
+[3]  Article 2924 of the Louisiana Civil Code provides for rates of legal and conventional interest and usury: "... The amount of the conventional interest cannot exceed eight percent...."
+
+Louisiana Revised Statute 9:3501 provides for forfeiture of interest: "Any contract for the payment of interest in excess of that authorized by law shall result in the forfeiture of the entire interest so contracted."
+
+[4]  Louisiana Civil Code Article 2924 states in pertinent part:
+
+". . . The amount of the conventional interest cannot exceed eight per cent. The same must be fixed in writing; testimonial proof of it is not admitted in any case." (emphasis added)
+
+[5]  The first column, payment number, has been supplied by this Court.
+
+[6]  The DATE PAID column above is taken verbatim from the Answer to Interrogatories. In six instances (payments one, two, three and seven on note number one, and payments four and six on note number two); Exhibit P-5 reflects payment dates several days earlier than given in the Answer to Interrogatories. There is, however, a major discrepancy between the essentially-coinciding information furnished in P-5 and the Answer to Interrogatories on the one hand, and the two ledger cards introduced at trial by defendant's agent, marked P-6 and P-6 (proffer), on the other. That major difference is that the agent's ledger card reflects only one payment on May 9, 1973 for $700, rather than two, and two November 20, 1973 $700 payments (one each on the cards relative to the two notes), rather than one. It is evident to us that the payment information furnished plaintiff prior to suit, P-5, and that given by defendant's attorney in Answer to Interrogatories prior to trial, is more accurate and trustworthy information. It was apparently the information on the two ledger cards mentioned which misled the Court of Appeal and the trial court in their respective computations and analyses. That information, pertinently, was that by the final due date on note number one, i.e., October 31, 1973, plaintiff had only made ten $700 payments for months one through four, and for months six through eleven. (In fact there were eleven payments before October 31, 1973, not ten.)
+
+[7]  Eight percent per annum from maturity applied to the twenty-one late monthly payments for the respective delays comes to only $52.64 by our computation, made up of $27.44 on the first twelve $700 payments, and $25.20 on the nine succeeding $700 payments.
+
+[8]  Counsel for plaintiff in argument in the district court stated that the first note as drawn called for capitalized interest amounting to two percent per month. And neither he nor his client's agent, Mr. Plaia, nor anyone else on behalf of defendant, testified that the discounted interest on the second note had been increased from two percent per month, although they did take the position that the discounted interest on note number two was $9,100, which of course does come to more than two percent per month.
+
+[9]  Plaintiff's testimony was that when defendant agreed to allow $700 interest payments in months six through eleven that he also agreed that she could pay the entire principal balance of $35,000 at any time and preclude the need for further monthly interest payments. Adding support to her contention is her undisputed testimony that six $350 post-dated checks intended for use as payment of months seven through eleven and given defendant's agent at the beginning of the note were returned to her and destroyed by her in the presence of the agent when he agreed to permit delay of the first balloon payment.
+
+[10]  While this analysis of what occurred might seem a bit speculative on our part, there are, besides the logic of our analysis, two bits of evidence in the record which support it. One of the exhibits presented at trial by defendant's agent (P 6) reflects a November 20, 1973 payment credited to the first note, last payment on which had been scheduled for October 31, 1973. Additionally, in answer to interrogatories defendant says the second note was signed on October 31, 1973 or "within two or three days thereafter to the best of defendant's recollection of the matter."
+
+[11]  Defendant's agent testified that plaintiff did indeed receive rebate of interest for early payment on the final balloon, although his testimony is less than clear as to the basis of the computation. The Federal Disclosure Statement alluded to hereinabove states that "if a contract is prepaid in full the borrower shall be rebated 90% of the unearned portion of the discount . ." Plaintiff was thus due a rebate of not less than 90% of the unearned portion of the discount and she apparently was allowed a full 100% rebate of the unearned portion of discount attributable to the final two months of the note period.
+
+[12]  Even without relying at all on parole evidence, it is nonetheless evident for the reasons we have recited earlier herein that no less than $672.56, which could not have been included as capitalized interest in either note number one or note number two, was collected (as interest) from plaintiff, and that such was collected during the existence of note number one.
+
+[1]  Although Article 2924 was amended by Act 315 of 1970 and Act 454 of 1972, these acts made no change in the language quoted.

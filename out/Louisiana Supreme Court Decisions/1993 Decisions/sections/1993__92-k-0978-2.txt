@@ -1,0 +1,138 @@
+92-K-0978
+State v. Barrilleaux
+https://law.justia.com/cases/louisiana/supreme-court/1993/92-k-0978-2.html
+
+92-K-0978
+State v. Barrilleaux
+Court: Louisiana Supreme Court
+Release date: 1993-07-02
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1993/92-k-0978-2.html
+
+620 So. 2d 1317 (1993)
+
+STATE of Louisiana
+v.
+John Chris BARRILLEAUX.
+
+No. 92-K-0978.
+
+Supreme Court of Louisiana.
+
+July 2, 1993.
+
+Rehearing Denied September 2, 1993.
+
+*1318 Charles S. Makar, Theriot & Maker, Baton Rouge, for applicant.
+
+Richard P. Ieyoub, Atty. Gen., New Orleans, Walter Naquin, Dist. Atty., Camille A. Morvant II, Thibodaux, for respondent.
+
+LEMMON, Justice.[*]
+
+We granted certiorari to consider whether the exclusionary rule should be applied to suppress evidence obtained in a search of defendant's business premises authorized by a warrant issued when the law   enforcement officer seeking the warrant presented sufficient information to the issuing magistrate to establish probable cause, but when the officer, in good faith and reasonably believing he had a justifiable basis for doing so, omitted part of the necessary information from the affidavit while contemporaneously disclosing the information and the reason for the omission to the magistrate.
+
+Defendant operated an outpatient recovery clinic for chemically dependent patients. The police obtained information that defendant, in the operation of the clinic, was defrauding several insurance companies by overbilling for services rendered, by billing for therapy sessions never conducted, by forging doctors' names, and by billing under the names of fictitious doctors. Accordingly, the police sought a warrant to search defendant's business premises for evidence of these crimes. In applying for the warrant, the police officer presented the following affidavit to the judge who issued the warrant:
+
+The search pursuant to the warrant produced records which established the operation of the fraudulent scheme. Defendant was charged with six counts of theft over $500.
+
+Defendant moved to suppress the evidence. At the hearing on the motion, the officer testified that when he presented the affidavit, he informed the judge verbally that the admissions coordinator at defendant's substance abuse clinic had provided the information to him about defendant's fraudulent scheme and had produced some of defendant's business records which showed charges for certain patients on days on which the patients had not been treated. The officer knew he should have identified the source as a citizen informant in the affidavit, but deliberately omitted her identity because she was a former patient of defendant, stating that he "did not want our primary witness here possibly coerced or threatened or manipulated in any way."[1] He verified that he told the issuing judge the identity of the informant and the reason for not including the name in the affidavit. The informant also testified at the motion to suppress, lending support to the officer's statements.
+
+In ruling on the motion to suppress, the reviewing judge acknowledged that the affidavit did not establish the identity of the informant or the source of the informant's information. Suggesting that the informant's testifying at the motion to suppress may have validated the warrant and considering the reason for the omission of the informant's identity and the extensiveness of the officer's interrogation and investigation of the informant, the judge concluded that the warrant was properly issued under the totality of the circumstances. The judge further ruled that even if the warrant was not valid, the officer omitted the pertinent information in good faith and the evidence was validly seized pursuant to the facially deficient warrant under the good faith exception to the exclusionary rule in United States v. Leon,
+468 U.S. 897
+, 104 S. Ct. 3405, 82 L. Ed. 2d 677 (1984).
+
+Thereafter defendant entered a guilty plea to all six counts.[2] However, defendant   reserved the right to contest by appeal the ruling on the motion to suppress.
+
+The court of appeal, in an unpublished opinion, approved the pretrial ruling and affirmed the conviction. 599 So. 2d 527 (La. App.1992). Citing State v. Lehnen,
+403 So. 2d 683
+(La.1981), and State v. Morris,
+444 So. 2d 1200
+(La.1984), the court noted that a reviewing court examining a warrant with inadvertent material omissions which might have affected the issuing magistrate's decision on probable cause should add the omitted facts to the affidavit and then retest the sufficiency of the showing of probable cause. The court concluded that the information originally included in the warrant, along with that verbally conveyed to the issuing magistrate, were sufficient to support the probable cause determination. The court further observed that the Leon good faith exception was applicable because the warrant was not so deficient that the officer could not have reasonably believed that probable cause existed.
+
+We granted defendant's application for certiorari, 600 So. 2d 617 (La.1992), primarily to consider the rulings of the lower courts in the light of the "four corners" doctrine pronounced by this court in State v. Wells, 253 La. 925,
+221 So. 2d 50
+(1969).
+
+In establishing that an informant's tip is sufficient to provide a basis for a finding of probable cause, the affiant should include statements about the informant's reliability and about the manner in which the informant obtained the information. Such information assures the magistrate that "he is relying on something more substantial than a casual rumor circulating in the underworld." Spinelli v. United States,
+393 U.S. 410
+, 416, 89 S. Ct. 584, 589, 21 L. Ed. 2d 637 (1969). Nevertheless, there are no specific tests to be satisfied by an informant's tip, and the magistrate may issue the warrant when the totality of the circumstances, viewed in a commonsense and non-technical manner, establish "there is a fair possibility that contraband or evidence of a crime will be found in a particular place." Illinois v. Gates,
+462 U.S. 213
+, 238, 103 S. Ct. 2317, 2332, 76 L. Ed. 2d 527 (1983).
+
+The affidavit in the present case gave no information about the reliability or the identity of the informant.[3] Neither did the affidavit give any information about the basis of the informant's knowledge or about independent police investigation following the tip that would provide credibility to the tip by an unidentified informant. We therefore conclude that the affidavit, standing alone, was insufficient to establish probable cause for the issuance of a warrant.
+
+The court of appeal, relying on State v. Lehnen,
+403 So. 2d 683
+(La.1981), allowed the addition of the relevant information deliberately omitted by the affiant from the affidavit and retested for probable cause. The Lehnen decision does not provide an appropriate basis for that holding. In Lehnen there was a facially valid warrant based on an affidavit from which material information that may have cast doubt on the probable cause determination had been inadvertently omitted. This court added the relevant omission and retested for probable cause. In contrast, the warrant in the present case was issued on the basis of a facially insufficient affidavit. The present case therefore does not turn (as Lehnen did) on whether a facially sufficient affidavit may be supplemented with inadvertently omitted information unfavorable to the probable cause determination and then retested; rather this case turns on whether a facially insufficient affidavit may be supplemented with intentionally omitted information favorable to the probable cause determination.[4] This case therefore presents the question whether the exclusionary rule is the appropriate   remedy to enforce the statutory "four corners" doctrine in every case that the reviewing court considers information orally presented to the issuing magistrate in order to supplement a facially deficient affidavit.
+
+The "four corners" doctrine, adopted by this court in State v. Wells, 253 La. 925,
+221 So. 2d 50
+(La.1969), is based on La.Code Crim.Proc. art. 162, which provides:
+
+In Wells, the officer stated in the affidavit that he had reasonable cause to suspect the murder weapon would be found in the defendant's car or house, but did not recite the facts supporting his belief. This court noted that Article 162 requires that the facts establishing probable cause be recited in the affidavit since the judge, and not the affiant, is the one who has to be satisfied as to the existence of probable cause. It was insufficient, this court held, for the affiant to testify later at the hearing on the motion to suppress that he had other information that he did not reveal to the judge at the time of the issuance of the warrant.
+
+In State v. Daniel,
+373 So. 2d 149
+(La. 1979), this court held that an affidavit cannot be supplemented or rehabilitated by the testimony of the affiant or the issuing magistrate, even when both were aware at the time of the execution of the affidavit of facts not contained in the deficient affidavit which would supply the information necessary to establish probable cause.
+
+The obvious purpose of the "four corners" doctrine is to require an officer seeking a search warrant to reveal, at the time of the issuance of the warrant, all information that he possesses bearing on the probable cause determination to be made by the magistrate, thereby preventing the potential for abuse by the officer's questionable supplementing of that information when the warrant is challenged after the search and seizure. Restricting the court reviewing the warrant to the information contained within the four corners of the affidavit eliminates subsequent failures of memory or swearing contests as to when later revealed information came into the possession of the police.
+
+The affiant in the present case violated the requirements of La.Code Crim.Proc. art. 162 by not including in the affidavit all the information necessary to establish probable cause. Because Article 162 was designed to prevent unconstitutional invasions of privacy interests, the exclusionary rule may be used to prevent violations of these statutory requirements. However, the use of oral testimony to supplement deficient affidavits is not itself a constitutional violation. 2 Wayne R. LaFave, Search and Seizure § 4.3(b) (2d ed. 1987). Therefore, the critical question in this case is whether exclusion of the evidence seized pursuant to the warrant is the appropriate remedy for the statutory violation, when the affiant contemporaneously supplemented the affidavit with oral testimony in good faith for a seemingly valid reason and when issuance of the warrant did not cause an unconstitutional intrusion into defendant's privacy rights.[5]
+
+The purpose of the exclusionary rule is to deter misconduct by police who act in bad faith to violate the privacy interest of an accused. In United States v. Leon,
+468 U.S. 897
+, 104 S. Ct. 3405, 82 L. Ed. 2d 677 (1984), the Court declined to apply the exclusionary rule when a detached and neutral magistrate erroneously issued a warrant based on a deficient affidavit and the law enforcement officers acted in good faith on the warrant to seize evidence of the accused's crimes, even though the officers' good faith action resulted in an unconstitutional   intrusion into the privacy rights of the accused. Weighing the costs and the benefits of excluding the use of inherently trustworthy evidence obtained in reliance on a search warrant issued by a detached and neutral magistrate that is ultimately found to be defective, the court concluded that the magnitude of the benefits bestowed on guilty defendants offends the basic concepts of the criminal justice system when the magistrate has not been misled by information in an affidavit that the affiant knew or should have known was false, when the issuing magistrate did not abandon his detached and neutral role, and when the officers acted in objective good faith on a warrant and affidavit that was not so "facially deficient ... that the executing officers cannot reasonably presume it to be valid."[6]Id. at 923, 104 S. Ct.  at 3421. The Court, emphasizing the preference for warrants in conducting searches and the role of a detached and neutral magistrate as a safeguard against law enforcement officers' making improper searches under hurried judgment in ferreting out crime, pointed out that the exclusionary rule was not designed to punish the errors of issuing magistrates and has little deterrent application when the magistrate was not misled or did not otherwise abandon his detached and neutral role. The Court concluded that when the conduct of the officers in obtaining and executing the warrant is objectively reasonable, penalizing the officer for the magistrate's error does not logically contribute to the deterrence of Fourth Amendment violations, and the marginal benefits of suppression do not justify the substantial cost of exclusion.
+
+In the present case the deterrent purpose of the exclusionary rule would not be promoted in any way by suppressing the inherently trustworthy evidence, seized pursuant to a warrant issued on the basis of probable cause that actually existed and was known by the issuing magistrate, simply because the affiant withheld from the affidavit, in complete good faith and for a seemingly valid purpose, certain information that was favorable to a finding of probable cause.[7] Furthermore, the error in this case was made by the magistrate who issued the warrant, without being misled by the officer, on the basis of an affidavit which, while facially insufficient, was not "so lacking in indicia of probable cause as to render official belief in its existence entirely unreasonable." United States v. Leon,
+468 U.S. 897
+, 923, 104 S. Ct. 3405, 3421, 82 L. Ed. 2d 677 (1984) (quoting Brown v. Illinois,
+422 U.S. 590
+, at 611, 95 S. Ct. 2254, 2265, 45 L. Ed. 2d 416 (1975), Powell, J., concurring in part). There is no reason to believe that suppression of evidence seized in reasonable reliance on a warrant erroneously issued by a judge or magistrate, without any bad faith on the part of the police, will deter any misconduct by law enforcement officers.
+
+We conclude that, under the overall circumstances, the exclusion of the evidence seized in this case is too high a price to exact for a good faith violation of a statute designed to prevent unconstitutional searches, especially when the affiant reasonably believed in good faith that he had valid justification for excluding from the affidavit the name of the citizen informant who had a special relationship with the accused, when the issuing magistrate was provided with sufficient information to establish probable cause for the search, and when the statutory violation did not result in an unconstitutional or unjustified intrusion into defendant's privacy rights.[8] We recognize that the "four corners" doctrine serves a useful purpose and should be enforced. But in the present case the benefits of using the exclusionary rule to enforce   the prophylactic "four corners" doctrine, under the circumstances of good faith, reasonableness and overwhelming probable cause known to the detached and neutral magistrate, are so far outweighed by the substantial cost of exclusion that application of the exclusionary rule is not the appropriate remedy for this statutory violation.[9]
+
+Accordingly, the judgment of the court of appeal affirming the conviction and sentence is affirmed.
+
+CALOGERO, C.J., dissents and will assign reasons.
+
+DENNIS, J., dissents with reasons.
+
+CALOGERO, Chief Justice, dissenting.
+
+The Court today limits the scope and force of the long-established "four corner rule" for testing the probable cause basis for a search warrant application. See State v. Wells, 253 La. 925,
+221 So. 2d 50
+(1969); La.C.Cr.P. art. 162. Under the four corner rule, the issuing magistrate and a reviewing court must determine whether probable cause exists for a search based solely on the content or the affidavit accompanying the warrant and without regard to any other information the police may have possessed and communicated to the magistrate. The rule prohibits the state from rehabilitating a facially deficient warrant by showing that the police somehow gave the magistrate enough information to justify issuing the warrant. Its purpose, as today's majority correctly points out, is to prevent "the potential for abuse by the [police] officer's questionable supplementing" of the information contained in the affidavit "when the warrant is challenged after the search and seizure. Restricting the court reviewing the warrant to the information contained within the four corners of the affidavit eliminates the subsequent failures of memory or swearing contest as to when later revealed information came into the possession of the police." Majority op., supra.
+
+Having admitted that the four corner rule serves a useful purpose and "should be enforced," id., the majority proceeds not to enforce it. Instead, the majority tells lower courts that when they find that police have acted in "good faith" and for a "valid purpose," the lower courts may ignore the four corner rule. I submit that today's decision offers little guidance to lower courts and instead encourages them to make ad hoc determinations, finding good faith and a valid purpose on the part of the police when doing so is convenient, and finding these factors sufficient to rehabilitate a facially invalid warrant. Today's ruling ignores the fact that the four corner rule exists to protect those accused of a crime from the actions of sometimes overzealous "officer[s] engaged in the often competitive enterprise of ferreting out crime," though those actions may be undertaken in good faith and for a valid purpose. State v. Wells, supra (quoting Johnson v. United States,
+333 U.S. 10
+, 13, 68 S. Ct. 367, 369, 92 L. Ed. 436 (1948)).
+
+The four corner rule is a simple, administrable, and fair one. The court today introduces a confusing, arbitrary, and unfair element into our jurisprudence in this area. I therefore respectfully dissent.
+
+[*]  Justice Luther F. Cole, Retired, was assigned to participate in this case, having been on the court when it was argued.
+
+[1]  The officer testified that he usually includes information about the credibility of the informant in an affidavit used to obtain a search warrant, but did not name the citizen informer here because of the unusual circumstances.
+
+[2]  Defendant conceded that his scheme had defrauded insurance companies of over $240,000.
+
+[3]  A citizen informant who reports criminal activity as a matter of civic duty (such as the admissions coordinator in this case) is a presumptively reliable source, as contrasted with an unnamed underworld character who habitually witnesses and reports criminal activity to police in order to obtain some advantages. State v. Morris,
+444 So. 2d 1200
+(La.1984).
+
+[4]  Unlike the Lehnen case, the omitted information in the present case was necessary to establish probable cause.
+
+[5]  The search was not an unconstitutional intrusion into defendant's privacy rights because the detached and neutral magistrate issued the warrant only after being presented with information (written and verbal) that established probable cause for the search and seizure.
+
+[6]  The Court contrasted the Leon warrant with one that failed to particularize the place to be searched or the things to be seized. Cf. Massachusetts v. Sheppard,
+468 U.S. 981
+, 104 S. Ct. 3424, 82 L. Ed. 2d 737 (1984).
+
+[7]  If the officer had intentionally withheld information that was unfavorable to a finding of probable cause, the evidence seized pursuant to a warrant based on such an affidavit clearly must be suppressed. See State v. Rey,
+351 So. 2d 489
+(La.1977).
+
+[8]  The decision in State v. Daniel,
+373 So. 2d 149
+(La.1979) need not be overruled. The instant case involves circumstances not present in Daniel which warrant a different result.
+
+[9]  This court is here applying the Leon decision by analogy. In Leon there was a constitutional violation because the magistrate issued the warrant without sufficient information (under the law before Illinois v. Gates) about the reliability of the informer and the source of his information. The Court held that suppression was not the appropriate remedy because the seizing officers acted in good faith reliance on a warrant issued by a detached and neutral magistrate who had not been misled by the affiant, when the warrant was not so facially deficient that the executing officers could not have reasonably presumed it to be valid. The present case is a much stronger one for refusing suppression, inasmuch as the magistrate did have sufficient information to find probable cause, but erred only in not requiring adherence to the statutory prohibition against contemporaneous verbal supplementation of the affidavit.

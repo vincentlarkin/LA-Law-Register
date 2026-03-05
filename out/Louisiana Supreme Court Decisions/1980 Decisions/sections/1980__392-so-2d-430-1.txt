@@ -1,0 +1,85 @@
+67680
+H & H Sewer Systems, Inc. v. Ins. Guaranty Ass'n
+https://law.justia.com/cases/louisiana/supreme-court/1980/392-so-2d-430-1.html
+
+67680
+H & H Sewer Systems, Inc. v. Ins. Guaranty Ass'n
+Court: Louisiana Supreme Court
+Release date: 1980-12-15
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/392-so-2d-430-1.html
+
+392 So. 2d 430 (1980)
+
+H & H SEWER SYSTEMS, INC.
+v.
+INSURANCE GUARANTY ASSOCIATION.
+
+No. 67680.
+
+Supreme Court of Louisiana.
+
+December 15, 1980.
+
+Rehearing Denied January 26, 1981.
+
+*431 Ben Louis Day, Owen, Richardson, Taylor, Mathews & Atkinson, Baton Rouge, for defendant-applicant.
+
+Roy S. Halcomb, Jr., Broussard, Bolton & Halcomb, Robert Downing, Neblett, Fuhrer & Broussard, Alexandria, for plaintiff-respondent.
+
+MARCUS, Justice.
+
+The Town of Campti contracted with South Coastal Construction Company to install a sewer system for said town. In compliance with Section 2241[1] of the public contracts law (La.R.S. 38:2181-2316), South Coastal furnished two performance bonds issued by Summit Insurance Company of New York. Subsequently, South Coastal defaulted on the contract thus making Summit liable on its bonds. Pursuant to a provision in the bonds, Summit elected to complete the contract in accordance with its terms and conditions and contracted with H & H Sewer Systems, Inc. to complete the job on a cost plus ten percent basis. H & H Sewer submitted claims amounting to $21,501 which were not paid. Thereafter, Summit was placed in liquidation by order of the New York Supreme Court. By order of the Nineteenth Judicial District Court for the Parish of East Baton Rouge, Louisiana, Summit was ordered insolvent and placed in ancillary receivership.
+
+H & H Sewer filed suit against Insurance Guaranty Association seeking to recover payment under the Insurance Guaranty Association Law (La.R.S. 22:1375-1394) which provides for the payment of covered claims under certain insurance policies where the insurer becomes insolvent. The district court granted a summary judgment dismissing plaintiff's suit on the ground that the claim was not a "covered claim" within the scope of La.R.S. 22:1379(3). The court of appeal reversed and remanded the case holding that plaintiff's claim was one arising out of and within the coverage of the bonds furnished by Summit and that defendant was therefore not entitled to summary judgment.[2] Defendant's application to this court for certiorari was denied on the ground that the judgment was not final.[3] On remand, the district court held   that plaintiff's claim was covered by the Insurance Guaranty Association Law and that defendant was liable for the unpaid claim of $21,501. In an opinion designated not for publication, the court of appeal affirmed, stating that its original opinion was the rule of law to be followed in this case, and it saw no reason to reconsider the case. On defendant's application, we granted certiorari to review the correctness of that decision.[4]
+
+La.R.S. 22:1382(1) provides in pertinent part that the Insurance Guaranty Association shall:
+
+[and]
+
+A "covered claim" is defined in La.R.S. 22:1379(3) as an "unpaid claim ... which arises out of and is within the coverage ... of an insurance policy...."
+
+As it has been stipulated by both parties that Summit owed H & H Sewer $21,501 for labor and materials and that Summit did become insolvent, the sole issue for our determination is whether H & H Sewer's claim is a covered claim, that is, one which arises out of and is within the coverage of the performance bonds.
+
+Both performance bonds listed South Coastal as "Contractor," the Town of Campti as "Owner" and Summit as "Surety," and contained the following provisions:
+
+The bonds gave Summit two options if the contractor was in default for failing to perform under the contract: (a) Complete the contract itself in accordance with its terms and conditions; or (b) obtain bids and arrange a contract between the Town of Campti and the lowest responsible bidder for completion of the contract in accordance with its terms and conditions. Under both options, the contract is to be completed in accordance with its terms and conditions. Thus, the bonds not only covered the performance of the contract by the original contractor, South Coastal, but also covered the performance of the contract should Summit exercise either of its options. When Summit exercised its option to complete   the contract itself, Summit was fulfilling its continuing obligation to guarantee the completion of the contract in accordance with its terms and conditions. Due to South Coastal's default, Summit, as surety for South Coastal, became responsible for completing the contract and making payments for all labor and materials used in the performance of the contract. H & H Sewer had a direct contract with Summit for labor and materials used in performance of the contract between the Town of Campti and South Coastal and thus is a claimant as defined in provision (3) of the performance bonds. Its claim against Summit is clearly one arising out of and within the coverage of the performance bonds. Due to Summit's insolvency, Insurance Guaranty Association is obligated under La.R.S. 22:1382(1) to pay H & H Sewer's covered claim of $21,501.
+
+For the reasons assigned, the judgment of the court of appeal is affirmed.
+
+CALOGERO, J., concurs and assigns reasons.
+
+LEMMON, J., concurs and assigns reasons.
+
+DIXON, C. J., dissents with reasons.
+
+CALOGERO, Justice, concurring.
+
+I disagree that H & H Sewer Systems, Inc., is a "claimant" as defined in the surety contract. Nevertheless, I am of the opinion that H & H has a covered claim under the Insurance Guaranty Association Law (R.S. 22:1375 et seq.) as that law is reasonably construed and with respect for the apparent legislative intent. In my view, R.S. 22:1379 contemplates within its scope H & H's claim,[*] although perhaps not one specifically defined under the bond. Had H & H filed a lien against the city pursuant to R.S. 38:2242, the city would surely have had a claim against Insurance Guaranty Association as one arising out of and within the coverage of an insurance policy. The same purpose is served, without the circuitousness of the above procedure, by allowing H & H to recover directly from Insurance Guaranty Association.
+
+For the above reasons, I respectively concur.
+
+LEMMON, Justice, concurring.
+
+When South Coastal defaulted, Summit arranged for a contract between plaintiff and the City, under (1)(b) of the performance bond, to complete the original contract. The Public Works Act requires a bond for all such contracts, and all parties (including Summit) apparently considered that the original bond covered the work necessary to complete the original contract. (Certainly Summit could not have required the City to pay an additional premium for a new bond covering work to be performed under the contract covered by the old bond.) Under these circumstances plaintiff's claim for this work, which fulfills Summit's obligation under the original bond, was a "covered claim".
+
+DIXON, Chief Justice (dissenting).
+
+I respectfully dissent.
+
+H & H was not a "claimant" under the bond, because its contract was with Summit, not the contractor or subcontractor.
+
+[1]  At the time the contract was executed, La. R.S. 38:2241 provided:
+
+Whenever the state or any state board or agency or any political subdivision of the state enters into a contract in excess of one thousand dollars for the construction, alteration, or repair of any public works, the official representative of the governing authority shall reduce the contract to writing and have it signed by the parties. He shall require of the contractor a bond, with good, solvent, and sufficient surety in a sum not less than fifty percent of the contract price for the faithful performance of the contract with an additional obligation for the payment by the contractor or subcontractor for all work done, labor performed, or material or supplies furnished for the construction, alteration, or repair of any public works, or for furnishing materials or supplies for use in machines used in the construction, alteration, or repair of any public works. No modifications, omissions, additions in or to the terms of the contract, in the plans or specifications or in the manner and mode of payment shall in any manner affect the obligation of the surety. The bond shall be executed by the contractor with surety or sureties approved by the officials representing the state, state board or agency, or political subdivision and shall be recorded with the contract in the office of the recorder of mortgages in the parish where the work is to be done not later than thirty days after the work has begun.
+
+[2]  349 So. 2d 965 (La.App. 1st Cir. 1977).
+
+[3]
+350 So. 2d 1211
+(La.1977).
+
+[4]  385 So. 2d 801 (La.1980).
+
+[*]  According to R.S. 22:1379(3), a covered claim is an unpaid claim which "arises out of and is within the coverage of ... an insurance policy to which this Part applies issued by an insurer, if such insurer becomes an insolvent insurer..." (Emphasis provided.)

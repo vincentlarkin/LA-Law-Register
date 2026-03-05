@@ -1,0 +1,310 @@
+61900
+Gulf States Utilities Co. v. LOUISIANA, ETC.
+https://law.justia.com/cases/louisiana/supreme-court/1978/364-so-2d-1266-1.html
+
+61900
+Gulf States Utilities Co. v. LOUISIANA, ETC.
+Court: Louisiana Supreme Court
+Release date: 1978-11-13
+Author: TATE, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/364-so-2d-1266-1.html
+
+364 So. 2d 1266 (1978)
+
+GULF STATES UTILITIES COMPANY, Plaintiff-Appellant,
+v.
+LOUISIANA PUBLIC SERVICE COMMISSION, Defendant-Appellee
+(Stauffer Chemical Co. et al.), Intervenors-Appellees.
+
+No. 61900.
+
+Supreme Court of Louisiana.
+
+November 13, 1978.
+
+*1267 Tom F. Phillips, A. Michael Dufilho and James L. Ellis, Taylor, Porter, Brooks & Phillips, Baton Rouge, for plaintiff-appellant.
+
+Marshall B. Brinkley, Gen. Counsel, La.Pub. Service Com.; Saul Stone, Michael R. Fontham, Stone, Pigman, Walther, Wittmann & Hutchinson, New Orleans, for defendant-appellee.
+
+R. Gordon Kean, Jr., G. William Jarman, Sanders, Downing, Kean & Cazedessus, Baton Rouge, on behalf of: Stauffer Chemical Co., Vulcan Materials Co., Ciba-Geigy Corp., Georgia-Pacific Corp., Olin Corp., Firestone Synthetic Rubber & Latex Co., and Monochem, Inc., intervenors-appellees.
+
+TATE, Justice.
+
+Gulf State Utilities Corporation applied to the Louisiana Public Service Commission for an increase in its electric rates. By these proceedings, Gulf States seeks judicial review of the regulatory agency's denial of its application. The district court essentially affirmed the Commission's ruling, although (after a remand to fix the amount) it ordered the Commission to allow an additional $1,253,000 increase in rates to allow for the increase in expenses due to inflation subsequent to the 1975 test year.
+
+Gulf States appeals, urging three principal errors. The Commission answers the appeal, praying that this court disallow the "attrition adjustment" ordered by the district court. Certain industrial firms ("Stauffer" et al.), which had intervened both before the Commission and the district court in support of the denial of a rate increase, likewise answered the appeal to request certain ancillary relief in the event that any rate increase is authorized.
+
+We will discuss below the respective contentions of (I) Gulf States, (II) the Commission, and (III) the intervenors.
+
+Preliminarily, however, we deem it appropriate to reiterate once again the standard of judicial review of determinations of the regulatory commission with regard to rate applications by utilities. As recently summarized by us in South Central Bell Telephone Company v. Louisiana Public Service Comm'n.,
+352 So. 2d 964
+(La.1977), the principles of judicial review applicable are, 352 So. 2d 968-69 (omitting the extensive citation of authority):
+
+In reviewing the rate-making process the inquiry of the judiciary is generally confined to a determination of whether the regulatory agency acted unreasonably or arbitrarily in establishing rates for the utility. * * * The United States Supreme Court, in assessing the Federal Power Commission's performance of its statutory duty to fix "just and reasonable" rates, elaborated on this principle:
+
+"* * * If the total effect of the rate order cannot be said to be unjust and unreasonable, judicial inquiry under the Act is at an end. The fact that the method employed to reach that result may contain infirmities is not then important. Moreover, the Commission's order does not become suspect by reason of the fact that it is challenged. It is the product of expert judgment which carries a presumption of validity. And he who would upset the rate   order under the Act carries the heavy burden of making a convincing showing that it is invalid because it is unjust and unreasonable in its consequences. * * *" Id. [Federal Power Commission v. Hope Natural Gas Co.,
+320 U.S. 591
+, 64 S. Ct. 281, 88 L. Ed. 333 (1944)] 320 U.S.  at 602, 64 S. Ct.  at 288.
+
+The Louisiana Public Service Commission is authorized to fix "just and reasonable" rates to be charged by public utilities. La.R.S. 45:1176. In Louisiana rate cases this Court has articulated various descriptions of its role in reviewing the regulatory determinations of the public service commission. We have said the orders of the Commission are entitled to great weight and are not to be overturned unless shown to be arbitrary, capricious or abusive of its authority; * * * ; that courts should act slowly in substituting their views for those of the expert body charged with the legislative function of rate making, and should not disturb the Commission's decision in the absence of a clear showing of an abuse of power; * * * ; that Commission decisions will not be disturbed unless found to be clearly erroneous or unsupported by evidence. * * *.
+
+The Facts
+
+Based upon a 1975 test year, the utility applied for an increase in its electric rates to produce additional revenues of $23,750,000. After extensive hearings, the Commission denied any electric rate increase.
+
+In so doing, the Commission found: The rates were to be determined on the basis of (a) a rate base (the total amount of investment in a utility employed in providing its service) of $697,296,000; and (b) a net operating income of Gulf States for the test year calculated at $55,651,000.
+
+Based upon these figures, the Commission found that the utility enjoyed a "rate of return" (the ratio of return to rate base) of 9.15 per cent, which resulted in a return on the investor's equity of 13.84 per cent.
+
+For reasons that are supported by the record, in rejecting higher figures contended for by the utility,[1] the Commission found that a range of return on equity of 10.5 to 11.5 per cent would be within a reasonable range sufficient to maintain the utility's financial integrity, to attract capital, and to compensate its investors for the risks assumed, as required under accepted rate-regulation principles. Hope Natural Gas, cited above, at 320 U.S. 605, 64 S. Ct. 289; South Central Bell (1977), cited above, at 352 So. 2d 967. The Commission indicated that, with the "cost" of (fair and reasonable return on) equity determined at 10.5-11.5%, a rate of return of 8.7% of the rate base would be a fair and reasonable rate of return, i.e., one sufficient to cover expenses, service debt, and provide the 10.5-11.5% return on the investor's equity.
+
+Thereforesince under existing rates the revenues produced by the rate of return resulted in return of 13.84 per cent on equity, or in excess of that deemed necessary to maintain the utility's financial integritythe Commission denied Gulf State's application for a rate increase.
+
+As we apprehend Gulf States' position, it principally argues that the "net operating income" computed by the Commission for the test year should have been lower. (A lower income figure for the test year would necessitate additional revenues to be generated   by a rate increase in order to produce the 8.7% rate of return on the rate base deemed to be the fair rate required.)
+
+In this regard, Gulf States principally contends:
+
+(A) The allowance as capitalized "income" of amount for funds devoted to construction work in progress (AFUDC) had the effect of adding the sum of $13,519,000 as "phantom" income, thus fictitiously decreasing the need for additional revenues to produce the 8.7% fair rate of return required. Gulf States suggests that, instead, the AFUDC "income" entry should be capitalized at $7.7 million, and that actual revenues should be provided by a rate increase so as to assure the utility a fair rate of return.
+
+(B) The "expense" items for state and federal income taxes should have been increased by $2,242,000 by permitting the utility to show its tax liability for the year in question by the accepted accounting method of the "normalization" of income. This would necessitate a rate increase to provide revenues to balance this additional expense item.
+
+Gulf States further argues, more comprehensively:
+
+(C) That the net effect or end result of the Commission's various rulings on these and other issues is that, in cumulation, insufficient present revenues are allowed to the utility for it to maintain its financial integrity and to attract the immense capital funds (estimated at $650,000,000 during 1977-78 alone) necessary for it to convert to fuel oil, coal, and nuclear generating facilities, due to the energy crisis presented by the unavailability in the future of natural gas. The utility further suggests that the fictitious "income" figure of $13,519,000 AFUDC (or at least that in excess of $7.7 million suggested as appropriate by the utility) has resulted in a cash flow crisis, by which the utility is forced to borrow money to pay dividends to its stockholders.
+
+These contentions will be discussed under subheadings A, B, and C of this part (I) of this opinion.
+
+A. Issues Related to the Allowance in "Income" of a Return for Funds Devoted to Work in Progress ("AFUDC", see below).
+
+A general rule of utility regulation is that ratepayer-consumers should only pay the utility company a fair return on facilities and capital actually used and useable for production of service to these ratepayers. Under this principle, the utility has not usually been permitted in the past to include in its rate base, or to expense, the cost of construction work in progress ("CWIP"). (However, when the new construction is placed in service, the utility is entitled to earn a fair rate of return on and recover through depreciation (from then current ratepayers) all of its capital expenditures so incurred, including the cost of capital.)
+
+Arguably, however, the cost of such construction represents an expenditure for the ultimate benefit of present consumers, so that charging them in current rates for such costs is not unreasonable, especially insofar as the expenditures are for pollution-control or other social reasons not directly resulting from the intention to increase revenues. A minority of regulatory commissions do adopt this approach urged upon us by Gulf States. Gulf States strongly contends that, with the huge capital demands occasioned by the enormously expensive cost of converting generation facilities to nuclear and other sources of energy, this previously minority approach is the only fair one under the present energy-crisis conditions.
+
+The issue is not, however, what accounting approach seems most reasonable to the courts upon judicial review. It is, rather, whether the regulatory commission has adopted an unreasonable or arbitrary approach which prevents the utility company from receiving a fair return upon its investment. See South Central Bell (1977) quoted at length above, and authorities cited therein.
+
+A substantial number, probably a majority, of regulatory commissions do not permit   the utilities to recover from present consumers the present cost of construction work in progress (CWIP) of facilities which will be devoted to the service of future consumers. In a number of American jurisdictions, the courts have upheld the actions of some of these regulatory commissions in completely excluding CWIP from the rate base.[2]
+
+Yet others of these regulatory commissions (i.e., those which do not require present consumers to pay for CWIP for future plant) follow, as does the Louisiana Public Service Commission, the widely accepted practice of permitting the utility to include CWIP in its rate base for purposes of calculating the rate of return, yet making an adjustment to income ("AFUDC", or Allowance for Funds Used During Construction) to offset the inclusion of CWIP in income.[3]
+
+In the present case, for instance, the Commission permitted the utility to include within its rate base of $608,296,000 the sum of $155,395,000 of CWIP. The allowable 8.7 per cent fair rate of return upon this figure would require a return of $13,519,000 in additional revenues occasioned by the inclusion of CWIP in the rate base. To offset the inclusion of CWIP in the rate base (and thus to prevent present ratepayers from being charged for future plant not yet in service), the Commission calculated the offsetting AFUDC in the income column at the same figurei.e., $13,519,000, or 8.7% of the CWIP allowed in the rate base column.[4] This also approximates the 8.6% present interest-cost of acquiring capital by the issuance of bonds to accomplish the construction work, see Tr. 1758.
+
+Gulf States does not contest in principle the allowance in question (AFUDC), but only the inclusion of $2,002,000 of it as occasioned by construction work in progress related to non-revenue producing mandatory pollution control facilitieswhich (as a social requirement for both present and future ratepayers) should, the utility argues, be expensed and charged to current ratepayers, instead of being capitalized and added to the rate base only after the construction work is completed (at which time only the ratepayers whom the facilities are actually serving will pay for them). The   utility also contends that the Commission arbitrarily used the rate of return of 8.7% upon such funds (as fictitious income) instead of 7.5%, the rate previously used by the Commission; using this lower percentage would additionally reduce the AFUDC "income" by $1,864,000.
+
+Considering the purposes of AFUDC to compensate for the inclusion of CWIP in the rate baseas well as the widely if not universally accepted regulatory principle that regulatory commissions may within their discretion prevent the utilities from charging present ratepayers for the cost of CWIP for plant not yet in serviceit seems apparent that the Commission did not act arbitrarily in its treatment of the CWIP-AFUDC issue. In accordance with accepted principles applicable within its discretion, it did not require present ratepayers to pay for plant not yet in use (whether constructed for pollution-control or for other purpose). Further, it was not arbitrary in calculating AFUDC based on the present cost of capital and fair rate of return of 8.7%, rather than on the basis of the 7.5% allowed as to this utility in the past based on the cost and return allowable in the past under the then -current market conditions.
+
+Ultimately, the issue is one of regulatory policy within the constitutional choice of the Commission and not of the courts. As the Commission stated, in explaining its choice (made accordingly to widely accepted regulatory principles), Tr. 1740:
+
+"The question of whether to capitalize AFUDC, which represents the capital costs associated with CWIP, then, is philosophical in nature: should a present-day ratepayer be required to pay for all or part of the capital costs associated with a plant not used or useful to him, or should these costs be capitalized and depreciated later, which has the effect of passing those costs along to future ratepayers who will actually use that plant? The principle of capitalizing AFUDC reflects the latter type of treatment.
+
+"The Commission believes that it is appropriate to adhere to the accepted regulatory principle that ratepayers should pay only for that plant which presently benefits them. Future ratepayers will benefit from construction work in progress and from the capital costs associated with this construction. In the absence of special circumstances, these costs should be deferred until the plant is in service and recouped by the company at that time; therefore, capitalization of AFUDC is appropriate."
+
+B. "Normalization" of Income Tax Liability
+
+Gulf States contends that the Commission was arbitrary in refusing to allow it to use, for rate-making purposes, an accepted accounting procedure which "normalizes" (i.e., hypothesizes tax liability as if incurred on such a basis) tax liability in accordance with straight-line depreciation of the utility's property. Instead, the Commission required the utility to show as an expense the lesser tax liability which actually resulted from the utility's actual use, for tax purposes, of the accelerated depreciation of capital items permitted by tax regulation to lessen the actual tax liability for the period in question.
+
+What Gulf States proposed to doand was overruled by the Commissionwas to take the accelerated depreciation for tax purposes (thus decreasing the actual taxes paid), but to charge ratepayers by including only normal depreciation in the expenses for purposes of calculating net incomeas if it had paid greater taxes on this latter basis. Again, we have a choice of policy by the regulatory Commission which is in accord with the practice of a number of other regulatory agencies and which does not appear to be an unreasonable choice of accounting method for rate-making purposes. See Appendix 1, for full quotation from the Commission's reasons in its order.
+
+Under accepted principles of judicial review of regulatory agency determinations within its expertise and constitutionally entrusted to its authority, we cannot set aside the Commission's determination as unreasonable or arbitrary.
+
+*1272 C. The "End Result" of Commission Order Allegedly Fails to Take into Account the Deteriorating Financial Condition of the Utility and its Necessity for a Rate Increase to Maintain its Financial Integrity.
+
+More comprehensively, Gulf States argues that, whatever the individual merits of the Commission's various rulings, in cumulation they did not produce as an end result a fair and equitable rate of return. It cites the principle enunciated by the United States Supreme Court, In re Permian Basin Rate Cases,
+390 U.S. 747
+, 791-92, 88 S. Ct. 1344, 1372-73, 20 L. Ed. 2d 312 (1968):
+
+"The Commission cannot confine its inquiries either to the computation of costs of service or to conjectures about the prospective responses of the capital market; it is instead obliged at each step of its regulatory process to assess the requirements of the broad public interests entrusted to its protection by Congress. Accordingly, the `end result' of the Commission's orders must be measured as much by the success with which they protect those interests as by the effectiveness with which they `maintain * * * credit and * * * attract capital.'
+
+"It follows that the responsibilities of a reviewing court are essentially three. First, it must determine whether the Commission's order, viewed in light of the relevant facts and of the Commission's broad regulatory duties, abused or exceeded its authority. Second, the court must examine the manner in which the Commission has employed the methods of regulation which it has itself selected, and must decide whether each of the order's essential elements is supported by substantial evidence. Third, the court must determine whether the order may reasonably be expected to maintain financial integrity, attract necessary capital, and fairly compensate investors for the risks they have assumed, and yet provide appropriate protection to the relevant public interests, both existing and foreseeable. The court's responsibility is not to supplant the Commission's balance of these interests with one more nearly to its liking, but instead to assure itself that the Commission has given reasoned consideration to each of the pertinent factors." (Italics supplied by us.)
+
+Gulf States argues that, unless a rate increase is ordered, it cannot perform its legal obligation to provide reliable electric service to meet the future needs of Louisiana consumers. Due to the energy crisis and the shortage and approaching unavailability of natural gas supplies, the utility must convert its generating facilities to those fueled by heavy oil, coal, and nuclear powerfar more expensive generating facilities than needed under past conditions, requiring much longer construction periods (and thus tying up much greater proportions of capital, upon which no revenues may be generated through utility rates) than in the past.
+
+In brief, the utility points out: "In order to fulfill that obligation, and based upon conservative projections of future demand growth, the Company has had to undertake a construction program that will require the raising of $1.6 billion over the next 5 to 6 years. This monumental capital undertaking, which is an amount equal to the total assets of this 50 year-old company, translates into external financing of $950,000,000 through the sale of long-term debt, preferred stock, and common stock, with the remaining $650,000,000 of funds to be internally generated through depreciation, retained earnings, and deferred taxes."
+
+Gulf States points out a number of indicia of its deteriorating financial condition. See Appendix 2 for listing. It argues that it is in a "cash flow crisis" (instanced, for example, allegedly by the utility's necessity to borrow funds to pay dividends), largely resulting from the immense construction in progress required to provide for future needsand resulting also from the allowance as "phantom" income of AFUDC credits to decrease rate-generated revenues to an extent and in a proportion unimaginable under past social conditions.
+
+Gulf States forcefully argues that, because of these factors, its deteriorating financial   position will make it impossible for it to attract the equity investors and bondbuyers necessary to raise the huge amount of capital outlay immediately required in order for Gulf States to provide for the future needs of Louisiana consumers of electricity.
+
+Forceful as these arguments are, neither the present record nor the statistics concerning other utilities indicate that Gulf States is in any immediate financial crisis or that in the immediate future it will have difficulty in raising funds needed for the capital outlay necessary to construct the generating facilities required. Gulf State's financial condition, while perhaps less strong than formerly, is not shown to have suffered adverse effects not comparable to those experienced by similar utilities under the conditions of energy crisis and inflation of the Seventies.
+
+Gulf States, for instance, still enjoys an AA bond rating, enabling it and the minority of other electric utilities so rated to borrow money at a lower rate (the record shows 8.6% for the test year) than the other 73 electric utilities with a lower rating. Under analysis, the claim that Gulf States had to borrow money to pay its dividends is unimpressively based on the circumstance that the company's borrowing, during the test year that the amount of dividends were paid, exceeded the net "income" (or cost of (return on) equity) allocable for rate-making purposes for that purpose. This condition, however, was shared by 22 of the 40 comparable electric utilities.
+
+The argument fails to take into consideration that, for rate-making purposes, many non-cash items (available in fact for distribution as dividends) are likewise treated as an "expense" item, in determining the fair rate of return on the rate base. The return on equity allowed as a cost in computing net operating income for rate-making purposes, being the amount necessary to attract new capital and to compensate present investors fairly, does not necessarily coincide with the actual dividends paid, which may additionally be based upon profits reflected (for rate-making purposes) as non-cash "expensed" items or from past profits. The borrowing of the utility during the year was no more for the purpose of paying dividends than it was for the purpose of paying wages; indeed, the sums were simply borrowed in the ordinary course of the utility's business, in accordance with customary practices of other utilities and large corporations.
+
+The Commission found that during the test year Gulf States enjoyed a rate of return of 9.15% on its rate base and a return of 13.84% on equity, at rates more than sufficient to attract the capital needed for expansion.[5] These findings are supported by the record, under the Commission's reasonable evaluation of the evidence. We find no reason to disturb these findings, under accepted principles of judicial review of a regulatory agency's determinations.
+
+In so holding, we note the Commission's concern, see Tr. 1744, 1759, and our own, over the large construction outlays required of Gulf States and that these outlays may, at some point in the future, require the Commission to reevaluate its traditional treatment of Construction Work in Progress (CWIP) and Allowance for Funds Used During Construction (AFUDC), so as to require present consumers to pay at least a portion of such costs. Ultimately, we are   unable under the present record to find that the Commission was unreasonable or arbitrary in its determination that such point in time has not yet been reached.
+
+A regulatory lag occurs between the time a utility applies for a rate increase and the time the rate application is finally determined. This lag may cause an attrition in the actual rate of return, after the test year. This may be caused by a growth in the utility's rate base or in its operating expenses (such as increases in expenses due to inflation), or both, by reason of which insufficient revenues are produced to accord the utility the fair rate of return to which the regulatory agency's order entitles it. An "attrition adjustment" is sometimes made, when the evidence so justifies, to allow rates imposed to take this attrition factor into consideration.
+
+On its initial hearing, the district court in which judicial review was sought remanded the proceeding to the Commission to determine an attrition adjustment predicated on the rate of inflation on operation and maintenance expenses. Applying the 11.1% inflation that had occurred in 1976 and 1977 (i.e., following the 1975 test year), the Commission determined that, under the district court's ruling, the attrition adjustment should be $1,253,000.[6]
+
+However, the Commission pointed out several reasons why an attrition adjustment was inappropriate under the facts of this case.
+
+Nevertheless, the district court ordered a rate increase in the amount of $1,253,000, in order to effectuate this attrition adjustment.
+
+By answer to the appeal, the Commission prays that this court disallow the rate increase for an attrition adjustment which had been allowed by the district court. In so praying, the Commission points out that by its original order it had allowed for known changes in expenses after 1975 as proposed by Gulf States at the original hearings, that it had to some extent allowed for attrition by using a year-end rate base without at the same time adjusting revenues to the year-end level, and that Gulf States had not requested any attrition allowance until the Commission order was appealed to the district court.
+
+Perhaps more central to the Commission's complaint is that the allowance of the attrition adjustment of $1,253,000 (with increase in net income, after allowing for taxes, of $623,000) would be a court-mandated "windfall" rate increase beyond what is needed to assure the utility a fair rate of return and a fair and reasonable return on equity.
+
+As previously indicated by the Commission and approved by the court, during the test year the utility enjoyed a rate of return of 9.15% on the rate base, which would provide a return on equity of 13.84%. The Commission further indicated that a rate of return of 8.7% and a return on equity of 10.5%-11.5% would be fair and reasonable.
+
+The Commission points out that, even if the attrition allowance of the district court were permitted to increase the expense factor of the rate base, nevertheless Gulf States would receive a rate of return on its rate base of 9.05% and a return on equity of 13.55%, or well in excess of the rates the Commission had found to be necessary to be fair and reasonable.
+
+Since a rate increase is justified only if the rate of return of the utility is less than a fair rate of return, the Commission did not, in our view, abuse its discretion by failing to allow the attrition adjustment ordered by the district court. Accordingly, we disallow the attrition adjustment and rate increase ordered by the district court.
+
+The intervenors, certain industrial users of electricity (Stauffer Chemical et al.), answered the appeal, primarily to assure that any rate increase ordered (including that made by the district court) be allocated based on the cost of service as determined by the "peak responsibility" method for rate structuring, as ordered by the Commission and approved by the district court.
+
+Since no rate increase has been ordered, it is unnecessary to comment further upon this issue.
+
+For the reasons stated, the judgment of the district court allowing a rate increase of $1,253,000 is amended so as to delete this increase, and judgment is entered by this court affirming the Louisiana Public Service Commission's order of February 4, 1977, its docket no. U-12976, which denied the plaintiff utility's application for any rate increase. The plaintiff utility is further ordered to refund to the ratepayers those amounts collected pursuant to the rate increase allowed by the district court during the pendency of the appeal from its judgment, with such refunds to be made in a manner and on terms as determined by the Commission within its reasonable discretion, including (if deemed appropriate by the Commission) by credits to be allowed against future charges. All costs of these proceedings are assessed against the plaintiff-appellant, the Gulf States Utility Company.
+
+DISTRICT COURT AMENDMENT OF RATE ORDER DISALLOWED INSOFAR AS IT FIXED A RATE INCREASE OF $1,253,000; THE COMMISSION ORDER DENYING A RATE INCREASE AFFIRMED.
+
+SANDERS, C. J., concurs in part and dissents in part with written reasons.
+
+SUMMERS, J., dissents for the reasons assigned.
+
+SANDERS, Chief Justice (concurring in part and dissenting in part).
+
+I concur in the disposition of all issues save one: the inflation allowance granted by the district court. This award took into account the increase in expenses due to inflation subsequent to the 1975 test year.
+
+In my opinion, the award was fully justified under the accepted standard of judicial review. Hence, I would affirm the judgment of the district court.
+
+For the reasons assigned, I concur in part and dissent in part.
+
+SUMMERS, Justice (dissenting).
+
+On January 6, 1976, Gulf States Utilities Company filed with the Public Service Commission two applications for general rate increases on its natural gas service and its electric service in Louisiana. The two applications were consolidated for consideration before the Commission.
+
+In the gas case Gulf States applied for a rate increase on its natural gas service in the amount of $2,026,000. The Commission found the earning of Gulf States to be far below reasonable levels. On the basis of a   thorough review of the record, the Commission determined that a rate increase sufficient to produce an overall return of 8.5 percent to be appropriate and ordered an increase in Gulf States' gas rates in an amount sufficient to produce a total of $717,575. Gulf States did not appeal from this portion of the Commission order.
+
+In the electric case Gulf States applied for a rate increase on its electric service in the amount of $23,750,000. After hearings and a review of the record the Commission found the adjusted overall return of Gulf States in the test year 1975 to be 9.15 percent and the return on equity 13.84 percent. Despite these findings, the Commission determined that a decrease in rates would be inappropriate because of fluctuations in the cost of capital, the construction outlays required of Gulf States, and the possible revenue effect of regulatory lag. However, on February 4, 1977 the application for an increase in electric rates was denied in full.
+
+Under appropriate authority Gulf States appealed the Commission decision in the electric case on February 28, 1977 to the Nineteenth Judicial District Court. After proceedings there, the trial judge rendered his decision on September 13, 1977 overruling the Commission on two issues. The district court required the Commission on remand to "make an increase in rates" predicated upon:
+
+The district court found that the Texas State Commission granted a $13,000,000 rate increase in July of 1976 on comparable data obtained from Gulf State's operations in Texas during the same period.
+
+On motion of the Commission the district court issued an amendment to its judgment "to reflect that the AFUDC to be removed from the operating income should be $1,864,000 instead of $13,519,000 as reflected in the opinion."[1]
+
+Thereafter, when its motion for a new trial was denied, the Commission applied to this Court for a supervisory writ of review and a stay of the decision of the district court. Because the review of an interlocutory ruling was involved and the Commission had an adequate remedy by appeal, the writ was denied on October 26, 1977.
+
+The case was then remanded to the Commission for computation of the rate increase ordered by the district court. On remand the Commission issued its order declaring that a special attrition allowance was unnecessary. However, the Commission computed the amounts necessary to implement the judgment of the district court to be $1,253,000. On return of the case to the district court this amount was approved and the Court's original judgment was modified accordingly on January 13, 1978. Gulf States appealed and the record was lodged in this Court March 28, 1978. The Commission record was lodged on May 22, 1978. The Commission answered the appeal, alleging that the decision of the district court should be reversed insofar as it was contrary to the decision of the Commission and that the Commission's order be affirmed in full.
+
+Gulf States is an electric public utility maintaining a physically integrated electric generation, transmission and distribution system in contiguous areas of the States of Louisiana and Texas. It furnishes electric utility services to approximately 226,000 industrial, commercial and residential customers located in rural and urban areas of Louisiana.
+
+For the purposes of this application Gulf States utilizes the calendar year 1975. On   the basis of actual and projected results for that year Gulf States has in operation property and accounts used and useful in rendering electric service in the amount of $663,334,000 computed on original cost less depreciation. Its operating income for the test period 1975 amounted to $47,911,000.
+
+Gulf States last applied for an adjustment in its electric rates in July 1971. A portion of the increase requested was allowed in February 1973. Since 1971 cost of doing business has increased at an unprecedented rate. Interest on all debts has increased from $27,463,000 in 1971 to $46,861,000 in 1975 or 70%. Production, distribution and transmission construction costs have increased approximately 60% in the same period.
+
+At the same time earnings of Gulf States have declined to the point that its return on common equity is alleged to be 11.16%, a level of return inadequate to maintain a favorable market for sale of its common stock. Consequently the market for Gulf States common stock has deteriorated significantly. In 1971 2,000,000 shares of common stock sold at $203⁄4 per share, while in 1975 3,000,000 shares sold at only $11 per share. As a result investors who purchased stock in 1971 have suffered a market loss of $14,500,000 on the basis of the December 1975 market value of $131⁄2 per share, a value under the stocks book value.
+
+Although Gulf States' December 1975 bond rating was "AA", the future of this rating depends upon maintaining its earnings at a level which will adequately provide a bond coverage ratio above the 2.8 level of December 1975. Otherwise, the rating of Gulf States securities will probably be lowered causing an increase in cost of debt, or limit financing for its construction program.
+
+The need for raising funds by the sale of bonds is greater now than in the past. The energy crisis requires alternate fuel supplies creating an impact upon the Company's future construction plans, operating and financing requirements. Prior to 1971 its generating facilities were constructed to utilize natural gas as a boiler fuel. Now natural gas contracted for has not and is not being delivered as contracted for. Action of federal and state regulatory authorities gives no assurance that natural gas will be available for boiler fuel in the future.
+
+Faced with this prospect, and in order to continue electric service to its customers, it was necessary for the company to convert certain generating units to fuel oil burning. It is also constructing coal and nuclear generating facilities which will, to a large extent, supplant existing generating capability. These conversions require the expenditure of large sums to accommodate the environmental requirements associated with these fuels.
+
+The Company has expended an average of $117,000,000 per year for construction for the years 1970 through 1974; $175,000,000 for new construction in 1975, and had budgeted $220,000,000 for 1976. Expenditures for the period 1977-78 are expected to exceed $650,000,000. Approximately onethird of the funds required for this construction program will be generated from operations and the remainder is to be raised through the sale of equity and debt securities.
+
+Unless the Company is able to attract additional capital at the most advantageous rates the consumer will have to pay for the difference. And, since the Company's revenues are insufficient, the increased costs demanded by the circumstances must be compensated for by the establishment of rates and charges which will provide additional revenues which the company fixes in the amount of at least $23,750,000 forecast for the test year 1975. To order less, the Company contends, would deprive them of the return on their investment to which they are entitled under the Constitution and laws of the State and the United States of America, a result contrary to the public interest and confiscatory of its property contrary to law.
+
+Stauffer Chemical Company, Vulcan Materials Company, Ciba-Geigy Corporation, Georgia-Pacific Corporation, Olin Corporation, Firestone Synthetic Rubber & Latex Company, and Monochem, Inc. (referred to   collectively as Intervenors) actively participated in the Gulf States rate application proceedings urging that any rate increase be allocated to these industries on the basis of cost of service, particularly by the "peak responsibility" method. The Commission and the district court acknowledged the correctness of the position advanced by Intervenors. On the appeal here Intervenors contend that the increase granted by the district court was nevertheless implemented by Gulf States on a flat, kilowatt hour basis. Intervenors contend, therefore, that Gulf States should be ordered to refund to Intervenors the difference between the rates imposed and that which Gulf States would have received if the rate increase had been implemented on a cost of service basis; alternatively, that any rate increase be allocated based on the cost of service as determined by the "average and excess' method of rate structuring recommended by Gulf States.
+
+In all rate cases, a determination of the proper revenue requirement involves a consideration of a) the appropriate test year; b) the appropriate rate base in the test year; c) the appropriate adjusted operating income in the test year, and d) the fair rate of return.
+
+The Commission adopted the test year 1975 proposed by Gulf States as a reasonable starting point for an analysis of Gulf State's rates.
+
+Generally Gulf States contends the Commission and the district court failed to grant sufficient relief to insure that the rate order will maintain the Company's financial integrity and enable it to meet its construction-related financial obligations.
+
+The record establishes that the accepted indicators point to Gulf State's financial deterioration. Added to this is the responsibility of Gulf States to fulfill its obligation to provide reliable electric service to meet the future needs of Louisiana consumers. To do so the Company must undertake a construction program that will require the raising of $1.6 billion over the next five to six years. This is an amount equal to the total assets of this fifty-year-old company. In order to accomplish this program, $950,000 must be raised by external financing through the sale of long-term debt, preferred stock, and common stock, with the remaining $650,000,000 to be generated through depreciation, retained earnings, and deferred taxes. Without adequate relief this formidable task cannot be accomplished. Nevertheless, nowhere in its order does the Commission make specific reference to these future requirements of the Company or the structuring of the Company's rates to meet them.
+
+In discussing the responsibilities of a reviewing court, the United States Supreme Court made this pertinent observation in the case of Permian Basin Area Rate Cases,
+390 U.S. 747
+, 88 S. Ct. 1344, 20 L.Ed.2d 312:
+
+Further, the Court admonished that the regulatory body assess "the consequences of its orders for the character and future development of the industry." In our view this has been the failing of the Commission in this case.
+
+While there is no particular rate of compensation applicable to all cases, factors common to all are the amount of risk in the business, the locality in which the business is conducted and the return expected and usually realized there upon somewhat similar investments. Wilcox v. Consolidated Gas Company,
+212 U.S. 19
+, 29 U.S. 192, 53 L. Ed. 382 (1909).
+
+The criteria for setting and judging a fair rate of return is set forth in Bluefield Water Works & Improvement Company v. Public Service Commission of West Virginia,
+262 U.S. 679
+, 43 S. Ct. 675, 67 L. Ed. 1176 (1923). The Court said:
+
+These criteria were further developed and explained in Federal Power Commission v. Hope Natural Gas Company,
+320 U.S. 591
+, 64 S. Ct. 281, 88 L. Ed. 333 (1944) where the Court observed, "From the investor or company point of view it is important that there be enough revenue not only for operating expenses but also for the capital costs of the business." The Court continued by saying that the return to the equity owner "should be sufficient to assure confidence in the financial integrity of the enterprise, so as to maintain its credit and to attract capital."
+
+These pronouncements amount to a statement of principles which require that a regulatory commission's order shall ultimately be measured by the ability of the rules its prescribes to maintain the financial integrity and future development of the Company. Together, these principles have been described as the "end-result test," a test which demands subservience of all methods employed in rate making to the end result. In my view this test has not been satisfied in the case at hand.
+
+In keeping with its proposals, Gulf States requested that a percentage of the value of construction work in progress (CWIP) be allowed in the rate base without an allowance for funds used during construction (AFUDC) offset to income. Specifically, Gulf States proposed that only the construction work in progress related to pollution control facilities and fuel conversion facilities be allowed in rate base. It is Gulf States contention that the pollution control and generating facilities under construction each benefit the current rate payers. They are built to clean the air and generate future electricity, both projects are desired and expected by the current rate payer.
+
+In denying the proposal the Commission adopted the principle that utility plant is not included in rate base unless the plant was in service and "used and useful" to the rate payers. A plant under construction, under this theory, is neither used or useful until it is placed in operation.
+
+Regulatory commissions have adopted both AFUDC and CWIP as legitimate approaches. A large number of states have permitted the inclusion of CWIP in the rate base, provided the AFUDC is not capitalized (and thus no credit is made to operating income). In fact, about half of the states now permit inclusion of at least some portion of CWIP in rate base. As explained in Federal Power Commission Order No. 555, issued November 8, 1976, until recent years the construction period for new plant was fairly short, construction costs were low, and financial conditions were such that the accounting and rate making question was more of academic interest than a matter of serious financial concern to utilities.
+
+According to National Power Survey Technical Advisory Committee on Finance the electric utility industry will need $175 billion to $335 billion in the next ten years, of which some $115 billion to $220 billion is projected to come from capital market. Even if these figures are not exactly correct, it is clear that electric capital demands will be very large. The question, then, is whether external capital can be raised if the "quality of earnings" is diluted by large amounts of AFUDC, and whether the necessary internally generated cash can be raised. Significantly, AFUDC are not considered to be the equivalent of actual cash income by the investment community.
+
+The traditional argument, adopted by the Commission in the instant case, that interest on construction should be capitalized in order to prevent present customers from being burdened with costs incurred for the benefit of future customers has less validity today, since a substantial portion of these construction requirements result from increasing demands made by present customers,   rather than growth in the number of customers, and from the need of the utility to reform its generating facilities to accommodate new and available fuels.
+
+For these reasons the Commission and the district court should not have increased the rate of the allowance for funds used during construction from 7.5% to 8.7%. These decisions were influenced at least in part by a theory that plant must be "used and useful" in the traditional sense before it may be included in rate base. The theory is unsound in the context of this case. Considering the enormous need for, and planned expansion of, facilities, in a very real sense, a plant under construction, which will go on line in the future, is useful to present customers. If the plant were not under construction, the consumers might well be facing a certain danger of future power shortages, a prospect eliminated by a plant under construction; the result is "useful" to present consumers. Insofar as pollution facilities are concerned, it is the current generation's commitment to control of pollution and the present consumer's demand for clean air which makes these facilities necessary. These demands warrant a result in which costs are reasonably reflected in the rates of the present consumer.
+
+It was therefore error for the Commission and the district court to increase the AFUDC proposal of Gulf States from 7.5% to 8.7% and the Commission's order should be amended to approve the Company's proposal that CWIP be included in the rate base but the AFUDC offset in the income statement be limited to 7.5%.
+
+Gulf States proposed to normalize the tax deductions related to construction work in progress as well as to continue normalizing state income taxes. The Commission and the district court denied both, requiring the flow-through of these taxes.
+
+Normalization is an accounting procedure. Under conventional straight-line depreciation the rate payer pays an annual proportionate depreciation expense during the useful life of the unit involved. For income tax purposes the company would deduct that amount each year. On the other hand, normalization for income tax purposes would permit the company to take accelerated depreciation on the unit, the effect being larger deductions in the early years of the unit and smaller deductions in later years. At the end of the period scheduled for depreciation, however, it would have paid the same amount due under conventional straight-line depreciation.
+
+By invoking normalization for rate-making purposes a deferred tax liability accumulates in the early years of a given unit subject to depreciation with a resulting heavier tax responsibility in the later years of the useful life of the unit. The difference is timing. An example will illustrate:
+
+Assume:
+
+1) $1,000,000 capital investment
+
+2) 10 year useful life
+
+3) normalization accounting with liberalized depreciation
+
+The total dollars that each is responsible for, or entitled to, are the same. The theory normally asserted in favor of this treatment is that the "deferred" taxes must ultimately be paid.
+
+Thus under this plan the Company proposed to deduct from net operating revenue, by showing as an "expense" in the test year, certain taxes not actually paid in that year. These taxes amount to $1,918,000. The company proposes that it be allowed to deduct this amount on its books for ratemaking purposes. In addition, the Company included state deferred income taxes as an expense. These amounted to $324,000.
+
+*1282 The Commission opposes this procedure for, according to its view of the matter, the effect is to reduce the income of the Company in the test year below what was actually received by allowing what the Commission terms "phantom" taxes.
+
+Normalization treatment in computing tax allowance for rate purposes has been recognized by the United States Supreme Court to offer more hope for stability of rates for consumers and more assurance that the company can earn its fair rate of return without further rate increases. F.P.C. v. Memphis Light, Gas & Water Div.,
+411 U.S. 458
+, 93 S. Ct. 1723, 36 L. Ed. 2d 426 (1973).
+
+As a result of a Federal Power Commission investigation into normalization of taxes for rate-making purposes, Order No. 530-B was issued by the Federal Power Commission in which it approved the use of normalization for rate-making purposes as beneficial and in the public interest. In that order, responding to the contention that new plant coming on line would result in tax avoidance, the Commission stated:
+
+It seems to be the concern of the Commission in the instant case that normalization involves "phantom" taxes, and, it is assumed in this position, that the Company is thereby avoiding taxes. This concern is not well-founded. No taxes are avoided. The taxes are not phantom. They are actually paid. The difference is one of timing. To the contrary, in the latter years of the scheduled depreciation the utility pays a greater tax than that charged to the rate payer, although at the end of the depreciation period the result is the same.
+
+I find no reasonable basis for denying the normalization proposed by the Company and it should be allowed.
+
+Gulf State's contention in this Court for the attrition allowance ordered by the district court should be denied. Gulf States made no request in its rate application or in the proceedings before the Commission for a special adjustment to quantify and offset attrition. To the contrary, in another issue before the Commission the adjustments proposed by Gulf States to allow for known changes after the 1975 test year were accepted and implemented by the Commission. Moreover, Gulf States proposed the use of a year-end rate base in the proceedings before the Commission, and the use of the year-end rate base without a full adjustment of revenues to the year-end level was reluctantly accepted by the Commission. An attrition allowance was therefore granted by the Commission. No additional allowance is indicated and that ordered by the district court should be disallowed.
+
+Taking into consideration the foregoing determinations the Commission should compute the appropriate rate base and allow an adjusted operating income which will assure Gulf States a fair rate of return and a rate increase of not less than $15,000,000, an amount deemed necessary on this record to assure confidence in the financial soundness of the Company and which should be adequate, under efficient and economical management, to maintain and support its credit and enable it to raise the money necessary for the proper discharge of its public duties. In all other respects I would affirm the order of the Commission of February 4, 1977. This is the end result which this record supports.
+
+The increase in rates allowed Gulf States should be allocated on the basis of cost of service, particularly by the "peak responsibility" method. In this respect any implementation of the prior rate increases on a flat, kilowatt hour basis should be adjusted   with the Intervenors with appropriate credits to be allowed on future charges.
+
+I respectfully dissent.
+
+[1]  The utility presented two expert witnesses who testified that a fair return on equity capital would be 15%. In its analysis of their testimony, Tr. 1755-58, the Commission convincingly discounts their estimates as based upon evidently non-comparable (i.e., non-regulated) utilities or upon test periods containing conditions (e.g., high bond costs) not applicable to the test period of this particular utility. The Commission found on the record before it no evidence justifying it to depart substantially from its past findings, applicable to the present and to other regulated utilities, that a range of 10.5% to 11.5% was within a reasonable range for the cost of (required return on) equity for regulated utilities, such as the present. The reasons cited by the Commission, based in part upon an analysis of the testimony of the utility's experts, would support a finding that a return on equity within this range would be sufficient to attract equity capital to invest in the utility.
+
+[2]  The Commission's brief cites these as including: Re Mountain States Telephone & Telegraph Co., 90 PUR NS 107, 118 (Utah Pub.Serv. Comm'n.1951); Re New England Telephone & Telegraph Co., 84 PUR 3d 130, 155 (Mass.Dept. Pub.Util.1970); Re New England Telephone & Telegraph Co., 100 PUR 3d 189, 191 (Mass. Dept.Pub.Util.1973); Re Northwestern Bell Telephone Co., 8 PUR 4th 75 (Minn.Pub.Serv. Comm'n.1974); Re South Central Bell Telephone Co., 5 PUR 4th 113 (Miss.Pub.Serv. Comm'n.1974); Re Georgia Power Company, 3 PUR 4th 375 (Ga.Public Serv.Comm'n.); Re Northwestern Bell Telephone Co., 2 PUR 4th 312 (Neb.Pub.Serv.Comm'n.1974); Re New York Telephone Company, 2 PUR 4th 1 (N.Y. Pub.Serv.Comm'n.1973); Re Central Vermont Public Service Corporation, 94 PUR 3d 34 (Vt. Pub.Serv.Bd.1972). See also New England Telephone & Telegraph Co. v. Massachusetts Dept. of Public utilities, 92 PUR 3d 113, 121 (1973), approving the exclusion of CWIP from rate base and, citing the following authorities at 121 n.10: Petition of Mountain States Teleph. & Teleg. Co. (1955) 76 Idaho 474, 485, 8 PUR 3d 265, 284 P.2d 681; New England Teleph. & Teleg. Co. v. New Hampshire (1949) 95 N.H. 353, 364, 365, 82 PUR NS 296, 64 A.2d 9; Narragansett Electric Co. v. Kennelly (1958) 88 R.I. 56, 75, 76, 25 PUR 3d 54,
+143 A.2d 709
+; Re New England Teleph. & Teleg. Co. (1949) 115 Vt. 494, 504, 505, 79 PUR NS 508, 66 A.2d 135; Re New England Teleph. & Teleg. Co. (1951) 116 Vt. 480, 483, 484, 90 PUR NS 414,
+80 A.2d 671
+; Re Wisconsin Pub. Service Corp. (Wis. 1969) 81 PUR 3d 39, 42, 43; Washington Utilities & Transp. Commission v. Pacific Northwest Bell Teleph. Co. (Or. 1960) 82 PUR 3d 321, 340, 341; Re General Teleph. Co. of the Southwest (Ga.1970) 84 PUR 3d 467, 477.
+
+[3]  See, e.g.: A.J.G. Priest, Principles of Public Utility Regulation, Volume 1, pp. 178-80 (1969); State of North Carolina ex rel. Utilities Commission v. Morgan, 86 PUR 3d 371, 385 (N.C.1970); Re Michigan Bell Telephone Co., 85 PUR 3d 467, 472-474 (Mich.Pub.Util. Comm'n.1970).
+
+[4]  Under this method of treating CWIP-AFUDC, AFUDC is also added to the CWIP account and when the plant goes into service, all costs (CWIP and the cost of acquiring capital, i.e., AFUDC) are included in the rate base for the purposes of computing the rate to be allowed and are also depreciation over time. The utility thus eventually recoups its entire investment, including the cost of acquiring capital for the construction, after the plant actually goes into service.
+
+[5]  At page 48 of its original brief, Gulf States cited numerous recent regulatory adjudications allowing returns on equity of between 12.63% and 14.5%. At pp. 68-69 of its original brief, the Commission cites numerous other recent determinations showing authorized returns on equity of between 10.9% and 12.75%, a preponderance of them authorizing returns on equity at about 12%. Whether the issue concerns the actual return on equity found by the Commission (i.e., 13.84%) or the return on equity found by the Commission to be fair and equitable and sufficient to attract capital (i.e., 10.5% to 11.5%), it is apparent to us that the Commission's determinations in these regards cannot be viewed as unreasonable in the light of these statistics, any more than they are in the light of the evidence actually produced before the Commission. In any event, the statistics do not lend support for the utility's argument that the revenues produced by the present rates are insufficient to attract the funds needed for its capital expansion.
+
+[6]  We concur in the district court's and the Commission's determination that, under the record before us, this is the maximum attrition adjustment that could be allowed. By its appeal, the utility requests an increase in the attrition adjustment. We find no merit to its contentions. Our disposition of the Commission's answer to the appeal obviates further discussion of this request.
+
+[1]  "AFUDC" is used to refer to "allowance for funds used during construction."

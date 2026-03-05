@@ -1,0 +1,77 @@
+61883
+State v. Gisclair
+https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-696-1.html
+
+61883
+State v. Gisclair
+Court: Louisiana Supreme Court
+Release date: 1978-10-09
+Author: MARCUS, Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1978/363-so-2d-696-1.html
+
+363 So. 2d 696 (1978)
+
+STATE of Louisiana
+v.
+Clyde Anthony "Rock" GISCLAIR.
+
+No. 61883.
+
+Supreme Court of Louisiana.
+
+October 9, 1978.
+
+Rehearing Denied November 9, 1978.
+
+*697 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, L. J. Hymel, Jr., Asst. Attys. Gen., Melvin P. Barre, Dist. Atty., Norman J. Pitre, Asst. Dist. Atty., for plaintiff-appellant.
+
+Michael S. Fawer, Matthew H. Greenbaum, New Orleans, for defendant-appellee.
+
+MARCUS, Justice.
+
+Clyde Anthony "Rock" Gisclair, assessor for the parish of St. Charles, State of Louisiana, was charged in the same indictment with two counts of theft in violation of La. R.S. 14:67 and one count of public payroll fraud in violation of La. R.S. 14:138. Defendant filed a motion to quash the count accusing him of public payroll fraud on the ground that La. R.S. 14:138(2) was unconstitutionally vague and indefinite. After a hearing, the trial judge sustained the motion to quash. The state has appealed the ruling of the trial judge to this court.[1]
+
+The sole issue presented for our consideration is whether La. R.S. 14:138(2) is unconstitutionally vague or indefinite.
+
+La. R.S. 14:138 provides in pertinent part:
+
+The challenge that a statute is vague or indefinite must be considered from two perspectives, i. e., both the state and federal constitutions. Article 1, section 13 of the Louisiana Constitution provides in part that "[i]n a criminal prosecution, an accused shall be informed of the nature and cause of the accusation against him. . . ." This guarantee requires that penal statutes describe the unlawful conduct with such particularity and clarity that ordinary persons of reasonable intelligence are capable of discerning its meaning and conforming their conduct thereto. Under the fourteenth amendment to the United States Constitution, words and phrases used in statutes must not be so vague and indefinite that any penalty prescribed for their violation would constitute a taking of liberty or property without due process of law.[3] It is apparent that there is no readily appreciable difference between the state and federal concepts; a statute that fails to inform an accused of the "nature and cause" of an offense under the state constitution will also ordinarily fail to provide the "fair notice" of proscribed conduct required by the federal constitution. State v. Tucker,
+354 So. 2d 1327
+(La. 1978); State v. Carpenter, 319 So. 2d 355 (La. 1975); State v. Lindsey,
+310 So. 2d 89
+(La. 1975).
+
+Certain rules of construction must be employed by a court in testing the constitutionality of a penal statute. Every statute is presumed constitutional, and the burden of clearly establishing its unconstitutionality rests upon the party attacking it. State v. Skinner,
+358 So. 2d 280
+(La. 1978). Moreover, the statute should be given "a genuine construction, according to the fair import of . . . [its] words, taken in their usual sense, in connection with the context." La. R.S. 14:3; State v. Heck,
+307 So. 2d 332
+(La. 1975). Detailed specification of the various ways in which the crime can be committed is not required to sustain the constitutionality of a penal statute. It suffices that the phraseology has a well-known or commonly-understood meaning. State v. Heck, supra; City of Baton Rouge v. Norman,
+290 So. 2d 865
+(La. 1974). In Norman, we stated:
+
+The statutory language of La. R.S. 14:138(2) offers a clear and definite standard of conduct, viz., "compensation for services . . . grossly inadequate for such . . . compensation." This phraseology establishes a clear and definite relationship between compensation paid and the work actually performed. The relationship is a reasonable one which can be easily understood and applied. Clearly, ordinary persons of reasonable intelligence would be capable of discerning the prohibition against the payment for services "grossly inadequate" for such compensation and conforming their conduct thereto.[4] Moreover, we find no merit to defendant's argument that the statute is unconstitutionally vague because it requires a subjective choice. The trial judge erred in so holding. In State v. Lindsey, supra, we quoted Mr. Justice Holmes' observation that   the law is full of instances where a man's fate depends on his estimating rightly, that is, as the jury subsequently estimates it, some matter of degree. If his judgment is wrong, not only may he incur a fine or short imprisonment . . .; he may incur the penalty of death.[[5]]
+
+For the foregoing reasons, we conclude that section (2) of La. R.S. 14:138 is not unconstitutionally vague or indefinite. Accordingly, the trial judge erred in finding the statute unconstitutionally vague.
+
+The ruling of the trial judge granting the motion to quash is reversed, and the case is remanded to the trial court for further proceedings consistent with the views herein expressed.
+
+DIXON and DENNIS, JJ., dissent.
+
+CALOGERO, J., dissents and assigns reasons.
+
+CALOGERO, Justice, dissenting.
+
+I respectfully dissent. The term, "grossly inadequate" used in R.S. 14:138(2), which fails to set forth a sufficiently clear and definite standard of criminal conduct, is unconstitutionally vague and indefinite. Even the majority which holds that the language is not unconstitutionally vague and indefinite cannot define the term. If the term is insusceptible of definition, it is vague because it affords no opportunity for a prior determination of what services are grossly inadequate for the payment or compensation contemplated. It is inconceivable that a public officer or public employee should have to wait until a jury determines what is grossly inadequate service to be able to determine if he has violated the law proscribing public payroll fraud.
+
+[1]  This court has appellate jurisdiction in all cases in which a law of this state has been declared unconstitutional. La.Const. art. 5, § 5(D)(1).
+
+[2]  For a tracing of the history of this statute, see Bugea, Lazarus, and Pegues, The Louisiana Legislation of 1940, 3 La.L.Rev. 98, 152 (1940).
+
+[3]  See also La. Const, art. 1, § 2 (1974).
+
+[4]  Negligent homicide is the killing of a human being by criminal negligence. La. R.S. 14:32. The legislature has used the word "gross" in defining criminal negligence. La. R.S. 14:12.
+
+[5]  Nash v. United States,
+229 U.S. 373
+, 377, 33 S. Ct. 780, 57 L. Ed. 1232 (1913).

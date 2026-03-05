@@ -1,0 +1,110 @@
+65485
+Danzy v. US Fidelity & Guaranty Co.
+https://law.justia.com/cases/louisiana/supreme-court/1980/380-so-2d-1356-1.html
+
+65485
+Danzy v. US Fidelity & Guaranty Co.
+Court: Louisiana Supreme Court
+Release date: 1980-03-03
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1980/380-so-2d-1356-1.html
+
+380 So. 2d 1356 (1980)
+
+Roy R. DANZY, Individually and for the Use and Benefit of Jeffrey A. DANZY
+v.
+UNITED STATES FIDELITY & GUARANTY COMPANY.
+
+No. 65485.
+
+Supreme Court of Louisiana.
+
+March 3, 1980.
+
+*1357 James A. Pharis, Jr., Pharis & Pharis, Alexandria, for plaintiff-applicant.
+
+DeWitt T. Methvin, Jr., Gist, Methvin, Hughes & Munsterman, Alexandria, for defendant-respondent.
+
+DIXON, Justice.[*]
+
+Jeffrey Danzy was injured when the motorcycle he was riding was struck by a car driven by Mrs. Reley D. Bostick and insured by the defendant, United States Fidelity & Guaranty Company. At the time of the accident, Mrs. Bostick was acting in the scope of her employment as rural mail carrier for the United States Postal Service. Roy Danzy, Jeffrey's father, filed suit in the United States District Court for the Western District of Louisiana against the   United States of America, alleging the negligence of Mrs. Bostick while acting in the scope of her employment, and seeking the recovery of damages under the Federal Tort Claims Act.[2] On the following day, Danzy instituted a direct action in the Louisiana Eighth Judicial District Court against Bostick's insurer, alleging the same facts and seeking recovery of the identical damages. A year after both these suits were filed, Danzy entered into a compromise settlement of his federal court claims against the United States, releasing and discharging the United States in return for payment of $30,950.[3] In accordance with the terms of the compromise, the federal court action was dismissed with prejudice.
+
+In the pending state court proceedings, the defendant insurer filed peremptory exceptions of no right or cause of action, alleging that under the relevant provisions of the Federal Tort Claims Act, the only remedy available to plaintiff was an action against the United States.[4] The defendant also filed a peremptory exception of res judicata, on the ground that plaintiff's recovery was barred by his compromise settlement with the United States, and a motion for summary judgment. The trial court granted the motion for summary judgment and dismissed plaintiff's claims. In its reasons for judgment, the trial court found that plaintiff had fully exercised his one cause of action in the federal court proceedings, that the exclusivity provision of the Federal Tort Claims Act ran in favor of the employee's insurer and barred the state court action, and that plaintiff's release of the United States without reserving rights against its solidary co-obligors had effected   a release of the insurer. In affirming the dismissal, the Court of Appeal addressed only one issue, that of whether the act's exclusivity provision precludes a direct action against the insurer of a federal employee. The appellate court concluded that, because the immunity from suit granted to a federal employee is not a purely personal immunity, it constitutes a defense which is also available to the employee's insurer. We granted writs to review this ruling.
+
+We affirm the trial court's dismissal of plaintiff's action but we find it unnecessary, on the facts before us here, to determine the effects of the immunity granted by the act's exclusivity provision.[5]*1360 Rather, we find that the trial court was correct in ruling that the defendant insurer was entitled to a summary judgment of dismissal by virtue of plaintiff's release of his claim against the United States.
+
+The Stipulation for Compromise Settlement, a certified copy of which was submitted in support of defendant's motion for summary judgment, by its very terms constitutes a release of the United States from any and all liability on the claims for which plaintiff seeks recovery in his state court action. It is important to note that the settlement also constitutes a release of Mrs. Bostick, the government's employee, under 28 U.S.C. § 2672, which provides in pertinent part:
+
+While federal law governs the question of what constitutes a release under this section of the Federal Tort Claims Act, state law is to be applied in determining the effects of such a release. Wright v. United States,
+427 F. Supp. 726
+(D.Del.1977); Robinson v. United States,
+408 F. Supp. 132
+(N.D.Ill.1976).
+
+The question to be resolved by the application of Louisiana law is the effect upon the insurer, defendant here, of plaintiff's release of its insured, Mrs. Bostick. Under the Direct Action Statute, the insurer is liable to the claimant in solido with its insured. Shaw v. New York Fire & Marine Underwriters, Inc., 252 La. 653,
+212 So. 2d 416
+(1968); R.S. 22:655. With regard to the effect which a release of one solidary obligor has upon the liability of another solidary obligor, C.C. 2203 provides in pertinent part:
+
+The compromise settlement executed by plaintiff in connection with his federal court action contains no express reservation of rights against any party. The release of the United States and its employee, defendant's insured and solidary co-obligor, therefore discharged the defendant from liability to plaintiff for any claim arising from this accident.
+
+For the reasons assigned, the judgment appealed from is affirmed. The costs of this appeal are assessed to plaintiff-appellant.
+
+MARCUS, J., concurs.
+
+[*]  Chief Judge Paul B. Landry, Retired, participated in this decision as an Associate Justice Ad Hoc.
+
+[1]  Roy Danzy filed suit individually and as administrator of the estate of his minor son. Jeffrey Danzy reached majority during the pendency of the proceedings and was joined as a party plaintiff. In both the federal and the state courts, the Danzy suit was consolidated with an action brought by MFA Mutual Insurance Company on a subrogation claim arising from its payment of certain of Danzy's medical expenses. Because all plaintiffs concurred in all the actions taken, reference is made to only one plaintiff for purposes of convenience.
+
+[2]  Provisions of the United States Code which are relevant to the Federal Tort Claims action discussed here include the following.
+
+28 U.S.C. § 2674 provides in pertinent part:
+
+"The United States shall be liable, respecting the provisions of this title relating to tort claims, in the same manner and to the same extent as a private individual under like circumstances, but shall not be liable for interest prior to judgment or for punitive damages."
+
+28 U.S.C. § 1346 provides in pertinent part:
+
+"(b) Subject to the provisions of chapter 171 of this title, the district courts, together with the United States District Court for the District of the Canal Zone and the District Court of the Virgin Islands, shall have exclusive jurisdiction of civil actions on claims against the United States, for money damages, accruing on and after January 1, 1945, for injury or loss of property, or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred."
+
+28 U.S.C. § 2672 provides in pertinent part:
+
+"The head of each Federal agency or his designee, in accordance with regulations prescribed by the Attorney General, may consider, ascertain, adjust, determine, compromise, and settle any claim for money damages against the United States for injury or loss of property or personal injury or death caused by the negligent or wrongful act or omission of any employee of the agency while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred: Provided, That any award, compromise, or settlement in excess of $25,000 shall be effected only with the prior written approval of the Attorney General or his designee.
+
+Subject to the provisions of this title relating to civil actions on tort claims against the United States, any such award, compromise, settlement, or determination shall be final and conclusive on all officers of the Government, except when procured by means of fraud.....
+
+The acceptance by the claimant of any such award, compromise, or settlement shall be final and conclusive on the claimant, and shall constitute a complete release of any claim against the United States and against the employee of the government whose act or omission gave rise to the claim, by reason of the same subject matter."
+
+28 U.S.C. § 2679 provides in pertinent part:
+
+"The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property or personal injury or death, resulting from the operation by any employee of the Government of any motor vehicle while acting within the scope of his office or employment, shall hereafter be exclusive of any other civil action or proceeding by reason of the same subject matter against the employee or his estate whose act or omission gave rise to the claim."
+
+[3]  The compromise was effected under the authority of 28 U.S.C. § 2672, supra note 2.
+
+[4]  See especially 28 U.S.C. § 2679, supra note 2.
+
+[5]  We note, however, that the Court of Appeal was apparently incorrect in concluding that the immunity granted by the act is not merely personal to the federal employee. H.R.Rep.No. 297, 87th Cong., 1st Sess. 4 (1961), the report accompanying the bill which was subsequently enacted as 28 U.S.C. § 2679, stated that the bill "would exclude suits against employees in their individual capacities ..." In Gustafson v. Peck,
+216 F. Supp. 370
+, 372-373 (N.D.Iowa 1963), the court found that this section of the act granted an "immunity from personal liability to Federal employees ..." on the basis of the following analysis:
+
+"The remaining question is whether the Congress has now manifested its intent to immunize federal employees from suit eo nomine arising out of their negligent operation of motor vehicles in the scope of their federal employment and now intends that such suits shall be against the United States. Actually, these immunity statutes probably do not completely obliterate the liability of the individual tortfeasor, but at best there is no direct liability against such tortfeasor as long as the United States Government both accepts the responsibility for the tort and declared the tortfeasor immune. See Gardner v. Panama Ry. No.,
+342 U.S. 29
+, 72 S. Ct. 12, 96 L. Ed. 31."
+
+See also Jarrell v. Gordy, 162 So. 2d 577, 585 (La.App.1964), in which Judge Tate, later to become an associate justice of this court, dissenting on other grounds, found that "[t]his immunity granted to the federal employee while on the government work is personal to him.... It is a personal private right of the government employee, granted to him by the national legislature as a matter of statutory right."
+
+This court has long held that where an immunity from suit is merely personal, an insurer is not entitled to plead such immunity as a defense to a suit brought under the Direct Action Statute. Edwards v. Royal Indemnity Co., 182 La. 171, 161 So. 191 (1935); Comment, The Louisiana Direct Action Statute, 22 La.L.Rev. 243 (1961). In Edwards the court made the following observation concerning the intent of the legislature in providing for a direct action against the insurer:
+
+"It is, therefore, our opinion that the Legislature intended to give the insurer the right to plead defenses which it could urge against the insured, but not defenses which are purely personal between the insured and claimant, and in no way growing out of, or connected with, the accident or policy." 182 La. at 181, 161 So.  at 195.
+
+The statutory basis for this doctrine is found in C.C. 2098, which concerns suit against a codebtor in solido, the status occupied by an insurer vis-a-vis its insured, and which provides that the codebtor "can not plead such exceptions as are merely personal to some of the other codebtors."
+
+The following forms of immunity from suit have been found to be merely personal to an insured and therefore unavailable to the insurer: interspousal immunity, Edwards v. Royal Indemnity Co., supra, LeBlanc v. New Amsterdam Cas. Co., 202 La. 857, 13 So. 2d 245 (1943); father-son immunity, Deshotel v. Travelers Indemnity Co., 257 La. 567,
+243 So. 2d 259
+(1971); governmental immunity, Snell v. Stein, 261 La. 358,
+259 So. 2d 876
+(1972); charitable immunity, Lusk v. U. S. Fidelity & Guaranty Co., 199 So. 666 (La.App.Orl.1941); an insane person's incapacity to be liable for his torts, von Dameck v. St. Paul Fire & Marine Ins. Co., 361 So. 2d 283 (La.App.1978). In a case similar to the one before us, to the extent that it necessitated reconciling the immunity granted to shipowners by the Federal Limitation of Liability Act, 46 U.S.C. § 183(a) with the Louisiana Direct Action Statute, the United States Fifth Circuit Court of Appeals found that because the statutory right to limit liability is personal to the shipowner, it does not preclude a direct action against its insurer. Olympic Towing Corp. v. Nebel Towing Co., 419 F.2d 230 (5th Cir. 1969), cert. den. 397 U.S. 989, 90 S. Ct. 1120, 25 L. Ed. 2d 396 (1970).
+
+In holding that the exclusivity provision of the Federal Tort Claims Act bars direct action against the insurer, the Court of Appeal placed great reliance on Smith v. Rivest,
+396 F. Supp. 379
+(E.D.Wis.1975). In that case, the federal employee and his insurer were dismissed as parties defendant to a third party claim (filed by the original defendant in a suit brought by a passenger in the truck driven by the government employee, against the driver of the car with which the truck collided). The appellate court's reliance on this case appears to be erroneous, in light of two salient differences between Smith and the situation before us here. First, in Smith the third party claim was filed against both the federal employee and his insurer, not directly and solely against the insurer, so that the dismissal of the insured necessarily resulted in dismissal of his insurer. Second, the dismissal was granted only after the United States had removed the action from the state court in which it was instituted to the federal district court, a procedure authorized by the Federal Tort Claims Act, and the dismissal was a consequence of the United States' uncontested motion to be substituted for the employee and his insurer, as third party defendant. Thomason v. Sanchez, 539 F.2d 955 (3rd Cir. 1976), is also inapposite because it did not involve a direct action against an insurer.
+
+We also question the Court of Appeal's analogy between the situation presented here and that involved when an insurer defends on the basis of the immunity of its insured, an employer, to a tort action brought by an injured employee. The critical difference between these two situations is that under the Federal Tort Claims Act, the injured party's right and remedy in tort are preserved, but the United States is substituted for the actual tortfeasor. The Workmen's Compensation Act, on the other hand, serves as an absolute bar to any action in tort by an injured employee against any party; his sole right and remedy are provided by the act. An injured employee may not bring a direct action in tort against his employer's insurer because a tort action is unavailable to him. But one injured by the negligence of a federal employee has an action in tort, and the tortfeasor's personal immunity should not bar a direct action against his insurer. See Ruiz v. Clancy, 182 La. 935, 162 So. 734 (1935); Guidry v. Aetna Casualty & Surety Co., 359 So. 2d 637 (La.App. 1978).

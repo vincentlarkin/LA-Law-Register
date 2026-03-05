@@ -1,0 +1,198 @@
+62710
+State v. Davis
+https://law.justia.com/cases/louisiana/supreme-court/1979/375-so-2d-69-1.html
+
+62710
+State v. Davis
+Court: Louisiana Supreme Court
+Release date: 1979-03-05
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1979/375-so-2d-69-1.html
+
+375 So. 2d 69 (1979)
+
+STATE of Louisiana
+v.
+Alton DAVIS.
+
+No. 62710.
+
+Supreme Court of Louisiana.
+
+March 5, 1979.
+
+Dissenting Opinion March 6, 1979.
+
+Concurring Opinion October 10, 1979.
+
+*70 Davis, Thomas & Douglas, Harold Douglas, New Orleans, for defendant-relator.
+
+William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Connick, Dist. Atty., Julie C. LeBlanc, Asst. Dist. Atty., New Orleans, for plaintiff-respondent.
+
+HALL, Justice Ad Hoc.
+
+The primary issue presented in this case is whether the rule requiring the exclusion in criminal trials of evidence obtained as the result of an unreasonable search and seizure in violation of the Fourth Amendment[1] should be extended and applied in a probation revocation hearing. Also presented are issues relating to the adequacy of the probation revocation hearing held in this case.
+
+Alton Davis was charged in separate bills of information with two counts of receiving stolen things in violation of La.R.S. 14:69. After trial by jury, defendant was found guilty as charged. The district attorney thereafter filed an information accusing defendant of previous felony convictions pursuant to La.R.S. 15:529.1 (Habitual Offender Law). On November 12, 1976 the trial judge found defendant to be an habitual offender and sentenced him to serve 20 years at hard labor as to each count; the sentences to run consecutively. The court suspended execution of the sentence and placed defendant on active probation for five years subject to certain terms and conditions imposed by the trial judge.[2]
+
+Several months later defendant was arrested and charged with possession with intent to distribute heroin in violation of La.R.S. 40:966. After his motion to suppress evidence was overruled, defendant was tried by a judge and was found guilty as charged. Defendant was adjudged a multiple offender and, on September 9, 1977, sentenced to serve twenty years at hard labor without benefit of parole, probation, or suspension of sentence. At this sentencing hearing, the state filed a rule to show cause why probation should not be revoked as to defendant's previous convictions and sentences for receiving stolen things. The trial judge, finding that defendant had been convicted of possession with intent to distribute heroin, ordered his probation revoked and ordered defendant to serve the previously suspended sentence: 20 years at hard labor as to each count of receiving stolen property.[3]
+
+Thereafter, in State v. Davis,
+359 So. 2d 986
+(La.1978), this court reversed defendant's conviction for possession with intent to distribute heroin, holding the evidence used against him at trial (fifty tin foil packets of heroin) was the product of an illegal   search and seizure and, therefore, inadmissible.[4] Upon remand, the state dismissed the charges against defendant. The state, however, filed a second rule to show cause why defendant's probation should not be revoked, contending that defendant had violated the terms and conditions of his probation in that, this court's reversal of his conviction notwithstanding, the underlying facts of that occurrence indicated that defendant did have heroin in his possession. On July 19, 1978, after an abbreviated hearing, the trial judge vacated the original revocation of probation grounded upon defendant's conviction, but ordered that the probation be revoked because the facts underlying the second prosecution showed that defendant was in possession of heroin.[5] The sentences of November 12, 1976 were ordered made executory, with credit for time served from July 27, 1977 to July 19, 1978. Defendant's application to this court under our supervisory jurisdiction was granted.[6]
+
+Defendant contends the trial court erred in revoking his probation on the basis of illegally seized evidence. He argues that since illegally obtained evidence must be excluded from criminal proceedings, it would be a denial of his constitutional rights to allow this same evidence to be used in a probation revocation hearing which may also result in loss of liberty for a substantial period of time.
+
+When the court suspends the imposition or execution of sentence and places a defendant on probation, it shall require the defendant to refrain from criminal conduct and it may impose any specific conditions reasonably related to his rehabilitation. La. C.Cr.P. art. 895. The court may, at any time during the probation period, modify, change, or discharge the conditions of probation, or add further conditions authorized by article 895. La.C.Cr.P. art. 896. At any time during probation and suspension of sentence the court may issue a warrant for the arrest of a defendant for violation of any of the conditions of probation, or may issue a summons to appear to answer to a charge of a violation or threatened violation. La.C.Cr.P. art. 899 A. If a probation officer has reasonable cause to believe that a defendant has violated or is about to violate a condition of his probation or that an emergency exists so that awaiting an order of the court would create an undue risk to the public or to the probationer, the probation officer may arrest the defendant without a warrant, or may authorize a peace officer to do so. La.C.Cr.P. art. 899 B. After an arrest or service of a summons pursuant to article 899, the court shall cause the defendant to be brought before it without unnecessary delay for a hearing. La.C. Cr.P. art. 900. The hearing may be informal or summary. Id. If the court decides that the defendant has violated, or was about to violate, a condition of his probation it may: (1) Reprimand and warn the defendant; (2) Order that supervision be intensified; (3) Add additional conditions to the probation; (4) Order that the probation be revoked. Id.
+
+At the revocation hearing, a violation of the conditions of probation may be   shown by establishing a criminal conviction or by actual proof of the commission of a crime, apart from conviction. State v. O'Conner,
+312 So. 2d 645
+(La.1975); See also State v. Harris,
+312 So. 2d 643
+(La.1975). In the first instance, the hearing judge looks to the record of a criminal prosecution, but in the latter he looks to the actual conduct of the defendant that violates the conditions of his probation. State v. O'Conner, supra.
+
+In Gagnon v. Scarpelli,
+411 U.S. 778
+, 93 S. Ct. 1756, 36 L. Ed. 2d 656 (1973), the Supreme Court adapted the minimum requirements of due process that Morrissey v. Brewer,
+408 U.S. 471
+, 92 S. Ct. 2593, 33 L. Ed. 2d 484 (1972), held applicable to parole revocation hearings, and applied them to probation revocation hearings. As established by the Court, these minimum requirements of due process are:
+
+Morrissey and Gagnon both recognized that the revocation decision has two analytically distinct components: the wholly retrospective factual question of whether the probationer has in fact acted in violation of one or more conditions of his parole, and if so, should the probationer be committed to prison or should other steps be taken to protect society and improve chances of rehabilitation. The court in Gagnon further noted the critical differences between criminal trials and probation revocation hearings, among them that formal procedures and rules of evidence are not employed. The court specifically held that: "Probation revocation, like parole revocation, is not a stage of a criminal prosecution, but does result in a loss of liberty." 411 U.S. 782, 93 S. Ct.  at 1159.
+
+The great majority of state and federal courts which have considered the issue have held that the exclusionary rule is not generally applicable in probation revocation hearings and that evidence derived from an unreasonable search and seizure is admissible in such hearings.[7]
+
+The Fourth Amendment does not prescribe a remedy for its violation. Thus, the exclusionary rule was adopted to effectuate the Fourth Amendment right of all   citizens "to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures." Under this rule, evidence obtained in violation of the Fourth Amendment cannot be used in a federal or state criminal trial against the victim of the illegal search or seizure. Mapp v. Ohio,
+367 U.S. 643
+, 81 S. Ct. 1684, 6 L. Ed. 2d 1081 (1961); Weeks v. United States,
+232 U.S. 383
+, 34 S. Ct. 341, 58 L. Ed. 652 (1914).
+
+The primary purpose of the exclusionary rule is to deter unlawful police conduct.[8] The rule is a judicially created remedy designed to safeguard Fourth Amendment rights generally through its deterrent effect, rather than a personal constitutional right of the party aggrieved. It is designed not to redress the injury to the privacy of the search victim but to deter unconstitutional methods of law enforcement. United States v. Calandra, supra, footnote 8. As stated by the Supreme Court in Elkins v. United States,
+364 U.S. 206
+, 80 S. Ct. 1437, 4 L. Ed. 2d 1669 (1960):
+
+It is thus apparent that the rule is not to be imposed in a vacuum or administered mechanically. It should be applied in light of its deterrent effect. United States v. Calandra, supra.
+
+In accordance with this rationale, the Supreme Court has restricted application of the rule to those areas where its remedial objectives are thought most effaciously served. Thus, unconstitutionally seized evidence may be introduced in grand jury proceedings, United States v. Calandra, supra, and it may be introduced to impeach the credibility of a criminal defendant who testifies at trial. Walder v. United States,
+347 U.S. 62
+, 74 S. Ct. 354, 98 L. Ed. 503 (1954). The court has refused to apply the rule to exclude from a federal tax case evidence alleged to have been illegally seized by state officers. United States v. Janis, supra. In Stone v. Powell,
+428 U.S. 465
+, 96 S. Ct. 3037, 49 L. Ed. 2d 1067 (1976), it was held that where the state has provided an opportunity for full and fair litigation of a Fourth Amendment claim, the Constitution does not require that a state prisoner be granted federal habeas corpus relief on the ground that evidence obtained in an unconstitutional search or seizure was introduced at his trial. On the other hand, the rule was extended to a proceeding for forfeiture of an automobile used to violate a criminal law. One 1958 Plymouth Sedan v. Pennsylvania,
+380 U.S. 693
+, 85 S. Ct. 1246, 14 L. Ed. 2d 170 (1965).
+
+United States v. Calandra, supra, provides the analytical framework for determining whether the exclusionary rule should apply in a hearing to determine whether a probationer has violated a condition of his probation. In holding that the exclusionary rule did not apply to grand jury proceedings, the Court weighed "the potential injury to the historic role and functions of the grand jury against the potential benefits of the rule as applied in this context." 414 U.S.  at 349, 94 S. Ct.  at 620.
+
+Thus, we must first determine whether extension of the exclusionary rule would impair the role and functions of this state's probation system and the probation revocation hearing.
+
+The primary purpose of probation is to promote the rehabilitation of the criminal by allowing him to reintegrate into society as a constructive individual, without being confined for the term of a prison sentence. Protection of society is also a factor in probation and probation revocation. Morrissey v. Brewer and Gagnon v. Scarpelli, supra. Because violations of conditions of probation may indicate that the probationer is not ready or is incapable of   rehabilitation, it is extremely important that all reliable evidence relevant to probationer's conduct be available during probation revocation proceedings. To apply the exclusionary rule to probation revocation hearings would, therefore, inevitably frustrate the remedial purposes of our probation system by impeding the court's ability to assess a probationer's conduct. See United States v. Winsett; United States v. Hill; United States ex rel. Lombardino v. Heyd; State v. Sears; all supra.
+
+Next we must determine whether extension of the exclusionary rule to probation revocation hearings would further the goal of deterring unlawful methods of law enforcement sufficiently to outweigh the need for use of the evidence thus secured to promote the enforcement of a rational probation system.
+
+General application of the exclusionary rule to probation revocation hearings would achieve only a speculative deterrent effect. Whatever deterrence of police misconduct results from the exclusion of illegally seized evidence from criminal trials, it is unrealistic to assume that application of the rule to probation revocation proceedings would significantly further that goal. United States v. Winsett, supra; United States v. Hill, supra; see also United States ex rel. Sperling v. Fitzpatrick, supra.
+
+The speculative general deterrent effect of extending the exclusionary rule to probation revocation hearings does not justify stifling the search for truth and the exclusion of admittedly reliable and relevant evidence from consideration by the court charged with evaluating and administering the probation process. The effectuation of the Fourth Amendment rights does not require extension of the exclusionary rule to this limited, special proceeding. Exclusion of such evidence from a prosecution of a new offense should ordinarily be a sufficient deterrent to police officers routinely engaged in competitively ferreting out crime.[9] Further extension of the exclusionary rule to probation revocation hearing would ordinarily have little or no additional deterrent effect on police conduct generally in relation to the public generally. Nor would such extension of the exclusionary rule amount to a sanction of or participation by the court in the illegal conduct. Judicial integritycondemnation of the illegal conductis satisfied by prohibiting the use of such evidence in a criminal prosecution arising out of the illegal conduct.
+
+It is, however, recognized that an extension of the exclusionary rule to probation revocation hearings might to some extent deter illegal police searches consciously and purposely directed toward probationers. Stated conversely, knowledge that illegally seized evidence can be used in probation revocation proceedings might in some instances provide incentive to law enforcement officers to purposely disregard the constitutional rights of probationers. These possibilities do not warrant general applicability of the exclusionary rule in probation revocation hearings. Still, the court does not and will not condone blatant violations of probationers' constitutional rights. In appropriate cases, where it is demonstrated that an illegal search and seizure was conducted in bad faith and was consciously and purposely directed at a probationer with knowledge of his status as such, the court may and should exercise its discretion to exclude and not consider evidence so obtained.
+
+Several of the courts which have held the exclusionary rule inapplicable in probation revocation hearings have held or indicated that such evidence would or might be excluded under some circumstances. Illustrations of such circumstances are: "searches which are consciously directed toward or intended to harass probationers, . . . or which shock the conscience of the court", State v. Spratt; "proof of widespread police harassment of . . . [probationers]," State v. Caron; "gross official misconduct. . . such as to shock the conscience of the court", People v. Atencio; "use at the revocation hearing was the intended   use at the time of the issuance of the [improper] warrant", State v. Thorsness; "police misconduct which shocks the conscience" and if "the lawless arrest and search or seizure is carried out by enforcement personnel with knowledge or reason to believe the suspect was a probationer", State v. Sears; "where, at the time of arrest and search, the police had . . . knowledge [or] reason to believe that the suspect was a probationer", U. S. v. Winsett; "instances of [police] harassment," U. S. ex rel. Sperling v. Fitzpatrick; and "harassment by the police"; U. S. v. Farmer.
+
+Stone v. Powell, supra, dealing with the right to counsel in probation revocation hearings, also provides precedent for employing a case-by-case approach to the application in such hearings of rules relating to constitutional rights. The approach is also consistent with the wide discretion vested in the court in probation matters. See State v. Lassai,
+366 So. 2d 1389
+(La. 1978) and State ex rel. Robertson v. Maggio,
+341 So. 2d 366
+(La.1976). The approach will maintain some deterrent effect as may be perceived necessary from time to time and will maintain judicial integrity.
+
+Accordingly, it is the holding of this court that the rule excluding evidence resulting from an unreasonable search and seizure is not generally or ordinarily applicable in a probation revocation hearing. However, when it is established that the illegal search and seizure was conducted by police officers in bad faith and was consciously and purposely directed at a probationer by officers with knowledge of the probationer's status, the court may and should exercise its discretion to exclude and not consider such evidence.
+
+The state concedes in brief that "no formal hearing" was held when defendant's probation was revoked on July 19, 1978. The transcript of the abbreviated hearing discloses that the state's rule to revoke probation was filed on the same morning the hearing was held and that counsel for defendant did not receive a copy of the rule until that same morning. The defendant did not have the opportunity to be heard in person or to present witnesses, nor did he have the opportunity to confront and cross-examine witnesses. The minimum due process requirements established by Morrissey v. Brewer; Gagnon v. Scarpelli; State v. Harris and State v. O'Conner, all supra, were not met.
+
+Since the formal rules of evidence do not apply in revocation hearings it was proper for the judge to consider the transcript of the evidence heard by him in the defendant's trial on the charge of possession with intent to distribute heroin. However, defendant should have the opportunity to confront and cross-examine the police officers who testified in that case, at least as to matters which were not at issue in that case and are at issue in the revocation hearing. Particularly, in view of our holding on the applicability of the exclusionary rule, defendant should have the opportunity to confront and cross-examine the state's witnesses, and to offer evidence, concerning the conduct of the officers in making the search and seizure.
+
+Defendant should have the opportunity of offering evidence of any mitigating circumstances surrounding the criminal act which is the basis for the proposed revocation and any other evidence relevant to the court's sound exercise of discretion under La.C. Cr.P. art. 900 on the matter of revocation. State v. Lassai, supra, and State ex rel. Robertson v. Maggio, supra.
+
+Accordingly, the order revoking defendant's probation and ordering the sentences made executory must be set aside and the case remanded for further proceedings.
+
+For the reasons assigned, the order of July 19, 1978 revoking the probation of defendant Alton Davis and ordering the sentences of November 12, 1978 made executory is reversed and set aside. The case is remanded to the Criminal District Court for the Parish of Orleans for further proceedings   according to law and consistent with the views expressed in this opinion.
+
+Reversed and remanded.
+
+DIXON, J., concurs with reasons.
+
+DENNIS, J., concurs with reasons.
+
+BLANCHE, J., dissents with reasons.
+
+DIXON, Justice (concurring).
+
+I respectfully concur in the result only, believing evidence unconstitutionally seized by police should be excluded from a revocation hearing.
+
+DENNIS, Justice, concurring.
+
+I respectfully concur in the decree reversing the order revoking the probation of the defendant and remanding the case for further proceedings. However, I am unable to join in the majority opinion because it does not consider whether our constitution gives the defendant standing to assert the illegality of a search or seizure in situations which would not be recognized by the United States Constitution.
+
+La.Const. Art I, § 5, in pertinent part, provides:
+
+" * * * Any person adversely affected by a search or seizure conducted in violation of this Section shall have standing to raise its illegality in the appropriate court." [emphasis added]
+
+I am not prepared at this time to hold that our constitution would allow this type of evidence at probation revocation hearings.
+
+BLANCHE, Justice, dissenting.
+
+I respectfully dissent.
+
+First, I agree that evidence unconstitutionally seized may be used in a probation hearing, but I dissent from the granting of a remand for the following reason.
+
+The trial judge who revoked defendant's probation heard the evidence concerning defendant's criminal activity in a trial which resulted in his conviction and which this Court later reversed on the grounds that certain evidence, which was admitted, was unconstitutionally seized.
+
+It seems to this writer that the usual requirements of due process in probation hearings, i. e., notice in writing, et cetera, are not applicable here. The judge and the defendant both attended the trial where evidence of his criminal activity was adduced. There he was accorded every due process consideration as dictated by the circumstances of the case. I regard it as a waste of time to give him the same due process in a probation hearing before a judge who had already heard it all.
+
+[1]  Reference in this opinion to the Fourth Amendment to the United States Constitution includes reference to this state's counterpart, Art. 1, Sec. 5, La.Const.1974.
+
+[2]  Special conditions imposed upon defendant's probation were that he apply for and take part in the TASC Program in New Orleans and that, while in the TASC Program, he involve himself in juvenile rehabilitation.
+
+[3]  The trial court ordered that the two 20 year sentences for receiving stolen things were to run consecutively with one another and concurrently with the twenty year sentence imposed for his conviction of possession with intent to distribute heroin.
+
+[4]  Two police officers on patrol observed defendant riding a bicycle and holding a hand-rolled cigarette cupped in the palm of his hand. On that basis they decided that defendant might be smoking marijuana. By the time they approached the defendant, he had discarded the cigarette. Though they were unable to locate the cigarette, they stopped the defendant, questioned him and arrested him when he threatened one of the officers. The police then conducted a full search of the defendant and discovered fifty papers of heroin. This court held that the officers did not have reasonable grounds to make the initial stop. The record in that case does not indicate any knowledge on the part of the police officers that defendant was on probation, but such knowledge was not an issue in the case.
+
+[5]  The trial judge at the revocation hearing was the same judge who presided over defendant's trial for the heroin offense. At the revocation hearing, the trial judge ordered the transcript of the trial on the heroin charge filed into the record.
+
+[6]  364 So. 2d 602 (La. 1978).
+
+[7]  United States v. Vandermark, 522 F.2d 1019 (9th Cir. 1975); United States v. Winsett, 518 F.2d 51 (9th Cir. 1975); United States v. Farmer, 512 F.2d 160 (6th Cir.), cert. denied, 423 U.S. 987, 96 S. Ct. 397, 46 L. Ed. 2d 305 (1975); United States v. Brown, 488 F.2d 94 (5th Cir. 1973); United States v. Hill, 447 F.2d 817 (7th Cir. 1971); United States ex rel. Sperling v. Fitzpatrick, 426 F.2d 1161 (2d Cir. 1970); United States ex rel. Lombardino v. Heyd,
+318 F. Supp. 648
+(1970 D.C.La.); affd. 438 F.2d 1027 (5th Cir. 1971) cert. denied 404 U.S. 880, 92 S. Ct. 195, 30 L. Ed. 2d 160 (1971); State v. Sears,
+553 P.2d 907
+(Alaska 1976); In re Martinez,
+1 Cal. 3d 641
+, 83 Cal. Rptr. 382, 463 P.2d 734 (1970) cert. denied 400 U.S. 851, 91 S. Ct. 71, 27 L. Ed. 2d 88 (1970); People v. Atencio, 186 Colo. 76,
+525 P.2d 461
+(1974); Bernhardt v. State,
+288 So. 2d 490
+(Fla.1974); People v. Dowery, 20 Ill.App.3d 738, 312 N.E.2d 682 (1974) affd.
+62 Ill. 2d 200
+,
+340 N.E.2d 529
+(1975); Dulin v. State, Ind.App.,
+346 N.E.2d 746
+(1976); State v. Caron,
+334 A.2d 495
+(Me. 1975); State v. Thorsness, 165 Mont. 321, 528 P.2d 692 (1974); Stone v. Shea, 113 N.H. 174, 304 A.2d 647 (1973); State v. Spratt,
+386 A.2d 1094
+(R.I. 1978); State v. Kuhn, 7 Wash. App. 190, 499 P.2d 49 (1972) affd.
+81 Wash. 2d 648
+,
+503 P.2d 1061
+(1972). Contra: United States v. Workman, 585 F.2d 1205 (4th Cir. 1978); Amiss v. State, 135 Ga.App. 784, 219 S.E.2d 28 (1975); Michaud v. State,
+505 P.2d 1399
+(Ok.Cr.1973); Rushing v. State,
+500 S.W.2d 667
+(Tex.Cr.App. 1973). See also 77 A.L.R.3d 636 and 30 A.L.R. Fed. 824.
+
+[8]  "Judicial integrity"  the concept that courts will not encourage, participate in or condone illegal acts  is a relevant, albeit subordinate, purpose. United States v. Calandra,
+414 U.S. 338
+, 94 S. Ct. 613, 38 L. Ed. 2d 561 (1974) and United States v. Janis,
+428 U.S. 433
+, 96 S. Ct. 3021, 49 L. Ed. 2d 1046 (1976).
+
+[9]  It should be noted that this opinion does not deal with a search and seizure made by a probation officer acting in the course of his duties as such.

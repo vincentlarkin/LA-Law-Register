@@ -1,0 +1,109 @@
+53091
+McNeal v. State Farm Mutual Automobile Ins. Co.
+https://law.justia.com/cases/louisiana/supreme-court/1973/278-so-2d-108-1.html
+
+53091
+McNeal v. State Farm Mutual Automobile Ins. Co.
+Court: Louisiana Supreme Court
+Release date: 1973-05-07
+Author: SANDERS, Chief Justice.
+Source: Justia Louisiana Supreme Court archive
+Source case page: https://law.justia.com/cases/louisiana/supreme-court/1973/278-so-2d-108-1.html
+
+278 So. 2d 108 (1973)
+
+Mrs. Kathryn McNEAL, Individually and as tutrix of her minor child, Myrna McNeal
+v.
+STATE FARM MUTUAL AUTOMOBILE INSURANCE CO.
+
+No. 53091.
+
+Supreme Court of Louisiana.
+
+May 7, 1973.
+
+*109 Michael M. Wahlder, Alexandria, Cecil Gill Smith, Jr., Natchez, Miss., for plaintiff-applicant.
+
+Gist, Methvin & Trimble, DeWitt T. Methvin, Jr., Alexandria, for defendant-respondent.
+
+SANDERS, Chief Justice.
+
+This delictual action raises questions concerning res judicata and conflict of laws.
+
+On August 17, 1969, Mr. and Mrs. Vester L. McNeal, with their daughter, Myrna, allegedly residents of Pineville, Louisiana, were returning to their home from an automobile trip to Tennessee. While passing through Mississippi, Mr. McNeal lost control of his vehicle and it left the highway. All three occupants were injured. Mr. McNeal subsequently died.
+
+On behalf of herself and her minor daughter, Mrs. McNeal brought the present suit in Louisiana against State Farm Mutual Automobile Insurance Company, her husband's insurer, for damages. During its pendency, however, she brought a second suit against the administrator of her husband's estate and State Farm Mutual in Mississippi.
+
+The Louisiana case was held in abeyance pending a decision by the Mississippi courts. Ultimately, the Supreme Court of Mississippi affirmed the dismissal of the Mississippi suit. It dismissed the plaintiff's suit against her husband's estate on the ground that the wife and minor daughter had "no standing to maintain a civil suit" against her husband's estate because of the family immunity doctrine.
+
+It dismissed the suit against State Farm Mutual, the husband's insurer, on the ground that the Louisiana Direct Action Statute (LSA-R.S. 22:655) was inapplicable and no direct action against an insurer was permitted under Mississippi law. See McNeal v. Administrator of Estate of McNeal, Miss.,
+254 So. 2d 521
+(1971).
+
+Following the Mississippi decision, State Farm Mutual filed an exception of res judicata in the Louisiana suit. The district   court maintained the exception and dismissed the suit. The Court of Appeal affirmed, being also of the opinion that the Mississippi law of family immunity applied to bar recovery. La.App., 269 So. 2d 499. On plaintiff's application, we granted certiorari to review the judgment. See La., 271 So. 2d 258. We now reverse.
+
+The doctrine of res judicata is stricti juris, and any doubt as to its application must be resolved in favor of maintaining the action. Quinette v. Delhommer, 247 La. 1121,
+176 So. 2d 399
+(1965); West v. His Creditors, 3 La.Ann. 529 (1848).
+
+Under the Full Faith and Credit Clause of the United States Constitution, a judgment that is not on the merits is no bar to later proceedings on the same cause of action. U.S.Const. Art. IV, § 1; Angel v. Bullington,
+330 U.S. 183
+, 67 S. Ct. 657, 91 L. Ed. 832 (1946); Laroussini v. Werlein, 50 La.Ann. 637, 23 So. 467 (1898); Lerner v. Bischoff, La.App., 193 So. 236 (1940); 47 Am.Jur.2d, Judgments, § 1235, p. 237; Leflar, The Law of Conflict of Laws § 73, p. 138 (1959); 15 Tul.L.Rev. 312-314 (1941).
+
+Although the Mississippi judgment dismissed the suit against State Farm Mutual, the insurer, it did so on the technical ground that the absence of a direct action statute and the family immunity doctrine barred the suit in Mississippi. The judgment did not reach the merits of the case. Hence, as to the present suit in Louisiana, it is not res judicata.
+
+The Court of Appeal was also in error in holding that the Mississippi law of family immunity applied to bar recovery in this Louisiana suit. In Jagers v. Royal Indmenity Co., La.,
+276 So. 2d 309
+(1973), we recently repudiated the iron rule of the law of the place of the accident. We held that, because Louisiana had the only recognizable interest, its law of intra-family liability would apply to an out-of-state automobile accident when the plaintiff was domiciled in Louisiana, the insured was domiciled in Louisiana, the motor vehicle was registered in Louisiana, and the insurance policy was issued in Louisiana.
+
+The present suit was dismissed on an exception. No evidence of the pertinent facts appears in the record.[1] Hence, the decision of the Court of Appeal, holding the Mississippi law applicable was premature.
+
+For the reasons assigned, the judgment of the Court of Appeal, affirming the judgment of the district court, is reversed and set aside and the case is remanded to the district court for further proceedings consistent with the views herein expressed and according to law. All costs in this Court and the Court of Appeal are assessed against the defendant; all other costs shall await the outcome of the suit.
+
+DIXON, J., concurs with written reasons.
+
+SUMMERS, J., dissents for the reasons assigned.
+
+DIXON, Justice (concurring).
+
+I concur.
+
+This is a suit by a Louisiana mother, individually and as tutrix, against the Louisiana insurer of the Louisiana husband and father, the driver in a one-car accident in Mississippi. The judgment dismissing plaintiff's suit states that it was rendered as the result of sustaining a motion for summary judgment and a plea of res judicata.
+
+The plea of res judicata was based on litigation in Mississippi, undertaken by the plaintiff while the instant suit was pending in Louisiana. The plaintiff, in an apparent effort to obtain a favorable ruling in the Mississippi court permitting intrafamily tort suits, brought suit there against the administrator of the estate of the deceased husband and father and against his insurer. The Mississippi Supreme Court,
+254 So. 2d 521
+held that the wife and child "had no standing to maintain a civil suit in tort   against the husband and father, if living, or his estate, if deceased, in the courts of Mississippi." In passing, the Mississippi Supreme Court stated that the law of the forum would govern "in conflicts of law with foreign states."
+
+The exception of res judicata should have been overruled because the Mississippi court only determined that, in Mississippi, the plaintiff "had no standing to maintain a civil suit in tort ..." Res judicata applies only to matters put at issue by the pleadings and actually decided by the court. Res Judicata"Matters Which Might Have Been Pleaded," 2 La.L.Rev. 491, 505, n. 60 (1940).
+
+The Court of Appeal opinion (269 So.2d 499) seemed to hold that Johnson v. St. Paul Mercury Insurance Company, 256 La. 289,
+236 So. 2d 216
+, required that Louisiana courts follow the holding of the Mississippi court. The Johnson case was overruled in Jagers v. Royal Indemnity Company, La.,
+276 So. 2d 309
+, on the docket of this court, decided March 26, 1973.
+
+Therefore, the plea of res judicata and the motion for summary judgment should be overruled and the case remanded to the district court for further proceedings.
+
+SUMMERS, Justice (dissenting).
+
+In my view the Mississippi Supreme Court decided that the wife and unemancipated daughter of the deceased Vester Lloyd McNeal had no standing to maintain a civil suit in tort against the husband and father, if living, or his estate if deceased, in the courts of Mississippi, and the fact that the husband had liability insurance did not alter the matter. In effect, the Mississippi Supreme Court held that the law of Mississippi would not permit recovery under the facts of the case most favorable to the complainants as alleged in their complaint. For our purposes, the ruling was similar to a ruling in Louisiana on an exception of no cause of action. As such the ruling was an adjudication of the cause on its merits, on the facts alleged and the law applicable.
+
+In Angel v. Burlington,
+330 U.S. 183
+, 67 S. Ct. 657, 91 L. Ed. 832 (1946), to the contention that the North Carolina court did not adjudicate the "merits" the Supreme Court of the United States observed:
+
+In Louisiana the doctrine of res adjudicata is announced by our Civil Code Article 2286 in these terms:
+
+*112 Our cases have consistently decided that in factual situations like the one at bar, the first suit bars the second. In Consolidated Association of Planters of Louisiana v. Mason, 23 La.Ann. 618 (1871), plaintiff filed suit on a note and mortgage, which was met by an exception that the plaintiff bank had been declared by law forfeited and without authority to sue or stand in judgment. It was further urged that the immovable had never been described in the act of mortgage attached to plaintiff's petition. Judgment was rendered on the exception dismissing plaintiff's suit. Subsequently another suit was filed by plaintiff on the same cause of action against the same defendants. The new suit was dismissed with this holding: "This was a judgment in favor of defendants, and though it dismissed the suit, it was not a nonsuit. It decided that the pretensions of the plaintiffs were illegal, null and void." See also Succession of Bongiovanni, 183 So. 570 (La.App.1938).
+
+The issue, whether sustaining an exception of no cause of action will serve as res adjudicata on another suit between the same parties, on the same subject matter, has been squarely adjudicated in Laenger v. Laenger, 138 La. 532, 70 So. 501 (1916). There the court said, "... a judgment sustaining an exception of no right of action, aimed at the merits of the plaintiff's demand, and assuming the case to be stated completely in the petition, is a basis for the plea of res judicata, the same as if the judgment had been rendered on evidence in the case." See also Williams v. American Employers Ins. Co., 10 So. 2d 516 (La.App. 1942).
+
+Other cases are to the same effect. It has been said that it matters not in what form of proceeding the question is presented, whether by answer or exception to the petition, when once decided, it is res judicata between the parties to that proceeding, and it is a complete bar to another demand for the same thing on the same cause of action. McNeely v. Hyde, 46 La.Ann. 1083, 15 So. 167 (1894); Tutorship of Scarborough Minors, 44 La.Ann. 288, 10 So. 858 (1892); Broussard v. Broussard, 43 La. Ann. 921, 9 So. 910 (1891); Heroman v. Louisiana Institute of Deaf and Dumb, 34 La.Ann. 805 (1882); Plicque & LeBeau v. Perret, 19 La. 318 (1841).
+
+On the basis of our decisions and decisions of the United States Supreme Court, I am convinced that the Full Faith and Credit Clause of the United States Constitution has been violated by the majority decision. U.S.Const. art. IV, § 1. The Mississippi judgment was not rendered on a "technical ground" as the majority finds. In my view the judgment of the Mississippi Supreme Court declared the law of Mississippi does not permit recovery on the facts fully alleged by the complainants, plaintiffs here. In doing so the judgment became res judicata to all other suits, wherever filed, by these same parties, on the same subject matter. La. Civil Code art. 2286.
+
+The identical suit filed in Louisiana cannot stand.
+
+I respectfully dissent.
+
+[1]  In its answer, State Farm denies that Vester L. McNeal was a resident of Pineville, Rapides Parish, Louisiana at the time of the accident.
