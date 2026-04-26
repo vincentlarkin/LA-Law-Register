@@ -2,6 +2,11 @@
 
 ## Start Here
 
+Prerequisites:
+
+- Python with the dependencies from `requirements.txt`
+- A normal installed .NET SDK available as `dotnet` on PATH
+
 Use the compendium menu instead of remembering script flags:
 
 ```powershell
@@ -107,13 +112,13 @@ Direct commands, if you do want them for troubleshooting:
 $env:BAYOULEX_DATASET_PATH=(Resolve-Path data\bayoulex-content.sqlite).Path
 $env:BAYOULEX_OFFLINE_ROOT=(Resolve-Path data\offline).Path
 $env:BAYOULEX_PUBLIC_BASE_URL='http://127.0.0.1:5087/bayoulex/v1'
-& "$env:USERPROFILE\.dotnet-sdk-10\dotnet.exe" run --project src\BayouLex.Api\BayouLex.Api.csproj --urls http://127.0.0.1:5087
+dotnet run --project src\BayouLex.Api\BayouLex.Api.csproj --urls http://127.0.0.1:5087
 ```
 
 Then, in another terminal:
 
 ```powershell
-& "$env:USERPROFILE\.dotnet-sdk-10\dotnet.exe" run --project src\BayouLex.Client.Windows\BayouLex.Client.Windows.csproj
+dotnet run --project src\BayouLex.Client.Windows\BayouLex.Client.Windows.csproj
 ```
 
 ## What Goes On The NAS

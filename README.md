@@ -28,6 +28,7 @@ python -m pip install -r requirements.txt
 Notes:
 - Uses Playwright with installed Edge (`msedge`).
 - PDF page-number scan prefers `pymupdf` and falls back to `pypdf`.
+- The API and Windows client require a normal installed .NET SDK available as `dotnet` on PATH.
 
 ## Simple Compendium Menu
 
