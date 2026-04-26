@@ -35,13 +35,16 @@ def _doc_id_from_entry(entry: dict[str, object]) -> str:
     return ""
 
 
-def _load_doc_text(meta_json_path: Path, fallback_txt_path: Path) -> str:
+def _load_doc_meta_and_text(meta_json_path: Path, fallback_txt_path: Path) -> tuple[dict[str, object], str]:
+    meta: dict[str, object] = {}
     if meta_json_path.exists():
         try:
-            meta = json.loads(meta_json_path.read_text(encoding="utf-8"))
-            txt = meta.get("doc_text")
-            if isinstance(txt, str) and txt.strip():
-                return txt
+            raw_meta = json.loads(meta_json_path.read_text(encoding="utf-8"))
+            if isinstance(raw_meta, dict):
+                meta = raw_meta
+                txt = meta.get("doc_text")
+                if isinstance(txt, str) and txt.strip():
+                    return meta, txt
         except Exception:
             pass
 
@@ -55,10 +58,14 @@ def _load_doc_text(meta_json_path: Path, fallback_txt_path: Path) -> str:
         # body...
         parts = raw.split("\n\n", 1)
         if len(parts) == 2:
-            return parts[1].strip()
-        return raw.strip()
+            return meta, parts[1].strip()
+        return meta, raw.strip()
 
-    return ""
+    return meta, ""
+
+
+def _load_doc_text(meta_json_path: Path, fallback_txt_path: Path) -> str:
+    return _load_doc_meta_and_text(meta_json_path, fallback_txt_path)[1]
 
 
 def _cleanup_temp_db(tmp_db_path: Path) -> None:
@@ -74,11 +81,26 @@ def _cleanup_temp_db(tmp_db_path: Path) -> None:
             pass
 
 
+def _find_bundle_paths(out_dir: Path) -> list[Path]:
+    bundle_paths: list[Path] = []
+    for root, dirs, files in os.walk(out_dir):
+        dirs[:] = [
+            d
+            for d in dirs
+            if d not in {"sections", "__pycache__"} and not d.startswith(".") and not d.endswith(".building")
+        ]
+        if "bundle.json" in files:
+            bundle_paths.append(Path(root) / "bundle.json")
+    return sorted(bundle_paths)
+
+
 def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
     con = sqlite3.connect(str(db_path))
     try:
         con.execute("PRAGMA journal_mode=WAL;")
         con.execute("PRAGMA synchronous=NORMAL;")
+        con.execute("PRAGMA temp_store=MEMORY;")
+        con.execute("PRAGMA cache_size=-200000;")
 
         # Store metadata as UNINDEXED; index only citation/title/text.
         con.execute(
@@ -87,6 +109,10 @@ def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
               doc_id UNINDEXED,
               category UNINDEXED,
               bundle UNINDEXED,
+              session_id UNINDEXED,
+              chamber UNINDEXED,
+              status_group UNINDEXED,
+              status_label UNINDEXED,
               citation,
               title,
               text,
@@ -98,7 +124,7 @@ def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
             """
         )
 
-        bundle_paths = sorted(out_dir.rglob("bundle.json"))
+        bundle_paths = _find_bundle_paths(out_dir)
         if not bundle_paths:
             print("[warn] No bundle.json files found under out/. Run the downloader first.", file=sys.stderr)
             return 0
@@ -119,30 +145,60 @@ def _build_index_into_db(out_dir: Path, db_path: Path) -> int:
                         continue
                     meta_path = bundle_dir / "sections" / f"{doc_id}.json"
                     txt_path = bundle_dir / "sections" / f"{doc_id}.txt"
-                    text = _load_doc_text(meta_path, txt_path)
+                    meta, text = _load_doc_meta_and_text(meta_path, txt_path)
                     if not text:
                         continue
                     local_file = ""
+                    session_id = ""
+                    chamber = ""
+                    status_group = ""
+                    status_label = ""
                     citation = ent.get("citation") or ""
                     title = ent.get("title") or ""
-                    if meta_path.exists():
-                        try:
-                            meta = json.loads(meta_path.read_text(encoding="utf-8"))
-                            raw_citation = meta.get("citation")
-                            if isinstance(raw_citation, str) and raw_citation.strip():
-                                citation = raw_citation.strip()
-                            raw_title = meta.get("title")
-                            if isinstance(raw_title, str) and raw_title.strip():
-                                title = raw_title.strip()
-                            raw_local_file = meta.get("local_file")
-                            if isinstance(raw_local_file, str):
-                                local_file = raw_local_file.strip()
-                        except Exception:
-                            local_file = ""
+                    raw_citation = meta.get("citation")
+                    if isinstance(raw_citation, str) and raw_citation.strip():
+                        citation = raw_citation.strip()
+                    raw_title = meta.get("title")
+                    if isinstance(raw_title, str) and raw_title.strip():
+                        title = raw_title.strip()
+                    raw_local_file = meta.get("local_file")
+                    if isinstance(raw_local_file, str):
+                        local_file = raw_local_file.strip()
+                    raw_session_id = meta.get("session_name") or meta.get("session_id")
+                    if isinstance(raw_session_id, str):
+                        session_id = raw_session_id.strip()
+                    raw_chamber = meta.get("chamber_label") or meta.get("chamber")
+                    if isinstance(raw_chamber, str):
+                        chamber = raw_chamber.strip()
+                    raw_status_group = meta.get("bill_status_group")
+                    if isinstance(raw_status_group, str):
+                        status_group = raw_status_group.strip()
+                    raw_status_label = meta.get("bill_status_label")
+                    if isinstance(raw_status_label, str):
+                        status_label = raw_status_label.strip()
 
                     con.execute(
-                        "INSERT INTO docs_fts(doc_id, category, bundle, citation, title, text, url, local_file) VALUES (?,?,?,?,?,?,?,?)",
-                        (doc_id, category, bundle_name, citation, title, text, url, local_file),
+                        """
+                        INSERT INTO docs_fts(
+                          doc_id, category, bundle, session_id, chamber, status_group, status_label,
+                          citation, title, text, url, local_file
+                        )
+                        VALUES (?,?,?,?,?,?,?,?,?,?,?,?)
+                        """,
+                        (
+                            doc_id,
+                            category,
+                            bundle_name,
+                            session_id,
+                            chamber,
+                            status_group,
+                            status_label,
+                            citation,
+                            title,
+                            text,
+                            url,
+                            local_file,
+                        ),
                     )
                     total += 1
 
@@ -167,7 +223,7 @@ def main(argv: list[str] | None = None) -> int:
     if not out_dir.exists():
         raise SystemExit(f"Out dir not found: {out_dir}")
 
-    bundle_paths = sorted(out_dir.rglob("bundle.json"))
+    bundle_paths = _find_bundle_paths(out_dir)
     if not bundle_paths:
         print("[warn] No bundle.json files found under out/. Run the downloader first.", file=sys.stderr)
         return 1

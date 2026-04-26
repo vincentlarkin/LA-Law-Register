@@ -103,6 +103,21 @@ def _snippet_for_regex(text: str, match: re.Match[str], pad_left: int = 90, pad_
     return chunk
 
 
+def _bill_status_color(category: str, status_group: str = "", status_label: str = "", bundle: str = "") -> QColor | None:
+    if "bill" not in (category or "").lower():
+        return None
+    lowered = " ".join([status_group or "", status_label or "", bundle or ""]).lower()
+    if "law" in lowered or "passed into law" in lowered:
+        return QColor("#d8f3df")
+    if "vetoed" in lowered:
+        return QColor("#f8d7da")
+    if "still in process" in lowered or "pending" in lowered:
+        return QColor("#fffdf8")
+    if "failed" in lowered or "final disposition" in lowered:
+        return QColor("#eceff1")
+    return None
+
+
 def _looks_like_advanced_fts_query(query: str) -> bool:
     # If user includes explicit FTS syntax/operators, do not rewrite.
     if re.search(r'["*():{}]', query):
@@ -164,11 +179,13 @@ def _run_search(filters: SearchFilters, con: sqlite3.Connection | None = None) -
               doc_id,
               category,
               bundle,
+              status_group,
+              status_label,
               citation,
               title,
               url,
               local_file,
-              snippet(docs_fts, 5, '[', ']', ' ... ', 12) AS snippet
+              snippet(docs_fts, 9, '[', ']', ' ... ', 12) AS snippet
             FROM docs_fts
             WHERE docs_fts MATCH ? {where_sql}
             ORDER BY bm25(docs_fts)
@@ -184,6 +201,8 @@ def _run_search(filters: SearchFilters, con: sqlite3.Connection | None = None) -
                         "title": r["title"] or "",
                         "category": r["category"] or "",
                         "bundle": r["bundle"] or "",
+                        "status_group": r["status_group"] or "",
+                        "status_label": r["status_label"] or "",
                         "url": r["url"] or "",
                         "local_file": r["local_file"] or "",
                         "snippet": (r["snippet"] or "").strip(),
@@ -199,6 +218,8 @@ def _run_search(filters: SearchFilters, con: sqlite3.Connection | None = None) -
               doc_id,
               category,
               bundle,
+              status_group,
+              status_label,
               citation,
               title,
               url,
@@ -235,6 +256,8 @@ def _run_search(filters: SearchFilters, con: sqlite3.Connection | None = None) -
                         "title": r["title"] or "",
                         "category": r["category"] or "",
                         "bundle": r["bundle"] or "",
+                        "status_group": r["status_group"] or "",
+                        "status_label": r["status_label"] or "",
                         "url": r["url"] or "",
                         "local_file": r["local_file"] or "",
                         "snippet": snippet,
@@ -306,7 +329,8 @@ class InfoDialog(QDialog):
             <p>
               Indexed sources in this build can include Louisiana codes and rules from the
               Louisiana Legislature, the Louisiana Constitution, and Louisiana Supreme Court
-              decisions from the official Louisiana Supreme Court opinions archive.
+              decisions from the official Louisiana Supreme Court opinions archive, plus
+              historical legislative bills from the Louisiana Legislature session records.
             </p>
             <p>
               Search tips:
@@ -314,7 +338,7 @@ class InfoDialog(QDialog):
             <ul>
               <li>Regular search uses fast prefix matching, so <code>mal</code> can find <code>malfeasance</code>.</li>
               <li>Regex mode scans full local text and works best for narrow patterns.</li>
-              <li>Use the source preset buttons to jump between constitution, case law, or all indexed sources.</li>
+              <li>Use the source preset buttons to jump between constitution, case law, bills, or all indexed sources.</li>
             </ul>
             <p>
               Refresh workflow:
@@ -322,6 +346,7 @@ class InfoDialog(QDialog):
             <ul>
               <li><code>python scripts\\download_louisiana_laws.py --categories louisiana-constitution</code></li>
               <li><code>python scripts\\download_louisiana_case_law.py</code></li>
+              <li><code>python scripts\\download_louisiana_bills.py --session 25RS</code></li>
               <li><code>python scripts\\build_search_index.py --rebuild</code></li>
             </ul>
             <p>
@@ -343,8 +368,8 @@ class InfoDialog(QDialog):
 
 
 class SearchWindow(QMainWindow):
-    COLUMNS = ["Citation", "Title", "Category", "Bundle", "Snippet", "URL"]
-    MAX_PREVIEW_CHARS = 350_000
+    COLUMNS = ["Citation", "Title", "Category", "Bundle", "Status", "Snippet", "URL"]
+    MAX_PREVIEW_CHARS = 180_000
     MAX_HIGHLIGHT_SPANS = 1200
 
     def __init__(self, db_path: str) -> None:
@@ -487,10 +512,12 @@ class SearchWindow(QMainWindow):
         self.scope_codes_btn = QPushButton("Codes && Rules")
         self.scope_constitution_btn = QPushButton("Constitution")
         self.scope_case_law_btn = QPushButton("Case Law")
+        self.scope_bills_btn = QPushButton("Bills")
         source_row.addWidget(self.scope_all_btn)
         source_row.addWidget(self.scope_codes_btn)
         source_row.addWidget(self.scope_constitution_btn)
         source_row.addWidget(self.scope_case_law_btn)
+        source_row.addWidget(self.scope_bills_btn)
         source_layout.addLayout(source_row)
         filters_layout.addWidget(source_group)
 
@@ -535,7 +562,7 @@ class SearchWindow(QMainWindow):
 
         preview_panel = QWidget()
         preview_layout = QVBoxLayout(preview_panel)
-        self.preview_meta = QLabel("Select a result to view full local text.")
+        self.preview_meta = QLabel("Select a result to view a local text preview.")
         self.preview_meta.setWordWrap(True)
         preview_layout.addWidget(self.preview_meta)
 
@@ -563,7 +590,7 @@ class SearchWindow(QMainWindow):
 
         self.preview_text = QPlainTextEdit()
         self.preview_text.setReadOnly(True)
-        self.preview_text.setPlaceholderText("Full local document text will appear here")
+        self.preview_text.setPlaceholderText("Local document preview will appear here")
         preview_layout.addWidget(self.preview_text, 1)
 
         right_splitter.addWidget(preview_panel)
@@ -605,6 +632,7 @@ class SearchWindow(QMainWindow):
         self.scope_codes_btn.clicked.connect(lambda: self._apply_category_preset("codes"))
         self.scope_constitution_btn.clicked.connect(lambda: self._apply_category_preset("constitution"))
         self.scope_case_law_btn.clicked.connect(lambda: self._apply_category_preset("case-law"))
+        self.scope_bills_btn.clicked.connect(lambda: self._apply_category_preset("bills"))
 
         self.categories_list.itemSelectionChanged.connect(self._on_categories_changed)
         self.bundles_list.itemSelectionChanged.connect(self._queue_search)
@@ -643,11 +671,18 @@ class SearchWindow(QMainWindow):
             if preset == "all":
                 should_select = True
             elif preset == "codes":
-                should_select = "constitution" not in lowered and "court" not in lowered and "case" not in lowered
+                should_select = (
+                    "constitution" not in lowered
+                    and "court" not in lowered
+                    and "case" not in lowered
+                    and "bill" not in lowered
+                )
             elif preset == "constitution":
                 should_select = "constitution" in lowered
             elif preset == "case-law":
                 should_select = "court" in lowered or "case" in lowered or "decision" in lowered
+            elif preset == "bills":
+                should_select = "bill" in lowered
             item.setSelected(should_select)
 
         selected_after = set(self._selected_texts(self.categories_list))
@@ -873,30 +908,47 @@ class SearchWindow(QMainWindow):
         rows = self._sort_rows_by_citation(rows)
         self._result_rows = rows
         self._detail_cache.clear()
+        self.results_table.blockSignals(True)
+        self.results_table.setUpdatesEnabled(False)
         self.results_table.setRowCount(0)
         self.results_table.setRowCount(len(rows))
         if not rows:
+            self.results_table.setUpdatesEnabled(True)
+            self.results_table.blockSignals(False)
             self._clear_preview("No results. Try a broader query.")
             return
 
-        for r_idx, row in enumerate(rows):
-            values = [
-                str(row.get("citation", "")),
-                str(row.get("title", "")),
-                str(row.get("category", "")),
-                str(row.get("bundle", "")),
-                str(row.get("snippet", "")),
-                str(row.get("url", "")),
-            ]
-            for c_idx, val in enumerate(values):
-                item = QTableWidgetItem(val)
-                if c_idx == 5:
-                    item.setForeground(Qt.blue)
-                self.results_table.setItem(r_idx, c_idx, item)
-        self.results_table.resizeColumnsToContents()
-        if self.results_table.columnWidth(4) > 640:
-            self.results_table.setColumnWidth(4, 640)
-        self.results_table.selectRow(0)
+        try:
+            for r_idx, row in enumerate(rows):
+                row_color = _bill_status_color(
+                    str(row.get("category", "")),
+                    str(row.get("status_group", "")),
+                    str(row.get("status_label", "")),
+                    str(row.get("bundle", "")),
+                )
+                values = [
+                    str(row.get("citation", "")),
+                    str(row.get("title", "")),
+                    str(row.get("category", "")),
+                    str(row.get("bundle", "")),
+                    str(row.get("status_label", "")),
+                    str(row.get("snippet", "")),
+                    str(row.get("url", "")),
+                ]
+                for c_idx, val in enumerate(values):
+                    item = QTableWidgetItem(val)
+                    if c_idx == 6:
+                        item.setForeground(Qt.blue)
+                    if row_color is not None:
+                        item.setBackground(row_color)
+                    self.results_table.setItem(r_idx, c_idx, item)
+            self.results_table.resizeColumnsToContents()
+            if self.results_table.columnWidth(5) > 640:
+                self.results_table.setColumnWidth(5, 640)
+            self.results_table.selectRow(0)
+        finally:
+            self.results_table.setUpdatesEnabled(True)
+            self.results_table.blockSignals(False)
         self._on_result_selected()
 
     def _clear_preview(self, message: str) -> None:
@@ -1090,12 +1142,22 @@ class SearchWindow(QMainWindow):
             try:
                 row = con.execute(
                     """
-                    SELECT citation, title, category, bundle, url, local_file, text
+                    SELECT
+                      citation,
+                      title,
+                      category,
+                      bundle,
+                      status_group,
+                      status_label,
+                      url,
+                      local_file,
+                      substr(text, 1, ?) AS text,
+                      length(text) AS text_length
                     FROM docs_fts
                     WHERE rowid = ?
                     LIMIT 1;
                     """,
-                    (int(row_id),),
+                    (self.MAX_PREVIEW_CHARS, int(row_id)),
                 ).fetchone()
             finally:
                 con.close()
@@ -1111,15 +1173,18 @@ class SearchWindow(QMainWindow):
             "title": row["title"] or "",
             "category": row["category"] or "",
             "bundle": row["bundle"] or "",
+            "status_group": row["status_group"] or "",
+            "status_label": row["status_label"] or "",
             "url": row["url"] or "",
             "local_file": row["local_file"] or "",
             "text": row["text"] or "",
+            "text_length": str(row["text_length"] or 0),
         }
 
     def _on_result_selected(self) -> None:
         idx = self.results_table.currentRow()
         if idx < 0 or idx >= len(self._result_rows):
-            self._clear_preview("Select a result to view full local text.")
+            self._clear_preview("Select a result to view a local text preview.")
             return
 
         row = self._result_rows[idx]
@@ -1150,8 +1215,11 @@ class SearchWindow(QMainWindow):
         bundle = detail["bundle"].strip()
         header = " | ".join(part for part in [citation, title] if part)
         scope = " / ".join(part for part in [category, bundle] if part)
+        status_label = detail.get("status_label", "").strip()
         if scope:
             header = f"{header}\n{scope}" if header else scope
+        if status_label:
+            header = f"{header}\nStatus: {status_label}" if header else f"Status: {status_label}"
         self.preview_meta.setText(header or "Local document preview")
         self.preview_url_edit.setText(detail["url"])
         self.open_source_btn.setEnabled(bool(detail["url"].strip()))
@@ -1159,6 +1227,17 @@ class SearchWindow(QMainWindow):
         self.preview_local_edit.setText(resolved_local)
         self.open_local_btn.setEnabled(bool(resolved_local))
         preview_text, was_truncated = self._choose_preview_text(detail["text"])
+        try:
+            source_text_length = int(detail.get("text_length", "0") or 0)
+        except ValueError:
+            source_text_length = 0
+        if source_text_length > len(detail["text"]):
+            shown = min(len(detail["text"]), self.MAX_PREVIEW_CHARS)
+            preview_text = (
+                preview_text.rstrip()
+                + f"\n\n[... preview truncated at char {shown:,} / {source_text_length:,} ...]"
+            )
+            was_truncated = True
         hit_count = self._set_preview_with_highlights(preview_text)
         if was_truncated:
             self.statusBar().showMessage(

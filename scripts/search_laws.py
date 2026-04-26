@@ -39,7 +39,7 @@ def main(argv: list[str] | None = None) -> int:
               citation,
               title,
               url,
-              snippet(docs_fts, 5, '[', ']', ' ... ', 12) AS snippet
+              snippet(docs_fts, 9, '[', ']', ' ... ', 12) AS snippet
             FROM docs_fts
             WHERE docs_fts MATCH ?
             LIMIT ?;

@@ -1,5 +1,6 @@
 # Generated caches / artifacts
 .toc-cache/
+out/
 out_test/
 out_cache_test/
 playwright-browsers/

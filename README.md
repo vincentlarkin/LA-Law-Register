@@ -10,6 +10,7 @@ Pre-2000 Supreme Court year index: https://law.justia.com/cases/louisiana/suprem
 
 - Local law text and metadata (`sections/*.txt`, `sections/*.json`)
 - Local Louisiana Supreme Court opinion PDFs plus extracted text/metadata
+- Local Louisiana legislative bill histories, final disposition metadata, and extracted act text
 - Per-bundle PDFs with real TOC page numbers
 - Fast local full-text index (`out/index.sqlite`)
 - Desktop GUI for near-live local search
@@ -39,6 +40,10 @@ Notes:
   - Uses the official Louisiana Supreme Court archive for `2000+`.
   - Uses Justia for older Supreme Court years exposed there (`1950-1999` plus `1885`).
   - Saves yearly bundles, local opinion PDFs when available, and extracted full text for indexing.
+- `scripts/download_louisiana_bills.py`
+  - Downloads bill metadata and printable bill histories from the official Louisiana Legislature session records.
+  - Groups bills by session/chamber for browsing and indexes their outcome status.
+  - Can extract official bill/act PDF text in memory without saving the PDFs.
 - `scripts/search_laws.py`
   - CLI query tool for the SQLite index.
 - `scripts/search_laws_gui.py`
@@ -94,6 +99,24 @@ Download the pre-2000 Justia-backed range only:
 python scripts\download_louisiana_case_law.py --years 1885,1950-1999
 ```
 
+Download 2025 Regular Session bills:
+
+```powershell
+python scripts\download_louisiana_bills.py --session 25RS
+```
+
+Download all bill sessions exposed by the Louisiana Legislature site:
+
+```powershell
+python scripts\download_louisiana_bills.py --session all
+```
+
+Download bills and extract official act text for passed bills:
+
+```powershell
+python scripts\download_louisiana_bills.py --session all --include-document-text --document-statuses law
+```
+
 Re-run one bundle:
 
 ```powershell
@@ -146,6 +169,10 @@ rg -n -S "capital punishment" out\
 Additional indexed source after running the case-law downloader:
 
 - `Louisiana Supreme Court Decisions`
+
+Additional indexed source after running the bills downloader:
+
+- `Louisiana Legislative Bills`
 
 Notes:
 

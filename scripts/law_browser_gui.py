@@ -22,10 +22,11 @@ import sys
 from pathlib import Path
 
 from PySide6.QtCore import Qt, QUrl
-from PySide6.QtGui import QDesktopServices, QFont, QTextOption
+from PySide6.QtGui import QColor, QDesktopServices, QFont, QTextOption
 from PySide6.QtWidgets import (
     QAbstractItemView,
     QApplication,
+    QComboBox,
     QDialog,
     QDialogButtonBox,
     QFileDialog,
@@ -61,6 +62,30 @@ _META_LINE_RE = re.compile(
     r"^(Court|Release date|Release|Author|Parish|Disposition|Release notes|Official release page|Official PDF):\s*(.+)$",
     re.IGNORECASE,
 )
+_BILL_JSON_FIELD_RE_TEMPLATE = r'"{key}"\s*:\s*"((?:\\.|[^"\\])*)"'
+
+
+SECTION_ALL = "All Sources"
+SECTION_BILLS = "Bills"
+SECTION_CODES = "Louisiana Codes"
+SECTION_CONSTITUTION = "Constitution"
+SECTION_CASES = "Court Decisions"
+SECTION_RULES = "Legislative Rules"
+SECTION_OTHER = "Other"
+
+BILL_STATUS_OPTIONS = [
+    ("All statuses", ""),
+    ("Passed into Law", "Passed into Law"),
+    ("Vetoed", "Vetoed"),
+    ("Still in Process", "Still in Process"),
+    ("Failed / Other", "Failed or Other Final Disposition"),
+]
+
+DOC_SORT_OPTIONS = [
+    ("Citation", "citation"),
+    ("Status", "status"),
+    ("Title", "title"),
+]
 
 
 def safe_name(value: str, *, max_len: int = 140) -> str:
@@ -109,6 +134,63 @@ def _is_case_law(category: str) -> bool:
     return "court" in lowered or "case" in lowered or "decision" in lowered
 
 
+def _is_bill(category: str) -> bool:
+    return "bill" in (category or "").lower()
+
+
+def _category_section(category: str) -> str:
+    lowered = (category or "").lower()
+    if "bill" in lowered:
+        return SECTION_BILLS
+    if _is_case_law(category):
+        return SECTION_CASES
+    if "constitution" in lowered:
+        return SECTION_CONSTITUTION
+    if "rule" in lowered:
+        return SECTION_RULES
+    if "code" in lowered or "statute" in lowered:
+        return SECTION_CODES
+    return SECTION_OTHER
+
+
+def _section_sort_key(section: str) -> tuple[int, str]:
+    order = {
+        SECTION_CODES: 0,
+        SECTION_CONSTITUTION: 1,
+        SECTION_RULES: 2,
+        SECTION_BILLS: 3,
+        SECTION_CASES: 4,
+        SECTION_OTHER: 5,
+    }
+    return (order.get(section, 99), section)
+
+
+def _bill_status_color(category: str, status_group: str = "", status_label: str = "", bundle: str = "") -> QColor | None:
+    if "bill" not in (category or "").lower():
+        return None
+    lowered = " ".join([status_group or "", status_label or "", bundle or ""]).lower()
+    if "law" in lowered or "passed into law" in lowered:
+        return QColor("#d8f3df")
+    if "vetoed" in lowered:
+        return QColor("#f8d7da")
+    if "still in process" in lowered or "pending" in lowered:
+        return QColor("#fffdf8")
+    if "failed" in lowered or "final disposition" in lowered:
+        return QColor("#eceff1")
+    return None
+
+
+def _bill_status_sort_key(status_label: str) -> tuple[int, str]:
+    normalized = _normalize_ws(status_label).lower()
+    order = {
+        "passed into law": 0,
+        "vetoed": 1,
+        "still in process": 2,
+        "failed or other final disposition": 3,
+    }
+    return (order.get(normalized, 99), normalized)
+
+
 def _citation_sort_key(citation: str, title: str) -> tuple[object, ...]:
     raw = (citation or "").strip().upper()
     if not raw:
@@ -121,6 +203,25 @@ def _citation_sort_key(citation: str, title: str) -> tuple[object, ...]:
         else:
             parts.append((1, tok))
     return (0, tuple(parts), (title or "").strip().upper())
+
+
+def _bundle_sort_key(category: str, bundle: str) -> tuple[object, ...]:
+    if _is_bill(category):
+        match = re.search(r"\b(19|20)\d{2}\b", bundle or "")
+        year = int(match.group(0)) if match else 0
+        chamber_rank = 0 if "House Bills" in bundle else 1 if "Senate Bills" in bundle else 2
+        return (-year, chamber_rank, bundle)
+    return (0, bundle)
+
+
+def _extract_json_string_field(raw: str, key: str) -> str:
+    match = re.search(_BILL_JSON_FIELD_RE_TEMPLATE.format(key=re.escape(key)), raw)
+    if not match:
+        return ""
+    try:
+        return json.loads(f'"{match.group(1)}"')
+    except Exception:
+        return match.group(1).replace(r"\/", "/")
 
 
 def _normalize_paragraphs(text: str) -> list[str]:
@@ -216,6 +317,325 @@ def _paragraph_to_html(paragraph: str) -> str:
     return html.escape(paragraph).replace("\n", "<br />\n")
 
 
+def _bill_text_parts(text: str) -> tuple[str, str, str, str]:
+    marker = "===== OFFICIAL ACT TEXT ====="
+    if marker not in (text or ""):
+        return text or "", "", "", ""
+
+    history, official = text.split(marker, 1)
+    official = official.strip()
+    source_label = ""
+    source_url = ""
+    body_lines: list[str] = []
+    lines = official.splitlines()
+    idx = 0
+    if idx < len(lines) and lines[idx].strip().casefold().startswith("source:"):
+        source_label = lines[idx].split(":", 1)[1].strip()
+        idx += 1
+    if idx < len(lines) and re.match(r"^https?://", lines[idx].strip()):
+        source_url = lines[idx].strip()
+        idx += 1
+    body_lines = lines[idx:]
+    return history.strip(), "\n".join(body_lines).strip(), source_label, source_url
+
+
+def _clean_bill_text_lines(text: str) -> list[str]:
+    cleaned: list[str] = []
+    for raw in (text or "").replace("\r\n", "\n").replace("\r", "\n").splitlines():
+        line = _WS.sub(" ", raw.replace("\xa0", " ")).strip()
+        if not line:
+            if cleaned and cleaned[-1]:
+                cleaned.append("")
+            continue
+        line = (
+            line.replace("\u00c2\u00a7", "\u00a7")
+            .replace("\u00c2", "")
+            .replace("\u00e2\u20ac\u00a2", "\u2022")
+            .replace("\u00e2\u20ac\u201c", "-")
+            .replace("\u00e2\u20ac\u201d", "-")
+        )
+        if line == "`" or line.isdigit():
+            continue
+        if re.match(r"^Page\s+\d+\s+of\s+\d+\b", line, re.IGNORECASE):
+            continue
+        if re.match(r"^Table of Contents\b", line, re.IGNORECASE):
+            continue
+        if line.casefold().startswith("coding:"):
+            continue
+        if "struck through" in line.casefold() or "underscored" in line.casefold():
+            continue
+        if line.casefold() in {"are additions.", "are deletions.", "words underscored", "words underscored are additions."}:
+            continue
+        if line in {
+            "SPEAKER OF THE HOUSE OF REPRESENTATIVES",
+            "PRESIDENT OF THE SENATE",
+            "GOVERNOR OF THE STATE OF LOUISIANA",
+            "APPROVED:",
+        }:
+            continue
+        if re.match(r"^[HS]B\s+NO\.\s+\d+\b", line, re.IGNORECASE):
+            continue
+        cleaned.append(line)
+    while cleaned and not cleaned[-1]:
+        cleaned.pop()
+    return cleaned
+
+
+def _skip_bill_front_matter(lines: list[str]) -> list[str]:
+    has_toc = any(line.casefold() == "table of contents" or _is_dot_leader_line(line) for line in lines[:80])
+    if not has_toc:
+        return lines
+
+    for idx, line in enumerate(lines):
+        if idx < 20:
+            continue
+        if re.match(r"^ACT\s+No\.\s+\d+", line, re.IGNORECASE):
+            start = idx
+            if idx > 0 and lines[idx - 1].casefold() == "enrolled":
+                start = idx - 1
+            return lines[start:]
+    for idx, line in enumerate(lines):
+        if idx >= 20 and line.casefold() == "an act":
+            start = idx
+            while start > 0 and start > idx - 8:
+                previous = lines[start - 1]
+                if re.match(r"^(ENROLLED|ACT\s+No\.|HOUSE BILL NO\.|SENATE BILL NO\.|BY\s+)", previous, re.IGNORECASE):
+                    start -= 1
+                    continue
+                break
+            return lines[start:]
+    return lines
+
+
+def _is_dot_leader_line(line: str) -> bool:
+    return ". . ." in line or bool(re.search(r"\.{5,}", line))
+
+
+def _bill_line_starts_paragraph(line: str) -> bool:
+    if not line:
+        return True
+    patterns = [
+        r"^ENROLLED$",
+        r"^ACT\s+No\.\s+\d+",
+        r"^(19|20)\d{2}\s+",
+        r"^(HOUSE|SENATE)\s+BILL\s+NO\.",
+        r"^BY\s+",
+        r"^AN\s+ACT$",
+        r"^Be it enacted\b",
+        r"^Section\s+\d+\.",
+        r"^\u00a7",
+        r"^[A-Z]\.",
+        r"^\([A-Za-z0-9]+\)",
+        r"^\*\s+\*\s+\*$",
+    ]
+    return any(re.match(pattern, line, re.IGNORECASE) for pattern in patterns)
+
+
+def _readable_bill_text(text: str) -> str:
+    lines = _skip_bill_front_matter(_clean_bill_text_lines(text))
+    filtered_lines: list[str] = []
+    seen_enrolled = False
+    seen_bill_number = False
+    for line in lines:
+        if line.casefold() == "enrolled":
+            if seen_enrolled:
+                continue
+            seen_enrolled = True
+        if re.match(r"^(HOUSE|SENATE)\s+BILL\s+NO\.", line, re.IGNORECASE):
+            if seen_bill_number:
+                continue
+            seen_bill_number = True
+        filtered_lines.append(line)
+    lines = filtered_lines
+
+    paragraphs: list[str] = []
+    current = ""
+    for line in lines:
+        if not line:
+            if current:
+                paragraphs.append(current.strip())
+                current = ""
+            continue
+        if _is_dot_leader_line(line):
+            if current:
+                paragraphs.append(current.strip())
+                current = ""
+            paragraphs.append(line)
+            continue
+        if current and (
+            re.match(r"^BY\s+", current, re.IGNORECASE)
+            or current.casefold() == "an act"
+        ):
+            paragraphs.append(current.strip())
+            current = line
+            continue
+        if _bill_line_starts_paragraph(line) or not current:
+            if current:
+                paragraphs.append(current.strip())
+            current = line
+            continue
+        current = f"{current} {line}".strip()
+    if current:
+        paragraphs.append(current.strip())
+    return "\n\n".join(paragraphs)
+
+
+def _bill_preview_text(text: str, *, max_paragraphs: int = 90) -> str:
+    readable = _readable_bill_text(text)
+    if not readable:
+        return ""
+    paragraphs = [part for part in readable.split("\n\n") if _normalize_ws(part)]
+    if len(paragraphs) <= max_paragraphs:
+        return readable
+    return "\n\n".join(paragraphs[:max_paragraphs])
+
+
+def _format_bill_text_for_display(text: str) -> str:
+    history, official_text, source_label, source_url = _bill_text_parts(text)
+    if not official_text:
+        return _format_full_text_for_display(text)
+
+    parts = ["Official Act Text"]
+    if source_label:
+        parts.append(f"Source: {source_label}")
+    if source_url:
+        parts.append(source_url)
+    parts.append("")
+    parts.append(_readable_bill_text(official_text))
+    if history:
+        parts.extend(["", "Bill History", _format_full_text_for_display(history)])
+    return "\n".join(part for part in parts if part is not None).strip()
+
+
+def _bill_text_html_blocks(text: str, *, class_name: str = "bill-text") -> str:
+    readable = _bill_preview_text(text) if class_name == "bill-summary-text" else _readable_bill_text(text)
+    if not readable:
+        return ""
+    blocks: list[str] = []
+    for paragraph in readable.split("\n\n"):
+        normalized = _normalize_ws(paragraph)
+        if not normalized:
+            continue
+        escaped = html.escape(normalized)
+        if _is_dot_leader_line(normalized):
+            normalized = re.sub(r"\s*\. ?\. ?\.\s*", " . . . ", normalized)
+            escaped = html.escape(normalized)
+            blocks.append(f"<p class='{class_name} bill-toc-line'>{escaped}</p>")
+        elif _bill_line_starts_paragraph(normalized) and (
+            normalized.isupper()
+            or normalized.startswith("\u00a7")
+            or re.match(r"^Section\s+\d+\.", normalized, re.IGNORECASE)
+            or re.match(r"^ACT\s+No\.", normalized, re.IGNORECASE)
+        ):
+            blocks.append(f"<p class='{class_name} bill-heading'>{escaped}</p>")
+        else:
+            blocks.append(f"<p class='{class_name}'>{escaped}</p>")
+    return "\n".join(blocks)
+
+
+def _build_bill_formatted_text_html(detail: dict[str, str]) -> str:
+    raw_text = detail.get("text", "")
+    history, official_text, source_label, source_url = _bill_text_parts(raw_text)
+    display_text = official_text or raw_text
+    if not display_text:
+        return "<p>No bill text available.</p>"
+    title = html.escape(detail.get("title", "").strip() or detail.get("citation", "").strip() or "Bill")
+    citation = html.escape(detail.get("citation", "").strip())
+    status = html.escape(detail.get("bill_status_label", "").strip() or detail.get("status_label", "").strip())
+    current_status = html.escape(detail.get("current_status", "").strip())
+    meta_parts = []
+    if citation:
+        meta_parts.append(f"<b>{citation}</b>")
+    if status:
+        meta_parts.append(f"Status: {status}")
+    if current_status:
+        meta_parts.append(f"Current: {current_status}")
+    if source_label:
+        meta_parts.append(f"Document: {html.escape(source_label)}")
+    meta_html = " | ".join(meta_parts)
+    official_html = _bill_text_html_blocks(display_text)
+    history_html = ""
+    if official_text and history:
+        history_html = f"""
+        <div class="history-heading">Bill History</div>
+        <pre>{html.escape(_format_full_text_for_display(history))}</pre>
+        """
+    return f"""
+    <style>
+      body {{
+        font-family: "Segoe UI";
+        font-size: 13px;
+        color: #1f1b16;
+        background: #fffdf8;
+        margin: 12px;
+      }}
+      .doc-title {{
+        margin: 0 0 8px 0;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.28;
+      }}
+      .meta {{
+        margin: 0 0 16px 0;
+        color: #5d4e3a;
+        font-size: 12px;
+      }}
+      a {{
+        color: #8b3d1b;
+        text-decoration: none;
+      }}
+      a:hover {{
+        text-decoration: underline;
+      }}
+      .source {{
+        margin: -6px 0 18px 0;
+        color: #6a5a44;
+        font-size: 12px;
+      }}
+      .bill-text {{
+        margin: 0 auto 12px 0;
+        max-width: 980px;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 15px;
+        line-height: 1.62;
+      }}
+      .bill-heading {{
+        margin: 19px 0 9px 0;
+        font-family: "Segoe UI";
+        font-weight: 700;
+        font-size: 14px;
+        color: #4d3d2c;
+      }}
+      .bill-toc-line {{
+        font-family: Consolas, "Courier New", monospace;
+        font-size: 12px;
+        line-height: 1.35;
+        white-space: pre-wrap;
+        color: #463b2d;
+      }}
+      .history-heading {{
+        margin: 24px 0 10px 0;
+        padding-top: 12px;
+        border-top: 1px solid #e2d5c2;
+        font-weight: 700;
+        color: #6f2f15;
+      }}
+      pre {{
+        white-space: pre-wrap;
+        font-family: Consolas, "Courier New", monospace;
+        font-size: 12px;
+        line-height: 1.45;
+        margin: 0;
+      }}
+    </style>
+    <div class="doc-title">{title}</div>
+    <div class="meta">{meta_html}</div>
+    {f"<div class='source'><a href='{html.escape(source_url)}'>{html.escape(source_url)}</a></div>" if source_url else ""}
+    {official_html}
+    {history_html}
+    """
+
+
 def _rich_text_blocks(text: str, *, citation: str, title: str) -> list[str]:
     raw_blocks = [block.strip() for block in text.split("\n\n") if block.strip()]
     blocks: list[str] = []
@@ -247,6 +667,9 @@ def _rich_text_blocks(text: str, *, citation: str, title: str) -> list[str]:
 
 
 def _build_formatted_text_html(detail: dict[str, str]) -> str:
+    if _is_bill(detail.get("category", "")):
+        return _build_bill_formatted_text_html(detail)
+
     text = _format_full_text_for_display(detail.get("text", ""))
     if not text:
         return "<p>No document selected.</p>"
@@ -548,6 +971,97 @@ def _build_generic_summary_html(detail: dict[str, str]) -> str:
     return "\n".join(parts)
 
 
+def _build_bill_summary_html(detail: dict[str, str]) -> str:
+    title = html.escape(detail.get("title", "").strip() or detail.get("citation", "").strip() or "Bill")
+    citation = html.escape(detail.get("citation", "").strip())
+    author = html.escape(detail.get("author", "").strip())
+    current_status = html.escape(detail.get("current_status", "").strip())
+    final_disposition = html.escape(detail.get("final_disposition", "").strip())
+    status_label = html.escape(detail.get("bill_status_label", "").strip())
+    history, official_text, source_label, source_url = _bill_text_parts(detail.get("text", ""))
+    readable_text = _bill_text_html_blocks(official_text or history or detail.get("text", ""), class_name="bill-summary-text")
+
+    parts = [
+        """
+        <style>
+          body {
+            color: #1f1b16;
+            background: #fffdf8;
+          }
+          h2 {
+            margin: 0 0 10px 0;
+            font-size: 18px;
+            line-height: 1.28;
+          }
+          h3 {
+            margin: 20px 0 10px 0;
+            color: #6f2f15;
+            font-size: 15px;
+          }
+          .bill-meta {
+            margin: 0 0 5px 0;
+            font-size: 12px;
+          }
+          .bill-source {
+            margin: 0 0 18px 0;
+            color: #6a5a44;
+            font-size: 12px;
+          }
+          .bill-summary-text {
+            margin: 0 auto 12px 0;
+            max-width: 980px;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: 15px;
+            line-height: 1.62;
+          }
+          .bill-heading {
+            margin: 19px 0 9px 0;
+            font-family: "Segoe UI";
+            font-weight: 700;
+            font-size: 14px;
+            color: #4d3d2c;
+          }
+          .bill-toc-line {
+            font-family: Consolas, "Courier New", monospace;
+            font-size: 12px;
+            line-height: 1.35;
+            white-space: pre-wrap;
+            color: #463b2d;
+          }
+          a {
+            color: #8b3d1b;
+            text-decoration: none;
+          }
+        </style>
+        """,
+        f"<h2>{title}</h2>",
+    ]
+    if citation:
+        parts.append(f"<p class='bill-meta'><b>Bill:</b> {citation}</p>")
+    if status_label:
+        parts.append(f"<p class='bill-meta'><b>Outcome:</b> {status_label}</p>")
+    if final_disposition:
+        parts.append(f"<p class='bill-meta'><b>Final disposition:</b> {final_disposition}</p>")
+    if current_status and current_status != final_disposition:
+        parts.append(f"<p class='bill-meta'><b>Current status:</b> {current_status}</p>")
+    if author:
+        parts.append(f"<p class='bill-meta'><b>Author:</b> {author}</p>")
+    if official_text:
+        parts.append("<h3>Official Act Text</h3>")
+        if source_url:
+            label = html.escape(source_label or source_url)
+            parts.append(
+                f"<p class='bill-source'>Source: <a href='{html.escape(source_url)}'>{label}</a></p>"
+            )
+        parts.append(readable_text or "<p>No readable act text could be extracted.</p>")
+    elif readable_text:
+        parts.append("<h3>Bill Text / History</h3>")
+        parts.append(readable_text)
+    else:
+        parts.append("<p>No bill text available.</p>")
+    return "\n".join(parts)
+
+
 def _build_metadata_html(detail: dict[str, str]) -> str:
     rows: list[str] = []
     ordered_keys = [
@@ -559,10 +1073,16 @@ def _build_metadata_html(detail: dict[str, str]) -> str:
         ("release_date", "Release Date"),
         ("release_code", "Release"),
         ("author", "Author"),
+        ("session_id", "Session"),
+        ("chamber", "Chamber"),
+        ("current_status", "Current Status"),
+        ("final_disposition", "Final Disposition"),
+        ("bill_status_label", "Bill Outcome"),
         ("parish", "Parish"),
         ("disposition", "Disposition"),
         ("notes", "Notes"),
         ("url", "Source URL"),
+        ("pdf_label", "Official Document"),
         ("pdf_url", "Source PDF"),
         ("local_file", "Local File"),
         ("doc_id", "Doc ID"),
@@ -583,6 +1103,8 @@ def _build_metadata_html(detail: dict[str, str]) -> str:
 def _build_summary_html(detail: dict[str, str]) -> str:
     if _is_case_law(detail.get("category", "")):
         return _build_case_summary_html(detail)
+    if _is_bill(detail.get("category", "")):
+        return _build_bill_summary_html(detail)
     return _build_generic_summary_html(detail)
 
 
@@ -604,6 +1126,7 @@ class InfoDialog(QDialog):
             <p>
               This browser uses the text already stored in <code>out/index.sqlite</code> and shows a
               case-law-focused "What Was Learned" view for Louisiana Supreme Court opinions.
+              Legislative bill rows are tinted by outcome when bill records have been indexed.
             </p>
             <p>
               Refresh workflow:
@@ -611,6 +1134,7 @@ class InfoDialog(QDialog):
             <ul>
               <li><code>python scripts\\download_louisiana_laws.py --categories all</code></li>
               <li><code>python scripts\\download_louisiana_case_law.py --years all</code></li>
+              <li><code>python scripts\\download_louisiana_bills.py --session all</code></li>
               <li><code>python scripts\\build_search_index.py --rebuild</code></li>
             </ul>
             <p style="margin-top:20px; color:#6b5c45;">
@@ -626,7 +1150,7 @@ class InfoDialog(QDialog):
 
 
 class LawBrowserWindow(QMainWindow):
-    DOC_COLUMNS = ["Citation", "Title"]
+    DOC_COLUMNS = ["Citation", "Status", "Title"]
 
     def __init__(self, db_path: str) -> None:
         super().__init__()
@@ -635,8 +1159,12 @@ class LawBrowserWindow(QMainWindow):
 
         self._db_path = db_path
         self._summary_cache: dict[int, str] = {}
+        self._formatted_cache: dict[int, str] = {}
+        self._plain_text_cache: dict[int, str] = {}
+        self._metadata_cache: dict[int, str] = {}
         self._detail_cache: dict[int, dict[str, str]] = {}
         self._result_rows: list[dict[str, object]] = []
+        self._category_rows: list[dict[str, object]] = []
 
         self._build_ui()
         self._apply_fonts()
@@ -679,6 +1207,14 @@ class LawBrowserWindow(QMainWindow):
               background: #fffdf8;
               border: 1px solid #d6cbb8;
               border-radius: 8px;
+              selection-background-color: #b65b2c;
+              selection-color: #ffffff;
+            }
+            QComboBox {
+              background: #fffdf8;
+              border: 1px solid #d6cbb8;
+              border-radius: 8px;
+              padding: 5px 8px;
               selection-background-color: #b65b2c;
               selection-color: #ffffff;
             }
@@ -756,6 +1292,12 @@ class LawBrowserWindow(QMainWindow):
 
         categories_group = QGroupBox("Categories")
         categories_layout = QVBoxLayout(categories_group)
+        section_row = QHBoxLayout()
+        self.section_combo = QComboBox()
+        self.section_combo.addItem(SECTION_ALL, SECTION_ALL)
+        section_row.addWidget(QLabel("Section:"))
+        section_row.addWidget(self.section_combo, 1)
+        categories_layout.addLayout(section_row)
         self.categories_list = QListWidget()
         self.categories_list.setSelectionMode(QListWidget.SingleSelection)
         categories_layout.addWidget(self.categories_list)
@@ -775,6 +1317,18 @@ class LawBrowserWindow(QMainWindow):
         docs_layout = QVBoxLayout(docs_group)
         self.docs_filter = QLineEdit()
         self.docs_filter.setPlaceholderText("Filter citation or title within the selected bundle")
+        docs_controls = QHBoxLayout()
+        self.status_filter_combo = QComboBox()
+        for label, value in BILL_STATUS_OPTIONS:
+            self.status_filter_combo.addItem(label, value)
+        self.status_filter_combo.setEnabled(False)
+        self.sort_combo = QComboBox()
+        for label, value in DOC_SORT_OPTIONS:
+            self.sort_combo.addItem(label, value)
+        docs_controls.addWidget(QLabel("Status:"))
+        docs_controls.addWidget(self.status_filter_combo, 1)
+        docs_controls.addWidget(QLabel("Sort:"))
+        docs_controls.addWidget(self.sort_combo, 1)
         self.docs_table = QTableWidget(0, len(self.DOC_COLUMNS))
         self.docs_table.setHorizontalHeaderLabels(self.DOC_COLUMNS)
         self.docs_table.setSelectionBehavior(QTableWidget.SelectRows)
@@ -787,6 +1341,7 @@ class LawBrowserWindow(QMainWindow):
         self.docs_table.horizontalHeader().setSectionResizeMode(QHeaderView.Interactive)
         self.docs_table.horizontalHeader().setStretchLastSection(True)
         docs_layout.addWidget(self.docs_filter)
+        docs_layout.addLayout(docs_controls)
         docs_layout.addWidget(self.docs_table, 1)
         nav_layout.addWidget(docs_group, 3)
 
@@ -851,12 +1406,16 @@ class LawBrowserWindow(QMainWindow):
         self.browse_btn.clicked.connect(self._browse_db)
         self.reload_btn.clicked.connect(self._reload_library)
         self.info_btn.clicked.connect(self._show_info_dialog)
+        self.section_combo.currentIndexChanged.connect(self._populate_categories)
         self.categories_list.itemSelectionChanged.connect(self._on_category_changed)
         self.bundles_filter.textChanged.connect(self._reload_bundles)
         self.bundles_list.itemSelectionChanged.connect(self._on_bundle_changed)
         self.docs_filter.textChanged.connect(self._reload_documents)
+        self.status_filter_combo.currentIndexChanged.connect(self._reload_documents)
+        self.sort_combo.currentIndexChanged.connect(self._reload_documents)
         self.docs_table.itemSelectionChanged.connect(self._on_document_selected)
         self.docs_table.cellDoubleClicked.connect(lambda _row, _col: self._open_selected_local_or_source())
+        self.tabs.currentChanged.connect(lambda _idx: self._render_current_detail_tab())
         self.open_source_btn.clicked.connect(self._open_source)
         self.open_local_btn.clicked.connect(self._open_local)
 
@@ -897,14 +1456,19 @@ class LawBrowserWindow(QMainWindow):
             )
             self.categories_list.clear()
             self.bundles_list.clear()
+            self.status_filter_combo.setEnabled(False)
             self.docs_table.setRowCount(0)
             self._clear_detail("Index not found.")
             return
 
         self._db_path = db_path
         self._summary_cache.clear()
+        self._formatted_cache.clear()
+        self._plain_text_cache.clear()
+        self._metadata_cache.clear()
         self._detail_cache.clear()
         self._result_rows.clear()
+        self._category_rows.clear()
 
         try:
             con = _connect(db_path)
@@ -924,16 +1488,21 @@ class LawBrowserWindow(QMainWindow):
             QMessageBox.critical(self, "DB Error", f"Failed to read categories: {exc}")
             return
 
-        self.categories_list.clear()
+        section_counts: dict[str, int] = {}
         for row in rows:
             category = row["category"] or ""
             count = int(row["doc_count"] or 0)
-            item = QListWidgetItem(f"{category} ({count:,})")
-            item.setData(Qt.UserRole, category)
-            self.categories_list.addItem(item)
+            section = _category_section(category)
+            self._category_rows.append({"category": category, "count": count, "section": section})
+            section_counts[section] = section_counts.get(section, 0) + count
 
-        if self.categories_list.count() == 0:
+        self._category_rows.sort(key=lambda row: (_section_sort_key(str(row["section"])), str(row["category"])))
+        self._populate_section_combo(section_counts)
+        self._populate_categories()
+
+        if not self._category_rows:
             self.bundles_list.clear()
+            self.status_filter_combo.setEnabled(False)
             self.docs_table.setRowCount(0)
             self._clear_detail("The index is empty.")
             self.statusBar().showMessage("Loaded index but found 0 categories.")
@@ -945,8 +1514,46 @@ class LawBrowserWindow(QMainWindow):
         visible_rows = min(self.categories_list.count(), 8)
         self.categories_list.setMinimumHeight((row_height * visible_rows) + 12)
 
-        self.categories_list.setCurrentRow(0)
         self.statusBar().showMessage(f"Loaded library index: {db_path}")
+
+    def _populate_section_combo(self, section_counts: dict[str, int]) -> None:
+        current = self.section_combo.currentData() or SECTION_ALL
+        self.section_combo.blockSignals(True)
+        self.section_combo.clear()
+        total = sum(section_counts.values())
+        self.section_combo.addItem(f"{SECTION_ALL} ({total:,})", SECTION_ALL)
+        for section in sorted(section_counts, key=_section_sort_key):
+            self.section_combo.addItem(f"{section} ({section_counts[section]:,})", section)
+        index = self.section_combo.findData(current)
+        self.section_combo.setCurrentIndex(index if index >= 0 else 0)
+        self.section_combo.blockSignals(False)
+
+    def _populate_categories(self) -> None:
+        selected_section = self.section_combo.currentData() or SECTION_ALL
+        previous_category = self._selected_category()
+        self.categories_list.blockSignals(True)
+        self.categories_list.clear()
+        for row in self._category_rows:
+            if selected_section != SECTION_ALL and row["section"] != selected_section:
+                continue
+            category = str(row["category"])
+            count = int(row["count"] or 0)
+            item = QListWidgetItem(f"{category} ({count:,})")
+            item.setData(Qt.UserRole, category)
+            self.categories_list.addItem(item)
+            if category == previous_category:
+                self.categories_list.setCurrentItem(item)
+        if self.categories_list.count() and self.categories_list.currentRow() < 0:
+            self.categories_list.setCurrentRow(0)
+        self.categories_list.blockSignals(False)
+
+        if self.categories_list.count() == 0:
+            self.bundles_list.clear()
+            self.docs_table.setRowCount(0)
+            self.status_filter_combo.setEnabled(False)
+            self._clear_detail("No categories in this section.")
+            return
+        self._reload_bundles()
 
     def _selected_category(self) -> str:
         item = self.categories_list.currentItem()
@@ -968,6 +1575,12 @@ class LawBrowserWindow(QMainWindow):
         self.bundles_list.clear()
         self.docs_table.setRowCount(0)
         self._clear_detail("Select a document to browse.")
+        is_bill_category = _is_bill(category)
+        self.status_filter_combo.blockSignals(True)
+        self.status_filter_combo.setEnabled(is_bill_category)
+        if not is_bill_category:
+            self.status_filter_combo.setCurrentIndex(0)
+        self.status_filter_combo.blockSignals(False)
         if not category:
             return
 
@@ -991,7 +1604,8 @@ class LawBrowserWindow(QMainWindow):
             QMessageBox.critical(self, "DB Error", f"Failed to read bundles: {exc}")
             return
 
-        for row in rows:
+        sorted_rows = sorted(rows, key=lambda row: _bundle_sort_key(category, row["bundle"] or ""))
+        for row in sorted_rows:
             bundle = row["bundle"] or ""
             if filter_text and filter_text not in bundle.lower():
                 continue
@@ -1011,26 +1625,37 @@ class LawBrowserWindow(QMainWindow):
     def _reload_documents(self) -> None:
         category = self._selected_category()
         bundle = self._selected_bundle()
+        self.docs_table.blockSignals(True)
         self.docs_table.setRowCount(0)
+        self.docs_table.blockSignals(False)
         self._result_rows = []
         self._clear_detail("Select a document to browse.")
         if not category or not bundle:
             return
 
+        is_bill_category = _is_bill(category)
         filter_text = self.docs_filter.text().strip()
         params: list[object] = [category, bundle]
-        where = ""
+        where_parts: list[str] = []
         if filter_text:
             like = f"%{filter_text}%"
-            where = "AND (citation LIKE ? OR title LIKE ?)"
+            where_parts.append("(citation LIKE ? OR title LIKE ?)")
             params.extend([like, like])
+        if is_bill_category:
+            selected_status = str(self.status_filter_combo.currentData() or "")
+            if selected_status:
+                where_parts.append("status_label = ?")
+                params.append(selected_status)
+        where = ""
+        if where_parts:
+            where = "AND " + " AND ".join(where_parts)
 
         try:
             con = _connect(self._db_path)
             try:
                 rows = con.execute(
                     f"""
-                    SELECT rowid AS row_id, doc_id, citation, title
+                    SELECT rowid AS row_id, doc_id, citation, title, status_group, status_label
                     FROM docs_fts
                     WHERE category = ? AND bundle = ? {where}
                     """,
@@ -1048,31 +1673,68 @@ class LawBrowserWindow(QMainWindow):
                 "doc_id": row["doc_id"] or "",
                 "citation": row["citation"] or "",
                 "title": row["title"] or "",
+                "status_group": row["status_group"] or "",
+                "status_label": row["status_label"] or "",
             }
             for row in rows
         ]
-        docs.sort(key=lambda row: _citation_sort_key(str(row["citation"]), str(row["title"])))
+        sort_mode = str(self.sort_combo.currentData() or "citation")
+        if sort_mode == "status":
+            docs.sort(
+                key=lambda row: (
+                    _bill_status_sort_key(str(row.get("status_label", ""))),
+                    _citation_sort_key(str(row["citation"]), str(row["title"])),
+                )
+            )
+        elif sort_mode == "title":
+            docs.sort(key=lambda row: (str(row["title"]).strip().upper(), _citation_sort_key(str(row["citation"]), "")))
+        else:
+            docs.sort(key=lambda row: _citation_sort_key(str(row["citation"]), str(row["title"])))
         self._result_rows = docs
 
-        self.docs_table.setRowCount(len(docs))
-        for row_idx, row in enumerate(docs):
-            citation_item = QTableWidgetItem(str(row["citation"]))
-            title_item = QTableWidgetItem(str(row["title"]))
-            citation_item.setData(Qt.UserRole, row["row_id"])
-            title_item.setData(Qt.UserRole, row["row_id"])
-            self.docs_table.setItem(row_idx, 0, citation_item)
-            self.docs_table.setItem(row_idx, 1, title_item)
+        self.docs_table.blockSignals(True)
+        self.docs_table.setUpdatesEnabled(False)
+        try:
+            self.docs_table.setRowCount(len(docs))
+            for row_idx, row in enumerate(docs):
+                row_color = _bill_status_color(
+                    category,
+                    str(row.get("status_group", "")),
+                    str(row.get("status_label", "")),
+                    bundle,
+                )
+                citation_item = QTableWidgetItem(str(row["citation"]))
+                status_item = QTableWidgetItem(str(row.get("status_label", "")))
+                title_item = QTableWidgetItem(str(row["title"]))
+                citation_item.setData(Qt.UserRole, row["row_id"])
+                status_item.setData(Qt.UserRole, row["row_id"])
+                title_item.setData(Qt.UserRole, row["row_id"])
+                if row_color is not None:
+                    citation_item.setBackground(row_color)
+                    status_item.setBackground(row_color)
+                    title_item.setBackground(row_color)
+                self.docs_table.setItem(row_idx, 0, citation_item)
+                self.docs_table.setItem(row_idx, 1, status_item)
+                self.docs_table.setItem(row_idx, 2, title_item)
 
-        self.docs_table.resizeColumnsToContents()
-        if self.docs_table.columnWidth(1) < 680:
-            self.docs_table.setColumnWidth(1, 680)
-        self.docs_table.horizontalScrollBar().setValue(0)
-
-        self.statusBar().showMessage(f"{len(docs):,} document(s) in {bundle}")
-        if docs:
-            self.docs_table.selectRow(0)
-            self.docs_table.setCurrentCell(0, 0)
+            self.docs_table.resizeColumnsToContents()
+            if self.docs_table.columnWidth(2) < 680:
+                self.docs_table.setColumnWidth(2, 680)
             self.docs_table.horizontalScrollBar().setValue(0)
+            if docs:
+                self.docs_table.selectRow(0)
+                self.docs_table.setCurrentCell(0, 0)
+                self.docs_table.horizontalScrollBar().setValue(0)
+        finally:
+            self.docs_table.setUpdatesEnabled(True)
+            self.docs_table.blockSignals(False)
+
+        status_suffix = ""
+        if is_bill_category and str(self.status_filter_combo.currentData() or ""):
+            status_suffix = f" matching {self.status_filter_combo.currentText()}"
+        self.statusBar().showMessage(f"{len(docs):,} document(s){status_suffix} in {bundle}")
+        if docs:
+            self._on_document_selected()
 
     def _resolve_out_root(self) -> Path:
         return Path(self._db_path).resolve().parent
@@ -1106,6 +1768,9 @@ class LawBrowserWindow(QMainWindow):
         return candidates
 
     def _load_sidecar_metadata(self, detail: dict[str, str]) -> dict[str, str]:
+        if _is_bill(detail.get("category", "")):
+            return self._load_bill_sidecar_metadata(detail)
+
         for path in self._candidate_meta_paths(detail):
             if not path.exists():
                 continue
@@ -1120,6 +1785,38 @@ class LawBrowserWindow(QMainWindow):
             return out
         return {}
 
+    def _load_bill_sidecar_metadata(self, detail: dict[str, str]) -> dict[str, str]:
+        wanted = [
+            "author",
+            "session_id",
+            "session_name",
+            "chamber",
+            "chamber_label",
+            "current_status",
+            "final_disposition",
+            "bill_status_group",
+            "bill_status_label",
+            "bill_print_url",
+            "pdf_label",
+            "pdf_url",
+        ]
+        for path in self._candidate_meta_paths(detail):
+            if not path.exists():
+                continue
+            try:
+                with path.open("r", encoding="utf-8") as handle:
+                    raw = handle.read(16_384)
+            except Exception:
+                continue
+            out: dict[str, str] = {}
+            for key in wanted:
+                value = _extract_json_string_field(raw, key)
+                if value:
+                    out[key] = value
+            if out:
+                return out
+        return {}
+
     def _fetch_detail(self, row_id: int) -> dict[str, str] | None:
         cached = self._detail_cache.get(row_id)
         if cached is not None:
@@ -1130,7 +1827,7 @@ class LawBrowserWindow(QMainWindow):
             try:
                 row = con.execute(
                     """
-                    SELECT doc_id, citation, title, category, bundle, url, local_file, text
+                    SELECT doc_id, citation, title, category, bundle, status_group, status_label, url, local_file, text
                     FROM docs_fts
                     WHERE rowid = ?
                     LIMIT 1
@@ -1152,6 +1849,9 @@ class LawBrowserWindow(QMainWindow):
             "title": row["title"] or "",
             "category": row["category"] or "",
             "bundle": row["bundle"] or "",
+            "status_group": row["status_group"] or "",
+            "status_label": row["status_label"] or "",
+            "bill_status_label": row["status_label"] or "",
             "url": row["url"] or "",
             "local_file": row["local_file"] or "",
             "text": row["text"] or "",
@@ -1166,6 +1866,43 @@ class LawBrowserWindow(QMainWindow):
             return -1
         row_id = self._result_rows[idx].get("row_id")
         return int(row_id) if isinstance(row_id, int) else -1
+
+    def _render_current_detail_tab(self) -> None:
+        row_id = self._selected_row_id()
+        if row_id < 0:
+            return
+        detail = self._fetch_detail(row_id)
+        if detail is None:
+            return
+
+        current = self.tabs.currentWidget()
+        if current is self.summary_browser:
+            summary_html = self._summary_cache.get(row_id)
+            if summary_html is None:
+                summary_html = _build_summary_html(detail)
+                self._summary_cache[row_id] = summary_html
+            self.summary_browser.setHtml(summary_html)
+        elif current is self.formatted_browser:
+            formatted_html = self._formatted_cache.get(row_id)
+            if formatted_html is None:
+                formatted_html = _build_formatted_text_html(detail)
+                self._formatted_cache[row_id] = formatted_html
+            self.formatted_browser.setHtml(formatted_html)
+        elif current is self.full_text_edit:
+            plain_text = self._plain_text_cache.get(row_id)
+            if plain_text is None:
+                if _is_bill(detail.get("category", "")):
+                    plain_text = _format_bill_text_for_display(detail.get("text", ""))
+                else:
+                    plain_text = _format_full_text_for_display(detail.get("text", ""))
+                self._plain_text_cache[row_id] = plain_text
+            self.full_text_edit.setPlainText(plain_text)
+        elif current is self.metadata_browser:
+            metadata_html = self._metadata_cache.get(row_id)
+            if metadata_html is None:
+                metadata_html = _build_metadata_html(detail)
+                self._metadata_cache[row_id] = metadata_html
+            self.metadata_browser.setHtml(metadata_html)
 
     def _on_document_selected(self) -> None:
         row_id = self._selected_row_id()
@@ -1187,9 +1924,12 @@ class LawBrowserWindow(QMainWindow):
 
         title_bits = [bit for bit in [detail.get("citation", "").strip(), detail.get("title", "").strip()] if bit]
         scope_bits = [bit for bit in [detail.get("category", "").strip(), detail.get("bundle", "").strip()] if bit]
+        status_label = detail.get("bill_status_label", "").strip() or detail.get("status_label", "").strip()
         header = " | ".join(title_bits)
         if scope_bits:
             header = f"{header}\n{' / '.join(scope_bits)}" if header else " / ".join(scope_bits)
+        if status_label:
+            header = f"{header}\nStatus: {status_label}" if header else f"Status: {status_label}"
         self.detail_title.setText(header or "Document")
 
         source_url = detail.get("pdf_url", "").strip() or detail.get("url", "").strip()
@@ -1199,14 +1939,7 @@ class LawBrowserWindow(QMainWindow):
         self.open_source_btn.setEnabled(bool(source_url))
         self.open_local_btn.setEnabled(bool(local_path and Path(local_path).exists()))
 
-        summary_html = self._summary_cache.get(row_id)
-        if summary_html is None:
-            summary_html = _build_summary_html(detail)
-            self._summary_cache[row_id] = summary_html
-        self.summary_browser.setHtml(summary_html)
-        self.formatted_browser.setHtml(_build_formatted_text_html(detail))
-        self.full_text_edit.setPlainText(_format_full_text_for_display(detail.get("text", "")))
-        self.metadata_browser.setHtml(_build_metadata_html(detail))
+        self._render_current_detail_tab()
         self.statusBar().showMessage(f"Loaded {detail.get('citation', '').strip() or detail.get('title', '').strip()}")
 
     def _open_url(self, url: str) -> None:
