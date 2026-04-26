@@ -41,7 +41,36 @@ builder.Services.AddRateLimiter(options =>
 var app = builder.Build();
 app.UseRateLimiter();
 
+app.MapGet("/", () => TypedResults.Ok(new
+{
+    app = "BayouLex",
+    api = "/bayoulex/v1/",
+    health = "/healthz",
+    endpoints = new[]
+    {
+        "/bayoulex/v1/init",
+        "/bayoulex/v1/catalog",
+        "/bayoulex/v1/search?q=capital",
+        "/bayoulex/v1/documents/{documentKey}",
+        "/bayoulex/v1/offline/{version}/manifest",
+    },
+}));
+
 var api = app.MapGroup("/bayoulex/v1");
+
+api.MapGet("/", Results<Ok<BayouLexInitResponse>, ProblemHttpResult> (
+    ContentStore content,
+    BayouLexApiOptions options) =>
+{
+    var version = content.GetDatasetVersion();
+    return TypedResults.Ok(new BayouLexInitResponse(
+        AppName: "BayouLex",
+        ApiVersion: "v1",
+        DatasetVersion: version,
+        MinimumClientVersion: "1.0.0",
+        PublicBaseUrl: options.PublicBaseUrl,
+        Capabilities: ["search", "catalog", "document-detail", "offline-snapshot"]));
+});
 
 api.MapGet("/init", Results<Ok<BayouLexInitResponse>, ProblemHttpResult> (
     ContentStore content,

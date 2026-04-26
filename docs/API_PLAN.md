@@ -6,11 +6,12 @@
 - Use `api.ladf.us` through the existing Cloudflare Tunnel -> NGINX -> BayouLex API container.
 - Replace the slow Python GUI path with a C# Windows desktop client that is API-first and supports optional offline SQLite download.
 - Normal human operation should go through `python scripts\bayoulex_compendium.py`, not a pile of command-line flags.
+- Legacy Python GUI/search tooling is preserved on the pushed `legacy` branch and removed from this API-first branch.
 
 ## Data + API
 
 - Build one canonical SQLite content database from the current corpus on a dev/build machine, not the NAS.
-- Keep Python downloaders as ingestion tooling for v1; generated per-document files become build inputs, not committed/runtime files.
+- Keep Python downloaders as source ingestion tooling for v1; generated per-document files become build inputs, not committed/runtime files.
 - API stack: ASP.NET Core Minimal API in a TrueNAS custom Docker app.
 - Public read-only endpoints:
   - `GET /bayoulex/v1/init`
@@ -23,7 +24,7 @@
 
 ## Windows GUI Replacement
 
-- Create a C# WPF desktop app as the Python GUI replacement.
+- Use the C# WPF desktop app as the GUI replacement.
 - Default mode: API search/detail through `api.ladf.us`.
 - Optional offline mode: download/reassemble SQLite snapshot, then search locally without requiring the API.
 - UI must never run network, SQLite, full-text formatting, hash verification, or file I/O on the UI thread.

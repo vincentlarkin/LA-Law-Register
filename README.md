@@ -1,6 +1,6 @@
 # BayouLex
 
-Offline Louisiana legal research downloader, browser, and search tools.
+API-first Louisiana legal research compendium.
 
 ![BayouLex brand image](assets/branding/bayoulex-brand.png)
 
@@ -13,10 +13,9 @@ Pre-2000 Supreme Court year index: https://law.justia.com/cases/louisiana/suprem
 - Local law text and metadata (`sections/*.txt`, `sections/*.json`)
 - Local Louisiana Supreme Court opinion PDFs plus extracted text/metadata
 - Local Louisiana legislative bill histories, final disposition metadata, and extracted act text
-- Per-bundle PDFs with real TOC page numbers
-- Fast local full-text index (`out/index.sqlite`)
 - API-ready canonical SQLite dataset (`data/bayoulex-content.sqlite`)
-- Public read-only API and fast Windows desktop client scaffolding
+- Offline API download chunks (`data/offline/<version>/`)
+- Public read-only API and fast Windows desktop client
 
 Default output root: `out/`
 
@@ -38,21 +37,17 @@ Normal use should start here:
 python scripts\bayoulex_compendium.py
 ```
 
-The menu can download all supported content, download one source group, build
-the legacy local index, build the canonical API/client SQLite dataset, package
-offline chunks, run a local API smoke server, launch the C# Windows client, and
-launch the legacy Python GUIs while they are being phased out.
+The menu can download from official sources, build the canonical API/client
+SQLite dataset, package offline chunks, test offline download from an API, run a
+local API smoke server, and launch the C# Windows client.
 
 For the plain-English API/client flow, see [docs/QUICKSTART.md](docs/QUICKSTART.md).
 
 ## Scripts
 
 - `scripts/download_louisiana_laws.py`
-  - Scrapes TOC, downloads laws, writes local files, builds PDFs.
+  - Scrapes TOC, downloads laws, writes local source files.
   - Default category: `revised-statutes`.
-- `scripts/build_search_index.py`
-  - Builds SQLite FTS5 index from `out/**/bundle.json` and `sections/*.json`.
-  - Rebuild is atomic (temp DB swap), so interrupted runs do not overwrite a good index.
 - `scripts/download_louisiana_case_law.py`
   - Downloads Louisiana Supreme Court opinions.
   - Uses the official Louisiana Supreme Court archive for `2000+`.
@@ -62,36 +57,36 @@ For the plain-English API/client flow, see [docs/QUICKSTART.md](docs/QUICKSTART.
   - Downloads bill metadata and printable bill histories from the official Louisiana Legislature session records.
   - Groups bills by session/chamber for browsing and indexes their outcome status.
   - Can extract official bill/act PDF text in memory without saving the PDFs.
-- `scripts/search_laws.py`
-  - CLI query tool for the SQLite index.
-- `scripts/search_laws_gui.py`
-  - Desktop GUI search with:
-    - category/bundle filtering plus source preset buttons
-    - regex mode
-    - local full-text preview with highlighting
-    - local opinion PDF opening when available
-    - citation sorting (ex: `RS 14:*` before `RS 34:*`)
-- `scripts/law_browser_gui.py`
-  - Browser-style GUI for navigating the indexed library by category, bundle, and document.
-  - Includes a case-law-focused "What Was Learned" summary view for Louisiana Supreme Court opinions.
-- `scripts/dev/test_toc_postback.py`
-  - Small dev test for TOC postback behavior.
+- `scripts/build_bayoulex_dataset.py`
+  - Builds the canonical SQLite dataset used by the API and offline client.
+- `scripts/package_offline_snapshot.py`
+  - Compresses and chunks the SQLite dataset for API-served offline download.
+- `scripts/bayoulex_compendium.py`
+  - Human-facing MVP menu for source refresh, API download, API smoke, and C# client launch.
 
-The individual scripts above are implementation tools. For normal compendium
-operation, prefer `scripts/bayoulex_compendium.py`.
+The legacy Python GUI/search files live on the pushed `legacy` branch, not on
+this API-first refactor branch.
 
 ## Project Layout
 
-- `scripts/` - downloader, indexer, CLI search, GUI search, and dev helper scripts.
-- `out/` - primary generated output (laws, metadata, PDFs, and optionally `index.sqlite`).
+- `scripts/` - source ingestion, dataset building, offline packaging, and compendium menu.
+- `src/BayouLex.Api/` - ASP.NET Core read-only API over the canonical SQLite dataset.
+- `src/BayouLex.Client.Windows/` - C# WPF API-first Windows client.
+- `src/BayouLex.Shared/` - shared DTOs and API client.
+- `out/` - generated source corpus used as build input.
 - `.toc-cache/` - cached TOC snapshots used to speed resume runs.
-- `requirements.txt` - Python dependencies for scraping, PDF generation, and GUI search.
+- `requirements.txt` - Python dependencies for source ingestion and offline packaging.
 - `.gitignore` - ignores generated caches/test artifacts and Python cache files.
 
 ## Common Commands
 
-You usually do not need these. They are the lower-level tools that the
-compendium menu runs for you.
+You usually only need the compendium:
+
+```powershell
+python scripts\bayoulex_compendium.py
+```
+
+The commands below are lower-level troubleshooting commands.
 
 Download default (Revised Statutes):
 
@@ -147,12 +142,6 @@ Re-run one bundle:
 python scripts\download_louisiana_laws.py --categories revised-statutes --bundle-regex "^TITLE 9 "
 ```
 
-Build/rebuild search index:
-
-```powershell
-python scripts\build_search_index.py --rebuild
-```
-
 Build the canonical API/client dataset:
 
 ```powershell
@@ -163,24 +152,6 @@ Package offline snapshot chunks:
 
 ```powershell
 python scripts\package_offline_snapshot.py --db data\bayoulex-content.sqlite --dataset-version 20260426
-```
-
-CLI search:
-
-```powershell
-python scripts\search_laws.py "\"capital punishment\""
-```
-
-GUI search:
-
-```powershell
-python scripts\search_laws_gui.py
-```
-
-GUI browser:
-
-```powershell
-python scripts\law_browser_gui.py
 ```
 
 C# API and Windows client:
@@ -198,15 +169,6 @@ python scripts\bayoulex_compendium.py
 
 Choose `Run local API smoke server`, then open another terminal and choose
 `Run C# Windows client`.
-
-Build Windows `.exe` for GUI:
-
-```powershell
-python -m pip install pyinstaller
-python -m PyInstaller --noconfirm --clean --windowed --onefile --name BayouLex --add-data "assets\branding\bayoulex-brand.png;assets\branding" scripts\search_laws_gui.py
-```
-
-Output: `dist\BayouLex.exe`
 
 Raw text search without SQLite:
 

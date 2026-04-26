@@ -8,12 +8,11 @@ Use the compendium menu instead of remembering script flags:
 python scripts\bayoulex_compendium.py
 ```
 
-From there you can download all content, download one source group, build the
-API/client dataset, package offline data, run a local API smoke server, and
-launch either GUI.
+From there you can download/build from source, download offline chunks from an
+API, run a local API smoke server, and launch the C# Windows client.
 
-The older Python scripts remain underneath for automation and debugging. Normal
-use should be the compendium menu or the C# app.
+The legacy Python GUI/search tools are intentionally not on this refactor
+branch. They are preserved on the pushed `legacy` branch.
 
 ## How The API Gets Its Data
 
@@ -73,6 +72,14 @@ http://127.0.0.1:5087/bayoulex/v1/
 Click `Refresh`, then search. The `Download Data for Offline` button downloads
 the chunked offline SQLite snapshot when the API has an offline manifest
 available.
+
+Opening either of these URLs in a browser should now show JSON instead of a
+plain 404:
+
+```text
+http://127.0.0.1:5087/
+http://127.0.0.1:5087/bayoulex/v1/
+```
 
 Direct commands, if you do want them for troubleshooting:
 
