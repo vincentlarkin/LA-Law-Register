@@ -1,9 +1,0 @@
-RS 10:9-612
-Timeliness of notification before disposition of collateral
-https://www.legis.la.gov/legis/Law.aspx?d=74497
-
-§9-612.  Timeliness of notification before disposition of collateral
-(a)  Reasonable time is question of fact.  Except as otherwise provided in Subsection (b) and (c), whether a notification is sent within a reasonable time is a question of fact.
-(b)  Ten-day period sufficient in non-consumer transaction.  In a transaction other than a consumer transaction, a notification of disposition sent after default and ten days or more before the earliest time of disposition set forth in the notification is sent within a reasonable time before the disposition.
-(c)  Twenty-one-day period sufficient in consumer transaction.  In a consumer transaction, a notification of disposition sent after default and twenty-one days or more before the earliest time of disposition set forth in the notification is sent within a reasonable time before the disposition.
-Acts 2001, No. 128, §1, eff. July 1, 2001.
