@@ -1,7 +1,0 @@
-RS 11:408.4
-Ability to contest signatures
-https://www.legis.la.gov/legis/Law.aspx?d=75681
-
-§408.4.  Ability to contest signatures
-Nothing in this Part shall be construed to limit or otherwise affect the rights of any person to assert that an electronic signature is a forgery, is used without authority, has been altered after the signature was applied to the electronic document, or otherwise is invalid for reasons that would invalidate the effect of a signature in written form.
-Acts 2001, No. 234, §1, eff. June 1, 2001.

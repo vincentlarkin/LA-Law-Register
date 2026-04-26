@@ -1,0 +1,80 @@
+BAYOULEX - PROPRIETARY LICENSE
+
+Copyright (c) 2026 Vincent Larkin. All Rights Reserved.
+
+This software and associated documentation files (the "Software") are the
+exclusive property of Vincent Larkin.
+
+TERMS AND CONDITIONS
+
+1. ATTRIBUTION + LINK REQUIREMENT
+   Any use, copy, modification, or distribution of this Software must retain
+   the following attribution:
+
+   "BayouLex - Created by Vincent Larkin"
+
+   Public forks, public deployments, and public distributions must also keep
+   a working link to the original creator or repository, either:
+   - https://vincentlarkin.com
+   - https://github.com/vincentlarkin
+   - https://github.com/vincentlarkin/BayouLex
+
+   Attribution must be clearly visible in any derivative works, forks, or
+   deployments of this Software (for example, in the UI footer and README).
+
+2. NON-COMMERCIAL USE ONLY
+   This Software is licensed for personal, educational, and non-commercial
+   use only. Commercial use, including but not limited to:
+   - Sale of the Software or derivative works
+   - Use by government agencies or contractors
+   - Integration into commercial products or services
+   - Use by for-profit organizations
+
+   ...is strictly PROHIBITED without explicit written permission from the
+   copyright holder.
+
+3. GOVERNMENT USE RESTRICTION
+   Use of this Software by any federal, state, or local government entity,
+   agency, department, or contractor is expressly prohibited without prior
+   written authorization from Vincent Larkin.
+
+4. NO TRADEMARK OR ENDORSEMENT RIGHTS
+   This license does not grant any rights to use "BayouLex" or the names,
+   logos, or marks of any third party except as required to identify this
+   Software or describe its public legal data sources. You may not imply
+   endorsement, sponsorship, or official affiliation with Vincent Larkin,
+   BayouLex, the Louisiana Legislature, the Louisiana Supreme Court, Justia,
+   or any other data source or public entity.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+   OTHER DEALINGS IN THE SOFTWARE.
+
+7. DATA DISCLAIMER
+   This Software downloads, indexes, searches, and displays publicly available
+   legal materials from sources that may include the Louisiana Legislature,
+   the Louisiana Supreme Court, Justia, and other public legal archives. The
+   author makes no claim of ownership over those underlying public records,
+   opinions, statutes, rules, bills, or source materials. BayouLex is not an
+   official source of law and should not be treated as legal advice.
+
+8. TERMINATION
+   Any violation of these terms automatically terminates your license to use
+   this Software. Upon termination, you must immediately cease use and delete
+   or destroy all copies in your possession or control, including deployments
+   and local clones, except for archival backups required by law.
+
+For licensing inquiries or commercial use permissions, contact:
+- Website: https://vincentlarkin.com
+- LinkedIn: https://linkedin.com/in/vincentwlarkin
+
+---
+Vincent Larkin
+2026

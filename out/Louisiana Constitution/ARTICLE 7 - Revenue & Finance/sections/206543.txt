@@ -1,8 +1,0 @@
-CONST 7 16
-Taxes; Prescription
-https://www.legis.la.gov/legis/Law.aspx?d=206543
-
-§16.  Taxes; Prescription
-Section 16.  Taxes, except real property taxes, and licenses shall prescribe in three
-years after the thirty-first day of December in the year in which they are due, but prescription
-may be interrupted or suspended as provided by law.

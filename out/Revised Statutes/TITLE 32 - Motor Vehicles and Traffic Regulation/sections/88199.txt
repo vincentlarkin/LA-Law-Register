@@ -1,9 +1,0 @@
-RS 32:232.1
-Vehicle approaching intersection in which traffic lights are inoperative
-https://www.legis.la.gov/legis/Law.aspx?d=88199
-
-§232.1.  Vehicle approaching intersection in which traffic lights are inoperative
-A.  Unless otherwise directed by a law enforcement officer, when a traffic control signal is not functioning at an intersection, and the signal lights are completely dark, the intersection shall revert to an all-way stop and traffic shall proceed in accordance with the provisions of R.S. 32:121(A).
-B.  Unless otherwise directed by a law enforcement officer, when a traffic control signal is flashing yellow, it shall be treated as a "caution" sign in accordance with the provisions of R.S. 32:234.
-C.  Unless otherwise directed by a law enforcement officer, when a traffic control signal is flashing red, it shall be treated as a stop sign in accordance with the provisions of R.S. 32:234.
-Acts 1999, No. 1145, §1; Acts 2010, No. 259, §1, eff. June 17, 2010.

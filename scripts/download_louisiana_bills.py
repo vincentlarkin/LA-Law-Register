@@ -3,7 +3,7 @@ Download Louisiana legislative bill metadata into the local searchable library.
 
 The official Louisiana Legislature session pages expose final disposition tables
 for closed sessions. This script turns those records plus each bill's printable
-Bill.aspx page into normal LA Law Register bundle/section files.
+Bill.aspx page into normal BayouLex bundle/section files.
 
 Run examples:
   python scripts\download_louisiana_bills.py --session 25RS

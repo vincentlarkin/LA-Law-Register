@@ -1,9 +1,0 @@
-RS 10:8-205
-Effect of unauthorized signature on security certificate
-https://www.legis.la.gov/legis/Law.aspx?d=74350
-
-§8-205.  Effect of unauthorized signature on security certificate
-An unauthorized signature placed on a security certificate before or in the course of issue is ineffective, but the signature is effective in favor of a purchaser for value of the certificated security if the purchaser is without notice of the lack of authority and the signing has been done by:
-(1)  an authenticating trustee, registrar, transfer agent, or other person entrusted by the issuer with the signing of the security certificate or of similar security certificates, or the immediate preparation for signing of any of them; or
-(2)  an employee of the issuer, or of any of the persons listed in paragraph (1), entrusted with responsible handling of the security certificate.
-Added by Acts 1978, No. 165, §1, eff. Jan. 1, 1979.  Acts 1989, No. 135, §6, eff. Jan. 1, 1990; Acts 1995, No. 884, §1, eff. Jan. 1, 1996.

@@ -1,7 +1,0 @@
-RS 11:828
-Deduction of employee benefit contributions from retiree benefit checks
-https://www.legis.la.gov/legis/Law.aspx?d=75901
-
-§828.  Deduction of employee benefit contributions from retiree benefit checks
-Notwithstanding any other provision of law to the contrary, the employee contributions for accident and health and life insurance coverage to be paid by any member, retiree, beneficiary, or survivor participating in the Office of Group Benefits programs pursuant to R.S. 42:801 et seq., who receives a recurring benefit payment from this system shall be deducted from the retirement benefit payment.  Such deductions shall be effected by the use of computer tapes prepared and furnished by the Office of Group Benefits in a form processible by the computer facility that prepares the monthly benefit payment.  This system shall remit such deductions directly to the Office of Group Benefits.
-Added by Acts 1983, No. 650, §1; Redesignated from R.S. 17:655.2 by Acts 1991, No. 74, §3, eff. June 25, 1991; Acts 2001, No. 1178, §1, eff. June 29, 2001.

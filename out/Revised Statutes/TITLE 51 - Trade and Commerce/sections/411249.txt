@@ -1,8 +1,0 @@
-RS 51:2011
-Nonapplicability
-https://www.legis.la.gov/legis/Law.aspx?d=411249
-
-§2011.  Nonapplicability
-A.  Nothing in R.S. 51:2009 or 2010 shall apply to any monitoring of or interaction with a user's Internet or other network connection or service, or a protected computer, by a cable operator, computer hardware or software provider, or provider of information service or interactive computer service for network or computer security purposes, diagnostics, technical support, repair, authorized updates of software or system firmware, network management or maintenance, authorized remote system management or detection or prevention of the use of or fraudulent or other illegal activities as prohibited by this Chapter in connection with a network, service, or computer software, including scanning for and removing software proscribed under this Chapter.
-B.  Nothing in this Chapter shall limit the rights of providers of wire and electronic communications under 18 U.S.C. 2511.
-Acts 2006, No. 392, §1.

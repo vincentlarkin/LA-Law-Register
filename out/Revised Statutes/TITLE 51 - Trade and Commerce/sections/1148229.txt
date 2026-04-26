@@ -1,9 +1,0 @@
-RS 51:2105
-Evidence standard
-https://www.legis.la.gov/legis/Law.aspx?d=1148229
-
-§2105.  Evidence standard
-Sharing a cyber threat indicator or defensive measure information shall not constitute
-a waiver of any applicable privilege or protection provided pursuant to the Louisiana Code
-of Evidence.
-Acts 2019, No. 187, §1.

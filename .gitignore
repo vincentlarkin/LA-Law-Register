@@ -8,10 +8,18 @@ playwright-browsers/
 # Local search index files
 out/index.sqlite
 out/index.sqlite-*
+data/
+*.sqlite
+*.sqlite-*
+*.db
 
 # Python cache files
 __pycache__/
 *.py[cod]
+
+# .NET build outputs
+bin/
+obj/
 
 # PyInstaller / packaging artifacts
 build/
