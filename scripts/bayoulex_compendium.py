@@ -33,11 +33,6 @@ def _pause() -> None:
     input("\nPress Enter to return to the menu...")
 
 
-def _dotnet_path() -> str:
-    local = Path.home() / ".dotnet-sdk-10" / "dotnet.exe"
-    return str(local) if local.exists() else "dotnet"
-
-
 def _dataset_version() -> str:
     default = _dt.datetime.now().strftime("%Y%m%d")
     raw = input(f"Dataset version [{default}]: ").strip()
@@ -64,6 +59,29 @@ def _run(label: str, command: list[str], *, env: dict[str, str] | None = None) -
         print(f"\n[ok] {label}")
         return True
     print(f"\n[error] {label} failed. Exit code: {proc.returncode}")
+    return False
+
+
+def _has_dotnet_sdk() -> bool:
+    try:
+        proc = subprocess.run(
+            ["dotnet", "--list-sdks"],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+            timeout=15,
+        )
+    except (OSError, subprocess.SubprocessError):
+        return False
+    return proc.returncode == 0 and bool(proc.stdout.strip())
+
+
+def _require_dotnet_sdk() -> bool:
+    if _has_dotnet_sdk():
+        return True
+    print("\n.NET SDK is required to run the BayouLex API or Windows client.")
+    print("Install the .NET SDK so the 'dotnet' command includes SDKs, then try again.")
+    print("Check with: dotnet --list-sdks")
     return False
 
 
@@ -213,6 +231,8 @@ def _download_from_api() -> None:
 
 
 def _run_api_smoke() -> None:
+    if not _require_dotnet_sdk():
+        return
     if not DEFAULT_DATASET.exists():
         print("\nNo API dataset found yet.")
         print("Choose 'Download from source' first, or copy bayoulex-content.sqlite into data/.")
@@ -229,7 +249,7 @@ def _run_api_smoke() -> None:
     _run(
         "Run local API smoke server",
         [
-            _dotnet_path(),
+            "dotnet",
             "run",
             "--project",
             "src/BayouLex.Api/BayouLex.Api.csproj",
@@ -241,12 +261,14 @@ def _run_api_smoke() -> None:
 
 
 def _run_windows_client() -> None:
+    if not _require_dotnet_sdk():
+        return
     print("\nStarting BayouLex Windows client.")
     print(f"Use API: {DEFAULT_API_BASE}")
     _run(
         "Run C# Windows client",
         [
-            _dotnet_path(),
+            "dotnet",
             "run",
             "--project",
             "src/BayouLex.Client.Windows/BayouLex.Client.Windows.csproj",
