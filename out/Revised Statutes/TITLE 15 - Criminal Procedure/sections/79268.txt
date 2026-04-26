@@ -1,7 +1,0 @@
-RS 15:589
-Duty to maintain security
-https://www.legis.la.gov/legis/Law.aspx?d=79268
-
-§589.  Duty to maintain security
-The bureau shall adopt rules and regulations which shall establish necessary control over any data processing or telecommunication system, facilities and personnel recruitment and such processing or communication related assignment policies of the department as become necessary to ensure compliance with all applicable security standards at the state and national level for storage and transmission of criminal history record information.  To the maximum extent feasible, the bureau shall regulate through the design, implementation, and operation of the criminal justice information system the privacy and security of information contained herein.
-Acts 1981, No. 449, §1, eff. July 1, 1981.

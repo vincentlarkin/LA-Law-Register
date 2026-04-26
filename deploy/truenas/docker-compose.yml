@@ -1,0 +1,18 @@
+services:
+  bayoulex-api:
+    image: bayoulex-api:latest
+    container_name: bayoulex-api
+    restart: unless-stopped
+    environment:
+      ASPNETCORE_URLS: http://+:8080
+      BAYOULEX_DATASET_PATH: /data/bayoulex-content.sqlite
+      BAYOULEX_OFFLINE_ROOT: /data/offline
+      BAYOULEX_PUBLIC_BASE_URL: https://api.ladf.us/bayoulex/v1
+    volumes:
+      - /mnt/POOL/apps/bayoulex/data:/data:ro
+    networks:
+      - bayoulex
+
+networks:
+  bayoulex:
+    name: bayoulex

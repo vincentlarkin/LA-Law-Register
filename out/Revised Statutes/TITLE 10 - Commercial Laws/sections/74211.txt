@@ -1,9 +1,0 @@
-RS 10:4-209
-Encoding and retention warranties
-https://www.legis.la.gov/legis/Law.aspx?d=74211
-
-§4-209.  Encoding and retention warranties
-(a)  A person who encodes information on or with respect to an item after issue warrants to any subsequent collecting bank and to the payor bank or other payor that the information is correctly encoded.  If the customer of a depositary bank encodes, that bank also makes the warranty.
-(b)  A person who undertakes to retain an item pursuant to an agreement for electronic presentment warrants to any subsequent collecting bank and to the payor bank or other payor that retention and presentment of the item comply with the agreement.  If a customer of a depositary bank undertakes to retain an item, that bank also makes this warranty.
-(c)  A person to whom warranties are made under this Section and who took the item in good faith may recover from the warrantor as damages for breach of warranty an amount equal to the loss suffered as a result of the breach, plus expenses and loss of interest incurred as a result of the breach.
-Acts 1992, No. 1133, §4, eff. July 1, 1993; Acts 1993, No. 948, §10, eff. Jan. 1, 1994.

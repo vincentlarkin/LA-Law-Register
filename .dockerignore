@@ -1,0 +1,15 @@
+.git
+.toc-cache
+build
+dist
+out
+out_test
+out_cache_test
+data
+playwright-browsers
+**/__pycache__
+**/*.pyc
+**/*.pyo
+*.sqlite
+*.sqlite-*
+*.db

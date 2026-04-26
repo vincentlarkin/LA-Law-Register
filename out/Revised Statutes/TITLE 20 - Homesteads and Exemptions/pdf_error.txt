@@ -1,3 +1,0 @@
-19:34:34 PDF generation failed
-
-AttributeError: type object 'FontDescriptor' has no attribute '_parse_font_descriptor'

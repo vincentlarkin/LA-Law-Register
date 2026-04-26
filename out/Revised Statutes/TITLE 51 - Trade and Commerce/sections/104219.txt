@@ -1,7 +1,0 @@
-RS 51:1965
-Display of terms of license agreement
-https://www.legis.la.gov/legis/Law.aspx?d=104219
-
-§1965.  Display of terms of license agreement
-In order to be deemed accepted pursuant to R.S. 51:1963, the terms of the accompanying license agreement must be clearly and conspicuously stated in the license agreement in language readily understandable to the person of average literacy, and the license agreement must be attached to or packaged with the copy of the computer software in such a manner that the terms are susceptible to being readily examined before the act which is deemed to constitute acceptance occurs.
-Acts 1984, No. 744, §1.
