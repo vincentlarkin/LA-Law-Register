@@ -15,7 +15,8 @@ Pre-2000 Supreme Court year index: https://law.justia.com/cases/louisiana/suprem
 - Local Louisiana legislative bill histories, final disposition metadata, and extracted act text
 - Per-bundle PDFs with real TOC page numbers
 - Fast local full-text index (`out/index.sqlite`)
-- Desktop GUI for near-live local search
+- API-ready canonical SQLite dataset (`data/bayoulex-content.sqlite`)
+- Public read-only API and fast Windows desktop client scaffolding
 
 Default output root: `out/`
 
@@ -131,6 +132,18 @@ Build/rebuild search index:
 python scripts\build_search_index.py --rebuild
 ```
 
+Build the canonical API/client dataset:
+
+```powershell
+python scripts\build_bayoulex_dataset.py --out out --db data\bayoulex-content.sqlite --dataset-version 20260426
+```
+
+Package offline snapshot chunks:
+
+```powershell
+python scripts\package_offline_snapshot.py --db data\bayoulex-content.sqlite --dataset-version 20260426
+```
+
 CLI search:
 
 ```powershell
@@ -147,6 +160,13 @@ GUI browser:
 
 ```powershell
 python scripts\law_browser_gui.py
+```
+
+C# API and Windows client:
+
+```powershell
+dotnet build src\BayouLex.Api\BayouLex.Api.csproj
+dotnet build src\BayouLex.Client.Windows\BayouLex.Client.Windows.csproj
 ```
 
 Build Windows `.exe` for GUI:

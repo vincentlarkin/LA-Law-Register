@@ -1,0 +1,105 @@
+<Window x:Class="BayouLex.Client.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BayouLex"
+        Icon="Assets/bayoulex-brand.png"
+        Width="1320"
+        Height="840"
+        MinWidth="1040"
+        MinHeight="680"
+        Loaded="Window_Loaded">
+  <Grid Margin="14">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="Auto" />
+    </Grid.RowDefinitions>
+
+    <DockPanel Grid.Row="0" LastChildFill="True" Margin="0,0,0,10">
+      <StackPanel DockPanel.Dock="Right" Orientation="Horizontal">
+        <Button x:Name="RefreshButton" Content="Refresh" Width="90" Margin="8,0,0,0" Click="RefreshButton_Click" />
+        <Button x:Name="OfflineButton" Content="Download Offline" Width="138" Margin="8,0,0,0" Click="OfflineButton_Click" />
+        <Button x:Name="UseOfflineButton" Content="Use Offline" Width="110" Margin="8,0,0,0" Click="UseOfflineButton_Click" />
+      </StackPanel>
+      <StackPanel Orientation="Horizontal">
+        <TextBlock Text="API" VerticalAlignment="Center" FontWeight="SemiBold" Margin="0,0,8,0" />
+        <TextBox x:Name="ApiBaseTextBox" Width="360" Text="https://api.ladf.us/bayoulex/v1/" />
+        <TextBlock x:Name="ModeTextBlock" VerticalAlignment="Center" Margin="16,0,0,0" Foreground="{StaticResource AccentBrush}" FontWeight="SemiBold" />
+      </StackPanel>
+    </DockPanel>
+
+    <Grid Grid.Row="1" Margin="0,0,0,10">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="240" />
+        <ColumnDefinition Width="110" />
+      </Grid.ColumnDefinitions>
+      <TextBox x:Name="SearchTextBox"
+               Grid.Column="0"
+               Height="32"
+               VerticalContentAlignment="Center"
+               TextChanged="SearchTextBox_TextChanged"
+               ToolTip="Search BayouLex" />
+      <ComboBox x:Name="CategoryComboBox"
+                Grid.Column="1"
+                Margin="8,0,0,0"
+                Height="32"
+                SelectionChanged="CategoryComboBox_SelectionChanged" />
+      <ComboBox x:Name="LimitComboBox"
+                Grid.Column="2"
+                Margin="8,0,0,0"
+                Height="32"
+                SelectionChanged="LimitComboBox_SelectionChanged" />
+    </Grid>
+
+    <Grid Grid.Row="2">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="2*" />
+        <ColumnDefinition Width="12" />
+        <ColumnDefinition Width="3*" />
+      </Grid.ColumnDefinitions>
+
+      <ListView x:Name="ResultsListView"
+                Grid.Column="0"
+                ItemsSource="{Binding Results}"
+                SelectionChanged="ResultsListView_SelectionChanged"
+                VirtualizingPanel.IsVirtualizing="True"
+                VirtualizingPanel.VirtualizationMode="Recycling"
+                ScrollViewer.IsDeferredScrollingEnabled="True">
+        <ListView.View>
+          <GridView>
+            <GridViewColumn Header="Citation" Width="130" DisplayMemberBinding="{Binding Citation}" />
+            <GridViewColumn Header="Title" Width="290" DisplayMemberBinding="{Binding Title}" />
+            <GridViewColumn Header="Category" Width="180" DisplayMemberBinding="{Binding Category}" />
+            <GridViewColumn Header="Status" Width="120" DisplayMemberBinding="{Binding StatusLabel}" />
+          </GridView>
+        </ListView.View>
+      </ListView>
+
+      <GridSplitter Grid.Column="1" Width="12" HorizontalAlignment="Stretch" />
+
+      <Grid Grid.Column="2">
+        <Grid.RowDefinitions>
+          <RowDefinition Height="Auto" />
+          <RowDefinition Height="Auto" />
+          <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="DetailTitleTextBlock" FontWeight="SemiBold" TextWrapping="Wrap" Margin="0,0,0,8" />
+        <TextBox x:Name="DetailUrlTextBox" Grid.Row="1" IsReadOnly="True" Margin="0,0,0,8" />
+        <TextBox x:Name="DetailTextBox"
+                 Grid.Row="2"
+                 IsReadOnly="True"
+                 TextWrapping="Wrap"
+                 AcceptsReturn="True"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Disabled" />
+      </Grid>
+    </Grid>
+
+    <DockPanel Grid.Row="3" LastChildFill="True" Margin="0,10,0,0">
+      <ProgressBar x:Name="ProgressBar" DockPanel.Dock="Right" Width="240" Height="18" Minimum="0" Maximum="100" Visibility="Collapsed" />
+      <TextBlock x:Name="StatusTextBlock" VerticalAlignment="Center" />
+    </DockPanel>
+  </Grid>
+</Window>

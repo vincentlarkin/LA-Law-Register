@@ -1,9 +1,0 @@
-RS 10:9-329
-Priority of security interests in letter-of-credit right
-https://www.legis.la.gov/legis/Law.aspx?d=74430
-
-§9-329.  Priority of security interests in letter-of-credit right
-The following rules govern priority among conflicting security interests in the same letter-of-credit right:
-(1)  A security interest held by a secured party having control of the letter-of-credit right under R.S. 10:9-107 has priority to the extent of its control over a conflicting security interest held by a secured party that does not have control.
-(2)  Security interests perfected by control under R.S. 10:9-314 rank according to priority in time of obtaining control.
-Acts 2001, No. 128, §1, eff. July 1, 2001.

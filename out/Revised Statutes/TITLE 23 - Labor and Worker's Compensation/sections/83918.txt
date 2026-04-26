@@ -1,9 +1,0 @@
-RS 23:485
-Maximum hours
-https://www.legis.la.gov/legis/Law.aspx?d=83918
-
-§485.  Maximum hours
-The maximum total hours in twenty-four that one may work in compressed air shall be as follows:
-Normal to a pressure of eighteen pounds per square inch, eight hours; eighteen pounds to twenty-six pounds, six hours; twenty-six pounds to thirty-three pounds, four hours; thirty-three pounds to thirty-eight pounds, three hours; thirty-eight pounds to forty-three pounds, two hours; forty-three pounds to forty-eight pounds, one and one-half hours; forty-eight pounds to fifty pounds, one hour.
-The maximum hours that a workman may be kept in compressed air during a shift are as follows:
-Normal to a pressure of eighteen pounds per square inch, eighteen pounds to twenty-six pounds, three hours; twenty-six pounds to thirty-three pounds, two hours; thirty-three pounds to thirty-eight pounds, one and one-half hours; thirty-eight pounds to forty-three pounds, one hour; forty-three pounds to forty-eight pounds, forty-five minutes; forty-eight pounds to fifty pounds, thirty minutes.
