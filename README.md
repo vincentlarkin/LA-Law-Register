@@ -30,6 +30,21 @@ Notes:
 - Uses Playwright with installed Edge (`msedge`).
 - PDF page-number scan prefers `pymupdf` and falls back to `pypdf`.
 
+## Simple Compendium Menu
+
+Normal use should start here:
+
+```powershell
+python scripts\bayoulex_compendium.py
+```
+
+The menu can download all supported content, download one source group, build
+the legacy local index, build the canonical API/client SQLite dataset, package
+offline chunks, run a local API smoke server, launch the C# Windows client, and
+launch the legacy Python GUIs while they are being phased out.
+
+For the plain-English API/client flow, see [docs/QUICKSTART.md](docs/QUICKSTART.md).
+
 ## Scripts
 
 - `scripts/download_louisiana_laws.py`
@@ -62,6 +77,9 @@ Notes:
 - `scripts/dev/test_toc_postback.py`
   - Small dev test for TOC postback behavior.
 
+The individual scripts above are implementation tools. For normal compendium
+operation, prefer `scripts/bayoulex_compendium.py`.
+
 ## Project Layout
 
 - `scripts/` - downloader, indexer, CLI search, GUI search, and dev helper scripts.
@@ -71,6 +89,9 @@ Notes:
 - `.gitignore` - ignores generated caches/test artifacts and Python cache files.
 
 ## Common Commands
+
+You usually do not need these. They are the lower-level tools that the
+compendium menu runs for you.
 
 Download default (Revised Statutes):
 
@@ -168,6 +189,15 @@ C# API and Windows client:
 dotnet build src\BayouLex.Api\BayouLex.Api.csproj
 dotnet build src\BayouLex.Client.Windows\BayouLex.Client.Windows.csproj
 ```
+
+Local smoke test:
+
+```powershell
+python scripts\bayoulex_compendium.py
+```
+
+Choose `Run local API smoke server`, then open another terminal and choose
+`Run C# Windows client`.
 
 Build Windows `.exe` for GUI:
 

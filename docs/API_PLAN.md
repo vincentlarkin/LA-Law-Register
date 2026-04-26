@@ -5,6 +5,7 @@
 - Keep all existing content safe: preserve `legacy`, avoid history rewrites, and validate the new dataset before removing generated `out/` files from `main`.
 - Use `api.ladf.us` through the existing Cloudflare Tunnel -> NGINX -> BayouLex API container.
 - Replace the slow Python GUI path with a C# Windows desktop client that is API-first and supports optional offline SQLite download.
+- Normal human operation should go through `python scripts\bayoulex_compendium.py`, not a pile of command-line flags.
 
 ## Data + API
 

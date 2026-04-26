@@ -19,7 +19,7 @@
     <DockPanel Grid.Row="0" LastChildFill="True" Margin="0,0,0,10">
       <StackPanel DockPanel.Dock="Right" Orientation="Horizontal">
         <Button x:Name="RefreshButton" Content="Refresh" Width="90" Margin="8,0,0,0" Click="RefreshButton_Click" />
-        <Button x:Name="OfflineButton" Content="Download Offline" Width="138" Margin="8,0,0,0" Click="OfflineButton_Click" />
+        <Button x:Name="OfflineButton" Content="Download Data for Offline" Width="210" Margin="8,0,0,0" Click="OfflineButton_Click" />
         <Button x:Name="UseOfflineButton" Content="Use Offline" Width="110" Margin="8,0,0,0" Click="UseOfflineButton_Click" />
       </StackPanel>
       <StackPanel Orientation="Horizontal">
