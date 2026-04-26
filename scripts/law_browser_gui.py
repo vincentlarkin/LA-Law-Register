@@ -22,7 +22,7 @@ import sys
 from pathlib import Path
 
 from PySide6.QtCore import Qt, QUrl
-from PySide6.QtGui import QColor, QDesktopServices, QFont, QTextOption
+from PySide6.QtGui import QColor, QDesktopServices, QFont, QIcon, QTextOption
 from PySide6.QtWidgets import (
     QAbstractItemView,
     QApplication,
@@ -72,6 +72,12 @@ SECTION_CONSTITUTION = "Constitution"
 SECTION_CASES = "Court Decisions"
 SECTION_RULES = "Legislative Rules"
 SECTION_OTHER = "Other"
+_APP_ICON = "assets/branding/bayoulex-brand.png"
+
+
+def _resource_path(relative_path: str) -> Path:
+    base_path = Path(getattr(sys, "_MEIPASS", Path(__file__).resolve().parents[1]))
+    return base_path / relative_path
 
 BILL_STATUS_OPTIONS = [
     ("All statuses", ""),
@@ -1119,7 +1125,7 @@ class InfoDialog(QDialog):
         browser.setOpenExternalLinks(True)
         browser.setHtml(
             """
-            <h2 style="margin-bottom:8px;">LA Law Browser</h2>
+            <h2 style="margin-bottom:8px;">BayouLex Browser</h2>
             <p style="margin-top:0;">
               Browse the locally indexed Louisiana law library by category, bundle, and document.
             </p>
@@ -1154,7 +1160,8 @@ class LawBrowserWindow(QMainWindow):
 
     def __init__(self, db_path: str) -> None:
         super().__init__()
-        self.setWindowTitle("LA Law Browser")
+        self.setWindowTitle("BayouLex Browser")
+        self.setWindowIcon(QIcon(str(_resource_path(_APP_ICON))))
         self.resize(1600, 950)
 
         self._db_path = db_path

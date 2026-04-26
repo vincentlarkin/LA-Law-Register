@@ -24,7 +24,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from PySide6.QtCore import QThread, QTimer, Qt, QUrl, Signal
-from PySide6.QtGui import QColor, QDesktopServices, QTextCharFormat, QTextCursor
+from PySide6.QtGui import QColor, QDesktopServices, QIcon, QTextCharFormat, QTextCursor
 from PySide6.QtWidgets import (
     QApplication,
     QCheckBox,
@@ -57,6 +57,13 @@ from PySide6.QtWidgets import (
 _LIVE_PREFIX_MIN_CHARS = 3
 _LIVE_DEBOUNCE_MS = 70
 _SEARCH_CACHE_MAX_ENTRIES = 256
+_APP_NAME = "BayouLex"
+_APP_ICON = "assets/branding/bayoulex-brand.png"
+
+
+def _resource_path(relative_path: str) -> Path:
+    base_path = Path(getattr(sys, "_MEIPASS", Path(__file__).resolve().parents[1]))
+    return base_path / relative_path
 
 
 @dataclass
@@ -322,7 +329,7 @@ class InfoDialog(QDialog):
         browser.setOpenExternalLinks(True)
         browser.setHtml(
             """
-            <h2 style="margin-bottom:8px;">LA Law Register</h2>
+            <h2 style="margin-bottom:8px;">BayouLex</h2>
             <p style="margin-top:0;">
               Offline Louisiana legal research workspace for local full-text search.
             </p>
@@ -374,7 +381,8 @@ class SearchWindow(QMainWindow):
 
     def __init__(self, db_path: str) -> None:
         super().__init__()
-        self.setWindowTitle("LA Law Register")
+        self.setWindowTitle(_APP_NAME)
+        self.setWindowIcon(QIcon(str(_resource_path(_APP_ICON))))
         self.resize(1500, 900)
 
         self._request_counter = 0

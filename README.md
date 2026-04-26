@@ -1,6 +1,8 @@
-# LA Law Register
+# BayouLex
 
-Offline Louisiana law downloader + search tools.
+Offline Louisiana legal research downloader, browser, and search tools.
+
+![BayouLex brand image](assets/branding/bayoulex-brand.png)
 
 Source TOC: https://www.legis.la.gov/legis/LawsContents.aspx
 Official Supreme Court opinions archive: https://www.lasc.org/CourtActions/2026
@@ -151,10 +153,10 @@ Build Windows `.exe` for GUI:
 
 ```powershell
 python -m pip install pyinstaller
-python -m PyInstaller --noconfirm --clean --windowed --onefile --name LA-Law-Search scripts\search_laws_gui.py
+python -m PyInstaller --noconfirm --clean --windowed --onefile --name BayouLex --add-data "assets\branding\bayoulex-brand.png;assets\branding" scripts\search_laws_gui.py
 ```
 
-Output: `dist\LA-Law-Search.exe`
+Output: `dist\BayouLex.exe`
 
 Raw text search without SQLite:
 
