@@ -27,6 +27,7 @@
 - Use the C# WPF desktop app as the GUI replacement.
 - Default mode: API search/detail through `api.ladf.us`.
 - Optional offline mode: download/reassemble SQLite snapshot, then search locally without requiring the API.
+- Connection and offline controls belong in a settings surface, not in the main research pane.
 - UI must never run network, SQLite, full-text formatting, hash verification, or file I/O on the UI thread.
 - Use async services with cancellation:
   - cancel stale searches as the user types;

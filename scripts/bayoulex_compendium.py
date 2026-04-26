@@ -123,6 +123,26 @@ def _download_from_source() -> None:
             return
 
 
+def _build_offline_package() -> None:
+    if not DEFAULT_DATASET.exists():
+        print("\nNo API dataset found yet.")
+        print("Choose 'Download from source and build API data' first.")
+        return
+
+    version = _dataset_version()
+    _run(
+        "Build offline package from current API dataset",
+        [
+            PYTHON,
+            "scripts/package_offline_snapshot.py",
+            "--db",
+            str(DEFAULT_DATASET.relative_to(ROOT)),
+            "--dataset-version",
+            version,
+        ],
+    )
+
+
 def _read_json(url: str) -> dict[str, Any]:
     request = urllib.request.Request(url, headers={"User-Agent": "BayouLex-Compendium/1.0"})
     with urllib.request.urlopen(request, timeout=30) as response:
@@ -252,7 +272,11 @@ BayouLex MVP flow
    Opens the new API-first desktop app. It searches through the API by default.
    Its "Download Data for Offline" button pulls offline chunks from the API.
 
-4. Download from API
+4. Build offline package
+   Creates data/offline/<version>/ from the current SQLite dataset. This is what
+   lets the API serve offline downloads to the Windows app.
+
+5. Download from API
    Tests the offline package route directly from this console by downloading and
    verifying API chunks into data/api-downloads/.
 """
@@ -266,6 +290,8 @@ def _status() -> None:
     print(f"Offline chunks:  {'present' if DEFAULT_OFFLINE_ROOT.exists() else 'missing'}  {DEFAULT_OFFLINE_ROOT}")
     print(f"API project:     present  {ROOT / 'src' / 'BayouLex.Api'}")
     print(f"Windows client:  present  {ROOT / 'src' / 'BayouLex.Client.Windows'}")
+    if DEFAULT_DATASET.exists() and not DEFAULT_OFFLINE_ROOT.exists():
+        print("\nOffline chunks are optional. Choose option 2 to create them from the current dataset.")
     print("\nLegacy Python GUI/search files are intentionally not part of this branch.")
 
 
@@ -274,12 +300,13 @@ def main() -> int:
         print("\nBayouLex Compendium")
         print("===================")
         print("1. Download from source and build API data")
-        print("2. Download offline data from API")
-        print("3. Run local API smoke server")
-        print("4. Run C# Windows client")
-        print("5. Explain API flow")
-        print("6. Show status")
-        print("7. Exit")
+        print("2. Build offline package from current dataset")
+        print("3. Download offline data from API")
+        print("4. Run local API smoke server")
+        print("5. Run C# Windows client")
+        print("6. Explain API flow")
+        print("7. Show status")
+        print("8. Exit")
         choice = input("\nChoose: ").strip()
 
         try:
@@ -287,24 +314,27 @@ def main() -> int:
                 _download_from_source()
                 _pause()
             elif choice == "2":
-                _download_from_api()
+                _build_offline_package()
                 _pause()
             elif choice == "3":
-                _run_api_smoke()
+                _download_from_api()
                 _pause()
             elif choice == "4":
-                _run_windows_client()
+                _run_api_smoke()
                 _pause()
             elif choice == "5":
-                _explain()
+                _run_windows_client()
                 _pause()
             elif choice == "6":
-                _status()
+                _explain()
                 _pause()
             elif choice == "7":
+                _status()
+                _pause()
+            elif choice == "8":
                 return 0
             else:
-                print("Choose a number from 1 to 7.")
+                print("Choose a number from 1 to 8.")
         except KeyboardInterrupt:
             print("\nCanceled. Back at the main menu.")
 

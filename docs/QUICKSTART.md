@@ -8,8 +8,9 @@ Use the compendium menu instead of remembering script flags:
 python scripts\bayoulex_compendium.py
 ```
 
-From there you can download/build from source, download offline chunks from an
-API, run a local API smoke server, and launch the C# Windows client.
+From there you can download/build from source, package offline chunks from the
+current dataset, download offline chunks from an API, run a local API smoke
+server, and launch the C# Windows client.
 
 The legacy Python GUI/search tools are intentionally not on this refactor
 branch. They are preserved on the pushed `legacy` branch.
@@ -31,6 +32,25 @@ The data flow is:
 
 So the API serves a prepared dataset. It is not continuously changing the
 content in the background.
+
+## What Offline Adds
+
+Offline chunks do not add more legal content. They are a downloadable copy of
+the same SQLite dataset, split into verified pieces so the Windows app can keep
+working later without the API server.
+
+If `data/bayoulex-content.sqlite` exists but `data/offline/` is missing, you can
+still run the API and search through the C# app. You only need offline chunks
+when testing `Download Data for Offline` or serving offline downloads from
+`api.ladf.us`.
+
+To create chunks from the dataset you already have:
+
+```powershell
+python scripts\bayoulex_compendium.py
+```
+
+Choose `Build offline package from current dataset`.
 
 ## Does The API Run Continuously?
 
@@ -63,13 +83,13 @@ python scripts\bayoulex_compendium.py
 
 Choose `Run C# Windows client`.
 
-In the app, set the API box to:
+In the app, open `Settings`, set the API base URL to:
 
 ```text
 http://127.0.0.1:5087/bayoulex/v1/
 ```
 
-Click `Refresh`, then search. The `Download Data for Offline` button downloads
+Click `Connect`, then search. The `Download Data for Offline` button downloads
 the chunked offline SQLite snapshot when the API has an offline manifest
 available.
 

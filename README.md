@@ -38,8 +38,9 @@ python scripts\bayoulex_compendium.py
 ```
 
 The menu can download from official sources, build the canonical API/client
-SQLite dataset, package offline chunks, test offline download from an API, run a
-local API smoke server, and launch the C# Windows client.
+SQLite dataset, package offline chunks from an existing dataset, test offline
+download from an API, run a local API smoke server, and launch the C# Windows
+client.
 
 For the plain-English API/client flow, see [docs/QUICKSTART.md](docs/QUICKSTART.md).
 

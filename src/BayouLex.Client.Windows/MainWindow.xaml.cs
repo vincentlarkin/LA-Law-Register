@@ -19,6 +19,7 @@ public partial class MainWindow : Window
     private CancellationTokenSource? _detailCts;
     private BayouLexInitResponse? _init;
     private bool _useOffline;
+    private bool _settingsOpen;
 
     public ObservableCollection<SearchResultDto> Results { get; } = [];
 
@@ -76,11 +77,13 @@ public partial class MainWindow : Window
             CategoryComboBox.ItemsSource = categories;
             CategoryComboBox.SelectedIndex = 0;
             _useOffline = false;
-            ModeTextBlock.Text = $"API mode | dataset {_init?.DatasetVersion ?? "unknown"}";
+            ModeTextBlock.Text = "API mode";
+            DatasetTextBlock.Text = $"Dataset {_init?.DatasetVersion ?? "unknown"}";
             SetReady("Ready");
         }
         catch (Exception ex)
         {
+            DatasetTextBlock.Text = "Dataset unavailable";
             SetReady($"API unavailable: {ex.Message}");
         }
     }
@@ -92,6 +95,9 @@ public partial class MainWindow : Window
         {
             Results.Clear();
             DetailTextBox.Text = "";
+            DetailTitleTextBlock.Text = "";
+            DetailUrlTextBox.Text = "";
+            ResultCountTextBlock.Text = "";
             StatusTextBlock.Text = "Type at least 3 characters.";
             return;
         }
@@ -134,6 +140,7 @@ public partial class MainWindow : Window
             {
                 Results.Add(row);
             }
+            ResultCountTextBlock.Text = $"{Results.Count:n0}";
             SetReady($"{Results.Count} result(s)");
         }
         catch (OperationCanceledException)
@@ -227,8 +234,10 @@ public partial class MainWindow : Window
             var dbPath = await downloader.DownloadAsync(_init.DatasetVersion, progress, CancellationToken.None);
             _offlineSearch = new LocalSqliteSearchService(dbPath);
             _useOffline = true;
-            ModeTextBlock.Text = $"Offline mode | dataset {_init.DatasetVersion}";
+            ModeTextBlock.Text = "Offline mode";
+            DatasetTextBlock.Text = $"Dataset {_init.DatasetVersion}";
             SetReady($"Offline dataset ready: {dbPath}");
+            await RunSearchAsync();
         }
         catch (Exception ex)
         {
@@ -248,6 +257,7 @@ public partial class MainWindow : Window
             _offlineSearch = new LocalSqliteSearchService(dbPath);
             _useOffline = true;
             ModeTextBlock.Text = "Offline mode";
+            DatasetTextBlock.Text = "Local offline dataset";
             SetReady($"Using offline dataset: {dbPath}");
             await RunSearchAsync();
         }
@@ -265,5 +275,28 @@ public partial class MainWindow : Window
     private void SetReady(string message)
     {
         StatusTextBlock.Text = message;
+    }
+
+    private void SettingsButton_Click(object sender, RoutedEventArgs e)
+    {
+        SetSettingsOpen(!_settingsOpen);
+    }
+
+    private void CloseSettingsButton_Click(object sender, RoutedEventArgs e)
+    {
+        SetSettingsOpen(false);
+    }
+
+    private async void ResetLocalApiButton_Click(object sender, RoutedEventArgs e)
+    {
+        ApiBaseTextBox.Text = "http://127.0.0.1:5087/bayoulex/v1/";
+        await RefreshApiAsync();
+    }
+
+    private void SetSettingsOpen(bool open)
+    {
+        _settingsOpen = open;
+        SettingsPanel.Visibility = open ? Visibility.Visible : Visibility.Collapsed;
+        SettingsColumn.Width = open ? new GridLength(360) : new GridLength(0);
     }
 }
